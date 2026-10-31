@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 251；**章节数**: 3；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -13,10 +13,25 @@
 - [02. 04:00–07:59 · 教会、复兴与信仰](#section-02)
 - [03. 08:00–10:18 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-03)
 
+## 全片概述与 Key Points
+
+全片共 3 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:36](https://www.youtube.com/watch?v=lPDGy3ViZLc&t=36s) · 他描述所见**：All right. Oh, hello. I see everybody. I see him in the chat. I was going to tell y'all I am standing right now at the location during the eclipse where at full where it will be full here right now, I guess, in in Oklahoma. But I'm standing at the temple where they will
+- **[05:00](https://www.youtube.com/watch?v=lPDGy3ViZLc&t=300s) · 本段原话**：are in the end times. We're right there. You can feel it, you know. I mean, even my little girl can feel it. But I don't know. It's kind of cool. But I just I wasn't going to make it a long video. I just wanted to tell y'all Jesus loves you. He wants the best. 800 people
+- **[08:15](https://www.youtube.com/watch?v=lPDGy3ViZLc&t=495s) · 他转述所听到的话**：I'm working hard at it. Eating right and exercising every day. Yeah. I just got to do what the Lord told me to do. He said, Brandon, you I put a mandate on you to get 100 pounds off. And whenever the Lord tells you something, he talks to me like that. I I'm going to do what
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:36](https://www.youtube.com/watch?v=lPDGy3ViZLc&t=36s) · 他描述所见**：All right. Oh, hello. I see everybody. I see him in the chat. I was going to tell y'all I am standing right now at the location during the eclipse where at full where it will be full here right now, I guess, in in Oklahoma. But I'm standing at the temple where they will
+- **[00:51](https://www.youtube.com/watch?v=lPDGy3ViZLc&t=51s) · 他表达判断**：worship the Antichrist one day. And I'm telling y'all, it's coming. I believe with all my heart, Jesus Christ is coming. and he's coming soon. Is this a sign for Israel? No. This is a sign for America to repent. I believe with all my heart we're seeing a major opportunity for America to turn from its wicked ways
+- **[02:31](https://www.youtube.com/watch?v=lPDGy3ViZLc&t=151s) · 本段原话**：Today is your day of repentance. You can do it. You can turn from your wicked ways and make Jesus your Lord and Savior. Don't be one of the people that's going to one day be in this field worshiping the Antichrist because there's going to be a time it's going to happen. And I'm telling you, I've seen
+- **[03:35](https://www.youtube.com/watch?v=lPDGy3ViZLc&t=215s) · 本段原话**：All right. Right there. Yeah. There you go. You kind of see it. Such a creepy building, isn't it? Yeah, you know, the people have no idea what's coming. A lot of people don't. It just it freaks me out. I mean, clear to the curbs, y'all. They come from all around these towns. And um they're all on a
 
 ### 完整英文 Transcript
 
@@ -117,7 +132,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 提到的地点：Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:00](https://www.youtube.com/watch?v=lPDGy3ViZLc&t=300s) · 本段原话**：are in the end times. We're right there. You can feel it, you know. I mean, even my little girl can feel it. But I don't know. It's kind of cool. But I just I wasn't going to make it a long video. I just wanted to tell y'all Jesus loves you. He wants the best. 800 people
+- **[06:16](https://www.youtube.com/watch?v=lPDGy3ViZLc&t=376s) · 他表达判断**：the church. I believe it will be a revival that doesn't last a long time like uh Isuza Street I believe last like three or four years. I don't remember exactly but uh but this revival will last uh probably for what I what I perceived whenever I was with Jesus when I could see over into the revival that
+- **[06:36](https://www.youtube.com/watch?v=lPDGy3ViZLc&t=396s) · 他表达判断**：it was only probably close to um 6 months at the most. I mean, I'm just saying. And people were getting healed and saved by the thousands before he came. And so, um, we're right there. I believe we're going to see that revival soon, you know, and uh hopefully get a whole bunch of people
+- **[07:29](https://www.youtube.com/watch?v=lPDGy3ViZLc&t=449s) · 本段原话**：um it's one of the first one of the largest ones in America. Um is where this is at. It was the original capital of Oklahoma before they stole the seal and took it to Oklahoma City where it's at now. It was going to be Oklahoma City. This was going to be Oklahoma City. But I just thought it was
 
 ### 完整英文 Transcript
 
@@ -226,7 +248,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–10:18 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:15](https://www.youtube.com/watch?v=lPDGy3ViZLc&t=495s) · 他转述所听到的话**：I'm working hard at it. Eating right and exercising every day. Yeah. I just got to do what the Lord told me to do. He said, Brandon, you I put a mandate on you to get 100 pounds off. And whenever the Lord tells you something, he talks to me like that. I I'm going to do what
+- **[08:29](https://www.youtube.com/watch?v=lPDGy3ViZLc&t=509s) · 他描述所见**：he says because I know what's coming. I saw the 350 million people pass. I saw them and um tents full of people for the plague that's coming. 30 million people will pay perish in America alone. And and it's and I'm telling you it's linked to obesity and it's linked to um diabetes and heart disease and things
+- **[08:50](https://www.youtube.com/watch?v=lPDGy3ViZLc&t=530s) · 他表达判断**：like that. I didn't have any of those things, but the Lord was warning me for a reason. He said, "You got to live long and finish strong, Brennan. I don't I I can't you can't be obese no more." And so, um, I believe it's a it's it's a wakeup call for things that are coming,
+- **[09:05](https://www.youtube.com/watch?v=lPDGy3ViZLc&t=545s) · 本段原话**：you know, but I really appreciate all the comments. Everybody's always being really kind about my weight. It's it's been a lot of work. I've worked really hard at it uh over the last uh 3 months now. And um I'm down 55 lbs, almost 60 lb. It's it's coming off a little slower than what it was at the beginning, but
 
 ### 完整英文 Transcript
 

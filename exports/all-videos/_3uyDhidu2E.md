@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 890；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 32:00–35:59 · 教会、复兴与信仰、预言、梦境与异象](#section-09)
 - [10. 36:00–39:10 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:17](https://www.youtube.com/watch?v=_3uyDhidu2E&t=17s) · 本段原话**：path for a path to clear a road to lay everything is so important in the spirit realm right now I have such an urgency Dian and I both do we y'all get I I want you to visualize what he was saying yesterday was acting like it's already done I want you for your Miracle what
+- **[08:01](https://www.youtube.com/watch?v=_3uyDhidu2E&t=481s) · 本段原话**：and worship keeping your heart right and saying hun we're going to walk in love Love's working in our house I'm honoring her she's honoring me we're working this thing out and we're we're we're marching up the prayer ladder and and I want impartation I want I want not only do I want impartation from the Holy Spirit
+- **[16:02](https://www.youtube.com/watch?v=_3uyDhidu2E&t=962s) · 本段原话**：it's like a marriage it's a dance if you have another person and you're dancing with them their feet ain't moving that's not much of a dance but a dance is you lead I follow but but he's going to talk M spirit-led prayers we're speaking Spirits we're be being filled on a daily basis and as we're doing that he is he
+- **[20:01](https://www.youtube.com/watch?v=_3uyDhidu2E&t=1201s) · 本段原话**：ultimate voice is a wonderful book by Earl Roberts and just like he says in at the end of every chapter when I read it it says so listen listen again listen today MH so listen listen again listen today I am not going to go he's always speaking yeah and he doesn't speak just to hear
+- **[28:01](https://www.youtube.com/watch?v=_3uyDhidu2E&t=1681s) · 本段原话**：for the blood we make much of the blood and the blood makes much of us as we enter in to this last full weekend this last full weekend father of of of March Lord we're so grateful we're so grateful for this month we're so grateful for the provisions we're thankful father for all that you've
+- **[36:43](https://www.youtube.com/watch?v=_3uyDhidu2E&t=2203s) · 本段原话**：everything that comes right beautiful what does that I mean that that's so out there huh it's awesome how much he loves us and it's a I don't know when I take that communion when I when I do that just makes you go thank you thank you just for real not it doesn't seem enough a go love it doesn't
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:17](https://www.youtube.com/watch?v=_3uyDhidu2E&t=17s) · 本段原话**：path for a path to clear a road to lay everything is so important in the spirit realm right now I have such an urgency Dian and I both do we y'all get I I want you to visualize what he was saying yesterday was acting like it's already done I want you for your Miracle what
+- **[01:46](https://www.youtube.com/watch?v=_3uyDhidu2E&t=106s) · 他讨论新闻或报道**：we're not begging Believers we're believing Believers that that that are believing and realize that the manifestation we're not we're not trying to persuade God to give us something God please please bring my Miracle God please no thank you I'm taking the care and the worry the worry oh God they gave me a bad report oh God they told me that
+- **[02:10](https://www.youtube.com/watch?v=_3uyDhidu2E&t=130s) · 本段原话**：they're going to come and repo our car tomorrow or they're going to well I don't have enough money tomorrow Lord the light bill is due and I need some new pair of shoes or whatever you got all these list of all these things but you got all this care because there's deadline the time the pressure of time
+- **[03:10](https://www.youtube.com/watch?v=_3uyDhidu2E&t=190s) · 本段原话**：God so with Thanksgiving yes so that's what I saying that's what I was saying that's what he was telling me act like you've already got it get into the prayer vein of believing that you've received it before you you've got it and staying in the atmosphere of saying thank you Father I just believe I'm going to
 
 ### 完整英文 Transcript
 
@@ -124,7 +142,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:18](https://www.youtube.com/watch?v=_3uyDhidu2E&t=258s) · 本段原话**：been doing all this that I feel that I should be doing and I'm the the head of the house and I'm taking my authority but right there first Peter 37 37 states that if we don't honor our wives and we don't treat them right that your prayers aren't going to be heard they're going
+- **[05:18](https://www.youtube.com/watch?v=_3uyDhidu2E&t=318s) · 本段原话**：it's all a balance this whole the spirit realm is alive and they and to get things active like an engine it's a perfect example like an engine you've got all the Pistons you got all the stuff firing you've got the fan belt you've got all of it going but if one thing is off that car is not going to go
+- **[06:16](https://www.youtube.com/watch?v=_3uyDhidu2E&t=376s) · 本段原话**：the spirit realm run at 100 miles hour so that we're doing it full force and we're not having these delayed responses where we go through life and go what gives because the other part is Faith Works by love and if you're not walking in love you're not going to get your blessing what you're what you're
+- **[07:39](https://www.youtube.com/watch?v=_3uyDhidu2E&t=459s) · 本段原话**：equilibrium it's all a balance getting it in motion so that you're making this thing the the prayer machine work is what I want to call it the prayer engine the prayer engine how do we make this prayer engine work more praise more Thanksgiving more glory to God more more honoring him and lifting up holy hands
 
 ### 完整英文 Transcript
 
@@ -230,7 +255,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=_3uyDhidu2E&t=481s) · 本段原话**：and worship keeping your heart right and saying hun we're going to walk in love Love's working in our house I'm honoring her she's honoring me we're working this thing out and we're we're we're marching up the prayer ladder and and I want impartation I want I want not only do I want impartation from the Holy Spirit
+- **[09:05](https://www.youtube.com/watch?v=_3uyDhidu2E&t=545s) · 本段原话**：little thing off of this and it changes your life forever then we've done our job I feel like if I can help you to get you higher in your prayer and you saying listen this is what changes things whenever I've got I'm telling you when the care of Life tries to choke you
+- **[10:55](https://www.youtube.com/watch?v=_3uyDhidu2E&t=655s) · 本段原话**：over there and this thing's going to run now instead of keeping going down keep going down the same road expecting different results and never getting it and going why is my life so messed up it's frustrating and there's not a lot of people out there teaching people that they're not and so you you learn by
+- **[11:18](https://www.youtube.com/watch?v=_3uyDhidu2E&t=678s) · 本段原话**：trial and error there a lot of what we've done and by listening to brother Hagen you you go through the life's emotions and you go God help me I need you Holy Spirit and I can't do this without you and I and I'm not going to it's like whenever tonight he he he
 
 ### 完整英文 Transcript
 
@@ -327,7 +359,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:36](https://www.youtube.com/watch?v=_3uyDhidu2E&t=756s) · 本段原话**：struggle with with this when you get older I do that a lot I say hey let me give you put this in your phone never forget this when you get to my age this will help you don't learn it now learn it now bra Braden so when you get older you're not going to have to deal with
+- **[13:31](https://www.youtube.com/watch?v=_3uyDhidu2E&t=811s) · 本段原话**：the month of April father is almost here are you anticipating something big in April wait May is almost here I'm I'm going to anticipate something huge in may wait tomorrow is almost here you know what I'm saying just always having that have waking up with the attitude of expectation I am expecting God to show
+- **[14:58](https://www.youtube.com/watch?v=_3uyDhidu2E&t=898s) · 他描述所见**：something that I won't say say to you and it's for private for us but cuz there's some things that he tells us on here that I don't say everything I see I keep it between us and so that's for direction for us but I just believe God's going to say something as you pray you he'll say
+- **[15:40](https://www.youtube.com/watch?v=_3uyDhidu2E&t=940s) · 他转述所听到的话**：like this all the time and she kept talking to me and she go did you hear anything I said we keep our spiritual ears open you go and after a while you go yeah I heard everything you said but why didn't she say something that's exactly where the Lord is he's going to talk
 
 ### 完整英文 Transcript
 
@@ -428,7 +467,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:02](https://www.youtube.com/watch?v=_3uyDhidu2E&t=962s) · 本段原话**：it's like a marriage it's a dance if you have another person and you're dancing with them their feet ain't moving that's not much of a dance but a dance is you lead I follow but but he's going to talk M spirit-led prayers we're speaking Spirits we're be being filled on a daily basis and as we're doing that he is he
+- **[17:19](https://www.youtube.com/watch?v=_3uyDhidu2E&t=1039s) · 本段原话**：time God speaks to me and I hear him he speaks to me not I don't hear God I never hear God I don't ever God has never spoken to me I don't think you ever wants to speak to me no you you have what you say life and death is in the power of
+- **[18:34](https://www.youtube.com/watch?v=_3uyDhidu2E&t=1114s) · 本段原话**：familiar Spirit no demonic voice no no familiar spirit's going to come by and try to whisper in my ear an angel of Light because they're not my father because they're not my father that's exactly right I only hear my father's voice I won't hear them and he knows me why why huh that's right that's why
+- **[19:48](https://www.youtube.com/watch?v=_3uyDhidu2E&t=1188s) · 他转述所听到的话**：God does not bring torment well I heard the Lord and I'm scared spitless I can't even go to the store cuz I'm so scared of what God Said that ain't God God brings peace peace God brings Joy the
 
 ### 完整英文 Transcript
 
@@ -531,7 +577,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、物资、能源与供应链展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=_3uyDhidu2E&t=1201s) · 本段原话**：ultimate voice is a wonderful book by Earl Roberts and just like he says in at the end of every chapter when I read it it says so listen listen again listen today MH so listen listen again listen today I am not going to go he's always speaking yeah and he doesn't speak just to hear
+- **[20:44](https://www.youtube.com/watch?v=_3uyDhidu2E&t=1244s) · 本段原话**：him and he's going to talk talk to me and he's going to show me what I need to do to get through this life and do it not just barely get by but to be the head and not the tail above and not beneath to go through and not go under I am going to be victorious in every area
+- **[21:00](https://www.youtube.com/watch?v=_3uyDhidu2E&t=1260s) · 本段原话**：of my life and I will I'm going to go after that Giant's head and I'm going to take that head it's so important it's so important that you live on the victory side of things but being tormented is not God fear has torment fear has torment the Bible says it perfect love casteth out all fear why
+- **[23:05](https://www.youtube.com/watch?v=_3uyDhidu2E&t=1385s) · 本段原话**：speaking yes don't go down that road take a different turn today don't go the same way to work yep and it may not make sense to you but follow it yes practice his presence practice that he may say hey go over here to to this Walmart and don't go to the other Walmart that you
 
 ### 完整英文 Transcript
 
@@ -632,7 +685,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=_3uyDhidu2E&t=1440s) · 本段原话**：anyway no go with that inward peace that's him the Holy Spirit Heavens know never Buck peace if you don't have peace the peace is your umpire peace is the peace is everything follow the peace that passes all understanding follow peace peace will lead you let peace guide you he is the Prince of Peace M he
+- **[25:36](https://www.youtube.com/watch?v=_3uyDhidu2E&t=1536s) · 本段原话**：told me mhm yep I love that it changed me because I'm telling you I always feel like I have to give people an explanation oh no what you know I'm I defend them that's on them I'm following the peace of God not everybody's going to be happy about the decisions you make in life but
+- **[26:34](https://www.youtube.com/watch?v=_3uyDhidu2E&t=1594s) · 本段原话**：[Laughter] TRS well we we we can talk y'all he's like shut up and stop praying Bo so father we just lift up this body right now before you and I thank you Father that you were wounded for our transgressions you were bruised for our iniquities the chastisement of our peace was upon you and with your your stripes
+- **[26:58](https://www.youtube.com/watch?v=_3uyDhidu2E&t=1618s) · 本段原话**：we healed and we thank you Father for what you did for us 2,000 years ago that father that we don't have to sacrifice those animals anymore we don't have to do that because Jesus you are the ultimate sacrifice the lamb slain for the foundation of the world you were slain you took it all and father we're
 
 ### 完整英文 Transcript
 
@@ -733,7 +793,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:01](https://www.youtube.com/watch?v=_3uyDhidu2E&t=1681s) · 本段原话**：for the blood we make much of the blood and the blood makes much of us as we enter in to this last full weekend this last full weekend father of of of March Lord we're so grateful we're so grateful for this month we're so grateful for the provisions we're thankful father for all that you've
+- **[29:08](https://www.youtube.com/watch?v=_3uyDhidu2E&t=1748s) · 本段原话**：by me saying father forgive me forgive me Lord I love you Lord I do the best I can here but I'm asking you for your help Holy Spirit take me from glory to glory to glory and correct me you are the captain of my ship you you are the you are my pilot you are all that I am that you I
+- **[30:19](https://www.youtube.com/watch?v=_3uyDhidu2E&t=1819s) · 本段原话**：muscles and swords and shields and they've got armor on and they're protecting us in the heavenlies they're protecting us right now they're protecting us he gave us he didn't even leave he he gave us a comforter a holy the Holy Spirit our standby our best friend our everything he leads you he guides you
+- **[30:56](https://www.youtube.com/watch?v=_3uyDhidu2E&t=1856s) · 本段原话**：and he loves you he's not up there being a tyrant he could be mean he could be there nothing you could say about it if he was he get up there just beating people well when you get to heaven get get ready because you're going to get a spanking I mean you know
 
 ### 完整英文 Transcript
 
@@ -834,7 +901,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:00](https://www.youtube.com/watch?v=_3uyDhidu2E&t=1920s) · 本段原话**：you're saved through faith nobody can earn it it's a free gift but all it cost him everything it may be free to us but it cost him everything thank you that don't seem sufficient enough does it thank you I seen I I told God the way you love us the way you care for
+- **[33:43](https://www.youtube.com/watch?v=_3uyDhidu2E&t=2023s) · 他表达判断**：whole mile the Lord is just waiting and he's sitting there as he's patient looking and and wooing you saying will they just give me an opportunity will they just let me love him I'm waiting and I think that's amazing he's a gentleman he's a gentleman he's not rude love is not rude it's you know it even said the
+- **[34:13](https://www.youtube.com/watch?v=_3uyDhidu2E&t=2053s) · 本段原话**：Bible says that love love in First Corinthians right the love chapter yeah First Corinthians 13 though I speak with the tongues of men and of angels but have not love I have become sounding brass or a clanging symbol and though I have the gift of Prophecy and understand all Mysteries and all knowledge and
+- **[34:53](https://www.youtube.com/watch?v=_3uyDhidu2E&t=2093s) · 本段原话**：not parade itself is not puffed up does not behave rudely does not seek its own is not provoked thinks no evil does not rejoice in iniquity but rejoices in the truth Bears all things believes all things hopes all things endures all things Love Never Fails Love Never Fails but whether there are prophecies they will fail whether
 
 ### 完整英文 Transcript
 
@@ -930,7 +1004,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:10 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:43](https://www.youtube.com/watch?v=_3uyDhidu2E&t=2203s) · 本段原话**：everything that comes right beautiful what does that I mean that that's so out there huh it's awesome how much he loves us and it's a I don't know when I take that communion when I when I do that just makes you go thank you thank you just for real not it doesn't seem enough a go love it doesn't
+- **[37:30](https://www.youtube.com/watch?v=_3uyDhidu2E&t=2250s) · 本段原话**：to to beat us he has a place for us he's preparing a place for you and me he's preparing a place for us not only that he didn't say you know when you get to heaven I got a shack for you down by that the River of Life and every single one of you all going to live in in a a
+- **[37:47](https://www.youtube.com/watch?v=_3uyDhidu2E&t=2267s) · 本段原话**：little Shack and it's it's going to be rough but I I've got one for you oh he said I made you a mansion I made you a mansion I go really wow with gold streets you go what really you gave me uh whatever I my heart's desires the desires of my heart really that's amazing isn't
+- **[38:57](https://www.youtube.com/watch?v=_3uyDhidu2E&t=2337s) · 本段原话**：of y'all please help us with the algorithm God bless you all and we will see you again tomorrow remember put a smile on your face and a song in your heart Jesus loves you so much and we love you God bless you all and we will see you again tomorrow bye-bye
 
 ### 完整英文 Transcript
 

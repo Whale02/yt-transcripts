@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 883；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 - [09. 32:00–34:56 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:16](https://www.youtube.com/watch?v=D4pRF_325_s&t=16s) · 本段原话**：about our life and and our and how we make things work you know we get a lot of emails of people that are saying my we my marriage is falling apart I'm in shambles here my kids are are backsliding or going to hell my 12-year-old's doing drugs I mean email after email after email and I feel in my
+- **[08:00](https://www.youtube.com/watch?v=D4pRF_325_s&t=480s) · 本段原话**：never early he's never late he's always right on time and like even even provision in like finding like I've always tried to be a proverbs 31 wife to just try to take the resources we have and like make them stretch as far as possible so I would go to garage sales for everything for like you know baby
+- **[12:16](https://www.youtube.com/watch?v=D4pRF_325_s&t=736s) · 本段原话**：hour I'm telling you when you make God priority in your life God will start will he makes you priority it's like it's like he he is he is he is there and ever present help in a time of need God is faithful and I'm saying well you got to keep your marriage strong you got to
+- **[20:17](https://www.youtube.com/watch?v=D4pRF_325_s&t=1217s) · 本段原话**：manifestation of everything that we've ever believed for for Megan to be every single time that Megan is going to be completely restored but what we're saying is what I'm saying is we even put down even for her to be potty trained and she's getting out of that there's we we still have our days that that she
+- **[24:03](https://www.youtube.com/watch?v=D4pRF_325_s&t=1443s) · 本段原话**：we we dat it for a long time and and so the footsteps of the righteous are ordered of the Lord and when you put him first in your life he'll he'll lead and guide you into all things he's going to he'll show you where to go he may tell you to move he may tell you to go here
+- **[32:02](https://www.youtube.com/watch?v=D4pRF_325_s&t=1922s) · 本段原话**：right now in the name of Jesus I call that home that that that that that home filled with children we say in the name of Jesus the the doctor says you can't have babies but you we know the word and they said our Vine will not cast fruit before the time we lay hold to Children
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:16](https://www.youtube.com/watch?v=D4pRF_325_s&t=16s) · 本段原话**：about our life and and our and how we make things work you know we get a lot of emails of people that are saying my we my marriage is falling apart I'm in shambles here my kids are are backsliding or going to hell my 12-year-old's doing drugs I mean email after email after email and I feel in my
+- **[01:28](https://www.youtube.com/watch?v=D4pRF_325_s&t=88s) · 他进行祷告**：daily we take communion daily we pray together every day every day uhhuh we read our Bible we we we listen to the word all the time it it's like so much so that I don't even realize it that I do it even as as the head of the house that I'm always continually praying or
+- **[02:43](https://www.youtube.com/watch?v=D4pRF_325_s&t=163s) · 他转述所听到的话**：our our business selling online just seeking him and the Lord said Brandon I'm going to speak to you every single day and I'm going to show you things that thrift stores I'm going to show you things where to find it to for the provision for that day and so we I would you know she was still uh doing things
+- **[03:40](https://www.youtube.com/watch?v=D4pRF_325_s&t=220s) · 本段原话**：started doing the thrift store thing um and that's what the path that God blessed in our life um was just like going to a thrift store and finding stuff and that's was our provision for the day like I remember when it first started um the Lord just gave gave me the idea of doing that and we didn't
 
 ### 完整英文 Transcript
 
@@ -128,7 +146,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:45](https://www.youtube.com/watch?v=D4pRF_325_s&t=285s) · 本段原话**：lived our life you know staying in prayer um taking communion every day and whenever you stay rooted and grounded in God he um He blesses he'll bless you like in the little in the little areas and he's always made he's always provided for us he's always taken care of us and so that's just how we've lived
+- **[05:33](https://www.youtube.com/watch?v=D4pRF_325_s&t=333s) · 本段原话**：getting laid off of the church and I thought you know God this isn't fair how how are we going to get through this you know and and you you can feel sorry for yourself and and and whine and and everything but I'm telling you that ain't going to get you nowhere God is
+- **[05:47](https://www.youtube.com/watch?v=D4pRF_325_s&t=347s) · 本段原话**：not moved by your need he's moved by your faith and he's moved by a seed when you seed time and harvest when you sew you'll reap and a lot of people think well you know you're I'm helpless here I'm just going to sit back and I'm just going to let this happen by the Bible
+- **[06:45](https://www.youtube.com/watch?v=D4pRF_325_s&t=405s) · 本段原话**：Covenant says and what how he said he said never seen the righteous forsaken nor seed beging bread and I said Lord if you said you put your hand whatever I put my hands to would prosper and you give me creative ideas to get wealth you're going to give it to us and you
 
 ### 完整英文 Transcript
 
@@ -243,7 +268,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=D4pRF_325_s&t=480s) · 本段原话**：never early he's never late he's always right on time and like even even provision in like finding like I've always tried to be a proverbs 31 wife to just try to take the resources we have and like make them stretch as far as possible so I would go to garage sales for everything for like you know baby
+- **[09:18](https://www.youtube.com/watch?v=D4pRF_325_s&t=558s) · 本段原话**：that's how like I go but it was even even whenever you came to me and you told me the idea for doing uh selling online I thought there's there's no way that's going how are we going to get to do that that but I I trusted her I trust the voice inside the Holy Ghost inside
+- **[10:22](https://www.youtube.com/watch?v=D4pRF_325_s&t=622s) · 他描述所见**：lead me and he say it's over off this street go to this one over there and you're going to find it so I pray and I say babe this is what the lord gave me and I had a vision and I'm praying this morning and he told me if you go in this
+- **[11:37](https://www.youtube.com/watch?v=D4pRF_325_s&t=697s) · 本段原话**：teach them how to sew a seed we believe in all our hearts that that tithing is for today tithing and giving I my life is an example of being at the bottom of the barrel and the barrel will be on top of you thinking you you ain't going to make it to being able to say hey our
 
 ### 完整英文 Transcript
 
@@ -359,7 +391,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:16](https://www.youtube.com/watch?v=D4pRF_325_s&t=736s) · 本段原话**：hour I'm telling you when you make God priority in your life God will start will he makes you priority it's like it's like he he is he is he is there and ever present help in a time of need God is faithful and I'm saying well you got to keep your marriage strong you got to
+- **[13:11](https://www.youtube.com/watch?v=D4pRF_325_s&t=791s) · 他表达判断**：always perfect about it I come across I'm cranky some days of course not me but yeah I'm teasing uh but you know um just being real with y'all you know I think a lot of times people think well you all are super you know I get all kinds of people oh oh you know you are like super people
+- **[13:50](https://www.youtube.com/watch?v=D4pRF_325_s&t=830s) · 本段原话**：declaring things to say that God is more than enough to take care of us no man you remember like it it the the Bible says that Abraham said no man I'm not going to let any man say that he made me Rich only God that's the kind of that's the way we feel God it God is our source
+- **[14:59](https://www.youtube.com/watch?v=D4pRF_325_s&t=899s) · 他表达判断**：care of me and and and being open and listening and being willing and obedient you e good Al land and it it took her it took her it wasn't me I didn't have it in both cases the Lord spoke to her and and his and his and and she said Brandon this is what I believe the Lord has
 
 ### 完整英文 Transcript
 
@@ -469,7 +508,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:02](https://www.youtube.com/watch?v=D4pRF_325_s&t=962s) · 本段原话**：you are a family you're you're you're joint together and you got to make it work like a like a like a like a baseball team or a football team the there's no just one oneman show if it is you're not going to win no games and so that's the way I look at it is right y
+- **[17:07](https://www.youtube.com/watch?v=D4pRF_325_s&t=1027s) · 本段原话**：limits he's infinite he's powerful um he is mighty and he cares about us and he cares about the small things he cares about the littlest needs he cares about what you care about he cares about your desires your wants your needs and um he's like the Bible says I've not SE the righteous forsaken nor their seed
+- **[18:25](https://www.youtube.com/watch?v=D4pRF_325_s&t=1105s) · 本段原话**：cuz you had a hundred small things that he answered your prayers for but you're like but God that one big thing didn't get answered and so you just dismiss it completely and say well where's God but he's been there a hundred times through the whole year for the small things that you asked that new pair of Nike sneakers
+- **[19:41](https://www.youtube.com/watch?v=D4pRF_325_s&t=1181s) · 本段原话**：household and we make a list of everything that we for it could be vacation it could be whatever it from the biggest thing like she's talking the smallest things it doesn't have to be well you know it he can be even the most hairbrain idea whatever I'm just saying nothing nothing's off limits mhm we put
 
 ### 完整英文 Transcript
 
@@ -576,7 +622,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:17](https://www.youtube.com/watch?v=D4pRF_325_s&t=1217s) · 本段原话**：manifestation of everything that we've ever believed for for Megan to be every single time that Megan is going to be completely restored but what we're saying is what I'm saying is we even put down even for her to be potty trained and she's getting out of that there's we we still have our days that that she
+- **[20:33](https://www.youtube.com/watch?v=D4pRF_325_s&t=1233s) · 本段原话**：she'll have an accident whatever but we always look at where we came from and and so the next year we put it on there we're believing God for her to start talking full sent we're going to believe God for her to her to to to uh sleep through the night whatever 18 years we
+- **[20:47](https://www.youtube.com/watch?v=D4pRF_325_s&t=1247s) · 他描述所见**：never give up we never give up on that we always believe her to be healed completely believeing for a new house right now you know we write down for our vision for our house Lord I Thank you that you're going to give us a a new home that's bigger that's be able to fit
+- **[23:26](https://www.youtube.com/watch?v=D4pRF_325_s&t=1406s) · 本段原话**：not want a ishmail I want my Isaac bring my Isaac forther wherever it need wherever she may be and you know what it was interesting my mom and dad said we feel we're called to move to Fort wor Texas and that's where she was and they they just felt like it was to go to
 
 ### 完整英文 Transcript
 
@@ -694,7 +747,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:03](https://www.youtube.com/watch?v=D4pRF_325_s&t=1443s) · 本段原话**：we we dat it for a long time and and so the footsteps of the righteous are ordered of the Lord and when you put him first in your life he'll he'll lead and guide you into all things he's going to he'll show you where to go he may tell you to move he may tell you to go here
+- **[25:08](https://www.youtube.com/watch?v=D4pRF_325_s&t=1508s) · 他转述所听到的话**：be a soft pliable person before you and the Holy Spirit said he'll rebuke me all the time I'll be in there he like listen you need to go back and make that right you you were cranky today and I didn't realize I heard her feelings or whatever said but he always has her back the holy
+- **[26:07](https://www.youtube.com/watch?v=D4pRF_325_s&t=1567s) · 本段原话**：don't even I you just I'm not going to pretend I don't even exist in this car you lead Lord I want you so bad in my life to lead me and my wife and my children I need you so badly because I refuse I refuse to let anything in my intellect to lead me because the carinal
+- **[27:16](https://www.youtube.com/watch?v=D4pRF_325_s&t=1636s) · 他表达判断**：you to be the the leader of my house that's why I think intellect and people uh thinking that they know the way that's what can get you in in trouble and in danger is trying to lead yourself based on facts based on what you've learned in school what you've learned and see knowledge sometimes just gets in
 
 ### 完整英文 Transcript
 
@@ -809,7 +869,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:02](https://www.youtube.com/watch?v=D4pRF_325_s&t=1682s) · 本段原话**：today we just wanted to come on come on with y'all and um and just kind of talk just being real about marriage just trying to trying to to tell you all about our life you know I've never really got Diana she's never had the opportunity really to come on and talk and I thought babe I want you to come on
+- **[28:19](https://www.youtube.com/watch?v=D4pRF_325_s&t=1699s) · 他进行祷告**：and and sit beside me and let's just do a video together um so I hope this blessed you all today let's pray for you father we just thank you you for every couple that every married couple whoever's watching this video we pray blessing over their marriage right now we thank you Father that you said in
+- **[29:15](https://www.youtube.com/watch?v=D4pRF_325_s&t=1755s) · 本段原话**：us a name that's above every name and we take authority over you in the name of Jesus the name of Jesus is powerful and we command it we command you in the name of Jesus to Bow your knee and get out of our Lives get out of our houses get out of our marriages get out of our children
+- **[31:51](https://www.youtube.com/watch?v=D4pRF_325_s&t=1911s) · 本段原话**：the name of Jesus I call your your womb to be filled and you have a child in the name of Jesus you're believing for a child I call your body to have that baby
 
 ### 完整英文 Transcript
 
@@ -924,7 +991,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–34:56 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:02](https://www.youtube.com/watch?v=D4pRF_325_s&t=1922s) · 本段原话**：right now in the name of Jesus I call that home that that that that that home filled with children we say in the name of Jesus the the doctor says you can't have babies but you we know the word and they said our Vine will not cast fruit before the time we lay hold to Children
+- **[32:40](https://www.youtube.com/watch?v=D4pRF_325_s&t=1960s) · 他描述所见**：seed that it needs to have a child we call Deliverance over her body because it was a womb that I saw and I speak to that womb right now in the name of Jesus I speak to that uterus and I command you to be healed and whole and well in the name of Jesus right now and we stand in
+- **[33:58](https://www.youtube.com/watch?v=D4pRF_325_s&t=2038s) · 他进行祷告**：we believe it and we receive it right now in Jesus name in Jesus name jobs and better jobs over over I call jobs better jobs in Jesus name raises and bonuses benefits sales and commissions and inheritances father I thank you Lord that you're bringing all these things to pass great great blessing is on their
+- **[34:42](https://www.youtube.com/watch?v=D4pRF_325_s&t=2082s) · 本段原话**：usually taking care of Megan and stuff while you're she was good she fell asleep it's great we'll put a smile on your face and a song in your heart Jesus loves you so much and we love you and we'll see you next time y'all have a blessed day bye bye bye
 
 ### 完整英文 Transcript
 

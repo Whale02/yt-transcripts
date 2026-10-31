@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 758；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 - [09. 32:00–33:21 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:18](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=18s) · 他表达判断**：and Iran right now?" And this is exactly what I try to tell y'all in April whenever I came out in March. It was what was it? probably f of February whenever the Lord told me he said the month of April will be during the eclipse I said nothing will happen during the eclipse but after the
+- **[08:07](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=487s) · 他描述所见**：I'm not going to get into all the things the Lord said to me about that because it's not necessary for one, but for um just it's not wisdom. So um but I'm going to tell you all if you live in Paris, I've told you all before I saw fires. I saw buildings on fire. I saw a like an
+- **[12:28](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=748s) · 本段原话**：never seen before. We are in a very serious time frame. We are Jesus Christ is coming, y'all. And and and the devil knows it. And he is he is he sees what's going on. He knows what's going on in the spirit realm. He ain't dumb.
+- **[20:42](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1242s) · 他表达判断**：No, I believe 2025 is a year you all should be really watching. I warned you all about October. You know, I know there's a difference in opinion with a lot of people and they some people believe a certain way and they're entitled to their opinion just as much as I'm entitled to my opinion. But I'm
+- **[24:36](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1476s) · 本段原话**：Seeking his face daily, and the Lord will show you the secret things. But do not seek him for money. Seek him for relationship. If you start seeking him for money, I'm telling you, it ain't going to happen because he he is not a genie. He's God and he wants a relationship with his kids. But if you
+- **[32:01](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1921s) · 本段原话**：shaking coming, Father. But I thank you, Lord, that the body of Christ, the remnant that is awake is ready. And we're ready and we're prepared for such a time as this, that we realize that when this happens, Father, that we will be ready to witness and share the love of God with people like like never
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、预言、梦境与异象。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:18](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=18s) · 他表达判断**：and Iran right now?" And this is exactly what I try to tell y'all in April whenever I came out in March. It was what was it? probably f of February whenever the Lord told me he said the month of April will be during the eclipse I said nothing will happen during the eclipse but after the
+- **[01:40](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=100s) · 他描述所见**：happening on the news and it's it's it's a big deal. Um, I was interceding for it and you know when I told you all about the chemicals, about the 50gallon drums, it's very serious for what I saw coming out of Iran. You know, back whenever I I started interceding for this and I was
+- **[02:09](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=129s) · 他描述所见**：This was our only little thing." Whatever. They're liars. They they're going to plan they're planning something. And this is this is where I was at in intercessory prayer concerning this. You know, when I told you I saw the 50-gallon drums of biological weapons coming into Syria and it was traveling on the border of um I Iraq and
+- **[03:28](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=208s) · 他表达判断**：this and like I said this does usually doesn't happen in groups. I'm usually at my in my privacy of my home and the Lord started taking and I started seeing visions of things that were coming and the Lord warned me uh in that prayer meeting which I don't know how many people were there probably 100 people or
 
 ### 完整英文 Transcript
 
@@ -128,7 +146,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、治安、袭击与安全
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、治安、袭击与安全、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、治安、袭击与安全展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:10](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=250s) · 他描述所见**：I saw attack and and I'm not going to name any names because this is a public platform, but I but it's a mega church.
+- **[04:17](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=257s) · 他描述所见**：And I saw another attack on a church in in North Carolina, I believe it was, or South Carolina. It's I don't know exactly what state this man's church is in, but then the Lord said, "It's not about um non-denominational only." I saw Baptist churches being attacked, Catholic, Methodist, everything. And it was a group, it was a
+- **[04:42](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=282s) · 他转述所听到的话**：um terrorist like um ISIS related event that was going to try to take place on Sundays at American churches. I don't know exactly when, but it would be u strategic like they like they would work together wherever these cells of terrorists are in America, the ones that cross the border. And the Lord told me
+- **[06:24](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=384s) · 他描述所见**：And so, um, then the Lord showed me an attack on Sydney Harbor at the big opera house and he warned and he warned me about something was going to try to take place there. So, I interceded. I prayed for that at Pastor Steve thing. And so I saw the um some kind of uh escalation.
 
 ### 完整英文 Transcript
 
@@ -222,7 +247,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:07](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=487s) · 他描述所见**：I'm not going to get into all the things the Lord said to me about that because it's not necessary for one, but for um just it's not wisdom. So um but I'm going to tell you all if you live in Paris, I've told you all before I saw fires. I saw buildings on fire. I saw a like an
+- **[08:31](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=511s) · 他描述所见**：attack against Paris and the Eiffel Towers. I remember seeing there's smoke coming up. But now the Lord took me even more. That's all I saw. And I thought, "Wow, something's fixing to happen with fires in Paris." I felt like in my heart it was related to terrorist issue, terrorist issues.
+- **[08:49](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=529s) · 他描述所见**：But I saw I saw the president of uh the prime minister or whoever, Emanuel Mcronone. So the and so like I said, I'm not going to get into all a lot of that, but I'm going to tell you this. I saw the Olympics, a world stage, uh the aquatic centers, I saw an attack during
+- **[11:36](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=696s) · 本段原话**：It's just a devil. It's a low-level devil trying to to to cause havoc and you have authority over it. You don't have to walk in fear. So you say, "I bind the maneuvering of that devil inside of those terror, you'll not touch our church. You'll not touch our congregation. Whatever wherever I attend, no weapon formed against us is
 
 ### 完整英文 Transcript
 
@@ -320,7 +352,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、战争与国际事务
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、战争与国际事务、物资、能源与供应链。 提到的地点：Iran、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:28](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=748s) · 本段原话**：never seen before. We are in a very serious time frame. We are Jesus Christ is coming, y'all. And and and the devil knows it. And he is he is he sees what's going on. He knows what's going on in the spirit realm. He ain't dumb.
+- **[13:36](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=816s) · 本段原话**：no power and authority until the church is removed, until the salt is removed, he can't do nothing. The great restrainer and the great restrainer is on the inside of the believer. He It's called the Holy Ghost. The Holy Spirit, he is inside of us. He dwells on the inside of you and me. And we have power
+- **[15:07](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=907s) · 他描述所见**：Remember this. I said how many times that that that oil would go to $200 a barrel overnight because Israel retaliates against Iran. And I saw gas plants and and oil plants that were produced refineries being attacked by the Israeli government and it was a retaliation. Well, the the main thing just happened with Iran. Now,
+- **[15:46](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=946s) · 他描述所见**：I'm telling you, oil within a 24-h hour period, I saw the US OPEC, all that the the the oil shot up like a rocket and and gas was over $8 a gallon
 
 ### 完整英文 Transcript
 
@@ -413,7 +452,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、地震、风暴与灾害。 提到的地点：New York、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:14](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=974s) · 他描述所见**：They raised the price of of of of gas well above because it went above $200 a barrel, especially out in California and and Oregon and all those other places that it was it's already high. But I saw it and I I tried to warn you all about this. And you know what's I think is
+- **[17:15](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1035s) · 他描述所见**：I'm still praying over the thing in Italy." The Lord showed me when I warned you all that a major volcano was going to go off and it was going to wipe out the whole coastal city and and and I saw 300,000 people plus boom, dead that fast because of the the the volcano going
+- **[18:11](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1091s) · 他描述所见**：tsunami wave happening. Um, so when Israel does this, what I saw was there would be a lot of anti-semitism, even more so toward Israel because they caused price of gas to go up uh because of their retaliation against Iran doing what they did. So people were mad worldwide because the price of oil went
+- **[19:24](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1164s) · 他描述所见**：This is the same night I saw all this at Pastor Steve Steve's prayer thing. It went from New York all the way down past North Carolina. And it was coming, it was already inland, cleared up to Tennessee area. And I s it was like a black haze all over the land from that
 
 ### 完整英文 Transcript
 
@@ -510,7 +556,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、教会、复兴与信仰。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:42](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1242s) · 他表达判断**：No, I believe 2025 is a year you all should be really watching. I warned you all about October. You know, I know there's a difference in opinion with a lot of people and they some people believe a certain way and they're entitled to their opinion just as much as I'm entitled to my opinion. But I'm
+- **[22:27](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1347s) · 他描述所见**：What I'm trying to tell you all is is that we our economy and and and whenever because some people will say, "Well, I saw the black horse riding and that's what's coming next." But that's going to be later on.
+- **[22:39](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1359s) · 他表达判断**：I believe we're we're about to see we're about to see the economy of America crash. Okay? Regardless of what everybody else want to say, I believe in 2025, I've seen it. The angel came to me. I had a visitation of angel and the angel said to watch the malberry bush.
+- **[23:41](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1421s) · 他描述所见**：I'm telling you, America will go through one of the greatest depressions. I saw it. Unless we can stop some of this, we can less lessen it. I believe through prayer. There's a lot of things that I believe, but I'm telling you, a great shaking is coming. And um people aren't ready. And they think,
 
 ### 完整英文 Transcript
 
@@ -625,7 +678,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:36](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1476s) · 本段原话**：Seeking his face daily, and the Lord will show you the secret things. But do not seek him for money. Seek him for relationship. If you start seeking him for money, I'm telling you, it ain't going to happen because he he is not a genie. He's God and he wants a relationship with his kids. But if you
+- **[25:39](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1539s) · 本段原话**：just try and I try to just focus on him. I just try to focus on having a relationship with him. What's your plan for my life? Because God, I I don't want to be the captain of my ship. You are the the one driving my car. You I'm in the back seat. You're in control of my
+- **[26:52](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1612s) · 他描述所见**：And like I said, I could be off on timing. I saw the the two $200 barrel of oil coming two years ago when it had manifest. And now we're just seeing this start starting to happen. It still has not manifested yet, but I see fruit. I'm going, "Hey, we could be getting close
+- **[27:09](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1629s) · 他描述所见**：now, which which stinks, but um all is well. All is well. It's part of it. Then I saw the like I said the 50 cents on the dollar, the dollar crash. I saw the them seize all the money in the banks within a seconds. All the money seized. They they they then you it was
 
 ### 完整英文 Transcript
 
@@ -724,7 +784,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:00](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1680s) · 他描述所见**：make the payments. So, it was bad. And I like I said, I saw it was like a a great depression on steroids because people had no idea how to grow crops and do things like they did a hundred years ago. So people were rioting and and and I told you all then they bring in the the the army to stop
+- **[28:59](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1739s) · 他描述所见**：When I see something, give it time. It will come. I I I'm just telling y'all. And they may say, "Well, I don't I don't believe you don't know me that well. I've only been on the internet for less than a year."
+- **[30:11](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1811s) · 本段原话**：And I thank you, Father, that you are anointing them to do great and mighty works for you in these last days. I thank you, Father, for your angels that keep charge over them, and they bear them up in their hands, lest we dash our foot against a stone. I thank you, Father, that you protect over Israel and
+- **[30:29](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1829s) · 本段原话**：you undergard them and you give Netanyahu uh supernatural wisdom on how to lead his people into war. Father, I thank you, Lord, for supernatural protection concerning the soldiers. That there'll be a thousand bullets on one side and 10,000 on the right hand, but nothing shall come nigh them. we call protection of hedge and we thank you
 
 ### 完整英文 Transcript
 
@@ -827,7 +894,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–33:21 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:01](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1921s) · 本段原话**：shaking coming, Father. But I thank you, Lord, that the body of Christ, the remnant that is awake is ready. And we're ready and we're prepared for such a time as this, that we realize that when this happens, Father, that we will be ready to witness and share the love of God with people like like never
+- **[32:22](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1942s) · 本段原话**：before. praying, laying hands on the sick, casting out devils, raising the dead. Whatever you call us to do, we do it with great victory and with the anointing of the Holy Spirit. I thank you, Father, that you say if we draw nigh unto you, you come nigh unto us. I thank you, Lord, that we have a we have
+- **[32:42](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1962s) · 本段原话**：a a revelation of who we are in Christ in these last days. And we give you all the glory, honor, and praise for it in Jesus' name.
+- **[32:52](https://www.youtube.com/watch?v=2WZdJvTAHOc&t=1972s) · 本段原话**：Amen. Well, like I said, if you could like this video, subscribe, click the notification bell, it's a real blessing to us. Uh, it gets our videos out all over the world. And I just want to say thank you for all the uh wellw wishes, all the people that are nice to me in
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 643；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
 - [07. 24:00–25:55 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=yc0C9zetGX8&t=0s) · 他转述所听到的话**：hey good morning family good morning family we're excited to be here today we we're going to do a a video together we want to talk about um uh being thankful and uh it was just on my heart the Lord told me he said Brandon part of the things that the people are believing for
+- **[04:22](https://www.youtube.com/watch?v=yc0C9zetGX8&t=262s) · 本段原话**：whatever it's just a small thing it's like one time I was Ring somebody and and and uh the the the lady of the the cash handed them a free cup of coffee and I went praise God you just got blessed with a free cup of coffee and the person said to me oh I don't sweat the small
+- **[08:01](https://www.youtube.com/watch?v=yc0C9zetGX8&t=481s) · 本段原话**：that you'll start seeing Miracles manifest in your life you'll start seeing outpourings of of the spirit of God in your life God's looking for a heart who's who's perfect towards him and is a grateful heart a cheerful heart a heart that's full of joy and thankfulness and I'm telling you it ain't easy to do it all the time I'm
+- **[16:19](https://www.youtube.com/watch?v=yc0C9zetGX8&t=979s) · 本段原话**：for everything he has to I'm thankful for my health even whenever I'm overcoming something you know it's not a virus or whatever sore throat I'm thankful father that you've healed me I'm thankful father you've delivered me I thank you Father that you've Set Me Free from obesity I thank you Father that that greater is he that is in me
+- **[20:39](https://www.youtube.com/watch?v=yc0C9zetGX8&t=1239s) · 本段原话**：all about us being hoarders but it's about being a funnel a a a a a pitcher that we're able to pour out and help everybody else father that we're able to help pay somebody else's electric bill or their morgage or whatever in these end times showing them that Jesus loves them through finances
+- **[24:00](https://www.youtube.com/watch?v=yc0C9zetGX8&t=1440s) · 他进行祷告**：believing for the Harvest of healing it's just being grateful thank you Lord you took care of me you already do it all I receive it by faith now I take my authority over this sickness I take authority over this you already paid the price for it so father I take authority over leukemia right now we take
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=yc0C9zetGX8&t=0s) · 他转述所听到的话**：hey good morning family good morning family we're excited to be here today we we're going to do a a video together we want to talk about um uh being thankful and uh it was just on my heart the Lord told me he said Brandon part of the things that the people are believing for
+- **[01:04](https://www.youtube.com/watch?v=yc0C9zetGX8&t=64s) · 本段原话**：around we we we started out and Megan finishes I have the mind of Christ I have the mind of Christ and we're seeing the manifestations of those scriptures come to pass in her life I'm seeing it in her behavior I'm seeing it and I thought if we could just get a little bit of fraction of word inside of
+- **[02:35](https://www.youtube.com/watch?v=yc0C9zetGX8&t=155s) · 他表达判断**：gradual regardless if it's gradual and it takes years or if it takes days or or whatever it's still still a miracle and God is faithful so you can't give up hope um sometimes whenever it takes a process and I believe with all my heart she's healed now manifestation now but but but we're walking it out and that's
+- **[03:17](https://www.youtube.com/watch?v=yc0C9zetGX8&t=197s) · 他表达判断**：we're we have a a special needs child and she is uh you know she's been poty trained now we're grateful and um the Lord is working a miracle in her and it is a pro it's been a process I believe in God she's going to wake up tomorrow and she's going to talk all the
 
 ### 完整英文 Transcript
 
@@ -130,7 +148,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:22](https://www.youtube.com/watch?v=yc0C9zetGX8&t=262s) · 本段原话**：whatever it's just a small thing it's like one time I was Ring somebody and and and uh the the the lady of the the cash handed them a free cup of coffee and I went praise God you just got blessed with a free cup of coffee and the person said to me oh I don't sweat the small
+- **[05:01](https://www.youtube.com/watch?v=yc0C9zetGX8&t=301s) · 本段原话**：saying you you can't well I'll be excited when I get a million dollars well if you can't get excited over the dollar come on folks we've got to be grateful for everything and that's what I'm trying to get across and saying this is that it's bigger than than it's it's it's being it's being grateful I have to go
+- **[06:13](https://www.youtube.com/watch?v=yc0C9zetGX8&t=373s) · 本段原话**：thankful for every single one of them it's it's very interesting just taking and being grateful for the Small Things is what I'm trying to tell y'all you may think I don't have nothing to be grateful for and you say I'm thankful for the air that I breathe I'm thankful for for for if I have sight I'm thankful I might
+- **[06:31](https://www.youtube.com/watch?v=yc0C9zetGX8&t=391s) · 本段原话**：have ears or you know whatever you you have find something in your life today to give God praise for it being grateful that we're that you have life that we have the opportunity that you woke up this morning to to and to breathe or to whatever you may be in pain but but
 
 ### 完整英文 Transcript
 
@@ -237,7 +262,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=yc0C9zetGX8&t=481s) · 本段原话**：that you'll start seeing Miracles manifest in your life you'll start seeing outpourings of of the spirit of God in your life God's looking for a heart who's who's perfect towards him and is a grateful heart a cheerful heart a heart that's full of joy and thankfulness and I'm telling you it ain't easy to do it all the time I'm
+- **[10:08](https://www.youtube.com/watch?v=yc0C9zetGX8&t=608s) · 他进行祷告**：days are really hard but I'm going to tell you what I'm telling you right now works for he inhabits the praise of his people and when Praises go up blessings come down if you take your eyes off of yourself and I even heard this when I travel with Benny hen when we go in the back Ralph and we pray
+- **[10:46](https://www.youtube.com/watch?v=yc0C9zetGX8&t=646s) · 本段原话**：for somebody else that usually the manifestations start coming quick because when you're consumed with yourself and they were consumed with their self and you're worried about I'm dying stage four cancer I've got all this going on and I'm I only got a a couple days to live I got to have a miracle right now oh God help me he
+- **[11:38](https://www.youtube.com/watch?v=yc0C9zetGX8&t=698s) · 本段原话**：with benan I was an anointing junkie you couldn't get me away from it that's where I met I I started going and we I met her at a Bible study but we started going to benen services and and traveling we first got married and and and ushering and helping out and volunteering we had our own needs we we
 
 ### 完整英文 Transcript
 
@@ -346,7 +378,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=yc0C9zetGX8&t=720s) · 本段原话**：were hungry we were desperate and we wanted we still are we still just as hungry as what we were then now but I'm telling you I learned a lot telling I'm trying to tell you all if you think you can achieve something by by uh and this is something else that the Lord showed
+- **[13:10](https://www.youtube.com/watch?v=yc0C9zetGX8&t=790s) · 本段原话**：believing for and the reason I brought this up was is that he said to me he said Son remember the he said the video you just did the video you just did about believe in me for big for 2024 and writing it down he said a lot of my kids already have given up on
+- **[14:10](https://www.youtube.com/watch?v=yc0C9zetGX8&t=850s) · 他表达判断**：don't believe it it's not manifesting I'm trying to tell you you've got to latch onto it like the woman with the issue of blood grab onto the Hem of His Garment and say I'm not letting go of this until I get my miracle I believe it today I leave it with you today but I'm trying to tell
+- **[15:06](https://www.youtube.com/watch?v=yc0C9zetGX8&t=906s) · 他进行祷告**：gets behind the computer computer over there and she's reading your emails and she said honey we got another one you got to put on the list to pray for today you know and we we take it very serious what this this gift what God's given us this this we call it our congregation
 
 ### 完整英文 Transcript
 
@@ -456,7 +495,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:19](https://www.youtube.com/watch?v=yc0C9zetGX8&t=979s) · 本段原话**：for everything he has to I'm thankful for my health even whenever I'm overcoming something you know it's not a virus or whatever sore throat I'm thankful father that you've healed me I'm thankful father you've delivered me I thank you Father that you've Set Me Free from obesity I thank you Father that that greater is he that is in me
+- **[17:17](https://www.youtube.com/watch?v=yc0C9zetGX8&t=1037s) · 本段原话**：are getting the gospel out and it's spreading throughout the whole world literally I have people tell them where we get people all over the place and I'm not just making up we telling you we got all kind kinds of people from Africa we got people from um Australia and Europe and and Japan and China was it China we
+- **[18:30](https://www.youtube.com/watch?v=yc0C9zetGX8&t=1110s) · 他表达判断**：you guys bless you B bless you ladies and gentlemen I said guys it's southern thing but uh bless you guys bless you all bless y'all bless y'all we say y'all y'all bless y'all God bless y'all um okay well let's pray for him real quick and we'll go today I think that was good what do you
+- **[19:43](https://www.youtube.com/watch?v=yc0C9zetGX8&t=1183s) · 本段原话**：name of Jesus that they are blessed from the top of their head to the soles of their feet you said in your word father that you'd meet all their needs and I thank you God that you're a faithful God and you you bring that Harvest to them now in the name of Jesus
 
 ### 完整英文 Transcript
 
@@ -567,7 +613,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:39](https://www.youtube.com/watch?v=yc0C9zetGX8&t=1239s) · 本段原话**：all about us being hoarders but it's about being a funnel a a a a a pitcher that we're able to pour out and help everybody else father that we're able to help pay somebody else's electric bill or their morgage or whatever in these end times showing them that Jesus loves them through finances
+- **[21:16](https://www.youtube.com/watch?v=yc0C9zetGX8&t=1276s) · 本段原话**：Lord that they may need healing in their body you paid the price for that too you said you became poor that we might be rich you said you became sick that we'd be healed and you said by your stripes we are healed and I speak healing and wholeness and wellness over their bodies
+- **[22:39](https://www.youtube.com/watch?v=yc0C9zetGX8&t=1359s) · 他转述所听到的话**：the stripes of his body he healed you and you're not supposed to be underneath that it's not it's not and I heard something like that oh well God's trying to teach me a lesson no God doesn't teach people through sickness and disease the Bible says that he comes and he that you might have life and life
+- **[23:36](https://www.youtube.com/watch?v=yc0C9zetGX8&t=1416s) · 本段原话**：something you don't need to buar it in your body no more so I thank you by taking it in your body anymore he he took it for you so why he already paid the price so if he already paid the price I'm not going to pay have to pay it no more he already paid my debt Jesus
 
 ### 完整英文 Transcript
 
@@ -673,7 +726,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–25:55 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=yc0C9zetGX8&t=1440s) · 他进行祷告**：believing for the Harvest of healing it's just being grateful thank you Lord you took care of me you already do it all I receive it by faith now I take my authority over this sickness I take authority over this you already paid the price for it so father I take authority over leukemia right now we take
+- **[25:10](https://www.youtube.com/watch?v=yc0C9zetGX8&t=1510s) · 他描述所见**：you're believing for healing and you felt change in your body uh comment down below tell the people encourage them say I got my healing today I'm Healed I'm whole I'm well I I I see change in something if you see change testify to it tell about the goodness of God and what he's done in your life today that's
+- **[25:28](https://www.youtube.com/watch?v=yc0C9zetGX8&t=1528s) · 本段原话**：what we want to hear we want to know something going on in your life you see change you see manifestation something let us know we are excited for you we Rejoice with you well is that good that's awesome all right let's just Rejoice with them yes well uh we put a smile on your face and a song in your
+- **[25:46](https://www.youtube.com/watch?v=yc0C9zetGX8&t=1546s) · 本段原话**：heart Jesus loves you so much and we love you and we will see you next time and you all have a blessed and wonderful day say bye yep bye bye
 
 ### 完整英文 Transcript
 

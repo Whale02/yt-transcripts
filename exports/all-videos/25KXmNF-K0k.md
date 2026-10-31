@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 577；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 教会、复兴与信仰、预言、梦境与异象](#section-06)
 - [07. 24:00–27:15 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=25KXmNF-K0k&t=0s) · 他描述所见**：hi my name is Brandon and um I've had a I won't call it a visitation but I I saw some things when I was praying in the spirit and uh I want to uh uh tell you what the Lord showed me um all right here we go um I was praying just like I
+- **[04:01](https://www.youtube.com/watch?v=25KXmNF-K0k&t=241s) · 本段原话**：was so bright and I tried to glance up at it and it was like it was it was piercing me it was it was it was it was the most incredible and words cannot describe to you what I what I'm trying to say in English I it English the English vocabulary does not wrap
+- **[08:00](https://www.youtube.com/watch?v=25KXmNF-K0k&t=480s) · 本段原话**：forgive me of anything oh God you're holy I I merciful are you Lord oh God have mercy on me that's all I wanted to do because it was so intense it was I it shook me to the core of who I am in that eye in his Iris in the eyeball there was fire and the fire was
+- **[16:20](https://www.youtube.com/watch?v=25KXmNF-K0k&t=980s) · 他描述所见**：Preparation um the body of Christ he showed me and then he showed me the bride and I was standing there and he put it before me in the throne room I see the bride and she on her her gown there was a there was a beautiful gown she was dressed beautiful but on her
+- **[20:35](https://www.youtube.com/watch?v=25KXmNF-K0k&t=1235s) · 本段原话**：but I'm not going to yell no more I'm going to tell you things in a whisper son when you put your head upon my chest I will speak to you in The Whispers And The Still Small Voice how was interceding for America and I was crying out for the Revival
+- **[24:01](https://www.youtube.com/watch?v=25KXmNF-K0k&t=1441s) · 他描述所见**：be a sheep nation and he said there's coming things to this to this area I saw things and without trying to be um a fearer I would say you better draw close to him as close as possible because if you're not you're not going to hear him for what's coming there's great things
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=25KXmNF-K0k&t=0s) · 他描述所见**：hi my name is Brandon and um I've had a I won't call it a visitation but I I saw some things when I was praying in the spirit and uh I want to uh uh tell you what the Lord showed me um all right here we go um I was praying just like I
+- **[01:23](https://www.youtube.com/watch?v=25KXmNF-K0k&t=83s) · 他描述所见**：and I was translated in my spirit eyes and I'm in this jungle like place and I all that's all I can see and I on both sides of me but I'm being ushered in it's like I'm being pushed behind me I'm being pushed very quickly and all of a sudden I see this temple in front of
+- **[02:10](https://www.youtube.com/watch?v=25KXmNF-K0k&t=130s) · 他描述所见**：went into this this this Temple I went into it and I see this being on a throne and it was it was carved out it was beautiful it was it was the I could see the throne but I could see for a glimpse I looked up like this cuz I walked in he was he was high and
+- **[03:32](https://www.youtube.com/watch?v=25KXmNF-K0k&t=212s) · 他描述所见**：there's nothing in this earth that it is bright as what I saw you can look at the Sun at noon and look up at it and it's still not as bright as what I saw but there was three stages of light there was a there was a a light that wasn't as bright that was still really bright a
 
 ### 完整英文 Transcript
 
@@ -115,7 +133,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 物资、能源与供应链、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、教会、复兴与信仰展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=25KXmNF-K0k&t=241s) · 本段原话**：was so bright and I tried to glance up at it and it was like it was it was piercing me it was it was it was it was the most incredible and words cannot describe to you what I what I'm trying to say in English I it English the English vocabulary does not wrap
+- **[05:01](https://www.youtube.com/watch?v=25KXmNF-K0k&t=301s) · 本段原话**：was like an edge and it went down way W way way down deep and in this water you could take your whole body all the way to the to the to the bottom of this pool and the water was the clearest bluest most beautiful water I've ever seen in all of my life like you could just drink
+- **[06:16](https://www.youtube.com/watch?v=25KXmNF-K0k&t=376s) · 本段原话**：would turn into a seed the words Wouldn't Die the words weren't like our words they were they were they were words that were remaining alive and they would start to grow they were they were this may sound really wild but I'm just going to they the words would stay alive and they would
+- **[06:37](https://www.youtube.com/watch?v=25KXmNF-K0k&t=397s) · 他描述所见**：become uh like alive they were they were like a seed right there in front of your face and they would never die they started growing and I saw them cultivating and growing Roots the words started growing a root like a potato or a a peanut would grow a root whenever you see it in the Farms they grow and
 
 ### 完整英文 Transcript
 
@@ -213,7 +238,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、地震、风暴与灾害、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、地震、风暴与灾害展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=25KXmNF-K0k&t=480s) · 本段原话**：forgive me of anything oh God you're holy I I merciful are you Lord oh God have mercy on me that's all I wanted to do because it was so intense it was I it shook me to the core of who I am in that eye in his Iris in the eyeball there was fire and the fire was
+- **[09:47](https://www.youtube.com/watch?v=25KXmNF-K0k&t=587s) · 本段原话**：talking to me in tongues his language but it was a different language I've ever heard before because it didn't sound like an Earthly sound it was a Heavenly sound and his tongue was was was was was was like it was a raring Thunder flowing out of him when he would speak but I understood everything he was
+- **[10:47](https://www.youtube.com/watch?v=25KXmNF-K0k&t=647s) · 本段原话**：Son you have no idea the real translation out of that scriptures he said you need to go back to the to the Greek and study my word out more than more than just the King James or the Amplified you need to study those scriptures out in the meaning of each word and what I'm trying to say to you
+- **[11:28](https://www.youtube.com/watch?v=25KXmNF-K0k&t=688s) · 本段原话**：control of time he said he said I will come back when I am ready he said I said in my word that I'm coming back for a spotless bride and the bride is not ready yet he said my son's return he doesn't even know nor the angels in heaven I told you that in my
 
 ### 完整英文 Transcript
 
@@ -308,7 +340,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:17](https://www.youtube.com/watch?v=25KXmNF-K0k&t=737s) · 他转述所听到的话**：skipping around but but I but he'll bring stuff back to me what I'm supposed to say there was a preacher and I I will not release his name but he was interceding on the Earth and and whenever he was praying there was the Lord said I'm going to allow you to hear the prayer and I was standing at
+- **[13:16](https://www.youtube.com/watch?v=25KXmNF-K0k&t=796s) · 本段原话**：globe wrapped around him but the globe was transparent and there was there was beams of light was coming out of his belly and they were were coming out and they were shooting to those places on the globe they were coming out and they were shooting to South America uh Europe Asia uh America Canada all these places
+- **[13:42](https://www.youtube.com/watch?v=25KXmNF-K0k&t=822s) · 本段原话**：and they were shooting out of him and he was interceding for an end time Revival and he told me he said go and tell this family member to go and tell him um their their Theology of of there's no re IAL and um he said because it is nonsense there will be a great Revival
+- **[14:59](https://www.youtube.com/watch?v=25KXmNF-K0k&t=899s) · 本段原话**：Escape mentality because times are hard you will press into me and walk in my glory he said never did I design the armor for retreat he said there's nothing for the backside I designed the armor for for charging ahead and taking taking dominion and your Authority doing your Authority on the Earth he said the end time Revival teaching of
 
 ### 完整英文 Transcript
 
@@ -400,7 +439,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 物资、能源与供应链、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、教会、复兴与信仰展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:20](https://www.youtube.com/watch?v=25KXmNF-K0k&t=980s) · 他描述所见**：Preparation um the body of Christ he showed me and then he showed me the bride and I was standing there and he put it before me in the throne room I see the bride and she on her her gown there was a there was a beautiful gown she was dressed beautiful but on her
+- **[17:45](https://www.youtube.com/watch?v=25KXmNF-K0k&t=1065s) · 本段原话**：muscle memory you build up your muscles and you're going to your spirit it is just like it you build your muscles up spiritually and it's muscle me you'll just go right back into it just do it just flow and um he started talking to me and I'll share this he said because I've been praying a lot
+- **[18:45](https://www.youtube.com/watch?v=25KXmNF-K0k&t=1125s) · 本段原话**：finances as idolatry the way you're doing it he said I told you to seek me and in seeking me I will give you the secret things do not seek finances seek me he said I have no problem giving you that money and blessing you that way but he said as long as that money doesn't
+- **[19:48](https://www.youtube.com/watch?v=25KXmNF-K0k&t=1188s) · 本段原话**：Victorious Church he's not coming back for a beat up busted Church a church that's retreating the the gospel that must be preached is repentance a repentance gospel a gospel that must
 
 ### 完整英文 Transcript
 
@@ -499,7 +545,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:35](https://www.youtube.com/watch?v=25KXmNF-K0k&t=1235s) · 本段原话**：but I'm not going to yell no more I'm going to tell you things in a whisper son when you put your head upon my chest I will speak to you in The Whispers And The Still Small Voice how was interceding for America and I was crying out for the Revival
+- **[21:39](https://www.youtube.com/watch?v=25KXmNF-K0k&t=1299s) · 他描述所见**：and I saw the pilgrims crying out to God because they made a covenant with him and then when they had their hands and they were locked together and they were worshiping him for the land that they had and they said we will make this a land for you oh God and they made a
+- **[21:57](https://www.youtube.com/watch?v=25KXmNF-K0k&t=1317s) · 他描述所见**：covenant with him and I saw them taking communion upon that rock and he said you see those prayers still echo to me they are still crying out for me in my ears to make a nation one nation under God and I will honor those prayers and I saw George Washington crying out for him on the battlefield to
+- **[22:56](https://www.youtube.com/watch?v=25KXmNF-K0k&t=1376s) · 本段原话**：cried out and they died for the cause for your freedom and he says I'll not there let their blood go and he said Brandon you think paying for what you're going through for the moment is Judgment he said judgment true judgment is not things that you see upon the Earth judgment is separation from me for
 
 ### 完整英文 Transcript
 
@@ -586,7 +639,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:15 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:01](https://www.youtube.com/watch?v=25KXmNF-K0k&t=1441s) · 他描述所见**：be a sheep nation and he said there's coming things to this to this area I saw things and without trying to be um a fearer I would say you better draw close to him as close as possible because if you're not you're not going to hear him for what's coming there's great things
+- **[24:27](https://www.youtube.com/watch?v=25KXmNF-K0k&t=1467s) · 他描述所见**：coming and there's going to be a shaken beyond anything you can ever comprehend and it's not fear it's Dad's love great Revival beyond anything you can comprehend is coming I saw you know um all I can tell you is is this revival that's coming no man's going to get the glory for it I saw the
+- **[25:15](https://www.youtube.com/watch?v=25KXmNF-K0k&t=1515s) · 他描述所见**：delivered I saw people being saved and they were coming from the east coast and from the West Coast they were coming from everywhere to to try to be part of this great Revival that's taking place there was Revival happening everywhere but in the center of America there was even more of a great Revival there was
+- **[25:34](https://www.youtube.com/watch?v=25KXmNF-K0k&t=1534s) · 他描述所见**：some places greater than others but everybody's lives was being changed by the power of God throughout the whole world it didn't have to do just with America I saw great great Revival in Europe I saw great Revival in Africa I saw great Revival everywhere and I just want to tell you all thank you for
 
 ### 完整英文 Transcript
 

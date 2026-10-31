@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 855；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 32:00–35:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-09)
 - [10. 36:00–38:21 · 预言、梦境与异象、教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=XT13k6_dADk&t=0s) · 他描述所见**：I see the sun arising upon Africa today. I see the fire. I see the glory. I see the the rays of the sun shining upon the people. They have their their face. I see the African people with their face looking toward the sun. But there's a glory, but it's it it I in this vision I
+- **[08:37](https://www.youtube.com/watch?v=XT13k6_dADk&t=517s) · 本段原话**：FOR THE GREATEST FINALE OF ALL, HE SAID, I will display my goodness upon all. And his goodness and his mercy will follow all over you. For I have the greatest treasures for you. Don't become accustomed to what he's about to do. taking it for granted when you hear about somebody else getting a blessing.
+- **[16:22](https://www.youtube.com/watch?v=XT13k6_dADk&t=982s) · 他描述所见**：goes all around like this. All directions. That's what's about to happen, love. Tell it's here now. You just believe it. I'm telling you, I see this. And what's interesting is as this happens in South Korea, it even it has an effect on Alaska. It has effect on Hawaii, a tsunami wave of the glory.
+- **[20:14](https://www.youtube.com/watch?v=XT13k6_dADk&t=1214s) · 他描述所见**：Where where where Billy goes. There's a glory spot there. And it goes and there's B1 down at at at uh Church of His Presence with Pastor John Kilpatrick. Their glory spots again. He says, "I'm going to do a great thing in them." Look at this. I see John Kilpatrick. I see Perry. I see I see it
+- **[28:13](https://www.youtube.com/watch?v=XT13k6_dADk&t=1693s) · 他描述所见**：A sweet smell. It will smell sweet before me. That's what he said. A sweet will come through this flower and a sweet smell, a sweet sweet fragrance before me. The spirit of the Lord says it will come up out of that flower, baby. I see a blonde girl. She's a young girl. She's probably 15 years old
+- **[36:00](https://www.youtube.com/watch?v=XT13k6_dADk&t=2160s) · 他描述所见**：and the and he'll just sit back and the glory will be in the service like I'm just I see him just sitting there in this vision right now. I see it. He's just sitting on the platform and the glory of the Lord is in there and the weight of the presence. There's some laughing. There's some crying.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=XT13k6_dADk&t=0s) · 他描述所见**：I see the sun arising upon Africa today. I see the fire. I see the glory. I see the the rays of the sun shining upon the people. They have their their face. I see the African people with their face looking toward the sun. But there's a glory, but it's it it I in this vision I
+- **[00:59](https://www.youtube.com/watch?v=XT13k6_dADk&t=59s) · 他描述所见**：falling down there, there's oil falling down on their faces. It's it's it's saturating them. Not just on their it's it it's like, you know, whenever you dump oil, it spreads and the glory of the Lord is coming upon the African people. I see them. They're jumping. They're jumping and they're putting their chest out. And they're
+- **[01:39](https://www.youtube.com/watch?v=XT13k6_dADk&t=99s) · 他描述所见**：He's not forgotten you today. He's not forgotten you. Many think, well, what about they where's the revival for Africa? Where's the revival? Where is THE COMING OF THE KING? WHERE IS THE LORD? There's been so much drought here. THERE'S SO MUCH DROUGHT UPON HERE. And I see the drought. BUT I HEAR THE SOUND OF AN
+- **[03:21](https://www.youtube.com/watch?v=XT13k6_dADk&t=201s) · 他描述所见**：THERE'LL BE CREATIVE MIRACLES FLOW IN AMERICA. But you WILL SEE IT AS YOU yield to it. AND I SEE A HOLY GHOST WAVE OF THE GLORY flow in a South America.
 
 ### 完整英文 Transcript
 
@@ -116,7 +134,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:26](https://www.youtube.com/watch?v=XT13k6_dADk&t=266s) · 他描述所见**：UNLIKE YOU'VE EVER SEEN BEFORE. THE GLORY OF THE LORD. I HEAR THE LORD'S, "HEY, and it will be a flow." And I see the eyes, and I see the ears, and I see the toes, and I see what you've been believing for in these from these GREAT SILOS, FOR I AM EMPTYING THEM OUT, FOR I DON'T
+- **[06:10](https://www.youtube.com/watch?v=XT13k6_dADk&t=370s) · 他描述所见**：black arms, white arms, brown arms, yellow arms, creative miracles, blue eyes, black eyes, brown eyes, green eyes. AS YOU WALK IN MY AUTHORITY, healings of hearts, healings of livers, healings of intestines, I see brand new colons. People have had their colon. You you might you have a closttomy back.
+- **[06:37](https://www.youtube.com/watch?v=XT13k6_dADk&t=397s) · 本段原话**：HE'S GOING TO RESTORE BACK WHAT THE CAKE CANER WORM ATE. HE SAID, "AND THERE WILL BE NO SICK AMONG YOU." HE SAYS, "AND JUST LIKE MY CHILDREN OF ISRAEL, they left with NO SICKNESS. THEY LEFT WITH no disease. You will walk in the same. It will be a tapping shadow.
+- **[07:23](https://www.youtube.com/watch?v=XT13k6_dADk&t=443s) · 他描述所见**：I see and it's it's happening like ripe cherries off a tree. It's happening so much in the Middle. It's happen for the people who would just believe. He says, "But you come up to the to to how you think it should be." America and America has a they try to block it like with a damn
 
 ### 完整英文 Transcript
 
@@ -204,7 +229,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:37](https://www.youtube.com/watch?v=XT13k6_dADk&t=517s) · 本段原话**：FOR THE GREATEST FINALE OF ALL, HE SAID, I will display my goodness upon all. And his goodness and his mercy will follow all over you. For I have the greatest treasures for you. Don't become accustomed to what he's about to do. taking it for granted when you hear about somebody else getting a blessing.
+- **[09:21](https://www.youtube.com/watch?v=XT13k6_dADk&t=561s) · 他描述所见**：see and she didn't see the full manifestation of it. This is what I see her standing before me and she's watching in the great cloud of witnesses. She's watching. I see her, baby. Isn't that wonderful? I see her.
+- **[09:35](https://www.youtube.com/watch?v=XT13k6_dADk&t=575s) · 他描述所见**：She's wearing the same outfit as what she has on the earth. It's the same with the bell sleeves and she's watching over and she has her finger and she's she's it's glorious. I'm telling you. I see her fingers. I see her. She's looking and she's looking out over. She can see and there's a glory. and what is about
+- **[11:52](https://www.youtube.com/watch?v=XT13k6_dADk&t=712s) · 他描述所见**：The silos are being emptied. I'm telling you, I see the silos. The angelic host are emptying the silos right now. The
 
 ### 完整英文 Transcript
 
@@ -306,7 +338,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:33](https://www.youtube.com/watch?v=XT13k6_dADk&t=753s) · 他描述所见**：reach out by faith and receive just like a child would receive. That's what I heard the Lord say. And I see these children, they're so easily able to receive it. They don't have no doubt.
+- **[14:04](https://www.youtube.com/watch?v=XT13k6_dADk&t=844s) · 他描述所见**：The harvest is plentiful. The seed you sowed, sacrificial seed you sowed will come to pass at last. Now I'm seeing Asia today. I'm seeing Asia. I'm over Asia. I just got taken from Africa. I'm in Asia and I see South South Korea. I see the edge. I see Taiwan. I see all of
+- **[14:59](https://www.youtube.com/watch?v=XT13k6_dADk&t=899s) · 他描述所见**：You'll see it over South Korea. I see South Korea and it's highlighted. It's highlighted before me. South Korea will be a hub. A major PILLAR OF REVIVAL WILL WILL SPRING FORTH FROM SOUTH KOREA and it will SPREAD THROUGHOUT CHINA. IT WILL SPREAD THROUGHOUT VIETNAM. It will spread THROUGHOUT ALL OF ASIA. AND A
+- **[15:33](https://www.youtube.com/watch?v=XT13k6_dADk&t=933s) · 他描述所见**：AND THIS GREAT REVIVAL WILL BE BIRTHED OUT OF PRAYER. I see a major rock. I don't know why I see, BUT WHENEVER YOU TOSS a rock over into the water, it causes a wave. And this is what's coming forth out of South Korea, a Holy Ghost rock.
 
 ### 完整英文 Transcript
 
@@ -402,7 +441,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 提到的地点：Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:22](https://www.youtube.com/watch?v=XT13k6_dADk&t=982s) · 他描述所见**：goes all around like this. All directions. That's what's about to happen, love. Tell it's here now. You just believe it. I'm telling you, I see this. And what's interesting is as this happens in South Korea, it even it has an effect on Alaska. It has effect on Hawaii, a tsunami wave of the glory.
+- **[17:12](https://www.youtube.com/watch?v=XT13k6_dADk&t=1032s) · 他描述所见**：That's right. And it will flow over there. It will flow the wave of the presence of the Lord. Not saying, but for I don't understand. Isn't it interesting? It's like this this it shows the influence. It's so thick. I can see through it. I see fire. I see I see I see South Korea. I see it's the
+- **[18:20](https://www.youtube.com/watch?v=XT13k6_dADk&t=1100s) · 他描述所见**：I don't know how else to describe what I'm seeing. It's a dimension. It's like I see people laying prostate all over the ground. It's like a and some of them they've been they've been laid out in the glory for days. You know how you can you can f fall in the glory and the
+- **[19:37](https://www.youtube.com/watch?v=XT13k6_dADk&t=1177s) · 他描述所见**：That's a hu that's that's I see a times 10. Take what happened at Brownsville and magnify it by 10.
 
 ### 完整英文 Transcript
 
@@ -505,7 +551,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:14](https://www.youtube.com/watch?v=XT13k6_dADk&t=1214s) · 他描述所见**：Where where where Billy goes. There's a glory spot there. And it goes and there's B1 down at at at uh Church of His Presence with Pastor John Kilpatrick. Their glory spots again. He says, "I'm going to do a great thing in them." Look at this. I see John Kilpatrick. I see Perry. I see I see it
+- **[21:18](https://www.youtube.com/watch?v=XT13k6_dADk&t=1278s) · 本段原话**：have to crank it. The old Model T for you have to crank it to start it again. And there's a starting up inside of him again of fanning the flame. But he's youth is renewed like the eagles. And I'm GOING TO GIVE HIM A FOUNTAIN of youth to finish the race. That's what the Holy
+- **[22:37](https://www.youtube.com/watch?v=XT13k6_dADk&t=1357s) · 他描述所见**：HE'S GOING TO HAVE MORE ENERGY than he's ever had before. The Lord says, "I'm going to GIVE HIM A FOUNTAIN OF YOUTH INSIDE OF HIS BLOOD. AND I'M GOING TO CLEANSE HIS ARTERIES WHERE THERE'S SOME THINGS going on here. I see this.
+- **[23:31](https://www.youtube.com/watch?v=XT13k6_dADk&t=1411s) · 他描述所见**：going home. He's going to live long and finish strong into his older age. This is time frame like and he's going to do this with these older generals. I I see it so clear. I'm looking at him and there's like you know how you see your body and whenever you go through and you
 
 ### 完整英文 Transcript
 
@@ -614,7 +667,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:02](https://www.youtube.com/watch?v=XT13k6_dADk&t=1442s) · 他描述所见**：all his arteries. There's glory going through his legs. He needs strength in his legs. It's in his knees. There's going to be strength in his knees. I see strength in his calves. I see strength in his thighs so he can stand up and preach longer. For these services will last longer, and he'll need stronger
+- **[25:18](https://www.youtube.com/watch?v=XT13k6_dADk&t=1518s) · 本段原话**：I need them pioneers of faith. That's what the Lord just said. Now, some of them don't want to yield to it and they're going to go home. But there's certain ones I need for key figures for what's about to come. They've lived it once, but they'll know what to do with it again. But I'm going to give them a
+- **[26:25](https://www.youtube.com/watch?v=XT13k6_dADk&t=1585s) · 本段原话**：Young ones, not they're about they're they're 25, 30 years old. New faces rising up that will have a will have a fire like David and they'll spread throughout Australia. And they'll have a mega church that fast with all these people coming with revival. I would even say they're going to use Hill Songs building. I don't know. There'll
+- **[27:39](https://www.youtube.com/watch?v=XT13k6_dADk&t=1659s) · 他描述所见**：And I don't understand that. But that's interesting because I see music notes coming up out of this this this flower.
 
 ### 完整英文 Transcript
 
@@ -718,7 +778,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:13](https://www.youtube.com/watch?v=XT13k6_dADk&t=1693s) · 他描述所见**：A sweet smell. It will smell sweet before me. That's what he said. A sweet will come through this flower and a sweet smell, a sweet sweet fragrance before me. The spirit of the Lord says it will come up out of that flower, baby. I see a blonde girl. She's a young girl. She's probably 15 years old
+- **[28:41](https://www.youtube.com/watch?v=XT13k6_dADk&t=1721s) · 本段原话**：somewhere around in there. Maybe 15 to 19. Somewhere in there. She's going to come with a really big song. She's blondeheaded girl, dusty blonde, sandy blonde. She going to There's a There's some girl. She she and I'm not trying to talk about her weight, but she's she's not real skinny. She But this girl,
+- **[30:38](https://www.youtube.com/watch?v=XT13k6_dADk&t=1838s) · 他转述所听到的话**：You'll help support the money flow for there's financial trouble on the horizon for Canada. major shaking of your finances coming but God will sustain there's you like Joseph's creative ideas is coming and it's with tech I heard the Lord say it's with tech it's with the new form of tech remember what I said concerning Donald
+- **[31:35](https://www.youtube.com/watch?v=XT13k6_dADk&t=1895s) · 他描述所见**：a major move of America of with American Indians. It even leaks over like into Colorado. I see it like it's all in the corner. And the glory of the Lord and the glory of the Lord. I hear him say to you, "And the glory of the Lord." And the glory of the Lord and the glory of
 
 ### 完整英文 Transcript
 
@@ -814,7 +881,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:29](https://www.youtube.com/watch?v=XT13k6_dADk&t=1949s) · 他描述所见**：throughout England. This will go all throughout England. I see England. He said, "I've not forgotten England." You there will be a great revival even in England. It will be a great revival.
+- **[32:49](https://www.youtube.com/watch?v=XT13k6_dADk&t=1969s) · 他转述所听到的话**：ALL THROUGHOUT THE MIDDLE EAST, ALL THROUGHOUT the the the all throughout I'm telling you, even you're going to I'm telling you all a shaking. I'd see it again all those h the temples with the monkeys on them. They're going to be shaking. There's a major earthquake coming and the temples in India. A sign, a sign. The Lord said a
+- **[35:05](https://www.youtube.com/watch?v=XT13k6_dADk&t=2105s) · 他描述所见**：That's really neat that he's going to do that for him. I wonder what he feels right now. If he if if he's at his house right now, he's sleeping. He feels the glory because I saw it happening right now. He's a renewing as it youth. You He'll be like a brand new man on Sunday.
+- **[35:20](https://www.youtube.com/watch?v=XT13k6_dADk&t=2120s) · 他描述所见**：You all have You'll have a brand new pastor. He'll be running around that church. I'm telling you, the glory of the Lord is resto restoring him. And the same with Perry. There'll be things he's dealing with these men, but it will spread even off of I I see this Perry will become like this and there's
 
 ### 完整英文 Transcript
 
@@ -913,7 +987,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–38:21 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 提到的地点：California。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:00](https://www.youtube.com/watch?v=XT13k6_dADk&t=2160s) · 他描述所见**：and the and he'll just sit back and the glory will be in the service like I'm just I see him just sitting there in this vision right now. I see it. He's just sitting on the platform and the glory of the Lord is in there and the weight of the presence. There's some laughing. There's some crying.
+- **[36:34](https://www.youtube.com/watch?v=XT13k6_dADk&t=2194s) · 本段原话**：And he'll show up in California and a great be a great red wave, a great great move of my presence in California. He's not forgotten California. all on the coast. And I'm telling you, a move of God is going to shake Hollywood. It's going to shake all up to Portland, Oregon. There's going to be a major move
+- **[37:06](https://www.youtube.com/watch?v=XT13k6_dADk&t=2226s) · 本段原话**：What is it? It's like a breathing on the old and a for the what's about to happen with the new concerning a new like a John G Lake era and Portland Oregon all this area a great move and you and the and you the liberals are going to squawk the evil they will squawk but they'll
+- **[38:02](https://www.youtube.com/watch?v=XT13k6_dADk&t=2282s) · 本段原话**：Be patient with the babies. They're coming in. Be patient with my babies for I was patient with you. They're coming in. It's the goodness of God that will bring them in repentance. You're going to see it. For this will be the greatest move of my presence. Once again, he's emptying in the silos.
 
 ### 完整英文 Transcript
 

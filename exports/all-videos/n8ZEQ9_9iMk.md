@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 2084；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 90:00–98:59 · 祷告、敬拜与现场互动、战争与国际事务](#section-11)
 - [12. 99:00–102:21 · 预言、梦境与异象、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[03:36](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=216s) · 他描述所见**：And people were trying to sneak up in these mines with little head lanterns on and they were looking for any kind of scrap little bitty flakes of gold they could find to gather up to go and cash them in. I saw gold and the vision was over $10,000 an ounce.
+- **[18:23](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=1103s) · 他描述所见**：Uh I would pray his family would. I I don't know. I I I've seen part hearing part, but this is what I'm telling you I saw.
+- **[37:37](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=2257s) · 他描述所见**：And as I saw Trump's ear, I saw a major economic crisis in his term.
+- **[63:26](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=3806s) · 本段原话**：A turf war involving Russia concerning Venezuela. And it's concerning Cuba. Cuba? No, daily is what I've seen, Braden.
+- **[81:07](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=4867s) · 他描述所见**：And there's coke being made in these buildings down by Colombia. It's on the border and I see these these factories. There's big factories and I see outside there's there's there's people and workers that are like slave workers all outside of these factories.
+- **[99:11](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=5951s) · 他描述所见**：See, when I seen over in the spirit and I see that, look at that. That's Cuban troops.
+
 <a id="section-01"></a>
 ## 01. 00:00–08:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[03:36](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=216s) · 他描述所见**：And people were trying to sneak up in these mines with little head lanterns on and they were looking for any kind of scrap little bitty flakes of gold they could find to gather up to go and cash them in. I saw gold and the vision was over $10,000 an ounce.
+- **[05:08](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=308s) · 他描述所见**：abandonment, that that's a dangerous place to be if there's nobody, you know, no safety, you know. And so, they're putting their life in danger. But, I saw them going in there and they were trying to hide and and go in there just look for anything, digging on the walls, trying to find whatever they could to
+- **[06:44](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=404s) · 他描述所见**：He had his hands on it. And as these things I've warned you and warned you over the years, what has it been? About Persia even what when that How long ago was it when I saw Persia? I think he was grabbing onto it. Grabbing onto it. That was back probably in November.
+- **[07:00](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=420s) · 他描述所见**：Before all this drama going on with Iran. Persia was falling apart and I saw the Prince of Persia, he had sweat beads going down his face and he was straining, losing his grip on Babylon.
 
 ### 完整英文 Transcript
 
@@ -255,7 +273,14 @@
 <a id="section-02"></a>
 ## 02. 09:00–17:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、特朗普与白宫。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[09:01](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=541s) · 他描述所见**：and you can see geese flying, they fly in a V. Well, he was in a V. He was the head of it. And I saw him talking and he went into Israel and I saw him negotiating the Gaza with Trump and the and and other other uh countries.
+- **[12:10](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=730s) · 他描述所见**：But as I saw MBS come on the scenes with another man that had a really nice tailored beard with aviator sunglasses on that were black frames, not mirrored. Black frames. Look very classy with a white and black thing on his head like with this one of those look like those one of those Arab sheiks or sheik whatever.
+- **[14:12](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=852s) · 他描述所见**：sun going down up down up down up down up down and I could see everything everything changing in front and as it was being built everything was being established and I saw the temple at its complete.
+- **[17:33](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=1053s) · 他描述所见**：I told you when I went to tribulation I saw the um who I believe was the Antichrist that proclaimed that he was God and I was standing on a structure, but I was down lower.
 
 ### 完整英文 Transcript
 
@@ -480,7 +505,14 @@
 <a id="section-03"></a>
 ## 03. 18:00–26:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:23](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=1103s) · 他描述所见**：Uh I would pray his family would. I I don't know. I I I've seen part hearing part, but this is what I'm telling you I saw.
+- **[20:16](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=1216s) · 他描述所见**：I saw bank, Chase Bank. I saw Wells Fargo in the distance with a covered wagon in front of it. Now, that's kind of strange, but that is their logo, I guess, right? It has some kind of Western theme on it. But this was it looked like a a a um covered wagon.
+- **[22:59](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=1379s) · 他描述所见**：There was deals being made. If anybody remembers, I saw uh uh Garlinghouse again. When I saw all the screens and all the flower coming up and it looked like a tulip and the the pictures looked like YouTube and it was spinning all around. And things were uh there was vo- videos of it. It looked
+- **[25:58](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=1558s) · 他描述所见**：You know the man? He's over it. I saw that man, the CEO, the vice president of this BlackRock man.
 
 ### 完整英文 Transcript
 
@@ -712,7 +744,14 @@
 <a id="section-04"></a>
 ## 04. 27:00–35:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:08](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=1808s) · 他描述所见**：But it was a Range Rover. Why? I don't know. But as I saw this, it was in a rocky creek bed and it was it was having a hard time and it was moving slow cuz you can't go real fast and on a bunch of rocks in your car cuz it would it would
+- **[33:24](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=2004s) · 他描述所见**：And I saw four major doors. Four major doors that were completely black, but every door was the same. And behind the door there was a when it opened the door, there was gold coins and the gold came running out and it was it was a a major major like tsunami wave of gold coins.
+- **[34:30](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=2070s) · 他描述所见**：And Satan has a hold of the money. It's a specialty. It's a specialty. So that's what I was praying over a lot. Um And that's what we saw. Did we see anything else? I saw people picketing.
+- **[35:38](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=2138s) · 他描述所见**：Trump was trying to strong-arm them concerning Greenland and their finances. He I saw them being offered $25,000 per citizen for shares stipends an agreement
 
 ### 完整英文 Transcript
 
@@ -933,7 +972,14 @@
 <a id="section-05"></a>
 ## 05. 36:00–44:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、祷告、敬拜与现场互动。 提到的地点：Canada、Russia、Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[37:37](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=2257s) · 他描述所见**：And as I saw Trump's ear, I saw a major economic crisis in his term.
+- **[41:02](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=2462s) · 本段原话**：If the If we don't come out and vote in big numbers, church, in in 2026 in midterms, we're going to lose the Senate by a lot for what I keep saying.
+- **[43:09](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=2589s) · 他描述所见**：But I saw March. And it was highlighted before me. And March was a hot month concerning the Greenland and things ahead over the next uh uh 60 to 90 90 days. Praying over this.
+- **[44:09](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=2649s) · 他表达判断**：And there was a lifeline trying to give them a lifeline and they were they were bringing military equipment and things to them. And I and I believe this is something that's already happened. And there was underground bases in Cuba that had biological things from Russia.
 
 ### 完整英文 Transcript
 
@@ -1141,7 +1187,14 @@
 <a id="section-06"></a>
 ## 06. 45:00–53:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[47:08](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=2828s) · 他描述所见**：pulling on the crypto and they're pulling and it was a just struggle and that's what the Lord said. You're just just struggling. I saw them pulling. And all of us were pulling pulling pulling. And you didn't feel like you were making very much in the spirit realm. But I saw a a We were we won the tug-of-war.
+- **[48:44](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=2924s) · 他描述所见**：I saw people actually pinch like like and I know it's metaphor. You ain't going to pinch yourself. But some people will be pinching themselves going I the goodness of God.
+- **[50:39](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=3039s) · 本段原话**：We're so grateful for this for our president. We're so grateful, Father, that that that Father, that regardless if we agree with some of the things he's doing or not, he is trying to help our country.
+- **[51:41](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=3101s) · 本段原话**：And that's in Europe. That's in Australia. That's in in in in Asia, all Africa. Father, I thank you, Lord, that we rise up and and and and South America. And I thank you, Lord, that we'll have the greatest revival this world has ever seen before.
 
 ### 完整英文 Transcript
 
@@ -1370,7 +1423,14 @@
 <a id="section-07"></a>
 ## 07. 54:00–62:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[56:37](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=3397s) · 他描述所见**：That's interesting. I I don't think there's anything about that. I see our troops on the ground there.
+- **[57:51](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=3471s) · 他描述所见**：And I see little drones flying around in the sky. They're they're surveilling.
+- **[59:15](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=3555s) · 他描述所见**：They're being paid big money. I see young men 17, 18, 19 years old being paid by drug lords' money. Some of them are being held by by by by the families being like uh uh you do this for us or we will wipe your grandma out.
+- **[60:24](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=3624s) · 他描述所见**：I see cocktails. Molotov cocktails, Monet They still want to take out the oil wells.
 
 ### 完整英文 Transcript
 
@@ -1496,7 +1556,14 @@
 <a id="section-08"></a>
 ## 08. 63:00–71:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：Cuba、Russia、Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[63:26](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=3806s) · 本段原话**：A turf war involving Russia concerning Venezuela. And it's concerning Cuba. Cuba? No, daily is what I've seen, Braden.
+- **[65:30](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=3930s) · 他描述所见**：But I see Russia coming from the the the the east. Over here and I see they have a There's like there's probably 10,000 of them.
+- **[67:38](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=4058s) · 他描述所见**：I need to let you know that. This is a very clear, very colorful dominant vision.
+- **[69:40](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=4180s) · 他描述所见**：That goes all throughout Europe, goes through America. I see it going into Canada. I see it going into parts of Asia. It spread This is a cocaine highway.
 
 ### 完整英文 Transcript
 
@@ -1643,7 +1710,14 @@
 <a id="section-09"></a>
 ## 09. 72:00–80:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、物资、能源与供应链。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[73:09](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=4389s) · 他描述所见**：The man in Cuba is down under the ground. I see him in the side of a cliff.
+- **[75:09](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=4509s) · 他描述所见**：There's like a secret passage to this place. I see palm trees. I see uh greenery, but it's down It's in a in It's a trail down there. There's a trail that goes down there and there's there's um uh communications. I see um It looks like TV antennas coming off of here.
+- **[76:17](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=4577s) · 他描述所见**：She has antique furniture that looks like cherry wood around her. I see a carved out looking wood chair and and it's in a room and a wood old post bed.
+- **[78:58](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=4738s) · 他描述所见**：You hear me? It's very clear. It's very very very detailed vision.
 
 ### 完整英文 Transcript
 
@@ -1796,7 +1870,14 @@
 <a id="section-10"></a>
 ## 10. 81:00–89:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、AI、科技与监控。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[81:07](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=4867s) · 他描述所见**：And there's coke being made in these buildings down by Colombia. It's on the border and I see these these factories. There's big factories and I see outside there's there's there's people and workers that are like slave workers all outside of these factories.
+- **[82:15](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=4935s) · 他描述所见**：I see it very clear and I see I see drugs drugs drugs and the drug lords are paying Cuba to come and help protect their assets with guerrilla warfare.
+- **[86:35](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=5195s) · 他描述所见**：He's in a mountain. Now if I'm if I'm missing it it could be metaphor. I don't even know if Cuba has a mountain. So I'm just telling you if they don't have a mountain they'll sit there and throw stones at me. I'm trying to tell you I see this man in the side
+- **[89:14](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=5354s) · 他描述所见**：Lot of corruption here. Very very serious all that I'm seeing. We We need a We need our a major I mean seriously, we need a major army going if we're going to do all this. I mean seriously, we need to protect our people. But it's like all on this I see drones flying around. Our drones.
 
 ### 完整英文 Transcript
 
@@ -1934,7 +2015,14 @@
 <a id="section-11"></a>
 ## 11. 90:00–98:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、预言、梦境与异象。 提到的地点：Florida、Russia、Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[90:33](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=5433s) · 他表达判断**：We couldn't do this without you, of course, Lord. Montes Lee Madasli balam balam balam otebi katos elebi amon somos un one I think we're done.
+- **[91:28](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=5488s) · 他描述所见**：And I see Russian troops in this and I see I'm try I'm trying to tell you we got to pray for Florida.
+- **[96:03](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=5763s) · 他描述所见**：And I'm on the hominy mush. I see an uprising and upticking in war.
+- **[96:43](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=5803s) · 他描述所见**：Um Is it Apollyon. Apollyon. I saw Apollyon turning around him. Most people say, "Well, Brandon, Apollyon hasn't come out of the pit yet." I believe it has.
 
 ### 完整英文 Transcript
 
@@ -2130,7 +2218,14 @@
 <a id="section-12"></a>
 ## 12. 99:00–102:21 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[99:11](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=5951s) · 他描述所见**：See, when I seen over in the spirit and I see that, look at that. That's Cuban troops.
+- **[99:57](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=5997s) · 他描述所见**：Right here. No, he was he was right he was right there. In the center, right here, is where I saw it.
+- **[100:10](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=6010s) · 本段原话**：Yeah, that that that's mountain. Green is just flat and then that's the mountain. Okay. It looked like it was toward the middle. Wow, there's a lot of mountains there. Yeah, see so green is just flat but the the yellow and then all that is green.
+- **[101:27](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=6087s) · 他描述所见**：Where she is sleeping. Cuz I saw her bed I saw a bed. Yeah. And I saw a chair in a corner. It's kind of the same style though. Same style. Yeah.
 
 ### 完整英文 Transcript
 

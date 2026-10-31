@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 748；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 - [08. 28:00–28:24 · 教会、复兴与信仰](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:07](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=67s) · 他表达判断**：There was no color when he was on on on the television. I mean this is a big deal folks. So, um, listen to this and and we'll be right back and we'll talk about it. I believe worth these glorious days when this United Confederation Church goes together and the new pope is brought out
+- **[04:20](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=260s) · 本段原话**：Bottom line, he he he don't care how long you sit here. It's like saying you're going to stay in timeout until you be obedient. Bring in the lost. Bring in the and the lame, the the weak, the the the hungry, the hurting.
+- **[12:14](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=734s) · 本段原话**：So, let's keep watching the oceans. Let's keep watching the oceans. And and and hey, what is Trump's big announcement tomorrow or on on Monday or whatever it is, Sunday or Monday? He has a big announcement. He says it's going to shake the financial uh sector and the stock market's going to go up, all these
+- **[16:03](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=963s) · 本段原话**：hearts turn to Jesus and you go, "That was impossible." There was a guy named Bear. This guy was a biker and he was ruthless guy and he gave his heart to Jesus Christ. And I'm telling you, it felt like I'm sure his family, whoever was with him, thought this guy is never going to to serve the Lord Jesus Christ.
+- **[24:23](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=1463s) · 本段原话**：Father, for what the devil meant for bad trying to bring the beast system in quicker. Father, we call forth a window of opportunity to have the finances to spread this gospel throughout the whole world and then the end shall come. We believe, Father, that this is a window of opportunity, Father, for the peace
+- **[28:00](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=1680s) · 本段原话**：up button, comment something nice down below. We would really appreciate your help with the algorithms. Every comment helps boost us in the algorithm. So, if if I've said something that blessed you today, tell us in the comment section.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:07](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=67s) · 他表达判断**：There was no color when he was on on on the television. I mean this is a big deal folks. So, um, listen to this and and we'll be right back and we'll talk about it. I believe worth these glorious days when this United Confederation Church goes together and the new pope is brought out
+- **[01:27](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=87s) · 本段原话**：in the United States and throw their according to prophecy. Then they'll form an inexia to the beast and I tell you the true church of God will be thrown together. The real true believers are Methodists, Baptist, Presbyterian, Pentecostals, Nazarene, Pilgrim, Holiness, whatever they'll be will go together, cemented by the love of God.
+- **[02:21](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=141s) · 他表达判断**：many times lay on my stomach and drink water and eat salty crackers and be popular with God than to be his servant of God. I had a picture of the world if I had a compromise on my faith in the Lord Jesus Christ and his Bible. I believe this is the empowerable word of
+- **[03:36](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=216s) · 他表达判断**：Some folks say we say we only have about seven years. I only think we have just a little bit of window here. I believe we have a window of opportunity to win the loss for Jesus for a wealth transfer.
 
 ### 完整英文 Transcript
 
@@ -133,7 +151,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:20](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=260s) · 本段原话**：Bottom line, he he he don't care how long you sit here. It's like saying you're going to stay in timeout until you be obedient. Bring in the lost. Bring in the and the lame, the the weak, the the the hungry, the hurting.
+- **[06:23](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=383s) · 本段原话**：leaders, because it is necessary so that I can raise up a new generation of men and women that will go into the marketplace and raise up the name of Yahweh. So there's that word. Isn't that amazing? So two words about this. This is 2005 and 1950s words about a change of a pope coming from America. 32 days
+- **[07:00](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=420s) · 他描述所见**：judgment for judgment begins in the house of the Lord first. I'm shaking. I saw the devil coming in influence in Pope Francis. Remember he was slithering like a snake.
+- **[07:21](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=441s) · 本段原话**：What is the Asian man have to do with the revival? The Lord showed me this Asian man rising up and trying to bring forth some kind of a a stirring in the Catholic church. Is he a helper to the Pope? Is he a friend to the Pope? like he's the pope's going to send out
 
 ### 完整英文 Transcript
 
@@ -245,7 +270,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:30](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=510s) · 他描述所见**：should be we be watching for? So, I'm going to give you a summary of what we saw yesterday and and in in our prayer time that a lot of people clicked out before they even saw it. I told you to watch the water. I told you. I see it in my spirit today. Watch the water from
+- **[10:00](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=600s) · 他描述所见**：What's coming things with the sun that no man will be able to explain. And what is going on with the light? I saw a different kind of light that's going to start to take place. And it's going to freak people out. And it will not just go away. It's going to last for days, maybe months. I don't
+- **[10:51](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=651s) · 他描述所见**："Hey, what do we don't know? Go what's going on here?" Because the poles, things are shifting in the earth. And that may sound way out there, but that's what I saw. You'll not know that. You'll not know the seasons. The seasons are going to change quickly. Things are going to start happening quickly. And I
+- **[11:21](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=681s) · 本段原话**：that that the Lord showed me major change is coming with the earth. A shaking, a shaking, a shaking. All this other stuff don't matter. All I know is is that that that people need to have their eyes open and what's coming is going to shake the world. And I say that over and over again because Jesus Christ
 
 ### 完整英文 Transcript
 
@@ -364,7 +396,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、经济、银行与市场
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、经济、银行与市场、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、经济、银行与市场展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:14](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=734s) · 本段原话**：So, let's keep watching the oceans. Let's keep watching the oceans. And and and hey, what is Trump's big announcement tomorrow or on on Monday or whatever it is, Sunday or Monday? He has a big announcement. He says it's going to shake the financial uh sector and the stock market's going to go up, all these
+- **[12:49](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=769s) · 本段原话**：Okay. It is what it is. He he's he's he's prideful. Um Trump is a man that has a lot of pride and he will not be on his watch be known as the president that took down America's economy. We're going to see a new global economy in the days ahead.
+- **[14:20](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=860s) · 本段原话**：the the the superpowers of the world a transfer from the United States of America from China to all these to going to the Middle East You're going to see a transfer of power. You'll see a more of a of a uprising in the Middle East with finances and with influence. Watch. And it's all because of the Antichrist.
+- **[15:22](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=922s) · 本段原话**：Like I just said, I'm excited about Jesus coming. The Bible tells us that we're so close to the end by by watching the size of the fig tree, by watching Israel, what's going on. And if we see the peace agreement come along soon, if we see the temple mount being built soon, if we see
 
 ### 完整英文 Transcript
 
@@ -474,7 +513,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:03](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=963s) · 本段原话**：hearts turn to Jesus and you go, "That was impossible." There was a guy named Bear. This guy was a biker and he was ruthless guy and he gave his heart to Jesus Christ. And I'm telling you, it felt like I'm sure his family, whoever was with him, thought this guy is never going to to serve the Lord Jesus Christ.
+- **[16:58](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=1018s) · 本段原话**：on keeping on. Be that that that it's it's the hammer that keeps chipping away. Keep chipping away. Love never fails. Love never fails. Whenever you think it's failing, love never fails, ladies and gentlemen. We love them out of the pit of hell. I thank you, Father, that you're you're going to set the
+- **[17:46](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=1066s) · 他表达判断**：for turnaround. If it started with a symptom, it ends with the symptoms going away. I believe that the symptoms of your sickness, of your disease is gone today. That today is your day for healing to deliver all over your body.
+- **[19:07](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=1147s) · 本段原话**：forgive us of our sins and cleanse us from all unrighteousness. Father, we plead the blood of Jesus over the from the top of our head to the soles of our feet that no weapon formed against us is going to prosper today. And we thank you, Lord, for all the all that you've done and all that you continue to do in
 
 ### 完整英文 Transcript
 
@@ -585,7 +631,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[22:20](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=1340s) · 他进行祷告**：more. They're going to have a clear mind, a clear conscience to make the right decision today, unin interrupted and not uninterrupted and unhindered by any satanic or demonic force. And I thank you, Father, that that you've called us as believers to pray and believe and stand on the wall, stand in the gap for our unsaved loved ones. And
+- **[22:39](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=1359s) · 他进行祷告**：we thank you, Father, that they're coming in right now in Jesus' name. Now, Lord, we thank you, Lord, for our president. We thank you, Lord, that he's safe as he goes on this trip to Saudi Arabia and to the Middle East and having the meeting with China. Oh, there's so much to pray for
+- **[22:55](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=1375s) · 本段原话**：in that area right there alone. So much protection, so much, Father, that you send your waring angels with him that they would bear him up in their hands lest we dash our foot against a stone. that a thousand shall fall at his side and 10,000 run in, but no bullets will come n, no snipers, no
+- **[23:48](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=1428s) · 本段原话**：supernatural wisdom like Solomon coming on his mind, that he makes godly decisions, godly influences, Father, with Israel, with the with the trade deal with China, that there will be no
 
 ### 完整英文 Transcript
 
@@ -703,7 +756,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:23](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=1463s) · 本段原话**：Father, for what the devil meant for bad trying to bring the beast system in quicker. Father, we call forth a window of opportunity to have the finances to spread this gospel throughout the whole world and then the end shall come. We believe, Father, that this is a window of opportunity, Father, for the peace
+- **[25:34](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=1534s) · 他描述所见**：bringing in the army reserves and they're going to come down and I saw the angels coming out of heaven war in behalf, helping us, helping your helping hands. Father, I thank you, Lord, that they're coming in in the name of Jesus.
+- **[26:02](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=1562s) · 他表达判断**：Do you believe that, Braden? I believe it. I believe it. A quick work. A supernatural quick work. I don't want this thing drawn out 50 years. I thank you, Lord, that it's something that happens like that and we go, "Wow, look at the speedy turnaround of things that we we never believed would happen is
+- **[27:45](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=1665s) · 本段原话**：could bring those out and show you the things that are happening and some other ministries and what they're saying." So, we ask you to please subscribe if you haven't subscribed. If you're new here and you haven't been here before, subscribe, subscribe, subscribe. Click the notification bell, click the thumbs
 
 ### 完整英文 Transcript
 
@@ -827,7 +887,12 @@
 <a id="section-08"></a>
 ## 08. 28:00–28:24 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:00](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=1680s) · 本段原话**：up button, comment something nice down below. We would really appreciate your help with the algorithms. Every comment helps boost us in the algorithm. So, if if I've said something that blessed you today, tell us in the comment section.
+- **[28:14](https://www.youtube.com/watch?v=VJAi5vUnqXc&t=1694s) · 本段原话**：Well, we always close our videos by saying, put a smile on your face and a song in your heart. Jesus loves you so much and we love you. God bless you all and we'll see you again tomorrow.
 
 ### 完整英文 Transcript
 

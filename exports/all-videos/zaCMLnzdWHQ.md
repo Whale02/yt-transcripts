@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 3132；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 140:00–153:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 154:00–156:42 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:23](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=83s) · 他表达判断**：All right. Good evening, family. Thank you for joining us again tonight. I I think my um mic's good. We're going to just go over some things that the Lord showed us last night in prayer. And boy, what a time of prayer we had last night. If anybody joined us last night, I encourage you to
+- **[28:33](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=1713s) · 他描述所见**：Flipping the governor to a Republican. Flipping seats into Republican. House, whatever. Like Nancy Pelosi, bye-bye. You know, a new wave of red trying to spring forth out of California. Now, I'm not saying all of it, but I saw red like it was painted red across California. And the Lord said, "Pray into that."
+- **[56:29](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=3389s) · 他进行祷告**：weapon formed against them will prosper. Every tongue that rises against them, we condemn it. We command it in the name of Jesus to bow its knee. We pray a hedge of blood around and about Iraq. We pray a hedge of blood around Iraq. We pray for wisdom for Trump making these decisions ahead.
+- **[98:36](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=5916s) · 他描述所见**：Echo the ankles, the ankles, the knees. And this is even affected your vision.
+- **[128:12](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=7692s) · 他描述所见**：to bring forth the petrodollar and I even see we have stakes in Iraq because of the first Iraqi war and I see these oil wells pumping pumping and as Iran is crippled back to the Stone Age and the oil oil oil oil oil drill baby drill.
+- **[154:00](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=9240s) · 本段原话**：Please stick around. Like, subscribe, click the notification. Be a part of our prayer team here. We believe we're raising up a men and a million men and women prayer army all for the glory of God. And that Jesus Christ is coming again. All 39 of you that got saved tonight, welcome home.
+
 <a id="section-01"></a>
 ## 01. 00:00–13:59 · 祷告、敬拜与现场互动、特朗普与白宫
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、特朗普与白宫、预言、梦境与异象。 提到的地点：New York、Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、特朗普与白宫展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:23](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=83s) · 他表达判断**：All right. Good evening, family. Thank you for joining us again tonight. I I think my um mic's good. We're going to just go over some things that the Lord showed us last night in prayer. And boy, what a time of prayer we had last night. If anybody joined us last night, I encourage you to
+- **[01:42](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=102s) · 他表达判断**：go back. You can fast forward the first 30 minutes if you don't want to to be a part of that part of it. But there was a lot that the Lord showed us I believe for the future and what's coming.
+- **[06:50](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=410s) · 他描述所见**：It looked like and he looks like he has a lot of gel or some kind of product in his hair that's not going to move his hair. But in in the vision, his hair was moving and he was very distressed on his face as he was watching his brother.
+- **[09:08](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=548s) · 他描述所见**：And so it actually will the damage of the shrapnel is what I want to call the shrapnel. Well, as I saw this this tornado, it looked like a uh a EF5, went right up to Don Jr. that was blowing so hard, it was tearing his flesh on his face.
 
 ### 完整英文 Transcript
 
@@ -373,7 +391,14 @@
 <a id="section-02"></a>
 ## 02. 14:00–27:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Iran、Russia、Ukraine、Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[19:43](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=1183s) · 他描述所见**：As I saw this, I saw Babylon, old Babylon, rising. I saw certain faces in Iraq that were uh that were being held back because of Iran's control.
+- **[21:08](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=1268s) · 他描述所见**：And I saw palm trees spring forth. I saw growth of business spring forth. I saw oil wells and oil derricks and money flowing and I saw Rolls-Royce. I saw Ferrari. I saw Lamborghini. I saw money money money going around Iraq.
+- **[21:58](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=1318s) · 他描述所见**：I saw Maliki's face. I saw certain people that were puppets of Iran start to fade away, start to have new leadership come in, and I saw industrial and I heard same as Saudi Arabia.
+- **[22:59](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=1379s) · 他描述所见**：And I saw MBS start to really start to take shape into a leader of like you've never seen before. I saw a two-state solution starting to be talked about and and and Israel and I saw Jared Kushner was one of the forerunners of this.
 
 ### 完整英文 Transcript
 
@@ -718,7 +743,14 @@
 <a id="section-03"></a>
 ## 03. 28:00–41:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：California。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:33](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=1713s) · 他描述所见**：Flipping the governor to a Republican. Flipping seats into Republican. House, whatever. Like Nancy Pelosi, bye-bye. You know, a new wave of red trying to spring forth out of California. Now, I'm not saying all of it, but I saw red like it was painted red across California. And the Lord said, "Pray into that."
+- **[33:04](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=1984s) · 他描述所见**：You just I deliver it for how I see it and I can't add to it and I can't take away from it. This is what I see, but to add a time frame to it would be really stupid.
+- **[35:22](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=2122s) · 他描述所见**：Humble yourself, Brandy, keep yourself. Remember the janitor. I think it's interesting as a watchman cuz I see things that nobody else will see because the Lord allows me to.
+- **[40:57](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=2457s) · 本段原话**：It's to help me because I I I honestly y'all the more this keeps growing and I and I know I live in a a Christian state maybe it wouldn't be so bad in California people might may not notice me as much. But when you the more this happens the more it grow when you
 
 ### 完整英文 Transcript
 
@@ -1094,7 +1126,14 @@
 <a id="section-04"></a>
 ## 04. 42:00–55:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、物资、能源与供应链。 提到的地点：Iran、New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:52](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=2752s) · 他表达判断**：It's national security and the person that did the story will go to jail if he doesn't say. And that doesn't last long. And I think everybody would understand they put this mission at great risk. They put that man at great risk and they put the hundreds of people that went in looking for him
+- **[47:51](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=2871s) · 本段原话**：Where every bridge in Iran will be decimated by 12:00 tomorrow night where every power plant in Iran will be out of business, burning, exploding, and never to be used again. I mean, complete demolition by 12:00, and it'll happen over a period of 4 hours if we wanted it to. We don't want that to happen. We may even get
+- **[50:03](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=3003s) · 他描述所见**：Some cities that would not have power for over a month. And it was so bad they had to turn they did weren't able to do banking like they wanted to. Chase, I saw certain banks completely closed. I saw stock markets not working. I saw it was it was major craziness.
+- **[52:09](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=3129s) · 他描述所见**：Those huge platform oil rigs trying to mess them up somehow. And so um I saw drones. I've seen drones continue to pray about the drones, using drones against baseball stadiums.
 
 ### 完整英文 Transcript
 
@@ -1460,7 +1499,14 @@
 <a id="section-05"></a>
 ## 05. 56:00–69:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[56:29](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=3389s) · 他进行祷告**：weapon formed against them will prosper. Every tongue that rises against them, we condemn it. We command it in the name of Jesus to bow its knee. We pray a hedge of blood around and about Iraq. We pray a hedge of blood around Iraq. We pray for wisdom for Trump making these decisions ahead.
+- **[59:08](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=3548s) · 他描述所见**：Slight of hand, folks. It's slight of hand. I see it. I see it. They want to stir it up over here to keep you occupied over here. It's what they're hiding in the mountains. It's what they're hiding in the mountains.
+- **[61:12](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=3672s) · 他描述所见**：When I was looking into When you let When I was looking into that back in March of last year, like I said, when we're praying into something and the Lord's showing me something, it was great detail and I saw and then you see how I went over to the people of Iraq. I said pray for the
+- **[64:05](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=3845s) · 他描述所见**：I thank you, Father. I thank you, Lord. We plead the blood over any vision, any kind of satanic incantation, chance, visit, whatever it may be that it does not bother us. We hear your voice and a stranger's voice will not follow.
 
 ### 完整英文 Transcript
 
@@ -1783,7 +1829,14 @@
 <a id="section-06"></a>
 ## 06. 70:00–83:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[78:24](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=4704s) · 本段原话**：You're worshipping the King of kings and Lord of lords. And when you're saying we worship and adore you, bowing down before you.
+- **[79:37](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=4777s) · 本段原话**：Father, we worship you. You know he's such a loving father. It's funny. He he talks to me about sports.
+- **[80:32](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=4832s) · 本段原话**：How would you talk to your spouse? How would you let How would you you you you share your most intimate secrets with your wife or your husband?
+- **[82:51](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=4971s) · 本段原话**：Thank you, Lord, that I have dominion and authority and power to tread on serpents and scorpions, and nothing shall by any means hurt us.
 
 ### 完整英文 Transcript
 
@@ -1983,7 +2036,14 @@
 <a id="section-07"></a>
 ## 07. 84:00–97:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[84:32](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=5072s) · 本段原话**：Mundia push tarie atre vore vo koshta. Yondanan gari mush tre yo pre di fria tora vo koshto.
+- **[89:04](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=5344s) · 他描述所见**：Then there's others that I see valves that have You've been so clogged from the blood flow that there's damage to the heart that the heart is not even functioning with with the full heart.
+- **[94:51](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=5691s) · 他描述所见**：It's more I see that with this individual, it's much more serious than what you realize, but the Lord is sparing your life and we're going to call you healed and whole and well.
+- **[97:25](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=5845s) · 他表达判断**：prayer for the healing for the organs in your body, for your veins, for the blood flow to last, to live long and finish strong. We pray over these bodies. We pray over these hearts. We pray over their legs. We pray over them. I believe you are healed. I believe with all my heart. I believe that today is your day
 
 ### 完整英文 Transcript
 
@@ -2204,7 +2264,14 @@
 <a id="section-08"></a>
 ## 08. 98:00–111:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[98:36](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=5916s) · 他描述所见**：Echo the ankles, the ankles, the knees. And this is even affected your vision.
+- **[102:34](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=6154s) · 他进行祷告**：these children. We pray over THEIR GRANDCHILDREN. WE PRAY THAT NO WEAPON formed against them would prosper. A thousand shall fall at their side and 10,000 at their right hand, but nothing shall come nigh them. We plead the blood of Jesus over his family, over his marriage, over his wife, over over the first lady.
+- **[108:51](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=6531s) · 他描述所见**：Father, it's okay, honey. Father, we're so grateful. I can tell you what I see concerning this, but it it is private.
+- **[110:01](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=6601s) · 本段原话**：That President Trump has wisdom and he'll go with his peace. He'll go with the the instruction of the Holy Spirit on how to do it and which bridge to hit first, which electric plant to hit first, and that it would be a strategic beating of the drum sending this this administration completely back to the
 
 ### 完整英文 Transcript
 
@@ -2453,7 +2520,14 @@
 <a id="section-09"></a>
 ## 09. 112:00–125:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[112:29](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=6749s) · 他描述所见**：I see the octopus. I see these bats. There's there's a swarm of them. There's one one two three four five six seven bats.
+- **[116:18](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=6978s) · 他描述所见**：Events that will shake people and I see them packing up and relocate. I see a mass migration coming again, but not from the south, but from the north.
+- **[120:46](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=7246s) · 他进行祷告**：We pray a Holy Ghost and fire on Alex Jones that he would become a voice piece even greater for the gospel than we've ever seen before.
+- **[123:44](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=7424s) · 他描述所见**：And I see the whales. I see the oil wells. I see I see natural gas wells. I see growth economic growth.
 
 ### 完整英文 Transcript
 
@@ -2585,7 +2659,14 @@
 <a id="section-10"></a>
 ## 10. 126:00–139:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 提到的地点：Russia、Iran、Europe、Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[128:12](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=7692s) · 他描述所见**：to bring forth the petrodollar and I even see we have stakes in Iraq because of the first Iraqi war and I see these oil wells pumping pumping and as Iran is crippled back to the Stone Age and the oil oil oil oil oil drill baby drill.
+- **[130:12](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=7812s) · 他描述所见**：And I said you're going to hear the war drums of Turkey and he puts on a vampire cape and starts to take over the straits that the passageways going into the Black Sea coming out of Turkey and I see a conflict of military escalation concerning Turkey and the Black Sea and a coinciding with Russia in the days
+- **[137:08](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=8228s) · 他描述所见**：I see him taking You know when you take little baby steps versus big step? I see big steps in economic growth. Try come and they're going to try to knock him down with these attacks. Pray against these attacks.
+- **[138:48](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=8328s) · 他描述所见**：Because I can see them in bed. Remember I told you I saw the money that was going to uh Ukraine and it was in secret accounts of up to 24 billion dollars. Do you remember I told you I saw 24 billion dollars and that it was being funded back into the to the uh Democratic Party
 
 ### 完整英文 Transcript
 
@@ -2882,7 +2963,14 @@
 <a id="section-11"></a>
 ## 11. 140:00–153:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：France、Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[141:14](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=8474s) · 他描述所见**：They'll they'll ruin their marriages. I saw I saw people that had tapes and and scandals on them that were embarrassed about it and they and they they were they were drugged, they were high, they were drunk and they got they got set up and they actually got footage of stuff. And the Lord said
+- **[143:51](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=8631s) · 他描述所见**：Concerning his position, it's running out of time, but I see him stepping into another role soon.
+- **[146:05](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=8765s) · 他描述所见**：Thank you, Jesus. Thank you, Lord. I see 2027 highlighted. But it has fire around it and red lights.
+- **[153:11](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=9191s) · 他表达判断**：He's made all things new. And I believe that tonight you just got born again when you said that simple prayer. And if you did, and you you tell me what I do now, Brennan? Well, you're you go to a Bible believing church, you get plugged into church, you get excited about going to church, go Sundays, go
 
 ### 完整英文 Transcript
 
@@ -3190,7 +3278,14 @@
 <a id="section-12"></a>
 ## 12. 154:00–156:42 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[154:00](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=9240s) · 本段原话**：Please stick around. Like, subscribe, click the notification. Be a part of our prayer team here. We believe we're raising up a men and a million men and women prayer army all for the glory of God. And that Jesus Christ is coming again. All 39 of you that got saved tonight, welcome home.
+- **[154:20](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=9260s) · 他表达判断**：Welcome home, all 39 of you. We're excited you're here. And so that I believe the best is yet to come for all of you. And so the baby Christians are here, we'll keep teaching the word of God. We'll teach you how to live by faith. And the best is yet to come. I believe we're
+- **[154:54](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=9294s) · 他进行祷告**：People are watching. They're trying to go to bed. They can't go to bed. There's there's The Lord showed me one individual in particular. He said, They're up right now. Pray for them.
+- **[155:25](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=9325s) · 他进行祷告**：Amen and amen. Well, we pray this video blessed you, this live stream blessed you tonight. Thank you for being here with us. It It's so wonderful that many hands make light work and we are praying for the change of so many different things tonight. Um It's It's pretty overwhelming as wow, huh? Isn't Jesus wonderful? He shows us
 
 ### 完整英文 Transcript
 

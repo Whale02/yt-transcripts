@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 980；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 50:00–54:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-11)
 - [12. 55:00–59:44 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:07](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=7s) · 他转述所听到的话**：How many That's what I heard in the spirit. How many of you are awake and know that something major is about to come?
+- **[10:38](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=638s) · 本段原话**：He's adding to the body. It's a march. He's adding to the body one day at a time. He's taking the people out. He's taking the people in. They're bringing them in. He's bringing them in and it's like a march and Jesus is leading the march and and I I callus he has a drummer in his his hand. He's
+- **[20:14](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=1214s) · 他描述所见**：It's a cobblestone road. And all of them are like the yellow brick road, but it's all on that, but it's not. It's a cobblestone. It's it's a brown road. And Jesus is walking. There's green grass on both sides. And as he's walking through, I see the Swiss Alps and there's beautiful snow on the top of these
+- **[35:00](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=2100s) · 他描述所见**：I see, oh father, the land and I see the seas. and darkness is upon the seas.
+- **[45:34](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=2734s) · 他描述所见**：It's storms. It's earthquakes. It's it's it's it's tsunamis. I see these angels and they're blowing their horns and it's deafening.
+- **[55:37](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=3337s) · 本段原话**：In the name of Jesus, we call we call the fear of why she thinks she can't provide for it, whatever it may be, we call for peace in the name of Jesus. And we thank you, Father, that you're warning in our behalf right now. And that there's peace over this mother that she will not. And this demonic spirit
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:07](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=7s) · 他转述所听到的话**：How many That's what I heard in the spirit. How many of you are awake and know that something major is about to come?
+- **[00:14](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=14s) · 本段原话**：Do you feel it inside? How hungry are you? How hungry? HE SAY HOW BAD? HOW MUCH DO YOU WANT TO SEE THE GLORY?
+- **[01:30](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=90s) · 本段原话**：BEYAR. MR. STO MAKE MING BEYAN BA BEAN BEAK STAY BEAK STAY BOA
+- **[04:17](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=257s) · 本段原话**：Hy miss. Hy misty. H most MULTITUDES MULTITUDES WILL COME. MULTITUDES WILL COME. Daily evil.
 
 ### 完整英文 Transcript
 
@@ -79,7 +97,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[06:07](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=367s) · 他描述所见**：I'm going in the towns and I can see I'm going and knocking on the door of each one of those little places I see and they're going in there and they're and they're alerting them that a great revival is about to be upon them.
+- **[06:50](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=410s) · 他描述所见**：And as we knock on the heart of the unbeliever, I see we're marching and and a single file line and and the Lord Jesus Christ is leading the is leading the charge and we're going and he knocks on the door and then whenever he open it, they open the door and the one gets behind
+- **[07:11](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=431s) · 他描述所见**：Following the leader and he's saying this whatever I hear in the spirit and he's saying it and they're marching down the road. They're marching down the road AND HE'S SAYING, "COME WITH ME. COME UP HIGHER." AND I HEAR IT IN THE SPIRIT WHAT I'M SAYING. AND HE'S SAYING TO THE LORD, JESUS IS SAYING IT. AND I SEE
+- **[08:58](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=538s) · 他描述所见**：AND NOW HE'S GOING ALL THROUGHOUT SOUTH AMERICA. I SEE HIM GOING AND IT GOES AND IT GOES AND IT GOES. AND WE'RE GOING TO AUSTRALIA. WE'RE GOING TO LONGER DAY. NO, there's no longer a day.
 
 ### 完整英文 Transcript
 
@@ -170,7 +195,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:38](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=638s) · 本段原话**：He's adding to the body. It's a march. He's adding to the body one day at a time. He's taking the people out. He's taking the people in. They're bringing them in. He's bringing them in and it's like a march and Jesus is leading the march and and I I callus he has a drummer in his his hand. He's
+- **[11:30](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=690s) · 本段原话**：And it doesn't matter how big you think you are. Oh Jesus. Jesus. Jesus. The celebrities, the celebrities, the from the poorest of the poor. He's bringing them us all in. Oh. Oh. He has such great things in store. He has such great things in store. Oh, for the greater works YOU WILL DO. OH, HE WILL WORK
+- **[12:12](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=732s) · 他描述所见**：Boy, the ones that people had given up on. the ones that have people. I see houses that have cobwebs on them. I see houses that are full of darkness. And he's knocking on their door. Ones that people had forget forgotten. The the the the the unlolies.
+- **[13:48](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=828s) · 本段原话**：So that he can flow within. That he can flow within. And you add to the march of the beat and they will bring them to their knees.
 
 ### 完整英文 Transcript
 
@@ -252,7 +284,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=960s) · 他描述所见**：And I saw cobwebs on the doors. I saw darkness in their their you know how you see shutters that are kind of falling because the hinges are falling and the hinges are all broken off of their of off their doors off their of their windows. There's there's they're their shingles. They're missing some shingles
+- **[16:19](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=979s) · 他描述所见**：on their roof. And he's knocking on the door and he's marching through Europe. And I see the old cottages. I see the and he's knocking on the door and he's playing his drums and he's mocking and he's saying it and I can see the people getting in line. They're getting in line. They're getting in line and every
+- **[17:28](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=1048s) · 他描述所见**：I see with the big pot belly. There's a little little chubby boy and he's running in up there and he had a really nice brown looking haircut is all on the side. He's but he had he and they were all running up there in line. I can see them but he's knocking on the house.
+- **[19:30](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=1170s) · 他描述所见**：Wow. I see the flowers. As Jesus walks on the path in Europe, the flowers are turning toward him and they're bowing down. The flowers are bowing down and they're in the green grass. They're in there. And as Jesus walks by, the flowers are bowing down.
 
 ### 完整英文 Transcript
 
@@ -371,7 +410,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:14](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=1214s) · 他描述所见**：It's a cobblestone road. And all of them are like the yellow brick road, but it's all on that, but it's not. It's a cobblestone. It's it's a brown road. And Jesus is walking. There's green grass on both sides. And as he's walking through, I see the Swiss Alps and there's beautiful snow on the top of these
+- **[20:32](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=1232s) · 本段原话**：mountains. And there's houses. They're like little cottages, but they're all along the road. And he's knocking on the doors. He's knocking on the doors of your heart. He's knocking on the doors. Some will open and some will not.
+- **[21:00](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=1260s) · 他描述所见**：Isn't that beautiful? There's lots of them. I see him. They're bowing down before our father and he's walking and he has a drum and he's he's he's calling him in.
+- **[24:15](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=1455s) · 本段原话**：Many will of them will come within a day. He said he just said that. Many of them will come within a day. Don't forget this, baby. I need you to keep highlights of that parts of what he's saying. He said, "Many of them will come in a day for a day of shaking, a day of
 
 ### 完整英文 Transcript
 
@@ -458,7 +504,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:00](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=1500s) · 本段原话**：Everything's going to change in a 24-hour period. Everything is going to change and nothing will remain the same. An acceleration of of of what you're going to see an acceleration.
+- **[26:35](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=1595s) · 他描述所见**：Whoa, whoa, to you, Miami. Whoa, whoa, to you, Miami. And then it shot clear out and I saw California and I saw LA and it went it went like this like a lightning daily.
+- **[27:56](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=1676s) · 他描述所见**：I'm sure it's symbolic about something. is he didn't pick roses. He picked daffodils. Why in the vision? Why the daffodils? And why were they on the side of the road in green green grass? What does a daffodil have to do with anything? Because it could have been tulips. It could have been uh hydranges.
+- **[29:53](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=1793s) · 他描述所见**：I don't know if that's symbolic or it's literal. But I saw a wave and he said, "Woe to Miami." And then he saw it shaking. It's shaking. A day a day of
 
 ### 完整英文 Transcript
 
@@ -562,7 +615,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、教会、复兴与信仰。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:08](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=1808s) · 他描述所见**：Everything that you know will not be the same. I see a storm coming and it will be in New York. I see lightning in New York. See, I'm still looking over. When that whenever I get to this point, I can look over a lot. He's He does it. Isn't Jesus wonderful?
+- **[30:48](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=1848s) · 本段原话**：I can see this is there's a lightning bolt and a storm inside of Manhattan. There's everything will change. Everything will change. And it goes down clear down from New York all the way down to Miami. And a great change, a storm on the east coast. a great storm and there was a glorious light over over
+- **[31:22](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=1882s) · 他描述所见**：I see the doves. I see the doves. He always takes me back to this place. I can see the doves floating and they're coming down. All four of them.
+- **[33:00](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=1980s) · 他描述所见**：It's like the 1930s. People are really struggling. farmers. I see farmers with their overalls on. I see farmers and they're looking south. They're looking south and they're looking towards and there's a storm in the south and there's a storm
 
 ### 完整英文 Transcript
 
@@ -631,7 +691,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:00](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=2100s) · 他描述所见**：I see, oh father, the land and I see the seas. and darkness is upon the seas.
+- **[36:38](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=2198s) · 他描述所见**：I see fire. I see volcanoes. I see You couldn't pay me a lot of money to be
+- **[37:41](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=2261s) · 他描述所见**：I see the shaking love. You know when you say there's like you there's certain parts of the world you would want to be and there's certain parts you would not want to be. I would this there you you I mean there's like these people making these bunkers down in the ground.
+- **[39:41](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=2381s) · 他描述所见**：I see them, but they're transparent, but they they are holding the trumpets and they look like a waterfall inside of them.
 
 ### 完整英文 Transcript
 
@@ -700,7 +767,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 物资、能源与供应链、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:12](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=2412s) · 他描述所见**：They're in the east. They look They look They look spooky. They I see they have light. Their their skin
+- **[42:10](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=2530s) · 他描述所见**：the tribulation, right? Like seriously, what am I seeing? This is this is way out there because I see the islands. I see everything shaking and there's no place to hide.
+- **[43:14](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=2594s) · 他描述所见**：I feel the anointing all over my head, baby. I'm hearing it. I see it so loud. It's so loud.
+- **[44:50](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=2690s) · 本段原话**：I don't know how much more he wants to show me, but I'm just sitting there camping at this, but I know it I know it's late for a lot of
 
 ### 完整英文 Transcript
 
@@ -770,7 +844,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:34](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=2734s) · 他描述所见**：It's storms. It's earthquakes. It's it's it's it's tsunamis. I see these angels and they're blowing their horns and it's deafening.
+- **[45:56](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=2756s) · 他描述所见**：It's so loud. It's so It's so It's scary to the flesh and and I see Mark Zuckerberg going down in that thing and I see his curly hair and it's it's a little thicker than it usually is. is poofy and he's down in there and he's trembling at the sight of God. He's trembling at the sight of what
+- **[46:14](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=2774s) · 他描述所见**：he's seeing and he's in an island. He's out there and I see the volcanoes going off and everything and I said whenever I I heard it about money, you don't like you talk about money in this. This is about money. Do you know what I'm talking about? The love of money. The love of money. The love the
+- **[49:35](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=2975s) · 他描述所见**：I saw what I was supposed to see. The angels, Diana, were were nothing I've ever seen on this earth. any picture, anything, those angels were were were wow.
 
 ### 完整英文 Transcript
 
@@ -874,7 +955,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–54:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:01](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=3001s) · 他描述所见**：but there was a reverence. And I don't re I reverence Jesus, but I'm telling you when you I saw this, it was it was awe in the spirit realm. And I all everything's all God, y'all. I'm not giving any glory to an angel, but this was this was wow what I just saw. And
+- **[51:52](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=3112s) · 本段原话**：But it was not just a little trimmer. We're talking violently shaking as these angels were blowing their horns. And I could hear the sound from these four four angels. And as one blew, there would be one event. Another blew, boom.
+- **[52:50](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=3170s) · 本段原话**：But first it started out with Jesus marching on the on the thing and that was beautiful. He was marching and playing his drum and knocking on the hearts of men. That was where I want to end this. The others is a little heavy.
+- **[53:51](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=3231s) · 他描述所见**：stuff and the people were starving because there was no food. And I saw farmers looking to the south and I saw them looking to the east and there was storm and I was like what in the world?
 
 ### 完整英文 Transcript
 
@@ -997,7 +1085,14 @@
 <a id="section-12"></a>
 ## 12. 55:00–59:44 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[55:37](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=3337s) · 本段原话**：In the name of Jesus, we call we call the fear of why she thinks she can't provide for it, whatever it may be, we call for peace in the name of Jesus. And we thank you, Father, that you're warning in our behalf right now. And that there's peace over this mother that she will not. And this demonic spirit
+- **[57:35](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=3455s) · 本段原话**：We're standing with you, Grandma. We're st standing with you. Well, it's late, y'all. I mean, we've been going on for three hours. Ain't it amazing how long these this goes? I just get lost in the spirit of the Lord.
+- **[58:30](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=3510s) · 本段原话**：you could please help us. Please. We don't ask you for anything, but we do ask you for this. Like, subscribe, comment something nice down below. Give us a thumbs up. Do everything you can do to get us in the algorithm. That's the That's the Diane and I's biggest desire is to get to this million soul uh prayer
+- **[59:29](https://www.youtube.com/watch?v=_FhdsJ8jhsU&t=3569s) · 本段原话**：And we don't have everything always uh figured out, but we're trying. God bless you all. We love you. Remember, put a smile on your face and a song in your heart. Jesus loves you so much and we love you. God bless you all and we'll see you again soon. Bye bye.
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1199；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 50:00–53:52 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=_co9BHhQB5k&t=0s) · 本段原话**：hey good morning family thank you for joining me today I told everybody I said the Lord showed me in 2020 that there was going to be a chicken shortage and that it would go into turkeys and it would go into the cattle and there would be start messing with the cattle that this was a planned event that things
+- **[10:21](https://www.youtube.com/watch?v=_co9BHhQB5k&t=621s) · 他描述所见**：like 30 minutes or so I don't know exact how fast but I'm saying it was like a 30 minute for an hour I don't know it just it wasn't enough time to evacuate everybody and get them away from the waterline and I saw buildings I saw the hotels in Miami and Fort Lauderdale all
+- **[20:50](https://www.youtube.com/watch?v=_co9BHhQB5k&t=1250s) · 他描述所见**：world of the Antichrist you will see this in the days ahead but I saw a plan of peace coming forth out of from this Gaza chess match of what you'll call it a chess match because of Gaza making America build on Gaza chess match to build the Third Temple and Trump will negotiate this with the
+- **[30:21](https://www.youtube.com/watch?v=_co9BHhQB5k&t=1821s) · 本段原话**：coming and it's going to be a massive Rock and it's going to shake the world there's going to be shakings there's going to be an Awakening you know what's interesting to me there's 340 something million people that live in America and yet we have so much arrogance to always think it's about us America America
+- **[40:22](https://www.youtube.com/watch?v=_co9BHhQB5k&t=2422s) · 本段原话**：you say Brandon that completely weirded me out all that stuff you just said is kind of scary well to those that don't know Jesus yes I can understand why you're a little freaked out and it's a little scary but those to the believer to the believer we say we're looking up because we know our Redemption is drawing nigh
+- **[50:02](https://www.youtube.com/watch?v=_co9BHhQB5k&t=3002s) · 他进行祷告**：power that flows on every single one of us God we're just believing father we thank you for president Trump we pray for healing we call deliverance we call Protection over him we thank you Lord for Israel I thank you Lord that father that if they do um uh strike Iran that no innocent byst standards or civilians
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 物资、能源与供应链、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=_co9BHhQB5k&t=0s) · 本段原话**：hey good morning family thank you for joining me today I told everybody I said the Lord showed me in 2020 that there was going to be a chicken shortage and that it would go into turkeys and it would go into the cattle and there would be start messing with the cattle that this was a planned event that things
+- **[00:58](https://www.youtube.com/watch?v=_co9BHhQB5k&t=58s) · 他描述所见**：the market with the eggs so I was telling you all that I saw that clear back in 2020 and I gave words uh to the church people to my I wasn't on YouTube yet but I was giving them to my my friends on Facebook and people that were uh around warning them about having
+- **[02:13](https://www.youtube.com/watch?v=_co9BHhQB5k&t=133s) · 他描述所见**：beginning here it is in February and they're talking about all this stuff I personally believe for what I was shown in the vision that this would be unless we've prayed it and made it decrease or whatever um by our prayers because i' we've had time to pray over this but we're still seeing
+- **[03:20](https://www.youtube.com/watch?v=_co9BHhQB5k&t=200s) · 他描述所见**：economic uplift in oil and that we as Americans would would drill baby drill and that we would see a major um explosion in oil growth in Israel and other parts and that it would cause the Buri of oil for I saw a season of oil going very very high and that when this took place I saw Saudi
 
 ### 完整英文 Transcript
 
@@ -153,7 +171,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、地震、风暴与灾害。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:01](https://www.youtube.com/watch?v=_co9BHhQB5k&t=301s) · 他表达判断**：here in part folks just like the Bible says and now we're seeing what I believe we're about to see what the Lord showed me five years ago in the news now about chickens about the earthquakes in Italy about Trump saying they're wanting to um um protect Israel and things let's see what happens with that I've seen at the
+- **[06:54](https://www.youtube.com/watch?v=_co9BHhQB5k&t=414s) · 他描述所见**：going to go back to what I saw about the asteroid I saw a major major asteroid flying in over the uh over the United States of America and it was so loud it was so it shook it shook the houses it was like a violent earthquake but from the sky and it shook all the roofs of
+- **[07:41](https://www.youtube.com/watch?v=_co9BHhQB5k&t=461s) · 他描述所见**：speed on it I mean it's a like the speed of sound like by 100 times I mean like it was moving like that fast like a sh and you could hear as it came through it was it just broke everything but I was standing outside and I saw it move overhead and it was it was looked like a
+- **[08:47](https://www.youtube.com/watch?v=_co9BHhQB5k&t=527s) · 他描述所见**：was out of I went out of my body in the vision and I could see above the United States as it's moving that I was transferred above there and I could see this laser was down in like the New Orleans area Alabama New Orleans area this was a military kind of like a
 
 ### 完整英文 Transcript
 
@@ -267,7 +292,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 物资、能源与供应链、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:21](https://www.youtube.com/watch?v=_co9BHhQB5k&t=621s) · 他描述所见**：like 30 minutes or so I don't know exact how fast but I'm saying it was like a 30 minute for an hour I don't know it just it wasn't enough time to evacuate everybody and get them away from the waterline and I saw buildings I saw the hotels in Miami and Fort Lauderdale all
+- **[10:41](https://www.youtube.com/watch?v=_co9BHhQB5k&t=641s) · 他描述所见**：that area I saw completely destroyed by the tsunami wave that went clear all the way up to North Carolina Cape Hatters area it came inland several miles the water did okay it was massive amount of water came inland from this asteroid but not only did it affect America it affect Europe but they had longer to prepare
+- **[13:45](https://www.youtube.com/watch?v=_co9BHhQB5k&t=825s) · 他描述所见**：Thomas Tom Horn or whatever his name is that passed away he said um uh that it was in April so it kind of goes with what I felt in the spirit What What In the vision of what temperature what time frame it was so is that in 2029 Aus and all these things I believe folks that
+- **[14:07](https://www.youtube.com/watch?v=_co9BHhQB5k&t=847s) · 他描述所见**：when the Lord speaks to me now the Visions like it did with New Orleans and he warned me and everybody said Brandon do you see anything about Super Bowl I didn't see anything about Super Bowl I told you what I saw and to pray over New Orleans Las Vegas and Nashville and then I've seen the dump
 
 ### 完整英文 Transcript
 
@@ -384,7 +416,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：Europe、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:50](https://www.youtube.com/watch?v=_co9BHhQB5k&t=950s) · 他描述所见**：devising plans we have to be wise and think about what what we what we are able to do by the power of intercessory prayer now we see Trump negotiating with Putin we see Trump negotiating with zalinski and I've seen dark things about Europe I told you I saw an escalation of War when they call Peace and safety then
+- **[16:21](https://www.youtube.com/watch?v=_co9BHhQB5k&t=981s) · 他描述所见**：sudden destruction in Israel I told you I saw 50 gallon drums of some kind of chemical thing that was in Syria that came out of mountains in Iran and they were going to spray that somehow doing very Sinister things to try to hurt a lot of people and I told you that that that
+- **[17:45](https://www.youtube.com/watch?v=_co9BHhQB5k&t=1065s) · 他描述所见**：them and they will be saying hey we're jumping in and I saw them strategically lining up with Israel in the days ahead I saw this with control roll over the Black Sea there's more to this with with what I've seen Darkness do we have peace and safety for a season because Donald Trump comes on I
+- **[19:41](https://www.youtube.com/watch?v=_co9BHhQB5k&t=1181s) · 他描述所见**：away the spirit that was on Hitler was still roaming the earth does that make sense so it's a familiar spirit so it's the Antichrist agenda spirit so I saw that Spirit messing with key leaders in Europe I believe it was Emanuel mccrone and the
 
 ### 完整英文 Transcript
 
@@ -495,7 +534,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:50](https://www.youtube.com/watch?v=_co9BHhQB5k&t=1250s) · 他描述所见**：world of the Antichrist you will see this in the days ahead but I saw a plan of peace coming forth out of from this Gaza chess match of what you'll call it a chess match because of Gaza making America build on Gaza chess match to build the Third Temple and Trump will negotiate this with the
+- **[22:07](https://www.youtube.com/watch?v=_co9BHhQB5k&t=1327s) · 他描述所见**：in the Lost do you understand he said a four-year window right now that's what he's that what that's what we're focused on a four-year window now what will take place in that four years a lot a lot I saw wealth transfer for one and people say what comes first I saw a wealth transfer that has to happen
+- **[23:19](https://www.youtube.com/watch?v=_co9BHhQB5k&t=1399s) · 本段原话**：right now that he said as a trump got in concerning the week of the Super Bowl it was a strategic week last week and that he would line up with Israel more and you would see a striking on Iran soon you would see all this and I warned you by the spirit of God when this takes
+- **[24:14](https://www.youtube.com/watch?v=_co9BHhQB5k&t=1454s) · 他描述所见**：fear but I believe we'll see I saw cyber attacks cyber attacks watch the airplanes watch the airplanes ladies and gentlem gentlemen there's more to this that I've seen secret things secret things I know this is kind of like a recap you know I'm going over some of the past Visions I've seen I'm
 
 ### 完整英文 Transcript
 
@@ -615,7 +661,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 地震、风暴与灾害、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：地震、风暴与灾害、预言、梦境与异象、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕地震、风暴与灾害、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:00](https://www.youtube.com/watch?v=_co9BHhQB5k&t=1500s) · 本段原话**：and I could see the Black Horse and the green horse the pale chlorophile horse riding almost simultaneously upon the land because plague and famine go hand in hand and the Lord showed me the r the Black Rider the black p for the rider of the horse with a black streak behind him as he was
+- **[25:54](https://www.youtube.com/watch?v=_co9BHhQB5k&t=1554s) · 他描述所见**：things of trying to manipulate the weather strengthening larger hurricanes strengthening tornadoes strengthening uh storms where it would rain in one area and within just a 10 mile radius or 100 miles be complete drought beyond anything you can comprehend I'm talking I saw drought that was worse than the Dust Bowl bad no crops drought drought bad
+- **[27:36](https://www.youtube.com/watch?v=_co9BHhQB5k&t=1656s) · 他描述所见**：of manipulating economies manipulating atmospheres and when this takes place there will be a loss of control sometimes because of trying to manipulate it and they they lose control and I saw straight line winds that will decimate buildings and houses because of them trying to manipulate I saw cracks in the ocean
+- **[28:37](https://www.youtube.com/watch?v=_co9BHhQB5k&t=1717s) · 他描述所见**：thousands of dead fish on the shorelines coming because of the earth I saw a tilt in the Earth's crust don't know why it happens but I saw that it would be a tilt in the magnetic poles even more so to come that it was be that men's heart will fail them for fear looking after
 
 ### 完整英文 Transcript
 
@@ -726,7 +779,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:21](https://www.youtube.com/watch?v=_co9BHhQB5k&t=1821s) · 本段原话**：coming and it's going to be a massive Rock and it's going to shake the world there's going to be shakings there's going to be an Awakening you know what's interesting to me there's 340 something million people that live in America and yet we have so much arrogance to always think it's about us America America
+- **[30:40](https://www.youtube.com/watch?v=_co9BHhQB5k&t=1840s) · 他转述所听到的话**：America America First America this listen there's how many billion in China how many billion in India and yet we think well these events are about America no it's about a worldwide waking up every tribe and tongue so we're going to see some things and the Lord said Don't Fear it don't let it
+- **[31:44](https://www.youtube.com/watch?v=_co9BHhQB5k&t=1904s) · 他描述所见**：saying I know beyond a shadow of a doubt that God is about to do something major in this planet there's a little bit of a window here I saw for a a harvest of finances he said it would be a small window but then the shaking comes so I'm believing that he's given
+- **[33:40](https://www.youtube.com/watch?v=_co9BHhQB5k&t=2020s) · 本段原话**：netham type stuff that will come on the TV and talk eventually being interviewed with some kind of an Angel Fallen Angel demonic Alien Encounter and this is how they're going to explain away the Rapture of the church I was I was shown this when I went to tribulation with the father and he showed me all this stuff
 
 ### 完整英文 Transcript
 
@@ -853,7 +913,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:08](https://www.youtube.com/watch?v=_co9BHhQB5k&t=2168s) · 本段原话**：entering into a new phase of digital assets that is bigger than the dot era a wealth of transfer of wealth like you would not believe is about to take place on this planet and the United States is going to lead it followed by Japan and all these other countries Australia South Korea they're all going
+- **[37:19](https://www.youtube.com/watch?v=_co9BHhQB5k&t=2239s) · 本段原话**：thousand years and it's going to be glorious that's what I'm looking forward to the Thousand Year ring all this other stuff we got to get as many people as we can save saved let's just take communion real quick I know I've said a lot I've dumped a lot out there really quick but I I thought I would do a kind
+- **[38:02](https://www.youtube.com/watch?v=_co9BHhQB5k&t=2282s) · 他描述所见**：to me clearly and I go hey show me the timing of this stuff like I said a lot of times I think it's going to happen this year and me people go you missed it no no when you have a vision like I see and the things I see they don't go away
+- **[39:15](https://www.youtube.com/watch?v=_co9BHhQB5k&t=2355s) · 本段原话**：not a goose flying in the fog so father we take this body right now in the name of Jesus and we thank you Father that you were wounded for our transgressions you are bruised for our iniquities the chastisement of our peace was upon you and with your stripes we're healed and we take this body right now
 
 ### 完整英文 Transcript
 
@@ -980,7 +1047,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:22](https://www.youtube.com/watch?v=_co9BHhQB5k&t=2422s) · 本段原话**：you say Brandon that completely weirded me out all that stuff you just said is kind of scary well to those that don't know Jesus yes I can understand why you're a little freaked out and it's a little scary but those to the believer to the believer we say we're looking up because we know our Redemption is drawing nigh
+- **[42:48](https://www.youtube.com/watch?v=_co9BHhQB5k&t=2568s) · 他表达判断**：with me I believe you're born again I believe you just gave your heart to Jesus Christ and all all all the past is Forgiven as far as the East is from the West he said he would remember your your sins no more he said he'd forget it all he forgives you them all they're in the sea
+- **[43:46](https://www.youtube.com/watch?v=_co9BHhQB5k&t=2626s) · 本段原话**：the Sea of Fire a lake of fire and he's going to be cast into that Lake of Fire and he's going to be tormented there for eternity your sin is from your past is none of the devil's business and if you sin and you mess up again today after you said this prayer your sin is none of
+- **[44:48](https://www.youtube.com/watch?v=_co9BHhQB5k&t=2688s) · 本段原话**：mess up in life I'm going to keep on keeping on WE overcome him by the blood of the lamb and by the word of Our Testimony and we say father I I need a savior that's all it's about I need
 
 ### 完整英文 Transcript
 
@@ -1103,7 +1177,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:01](https://www.youtube.com/watch?v=_co9BHhQB5k&t=2701s) · 本段原话**：Jesus I need Jesus oh how much we need Jesus at that mercy seat at that altar well and then get plugged into a Bible believing church it's so important to go and be around other believers iron sharpens iron get baptized in water very important make sure they baptize in water there baptize yourself in water and uh do that and and
+- **[46:48](https://www.youtube.com/watch?v=_co9BHhQB5k&t=2808s) · 他表达判断**：seed for the sewer and Lord there's a lot of seers on this platform and we believe that you're providing seed for them I believe for hard full return for every single one of them that everything they put their hands to will prosper in the mighty name of Jesus that father that they're blessed above and not
+- **[47:08](https://www.youtube.com/watch?v=_co9BHhQB5k&t=2828s) · 他表达判断**：beneath they'll go through and not go under father they'll have there they have exceedingly abundantly above all that they dare ask or think I believe father that this is a time like never before for to us for us to Excel and walk in the glor glorious outpouring like we've never seen it before that this is a time that the
+- **[48:11](https://www.youtube.com/watch?v=_co9BHhQB5k&t=2891s) · 本段原话**：calling it in now now Faith is the substance of things hoped for and evidence of Things Not Seen and we believe father that we receive your abundant uh provision for for whatever we need we believe it father We Believe father that you are the god of more than enough and we call forth we
 
 ### 完整英文 Transcript
 
@@ -1231,7 +1312,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–53:52 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:02](https://www.youtube.com/watch?v=_co9BHhQB5k&t=3002s) · 他进行祷告**：power that flows on every single one of us God we're just believing father we thank you for president Trump we pray for healing we call deliverance we call Protection over him we thank you Lord for Israel I thank you Lord that father that if they do um uh strike Iran that no innocent byst standards or civilians
+- **[52:02](https://www.youtube.com/watch?v=_co9BHhQB5k&t=3122s) · 本段原话**：trying to keep him 30 minutes but it is what it is I just I start talking I tell you what comes out of me and it just flows but um we appreciate you subscribing if you haven't subscribe click the notification Bell click the thumbs up the like button all the things that helps us with the algorithm
+- **[52:20](https://www.youtube.com/watch?v=_co9BHhQB5k&t=3140s) · 本段原话**：remember we'll never ask you for a dime never if somebody's asking you for anything on any platform we don't do WhatsApp we don't do uh uh you know the the messenger thing where you're you know they try to say hey send me money here to telegram or whatever that crap is they try to do they're scammers we
+- **[53:19](https://www.youtube.com/watch?v=_co9BHhQB5k&t=3199s) · 本段原话**：description not ever anywhere else so please do not fall victim to this so cuz cuz it's very it's very sad when elderly get taken advantage of so I just want to ask you all please Be watchful over scammers especially Facebook Facebook's the worst and so I I don't know why it's annoying so I just wanted to say that
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 620；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 50:00–50:38 · 教会、复兴与信仰、预言、梦境与异象](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:19](https://www.youtube.com/watch?v=FToQQnm1Esc&t=19s) · 他进行祷告**：other people other than yourself to help you get in those rivers of the Holy Ghost to intercede for whatever's on your heart you know we're going to pray in the spirit and you pray for whatever you're believing for I'm going to be praying for Israel again I'm going to be praying for the Peace of Jerusalem for
+- **[10:02](https://www.youtube.com/watch?v=FToQQnm1Esc&t=602s) · 本段原话**：do that KNE in [Music] the we practicing I don't want anybody looking around I don't want anybody looking Amica Amica
+- **[26:16](https://www.youtube.com/watch?v=FToQQnm1Esc&t=1576s) · 本段原话**：call the reserves [Music] call you calling you to your place call you to your [Music]
+- **[30:00](https://www.youtube.com/watch?v=FToQQnm1Esc&t=1800s) · 本段原话**：people just being by you they know how to take care of those natural things so that you can move further over and and this to just be really honest with you this PO thing here is bugging me so I got my friend to come and she's going to hold it so that I can yield further is
+- **[41:28](https://www.youtube.com/watch?v=FToQQnm1Esc&t=2488s) · 本段原话**：thank you Father we worship you we worship you father we worship you [Music] father [Music]
+- **[50:00](https://www.youtube.com/watch?v=FToQQnm1Esc&t=3000s) · 本段原话**：it's time it's time it's no more time to be playing church it's time to wake up wake up for Jesus is coming soon Jesus is coming soon so I just want to encourage you all today be blessed be favored mult be be be exceedingly abundantly above all that you dare ask or think kind of a day today a Victory
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:19](https://www.youtube.com/watch?v=FToQQnm1Esc&t=19s) · 他进行祷告**：other people other than yourself to help you get in those rivers of the Holy Ghost to intercede for whatever's on your heart you know we're going to pray in the spirit and you pray for whatever you're believing for I'm going to be praying for Israel again I'm going to be praying for the Peace of Jerusalem for
+- **[00:37](https://www.youtube.com/watch?v=FToQQnm1Esc&t=37s) · 他表达判断**：the Damascus things that the Lord has been showing me the Iran War all this thing that I believe that's escalating into something bigger and um we're going to pray over what I warned you all about about all the mass po house and the being in the right place at the right time remember I told you all this was an
+- **[00:56](https://www.youtube.com/watch?v=FToQQnm1Esc&t=56s) · 他描述所见**：assignment and they were going to use this to um supress the Second Amendment trying to suppress and using this to campaign on this would be something that would go clear into and I saw it accelerating clear into the spring clear into the summer and I've been you know to pray over Coachella there's a lot of
+- **[02:53](https://www.youtube.com/watch?v=FToQQnm1Esc&t=173s) · 本段原话**：and powers and might you need to know your Authority you need to understand who you are in Christ that you you don't have to have a devil Ram roding you you know beating you down every single day uh putting sickness and disease on you taking away your money poverty lack not enough barely getting by all that's
 
 ### 完整英文 Transcript
 
@@ -160,7 +178,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:02](https://www.youtube.com/watch?v=FToQQnm1Esc&t=302s) · 本段原话**：heart and I start to move just by what I have in my heart I remember brother Hagen said you know following the holy spirit is kind of like you have a string you know and you're working your way along the string so that's actually what we will do but it's important for each
+- **[06:35](https://www.youtube.com/watch?v=FToQQnm1Esc&t=395s) · 他进行祷告**：going to say yield to the spirit and then you'll begin we're going to begin to pray in whatever way the Lord takes us and when I say when you think you've yielded to the spirit yield more now sometimes for my own self when I need to relinquish myself of all that is aware
+- **[07:43](https://www.youtube.com/watch?v=FToQQnm1Esc&t=463s) · 本段原话**：know the Bible says in Acts the fourth chapter uh that when they came together in prayer the church when they came together in prayer they all lifted their voice so everybody everybody let's lift our voice to God right now MH how and dig way down deep on the inside of you reverence God honor him esteem him
+- **[09:04](https://www.youtube.com/watch?v=FToQQnm1Esc&t=544s) · 本段原话**：you some of you you may need to get out of your chair you may need to walk some of you you may need to lay down uh lay onto the I want you Holy Ghost operations operations operations operations of your to get out of your
 
 ### 完整英文 Transcript
 
@@ -251,7 +276,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:02](https://www.youtube.com/watch?v=FToQQnm1Esc&t=602s) · 本段原话**：do that KNE in [Music] the we practicing I don't want anybody looking around I don't want anybody looking Amica Amica
+- **[10:58](https://www.youtube.com/watch?v=FToQQnm1Esc&t=658s) · 本段原话**：Amica [Music] I'm going to get down here because I hear this way and this way
+- **[12:30](https://www.youtube.com/watch?v=FToQQnm1Esc&t=750s) · 本段原话**：nobody looking around come on now many so many many an assembly assembly assembling to do the work for the man [Music]
+- **[14:08](https://www.youtube.com/watch?v=FToQQnm1Esc&t=848s) · 本段原话**：[Applause] is working We Trust You Lord We Trust You Lord we trust you us to that place father you Shin you are shining you are shining
 
 ### 完整英文 Transcript
 
@@ -299,7 +331,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:11](https://www.youtube.com/watch?v=FToQQnm1Esc&t=911s) · 本段原话**：I know Lord November yeah November oh we lift up November November super Supernatural Supernatural Divine divine intervention a divine intervention in November I lift
+- **[15:45](https://www.youtube.com/watch?v=FToQQnm1Esc&t=945s) · 本段原话**：it up before you father super is a to be remembered it is a mon to be all the resources all of the
+- **[17:53](https://www.youtube.com/watch?v=FToQQnm1Esc&t=1073s) · 本段原话**：allv another another three three the three the three oh we lift up the three everything that is made a master everything that is hidden is made manifest it's made manifest it's made manifest everything that is hidden is made manifest to
+- **[19:12](https://www.youtube.com/watch?v=FToQQnm1Esc&t=1152s) · 他进行祷告**：don't no you don't you're not cheating you're not we take authority that right now we break it shall Rivers power rivers of power rivers of power we thank you Lord that all hidden things be revealed hiden things be [Music]
 
 ### 完整英文 Transcript
 
@@ -353,7 +392,11 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节讨论主题：现场讲话（无可靠自动分类）。本节原文没有足够长的完整字幕片段可供可靠提取。
+
+### Key Points / 关键要点
+
+- 本节没有足够清晰的字幕可自动提取关键发言。
 
 ### 完整英文 Transcript
 
@@ -386,7 +429,13 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[26:16](https://www.youtube.com/watch?v=FToQQnm1Esc&t=1576s) · 本段原话**：call the reserves [Music] call you calling you to your place call you to your [Music]
+- **[28:29](https://www.youtube.com/watch?v=FToQQnm1Esc&t=1709s) · 本段原话**：pour pour out healings Upon This Nation healings pour out Lord pour it out healings Upon This [Music] [Applause] [Laughter] [Applause] Nation rivers rivers of healing rivers of it [Music]
+- **[29:26](https://www.youtube.com/watch?v=FToQQnm1Esc&t=1766s) · 本段原话**：you [Music] hallelu [Music] Hallelujah Hallelujah Hallelujah Hallelujah Hallelujah sometimes sometimes you have to get rid of the things that make you a
 
 ### 完整英文 Transcript
 
@@ -445,7 +494,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:00](https://www.youtube.com/watch?v=FToQQnm1Esc&t=1800s) · 本段原话**：people just being by you they know how to take care of those natural things so that you can move further over and and this to just be really honest with you this PO thing here is bugging me so I got my friend to come and she's going to hold it so that I can yield further is
+- **[30:17](https://www.youtube.com/watch?v=FToQQnm1Esc&t=1817s) · 本段原话**：that understand praise the lord it's not a spiritual thing Hallelujah I I'm not done yet and but for me to yield I can't keep thinking about this right here so thanks hallelujah [Music] hallelujah
+- **[30:57](https://www.youtube.com/watch?v=FToQQnm1Esc&t=1857s) · 本段原话**：the best way that you can help is for you to yield to the Holy Ghost [Music] amen
+- **[33:59](https://www.youtube.com/watch?v=FToQQnm1Esc&t=2039s) · 本段原话**：I I lift up the goats separate separate separate [Music] separate we're not having yes the global it is global it is global
 
 ### 完整英文 Transcript
 
@@ -493,7 +549,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:03](https://www.youtube.com/watch?v=FToQQnm1Esc&t=2103s) · 本段原话**：[Music] con conect connection a connection a connection to [Music] the you cannot you cannot stop it you cannot
+- **[36:31](https://www.youtube.com/watch?v=FToQQnm1Esc&t=2191s) · 本段原话**：that door that door open that door Lord open that door oh open the door open the door oh open that door father open the door open the door now open the [Music] door operations there operations on the door the [Music] the removal the removal the removal
+- **[37:06](https://www.youtube.com/watch?v=FToQQnm1Esc&t=2226s) · 本段原话**：that's right I know [Music] Lord of it the unlocking of [Music] it thank you [Music] Jesus it is I know Lord where we've been where are we going
+- **[38:16](https://www.youtube.com/watch?v=FToQQnm1Esc&t=2296s) · 本段原话**：with the envoy we're going with the [Music] envoy preparation for the operation preparation for the operation you prepare [Music] the
 
 ### 完整英文 Transcript
 
@@ -555,7 +618,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[41:28](https://www.youtube.com/watch?v=FToQQnm1Esc&t=2488s) · 本段原话**：thank you Father we worship you we worship you father we worship you [Music] father [Music]
+- **[43:26](https://www.youtube.com/watch?v=FToQQnm1Esc&t=2606s) · 本段原话**：we bless you Lord we bless you father father we worship you right now [Music] Jes
+- **[44:22](https://www.youtube.com/watch?v=FToQQnm1Esc&t=2662s) · 他进行祷告**：[Music] for [Music] pray the word so I'm going to um I'm going to end
+- **[44:55](https://www.youtube.com/watch?v=FToQQnm1Esc&t=2695s) · 他进行祷告**：this I I just I I want to pray for you all father I just thank you Father for
 
 ### 完整英文 Transcript
 
@@ -601,7 +671,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:46](https://www.youtube.com/watch?v=FToQQnm1Esc&t=2746s) · 他表达判断**：are healed and I believe I receive and and I believe they receive father healing for our bodies deliver Deliverance for our bodies the father I thank you Lord that you became a curse for us that we don't have to bear it in our body anymore you don't have to take it in your body we thank you Lord that
+- **[48:49](https://www.youtube.com/watch?v=FToQQnm1Esc&t=2929s) · 他表达判断**：and we receive it well I I just want to tell you all thank you for joining me today I believe I'm almost 100,000 subscribers I believe I only have two 2,000 more subscribers to go so if you're new to this Channel and you would like to subscribe and be a part of this channel
+- **[49:08](https://www.youtube.com/watch?v=FToQQnm1Esc&t=2948s) · 他表达判断**：we would really appreciate it each like each subscription all the notification Bells all help us get the gospel by putting us higher in the ranking in the algorithm I believe uh put in a comment down below if if this blessed you you know tell us uh what kind of prayers you want to pray
+- **[49:42](https://www.youtube.com/watch?v=FToQQnm1Esc&t=2982s) · 他进行祷告**：little YouTube channel and helping us out by by spreading the gospel throughout the whole world Jesus is coming soon ladies and gentlemen and I'm telling you he is coming sooner than we think he's coming back y'all and it's time we pray pray and seek his face like we've never SE was seeking him before
 
 ### 完整英文 Transcript
 
@@ -730,7 +807,12 @@
 <a id="section-11"></a>
 ## 11. 50:00–50:38 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:00](https://www.youtube.com/watch?v=FToQQnm1Esc&t=3000s) · 本段原话**：it's time it's time it's no more time to be playing church it's time to wake up wake up for Jesus is coming soon Jesus is coming soon so I just want to encourage you all today be blessed be favored mult be be be exceedingly abundantly above all that you dare ask or think kind of a day today a Victory
+- **[50:24](https://www.youtube.com/watch?v=FToQQnm1Esc&t=3024s) · 他进行祷告**：Day in Jesus name we'll put a smile on your face and a song in your heart Jesus loved you so much and we love you and we will see you next time you all have a wonderful day God bless you all bye-bye
 
 ### 完整英文 Transcript
 

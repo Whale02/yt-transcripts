@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 616；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 40:00–44:59 · 教会、复兴与信仰、预言、梦境与异象](#section-09)
 - [10. 45:00–49:33 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=0s) · 他进行祷告**：good morning family I I am going to do a pray with me video today with y'all I have a lot more prophetic videos that I'm going to make over the next several days just things that the Lord has really put on me and I'm telling you we're in a time like we've never seen
+- **[17:15](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=1035s) · 他描述所见**：by your spirit oh God in and you open that place open the place open the place for him open the place he's walking through he's walking through now I know he's walking through I see him through eyes [Music] he know know know
+- **[23:16](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=1396s) · 本段原话**：[Music] what thank you Father we give you praise father Holy Father we worship you thank you
+- **[30:35](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=1835s) · 本段原话**：you show yourself real to them today Father in their lives whatever they're believing for I thank you I thank you Father that that everything they have need of in their bodies and their homes and their marriages we thank you that it's meant healed and ho and well from the top of their head to the soles of their
+- **[36:13](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=2173s) · 本段原话**：Clay mold me and make me me and make me clean created in me a clean heart Crea in me a clean heart father You Are The Potter I Am The
+- **[45:23](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=2723s) · 本段原话**：the knees crative working Miracle power is flowing through your knees you're going to feel warmth on them warmth on these knees right now warmth fire on those knees complete restoration it's the it don't worry about popping this is this the Holy Ghost working don't worry about it it's working he's working he's working he's working he's working right
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=0s) · 他进行祷告**：good morning family I I am going to do a pray with me video today with y'all I have a lot more prophetic videos that I'm going to make over the next several days just things that the Lord has really put on me and I'm telling you we're in a time like we've never seen
+- **[01:26](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=86s) · 他进行祷告**：some things that the Lord has showed me uh concerning this concerning um Cuba we need there's some things there I'll be careful with what I say but I'm going to um I'm I want you to listen and pray in the spirit and and intercede for this nation for the great outpouring of the
+- **[01:44](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=104s) · 本段原话**：spirit of the Lord uh uh Beyond anybody's comprehension like I said we're going to see a mighty move of God in these last days I'm believing for a billion Soul harvest in these last days before the coming of the Lord Jesus Christ I'm telling you Jesus is coming and he's coming soon but we are going to see a
+- **[03:26](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=206s) · 本段原话**：Minnesota and they are she is a powerful prayer Warrior that uh that prays and and I've learned a lot from her so that's why I bring her on here and they're at um sister Billy brms prayer service in in Branson Missouri in October and this was several years ago I'm not exactly sure but it's very
 
 ### 完整英文 Transcript
 
@@ -152,7 +170,11 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节讨论主题：现场讲话（无可靠自动分类）。本节原文没有足够长的完整字幕片段可供可靠提取。
+
+### Key Points / 关键要点
+
+- 本节没有足够清晰的字幕可自动提取关键发言。
 
 ### 完整英文 Transcript
 
@@ -175,7 +197,11 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:39](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=639s) · 本段原话**：king Trump in with us okay now now we're going to go
 
 ### 完整英文 Transcript
 
@@ -206,7 +232,11 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[17:15](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=1035s) · 他描述所见**：by your spirit oh God in and you open that place open the place open the place for him open the place he's walking through he's walking through now I know he's walking through I see him through eyes [Music] he know know know
 
 ### 完整英文 Transcript
 
@@ -240,7 +270,11 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[23:16](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=1396s) · 本段原话**：[Music] what thank you Father we give you praise father Holy Father we worship you thank you
 
 ### 完整英文 Transcript
 
@@ -271,7 +305,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:55](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=1555s) · 本段原话**：Father thank you Jesus we treasure it we honor it we receive it thank you Jesus thank you thank you Father thank you my Lord thank you Father thank you dearest father thank you Father thank you my Lord thank you my Lord thank you Father praise him you know I just I feel his presence
+- **[26:28](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=1588s) · 本段原话**：so strong right now after I'm praying and I I'm so thankful that you all join me today um I just I feel so much peace just pushing back things in the spirit and seeding in behalf of America
+- **[26:59](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=1619s) · 他表达判断**：and for Israel for the what's going on in the Middle East right now and I believe there's power in prayer I believe there's power in the unity of us praying together like this I um I just feel his presence so strong right now Holy
+- **[29:10](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=1750s) · 本段原话**：welcome in this place for in your [Music] presence there's healing to I no other power can save Lord but
 
 ### 完整英文 Transcript
 
@@ -365,7 +406,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:35](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=1835s) · 本段原话**：you show yourself real to them today Father in their lives whatever they're believing for I thank you I thank you Father that that everything they have need of in their bodies and their homes and their marriages we thank you that it's meant healed and ho and well from the top of their head to the soles of their
+- **[31:07](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=1867s) · 本段原话**：feet you're so precious to us you're always welcome in my home I know I've said this so much but it is so true you're so welcome in my home I feel you Holy Spirit you're so tangible touch
+- **[31:40](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=1900s) · 本段原话**：them like you've touched me some of them are so dry they're so thirsty they just need a drink for in your presence there's healing [Music]
+- **[32:51](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=1971s) · 本段原话**：again I lifted up Lord come and quench this thirsting of my soul Bread of Heaven feed me till I want no
 
 ### 完整英文 Transcript
 
@@ -447,7 +495,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:13](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=2173s) · 本段原话**：Clay mold me and make me me and make me clean created in me a clean heart Crea in me a clean heart father You Are The Potter I Am The
+- **[38:04](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=2284s) · 本段原话**：Lord Nothing Else Matters Nothing Else Matters just to be with you just to be with you I'll do anything there's no price that I would not pay no just to be with
+- **[39:17](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=2357s) · 他描述所见**：anything oh Lord the Lord's healing people right now I see it receive your Miracle right
+- **[39:48](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=2388s) · 他描述所见**：now I rebuke sickness off of you right now in the name of Jesus Cancer's going away right now I see it
 
 ### 完整英文 Transcript
 
@@ -520,7 +575,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:02](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=2402s) · 他描述所见**：cancer somebody's just been healed of cancer right now it's dying right now it's completely going away there's lumps in the breast there's things that are dissolving I see it right now complete wholeness and complete healing right now in the name of Jesus complete wholeness and complete healing right now lump and the rest
+- **[41:02](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=2462s) · 他描述所见**：Jesus name maybe it's an ear infection I call I I yes I call ear infections whole and healed and well that's what it is I see it Lord the Holy Spirit just gave me more on it and it's inside that Canal it's it's been an infection in there and it's actually it's been severe but I'm
+- **[41:24](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=2484s) · 他描述所见**：calling that ear infection healed and whole right now ear open up Ear open up fibers fiber the the the hairs the follicles all the things in the ear a creative Miracle is working right now in that ear opening up ears ears creative Miracle working power over ears over the eard drums I see ears opening up right
+- **[43:51](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=2631s) · 他描述所见**：glory today thank you for the creative Miracles flowing in their livest today oh tendonitis in the elbow it's in I see your elbow I call elbows be healed and whole and well pain in the elbow elbows are being healed right now your elbow you've had severe pain in your in your elbow move it right now I call your
 
 ### 完整英文 Transcript
 
@@ -635,7 +697,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:33 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:23](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=2723s) · 本段原话**：the knees crative working Miracle power is flowing through your knees you're going to feel warmth on them warmth on these knees right now warmth fire on those knees complete restoration it's the it don't worry about popping this is this the Holy Ghost working don't worry about it it's working he's working he's working he's working he's working right
+- **[46:53](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=2813s) · 他描述所见**：child I see a child and it's a demonic spirit that has been attached with some form of what they would call ADHD and they are being free right now in the name of Jesus I command that demonic spirit that has been attached and diagnosed as this and you come off of that person right
+- **[48:16](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=2896s) · 本段原话**：Lord wow whenever whenever the Holy Spirit shows up like this I just don't want to go but I know I know I need to well thank you all so much for joining me today blessings blessings blessings multiplied blessings upon you may the Lord bless you and keep you may his face shine upon you today may he be gracious
+- **[49:12](https://www.youtube.com/watch?v=H3qJsKn7IO4&t=2952s) · 本段原话**：healed of any of those things comment down below tell us down below if you got healed of any of those of any things that got called out today I want to know God did a miracle creative miracle in your life today there's no distance and time or anything you be watching this five five days 10 days from now God is
 
 ### 完整英文 Transcript
 

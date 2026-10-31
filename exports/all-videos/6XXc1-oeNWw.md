@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1693；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 70:00–76:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-11)
 - [12. 77:00–77:18 · 教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:45](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=45s) · 他转述所听到的话**：So Byron won uh in the primary for the Republican party. So he will face off against David Jolly. And so we'll we'll keep continuing to pray clear up into November for this, but I really believe we will see a landslide victory for Byron because the Lord said, "My hand is on Byron." So congratulations, Byron.
+- **[15:11](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=911s) · 他描述所见**：long will this last until it really erupts into World War II? And that's why I'm telling you the bombs that I saw striking Poland in the days ahead and um other other nations in uh France.
+- **[28:22](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=1702s) · 他描述所见**：But I saw at the time I saw gas when these things take place gas taking off because of the fact that Iran was was crippled for a season. If you remember, I saw gas lines for blocks long of people lining up for gas like it was in the 1970s.
+- **[49:01](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=2941s) · 他描述所见**：style crash and acid they were eating it and I so the the houses are being eaten and the and the uh the uh uh buildings are being eaten by the green acid. This is bad what I saw about the housing and this is April. So today this is what's in the news and I said this is what I
+- **[63:36](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=3816s) · 他描述所见**：So something to watch. And so I saw 25 cents and then I saw a stimulus coming uh with this concerning things. And so it's something to keep watching. Could be nothing. Um because like I said, I'm not a financial adviser, but it was with Saudi Arabia. Then um the Lord showed me I believe more about crypto and and like
+- **[77:00](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=4620s) · 本段原话**：be back again tomorrow and and the video will be, uh, another two hours or whatever. So, but God bless you all. Uh, like, subscribe, uh, click the notification bell. Remember, put a smile on your face and a song in your heart.
+
 <a id="section-01"></a>
 ## 01. 00:00–06:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、经济、银行与市场。 提到的地点：Florida。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:45](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=45s) · 他转述所听到的话**：So Byron won uh in the primary for the Republican party. So he will face off against David Jolly. And so we'll we'll keep continuing to pray clear up into November for this, but I really believe we will see a landslide victory for Byron because the Lord said, "My hand is on Byron." So congratulations, Byron.
+- **[02:00](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=120s) · 他描述所见**：This is what's in the news now. And I think this is interesting because the Lord warned us about uh 25% approval rating for President Trump. Now, this is on all news outlets talking about where people are with President Trump, but I saw that it would fall as low as 25% with his approval rating over the
+- **[02:21](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=141s) · 他描述所见**：economy and things of of where people's heart it the basically the the pulse of the nation. Where's the pulse of the nation? But I saw 25%. I see them not even getting out to vote. There's no rally. There's no war cry anymore.
+- **[05:00](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=300s) · 他描述所见**：But I saw in the vision 25%. And so, uh, what what was this about about him losing the Senate that whenever the real pulse of the American people were frustrated with where they were with the economy, the blue collar workers and the white collar workers, uh, the people who are working the 8 to five Monday through Friday jobs
 
 ### 完整英文 Transcript
 
@@ -190,7 +208,14 @@
 <a id="section-02"></a>
 ## 02. 07:00–13:59 · 物资、能源与供应链、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[07:02](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=422s) · 他描述所见**：buildings rocking in New York and I saw major real estate with big buildings and things in trouble. If you remember, I saw Trump walking a pig with lipstick and eyeshadow and things like that. And you could see the housing market trying to go up with transparent the housing was like like you see the
+- **[08:19](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=499s) · 他描述所见**：Diesel. I see diesel for tractors. There's something with this. I I I see fuel. I feel I see f I see the the g the gas tank. The the diesel tank. I see I see the fields. Fertilizer for the fields. Something very strong concerning this and drought. Okay. This is August 18th.
+- **[09:41](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=581s) · 他描述所见**：it's high. It it right here. Super Elino fertilizer shortages. So it's in the news today that this is this was published on the 17th and the other one was on the 18th. So JP Morgan trying to warn everybody and I think that's interesting because this is what the Lord showed us in the vision. And so uh
+- **[11:28](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=688s) · 他描述所见**：involved in this. Now I want I think this is all interesting how Trump's playing this cuz I saw all the shelves now all the the the the Walmarts and all the things over there what they have.
 
 ### 完整英文 Transcript
 
@@ -346,7 +371,14 @@
 <a id="section-03"></a>
 ## 03. 14:00–20:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：Vatican、Iran、Russia、Ukraine。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:11](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=911s) · 他描述所见**：long will this last until it really erupts into World War II? And that's why I'm telling you the bombs that I saw striking Poland in the days ahead and um other other nations in uh France.
+- **[17:20](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=1040s) · 他描述所见**：Vatican? The Lord said, "I will split the Vatican walls. Structures of the Vatican will be uninhabitable in the days ahead. And I will shake Italy. I will shake Rome." And I saw an 8.2 earthquake hitting Rome and the and Venice. And the Lord said this will be a sign of great change coming to the
+- **[18:55](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=1135s) · 他描述所见**：from the Pope. My question is for y'all. Will this trigger the earthquake that I saw coming to the Vatican? Him calling for a two-state solution right before Rashashana. We're right there. We're in the month of August. Of course, we only have a couple more weeks left. And he's calling for it, saying that publicly.
+- **[20:47](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=1247s) · 本段原话**：Go ahead and listen to what President Trump said here. But I called him. I said, "Would you like to give us a little hand? We don't need help with Iran, but if you'd like, give us a hand with Iran." He said, "No thanks." And I said, "Wait a minute. We have 39,000 soldiers over there guarding
 
 ### 完整英文 Transcript
 
@@ -528,7 +560,14 @@
 <a id="section-04"></a>
 ## 04. 21:00–27:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、物资、能源与供应链。 提到的地点：Canada、Iran、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[21:03](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=1263s) · 他描述所见**：you from Kim Jong-un, your next door neighbor, and you're not going to help us on a very easy military operation in Iran. That's strange. No, no, we'd rather not get involved. I see. Well, why are we involved in helping you? So, and I want to help them, but you know, when you ask somebody, would you like to
+- **[23:48](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=1428s) · 他描述所见**：That's President Trump. I know. As President Trump, I I'm telling you what I've seen and and and if I'm off, I'm off. But I saw Kim Jong-un uh joining an alliance with China and Russia in the days ahead. And this could be our response to that uh saying please don't do this because
+- **[25:35](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=1535s) · 他描述所见**：England. But, but I saw Trump because we're border state, border countries with Canada. I saw walls coming down as a major natural disaster takes place in British Columbia in the days ahead. And I said 30,000 people will perish in this time frame. And I saw all the buildings falling. But I saw major oil wells being
+- **[27:25](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=1645s) · 他描述所见**：It would be a short window for a oil squeeze because President Trump was going to start to really uh bring forth oil in America. But I saw a rising up even with uh Israel strike in Iran. I saw major strikes against Iran coming against their oil refineries against all this. And I saw oil being uh in the
 
 ### 完整英文 Transcript
 
@@ -705,7 +744,14 @@
 <a id="section-05"></a>
 ## 05. 28:00–34:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、物资、能源与供应链。 提到的地点：Canada、Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:22](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=1702s) · 他描述所见**：But I saw at the time I saw gas when these things take place gas taking off because of the fact that Iran was was crippled for a season. If you remember, I saw gas lines for blocks long of people lining up for gas like it was in the 1970s.
+- **[29:34](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=1774s) · 他描述所见**：their economy was in trouble and that we became a lifeboat. And the same thing with Mexico. And I saw that they joined with us and we all became one unit like it was with the bricks who tried to back up the the American economy. And so now we see that coming in the news, him saying that
+- **[30:33](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=1833s) · 他描述所见**：Why will it be short-lived? Because they're going to try to bring out a plague. They're going to try to disrupt the economy. They're going to try to derail. Who does it? China. And I saw Kazakhstan and they were working in it.
+- **[34:04](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=2044s) · 他描述所见**：And so people say, "Well, Brandon, you said you've seen visions of everything getting better. Everything's going to be okay for a season. This is contradicting what you saw." No, I said it lasts for a window. I saw a stimulus. I saw a wave.
 
 ### 完整英文 Transcript
 
@@ -865,7 +911,14 @@
 <a id="section-06"></a>
 ## 06. 35:00–41:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、疾病、医疗与药品。 提到的地点：Europe、China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:01](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=2101s) · 他描述所见**：the waves it's very dark blue but whenever you're on the shore of the Caribbean and the Caribbean or whatever and or maybe in Florida the the shallower the water the the more you can see through the wave. [snorts] So this wave that I saw in times past had crypto and and investments and
+- **[36:55](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=2215s) · 他描述所见**：They were all pacing the floor praying in tongues. President Trump had an encounter. There was something that happened. I saw a plague coming. Remember I've told you worse than the the black plague of death. Worse. It's it's it's it's on it.
+- **[38:54](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=2334s) · 他描述所见**：So, as I was looking at the visions in the past because it comes up and what the Lord was showing me with this one, President Trump was praying and I saw a major uh darkness, but it lifted above the trees barely because of the prayers. A 1920. So all the visions that I have seen and the
+- **[40:58](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=2458s) · 他描述所见**：They're all the same warning. They're all a different uh way you way you can look at it, right? [snorts] So, as I saw President Trump in this, I saw boats. I saw the boats coming from China. I saw trade wars. I saw the boats beginning to rust. I saw the boats beginning to disintegrate in the acid.
 
 ### 完整英文 Transcript
 
@@ -1024,7 +1077,14 @@
 <a id="section-07"></a>
 ## 07. 42:00–48:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[43:29](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=2609s) · 他描述所见**：Putin's hand was dark. Trump hand was red. So, I don't know. I think it's interesting, but it was not diamonds. I wanted to correct that. Um, go ahead. I saw the 13th amendment and I saw the first amendment and the and with with the with the lady that passed away and there was a a big
+- **[45:41](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=2741s) · 他描述所见**：So, we give grace to people. And I'm going to ask you to give me grace. I I don't know what I'm just telling you what I saw. And if it's flesh and you say, "Brennan, I feel like that's pizza." Then then then then we we we put it on a shelf and we keep praying. Okay.
+- **[47:10](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=2830s) · 他描述所见**：This is and I saw stimulation. Pause. This are these are ideas that I saw being thrown around. Okay, they were talking. How do we stimulate the economy? Our economy is in trouble. Just like I just told you back just a couple minutes ago. Look at all the things they're talking about the economy. 33% of America doesn't think
+- **[48:24](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=2904s) · 他描述所见**：How do we stimulate the economy? As I saw the housing market and the houses were melting in the uh the the the green sludge, big tall scar skyscrapers were melting in the sludge. And as they melted, they left a black.
 
 ### 完整英文 Transcript
 
@@ -1186,7 +1246,14 @@
 <a id="section-08"></a>
 ## 08. 49:00–55:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、特朗普与白宫。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[49:01](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=2941s) · 他描述所见**：style crash and acid they were eating it and I so the the houses are being eaten and the and the uh the uh uh buildings are being eaten by the green acid. This is bad what I saw about the housing and this is April. So today this is what's in the news and I said this is what I
+- **[51:54](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=3114s) · 他描述所见**：all open as it was bucking and and acting nuts as Trump was riding that that mule, whatever. river donkey and he was kicking his sides and he was on that thing with his he looked really heavy in this this uh vision which was interesting cuz that that swayback donkey he it was he was bucking and
+- **[52:51](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=3171s) · 他描述所见**：Half the baseball was in it, half the baseball was out, but it was split all around. Then I saw Trump looking at a soccer ball and it was cut in half and there was a golden goose on it. And as this golden goose started to sparkle, it shot down veins all inside of
+- **[54:38](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=3278s) · 他描述所见**：Because we know what the Bible says, going back to the word of God, and this is what I believe that a beast system will rise. I want to go over now what the Lord showed us this last time. And I saw trouble on the water in Europe and what was look at what looked like
 
 ### 完整英文 Transcript
 
@@ -1336,7 +1403,14 @@
 <a id="section-09"></a>
 ## 09. 56:00–62:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、祷告、敬拜与现场互动。 提到的地点：Canada、Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[56:20](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=3380s) · 他描述所见**：I wish I could say I was about to, but I'm just not going to. The Lord showed me certain cryptos that Elon Musk would use, similar to what I said Michael Sailor would double his wealth. Then I saw a pyramid and at the top of the pyramid was Bitcoin. I'll just say that one. But
+- **[57:54](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=3474s) · 他描述所见**：2027. I I saw January, February, March, April, May, June, July, going into August trying to stimulate the economy for a 2year window, two-year window of what he has left, trying to uh stimulate the economy. I saw Greenland was in his crosshairs again, talking about Greenland, talking
+- **[59:01](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=3541s) · 他描述所见**：um a major earthquake taking place. But as I saw uh uh bit bit Bitcoin being thrown around in in other cryptocurrencies for uh world reserves and certain nations and um I and the Lord showed me uh a go that they would call this a new golden age.
+- **[61:53](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=3713s) · 他描述所见**：2025, I saw uh people would be very disappointed in the days ahead and they wouldn't want to pay their income tax concerning a a a reinstatement, a re-evaluation of the Iraqi dinar and they would be upset. But I saw 25 cents.
 
 ### 完整英文 Transcript
 
@@ -1480,7 +1554,14 @@
 <a id="section-10"></a>
 ## 10. 63:00–69:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、教会、复兴与信仰。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[63:36](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=3816s) · 他描述所见**：So something to watch. And so I saw 25 cents and then I saw a stimulus coming uh with this concerning things. And so it's something to keep watching. Could be nothing. Um because like I said, I'm not a financial adviser, but it was with Saudi Arabia. Then um the Lord showed me I believe more about crypto and and like
+- **[67:15](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=4035s) · 他描述所见**：will never talk to you on the phone. So just know this, okay? God bless you. Uh all right. Um, so that's part basically what the Lord showed us in this last vision. Is that all? I don't No, Venezuelan oil. You saw that? Oh, I saw the plan with Venezuelan oil and I saw the elections of Brazil and Colombia
+- **[68:02](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=4082s) · 他描述所见**：But the hotel uh and the uh tourist industry wanted and was foaming like salivating wanting to get a hold of Cuba in the days ahead. And I saw a change of of of of uh money in exchange for it just again uh that God said that he would liberate the people of Cuba. And I
+- **[68:44](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=4124s) · 他描述所见**：government would be uh tyrant government would be gone. I saw Taiwan. I saw people like Elon Musk really coming on the chip game and creating AI and chips like crazy. And that Taiwan wouldn't uh people wouldn't look at Taiwan very much. They would look at America. And I saw America becoming a major chip leader
 
 ### 完整英文 Transcript
 
@@ -1639,7 +1720,14 @@
 <a id="section-11"></a>
 ## 11. 70:00–76:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[70:20](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=4220s) · 他描述所见**：Michigan winning with the beard. And I saw him I saw what was about Elizabeth Warren, though. I saw major megaurches closing because of attendance. I saw people that had abandoned mega megaurches and they didn't have enough money to support their church and they had to downsize into a smaller building and they sold their building to other
+- **[71:56](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=4316s) · 他描述所见**：California in trouble, churches, major mega churches in trouble, people leaving. I saw major migr after the elections in November and up north. I saw major migration even more so of of people leaving and uprooting themselves from the upper northeastern states leaving and they started to try to flow into the red and it started to turn a
+- **[73:45](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=4425s) · 他描述所见**：Keep going. That's it. Okay. You just saw when you when you were talking about Vorn uh where you asked where she center at and you said when is her seat up and and it's 2030 and you said what an interesting time frame. Why is she so dominant in this vision? Why is Warren
+- **[74:59](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=4499s) · 他描述所见**：Water supporting it. Water. Yeah. Water. Water supporting it. [snorts] So I saw trouble on the water in Europe though and [snorts] it was uh the Lord and it was uh the Lord was warning about a major um war again still. So all that in my opinion not financial advice but I thought it was very interesting. Okay.
 
 ### 完整英文 Transcript
 
@@ -1819,7 +1907,12 @@
 <a id="section-12"></a>
 ## 12. 77:00–77:18 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[77:00](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=4620s) · 本段原话**：be back again tomorrow and and the video will be, uh, another two hours or whatever. So, but God bless you all. Uh, like, subscribe, uh, click the notification bell. Remember, put a smile on your face and a song in your heart.
+- **[77:14](https://www.youtube.com/watch?v=6XXc1-oeNWw&t=4634s) · 本段原话**：Jesus loves you so much and we love you. And we'll see you again tomorrow. God bless y'all. Bye-bye.
 
 ### 完整英文 Transcript
 

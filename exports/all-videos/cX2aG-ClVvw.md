@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 657；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 32:00–35:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-09)
 - [10. 36:00–36:44 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:41](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=41s) · 他描述所见**：the prayer video I did uh that the Lord showed me some things I saw some meetings some secret things being taking place and the Lord said go back to the 1960s and the 1960s during that time frame when Kennedy was being president and what was going on there I wasn't going to reveal a lot of what I um saw
+- **[08:23](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=503s) · 本段原话**：great Satan at first I didn't understand what he meant and then I realized this is referring to Israel and the US everyone at the table then applauded and shouted together in unison our God is greater and death to our Eternal enemies the leader then continued and said the ma Mahi Messiah is about to appear and
+- **[16:49](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1009s) · 本段原话**：to go with him and have a amazing F uh feast and we're going to go home and and and and we we'll Rule and rain for a thousand years then after that the sky the limits who knows um watch my video down below about the um the the worlds and all the the the the the stars and
+- **[20:00](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1200s) · 本段原话**：the inside of him better than even David father or Song of Solomon I thank you Father that's interesting I don't know if I can say that out
+- **[28:01](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1681s) · 他进行祷告**：guiding their hands right now you're guiding them you're speaking to them through signs father I thank you Lord I just seen Iraq Flash before me
+- **[36:08](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=2168s) · 他进行祷告**：all right I'm I'm going to end this video here I'm going to pray over this some more but I don't want to say any more out of my mouth on camera here um be bless you all uh uh uh I'm going to pray with my my my son and my family for a minute and uh and then but put a
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 提到的地点：Iran、Israel、Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:41](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=41s) · 他描述所见**：the prayer video I did uh that the Lord showed me some things I saw some meetings some secret things being taking place and the Lord said go back to the 1960s and the 1960s during that time frame when Kennedy was being president and what was going on there I wasn't going to reveal a lot of what I um saw
+- **[01:03](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=63s) · 他进行祷告**：because of uh safety for my family but I will tell you this it's a it's something to pray about this is very serious what I what the Lord showed me and uh what they were planning old ties were being uh reunited okay and so it was brought up in the the the uh Russian news a couple
+- **[01:51](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=111s) · 本段原话**：praying about Israel striking Iran and this causing a major Uprising in and even more about uh the Middle East and the United States going coinciding with this this will be about the oil I seen like I said the Lord showed me oil prices skyrocketing in the Middle East the Petro dollar and things like
+- **[03:47](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=227s) · 他描述所见**：and the more he shows me and he gives me pieces and I see meetings the Lord will show me things and um it's a caution that's a good way to say it it's a caution
 
 ### 完整英文 Transcript
 
@@ -124,7 +142,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 战争与国际事务、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：战争与国际事务、祷告、敬拜与现场互动、教会、复兴与信仰。 提到的地点：Iran、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、祷告、敬拜与现场互动展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:17](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=257s) · 本段原话**：spiritual our spiritual sword and we smack him in the head with that whacka Mo and we keep hitting him down in there and so then he tries to figure out we don't know where he's going to try to stick his head up next hole but he going to try to pop his head up again and it's
+- **[06:12](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=372s) · 本段原话**：shouldn't be going around put oh there's another fire put that fire out put it out as quickly as possible so now we're going to go and we're my wife is going to read this prophetic warning about uh uh Israel and Iran and this was given back several years ago and she'll tell you so um I hope this bless you you you
+- **[07:08](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=428s) · 本段原话**：prophetic word and this one was from November the 28th of 2019 I was observing a meeting of military leaders with the supreme leader of the Iran regime they were seated at a very large conference table that was curved like an oval shape on the sides and square at each end on the far end
+- **[07:30](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=450s) · 本段原话**：was the headman who had a white beard and was wearing a white head wrap and a long dark brown robe flanking him on both sides were men dressed in military uniforms they were speaking in their language but somehow I understood the conversation in a nutshell the leader said that Iran is in a crisis that is
 
 ### 完整英文 Transcript
 
@@ -236,7 +261,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 战争与国际事务、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：战争与国际事务、教会、复兴与信仰、祷告、敬拜与现场互动。 提到的地点：Israel、Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:23](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=503s) · 本段原话**：great Satan at first I didn't understand what he meant and then I realized this is referring to Israel and the US everyone at the table then applauded and shouted together in unison our God is greater and death to our Eternal enemies the leader then continued and said the ma Mahi Messiah is about to appear and
+- **[09:32](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=572s) · 本段原话**：number of missiles from all sides they have nuclear capability now though it is limited and has not been tested their military strategy is to knock out the missile defenses first and then try to sneak in the atomic Warheads in the delou they have now 10 nuclear devices which are hidden among their Arsenal
+- **[10:15](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=615s) · 本段原话**：dream back in 2018 we 2019 sorry November the 28th of 2019 thank you um so he was seeing prior to what just happened in Israel okay it they did exactly what what this this dream was is spot on okay so we see that that what he's warning about is that they're going to try to smuggle
+- **[11:17](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=677s) · 他描述所见**：know I you know I told you all in that one Vision I had um back I believe it was back in November whenever the Lord showed me that that Antichrist agenda the Antichrist spirit was trying to come on faster they're even calling it they're they're asking for the the Mi the Mi who I who I tell y'all that they
 
 ### 完整英文 Transcript
 
@@ -333,7 +365,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:14](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=734s) · 他描述所见**：was with Jesus Christ himself walking the streets of America and I saw it on the screen and I'm trying to warn you all this is who they're talking about now if you want to listen fine if you don't fine but I'm trying to warn you ahead of time does it does it change
+- **[13:54](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=834s) · 本段原话**：about these things I want to intercede for the safety of America we got open borders from a from a rogue president that doesn't know what he's doing obviously that keeps the borders open these people are pouring over and it's not all just people seeking Refuge there's terrorists we just c a guy trying to say he was trying to do
+- **[14:13](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=853s) · 他讨论新闻或报道**：something crazy just a couple weeks ago saying do you you're going to know who I am he he he basically threatened us and I'm thinking this stuff is this is this is not Hollywood this isn't movies this is on the news this is real life okay so I I'm I'm not trying to preach Spirit
+- **[15:42](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=942s) · 本段原话**：Encourage Yourself start imagining yourself over there it's going to happen Jesus is coming and we're going to re Rule and reign with him for a thousand years on in a new Heaven and a new Earth it's going to be amazing and my wife we talk about it all the time it's encouraging you know encourage yourself
 
 ### 完整英文 Transcript
 
@@ -449,7 +488,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、教会、复兴与信仰。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:49](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1009s) · 本段原话**：to go with him and have a amazing F uh feast and we're going to go home and and and and we we'll Rule and rain for a thousand years then after that the sky the limits who knows um watch my video down below about the um the the worlds and all the the the the the stars and
+- **[17:09](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1029s) · 他进行祷告**：all all the galaxies of what he's called every single one of us are going to rule and reign with him so I'm I'm going to pray right now um for for eternity and forever you know I'm going to pray right now and I'm just going to believe God with you we're going to pray over Israel
+- **[18:01](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1081s) · 本段原话**：protection you've made a hedge around and about them they're the apple of your eye you that's what your word says and I thank you that they are covered and there will be no nuclear attacks there will be no dirty bombs there will be no uh uh biological warfare on any of us we
+- **[18:21](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1101s) · 本段原话**：thank you that father even before the enemy tries to come in and Destroy anything that your plan will stop it because you will give them even Supernatural wisdom Supernatural creative uh Holy Ghost ideas that they don't even know maybe that they're getting it from but father you can guide and Lead send Angels right now in the
 
 ### 完整英文 Transcript
 
@@ -560,7 +606,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1200s) · 本段原话**：the inside of him better than even David father or Song of Solomon I thank you Father that's interesting I don't know if I can say that out
+- **[20:43](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1243s) · 他描述所见**：loud I just tell you all I see mountains right now and I see these uh hidden things in Iran there's some kind of like heels and I see caves and caverns with hidden things they're not hidden though the
+- **[22:11](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1331s) · 他描述所见**：wow man that's a whole underground system wow it goes way down deep in there doesn't it no kittening Lord why you show me these things I see all this I see
+- **[22:47](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1367s) · 本段原话**：canisters big they're like silver canisters full of uh liquids there some of them are G gas stuff they're not it's like a similat like how liquid propane comes up as a gas and they're on these these um there they they're they're they're by they're like on
 
 ### 完整英文 Transcript
 
@@ -608,7 +661,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 物资、能源与供应链、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:08](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1448s) · 他描述所见**：okay so we we're going to pray we pray for the protection of more innocent lives being lost I see a yellow mustard gas it is a gas in these these um sier Asian orange it is a form of a a a
+- **[25:54](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1554s) · 他描述所见**：truck I see a master truck chill them on but it's not like the trucks we have it's not clean like that it's not nice like like a a big rig this is a big bed long truck and these things are in this truck they're try they're trying to transport I see
+- **[26:25](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1585s) · 他描述所见**：Hills I see them trying to sneaky back the back way it's going through these Hills and there's no trees it's it's a lot of desert looking Rock and it's coming through and it's and it's coming through that is so interesting through Damascus
+- **[27:38](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1658s) · 他进行祷告**：exposed I call every hidden thing to be exposed in the name of Jesus that the the the intelligence would catch these things father even by a what they would even think it's by accident but it's by by Your Divine leading I thank you Lord that you're
 
 ### 完整英文 Transcript
 
@@ -661,7 +721,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:01](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1681s) · 他进行祷告**：guiding their hands right now you're guiding them you're speaking to them through signs father I thank you Lord I just seen Iraq Flash before me
+- **[28:48](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1728s) · 他描述所见**：po po it's it's it's the the the the northern part towards the tip there's something about this I see going through nor Northern Iraq
+- **[30:26](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1826s) · 他描述所见**：summer I see them chanting death to America I see they have these um things on their heads but they have um their their tears they have they have AK-47s and they are um they're moving around in this thing outside they're moving and they're y they're yelling
+- **[31:37](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1897s) · 本段原话**：clear about that guas what is that Lord C it's very very serious
 
 ### 完整英文 Transcript
 
@@ -705,7 +772,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:00](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1920s) · 本段原话**：it makes the victim throw up a lot it's almost like it makes you uh your backbone uh it the convulsions of the body would it would cause you to break in half like it's so serious it it's like your body um the biological it makes you want to it makes your insides want to come
+- **[32:25](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=1945s) · 他描述所见**：out causing huge huge Burns and welps on upon the skin I see welps like your skin is melting like yeah even on the face
+- **[33:55](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=2035s) · 本段原话**：strength [Music] the the the atmosphere outside is warm so it's it's like 85 90° outside
+- **[35:10](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=2110s) · 本段原话**：Lord I Thank You Holy Spirit I plead the blood over my family over my children my wife over father over this area I thank you Father that no weapon formed against us would prosper I just saw a glimpse of the Border again Kabab
 
 ### 完整英文 Transcript
 
@@ -755,7 +829,12 @@
 <a id="section-10"></a>
 ## 10. 36:00–36:44 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:08](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=2168s) · 他进行祷告**：all right I'm I'm going to end this video here I'm going to pray over this some more but I don't want to say any more out of my mouth on camera here um be bless you all uh uh uh I'm going to pray with my my my son and my family for a minute and uh and then but put a
+- **[36:33](https://www.youtube.com/watch?v=cX2aG-ClVvw&t=2193s) · 本段原话**：smile on your faith thank you for watching our videos thank you all put a smile on your face and a song on your heart Jesus loves you so much and we will see you next time God bless you guys have a nice day
 
 ### 完整英文 Transcript
 

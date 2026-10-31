@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 984；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 40:00–42:39 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:41](https://www.youtube.com/watch?v=cr4is0_bL14&t=41s) · 他描述所见**：driving I I stopped. I had to pull over and I and I started seeing some things that were coming in the future concerning AI technology again and concerning uh the healthcare industry and cures for certain diseases. The Lord showed me a hook. And I saw a worm on this hook that was not a whole worm, but
+- **[08:43](https://www.youtube.com/watch?v=cr4is0_bL14&t=523s) · 他描述所见**：Then I saw genetically modified food like you would not believe what's coming with our fruits, our vegetables. I'm talking genetically modified altered food like you would not believe is coming. And I saw things and fruits and vegetables that were what would look like vegetables but really wasn't really nutrition because it was being messed
+- **[16:00](https://www.youtube.com/watch?v=cr4is0_bL14&t=960s) · 他描述所见**：because I'm not a financial adviser. All of this is in my opinion. But I'm telling you I of what I believe what the spirit of the lord is telling me. And I want you to pray about it and see what he's telling you. But I saw these things concerning what I believe he showed me.
+- **[24:36](https://www.youtube.com/watch?v=cr4is0_bL14&t=1476s) · 他描述所见**：We're going to see the I'm telling you we we're about to see things we we we didn't think we would see but I saw in the shaking to awaken in India in the heart of India he he said specifically that his son would be exalted as we see this major shaking and the temples and
+- **[33:09](https://www.youtube.com/watch?v=cr4is0_bL14&t=1989s) · 本段原话**：Everybody's going to go and be create is being is being refined. The apostle Paul like Bino was talking about he said I die daily but you die in so many different areas of your life and you don't even realize it. You know it's not just one set thing. You're being molded just like him.
+- **[40:00](https://www.youtube.com/watch?v=cr4is0_bL14&t=2400s) · 本段原话**：be marriages that have divorce or or or separation, but Father, there's unity and there's a flow of the spirit of God in the household in Jesus' name. We give you all the glory, honor, and praise, Father, for peace that passes all understanding. and all the seeds they sowed in the past, they'll reap a
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:41](https://www.youtube.com/watch?v=cr4is0_bL14&t=41s) · 他描述所见**：driving I I stopped. I had to pull over and I and I started seeing some things that were coming in the future concerning AI technology again and concerning uh the healthcare industry and cures for certain diseases. The Lord showed me a hook. And I saw a worm on this hook that was not a whole worm, but
+- **[02:10](https://www.youtube.com/watch?v=cr4is0_bL14&t=130s) · 他描述所见**：And I saw a cure, but it not only was it for breast cancer, but I don't this was this was something specifically it was it was designed something happens and I saw this happen. But then I saw other cures of cancer, right, coming. But the Lord spoke to me and he said, "There's a cure even for
+- **[02:31](https://www.youtube.com/watch?v=cr4is0_bL14&t=151s) · 他描述所见**：Alzheimer's." And I saw the number 75 at the beginning stages for not for a cure but if you had Alzheimer's and they caught it early that you would take this thing and it would prolong your life that it would not affect you so much it would delay the decay. it would delay the process of
+- **[03:40](https://www.youtube.com/watch?v=cr4is0_bL14&t=220s) · 本段原话**：they were going to it's something with AI. Okay, it's coming. Then the Lord showed me stuff with type one and type two diabetes. And the Lord showed me that they were going to come up with AI technology. there would be cures for type one and type two diabetes. That this was a hook,
 
 ### 完整英文 Transcript
 
@@ -121,7 +139,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · AI、科技与监控、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：AI、科技与监控、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕AI、科技与监控、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:21](https://www.youtube.com/watch?v=cr4is0_bL14&t=261s) · 他转述所听到的话**：Everybody's going to say this is our friend. Do does that make sense? And the Lord told me, he said, "Warn my people what's coming." So then the Lord showed me this, and this was very disturbing.
+- **[04:34](https://www.youtube.com/watch?v=cr4is0_bL14&t=274s) · 他描述所见**：He showed me surrogate mothers, okay? Mothers that did not want to carry a baby, but would pay somebody else to do it. That would become not not something that people do anymore. I saw lab tube babies that would be created with AI technology.
+- **[06:47](https://www.youtube.com/watch?v=cr4is0_bL14&t=407s) · 他描述所见**：They paid mega money for what they specifically wanted for a build a child, not a build a bear, a build a child. And it was very disturbing. So, I saw the child be born. It was ready to hatch out of this womb thing with bubbles bubbling all around it, keeping the baby alive. It was not. It was It was like It
+- **[07:11](https://www.youtube.com/watch?v=cr4is0_bL14&t=431s) · 他描述所见**：was It was AI technology beyond anything you can comprehend. Taking the egg from the woman and the seed from the man and creating a child with your DNA out of it. But there was no, and this is what I thought was interesting. I saw the baby and there was no what I could see in the face
 
 ### 完整英文 Transcript
 
@@ -219,7 +244,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:43](https://www.youtube.com/watch?v=cr4is0_bL14&t=523s) · 他描述所见**：Then I saw genetically modified food like you would not believe what's coming with our fruits, our vegetables. I'm talking genetically modified altered food like you would not believe is coming. And I saw things and fruits and vegetables that were what would look like vegetables but really wasn't really nutrition because it was being messed
+- **[09:57](https://www.youtube.com/watch?v=cr4is0_bL14&t=597s) · 他讨论新闻或报道**：I just was driving by and the Lord showed me that there would be things happen with Starbuckses in the days ahead concerning coffee beans. something with the coffee beans and it will be on the news. There will be something wrong with all because there's so many people drinking so much coffee with all around
+- **[10:13](https://www.youtube.com/watch?v=cr4is0_bL14&t=613s) · 他描述所见**：the world with with uh you know folders or whatever. I'm just saying there's a there's there's some kind of coffee bean shortage coming. And I thought that was interesting cuz cuz I don't drink coffee, but I drink tea and things. But I saw this and the Lord showing me in the days ahead I saw coffee bean
+- **[11:04](https://www.youtube.com/watch?v=cr4is0_bL14&t=664s) · 他描述所见**：That's the only way I can describe it is that that that people wouldn't want to touch it. That people wouldn't want to touch the dollar. that in the days ahead Trump could push and I saw him in a canoe.
 
 ### 完整英文 Transcript
 
@@ -324,7 +356,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、疾病、医疗与药品、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、疾病、医疗与药品展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:02](https://www.youtube.com/watch?v=cr4is0_bL14&t=722s) · 他描述所见**：now delaying the inevitable as he's paddling with all his might. I saw these pillars rise up and they look like black onic boxes and they were all perfect boxes.
+- **[13:00](https://www.youtube.com/watch?v=cr4is0_bL14&t=780s) · 他描述所见**：I saw certain investment groups. I saw a prince in in Saudi Arabia, Michael Sailor, Black Rockck, certain investment groups would be the first trillionaires in the global economy.
+- **[14:48](https://www.youtube.com/watch?v=cr4is0_bL14&t=888s) · 他描述所见**：have never seen this kind of plague that's coming. He said it's coming. And many people h they don't know how to handle this what's going to about is what for what's about to happen. And I saw people fleeing the cities again going to rural areas but it wasn't too rural like way out in
+- **[15:32](https://www.youtube.com/watch?v=cr4is0_bL14&t=932s) · 他描述所见**：to buy a land. So they didn't have people around them to be able to have a garden or a place of refuge from this virus because that's how freaked out they were. So I saw stability in real estate concerning rural rural land.
 
 ### 完整英文 Transcript
 
@@ -415,7 +454,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=cr4is0_bL14&t=960s) · 他描述所见**：because I'm not a financial adviser. All of this is in my opinion. But I'm telling you I of what I believe what the spirit of the lord is telling me. And I want you to pray about it and see what he's telling you. But I saw these things concerning what I believe he showed me.
+- **[18:04](https://www.youtube.com/watch?v=cr4is0_bL14&t=1084s) · 他描述所见**：bankrupt in the days ahead. I saw that people would not be able to afford tickets or be afraid to go to these games and they didn't support these major athletes. So, watching NBA superstars and baseball, these were the two major ones that stood out to me. And I saw the Jets, I saw the Eagles, I saw the
+- **[18:48](https://www.youtube.com/watch?v=cr4is0_bL14&t=1128s) · 他描述所见**：And I saw huge arenas completely empty. And the Lord said to me, "No longer will they call them sporting events. They will call them glory events." And the Christian community, the remnant will rent these facilities, the Dallas Cowboy Stadium, Arlington Stadium, whatever. I'm talking major sporting arenas were rented out for a glorious
+- **[19:40](https://www.youtube.com/watch?v=cr4is0_bL14&t=1180s) · 他描述所见**：And he called it glory domes. There will be not sports domes. There will be glory domes. And I got so excited when I saw the people worshiping freely with the glory of God filling these major stadiums all for the glory of God. It was amazing. It became no sports. It
 
 ### 完整英文 Transcript
 
@@ -505,7 +551,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、地震、风暴与灾害。 提到的地点：Israel、Canada、Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:22](https://www.youtube.com/watch?v=cr4is0_bL14&t=1222s) · 他描述所见**：That's what the Lord said. I said, he said, "The heart of India, a major 7.7, for this will be the beginning of a great shaking over this area wi which will bring forth a great revival." And I saw a great revival being birthed out of this great 7.7 earthquake in India.
+- **[21:28](https://www.youtube.com/watch?v=cr4is0_bL14&t=1288s) · 他描述所见**：I saw a major war breaking out again with Putin. I saw a great war great war trying to kick off with Putin as we do not handle the bear of care as you as you as they try to stiff arm and try this thing will try with Mcronone and these other major leaders trying to kick
+- **[22:43](https://www.youtube.com/watch?v=cr4is0_bL14&t=1363s) · 他描述所见**：I saw uh strategic plans to disarm and split Israel and concerning the Gaza coming against Israel with certain nations. And as they did this, the sheep and the goat nations would be very uh a dividing line. You'll know who they are.
+- **[23:04](https://www.youtube.com/watch?v=cr4is0_bL14&t=1384s) · 他描述所见**：And the ones that stand with Israel, you'll be you'll see a blessing. And the ones that do not stand with Israel, I saw great earthquakes and very it was u not just earthquakes. I saw events that would be concerning weather, concerning their economy, concerning things that you it would be biblical proportion for
 
 ### 完整英文 Transcript
 
@@ -594,7 +647,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:36](https://www.youtube.com/watch?v=cr4is0_bL14&t=1476s) · 他描述所见**：We're going to see the I'm telling you we we're about to see things we we we didn't think we would see but I saw in the shaking to awaken in India in the heart of India he he said specifically that his son would be exalted as we see this major shaking and the temples and
+- **[25:13](https://www.youtube.com/watch?v=cr4is0_bL14&t=1513s) · 他描述所见**：to this with what I was said. For the sake of time, I I feel that's pretty healthy. I mean, for what I've given you, but it was s things about the economy that was very uh disturbing that I saw. Like I said, I'm not here to give financial advice. I never do. But I'm
+- **[25:30](https://www.youtube.com/watch?v=cr4is0_bL14&t=1530s) · 他描述所见**：going to tell you, uh, the inevitable is being delayed. And what I saw coming was a window of opportunity for the wealth of the sinner. What what we have right now is a window of opportunity, if you're listening, to do the things to get your house in order for what's about to come.
+- **[26:35](https://www.youtube.com/watch?v=cr4is0_bL14&t=1595s) · 本段原话**：So, with Trump trying his hardest to paddle upstream with that canoe, it wasn't a it wasn't a boat, it wasn't a motorboat, it was it was a canoe and he was and not getting any traction and that thing was sucking him through that that current and it was moving rapids like water rapids. and he was pulling
 
 ### 完整英文 Transcript
 
@@ -701,7 +761,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:16](https://www.youtube.com/watch?v=cr4is0_bL14&t=1696s) · 本段原话**：This is going to be your buddy. You Everything that we're going to present to you is going to look like a package pig. And it'll look like something really good. Like I try to tell you all the pig is walking around the pork spinning bill and Donald Trump walking that pork thing around telling you it's
+- **[29:00](https://www.youtube.com/watch?v=cr4is0_bL14&t=1740s) · 本段原话**：This will be a short-lived window. And most people, oh, JD Vance is coming next time or or uh Ronda Santz or some and it's going to keep getting better and better and better. Folks, the only thing that's going to get better is Jesus Christ is coming back for us. The beast system and the and the end times, the
+- **[29:18](https://www.youtube.com/watch?v=cr4is0_bL14&t=1758s) · 本段原话**：tribulation is is is at our doorstep. Jesus Christ is coming. Not a making America great again. We're having a window of making America float. That's a good word. It should have sunk and the battleship is barely a floating. But as we see these days approaching and what's coming next, it's not to be afraid. The
+- **[31:18](https://www.youtube.com/watch?v=cr4is0_bL14&t=1878s) · 本段原话**：it. These are the things the Lord's working on my heart about. And obviously it's about pro approval addiction because he said take the the the comment sections off your phone and about money stuff. You know, it's interesting when God is is is cultivating something bigger inside of you. He sees this is something that it's like I told D, I
 
 ### 完整英文 Transcript
 
@@ -818,7 +885,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[33:09](https://www.youtube.com/watch?v=cr4is0_bL14&t=1989s) · 本段原话**：Everybody's going to go and be create is being is being refined. The apostle Paul like Bino was talking about he said I die daily but you die in so many different areas of your life and you don't even realize it. You know it's not just one set thing. You're being molded just like him.
+- **[33:28](https://www.youtube.com/watch?v=cr4is0_bL14&t=2008s) · 他表达判断**：I decrease that he increase. And that's the part of being a a a believing believer is that we're never perfect. We're a work in progress. And that's why I think yesterday I I I wanted you to hear it so bad as that is some people try to put you on a pedestal and I try to say I knocked myself off of
+- **[34:53](https://www.youtube.com/watch?v=cr4is0_bL14&t=2093s) · 他进行祷告**：it, but at the same time, I take a great responsibility and listening and praying and making sure it's accurate and praying over it and saying, "God, I thank you, Lord, that you've given me this platform, but I take it so serious." So, thank you that you trust me enough to come and pray with me, that
+- **[35:12](https://www.youtube.com/watch?v=cr4is0_bL14&t=2112s) · 他描述所见**：you're a part of our family, that you that you come to our little church group, this little prayer group that we do. And we're so grateful for every single one of you that you would come here and pray with us and pray over the nations, the African family that I saw and all the things.
 
 ### 完整英文 Transcript
 
@@ -928,7 +1002,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:51](https://www.youtube.com/watch?v=cr4is0_bL14&t=2211s) · 本段原话**：like that, I don't take it for granted. You're helping me. And in doing so, saying, "Hey, I want to help you buy a Bible or whatever." I'm I'm just like I'm I'm I'm I'm so humbled by it. I'm not a person that ever I like to say I take handouts or whatever. I like I said, I never ask for
+- **[37:20](https://www.youtube.com/watch?v=cr4is0_bL14&t=2240s) · 本段原话**：It it's it's such a blessing. Five bucks. That adds up, man. Like yesterday, I thought, my goodness, look what the Lord did with just $5 here, $10 here. Look what he did on those super thanks. And I just want to say thank you.
+- **[38:46](https://www.youtube.com/watch?v=cr4is0_bL14&t=2326s) · 本段原话**：That, Father, the doors of favor and the doors of opportunity. We send the angels out right now in the name of Jesus that they would go before them and prepare the way in every single area of their life. That no matter what they are supposed to do, God, that it will be a
+- **[39:51](https://www.youtube.com/watch?v=cr4is0_bL14&t=2391s) · 本段原话**：We thank you, Lord, there's no strife in their homes, Father, that their marriages are strong and they last forever. That they'll not
 
 ### 完整英文 Transcript
 
@@ -1038,7 +1119,14 @@
 <a id="section-11"></a>
 ## 11. 40:00–42:39 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:00](https://www.youtube.com/watch?v=cr4is0_bL14&t=2400s) · 本段原话**：be marriages that have divorce or or or separation, but Father, there's unity and there's a flow of the spirit of God in the household in Jesus' name. We give you all the glory, honor, and praise, Father, for peace that passes all understanding. and all the seeds they sowed in the past, they'll reap a
+- **[41:15](https://www.youtube.com/watch?v=cr4is0_bL14&t=2475s) · 本段原话**：We're in the right place at the right time doing exactly what you've called us to do. And we're filled with and controlled by the Holy Ghost in these last days. Father, we'll hear your voice, Father, and will a stranger's voice will not follow. I plead the blood of Jesus over every single one of us
+- **[41:49](https://www.youtube.com/watch?v=cr4is0_bL14&t=2509s) · 他进行祷告**：I know I didn't pray a long time but I gave you a three-hour video last time and there's a lot of you got to watch over all that. So, I I have I gave you a little shorter video today for you, but either way, we we're so grateful for every single one of you. Thank you for
+- **[42:05](https://www.youtube.com/watch?v=cr4is0_bL14&t=2525s) · 本段原话**：subscribing. If you could subscribe, subscribe my to my channel. I'm I come on here to warn you about what the spirit of the Lord's telling me and and and uh and I appreciate you coming on and watching with us. Subscribe, subscribe, subscribe. Click the notification bell, click the thumbs up button, comment something nice down
 
 ### 完整英文 Transcript
 

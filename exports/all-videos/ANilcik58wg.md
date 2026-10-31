@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 231；**章节数**: 3；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -13,10 +13,25 @@
 - [02. 04:00–07:59 · 预言、梦境与异象](#section-02)
 - [03. 08:00–10:17 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-03)
 
+## 全片概述与 Key Points
+
+全片共 3 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:52](https://www.youtube.com/watch?v=ANilcik58wg&t=52s) · 本段原话**：It's the same spirit that was hit behind Hitler. The same thinking that Hitler thought it's sickening. This should be illegal. We're all fearfully and wonderfully made by the father. The Lord showed me this and this was very disturbing. He showed me surrogate mothers, okay? Mothers that did not want to carry a baby but would pay somebody
+- **[04:01](https://www.youtube.com/watch?v=ANilcik58wg&t=241s) · 他描述所见**：what I could see in the face was there was no real connection that I saw as the mother carried this child as normal as what we have now car there's a connection and a bond that is created with the human with the human that is only done by God.
+- **[08:02](https://www.youtube.com/watch?v=ANilcik58wg&t=482s) · 本段原话**：in their opinion, right? So you raise up a bunch of these celebrity names and males to take on that name of that celebrity or royalty or whatever they thought was deemed necessary. But in a superhuman, it's, you know, beautiful eyes, beautiful. This is guaranteed, ma'am. You put this in there and they're they're never going to have cancer. will
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · AI、科技与监控、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：AI、科技与监控、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕AI、科技与监控、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:52](https://www.youtube.com/watch?v=ANilcik58wg&t=52s) · 本段原话**：It's the same spirit that was hit behind Hitler. The same thinking that Hitler thought it's sickening. This should be illegal. We're all fearfully and wonderfully made by the father. The Lord showed me this and this was very disturbing. He showed me surrogate mothers, okay? Mothers that did not want to carry a baby but would pay somebody
+- **[02:18](https://www.youtube.com/watch?v=ANilcik58wg&t=138s) · 本段原话**：And they could have the the the gender they wanted, the hair color, the the structure of the body, everything was in design. And if it started to like if it wasn't right, they aborted it because it wasn't what they had ordered like an order like you placed a AI order. This is what we want at the lab.
+- **[03:19](https://www.youtube.com/watch?v=ANilcik58wg&t=199s) · 他描述所见**：They paid mega money for what they specifically wanted for a build a child, not a build a bear, a build a child. And it was very disturbing. So, I saw the child be born. It was ready to hatch out of this womb thing with bubbles bubbling all around it, keeping the baby alive. It was not. It was It was like It
+- **[03:43](https://www.youtube.com/watch?v=ANilcik58wg&t=223s) · 他描述所见**：was It was AI technology beyond anything you can comprehend. Taking the egg from the woman and the seed from the man and creating a child with your DNA out of it. But there was no, and this is what I thought was interesting. I saw the baby and there was no
 
 ### 完整英文 Transcript
 
@@ -121,7 +136,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象
 
-**中文章节摘要**：本段涉及：预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=ANilcik58wg&t=241s) · 他描述所见**：what I could see in the face was there was no real connection that I saw as the mother carried this child as normal as what we have now car there's a connection and a bond that is created with the human with the human that is only done by God.
+- **[05:03](https://www.youtube.com/watch?v=ANilcik58wg&t=303s) · 他描述所见**：But the Lord told me to warn you that this is coming, lab grown children, lab grown life. But then I saw them taken in labs and they were doing genetic code in Japan and in China and some other places. I don't know if United States would come right out and do this very fast, but I saw foreign
+- **[06:23](https://www.youtube.com/watch?v=ANilcik58wg&t=383s) · 本段原话**：A toilet bowl. That's what it looked like. putting at the the and as it it was growing and developing the baby would be uh what what had if it and if it wasn't what they wanted they just aborted it build a bear like that but build a baby and I said that yesterday I was hearing
+- **[07:10](https://www.youtube.com/watch?v=ANilcik58wg&t=430s) · 他转述所听到的话**：and and I I encourage you all not to either, but they were saying it right and I thought that was kind of interesting. But the I heard the celebrity talking and they were saying this is convenient to not put stress on the woman's body because it will be it's not it it's it's
 
 ### 完整英文 Transcript
 
@@ -214,7 +236,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–10:17 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:02](https://www.youtube.com/watch?v=ANilcik58wg&t=482s) · 本段原话**：in their opinion, right? So you raise up a bunch of these celebrity names and males to take on that name of that celebrity or royalty or whatever they thought was deemed necessary. But in a superhuman, it's, you know, beautiful eyes, beautiful. This is guaranteed, ma'am. You put this in there and they're they're never going to have cancer. will
+- **[08:40](https://www.youtube.com/watch?v=ANilcik58wg&t=520s) · 他描述所见**：When I was in there and I was looking at the vision, I heard the voice of the Lord and he said, "This is closer than you realize."
+- **[08:48](https://www.youtube.com/watch?v=ANilcik58wg&t=528s) · 他描述所见**：And then I saw babies in labs in embryotic fluid with bubbling with a light behind it. It looked like a hot light keeping this baby warm. It looked like something in a sci-fi movie that was being created and not a fully formed baby, but a baby that was actually being created. And what you could see it
+- **[09:46](https://www.youtube.com/watch?v=ANilcik58wg&t=586s) · 他描述所见**：could see the fluids and it looked like the ambriotic fluid looked a yellow tint color. It looked like almost like a a shade of urine. I don't know. Like like that's what I'm saying. It looked like that. It looked like a like a like a but it looked thick like jelly. And I saw it
 
 ### 完整英文 Transcript
 

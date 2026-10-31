@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1382；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 60:00–65:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 66:00–67:22 · 教会、复兴与信仰、预言、梦境与异象](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=H4kWTx6lniI&t=0s) · 本段原话**：good morning family I'm excited to be with you all again today look at this this is our prayer this is this is what we were interceding for last night whenever we were when we were praying there was not there wasn't even in the forecast rain and all of a sudden I you know you all were here it just started
+- **[12:32](https://www.youtube.com/watch?v=H4kWTx6lniI&t=752s) · 他描述所见**：friends with him and um just just amazing testimony but this is where I wanted to say after a period of time this went on for a year two years going on three years he started walking slow again he started getting that ashy look to his skin again that then I saw the the tube in his nose
+- **[24:39](https://www.youtube.com/watch?v=H4kWTx6lniI&t=1479s) · 本段原话**：your voice you have to speak to your Mountain on day every day you can't allow your Mountain to stay there you your Mountain has to hear you I can't believe for you I can I can attach my faith with yours but you ultimately have to speak to your own mountain and believe in mark 11
+- **[42:02](https://www.youtube.com/watch?v=H4kWTx6lniI&t=2522s) · 本段原话**：went out and spent all his his inheritance and all the stuff and he was lying with the pigs and he thought if I could just gather myself enough I could go back and just be a servant at at at at my father's house I'll just go back and be a servant but the father was waiting with
+- **[54:00](https://www.youtube.com/watch?v=H4kWTx6lniI&t=3240s) · 本段原话**：said I want you to be free and full of joy and he loved on me and he said some things that were per more personal to me and he loved on me and um then all of a sudden he turned and he went back into that beautiful light after he spoke to me and ministered to me about some
+- **[66:03](https://www.youtube.com/watch?v=H4kWTx6lniI&t=3963s) · 本段原话**：night or noon many will meet their Doom trumpets will surely sound all of the Dead sh eyes righteous me in the sky going where no one dies Heaven were
+
 <a id="section-01"></a>
 ## 01. 00:00–05:59 · 祷告、敬拜与现场互动、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、地震、风暴与灾害、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、地震、风暴与灾害展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=H4kWTx6lniI&t=0s) · 本段原话**：good morning family I'm excited to be with you all again today look at this this is our prayer this is this is what we were interceding for last night whenever we were when we were praying there was not there wasn't even in the forecast rain and all of a sudden I you know you all were here it just started
+- **[01:51](https://www.youtube.com/watch?v=H4kWTx6lniI&t=111s) · 他描述所见**：I saw almost an inch but I'm believing God for over 3 in I want to go 4 in 5 in whatever to break the drought so that we're not in out anymore and so um just exciting times you know I have such an an expectation in my spirit today I have I have a stirring inside of
+- **[03:22](https://www.youtube.com/watch?v=H4kWTx6lniI&t=202s) · 本段原话**：raised from the dead and my little girl uh praying for that dog in the hall and so all things are possible to him believes dad all things are possible you know and I told you that well I'm going to tell you another testimony of what happened to me um I was mowing my grandmother's yard
+- **[04:19](https://www.youtube.com/watch?v=H4kWTx6lniI&t=259s) · 他描述所见**：and so I I ignored it just being real with y'all I ignored it I'm like I'm not I don't know that man I'm not going to go pray for that man and I that's what I thought in my mind and so I just I just started mowing some more and the Lord said and I saw him walk a little bit
 
 ### 完整英文 Transcript
 
@@ -180,7 +198,14 @@
 <a id="section-02"></a>
 ## 02. 06:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[06:39](https://www.youtube.com/watch?v=H4kWTx6lniI&t=399s) · 本段原话**：goes I'm dying and I said you're dying I said you I said what what what what's what's the problem and he said I need a I need a lung transplant I sprayed Roundup for the government for 38 years and um 38 years I sprayed Roundup and the Roundup blew up in my lungs and it
+- **[07:40](https://www.youtube.com/watch?v=H4kWTx6lniI&t=460s) · 本段原话**：didn't really he didn't give me a real straight answer whether he believed Jesus would heal him or not he just kind of just looked at me and he sagged his head down and just looking at the dirt looking at the ground and I said can I can I lay hands on you and he goes he
+- **[09:36](https://www.youtube.com/watch?v=H4kWTx6lniI&t=576s) · 他描述所见**：his lot of oxygen tank and he walked down there and I said well Lord I obeyed you now it's your job now I spoke to his lungs to be healed and I believe that he was healed you told me pray for him and I just went on about my business and started mowing again I see him and he
+- **[11:37](https://www.youtube.com/watch?v=H4kWTx6lniI&t=697s) · 本段原话**：off make a long story short he took him off the donor's list he was had no oxygen tank he was walking around like like normal and was coming back to tell me his testimony and tell me thank you for praying for him come to find out we led him to Jesus we talked to him about
 
 ### 完整英文 Transcript
 
@@ -325,7 +350,14 @@
 <a id="section-03"></a>
 ## 03. 12:00–17:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:32](https://www.youtube.com/watch?v=H4kWTx6lniI&t=752s) · 他描述所见**：friends with him and um just just amazing testimony but this is where I wanted to say after a period of time this went on for a year two years going on three years he started walking slow again he started getting that ashy look to his skin again that then I saw the the tube in his nose
+- **[13:02](https://www.youtube.com/watch?v=H4kWTx6lniI&t=782s) · 他描述所见**：again and I saw him breathing hard again and then I haven't seen him again but what I'm trying to say is you can get a healing and get your manifestation of what you're believing for but if you don't get a foundation of the word of God whenever the enemy comes immediately it says he goes away for a
+- **[15:16](https://www.youtube.com/watch?v=H4kWTx6lniI&t=916s) · 本段原话**：he may devour you say you ain't devour in US house you're not coming back on my land you're not coming back on me so that's what I'm trying to tell you all I felt I should tell you all that for what I have seen coming great healing Miracles and demonstrations of the spirit are coming
+- **[17:26](https://www.youtube.com/watch?v=H4kWTx6lniI&t=1046s) · 他描述所见**：out of their mouth cutting him up he does not mess with that person he messes with the person who is has has they're they're they're they're lying there on their back and just going ba feed me feed me remember I told you all I had that Vision where all these babies were were were across America and they had a
 
 ### 完整英文 Transcript
 
@@ -462,7 +494,14 @@
 <a id="section-04"></a>
 ## 04. 18:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:00](https://www.youtube.com/watch?v=H4kWTx6lniI&t=1080s) · 本段原话**：but the Lord wants to grow you up so that you're able to stand when all there else to do is stand stand therefore that you have a backbone against the devil to say no you're not robbing me anymore of my blessings you're not stealing from my children you're not stealing from my wife you're not stealing from me
+- **[19:02](https://www.youtube.com/watch?v=H4kWTx6lniI&t=1142s) · 本段原话**：the because you're built on a firm foundation of the word of God so I want you to understand what's coming yes there's storms but yes there's the glory but how you're going to walk in the glory and how you walk in the manifestations how you keep the manifestation of what you've been believing for I do not want to see it
+- **[22:08](https://www.youtube.com/watch?v=H4kWTx6lniI&t=1328s) · 他表达判断**：is the same yesterday today and forever and the same Jesus that healed the sick 2,000 years ago will heal your body if you believe him for it I believe that he's no respector of persons and I just want to agree with you today for your Miracle don't don't allow don't allow one more day to pass without believing
+- **[23:13](https://www.youtube.com/watch?v=H4kWTx6lniI&t=1393s) · 他表达判断**：that and I'm going to believe God and my little juice again and I'm going to believe God with you this is the meal that heals he dwells on the inside of you richly by faith and he and we are join ears with him when we take this communion cracker I believe with all my heart that it we're
 
 ### 完整英文 Transcript
 
@@ -607,7 +646,14 @@
 <a id="section-05"></a>
 ## 05. 24:00–29:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:39](https://www.youtube.com/watch?v=H4kWTx6lniI&t=1479s) · 本段原话**：your voice you have to speak to your Mountain on day every day you can't allow your Mountain to stay there you your Mountain has to hear you I can't believe for you I can I can attach my faith with yours but you ultimately have to speak to your own mountain and believe in mark 11
+- **[26:37](https://www.youtube.com/watch?v=H4kWTx6lniI&t=1597s) · 本段原话**：healed by his stripes 1 Peter 2:24 Isaiah 53:5 you have to believe it he was wounded for our transgressions he was bruised for our iniquities the chastisement of our peace was upon him and with his stripes we are healed we are healed by by his stripes we're Redeemed by his blood he's redeemed us he's healed us he's made us
+- **[28:25](https://www.youtube.com/watch?v=H4kWTx6lniI&t=1705s) · 他讨论新闻或报道**：faith I receive and I I I cast down every imagination High everything that exalt itself above the word of God I cast it down and I will not meditate on things that are it said think on these things whatsoever things are just whatsoever things are lovely whatsoever things are good report think on these things casting down all high
+- **[29:28](https://www.youtube.com/watch?v=H4kWTx6lniI&t=1768s) · 本段原话**：he's not going to rob me no more I can do what the Bible says I can do greater is he that is in me than he that is in the world you got to believe it you got to find scriptures that what you need Google it it's easy find the scripture that whatever you need to stand on it
 
 ### 完整英文 Transcript
 
@@ -747,7 +793,14 @@
 <a id="section-06"></a>
 ## 06. 30:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:55](https://www.youtube.com/watch?v=H4kWTx6lniI&t=1855s) · 本段原话**：Blood right now in jesus' name now now I enter in boldly to that Throne it's a courtroom it's a courtroom I I've been in many cases up there petitioning the father and Jesus's blood on the Altar and he's making intercession for you and I right now and I go up there and I
+- **[32:18](https://www.youtube.com/watch?v=H4kWTx6lniI&t=1938s) · 本段原话**：today as you breathe in and you breathe out Lord we want to hear your breath like a little child Lord not as adult you said to be a child childlike faith we crawl up into your lap and we say Aba father we want more relationship with you we want to have a deeper revelation
+- **[32:49](https://www.youtube.com/watch?v=H4kWTx6lniI&t=1969s) · 本段原话**：of who you are to us as our great physician or as our great provider Jehovah Gyra you always provide you always take care of all our needs for you said in your word Lord that my God shall supply all our needs according to his riches and Glory by Christ Jesus so Lord you know what we have need
+- **[33:43](https://www.youtube.com/watch?v=H4kWTx6lniI&t=2023s) · 本段原话**：[Music] arms grabbing on to that garment and pulling you close to us even closer like a child would his mother or her father as they're rocking them to sleep cuddled up next to the chest and saying ah and just listening to the heartbeat the heartbeat of the father that place of that still Small Voice and
 
 ### 完整英文 Transcript
 
@@ -863,7 +916,14 @@
 <a id="section-07"></a>
 ## 07. 36:00–41:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[38:49](https://www.youtube.com/watch?v=H4kWTx6lniI&t=2329s) · 本段原话**：moments that matter it's relationship there is in him there is fullness of Peace in him there's fullness of joy there's so many of you that have so much baggage that he wants to take the baggage off and he wants to lay it you just lay it at his feet and crawl up in
+- **[40:15](https://www.youtube.com/watch?v=H4kWTx6lniI&t=2415s) · 本段原话**：toy I broke it Daddy I could I have a popsicle could I have a something you never turn your child away and be mean to him especially a good father you always pick them up you bring them to your chest and you just Cress them and you say Daddy's here especially when they they skin
+- **[40:40](https://www.youtube.com/watch?v=H4kWTx6lniI&t=2440s) · 本段原话**：their knee or they they they they hurt thems on a bicycle or something always quick to grab them and embrace them and the Lord knows every pain you have every knee that you scraped everything that's hurting you from somebody the pains that people inflict with their words and be something that's wounded you so deep that you think it's taking
+- **[41:10](https://www.youtube.com/watch?v=H4kWTx6lniI&t=2470s) · 本段原话**：my breath every single day just to just to live I I I can't even think about anything else I just lost my husband I just lost my wife I lost a friend I lost a family member and yet the pain is so deep because of the wound of losing somebody that's close to
 
 ### 完整英文 Transcript
 
@@ -974,7 +1034,14 @@
 <a id="section-08"></a>
 ## 08. 42:00–47:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:02](https://www.youtube.com/watch?v=H4kWTx6lniI&t=2522s) · 本段原话**：went out and spent all his his inheritance and all the stuff and he was lying with the pigs and he thought if I could just gather myself enough I could go back and just be a servant at at at at my father's house I'll just go back and be a servant but the father was waiting with
+- **[44:25](https://www.youtube.com/watch?v=H4kWTx6lniI&t=2665s) · 本段原话**：forgive there's nothing it don't matter what you've done you may say I've I've done the imparable whatever he's waiting for you you're his child not his adult you're his child you scraped your knee so what pick yourself up and you LS to love you P brush you off put some Bandit on that wound and hold you in his and
+- **[44:51](https://www.youtube.com/watch?v=H4kWTx6lniI&t=2691s) · 本段原话**：you're just you're whimpering there and you're crying big old alligator tears down your face and you just laid your head on his shoulder saying Daddy I love you I don't know who that's for today but when I was praying this afternoon for you he wanted you to know his heart there's many of you all they have
+- **[46:18](https://www.youtube.com/watch?v=H4kWTx6lniI&t=2778s) · 本段原话**：going to allow that car the little kid to get hit and you you have to be Stern little little little child you the car almost kills you now you have to get a spank in cuz I don't want you to ever do that again you have to learn not to step in front of the car again and so people
 
 ### 完整英文 Transcript
 
@@ -1098,7 +1165,14 @@
 <a id="section-09"></a>
 ## 09. 48:00–53:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[48:00](https://www.youtube.com/watch?v=H4kWTx6lniI&t=2880s) · 他进行祷告**：with you Lord just be real with him and he'll sing it I pray this was a blessing to you I I have some things I'm going to cover now for the others there's a sweet presence there it's been on my heart I'll just be quiet I feel on side
+- **[50:08](https://www.youtube.com/watch?v=H4kWTx6lniI&t=3008s) · 本段原话**：I was sitting on the front row really at my witson with Megan and just with my marriage and everything just having a really hard time and I was just worshiping in the service I had my hands up and just broken felt like nobody cared really down about everything and Jesus walked
+- **[51:20](https://www.youtube.com/watch?v=H4kWTx6lniI&t=3080s) · 本段原话**：they were celebrating they were just talking but they were watching the service and they were uh spectating what he was going to do and I could see all kinds of different shades of skin black feet white feet uh kind of a a Browner feet Olive feet you know just like us and they were all they were all
+- **[52:37](https://www.youtube.com/watch?v=H4kWTx6lniI&t=3157s) · 他描述所见**：feet you know most people you see his nails you see him that I didn't I wasn't all I saw was his shoes and and I looked up because his his gown was draping over his his uh the top of his feet right there and you could just see his toes and he spoke to
 
 ### 完整英文 Transcript
 
@@ -1228,7 +1302,14 @@
 <a id="section-10"></a>
 ## 10. 54:00–59:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[54:00](https://www.youtube.com/watch?v=H4kWTx6lniI&t=3240s) · 本段原话**：said I want you to be free and full of joy and he loved on me and he said some things that were per more personal to me and he loved on me and um then all of a sudden he turned and he went back into that beautiful light after he spoke to me and ministered to me about some
+- **[55:50](https://www.youtube.com/watch?v=H4kWTx6lniI&t=3350s) · 他转述所听到的话**：you not to brag I want to always be an encouragement to you all and and and and fan your Flame the lot of time the Lord said Brandon I want you to Fan their Flames encourage them today they're thirsty go on here and give them something to drink and and encourage them so I I've really tried to change
+- **[57:41](https://www.youtube.com/watch?v=H4kWTx6lniI&t=3461s) · 本段原话**：adult and full of Pride he he resists the proud but he gives grace to the humble and he will visit you if you humble yourself underneath the mighty hand of the Lord if you go to him arrogant and cocky you he he is he he is like is like you might as well it's like
+- **[59:40](https://www.youtube.com/watch?v=H4kWTx6lniI&t=3580s) · 他进行祷告**：of terrorist attack today we take authority over any kind of demonic attack that the devil would try to throw against this nation and father I thank you Lord that we have authority over the devil then no weapon formed against would Prosper we plead the blood over
 
 ### 完整英文 Transcript
 
@@ -1364,7 +1445,14 @@
 <a id="section-11"></a>
 ## 11. 60:00–65:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[60:00](https://www.youtube.com/watch?v=H4kWTx6lniI&t=3600s) · 本段原话**：every single household represented here today and we thank you Father that your that your word says that no weapon formed against us is going to prosper and every tongue that rises against us we condemn it we condemn the words that people speak against us and we say it goes back on them double like a
+- **[62:13](https://www.youtube.com/watch?v=H4kWTx6lniI&t=3733s) · 他进行祷告**：person's here their marriages we pray restoration over their marriages we pray peace over their marriages we call their children home we call their unsaved loved ones we speak to the BL ERS on their eyes and we say Satan let their eyes go that you will not blind their eyes anymore and we say their eyes are
+- **[63:18](https://www.youtube.com/watch?v=H4kWTx6lniI&t=3798s) · 本段原话**：you Lord for a restoration of Health in our bodies and mental uh soundness that we're not bound by the devil's work concerning mental uh uh torment that they're not they they have a sound mind they're not tormented by their thoughts they're not tormented in their minds and they renew their minds by the
+- **[65:02](https://www.youtube.com/watch?v=H4kWTx6lniI&t=3902s) · 本段原话**：Subscribe click the notification Bell it's a real blessing to us let's sing a song real quick because I want to sing it Jesus is coming soon morning or night or noon many will meet their Doom trumpets will show surely sound all of the Dead shall rise rightous me in the sky going where no
 
 ### 完整英文 Transcript
 
@@ -1499,7 +1587,13 @@
 <a id="section-12"></a>
 ## 12. 66:00–67:22 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[66:03](https://www.youtube.com/watch?v=H4kWTx6lniI&t=3963s) · 本段原话**：night or noon many will meet their Doom trumpets will surely sound all of the Dead sh eyes righteous me in the sky going where no one dies Heaven were
+- **[66:37](https://www.youtube.com/watch?v=H4kWTx6lniI&t=3997s) · 本段原话**：[Music] bound he's coming you all he's coming I get so excited about it forever well put a smile on your face in a song in your heart Jesus loves you so much and we love you God bless you all
+- **[67:09](https://www.youtube.com/watch?v=H4kWTx6lniI&t=4029s) · 本段原话**：and have a wonderful day may say may his peace may may say uh may may he bless you may he may keep you may his face shine upon you and give you peace today God bless you all byebye
 
 ### 完整英文 Transcript
 

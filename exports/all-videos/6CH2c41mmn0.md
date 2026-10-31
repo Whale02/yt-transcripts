@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 536；**章节数**: 6；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -16,10 +16,28 @@
 - [05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-05)
 - [06. 20:00–22:08 · 预言、梦境与异象、教会、复兴与信仰](#section-06)
 
+## 全片概述与 Key Points
+
+全片共 6 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=6CH2c41mmn0&t=0s) · 他进行祷告**：good morning family I just wanted to come on and tell you all some things uh the Lord's put on my heart in prayer uh first of all I've been reading the comment section there's so many of you all that are still talking about addictions and they're and you all are saying please pray for me for cigarettes
+- **[04:01](https://www.youtube.com/watch?v=6CH2c41mmn0&t=241s) · 本段原话**：uh overcoming cancer I call myself delivered from cancer I call myself delivered from from um uh asthma I call myself delivered from whatever high blood pressure I call those things that be not ASO were the word will work if you work it okay I know it beyond a shadow of a doubt when you when you are
+- **[08:00](https://www.youtube.com/watch?v=6CH2c41mmn0&t=480s) · 本段原话**：he said that stuff's going to start happening all the time in the book of Acts that they would all bring out the sick in the streets that even that the shadows of Peter might come and touch them that's how much the radiated presence of God was was coming out of him that kind of presence can come out
+- **[12:18](https://www.youtube.com/watch?v=6CH2c41mmn0&t=738s) · 本段原话**：getting into that with you I'm standing on my faith that I've not been appointed under wrath and I'm going to go with Jesus Christ and when he when he calls me up we're going for the marriage supper of lamb I've told you everything I've seen I told you about the the the the the uh chip and everything that the
+- **[16:02](https://www.youtube.com/watch?v=6CH2c41mmn0&t=962s) · 他转述所听到的话**：door he's done all this stuff he he's he's he's opened himself up for attack and I heard the angel come an angel came down and he talked to me in the spirit realm and he said see he's accusing you right now stop opening the door for this attack stop it stop it make my job easier he was begging me
+- **[20:02](https://www.youtube.com/watch?v=6CH2c41mmn0&t=1202s) · 他描述所见**：did you show me that he said because she prays and and is always talking about the Glorious Church talking about the the end time outpouring and he said son I'm going that's going to be a Hotpot because of her Ministry and her her granddaughter Hannah and I saw Hannah I saw her granddaughter in a massive uh uh
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 疾病、医疗与药品、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：疾病、医疗与药品、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕疾病、医疗与药品、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=6CH2c41mmn0&t=0s) · 他进行祷告**：good morning family I just wanted to come on and tell you all some things uh the Lord's put on my heart in prayer uh first of all I've been reading the comment section there's so many of you all that are still talking about addictions and they're and you all are saying please pray for me for cigarettes
+- **[00:41](https://www.youtube.com/watch?v=6CH2c41mmn0&t=41s) · 本段原话**：your cigarette call yourself delivered from nicotine call so because you're because you're using uh Romans 4:17 faith calth those things that be not as though they were and faith without works is dead Okay so you've got to put your faith your boat into motion you've got to put your faith into motion working
+- **[01:03](https://www.youtube.com/watch?v=6CH2c41mmn0&t=63s) · 本段原话**：this you can't just sit there and rely on and going oh God I'm asking you just to deliver me we're calling those things that be not as though they were but faith without works is dead and you're and you're and you're activating your faith like a muscle by quoting the scripture at your problem speaking to
+- **[02:52](https://www.youtube.com/watch?v=6CH2c41mmn0&t=172s) · 本段原话**：speaking to it she kept speaking to the circumstances this is a true story so she' give herself the diabet itic shot in her stomach and she would do her pills or whatever she would have to do and she would keep calling those things that be not as though they were and every day she quoted that out of her
 
 ### 完整英文 Transcript
 
@@ -123,7 +141,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=6CH2c41mmn0&t=241s) · 本段原话**：uh overcoming cancer I call myself delivered from cancer I call myself delivered from from um uh asthma I call myself delivered from whatever high blood pressure I call those things that be not ASO were the word will work if you work it okay I know it beyond a shadow of a doubt when you when you are
+- **[04:43](https://www.youtube.com/watch?v=6CH2c41mmn0&t=283s) · 本段原话**：got to get Strife out of your home okay because Faith Works by love and if if your Faith's not working you you got to get make sure your Love Walks right okay it's important because that's one of the things that's going to help uh put your your your the power by behind it behind
+- **[05:53](https://www.youtube.com/watch?v=6CH2c41mmn0&t=353s) · 本段原话**：of Lifestyle if you're not living in a Holiness lifestyle yeah well our Holiness is as a filthy rags but you don't practice sin if there's no difference between you and the world and you're standing in a lineup like it would be in a in a in a in a in a Jael cell and they sit there and lineup could
+- **[06:57](https://www.youtube.com/watch?v=6CH2c41mmn0&t=417s) · 他表达判断**：and all of a sudden the guy beside us started manifesting with devils and he started growling and acting just way absurd just he was flipping out in his car just just flipping out and the Demonic Spirit was doing that through the manifestation I believe of the glory of God in our car because Devils don't
 
 ### 完整英文 Transcript
 
@@ -236,7 +261,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=6CH2c41mmn0&t=480s) · 本段原话**：he said that stuff's going to start happening all the time in the book of Acts that they would all bring out the sick in the streets that even that the shadows of Peter might come and touch them that's how much the radiated presence of God was was coming out of him that kind of presence can come out
+- **[09:49](https://www.youtube.com/watch?v=6CH2c41mmn0&t=589s) · 本段原话**：your your tongue is powerful and you start speaking calling those things to be not as though they were over your finances you sow seed I speak speak to my my tithe all the time and my my offerings and I say God I thank you that you said in Malachi that you rebuke the
+- **[10:44](https://www.youtube.com/watch?v=6CH2c41mmn0&t=644s) · 本段原话**：whever you do it and God's going to start using you in a greater capacity than whatever whatever you could hope or imagine I'm telling you it's going to be amazing but you've got to start out walking and doing it in faith you can't just sit there and well when's my time coming be obedient be obedient and be
+- **[11:04](https://www.youtube.com/watch?v=6CH2c41mmn0&t=664s) · 他转述所听到的话**：quick to obey I'm telling you it's time to believe the impossible it's time to for you to to stretch out and believe the for for the miraculous it is a it is a time we're in the last of the last of the last days and there's going to be a great shifting now the Lord told me
 
 ### 完整英文 Transcript
 
@@ -342,7 +374,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:18](https://www.youtube.com/watch?v=6CH2c41mmn0&t=738s) · 本段原话**：getting into that with you I'm standing on my faith that I've not been appointed under wrath and I'm going to go with Jesus Christ and when he when he calls me up we're going for the marriage supper of lamb I've told you everything I've seen I told you about the the the the the uh chip and everything that the
+- **[14:02](https://www.youtube.com/watch?v=6CH2c41mmn0&t=842s) · 本段原话**：your life it's messed up you've you you've got all these problems your broke must to discuss it Let Jesus have the steering wheel folks and let him take the wheel like Carrie Underwood said Jesus take the will come on Let Jesus take the will in your life you have the opportunity right now to turn your life
+- **[15:02](https://www.youtube.com/watch?v=6CH2c41mmn0&t=902s) · 他描述所见**：and it shall be done I'm telling you he'll save your soul he'll do it but you've got to believe it you have to believe that he that cometh of God must believe that he is and that he is a rewarder of those that diligently seek Him don't keep practicing sin let me tell you this I saw uh one time I was
+- **[15:23](https://www.youtube.com/watch?v=6CH2c41mmn0&t=923s) · 他描述所见**：dealing with some sin issues and I saw in the heavenlies a great courtroom and the Bible says that Satan is the accuser of the Brethren and he was up there and it was a great courtroom and I could see I couldn't see uh God I could see a great light on a throne and I could hear Jesus and he was
 
 ### 完整英文 Transcript
 
@@ -450,7 +489,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:02](https://www.youtube.com/watch?v=6CH2c41mmn0&t=962s) · 他转述所听到的话**：door he's done all this stuff he he's he's he's opened himself up for attack and I heard the angel come an angel came down and he talked to me in the spirit realm and he said see he's accusing you right now stop opening the door for this attack stop it stop it make my job easier he was begging me
+- **[17:22](https://www.youtube.com/watch?v=6CH2c41mmn0&t=1042s) · 本段原话**：saying my blood is sufficient for your sins my blood is sufficient for every everything that you have need of you don't have to be bound by the by the work of the devil You Can Be Free by the blood of the Lamb you just have to receive it by faith and that's what I
+- **[18:56](https://www.youtube.com/watch?v=6CH2c41mmn0&t=1136s) · 他描述所见**：this story but I'm but for what I saw in the spirit realm but I'm telling you Jesus's blood is sufficient he paid the price for sin for you and and and you don't have to earn your salvation but we work it out by fear and trembling you don't have there's no way to earn it
+- **[19:31](https://www.youtube.com/watch?v=6CH2c41mmn0&t=1171s) · 他转述所听到的话**：it now I'm going to talk about the glory okay cuz the Lord told me to talk tell you all about the outpouring again there is a Ministry in Branson Missouri I've seen this ministry and what they're going to do it's Billy brim a lot of people don't like it that she's a woman
 
 ### 完整英文 Transcript
 
@@ -555,7 +601,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–22:08 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:02](https://www.youtube.com/watch?v=6CH2c41mmn0&t=1202s) · 他描述所见**：did you show me that he said because she prays and and is always talking about the Glorious Church talking about the the end time outpouring and he said son I'm going that's going to be a Hotpot because of her Ministry and her her granddaughter Hannah and I saw Hannah I saw her granddaughter in a massive uh uh
+- **[20:24](https://www.youtube.com/watch?v=6CH2c41mmn0&t=1224s) · 他描述所见**：Auditorium it was a big theater in Branson and and and the Lord told me they're believing me for this massive Auditorium uh Convention Center thing and I saw the prize that he told me to pray and call those things that be not ASO they were believe in God for financial breakthrough for them to be
+- **[20:43](https://www.youtube.com/watch?v=6CH2c41mmn0&t=1243s) · 他描述所见**：able to purchase this theater and I saw creative Miracle power coming out of there massive amounts of healings 247 all the time a a a a a a Revival happening in Branson never stopping always people coming in getting healed and going out like Distributing and going throughout the United States telling people about how good God is I'm
+- **[21:46](https://www.youtube.com/watch?v=6CH2c41mmn0&t=1306s) · 本段原话**：going to be so I just want to encourage you today to believe the impossible believe the impossible and and believe for creative Miracles and keep a smile on your face and a song in your heart cuz Jesus loves you so much thank you for watching this and I hope this bless you today have a
 
 ### 完整英文 Transcript
 

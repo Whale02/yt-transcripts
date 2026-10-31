@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 856；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 32:00–35:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-09)
 - [10. 36:00–38:54 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:33](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=33s) · 他描述所见**：like no I don't believe it is that's that's okay we can agree to disagree you know I mean everybody has an opinion and they're like well does it line up with scripture and all this other stuff it's what I saw when I went to tribulation with Jesus I told you I am not a Bible
+- **[08:02](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=482s) · 本段原话**：it's like messes with your brain okay when the people get the chip the mark of the beast it creates an alternate personality it Alters your personality it makes you calm it sends out endorphins to your brain to make you calm I'm trying to warn you this is coming I don't know if this chip exists
+- **[16:21](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=981s) · 他进行祷告**：and I don't even like I said I I don't I don't know when it is I don't have a clue at all all I know is I'm going to say this is what the Lord showed me and it was the exact same time frame of of whatever he showed me this other stuff then he told me to pray over
+- **[20:01](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=1201s) · 他描述所见**：strong on me to pray for this so I try to make them only about 30 minutes for you all cuz your tension spans uh not more than that a lot of times I see out when people click out so let's just pray okay so let's father I just thank you Holy Spirit we just we just we we we
+- **[28:01](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=1681s) · 他进行祷告**：Lord and by the blood father I thank you Lord that they're delivered from dedics I thank you Lord that they're delivered from addictions right now we call them set free from from pornography and tobacco and alcohol use and all kinds of demonic oppression we command them free in the name of Jesus we call
+- **[36:58](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=2218s) · 他进行祷告**：inside of your heart and ask him use scripture and prayer Pray scripture and the more you do this it becomes more real to you and I'm telling you your prayers will get answered and you'll start hearing him you do not need a prophetic voice talking to you you have the Holy Spirit on the inside of you you
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Berlin。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:33](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=33s) · 他描述所见**：like no I don't believe it is that's that's okay we can agree to disagree you know I mean everybody has an opinion and they're like well does it line up with scripture and all this other stuff it's what I saw when I went to tribulation with Jesus I told you I am not a Bible
+- **[01:17](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=77s) · 他表达判断**：understanding would be enlightened and um we're going to understand it I believe the closer we get to the end you know God's going to open this up to us and we're going to have a clear understanding of the Book of Revelation Okay so but this is what the Lord showed me okay what I went to tribulation with
+- **[01:34](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=94s) · 本段原话**：him and so this happened on uh July the 6th of 2014 and I can tell you this y all I don't know if I was in my body or out of my body all I know is this this encounter changed my life forever and whenever the Lord showed me the Antichrist I did not see his eyes right
+- **[03:31](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=211s) · 他表达判断**：these uh these were like Palm leaves which represented I believe Prosperity the this was uh this this the swords represented um by the Islam Faith the swords stand for a strictness and applying Justice okay so if in Islam that's what that meant and so it's a strictness and applying justice so and that's what that's on the Saudi Arabia
 
 ### 完整英文 Transcript
 
@@ -127,7 +145,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=241s) · 本段原话**：for the whole world was going to control uh by the Antichrist and it was a global system and a lot of people say well that looks like the UN flag I don't I don't know this is just what the Lord showed me when I was in Tribulation with him okay so I thought it was interesting
+- **[05:49](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=349s) · 他描述所见**：whenever I believe uh United States invaded Iraq okay look at this it says right here it's it's identical y'all almost identical the swords are doing the exact same thing I had no idea this flag existed one of my viewers like I said sent this to me and I when I saw I was like hey they copied the flag that
+- **[07:16](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=436s) · 本段原话**：wow it so he takes for what the Lord showed me he takes this right here whatever this represented to these people in Afghanistan he takes this flag and he just Alters it a little bit and he makes it into the the Antichrist flag for the one world uh government and all the stuff that's going to happen and
+- **[07:37](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=457s) · 他描述所见**：this is going to be on every courthouse in all of the world this is coming I'm telling you the mark of the beast is a chip that creates a boil on your hand and it will happen I'm telling you I saw it whenever I was in Tribulation with the Lord people were trying to fake this
 
 ### 完整英文 Transcript
 
@@ -225,7 +250,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · AI、科技与监控、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：AI、科技与监控、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕AI、科技与监控、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:02](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=482s) · 本段原话**：it's like messes with your brain okay when the people get the chip the mark of the beast it creates an alternate personality it Alters your personality it makes you calm it sends out endorphins to your brain to make you calm I'm trying to warn you this is coming I don't know if this chip exists
+- **[10:27](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=627s) · 本段原话**：people tell me all the time they were married for 30 years years well not all the time every once in a while I can't exaggerate it's just being real every once in a while they say I was married for a certain amount of time didn't know it my husband was was was in the closet
+- **[11:28](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=688s) · 他描述所见**：standing on the other side side and people don't like that but it's what I saw and so um that's what I wanted to share about that I just thought this was really interesting if anybody was you know I I uh all the things that I keep getting pieces of because there's cool people
+- **[11:44](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=704s) · 他进行祷告**：like you all that send me stuff so um I just want to say this too praise God president Trump is okay and we prayed for him and we interceded and he's going to be okay now this is the next thing we need to pray this is what's pressing I'll tell you where we're at today okay
 
 ### 完整英文 Transcript
 
@@ -331,7 +363,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[13:11](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=791s) · 他描述所见**：back to this I saw the Olympics I saw uh fire going all around major fire from uh burning buildings burning um uh from I believe some kind of activity from them okay from some kind of groups I don't know who it is but they were trying to harm people and so we have to pray against this I don't
+- **[14:00](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=840s) · 他表达判断**：we might have life and have it abundantly and so I believe God is an abundant God that wants us to live a good full life and healthy to live long and finish strong not to die early and so it's not to BU by die by this so that gives us we have power and authority and
+- **[14:31](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=871s) · 他描述所见**：like I said uh I've they've come to pass and and and it happened so whatever but but I believe we'll still stand and we will still pray regardless and so um the Olympics is something that's heavy on my heart it's coming in two weeks we have time we prayed over Coachella nothing happened and I saw something major
+- **[15:32](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=932s) · 本段原话**：praying over the train that's coming out of Germany it's a green train which I looked this up okay and they actually have green trains and they are supposed to be um and like I said I didn't know if this was like God speaking to me about it's like a type in Shadow or something or or
 
 ### 完整英文 Transcript
 
@@ -434,7 +473,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、物资、能源与供应链、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、物资、能源与供应链展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:21](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=981s) · 他进行祷告**：and I don't even like I said I I don't I don't know when it is I don't have a clue at all all I know is I'm going to say this is what the Lord showed me and it was the exact same time frame of of whatever he showed me this other stuff then he told me to pray over
+- **[17:18](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=1038s) · 他进行祷告**：you're not going to do nothing here buddy and that's what you and that's what you have you just have to be that bold okay and you put a bloodline around that church and and around schools schools going to be starting back soon pray over your children pray over over your loved ones you have the legal right
+- **[18:13](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=1093s) · 他进行祷告**：a French twist in her hair with a beautiful dress on coming in a like a ball gown pretending that she's dressed up for the event and she tries to hurt him again we have to stop this stuff and I and I I pray to God that the the the whoever is a part of Trump's team hears
+- **[19:12](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=1152s) · 他描述所见**：very serious uh and the in all the mash casualties from that I've warned you to pray against that from the terrorist activity coming from the southern border bringing over the poison to put in the water you and and I saw uh Alabama all the way to uh Houston there was everybody you couldn't drink the water
 
 ### 完整英文 Transcript
 
@@ -541,7 +587,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=1201s) · 他描述所见**：strong on me to pray for this so I try to make them only about 30 minutes for you all cuz your tension spans uh not more than that a lot of times I see out when people click out so let's just pray okay so let's father I just thank you Holy Spirit we just we just we we we
+- **[20:21](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=1221s) · 本段原话**：yield oursel to you today and right now in the name of Jesus Satan we take a authority over you and we command you to cease and desist in your maneuvering against God's people we plead the blood of Jesus from the top of our head to the soles of our feet we plead the blood of Jesus over us and we
+- **[21:12](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=1272s) · 本段原话**：alerts exposure from any kind of terrorist activity then no weapon formed against us would prosper and I thank you Father that you give them wisdom Supernatural wisdom to them and to their supervisors to their people whoever is in the leadership we thank you Father that there's an uncovering of Darkness there's an uncovering of darkness in
+- **[22:57](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=1377s) · 本段原话**：the whole earth look looking for a heart who's perfect toward you father let your eyes rest upon us today let your eyes no search anymore throughout the Earth because you have found what you're looking for let your eyes father fall upon us that father that we would be the the the ones that are able to be used in
 
 ### 完整英文 Transcript
 
@@ -638,7 +691,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:21](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=1461s) · 他进行祷告**：Supply that we don't have just enough just to barely get by but we have overflow to help those that are around us in need for what's coming I thank you Father for healing right now I pray for every single person who is sick or hurting or Afflicted in their bodies I call them healed and whole and
+- **[25:37](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=1537s) · 他进行祷告**：bodies and we thank you Lord that we're delivered from Cancers and tumors and diabetes heart disease lung disease uh infanta glaucoma it doesn't matter what it is even if it's a hangnail father there's nothing too big for you and there's nothing too small for you you are an ever loving God that is able to
+- **[26:56](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=1616s) · 他表达判断**：promised us we call all those childrens the Bobbies the Suzies the Joe's the whoever we call them home right now in the name of Jesus father I think you should put on their heart right now to call to have them call call right now call call your mama call your daddy whoever it may be your grandma your
+- **[27:54](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=1674s) · 本段原话**：fresh outpouring on every single person that is represented here today we call them full and filled by the power of the
 
 ### 完整英文 Transcript
 
@@ -745,7 +805,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:01](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=1681s) · 他进行祷告**：Lord and by the blood father I thank you Lord that they're delivered from dedics I thank you Lord that they're delivered from addictions right now we call them set free from from pornography and tobacco and alcohol use and all kinds of demonic oppression we command them free in the name of Jesus we call
+- **[29:01](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=1741s) · 本段原话**：you glory honor and praise for all that you've done and all that you continue to do in every single one of us in our lives today Father we give you praise Lord we love you we thank you for your good and your mercy endures forever for the Lord is good and his Mercy endures
+- **[30:36](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=1836s) · 本段原话**：Spirit what do you have need of what do you need me to do I yield fill them with the baptism of the Holy Spirit fill them in their homes right now in their cars flood their homes flood their house house you're everything my soul desires and Longs
+- **[31:06](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=1866s) · 本段原话**：for you're the rock you're the lifter of my hand thank you Father you've been faithful Lord you're faithful longsuffering and true my God you're faithful worthy are you you you always care for me Lord you're faithful to
 
 ### 完整英文 Transcript
 
@@ -824,7 +891,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[33:13](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=1993s) · 本段原话**：[Music] be you know whatever you have need of you just receive it by faith he said he inhabits the Praises of his people you may not know the songs I don't know all the words myself but he said Make a Joyful Noise unto the Lord so I do even with what I've got I make a
+- **[33:40](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=2020s) · 本段原话**：noise and I sing to him and he he he comes and visits me people say how do you hear the Lord you do the way you do I make an atmosphere for him I make a place for him to come and visit God's more real to me than you are he's he is my
+- **[34:49](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=2089s) · 本段原话**：he loves you intimacy comes over time it doesn't happen overnight you develop a relationship with the Lord day by day and people go well how did you get here day by day every day just like you develop relationship with your spouse or your girlfriend or boyfriend
+- **[35:20](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=2120s) · 本段原话**：or whatever it starts out small and you keep growing and people go well I'm frustrated is I don't hear him I don't he don't talk the Bible says my sheep will know my voice and the stranger's voice they will not follow stand on that scripture stand on that claim that for you that's me I will
 
 ### 完整英文 Transcript
 
@@ -905,7 +979,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–38:54 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:58](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=2218s) · 他进行祷告**：inside of your heart and ask him use scripture and prayer Pray scripture and the more you do this it becomes more real to you and I'm telling you your prayers will get answered and you'll start hearing him you do not need a prophetic voice talking to you you have the Holy Spirit on the inside of you you
+- **[37:20](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=2240s) · 本段原话**：have the ability to hear him for yourself it's the truth this I'm I'm nothing special I just have a person who's yielded that's just it you can hear him just as clear you can follow with the Holy Spirit just as well it just takes practice and it takes repetive it's how bad endurance
+- **[37:45](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=2265s) · 本段原话**：keep going keep going father good morning how are you doing you're welcome Holy Spirit come into my life I want you to flow with me I'm still doing it I'm a work in progress I don't have everything all figured out y'all I I work this out every single day every single day I I I I'm still working
+- **[38:03](https://www.youtube.com/watch?v=5ga2Zg3TZgE&t=2283s) · 他表达判断**：I'm still learning it's a day to day to day but whenever you start spending time with him he'll become real to you and then he'll start sharing the secret things he'll start telling you things that are coming and he'll start warning you so I think that's good enough for this video today uh I hope this blessed you God
 
 ### 完整英文 Transcript
 

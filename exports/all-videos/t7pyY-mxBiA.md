@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 872；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 - [09. 32:00–35:10 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:16](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=16s) · 本段原话**：the world I'm getting people telling me hey I'm watching your videos and it's because of people like you that help me in the algorithm with with YouTube uh to to help boost me up in the rankings every single time you do that you you like it you make a comment and you're you're helping me you're boosting me and
+- **[08:33](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=513s) · 本段原话**：and and bring the word of God in something new and fresh I have never heard anybody preach what he preached on uh that day and it and it was it challenged me we don't need any sugarcoated word anymore we need word that's going to challenge us to grow spiritually and if we have 10 years and
+- **[12:36](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=756s) · 他表达判断**：cycle and when that shmita Cycle takes place that opens up because it's a seven-year window before another seven years so I believe the tribulation starts with a seven-year window and it goes for seven years and then the the Thousand-Year rain comes okay so we just had that schme cycle back uh last year
+- **[20:01](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1201s) · 本段原话**：much for supporting us so I'm going to interject this right now I was asking the Lord in my prayer time this morning and and I made the video and I I had my son edited and everything and I asked the Lord I said did I do a good job on the video and he said Brandon you missed
+- **[24:01](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1441s) · 他进行祷告**：description pray with me and and stir yourself up in tongues for 30 minutes you start doing that every day you praying over your children you praying over your loved ones and doing that and and I'm telling you nothing shall by any means harm you nothing shall hurt you a thousand shall fall your side and 10,000
+- **[32:00](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1920s) · 本段原话**：praying for their unsaved loved one at there and then you come across their unsaved loved one and you witness the gospel to them be obedient because you could be a answer to prayer for some other mother you could be an answer to prayer I just heard that you be obedient when you're at the grocery store to
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:16](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=16s) · 本段原话**：the world I'm getting people telling me hey I'm watching your videos and it's because of people like you that help me in the algorithm with with YouTube uh to to help boost me up in the rankings every single time you do that you you like it you make a comment and you're you're helping me you're boosting me and
+- **[01:19](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=79s) · 他描述所见**：have these people in Europe but I said these three these three men in particular the Lord showed me in an open-eyed Vision when I was interceding for America and for uh Revival and things like that he showed me these men and and they were they were having a de a meeting with the devil and they have
+- **[02:23](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=143s) · 他描述所见**：with him prior to this hearing voices demonic and energized okay there was so many things that were happening with this man prior to the incident that happened in Maine so um this is what I saw and they were because I asked the Lord I said are they going to actually because I asked the Lord about the man
+- **[03:41](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=221s) · 他表达判断**：know I know they're Heathen people I know they're going out there probably smoking dope and acting crazy but we don't need uh violent acts of terrorism in any shape or form Ever it doesn't matter where they are or who who they are we are the salt of the earth we pray for the people's protection at all cost
 
 ### 完整英文 Transcript
 
@@ -130,7 +148,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:59](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=299s) · 他表达判断**：protector A thousand shall fall at our side and 10,000 at our right hand but it will not come n us we have a protector the name of the Lord is a strong tower and the righteous run into it and they are safe I believe with all my heart he's our divine protection but we have
+- **[05:48](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=348s) · 他表达判断**：you he will he will send his angels to keep charge over you and bear you up L you dash your foot against a stone I believe with all my heart God is a Divine protector but but we have to to be obedient and and willing and listening to his voice on a day-to-day
+- **[06:55](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=415s) · 他转述所听到的话**：in in the Middle East with Israel that we have an opportunity that the oil will go to $200 a barrel so here we are here's another thing that I prophesied telling you all things that were coming and the world starting to get a hold of it the Lord told me I told you we would
+- **[07:11](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=431s) · 本段原话**：have an acceleration in um the war an acceleration in the signs in the heavens and acceleration in the economy I gave you the word about crypto two days later crypto started to move and look at Bitcoin it went up to like 35 36,000 and it was dormant for all these months it's signs he's trying to show us
 
 ### 完整英文 Transcript
 
@@ -237,7 +262,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:33](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=513s) · 本段原话**：and and bring the word of God in something new and fresh I have never heard anybody preach what he preached on uh that day and it and it was it challenged me we don't need any sugarcoated word anymore we need word that's going to challenge us to grow spiritually and if we have 10 years and
+- **[08:53](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=533s) · 本段原话**：we go through more birthing pains everything that the Lord showed me all if you think about what what what I told you prophetically what I've been praying over from the the 350 million people going home to the wealth transfer Supernatural wealth transfer through crypto through gold through silver through through these things the
+- **[09:13](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=553s) · 本段原话**：Lord showed me it's not going to happen just like somebody going out to their mailbox and open up the mailbox and getting a $10 million check you all need to know the Bible says that the wealth of the sinner is laid up for the just and he also says that he put whatever
+- **[10:52](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=652s) · 本段原话**：spoke they spoke and they kept speaking to the atmosphere there's a savior coming there's a savior coming and they kept decreeing it and they kept saying it from Isaiah all the people took thousands of years of Declaration coming out of the mouth of the Prophet for the manifestation now again he's saying Jesus is coming we're proclaiming it
 
 ### 完整英文 Transcript
 
@@ -354,7 +386,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:36](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=756s) · 他表达判断**：cycle and when that shmita Cycle takes place that opens up because it's a seven-year window before another seven years so I believe the tribulation starts with a seven-year window and it goes for seven years and then the the Thousand-Year rain comes okay so we just had that schme cycle back uh last year
+- **[13:34](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=814s) · 本段原话**：escapism everybody's wanting to escape and flee we got to get out of here it's getting bad oh God we got to get out of here no the de the body of Christ Our armor was designed to March forward it never was to retreat there's no armor for the backside the Lord spoke to me
+- **[14:44](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=884s) · 本段原话**：gain tell them that that you you got to warn them and yet we're we're at the body of Christ we're in Retreat mode we're trying to hide in our little holes and are bury our head in the sand about all that's going on well we're worried about politics who's taking over truck going to come is is is the Democrats
+- **[15:01](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=901s) · 本段原话**：going to win whatever who cares we got to get the gospel out lay hands on the sick cast out Devils freely we've been given freely we give it out we've got to go in into the all the Dark Places and tell them that Jesus Christ is Lord and he died for them and he rose again for
 
 ### 完整英文 Transcript
 
@@ -463,7 +502,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[17:20](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1040s) · 本段原话**：and you got to keep pressing pressing you got to keep your head held high because if you don't the devil come as roaring line seeking whom he may devour he ain't devouring my family no more he not going to devour us we stand by the blood of the Lamb by the word of Our
+- **[17:56](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1076s) · 本段原话**：they're they're they're they're Heathen they're going to hell and we got to tell them about how much Jesus loves them that's why I make these videos every day try to at least cuz I the spiritual attack has been crazy but I'm telling you God is faithful and I ain't scared of no devil I come against he tried to
+- **[18:53](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1133s) · 本段原话**：Lord last night it was it was it was like he was speaking speaking to me audibly it's the first time I can honestly tell you was the loud as he's ever spoken to me about personal things in my life but I'm going to tell you we're in a time of acceleration like we've never seen
+- **[19:12](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1152s) · 他表达判断**：before and and and and get ready for the greatest blessings you've ever experienced I believe the anointing that's on me comes through to the people who support me and it's like it's like a blanket and I believe the anting it's on my life is coming on your life today because you support my Ministry you're on here
 
 ### 完整英文 Transcript
 
@@ -563,7 +609,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1201s) · 本段原话**：much for supporting us so I'm going to interject this right now I was asking the Lord in my prayer time this morning and and I made the video and I I had my son edited and everything and I asked the Lord I said did I do a good job on the video and he said Brandon you missed
+- **[21:18](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1278s) · 本段原话**：cultic people bringing it down it goes from the head and it comes all the way down and it goes out to all the tentacles all throughout everywhere to to cast spells to to bring curses and to try to bring forth um chaos and confusion and whatever their agenda is on that area and the blood of Jesus
+- **[22:43](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1363s) · 本段原话**：message from the Lord and you start going hey we're not going to allow not on my watch you're not doing that on my watch you're not doing that in my town and you get flat out mad at the Devil at what he's trying to do and trying to bring um from schools to whatever to
+- **[23:18](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1398s) · 本段原话**：just a little bit ago and rise up with that armor and take our authority over the principalities and the powers and their spiritual wickedness and high places and our area even the little imps and say no it's like that this dude was did all the stupid stuff up there in Maine they they said he's hearing voices
 
 ### 完整英文 Transcript
 
@@ -666,7 +719,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:01](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1441s) · 他进行祷告**：description pray with me and and stir yourself up in tongues for 30 minutes you start doing that every day you praying over your children you praying over your loved ones and doing that and and I'm telling you nothing shall by any means harm you nothing shall hurt you a thousand shall fall your side and 10,000
+- **[24:58](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1498s) · 他描述所见**：come I saw the Pope I saw these things so could it be 10 years I don't I personally do not believe that I personally do not now like I told you about the six and the shmita if we're wrong about some dates or whatever I'm just going to tell you be ready at all
+- **[26:41](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1601s) · 他进行祷告**：were and we're calling them saved we're calling them delivered okay find a scripture to stand on today concerning your unsaved loved ones I'm going to put something down in the description about what you can do to pray over your unsaved loved ones comes from from Pastor Steve's church and he has an amazing uh prayer to pray for
+- **[27:37](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1657s) · 他进行祷告**：Twinkle Twinkle Little Star just without it it's a flipping prayers being a parrot get it out of your spirit and pray it pray that word get a manifestation of the word of God inside of you and that's when you're going to see results your Mountain has to hear your voice but it's the word out of your
 
 ### 完整英文 Transcript
 
@@ -784,7 +844,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:19](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1699s) · 他进行祷告**：their head to the SES of their feet that no weapon formed against them is going to prosper I thank you that they're always in the right place at the right time in every every single area of their life father that they would hear your voice and a stranger voice they will not follow I pray over their ears father
+- **[28:35](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1715s) · 本段原话**：right now that there's no demonic spirits that would be able to hinder or harm them in any way talking to them or or confusing them I thank you that every single morning when they put their feet on the carpet they wake up and they acknowledge you and say holy ghost Holy Spirit what do you have for me today I
+- **[29:50](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1790s) · 本段原话**：and Savior I call wives in I call husbands in I call children in I call grandmas or grandpas in if they're unsaved and they don't know you God we call the Harvest in and out in the name of Jesus Lord soften their hearts soften their hearts Lord in the name of Jesus we call them in right now oh God we
+- **[31:39](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1899s) · 他进行祷告**：to come across their path right now we call follow we call them in thank you Lord the people be obedient to witness to witness and to show the love of God to somebody you might be that person that somebody else is praying for you might be at Walmart or whatever some kind of
 
 ### 完整英文 Transcript
 
@@ -890,7 +957,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:10 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:00](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1920s) · 本段原话**：praying for their unsaved loved one at there and then you come across their unsaved loved one and you witness the gospel to them be obedient because you could be a answer to prayer for some other mother you could be an answer to prayer I just heard that you be obedient when you're at the grocery store to
+- **[32:15](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1935s) · 他描述所见**：witness to the to somebody you may not even know that Mom might be praying for that unsa one I just saw it in a vision when I was praying right then you be the light you be the salt to somebody else's need help them help them if the Lord's speaking to you do it show the love God
+- **[33:12](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=1992s) · 本段原话**：deliverance over Cancers and diabetes and over glaucomas and over over brain disease Alzheimer's and Dementia and over over open opening ears and eyes to be open and death to for the the the mute to speak I call their tongues to be released in the name of Jesus I take authority over those Spirits right now
+- **[34:57](https://www.youtube.com/watch?v=t7pyY-mxBiA&t=2097s) · 本段原话**：like our videos we really appreciate it God bless you all and thank you for watching it uh thank you for your support we put a smile on your face and a song in your heart Jesus loves you so much and we will see you next time have a blessed day you all bye-bye
 
 ### 完整英文 Transcript
 

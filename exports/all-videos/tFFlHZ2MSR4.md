@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1213；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 60:00–65:59 · 预言、梦境与异象、战争与国际事务](#section-11)
 - [12. 66:00–70:23 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:35](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=95s) · 他描述所见**：Administration God's God intervene folks and I'm telling you I saw Donald Trump In a Different Light than I've ever seen him before I saw him glowing with the glory of God he becomes a different person filled with controlled by the Holy Spirit and um he makes alliances with Israel that brings a blessing on our
+- **[12:48](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=768s) · 他描述所见**：still all to the glory of God that he would have a radical visitation from the Lord Jesus and people say well he's already saved well for what I saw in the demon costumes that he's wore he needs to we we need he needs to be instructed a little bit more about Christianity then I'm not judging anybody I'm just
+- **[24:44](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=1484s) · 他进行祷告**：this transition time of the next 70 some days I call forth peace and that there is no terrorist attacks there is no father plan of the wicked in our land the father that we're like a dome of the of protection over our shopping over the H over Christmas shopping father I thank you Lord Black
+- **[42:00](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=2520s) · 他描述所见**：Israel now I'm seeing Israel Israel standing there allone but they're but they're glowing with the glory they are a light in the darkness and there's a great wealth going to get ready to come up out of Israel as oh I don't know if I should I see wealth in the in the Gulf
+- **[54:02](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=3242s) · 他进行祷告**：and in this they'll be able they're going to do things quickly there's one last call ladies and gentlemen I've been shown a lot really quickly and I have to pray over every bit of this I I'm very interesting that he did it on on the camera like this because usually he does this privately with me
+- **[66:21](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=3981s) · 他描述所见**：then you could see the fork cof and you could see the blessing and the covering and and the in the covering from Israel my job is never try ever to bring confusion I pray and that's is what I see and you all want to be a part and I and I show you what the Lord says and
+
 <a id="section-01"></a>
 ## 01. 00:00–05:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:35](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=95s) · 他描述所见**：Administration God's God intervene folks and I'm telling you I saw Donald Trump In a Different Light than I've ever seen him before I saw him glowing with the glory of God he becomes a different person filled with controlled by the Holy Spirit and um he makes alliances with Israel that brings a blessing on our
+- **[02:56](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=176s) · 他描述所见**：happen with a covenant it's like like your big Brothers coming back on the scene protecting and being that that uh big brother in the background with Israel the blessing and the favor with blessing the Israeli people the Israeli government the Jews stepping behind Israel brings a covering I saw a dome of like a covering again over
+- **[03:50](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=230s) · 他描述所见**：curse and I want to tell you when the blessing comes I saw oil wells I saw Trump releasing oil and the OPEC o Over America like you wouldn't believe the wealth coming up drill baby drill that's what I can say drill baby drill there was money coming out of the Gulf of Mexico there
+- **[04:48](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=288s) · 他描述所见**：cryptocurrency I'm talking about Solomon type thinking and Solomon type wealth I saw numbers with turning in the the natur the national debt around and bringing a blessing like you wouldn't believe folks as we line up with Israel and bless Israel and a supernatural endowment of God's wisdom comes on his mind I saw Putin now and I saw Emanuel
 
 ### 完整英文 Transcript
 
@@ -155,7 +173,14 @@
 <a id="section-02"></a>
 ## 02. 06:00–11:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、教会、复兴与信仰。 提到的地点：Israel、Europe、China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[06:26](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=386s) · 他描述所见**：combat with the bricks a new Global Currency with their their their Coalition over here and attacking Taiwan and Hawaii and I've warned about Hawaii before but I saw it again and the Lord showed me all this going on with China because China wanted Taiwan to take Taiwan back and I saw it was like their piece of the puzzle it
+- **[08:45](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=525s) · 他描述所见**：they pretend they are doing surprise attacks trying to pick a fight um and then Israel I'm talking I'm talking and then I saw a massive bull in the Mediterranean and I call it the gulf in the video but it is not the gulf excuse my ignorance but it is the Mediterranean it's the sea out in front
+- **[09:43](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=583s) · 他描述所见**：years great financial wealth will flow through Israel I saw their agriculture with their ore I saw I saw fruit the size of hu like ginormous I don't know if they're oranges I don't even know if they grow oranges folks but I saw fruit that was ginormous fruit okay I saw vegetables that were
+- **[10:41](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=641s) · 他描述所见**：people get upset about that folks but those that bless Israel and smart enough to bless him he will bless and thank God Donald Trump is smart enough to bless him I saw religious freedom coming to American people and a backing of the church from Donald Trump like we've never seen before in this
 
 ### 完整英文 Transcript
 
@@ -285,7 +310,14 @@
 <a id="section-03"></a>
 ## 03. 12:00–17:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Israel、Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:48](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=768s) · 他描述所见**：still all to the glory of God that he would have a radical visitation from the Lord Jesus and people say well he's already saved well for what I saw in the demon costumes that he's wore he needs to we we need he needs to be instructed a little bit more about Christianity then I'm not judging anybody I'm just
+- **[13:46](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=826s) · 本段原话**：you'll see a I'm going to see a major turn of events in that man's life that's what we're believing for and we're believing for the same for Donald Trump we're believing for protection Supernatural protection for him cuz what I all from the old Cold War uh uh stuff happening with Cuba and darkness Rising
+- **[15:29](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=929s) · 他描述所见**：we have our president stands with Israel because that's what's going to save our highes thank God for that because I saw oil wealth coming you all my goodness I saw blessing and I saw blessing coming out of the Mediterranean Sea with Israel 24 billion then 240 billion and I saw one company that was that was going to drill
+- **[17:15](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=1035s) · 他描述所见**：happening are you going to smile and and give God praise for it I still seen the shaking trying to happen with the plague with the House of Cards falling I saw the blessing coming I told you I don't know how long that blessing lasts that window but I'm telling you I saw a
 
 ### 完整英文 Transcript
 
@@ -440,7 +472,14 @@
 <a id="section-04"></a>
 ## 04. 18:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:01](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=1081s) · 他描述所见**：then I saw the House of Cards fault now when does that happen I saw the the debt all the debt and all the stuff a recall of the debt I saw a humbling of America is that a year into it is it two years but then today I'm seeing an umbrella of uh of blessing as you bless
+- **[19:42](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=1182s) · 本段原话**：to be uh presumptuous and I do not want to lead anybody a Falls and astray or or or or be flaky I'm telling you I am not I didn't I do not want to be a flaky Christian I'm I want to be filled with controlled by the Holy Spirit and and listen to him and hear what he's saying
+- **[20:38](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=1238s) · 本段原话**：wounded for our transgressions you are bruised for our iniquities the chastisement of our peace was upon you and with your stripes we are healed and we believe father we believe in your Covenant of health and health and wealth and that you have given us a sound mind no spirit of fear what I say is coming
+- **[23:19](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=1399s) · 本段原话**：is he that is in us and he that is in the world and that that no weapon is that will be formed against us that it will not Prosper not one weapon nothing I don't care what the devil tries to throw at us we have the blood of Jesus so we give praise and
 
 ### 完整英文 Transcript
 
@@ -590,7 +629,14 @@
 <a id="section-05"></a>
 ## 05. 24:00–29:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 提到的地点：France。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:44](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=1484s) · 他进行祷告**：this transition time of the next 70 some days I call forth peace and that there is no terrorist attacks there is no father plan of the wicked in our land the father that we're like a dome of the of protection over our shopping over the H over Christmas shopping father I thank you Lord Black
+- **[26:34](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=1594s) · 本段原话**：neighbor or whatever that they would be exposed and they don't even realize that they're flapping their mouth that they would say something and say oh and they go wow I wish I could retract that but it's too late because out of the abundance and the Overflow of their heart their mouth's going to speak and
+- **[27:22](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=1642s) · 他表达判断**：it's too late cuz we they heard it I thank you Father that there's that that kind of that that's the kind of stuff that I believe Supernatural father that you're moving in behalf of us for divine protection over uh over the um New Year's Eve celebration and Rocking New Year's Eve in in New York I pray over
+- **[27:44](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=1664s) · 他描述所见**：those people already today that there is a supernatural covering over this area in the name of Jesus in London I pray over London father and over the gatherings in in in at the New Year's Eve celebrations in London I see it in the spirit with the feris will and the and the big
 
 ### 完整英文 Transcript
 
@@ -721,7 +767,14 @@
 <a id="section-06"></a>
 ## 06. 30:00–35:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、特朗普与白宫。 提到的地点：Cuba、Europe、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:00](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=1800s) · 他进行祷告**：England right now trying to stir up War causing and devising a plan to suck people back in further into this war false flag events father I pray over false flag events father they will not take place in Europe blaming Russia for
+- **[30:55](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=1855s) · 他描述所见**：things I hear the word cold War cold old Cold War I see Cuba again I see stationed in Cuba secret things in Cuba with Russia [Music] o it's like Putin has been
+- **[33:22](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=2002s) · 他描述所见**：come to keep United States involved in this in the days ahead desperation will come for a drawing back a drawing back with Trump and there I I see desperation with Emanuel mcon and and other European allies I see Germany I see
+- **[34:29](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=2069s) · 他描述所见**：Trump trying to stop War I see Trump trying to stop the War I see him trying to come in with peace I try he's trying to say no no this way trying Diplomat I I hear the word I hear the diplomats they're they're they're trying to devise peace peace treat he's trying he's trying to bring in to stop this to
 
 ### 完整英文 Transcript
 
@@ -796,7 +849,14 @@
 <a id="section-07"></a>
 ## 07. 36:00–41:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Cuba、China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:07](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=2167s) · 他描述所见**：B is it Bulgaria I see a b Lord I need your help on that I make it clear I can show you on a map um by Warsaw the leaders it's above Ukraine it's the leaders in that nation in even in Canada
+- **[38:50](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=2330s) · 他描述所见**：Cuba I see Cuba again and it's lit up and it's it's highlighted and the Lord's highlighting Cuba to me and I hear Cold War I hear Cold War again remember that Diana I need your help with that remember Cold War I I hear Cuban Missile Crisis
+- **[39:31](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=2371s) · 他描述所见**：Papa old alliances old things devising coalitions they're Co a coalition oh ab ab back room deals there's Darkness oh now I see Hawaii again I see China taking over over over over I see China coming against [Music]
+- **[41:02](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=2462s) · 他进行祷告**：quickly father we pray for president Trump father oh my goodness Venezuela in the oil there's there's there's things with Venezuela in the oil he they're part of the plan they're part of the plan in Venezuela uh of all these alliances creating a way to defeat the dollar and then become the world power
 
 ### 完整英文 Transcript
 
@@ -865,7 +925,14 @@
 <a id="section-08"></a>
 ## 08. 42:00–47:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、物资、能源与供应链。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:00](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=2520s) · 他描述所见**：Israel now I'm seeing Israel Israel standing there allone but they're but they're glowing with the glory they are a light in the darkness and there's a great wealth going to get ready to come up out of Israel as oh I don't know if I should I see wealth in the in the Gulf
+- **[43:05](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=2585s) · 他描述所见**：[Music] gas I hear him talking about the abrahamic [Music] Covenant I see fruits and vegetables flourishing I see I see beautiful big beautiful fruits and vegetables growing even better there's a new springing forth of
+- **[44:23](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=2663s) · 他描述所见**：2027 and 2028 I see flourishing with the with the Trump Administration and and and Israel's Administration they're they're they're like one and they're moving together as one there is an alliance with the blessing on from Israel coming on America because of this I see I see they will bless you and I will will bless and
+- **[45:37](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=2737s) · 他描述所见**：peace it's like big brothers in the room and helping helping Israel I see it's like a like a like a stronger Alliance a stronger Covenant like don't mess with them or you'll mess with us because of the Covenant because of this Alliance because you protect my people it brings blessing back on
 
 ### 完整英文 Transcript
 
@@ -957,7 +1024,14 @@
 <a id="section-09"></a>
 ## 09. 48:00–53:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、祷告、敬拜与现场互动。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[48:08](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=2888s) · 他描述所见**：I see light and I see blue all around pre present Trump but I see a blue sky again I see beautiful beautiful times it's like a spring day a beautiful spring day and I hear I he got his favored and he's putting his hand on him and there is a hand of the Lord of
+- **[49:05](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=2945s) · 他描述所见**：oh everything is going to be all right everything is going to be all right as you line up with Israel as you defend and protect my people I see a covering ahead edge around and about America and everything is going to be all right what the devil meant for bad I'll
+- **[50:24](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=3024s) · 本段原话**：falling a supernatural Solomon wisdom to turn this this ship around it's like the visions that I've seen about the economy crashing you can see it kind of it's trying to turn but it's keyed to blessing Israel as you sew into Israel and you bless and you create favor it causes
+- **[51:40](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=3100s) · 他描述所见**：this as they line up and do this they're like friends they're like like we must pray even more I see there's company in Israel there's great wealth there folks I'm seeing Bo big money it's almost like a pot of gold it's like a pot of gold I don't know what this is but it's
 
 ### 完整英文 Transcript
 
@@ -1054,7 +1128,14 @@
 <a id="section-10"></a>
 ## 10. 54:00–59:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[54:02](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=3242s) · 他进行祷告**：and in this they'll be able they're going to do things quickly there's one last call ladies and gentlemen I've been shown a lot really quickly and I have to pray over every bit of this I I'm very interesting that he did it on on the camera like this because usually he does this privately with me
+- **[55:14](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=3314s) · 他描述所见**：the protection of our leader and for wisdom for him I see a holy ghost glow around him and I see a covering but I saw many and and and and these others and they were devising a plan cuz they wanted the war to escalate in Europe and I saw trying to defuse I saw him coming in and trying to
+- **[56:13](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=3373s) · 他描述所见**：reason why he wants War oh I hear him say one world older creating trying to create a new one world and he knows it one has to come through War this man is very bad oh I see who's behind
+- **[58:54](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=3534s) · 他描述所见**：his own that this reptilian thing that I see reptilian looks like a almost like a a snake alligator thing oh I don't say nothing else I'm sorry father I pray I pray over his
 
 ### 完整英文 Transcript
 
@@ -1153,7 +1234,14 @@
 <a id="section-11"></a>
 ## 11. 60:00–65:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[62:13](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=3733s) · 他描述所见**：things thank you for joining me today we can turn things I'm seeing it in the spirit realm different now today was the first day I asked the Lord what's the word for now you just showed me more and ladies and gentlemen I'm seeing we can turn things all the economic stuff I saw it
+- **[62:33](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=3753s) · 他描述所见**：turning I saw great wealth in the with Israel I saw great wealth coming on America because of an alliance with America with Israel this must take place but I saw money out of that water in in Israel big money I saw an economic agenda that was trying to unfold with the virus with the things
+- **[64:45](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=3885s) · 他描述所见**：to keep Trump in it because Trump was trying to pull out he wanted to stop it he wants peace and they were trying to create false flag events to create it to make it keep escalating provoking the bear but I saw diplomatic peace I saw escalation against Israel and
+- **[65:15](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=3915s) · 他描述所见**：Iran that will will be shortlived in this area I saw it but because the United States was back in the him and they were afraid of the Firepower that we had they didn't want to lose their regime and all that so it's almost like they were they're weaker than what they but they have a plan they have evil
 
 ### 完整英文 Transcript
 
@@ -1254,7 +1342,14 @@
 <a id="section-12"></a>
 ## 12. 66:00–70:23 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[66:21](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=3981s) · 他描述所见**：then you could see the fork cof and you could see the blessing and the covering and and the in the covering from Israel my job is never try ever to bring confusion I pray and that's is what I see and you all want to be a part and I and I show you what the Lord says and
+- **[67:01](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=4021s) · 本段原话**：their Nation when Trump gets in to stop the the the E illegal M migration and then they have Financial ties it was dark for the sex trafficking that they these government officials had links to these these traffickers to keep it
+- **[68:36](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=4116s) · 他进行祷告**：the video and pray with us like the video click the notification Bell remember Jesus Is A Healer remember he's the same yesterday today and forever ladies and gentlemen and he's Healing The Sick just like he did 2,000 years ago you just got to bleed him for it he'll heal you and he'll deliver you and
+- **[69:35](https://www.youtube.com/watch?v=tFFlHZ2MSR4&t=4175s) · 他描述所见**：shifting I saw blessing today I saw him standing in the Oval Office with glow on his face and he was not weeping he was smiling and there was a smile on him he becomes radically Born Again In The Days Ahead well thank you for watching this video and we really appreciate it thank you for watching it and thank you
 
 ### 完整英文 Transcript
 

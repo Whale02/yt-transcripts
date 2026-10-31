@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 586；**章节数**: 6；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -16,10 +16,28 @@
 - [05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-05)
 - [06. 20:00–23:15 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
 
+## 全片概述与 Key Points
+
+全片共 6 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:33](https://www.youtube.com/watch?v=cyulcZxkB3c&t=33s) · 他进行祷告**：downloads things to me all the time and people say well how do I get there it's it's dayto day you you do it by like you like you do anything else you you're going to keep going at it and going at it and going at it you pray you fast you read your Bible you seek his face and
+- **[04:01](https://www.youtube.com/watch?v=cyulcZxkB3c&t=241s) · 本段原话**：that but these angels like this are very um they have like these robes and gowns on a lot of times and they're always really tall it's it's very interesting because they're tall and slender they're not heavier or mus like bulky you know like you know like like you like you could bench press 5,000 lbs they always
+- **[08:37](https://www.youtube.com/watch?v=cyulcZxkB3c&t=517s) · 本段原话**：if you start thinking bound you start thinking I'm a victim I'm going through all this I know the Devil comes to cut try to kill Ste and destroy you already know he's a roaring liing seeking whom he may devour he's coming to try to put out that flame and that fire in your
+- **[12:21](https://www.youtube.com/watch?v=cyulcZxkB3c&t=741s) · 本段原话**：angels to keep charge over me according to Psalms he didn't say any of that he said it is written he spoke to the devil about what the word says and told the devil this is what you're going to do get thee behind me Satan this is you know that's what you have to do with the
+- **[16:19](https://www.youtube.com/watch?v=cyulcZxkB3c&t=979s) · 本段原话**：Authority just like a like a policeman that's standing there at at the traffic sign he's holding up his badge that policeman has authority to stop the traffic but by himself without the without the badge in the in the in the city and the state backing him he's just another Average Joe but what makes him have authority is
+- **[21:17](https://www.youtube.com/watch?v=cyulcZxkB3c&t=1277s) · 本段原话**：say man I really do love that individual and we will make this work not allowing the Devil to rob you of something that was such a blessing in the beginning we have a tendency to to to get too familiar with our spouse and and not uh realize how much what what we were attracted to and what what first
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:33](https://www.youtube.com/watch?v=cyulcZxkB3c&t=33s) · 他进行祷告**：downloads things to me all the time and people say well how do I get there it's it's dayto day you you do it by like you like you do anything else you you're going to keep going at it and going at it and going at it you pray you fast you read your Bible you seek his face and
+- **[01:59](https://www.youtube.com/watch?v=cyulcZxkB3c&t=119s) · 本段原话**：don't talk about it because they're they're a bunch of um uh sugarcoated uh Frosted Flakes they give you they give you what you have just to keep you alive but it's not it's not making you strong it's not making you able to to like you're eating the meat and how to fight the devil off and win and and and be
+- **[02:15](https://www.youtube.com/watch?v=cyulcZxkB3c&t=135s) · 本段原话**：victorious in your your Christian Life they give you enough just like I said it's like the bread of Affliction they keep you enough in in in your spiritual walk just to keep you enough to to to crawl uh spiritually but there's a lot of Pastor shame on you for teaching people how to live by faith and how to
+- **[03:07](https://www.youtube.com/watch?v=cyulcZxkB3c&t=187s) · 他描述所见**：praying like I normally do and all of a sudden I was in my garage and an angel came before me because I was interceding for a a certain Minister and uh because the Lord had put me on an assignment and so uh this Angel comes to me in a vision he and and I don't it's not like I'm
 
 ### 完整英文 Transcript
 
@@ -130,7 +148,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=cyulcZxkB3c&t=241s) · 本段原话**：that but these angels like this are very um they have like these robes and gowns on a lot of times and they're always really tall it's it's very interesting because they're tall and slender they're not heavier or mus like bulky you know like you know like like you like you could bench press 5,000 lbs they always
+- **[04:57](https://www.youtube.com/watch?v=cyulcZxkB3c&t=297s) · 他描述所见**：on their head like a it almost looks like Olive branches or something I don't know there sometimes I see that sometimes not but I I always try to think what is that you know but um I never ask cuz I don't care you know during that time frame when you're having that experience you're like what
+- **[06:09](https://www.youtube.com/watch?v=cyulcZxkB3c&t=369s) · 本段原话**：the things that was going on he knew he was on assignment like I said and he come here he said Deuteronomy 28:10 was going to become more uh uh real to you it's going to become Rama to you it's going to become in these last days right now in this dispensation of time right
+- **[07:22](https://www.youtube.com/watch?v=cyulcZxkB3c&t=442s) · 本段原话**：children and your wife and he said and tell that other minister that you're inter interceding for right now that that that SC scripture Deuteronomy 28:10 he said is going to come alive on them for for the the occult and the persecution that they're receiving that that that there's a supernatural push a supernatural push that's coming alive
 
 ### 完整英文 Transcript
 
@@ -237,7 +262,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:37](https://www.youtube.com/watch?v=cyulcZxkB3c&t=517s) · 本段原话**：if you start thinking bound you start thinking I'm a victim I'm going through all this I know the Devil comes to cut try to kill Ste and destroy you already know he's a roaring liing seeking whom he may devour he's coming to try to put out that flame and that fire in your
+- **[09:30](https://www.youtube.com/watch?v=cyulcZxkB3c&t=570s) · 本段原话**：word that that defeats the devil it's the word that he whenever it says in James 4:17 submit yourself therefore unto God resist the devil and he will flee from you but you've got to submit you've got to get that word down inside of your spirit that is your sword and it comes out of your mouth and and it's
+- **[09:52](https://www.youtube.com/watch?v=cyulcZxkB3c&t=592s) · 他进行祷告**：able to cut the devil up but I've noticed you can pray all you want to praying is is is moving in you it's maneuvering the Angels it's it's bringing down stuff you it's all kinds of stuff it's communication with the father okay but there is a lot of times when you're dealing with the Demonic
+- **[11:03](https://www.youtube.com/watch?v=cyulcZxkB3c&t=663s) · 本段原话**：son and whom I'm well pleased okay so here he is the Devil Comes you know whenever Jesus is being tempted for the 40 days right he comes and he tries to talk to him if you are the Son of God if you are he started questioning it so he's a flesh devil he's not a spirit
 
 ### 完整英文 Transcript
 
@@ -347,7 +379,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:21](https://www.youtube.com/watch?v=cyulcZxkB3c&t=741s) · 本段原话**：angels to keep charge over me according to Psalms he didn't say any of that he said it is written he spoke to the devil about what the word says and told the devil this is what you're going to do get thee behind me Satan this is you know that's what you have to do with the
+- **[13:34](https://www.youtube.com/watch?v=cyulcZxkB3c&t=814s) · 本段原话**：worshiping hey right there you know you trying to mess with me we're going to take a moment we're just going to Praise Jesus for a little bit I'm telling you they can't Praise Jesus they don't want to be around they just they get out of here s father I just worship you father
+- **[14:36](https://www.youtube.com/watch?v=cyulcZxkB3c&t=876s) · 本段原话**：trying to I'm trying to tell you all a lot of times you're missing it when you think well the the Lord the Lord's just going to deal with the Devil the Lord's done everything he's going to do about the devil for you he became uh he became everything that he needed to do he
+- **[15:47](https://www.youtube.com/watch?v=cyulcZxkB3c&t=947s) · 本段原话**：call upon the name of the Lord he's going to save you he'll deliver you he'll set you free from all kinds of demonic attack there is nothing too big for God to handle in your life don't matter if you're dying of something if
 
 ### 完整英文 Transcript
 
@@ -459,7 +498,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:19](https://www.youtube.com/watch?v=cyulcZxkB3c&t=979s) · 本段原话**：Authority just like a like a policeman that's standing there at at the traffic sign he's holding up his badge that policeman has authority to stop the traffic but by himself without the without the badge in the in the in the city and the state backing him he's just another Average Joe but what makes him have authority is
+- **[18:01](https://www.youtube.com/watch?v=cyulcZxkB3c&t=1081s) · 本段原话**：cuz he know he'll go whoa but he'll come back and test it all the time do they still know it do they still have a revelation of it because he always comes to test the word he always comes that's just the way he is remember when Jesus slapped him upside the head with that word a couple
+- **[19:23](https://www.youtube.com/watch?v=cyulcZxkB3c&t=1163s) · 本段原话**：exceedingly abundantly above all that do we dare ask or think according to the power that work work in you that's the kind of God we serve good days are ahead in the name of Jesus 2024 is going to be a year we s you can go higher with him in in the spirit realm higher with him
+- **[19:40](https://www.youtube.com/watch?v=cyulcZxkB3c&t=1180s) · 本段原话**：in in the heavenlies higher with him financially higher with him in your job hire with him whatever it is it's not too small Jesus is going to do big things with you great great great Mighty Works will you do I'm telling you today is your day of Victory today is your day of of of of great great breakthrough in
 
 ### 完整英文 Transcript
 
@@ -572,7 +618,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:15 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[21:17](https://www.youtube.com/watch?v=cyulcZxkB3c&t=1277s) · 本段原话**：say man I really do love that individual and we will make this work not allowing the Devil to rob you of something that was such a blessing in the beginning we have a tendency to to to get too familiar with our spouse and and not uh realize how much what what we were attracted to and what what first
+- **[22:16](https://www.youtube.com/watch?v=cyulcZxkB3c&t=1336s) · 本段原话**：peace through this season that they have joy in their house because Jesus is the reason for the season and we're not worried about all that other stuff we we put our eyes on what's important and it's Jesus and him and how much he loves us Jesus came as a as a little baby born
+- **[22:47](https://www.youtube.com/watch?v=cyulcZxkB3c&t=1367s) · 本段原话**：call you delivered and I thank you for watching my videos I really do it blesses me if you could please click that notification button please please uh put a like on my video videos and put some kind comments down below I really would appreciate it it helps us to get the gospel out for all throughout the
+- **[23:04](https://www.youtube.com/watch?v=cyulcZxkB3c&t=1384s) · 本段原话**：world preaching and teaching that Jesus is coming soon and I just want to tell you all put a smile on your face and a song in your heart Jesus loves you and we love you and we will see you next time have a blessed day y'all byebye
 
 ### 完整英文 Transcript
 

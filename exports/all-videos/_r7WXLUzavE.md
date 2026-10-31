@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 789；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 - [09. 32:00–33:06 · 祷告、敬拜与现场互动](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:19](https://www.youtube.com/watch?v=_r7WXLUzavE&t=19s) · 本段原话**：time that is very serious we are in the last of the last seconds before Jesus Christ comes back yes there's things that still need to take place there is a great Revival that will take place a great harvest of souls but we've got to start standing and you need to learn how to stand on the word and and your
+- **[08:20](https://www.youtube.com/watch?v=_r7WXLUzavE&t=500s) · 本段原话**：well my boss did me wrong I'm fighting with my wife or or or my kids are out acting crazy or whatever all the stuff that you would want to say out of your mouth to speak bad in out of your mouth concerning your circumstances because the devil's over there writing it all down oh look see she this work this work
+- **[12:19](https://www.youtube.com/watch?v=_r7WXLUzavE&t=739s) · 本段原话**：had to step out and use his legs to step out of the boat and walk on the water you cannot stand stand there like a puppet and expect the spirit of the Lord to move through you and move your tongue you can't be like a wooden doll sitting there you've got to do it by faith
+- **[20:01](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1201s) · 他进行祷告**：church and and the preachers preaching you got to do everything in order you can't be flaky you know but whenever you pray as a unit in tongues in church in a prayer service there's power in that prayers they because because you bring a piece of the gift a piece of the pie they bring a piece of the pie everybody
+- **[24:00](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1440s) · 本段原话**：is not going to scare the devil away okay it's the it's what you're doing by faith to anoint your house it's applying the blood it's it's a it's it's a symbolic okay you're putting the bloodline over your kid by anointing them with oil putting it on your doorpost or on your door frame or on
+- **[32:01](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1921s) · 本段原话**：long and when you have people be kind to you and believe in you and they say nice things it it uplifts you and you're able to go wow you know maybe I can do this even whenever the Lord's in your corner and he's telling you things and say brenon you can do this it's nice to have
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:19](https://www.youtube.com/watch?v=_r7WXLUzavE&t=19s) · 本段原话**：time that is very serious we are in the last of the last seconds before Jesus Christ comes back yes there's things that still need to take place there is a great Revival that will take place a great harvest of souls but we've got to start standing and you need to learn how to stand on the word and and your
+- **[01:13](https://www.youtube.com/watch?v=_r7WXLUzavE&t=73s) · 本段原话**：just teaching you a little bitty thing just to get you to give your offerings and your and your times and whatever they can get out of you for that 30 minutes they teach you a little water down milky word and then they send you on your way because they don't want to they don't want to ruffle the feathers
+- **[01:43](https://www.youtube.com/watch?v=_r7WXLUzavE&t=103s) · 本段原话**：how to live by faith and how to combat what's about to happen there are some really good churches out there and as long as they're preaching and teaching you how to stand and live by faith and how to to to combat what's in the for what's coming in the days ahead then you're good don't but if you're getting
+- **[02:43](https://www.youtube.com/watch?v=_r7WXLUzavE&t=163s) · 他表达判断**：practice praying in the spirit I would say and I don't want to I'm not going to exaggerate I'm going to say this probably 80% of my day in some way I'm praying in the spirit underneath my breath driving down the road out doing yard work whatever I've just practiced it's like like lifting weights I've just
 
 ### 完整英文 Transcript
 
@@ -134,7 +152,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=_r7WXLUzavE&t=241s) · 本段原话**：power of the tongue what you say out of your mouth yesterday is what you're living today it's a it's a process you say and you sew with your mouth and you're reaping the Harvest uh the next day so you have got to learn that your tongue is powerful and so the enemy listens to your prayers the
+- **[04:59](https://www.youtube.com/watch?v=_r7WXLUzavE&t=299s) · 本段原话**：that area are because if we can we're going to we're going to win so you start saying all this stuff out of your mouth and you and you're praying oh god oh I'm having a hard time today God please help me help me oh Johnny's out doing drugs again you're interceding so just like
+- **[05:34](https://www.youtube.com/watch?v=_r7WXLUzavE&t=334s) · 本段原话**：same then they brought cryptographers in and they brought the cryptographers in and and it was a secret message and only the really genius people could to could go and and and decipher that message because they didn't want the enemy to go ahead and get the battle plans of what they were going to do so they would send
+- **[06:49](https://www.youtube.com/watch?v=_r7WXLUzavE&t=409s) · 本段原话**：devil wants you to be good at sin he's going to have you pushing as hard as you can at sin as you can whether it's witchcraft or whatever so have you ever been in a a R-rated movie and having somebody cussing and acting stupid praying in tongues Sin is Sin folks and the devil's a master at making people in
 
 ### 完整英文 Transcript
 
@@ -244,7 +269,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:20](https://www.youtube.com/watch?v=_r7WXLUzavE&t=500s) · 本段原话**：well my boss did me wrong I'm fighting with my wife or or or my kids are out acting crazy or whatever all the stuff that you would want to say out of your mouth to speak bad in out of your mouth concerning your circumstances because the devil's over there writing it all down oh look see she this work this work
+- **[09:16](https://www.youtube.com/watch?v=_r7WXLUzavE&t=556s) · 他进行祷告**：were set free there is a great Mighty earthquake that came you need to know the same power that that that was in that Jael cell was inside of you and you have the same ability to pray in the spirit and call down the fire just like they did and I'm telling you God has a
+- **[10:10](https://www.youtube.com/watch?v=_r7WXLUzavE&t=610s) · 本段原话**：here I'm going to give you a scripture this is 1 Corinthians 14: 2 for he that speaketh in an unknown tongue speaketh not unto men but unto God for no man understands him how be it in the spirit he speaketh Mysteries here's another uh scripture I want to give you Jude 1: 20
+- **[11:33](https://www.youtube.com/watch?v=_r7WXLUzavE&t=693s) · 本段原话**：intellect knows instead of shooting blindly at a Target instead of praying that way you're hitting the Target on the bullseye when you're praying in tongues and you're you're going well I I need this I need that but the spirit knows more than you of course the Holy Ghost knows more than you the Holy
 
 ### 完整英文 Transcript
 
@@ -351,7 +383,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:19](https://www.youtube.com/watch?v=_r7WXLUzavE&t=739s) · 本段原话**：had to step out and use his legs to step out of the boat and walk on the water you cannot stand stand there like a puppet and expect the spirit of the Lord to move through you and move your tongue you can't be like a wooden doll sitting there you've got to do it by faith
+- **[13:14](https://www.youtube.com/watch?v=_r7WXLUzavE&t=794s) · 他描述所见**：this is how I see mountains moved and I walk in the spirit the way I do uh seeing the supernatural you want to start going in the Supernatural you want to start walking in the things of the spirit you have got to start start praying in the Holy Ghost concerning your circumstances every single day do
+- **[14:09](https://www.youtube.com/watch?v=_r7WXLUzavE&t=849s) · 本段原话**：he got they got over in the spirit he was praying in the tongues is bringing forth a holy ghost fire in that Hol that jail cell and and and the walls begin to shake and the power of God set them free what I'm trying to say to you is you've got to tap into a higher
+- **[15:20](https://www.youtube.com/watch?v=_r7WXLUzavE&t=920s) · 他进行祷告**：booklet right here you'll see it in the description why tongues it's by Kenneth Hagen Ministries and so and this this little pamphlet will help you out a lot and so I just pray right now in the name of Jesus that everybody who is watching that desires to be baptized in the Holy Ghost Holy Spirit move on them right now
 
 ### 完整英文 Transcript
 
@@ -448,7 +487,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:02](https://www.youtube.com/watch?v=_r7WXLUzavE&t=962s) · 本段原话**：you got to yield you got to move your mouth you got to do it by faith he's not going to come over and take your tongue over you've got to do it it may sound goofy to your ears but it got it comes up out of your spirit he's going to take over your tongue
+- **[17:44](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1064s) · 本段原话**：person uh William Seymour that was in the um the African-American preacher that was out in theu zuu Street Revival he said dip my heart in the kerosene of thy spirit that I may burn for you dip my my heart and set my heart Ablaze Lord that I may burn for you set me on Fire
+- **[18:29](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1109s) · 他进行祷告**：your life there is a level that he wants to take you and it's through prayer and you've got to yield yourself you got to come up higher and come out of your intellect that you are yielding yourself to to him to pray through you the only way you're ever going to tap into the greater greater
+- **[18:50](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1130s) · 本段原话**：manifestations of the spirit of God is by the baptism of the Holy Spirit if you don't get that you're not going to walk over there I'm telling you you it's it's just religion and yes prayers he hears all our prayers he loves you but I'm telling you you want to be able to go bypass the devil
 
 ### 完整英文 Transcript
 
@@ -550,7 +596,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1201s) · 他进行祷告**：church and and the preachers preaching you got to do everything in order you can't be flaky you know but whenever you pray as a unit in tongues in church in a prayer service there's power in that prayers they because because you bring a piece of the gift a piece of the pie they bring a piece of the pie everybody
+- **[20:57](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1257s) · 本段原话**：leading leading me finding books that that that inspire you get books to inspire you there's a problem whenever I hear all these people ask tell me I don't hear the lord it's in the comment section over and over I don't hear the Lord the Lord doesn't speak to me he said my sheep will hear my voice and a
+- **[22:50](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1370s) · 本段原话**：do all this stuff because because how am I going to make it God is able to do exceedingly abundantly of all that you dare ask or think according to the power that worketh through you and in you you've got to get out of this small peab brain thinking you're dealing with the great god Jehovah he is huge and he
+- **[23:11](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1391s) · 本段原话**：wants to move in your behalf yield yourself to him let him be the captain of your ship stop steering your boat you're not doing a good job let God Be Your Captain let God steer your ship but you you got to get the Holy Ghost inside of you you got to get that word down inside of you understand
 
 ### 完整英文 Transcript
 
@@ -662,7 +715,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、物资、能源与供应链、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、物资、能源与供应链展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1440s) · 本段原话**：is not going to scare the devil away okay it's the it's what you're doing by faith to anoint your house it's applying the blood it's it's a it's it's a symbolic okay you're putting the bloodline over your kid by anointing them with oil putting it on your doorpost or on your door frame or on
+- **[24:56](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1496s) · 本段原话**：teach you about about the power of the blood of Jesus and what he did to set you free the blood will never lose its power it is the ultimate power in your life the blood of Jesus Christ saved you from the hell it cleansed you from all un righteousness it heals your body his
+- **[26:30](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1590s) · 本段原话**：source too and it goes and it drives out cancer cells it drives out diabetes it drives out uh heart disease it drives out all the things that you need I take your flesh and my flesh because you didn't he was perfect there is no sickness he became sick for us he became sin for us and what he bore in his body
+- **[27:41](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1661s) · 本段原话**：it's cast in the sea of forgiveness forgetfulness remember that your Covenant is by the blood of the lamb and by the word of your testimony god Set Me Free he set me free from so much you all and he sets you free from so much but you've got to receive it by faith and
 
 ### 完整英文 Transcript
 
@@ -769,7 +829,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:01](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1681s) · 本段原话**：talking about God setting you free from sickness and disease he gives you a power gift and it's called the Holy Spirit just like it talks about in Acts chapter 2 he he endowed them with power in the upper room you have got to walk in that power and that Authority in these last days by yielding yourself to
+- **[29:19](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1759s) · 他进行祷告**：much for you and the only way you're ever going to get free from the Devil is to understand how big Jesus is and how much the devil's so small you got to take Comm communion daily you got to take the meal of the heals you got to take that Holy Ghost communion and you need to pray in
+- **[30:18](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1818s) · 本段原话**：that's what your Bible says let your eyes rest on my heart let your eyes rest on me that you that I am I am what you're looking for help me Lord to be that vessel that you're able to use in these last days because the only way you're ever going to be able to do it I'm telling
+- **[31:23](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1883s) · 本段原话**：have been so kind to me the emails there's been some really nice emails people writing stories from my little girl and when you believe for so many years and people tell you that you're never going to do something time and time again that you'll never preach the gospel you'll never do this you know have a lot of confidence
 
 ### 完整英文 Transcript
 
@@ -863,7 +930,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–33:06 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:01](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1921s) · 本段原话**：long and when you have people be kind to you and believe in you and they say nice things it it uplifts you and you're able to go wow you know maybe I can do this even whenever the Lord's in your corner and he's telling you things and say brenon you can do this it's nice to have
+- **[32:18](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1938s) · 本段原话**：people be nice to you there's because there's so many people that have told you you couldn't I just want to say I'm so thankful for every single one of you it's it's very humbling I am I know I'm a work in progress I know I don't have it all together all the way I'm still learning
+- **[32:37](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1957s) · 本段原话**：just like you all walk in and out but I'll share with you the stuff that I've learned over the course of my life so far through the trials and all the things the waves have knocked us down but we're still standing and I'm trying to tell you how to keep standing when all there else to do is stand stand
+- **[32:55](https://www.youtube.com/watch?v=_r7WXLUzavE&t=1975s) · 本段原话**：there put a smile on your face face and a song in your heart Jesus loves you so much and we love you thank you so much for watching this video and have a blessed day bye-bye
 
 ### 完整英文 Transcript
 

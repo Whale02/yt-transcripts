@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1067；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 40:00–43:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 44:00–44:58 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:33](https://www.youtube.com/watch?v=_2tsvivBnU0&t=33s) · 他表达判断**：that you're ever believing for what you're asking for all of it God has it and I believe this is going to be a good year for you 2025 will be a year you thrive a supernatural abundant Supply is coming to you we see right now the SEC saying that they want to drop the case against
+- **[08:40](https://www.youtube.com/watch?v=_2tsvivBnU0&t=520s) · 他表达判断**：see him in it there's so much in the beauty of nature people people say well you know the the evolution and all this stuff I think how in the world could you believe in evolution if you if you sit outside for 10 minutes and just look at this the stuff that God created there's
+- **[16:15](https://www.youtube.com/watch?v=_2tsvivBnU0&t=975s) · 他描述所见**：early 20s and I'll never forget how I crushed that woman and I walked away uh when I saw her crying I thought what did I do I was just trying to help and when Megan got diagnosed about three or four years later I walked in her office and I told her I said my goodness
+- **[28:02](https://www.youtube.com/watch?v=_2tsvivBnU0&t=1682s) · 本段原话**：your life every single thing has not ever come to me ever easy there's been things that I've seen greater Victory than others but has come out of just being a bulldog on a bone I refuse to give up I'm crawl my way out of this hole and I'm going to get up to
+- **[36:00](https://www.youtube.com/watch?v=_2tsvivBnU0&t=2160s) · 本段原话**：secret place he is my refuge he is my Fortress my God at him I trust surely he will Deliver Me From The Snare of the Fowler and the noises and pestilence I just believe it today for you so we try to we just want to encourage you that's what D we we're not
+- **[44:00](https://www.youtube.com/watch?v=_2tsvivBnU0&t=2640s) · 他进行祷告**：have are going to bring it to pass at last in the name of Jesus and everybody say Amen well we know this video went a little longer but we pray that it blessed you I know it didn't pray a lot I'm going to pray a lot more tomorrow but I just felt this in my heart after
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:33](https://www.youtube.com/watch?v=_2tsvivBnU0&t=33s) · 他表达判断**：that you're ever believing for what you're asking for all of it God has it and I believe this is going to be a good year for you 2025 will be a year you thrive a supernatural abundant Supply is coming to you we see right now the SEC saying that they want to drop the case against
+- **[00:56](https://www.youtube.com/watch?v=_2tsvivBnU0&t=56s) · 他描述所见**：xrp in the days ahead I saw an article so we're praying that's what we've been praying for we've been praying for the the the wealth of the The Sinner laid up for the righteous and the wealth transfer I believe the wealth transfer goes hand inand with the great Revival that's about to take place we will see
+- **[01:19](https://www.youtube.com/watch?v=_2tsvivBnU0&t=79s) · 他描述所见**：one of the greatest revivals this world has ever had before I'm telling you all when I was driving down the road was it Sunday and I looked over and I saw a Methodist Church on a hill and I saw instantaneously I started seeing over in the spirit when I was praying and I saw
+- **[01:59](https://www.youtube.com/watch?v=_2tsvivBnU0&t=119s) · 他描述所见**：twirling and T and then they they like they exploded but they went all over the four corners of the Earth all around the world it's went and they went to all the continents I believe again I saw those uh doves and I saw those doves circling and the Lord told me he said Brandon I want you to
 
 ### 完整英文 Transcript
 
@@ -131,7 +149,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:00](https://www.youtube.com/watch?v=_2tsvivBnU0&t=300s) · 他描述所见**：know but if you're going where there's it's dry you have you have to stir yourself up like we were doing this last uh last prayer service we did yesterday praying for praying for the dryness I saw great dryness in Amarillo all around the area and the Lord said I'm bringing a rain I'm going to bring a fresh rain but
+- **[05:22](https://www.youtube.com/watch?v=_2tsvivBnU0&t=322s) · 他描述所见**：then I saw the body of Christ floating down the river enjoying themselves as a family floating down the you know that might be something Southerns do people in the southern in the South do is go down the river and go tubing but there's a lot of there there's a lot of memories made on the river you know getting in
+- **[06:15](https://www.youtube.com/watch?v=_2tsvivBnU0&t=375s) · 本段原话**：you keep that fire you got that fire going and it's going inside of you and you're excited and you're radical and just like oh man this is awesome impartation and then you have your day-to-day life you go back to the eBay the the Poshmark the the listing things going to the thrift stores pressing
+- **[07:36](https://www.youtube.com/watch?v=_2tsvivBnU0&t=456s) · 本段原话**：presence first thing giving him priority so Fanning the flame and putting him first those are all ways you practice his presence yes not giving him leftovers yes well God I'm tired but I'll give you a couple of minutes before I go to bed cuz which is better than nothing but I'm telling you it's GI
 
 ### 完整英文 Transcript
 
@@ -242,7 +267,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:40](https://www.youtube.com/watch?v=_2tsvivBnU0&t=520s) · 他表达判断**：see him in it there's so much in the beauty of nature people people say well you know the the evolution and all this stuff I think how in the world could you believe in evolution if you if you sit outside for 10 minutes and just look at this the stuff that God created there's
+- **[09:43](https://www.youtube.com/watch?v=_2tsvivBnU0&t=583s) · 他描述所见**：desperation and I see see it in so many of yall's letters so many so many people are so desperate for so much but whenever you you get frustrated you get weary and wello and you get annoyed at your circumstance but then you it gives you has a tendency I've I've seen this and even experienced
+- **[10:02](https://www.youtube.com/watch?v=_2tsvivBnU0&t=602s) · 本段原话**：this that you we we can get angry about our circumstan and then start blaming God why am I still living this we hear so much in in things past that well you didn't have enough Faith to be healed I can't tell you how many times I've been told that about Megan well there's a devil it's because
+- **[11:02](https://www.youtube.com/watch?v=_2tsvivBnU0&t=662s) · 本段原话**：Brandon I love when Katherine col Coleman I asked her a question and and she said I don't know she she told Billy I don't know she said learn two words learn learn three words Billy and this will help you all the way through your ministry young Billy I don't know I don't know why I'm going going through
 
 ### 完整英文 Transcript
 
@@ -345,7 +377,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:39](https://www.youtube.com/watch?v=_2tsvivBnU0&t=759s) · 他讨论新闻或报道**：measure up I just don't measure up because I didn't quote enough scripture obviously because I because I'm still overcoming I'm still over getting over this and the doctor's giving me this report and I just feel so broken inside so I walk away saying what what what why why do I even try well there must be sin
+- **[13:34](https://www.youtube.com/watch?v=_2tsvivBnU0&t=814s) · 他表达判断**：that moment that the glory of God would be known that's what Jesus said so it's not always a sin door or it was or he would have said it to the disciples then well yeah her daddy was committing adultery and that's what did it well he was out smoking probably drank too much of that
+- **[14:38](https://www.youtube.com/watch?v=_2tsvivBnU0&t=878s) · 他描述所见**：else to do is stand stand therefore I will stand regardless of the circumstance of what I what I see I and that's why I say that I'm not moved by what I see I'm not moved by what I feel I move by what the word of God says so this is where I'm at I Diana found this
+- **[14:57](https://www.youtube.com/watch?v=_2tsvivBnU0&t=897s) · 他描述所见**：little bit of a passage what Katherine kman said right here I it's fine you all this might go a little longer today but I feel it's necessary for some of you to hear this because you're I see you at the point of desperation and you don't see your miracle and you're weary and well doing
 
 ### 完整英文 Transcript
 
@@ -449,7 +488,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:15](https://www.youtube.com/watch?v=_2tsvivBnU0&t=975s) · 他描述所见**：early 20s and I'll never forget how I crushed that woman and I walked away uh when I saw her crying I thought what did I do I was just trying to help and when Megan got diagnosed about three or four years later I walked in her office and I told her I said my goodness
+- **[17:13](https://www.youtube.com/watch?v=_2tsvivBnU0&t=1033s) · 本段原话**：can ever I until you live and that's why people when I hear some of your when I hear some of the things you're going through a lot of you I go Brandon this is the world's smallest violin shut up compared when you think oh I'm having a hard day and I read some of your papers
+- **[18:16](https://www.youtube.com/watch?v=_2tsvivBnU0&t=1096s) · 他表达判断**：heart there's an expiration date to your circumstance just like ours yes hope hope that's what we do we always put oursel in Hope and say God we know that you will meet us at the point of our need and you're going to meet us don't know when that day that full manifestation coming but I believe that
+- **[19:33](https://www.youtube.com/watch?v=_2tsvivBnU0&t=1173s) · 他转述所听到的话**：mind to what the L lord said I could have but I want you to hear this story about Katherine keman and I want you to listen to this real quick okay in the early days of her Ministry Catherine was greatly Disturbed over many things that she observed in the field of Divine Healing I hated
 
 ### 完整英文 Transcript
 
@@ -549,7 +595,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=_2tsvivBnU0&t=1201s) · 本段原话**：such a service I cried all night I determined that with the holy spirit's help my Ministry would not be that way because she was confused by methods she saw used and disgusted with performances she Witnesses she witnessed she delved even harder into the word of God for answers too Katherine said too often I
+- **[21:07](https://www.youtube.com/watch?v=_2tsvivBnU0&t=1267s) · 他描述所见**：that she attended throughout her youth that had a crushing impact on her I saw the harm that was being done in attributing everything to lack of faith on the part of the individual who had not received a healing the looks of Despair and disappointment on the faces I had seen when told that only their
+- **[21:26](https://www.youtube.com/watch?v=_2tsvivBnU0&t=1286s) · 本段原话**：lack of faith was keeping them from God was to ha me for weeks Coleman suggested that her prayer was answered in the spring of 1947 when she began studying for a series of sermons on the Holy Spirit she realized that when the crucified Christ said it was finished he included not only the salvation of the
+- **[23:02](https://www.youtube.com/watch?v=_2tsvivBnU0&t=1382s) · 本段原话**：kicking off was seeing people walk away without their miracle and they felt defeated they come with such high expectation and in the process of not getting your full manifestation of what you're bleeding for Hope deferred makes the heart sick it it makes you weary and I and I just want to encourage you
 
 ### 完整英文 Transcript
 
@@ -654,7 +707,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:38](https://www.youtube.com/watch?v=_2tsvivBnU0&t=1478s) · 本段原话**：whenever we go home be the Lord no I'm going to stay in the place of Iris believe I receive it now regardless of when that full manifestation comes yes I'm not going to sit there and let my mind Wonder because there's a thousand ways that could Wonder every day well what are you going to do if you if you go by
+- **[24:58](https://www.youtube.com/watch?v=_2tsvivBnU0&t=1498s) · 本段原话**：the gravide what are you going to do with her cuz right now nobody watches her what and you have all these things all these doubts all this stuff tries to come up inside of you and when days like that happen put on worship music and rejoice like it's already happened yes that's a good baby telling telling the
+- **[25:56](https://www.youtube.com/watch?v=_2tsvivBnU0&t=1556s) · 本段原话**：Hollywood Christian that everything is okay because I'm a preacher and I'm telling you this and and and everything and even my poo smells like roses just letting y'all know because I have a special relationship with the Lord folks I got my stuff and and and poo stinks I'm just being real yes and everybody got
+- **[27:00](https://www.youtube.com/watch?v=_2tsvivBnU0&t=1620s) · 本段原话**：that they that we've all got some kind of secret relationship with God because he's favored us a little bit more I'm telling you I've sought him with all my heart and it came out of desperation the only reason I have developed the way I have and the way I've it's been out of pure
 
 ### 完整英文 Transcript
 
@@ -759,7 +819,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:02](https://www.youtube.com/watch?v=_2tsvivBnU0&t=1682s) · 本段原话**：your life every single thing has not ever come to me ever easy there's been things that I've seen greater Victory than others but has come out of just being a bulldog on a bone I refuse to give up I'm crawl my way out of this hole and I'm going to get up to
+- **[29:31](https://www.youtube.com/watch?v=_2tsvivBnU0&t=1771s) · 本段原话**：desperate I want that little girl to get better I want my home my family restored complete manifestation I want the tangible presence of God on my life like that like Moses that whenever I walk into an atmosphere it changes by the presence of God not to give me Glory but to give him
+- **[30:55](https://www.youtube.com/watch?v=_2tsvivBnU0&t=1855s) · 本段原话**：they take up an offering but people have need s but God shall supply all our needs according to his riches Glory by Christ Jesus and we believe in the power of the seed we believe in giving and it shall be given unto you good measure press down shaking together running over will men give under your bosom we believe in
+- **[31:16](https://www.youtube.com/watch?v=_2tsvivBnU0&t=1876s) · 他描述所见**：what God said he would do and I and I and I see it but I think it's interesting that a lot of the word of faith preaching they don't tell you everybody's looking for a mailbox Miracle but I I got away from that Mbox Miracle mentality and saying God anoint my hands to do something so I'm just
 
 ### 完整英文 Transcript
 
@@ -859,7 +926,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:32](https://www.youtube.com/watch?v=_2tsvivBnU0&t=1952s) · 他描述所见**：lottery people lose everything a lot of people will lose at all when the Lord finally when we like because I saw Satan trying to block it coming against and praying and saying no more interceding for this but then keeping it creative ideas to get wealth asking God to bless your hands so that it will so that you're not
+- **[32:55](https://www.youtube.com/watch?v=_2tsvivBnU0&t=1975s) · 本段原话**：going to squander it all super Supernatural transfer mentality not only is it a wealth that having your soul Prosper too beloved I wish above all things that you prosper and be in health healthy body even as your soul prospers because you you're not prosperous in your soul so you won't keep it your mind will and your
+- **[33:38](https://www.youtube.com/watch?v=_2tsvivBnU0&t=2018s) · 本段原话**：buries the talents but says God expand my tent in my Horizon give me a creative idea whether it's real estate or whatever show me something so so Dian and I we so bottom line is is we don't want you to feel hopeless I don't want want you staying in your pit I don't want you staying in your pit
+- **[34:42](https://www.youtube.com/watch?v=_2tsvivBnU0&t=2082s) · 本段原话**：you'll you it'll keep the heaviness of your circumstance will choke the life out of you and you'll get in there to to the point where you're laying in bed all day going I woes me and I'm Eeyore and there's nothing else I can live for there's nothing else and the devil's already got you and he's he's he's
 
 ### 完整英文 Transcript
 
@@ -968,7 +1042,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:00](https://www.youtube.com/watch?v=_2tsvivBnU0&t=2160s) · 本段原话**：secret place he is my refuge he is my Fortress my God at him I trust surely he will Deliver Me From The Snare of the Fowler and the noises and pestilence I just believe it today for you so we try to we just want to encourage you that's what D we we're not
+- **[37:31](https://www.youtube.com/watch?v=_2tsvivBnU0&t=2251s) · 本段原话**：the Red Sea that same Miracle working God did this for me I remember the day Father I remember the day you did this MH and we're on the victory side that is it's important that you always go back to your past Miracles yes right if it's small or if it's large and throw it in
+- **[38:30](https://www.youtube.com/watch?v=_2tsvivBnU0&t=2310s) · 本段原话**：vitamins the other day and and a worker came up and gave me a coupon for $3 off of the of the of the vitamins sure did3 praise God it was a blessing three bucks but it was a blessing and God came through with that $3 yes it was I remember that and I thought wasn't that
+- **[39:31](https://www.youtube.com/watch?v=_2tsvivBnU0&t=2371s) · 本段原话**：it was three bucks and you may say oh baloney I don't believe that no you don't know us truly I I truly am so thankful even for three bucks if I find something at a thrift store to flip and it was 50 cents and it was on sale at the half price on the
 
 ### 完整英文 Transcript
 
@@ -1070,7 +1151,14 @@
 <a id="section-11"></a>
 ## 11. 40:00–43:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:01](https://www.youtube.com/watch?v=_2tsvivBnU0&t=2401s) · 本段原话**：of more something you don't ever forget where you came from because I remember the food stamps and I remember the wick and I remember the things of our what our country does for the people who don't have nothing whenever you go God you're so faithful I'm so thankful for government cheese I'm so thankful for the you know
+- **[41:48](https://www.youtube.com/watch?v=_2tsvivBnU0&t=2508s) · 本段原话**：believing we keep sewing we kept sewing we kept believing even if it was 50 cents we give it by faith God you're going to provide and then he gave gave us ideas God you're going to take care of us you're going to provide for us even if it's a buck thank you for the dollar
+- **[42:41](https://www.youtube.com/watch?v=_2tsvivBnU0&t=2561s) · 本段原话**：that the blessing of the Lord and the favor of the Lord is on their households and that no matter how big that pit no matter how big that that that that that need is you are the great supplier and we believe believe father that their circumstances is going to turn within a 24-hour period that they will go to bed
+- **[43:04](https://www.youtube.com/watch?v=_2tsvivBnU0&t=2584s) · 本段原话**：one way and they'll wake up another and they're going to have that encounter that Supernatural e experience with the Lord that woman with the issue of blood circumstance after 12 years she she spent all she had but what but rather grew worse but her she had an in suddenly there's an in suddenly coming
 
 ### 完整英文 Transcript
 
@@ -1176,7 +1264,14 @@
 <a id="section-12"></a>
 ## 12. 44:00–44:58 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[44:00](https://www.youtube.com/watch?v=_2tsvivBnU0&t=2640s) · 他进行祷告**：have are going to bring it to pass at last in the name of Jesus and everybody say Amen well we know this video went a little longer but we pray that it blessed you I know it didn't pray a lot I'm going to pray a lot more tomorrow but I just felt this in my heart after
+- **[44:17](https://www.youtube.com/watch?v=_2tsvivBnU0&t=2657s) · 他进行祷告**：seeing some of these um uh prayer requests and uh some of the things that people are down about and I wanted to give you some hope to let you know that dying and hour are real we're real and we get it we love you we pray for you if you could like like subscribe click the
+- **[44:34](https://www.youtube.com/watch?v=_2tsvivBnU0&t=2674s) · 他进行祷告**：notification Bell click a thumbs up it will truly bless us with the algorithm and we always want to tell you all we love you we pray for you and we say we as we close don't we do we we pray for them we pray for these pictures but we wanted to give hope today to put a smile
+- **[44:50](https://www.youtube.com/watch?v=_2tsvivBnU0&t=2690s) · 本段原话**：on your face and a song on your heart because Jesus loves you and we love you God bless you all and we'll see you again tomorrow bye-bye
 
 ### 完整英文 Transcript
 

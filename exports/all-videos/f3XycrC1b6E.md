@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 391；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-06)
 - [07. 24:00–24:08 · 现场讲话（无可靠自动分类）](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=f3XycrC1b6E&t=0s) · 本段原话**：hey good morning family praise the Lord we're at the Rama lights at Rama Bible school where brother Hagen had a school there he still does they still do it but we're there at the light in Tulsa in broken ARA Oklahoma we just thought you would like it something different we're going to walk around
+- **[05:23](https://www.youtube.com/watch?v=f3XycrC1b6E&t=323s) · 本段原话**：what do you all think it's fun it's pretty fun yeah I just think it's something different I get I love [Music] Christmas it's neat that brother Hagen's people did this K Hagen Jr and them that's NE it's cool they still have school here teaching people how to live by faith not a lot of people have
+- **[08:02](https://www.youtube.com/watch?v=f3XycrC1b6E&t=482s) · 本段原话**：they're hungry expensive popcorn there you go we're Coca-Cola commercial folks Megan loves [Music] Coke oh [Music] man heyan [Music]
+- **[12:01](https://www.youtube.com/watch?v=f3XycrC1b6E&t=721s) · 他表达判断**：one they did and then they went like oh we're not doing that again not that took too much time we're tired we're we're done well I think we ran out of Lights got to go to Walmart yeah that was a bad decision we're not doing that one I think it's Moses yeah it looks like
+- **[16:34](https://www.youtube.com/watch?v=f3XycrC1b6E&t=994s) · 本段原话**：goodness B no don't say that it's New Jersey it's in Oklahoma now hey they'll shoot him down here yeah hey we got guys that with shotguns and shoot those down that's why they don't test it over here yeah because you do a bunch of rednecks you're going to get they they get crazy we're going to have
+- **[20:08](https://www.youtube.com/watch?v=f3XycrC1b6E&t=1208s) · 本段原话**：Shepherds oh look hey what let show them the horses Dad hi you can ride Dad you can ride how can you ride there that's fun the car Lord of lords look they're lighting the candle he's like like he's lighting the candle
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=f3XycrC1b6E&t=0s) · 本段原话**：hey good morning family praise the Lord we're at the Rama lights at Rama Bible school where brother Hagen had a school there he still does they still do it but we're there at the light in Tulsa in broken ARA Oklahoma we just thought you would like it something different we're going to walk around
+- **[00:21](https://www.youtube.com/watch?v=f3XycrC1b6E&t=21s) · 他表达判断**：Braden's filming and we brought the kids so they could come and see it look at they put it in the trees huh they put it in the trees yeah they did it's it's they did they really went out man they did a lot isn't it pretty I don't know I I think it's
+- **[00:42](https://www.youtube.com/watch?v=f3XycrC1b6E&t=42s) · 本段原话**：neat it's like a winter [Laughter] wonderland Dian and the girls are walking up ahead of us faster we didn't want it to get too blurry on y'all whenever we're walking to get dizzy tell everybody hi hi my hair's what do you think Megan tell everybody hi you say hi say hi hi yeah
+- **[01:14](https://www.youtube.com/watch?v=f3XycrC1b6E&t=74s) · 他表达判断**：hi see it goes with the music it's fun yeah I like the purple myself it's my favorite yeah that's pretty you like this tree uh-huh I bet that's like 200 years old it's probably been there like what what is that it's a little W of Christmas
 
 ### 完整英文 Transcript
 
@@ -92,7 +110,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:23](https://www.youtube.com/watch?v=f3XycrC1b6E&t=323s) · 本段原话**：what do you all think it's fun it's pretty fun yeah I just think it's something different I get I love [Music] Christmas it's neat that brother Hagen's people did this K Hagen Jr and them that's NE it's cool they still have school here teaching people how to live by faith not a lot of people have
+- **[05:57](https://www.youtube.com/watch?v=f3XycrC1b6E&t=357s) · 本段原话**：opportunity to come and see this and they're all or from all around the United States and all around the world this is what they do at brother Hagen for the people and there's all kinds of world here and they uh I guess I don't know you can just fill the presence of the Lord here on
+- **[06:51](https://www.youtube.com/watch?v=f3XycrC1b6E&t=411s) · 本段原话**：haen what a legacy you know think about it it's still going after he's been gone for almost 20 years that's called Deep Roots still making an impact yeah still making an impact Deep [Music] Roots much [Music] fun a [Music] Coke it's salty it's really loud here want
+- **[07:27](https://www.youtube.com/watch?v=f3XycrC1b6E&t=447s) · 本段原话**：some say yes please smile you excited that [Music] was we're a Coca-Cola commercial hey weren't we going to go back this [Music] way stay on cuz I wanted to see this
 
 ### 完整英文 Transcript
 
@@ -160,7 +185,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:02](https://www.youtube.com/watch?v=f3XycrC1b6E&t=482s) · 本段原话**：they're hungry expensive popcorn there you go we're Coca-Cola commercial folks Megan loves [Music] Coke oh [Music] man heyan [Music]
+- **[10:05](https://www.youtube.com/watch?v=f3XycrC1b6E&t=605s) · 他表达判断**：took a long time to do that tree all this probably took weeks yeah for sure yeah I wouldn't want to take it down yeah I'm just leaveing up all year fun picking it down is no fun it's like all right we're going to put this back in toast get ready for next year I wonder if there's fish in there
+- **[10:27](https://www.youtube.com/watch?v=f3XycrC1b6E&t=627s) · 他表达判断**：yeah probably they'd catch me I if I was say how you they catch me fishing in it one day one day I thought she wanted to stop in at least one yeah or or two yeah yeah Turtle Tad poles it's cold yeah heavy you want to say hi hi tell tell Mommy a lot of Stand By
+- **[11:23](https://www.youtube.com/watch?v=f3XycrC1b6E&t=683s) · 他表达判断**：but that shows up light yeah I'm probably not as good as a filmer as you sorry I moved too much that's my favorite tree though yeah if they did a whole thing like this yeah that'd be interesting to see what it would look like [Music] yeah I like it cuz it did that went all
 
 ### 完整英文 Transcript
 
@@ -232,7 +264,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=f3XycrC1b6E&t=721s) · 他表达判断**：one they did and then they went like oh we're not doing that again not that took too much time we're tired we're we're done well I think we ran out of Lights got to go to Walmart yeah that was a bad decision we're not doing that one I think it's Moses yeah it looks like
+- **[13:22](https://www.youtube.com/watch?v=f3XycrC1b6E&t=802s) · 他描述所见**：coming they're coming from this way too y coming from both sides yeah and the lions are up there on the hill up there where in the kangaroos oh I see the Kangaroos and the lions are next too those are lions it looks like it are those are pigs they're pink oh the pink
+- **[13:40](https://www.youtube.com/watch?v=f3XycrC1b6E&t=820s) · 本段原话**：ones oh yeah no the lions are getting that the lions are chasing the pigs [Laughter] oh better get in art quick and the wolves are howling in the see those those are wolf right like KY yeah definitely oh oh oh my gosh lamb CH get in there quick get in the ark R for your
+- **[15:06](https://www.youtube.com/watch?v=f3XycrC1b6E&t=906s) · 本段原话**：uh something else we didn't see yeah they're dancing the way AR look at that cousins don't tell your tell your mom [Laughter] that there's some big hippos what is that next to the iGo where it's a fire coming out of the igloo right oh yeah it's an Eskimo or
 
 ### 完整英文 Transcript
 
@@ -319,7 +358,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 治安、袭击与安全、AI、科技与监控
 
-**中文章节摘要**：本段涉及：治安、袭击与安全、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕治安、袭击与安全、AI、科技与监控展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:34](https://www.youtube.com/watch?v=f3XycrC1b6E&t=994s) · 本段原话**：goodness B no don't say that it's New Jersey it's in Oklahoma now hey they'll shoot him down here yeah hey we got guys that with shotguns and shoot those down that's why they don't test it over here yeah because you do a bunch of rednecks you're going to get they they get crazy we're going to have
+- **[16:56](https://www.youtube.com/watch?v=f3XycrC1b6E&t=1016s) · 他表达判断**：buck shot we're going to drop them things they'll think there's something to eat up in here they'll think it's a bird they'll be like we're taking it down I said this is my favorite to look over that way like that yeah I love that I think we should drone watch some more oh yeah see
+- **[17:50](https://www.youtube.com/watch?v=f3XycrC1b6E&t=1070s) · 本段原话**：ducks those are that's fake duck gospel duck remember him L mink gospel duck what you think Megan feed she's going to throw the popcorn to him Mak you throw the popcorn to the ducks ducks I wonder if there's fish in
+- **[18:57](https://www.youtube.com/watch?v=f3XycrC1b6E&t=1137s) · 本段原话**：you feed up the duck you can try to get the Ducks to come up oh good job [Music] duck they're going to say you're littering somebody threw a can in there you a child is born a son is given that's
 
 ### 完整英文 Transcript
 
@@ -401,7 +447,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:08](https://www.youtube.com/watch?v=f3XycrC1b6E&t=1208s) · 本段原话**：Shepherds oh look hey what let show them the horses Dad hi you can ride Dad you can ride how can you ride there that's fun the car Lord of lords look they're lighting the candle he's like like he's lighting the candle
+- **[21:11](https://www.youtube.com/watch?v=f3XycrC1b6E&t=1271s) · 本段原话**：per have healing school I can't get it in there Christ the Healer yeah Christ the Healer Jesus the same yesterday today and forever these treats are fun in front of us babe oh yeah those are fun I mean you know this is a really cool facility I wonder what that is over
+- **[21:41](https://www.youtube.com/watch?v=f3XycrC1b6E&t=1301s) · 本段原话**：there God is God is faithful this is where they have a winter camp meeting look how huge the parking lot is I me really and they have green houses over there right yeah what in the world they have some kind of green houses over there don't know that's their heater the church back there right here it has Ste
+- **[22:16](https://www.youtube.com/watch?v=f3XycrC1b6E&t=1336s) · 他表达判断**：I I caught it right there that's the heater this is a massive Church you know I bet it takes forever to clean that when I used to Cle the church there's that LMO this is this is like probably four of Victory Jesus is the light of the world that's what it says right
 
 ### 完整英文 Transcript
 
@@ -469,7 +522,11 @@
 <a id="section-07"></a>
 ## 07. 24:00–24:08 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节讨论主题：现场讲话（无可靠自动分类）。本节原文没有足够长的完整字幕片段可供可靠提取。
+
+### Key Points / 关键要点
+
+- 本节没有足够清晰的字幕可自动提取关键发言。
 
 ### 完整英文 Transcript
 

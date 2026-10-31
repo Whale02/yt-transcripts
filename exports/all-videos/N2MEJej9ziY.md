@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 2599；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 120:00–131:59 · 祷告、敬拜与现场互动、经济、银行与市场](#section-11)
 - [12. 132:00–143:04 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:17](https://www.youtube.com/watch?v=N2MEJej9ziY&t=17s) · 他进行祷告**：really hot issues right now [snorts] that we're feeling in our spirit that we must pray over. You know, it's like a uh the the sounding of the alarm concerning 2026 and where we are in the in the signs of the times of the coming of the Lord Jesus Christ. We must wake up and and and in doing so, we have a
+- **[24:31](https://www.youtube.com/watch?v=N2MEJej9ziY&t=1471s) · 他描述所见**：I saw the number 2026 and it was in stone and it had fruit dangling from it.
+- **[50:09](https://www.youtube.com/watch?v=N2MEJej9ziY&t=3009s) · 本段原话**：I thank you father for impartation of the wealth transfer. Father that you use President Trump with his boys or with with the the with his cabinet whatever Father to bring forth wealth over America. one last push, one last call, that 2026 will be a year of supernatural increase over the body of Christ. Father, I thank you, Lord, that
+- **[87:57](https://www.youtube.com/watch?v=N2MEJej9ziY&t=5277s) · 本段原话**：New Orleans territorial wars. say [clears throat] it's just business versus just these people are possessed by the devil over here more. I'm not trying to justify these men over here because they're bad too. But this is business. I keep hearing them say it's it's big. It's family.
+- **[108:33](https://www.youtube.com/watch?v=N2MEJej9ziY&t=6513s) · 他描述所见**：She just needs protection and courage because that's going it cost it's going to be bad for her. I saw all that.
+- **[134:27](https://www.youtube.com/watch?v=N2MEJej9ziY&t=8067s) · 他描述所见**：I see again I'm going to say it. I see again a the red pushing into Canada like it's becoming a part of us.
+
 <a id="section-01"></a>
 ## 01. 00:00–11:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、预言、梦境与异象。 提到的地点：New York、Israel、Iran、Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:17](https://www.youtube.com/watch?v=N2MEJej9ziY&t=17s) · 他进行祷告**：really hot issues right now [snorts] that we're feeling in our spirit that we must pray over. You know, it's like a uh the the sounding of the alarm concerning 2026 and where we are in the in the signs of the times of the coming of the Lord Jesus Christ. We must wake up and and and in doing so, we have a
+- **[02:22](https://www.youtube.com/watch?v=N2MEJej9ziY&t=142s) · 本段原话**：[snorts] So, all the things the Lord has showed me concerning Iran and when the Lord showed us that they were regrouping and getting ready for another major attack today. Diana said who somebody sent us an email something I don't know where how you found that. [clears throat] That Iran declared war which is crazy. This
+- **[05:33](https://www.youtube.com/watch?v=N2MEJej9ziY&t=333s) · 本段原话**：Ukraine, with all these things. And then we have Trump trying to bring peace throughout all these areas. He he he talked about it today. Eight wars he's tried to he's stopped or whatever. But as he acted very like what is he going to do about the the land all the things that were discussed today with Lzinski
+- **[08:43](https://www.youtube.com/watch?v=N2MEJej9ziY&t=523s) · 他描述所见**：It was full of cash. duffel bags full of money, $100 bills, duffel bags full of our taxpayer money is on a jet one day to you uh to uh Romania. I saw it trying to hide him in the mountains um bunker. I saw an escalation all these things. Can we delay this stuff? Can we
 
 ### 完整英文 Transcript
 
@@ -345,7 +363,14 @@
 <a id="section-02"></a>
 ## 02. 12:00–23:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[13:40](https://www.youtube.com/watch?v=N2MEJej9ziY&t=820s) · 本段原话**：So, that's what the Lord showed me because I said, "How old is this little girl?" And he said it, she's an anchor baby. So, that means that she was born in that time frame. So, not adding to or taking away from anything. Both children, one was younger, the little boy was younger and the little girl was older. Okay?
+- **[19:42](https://www.youtube.com/watch?v=N2MEJej9ziY&t=1182s) · 他描述所见**：what I saw and the Lord warned us to pray because as they are saying they're declaring this war and all this it's the enemy within a red dawn experience the Lord said D-Day remember he said your D-day on your shore is here D-Day for your own America a red dawn experience is what the Lord
+- **[20:38](https://www.youtube.com/watch?v=N2MEJej9ziY&t=1238s) · 他描述所见**：I mean Iran is declared on Europe. What did we see last night? Now, we'll go there. We were taken into the spirit and I saw a lion. I saw I saw Kate. Uh uh what's her name? Am I saying her name right?
+- **[22:11](https://www.youtube.com/watch?v=N2MEJej9ziY&t=1331s) · 他描述所见**：And the Lord showed me an acorn. He gave me an acorn in the vision that was glowing at the bottom that was looked so beautiful like a light brown with a dark chocolate cover at the top with where it would attach to the oak tree, not knowing that this is what she her
 
 ### 完整英文 Transcript
 
@@ -621,7 +646,14 @@
 <a id="section-03"></a>
 ## 03. 24:00–35:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:31](https://www.youtube.com/watch?v=N2MEJej9ziY&t=1471s) · 他描述所见**：I saw the number 2026 and it was in stone and it had fruit dangling from it.
+- **[26:58](https://www.youtube.com/watch?v=N2MEJej9ziY&t=1618s) · 他描述所见**：And I was thinking, well, that's interesting. Why am I seeing this lion unless there's another lion that I don't know about, you know, in England? Then the Lord said Oxford and he pointed out Oxford and I saw Oxford print like the suit jacket.
+- **[30:10](https://www.youtube.com/watch?v=N2MEJej9ziY&t=1810s) · 他描述所见**：The transparent fire. Transparent fire. [snorts] And then uh the uh plant in the fog in the swamp was Oh. Then I saw a plant in a swamp that was a had a shell on it that looked like hexagons that were uh lined in black that were transparent.
+- **[33:24](https://www.youtube.com/watch?v=N2MEJej9ziY&t=2004s) · 他描述所见**：It had the the the maroon uh collar with a black cape that looked like like a like a like it went to his waist. Now, am I saying this little boy is black dark and evil and all this? I'm not trying to I'm just describing a vision that I had. I'm not running a child
 
 ### 完整英文 Transcript
 
@@ -911,7 +943,14 @@
 <a id="section-04"></a>
 ## 04. 36:00–47:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:06](https://www.youtube.com/watch?v=N2MEJej9ziY&t=2166s) · 他描述所见**：I saw a red phone booth, which I thought was really interesting. What was it about a red phone booth? But then we see all this stuff concerning New Year's, New Year's Eve and the next three days, praying over this, praying over uh uh the the our protection over our nation and um uh I have such a heightened alert
+- **[39:35](https://www.youtube.com/watch?v=N2MEJej9ziY&t=2375s) · 他转述所听到的话**：But I know in my heart that God has put him there and we need to pray for him to have wisdom and protection for him and his family because I heard that in the spirit that they were going to use his kids to bring a Kennedy curse to have retaliation for for for
+- **[40:59](https://www.youtube.com/watch?v=N2MEJej9ziY&t=2459s) · 他讨论新闻或报道**：when you see the other accurate being accurate, how much more uh is it validation, credibility, whatever are you looking for whenever you see what we're talking about in the news weeks later? THAT'S ALL YOU SHOULD SEE. HEY, he's calling war. He's saying this stuff IS EXACTLY WHAT WE SAW. AND IT MAY NOT
+- **[42:56](https://www.youtube.com/watch?v=N2MEJej9ziY&t=2576s) · 他描述所见**：The we are the ones I BECAUSE WHEN I SAW I SAW ALL THAT TRASH, Dina showed me the um videos for all the music for this year. They had a collab and the demonic darkness that was on these Hollywood music artists that had sold their soul to Satan himself and burning crosses and
 
 ### 完整英文 Transcript
 
@@ -1218,7 +1257,14 @@
 <a id="section-05"></a>
 ## 05. 48:00–59:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Iran、Israel、New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:09](https://www.youtube.com/watch?v=N2MEJej9ziY&t=3009s) · 本段原话**：I thank you father for impartation of the wealth transfer. Father that you use President Trump with his boys or with with the the with his cabinet whatever Father to bring forth wealth over America. one last push, one last call, that 2026 will be a year of supernatural increase over the body of Christ. Father, I thank you, Lord, that
+- **[52:45](https://www.youtube.com/watch?v=N2MEJej9ziY&t=3165s) · 本段原话**：cool heads will prevail that they'll know exactly what to do by the spirit of the Lord leading them. Father, from any attack from Iran or Hezbollah or any of these this Red Dawn experience, I ask you, Father, to uncover, reveal, re reveal all demonic attacks, all demonic uh uh uh uh plans, plots or
+- **[55:43](https://www.youtube.com/watch?v=N2MEJej9ziY&t=3343s) · 他描述所见**：Deadly deadly singing. I see the clock again. It's Big Ben. It's at that bridgeal the closest over the bridge closer to Big Ben. It's in that area right there.
+- **[58:12](https://www.youtube.com/watch?v=N2MEJej9ziY&t=3492s) · 他描述所见**：I see Venezuela talking to Iran and they're funding money there. And I see the cartel.
 
 ### 完整英文 Transcript
 
@@ -1447,7 +1493,14 @@
 <a id="section-06"></a>
 ## 06. 60:00–71:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[62:22](https://www.youtube.com/watch?v=N2MEJej9ziY&t=3742s) · 他描述所见**：Her name is Lily. She's She We need to protect We need to protect her. I see her really close. I I don't know if I should say any more online.
+- **[64:38](https://www.youtube.com/watch?v=N2MEJej9ziY&t=3878s) · 他描述所见**：[sighs] [gasps] I see stacks of money. I see the stacks of money. It's like almost like there's so much money. $100 bills and pallets.
+- **[67:39](https://www.youtube.com/watch?v=N2MEJej9ziY&t=4059s) · 他描述所见**：I see a It's like a huge white boat. Has a has a has a has a deck on it and it looks like a party deck. Has has glass oval windows on the side.
+- **[69:35](https://www.youtube.com/watch?v=N2MEJej9ziY&t=4175s) · 他描述所见**：I can see them there and they're in they're all over the house. And I see cameras. I see cameras on the corners. I see cameras. I see cameras by the doors.
 
 ### 完整英文 Transcript
 
@@ -1600,7 +1653,14 @@
 <a id="section-07"></a>
 ## 07. 72:00–83:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、特朗普与白宫。 提到的地点：Canada、Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[73:43](https://www.youtube.com/watch?v=N2MEJej9ziY&t=4423s) · 本段原话**：Thank you, Lord. I'm not I have to I'm not going to allow myself to get so tired tonight. I have to just pace myself because I want to keep seeing what he's wanting me to see concerning all this stuff. But it's the it's concerning the Red Dawn experience because Iran was influencing this. You
+- **[74:49](https://www.youtube.com/watch?v=N2MEJej9ziY&t=4489s) · 他描述所见**：The cartel is they have him wrapped they have they have that man wrapped around their finger. I see him and he is a worm and his face is on a worm's body and he is wrapped around the head of the cartel's finger. this finger the this pointer this pointer finger he's wrapped around as a worm on the top and I see
+- **[78:06](https://www.youtube.com/watch?v=N2MEJej9ziY&t=4686s) · 他描述所见**：This looks like powder. Like it it's like is that I don't I'm not a person knows about drugs. It it it's a lot of white bags of powder, but it's not as much as what I see like over here. I see the the pills and stuff coming up through uh Mexico.
+- **[80:57](https://www.youtube.com/watch?v=N2MEJej9ziY&t=4857s) · 他描述所见**：We're entering into a time that we've never seen before. Okay, I see the word Nigeria written out.
 
 ### 完整英文 Transcript
 
@@ -1763,7 +1823,14 @@
 <a id="section-08"></a>
 ## 08. 84:00–95:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、预言、梦境与异象。 提到的地点：New York、New Orleans。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[87:57](https://www.youtube.com/watch?v=N2MEJej9ziY&t=5277s) · 本段原话**：New Orleans territorial wars. say [clears throat] it's just business versus just these people are possessed by the devil over here more. I'm not trying to justify these men over here because they're bad too. But this is business. I keep hearing them say it's it's big. It's family.
+- **[89:17](https://www.youtube.com/watch?v=N2MEJej9ziY&t=5357s) · 他描述所见**：It's two. It's it's it's a clash of of they that kind of worked. I saw like money flowing. It's all about money.
+- **[91:37](https://www.youtube.com/watch?v=N2MEJej9ziY&t=5497s) · 本段原话**：in Rome? It's called the coast of Loroa. And then well Loroka by itself can be someone's last name. It's an Italian last name, a surname.
+- **[94:51](https://www.youtube.com/watch?v=N2MEJej9ziY&t=5691s) · 他表达判断**：it. But it's concerning. The Lord said, "I told you what it was concerning." I said, "I because I I think it's concerning trade war. It's concerning turf wars.
 
 ### 完整英文 Transcript
 
@@ -1929,7 +1996,14 @@
 <a id="section-09"></a>
 ## 09. 96:00–107:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 提到的地点：New York、Vatican。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[99:45](https://www.youtube.com/watch?v=N2MEJej9ziY&t=5985s) · 他描述所见**：I see um those underground tunnels underneath the Vatican. The loyal. The loyal.
+- **[101:50](https://www.youtube.com/watch?v=N2MEJej9ziY&t=6110s) · 他描述所见**：What I'm seeing in the spirit, what I'm seeing in this vision right now, I'm seeing the mafia mafia, these these men are don't want the Sharia law. They don't want uh this new mayor. They don't want the way of the change. They like their organized crime. They like way they do it. They like the family. And I
+- **[102:56](https://www.youtube.com/watch?v=N2MEJej9ziY&t=6176s) · 本段原话**：But it's a turf war. because they don't want to see their America and what they've they've established go to the Muslims with the temples and changing uh uh New York changing these areas for uh what this guy um and uh the new mayor wants to take it.
+- **[105:58](https://www.youtube.com/watch?v=N2MEJej9ziY&t=6358s) · 他描述所见**：Lord, I pray for them to get saved. I pray for them to become radically born again. Every single one of them. All this organized crime that I see tonight, all this darkness that I see, Father, the bottom line is is they need you.
 
 ### 完整英文 Transcript
 
@@ -2100,7 +2174,14 @@
 <a id="section-10"></a>
 ## 10. 108:00–119:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[108:33](https://www.youtube.com/watch?v=N2MEJej9ziY&t=6513s) · 他描述所见**：She just needs protection and courage because that's going it cost it's going to be bad for her. I saw all that.
+- **[112:44](https://www.youtube.com/watch?v=N2MEJej9ziY&t=6764s) · 他进行祷告**：Father, over his family, over his children, over Kai, over over Dawn Jr., Eric, uh, Baron, uh, Tiffany, and Ivanka, we pray for every single one of them. That no weapon formed against them would prosper. That there's a supernatural hedge of protection around and about them in Jesus' name. that the angels of the Lord are around and about
+- **[115:54](https://www.youtube.com/watch?v=N2MEJej9ziY&t=6954s) · 他描述所见**：I see the Olympics. Pray for heightened security. I hear them even talking about because of some things cancelling some events,
+- **[117:07](https://www.youtube.com/watch?v=N2MEJej9ziY&t=7027s) · 他描述所见**：figure skate is one I see. And when they ski in a circle in a circle with the uh ice skates on their feet like Apollo Uno, remember him?
 
 ### 完整英文 Transcript
 
@@ -2246,7 +2327,14 @@
 <a id="section-11"></a>
 ## 11. 120:00–131:59 · 祷告、敬拜与现场互动、经济、银行与市场
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、经济、银行与市场、预言、梦境与异象。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、经济、银行与市场展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[120:53](https://www.youtube.com/watch?v=N2MEJej9ziY&t=7253s) · 他描述所见**：I see hotels. What floor is that? It's the fourth floor of this hotel.
+- **[124:56](https://www.youtube.com/watch?v=N2MEJej9ziY&t=7496s) · 他描述所见**：seeing the royals. I see the mafia. I'm seeing there's so much darkness and I'm like what what the the man over New York being sworn in. I see him and I'm it just I'm like and then praying over Trump and his kids and his family and praying over our nation and the Red Dawn
+- **[129:06](https://www.youtube.com/watch?v=N2MEJej9ziY&t=7746s) · 他进行祷告**：And you're going to see that more in 2026. You must pray over the economy to turn around. You must pray for the Supreme Court judges to decide with the tariff things. If if not, you're going to start to see a recession even more so than what you could.
+- **[131:03](https://www.youtube.com/watch?v=N2MEJej9ziY&t=7863s) · 本段原话**：There is no saving the American economy. There is no saving the dollar. It will just be prolonged if you if we have President Trump doing what he's doing eventually. Remember the thing? It popped.
 
 ### 完整英文 Transcript
 
@@ -2518,7 +2606,14 @@
 <a id="section-12"></a>
 ## 12. 132:00–143:04 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Canada、New York、Ukraine。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[134:27](https://www.youtube.com/watch?v=N2MEJej9ziY&t=8067s) · 他描述所见**：I see again I'm going to say it. I see again a the red pushing into Canada like it's becoming a part of us.
+- **[135:34](https://www.youtube.com/watch?v=N2MEJej9ziY&t=8134s) · 他描述所见**：I see a shaking in the the economy of Canada. But I see great persecution coming to the church and I see him picketing and and uh protesting against the Canadian government in the days ahead for their freedom of speech will be uh very very uh uh taken away.
+- **[137:56](https://www.youtube.com/watch?v=N2MEJej9ziY&t=8276s) · 他进行祷告**：Jesus is coming, ladies and gentlemen. Our King is coming. Our King is coming. We pray over protection over our our nations and over our as we close tonight over Israel over the meeting again tomorrow over every person that's represented in these meetings and I thank you father for a battle plan and a and a protection over
+- **[142:32](https://www.youtube.com/watch?v=N2MEJej9ziY&t=8552s) · 本段原话**：Stay keep your lamp full of oil. I know what it says to me, but what is he saying to you? Get your house in order means a lot of things because I know what the economy is going to do in the natural. I know about food supply. I know about um uh a lot of things. So, my my getting my
 
 ### 完整英文 Transcript
 

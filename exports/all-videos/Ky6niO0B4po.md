@@ -5,7 +5,7 @@
 **上传日期**: 20261026
 **源字幕行数**: 478；**章节数**: 5；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -15,10 +15,27 @@
 - [04. 12:00–15:59 · 祷告、敬拜与现场互动、美国选举与投票](#section-04)
 - [05. 16:00–17:43 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
 
+## 全片概述与 Key Points
+
+全片共 5 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:19](https://www.youtube.com/watch?v=Ky6niO0B4po&t=19s) · 他转述所听到的话**：We'll go over those videos. But as we were praying all day today, I'm going to give you hope. So I went to my prayer spot today and I was interceding for Brazil most of the afternoon and I knew in my spirit it wasn't going good because of what the Lord said to me and
+- **[05:06](https://www.youtube.com/watch?v=Ky6niO0B4po&t=306s) · 本段原话**：and where you live and over your elections. And that's why the Lord was saying, "You must contend concerning America, concerning these things." So, we keep praying. I want So, I want to show you this right here. They'll try to even rig the election in Brazil. No, they're going to try They're going to
+- **[08:01](https://www.youtube.com/watch?v=Ky6niO0B4po&t=481s) · 他描述所见**：election for Brazil. And we're shown us to pray for that conservative guy. He has a heart like David. And they would try to rob him from the election like voter frauds. Major voter frauds in Brazil. Worse than even what voter frauds was in America. So we got to pray for Brazil because I saw rigging of bags full of
+- **[12:29](https://www.youtube.com/watch?v=Ky6niO0B4po&t=749s) · 他描述所见**：I don't know. But I I keep praying for this man because I saw that he had a great heart and that he was he was on fire for the Lord. And so, um you know, I it's sad. But I think this is just a warning in itself in itself of how vital it is for you to
+- **[16:07](https://www.youtube.com/watch?v=Ky6niO0B4po&t=967s) · 他描述所见**：We're about to see a major harvest of souls. So but this is so how important it is because this right here when I told you I see all the people out partying and they were celebrating they're all have anticipation for this is the visions.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:19](https://www.youtube.com/watch?v=Ky6niO0B4po&t=19s) · 他转述所听到的话**：We'll go over those videos. But as we were praying all day today, I'm going to give you hope. So I went to my prayer spot today and I was interceding for Brazil most of the afternoon and I knew in my spirit it wasn't going good because of what the Lord said to me and
+- **[02:05](https://www.youtube.com/watch?v=Ky6niO0B4po&t=125s) · 本段原话**：And read it and then you read it better than me. A Supreme Court Justice who used to be Lula's lawyer has just extended voting by 2 hours throughout Brazil without any legal basis, claiming that rain was making it difficult for people to vote.
+- **[02:48](https://www.youtube.com/watch?v=Ky6niO0B4po&t=168s) · 本段原话**：talking to us about voter fraud. So, I want to play this video for you and what the Lord showed us over the past of several weeks, months, praying over Brazil and why I had such a caution about it as I was looking into it. And I had people say, "Brandon, what do you
+- **[03:11](https://www.youtube.com/watch?v=Ky6niO0B4po&t=191s) · 他描述所见**：There's there there there's an obstacle here. The church must must rise up. And even last night, when I was praying, I see people celebrating in the streets. I see I see the celebration. I see a celebration concerning Brazil. I see a I SEE THE MAN, the David. I SEE THE DAVID.
 
 ### 完整英文 Transcript
 
@@ -135,7 +152,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、美国选举与投票。 提到的地点：France。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:06](https://www.youtube.com/watch?v=Ky6niO0B4po&t=306s) · 本段原话**：and where you live and over your elections. And that's why the Lord was saying, "You must contend concerning America, concerning these things." So, we keep praying. I want So, I want to show you this right here. They'll try to even rig the election in Brazil. No, they're going to try They're going to
+- **[05:34](https://www.youtube.com/watch?v=Ky6niO0B4po&t=334s) · 他描述所见**：I'd say it, Lord. And so, the other part was I saw pray for Brazil. I saw a Brazilian uh the the election in Brazil would try to be like what Trump would say. I'm going to I'm going to call it the fraud. I saw it in Brazil, but I saw it was in vast numbers. And the Lord
+- **[06:57](https://www.youtube.com/watch?v=Ky6niO0B4po&t=417s) · 他描述所见**：I saw some numbers bouncing around. I couldn't see what I didn't understand what I was seeing. Well, that's how much of why the runoff had to have they had to have another election because it was too close uh because of all the I had to have a runoff or whatever. Does that make sense what I'm saying, hon?
+- **[07:40](https://www.youtube.com/watch?v=Ky6niO0B4po&t=460s) · 他描述所见**：Pray for this major revival in Brazil and I saw stadiums full, but I saw a man that had a heart like David rising up in Brazil that would have a Holy Ghost and fire. The Lord said, "Pray for this man for for for for what would try to be in their election." And then then then we
 
 ### 完整英文 Transcript
 
@@ -255,7 +279,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 美国选举与投票、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：美国选举与投票、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕美国选举与投票、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=Ky6niO0B4po&t=481s) · 他描述所见**：election for Brazil. And we're shown us to pray for that conservative guy. He has a heart like David. And they would try to rob him from the election like voter frauds. Major voter frauds in Brazil. Worse than even what voter frauds was in America. So we got to pray for Brazil because I saw rigging of bags full of
+- **[09:06](https://www.youtube.com/watch?v=Ky6niO0B4po&t=546s) · 本段原话**：Brazil's voting extension just got even more complicated. Some voters may now have to cast paper ballots. CNN Brazil reported that from Parana that voters still waiting to cast their ballots were instructed to move to another location while election officials awaited further guidance.
+- **[10:39](https://www.youtube.com/watch?v=Ky6niO0B4po&t=639s) · 他进行祷告**：They've already been at work so far. They're going to try to it's for uh Brazil. They're planning something. The Lord warned us. And so, I want you just to continue to pray for Brazil that this don't ri- end up in violence or anything crazy because we don't want that to happen anywhere. But, I'm telling you
+- **[11:20](https://www.youtube.com/watch?v=Ky6niO0B4po&t=680s) · 本段原话**：At 5:01 p.m., Justice Zanin, who is not part of the Superior Electoral Court, trampling over the specialized justice system, makes a decision extending the elections by 2 hours. This had never happened in the history of Brazil. There was a total breach of equality among Brazilians from different cities and different states. I will never know how
 
 ### 完整英文 Transcript
 
@@ -375,7 +406,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、美国选举与投票
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、美国选举与投票、预言、梦境与异象。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、美国选举与投票展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:29](https://www.youtube.com/watch?v=Ky6niO0B4po&t=749s) · 他描述所见**：I don't know. But I I keep praying for this man because I saw that he had a great heart and that he was he was on fire for the Lord. And so, um you know, I it's sad. But I think this is just a warning in itself in itself of how vital it is for you to
+- **[13:23](https://www.youtube.com/watch?v=Ky6niO0B4po&t=803s) · 他进行祷告**：You must vote. You must vote in America. You must stand and pray with me. Pray, we're going to pray next week. We're going to pray over our elections. We're going to pray over Israel on on Tuesday.
+- **[13:34](https://www.youtube.com/watch?v=Ky6niO0B4po&t=814s) · 他进行祷告**：We're going to keep interceding for the peace of Jerusalem and for the right leadership, whoever God has, and for the same for America. Cuz 7 days later is ours. And we pray against the distractions, because I said the devil will try to go down to Georgia, remember? And uh and so you there's there's key phrases, key
+- **[14:40](https://www.youtube.com/watch?v=Ky6niO0B4po&t=880s) · 他描述所见**：And I saw them trying to uh to to to mess with this. The Lord said, "We must pray. We must contend. We must believe and and and call on our mighty angels to war on our behalf."
 
 ### 完整英文 Transcript
 
@@ -486,7 +524,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–17:43 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:07](https://www.youtube.com/watch?v=Ky6niO0B4po&t=967s) · 他描述所见**：We're about to see a major harvest of souls. So but this is so how important it is because this right here when I told you I see all the people out partying and they were celebrating they're all have anticipation for this is the visions.
+- **[16:31](https://www.youtube.com/watch?v=Ky6niO0B4po&t=991s) · 本段原话**：That's a lot of people excited for that guy. But I can't play Nick Shurley's video on there.
+- **[17:07](https://www.youtube.com/watch?v=Ky6niO0B4po&t=1027s) · 本段原话**：Father there should be a supernatural wave of revival that you're not finished with the nations yet, Father. You're not finished You're not finished with this globe.
+- **[17:31](https://www.youtube.com/watch?v=Ky6niO0B4po&t=1051s) · 本段原话**：we know, Father, that you've got this. Everybody say amen and amen. We love you. We'll see you again soon. Put a smile on your face and a song in your heart. Jesus loves you so much and we love you. God bless you. Bye-bye.
 
 ### 完整英文 Transcript
 

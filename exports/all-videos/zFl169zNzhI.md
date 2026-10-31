@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 811；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 - [08. 28:00–31:35 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:00](https://www.youtube.com/watch?v=zFl169zNzhI&t=60s) · 本段原话**：they're going to need and what they need to have and everything so because I was praying about this already and I was asking the Lord what do you want me to tell the people because everybody's needs are different throughout the world and I have listeners from everywhere I mean literally I look at the where it's at
+- **[04:55](https://www.youtube.com/watch?v=zFl169zNzhI&t=295s) · 本段原话**：be done that kind of that power is it because we're abiding in him his words are going to be about him as arrived told you in the last video you need to get the foundation of the word inside of you you need to get that so deep inside of you for what's coming it is not about
+- **[12:59](https://www.youtube.com/watch?v=zFl169zNzhI&t=779s) · 本段原话**：everybody I didn't see the plague like I did uh two days ago three days ago like I do now okay the Lord showed me he said people will say around the world that there has been a great Ichabod if you look at that word I didn't understand what that meant until until you all a lot of people brought it up
+- **[16:01](https://www.youtube.com/watch?v=zFl169zNzhI&t=961s) · 本段原话**：leader of the of everything God put us to be the salt of the earth and when the church isn't doing right uh it starts affecting the morals of the nation look what happened we took out a prayer out of schools then then people started getting crazy in schools when you start uh taking Ten Commandments off
+- **[24:01](https://www.youtube.com/watch?v=zFl169zNzhI&t=1441s) · 他表达判断**：all all the support that you've done the little super thanks and all that it's it's a it's a real blessing to us links are in the description for Facebook if you want to join I I think I've I'm almost up to like 500 in this new thing because I had over a thousand in the
+- **[28:01](https://www.youtube.com/watch?v=zFl169zNzhI&t=1681s) · 他进行祷告**：when they see us they say there's something different about you just like how whenever I pray for my dogs and people say God pray and there's something different about your your puppies there's an anointing on your dogs we don't know what it is they they don't know it's an anointing but there's there's a presence on your dogs what is
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:00](https://www.youtube.com/watch?v=zFl169zNzhI&t=60s) · 本段原话**：they're going to need and what they need to have and everything so because I was praying about this already and I was asking the Lord what do you want me to tell the people because everybody's needs are different throughout the world and I have listeners from everywhere I mean literally I look at the where it's at
+- **[02:34](https://www.youtube.com/watch?v=zFl169zNzhI&t=154s) · 本段原话**：I'm really concerned where everybody's at in the body of Christ it is there's so many people that are distracted by some of the dumbest stuff and where where and where we are going I don't want to like I said I'm not wanting to be a fear Monger I'm not wanting to scare people I told you all
+- **[02:56](https://www.youtube.com/watch?v=zFl169zNzhI&t=176s) · 他描述所见**：in that video that that I saw people in white suits that were covered in a glory that looked like honey it was not honey I'm not telling you to go buy honey and eat honey that people are saying okay I'm gonna go buy a lot of honey and eat honey no do not go buy honey and eat
+- **[03:30](https://www.youtube.com/watch?v=zFl169zNzhI&t=210s) · 本段原话**：to protect you with this this virus okay or this plague that's coming I it may I don't know maybe that was the time Shadow I have no idea it sounds foolish that's what I'm trying to tell you I'm not trying to pick at anybody either I'm just trying to tell you all um when I'm trying to describe something
 
 ### 完整英文 Transcript
 
@@ -129,7 +147,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:55](https://www.youtube.com/watch?v=zFl169zNzhI&t=295s) · 本段原话**：be done that kind of that power is it because we're abiding in him his words are going to be about him as arrived told you in the last video you need to get the foundation of the word inside of you you need to get that so deep inside of you for what's coming it is not about
+- **[05:47](https://www.youtube.com/watch?v=zFl169zNzhI&t=347s) · 本段原话**：on there it'll really bless you go look at that video I told you it's one of my first videos that Psalms 91 and Psalms 23 are gonna be your a wall for this storm you will have to know the word of God for what's coming or you're not going to make it I talked to you about
+- **[06:06](https://www.youtube.com/watch?v=zFl169zNzhI&t=366s) · 本段原话**：the 350 million worldwide and and and people are saying well there's only 350 million people in the United States that's everybody no please listen to me please this is not a this is not a about the United States only this is about waking up the church this is about a shakening of the world this is about
+- **[07:29](https://www.youtube.com/watch?v=zFl169zNzhI&t=449s) · 他表达判断**：five did not the ones that do not have the oil field in their lambs in those lamps I believe because of the parable Parable that Jesus gave us and the explanation are the ones that will be left if you are not filled with and controlled by the holy ghost in your life and you are praying and seeking him
 
 ### 完整英文 Transcript
 
@@ -233,7 +258,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=zFl169zNzhI&t=480s) · 本段原话**：the Bible's at I'm telling you this is whatever Jesus said you prophesied on my name you've done all these things in my name but depart from me I never knew you he told us this then it even talks about it in Ephesians it talks about this in Romans it talks about they're an acts he
+- **[09:39](https://www.youtube.com/watch?v=zFl169zNzhI&t=579s) · 本段原话**：can live like the world you have to be separated and be holy unto him yeah we mess up and I'm going to tell you this yes we mess up you you you you know when I may drop a bad word every once in a while I might get mad stuff in my toe or say something stupid and and
+- **[10:28](https://www.youtube.com/watch?v=zFl169zNzhI&t=628s) · 本段原话**：still make the Rapture you are mistaken I have seen literally tens of thousands when I went to tribulation with Jesus that were left here thinking that they were okay and their lamps are full and everything's okay and great the Rapture is not salvation many that are saved will not make the Rapture if they're not living
+- **[11:12](https://www.youtube.com/watch?v=zFl169zNzhI&t=672s) · 他转述所听到的话**：okay it's not living like the world and thinking well I'm cold I'm qualified I'm sealed into the day of redemption like I heard one person say no you're sealed by the power of the Lord if you if you're practicing a Godly lifestyle you're not living like you're not living like hell and thinking well I'm a Christian no if
 
 ### 完整英文 Transcript
 
@@ -348,7 +380,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:59](https://www.youtube.com/watch?v=zFl169zNzhI&t=779s) · 本段原话**：everybody I didn't see the plague like I did uh two days ago three days ago like I do now okay the Lord showed me he said people will say around the world that there has been a great Ichabod if you look at that word I didn't understand what that meant until until you all a lot of people brought it up
+- **[13:20](https://www.youtube.com/watch?v=zFl169zNzhI&t=800s) · 本段原话**：and I started studying it out it's like I told you he's going to be silent in a test so during this thing that we're about to see through finances through all these things the Lord showed me it will feel like you've been abandoned but there is a glorious remnant that will rise up in this in this
+- **[14:34](https://www.youtube.com/watch?v=zFl169zNzhI&t=874s) · 他表达判断**：shemitah cycles and about the seven year Cycles we entered into a seven year cycle some people say we entered into the tribulation already no we have not tribulation is Hell on Earth it has not started yet I'm telling you you're missing it um I believe we will we will go through some stuff called the birthing pains
+- **[15:37](https://www.youtube.com/watch?v=zFl169zNzhI&t=937s) · 本段原话**：head of the church first and then the church teaches the teaches the family and and the unit and then there becomes a Holiness and a purity inside of of the church and then it affects the nation and then you then we're all upset about the politics of America and they're like well why is America going this way why
 
 ### 完整英文 Transcript
 
@@ -460,7 +499,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=zFl169zNzhI&t=961s) · 本段原话**：leader of the of everything God put us to be the salt of the earth and when the church isn't doing right uh it starts affecting the morals of the nation look what happened we took out a prayer out of schools then then people started getting crazy in schools when you start uh taking Ten Commandments off
+- **[17:10](https://www.youtube.com/watch?v=zFl169zNzhI&t=1030s) · 本段原话**：than you're feeding on the word you take more time listening to trash than you do listen to the to some preacher from Sunday and re-watching it feed on the word and so the decay of the culture of America has happened the decay of the culture of the World Europe everything and it's become a Godless
+- **[18:41](https://www.youtube.com/watch?v=zFl169zNzhI&t=1121s) · 他转述所听到的话**：bless you guys but but I'm going to tell you I tried to warn you that the Lord said when a general dies when you see somebody in the army that goes home like a John Paul Jackson or a Kim Clement and you all call these people false they were men of God their gifts and their callings did not
+- **[19:02](https://www.youtube.com/watch?v=zFl169zNzhI&t=1142s) · 本段原话**：stop if they didn't finish the race and they were robbed it's called a casualty of War it's a casualty of War that a mantle those giftings that stuff that they didn't finish the race have to be fulfilled that has that mantle has to keep going because God calls another General to fill that place they he calls
 
 ### 完整英文 Transcript
 
@@ -580,7 +626,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=zFl169zNzhI&t=1201s) · 本段原话**：finish the war before his coming it doesn't end the gift doesn't die it doesn't say well it's over sorry it was casualty war no he raised up another General like it would do in World War II or World War One or whatever and they have to keep running the race to finish what God has called us to do in these
+- **[22:02](https://www.youtube.com/watch?v=zFl169zNzhI&t=1322s) · 本段原话**：was like this is like Sodom and Gomorrah over here I gotta stop this so I'm turning off that and I'm starting my own private thing I'm I'm only allowed 5 000 people on that Facebook platform so once it's full it's full I'm sorry I I just cannot allow the Wolves to come in and
+- **[22:18](https://www.youtube.com/watch?v=zFl169zNzhI&t=1338s) · 他描述所见**：try to tempt the men of God and try to mess with my people I feel responsible for that kind of stuff and when I'm not there and I look at the comment section I see they're having private conversations and stuff and I'm going oh dear God this is not good I've got to
+- **[23:32](https://www.youtube.com/watch?v=zFl169zNzhI&t=1412s) · 本段原话**：fundamentals that every believer should be doing already but to encourage you to do this because if you do not do these fundamentals you are in trouble okay so I love you guys and I'm so thankful that you're here I'm so thankful that you're a part of our our YouTube Community I and my Facebook or
 
 ### 完整英文 Transcript
 
@@ -698,7 +751,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:01](https://www.youtube.com/watch?v=zFl169zNzhI&t=1441s) · 他表达判断**：all all the support that you've done the little super thanks and all that it's it's a it's a real blessing to us links are in the description for Facebook if you want to join I I think I've I'm almost up to like 500 in this new thing because I had over a thousand in the
+- **[24:28](https://www.youtube.com/watch?v=zFl169zNzhI&t=1468s) · 本段原话**：think the Antichrist is I try to point you in the direction of things things that I will not say on a public platform I just kind of try to point to people look here look here but just to make a recap real fast real quick right here the Lord showed me the 350 million he
+- **[25:20](https://www.youtube.com/watch?v=zFl169zNzhI&t=1520s) · 他描述所见**：solution it's taken place that we will see this major earthquake I've seen the dollar crash I've told you about this I've told you about the dollar crash I saw a new digital platform coming I saw food lines I saw cobwebs in the corners of the shelves so after you you see all those things that I've told you all when
+- **[26:19](https://www.youtube.com/watch?v=zFl169zNzhI&t=1579s) · 本段原话**：over the devil in this earth the father that you've given us power and authority to tread on all serpents and scorpions and nothing shall by any means hurt us you gave us Psalms 91 you gave us Psalms 23 you gave us these beautiful passages of scripture that will father that we can live by and I thank you Father that
 
 ### 完整英文 Transcript
 
@@ -811,7 +871,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:35 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:01](https://www.youtube.com/watch?v=zFl169zNzhI&t=1681s) · 他进行祷告**：when they see us they say there's something different about you just like how whenever I pray for my dogs and people say God pray and there's something different about your your puppies there's an anointing on your dogs we don't know what it is they they don't know it's an anointing but there's there's a presence on your dogs what is
+- **[28:46](https://www.youtube.com/watch?v=zFl169zNzhI&t=1726s) · 他进行祷告**：these last days thank you Lord that that glorious outpouring is coming on your Remnant thank you Lord that there's a there is a Heavenly glow around and about us like honey the father there is no devil in hell that can penetrate the the power of God that God in you Christ in us the hope of
+- **[29:49](https://www.youtube.com/watch?v=zFl169zNzhI&t=1789s) · 本段原话**：your blessing of Psalms anyone and we memorize that we get it done inside of us that no plagues come nice thank you Father we give you all the glory and all the honor and all the praise and we rise up and grow up spiritually and we feed on the meat of the word and we get the meat of the word
+- **[31:32](https://www.youtube.com/watch?v=zFl169zNzhI&t=1892s) · 本段原话**：here God bless you guys and we'll see you next time bye bye
 
 ### 完整英文 Transcript
 

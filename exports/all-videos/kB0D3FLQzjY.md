@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1179；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 60:00–65:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 66:00–67:30 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[02:35](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=155s) · 本段原话**：Donald Trump comes on Monday and says today and says, "Hey, we're going to lower the price of prescriptions and make it inexpensive for you to buy them now, but some of them by 80%." We started praying into prescriptions and they all a sudden start dropping in price. And he starts doing stuff with prescription medicines.
+- **[12:02](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=722s) · 他表达判断**：by, as all this going I had somebody send me an email saying, "Hey, China actually developed a a thing that's worse than a nuclear missile." And this is actually uh they that probably since they're being buddy with Russia, this is something that we've never seen before being used on this earth. And this
+- **[24:01](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=1441s) · 他描述所见**：pray anything out out of out of whack because this is how serious this is because of who he is and what I saw in the spirit about him right then. And so I'm not going to attack it with English.
+- **[42:01](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=2521s) · 他描述所见**：to draw for the living water. And if that living water is not is not being uh dished out because the salt, you lost your saltiness. That's what happens. And then this demonic blanket tries to come in over these nations to suffocate the gospel, saying, "We're not gonna let it again." And it's like that. I see it
+- **[54:19](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=3259s) · 他描述所见**：I see mosquite trees. I see sandy soil. I see sandy soil. There's believers that are believing for for this for wealth transfer. They're they're asking for the Lord for the wealth transfer. And I see
+- **[66:00](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=3960s) · 他进行祷告**：blessed you today. If you're new here and you've never subscribed to one of my videos, please subscribe. We're bleeding for a million million women and men prayer army to reach the nations for Jesus to pray for these end times. And we're we're we're getting closer and closer to 600,000 every every day. We
+
 <a id="section-01"></a>
 ## 01. 00:00–05:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、物资、能源与供应链。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[02:35](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=155s) · 本段原话**：Donald Trump comes on Monday and says today and says, "Hey, we're going to lower the price of prescriptions and make it inexpensive for you to buy them now, but some of them by 80%." We started praying into prescriptions and they all a sudden start dropping in price. And he starts doing stuff with prescription medicines.
+- **[02:56](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=176s) · 本段原话**：Not a shortage, but God's trying to bless his people. as we started praying for him. Then China and America start saying, "Hey, we're going to negotiate in Switzerland." All these major things start happening as these these prayer warriors, these great prayer warriors are all assembling together praying. And I and I'm like, well, duh. You know, I'm sorry. You
+- **[03:58](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=238s) · 他进行祷告**：There's major things will happen with digital assets. You need to pray over this things that will not be released all at once, but they're working on something for a wealth transfer. I told you Saudi Arabia, the Middle East will rise up out of the ashes. They'll become the superpowers of the earth. watch with
+- **[05:17](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=317s) · 本段原话**：devising a plan. He's watching over the next four years of how he can strategize like a poker game of how he can dominate the world stage is what he's trying to do with the bricks nations. So during their Russia day or whatever they had this big celebration, I don't know what this celebration is that you're about to
 
 ### 完整英文 Transcript
 
@@ -186,7 +204,14 @@
 <a id="section-02"></a>
 ## 02. 06:00–11:59 · 战争与国际事务、AI、科技与监控
 
-**中文章节摘要**：本段涉及：战争与国际事务、AI、科技与监控、预言、梦境与异象。 提到的地点：Russia、Ukraine、China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、AI、科技与监控展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[06:00](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=360s) · 他描述所见**：in, brothers. You You've been an outcast. Let's join up together and create our own global currency, our own global financial system. We'll do this behind closed doors. I said, I saw these men behind closed doors devising an evil plan of how they could rise up. Now, they you say, "Well, are they really
+- **[07:48](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=468s) · 本段原话**：Russia has been and will continue to be an indestructible wall against Nazism, Russophobia, and anti-semitism. Truth and justice are on our side. Our whole country, society, and people support the participants of the special military operation. But left unsaid today, Russia's vulnerabilities to the war in Ukraine. The internet here was jammed and the stage where dignitaries sat
+- **[08:57](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=537s) · 本段原话**：centered and now it's increasingly up for grabs. Alexander Kabouv directs the Carnegie Russia Eurasia center and says she and Putin cannot be separated and believe time is on their side. Arrival of Donald Trump brings in itself a lot of unpredictability but also a lot of opportunities for them. Ciginpin and Vladimir Putin feel very emboldened and
+- **[11:31](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=691s) · 他描述所见**：yet. He called it off the 30 days because he didn't like what they're saying. I told you there would be an uprising. I saw that that missile, whatever it is, that will be used in uh Warsaw, Poland.
 
 ### 完整英文 Transcript
 
@@ -342,7 +367,14 @@
 <a id="section-03"></a>
 ## 03. 12:00–17:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、预言、梦境与异象。 提到的地点：China、Berlin、Russia、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:02](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=722s) · 他表达判断**：by, as all this going I had somebody send me an email saying, "Hey, China actually developed a a thing that's worse than a nuclear missile." And this is actually uh they that probably since they're being buddy with Russia, this is something that we've never seen before being used on this earth. And this
+- **[13:50](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=830s) · 他描述所见**：watch. The Lord said, "I'm going to give you a golden age, a window of opportunity." Okay. And I saw Ronald Reagan's face and I and Braden, we've studied this out whenever the Lord s showed us Ronald, he showed me Ronald Reagan's face and I saw the Berlin wall and I saw those things and um the the
+- **[14:46](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=886s) · 他转述所听到的话**：frame for this four years. And people said, "Brandon, I thought you said the Lord was coming." I said, "Watch the Schmita cycle." I'm looking for the Schmita cycle. Study out Jonathan Khan and Mark Blitz. 4year window. Fouryear window ends 2028. The end of Trump's presidency. a 4year window. The Lord said, "I'm giving
+- **[17:46](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=1066s) · 他描述所见**：things. And I saw him lining up with Israel trying to help Israel out. and we saw another hostage released today.
 
 ### 完整英文 Transcript
 
@@ -493,7 +525,14 @@
 <a id="section-04"></a>
 ## 04. 18:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:23](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=1103s) · 本段原话**：Thank you, Jesus. Thank you, Lord, that we're healed and whole and well in the name of Jesus. And we take this body by faith and we will receive it. And we thank you, Lord, according to Galatians 3:13, that Christ has redeemed us from the curse of the law. And we give you all the glory, honor, and praise for it
+- **[22:41](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=1361s) · 他描述所见**：little bit, but we will attack this and say no to this. as I saw it stretch into Canada, this will bring forth uh uh more of a suppression of not being able to talk out and say things in public places about freedom of religion and talking about Jesus, praying and doing things trying like how they're
+- **[23:04](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=1384s) · 他描述所见**：trying to shut it down in England. But this is a spirit that's coming from the king that I saw. There was a scorpion tail and it tried to strike Canada, strike uh Australia. Now, how he has influence, I have no idea, but I saw it was a spirit that was connected to the
+- **[23:24](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=1404s) · 他描述所见**：throne. Does it make sense? I saw this. So, we pray for Canada. There will be uprisings in the days ahead with Canadians saying, "You're not stealing our freedom to be able to talk about Jesus." Okay, you know what, folks? What I just saw about King Charles and that stinger tilt, the Lord said, "Don't
 
 ### 完整英文 Transcript
 
@@ -648,7 +687,14 @@
 <a id="section-05"></a>
 ## 05. 24:00–29:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:01](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=1441s) · 他描述所见**：pray anything out out of out of whack because this is how serious this is because of who he is and what I saw in the spirit about him right then. And so I'm not going to attack it with English.
+- **[24:42](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=1482s) · 他描述所见**：gospel in England. we can get it in all all because I see it trying to go in these areas and we're not going to have it in Canada and we're not going to have it in uh in in in Australia and we're not going to have it spread throughout all of Europe. We're not going to have this
+- **[25:03](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=1503s) · 他进行祷告**：Persecution comes for the word's sake, but we're not going to allow that, right? That's what we're going to bleed for. So, we're going to pray in the spirit for a good 15 minutes. And if the Lord shows us anything, that's what we're going to do.
+- **[29:44](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=1784s) · 本段原话**：manor like a like it looks like green gr there's green trees trying to cover it up and hide it in the forest. Now I don't know what that means but I but we're going to I'm going to go with it for a minute and see what the
 
 ### 完整英文 Transcript
 
@@ -724,7 +770,14 @@
 <a id="section-06"></a>
 ## 06. 30:00–35:59 · 祷告、敬拜与现场互动、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、物资、能源与供应链、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、物资、能源与供应链展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:00](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=1800s) · 他描述所见**：Lord's showing me here. But it's like an old England. It's going clear back. And now I see now the Lord show me old roofs. Old straw roofs. It's like the dark ages.
+- **[32:18](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=1938s) · 他描述所见**：It comes with a price. Freedom comes with a price. Freedom comes with a price. And over generations that the ones that take it for granted, the enemy comes in to put that that same boot of pressure from like in the dark ages going clear back into the dark ages. I see it going clear
+- **[33:19](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=1999s) · 本段原话**：said enough's enough. Fighting for the freedoms that they once had. Fighting for freedoms that tried to be taken from you.
+- **[34:51](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=2091s) · 本段原话**：you're you're you're pushing for that fresh water over those people. And I can feel it as you're pushing against that saying I no to that that King Charles and that that demonic influence holding back the religion, holding back like a stronghold trying to keep the gospel out from their ears.
 
 ### 完整英文 Transcript
 
@@ -803,7 +856,14 @@
 <a id="section-07"></a>
 ## 07. 36:00–41:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Canada、France。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[38:37](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=2317s) · 他描述所见**：[Applause] I see more of a a a a Muslim No monkey.
+- **[39:54](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=2394s) · 他转述所听到的话**：I heard the spirit of the Lord say, "Don't if you're praying for England, you're sewing seeds for your country.
+- **[40:52](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=2452s) · 本段原话**：China, for Asia, for wherever, all all over Africa. You're praying and you're believing. But as you help lift a brother out, you're sewing for yours cuz God's seeing it and it's coming out of your spirit. It's coming up out of your spirit. So you're believing and and God God hears it all and it's going in your throat and he
+- **[41:28](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=2488s) · 本段原话**：And that's what you're doing right now. And and we're turning this thing in the spirit realm because as it goes, it starts it starts going like tentacles. And and we're going to and we're and we don't give up. We say, "Well, we're believing for revival all over the world. There's it's because people have not had a
 
 ### 完整英文 Transcript
 
@@ -890,7 +950,14 @@
 <a id="section-08"></a>
 ## 08. 42:00–47:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、祷告、敬拜与现场互动。 提到的地点：France、Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:01](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=2521s) · 他描述所见**：to draw for the living water. And if that living water is not is not being uh dished out because the salt, you lost your saltiness. That's what happens. And then this demonic blanket tries to come in over these nations to suffocate the gospel, saying, "We're not gonna let it again." And it's like that. I see it
+- **[43:40](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=2620s) · 本段原话**：more prayer. That's what I'm trying to talk about. All's not lost. All's not lost. There's a new wave coming. There's a new wave coming. I hear the sound of an abundance of rain coming. Oh, all's not lost. Oh, the enemy thought he won, but I'm going to bring one more wave that's coming.
+- **[44:46](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=2686s) · 他描述所见**：Arise and shine for the light has come and the glory of the Lord is risen upon [Applause] [Music] you. And now I see upon a wall. I see upon a wall. And I see a a spet of water shooting out of this wall. It's the clearest looking wall.
+- **[46:51](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=2811s) · 他描述所见**：Buto Babado Cabo. And I see the bells ringing in France. I see the great bells ringing in France. Moto sto. And it's sh it's sh it's is ringing and ringing and ringing all throughout the land. All throughout the land.
 
 ### 完整英文 Transcript
 
@@ -989,7 +1056,14 @@
 <a id="section-09"></a>
 ## 09. 48:00–53:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[48:43](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=2923s) · 本段原话**：Fore! Foreign! Foreign! [Applause] Mik showto. I'll tell I'll tell you what I
+- **[50:49](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=3049s) · 他描述所见**：I see great revival. I see great revival spread throughout Africa. Oh, I see it.
+- **[52:04](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=3124s) · 他描述所见**：[Music] All over all over Africa, you will see a great great great revival. You will see I see witch doctors. I see I see satanic practices. I see them burning things. I see them burning in in their in barrels, burning their witchcraft, burning their their their satanic rituals. They're giving their hearts to
+- **[53:02](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=3182s) · 他描述所见**：[Music] [Applause] Hey, [Music] no coming from the earth. I see gold deposits. I see gold and jewels coming out of the
 
 ### 完整英文 Transcript
 
@@ -1056,7 +1130,14 @@
 <a id="section-10"></a>
 ## 10. 54:00–59:59 · 物资、能源与供应链、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[54:19](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=3259s) · 他描述所见**：I see mosquite trees. I see sandy soil. I see sandy soil. There's believers that are believing for for this for wealth transfer. They're they're asking for the Lord for the wealth transfer. And I see
+- **[54:51](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=3291s) · 他描述所见**：the Lord is leading them to the gold deposits and emeralds. I see gold. Do they even have gold in emeralds in Africa? I see I see emeralds the size of your fist. Like huge emeralds. Huge emeralds. Massive stones. Stones that have never been seen before. Massive stones and gold nuggets of of of a gold
+- **[56:31](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=3391s) · 他描述所见**：But I see this ground. I see this ground secretly with ministers that own this ground and they're digging and they're finding these deposits and they're and they're dealing with this so that they don't tell these cartels because they don't want to let on and show that they have this. But it's God's provision in the time of of
+- **[59:01](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=3541s) · 本段原话**：you'll never thirst again. For there where there is water there is life. For there where there is water there is life. And there will be water come forth out of natural springs in these places in dryness. And it will be oasis. And where this is the the the body of Christ on it and the the the
 
 ### 完整英文 Transcript
 
@@ -1169,7 +1250,14 @@
 <a id="section-11"></a>
 ## 11. 60:00–65:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[60:46](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=3646s) · 他描述所见**：It's going to raise up the churches. They're going to be places of provision for great revival and it will spread throughout Africa. Do you understand? You say there's been no drought. There's been such a drought. We have no provision. God's bringing provision. God will bring what just like he did. I see by the spirit of the Lord.
+- **[61:14](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=3674s) · 本段原话**：It'll be just like the children of Israel in in the wilderness when he brought their their clothes were never tore. They're never tattered. And there was abundant supply of mana each day.
+- **[61:26](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=3686s) · 本段原话**：Quail abundant supply. A rock even rung sprung forth water out of a rock. Do you understand? God's going to bring water in the desert. And it's not I don't see that it's rain. It's coming right out of the ground. It's coming right out of the ground. Like like almost just like it's coming right up out of the like a
+- **[64:43](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=3883s) · 本段原话**：That's ex I'm excited for you. I'm excited for my brothers and sisters in Africa. I'm excited for England. There's going to be a new wave. There's a new wave. There's a new river. Get ready.
 
 ### 完整英文 Transcript
 
@@ -1273,7 +1361,14 @@
 <a id="section-12"></a>
 ## 12. 66:00–67:30 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[66:00](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=3960s) · 他进行祷告**：blessed you today. If you're new here and you've never subscribed to one of my videos, please subscribe. We're bleeding for a million million women and men prayer army to reach the nations for Jesus to pray for these end times. And we're we're we're getting closer and closer to 600,000 every every day. We
+- **[66:20](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=3980s) · 本段原话**：getting closer and closer and closer. We still got a long ways to go, but we're getting there. Right now, we're just believing to get to four uh for 540. 540 is right now. Then 550 550 10,000 more. that we're halfway there to six. It still seemed like a long ways, but we'll get there eventually.
+- **[66:39](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=3999s) · 本段原话**：Subscribe if you haven't subscribed. Click the notification bell. Click the like button. Comment something nice down below to help us with the algorithm. We really appreciate all your help. We truly do. Remember, we love you. We truly do. Thank you for your support.
+- **[67:01](https://www.youtube.com/watch?v=kB0D3FLQzjY&t=4021s) · 本段原话**：in this last couple weeks. We We appreciate the armor. I I know you think Brandon, you've been a little off. Yeah, we've been underneath the We've been going through some stuff, but I'm just I'm standing and I know that God standing with me and and I'm not moved by what the devil tries to do. So, we
 
 ### 完整英文 Transcript
 

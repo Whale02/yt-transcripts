@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 801；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 - [09. 32:00–35:26 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:59](https://www.youtube.com/watch?v=sECQfSP7DhU&t=59s) · 本段原话**：come we've had a great year with her you know seeing healings come and manifestations of the glory uh with the outpouring at the at the Tent Revival seeing the shakina glory Cloud going to see Billy Burke and smelling the fragrance of the holy spirit so many amazing things just Supernatural the the words that the Lord
+- **[08:00](https://www.youtube.com/watch?v=sECQfSP7DhU&t=480s) · 本段原话**：your couch and you're all by yourself and you're thinking man nobody cares about me but Diane and I are here Diana and I both are here and we're here for you we're praying for you know that we're lifting you up before the father that hit me somebody's really struggling the Lord just I felt that
+- **[12:01](https://www.youtube.com/watch?v=sECQfSP7DhU&t=721s) · 本段原话**：when he say that to me I thought preach the gospel always and then sometimes use words why are you going to preach the gospel if you're not using words it's in your life it's what you display on a day-to-day B basis to everybody around you who are you when nobody else is looking especially the Christian people
+- **[20:01](https://www.youtube.com/watch?v=sECQfSP7DhU&t=1201s) · 本段原话**：Open the Eyes that Satan has blinded the eyes of the unbeliever and we call their eyes to be enlightened right now in the name of Jesus we speak to their eyes for them to be enlightened with the Holy Ghost and that they would hear you Lord and the stranger's voice they would not
+- **[24:01](https://www.youtube.com/watch?v=sECQfSP7DhU&t=1441s) · 本段原话**：God stir in them stir in them right now in jesus' name shaking off all the bondage taking off the scales of of religion and perverse reprobate thinking shaking off all the things that have bound them in the name of Jesus bringing them close to the fire and the Heart of God in another level of
+- **[32:55](https://www.youtube.com/watch?v=sECQfSP7DhU&t=1975s) · 他表达判断**：we seek the Lord radically we believe that it's a time like never before to pray and to seek the face of the Lord because I'm telling you he inhabits the Praises of his people and I'm telling you this those that seek Him will find him those that knock the door will be open to them and I believe that like
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:59](https://www.youtube.com/watch?v=sECQfSP7DhU&t=59s) · 本段原话**：come we've had a great year with her you know seeing healings come and manifestations of the glory uh with the outpouring at the at the Tent Revival seeing the shakina glory Cloud going to see Billy Burke and smelling the fragrance of the holy spirit so many amazing things just Supernatural the the words that the Lord
+- **[01:21](https://www.youtube.com/watch?v=sECQfSP7DhU&t=81s) · 本段原话**：has given me protect and present president Trump from the assassination attempt twice maybe even three times seeing a a red wave like the lord gave us there are so many things that you can be thankful for that we have a new president coming and helping uh bring us turn around America and and uh just a
+- **[02:20](https://www.youtube.com/watch?v=sECQfSP7DhU&t=140s) · 本段原话**：deadness of Sarah's womb he was thankful he giving glory to God that was him giving praise being thankful I give you praise Lord I Thank you for all that you've done all that you're going to do and all you continue to do and so I I just take a time just even right now to say God thank you thank you
+- **[03:17](https://www.youtube.com/watch?v=sECQfSP7DhU&t=197s) · 本段原话**：Bird that's the only bird but there's going to be millions of them but there's only just that one bird but he made all kinds of things for us richly to enjoy isn't that amazing he made all the different things all the different kinds of cows all the different kinds of dogs you may say well I don't like that kind
 
 ### 完整英文 Transcript
 
@@ -127,7 +145,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:42](https://www.youtube.com/watch?v=sECQfSP7DhU&t=282s) · 他描述所见**：need to be overcoming but I saw a little bit of change this year I saw a little bit I may not have my full manifestation of what I've been believing for but I saw some change Noah released the Dove and it came back just with a little Olive Branch but Noah knew that the that that was a sign that
+- **[06:29](https://www.youtube.com/watch?v=sECQfSP7DhU&t=389s) · 本段原话**：be my toenail don't hurt today Lord but it's a sign that the flood is subsiding in your life that storm that was sent to try to kill still and destroy you and pull you down all the way under and there's a sign of relief today and that's what you have to grab on to is
+- **[07:27](https://www.youtube.com/watch?v=sECQfSP7DhU&t=447s) · 本段原话**：on the bad days we're focused on the good days cuz you've got to give God praise for every single good day and say you know what we may have had a bad day today but we're going to have a good day tomorrow regardless of your circumstances Joy comes in the morning Joy comes in the morning that's exactly
+- **[07:44](https://www.youtube.com/watch?v=sECQfSP7DhU&t=464s) · 他表达判断**：right I believe it babe I believe that I believe that we can call those things that be not as though they were by speaking to our circumstances to change and you may be all alone in this holiday season you may may be sitting there on
 
 ### 完整英文 Transcript
 
@@ -227,7 +252,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=sECQfSP7DhU&t=480s) · 本段原话**：your couch and you're all by yourself and you're thinking man nobody cares about me but Diane and I are here Diana and I both are here and we're here for you we're praying for you know that we're lifting you up before the father that hit me somebody's really struggling the Lord just I felt that
+- **[09:03](https://www.youtube.com/watch?v=sECQfSP7DhU&t=543s) · 本段原话**：you've ever lived so far 2024 we're going to find some friends say that I'm going to make myself friendly and I'm going to find some friends the year is not over with you don't have to uh be down and and and out being sad it's a time to have joy in your heart a smile on your face and a
+- **[10:32](https://www.youtube.com/watch?v=sECQfSP7DhU&t=632s) · 本段原话**：faithful hasn't he babe yes and he's brought us through some some some trying times but but it but but it wasn't something that we we got overnight we had to believe and keep on keeping on regardless of what we've seen on in the natural it I felt in the natural didn't it that we were never going to get out
+- **[11:34](https://www.youtube.com/watch?v=sECQfSP7DhU&t=694s) · 本段原话**：witnessing and being you hitting them in the head with the Bible you let your light shine through you your eyes you just go there man God's good you you know you just you just have that attitude of I I know who I am in Christ and I'm going to display Jesus today he
 
 ### 完整英文 Transcript
 
@@ -332,7 +364,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、物资、能源与供应链展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=sECQfSP7DhU&t=721s) · 本段原话**：when he say that to me I thought preach the gospel always and then sometimes use words why are you going to preach the gospel if you're not using words it's in your life it's what you display on a day-to-day B basis to everybody around you who are you when nobody else is looking especially the Christian people
+- **[12:43](https://www.youtube.com/watch?v=sECQfSP7DhU&t=763s) · 他描述所见**：will I will clean up our messes and people notice things like that they it's your light shining you I see a piece of trash on the floor and you pick it up yeah yeah taking the buggy like Joyce Mar say taking the buggy to the stall instead of letting ding somebody else's car mhm whenever you drive off so that
+- **[14:15](https://www.youtube.com/watch?v=sECQfSP7DhU&t=855s) · 他讨论新闻或报道**：people right now are hurting and they're looking for authentic Christians as we see things in the news and on social media right now that try to tarnish Christianity try to tarnish Ministries tarnish things it's time that we show up and show people we have Jesus regardless of what they hear in the news and what's
+- **[15:23](https://www.youtube.com/watch?v=sECQfSP7DhU&t=923s) · 本段原话**：nursery helping out and the being an usher year after year after year with no recognition if it wasn't for you going and ushering and being a door greeter would that person who came that wasn't saved feel welcome it's the small things that make the the unbeliever when they come for the first time see trying to find a
 
 ### 完整英文 Transcript
 
@@ -437,7 +476,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=sECQfSP7DhU&t=960s) · 他进行祷告**：that you just don't know it's that one word of kindness that changes people and helps them to uh to change their whole opinion about everything so that's what I had for y'all be thankful today be thankful for everything and I and I pray that this blessed you today we're going to pray with you now and I want to lift
+- **[16:23](https://www.youtube.com/watch?v=sECQfSP7DhU&t=983s) · 他进行祷告**：you all up in prayer I want to I want you to agree with me the every need you have is met that we take authority over this war that there's no major Wars coming that we would have peace and that God would give us an extended time of Grace that's what he said pray for this that President
+- **[16:45](https://www.youtube.com/watch?v=sECQfSP7DhU&t=1005s) · 本段原话**：Trump has Supernatural wisdom in leading this country that when he is inaugurated and on January the 20th that we will have a supernatural turnaround with all kinds of things that God who is rich in Mercy shows up and shows off at a major way just like he did because his people are who are called by his name are
+- **[18:17](https://www.youtube.com/watch?v=sECQfSP7DhU&t=1097s) · 本段原话**：Father that you open the door father as they show love they'll be loved back I thank you Father as they so love they will reap it a h hundredfold return a supernatural uh seed time and harvest concerning the love of God over them as they show show love and sow love they will reap love I thank you Father that
 
 ### 完整英文 Transcript
 
@@ -533,7 +579,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=sECQfSP7DhU&t=1201s) · 本段原话**：Open the Eyes that Satan has blinded the eyes of the unbeliever and we call their eyes to be enlightened right now in the name of Jesus we speak to their eyes for them to be enlightened with the Holy Ghost and that they would hear you Lord and the stranger's voice they would not
+- **[20:19](https://www.youtube.com/watch?v=sECQfSP7DhU&t=1219s) · 本段原话**：follow I speak to their ears to hear you Lord right now and the demonic spirits have been lying to them and speaking perverse things to them of all the corruption and all the things that they're hearing oh do this and do that oh we command it to go now in jesus' name we speak to their ears to pop open
+- **[21:48](https://www.youtube.com/watch?v=sECQfSP7DhU&t=1308s) · 本段原话**：churches waking up all of the people who are asleep shaking in the churches and the pulpits that the great move of God would flow like a Mighty rushing wind all throughout the churches and bringing forth the Great Harvest and the light of God would shine in the name of Jesus even in the Latter-Day Saints that
+- **[23:14](https://www.youtube.com/watch?v=sECQfSP7DhU&t=1394s) · 本段原话**：Lord that the eyes their heart is flooded with light and Jesus has a plan you have a plan for every single one of us that there be like like I said like a mighty rushing wind a mighty rushing wind of your spirit upon this Earth one last time just like it was in Acts
 
 ### 完整英文 Transcript
 
@@ -633,7 +686,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:01](https://www.youtube.com/watch?v=sECQfSP7DhU&t=1441s) · 本段原话**：God stir in them stir in them right now in jesus' name shaking off all the bondage taking off the scales of of religion and perverse reprobate thinking shaking off all the things that have bound them in the name of Jesus bringing them close to the fire and the Heart of God in another level of
+- **[25:28](https://www.youtube.com/watch?v=sECQfSP7DhU&t=1528s) · 本段原话**：great great great great move in every single Church large and small thank you Father for your Creed of Miracles for healings father we call forth healings father for for for for explosions of your glory inside of these churches father that when the pastor would preach that the presence of God would weigh so
+- **[27:02](https://www.youtube.com/watch?v=sECQfSP7DhU&t=1622s) · 本段原话**：darkness I call forth from the north the South the East the West all through the Buddhist communities and the M Muslim communities and all of the uh false religions I say in the name of Jesus for them their eyes to be uh shed with light and I thank you for Angelic visitations and manifestations of Glory
+- **[27:47](https://www.youtube.com/watch?v=sECQfSP7DhU&t=1667s) · 他进行祷告**：forth Elon Musk today we say will you pray for him for 20 days the Elon Musk would be radically born again filled with controlled by the Holy Spirit and that every single person around him
 
 ### 完整英文 Transcript
 
@@ -725,7 +785,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:00](https://www.youtube.com/watch?v=sECQfSP7DhU&t=1680s) · 本段原话**：father I called forth labors across this path father that they would show and share the love of God to Elon Musk I thank you Father that people of character are put around him father to snatch him right out of the the hand of darkness and put him in the right path I thank you Father that Donald
+- **[29:53](https://www.youtube.com/watch?v=sECQfSP7DhU&t=1793s) · 本段原话**：president the devil's trying to make that happen no we we have peace in jesus' name an extended four years of great blessing an extended four years of Grace an extended years four years father of 20 until 2028 I thank you Father that you're coming soon people say oh he's not coming soon you say he's going to be for
+- **[30:18](https://www.youtube.com/watch?v=sECQfSP7DhU&t=1818s) · 本段原话**：folks it's coming Jesus is coming Jesus is coming we should be busy about doing what the father's called us to do occup until he comes we call for it to be occupiers not just sitting back idly waiting for your return but being busy about the father's business being bold and being radical about the father's
+- **[31:52](https://www.youtube.com/watch?v=sECQfSP7DhU&t=1912s) · 本段原话**：you Lord that father that that that that there's nothing that happens at the rocking New Year's Eve and that tomorrow when whenever people are shopping in Black Friday shopping no weapon formed
 
 ### 完整英文 Transcript
 
@@ -820,7 +887,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:26 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:55](https://www.youtube.com/watch?v=sECQfSP7DhU&t=1975s) · 他表达判断**：we seek the Lord radically we believe that it's a time like never before to pray and to seek the face of the Lord because I'm telling you he inhabits the Praises of his people and I'm telling you this those that seek Him will find him those that knock the door will be open to them and I believe that like
+- **[33:37](https://www.youtube.com/watch?v=sECQfSP7DhU&t=2017s) · 他表达判断**：you can say oh brother Brandon but you don't know what I believe I don't care what it is I believe that all things are possible to him who believes where's your faith at today what are you believing for are you believing that God's going to do the impossible in your life and turn your
+- **[34:37](https://www.youtube.com/watch?v=sECQfSP7DhU&t=2077s) · 他描述所见**：stand with us we stand with you that your that prayer changes things we're believing for a big army of prayers every day that people would come and we pray and we can change things and so we're excited about that I am I I am enthusiastic about this because I know I see the power of prayer and so many
+- **[34:58](https://www.youtube.com/watch?v=sECQfSP7DhU&t=2098s) · 他描述所见**：areas of my life and I see it in and I and I believe you're going to see it in yours as you pray so subscribe if you haven't subscribed click the notification Bell click the like button do all the things that YouTube ask us to do and we will see you tomorrow we
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 829；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 45:00–49:59 · 祷告、敬拜与现场互动](#section-10)
 - [11. 50:00–54:50 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=sroLpUHHhXM&t=0s) · 他表达判断**：hey good morning family I'm excited to be with yall again today I am going to do another pray with me video a motivate yourself to pray you know um I'll be praying in English some I'll be praying in tongu some you know I I believe corporate prayer is important in these last days even more than than ever
+- **[10:04](https://www.youtube.com/watch?v=sroLpUHHhXM&t=604s) · 本段原话**：whole Bread of Heaven feed me till I want no [Music] more fill my cup fill it up and make me whole I mean I don't know all the words of this song but I I I know some of it Amazing
+- **[20:55](https://www.youtube.com/watch?v=sroLpUHHhXM&t=1255s) · 本段原话**：mighty one the Creator of everything you created us even in our mother's womb you know every cell every hair on our head from the top of our head to the soles of our feet were fearfully wonderfully made and we want more we understand that father that you are living on inside of us wall to wall
+- **[30:02](https://www.youtube.com/watch?v=sroLpUHHhXM&t=1802s) · 他描述所见**：forever Lord great is your faithfulness to me oh God great is your faithfulness to us great is your faithfulness great is your faithfulness morning by morning new mer mercies I see all I have
+- **[43:13](https://www.youtube.com/watch?v=sroLpUHHhXM&t=2593s) · 本段原话**：when you show me the wristwatch you show me Trump I don't know what all that's about Lord is it his heart Lord is it him he need we need to lift him up that his time is not over his time is not over father that you would bring in one one final push one final
+- **[51:45](https://www.youtube.com/watch?v=sroLpUHHhXM&t=3105s) · 他描述所见**：today if you liked it give it a thumbs up you know um I'll do more like this if you want to sing more songs with me or uh do more prayer with me it's on my heart I I want to pray more about the thing I just saw Trump's face and I saw
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、物资、能源与供应链、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、物资、能源与供应链展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=sroLpUHHhXM&t=0s) · 他表达判断**：hey good morning family I'm excited to be with yall again today I am going to do another pray with me video a motivate yourself to pray you know um I'll be praying in English some I'll be praying in tongu some you know I I believe corporate prayer is important in these last days even more than than ever
+- **[01:06](https://www.youtube.com/watch?v=sroLpUHHhXM&t=66s) · 他转述所听到的话**：this helps you to jump in the river in your own personal prayer life and um you know I'm not saying I'm the greatest prayer Warrior or whatever but I I the Lord told me to do it so I'm just going to uh Jump In this River and and let's see where it takes us okay so I just
+- **[02:16](https://www.youtube.com/watch?v=sroLpUHHhXM&t=136s) · 本段原话**：that father the electric the water the gas the the phones the car payments whatever they have need of Father you you've provided I thank you Father that you are the great provider the great Jehovah and father I just want to give you praise and glory father and I we're I'm just going to sing you a song Father and
+- **[03:11](https://www.youtube.com/watch?v=sroLpUHHhXM&t=191s) · 本段原话**：with our children to school today father that you protect them and the father that no weapon formed against them would Prosper I plead the blood over our children we say no weapon no weapon no devil in hell can come nigh of my children not not not one hair on their head will be touched by any kind of
 
 ### 完整英文 Transcript
 
@@ -147,7 +165,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:00](https://www.youtube.com/watch?v=sroLpUHHhXM&t=300s) · 本段原话**：Bread of Heaven feed me till I want no more fill my cup fill it up and make me whole it is Jesus it is Jes [Music]
+- **[06:40](https://www.youtube.com/watch?v=sroLpUHHhXM&t=400s) · 本段原话**：place you know what was on my heart to sing this Jesus is coming soon morning or night or noon many will me keep their Doom trumpets will surely sound all of the Dead shall rise righteous me in the sky going where no
+- **[07:54](https://www.youtube.com/watch?v=sroLpUHHhXM&t=474s) · 本段原话**：one dies Heaven were bound I look for to it Jesus is coming soon morning or night or noon many will meet their Doom trumpets will surely sound all of the Dead shall
+- **[09:10](https://www.youtube.com/watch?v=sroLpUHHhXM&t=550s) · 本段原话**：Lord fill my cup Lord I Lift It Up Lord I lift it up we're thirsty we're so thirsty Lord we need a fresh touch today come and quench this thirsting of my
 
 ### 完整英文 Transcript
 
@@ -222,7 +247,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:04](https://www.youtube.com/watch?v=sroLpUHHhXM&t=604s) · 本段原话**：whole Bread of Heaven feed me till I want no [Music] more fill my cup fill it up and make me whole I mean I don't know all the words of this song but I I I know some of it Amazing
+- **[12:16](https://www.youtube.com/watch?v=sroLpUHHhXM&t=736s) · 本段原话**：grace that brought me safe this far and Grace I know the last words of that one when we've been there 10,000 years bright shining as the sun we've believe and we've known our
+- **[12:52](https://www.youtube.com/watch?v=sroLpUHHhXM&t=772s) · 本段原话**：last days to sing God's praise thank you Father thank you Father even when we mess up the words Lord you still inhabit the Praises of your people but it's from our heart and father we thank you that you
+- **[14:23](https://www.youtube.com/watch?v=sroLpUHHhXM&t=863s) · 本段原话**：flow that makes me wide as no no other found I know nothing but the blood of Jesus the
 
 ### 完整英文 Transcript
 
@@ -310,7 +342,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 祷告、敬拜与现场互动、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、地震、风暴与灾害、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、地震、风暴与灾害展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:06](https://www.youtube.com/watch?v=sroLpUHHhXM&t=966s) · 本段原话**：reaches to the highest mountain and it flows to the lowest Valley oh the blood that gives me strength from day to day it will
+- **[17:41](https://www.youtube.com/watch?v=sroLpUHHhXM&t=1061s) · 本段原话**：lamb upon the throne and unto you we lift our voice and praise you're the lamb upon the [Music] throne holy
+- **[18:50](https://www.youtube.com/watch?v=sroLpUHHhXM&t=1130s) · 他进行祷告**：things and miss it a mile on things that are taking the care out of our prayer taking the care out of our prayer being careful for nothing I'll be careful for nothing father so father in that we take the care out of our prayer today father but we want to pray what you
+- **[19:46](https://www.youtube.com/watch?v=sroLpUHHhXM&t=1186s) · 本段原话**：that you are the peace in the midst of the storm in our lives you are the peace in the midst of the storm and you say peace be still to all
 
 ### 完整英文 Transcript
 
@@ -412,7 +451,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 祷告、敬拜与现场互动、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、地震、风暴与灾害、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、地震、风暴与灾害展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:55](https://www.youtube.com/watch?v=sroLpUHHhXM&t=1255s) · 本段原话**：mighty one the Creator of everything you created us even in our mother's womb you know every cell every hair on our head from the top of our head to the soles of our feet were fearfully wonderfully made and we want more we understand that father that you are living on inside of us wall to wall
+- **[22:12](https://www.youtube.com/watch?v=sroLpUHHhXM&t=1332s) · 本段原话**：are running to and fro throughout the whole earth looking for a heart who's perfect towards you let your eyes rest upon me today oh God let your eyes rest upon me and let them not be wondering about the Earth no more Father for I am what you're looking for create in me a clean heart oh
+- **[23:35](https://www.youtube.com/watch?v=sroLpUHHhXM&t=1415s) · 本段原话**：that Throne that you showed me we're coming up higher we're coming up higher with the fire there's levels of the prophetic like you say Lord there's levels of your of your presence and you said stop being so carnal come up higher Brandon come up higher so father we yield oursel to you today we yield build oursel over the
+- **[24:18](https://www.youtube.com/watch?v=sroLpUHHhXM&t=1458s) · 本段原话**：they're desperate and they don't even know what they need but they're searching through all kinds of different Darkness looking for light help us to be the light to somebody today an answer to prayer in their heart that they don't even know that they need let your glory shine on our face like it did upon
 
 ### 完整英文 Transcript
 
@@ -522,7 +568,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:02](https://www.youtube.com/watch?v=sroLpUHHhXM&t=1502s) · 本段原话**：Shadow the shadow would heal them because that's how far the presence of the Lord was there your Your Glory was there that far out there father let it happen again do it again Lord Do It Again Lord do it in us do it in me Lord create in us a clean heart God in these last days pour out your
+- **[26:48](https://www.youtube.com/watch?v=sroLpUHHhXM&t=1608s) · 本段原话**：seen you touch so many lives I call them healed and whole today from the top of their head to the soles of their feet they're blessed and healed and whole and well mentally emotionally physically financially all made whole I thank you Father for healing power that flows on the inside of them driving out all sickness driving out all
+- **[28:34](https://www.youtube.com/watch?v=sroLpUHHhXM&t=1714s) · 本段原话**：we cast our cares over onto you because you said you care for us if you care for the lily of the field and you care for the sparrow how much more do you care for us father how much more do you love us Jesus you said in your word that we said you never seen the righteous forsaken or
+- **[29:37](https://www.youtube.com/watch?v=sroLpUHHhXM&t=1777s) · 本段原话**：your enemies I've prop I've provided this table for you and we eat at that table in front of all our enemies resting in the finished work of Jesus Christ today we rest in you Lord we rest in your presence we rest in your goodness we rest in your mercy for you are good and your mercy endures forever
 
 ### 完整英文 Transcript
 
@@ -638,7 +691,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:02](https://www.youtube.com/watch?v=sroLpUHHhXM&t=1802s) · 他描述所见**：forever Lord great is your faithfulness to me oh God great is your faithfulness to us great is your faithfulness great is your faithfulness morning by morning new mer mercies I see all I have
+- **[30:34](https://www.youtube.com/watch?v=sroLpUHHhXM&t=1834s) · 本段原话**：needed thy hands have provided Great Is Thy Faithfulness Great Is Thy [Applause] Faithfulness Lord unto me Lord we worship you Great Is Thy Faithfulness Great Is Thy
+- **[31:13](https://www.youtube.com/watch?v=sroLpUHHhXM&t=1873s) · 他进行祷告**：Faithfulness you are faithful and your mercy endures forever we worship you today God we give you honor and glory for all that you've done and all that you're going to do and continue to do thank you for your healing thank you Lord for our unsaved loved ones that you're bringing them in we send labors
+- **[32:48](https://www.youtube.com/watch?v=sroLpUHHhXM&t=1968s) · 他进行祷告**：of my spirit and we're going to see where it takes us but for the people who want to just pray in English that was for you okay now I'm going to go the a different way of how I pray and I because I never really pray a lot in English so father we thank you so we
 
 ### 完整英文 Transcript
 
@@ -718,7 +778,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:15](https://www.youtube.com/watch?v=sroLpUHHhXM&t=2115s) · 本段原话**：now I'm praying for what I'm hearing in my spirit we're praying over that virus that was try that they were talking about the Lord was telling me about the 350 million now I'm interceding for that and we're calling forth a Divine protection over the righteous that there is no weapon formed against us that would
+- **[36:28](https://www.youtube.com/watch?v=sroLpUHHhXM&t=2188s) · 本段原话**：I'll tell you all this while I'm praying I'm seeing a a a a a wrist watch a clock a clock that is going backwards in [Applause] the
+- **[38:13](https://www.youtube.com/watch?v=sroLpUHHhXM&t=2293s) · 本段原话**：h thank you Holy Spirit do you desire to give us more
+- **[38:53](https://www.youtube.com/watch?v=sroLpUHHhXM&t=2333s) · 他描述所见**：time lord om oh no time is running out time is running out H they I see it the clock is running out of time the clock is running out of time
 
 ### 完整英文 Transcript
 
@@ -766,7 +833,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[43:13](https://www.youtube.com/watch?v=sroLpUHHhXM&t=2593s) · 本段原话**：when you show me the wristwatch you show me Trump I don't know what all that's about Lord is it his heart Lord is it him he need we need to lift him up that his time is not over his time is not over father that you would bring in one one final push one final
+- **[43:39](https://www.youtube.com/watch?v=sroLpUHHhXM&t=2619s) · 本段原话**：push father waking up the bride waking up the church waking up the people father and father that we don't look to a man to save this nation we look to Jesus but father it will only be an Awakening unto God that will save America I know what you've showed me even this last couple of days
+- **[44:06](https://www.youtube.com/watch?v=sroLpUHHhXM&t=2646s) · 他进行祷告**：father but father I pray special covering over each and individual person here that the plague does not come nigh us that there is no virus in hell that can come nigh us we cover Us in the blood we cover our families in the blood we thank you Lord that we're hearing your voice and a stranger's voice we'll
+- **[44:27](https://www.youtube.com/watch?v=sroLpUHHhXM&t=2667s) · 他进行祷告**：not follow we hear you Lord we're not tormented by the by familiar spirits we're not tormented by satanic Spirit we are in peace that passes all understanding the peace that passes all understanding over our minds our Wills our emotions concerning our heart our families we thank you Lord that we're always in the right place at the right
 
 ### 完整英文 Transcript
 
@@ -828,7 +902,12 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:03](https://www.youtube.com/watch?v=sroLpUHHhXM&t=2703s) · 他进行祷告**：it father we thank you we thank you Lord for this day we worship you father we worship you
+- **[46:01](https://www.youtube.com/watch?v=sroLpUHHhXM&t=2761s) · 本段原话**：Holy Spirit we yeld over we yield over to you what's on your heart today what is on the heart of the father how all
 
 ### 完整英文 Transcript
 
@@ -857,7 +936,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–54:50 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[51:45](https://www.youtube.com/watch?v=sroLpUHHhXM&t=3105s) · 他描述所见**：today if you liked it give it a thumbs up you know um I'll do more like this if you want to sing more songs with me or uh do more prayer with me it's on my heart I I want to pray more about the thing I just saw Trump's face and I saw
+- **[52:58](https://www.youtube.com/watch?v=sroLpUHHhXM&t=3178s) · 本段原话**：Beyond anybody's comprehension and it will not last a long time for Jesus is coming and it will be a great quick work and people think well the last year no no no no it's going to be quick work a quick work he's going to do a quick work and it's going to be amazing what he's
+- **[53:32](https://www.youtube.com/watch?v=sroLpUHHhXM&t=3212s) · 本段原话**：yes there's dark days but yet the light is getting lighter at the same time and I want you to understand that you have authority and you're seated with him in the heavenlies and you don't have nothing to fear you're have a Believer and we're bought with the blood of Jesus and so to be absent from the body is to
+- **[54:24](https://www.youtube.com/watch?v=sroLpUHHhXM&t=3264s) · 他转述所听到的话**：you're still if you're a new person and you're on this video and you never seen me before God bless you for sticking around for for the people who are uh just curious and hungry I want to to have more of Jesus stick around I'm going to do more videos like this because the Lord told me to and I and I
 
 ### 完整英文 Transcript
 

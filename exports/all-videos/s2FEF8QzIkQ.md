@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 998；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 50:00–52:47 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:18](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=18s) · 本段原话**：here on the ground I don't know but his sister died on the fall and um very sad but but I I just love nature and I just couldn't I couldn't stand to see him there just die I've never touched a squirrel before uh that was alive only the ones that we ate Grandpa
+- **[10:02](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=602s) · 本段原话**：don't you aren't you ex aren't you hungry for for more that you wake up and you say God where are you I want more every day you're expecting some Supernatural something instead of walking always believing and believing and believing for your Miracle believing for your manifestation that we see it but not only do we see it but we bring it and we
+- **[20:00](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=1200s) · 他表达判断**：chapter 2 is still going on today and if you want to learn more about tongues get the book why tongues by Kenneth E Hagen and listen to that book read that book read it over and over and over again it's just a little bitty book I think it's like 99 cents on Amazon or less
+- **[31:05](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=1865s) · 他描述所见**：things be reveal I see it I see it in the pulpits in the pulpits in the churches in the Ministries oh for you will not put new wine in new old wine skins that's what you hear you say I heard what you said I heard what you
+- **[40:06](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=2406s) · 他描述所见**：when I'm seeing a spirit I see Big Trees I see trees that are planted by the by the river of Living Water I see trees that are planted in that river right now I see the vision and I see I see the children the church floating down this River in these in tubes but they have
+- **[50:01](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=3001s) · 他转述所听到的话**：Fire on our life stirred oursel up it's River the river's always flowing I heard the Lord say Brandon the river is always flowing you just got to drink the river never dried up the Holy Ghost River has never dried up you dry up because you don't dip in the river you got to jump in the river it's a
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:18](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=18s) · 本段原话**：here on the ground I don't know but his sister died on the fall and um very sad but but I I just love nature and I just couldn't I couldn't stand to see him there just die I've never touched a squirrel before uh that was alive only the ones that we ate Grandpa
+- **[01:40](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=100s) · 本段原话**：on for you but I'm just telling y'all we're just we're just like y'all we're believing just like you all for everyday Miracles we're believing for for the supernatural in our lives I wake up every day with an anticipation that God's going to show up and do something Mighty in our life when I told you all I
+- **[02:41](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=161s) · 本段原话**：that he's been talking to me about praying over Israel praying over praying over what he said about when we walk into churches that there would be great deliverances people that are walking in bondage from all kinds of addictions and torments and and all kinds of um things that they thought they would always have
+- **[04:00](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=240s) · 本段原话**：artillery there's levels of warfare that's the way I'm trying to I'm trying to make it simple so the Lord showed me that he starts everybody out with a single shot and if you're faithful with little he'll make you ruler over the the uh semi-automatic and then he moves you up later on in life whenever you're able
 
 ### 完整英文 Transcript
 
@@ -155,7 +173,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:40](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=340s) · 他表达判断**：days the even Greater Works will we do than what he than what they did I believe the former and the latter rain are going to come on us in a greater measure than what we've ever seen before in these last days that what what they did back then 2,000 years ago Jesus Christ is the same yesterday today and
+- **[06:21](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=381s) · 他表达判断**：sick seeing them recover laying casting out Devils laying seeing blind eyes open open ears open whatever the the lame will leap the tongue will speak whatever it may be I believe it's time for the Supernatural and you go well we know it's going to have we're always believing we're always thinking that God's going to show up and show off
+- **[07:30](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=450s) · 他描述所见**：lay hands on the sick I see full manifestation too not just every once in a while I'm talking turn the switch on Lord turn the switch on I want a tangible presence of the F fire of the Lord to set the captives free now there's a lot of people there's a lot of people that get weird with all
+- **[08:50](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=530s) · 他描述所见**：addictions of any kind pornography or anger or or lust or whatever it may be you say well you know there it's just the average that happens that's why the Bible said he's coming without for a church without spot or wrinkle and I believe in the Tommy Hicks Vision that the Glorious church is
 
 ### 完整英文 Transcript
 
@@ -288,7 +313,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:02](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=602s) · 本段原话**：don't you aren't you ex aren't you hungry for for more that you wake up and you say God where are you I want more every day you're expecting some Supernatural something instead of walking always believing and believing and believing for your Miracle believing for your manifestation that we see it but not only do we see it but we bring it and we
+- **[11:30](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=690s) · 本段原话**：say l in the spirit realm to say I've got it I've got it I've got it automat semi-automatic I've got it fully automatic and we're not only that we're we're taking back the land with with making war against the devil saying no thus far and no further Satan you are not going to take any more land from us
+- **[13:00](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=780s) · 本段原话**：passionate because when you see so many broken people you know that the only thing that's ever going to help them is the word the the a revelation of the knowledge of the word because you'll know the truth and the truth that set you free and the and the tangible anointing the tangible presence of the Lord and I want that
+- **[14:19](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=859s) · 本段原话**：to eat it like a a steak a dog on a T-Bone I'm going to latch on to that bone and I'm not giving up until I'm radically changed on the from the inside side out and that's just where I'm at that's where de bren's at that's where Diana is at and we refuse to keep
 
 ### 完整英文 Transcript
 
@@ -423,7 +455,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:24](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=924s) · 本段原话**：all praying over them as we driving around even my mother-in-law is here and she was praying with y'all she's praying for you to she came to visit Diana so we're believing believers who believe and expect and that are fully persuaded that God's going to do something in your life today so let's believe be let's believe for
+- **[16:39](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=999s) · 他进行祷告**：the world in jesus' name We Believe father that this is the time like never before that they are going to rise up and take the land for Jesus father we pray a hedge over president Trump today as he's headed home for the weekend and he's going to to to see his wife and his
+- **[18:29](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=1109s) · 本段原话**：looked like it was alive I don't know what all that's about Lord still praying over it but I know that there's major changes coming there's major changes coming to the world to America as I watch that blood moon as I watch the signs and the heavens we know that we're looking up for a Redemption as drawing
+- **[19:27](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=1167s) · 本段原话**：of people the moles within the rats within I'm telling you there's rats within America they were l in over the last four years in the past administration and I'm telling you by the spirit of the Lord I feel it you heard all what I said I I try to make that just about 10 minutes or whatever
 
 ### 完整英文 Transcript
 
@@ -560,7 +599,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 祷告、敬拜与现场互动、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、地震、风暴与灾害、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、地震、风暴与灾害展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=1200s) · 他表达判断**：chapter 2 is still going on today and if you want to learn more about tongues get the book why tongues by Kenneth E Hagen and listen to that book read that book read it over and over and over again it's just a little bitty book I think it's like 99 cents on Amazon or less
+- **[21:03](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=1263s) · 他描述所见**：if we see anything see if the Lord has anything to show us uh last time I told you all about the the tsunami wave I told you about the the tornadoes I saw two major EF5 ef4 tornadoes two major ones coming which I I believe it just did and uh but you know because of what
+- **[21:40](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=1300s) · 他描述所见**：we're going to we're just going to pray and see if the Lord shows us anything else oh I saw the tsunami wave Hing from um uh Alaska all the way down to Seattle Seattle area and it was a very significant earthquake and NAMI so uh I don't know the timing but I saw it and so just
+- **[22:03](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=1323s) · 他描述所见**：about the same time I saw these uh tornadoes so I thought it was very interesting but I saw a very active spring so uh for uh storms so all right well let's pray okay so father we just yield to you I come before your throne boldly and I thank you Father and holy
 
 ### 完整英文 Transcript
 
@@ -650,7 +696,13 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[26:58](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=1618s) · 本段原话**：Holy Spirit Holy Spirit Holy Spirit we thank you ohas [Music] [Applause]
+- **[27:41](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=1661s) · 他描述所见**：[Music] for be B Be B be bold that's interesting I see drought
+- **[28:33](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=1713s) · 他进行祷告**：I'm in Amarillo and all around LEC we call the rain we call the rain we call the rain we call the rain we call the rain we call the rain in Jesus name we call the [Music] rain for [Music]
 
 ### 完整英文 Transcript
 
@@ -684,7 +736,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[31:05](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=1865s) · 他描述所见**：things be reveal I see it I see it in the pulpits in the pulpits in the churches in the Ministries oh for you will not put new wine in new old wine skins that's what you hear you say I heard what you said I heard what you
+- **[31:36](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=1896s) · 他描述所见**：said I will not put new wine and old wine skins we have to I see I see an oiling I see the oil of the Holy Spirit putting it on the new wine skin making it soft and pliable again A W show the oil of the Holy Ghost the oil of the Holy Spirit softening the old wine
+- **[33:23](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=2003s) · 本段原话**：past for it's time to speak new words at last both for the time is short for the time is short for he is standing at the door for he is standing at the door
+- **[34:24](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=2064s) · 本段原话**：M to [Music] jump in the river jump in the river oh I hear him say jump in the river jump in the river and flow flow flow flow flow flow like on those big inner tubes get on a
 
 ### 完整英文 Transcript
 
@@ -745,7 +804,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 物资、能源与供应链、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、地震、风暴与灾害、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、地震、风暴与灾害展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:50](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=2150s) · 他描述所见**：stirring it up it's like stirring it up I see it it's dry there's dry there's dry but you got to push through the dryness you got to push through the drought there's great drought in the Panhandle there's great drought but there's a great Mighty rushing sound of a wind there's a rain coming there's
+- **[36:17](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=2177s) · 他转述所听到的话**：rain coming there's rain in the Panhandle there's rain there's rain there's a holy ghost rain there's a holy ghost here I hear the sound of an abundance arain all throughout the land all throughout and I heard him say from coast to coast from coast to coast there'll be a mighty rushing wind there will be a mighty
+- **[36:37](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=2197s) · 本段原话**：rushing wind the clothing as clothing tongues of a fire there's going to be the glory the glory the glory has of this hour he's standing at the door he's standing at the door there's a great Mighty river that will flow there's a great Mighty river that will flow it's time to get in your Holy Ghost inner
+- **[37:31](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=2251s) · 他进行祷告**：praying in the spirit praying in the spirit shaking off those those those those those garments of victim mentality shaking it off saying I'm not a victim anymore I'm a Victor I'm going to raise up higher with the fire it's time to come up higher with the fire you got to pray in the spirit pray in the spirit oh
 
 ### 完整英文 Transcript
 
@@ -840,7 +906,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:06](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=2406s) · 他描述所见**：when I'm seeing a spirit I see Big Trees I see trees that are planted by the by the river of Living Water I see trees that are planted in that river right now I see the vision and I see I see the children the church floating down this River in these in tubes but they have
+- **[42:49](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=2569s) · 他描述所见**：right now I see it theira Canadian government needs a touch their Canadian Prime Minister needs a touch oh Lord we thank you Lord that you're touching Eli musk and touching Trump father that you're turning our politics around father I thank you Lord I Thank You Lord that you're we speak to the crypto we
+- **[44:27](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=2667s) · 他转述所听到的话**：we thank you for peace I know what you showed me the the plots and the plans and even in and going into Russia there was more things he showed me going into Russia there was more things showing me when I I heard them plotting and planting in in in Russia do you understand they don't want
+- **[44:46](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=2686s) · 他描述所见**：to be underneath the West Boot they don't want to be underneath the West hand anymore of influence the bricks I see the bricks the bricks nations want to rise up they say it's their time see China
 
 ### 完整英文 Transcript
 
@@ -936,7 +1009,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:03](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=2703s) · 本段原话**：Iran North Korea is wanting to be a part of this there's great with Cuba do you understand there's a whole new Financial system coming a new whole financial stuff coming when I'm praying rising up rising up the the Beast system is rising up Jesus Christ is coming the Beast system is rising
+- **[45:37](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=2737s) · 本段原话**：up in the days ahead you're going to see this more and more and more watch Easter watch Easter I'm believing that there is a new well of revival going to start to spring up this time so like five weeks away praying over Easter praying over the churches and having a Resurrection Sunday Sunday praying over the churches
+- **[46:05](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=2765s) · 本段原话**：that when the people come into the churches this this Easter Sunday they'll go with a great fire stirring up on the the the church in the church in the pulpits and the pastors that they'll not go just to come and hear some little sermon for 30 minutes and they'll go off and have their Easter egg meal they're
+- **[48:18](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=2898s) · 他表达判断**：chains that used to bind you are falling off today as you worship and praise as you lift up holy hands I believe in the Midnight Hour in the darkest time of your life the cell is opening your cell of bondage is opening from from from having miscarriages from cancers to diabetes to heart disease
 
 ### 完整英文 Transcript
 
@@ -1053,7 +1133,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–52:47 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:01](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=3001s) · 他转述所听到的话**：Fire on our life stirred oursel up it's River the river's always flowing I heard the Lord say Brandon the river is always flowing you just got to drink the river never dried up the Holy Ghost River has never dried up you dry up because you don't dip in the river you got to jump in the river it's a
+- **[50:22](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=3022s) · 本段原话**：choice you've got to say hey I'm going to take a drink of the Holy Ghost today I'm going to take a drink of that new wine I'm going to take oh we make a Joyful Noise unto the Lord shout unto God with the voice of Triumph we'll have we are Victory we have Victory we go
+- **[50:39](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=3039s) · 他表达判断**：from Victory to Victory overcoming him by the blood of the lamb and by the word of Our Testimony I believe we get in the new wine we're going to get new wine in our old dried up wide skin plying that oil on there today you got to stir yourself up you got to stir yourself up and say I I I'm
+- **[52:10](https://www.youtube.com/watch?v=s2FEF8QzIkQ&t=3130s) · 他进行祷告**：me so BR it's time you got to pray more there's time you got to start praying more stop praying in English trying to to to appease everybody but just jump in the river and those that leave believe those that flow will flow and that's what we're going to do I'm going pray I
 
 ### 完整英文 Transcript
 

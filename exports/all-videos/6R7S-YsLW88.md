@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 451；**章节数**: 5；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -15,10 +15,27 @@
 - [04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-04)
 - [05. 16:00–18:38 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
 
+## 全片概述与 Key Points
+
+全片共 5 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:16](https://www.youtube.com/watch?v=6R7S-YsLW88&t=76s) · 他描述所见**：homeschooling and doing all the things we do because we have we have a teenager, Braden. The channel's name is Come Thrift with Me. And so we're So our goal is what we're going to do in 2024 is teaching people how to do a side hustle. You know, there's a lot of people I see that are struggling
+- **[04:39](https://www.youtube.com/watch?v=6R7S-YsLW88&t=279s) · 本段原话**：They started telling me you need to do the carnivore diet. You need to do the keto diet. You need to do all these different things. Mediterranean keto. So I you know the first part of January detoxing from all the sugar that I used to consume was brutal, brutal. And I thought I I'm not
+- **[08:20](https://www.youtube.com/watch?v=6R7S-YsLW88&t=500s) · 本段原话**：know, you know, with everybody, I know a lot of people struggle with keeping a diet, a lifestyle that doesn't make them um yo-yo diets that you you lose 100 pounds like I'm after and then you gain it all back. and and my goal is to have all of my weight off before October, you
+- **[12:49](https://www.youtube.com/watch?v=6R7S-YsLW88&t=769s) · 本段原话**：that there is a supernatural turn of events coming to their homes. Father, they come over and help uh with the other channel and watch how how you've blessed me. Lord, I promise to give you all the glory and all the praise for everything you've ever given me. Father, it's never me. It's always you. Father,
+- **[16:28](https://www.youtube.com/watch?v=6R7S-YsLW88&t=988s) · 本段原话**：We thank you, Lord, that you said in 2 Timothy 1:7 that God has not given us a spirit of fear, but of power and of love and of of a wellbalanced mind. And we call mind of Christ over our minds right now in the name of Jesus that we're not tormented by satanic fear. We're not
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:16](https://www.youtube.com/watch?v=6R7S-YsLW88&t=76s) · 他描述所见**：homeschooling and doing all the things we do because we have we have a teenager, Braden. The channel's name is Come Thrift with Me. And so we're So our goal is what we're going to do in 2024 is teaching people how to do a side hustle. You know, there's a lot of people I see that are struggling
+- **[01:35](https://www.youtube.com/watch?v=6R7S-YsLW88&t=95s) · 他表达判断**：financially. And I'm not saying I have it all together, y'all. But I trust God and I believe for everything I have. And he has provided a lot through Poshmark and through eBay. And he gives me uh places. He'll tell me where to go find the merchandise, the t-shirts or the shoes or whatever. I pray in the car. I
+- **[02:11](https://www.youtube.com/watch?v=6R7S-YsLW88&t=131s) · 本段原话**：people think it's always hyper spiritual, but I'm just a real person, you know, that has real needs that needs bills met every single day. Just like everybody every day, once a month, you pay your electric, water, gas, you got to pay your mortgage, you got to pay your car payment, you've got to pay the
+- **[03:11](https://www.youtube.com/watch?v=6R7S-YsLW88&t=191s) · 本段原话**：heart to show you about, you know, I thought about making it fun. Uh, doing I like I'm a gun enthusiast. I like uh guns and stuff and shooting guns and being out on the ranch with my dad's and showing the Longhorn cattle and riding on the gator, you know, and going fishing, uh popping fireworks, whatever. You
 
 ### 完整英文 Transcript
 
@@ -130,7 +147,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、物资、能源与供应链、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、物资、能源与供应链展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:39](https://www.youtube.com/watch?v=6R7S-YsLW88&t=279s) · 本段原话**：They started telling me you need to do the carnivore diet. You need to do the keto diet. You need to do all these different things. Mediterranean keto. So I you know the first part of January detoxing from all the sugar that I used to consume was brutal, brutal. And I thought I I'm not
+- **[04:59](https://www.youtube.com/watch?v=6R7S-YsLW88&t=299s) · 他表达判断**：going to make it through this. But the Lord kept saying, "You you don't have a choice. You've got to do this." And so I went into prayer and fasting, started doing intermittent fasting. I started interceding. And one day, the Lord spoke to me. It's about I think it was around January the 10th. And he said to me, cuz
+- **[05:54](https://www.youtube.com/watch?v=6R7S-YsLW88&t=354s) · 本段原话**：So, I started adding up how much steak and how much chicken and how much meat, uh, turkey, whatever I was eating all up and I started going, I am eating a ton of calories. That's why you're not losing any weight because your body can't burn it all off. So, and when you're as cold as has been, I haven't
+- **[06:56](https://www.youtube.com/watch?v=6R7S-YsLW88&t=416s) · 他表达判断**：Shows you your exercise, shows you how many glasses of water you need to have every day. And I think it's like 20 bucks or something. I don't remember, but it was it was is what we got it for a piece. And so, um, each person, you know, she's doing it with me to help
 
 ### 完整英文 Transcript
 
@@ -234,7 +258,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:20](https://www.youtube.com/watch?v=6R7S-YsLW88&t=500s) · 本段原话**：know, you know, with everybody, I know a lot of people struggle with keeping a diet, a lifestyle that doesn't make them um yo-yo diets that you you lose 100 pounds like I'm after and then you gain it all back. and and my goal is to have all of my weight off before October, you
+- **[08:40](https://www.youtube.com/watch?v=6R7S-YsLW88&t=520s) · 本段原话**：know that it will, you know, and and it even shows you if you maintain this calories, you do this every single day, 7 days a week, whatever, you will be at that weight by October. So, I thought it was really cool. So, I'm like, let's try it. So, I'm like I said, I'm I'm down 14
+- **[09:34](https://www.youtube.com/watch?v=6R7S-YsLW88&t=574s) · 他表达判断**：People say, "Well, you should use Psalms 91." I use both. I use Psalms 91 and and I carry a sword at the same time. I make sure my wife and my children are protected at all cost. You know, I believe in my angels, but I also believe in the Second Amendment. And most people
+- **[10:53](https://www.youtube.com/watch?v=6R7S-YsLW88&t=653s) · 本段原话**：because I'm telling you, through the spring, through the summer, going into the fall, there's going to become great suppression over freedom of speech a lot on these platforms. So, if I was to all of a sudden disappear this channel, you would know where to find me.
 
 ### 完整英文 Transcript
 
@@ -344,7 +375,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:49](https://www.youtube.com/watch?v=6R7S-YsLW88&t=769s) · 本段原话**：that there is a supernatural turn of events coming to their homes. Father, they come over and help uh with the other channel and watch how how you've blessed me. Lord, I promise to give you all the glory and all the praise for everything you've ever given me. Father, it's never me. It's always you. Father,
+- **[13:51](https://www.youtube.com/watch?v=6R7S-YsLW88&t=831s) · 本段原话**：That they have that uh that that that that hunger to come after you with all their hearts, minds, souls, and strength. And I thank you, Father, that a supernatural increase is coming over their marriages, over their children, over their schooling. A covering, no weapon formed against them would prosper. We cover a covering of blood
+- **[14:43](https://www.youtube.com/watch?v=6R7S-YsLW88&t=883s) · 本段原话**：You will not bear fruit in our lives at all. Because greater is he that is in us than he that is in the world. and a thousand shall fall on our side and 10,000 at our right hand, but it will not come nigh us. We plead the blood over every one of us, our children right now and over my
+- **[15:03](https://www.youtube.com/watch?v=6R7S-YsLW88&t=903s) · 本段原话**：wife and over our home. We thank you, Lord, for your angels that protect us and they bear up bear us up in their hands lest we dash our foot against a stone. We bind the spirit of strife out of this house. We bind the spirit of of of of of any kind of demonic spirit that
 
 ### 完整英文 Transcript
 
@@ -452,7 +490,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–18:38 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:28](https://www.youtube.com/watch?v=6R7S-YsLW88&t=988s) · 本段原话**：We thank you, Lord, that you said in 2 Timothy 1:7 that God has not given us a spirit of fear, but of power and of love and of of a wellbalanced mind. And we call mind of Christ over our minds right now in the name of Jesus that we're not tormented by satanic fear. We're not
+- **[16:47](https://www.youtube.com/watch?v=6R7S-YsLW88&t=1007s) · 本段原话**：tormented by demonic forces. We thank you, Lord, because we have that mind of Christ. For perfect love casteth out all fear. And we use fe we use the love of God to cast out that fear because my father loves me and he loves you and he doesn't want you to walk in fear. And
+- **[17:57](https://www.youtube.com/watch?v=6R7S-YsLW88&t=1077s) · 本段原话**：Okay. Well, where's my little bell? You can don't Oh, here's my pillow. Here's my subscribe button. If you could please subscribe on that on the channel. And here's my like. Give us a thumbs up today. Bing bing. Give a thumbs up. And then where's my bell? I love my little bell. Oh, and here's my
+- **[18:24](https://www.youtube.com/watch?v=6R7S-YsLW88&t=1104s) · 本段原话**：bell. Well, put a smile on your face and a song in your heart. Jesus loves you so much and we love you and we will see you next time or even on the other channel.
 
 ### 完整英文 Transcript
 

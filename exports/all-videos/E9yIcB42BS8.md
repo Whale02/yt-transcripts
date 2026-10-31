@@ -5,16 +5,29 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 79；**章节数**: 1；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
 - [01. 00:00–03:03 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-01)
 
+## 全片概述与 Key Points
+
+全片共 1 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:17](https://www.youtube.com/watch?v=E9yIcB42BS8&t=17s) · 他描述所见**：throughout Oklahoma and they were raising up these torches that looked like fire and they were bringing forth a new patriotism upon the nation and it was coming it was being birthed and it just kept spreading like fire all throughout America all throughout and I saw Trump rising up and then I saw an
+
 <a id="section-01"></a>
 ## 01. 00:00–03:03 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、特朗普与白宫。 提到的地点：Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:17](https://www.youtube.com/watch?v=E9yIcB42BS8&t=17s) · 他描述所见**：throughout Oklahoma and they were raising up these torches that looked like fire and they were bringing forth a new patriotism upon the nation and it was coming it was being birthed and it just kept spreading like fire all throughout America all throughout and I saw Trump rising up and then I saw an
+- **[00:33](https://www.youtube.com/watch?v=E9yIcB42BS8&t=33s) · 他描述所见**：attempt on his life uh that this bullet flew by his ear and it came so close to his head that it busted his drum eardrum and I saw um he was he fell to his knees during this time frame and he started worshiping the Lord he got radically born again during this time frame I'm
+- **[01:28](https://www.youtube.com/watch?v=E9yIcB42BS8&t=88s) · 他描述所见**：the Patriots coming out and voting and then and then and then there will be a great economy crash I saw they had a great economy plan a crash worse than the uh the Great Depression and the Lord warned me about this it would be a great dark time but I saw paddles coming upon
+- **[01:46](https://www.youtube.com/watch?v=E9yIcB42BS8&t=106s) · 他描述所见**：America's soil like a shocking of the soil and I saw Donald Trump praying in the office of the of the Oval Office and he was weeping before the Lord with his hands on his head like this but he was weeping and there was ministers and people I don't know if they were senators or or congress people or
 
 ### 完整英文 Transcript
 

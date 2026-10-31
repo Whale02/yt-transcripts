@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1727；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 72:00–79:59 · 战争与国际事务、祷告、敬拜与现场互动](#section-10)
 - [11. 80:00–84:44 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:23](https://www.youtube.com/watch?v=zuPJU38ic98&t=83s) · 他描述所见**：He said, "I cuz I saw a group of men. These people that are alone wolf men again. I saw lone wolf people." He says, "As the nights uh starts get it starts to get dark in America." He said, "These people are going to try to come out." He and he said, "It's been quiet all day." He
+- **[17:07](https://www.youtube.com/watch?v=zuPJU38ic98&t=1027s) · 他描述所见**：Y'all, I'm just going to pray in the spirit right now. I feel to keep praying in the spirit, okay? So you can pray with me. How many people is with me here, son? I have 20, 2,800. That's what I saw in the spirit. That's good. Okay.
+- **[32:47](https://www.youtube.com/watch?v=zuPJU38ic98&t=1967s) · 他描述所见**：I see it going into 250. I see the 250 before me right then when I said that. Are rebirthing. I saw a 250 before me.
+- **[51:46](https://www.youtube.com/watch?v=zuPJU38ic98&t=3106s) · 他描述所见**：THE THE THE I SEE I'M DOWN IN HERE I DON'T KNOW WHY I KEEP seeing father. I think Why am I seeing Cuba?
+- **[64:01](https://www.youtube.com/watch?v=zuPJU38ic98&t=3841s) · 他描述所见**：right? But what It's like they're I see lines. Like it is like what you have seen on on there and it goes Quebec You know, like British Columbia and it goes boop, boop, boop, but I see certain places are are worse than others in the economy.
+- **[80:28](https://www.youtube.com/watch?v=zuPJU38ic98&t=4828s) · 他进行祷告**：We want to do this more. We feel called to pray together cuz for me hands make light work and we appreciate every single body. Everybody on the 4th of July, I know you're with the family, but the it was on the heart of the Father to pray together as a family today and I
+
 <a id="section-01"></a>
 ## 01. 00:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:23](https://www.youtube.com/watch?v=zuPJU38ic98&t=83s) · 他描述所见**：He said, "I cuz I saw a group of men. These people that are alone wolf men again. I saw lone wolf people." He says, "As the nights uh starts get it starts to get dark in America." He said, "These people are going to try to come out." He and he said, "It's been quiet all day." He
+- **[02:30](https://www.youtube.com/watch?v=zuPJU38ic98&t=150s) · 他描述所见**：And so the Lord told me he said, "Come against this." And as we do, it's like pinpricking a membrane. I saw like a a balloon that was full of a liquid. And he said, "Pinprick those that membrane, Brandon, and let and deflate that. For this is a time right now that the enemy
+- **[04:44](https://www.youtube.com/watch?v=zuPJU38ic98&t=284s) · 他转述所听到的话**：I don't know if they're small ones. Obviously, they're just small ones or wouldn't be really big ones. But the Lord still shows me a major earthquake splitting Japan. A major one. A major earthquake. And the Lord said, "Pray over this." These for the people's safety. You know, we're going to see earthquakes in
+- **[06:01](https://www.youtube.com/watch?v=zuPJU38ic98&t=361s) · 他描述所见**：And if you follow into the word if you're following the word and you're following the peace, you're going to be in the right place at the right time at all times. So, that's what we're going to pray today. And that the people in these get-togethers, I saw like I said, this man was wearing a white shirt.
 
 ### 完整英文 Transcript
 
@@ -256,7 +274,14 @@
 <a id="section-02"></a>
 ## 02. 08:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[09:09](https://www.youtube.com/watch?v=zuPJU38ic98&t=549s) · 本段原话**：THAT TODAY WE RISE UP WITH A BACKBONE LIKE A CROWBAR TAKING AUTHORITY OVER OUR AREAS, FATHER, where we ARE AT. OVER TULSA, OVER DALLAS, over Fort Worth, over where Arlington, over Houston, WHEREVER YOU MAY BE. FATHER, WE USE OUR AUTHORITY RIGHT NOW, FATHER. WE THANK YOU, LORD, THAT NO WEAPON FORMED AGAINST US IS GOING TO PROSPER. A THOUSAND SHALL
+- **[11:23](https://www.youtube.com/watch?v=zuPJU38ic98&t=683s) · 他描述所见**：taking place. And he said, "I'VE NOT FORGOTTEN YOU." HE SAID, "I'M BRINGING BACK RET- RET- retribution to you." And he said, "I'M GOING TO RESTORE BACK WHAT THE CANKERWORM ATE." AND I TOLD YOU ALL, THERE'S GOING TO BE A SUPERNATURAL FINANCES COMING TO THE PEOPLE. AND THEN I SAW A BABY BEING born again. And I saw
+- **[11:39](https://www.youtube.com/watch?v=zuPJU38ic98&t=699s) · 他描述所见**：Israel, AND I SAW A BABY BEING BORN. AND THIS is what I believe it with this big BBB, the beautiful bill, and all that's happening on this 4th of July, these things being signed. A new industrial revolution is upon us. If you go back to the visions and how they all went about, the Lord said, "A new
+- **[12:39](https://www.youtube.com/watch?v=zuPJU38ic98&t=759s) · 本段原话**：IT'S NOT TIME TO SHRINK BACK. IT'S TIME TO TAKE THE LAND FOR JESUS. HE SAID HE'S RAISING UP DAVIDS. HE'S RAISING UP ESTHERS. HE'S RAISING UP THE NEW GENERATION. YEAH, WE'RE GOING to see some of the elders start to go home, the cycle of life. But he said, "I'm raising up new people with a new new voices that
 
 ### 完整英文 Transcript
 
@@ -491,7 +516,14 @@
 <a id="section-03"></a>
 ## 03. 16:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[17:07](https://www.youtube.com/watch?v=zuPJU38ic98&t=1027s) · 他描述所见**：Y'all, I'm just going to pray in the spirit right now. I feel to keep praying in the spirit, okay? So you can pray with me. How many people is with me here, son? I have 20, 2,800. That's what I saw in the spirit. That's good. Okay.
+- **[18:14](https://www.youtube.com/watch?v=zuPJU38ic98&t=1094s) · 本段原话**：Jesus. I thank you, Lord, that you were wounded for my transgressions. YOU WERE BRUISED FOR MY INIQUITIES. THE CHASTISEMENT OF OUR PEACE IS UPON YOU, AND WITH YOUR STRIPES I'M HEALED. AND I THANK YOU, LORD, THAT I HEAR YOUR VOICE AND A STRANGER'S VOICE I'LL not follow.
+- **[19:46](https://www.youtube.com/watch?v=zuPJU38ic98&t=1186s) · 本段原话**：Father, we thank you, Lord. I thank you, Lord. I apply the blood all around this house. I apply the blood around my children. I apply the blood around MY WIFE. I APPLY THE BLOOD OVER OUR FINANCE. WE APPLY THE BLOOD. WE APPLY THE BLOOD. SATAN, YOU CAN'T CROSS THE BLOODLINE CONCERNING OUR NEIGHBORHOODS, CONCERNING OUR
+- **[23:03](https://www.youtube.com/watch?v=zuPJU38ic98&t=1383s) · 他描述所见**：I SEE I SEE THE STATUE OF LIBERTY. IN THE distance and I added I know where I'm at.
 
 ### 完整英文 Transcript
 
@@ -611,7 +643,14 @@
 <a id="section-04"></a>
 ## 04. 24:00–31:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:16](https://www.youtube.com/watch?v=zuPJU38ic98&t=1516s) · 他描述所见**：SEATTLE THEY'RE BIG BOULDERS. And I see these cities right now and we're praying over the city. DENVER SEATTLE PHILADELPHIA CHICAGO PHILADELPHIA PHILADELPHIA MORE CHICAGO MATTER.
+- **[26:16](https://www.youtube.com/watch?v=zuPJU38ic98&t=1576s) · 他描述所见**：REJOICE AND AGAIN I SAY REJOICE. AND REJOICE IN THE LORD AND AGAIN I SAY REJOICE. WE REJOICE. THESE THINGS ARE I SEE Dallas right now. I see Dallas again.
+- **[27:12](https://www.youtube.com/watch?v=zuPJU38ic98&t=1632s) · 本段原话**：OVER EVERY CHILD OVER THE CHILDREN OVER THE CHILDREN OVER THE CHILDREN AND I OVER THE CHILDREN AND I MY I TELL AND I MY OH THE HE'S TALKING ABOUT THE SEX TRAFFICKING RIGHT NOW. The trafficking THE TRAFFIC AND ALL AND ALL MY AND ALL MY AND CAN WE CALL IN AND BRING DOUBLE DOSE AND BRING DOUBLE
+- **[30:17](https://www.youtube.com/watch?v=zuPJU38ic98&t=1817s) · 本段原话**：YOU'RE NOT GOING TO TAKE OUR LAND. GET THEIR ATTENTION, LORD. GET THEIR ATTENTION, LORD. A GREAT SHAKING TO AWAKEN. GET THEIR ATTENTION, LORD. THAT A REBIRTHING OF AMERICA. A GREAT REVIVAL ONCE AGAIN. THAT YOU WOULD VISIT THIS LAND ONCE AGAIN, LORD.
 
 ### 完整英文 Transcript
 
@@ -740,7 +779,14 @@
 <a id="section-05"></a>
 ## 05. 32:00–39:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:47](https://www.youtube.com/watch?v=zuPJU38ic98&t=1967s) · 他描述所见**：I see it going into 250. I see the 250 before me right then when I said that. Are rebirthing. I saw a 250 before me.
+- **[35:15](https://www.youtube.com/watch?v=zuPJU38ic98&t=2115s) · 本段原话**：I'm telling you ladies and gentlemen, we're running out of time. You may be watching this broadcast and you say, "What is that man doing out there? This is all so weird." You're laughing at it, think it's crazy.
+- **[37:35](https://www.youtube.com/watch?v=zuPJU38ic98&t=2255s) · 本段原话**：He's waiting at the door. If you're here and you've never accepted Jesus Christ as your Lord and personal savior, you're saying, "This guy is freaking me out." I want to lead you in the sinner's prayer right now.
+- **[39:44](https://www.youtube.com/watch?v=zuPJU38ic98&t=2384s) · 本段原话**：You go into some lukewarm dead church, some pastor preaching some kind of sermon that he don't have no idea what he's talking about, and you go home lukewarm after you went there instead of getting your fan flamed and say, "Hey, I can go out and conquer conquer and do do life today."
 
 ### 完整英文 Transcript
 
@@ -955,7 +1001,14 @@
 <a id="section-06"></a>
 ## 06. 40:00–47:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:12](https://www.youtube.com/watch?v=zuPJU38ic98&t=2412s) · 本段原话**：Accept Jesus Christ today. Accept Jesus Christ today. I want you to repeat this prayer after me. Say Jesus today it's an Independence Day. Today's a new birthing for you today. America's birth happened today and today on 4th of July, America's 4th of July, this is our Independence Day. This is your day of
+- **[43:13](https://www.youtube.com/watch?v=zuPJU38ic98&t=2593s) · 本段原话**：And start sharing the gospel with other people. Tell everybody else that that you know, say, "I've been changed from the inside out." And the more you you read this word, you're going to get changed from the inside out. But you got to get in the word. You can't You can't be, you know,
+- **[45:34](https://www.youtube.com/watch?v=zuPJU38ic98&t=2734s) · 本段原话**：This is the Christian the Christian walk is fun. Yes. We we make it all religions and bound us bind us all up and we think, "Well, how can we get there?" If if cuz nobody's teaching us. We everything's so condemnation and beating you down and that's not what we're about here.
+- **[47:39](https://www.youtube.com/watch?v=zuPJU38ic98&t=2859s) · 他描述所见**：I see the ocean. And I see one of those red buoys in the middle of the ocean bobbing up and down right then. So, I'm just keeping you updated what I just saw. I see the ocean, and I see a buoy moving up and down in the ocean.
 
 ### 完整英文 Transcript
 
@@ -1180,7 +1233,14 @@
 <a id="section-07"></a>
 ## 07. 48:00–55:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[51:46](https://www.youtube.com/watch?v=zuPJU38ic98&t=3106s) · 他描述所见**：THE THE THE I SEE I'M DOWN IN HERE I DON'T KNOW WHY I KEEP seeing father. I think Why am I seeing Cuba?
+- **[54:10](https://www.youtube.com/watch?v=zuPJU38ic98&t=3250s) · 他描述所见**：A GREAT SHAKENING IS COMING TO the Catholic Church. A great shaking is coming to the Catholic Church. I'm seeing I'm seeing the Pope again. I see the Pope. He's highlighted to me again.
+- **[55:19](https://www.youtube.com/watch?v=zuPJU38ic98&t=3319s) · 他描述所见**：And then I see a darkness and I see little little lights that are on in there, but there's great darkness over this area.
+- **[55:47](https://www.youtube.com/watch?v=zuPJU38ic98&t=3347s) · 他描述所见**：And I see old structures. Old like old the old structures. The old they're made out of stone.
 
 ### 完整英文 Transcript
 
@@ -1254,7 +1314,14 @@
 <a id="section-08"></a>
 ## 08. 56:00–63:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、特朗普与白宫。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[57:46](https://www.youtube.com/watch?v=zuPJU38ic98&t=3466s) · 他描述所见**：AND IT'S GOING CLEAR UP IN the in the Canada. I'm seeing Canada. I see their their prime minister man, that that the guy the new guy. I see his face. I see his face. I don't know what this is about right there, but it's connected to to to to Europe heavily. But then they
+- **[59:46](https://www.youtube.com/watch?v=zuPJU38ic98&t=3586s) · 他描述所见**：War. I see I don't get by that. In the minute you say I'm going to go I'm a Winston in the next day. I went into it and I'm seeing Kim Kim Jong-un. He's on the sidelines over here. He's on like you say you see on the bench. He's on a He's over here. He's over here in the shadows
+- **[61:59](https://www.youtube.com/watch?v=zuPJU38ic98&t=3719s) · 他描述所见**：It Yeah. Yeah. Yeah. They're over here, and he's over here, but he still has influence because they want him in the mixed, but he's trying to be over here out of the mix, and there and I see Canada, I see these men in England, I see them in their their their devising a
+- **[63:54](https://www.youtube.com/watch?v=zuPJU38ic98&t=3834s) · 他描述所见**：I'm going and I see each of them. I don't know I don't understand that. They don't They're They're all one country,
 
 ### 完整英文 Transcript
 
@@ -1378,7 +1445,14 @@
 <a id="section-09"></a>
 ## 09. 64:00–71:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、经济、银行与市场。 提到的地点：Canada、Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[64:01](https://www.youtube.com/watch?v=zuPJU38ic98&t=3841s) · 他描述所见**：right? But what It's like they're I see lines. Like it is like what you have seen on on there and it goes Quebec You know, like British Columbia and it goes boop, boop, boop, but I see certain places are are worse than others in the economy.
+- **[68:17](https://www.youtube.com/watch?v=zuPJU38ic98&t=4097s) · 他描述所见**：Miss you BALL. I DID IT. OKAY, I'M BACK IN CANADA AGAIN. I see him. I see him. No, they don't STOP HE'S IN DESPERATE. This man is desperate. This man is desperate. I SEE THE DESPERATION ON his face. He's sweating. He's sweating. This man is sweating. Can you tell me this man's name? This man He's gray-headed man.
+- **[69:38](https://www.youtube.com/watch?v=zuPJU38ic98&t=4178s) · 他描述所见**：Lululele lesi. Lululele lesi. And he's trying he's trying to go he's trying to build alliances with Europe. I see alliances with Europe. No be that bad day. E bo de del bo de de BA DE. BA SO TO BA TE. I SEE MACRON. I see Macron. I see I see other other people there's a
+- **[70:54](https://www.youtube.com/watch?v=zuPJU38ic98&t=4254s) · 他描述所见**：Just business. Huh? That's what he's doing in the vision. I see him That's what Donald Trump's doing right then.
 
 ### 完整英文 Transcript
 
@@ -1537,7 +1611,14 @@
 <a id="section-10"></a>
 ## 10. 72:00–79:59 · 战争与国际事务、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：战争与国际事务、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Europe、China、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[73:43](https://www.youtube.com/watch?v=zuPJU38ic98&t=4423s) · 他描述所见**：And he's he's tied to the strings. Yes, sir. Yes, sir. He moves his hands. Yes, yes, doing like this, moving down. I see him. Moving his hands. He's moving his hands. And he's in over this area and he's doing exactly what he's been told to do.
+- **[75:19](https://www.youtube.com/watch?v=zuPJU38ic98&t=4519s) · 他描述所见**：And I'm seeing women with I see brown hair in a ponytail. People are passing away as they're running away.
+- **[77:19](https://www.youtube.com/watch?v=zuPJU38ic98&t=4639s) · 他描述所见**：What is the fight for? What to not come to the table for peace, to come to the table to to to dis- to to dis- diffuse this. And they kicked they don't want Trump in. I see Trump over here and he's he's trying to have an influence in it, but they're trying to
+- **[79:24](https://www.youtube.com/watch?v=zuPJU38ic98&t=4764s) · 他描述所见**：Uh because that right whenever I started see that I see Taiwan over there and I see China and Taiwan.
 
 ### 完整英文 Transcript
 
@@ -1723,7 +1804,14 @@
 <a id="section-11"></a>
 ## 11. 80:00–84:44 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[80:28](https://www.youtube.com/watch?v=zuPJU38ic98&t=4828s) · 他进行祷告**：We want to do this more. We feel called to pray together cuz for me hands make light work and we appreciate every single body. Everybody on the 4th of July, I know you're with the family, but the it was on the heart of the Father to pray together as a family today and I
+- **[81:37](https://www.youtube.com/watch?v=zuPJU38ic98&t=4897s) · 本段原话**：We're We're victorious. We're believing believers that are victorious. You're never going to get fear, but the bobbing of this is a major earthquake fixing to take place in Japan. That was about That was what I was going to tell you all I didn't tell you. But that bobbing of that that thing in the sea,
+- **[82:07](https://www.youtube.com/watch?v=zuPJU38ic98&t=4927s) · 他描述所见**：Tsunami is what the Lord was warning us about that tonight. Was major tsunami. I saw major waves and that buoy thing was riding those waves. And the Lord said there's a disruption of great earthquake in that water.
+- **[83:40](https://www.youtube.com/watch?v=zuPJU38ic98&t=5020s) · 他描述所见**：Mhm. Praying for the trafficking. I saw kids being trafficked. And I was over Mexico again still. There's trafficking still being going on and we come against the spirit. These These These These people are sick messing with these little kids.
 
 ### 完整英文 Transcript
 

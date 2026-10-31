@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1430；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 63:00–69:59 · 教会、复兴与信仰、预言、梦境与异象](#section-10)
 - [11. 70:00–73:26 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:58](https://www.youtube.com/watch?v=uwQAB6rphJA&t=58s) · 他表达判断**：like an umbrella underneath everybody. It always said, you know how they say trash rolls downhill. That's what happens. And I believe by us bringing in Trump, it gave us a window of opportunity. The Lord told me from October when we started praying in October that the prayers of the people uh delayed things. It gave us a window.
+- **[14:02](https://www.youtube.com/watch?v=uwQAB6rphJA&t=842s) · 他转述所听到的话**：water." It goes deeper looking for water. Do not become complacent in these times ahead. The Lord told me, he spoke that to me directly. He said, "Do not become complacent when I take you to certain levels with finances with what I've told you. Do not become complacent with it."
+- **[28:45](https://www.youtube.com/watch?v=uwQAB6rphJA&t=1725s) · 他表达判断**：Abraham, another prayer example for all the people who' say, "Well, prayer doesn't change things." Abraham said, "If there be 50 righteous Lord, would you spare Sodom and Gomorrah?" God was willing to do it for 50. He went all the way down, kept going back and forth because Abraham was like, "You know, I probably should push this
+- **[42:15](https://www.youtube.com/watch?v=uwQAB6rphJA&t=2535s) · 本段原话**：a uprising even in Canada you will see even in Canada an uprising an uprising because of the economy because of the government you'll see people that are fed up people that are fed up for the decisions that will been made it will be obvious An uprising. An
+- **[56:32](https://www.youtube.com/watch?v=uwQAB6rphJA&t=3392s) · 他描述所见**：I see it all in the Catholic church. A fresh fire, a fresh in the youth. And the youth in the youth breaking away from old traditions. Breaking away from old traditions. Bringing in new things, new things, new things. The glory taking out all all of it. This is this is like a a a well that is all
+- **[71:18](https://www.youtube.com/watch?v=uwQAB6rphJA&t=4278s) · 他描述所见**：happening right now. Great shakeouts. But you better be dead. Glory to God. Braden, I see it. God has a plan and it's much bigger than what you all realize. When the children of Israel left Egypt, they left with the gold and the silver. Remember that. They left with the gold and the
+
 <a id="section-01"></a>
 ## 01. 00:00–06:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:58](https://www.youtube.com/watch?v=uwQAB6rphJA&t=58s) · 他表达判断**：like an umbrella underneath everybody. It always said, you know how they say trash rolls downhill. That's what happens. And I believe by us bringing in Trump, it gave us a window of opportunity. The Lord told me from October when we started praying in October that the prayers of the people uh delayed things. It gave us a window.
+- **[02:12](https://www.youtube.com/watch?v=uwQAB6rphJA&t=132s) · 他表达判断**：have another they the globals have another plan and that is a one world system. And everybody's sending me this the emails also to Diana about uh this new guy calling himself the Antichrist, the Madi. They're like, "Brandon, is this who you saw?" I believe it's just like what Jesus said. There'll be many false
+- **[03:22](https://www.youtube.com/watch?v=uwQAB6rphJA&t=202s) · 他表达判断**：see the economy and all the stuff going on within the last a week prior with Trump and all the stuff going on at the beginning of April with the tariff wars on I believe that was the third when all that went into play. And so, bottom line, this is where where I'm at with
+- **[06:10](https://www.youtube.com/watch?v=uwQAB6rphJA&t=370s) · 他描述所见**：prayed, it parted and I saw it like it dissipated like like you know like how you know Moses split the Red Sea in the movie The Ten Commandments. It goes and it gave him an opportunity to walk across I'm saying God is giving us a window.
 
 ### 完整英文 Transcript
 
@@ -208,7 +226,14 @@
 <a id="section-02"></a>
 ## 02. 07:00–13:59 · 经济、银行与市场、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：经济、银行与市场、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕经济、银行与市场、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:14](https://www.youtube.com/watch?v=uwQAB6rphJA&t=494s) · 本段原话**：was? You've got 36 trillion in the hole. The world's economy is shaking around you. From China to Japan, all the stock markets reflect everything that's going on. And everybody's like, "We should jump ship and go with the bricks. We should because they're trying to come up with a solution to the madness." And
+- **[09:44](https://www.youtube.com/watch?v=uwQAB6rphJA&t=584s) · 他表达判断**：I believe it's just hearing hearing his voice. Just like I warned you that a rocket ship was going to take off in January and that we would see a great rocket ship take off. We saw Bitcoin hit all-time highs in January and XRP went from 40ome cents to like $3 and something. That's a miracle in itself.
+- **[11:34](https://www.youtube.com/watch?v=uwQAB6rphJA&t=694s) · 本段原话**：with the opportunity having Trump behind the wheel. What will happen in this first year of his presidency going into the fall? I'm telling you, I've seen into the fall and I'm telling you, the Lord spoke to me again and he said, "Days of great fun are upon you." And the people are coming in hot, folks.
+- **[13:39](https://www.youtube.com/watch?v=uwQAB6rphJA&t=819s) · 他转述所听到的话**：the Braxton Hicks. We're seeing false labor pains. We're seeing those things with the economy. It's happening right before our face. What are you doing to prepare? And the Lord said, "In seasons of dryness," he brought this up. He said, "The taproot goes even deeper looking for
 
 ### 完整英文 Transcript
 
@@ -397,7 +422,14 @@
 <a id="section-03"></a>
 ## 03. 14:00–20:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[14:02](https://www.youtube.com/watch?v=uwQAB6rphJA&t=842s) · 他转述所听到的话**：water." It goes deeper looking for water. Do not become complacent in these times ahead. The Lord told me, he spoke that to me directly. He said, "Do not become complacent when I take you to certain levels with finances with what I've told you. Do not become complacent with it."
+- **[16:07](https://www.youtube.com/watch?v=uwQAB6rphJA&t=967s) · 本段原话**：I got You may have the elder elderly people with the gray hair. And they come in there and they're the they're the people who are, you know, you don't have the young people until they've had a bad diagnosis, they need a bill paid, or they they're seeking God because they're desperate. And that's what he told me.
+- **[17:24](https://www.youtube.com/watch?v=uwQAB6rphJA&t=1044s) · 本段原话**：when you're in a place of desperation, I'm talking about if I don't have this next $100 to pay my electric bill next week, they're going to cut my power off.
+- **[18:54](https://www.youtube.com/watch?v=uwQAB6rphJA&t=1134s) · 他转述所听到的话**：your victory. As you're as you see your victory, I heard this right then. Don't become the lepers. There was 10 that got healed and one came and nine all left. Nine lepers didn't give Jesus the praise for the miracle that they received. Don't be like them is what I'm trying to say. Don't become complacent
 
 ### 完整英文 Transcript
 
@@ -574,7 +606,14 @@
 <a id="section-04"></a>
 ## 04. 21:00–27:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[21:01](https://www.youtube.com/watch?v=uwQAB6rphJA&t=1261s) · 他描述所见**：you is what I'm trying to tell y'all. I saw green grass. I saw daisies. I saw a a a fresh stream of water. I saw the blue sky and the black coming up above.
+- **[23:48](https://www.youtube.com/watch?v=uwQAB6rphJA&t=1428s) · 他描述所见**：You're impatient with the ups and downs, thinking, "Well, I saw it all coming. Oh my god, I'm cashing out. I never said to do anything. I told you to hear the voice of the Lord for yourself. Listen and listen again. You need to be patient and hear the voice of God. If you're not hearing
+- **[25:31](https://www.youtube.com/watch?v=uwQAB6rphJA&t=1531s) · 本段原话**：many trillions of dollars that whenever fell last week or two weeks ago, people lost trillions, billions. People lost a lot of money. And if they would have cashed right then, they'd be broke and they'd be bankrupt. But then a couple days later, it shot up all these three days in a row and they're like, "Oh, I'm
+- **[26:54](https://www.youtube.com/watch?v=uwQAB6rphJA&t=1614s) · 本段原话**：Type one if you think this thing the sky is falling chicken little and everything's going to all crash. There's no hope. 1930s is coming tomorrow within the next year. Whatever. Type two. If you say the thing's going to go all up and there's never going to be a crash, America's going to be great again, we're
 
 ### 完整英文 Transcript
 
@@ -761,7 +800,14 @@
 <a id="section-05"></a>
 ## 05. 28:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:45](https://www.youtube.com/watch?v=uwQAB6rphJA&t=1725s) · 他表达判断**：Abraham, another prayer example for all the people who' say, "Well, prayer doesn't change things." Abraham said, "If there be 50 righteous Lord, would you spare Sodom and Gomorrah?" God was willing to do it for 50. He went all the way down, kept going back and forth because Abraham was like, "You know, I probably should push this
+- **[29:35](https://www.youtube.com/watch?v=uwQAB6rphJA&t=1775s) · 他进行祷告**：How much more if we humble ourselves and pray and turn from our wicked ways, Lord, as a remnant, will you give us a window of opportunity for wealth transfer for to get the righteous in? He said, Brandon, because the prayers of the saints in October, I'm giving you a window. That's intercession, folks.
+- **[30:38](https://www.youtube.com/watch?v=uwQAB6rphJA&t=1838s) · 他描述所见**：So, we're going to go we're going to go right to prayer. I have the prayer already pre-recorded from this. So, go into this prayer. It's anointed. I'm telling you, I saw things in the spirit of what's coming for Canada and and and all in China, a window of opportunity.
+- **[33:41](https://www.youtube.com/watch?v=uwQAB6rphJA&t=2021s) · 他描述所见**：that you've done for me. We stand at the door, Father, and we're knocking. Send us, Lord. That's very interesting. I just saw a vision of a of a major castle door, and it was designed with all kinds of detail in this stone. And there was lights at the top of it that were carved out at the
 
 ### 完整英文 Transcript
 
@@ -941,7 +987,14 @@
 <a id="section-06"></a>
 ## 06. 35:00–41:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、经济、银行与市场。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:01](https://www.youtube.com/watch?v=uwQAB6rphJA&t=2161s) · 本段原话**：endures forever. For the Lord, he is good and his mercy endures forever. And we give you the praise and the glory for all that you've done and all that you're going to do. And we thank you, Lord. We thank you, Lord. For the Lord, he is good and his mercy endures forever. For the Lord, he is
+- **[38:49](https://www.youtube.com/watch?v=uwQAB6rphJA&t=2329s) · 他描述所见**：Oho. I see it like a water coming in like a flow that's deeper. It's deeper and it comes deeper and it comes deeper and as it comes like a mighty wave, a mighty rushing wind, like a it it will go up higher and higher like like the tide. Like the tide like the
+- **[40:06](https://www.youtube.com/watch?v=uwQAB6rphJA&t=2406s) · 他描述所见**：That's interesting. I just saw a stone dragon. I saw a stone dragon.
+- **[41:28](https://www.youtube.com/watch?v=uwQAB6rphJA&t=2488s) · 他描述所见**：thing out of pride ping this man he he's full pride and as the pride sets in with the ter of wars it is my my my hand that will move the I see it like a depressed over China. A depression and a depression causes the iron curtain to be lifted. For in this a
 
 ### 完整英文 Transcript
 
@@ -1037,7 +1090,14 @@
 <a id="section-07"></a>
 ## 07. 42:00–48:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、祷告、敬拜与现场互动。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:15](https://www.youtube.com/watch?v=uwQAB6rphJA&t=2535s) · 本段原话**：a uprising even in Canada you will see even in Canada an uprising an uprising because of the economy because of the government you'll see people that are fed up people that are fed up for the decisions that will been made it will be obvious An uprising. An
+- **[45:36](https://www.youtube.com/watch?v=uwQAB6rphJA&t=2736s) · 他描述所见**：I see British Columbia. I see you like a highway going through there. Like a highway making it a way for all the way up to Alaska. All red. I see I see red redo. I see. I see the people crying. I see the
+- **[46:09](https://www.youtube.com/watch?v=uwQAB6rphJA&t=2769s) · 他描述所见**：people crying. I see the people crying all across the land. I see the people crying. But they're not crying tears.
+- **[48:08](https://www.youtube.com/watch?v=uwQAB6rphJA&t=2888s) · 本段原话**：birthing pains. Great birthing pains. Great birthing pains. For the very for the very earth itself will start to shake. For the very earth itself will start to shake. Birthing pains. Great earthquake ver great great great great great great great you'll see you see whatever they have what when whatever uh uh contractions contractions I hear
 
 ### 完整英文 Transcript
 
@@ -1130,7 +1190,14 @@
 <a id="section-08"></a>
 ## 08. 49:00–55:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、地震、风暴与灾害。 提到的地点：China、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[49:35](https://www.youtube.com/watch?v=uwQAB6rphJA&t=2975s) · 他描述所见**：Oh, I see Alaska. I see Alaska. I see. Oh, and a great earthquake in Seattle.
+- **[51:36](https://www.youtube.com/watch?v=uwQAB6rphJA&t=3096s) · 他描述所见**：You'll see an uprising in China. You'll see an uprising in [Music] Asia. I even see in Australia an uprising. I see an uprising in in Australia right now. I see an up in Queensland. I see a I see a Q.
+- **[52:35](https://www.youtube.com/watch?v=uwQAB6rphJA&t=3155s) · 他描述所见**：Little fires in Queensland. Little fires in Queensland. Yep. It's It's Queensland. I see Queensland and it's on the tip. It's on It's in the water. And I see uprisings, but I see little fires. I see fires breaking out all in Queen the Queensland area. There's fires. China's getting desperate.
+- **[53:06](https://www.youtube.com/watch?v=uwQAB6rphJA&t=3186s) · 他描述所见**：China's getting desperate. China's getting desperate out of pride. Out of pride. It's the upper portion towards Russia. It's this upper portion towards Russia. I keep seeing a focus up here. I see an upper portion towards Russia up
 
 ### 完整英文 Transcript
 
@@ -1214,7 +1281,14 @@
 <a id="section-09"></a>
 ## 09. 56:00–62:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[56:32](https://www.youtube.com/watch?v=uwQAB6rphJA&t=3392s) · 他描述所见**：I see it all in the Catholic church. A fresh fire, a fresh in the youth. And the youth in the youth breaking away from old traditions. Breaking away from old traditions. Bringing in new things, new things, new things. The glory taking out all all of it. This is this is like a a a well that is all
+- **[60:20](https://www.youtube.com/watch?v=uwQAB6rphJA&t=3620s) · 他描述所见**：He's cleaning out the the the stone. He's cleaning out the the debris out of the well. There's a great well. I see a well. And in this well, it's been seaming it off. It's been seaming it off. No one's getting out of that well.
+- **[61:19](https://www.youtube.com/watch?v=uwQAB6rphJA&t=3679s) · 本段原话**：that they're going to go they're going to go for they've been standing in the way of my move today. Wo unto you that try to to hold me back and won't let me move through. They'll be going going going.
+- **[62:38](https://www.youtube.com/watch?v=uwQAB6rphJA&t=3758s) · 本段原话**：areas he's been restrained. He's been restrained and he's not allowed to flow in China and he and there's going to be an uprising uprising Canada uprising these places where they've always said this is it's government trying to bully government trying to bully but you're going to see an uprising with the people in the days
 
 ### 完整英文 Transcript
 
@@ -1352,7 +1426,14 @@
 <a id="section-10"></a>
 ## 10. 63:00–69:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[63:26](https://www.youtube.com/watch?v=uwQAB6rphJA&t=3806s) · 他描述所见**：neckness of of this, you'll see a liberation come. I see a a window. Like if you take a curtain up, I like you pull curtain back like this and you're able to look through it for a little bit. That window was open for a a a season. It looked like you're splitting open that curtain
+- **[64:58](https://www.youtube.com/watch?v=uwQAB6rphJA&t=3898s) · 本段原话**：You'll Remember that things are going to look totally different. Even by this time next year, you'll start to see things and and the way things are on this earth right now. You're it's going to look so much different even in 12 months from now. That's how much ch it's going to change so quickly, so rapidly.
+- **[66:01](https://www.youtube.com/watch?v=uwQAB6rphJA&t=3961s) · 他描述所见**：a metamorphosis. That's a very, very different word. Huh? Metamorphosis. I see Satan. He's over here, but God's over above him like this laughing. He sits in the throne room and laughs. He laughs at the devil and his plans. He laughs in the devil at his plans. I see the Lord high and lifted up
+- **[68:24](https://www.youtube.com/watch?v=uwQAB6rphJA&t=4104s) · 他描述所见**：Get your house in order. It's later. It's on down. I see it. It's down here. Focus on today. But stop thinking that all the sky's falling today. This is time of fun and it's just begun. People when they're hearing a word think it has to happen tomorrow. When you're for when you're seeing over, you're seeing into
 
 ### 完整英文 Transcript
 
@@ -1487,7 +1568,14 @@
 <a id="section-11"></a>
 ## 11. 70:00–73:26 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[71:18](https://www.youtube.com/watch?v=uwQAB6rphJA&t=4278s) · 他描述所见**：happening right now. Great shakeouts. But you better be dead. Glory to God. Braden, I see it. God has a plan and it's much bigger than what you all realize. When the children of Israel left Egypt, they left with the gold and the silver. Remember that. They left with the gold and the
+- **[71:50](https://www.youtube.com/watch?v=uwQAB6rphJA&t=4310s) · 本段原话**：silver. And they were all there was no feeble one among them. The glory of the Lord's coming on and his bride and there will be no feeble among no feeble ones among us. Remember this. I've seen that there'll be there'll be church services that no sick people will be in there.
+- **[72:50](https://www.youtube.com/watch?v=uwQAB6rphJA&t=4370s) · 本段原话**：He chose us for such a time as this, ladies and gentlemen. Well, if you're here for the very first time, we appreciate you being here if you're still watching. I know that's different for a lot of you that don't know nothing about it, but that's all right. You just keep sticking around and we'll show you the way. Uh,
+- **[73:08](https://www.youtube.com/watch?v=uwQAB6rphJA&t=4388s) · 本段原话**：subscribe if you haven't subscribed. Click the notification bell, like the video, comment something down below, and we will see you again soon. Remember, put a smile on your face and a song in your heart. Jesus loves you so much, and we love you. God bless you all, and we will see you again soon. Bye-bye.
 
 ### 完整英文 Transcript
 

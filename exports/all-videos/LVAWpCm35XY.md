@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 658；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
 - [07. 24:00–26:57 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:36](https://www.youtube.com/watch?v=LVAWpCm35XY&t=36s) · 本段原话**：lost throughout the whole world people uh commenting in the comment section it helps us and I just want to tell you thank you so here we are um you know at the end of O October and I told you all to be watching Gavin and he decides to make a trip to China and for 5 days to
+- **[04:15](https://www.youtube.com/watch?v=LVAWpCm35XY&t=255s) · 他表达判断**：because it's hot outside and you know I had my pregnant wife in the car and my two children and um at the time my my son who's doing the filming right now and I had my oldest daughter who had special needs and so I was just like oh no I said I believe we just ran out of
+- **[08:22](https://www.youtube.com/watch?v=LVAWpCm35XY&t=502s) · 本段原话**：special needs and my and my my oldest who's my my my young my middle child he just started scream we all screaming cuz he could he could sense that the car was moving could you son yeah do you remember it it was like it it CH it change your life of course and
+- **[16:14](https://www.youtube.com/watch?v=LVAWpCm35XY&t=974s) · 本段原话**：heal them and people get delivered people get set free and I thought man this is my little Ministry I started having a little people try to volunteer they wanted to hang around they start volunteering hey can we hang out with you we want to hear more about Lord and stuff and i' go in there I teach him how
+- **[20:23](https://www.youtube.com/watch?v=LVAWpCm35XY&t=1223s) · 本段原话**：fiber of my being even whenever you're going and trying to get a coffee and you're and you're in the in there and you get up to the line and they see you and and they could be liberals and they're all look like they're all going to hell you keep shining the light of
+- **[24:00](https://www.youtube.com/watch?v=LVAWpCm35XY&t=1440s) · 本段原话**：sickness and disease off of you in the name of Jesus I command you to be healed and whole and well in the name of Jesus from the top of your head to the souls of your feet you are delivered from that that that infirmity on your body whether it be kidney disease or or cancer or
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、物资、能源与供应链、教会、复兴与信仰。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、物资、能源与供应链展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:36](https://www.youtube.com/watch?v=LVAWpCm35XY&t=36s) · 本段原话**：lost throughout the whole world people uh commenting in the comment section it helps us and I just want to tell you thank you so here we are um you know at the end of O October and I told you all to be watching Gavin and he decides to make a trip to China and for 5 days to
+- **[00:57](https://www.youtube.com/watch?v=LVAWpCm35XY&t=57s) · 他表达判断**：try to do some kind of Ambassador than for the green New Deal basically bottom line is is he's campaigning I'm telling you I believe the man's going to start to announce his he's going to be running for president uh vice president or whatever for the Democratic party I just believe there's something to this I've
+- **[02:03](https://www.youtube.com/watch?v=LVAWpCm35XY&t=123s) · 本段原话**：comes by hearing and hearing by the word of God and he said Son you there's a lot of times he goes you've heard sermons over and over and over again some of my favorite ones and he said you still don't have the full manifestation on it he said it's going to be repetitive when
+- **[03:21](https://www.youtube.com/watch?v=LVAWpCm35XY&t=201s) · 本段原话**：the rugs there I clean the carpets the floors and everything and and it was a Saturday afternoon it was we're just getting off work it was sat it was in the middle of the summer really really hot outside uh and um my wife was pregnant at the time with our daughter and um so we're driving home in my truck
 
 ### 完整英文 Transcript
 
@@ -125,7 +143,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 物资、能源与供应链、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:15](https://www.youtube.com/watch?v=LVAWpCm35XY&t=255s) · 他表达判断**：because it's hot outside and you know I had my pregnant wife in the car and my two children and um at the time my my son who's doing the filming right now and I had my oldest daughter who had special needs and so I was just like oh no I said I believe we just ran out of
+- **[05:39](https://www.youtube.com/watch?v=LVAWpCm35XY&t=339s) · 他描述所见**：man we just got rear ended but it wasn't like it wasn't violent it was just a a nudge and all of a sudden I see this massive Angel With These Wings out H mongus spread out humongous spread out over like this and he smiles real big at me and I I screamed cuz it startled me
+- **[06:02](https://www.youtube.com/watch?v=LVAWpCm35XY&t=362s) · 他描述所见**：and he had this big chunky cheeks you know you know he was like kind of similar like mine but but it was he was full of joy his his whole face was radiating from the glory of God and I'm not saying I see it in the natural like you can touch it but I'm seeing it in
+- **[06:42](https://www.youtube.com/watch?v=LVAWpCm35XY&t=402s) · 本段原话**：entered into the highway this is all Supernatural I enter into the highway and I start I'm able to get on the highway we're going about 65 miles an hour going almost then we start going to 70 okay with the engine off on this vehicle the truck and we start picking up speed picking up and speed picking up
 
 ### 完整英文 Transcript
 
@@ -227,7 +252,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、物资、能源与供应链、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、物资、能源与供应链展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:22](https://www.youtube.com/watch?v=LVAWpCm35XY&t=502s) · 本段原话**：special needs and my and my my oldest who's my my my young my middle child he just started scream we all screaming cuz he could he could sense that the car was moving could you son yeah do you remember it it was like it it CH it change your life of course and
+- **[09:29](https://www.youtube.com/watch?v=LVAWpCm35XY&t=569s) · 他表达判断**：everything but God came through and he'll do the same for you I believe it's time to believe for the miraculous in your life nothing's too big for God and nothing is too small God loves you and he wants all he said all things are possible to him that will believe there's so many times that I can
+- **[11:21](https://www.youtube.com/watch?v=LVAWpCm35XY&t=681s) · 本段原话**：grandmother's yard it's it doesn't what your flesh want to do in the middle of the summer but I grab it and I get a hold of that lawn mower and I ride around and I her whole whole almost an acre of land and she's 88 88 years old and you know it's an act of love you do
+- **[11:38](https://www.youtube.com/watch?v=LVAWpCm35XY&t=698s) · 本段原话**：that sometimes twice a week whenever the Rainy season's coming and you keep pushing you keep pushing and I've done that for 12 years now you keep going and going and going and you do it and I do it for free I never charge won't let her pay me I do it because I love her and
 
 ### 完整英文 Transcript
 
@@ -336,7 +368,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:02](https://www.youtube.com/watch?v=LVAWpCm35XY&t=722s) · 本段原话**：my leaves in the fall from the trees and I say yes grandma I'll be over there and she give me a PE a pie or something or a cake or cookies or something you know it's just love love does that and I'll realize when I'm sacrificing my time and it and like I said your flesh don't want
+- **[13:47](https://www.youtube.com/watch?v=LVAWpCm35XY&t=827s) · 本段原话**：going on 15 years between a big Ministry down in Texas and then the one I I worked up in Oklahoma I I I cleaned I was a janitor every single day I told y all this I clean and clean and clean and it was times my flesh is screaming I do not want to do this anymore and the Lord
+- **[14:56](https://www.youtube.com/watch?v=LVAWpCm35XY&t=896s) · 本段原话**：to start being willing in your heart to and being obedient to what I've asked you to do I thought I'm going to be here the rest of my life cuz there is no way I can be willing and obedient and do this at the same time year and years and years go by and I'm finally I started
+- **[15:31](https://www.youtube.com/watch?v=LVAWpCm35XY&t=931s) · 本段原话**：I'm going to do with all my heart to him and I'm not going to complain in my heart no more and you know what it was it was it was a dying to self it was continually practicing his presence continually getting on the Potter's will and saying father not my will but yours
 
 ### 完整英文 Transcript
 
@@ -445,7 +484,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:14](https://www.youtube.com/watch?v=LVAWpCm35XY&t=974s) · 本段原话**：heal them and people get delivered people get set free and I thought man this is my little Ministry I started having a little people try to volunteer they wanted to hang around they start volunteering hey can we hang out with you we want to hear more about Lord and stuff and i' go in there I teach him how
+- **[17:13](https://www.youtube.com/watch?v=LVAWpCm35XY&t=1033s) · 本段原话**：part of my job and I'm going to I'm going to uh stop but I'm going to still do the floors I'll clean the floors and stuff so I I took that money back and and I just kept going well then they laid me off cuz the pastor F early and I told you all that
+- **[18:13](https://www.youtube.com/watch?v=LVAWpCm35XY&t=1093s) · 本段原话**：about the visitations and the manifestations about what the Lord's told me is coming and I and I want you all to be a part of it I'm excited about what God told me's coming I'm excited about the impartations of the spirit of God and and and this is the time this is a
+- **[19:09](https://www.youtube.com/watch?v=LVAWpCm35XY&t=1149s) · 本段原话**：times get hard they're going to be looking for you trust me it happens to me all the time though people call me and say man you know family whoever they always look at you go oh yeah he's a he's religious nut but I'm telling you when they get diagnosed with something bad you're the first person they call
 
 ### 完整英文 Transcript
 
@@ -563,7 +609,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:23](https://www.youtube.com/watch?v=LVAWpCm35XY&t=1223s) · 本段原话**：fiber of my being even whenever you're going and trying to get a coffee and you're and you're in the in there and you get up to the line and they see you and and they could be liberals and they're all look like they're all going to hell you keep shining the light of
+- **[21:16](https://www.youtube.com/watch?v=LVAWpCm35XY&t=1276s) · 他表达判断**：video I don't want to waste your time because I by myself have nothing to tell you I really don't it's all by the grace of God that I'm even able to do what I do because if you really truly knew me you would say man he's a really boring person but I believe by the power of the
+- **[21:54](https://www.youtube.com/watch?v=LVAWpCm35XY&t=1314s) · 本段原话**：that there's something supernaturally going to happen for you today for your unsaved loved ones to get born again for your deliverances for all the healing that you need Jesus Christ paid the price for you you don't have to be broke you don't have to be sick you don't have to be uh Bound By Any kind of demonic
+- **[22:15](https://www.youtube.com/watch?v=LVAWpCm35XY&t=1335s) · 他表达判断**：Spirit he came to set the captives free and for whom the son is set free is free indeed and the same Jesus that set the people free 2,000 years ago is setting them free setting you free today I believe that with all my heart you just have to reach up and get it by faith
 
 ### 完整英文 Transcript
 
@@ -663,7 +716,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–26:57 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=LVAWpCm35XY&t=1440s) · 本段原话**：sickness and disease off of you in the name of Jesus I command you to be healed and whole and well in the name of Jesus from the top of your head to the souls of your feet you are delivered from that that that infirmity on your body whether it be kidney disease or or cancer or
+- **[25:53](https://www.youtube.com/watch?v=LVAWpCm35XY&t=1553s) · 本段原话**：them born again and on fire for Jesus in the mighty name of Jesus and we give you all the glory honor and praise today and we say glory to God for he's bringing it to pass do you believe it you've got to believe it you've got to believe it we're not Beggars we're Believers you
+- **[26:27](https://www.youtube.com/watch?v=LVAWpCm35XY&t=1587s) · 本段原话**：moved by need the devil will be making God move around and doing stuff cuz he Devil's one that causes needs my father will supply all my needs according to his riches and Glory by Christ Jesus and he'll take care of you today if you believe him for it I just want to tell
+- **[26:44](https://www.youtube.com/watch?v=LVAWpCm35XY&t=1604s) · 本段原话**：you all thank you for joining me I just want to say thank you for all the kindness you showed to my family God bless you guys put a smile on your face and a song in your heart we love you so much and we'll see you next time at have a blessed day y'all bye bye
 
 ### 完整英文 Transcript
 

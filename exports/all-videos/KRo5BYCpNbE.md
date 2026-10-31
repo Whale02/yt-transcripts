@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 799；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 - [10. 36:00–37:06 · 教会、复兴与信仰、战争与国际事务](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:17](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=17s) · 他表达判断**：just didn't feel peace about releasing it um there is a lot that's happening in the realm of the spirit right now and I believe it's very important to be accurate it's very important to be accurate For What the Lord Has for you all and I want to make sure there's no flesh involved I
+- **[08:00](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=480s) · 他描述所见**：so I saw another attempt coming within the year or two of his election cycle and that it whenever he is uh whenever he is um being president and the Lord said you must intercede for him you cannot take your foot off the gas concerning praying for his protection and Angelic protection concerning this
+- **[16:00](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=960s) · 他描述所见**：crisis that they would not the banks would not allow anybody to borrow from them anymore concerning houses and car notes and um credit cards major debt was called because people were faulting on their payments and I saw credit cards payments like like interest on credit cards go well above 30% and people couldn't make make those
+- **[20:21](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=1221s) · 本段原话**：will not happen like this and when you see the acceleration of all things when you start to see the acceleration when he wins people are going to be rejoicing and being excited that he wins the presidency and people say what if you're missing it and he and he loses on Tuesday well then I don't I don't even know what to
+- **[28:56](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=1736s) · 本段原话**：take the care of our lives for a lot of us being care being so careful being tormented by care care about finances care about the world care about the environment care about everything father we take the care out of our life and we rest in you and we rest in you we rest we rest what you did for us
+- **[36:01](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=2161s) · 本段原话**：subscribe click the notification Bell click the like button comment something nice down below and remember that Jesus Is A Healer believe it and and receive it that Jesus Is A Healer in every area of your life that he's the same yesterday today and forever ladies and gentlemen that if he he's Healing The
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:17](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=17s) · 他表达判断**：just didn't feel peace about releasing it um there is a lot that's happening in the realm of the spirit right now and I believe it's very important to be accurate it's very important to be accurate For What the Lord Has for you all and I want to make sure there's no flesh involved I
+- **[01:35](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=95s) · 他进行祷告**：going to give you some of the things that the Lord showed me now it's important that you listen carefully and and think about what I'm going to say take everything I say to God In Prayer everything pray about it and if it does not witness with you put it on a shelf now if it witness is with you then then
+- **[02:26](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=146s) · 他转述所听到的话**：Awakening is coming to America a great Awakening is coming to Europe a Great Awakening is coming and and to Asia to all over but the Lord showed me that the prayers that we prayed in the month of October they were weighing out in the spirit realm in the courts of Heaven and the Lord said to me the prayers that
+- **[03:16](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=196s) · 他描述所见**：Revival of what he's calling the great Revival a Great Awakening but he said the birthing pains would increase now even more and I saw people dropping like gats because of man this is heavy um an acceleration of the of the birthing pains and I'm telling you all it is time for you to have your house in
 
 ### 完整英文 Transcript
 
@@ -116,7 +134,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=241s) · 他描述所见**：and for what I have seen there he and when he talked about the grace it was about not letting Judgment of the tribulation come forth yet and he said he I saw it in the spirit realm the way he was the way he was doing it was is he was allowing there to be more time for a
+- **[04:43](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=283s) · 他描述所见**：has been made son and he said he showed me like I said going into the first year of President Trump's I saw great Revival breaking out on the senate floor I saw prayer Holy Ghost filled prayer being led by preachers and allowing the church because the church allow is the ones that came out and voted for Trump a lot
+- **[06:22](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=382s) · 他描述所见**：lawn and it shows up on on the in the in the in the the uh Mall attractions and you say how is that possible I'm just telling you the presence of the Lord I Saw the presence of the Lord moving mly in Washington DC and it started to spread throughout all of America and I saw a move of God
+- **[07:28](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=448s) · 本段原话**：relaxed and not as uh as en heightened alert because right now it's like it's like all hands on deck they're in heightened alert they're they're watching out and they're making sure he is really protected but when that whenever he that that people become um more uh relaxed during uh easier times does that make sense like well it is
 
 ### 完整英文 Transcript
 
@@ -211,7 +236,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=480s) · 他描述所见**：so I saw another attempt coming within the year or two of his election cycle and that it whenever he is uh whenever he is um being president and the Lord said you must intercede for him you cannot take your foot off the gas concerning praying for his protection and Angelic protection concerning this
+- **[08:24](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=504s) · 他描述所见**：man or his family because the enemy is looking for an in Road at all cost to kill steal and destroy okay so we have admission at to do at all times to keep him covered with the blood of Jesus because of uh the plots of the wicked I saw um oh I
+- **[08:54](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=534s) · 他描述所见**：saw him going concerning the Ukrainian War I saw him trying to Strongarm Putin and I heard in the spirit realm he must handle Putin with with like what would you say with delicacy that's way the way I like because of landmines in the in the natural not concerning him but I'm talking about
+- **[10:36](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=636s) · 他进行祷告**：find out as he steps into his office concerning this and there's there's uh stuff that will be uncovered the Lord showed me so um we pray for president Trump for wisdom we pray for our Senate to win we pray for Carrie Lake I the Lord showed me more about the judges they will be there will be great
 
 ### 完整英文 Transcript
 
@@ -301,7 +333,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:54](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=774s) · 他描述所见**：you to push you over does that make sense because the way I saw it in the spirit Realm it will actually cause her to lose because it's it's it's it's a it's it's a it's a battle in the spirit realm we wrestle not against flesh and blood ladies and gentlemen we're wrestling against principalities and
+- **[14:24](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=864s) · 他转述所听到的话**：wins and when they do they were afraid of Trump but they had a plan to to to try to take down the dollar still and they were going to enact this plan and at this time people I heard people saying well you missed it you got part right you got a lot wrong
+- **[15:07](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=907s) · 他描述所见**：they think people think you've missed it but I saw the house of cards fall I saw drone pal and all that stuff it all started happening again but it was it was like when we interceded it pushed it down the road a little and then I saw a great collapse again but then I saw calendars flipping before my
+- **[15:35](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=935s) · 他描述所见**：eyes and I saw from 1924 to to I mean 2024 2025 I saw it like it was falling backwards back to 1930s again for a great economic depression but at this time I saw uh um a debt crisis a um a a a banking a loaning
 
 ### 完整英文 Transcript
 
@@ -390,7 +429,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=960s) · 他描述所见**：crisis that they would not the banks would not allow anybody to borrow from them anymore concerning houses and car notes and um credit cards major debt was called because people were faulting on their payments and I saw credit cards payments like like interest on credit cards go well above 30% and people couldn't make make those
+- **[16:52](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=1012s) · 他描述所见**：10% and so people were like freaking out trying to not you know like you could and then like car notes I saw the number 15 and higher on on good credit and so people who wanted a really expensive car above $50,000 you know like cuz cars are expensive for nicer ones of course it's
+- **[17:57](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=1077s) · 他描述所见**：roots going back to their roots and core values of family I saw families again having like Leave it to Beaver style homes again eating at home uh uh around the dinner table more so then a lot of the fast food chains eating McDonald's and things like that which was not a bad thing but there were
+- **[19:10](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=1150s) · 他描述所见**：it was it was he said a days of humbling and I'm telling you all whenever I saw in the spirit realm even today when the Lord was tell dealing with me and showing me things that things were weighed in the balance when and when we prayed and interceded for this last couple weeks it's like every everybody
 
 ### 完整英文 Transcript
 
@@ -487,7 +533,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:21](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=1221s) · 本段原话**：will not happen like this and when you see the acceleration of all things when you start to see the acceleration when he wins people are going to be rejoicing and being excited that he wins the presidency and people say what if you're missing it and he and he loses on Tuesday well then I don't I don't even know what to
+- **[21:21](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=1281s) · 他描述所见**：would accelerate that the Sorrows would accelerate you were going to see the birthing pains as labor pains on the woman woman this stuff will still take place and I saw pestilence and plagues I saw wars and rumors of wars I saw these things going even and tripling getting even more so and that he said you he
+- **[22:10](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=1330s) · 他描述所见**：underground Church in China prayed and he said they were interceding in behalf of America concerning our our election and the Lord told me the underground Church the underground Asian Church all throughout Asia was ENT interceding in behalf and I saw a great move of of the spirit of the Lord in Asia again and I
+- **[22:37](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=1357s) · 他描述所见**：saw it spreading in Soul Korea and I saw a great uh uh uprising of the glory of the Lord on the Korean people and it started to spread throughout China and I'm telling you all I saw a great move of his presence on the on the Korean people on on on South Korea even more so than
 
 ### 完整英文 Transcript
 
@@ -585,7 +638,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:02](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=1442s) · 本段原话**：seeking him because I'm telling you we still have work to do but man have we dealt the the Demonic forces a blow in the realm of the spirit concerning their what how much stronghold they thought they had they are defeated by the blood of the lamb and by the word of Our Testimony and I want to give it praise
+- **[24:23](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=1463s) · 本段原话**：to the Lord let's just give him praise right now for all the manifestations of what's about to take place in every area of government in our judges in our voting that we have the victory we when you when you have a victory over something and you see fruit of something in the natural and you can feel it
+- **[26:15](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=1575s) · 本段原话**：be like you like a rocket ship in crypto and in in in in every area that father that there will be no uh demonic hindrances over the financial sector that father that we'll have great blessing in jesus' name and even the things that you showed me Father about the house of cards and and all the debt
+- **[27:54](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=1674s) · 他表达判断**：gives his beloved sweet restful sleep that's what he does and I believe that
 
 ### 完整英文 Transcript
 
@@ -689,7 +749,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:56](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=1736s) · 本段原话**：take the care of our lives for a lot of us being care being so careful being tormented by care care about finances care about the world care about the environment care about everything father we take the care out of our life and we rest in you and we rest in you we rest we rest what you did for us
+- **[29:40](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=1780s) · 他进行祷告**：are having Bumper to Bumper with people father because people are going to be coming to to hear the good news and Lord we believe we receive it in the name of Jesus and we thank you Lord that the senat Senators and the Congress people in every area will have a will have a
+- **[30:18](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=1818s) · 他进行祷告**：just staying in the middle doing their job right we thank you Father we thank you Lord for a fair upright election and we thank you Lord that it's settled in the spirit and Lord as we go into this holiday season father I thank you there'll be great rejoicing in the homes the families father for we'll see the fruit
+- **[31:12](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=1872s) · 本段原话**：of cting ballots but father it will be a quick work a quick work and we'll know within a 24hour period who our Senators will be our house representative father and the president United States of America will be decided within 24-hour period of after the election and we will not be lacking any good thing going well we got
 
 ### 完整英文 Transcript
 
@@ -789,7 +856,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 提到的地点：California、New York、Florida。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:26](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=1946s) · 他描述所见**：up but I saw it 23,000 votes in Jesus name for Ted Cruz extra and Lord we just believe we receive this and Lord even more of a red wave even in California that they can't even explain and that they'll look back and say I we've never seen this before in Oregon and California and
+- **[34:46](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=2086s) · 他表达判断**：this will be over in the mighty name of Jesus and we tell you Satan you stay under our feet we have the victory in the name of Jesus and everybody say amen and amen and and I thank you all for praying with me I believe we have the Victory and it is settled in the in the heavens in jesus'
+- **[35:10](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=2110s) · 他转述所听到的话**：name well I appreciate you all sticking around and and hearing what I had to say and what I feel like the Lord told me and um if you could subscribe we really appreciate it y'all uh we're believing for a million uh prayers to pray with us even after the election a million people to pray on a
+- **[35:31](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=2131s) · 他转述所听到的话**：day-to-day basis and I'm telling you I've seen a great harvest of souls in Asia I'm telling you a great number of people will flow and start watching this channel from South Korea the Lord told me he said Brandon I'm I'm raising up in South Korea it's there's a big thing about to take place in South Korea and
 
 ### 完整英文 Transcript
 
@@ -883,7 +957,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–37:06 · 教会、复兴与信仰、战争与国际事务
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、战争与国际事务展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:01](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=2161s) · 本段原话**：subscribe click the notification Bell click the like button comment something nice down below and remember that Jesus Is A Healer believe it and and receive it that Jesus Is A Healer in every area of your life that he's the same yesterday today and forever ladies and gentlemen that if he he's Healing The
+- **[36:20](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=2180s) · 本段原话**：Sick 2,000 years ago he'll heal the sick today so I want you to be encouraged that it's not the sky is not falling Chicken Little that that things are turning around God is God has got this it's good there's good days ahead and I want you to be encouraged and we're going to start
+- **[36:37](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=2197s) · 他进行祷告**：praying for Israel a lot more I really believe we need to pray for Israel and over the Peace of Jerusalem and um I feel the assignment what we're doing for America we're going to see some big fruit this week as we go into this week and we're going to have a good good good good good turnout in Jesus
+- **[36:56](https://www.youtube.com/watch?v=KRo5BYCpNbE&t=2216s) · 本段原话**：name well put a smile SM on your face and a song in your heart Jesus loves you so much and we love you God bless you all and have a wonderful day and we'll see you all tomorrow byebye
 
 ### 完整英文 Transcript
 

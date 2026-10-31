@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 826；**章节数**: 11；**明确省略行数**: 1
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 45:00–49:59 · 预言、梦境与异象、教会、复兴与信仰](#section-10)
 - [11. 50:00–52:48 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:14](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=14s) · 他描述所见**：I see him so clear again. The one main guy. He's always steps ahead because he's being because he's being warned before they get there. There's a rat within. There's a rat within.
+- **[10:50](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=650s) · 他描述所见**：on. All hidden things be revealed in the name of Jesus. I see the justice department is right on their heels.
+- **[20:51](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=1251s) · 他描述所见**：He tried to hide it, but she'll get it through the back door. I see a back door.
+- **[30:55](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=1855s) · 他描述所见**：I see the Federal Reserve. [snorts] I see the Federal Reserve. It's all by design.
+- **[40:00](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=2400s) · 他表达判断**：like Senate I believe this one be try to be anointed by the devil.
+- **[50:01](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=3001s) · 本段原话**：[snorts] Yep. The world's going to get darker, but the church is going to get lighter. And I thought, I don't care about all that. I can't look at it. A little glimpse of that. That was enough for me. I don't want to look at that ever again, Lord. I don't want to look
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:14](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=14s) · 他描述所见**：I see him so clear again. The one main guy. He's always steps ahead because he's being because he's being warned before they get there. There's a rat within. There's a rat within.
+- **[00:32](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=32s) · 他描述所见**：I see it so clear. The rat within. There's more rats within. Running running running running trying to hide because of the rat within. I see them the the the people that get there right after it's too late. So, Father, so I want you I want you to focus on this. We want to catch this man.
+- **[02:19](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=139s) · 本段原话**：Okay? So if we can get if we can do this, we'll get rid of one bad bad man out of this equation and it will help be like a domino concerning other major activities in our country because he's an informant. It's he's tell he's the one that delegates. That's a good word. Delegate. So one man
+- **[03:24](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=204s) · 本段原话**：Okay. And we're going to catch them. We want him to be found so that he gets misinformation and that the people catch on to the rat, the mole, and they're able to go and give him false information and catch this dude. Okay, we're going to get him.
 
 ### 完整英文 Transcript
 
@@ -126,7 +144,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[06:34](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=394s) · 他描述所见**：I'm bold as a lion, Lord. I'm bold as a lion. I'm bold as a lion. I see so clear. I thank you for this, Lord. I see it.
+- **[06:44](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=404s) · 他转述所听到的话**：It's awkward that it's live. Lord said just just pray into it. It's not a big deal. He just said just brand in just pray into it. You just you see they'll never find him. They'll they'll
+- **[07:48](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=468s) · 他描述所见**：[sighs] How do you show [snorts] I See, I see who is helping.
+- **[09:17](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=557s) · 他描述所见**：I ask you for these judges and these people, this law enforcement to be brought and exposed for who they really are. I ask you, Father, for every single one of them. Oh, I see why.
 
 ### 完整英文 Transcript
 
@@ -182,7 +207,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:50](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=650s) · 他描述所见**：on. All hidden things be revealed in the name of Jesus. I see the justice department is right on their heels.
+- **[12:17](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=737s) · 他描述所见**：You must pray for that woman's protection. I see like, you know, whenever you see the old timey westerns and they say 50,000 reward on a on a billboard and it has the face of the bad guy. It's in like a cartoon.
+- **[12:54](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=774s) · 他描述所见**：And there's certain amount of money. I see who's going to who's funding it.
+- **[14:14](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=854s) · 他描述所见**：[snorts] I pray a protection around and about this woman. [sighs] the number that is on her for $50,000 could that could be another zero 500 but I see the number five and it goes faded
 
 ### 完整英文 Transcript
 
@@ -263,7 +295,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、政党与政治人物。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:51](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=951s) · 本段原话**：This is like a spiral circle. It's layers and she's going to uncover the layers. She's going to expose this layers. You must protect her in the spirit realm. [snorts] She's She's want She doesn't know what to do with what she has.
+- **[18:34](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=1114s) · 他描述所见**：be nailed tight. Shut [snorts] close. done. No squirming. It's done. And it's involving this certain man. I see his face.
+- **[18:52](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=1132s) · 他描述所见**：Everyone knows who this man is. I see. We just need a little bit more.
+- **[19:21](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=1161s) · 他描述所见**：I see him and he is guilty. Don't put his name in there. I don't want my my live stream getting taken down. So, if they're trying to guess who he is, please leave it alone. I don't The Lord said leave it alone. Don't Don't get my live stream taken down the YouTube. You want to keep praying the
 
 ### 完整英文 Transcript
 
@@ -357,7 +396,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:51](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=1251s) · 他描述所见**：He tried to hide it, but she'll get it through the back door. I see a back door.
+- **[22:07](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=1327s) · 他描述所见**：I thank you for uncovering this and you bring this man to justice. You bring these people for it is it is it is a a web a web a web they have weaved a web it is a deep web. This goes way there's there's there's it goes way way bad. I see The blood of Jesus.
+- **[23:11](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=1391s) · 他进行祷告**：We laugh at what the devil had planned. We laugh at what you have said. We will not have it. We have the victory and we pray from the victory side and we receive everything that you have for us and every one of these rats will be exposed and brought to justice and we
+- **[23:32](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=1412s) · 他描述所见**：call Pam Bundy protected in Jesus name. We call her a hedge around and about. I don't know if she's married, if she has kids, I don't know, but I call a hedge around and about this woman in Jesus name because I heard her name specifically. I saw her face and the Lord said, "You must protect her.
 
 ### 完整英文 Transcript
 
@@ -428,7 +474,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:52](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=1552s) · 他进行祷告**：Jesus that the angels of the Lord are protecting his heart, protecting the his arteries, his his arteries and his neck, his blood flow and his feet. I thank you, Lord, that he will live long and finish strong and finish this this job that he has to do. I pray over his marriage. I pray over his his love life.
+- **[27:43](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=1663s) · 他描述所见**：God is going to spare his life. And incidents like Charlie Kirk, God is going to spare his life. I see his life being spared. And he's going to have an awakening unto God in the days ahead.
+- **[28:31](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=1711s) · 他描述所见**：I can only tell you what I see in the vision. You say, Brandon, does all the visions you see come to pass?
+- **[28:39](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=1719s) · 他描述所见**：Not all of them the way that the way I see it. They're prayed away. Things are moved. But I'm telling you, you'll see it in the news. It's it's it's a prophetic lens, ladies and gentlemen. It's not prophetic.
 
 ### 完整英文 Transcript
 
@@ -524,7 +577,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、祷告、敬拜与现场互动。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:55](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=1855s) · 他描述所见**：I see the Federal Reserve. [snorts] I see the Federal Reserve. It's all by design.
+- **[31:54](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=1914s) · 他描述所见**：Remember what he said? The pig. He's walking a pig. I see it again. I see Trump walking a pig. He's walking the pig with lipstick on the pig.
+- **[33:26](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=2006s) · 他描述所见**：A great shaking is coming to New York with the real estate market with all of it. I see many many many many million the billionaire they're fleeing. They're fleeing. They're fleeing. They'll leave Toki Ro.
+- **[34:07](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=2047s) · 他描述所见**：I see them fleeing like rats on a ship. I see people with really nice suits on, really nice, I'm talking big money leaving. And I see West Palm Beach.
 
 ### 完整英文 Transcript
 
@@ -593,7 +653,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、政党与政治人物。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:04](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=2104s) · 他描述所见**：Say, when Brandon, when when do you see this happen? All I I saw was him fading away concerning California. You understand? So I I'm going to instance and say, "Well, it's political violence." No, that's not what I'm saying. It's talking about political violence. It's like it people are getting frustrated even more. You
+- **[35:22](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=2122s) · 本段原话**：understand? Like they're frustrated. The rich are getting they're they're they're very annoyed. [snorts] It's almost like he he's he he fades like in the background. He's trying to just save face, trying to keep us keep his because he wants to run for president. You understand? He wants to take the office of the United States of
+- **[37:05](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=2225s) · 他描述所见**：I can't make her out. I see uh it's like a portal and a face is coming out of the dark.
+- **[39:23](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=2363s) · 他描述所见**：Similar to, you know, how Barack Obama came out of nowhere. ing light came up the center came up and he exploded into light. The reason I reason why I saw his name because immediately I saw him in a vision and Lord said remember how Barack Obama did it. It was like and his fame became overnight so many
 
 ### 完整英文 Transcript
 
@@ -692,7 +759,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:00](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=2400s) · 他表达判断**：like Senate I believe this one be try to be anointed by the devil.
+- **[41:29](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=2489s) · 他进行祷告**：must pray out the plan. Do not give up and go, "Well, it's not my problem anymore. We have Trump. He needs our help." And Pam Bondi needs our help. Do you understand? That's why we have this channel. We must pray for their protection and for them they have wisdom on how to nail this thing closed.
+- **[43:07](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=2587s) · 他表达判断**：I don't know how these people communicate. Uh I I I I believe I have a a glimpse of it, but they but but they they're looking for somebody who has courage in their eyes. They want to bring us uh instability in the nation to bring in radical uh jihad. And we have the greatest leaders
+- **[44:06](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=2646s) · 本段原话**：It's so important. You cannot just go, "Well, it's your problem, Brandon. It's your problem, uh, Billy or whoever. You No, it's all our We're the body of Christ. We're we're we're a team. We're we're we're all part of the body. Not one of us is more special than the other. But I'm telling you, for what I
 
 ### 完整英文 Transcript
 
@@ -813,7 +887,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:16](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=2716s) · 他表达判断**：And you know what I think right now? Look, listen to me. if they would pass laws to regulate crypto, not trying to put their finger in the pie, but but but these bozos are using this. Okay, [sighs] there's so much do so much of this.
+- **[46:53](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=2813s) · 他描述所见**：[snorts] I see a tentacle here. I see a tentacle here. And this one is This one has sex trafficking on it.
+- **[47:26](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=2846s) · 本段原话**：Pizza gate. Oh my god. My god. These people are so going to be so judged.
+- **[49:51](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=2991s) · 本段原话**：It's [snorts] through witchcraft. It's a lot of darkness as it's associated with it. Jesus is coming. That's all that I keep focused on. Jesus is coming.
 
 ### 完整英文 Transcript
 
@@ -883,7 +964,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–52:48 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:01](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=3001s) · 本段原话**：[snorts] Yep. The world's going to get darker, but the church is going to get lighter. And I thought, I don't care about all that. I can't look at it. A little glimpse of that. That was enough for me. I don't want to look at that ever again, Lord. I don't want to look
+- **[51:13](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=3073s) · 他描述所见**：[laughter] It's I I It's not all on me. I bring it to you. But I'm going to tell you, if you don't pray for Pam Bundy, you [snorts] don't pray for Alex Jones, you don't pray for these people. There's a lot there that I I'll never be able to talk about publicly, but I saw a lot
+- **[51:31](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=3091s) · 他表达判断**：tonight. And I told you surface. And I'm telling you, by the power of God, we can stop these people. [snorts] We can we can we can uncover and take the head of the snake. And I believe Jesus gets the victory. We get the victory. We have the victory that overcomes the world, even
+- **[52:14](https://www.youtube.com/watch?v=U8IAGFgZGEA&t=3134s) · 他表达判断**：And and all hidden things will be revealed by the power of the blood of Jesus. I believe with all my heart God didn't show me this stuff just to show it to me. but to tell you we have authority and if we take our authority we can we will have a victory. Do you
 
 ### 完整英文 Transcript
 

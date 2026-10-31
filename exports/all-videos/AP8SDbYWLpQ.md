@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 343；**章节数**: 4；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -14,10 +14,26 @@
 - [03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-03)
 - [04. 12:00–14:27 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-04)
 
+## 全片概述与 Key Points
+
+全片共 4 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:16](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=16s) · 他进行祷告**：flight and two of us can send 10,000 to flight think about how many thousands of us send into flight the power and the author y'all there's nothing that the Lord can't do through us I'm telling you if we just act in simple faith and believe and pray and be that army that body joined together and I'm telling you
+- **[04:01](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=241s) · 他进行祷告**：encourage you all today be encouraged and so we're going to pray over over uh your situations and your your um your household whatever you know I'll just pray in the spirit with you all for a little bit and um attach my faith with yours for your finances for an outpouring of finances I'm beli in God
+- **[08:22](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=502s) · 他描述所见**：on my heart to pray for your finances it's been on my heart to pray for better jobs for you to be the head not the H and above and not beneath it's just I've been stirred about it because there's so many people that I see that are lacking and I'm like it's done it's time to turn
+- **[12:01](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=721s) · 本段原话**：reaping because it's uncomfortable for you and it feels oh well I I'm just humble I don't want to accept the Harvest I don't want to accept the blessing because you feel that it's not well I don't want it the money to snare me God will build the character in you so it won't or or you won't get
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:16](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=16s) · 他进行祷告**：flight and two of us can send 10,000 to flight think about how many thousands of us send into flight the power and the author y'all there's nothing that the Lord can't do through us I'm telling you if we just act in simple faith and believe and pray and be that army that body joined together and I'm telling you
+- **[00:42](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=42s) · 本段原话**：one of the greatest Harvest of souls this world has ever seen we're about to see it and I want you all to agree with me take it the blinders off of people's eyes A Spiritual Awakening A Spiritual outpouring of the spirit of God like we've never seen before the the waking of the Slumber of the of the Seeker
+- **[01:43](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=103s) · 本段原话**：lot of people that walk in defeat and I am ready for not playing church anymore I am I am tired of going to church on on any service and not not getting you I want that tangible presence of God to the point where you you walk away changed I don't want to live where I was 5 days ago I want to
+- **[03:27](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=207s) · 本段原话**：you ladies and gentlemen he gave you you power he gave you power he didn't give anybody else special treatment he is no respector of persons and I want you to be encouraged that you have that that ability the moment you accept Jesus Christ as your lord and personal savior you are seated with him in the heavenli
 
 ### 完整英文 Transcript
 
@@ -119,7 +135,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=241s) · 他进行祷告**：encourage you all today be encouraged and so we're going to pray over over uh your situations and your your um your household whatever you know I'll just pray in the spirit with you all for a little bit and um attach my faith with yours for your finances for an outpouring of finances I'm beli in God
+- **[04:19](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=259s) · 本段原话**：for cryptos and and and for big things gold silver things like that that God would turn things around give us witty ideas to get wealth that God would give you uh uh a surplus not believing for well I got I got my my my food taken care of today or whatever but having enough more
+- **[04:40](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=280s) · 本段原话**：than enough to be able to help your neighbor to be able to help a loved one to help somebody more than just believing for your basic needs believe in him for overflow to take care of other people other than yourself it's time to believe God for big it's time to believe God for
+- **[06:03](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=363s) · 本段原话**：you've made a way for them not just to live paycheck to paycheck but to live in in in in lavishly that God wants to let you live lavish a great lifestyle that you can live happy with abundance and you know money is not supposed to make us happy but we uh but but we but but it's a lot
 
 ### 完整英文 Transcript
 
@@ -226,7 +249,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:22](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=502s) · 他描述所见**：on my heart to pray for your finances it's been on my heart to pray for better jobs for you to be the head not the H and above and not beneath it's just I've been stirred about it because there's so many people that I see that are lacking and I'm like it's done it's time to turn
+- **[10:06](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=606s) · 本段原话**：being walking in the blessing you're going to hate Heaven because I'm telling you for what I've seen even Jesus's crown and the jewels and everything the Lord has it's beyond anything you can dare ask or think the the things that he has for us the mansions and Heaven the things that he has for us is Overflow and that's on
+- **[11:15](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=675s) · 本段原话**：could live for forever off that because how much how how pure that gold is and beautiful that is I know this proba getting on some people's nerves today about Prosperity because it just it irks you because there's been a lot of ab use of it it seems but I'm going to tell you the Lord
+- **[11:33](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=693s) · 本段原话**：wants you blessed the Lord wants you to have more than enough I don't ever really go down these roads very often but I feel it inside to tell you this today that God wants you to have exceedingly abundantly above all you dare ask or thank tiers and givers that have sowed and sewed and sowed and and
 
 ### 完整英文 Transcript
 
@@ -331,7 +361,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–14:27 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=721s) · 本段原话**：reaping because it's uncomfortable for you and it feels oh well I I'm just humble I don't want to accept the Harvest I don't want to accept the blessing because you feel that it's not well I don't want it the money to snare me God will build the character in you so it won't or or you won't get
+- **[12:21](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=741s) · 本段原话**：it because he's not going to allow money to destroy you and send you to hell he that's not that's not him he's a god of love God is love I hope this video blessed y all today I I'm sure like I said I I made some of y'all irritated but it it is what it is I have to do what the Holy
+- **[12:40](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=760s) · 本段原话**：Spirit told me to do and I'm telling you all it's time to believe God for bigger stop stop thinking small and believe God bigger he is a big God and if the devil's crowd can have it we should take it from their crowd it's time to plunder and plunder hell and populate heaven and and take authority
+- **[13:58](https://www.youtube.com/watch?v=AP8SDbYWLpQ&t=838s) · 本段原话**：the name name of Jesus Amen and amen and amen well everybody say Amen we'll put a smile on your face and a song in your heart Jesus loves you so much and we love you and we will see you all again tomorrow God bless you all and have a wonderful day oh like subscribe comment down below and
 
 ### 完整英文 Transcript
 

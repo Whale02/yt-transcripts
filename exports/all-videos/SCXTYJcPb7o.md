@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 685；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 - [08. 28:00–28:54 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=0s) · 他描述所见**：I whenever I told you it was amazing when I was in her in prayer and I spent some time with the Lord uh two nights ago I saw the glory cloud above my head and it was Rippling and it was it was absolutely gorgeous the thing whenever the Lord opened up he gave me a glimpse
+- **[04:00](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=240s) · 他描述所见**：your brain to calm you down it you use it to buy and sell but I saw it has a big burn mark whenever it comes on you it has a reaction with your body it can cause a sore on your forehead I saw that there's so much to this chip but it's but it's it's like I said it's
+- **[12:36](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=756s) · 本段原话**：there's going to be a great shaking in coming I hope I'm telling you I'm not trying to spread fear I'm trying to warn you that that there's all this stuff fixing to happen the people have no clue you need to take this serious you need to understand that we're in dark times and it's going to
+- **[16:00](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=960s) · 本段原话**：he said well I'm not going to hell I got all this no no no no listen to me if you're living in sin you're going to hell you don't want to go to hell turn or burn turn or burn get right with the Lord read your Bible and see what the Bible says
+- **[24:04](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=1444s) · 他描述所见**：there's actually a glow around my phone right now I can see it that's really cool it's not going to see the glory over on that phone Hallelujah that's really neat Hallelujah that's actually really cool I've never seen my phone glow like that praise the Lord Hallelujah all right I saw a vision and went right through
+- **[28:02](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=1682s) · 本段原话**：impossible with him I don't want to get August I feel the Holy Ghost right now and I'm going to sit in it and it feels so good I want him to lift off of me so I'm delaying I just start going oh gosh I love the glory the Glorious Touch of his presence
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · AI、科技与监控、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：AI、科技与监控、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕AI、科技与监控、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=0s) · 他描述所见**：I whenever I told you it was amazing when I was in her in prayer and I spent some time with the Lord uh two nights ago I saw the glory cloud above my head and it was Rippling and it was it was absolutely gorgeous the thing whenever the Lord opened up he gave me a glimpse
+- **[00:17](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=17s) · 他描述所见**：of the glory and I'm telling you all there's a mighty move about to hit this Earth a mighty move of God an outpouring like we've never seen before and I'm Gonna Keep I'm going to keep pounding this and pound is telling you all that Jesus is coming I see you know I see how the retention of each
+- **[01:14](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=74s) · 他讨论新闻或报道**：the 6th of 2014. drones were hardly talked about we we could see them in the news every once in a while but now they're using them for football games they're using them for the Super Bowl for the halftime shows they're all in sync they're moving together they do all kinds of even at the Fourth of July
+- **[03:00](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=180s) · 他描述所见**：they're rebelling against they cut that person's head off right there immediately okay so I'm trying to bring highlights of what I saw whenever the Lord took me into tribulation he talked to me about the um the uh uh the aliens Jesus said right before I come back you're going to see a lot of alien
 
 ### 完整英文 Transcript
 
@@ -128,7 +146,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=240s) · 他描述所见**：your brain to calm you down it you use it to buy and sell but I saw it has a big burn mark whenever it comes on you it has a reaction with your body it can cause a sore on your forehead I saw that there's so much to this chip but it's but it's it's like I said it's
+- **[05:03](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=303s) · 他描述所见**：whatever I don't know I don't study study politics that much but but the Lord showed me going into fall going into the fall this year there's going to be ship shifting there's going to be some change come big time change okay but going into 2024 I saw them trying to pump the economy full like of money
+- **[06:58](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=418s) · 本段原话**：captive of your thoughts you've got to do these things okay but Psalms 91 and Psalms 23 are very important for what's about to happen but the Lord showed me about the financial outpouring he showed me more that there is going to be a like I told you like the.com era there's going to be like when when Bill Clinton
+- **[07:35](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=455s) · 他描述所见**：happened it was all starting to really take off and eBay and and and and all the amazing websites and stuff was just starting to take off in the 90s some of it was in the early 2000s but I'm just saying there's going to be another there's going to be another wave of stuff and and I saw it being with
 
 ### 完整英文 Transcript
 
@@ -239,7 +264,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=480s) · 他描述所见**：so I saw on Facebook this lady came on there and she told me she said did you know they're having a big meeting with the brics Nations on the on August the 21st through the 24th the Lord already pointed out to me when I was praying August 24th I had no idea I still really
+- **[08:54](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=534s) · 本段原话**：really soon and 2024 is gonna be a good year now 2025 that's a different story I've seen some bad stuff about 20 25. but we're not going to talk about 2025. that's time away time off and we have time to prepare and change things there's things that can change people want to argue
+- **[09:11](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=551s) · 他进行祷告**：Trump's coming back Trump said forget politics focus on getting the Lost let's yeah we need to vote and you need to vote righteous and you need to do what the Lord's told us to do and pray for our leaders but we're not going to get caught up in in public they're going to save America
+- **[11:02](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=662s) · 他描述所见**：I know they've went some back some stupid made some stupid decisions recently but the man that's over the Jabs and you see him on on there I've seen him talking to a man in Europe that you all everybody knows about him and he's old and I've seen these people there's a man in Asia and I saw a man down in in South
 
 ### 完整英文 Transcript
 
@@ -355,7 +387,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:36](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=756s) · 本段原话**：there's going to be a great shaking in coming I hope I'm telling you I'm not trying to spread fear I'm trying to warn you that that there's all this stuff fixing to happen the people have no clue you need to take this serious you need to understand that we're in dark times and it's going to
+- **[12:55](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=775s) · 本段原话**：get darker but the light's going to get lighter but the only way the light can get lighter is in you you have to be the salt in the light of this Earth through Jesus Christ dwelling on the inside of you and if you're not doing that you're missing it we're almost we are almost
+- **[14:34](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=874s) · 本段原话**：only look at pornography every couple of days I've had an addiction to it you gotta admit step to change we got to stop this stuff put put blocks on your computer put blocks on your phone have accountability apart partner you've got to make changes you've got to start steering your chip ship right you
+- **[15:44](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=944s) · 本段原话**：run from him you don't want to miss the Rapture of the church there's a lot of people don't believe in the Rapture whatever you don't want to live in unrighteousness you don't want to live this I'm telling you Jesus Christ is coming and Hell Is Real hell is real
 
 ### 完整英文 Transcript
 
@@ -477,7 +516,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=960s) · 本段原话**：he said well I'm not going to hell I got all this no no no no listen to me if you're living in sin you're going to hell you don't want to go to hell turn or burn turn or burn get right with the Lord read your Bible and see what the Bible says
+- **[16:39](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=999s) · 本段原话**：offended many will be offended and people are walking around in a fence like crazy right now well sister so and so made me mad at church and I'm offended I ain't going back I'm out of here everybody's offended all the time it's offensive fence offense on the internet and Facebook all these stupid places X and not
+- **[16:58](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=1018s) · 本段原话**：Twitter and all this stuff I'm offended at Trump I'm offended offended because the the the the woman movement I'm offended for this and you go oh my goodness y'all we gotta walk in love and we gotta we gotta speak the truth and tell people about Jesus and what the Bible says about Sin
+- **[19:48](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=1188s) · 他转述所听到的话**：I decree and declare the colon as well constipation go fibromyalgia I heard the word
 
 ### 完整英文 Transcript
 
@@ -588,7 +634,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=1200s) · 他进行祷告**：fibromyalgia I commend fibromyalgia to go in Jesus name lupus go in Jesus name I command healing and wholeness over lupus chronic pains chronic pains go in Jesus name you might be walking on AMA did he stay I come here keep my mama said I come into Mickey's show oh my side whatever oh the ears I hear it right now
+- **[20:32](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=1232s) · 他描述所见**：ears pop open in Jesus name ears the ears the ears the ears oh we call new new new new things in the ears new drums ear drums all the hairs and the ears the things in the ears I call you open up pop open in Jesus name foreign stove oh pancreas the pancreas I saw it right
+- **[22:08](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=1328s) · 他描述所见**：cirrhosis of the liver oh cirrhosis of the liver I speak new liver into you in Jesus name Brains Brains Brains Brains I saw the brains I saw a brain right there somebody's bleeding for brain and their brain injuries and her aneurysm aneurysms in the brain aneurysms in the brain I speak healing over you
+- **[23:28](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=1408s) · 本段原话**：what do something that you couldn't do before move those limbs move those body do it by faith if you feel comfortable with it you feel that you can do it try it Faith work Faith work Faith work work your faith faith is an act faith is an act faith is an act you got to do it
 
 ### 完整英文 Transcript
 
@@ -664,7 +717,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:04](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=1444s) · 他描述所见**：there's actually a glow around my phone right now I can see it that's really cool it's not going to see the glory over on that phone Hallelujah that's really neat Hallelujah that's actually really cool I've never seen my phone glow like that praise the Lord Hallelujah all right I saw a vision and went right through
+- **[24:45](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=1485s) · 他描述所见**：the body into the back I saw the spine and was the kidneys you got kidney problems uh oh he went to oh hey he's going to give you new some new kidneys today who's bleeding for those kidneys I speak to your kidneys right now in the name of Jesus be healed by the power of
+- **[25:55](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=1555s) · 他描述所见**：spine and the Lord show me it's like it's part of the back and he says the kidneys and that was really cool how he showed me that in the spirit man I was watching I could see an open eye vision I was praying for that person's kidneys and I'm telling you there's Miracle
+- **[27:15](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=1635s) · 本段原话**：talk to y'all I'm going to talk to you about the visitation I had from the devil like I said I don't want to tell talk about a lot of Darkness but some of you all need to know some of the other side too all right let's let's sing this song rise and be healed
 
 ### 完整英文 Transcript
 
@@ -757,7 +817,13 @@
 <a id="section-08"></a>
 ## 08. 28:00–28:54 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:02](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=1682s) · 本段原话**：impossible with him I don't want to get August I feel the Holy Ghost right now and I'm going to sit in it and it feels so good I want him to lift off of me so I'm delaying I just start going oh gosh I love the glory the Glorious Touch of his presence
+- **[28:25](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=1705s) · 本段原话**：I go God you're so faithful yeah I'm I'm an anointing junkie let's sing another song of what too I need to know more of these old songs than all the words to them but my voice is sore because I was yelling at the the devil to get off of you put a smile on
+- **[28:46](https://www.youtube.com/watch?v=SCXTYJcPb7o&t=1726s) · 本段原话**：your face and a song in your heart Jesus loves you and I thank you for being here today God bless you guys and we'll see you very soon bye bye
 
 ### 完整英文 Transcript
 

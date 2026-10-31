@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1432；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 54:00–59:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 60:00–63:23 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=0s) · 本段原话**：hey good morning family praise the lord it's day 58 y'all I know we missed yesterday but we had some things come up and um and so we're here today but I just want to tell you all thank you for joining us um Diana has a word from the Lord that I know is the the Lord and uh
+- **[12:40](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=760s) · 本段原话**：more you are intimate and you talk to each other even if it's cranky conversation you can might have a bad day at work that day it's building relationship regardless yeah that that spouse might be cranky that day and they may have a bad attitude or they may have had a hard day at work their boss might
+- **[24:01](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=1441s) · 本段原话**：fund the kingdom of God I'm like but do you do it with the $10 you have don't kid yourself I'm going to have a million dollars I'm going to tithe the $100,000 but did you tithe the $10 off your hundred don't lie I mean you all play there so many people if you didn't do it with the 10
+- **[36:02](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=2162s) · 他转述所听到的话**：that matters folks vacation to me is being under the anointing I wouldn't want it any other way I truly wouldn't my heart is to be under that atmosphere have under his anointing under his presence and just just soaking it in there's no other place a beach can't fulfill that yeah it's like when I heard one preacher say
+- **[48:01](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=2881s) · 本段原话**：there's any sick among you they're they're questioning it there shouldn't be there shouldn't be there say if there's any sick among you what kind of question is that you we say it nowadays who's not sick in here I like to shake your hand if you don't have any pain or know any sickness at all CU most
+- **[60:01](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=3601s) · 本段原话**：you said that we have the mind of Christ and great is the Peace of your children father we thank you that there is that these that these the stress that's coming over these over these mothers of them always uh thinking when they're ovulating or if they're not ovulating father that they would that they would
+
 <a id="section-01"></a>
 ## 01. 00:00–05:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=0s) · 本段原话**：hey good morning family praise the lord it's day 58 y'all I know we missed yesterday but we had some things come up and um and so we're here today but I just want to tell you all thank you for joining us um Diana has a word from the Lord that I know is the the Lord and uh
+- **[01:03](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=63s) · 他表达判断**：start uh reading this of what the Lord said uh and I believe it will bless you and we'll talk about it after okay but yeah um so I was just going through my day and I was just thinking about that saying it kept it popped in my mind do what you need to do so that you can do
+- **[03:18](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=198s) · 本段原话**：they'll mutter th that is unacceptable this is not acceptable and is largely what happens in my body give me all or you might as well be giving me nothing for I will not take your scraps I am not the almighty God who waits for your leftovers this is repulsive in my sight this is not Fellowship this is Duty so
+- **[04:48](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=288s) · 本段原话**：give me the bare minimum but they expect me to give them the full maximum they give me so little but expect my hand to be open to them Limitless they make demands friends of me that they have no business demanding and should be ashamed to ask of me for if they weren't here with me on their
 
 ### 完整英文 Transcript
 
@@ -170,7 +188,14 @@
 <a id="section-02"></a>
 ## 02. 06:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[06:17](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=377s) · 本段原话**：seems they have a child together so she can have 18 years of child support all the while she can go out and party and find more entertaining company so through the year she continues dropping the child off with Dad for the day or two and then when she comes back to pick the child up she sticks out her hand and
+- **[07:31](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=451s) · 本段原话**：who got an A+ hey I got a passing grade too you know you're nothing special we both graduate on the same day and wear the same gown and hats while holding up her paper with a c minus such foolishness is it common practice to brag about doing the bare minimum in order to make one feel special what
+- **[08:57](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=537s) · 本段原话**：house I've got to go clean and do the yard work you're the devil always is going to come immediately to distract you from having intimacy with the father that's his that's his main agenda for the day to to bring Strife in the home and to distract you from having fellowship with the father when you're
+- **[11:27](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=687s) · 本段原话**：intimacy and the things that he said about the about the the the woman and and the the whole story that he told her about the 18 18y old 18 years of child support he's not a child support God he wants the marriage he wants he wants the relationship and he'll protect you but
 
 ### 完整英文 Transcript
 
@@ -319,7 +344,14 @@
 <a id="section-03"></a>
 ## 03. 12:00–17:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:40](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=760s) · 本段原话**：more you are intimate and you talk to each other even if it's cranky conversation you can might have a bad day at work that day it's building relationship regardless yeah that that spouse might be cranky that day and they may have a bad attitude or they may have had a hard day at work their boss might
+- **[15:52](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=952s) · 他描述所见**：help them and now he's told me to start this channel in souuth in Korea for the Korean people because of what's coming I saw communism coming out of North Korea that devil that's over in North Korea coming over and latching on to uh South Korea and I saw that demonic spirit that has been oppressing the the North Korean
+- **[16:48](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=1008s) · 他描述所见**：pray for them even more and because I saw the plan of the enemy and what he's going to try to do even with them impeaching their president or their prime minister whatever he was this is serious what the enemy's trying to get done over there y'all and it's it's deeper and bigger than what people
+- **[17:06](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=1026s) · 本段原话**：realize for what's really trying to they're going to try to oppress these people to the point where they can't move around just like it happens with Kim John and the devil has a plan and it is to oppress the Asian people just like he does in China just like he does in Vietnam just like he does in all these
 
 ### 完整英文 Transcript
 
@@ -480,7 +512,14 @@
 <a id="section-04"></a>
 ## 04. 18:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:24](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=1104s) · 本段原话**：goodness for what I had what I had seen coming and what we have averted for this four years just by getting a man in the office and him getting in the Senate and the house that we needed we can change things still with prayer but it will take praying and interceding for president Trump like never before and it
+- **[20:27](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=1227s) · 本段原话**：we live in him you will H this is him in US Christ in me the hope of glory I don't want what the world has you all get excited about crypto folks but I'm telling you I've seen great dark days coming I try to warn you and it's been interesting cuz I cuz me and my son and
+- **[21:36](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=1296s) · 本段原话**：all kinds of drugs and alcohol trying to fill the void of what they can't they can't feel that peace they can't find it and they buy a car after car Rolex after Rolex Diamond after Diamond let's go on a vacation spend $100,000 on a honeymoon and you go but for what you're still empty
+- **[23:36](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=1416s) · 他进行祷告**：him to come up with more intimacy with him to come up higher with the fire all this Earthly crap is fixing to burn up and it is literal c a p crap and I'm going be real with you you you you desire for cryptos to go up and it it's exciting pray praise the lord we can and
 
 ### 完整英文 Transcript
 
@@ -624,7 +663,14 @@
 <a id="section-05"></a>
 ## 05. 24:00–29:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:01](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=1441s) · 本段原话**：fund the kingdom of God I'm like but do you do it with the $10 you have don't kid yourself I'm going to have a million dollars I'm going to tithe the $100,000 but did you tithe the $10 off your hundred don't lie I mean you all play there so many people if you didn't do it with the 10
+- **[25:47](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=1547s) · 本段原话**：so they won't hear me on the big things they don't even know how to be in sync with me now for the small things it's a very volatile investment for what's coming the markets are going to crash them there'll be a great inflow an outflow but a major crash is coming and you all if you're not hearing
+- **[28:36](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=1716s) · 本段原话**：hours of my life and yeah Refiner's Fire has been tough on both of us but I'm going to tell you I've told you there's something that is building a relationship with him that is ill there's no money in this world that can replace what I have I told her I said I would give everything I have
+- **[29:26](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=1766s) · 本段原话**：that I ever want or do desire or taste other than intimacy with the father you all it's all going to burn anyway it's all going to burn every car everything it's all going to burn it's all going to rust who cares but I'm telling you the seeds you sew today I'll say it again what you do
 
 ### 完整英文 Transcript
 
@@ -763,7 +809,14 @@
 <a id="section-06"></a>
 ## 06. 30:00–35:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:24](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=1824s) · 本段原话**：clothes to put on maybe a hot bath we're thankful for the electricity for these lights that are able to shine on our faces so we can talk to you all the iPhone that we film on we're thankful for the iPhone we're thankful for my son's computer equipment somebody blessed him with that one of you
+- **[31:41](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=1901s) · 本段原话**：and it kept crashing and it kept turning off and Bren was like Dad this is taking me forever because I have to wait for it to upload again and turn on again and the Lord put it on somebody's heart to say listen we want to help buy him a computer we didn't even know him we were
+- **[33:59](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=2039s) · 本段原话**：this life whatever God gives you whether it's 60 70 80 years 100 years 120 years whatever what did you do with that time the seed you sowed to the kingdom is what you'll reap on the thousand years it's all about it it's a thousand years it's not it's 10% think about that just think of it like that 10% of a thou
+- **[35:12](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=2112s) · 本段原话**：with the Lord the investment that we were talking about she talked about in the car the investment the spiritual Spa yes the spiritual Spa it's what changes you and it imparts inside of you going to Billy burk's meeting going to the thing with sister uh um Billy brim in February learning eschatology learning in time teaching
 
 ### 完整英文 Transcript
 
@@ -918,7 +971,14 @@
 <a id="section-07"></a>
 ## 07. 36:00–41:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:02](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=2162s) · 他转述所听到的话**：that matters folks vacation to me is being under the anointing I wouldn't want it any other way I truly wouldn't my heart is to be under that atmosphere have under his anointing under his presence and just just soaking it in there's no other place a beach can't fulfill that yeah it's like when I heard one preacher say
+- **[38:05](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=2285s) · 本段原话**：know for a fact he's not done yet and he wants to spend time with us and it's underneath that Glory that changes You In The Presence of Jehovah God Almighty Prince of Peace it's that peace troubles vanish hearts are mended in the presence of the [Music] king precious times yeah yeah I feel sorry for the people
+- **[39:37](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=2377s) · 他转述所听到的话**：redeeming blood he loved me I knew him and all my love is do him I love that song He plunged me to Victory beneath the cleansing flood I heard an old old Story how a savior came from Glory I
+- **[41:15](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=2475s) · 他进行祷告**：wants relationship with you and he wants intimacy with you to grow go grow deeper with him I love what he said to you baby staying and sink staying in Step well we're going to pray for yall we we've went on long enough here with this but I don't want to get on a soap box I'm not
 
 ### 完整英文 Transcript
 
@@ -1044,7 +1104,14 @@
 <a id="section-08"></a>
 ## 08. 42:00–47:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:50](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=2570s) · 本段原话**：and over and over again he was trying to to to war because because he talked about the glory the the Lord showed up this kind of Glory of David David and Solomon and it talks about the temple the Ark of the Covenant and all the beauty of the things that the Lord did back
+- **[43:51](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=2631s) · 他描述所见**：Lord show showed this woman that these people have intimacy with the father there's intimacy with these kids and they hear the Lord and they talk to him they have visions and dreams but you never hear about that stuff over here do we very seldom do I hear an authentic dream or a vision whenever
+- **[45:40](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=2740s) · 本段原话**：Lord's coming out of you so strong and you go up walk just just barely brush shoulders and they go boom and the power of God hit him and they go whoa I feel different can you imagine that can you imagine that that's the kind of things I look forward to I'm a God turn it on inside of me show me how
+- **[47:37](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=2857s) · 本段原话**：units just walked around the the edges and because the glory is on you so strong that everybody in that place gets healed they'll have to ask you to leave we're losing money get out of here I me you know I mean wouldn't that be cool wouldn't that be cool the Bible said if
 
 ### 完整英文 Transcript
 
@@ -1188,7 +1255,14 @@
 <a id="section-09"></a>
 ## 09. 48:00–53:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[48:01](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=2881s) · 本段原话**：there's any sick among you they're they're questioning it there shouldn't be there shouldn't be there say if there's any sick among you what kind of question is that you we say it nowadays who's not sick in here I like to shake your hand if you don't have any pain or know any sickness at all CU most
+- **[51:21](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=3081s) · 本段原话**：unto you all ye that are heavy laden and I will give you rest and I than thank you Father that you're giving us rest today you're giving us that rest as we sit at your throne today and we love on you Lord forgive us for being distracted forgive us father forgiving You Fifth Place sixth place but father
+- **[52:30](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=3150s) · 他表达判断**：Potter and I Am The Clay and you mold me and make me today create in me that clean heart do it that you say you are perfect before me I am perfect Before You by the blood of the lamb and I believe it father but I know that I I need the refining still and we refine we
+- **[53:29](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=3209s) · 本段原话**：gifts I thank you Father for your provision I thank you for your health I thank you Father that we're healthy in our bodies that father that there's not one cell in our bodies that no cancer no diabetes no heart disease no Strokes no brain disease no Alzheimer's no dementia no no prostate problems no no nothing there's there we
 
 ### 完整英文 Transcript
 
@@ -1321,7 +1395,14 @@
 <a id="section-10"></a>
 ## 10. 54:00–59:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[54:01](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=3241s) · 他表达判断**：and whole and well in the name of Jesus freely you've been we've been given and freely we give out that's the anointing and I believe with all my heart that you're healed and whole and well from the crown top of your head to the soles of your feet you are free in the name of Jesus from sickness and
+- **[54:47](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=3287s) · 他表达判断**：these perversions and I thank you Father that they're no longer bound by the devil's works that they submit their s therefore un God and they resist him and that he will flee in Terror and I believe father that as we seek ye first the kingdom and all these things will be added unto us
+- **[56:41](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=3401s) · 本段原话**：will be radically born again and I say in the name of Jesus Supernatural visitations and manifestations of the glory will happen over the trumps and I thank you Father that you stir in Trump father as he is as he is um leading this nation that he has a greater intimacy with you I thank you
+- **[59:16](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=3556s) · 本段原话**：conceive easily over the eggs over the sperm that everything goes It's supposed to that they will uh not have any miscarriages father we thank you that that their V will not cast its fruit before it's time father we speak over their bodies right now we thank you that they line up with the word of God and
 
 ### 完整英文 Transcript
 
@@ -1473,7 +1554,14 @@
 <a id="section-11"></a>
 ## 11. 60:00–63:23 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[60:01](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=3601s) · 本段原话**：you said that we have the mind of Christ and great is the Peace of your children father we thank you that there is that these that these the stress that's coming over these over these mothers of them always uh thinking when they're ovulating or if they're not ovulating father that they would that they would
+- **[61:46](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=3706s) · 他描述所见**：said we're getting closer to your return look up for your Redemption draws nigh folks I'm telling you Jesus is getting ready to come back we're at the we're on the final stretch we're in the final stretch it's exciting I cannot wait until I see my king it's going to be amazing isn't it babe we're
+- **[62:28](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=3748s) · 本段原话**：hearts Please Subscribe if you haven't subscribed it would really bless us click the notification Bell click the Thumbs Up Button like the videos subscribe do all the things that comment something nice down below for my son to read so he doesn't he have to read junk and have to erase it he he's it's a lot
+- **[62:48](https://www.youtube.com/watch?v=wRLIcKz-d5Y&t=3768s) · 本段原话**：of work for him having to erase all the the Trolls but I you know I appreciate you son you you you try hard I don't read all that stuff he I don't even have it on my phone anymore my my son he does it all and I and I'm very grateful for him he does a school and he he edits the
 
 ### 完整英文 Transcript
 

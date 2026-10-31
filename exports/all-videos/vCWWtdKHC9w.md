@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 674；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 - [08. 28:00–28:16 · 教会、复兴与信仰](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=0s) · 他进行祷告**：Hey, good morning family. How are y'all doing today? We're going to pray about some things. But I'm going to tell you, it's time for the church to wake up. In this thing that I've seen taking place, I've seen a church, the bloodb blot bornagain, bloodbought church of the redeemed, standing up in Brush Harbor
+- **[04:01](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=241s) · 本段原话**：Sodom and Gomorrah. He did not know that all the things were coming because he was so in compromise. He put himself and he fixed himself to he put his tent and fixed his tent towards Sodom and he thought, "Man, this is a nice city. I love living in this. This is nice." And every day he woke up
+- **[12:42](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=762s) · 他进行祷告**：personal savior, it's your time to come home. I'm going to say a prayer and I want you to pray it out for me. You say, "Brother Brandon, I don't know Jesus Christ. I I I've heard about a lot about him. But if I die tonight, if you die tonight, where will you spend eternity?
+- **[16:18](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=978s) · 他进行祷告**：plugged in, usher, pray, whatever you can do to get volunteer, whatever you got to do. Take classes. Learn about who you are. Learn if they have classes there. Find classes to teach you the word. And when you do this, you're going to grow and you'll get to become like a meat eater. Like I'm talking about
+- **[24:00](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=1440s) · 本段原话**：from the west, that there will be a harvest of souls like we've never seen before. that you would raise up new Ryan Harunkies and people of great faith of a great uh great backbones, Father, they would preach the gospel and tell the people that Jesus Christ is coming.
+- **[28:02](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=1682s) · 本段原话**：us to preach the gospel throughout the whole world. And so we're excited for what God has for us in 2025. Put a smile on your face and a song in your heart.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=0s) · 他进行祷告**：Hey, good morning family. How are y'all doing today? We're going to pray about some things. But I'm going to tell you, it's time for the church to wake up. In this thing that I've seen taking place, I've seen a church, the bloodb blot bornagain, bloodbought church of the redeemed, standing up in Brush Harbor
+- **[01:26](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=86s) · 本段原话**：heart after the world. And the Lord says it either you are hot or you're cold, but if you're lukewarm, I will spew you out of my mouth. And you say, "Well, that's harsh." No, it's the that's the word. And it's going to come down to it.
+- **[02:47](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=167s) · 本段原话**：pulpits and telling people they've got to rise up and tell tell that Jesus Christ is coming for the harvest is plentiful and the labors are few and the house of cards is coming down folks.
+- **[03:07](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=187s) · 本段原话**：Jesus is coming. Are you ready for his return? There's many of you all that that say that you are, but he has no idea who you are because you're so far from him. You live such a heathen lifestyle and you don't even realize that you are like Lot in Sodom and Gomorrah thinking that everything's
 
 ### 完整英文 Transcript
 
@@ -126,7 +144,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=241s) · 本段原话**：Sodom and Gomorrah. He did not know that all the things were coming because he was so in compromise. He put himself and he fixed himself to he put his tent and fixed his tent towards Sodom and he thought, "Man, this is a nice city. I love living in this. This is nice." And every day he woke up
+- **[05:14](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=314s) · 本段原话**：becomes so accustomed to it. You're you've become accustomed to Sodom and Gomorrah, ladies and gentlemen. And the Lord tells me, "Great, great judgment's coming in these areas." And you say, "Well, I'll stand in the gap like Abraham." But God's calling you out from Sodom. God's calling you out from a Gomorrah. He's calling you out and he's
+- **[06:53](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=413s) · 他讨论新闻或报道**：the earth. He's calling us to have a backbone like a bar, like a crowbar. And he's calling us to preach the good news to the world. And I'm telling you, when all hell breaks out, ladies and gentlemen, when all crap you say hits the fan, they're going to be coming for the people who have the light. like
+- **[07:12](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=432s) · 本段原话**：Moses's face was shining with the glory of God. They're going to come to you because they're going to say, "I remember when I used to think you were a holy roller and you were too religious because right now I need a God that's real.
 
 ### 完整英文 Transcript
 
@@ -233,7 +258,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=481s) · 本段原话**：he said, "You will I you will build my church and the gates of hell will not prevail against it." Not a sinking sand gospel but a but a but a gospel that is built on the word, the foundation of the word that Jesus Christ is coming and that Jesus is our savior. He's our
+- **[09:06](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=546s) · 本段原话**：Satan comes as a roaring lion seeking whom he may devour. Is your house full of compromise that he can devour you?
+- **[10:45](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=645s) · 他描述所见**：give. I've seen a great storm coming and it's still on the horizon. It may be delayed by some months, whether or not it's a year in or whatever. When you're looking into the spirit realm, ladies and gentlemen, there's a depth perception about things that I'm still learning. But I can assure you, I see a
+- **[11:25](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=685s) · 他描述所见**：Today, Lord, I serve you with everything I have inside of me. I am not worried and I'm not moved by what I see around me. I'm moved by what the word of God says. Because when the winds and the storms blow, my my my my my my anchor is in the Lord Jesus Christ. My my my my my
 
 ### 完整英文 Transcript
 
@@ -332,7 +364,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:42](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=762s) · 他进行祷告**：personal savior, it's your time to come home. I'm going to say a prayer and I want you to pray it out for me. You say, "Brother Brandon, I don't know Jesus Christ. I I I've heard about a lot about him. But if I die tonight, if you die tonight, where will you spend eternity?
+- **[12:59](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=779s) · 本段原话**：If you die tonight, where will you spend eternity? There there's a there's a there's a heaven to gain and a hell to shun. Which one will you which one will you serve? Who will you serve today? Is what I'm trying to ask you all, ladies and gentlemen. Either you're going to serve Jesus or you're going to serve the
+- **[13:39](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=819s) · 他表达判断**：prayer after me. Jesus Christ, I want to make you my Lord and personal Savior. Write my name in the Lamb's Book of Life. Father, I'm a sinner. Forgive me of my sins. I believe you are the Son of God. I believe you rose on the third day. I believe you're seated at the
+- **[15:37](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=937s) · 他进行祷告**：Find a Bible that you understand and read it. Get the word of God down in your heart. And when you get that word down inside of your heart, it's going to change you and and you'll go from glory to glory. Pray every day. Seek him every day. Have relationship with him every day. And find a good bibleelving church
 
 ### 完整英文 Transcript
 
@@ -434,7 +473,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:18](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=978s) · 他进行祷告**：plugged in, usher, pray, whatever you can do to get volunteer, whatever you got to do. Take classes. Learn about who you are. Learn if they have classes there. Find classes to teach you the word. And when you do this, you're going to grow and you'll get to become like a meat eater. Like I'm talking about
+- **[17:23](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=1043s) · 本段原话**：that heals. that every cell inside of me is healed and whole and well because he said in Isaiah 53:5 that he was wounded for our transgressions. He was bruised for our iniquities. The chastisement of our peace was upon him and with his stripes you are healed. You are healed because he took all of it on. And we
+- **[18:16](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=1096s) · 本段原话**：going to allow it. And nothing separates me from the love of God. And I thank you, Father, that there is no devil in hell that can come and me and try to take me out because, Father, there's a blood lying around me and my wife and my children and every tongue that rises
+- **[19:27](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=1167s) · 他进行祷告**：the blood of Jesus Christ over every single person watching. So, Father, we enter in boldly into your throne and whatever you have else for us today. And we thank you, Lord, for your great mercy wherewith you loved us. And I thank you, Lord, for this great nation. Father, I pray over it. Father,
 
 ### 完整英文 Transcript
 
@@ -547,7 +593,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=1201s) · 本段原话**：compromise. We thank you, Father, right now in the name of Jesus. We plead the blood of Jesus over this nation that Father, that we will have a God-fearing president in the name of Jesus. And Father, I thank you, Lord, that we lift up Donald Trump before you, Father, that there's a great hedge of protection
+- **[20:19](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=1219s) · 本段原话**：around and about him. And Father, that he would have a a a a radical conversion. We call for radical conversion over Donald Trump. That he would be on fire, filled with and controlled by the Holy Ghost.
+- **[21:03](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=1263s) · 本段原话**：And I thank you, Lord, that you're removing Camila Harris and Joe Biden in the name of Jesus. Father, I thank you that you humble the kings. You humble the evil. We call on exposing in Jesus' name of all darkness. We call them removed in the name of Jesus. And Father, I thank you as they're removed. God, I thank
+- **[23:36](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=1416s) · 本段原话**：father they're at every polling station at every booth at every nation. Father, I thank you, Lord, for for for Canada, for raising up godly leaders in Canada and in Asia. Father, I thank you for Africa that there will be a major revival in Africa, a major revival, a major harvest of souls in Africa. That
 
 ### 完整英文 Transcript
 
@@ -650,7 +703,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Europe、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=1440s) · 本段原话**：from the west, that there will be a harvest of souls like we've never seen before. that you would raise up new Ryan Harunkies and people of great faith of a great uh great backbones, Father, they would preach the gospel and tell the people that Jesus Christ is coming.
+- **[24:44](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=1484s) · 他进行祷告**：you that it's over the Middle East and over Europe. I pray over Europe. I pray over Europe. I pray over Russia. I pray over Russia, Father, that there will be a harvest of souls. Yeah. Even over Russia and over Siberia, Father. I thank you, Lord. I thank you, Lord, for Asia. I thank you,
+- **[25:02](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=1502s) · 本段原话**：Lord, for you soul Korea and over over all of North Korea and over all these, Father, that there will be a harvest of souls in the name of Jesus. And we believe, we receive it, Father. And Father, I thank you, Lord, the judgment begins in the household of faith first, in the church. And I thank
+- **[26:55](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=1615s) · 本段原话**：Thank you. I'm very intense. I'm very intense because Jesus is coming. He's coming quickly and we don't have time to waste anymore. We don't have time to waste. It's time to get excited and radical for what he's telling us to. So, if you could help me get the gospel spread throughout the whole world,
 
 ### 完整英文 Transcript
 
@@ -758,7 +818,12 @@
 <a id="section-08"></a>
 ## 08. 28:00–28:16 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:02](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=1682s) · 本段原话**：us to preach the gospel throughout the whole world. And so we're excited for what God has for us in 2025. Put a smile on your face and a song in your heart.
+- **[28:12](https://www.youtube.com/watch?v=vCWWtdKHC9w&t=1692s) · 本段原话**：Jesus loves you so much and we love you. God bless you all and I will see you again tomorrow. Bye-bye.
 
 ### 完整英文 Transcript
 

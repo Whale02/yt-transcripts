@@ -5,17 +5,31 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 111；**章节数**: 2；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
 - [01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-01)
 - [02. 04:00–04:57 · 祷告、敬拜与现场互动](#section-02)
 
+## 全片概述与 Key Points
+
+全片共 2 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:23](https://www.youtube.com/watch?v=kT2Ztvgdm3s&t=23s) · 本段原话**：and the Lord showed me a massive storm on the east coast of America and it went all it was as dark as you could could see through like like a dark dark purple dark dark storm and the lightning was was striking through it and it was it was um uh very scary looking in the natural
+- **[04:00](https://www.youtube.com/watch?v=kT2Ztvgdm3s&t=240s) · 本段原话**：power behind it because you're just flippingly saying things I can quote scripture all day long the devil knows the scripture okay he understands the scripture better than a lot of Christians do but it's whenever the word becomes a Rhema to you that it becomes a revelation knowledge that comes out of your spirit that becomes powerful and so
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:23](https://www.youtube.com/watch?v=kT2Ztvgdm3s&t=23s) · 本段原话**：and the Lord showed me a massive storm on the east coast of America and it went all it was as dark as you could could see through like like a dark dark purple dark dark storm and the lightning was was striking through it and it was it was um uh very scary looking in the natural
+- **[01:11](https://www.youtube.com/watch?v=kT2Ztvgdm3s&t=71s) · 他表达判断**：could see the rain drops coming out of the storm but the Lord showed me this massive wall this massive wall and the wall um was was was was probably I'd say five foot thick maybe more but it was all these bricks the bricks were humongous bricks and it went up as high as as probably 30 feet you know or it's
+- **[02:39](https://www.youtube.com/watch?v=kT2Ztvgdm3s&t=159s) · 本段原话**：both together he said if you stay in the secret place of the most high and you abide in that shadow of the Almighty none of that storm is going to come near you but you're going to have to stay close to me and get those scriptures Psalms 91 and Psalms 23 deep down in your heart it has
+- **[03:43](https://www.youtube.com/watch?v=kT2Ztvgdm3s&t=223s) · 本段原话**：get a revelation of it so that when you are submitting yourself unto God and you are resisting the devil he will flee from you but you have to have a revelation of it because if it's not a rainbow word inside of you you might as well be singing Twinkle Twinkle Little Star because it's not going to have any
 
 ### 完整英文 Transcript
 
@@ -112,7 +126,13 @@
 <a id="section-02"></a>
 ## 02. 04:00–04:57 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=kT2Ztvgdm3s&t=240s) · 本段原话**：power behind it because you're just flippingly saying things I can quote scripture all day long the devil knows the scripture okay he understands the scripture better than a lot of Christians do but it's whenever the word becomes a Rhema to you that it becomes a revelation knowledge that comes out of your spirit that becomes powerful and so
+- **[04:24](https://www.youtube.com/watch?v=kT2Ztvgdm3s&t=264s) · 他转述所听到的话**：that's what you need to know whenever that word becomes powerful to you that's whenever you're going to get results and so that's one of the things the Lord told me to tell you when I was praying this morning so I'm gonna I'm gonna end this video there I hope you have a blessed
+- **[04:43](https://www.youtube.com/watch?v=kT2Ztvgdm3s&t=283s) · 本段原话**：day and no no weapon formed against you is going to prosper you got to get that inside of you for what the storms are coming or whatever greater is he that is in you than he that is in the world have a blessed day
 
 ### 完整英文 Transcript
 

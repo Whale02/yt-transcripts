@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 629；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 教会、复兴与信仰](#section-06)
 - [07. 24:00–26:57 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=yXlmA2snUN4&t=0s) · 本段原话**：family I'm excited to be with y'all again today um I'm going to do another reactionary video but in this video I'm going to I'm going to point out that there is not a once saved always saved and I know this is a Hot Topic with a lot of people that get really angry
+- **[04:17](https://www.youtube.com/watch?v=yXlmA2snUN4&t=257s) · 本段原话**：been born again as I told you Peter and different ones was ministers and apostles to the Jews but Paul was the Apostle to the Gentiles and the Very people that Paul became an apostle to and the Gentiles these were people that came out of deep sin they came out of idolatry they came out of all kind of sexual
+- **[08:23](https://www.youtube.com/watch?v=yXlmA2snUN4&t=503s) · 他表达判断**：little bit too yeah never a total commitment never total commitment just dabbling here and dabbling younger okay now I I think I've got that pretty well established I'm having to jump over all kind of notes to get this done but let me talk about inheriting the kingdom now when I give you these
+- **[16:02](https://www.youtube.com/watch?v=yXlmA2snUN4&t=962s) · 本段原话**：won't inherit the Kingdom you're not going to heaven and I'm just going to be honest with you and tell you it's like I said a while ago and I want to be emphatic about this I'm not against anybody but I do not a spouse that once you become a Christian you can never
+- **[20:23](https://www.youtube.com/watch?v=yXlmA2snUN4&t=1223s) · 本段原话**：I know that Grace covers it right cuz that's why my pastor told me but Jesus said I will declare unto them I never I don't even know you I I don't even know you and he said depart from me and other words you're not you're not going to inherit my kingdom you came in the door you came in
+- **[24:20](https://www.youtube.com/watch?v=yXlmA2snUN4&t=1460s) · 本段原话**：tell you to live hot for Jesus get in get in the word get in there and stir yourself up praying and and seeking his face sit at his feet yield yourself to Jesus Christ today repent you're running out of time it's not time to play games anymore Jesus is coming soon and he loves you
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=yXlmA2snUN4&t=0s) · 本段原话**：family I'm excited to be with y'all again today um I'm going to do another reactionary video but in this video I'm going to I'm going to point out that there is not a once saved always saved and I know this is a Hot Topic with a lot of people that get really angry
+- **[01:55](https://www.youtube.com/watch?v=yXlmA2snUN4&t=115s) · 本段原话**：important especially those of you that's watching by live streaming and by God TV I want you to hear this okay there's some things that's going to happen that you're not going to be able to change it by prayer or by pleading or by any other activity MH here's what the Bible says in 2 Timothy 3 1-5 know this
+- **[02:42](https://www.youtube.com/watch?v=yXlmA2snUN4&t=162s) · 本段原话**：of money boasters proud blasphemers disobedient all those things Paul said first of all know this there's 18 things he mentions here and I don't have time to go through those 18 things but I want to show you how he starts and how he ends he said there's 18 moral wicked things of men and he starts off talking about what
+- **[03:34](https://www.youtube.com/watch?v=yXlmA2snUN4&t=214s) · 他表达判断**：notice verse 5 okay second Timothy 3:5 having a form of godliness but denying the power from such turn away now please understand that I am a man of Grace I I understand Grace and I preach Grace I love Grace and I believe in God's mercy but Paul lists 18 things and the 18 things that he lists is not going on
 
 ### 完整英文 Transcript
 
@@ -123,7 +141,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:17](https://www.youtube.com/watch?v=yXlmA2snUN4&t=257s) · 本段原话**：been born again as I told you Peter and different ones was ministers and apostles to the Jews but Paul was the Apostle to the Gentiles and the Very people that Paul became an apostle to and the Gentiles these were people that came out of deep sin they came out of idolatry they came out of all kind of sexual
+- **[05:18](https://www.youtube.com/watch?v=yXlmA2snUN4&t=318s) · 本段原话**：know Sinners are they're unth thankful Unholy unforgiving Slanders without self-control brutal despisers of good traitors headstrong Hy lovers of pleasure rather than lovers of God having a form of godliness and see that shows right there that he's talking to Christians mhm now he's saying look what he's saying in verse one this is the whole key right here he
+- **[06:09](https://www.youtube.com/watch?v=yXlmA2snUN4&t=369s) · 本段原话**：religion they've signed a membership card at the church they shook the preacher's hand but they live like the devil see now let me hurry on So It Begins and ends with what people love people love themselves and the Bible says in the last days that people would love themselves they they're going to love
+- **[07:15](https://www.youtube.com/watch?v=yXlmA2snUN4&t=435s) · 本段原话**：days in the last days so this is a group of self-absorbed Christians in the last days now I've got to cover this in a hurry now I want I want to share this with you I want you you listen to me carefully this is a tough one okay here we go there is a difference in entering the
 
 ### 完整英文 Transcript
 
@@ -232,7 +257,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:23](https://www.youtube.com/watch?v=yXlmA2snUN4&t=503s) · 他表达判断**：little bit too yeah never a total commitment never total commitment just dabbling here and dabbling younger okay now I I think I've got that pretty well established I'm having to jump over all kind of notes to get this done but let me talk about inheriting the kingdom now when I give you these
+- **[09:11](https://www.youtube.com/watch?v=yXlmA2snUN4&t=551s) · 本段原话**：you three passages of scripture in Galatians one in Ephesians there's three of them when you see these you're going to think no Pastor you're wrong he's writing to the Sinners just want you to just put a check on your mouth until you criticize and just wait for your criticism until you hear me out
+- **[10:26](https://www.youtube.com/watch?v=yXlmA2snUN4&t=626s) · 本段原话**：deceived oh why would he write such a thing to Sinners sense he's saying to the Christians don't be deceived don't be deceived now watch this let me give you the whole passage this is a little shocking when I'm going to read it but I want you to hear me it is a perfect picture of
+- **[11:35](https://www.youtube.com/watch?v=yXlmA2snUN4&t=695s) · 本段原话**：saved yeah you let some preacher preach to you that Grace saves you regardless and everything's going to be all right I beg your pardon ladies and gentlemen I'm quoting the Apostle Paul I'm not quoting Pastor soand so of today's world in today's world the gospel has been so watered down and it's so deceptive that
 
 ### 完整英文 Transcript
 
@@ -330,7 +362,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=yXlmA2snUN4&t=720s) · 本段原话**：right but one thing I want to tell you is this I'm not going to intentionally mislead anybody I'm not going to put you under a burden I'm not going to put you under condemnation but I am going to tell you the truth come on now do you not realize those who do wrong will not inherit the Kingdom don't
+- **[12:21](https://www.youtube.com/watch?v=yXlmA2snUN4&t=741s) · 本段原话**：fool yourselves those who indulge in sexual sin those who worship idols and commit adultery are male prostitutes are practice homosexuality are thieves are greedy people are drunkards or abusive or cheap people none of these will will inherit the kingom the kingdom now what does it mean it means they came in the door and they
+- **[12:50](https://www.youtube.com/watch?v=yXlmA2snUN4&t=770s) · 本段原话**：entered but after entering in they have lived such a life and their life has deteriorated in into such sin that Paul said shouldn't even be mentioned among the household of faith right that now he said they can't inherit the Kingdom MH I'm going to read it to you one more time I can't not not read
+- **[14:42](https://www.youtube.com/watch?v=yXlmA2snUN4&t=882s) · 本段原话**：scripture it's a rebuked epistle those that don't need to be rebuked won't be rebuked by it they'll say I'm clean and I'm washed but they also looking around seeing all this Behavior going on in the church and they're saying thank God Paul addressed this MH I wish in our time we had preachers that would address this today
 
 ### 完整英文 Transcript
 
@@ -435,7 +474,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:02](https://www.youtube.com/watch?v=yXlmA2snUN4&t=962s) · 本段原话**：won't inherit the Kingdom you're not going to heaven and I'm just going to be honest with you and tell you it's like I said a while ago and I want to be emphatic about this I'm not against anybody but I do not a spouse that once you become a Christian you can never
+- **[16:16](https://www.youtube.com/watch?v=yXlmA2snUN4&t=976s) · 本段原话**：backslide you can backslide and you can go straight to hell yes right that's right may not be popular to say [Applause] it okay let me give you this third third scripture and I'm going to have to close Paul had written this letter now to the Ephesians this is the Ephesians see the
+- **[18:09](https://www.youtube.com/watch?v=yXlmA2snUN4&t=1089s) · 本段原话**：I'm going to do and so here's what it says in three different places in the New Testament Paul said these type people cannot inherit the Kingdom three good scripture close three I'm not through out of mouth of two or three Witnesses let every word be EST it's even biblical Ste to shes next week
+- **[19:21](https://www.youtube.com/watch?v=yXlmA2snUN4&t=1161s) · 本段原话**：see him as Lord in Christ so it means you've had a born- again experience and I'm going to prove it by two other ways second thing thing he said was did we not prophesy hold on just a minute take it off you don't he didn't say they were acting like they were prophesying he said they prophesied
 
 ### 完整英文 Transcript
 
@@ -540,7 +586,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:23](https://www.youtube.com/watch?v=yXlmA2snUN4&t=1223s) · 本段原话**：I know that Grace covers it right cuz that's why my pastor told me but Jesus said I will declare unto them I never I don't even know you I I don't even know you and he said depart from me and other words you're not you're not going to inherit my kingdom you came in the door you came in
+- **[20:51](https://www.youtube.com/watch?v=yXlmA2snUN4&t=1251s) · 本段原话**：the door you entered the door you salvation but you're not going to have no part of the inheritance you better wake up right so there it is folks there it is you came in the door but you're not going to inherit it if you're living in sin how many times did he say it there
+- **[21:56](https://www.youtube.com/watch?v=yXlmA2snUN4&t=1316s) · 本段原话**：enough to make you realize hey if you're living in a compromising state if you're living in a in a sin State and you think that you're born again and you think he's going to say depart from me I never knew you and and I and I don't want that to happen to you I need you to realize
+- **[23:08](https://www.youtube.com/watch?v=yXlmA2snUN4&t=1388s) · 他描述所见**：and hearing it I'm trying to help you all I walked with Jesus in Tribulation I saw all the Christians that were left here I saw them get their heads chopped off because they were living in a compromising lifestyle and they didn't think they didn't think they were in sin they thought they were okay they thought
 
 ### 完整英文 Transcript
 
@@ -641,7 +694,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–26:57 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:20](https://www.youtube.com/watch?v=yXlmA2snUN4&t=1460s) · 本段原话**：tell you to live hot for Jesus get in get in the word get in there and stir yourself up praying and and seeking his face sit at his feet yield yourself to Jesus Christ today repent you're running out of time it's not time to play games anymore Jesus is coming soon and he loves you
+- **[24:43](https://www.youtube.com/watch?v=yXlmA2snUN4&t=1483s) · 本段原话**：but but he's not going to have somebody's full of a world and and and all living in living like the devil so I hope this this this helped shake you a bit today and it make you realize where we are that we are in perilous times will come in the last days folks we're living in the last
+- **[26:07](https://www.youtube.com/watch?v=yXlmA2snUN4&t=1567s) · 本段原话**：from your wicked ways and he said he would direct your path he's going to he's going to cleanse you from all unrighteousness today's your day and if you if you said a sinner's prayer you believe it in your heart you believe Jesus Christ dwelt on the he died on the cross for you and he rose on
+- **[26:24](https://www.youtube.com/watch?v=yXlmA2snUN4&t=1584s) · 他表达判断**：the third day you don't doubt it you're saved I believe with all my heart now it's time to turn away from all that crap get away from the sin run away from it and I believe with all my heart I'm going to see you when we get up there in the Rapture in the church maybe your
 
 ### 完整英文 Transcript
 

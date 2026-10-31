@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 381；**章节数**: 5；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -15,10 +15,27 @@
 - [04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-04)
 - [05. 16:00–17:35 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-05)
 
+## 全片概述与 Key Points
+
+全片共 5 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:30](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=30s) · 他描述所见**：what what was you about what was you doing today you know and I said I just curious you know just talking to him like I normally do and all of a sudden he said Brandon I'll show you what I was doing and he opened up a portal over my living room and I saw him
+- **[04:45](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=285s) · 本段原话**：draped in the and it was so decorated so perfect it was like a wedding reception okay and it was just everything was just Immaculate gorgeous and so I I try to CT capture and tell you everything you know what what the Lord showed me this beautiful banquet there was some kind of little lights it looked like and and
+- **[08:18](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=498s) · 本段原话**：those those those King banners that had like king of kings and Lord of lords on these banners and all the banners were going down the street and people had them like they were celebrating like they were rejoicing and you could see and this is going to sound really crazy but there was confetti in the air I
+- **[12:17](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=737s) · 本段原话**：over here I don't even know what it was but it was so beautiful this massive castle looking uh building was was over here where he was riding his horse and all the people were there and they had their gowns on and this is what's really amazing too everybody that was worship worshiping him on those horses had
+- **[16:01](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=961s) · 他描述所见**：people dying of a disease or whatever their their loved ones are are are far away from the Lord father we thank you Lord you showed me in a vision today Lord like little birds and I said father they're like little birds chirping in a mama's nest and and they and and they're asking help help help cheap cheap cheap
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:30](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=30s) · 他描述所见**：what what was you about what was you doing today you know and I said I just curious you know just talking to him like I normally do and all of a sudden he said Brandon I'll show you what I was doing and he opened up a portal over my living room and I saw him
+- **[00:46](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=46s) · 他描述所见**：uh this is this this is pretty cool I saw him getting our our table ready for our banquet a massive tables massive tables for for a reception for us when we come home every plate was so perfect but every plate was different okay it was a flower but my plate that was in front of
+- **[01:36](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=96s) · 他描述所见**：card and my name was written on the plate as a place it was a it was a a a reserved seat for me for this banquet that we will we will partake in when we go in the rap when the Rapture of the church happens this is one of the first things that happens I saw a a banquet he
+- **[03:38](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=218s) · 本段原话**：of these trees there was trees and I don't know where these trees like these huge massive uh oak trees like you would see in like Louisiana at those Plantation houses it was outside area it wasn't like in a in a building or like a palace looking uh Arrangement area this this reception is outside there was
 
 ### 完整英文 Transcript
 
@@ -118,7 +135,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:45](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=285s) · 本段原话**：draped in the and it was so decorated so perfect it was like a wedding reception okay and it was just everything was just Immaculate gorgeous and so I I try to CT capture and tell you everything you know what what the Lord showed me this beautiful banquet there was some kind of little lights it looked like and and
+- **[05:06](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=306s) · 本段原话**：this is it sounds really weird like twinkle lights inside of it like inside of the um the tooling and the pearls and it was just it was absolutely gorgeous everything was the the the play settings the the the vases with flowers and everything and it was so uh so precious his celebration for us when we come home
+- **[06:40](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=400s) · 本段原话**：everybody that that has died before you they're waiting for you and we are going to celebrate all the people this massive amount of all the church that is coming home in the in the Rapture he said we're going to have a massive like a parade it's like it's like a um a a re it's a
+- **[07:38](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=458s) · 本段原话**：had people all lying down it would look like a massive Town it looked like a city I could see both sides buildings there was massive buildings all beautifully designed kind of like you would see in Europe they had um old uh like like English Style roofs and it was
 
 ### 完整英文 Transcript
 
@@ -217,7 +241,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、经济、银行与市场
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、经济、银行与市场、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、经济、银行与市场展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:18](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=498s) · 本段原话**：those those those King banners that had like king of kings and Lord of lords on these banners and all the banners were going down the street and people had them like they were celebrating like they were rejoicing and you could see and this is going to sound really crazy but there was confetti in the air I
+- **[09:15](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=555s) · 本段原话**：he was riding his horse and his horse had a um Bridal that was had all these jewels on his horse his horse was beautiful his horse had and uh the the the the thing that goes in the front of the horse had these beautiful diamonds and all these beautiful emerald looking things the
+- **[10:27](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=627s) · 本段原话**：time just to to love hon his people people have no idea how much Jesus loves you and how much he takes thought for every for everything for everything every detail from the plates to the forks to the parade he's so excited for his children to come home
+- **[10:59](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=659s) · 本段原话**：he's waiting on us when When God says go he's coming back for us and we're going to rule and reign with him forever and ever for the king he is good Jesus is good and his Mercy endures forever there was a bridge with this huge River going through
 
 ### 完整英文 Transcript
 
@@ -307,7 +338,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:17](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=737s) · 本段原话**：over here I don't even know what it was but it was so beautiful this massive castle looking uh building was was over here where he was riding his horse and all the people were there and they had their gowns on and this is what's really amazing too everybody that was worship worshiping him on those horses had
+- **[13:20](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=800s) · 本段原话**：colors on these robes and they were um emblems and things of Honor uh for what you did on the earth okay what you did for him and it was beautiful all the different stuff like I said and there was patches and they were thick they were thick beautiful robes and um I couldn't see the people's faces
+- **[13:43](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=823s) · 本段原话**：you know cuz it was like it was they were all standing like their back I was looking at their backs toward they were facing like their backs were towards me and on the other side of the street I could see the people a little bit and um they were all on lining the
+- **[14:57](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=897s) · 本段原话**：of really cool uh Jewel tools and things on it it was gorgeous this Crown was gorgeous and it had this white it looked like some kind of um Banner around the bottom of it like it was purple and it had all kinds of really cool uh stuff around the bottom of this this Crown like fur you know
 
 ### 完整英文 Transcript
 
@@ -400,7 +438,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–17:35 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=961s) · 他描述所见**：people dying of a disease or whatever their their loved ones are are are far away from the Lord father we thank you Lord you showed me in a vision today Lord like little birds and I said father they're like little birds chirping in a mama's nest and and they and and they're asking help help help cheap cheap cheap
+- **[16:21](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=981s) · 他描述所见**：and I saw them in the spirit Lord and I said God there's so many mouths to feed I can't do it all I don't know what you want me to do and you said to me it's my job Brandon the holy spirit will take care of this and I saw that big bird
+- **[16:37](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=997s) · 他进行祷告**：dump a whole bunch of worms on them little babies and today I pray that for you the holy spirit's going to meet you every need you have right where you're at Jesus has got this for you I call Healing over your bodies I call Deliverance over you in jesus' name I call restoration over your marriages you
+- **[16:57](https://www.youtube.com/watch?v=DmQfdB7Jmrw&t=1017s) · 他进行祷告**：may be having marriage problems I call restoration over your marriages in jesus' name I call blessing over your home in Jesus name financially I call it father that Lord that the Lord would bless you and keep you may his face shine upon you and be gracious to you and give you peace I call those
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 844；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 - [10. 36:00–36:18 · 教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=0s) · 他描述所见**：hey good morning family how y'all been doing um I've been doing good I I just had this on my heart and I just you know I see so many people down in the comments below saying please pray for me I get a lot of emails people asking for prayer for healing and for deliverance
+- **[08:02](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=482s) · 本段原话**：looks like it's never going to change in your life you've got to believe God and know that all things are possible to him who believe and this was one of those things it seemed impossible that Megan would never get her teeth cleaned and that we would never have it I'm telling a a full cleaning is what I'm trying to
+- **[16:02](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=962s) · 本段原话**：dying and I said okay I said what happened to you he said I sprayed Roundup on uh ditches for the government for 35 years and I breathed all that uh toxic um fumes in spraying chemicals and it killed it destroyed my lungs and I need a lung transplant and the doctor tells me I'm getting ready to
+- **[20:17](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=1217s) · 他描述所见**：unlocked on Saturday mornings that was my job and I got it ready so in this time I was I was praying up at the front and um all of a sudden I see this Angel come in out of out of the side of the CH the the the wall and he's at the front of the
+- **[28:28](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=1708s) · 本段原话**：healed from diabetes and heart disease and and clogged arteries and all the things that the the the body tries to do to be in rebellion and and because we feed at wrong things but God you're merciful and we call Healing over their bodies right now over stroke victims and over stroke uh in their brains and pain
+- **[36:00](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=2160s) · 他进行祷告**：everybody be encouraged today be encouraged that's what I'm trying to tell you all God bless you guys ladies and gentlemen God bless you all in Jesus name we'll put a smile on your face and a song in your heart Jesus loves you so much and we love you and we will see you
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、疾病、医疗与药品、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、疾病、医疗与药品展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=0s) · 他描述所见**：hey good morning family how y'all been doing um I've been doing good I I just had this on my heart and I just you know I see so many people down in the comments below saying please pray for me I get a lot of emails people asking for prayer for healing and for deliverance
+- **[00:18](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=18s) · 他表达判断**：and and and needing new body parts new organs new all kinds of stuff you know and and there's nothing too big for our God I want to encourage you today that it whatever it may be you may be on death's doorstep just seconds away from just stepping on over and being into Glory but but I believe with all my
+- **[00:57](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=57s) · 他表达判断**：released you and they've told you you're going to die and so many days I'm telling you nothing is impossible for our Lord nothing all things are possible to him that believes and I believe that he became sick that we don't have to have sickness anymore and Galatians 3:13 says that Christ redeemed us from the
+- **[03:15](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=195s) · 本段原话**：need to Bear it if he took it in his body I'm not going to take it in my body Satan I'm not taking your poo poo package he comes all the time with the poo poo package and it's full of his all his doubt and all his unbelief and all his worry and all his Stu telling you
 
 ### 完整英文 Transcript
 
@@ -130,7 +148,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:21](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=261s) · 本段原话**：diabetes to be gone with her she's ask for uh Joyce with their kidneys standing with people that were believing are and are believing for they're still their manifestation of what they're of whatever they need okay so you know what sometimes there's a process we see we see healing uh gradual sometimes but sometimes it's instantaneous but
+- **[05:48](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=348s) · 本段原话**：something and brought it back for encouragement showing the Lord wanted him to tell Hey listen the flood's over it's it's today's your day of turnaround so even if you get a little bit of something something today don't despise Small Beginnings get excited about the little things that's what I do with my daughter Megan when we see something we
+- **[06:08](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=368s) · 本段原话**：got we went to church as a family and we sat and got to go to one of the most amazing churches in in in tuls Oklahoma this uh this last week and blessed us a lot we hadn't been to church and sit in a real good church service with my daughter in a long time
+- **[07:00](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=420s) · 本段原话**：and we gave God the praise for it and I'm just telling you we're expecting we we this is another testimony I'll tell you about her for 14 years she wouldn't go to the dentist for 14 years they weren't able to touch her teeth because she'd bite them if she they tried and then one day one day I told
 
 ### 完整英文 Transcript
 
@@ -237,7 +262,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:02](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=482s) · 本段原话**：looks like it's never going to change in your life you've got to believe God and know that all things are possible to him who believe and this was one of those things it seemed impossible that Megan would never get her teeth cleaned and that we would never have it I'm telling a a full cleaning is what I'm trying to
+- **[09:34](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=574s) · 本段原话**：cancer another woman had uh uh incurable heart disease and God miraculously touched them and I'm telling you Jesus will touch you too he's no respector of person ladies and gentlemen and what he'll do for one he will do for you and I just want to encourage you today and I'll be right back after this these
+- **[10:39](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=639s) · 他转述所听到的话**：cleaning and I was cleaning the room I I remember like you was yesterday and she was just got out of women's Bible study and she come to me and she said uh hey Brandon uh I heard that if you would pray for my little boy he's right here he was standing there he was about 78
+- **[11:37](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=697s) · 他表达判断**：God went in that tumor and instantaneously I started to feel it kind it was going down well I just told her I said you it hasn't tot him manifested yet but you just Rejoice for the rest of the night CU I believe the Lord's healing that tumor it's going away that cancerous tumor and she said
 
 ### 完整英文 Transcript
 
@@ -334,7 +366,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=720s) · 他表达判断**：that tumor lady I said I don't remember her name I'm sorry um I said I felt the anointing go into that your son's that his his face and I said I believe he's healed so let's just keep rejoicing the next week she came back to Bible study and she brought her little boy and she said I took my son to the
+- **[12:25](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=745s) · 本段原话**：doctor's office to get a a a a certific ifate of health of of that doctor releasing him that tumor was completely gone by the power of God they came back to give God praise and to tell me and show me his face it was completely smooth brand new all this that cancer was completely gone out of his body and
+- **[13:34](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=814s) · 本段原话**：testimony I want to tell you about another testimony now this was a really this was really cool because um I didn't expect this Beyond any you know or whatever I was mowing my grandmother's yard for her she's she's older and uh she's in her almost 90s and I try to help her out so I was mowing the grass
+- **[14:53](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=893s) · 他描述所见**：for a and he did that for a long ways I saw him coming and um the Lord said get off that mower right now and go and pray for that man I said what I said Lord are you serious I don't know the him he said I don't care go pray for him right now do
 
 ### 完整英文 Transcript
 
@@ -438,7 +477,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:02](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=962s) · 本段原话**：dying and I said okay I said what happened to you he said I sprayed Roundup on uh ditches for the government for 35 years and I breathed all that uh toxic um fumes in spraying chemicals and it killed it destroyed my lungs and I need a lung transplant and the doctor tells me I'm getting ready to
+- **[17:02](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=1022s) · 他表达判断**：hug I said I believe you're healed today today your day for your miracle and just trying to speak encouragement to him and um but like I said I didn't feel nothing uh but who said you were going to you know so couple weeks go by I'm outside mowing again Grandma's taking care of it
+- **[18:08](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=1088s) · 本段原话**：body the night I went home and he says and I'm completely healed and I'm running his skin was completely black like it was supposed to be cuz he was African-American no more gray his lips weren't purple he was completely healed and he started talking to me he wasn't a Christian he didn't even know the
+- **[19:15](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=1155s) · 他描述所见**：when he was on this Earth he's still a miracle workking God and nothing is nothing is impossible if you believe I saw a man need a lung transplant get two brand new lungs that wasn't even a believer and came back to tell about what God did for him and we talked about Jesus of course he's a Believer now we
 
 ### 完整英文 Transcript
 
@@ -534,7 +580,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:17](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=1217s) · 他描述所见**：unlocked on Saturday mornings that was my job and I got it ready so in this time I was I was praying up at the front and um all of a sudden I see this Angel come in out of out of the side of the CH the the the wall and he's at the front of the
+- **[20:34](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=1234s) · 他描述所见**：ceiling and he dive bombs in and he he looks he's it's like a streak of light it's moving he's moving so fast and I see him and he's like like like he's like a rocket and he has a heart in his hand and he dumps that heart out of his hands as he's flying and he just swoops
+- **[21:58](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=1318s) · 他表达判断**：want to tell you what happened she said um I went to I had a doctor's appointment on Thursday and um I went and told the doctor that that I that I believe I'm Healed and I and I wanted him to check my heart out again and everything and and so she said I started
+- **[23:09](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=1389s) · 本段原话**：wanted him to get a certificate of Health like to prove her her documentation of a healing so that the people wouldn't go oh yeah sure you got healed so he wrote all of it out and had a huge paper and signed a signature on it and everything she showed me the piece of paper in the foyer of the
 
 ### 完整英文 Transcript
 
@@ -644,7 +697,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:02](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=1442s) · 本段原话**：skip around so so this is so she tells me he is coming to church and he gave his heart to make a long story short he gave his heart to Jesus Christ and started going to church with her because of her healing he started coming to church all the time and and was really
+- **[25:38](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=1538s) · 他表达判断**：found doctor after doctor after help me help me help me she spent all she had but she grew worse but she touched the Hem of His Garment and he said daughter your faith has made you whole virtue went out of him virtue is going to come out today through this camera and and I believe right where you
+- **[26:35](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=1595s) · 本段原话**：go watch my video uh about the going to crucifixion and and Jesus showed me his crucifixion go watch that video it'll bless you I'm telling youall if you find it in the description you go down there and you watch it it will bless you because I jesus I went out of my body
+- **[27:32](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=1652s) · 他表达判断**：heal you and deliver you okay so let's believe together father I just thank you right now for every single one of these people that are believing for a manifestation of a healing there they've been searching high and low going to doctors they've been to everything but they probably spent they could be just
 
 ### 完整英文 Transcript
 
@@ -748,7 +808,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:28](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=1708s) · 本段原话**：healed from diabetes and heart disease and and clogged arteries and all the things that the the the body tries to do to be in rebellion and and because we feed at wrong things but God you're merciful and we call Healing over their bodies right now over stroke victims and over stroke uh in their brains and pain
+- **[28:48](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=1728s) · 本段原话**：in their arteries or whatever it may be arthritis we call arthritis healed and whole and well we call them well right now in Jesus J name we thank you Father we call we're calling those things that be not as though they were and these and every single one of these people are healed of in whole and well of
+- **[29:35](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=1775s) · 他描述所见**：healing power on our bodies right now from all disease from All sickness from all demonic oppression I see the addictions oh I y'all just saw something right then listen PTSD I command you you to leave right now in the name of Jesus you PTSD you go now you leave that person
+- **[30:08](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=1808s) · 本段原话**：alone I call them delivered from the top of their head to the soles of the feet I call them delivered from PTSD whether it is from war or from off an off-duty officer or whatever it doesn't matter I call you delivered right now in the name of Jesus from p TSD whatever it may be
 
 ### 完整英文 Transcript
 
@@ -842,7 +909,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[33:10](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=1990s) · 本段原话**：custody of their kids again because they're delivered by the power of Jesus he is making everything whole again Spirit soul body financially all of it restoring that family back we call those families restored father their kids may be in in DHS custody they may not be able to even be around their daddy or
+- **[34:12](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=2052s) · 本段原话**：alcoholism or sexual perversions and Drug addictions and it keeps passing down and and it's a familiar spirit that keep going on these these people Jesus wants you free from that you don't have to have that you don't have to pass it down to your family and your next generation gener ation we call those
+- **[35:27](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=2127s) · 本段原话**：Bell click a thumbs up it helps with the algorithms comment down below something nice today if you were healed today and you got set free from something tell somebody below and tell them that Jesus healed you and that your life's been changed and set free tell them about your healing Miracle people need to hear
+- **[35:46](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=2146s) · 他表达判断**：encouragement right now the Lord told me they need my people need to be encouraged today tell them I I'm telling you there's a lot of folks that needed healing today and I believe you received it thank you all thank you all for telling
 
 ### 完整英文 Transcript
 
@@ -948,7 +1022,12 @@
 <a id="section-10"></a>
 ## 10. 36:00–36:18 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:00](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=2160s) · 他进行祷告**：everybody be encouraged today be encouraged that's what I'm trying to tell you all God bless you guys ladies and gentlemen God bless you all in Jesus name we'll put a smile on your face and a song in your heart Jesus loves you so much and we love you and we will see you
+- **[36:16](https://www.youtube.com/watch?v=9ZHti0hyaxw&t=2176s) · 本段原话**：all next time y'all have a blessed day see y'all later bye-bye
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 259；**章节数**: 3；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -13,10 +13,25 @@
 - [02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-02)
 - [03. 08:00–11:13 · 预言、梦境与异象、教会、复兴与信仰](#section-03)
 
+## 全片概述与 Key Points
+
+全片共 3 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=6Qwj2sJz6Pg&t=0s) · 他描述所见**：Hello, Miss Billy. This is Brandon. Of course, you know, but I just had this visitation that I have to tell you about privately on on this. I'm sitting here after it was over and the Lord said, "Make a video. Don't call her on the phone and just tell her." So, this is what I saw. I saw Lucy. I saw Brother
+- **[04:02](https://www.youtube.com/watch?v=6Qwj2sJz6Pg&t=242s) · 本段原话**：Wilkerson was sitting on with these other women. And like I said, Lucy was in the chair. And brother Halverson was sitting next to Lucy. And I could see him and I could see the the quilt was on the ground, but there was flowers, these beautiful little little daisies on top of the purple square looking quilt
+- **[08:23](https://www.youtube.com/watch?v=6Qwj2sJz6Pg&t=503s) · 他描述所见**：And I saw a revival coming Minnesota. And I saw a revival coming in Branson. I saw a revival coming to Eagle Mountain Church. I saw a revival coming in in in Collinsville, Oklahoma." And he said, "Brandon, there's going to be hot spots throughout uh the world around America."
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=6Qwj2sJz6Pg&t=0s) · 他描述所见**：Hello, Miss Billy. This is Brandon. Of course, you know, but I just had this visitation that I have to tell you about privately on on this. I'm sitting here after it was over and the Lord said, "Make a video. Don't call her on the phone and just tell her." So, this is what I saw. I saw Lucy. I saw Brother
+- **[00:19](https://www.youtube.com/watch?v=6Qwj2sJz6Pg&t=19s) · 他描述所见**：Halverson. I saw Jeanie Wilkerson. And they were I'll tell you what I saw. I was interceding and all of a sudden in my video tonight I was caught up in the spirit and I got taken in a in a and I I I was hearing people sing with me and I was singing from glory to glory he's
+- **[00:40](https://www.youtube.com/watch?v=6Qwj2sJz6Pg&t=40s) · 他转述所听到的话**：changing me changing me and all of a sudden I heard other voices in my room singing this song with me as I was worshiping and the glory and Diana could smell the fragrance of the father and Jesus I'm here with you and all of a sudden I could hear from glory to glory
+- **[03:40](https://www.youtube.com/watch?v=6Qwj2sJz6Pg&t=220s) · 他转述所听到的话**：interceding for the revival. They're travailing for the revival. But as I I could see Okay. Oh, the Lord said, "Don't skip around." I got to tell you about the patchwork quilt. The patchwork quilt had they were all pastel colors. I could see purple. I could see blue. I could see pink. I could see um white on
 
 ### 完整英文 Transcript
 
@@ -122,7 +137,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:02](https://www.youtube.com/watch?v=6Qwj2sJz6Pg&t=242s) · 本段原话**：Wilkerson was sitting on with these other women. And like I said, Lucy was in the chair. And brother Halverson was sitting next to Lucy. And I could see him and I could see the the quilt was on the ground, but there was flowers, these beautiful little little daisies on top of the purple square looking quilt
+- **[05:31](https://www.youtube.com/watch?v=6Qwj2sJz6Pg&t=331s) · 他描述所见**：A new way for a new generation is what the father said. A new way for a new generation. and I will visit Living Word one more time with this great move of my presence. And I saw I saw a glorious fire all over uh Living Word Church there in Minnesota. And I heard brother
+- **[05:52](https://www.youtube.com/watch?v=6Qwj2sJz6Pg&t=352s) · 他转述所听到的话**：Halverson was praying Minnesota, Minnesota. And he was travailing Minnesota. And he was he was he was calling for revival. Minnesota, Minnesota. And he was he was travailing over this as I was hearing it echo as Lucy and was rocking in this chair and he was they were both praying back and forth with each other and I heard it.
+- **[07:35](https://www.youtube.com/watch?v=6Qwj2sJz6Pg&t=455s) · 他转述所听到的话**：Okay. Heaven and earth. Heaven and earth are going to collide. The Lord said heaven and earth are going to collide. And he said, "In one moment, in everything that I've ever desired, the the greatest harvest of souls, Brandon, everything's going to change in a 24-hour period.
 
 ### 完整英文 Transcript
 
@@ -214,7 +236,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:13 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:23](https://www.youtube.com/watch?v=6Qwj2sJz6Pg&t=503s) · 他描述所见**：And I saw a revival coming Minnesota. And I saw a revival coming in Branson. I saw a revival coming to Eagle Mountain Church. I saw a revival coming in in in Collinsville, Oklahoma." And he said, "Brandon, there's going to be hot spots throughout uh the world around America."
+- **[08:54](https://www.youtube.com/watch?v=6Qwj2sJz6Pg&t=534s) · 他描述所见**：he said, "Brennon." And then he said, "I'm going to shake all the temples in India. I will shake the temples down, the false gods, and I'm going to break them down and they're going to there's going to be major earthquakes." And I saw a major revival, a flood. He said, "I'm shaking it, Brandon, and I'm going
+- **[09:10](https://www.youtube.com/watch?v=6Qwj2sJz6Pg&t=550s) · 他描述所见**：to I'm going to visit India. I'm going to visit China." And I saw a great revival coming in like we've never seen before in these areas. And so, it all came out of the prayer as Lucy was and and them were interceding for a revival for America, for heaven and earth are going to be invaded together. They're
+- **[10:31](https://www.youtube.com/watch?v=6Qwj2sJz6Pg&t=631s) · 他描述所见**：The great cloud of witnesses. Jesus is coming. And it's it it's something that I'll never forget the rest of my life what Jesus just showed me. And it's so beautiful. Our our Jeannie Wilkerson looks so nice. her skooked so young and every vision in this vision I saw her skin was so young and and in and all the
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 499；**章节数**: 6；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -16,10 +16,28 @@
 - [05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-05)
 - [06. 20:00–20:43 · 祷告、敬拜与现场互动](#section-06)
 
+## 全片概述与 Key Points
+
+全片共 6 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:14](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=14s) · 本段原话**：and fro throughout the whole earth looking for a heart who's perfect toward him my message today is how big how bad is your want to and you know what if you want to go do things for Jesus and you want to walk in the authority of and the and the power and the Victory of the
+- **[04:00](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=240s) · 他表达判断**：he knew that if he could just have an A Encounter With Jesus his his eyes would be made whole you know he probably heard about all the people that have been healed before him with Leprosy the lepers walking down the path before him because he was out there all the time begging for money but he probably heard
+- **[08:47](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=527s) · 他描述所见**：he that is in the world I'm not moved by what I see I'm not moved by what I feel devil you may try to knock me down but I'm going to keep standing up you can't keep knocking me down it's just like that old clown there's those little punching bags you keep punching them but
+- **[12:39](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=759s) · 他描述所见**：in this video you know I'm I'm I'm I I see people are discouraged and they're and and they're not uh excited about life there's a lot of people that are down but I'm here to tell you it's time to get excited it's time to be enthusiastic it's time to know that all things are possible to him who believes
+- **[16:00](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=960s) · 本段原话**：maybe you have autism I command autism to go from you in the name of Jesus I call healing and wholeness and wellness from the top of your head to the soles of your feet I speak to drug addictions and pornography addictions and and in all kinds of alcohol addictions and any kind of addictions of perversion of any
+- **[20:02](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=1202s) · 本段原话**：abundance to the full to it overflows I hope this message blessed you today I thank you for being a part of my family and a part of my subscribers and being a part of this all the likes the shares the love gifts it means so much to us it's a big blessing to my family I just want to say thank
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:14](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=14s) · 本段原话**：and fro throughout the whole earth looking for a heart who's perfect toward him my message today is how big how bad is your want to and you know what if you want to go do things for Jesus and you want to walk in the authority of and the and the power and the Victory of the
+- **[01:13](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=73s) · 本段原话**：anoint every single one of those warts with oil and I'm believing I'm going to be healed and I was just like s years old and every night I would go in and even sometimes whenever he would forget he would come in and he and he would he would go to bed and and I would go in
+- **[02:25](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=145s) · 本段原话**：inside of me it kept coming back and saying Daddy anoint those Wars those warts with oil and Jesus is going to heal me well one morning I woke up and they were laying all beside me in my bed they were laying all around me all those warts had fallen off of my body glory to
+- **[03:36](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=216s) · 本段原话**：faith that says I'm not giving up I'm going to keep on my want to the blind bar of meus was at the the gate and he was in there yelling Jesus Son of David have mercy on me he kept yelling and they kept saying shut up beggar shut up Blind by m he was yelling oh they try to
 
 ### 完整英文 Transcript
 
@@ -124,7 +142,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=240s) · 他表达判断**：he knew that if he could just have an A Encounter With Jesus his his eyes would be made whole you know he probably heard about all the people that have been healed before him with Leprosy the lepers walking down the path before him because he was out there all the time begging for money but he probably heard
+- **[04:56](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=296s) · 他表达判断**：the woman with the issue of blood here she is she spent all all that she had but yet rather grew worse the Bible says but she knew if she could just press she probably heard about the Miracles too but she was weak because she had a issue of blood she kept bleeding and bleeding
+- **[06:34](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=394s) · 本段原话**：be born again how bad do you want to be filled with the Holy Ghost there's some of you out there I've seen the comment section well I I tried it for a couple of minutes well I wanted to be baptized in the Holy Ghost well I tried it and it didn't work how bad is you want to there
+- **[07:23](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=443s) · 本段原话**：laid in the corner and he he sit there and waited and he thought well I'll just wait right here until morning until I can yell and maybe somebody will hear me to help me get out of this hole so lo and behold he just sat in the corner and he was waiting in the dark lo
 
 ### 完整英文 Transcript
 
@@ -236,7 +261,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:47](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=527s) · 他描述所见**：he that is in the world I'm not moved by what I see I'm not moved by what I feel devil you may try to knock me down but I'm going to keep standing up you can't keep knocking me down it's just like that old clown there's those little punching bags you keep punching them but
+- **[10:32](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=632s) · 他描述所见**：of Doubt all my times in my life I've always had that that Bulldog faith and that's why I'm still standing for my little girl that she's going to be healed my want too stronger than the circumstances of what I see every day my want to is great and it's not I'm not giving up I'm still standing on the word
+- **[10:50](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=650s) · 本段原话**：because I know that he is going to bring forth the miracle Abraham staggered not at the promise of God through unbelief but was strong strong in faith giving glory to God being fully persuaded that what God had promised he was able also to perform it even with the deadness of Sarah's womb even with the deadness of
+- **[11:31](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=691s) · 他描述所见**：me his want to was bigger than his flesh the signs of his flesh and he kept and then he said I stagger not at the promise of God I'm not going to be moved by what I see I'm not moved by what I feel I'm moved by what the word says and so faith without works is dead and he
 
 ### 完整英文 Transcript
 
@@ -345,7 +377,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:39](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=759s) · 他描述所见**：in this video you know I'm I'm I'm I I see people are discouraged and they're and and they're not uh excited about life there's a lot of people that are down but I'm here to tell you it's time to get excited it's time to be enthusiastic it's time to know that all things are possible to him who believes
+- **[13:00](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=780s) · 他进行祷告**：there's nothing too big for God he there's a there is a a way to move a mountain Mark 11:23 verse 24 says whatsoever things you desire When you pray believe that you receive them and you shall have them and if you shout out doubt in your heart you shall have whatsoever things you say and and you
+- **[14:30](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=870s) · 他表达判断**：all the true social and all these people that are on these these platforms I believe right now in the name of Jesus for every need they have for every for every desire of their heart you father you said in your word that you give us the the desires of our heart and father
+- **[15:29](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=929s) · 本段原话**：name of Jesus I speak to cancers I speak to diabetes you go from their bodies right now in the name of Jesus I call them healed and whole and well I call uh brain tumors to go in the name of Jesus I speak to Blinded eyes to be opened in the name of Jesus I call ears to open in
 
 ### 完整英文 Transcript
 
@@ -448,7 +487,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=960s) · 本段原话**：maybe you have autism I command autism to go from you in the name of Jesus I call healing and wholeness and wellness from the top of your head to the soles of your feet I speak to drug addictions and pornography addictions and and in all kinds of alcohol addictions and any kind of addictions of perversion of any
+- **[16:56](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=1016s) · 本段原话**：down every High imagination it exalts itself above the word of God I cast those imaginations down we will not yield to what the devil says in his false Lies We yield to what the word says for let God be true and every man a liar and I know what the word says and
+- **[18:43](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=1123s) · 本段原话**：strongholds we're stre from free from strongholds poverty is a stronghold you don't have to be poor you don't have to make it from paycheck to paycheck you can have in abundance to the fool to it overflows you don't have to barely get by God God get has the cattle on a thousand heels you do you understand our God is
+- **[19:11](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=1151s) · 本段原话**：more than enough he is Overflow he is an overflow God by the blood of the Lamb by the word of Our Testimony he has set us free we don't have to be bound by the devil you can walk in Victory and light Jesus loves you so much and he wants you free from all demonic
 
 ### 完整英文 Transcript
 
@@ -551,7 +597,12 @@
 <a id="section-06"></a>
 ## 06. 20:00–20:43 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:02](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=1202s) · 本段原话**：abundance to the full to it overflows I hope this message blessed you today I thank you for being a part of my family and a part of my subscribers and being a part of this all the likes the shares the love gifts it means so much to us it's a big blessing to my family I just want to say thank
+- **[20:23](https://www.youtube.com/watch?v=3Tg3vxeAfzo&t=1223s) · 本段原话**：you thank you thank you from the bottom of our hearts to all y all that that have that have been a blessing to us and and and continue to be a blessing I just say put a smile on your face and a song in your heart Jesus loves you so much and we love you and we
 
 ### 完整英文 Transcript
 

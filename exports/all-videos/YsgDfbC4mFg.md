@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 675；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 - [08. 28:00–28:04 · 现场讲话（无可靠自动分类）](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:52](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=52s) · 本段原话**：my what I want to tell you all is it's not to ever be afraid we are always to walk in Victory we go from glory to glory to glory We're Not Afraid of Anything the economy pestilence plagues whatever Psalms 91 is my my recommendation you get Psalms 91 and Psalms 23 deep down inside of your heart
+- **[04:22](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=262s) · 本段原话**：peace I leave with you my peace I give to you he's already he gave us his peace he he gave us his comfort so whenever you say Brandon how are you going to handle all this stuff that you've seen coming stay in peace because goodness and mercy will follow me all the days of
+- **[12:51](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=771s) · 本段原话**：you are going to take care of me and my wife and my children no matter how and you know what he's done it time and time again he's provided for us for food for when we didn't have none he's provided our water bill our electric bill he provides for his children and you say
+- **[16:45](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=1005s) · 他表达判断**：for operating in my life I I believe for so much y'all my list is huge my list is huge for what I'm believing for Supernatural things all the time for increase for multiplication for favor and that's why I'm telling you all favor follows me around I I say it all the time I'm God's favorite kid I am God's
+- **[25:58](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=1558s) · 本段原话**：Lord for kidneys for every single person who's believing for kidneys I thank you for hearts and livers and and thyroids and and brains and no stroke uh symptoms and all kinds of things like I said this isn't a uh calling it out for a healing lottery I don't have to call out for
+- **[28:01](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=1681s) · 本段原话**：Angels next time God bless you all have a blessed day bye- bye
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、经济、银行与市场
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、经济、银行与市场、物资、能源与供应链。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、经济、银行与市场展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:52](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=52s) · 本段原话**：my what I want to tell you all is it's not to ever be afraid we are always to walk in Victory we go from glory to glory to glory We're Not Afraid of Anything the economy pestilence plagues whatever Psalms 91 is my my recommendation you get Psalms 91 and Psalms 23 deep down inside of your heart
+- **[02:16](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=136s) · 本段原话**：economic crisis I'm not going to participate it participate in it my wife is not my children or not they will not do without my father owns a c battle on a thousand hills he has it all in his hand he he is the god of the universe he is he is the only God
+- **[03:19](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=199s) · 本段原话**：food for you if he has to bring Mana down like he did for the children of Israel every single morning and he brought him he brought him a A Cloud by day and a fire by night how much more that was underneath the old Covenant by the way that was underneath the old Covenant that's
+- **[03:36](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=216s) · 本段原话**：abrahamic Covenant that he did that all those blessings for the children of Israel how much more does he have a covenant with you by his son's blood that he did on the cross Jesus Christ died on the cross for you to be healthy mentally sound wealthy he said he became poor that you might be rich he said he
 
 ### 完整英文 Transcript
 
@@ -121,7 +139,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:22](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=262s) · 本段原话**：peace I leave with you my peace I give to you he's already he gave us his peace he he gave us his comfort so whenever you say Brandon how are you going to handle all this stuff that you've seen coming stay in peace because goodness and mercy will follow me all the days of
+- **[04:43](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=283s) · 他描述所见**：my life and I will dwell in the house of the Lord forever and if those are the promises that he's given me that's what I stand by yeah I see all this stuff coming yes they say when do you think it's going to come well you know so and so said that they didn't think it was coming anytime
+- **[05:51](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=351s) · 本段原话**：lineman in the football game and the other linemen don't want to protect the quarterback and and and bottom line is what I'm trying trying to say is his bottom line is it we all want to get to the same place and that's being first place we want to be winners we don't want to be losers we want to be Victors
+- **[06:48](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=408s) · 本段原话**：was different than mine but it was still the same we're all here in the same Holy Ghost folks we're all here the here in the same Holy Spirit he's speaking to each individual person and and and he's the same holy spirit so we're all going to hear hear bit bits and pieces cu the Lord's he ain't
 
 ### 完整英文 Transcript
 
@@ -228,7 +253,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、个人故事与访谈
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、个人故事与访谈展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:26](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=506s) · 他表达判断**：says Brandon I'm just a work in progress and I think that is the most beautiful humble thing you can say cuz that means we're never perfect we're never going to be at Perfection cuz we're always a work in progress tomorrow guess what I'm still that work in progress next day I'm still work in
+- **[09:00](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=540s) · 本段原话**：just part of life you know what we got to wash them and the only way you're going to get good is by staying underneath Jesus's wings and getting up Underneath Him and saying father I need you today just as much as I needed you yesterday and I need you tomorrow just as much as I needed you now I need you
+- **[10:35](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=635s) · 本段原话**：are going to get a lot worse in 20125 if we're still here and by the end of 2024 going into 2025 we are going to have an escalation of those and by the end of 2025 going into 2026 if we're still here it's going to be even more intense because guess what the labor
+- **[11:33](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=693s) · 本段原话**：that's what everybody that presses into Jesus can walk in financial Victory so I just want to encourage you all I want to encourage you all don't be discouraged God is not falling off the throne his hand is not short he's he is he is the same Jesus Jesus Christ is the same yesterday today and forever and the same
 
 ### 完整英文 Transcript
 
@@ -339,7 +371,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:51](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=771s) · 本段原话**：you are going to take care of me and my wife and my children no matter how and you know what he's done it time and time again he's provided for us for food for when we didn't have none he's provided our water bill our electric bill he provides for his children and you say
+- **[13:09](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=789s) · 本段原话**：well he never provides for me are you a tither are you a giver are you are you able to give well I don't have anything no even if it's just two pennies even if it's just whatever I give my 10% and I say God this is yours and he said in Malachi in Malachi you said you rebuke
+- **[14:58](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=898s) · 本段原话**：that that expensive that he starts touching you you start standing on your Covenant promises and you start believing the word of God and you start believing what I'm talking about in Proverbs uh 7 uh 61 if you start believing in Proverbs 631 you start quoting that over your life that he has to pay back 7f he's going to think twice
+- **[15:37](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=937s) · 本段原话**：liveing and walking in your life you don't have to be broke busted and disgusted and barely getting by I say it all the time I quote it I read Deuteronomy 28 all the time to the point where it becomes what what most people say that's obnoxious but I wanted to become real to me I want Deuteronomy 28
 
 ### 完整英文 Transcript
 
@@ -449,7 +488,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:45](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=1005s) · 他表达判断**：for operating in my life I I believe for so much y'all my list is huge my list is huge for what I'm believing for Supernatural things all the time for increase for multiplication for favor and that's why I'm telling you all favor follows me around I I say it all the time I'm God's favorite kid I am God's
+- **[17:56](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=1076s) · 本段原话**：we live by faith and you want to start seeing signs and wonders in your life you're going to start doing what doing and believing The Impossible and that's how you start believeing for a parking place believeing for favor for the last can of uh of of tomatoes or whatever you believe God for I've got favor favor woo
+- **[18:17](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=1097s) · 本段原话**：I got favor wherever I go I everything I put my Souls of my shoes on I've got favor everywhere I go I may have the last grilled cheese for my little girl at the at the at the restaurant who knows believe God for favor and believe him for for for Supernatural Miracles somebody might pay for your
+- **[19:14](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=1154s) · 本段原话**：us the the head to be the head not tell let us have the highest grossing store in all of eBay this year believe God for big God I thank you that you're going to give us the greatest store in all of Poshmark that we have we have a favor with ourselves we have favor with
 
 ### 完整英文 Transcript
 
@@ -555,7 +601,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=1201s) · 本段原话**：barely getting by folks you got to believe God for more it's more it's time for more and more and more in 24 say that it's good so I I supposed to talk to you'all about angels but I got off on this well I guess I'd talk about it next time I just do this my son laughs at me
+- **[21:17](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=1277s) · 本段原话**：issue of blood that he ra she raised up and she touched that hymn just like on the chosen so beautiful that scene when when she touched the Hem of His Garment Jesus garment and virtue went out of his uh body virtue father we reach up and we touch because and and and Jesus said
+- **[22:37](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=1357s) · 本段原话**：Jesus name we call Deliverance over their lives right now if you've got satanic bondage on you we command those Devils to release them now and let them go we call Healing from the top of their head to the souls of their feet they are delivered and set free by the power of Jesus
+- **[23:19](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=1399s) · 本段原话**：victory over it and I thank you Father they have Victory father I call Financial blessing over their houses that father there's a lot of people asking for jobs and better jobs father we call for uh Supernatural finances for their homes for marriages to be restored we call marriages restored we call their marriages uh uh to be kindled again to
 
 ### 完整英文 Transcript
 
@@ -656,7 +709,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:58](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=1558s) · 本段原话**：Lord for kidneys for every single person who's believing for kidneys I thank you for hearts and livers and and thyroids and and brains and no stroke uh symptoms and all kinds of things like I said this isn't a uh calling it out for a healing lottery I don't have to call out for
+- **[26:15](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=1575s) · 本段原话**：what you're believing for like people calling out Bingo numbers and that well he doesn't call it out so I can't receive my healing no healing belongs to you just because it's just an atmosphere Faith pull it out call it in yourself and believe and Jesus is your healer he's the one that does it y'all
+- **[27:12](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=1632s) · 本段原话**：tell us tell us about what God's doing for you in your life about breakthroughs and miracles and and and we'll Rejoice with you I Rejoice with you I love to see testimonies from from Brothers and Sisters in Christ well if you could please like our videos subscribe if you're not subscribed put a comment down
+- **[27:44](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=1664s) · 本段原话**：you are so kind in the in the uh little uh you know the little super thanks or whatever I just want to say thank you all God bless you but God bless you well put a smile on your face and a song in your heart Jesus J loves you so much and we love you and I'll talk about the
 
 ### 完整英文 Transcript
 
@@ -764,7 +824,11 @@
 <a id="section-08"></a>
 ## 08. 28:00–28:04 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:01](https://www.youtube.com/watch?v=YsgDfbC4mFg&t=1681s) · 本段原话**：Angels next time God bless you all have a blessed day bye- bye
 
 ### 完整英文 Transcript
 

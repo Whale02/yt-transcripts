@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 765；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 45:00–49:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-10)
 - [11. 50:00–52:09 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:33](https://www.youtube.com/watch?v=Ooet88jLwYc&t=33s) · 他描述所见**：released and it was a it was it was a war it was going to it was a devil of war and it was being released upon the Earth it was spinning it was going to go inside V Vladimir Putin and then I saw um a a provoking from Poland uh concerning Ukraine and that he that the
+- **[10:02](https://www.youtube.com/watch?v=Ooet88jLwYc&t=602s) · 本段原话**：wow because of all of the stuff that's been going on behind closed doors with compromise and sin in the church and you're going to see it God's cleaning some diapers right now some dirty diapers and people are not going to like it but it's not just about the ministers it starts with the head and it goes down
+- **[20:03](https://www.youtube.com/watch?v=Ooet88jLwYc&t=1203s) · 他进行祷告**：them think it's you know and just pray she's playing for America what's pray for America [Music] if the volume's not good I I apologize
+- **[30:04](https://www.youtube.com/watch?v=Ooet88jLwYc&t=1804s) · 他进行祷告**：in jesus' name we take authority over poverty we take authority over lack not enough and barely getting by we bind you and break your power in Jesus name we thank you Lord that you said that we have a you have a cattle on a thousand heels to always take care of us I call
+- **[40:38](https://www.youtube.com/watch?v=Ooet88jLwYc&t=2438s) · 本段原话**：creating us a clean heart oh God we want to be at the spout where the glory comes out we want to be where you are we want to come up higher come up higher in our prayer time come up higher in our prayer life come up higher with you the Greater Works will we do father
+- **[50:00](https://www.youtube.com/watch?v=Ooet88jLwYc&t=3000s) · 本段原话**：glory oh we call forth the glory outpouring not just in the church but in on the street corners in the in the White House in the Oval Office we call forth for outpouring of your spirit yes there it is I just praying there yeah praise the [Applause]
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:33](https://www.youtube.com/watch?v=Ooet88jLwYc&t=33s) · 他描述所见**：released and it was a it was it was a war it was going to it was a devil of war and it was being released upon the Earth it was spinning it was going to go inside V Vladimir Putin and then I saw um a a provoking from Poland uh concerning Ukraine and that he that the
+- **[01:21](https://www.youtube.com/watch?v=Ooet88jLwYc&t=81s) · 本段原话**：all and I'll tell you all like like I've seen in the spirit when n and the Lord showed me again when 911 happened it brought a patriotism upon America the people who are just you know raah raah America you know the the dieh hard um you know the uh the old country folks you know whenever people are just
+- **[02:38](https://www.youtube.com/watch?v=Ooet88jLwYc&t=158s) · 他描述所见**：this and I saw it on the west coast and I saw it on uh in the central part of America I saw um ants okay hidden within cells I I'm I'll say it like that CS of people who came across the southern border over the last several years there's more than what you
+- **[04:30](https://www.youtube.com/watch?v=Ooet88jLwYc&t=270s) · 本段原话**：to retaliate of what's going to happen you have to have Alli allies and he is bringing forth a coalition of allies to help back him who will be on our side who's going to stand on my side and so right now the bricks Nations he's forming a financial Coalition so that when they the United
 
 ### 完整英文 Transcript
 
@@ -135,7 +153,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:02](https://www.youtube.com/watch?v=Ooet88jLwYc&t=302s) · 他描述所见**：Arabia cuz they broke the Petro dollar deal I told you all it was coming I warned you all that this was coming I told you I saw uh the prince NBS put his foot said I'm going to put it on there they were looking for a stronger backbone of leadership in America and I saw the Antichrist agenda
+- **[05:21](https://www.youtube.com/watch?v=Ooet88jLwYc&t=321s) · 他描述所见**：trying to come on and I I told you all about that right and um they were going to create a new global system with China Russia Saudi Arabia and then I saw it spreading from there going throughout uh the OPEC nations I believe uh Iran Iraq uh all of them okay all of the major Middle East
+- **[07:40](https://www.youtube.com/watch?v=Ooet88jLwYc&t=460s) · 本段原话**：saying luk lukewarm you know people that are not on fire for Jesus that are pretending playing church so there will be a dividing line you will see this in the days ahead there will be an exposing of corrupt ministers people who are in sexual perversion will be exposed and brought to light things that are hidden
+- **[09:25](https://www.youtube.com/watch?v=Ooet88jLwYc&t=565s) · 本段原话**：the the to the Sheep to stumble the body of Christ to stumble because much is given where much is given much is required and I'm telling you there's going to be a held accountability for for for what what's about to be exposed in the body of Christ judgment begins in the house of the Lord first and I'm
 
 ### 完整英文 Transcript
 
@@ -251,7 +276,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:02](https://www.youtube.com/watch?v=Ooet88jLwYc&t=602s) · 本段原话**：wow because of all of the stuff that's been going on behind closed doors with compromise and sin in the church and you're going to see it God's cleaning some diapers right now some dirty diapers and people are not going to like it but it's not just about the ministers it starts with the head and it goes down
+- **[11:39](https://www.youtube.com/watch?v=Ooet88jLwYc&t=699s) · 他表达判断**：can be fatal some wounds can be a scratch that's probably you know a good way to say it but the Lord showed me he said The more you intercede as the body of Christ the more the volume will come down off on this but if we don't take our rightful place of authority if we do
+- **[13:00](https://www.youtube.com/watch?v=Ooet88jLwYc&t=780s) · 本段原话**：I've told you about the 350 million uh the plague I've saw the biological uh thing that we're making a Laboratories I've told you all about that in the videos down below you'll see that um about losing weight and taking care of our bodies and I'm going to get into more about that on another video
+- **[14:05](https://www.youtube.com/watch?v=Ooet88jLwYc&t=845s) · 他表达判断**：it's probably could be a lot cheaper for you I told you all I told you to watch what would happen with Donald Trump going into the summer I told you a year ago this time last year that he would have trials go clear up until late summer of 2024 and that it would be a distraction
 
 ### 完整英文 Transcript
 
@@ -366,7 +398,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 祷告、敬拜与现场互动、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、地震、风暴与灾害、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、地震、风暴与灾害展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:00](https://www.youtube.com/watch?v=Ooet88jLwYc&t=900s) · 他进行祷告**：they're stupid but but God has his hand on him and so we're going to pray for him more and more and more praying for this nation praying for the Peace of Jerusalem praying for guidance over our land that God has his hand on us that that the body of Christ The Remnant will
+- **[16:36](https://www.youtube.com/watch?v=Ooet88jLwYc&t=996s) · 本段原话**：mowing and he said to me he said Brandon he said the water's about to get turned off with the with the outside and you're going to have to start praying over the the water the uh the jet streams and the low pressure systems he said calling it forth it's time you don't want drought
+- **[18:59](https://www.youtube.com/watch?v=Ooet88jLwYc&t=1139s) · 他描述所见**：hear the shepherd's voice and a stranger's voice you will not follow that you listen to him and you're quick to obey and so um that's just where I'm at with this you know this is just a very serious time and so I saw like I said I want to say this I saw again the West Coast
+- **[19:21](https://www.youtube.com/watch?v=Ooet88jLwYc&t=1161s) · 他描述所见**：being struck with war and people say what did you see about the Big Island Hawaii I saw a surprise attack similar to Pearl Harbor happening again and it was bad and people were running trying to get away and I saw fires I saw uh uh Jets and things happening with a major attack on the military bases in Hawaii I
 
 ### 完整英文 Transcript
 
@@ -488,7 +527,13 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:03](https://www.youtube.com/watch?v=Ooet88jLwYc&t=1203s) · 他进行祷告**：them think it's you know and just pray she's playing for America what's pray for America [Music] if the volume's not good I I apologize
+- **[20:57](https://www.youtube.com/watch?v=Ooet88jLwYc&t=1257s) · 本段原话**：I'm trying to work out my computer thing today but we'll see
+- **[22:47](https://www.youtube.com/watch?v=Ooet88jLwYc&t=1367s) · 本段原话**：father Mercy Over America Mercy oh God [Music] have mercy have mercy oh [Music]
 
 ### 完整英文 Transcript
 
@@ -520,7 +565,12 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[29:16](https://www.youtube.com/watch?v=Ooet88jLwYc&t=1756s) · 本段原话**：the eyes the eyes the eyes the eyes of our understanding will be enlightened the eyes of the Lord running to and fro throughout the whole world looking for a heart who's perfect towards him we stand on your word we stand on the Covenant we stand on what you said Lord that father you will supply all our
+- **[29:46](https://www.youtube.com/watch?v=Ooet88jLwYc&t=1786s) · 他进行祷告**：needs according to your riches and Glory by Christ Jesus we call forth Financial breakthrough in Jesus name we speak blessing and increase multiplication and favor over our finances we speak Supernatural overflow
 
 ### 完整英文 Transcript
 
@@ -558,7 +608,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 教会、复兴与信仰、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、地震、风暴与灾害、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、地震、风暴与灾害展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:04](https://www.youtube.com/watch?v=Ooet88jLwYc&t=1804s) · 他进行祷告**：in jesus' name we take authority over poverty we take authority over lack not enough and barely getting by we bind you and break your power in Jesus name we thank you Lord that you said that we have a you have a cattle on a thousand heels to always take care of us I call
+- **[31:13](https://www.youtube.com/watch?v=Ooet88jLwYc&t=1873s) · 本段原话**：over drugs and alcohol and perversion we command it to free be free them to be free right now women and men all free from bondage from satanic stronghold hes we call them delivered right now in the name of Jesus from tobacco use I call them free from cigarettes free in the name of Jesus or or chewing tobacco or
+- **[32:16](https://www.youtube.com/watch?v=Ooet88jLwYc&t=1936s) · 本段原话**：Jesus permiss you a spirit we take authority over it you're not having our children you not have our grandchildren get off of them now in Jesus [Music] name we call Fresh Fire on our homes Fresh Fire on our children Fresh Fire of the Holy Spirit freshh fire on the marriages Fresh Fire on our health
+- **[32:47](https://www.youtube.com/watch?v=Ooet88jLwYc&t=1967s) · 本段原话**：healing and wholeness and wellness in the name of Jesus torment in their sleep freedom from sleep torment bad dreams high blood pressure we call you healed and whole and well right now in
 
 ### 完整英文 Transcript
 
@@ -639,7 +696,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:04](https://www.youtube.com/watch?v=Ooet88jLwYc&t=2104s) · 本段原话**：[Music] Lord [Applause] excuse me healed and whole and well even on my
+- **[37:40](https://www.youtube.com/watch?v=Ooet88jLwYc&t=2260s) · 本段原话**：[Music] the Lord i s there's so much to give there's so much he wants he wants to give and and there's so there many there so many rooms spiritual rooms spiritual rooms
+- **[38:14](https://www.youtube.com/watch?v=Ooet88jLwYc&t=2294s) · 本段原话**：for us to go into go into so many doors so many doors it's like a hallway doors doors lots of with lots of doors lots of doors closed and there's rooms we need to get we need to get into and by words words from from a minister Minister by those words it will open open doors of of
+- **[39:07](https://www.youtube.com/watch?v=Ooet88jLwYc&t=2347s) · 他进行祷告**：we command those doors to open right now in the name of Jesus open the door heart we receive it opening of the door of our heart to line up with you father that we pray that we are on your we are in your vein we are in what you want us to pray an open utterance an open utterance
 
 ### 完整英文 Transcript
 
@@ -696,7 +760,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:38](https://www.youtube.com/watch?v=Ooet88jLwYc&t=2438s) · 本段原话**：creating us a clean heart oh God we want to be at the spout where the glory comes out we want to be where you are we want to come up higher come up higher in our prayer time come up higher in our prayer life come up higher with you the Greater Works will we do father
+- **[42:17](https://www.youtube.com/watch?v=Ooet88jLwYc&t=2537s) · 本段原话**：that the eyes of our understanding would be enlightened that we may know what the hope of your calling and the Glorious Riches of your inheritance father I thank thank you for Ephesians 1:18 oh Father I thank you Father that your word says that arise and shine for the light has come and the glory of the
+- **[42:39](https://www.youtube.com/watch?v=Ooet88jLwYc&t=2559s) · 本段原话**：Lord is risen upon you he is the king of glory the joy of the Lord Lord is our strength today that the joy unspeakable and full of Glory is on every single one of us today we bind the spirits of
+- **[43:11](https://www.youtube.com/watch?v=Ooet88jLwYc&t=2591s) · 本段原话**：depression and anxiety and fear and worry we bind you and break your strongholds and power off of these people today in the name of Jesus we call them free and full of joy free of Peace free I mean filled with sorry filled with peace filled with with Joy freed from torment is what I meant free
 
 ### 完整英文 Transcript
 
@@ -772,7 +843,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[46:23](https://www.youtube.com/watch?v=Ooet88jLwYc&t=2783s) · 本段原话**：and into the light we call forth a mighty Harvest of your presence we call forth the mighty Harvest of the glory of God oh Lord we call forth our unsaved loved ones to be born again saved and baptized and on fire for Jesus we call them delivered from the Satanic bondage that is holding them back we call forth
+- **[46:49](https://www.youtube.com/watch?v=Ooet88jLwYc&t=2809s) · 本段原话**：angels to come and make war against the Demonic strongholds right now in the name of Jesus on the save loved ones we call Forth One Last Harvest there's aam size wave of the outpouring of the outpouring it's right there it's right there it's right there it's the highest W we've seen it's there and it's coming and it's
+- **[47:46](https://www.youtube.com/watch?v=Ooet88jLwYc&t=2866s) · 本段原话**：the W call the October outpouring we will see it we will see it it will hit it will hit with such a ferocity a ferocity it will hit it will H with such an impct impact it will H will H and we will we will see it we will know will experience the church is taking is
+- **[48:51](https://www.youtube.com/watch?v=Ooet88jLwYc&t=2931s) · 本段原话**：manifestations of the glory new great outpouring of your presence in the churches father a sheninger your people we call forth Awakening and a hunger and a thirst after righteousness in the name of Jesus we call forth The Awakening in the name of Jesus wake up your people oh God we call forth them to awaken in the name of
 
 ### 完整英文 Transcript
 
@@ -858,7 +936,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–52:09 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:00](https://www.youtube.com/watch?v=Ooet88jLwYc&t=3000s) · 本段原话**：glory oh we call forth the glory outpouring not just in the church but in on the street corners in the in the White House in the Oval Office we call forth for outpouring of your spirit yes there it is I just praying there yeah praise the [Applause]
+- **[50:33](https://www.youtube.com/watch?v=Ooet88jLwYc&t=3033s) · 本段原话**：[Music] Lord that's it it's going to hit the church a new manifestations of the glory already we are going to ankle
+- **[51:12](https://www.youtube.com/watch?v=Ooet88jLwYc&t=3072s) · 本段原话**：de to waste it most to overflow usual things overflow Hallelujah Hallelujah Lord we give you praise for the manifestation well I will end this there I hope this blessed you today God bless you for and I thank you for joining me
+- **[51:43](https://www.youtube.com/watch?v=Ooet88jLwYc&t=3103s) · 他进行祷告**：to pray for America for whatever you need Jesus is faithful and he'll come through for you just like he's come through for me so many times Well family put a smile on your face and a song on your heart Jesus loves you so much and he paid the price for you I hope you all have a wonderful day
 
 ### 完整英文 Transcript
 

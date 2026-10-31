@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 682；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-06)
 - [07. 24:00–24:38 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=0s) · 他描述所见**：And this is where when I went to tribulation, everything I saw in tribulation about this temple, the Masonic Temple, and um this being where the people go and and worship the Antichrist, how all this field will be filled with uh people um worshipping the Antichrist every Friday, and they go around the whole building.
+- **[04:22](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=262s) · 他描述所见**：and that and that's similar to like what what kind of what I saw when I was staying with Jesus. When they burn them and I saw the smoke the smoke goes up for miles. You can see it all around from them burning all the Bibles. And so that that will come in the future. It's
+- **[08:28](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=508s) · 本段原话**：I'm telling y'all. So, you know, I I told you all during my tribulation video, the first one I made, not the last one, I forgot some of the stuff that I and the Holy Spirit remind reminded me and my son, too. But the Lord showed me a Starbucks in this town that was going to be here. Well, when I
+- **[16:16](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=976s) · 本段原话**：To be watching. The more they start talking about and then we're going to see some kind of manifestation of alien encounter. It's coming. So I'm I've just I just to for a great deception. That's what I'm trying to tell you all. It'll be a great deception. Trying to explain away to the world what happened to
+- **[20:31](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=1231s) · 他表达判断**：You you cleanse me from all unrighteous. Write my name in that Lamb's Book of Life. And Father, I thank you. I make you my Lord and my savior. I believe that you died on the cross for me and you rose again on the third day.
+- **[24:02](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=1442s) · 本段原话**：the Lord, and in time he will exalt you in due time.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=0s) · 他描述所见**：And this is where when I went to tribulation, everything I saw in tribulation about this temple, the Masonic Temple, and um this being where the people go and and worship the Antichrist, how all this field will be filled with uh people um worshipping the Antichrist every Friday, and they go around the whole building.
+- **[00:57](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=57s) · 本段原话**：can come here and worship the Antichrist or you can go get your head cut off cuz that's what's going to happen. Um so not trying to be crude, but I'm just being real. Um So let's turn right here. I'll keep going around. So like I said, the grounds This is all the grounds
+- **[02:18](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=138s) · 本段原话**：So, now I'm going to show you where they will the courthouse. Remember I told everybody I told everybody that they they they take down the American flag and the Antichrist makes his own flag with the with the black, the the white, and the the green, and the the sickle swords, and the uh palm leaves, and the
+- **[03:18](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=198s) · 他表达判断**：Then a couple feet away, couple you know, it's like probably 50, 60 yd maybe I I don't know, maybe more, 100 yd to where they will burn the Bibles one day. This is where This is where in this field, right here, they're going to burn the Bibles. And that's why I told you they have a
 
 ### 完整英文 Transcript
 
@@ -139,7 +157,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:22](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=262s) · 他描述所见**：and that and that's similar to like what what kind of what I saw when I was staying with Jesus. When they burn them and I saw the smoke the smoke goes up for miles. You can see it all around from them burning all the Bibles. And so that that will come in the future. It's
+- **[04:56](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=296s) · 本段原话**：you all I just want to be real with you all. It's time to get real with God because he because he's coming. Jesus is coming and the rapture the church is going to take place. They'll show this again son. You can show it better out the front. That's the courthouse where they bring all the Bibles in the future
+- **[05:47](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=347s) · 本段原话**：There's a great revival that's about to happen to this earth and we're about to see a major outpouring of the spirit of God and we're going to see a billion soul harvest. I'm telling you all I've been in prayer interceding for the things that are coming and I want to I want to show you downtown where the
+- **[06:20](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=380s) · 他表达判断**：But um you know, a lot of people think they're part of the Illuminati and all that. I don't know about it, but I think there's something to some of this secret society stuff. But um let's see here. I'll show you a little bit more. I don't I'll show you some new things. To the people who've already
 
 ### 完整英文 Transcript
 
@@ -259,7 +284,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:28](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=508s) · 本段原话**：I'm telling y'all. So, you know, I I told you all during my tribulation video, the first one I made, not the last one, I forgot some of the stuff that I and the Holy Spirit remind reminded me and my son, too. But the Lord showed me a Starbucks in this town that was going to be here. Well, when I
+- **[09:41](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=581s) · 他描述所见**：And Jesus showed that to me during tribulation because I saw people rioting. I told you all. And they were tearing things up, but I saw the thunder and the lightning. I saw the storms, but I was here with Jesus and he showed me and I and and I don't know why I remember certain landmarks. This
+- **[10:05](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=605s) · 他描述所见**：It It's It's pretty pretty amazing what all these old old churches. The old Baptist church, the old Presbyterian church, the Catholic church. And this was in tribulation. I saw this.
+- **[11:17](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=677s) · 本段原话**：They're supposedly have knocked them down. They're not there anymore. I don't know. But my brother was part of the sheriff's department and they talk about this stuff. These old historic houses.
 
 ### 完整英文 Transcript
 
@@ -371,7 +403,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:35](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=755s) · 本段原话**：And he bought that and he cuz he knows about the revival. The Lord spoke to him about the revival that's about to take place and I told everybody from the I-35 corridor clear down to Fort Worth, Texas. There will be literally millions of people come here soon because they're fleeing what's going to
+- **[13:13](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=793s) · 他表达判断**：But the grounds is huge. I mean, this thing is huge. I think they had it for sale at one time but it's absolutely beautiful. Some of y'all are What is it? I want to call them spiritual uh, adrenaline junkies.
+- **[14:29](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=869s) · 本段原话**：This was not here. This was like I told you that was the barbecue house. This was a Taco Bueno and then it's turn and they blew it down and they turned this into the Starbucks. So, I wanted to show you prophetically, it looks like some things will never happen.
+- **[15:47](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=947s) · 他描述所见**：It took years for the for what I saw to start to happen. And we're seeing it.
 
 ### 完整英文 Transcript
 
@@ -505,7 +544,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:16](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=976s) · 本段原话**：To be watching. The more they start talking about and then we're going to see some kind of manifestation of alien encounter. It's coming. So I'm I've just I just to for a great deception. That's what I'm trying to tell you all. It'll be a great deception. Trying to explain away to the world what happened to
+- **[16:53](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=1013s) · 本段原话**：They were aliens got them. You know, they're going to have to come up with an excuse of where all these people disappeared. And that's when they introduce the mark of the beast. They bring in a one world system because when you when millions and millions of people if not a billion I'm believing for disappear all of a
+- **[17:43](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=1063s) · 本段原话**：And so I'm telling you it's coming. Jesus is coming. I hope your heart's right before him. I hope this video shook you a little bit because that's what it's meant to do. It's meant to get you ready because if you're not ready, you need to repent before it's too late.
+- **[19:14](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=1154s) · 本段原话**：It's not about works. Lest any man should boast. It's about grace. It's about the grace of God. And it's about walking your salvation out with fear and trembling. It's about seeking him daily and and having intimacy with Jesus Christ. And so I just want to if you don't have that, you say, "I don't have
 
 ### 完整英文 Transcript
 
@@ -626,7 +672,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:31](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=1231s) · 他表达判断**：You you cleanse me from all unrighteous. Write my name in that Lamb's Book of Life. And Father, I thank you. I make you my Lord and my savior. I believe that you died on the cross for me and you rose again on the third day.
+- **[21:43](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=1303s) · 本段原话**：I'm not bound by any kind of devil anymore. I'm set free by the blood of the lamb. And I want and so you just believe that. Confess with your mouth, believe in your heart that Jesus is your Lord and savior and you're saved. Now go to church, find a church that believes in the baptism of the Holy Spirit, find
+- **[22:25](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=1345s) · 本段原话**：Download it on your phone if you don't have one. Start reading your Bible every day and ask the Holy Spirit. Say, Holy Spirit, make this word real to me according and remember this scripture, Ephesians 1:18. Remember that.
+- **[23:12](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=1392s) · 本段原话**：How's your day today? I had a rough day today. I need I need you to give me strength. I fall morally or whatever again. You You're not going to be perfect overnight. Just, you know, just like a child, you you learn how to walk, you fall when you walk, you get up, you pick
 
 ### 完整英文 Transcript
 
@@ -744,7 +797,13 @@
 <a id="section-07"></a>
 ## 07. 24:00–24:38 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:02](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=1442s) · 本段原话**：the Lord, and in time he will exalt you in due time.
+- **[24:06](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=1446s) · 他进行祷告**：Humble yourself. So, I just want to say I love you all. I pray that if you got prayer If you got born again today, please comment down below. If you gave your heart to Jesus Christ, tell somebody. Be excited about it. It's an exciting time. A transfer from the old man to a new man, being born again, born
+- **[24:28](https://www.youtube.com/watch?v=1O_dIFD7yoA&t=1468s) · 本段原话**：again. So, uh I hope this blessed you all watching this video today where the tribulation will be, where the end times are. God bless you all, and thank you for watching. Bye-bye.
 
 ### 完整英文 Transcript
 

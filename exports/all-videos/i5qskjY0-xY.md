@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 675；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-07)
 - [08. 28:00–28:39 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=i5qskjY0-xY&t=0s) · 本段原话**：hey good morning family how youall doing today well I'm going to talk to you all about the Angels now uh if you watched my last video I was starting to talk about that but then the Lord uh took that a different direction so uh talking about the blessing so I'm going to talk
+- **[04:21](https://www.youtube.com/watch?v=i5qskjY0-xY&t=261s) · 他描述所见**：it okay so it it took me back so much though that I yelled when I saw this pray praise God wow praise the Lord because I saw the Angels protecting us and whenever they heard me praising the Lord they all looked over and they turned their bodies and started looking at me and
+- **[12:49](https://www.youtube.com/watch?v=i5qskjY0-xY&t=769s) · 本段原话**：church and he was like in room two or three and I was cleaning on the back side of room like 24 not that that matters but I'm just trying telling you for the sake of the story so I walked down the hall and I went in there and the angel went in there and I
+- **[16:02](https://www.youtube.com/watch?v=i5qskjY0-xY&t=962s) · 本段原话**：brought it so I wanted to encourage you all about that one but you know and like I said uh I have I have so many these like this visitations and manifestations and demonstrations of the glory you know I've told you all about uh my truck my my truck's supernaturally getting pushed down the highway for 2
+- **[24:02](https://www.youtube.com/watch?v=i5qskjY0-xY&t=1442s) · 本段原话**：authority over the Angels okay the Lord has authority over the Ang he dwells on the inside of you do you understand that the same God that raised Jesus Christ from the dead the same Holy Spirit dwells on the inside of you so if he is dwelling in you and you're seated with him in the heavenlies far above all
+- **[28:02](https://www.youtube.com/watch?v=i5qskjY0-xY&t=1682s) · 本段原话**：for us amen and amen he's faithful and so I just want to say thank you for watching this video if you could like subscribe if you haven't subscribed click that notification Bell it helps with the algorithm we just want to say thank you all for all your kindness and the love gives all of it you're such a
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=i5qskjY0-xY&t=0s) · 本段原话**：hey good morning family how youall doing today well I'm going to talk to you all about the Angels now uh if you watched my last video I was starting to talk about that but then the Lord uh took that a different direction so uh talking about the blessing so I'm going to talk
+- **[01:03](https://www.youtube.com/watch?v=i5qskjY0-xY&t=63s) · 他表达判断**：like like the whole roof was going to come off of our house and my wife said oh did you hear that and she woke me and I said yes I heard it it woke me up too and I said I think somebody's trying to break in our house and I I said let me
+- **[01:33](https://www.youtube.com/watch?v=i5qskjY0-xY&t=93s) · 他描述所见**：stand up and all all of a sudden my eyes are open to the spirit realm and I see uh it was four demons it was four demonic spirits that were shaped with scales all over them and they had like nasty looking hair growing out of them and they had warts on them and their eyes were shaped
+- **[02:40](https://www.youtube.com/watch?v=i5qskjY0-xY&t=160s) · 他描述所见**：and like I said it startled both of us and woke us up but they couldn't get in the Lord didn't show me this the time I see them grunting and hissing and doing all kinds of stuff carrying on by past on the street but I didn't understand why they couldn't come past and all of a sudden sudden I
 
 ### 完整英文 Transcript
 
@@ -117,7 +135,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:21](https://www.youtube.com/watch?v=i5qskjY0-xY&t=261s) · 他描述所见**：it okay so it it took me back so much though that I yelled when I saw this pray praise God wow praise the Lord because I saw the Angels protecting us and whenever they heard me praising the Lord they all looked over and they turned their bodies and started looking at me and
+- **[05:13](https://www.youtube.com/watch?v=i5qskjY0-xY&t=313s) · 本段原话**：like each one individually different they set it together they said praise the Lord and when they did it echoed throughout all the area you could hear it in the spirit realm I it was like it was like it would hurt you have to hold your ears it's so loud praise the Lord and they started
+- **[05:50](https://www.youtube.com/watch?v=i5qskjY0-xY&t=350s) · 他描述所见**：just started praising the Lord at that time I saw the glory coming from uh the heavens okay through the dimensions through the portal and I could see shafts of light coming through that um the that portal and it was making those angels glow they started glowing with a Heavenly Glory glow even brighter as
+- **[06:54](https://www.youtube.com/watch?v=i5qskjY0-xY&t=414s) · 他描述所见**：they were they were praised they didn't wouldn't just praise the lord we this went on for quite some time of me just saying praise the Lord because I was taken back by what I was seeing in the spirit realm I mean it was it really was a it really was amazing after all this happened I saw the glory
 
 ### 完整英文 Transcript
 
@@ -219,7 +244,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、物资、能源与供应链、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、物资、能源与供应链展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:20](https://www.youtube.com/watch?v=i5qskjY0-xY&t=500s) · 本段原话**：manifestations of the glory in my house I expect God to do the impossible and I and I'm telling you I I receive it there here let me tell you another one you know there's been times you know whenever I'm going through a shady part of town and I'm nervous and there was this this one time I was going to go to
+- **[09:57](https://www.youtube.com/watch?v=i5qskjY0-xY&t=597s) · 他描述所见**：like some kind of armor and he was looking out at attention watching over me and when I saw that it took me back I took my breath and I went whoa because it was just it's one of those things that God cares God cares and it was just it blessed me so uh as he was uh
+- **[10:19](https://www.youtube.com/watch?v=i5qskjY0-xY&t=619s) · 本段原话**：watching out for me just shows that we have angels that keep charge over us and they bear us up in their hands lest we Dash our foot against a stone he promised us in Psalms 91 that he would do this he promised us that he would take care of us do you believe it do you
+- **[11:20](https://www.youtube.com/watch?v=i5qskjY0-xY&t=680s) · 本段原话**：going to come up out of my skin whenever he did it cuz I felt it on my shoulder and I was the only one in the room vac in the church and I went who you know it's you know you get a little startled cuz the Angel Touch me like that and and
 
 ### 完整英文 Transcript
 
@@ -321,7 +353,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:49](https://www.youtube.com/watch?v=i5qskjY0-xY&t=769s) · 本段原话**：church and he was like in room two or three and I was cleaning on the back side of room like 24 not that that matters but I'm just trying telling you for the sake of the story so I walked down the hall and I went in there and the angel went in there and I
+- **[13:50](https://www.youtube.com/watch?v=i5qskjY0-xY&t=830s) · 本段原话**：wants to give you a heart do you want the heart or not and I told the angel I said he don't want the heart you hear what he just said and I said you know like I'm out of here and I walked away and it's the Angelic visitation so I go back and I get the vacuum cleaner again
+- **[15:03](https://www.youtube.com/watch?v=i5qskjY0-xY&t=903s) · 他表达判断**：that angel I kid you not drop that heart inside of Jim's chest and I just said I believe you received it brother the angel disappeared was gone instantaneously within I don't know 24 hours whatever he started getting better he started getting his his heart started getting better now like I said I don't
+- **[15:29](https://www.youtube.com/watch?v=i5qskjY0-xY&t=929s) · 他表达判断**：know where Jim's at now I don't know I I haven't kept in contact with these people but I'm telling you at that moment I believe Jim got a new heart and his flesh uh started getting better now Jim got caught up in drugs and alcohol and things like that and uh he backslid really really hard and but I
 
 ### 完整英文 Transcript
 
@@ -430,7 +469,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 物资、能源与供应链、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、教会、复兴与信仰展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:02](https://www.youtube.com/watch?v=i5qskjY0-xY&t=962s) · 本段原话**：brought it so I wanted to encourage you all about that one but you know and like I said uh I have I have so many these like this visitations and manifestations and demonstrations of the glory you know I've told you all about uh my truck my my truck's supernaturally getting pushed down the highway for 2
+- **[17:32](https://www.youtube.com/watch?v=i5qskjY0-xY&t=1052s) · 他表达判断**：spirit and lo and behold we have this massive boom and I think somebody has hit us from rear ending us from behind and our whole truck jerked and all of a sudden we started going faster and faster and faster and faster down the highway I put my blinker on and I'm riding in the shoulder and I put my
+- **[17:55](https://www.youtube.com/watch?v=i5qskjY0-xY&t=1075s) · 本段原话**：blinker on and I merge on to the highway with the engine off whether you want to believe this or not it's the truth we're going down the I'm going 70 M an hour with the engine off passing people in the leftand lane as I'm going down the highway with the truck off that Angel's pushing us all the way
+- **[19:29](https://www.youtube.com/watch?v=i5qskjY0-xY&t=1169s) · 本段原话**：for the dogs to be raised from the dead of the dogs that were that we had they were they were they were stuck in the dog and the little baby girl angel came in Supernatural came in here and laid hands on my Alice and all those puppies came out I've told you about that I
 
 ### 完整英文 Transcript
 
@@ -536,7 +582,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=i5qskjY0-xY&t=1201s) · 本段原话**：hands on my wife during our first pregnancy we were believing for a supernatural child birth and and believing for uh for no pain through childbirth and um my wife was in labor with our daughter uh uh Megan at the time and um the angel came in and laid his hands on her stomach and and up
+- **[20:23](https://www.youtube.com/watch?v=i5qskjY0-xY&t=1223s) · 本段原话**：until we until my wife was almost completely through of delivery she felt nothing she felt contractions and they were Contracting her body was Contracting but she had no pain at all and even the doctor and and and the people coming in we had uh people trying to visit like family you know hey is everything going okay you
+- **[21:40](https://www.youtube.com/watch?v=i5qskjY0-xY&t=1300s) · 本段原话**：because it's a robber of of your faith because you hear doubt and unbelief and and just like Faith cometh by hearing and hearing by the word of God doubt comes by hearing and hearing fear and you know when Jesus said to to when he was raising the little girl up from the dead he he made all the other people
+- **[22:54](https://www.youtube.com/watch?v=i5qskjY0-xY&t=1374s) · 本段原话**：the devil come in through doubt and unbelief and rob you of your greatest victories because that's what he does every single time he comes in through doubt and unbelief and so these Miracle these testimonies I'm trying to tell you I'm trying to stir you up so the reason why I'm telling you all this is the Lord
 
 ### 完整英文 Transcript
 
@@ -642,7 +695,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:02](https://www.youtube.com/watch?v=i5qskjY0-xY&t=1442s) · 本段原话**：authority over the Angels okay the Lord has authority over the Ang he dwells on the inside of you do you understand that the same God that raised Jesus Christ from the dead the same Holy Spirit dwells on the inside of you so if he is dwelling in you and you're seated with him in the heavenlies far above all
+- **[25:58](https://www.youtube.com/watch?v=i5qskjY0-xY&t=1558s) · 本段原话**：and I'm telling you all you can too he's no respector of persons so I made that as simple as I could because we have some people that are real religious and they're kind of thick when it comes to Supernatural and I try not to come on here and be be uh mean but I'm trying
+- **[27:21](https://www.youtube.com/watch?v=i5qskjY0-xY&t=1641s) · 本段原话**：against us will prosper today I thank you that we're in the end times and we s we commission Prosperity angels to go and get our money in the name of Jesus from the north the South the East the West I thank you that you're causing favor to come forth binding back to every devil that tries to hinder harm or
+- **[27:37](https://www.youtube.com/watch?v=i5qskjY0-xY&t=1657s) · 本段原话**：hurt us in any way I thank you that you see it we may not but you have your swords and shields drawn and you're watching over us you're watching over my wife and my children today and watching over me that father that there is no evil satanic agenda that will come n us
 
 ### 完整英文 Transcript
 
@@ -749,7 +809,13 @@
 <a id="section-08"></a>
 ## 08. 28:00–28:39 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:02](https://www.youtube.com/watch?v=i5qskjY0-xY&t=1682s) · 本段原话**：for us amen and amen he's faithful and so I just want to say thank you for watching this video if you could like subscribe if you haven't subscribed click that notification Bell it helps with the algorithm we just want to say thank you all for all your kindness and the love gives all of it you're such a
+- **[28:20](https://www.youtube.com/watch?v=i5qskjY0-xY&t=1700s) · 本段原话**：blessing to us and we just want to say thank you bless you bless you bless you coming in going out uh and everything Lord It's Your you're a true blessing to us God bless you all we'll put a smile on your face and a song on your heart Jesus loves you so much and we love you
+- **[28:36](https://www.youtube.com/watch?v=i5qskjY0-xY&t=1716s) · 本段原话**：and we will see you all next time God bless you all bye-bye
 
 ### 完整英文 Transcript
 

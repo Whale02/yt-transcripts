@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 574；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 祷告、敬拜与现场互动、AI、科技与监控](#section-06)
 - [07. 24:00–26:37 · 教会、复兴与信仰、预言、梦境与异象](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:20](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=20s) · 他描述所见**：Okay, lightning was striking and it was going nuts and all of a sudden that tornado looking structure went straight into the water into a lake like a like a a reservoir of water and it started turning the water all in front of this massive pool of water and all of a sudden I see an a humong this massive
+- **[04:23](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=263s) · 他描述所见**：on the side of this old war plane. And I could see the old the emblems of the United States uh uh air force and all the things of you know showing this was about America. Then I could see the future going and I saw jet engines. I could see jet fuel and jet powered cars
+- **[08:00](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=480s) · 本段原话**：in a database. It kept everything that we've ever asked, medical questions. It knew humans all around the world. It knows what's on our thoughts. It became smart technology that did not need humans to make it run anymore. It ran on its own. And whenever it was running on its own, it knew everything like a god.
+- **[16:01](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=961s) · 他描述所见**：it than than than a a a nuclear reactor. Does that make sense to you? I'm trying so hard to describe to you what I saw that yesterday. that a bottle of water has more energy in it to power a a 747 than for the rest of it for the whole life of the
+- **[20:00](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=1200s) · 他描述所见**：clean. There was it was blue light. It was clean. There was no There was no uh emissions. Everything was bubbling. I tried my best today to to describe to you what I saw of how the engine sucks in the water. And it was I I was I I could draw on picture. I could
+- **[24:15](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=1455s) · 本段原话**：Many people will be deceived by technology about the beast about about the 666 to mark the be all the things that are coming at a freight train speed. But they have to desensitize you first so everybody will accept it hook line and sinker. It won't come out so quickly and they're going to just force
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 物资、能源与供应链、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:20](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=20s) · 他描述所见**：Okay, lightning was striking and it was going nuts and all of a sudden that tornado looking structure went straight into the water into a lake like a like a a reservoir of water and it started turning the water all in front of this massive pool of water and all of a sudden I see an a humong this massive
+- **[01:47](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=107s) · 本段原话**：like a cork and I could see the cork clogging this. Okay. Then the Lord spoke to me and he said, "I could see and I and I tried to talk. I don't remember things that I said or what I didn't say, but I'm going to go over it. I seen an owl in the side
+- **[03:15](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=195s) · 他描述所见**：and then I saw his his spectacles. He had glasses on and he was flying a kite and I could see the kite flying in the that that that that electric storm that was going on. All the lightning and all that was going on above the oak tree and I could see it and there was a
+- **[03:51](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=231s) · 他描述所见**：Then I saw an airplane and it was an old B-52 style like a like, you know, old 1950s, you know, World War II uh bomber
 
 ### 完整英文 Transcript
 
@@ -110,7 +128,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · AI、科技与监控、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：AI、科技与监控、预言、梦境与异象、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕AI、科技与监控、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:23](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=263s) · 他描述所见**：on the side of this old war plane. And I could see the old the emblems of the United States uh uh air force and all the things of you know showing this was about America. Then I could see the future going and I saw jet engines. I could see jet fuel and jet powered cars
+- **[05:32](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=332s) · 他转述所听到的话**：into play in front of all of this um different means of transport transportation, different means of transportation, different ways to travel over this course of time, hot air balloons, all this stuff. And I heard a new industrial revolution is coming. It's birthing. And the Lord allowed me to see the foundation of the
+- **[06:33](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=393s) · 本段原话**：about 50 years plus, you know. So, it's the time frame of this tree, but it never got a lot of roots for this AI. It was just laying a foundation and I could see the roots from the tree growing on top of the surface and I could see the roots the hairs the the the hairs going
+- **[07:44](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=464s) · 本段原话**：mind. All the questions, everything that everybody has always been asked, it feeds it asking when you say chat GPT, uh, what is the nearest star? Chat BTT, it knew all the answers, but it kept it
 
 ### 完整英文 Transcript
 
@@ -201,7 +226,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · AI、科技与监控、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：AI、科技与监控、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕AI、科技与监控、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=480s) · 本段原话**：in a database. It kept everything that we've ever asked, medical questions. It knew humans all around the world. It knows what's on our thoughts. It became smart technology that did not need humans to make it run anymore. It ran on its own. And whenever it was running on its own, it knew everything like a god.
+- **[09:48](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=588s) · 他描述所见**：computers like that are so smart that you you can't you it's too much data for a human mind to so they're trying to cipher through all the data that was being stored up and made all so quickly to how to solve problems but this is even more amazing I saw medical science I saw doctors with white robes on with
+- **[10:08](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=608s) · 本段原话**：their stethoscopes with in hospitals finding with AI doing it and programming this in AI that was finding cures for major diseases like Alzheimer's, dementia, um things with the brain, cancers, uh diabetes, all kinds of things were being resolved and and completely eradicated by AI technology. There was new diseases, new things being birthed because you think,
+- **[11:40](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=700s) · 他描述所见**：more about portals with the nephleum that they are out of talking about. Now, I pray this does not I I I I I saw things that were very dangerous, very demonic, talking to demonic spirits in realms through witchcraft, but using it
 
 ### 完整英文 Transcript
 
@@ -299,7 +331,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:49](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=769s) · 他描述所见**：again. What I saw was fossil fuels will be a thing of the past. I saw Elon Musk's face and he was like the like you would say the head kingpin. I could see his face and he was he it was Nephleum thinking fallen angel technology that is as the days of Noah so will it be when the son of man
+- **[14:36](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=876s) · 他描述所见**：attention to the acorn. There is a new form of energy that's about to take place that is greater and more sustaining than any nuclear power. Not not as it's not toxic. It's I saw I saw a blue blue energy. I saw a blue I saw new jet engines. I saw new car engines that were
+- **[15:03](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=903s) · 他描述所见**：not housed by uh metal but by plexiglass like a thick see-through thing that was hydrogen waterbased energy. They found through AI in that vision a way to harness water by it by by making energy that never uh is able to be run out. Planes that will never have to be refueled.
+- **[15:35](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=935s) · 本段原话**：Cars that would never have to be refueled. Drones that never not battery, not not not sun, not uh solar. I'm talking about a a power source that never loses its power because a glass of water, this is water because it's going to mess up because of my my my green screen, but this glass of water has more energy in
 
 ### 完整英文 Transcript
 
@@ -385,7 +424,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 预言、梦境与异象、AI、科技与监控
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、AI、科技与监控、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、AI、科技与监控展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=961s) · 他描述所见**：it than than than a a a nuclear reactor. Does that make sense to you? I'm trying so hard to describe to you what I saw that yesterday. that a bottle of water has more energy in it to power a a 747 than for the rest of it for the whole life of the
+- **[17:17](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=1037s) · 他描述所见**：It's like going to it's like going and saying, "Well, who cares?" You know, that's how big of a deal this was. Braden said, "I I'll remind you it's better than nuclear. What you're about to see is better than nuclear," the Lord said. And it's a blue light. And if you remember what I told you all whenever I saw the
+- **[17:58](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=1078s) · 他描述所见**：feel safe talking about because I was in a military um I saw new military technology. I saw military technology that doesn't exist yet to the public things that would that's top secret I believe. And the Lord showed me things in in military bases. And the Lord showed me deep things. I saw time
+- **[19:05](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=1145s) · 他描述所见**：this further in the future? I mean that I don't know. I I know. Is this something that's actually happening right now? I don't know. I just know this stuff that I saw was so so out there that it makes fossil fuels is obsolete. There's no reason for oil anymore. Oh, and behind the AI, I saw an
 
 ### 完整英文 Transcript
 
@@ -484,7 +530,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、AI、科技与监控
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、AI、科技与监控、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、AI、科技与监控展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=1200s) · 他描述所见**：clean. There was it was blue light. It was clean. There was no There was no uh emissions. Everything was bubbling. I tried my best today to to describe to you what I saw of how the engine sucks in the water. And it was I I was I I could draw on picture. I could
+- **[21:02](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=1262s) · 本段原话**：seen like that. Not not before because I've seen stuff like this before. Uh but it but it but it it's just more puzzle pieces with cryptic writings and numbers and things that the Lord gives me sometimes. but um mathematical equations. It's some it's so interesting to me that he would speak to somebody
+- **[22:10](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=1330s) · 本段原话**：Everything had to have electricity first through Benjamin Franklin that spun off and created computers to come out all this stuff. But it all started with one man and one one thought bottom line Tesla all the stuff the all came out of the electricity and the foundation of the technology that came out of about
+- **[23:32](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=1412s) · 他表达判断**：I think it's kind of different, you know. I um like I said, I don't want to keep going over and over it, but quite interesting for me in my house. Just like I said, and maybe it may not maybe it didn't mean a whole lot to you, but for us it did. I'm thankful for the things the
 
 ### 完整英文 Transcript
 
@@ -586,7 +639,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–26:37 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:15](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=1455s) · 本段原话**：Many people will be deceived by technology about the beast about about the 666 to mark the be all the things that are coming at a freight train speed. But they have to desensitize you first so everybody will accept it hook line and sinker. It won't come out so quickly and they're going to just force
+- **[24:53](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=1493s) · 本段原话**：didn't want to bury it. It was over two and a half hours. And I told Braden, I said, "They ain't going to make it to this." I said, "Most of the people complain after an hour." So, I said, "If you if if they want to see the deeper thing of what God showed us, I have to
+- **[25:19](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=1519s) · 本段原话**：We're trying to reach a million people, a million men and women, prayer army, praying for the nations, praying for the lost, believing for supernatural. That's what we believe here. We believe that Jesus Christ is a healer and he's healing the sick today. So, if you just believe by simple faith, Jesus will touch your body right where you are.
+- **[25:55](https://www.youtube.com/watch?v=eEd1C8oRkiE&t=1555s) · 本段原话**：it about an acorn? But acorn was upside down in the water and and it blocked the flow of the water flowing out. What was that about? Tell me what you think that was about. And then the tree was fully It was grown fully grown with hardly any roots and the Illuminati was in the
 
 ### 完整英文 Transcript
 

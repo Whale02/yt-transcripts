@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 618；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 教会、复兴与信仰](#section-06)
 - [07. 24:00–27:01 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=IZoMO73kySw&t=0s) · 本段原话**：good morning family how are y'all doing today I'm excited to be with you I have some things on my heart to talk to youall about uh I went to a church service last night and it was amazing exactly what I'm looking for uh the spirit of the Lord moved and uh the Pres
+- **[04:38](https://www.youtube.com/watch?v=IZoMO73kySw&t=278s) · 本段原话**：want to give you an offering I just want to give you something special and I because I didn't have anything but I was like you when you're entering into the presence of a king I wanted to bring him a gift like the wise men brought him gold myrr and frankincense and they brought him the gifts because they were
+- **[08:25](https://www.youtube.com/watch?v=IZoMO73kySw&t=505s) · 本段原话**：you're not you're not burn out there's a lot of you that are wanting to give up on things wanting to give up on Ministry wanting to give up on your marriage wanting to give up on your children wanting to give up on life your jobs whatever saying I can't take the pressure anymore this has become too
+- **[16:47](https://www.youtube.com/watch?v=IZoMO73kySw&t=1007s) · 本段原话**：peace over us we receive joy we receive in feeling of your joy the joy of the Lord is our strength Joy un speakable and full of your glory father we take authority over the spirit of depression right now in the name of Jesus I command you to break off of them we call the
+- **[20:02](https://www.youtube.com/watch?v=IZoMO73kySw&t=1202s) · 他表达判断**：and that's what I do I say it over I I say it all the time I say it so much I don't even realize I'm saying it a lot of times I because I walk around and I say you my my kids can vouch for that I speak it I decree it I believe it but
+- **[24:00](https://www.youtube.com/watch?v=IZoMO73kySw&t=1440s) · 本段原话**：every tongue that rises against me I condemn it they fall to the ground say it I will not allow that that word to bear fruit in my life you will not curse me with your mouth I don't care who you are word curses witches uh warlocks all kinds of stuff you're not going to speak
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=IZoMO73kySw&t=0s) · 本段原话**：good morning family how are y'all doing today I'm excited to be with you I have some things on my heart to talk to youall about uh I went to a church service last night and it was amazing exactly what I'm looking for uh the spirit of the Lord moved and uh the Pres
+- **[01:27](https://www.youtube.com/watch?v=IZoMO73kySw&t=87s) · 他描述所见**：very back row a lot of times and I just watch and see if I see any angelics or uh Angelic visitations or whatever you know I don't go in the front there's a lot of times I like to you know see if there's Min Minister Spirits coming in to bless the congregation because that's
+- **[02:00](https://www.youtube.com/watch?v=IZoMO73kySw&t=120s) · 他描述所见**：vision and in the open eyed Vision he' come to me and he I mean he was just he was this close this close to me and he was he was just observing me but he was he was smiling he had a huge smile on his face like he was laughing and he was
+- **[03:32](https://www.youtube.com/watch?v=IZoMO73kySw&t=212s) · 他描述所见**：looked down and I didn't have anything on me other than just me the the you know just me you know and I thought I'll just give me but I was like I want to give more because I'm standing in front of the king of kings and in the vision I pick up that beautiful crown and it had
 
 ### 完整英文 Transcript
 
@@ -126,7 +144,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:38](https://www.youtube.com/watch?v=IZoMO73kySw&t=278s) · 本段原话**：want to give you an offering I just want to give you something special and I because I didn't have anything but I was like you when you're entering into the presence of a king I wanted to bring him a gift like the wise men brought him gold myrr and frankincense and they brought him the gifts because they were
+- **[04:55](https://www.youtube.com/watch?v=IZoMO73kySw&t=295s) · 他描述所见**：worshiping him with it and that's what I thought it was so beautiful I that I had that there and I and I picked it up in the spirit and I'm looking in the in the open eye vision and I handed it to him and I and and that that scripture casting down the golden crowns and I
+- **[05:42](https://www.youtube.com/watch?v=IZoMO73kySw&t=342s) · 他描述所见**：heaven and I blessed him with it and then he spoke to me and he said Brandon I'm bringing a refreshing to my people they're thirsty there's many of you all that are watching this video today that are thirsty for a fresh drink of that living water and and and at this moment in that Vision whenever I I looked over
+- **[07:38](https://www.youtube.com/watch?v=IZoMO73kySw&t=458s) · 本段原话**：I'm telling you there's a river of Living Water that's going to start to bubble bubble bubble bubble bubble out of you as you stay close to him and you seek Him daily he's going to bring a refreshing over you so I'm going to believe God with you today for a fresh drink of that water I know there's a
 
 ### 完整英文 Transcript
 
@@ -225,7 +250,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:25](https://www.youtube.com/watch?v=IZoMO73kySw&t=505s) · 本段原话**：you're not you're not burn out there's a lot of you that are wanting to give up on things wanting to give up on Ministry wanting to give up on your marriage wanting to give up on your children wanting to give up on life your jobs whatever saying I can't take the pressure anymore this has become too
+- **[09:33](https://www.youtube.com/watch?v=IZoMO73kySw&t=573s) · 他描述所见**：get her full manifestation maybe I'll get my full manifestation of things that I'm believing for and the Lord stopped me in that same vision the same experience I'm in there and he said Brandon why not now why why do you always push off the miracle for tomorrow when I'm ready to do it now Faith calls those things that
+- **[09:57](https://www.youtube.com/watch?v=IZoMO73kySw&t=597s) · 本段原话**：be not as though they are right now Faith calls it now he doesn't believe the Lord's not always telling you well it's tomorrow the tomorrow is a sweet by and by you're going to get it the next day you might get it the next day receive it now Abraham staggered not at the promise of God through unbelief
+- **[11:42](https://www.youtube.com/watch?v=IZoMO73kySw&t=702s) · 本段原话**：your hands to will prosper that whatever you you touch will be blessed because you're a child of the king that greater is he that is in you than he that is in the world and that that a thousand shall fall at your side and 10,000 at your right hand but nothing shall come not
 
 ### 完整英文 Transcript
 
@@ -329,7 +361,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=IZoMO73kySw&t=721s) · 他表达判断**：you I believe with all my heart Jesus Paid the price for you to walk in Victory from sickness and disease from bondage from from addictions it doesn't matter what you're going through there's nothing too difficult nothing too hard that Jesus can't set you free from I believe today is your day today is your
+- **[12:24](https://www.youtube.com/watch?v=IZoMO73kySw&t=744s) · 他表达判断**：day for your Miracle so let's believe right now together whatever you're believing for no matter how big it may seem in your mind Jesus knows what you need and we're I'll be your two I'll come in agreement with you and I believe with you for your manifestation so father let's just pray let's bow our
+- **[13:35](https://www.youtube.com/watch?v=IZoMO73kySw&t=815s) · 本段原话**：deliverance from sickness and disease cancers and diabetes heart disease lung disease no matter what it is Jesus Paid the price for you to be healed we call you healed and whole and well in the name of Jesus now Satan take your hands off of God's Property we command you to release them now in Jesus Jesus name we
+- **[14:46](https://www.youtube.com/watch?v=IZoMO73kySw&t=886s) · 本段原话**：Lord Faith calls those things that be not as though they were and we call you healed we call you well we call you delivered we call your marriages restored we call your marriage marriages healed and whole a refreshing over the marriages a refreshing over the children we call a fresh drink of your living
 
 ### 完整英文 Transcript
 
@@ -424,7 +463,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:47](https://www.youtube.com/watch?v=IZoMO73kySw&t=1007s) · 本段原话**：peace over us we receive joy we receive in feeling of your joy the joy of the Lord is our strength Joy un speakable and full of your glory father we take authority over the spirit of depression right now in the name of Jesus I command you to break off of them we call the
+- **[17:33](https://www.youtube.com/watch?v=IZoMO73kySw&t=1053s) · 本段原话**：of the world be whole be healed be well in jesus' name we speak to the belly we speak to the serotonin levels to be normal in jesus' name you function like you're supposed to in in in in the in the large and the small intestine we call you healed and whole and well in
+- **[18:38](https://www.youtube.com/watch?v=IZoMO73kySw&t=1118s) · 本段原话**：feel like you're too far gone sin whatever but I'm telling you perfect love cast out all fear because fear has torment and he that fearth is not made perfect in love and I and you've got to get that love down inside of you my father loves me say that all day my Jesus loves me my father loves me and I
+- **[19:42](https://www.youtube.com/watch?v=IZoMO73kySw&t=1182s) · 本段原话**：myself but to to be blessing to others I I my father has a cattle on a thousand hills I speak blessing and increase over my finances I have Supernatural ability to create wealth I have a supernatural ability to create finances for my home
 
 ### 完整英文 Transcript
 
@@ -516,7 +562,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:02](https://www.youtube.com/watch?v=IZoMO73kySw&t=1202s) · 他表达判断**：and that's what I do I say it over I I say it all the time I say it so much I don't even realize I'm saying it a lot of times I because I walk around and I say you my my kids can vouch for that I speak it I decree it I believe it but
+- **[21:20](https://www.youtube.com/watch?v=IZoMO73kySw&t=1280s) · 本段原话**：said because you've been speaking that way for so long but I'm telling you Faith calls those things that be not as they were you keep speaking to it you keep speaking to it you keep speaking to it and you're going to see that ship turn around Titanic takes a long time it's Sun that's a bad that's a bit bad
+- **[22:35](https://www.youtube.com/watch?v=IZoMO73kySw&t=1355s) · 本段原话**：or you have the ability to create death with your words and you speaking out of your mouth all kinds of bad things well my husbands are no good so and so he's never going he's a drunk his daddy was a drunk his grandpa was a drunk and they're always going to be a drunk and
+- **[23:49](https://www.youtube.com/watch?v=IZoMO73kySw&t=1429s) · 本段原话**：said over the course of years of what somebody spoken over you some people been living underneath word curses and you got to speak to those word curses and say I I commit I condemn the words
 
 ### 完整英文 Transcript
 
@@ -622,7 +675,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:01 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=IZoMO73kySw&t=1440s) · 本段原话**：every tongue that rises against me I condemn it they fall to the ground say it I will not allow that that word to bear fruit in my life you will not curse me with your mouth I don't care who you are word curses witches uh warlocks all kinds of stuff you're not going to speak
+- **[25:48](https://www.youtube.com/watch?v=IZoMO73kySw&t=1548s) · 本段原话**：Deliverance and people around me are going to see the glory father I say it all the time how long's the video 29 minutes okay I I've gone too long um um Let me let me close it I I get I could talk like this all day y'all it's it's in me it's not just it's not just this
+- **[26:07](https://www.youtube.com/watch?v=IZoMO73kySw&t=1567s) · 他表达判断**：is this is the way we live and this is what I believe with all my heart okay well put a smile on your face oh if you could please subscribe please subscribe to my channel if you're still watching this and you haven't clicked out and if you like if you like it to be
+- **[26:23](https://www.youtube.com/watch?v=IZoMO73kySw&t=1583s) · 他表达判断**：a blessing we bought these pillows it's it's fun I hope it's not dirty it's it's probably dir my little girl plays them but if you could uh comment down below something nice something tell us where you're watching from I'm curious of where everybody's at don't tell us your street address or your little town just say we're watching
 
 ### 完整英文 Transcript
 

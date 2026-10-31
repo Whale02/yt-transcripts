@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 960；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 54:00–59:59 · 预言、梦境与异象、地震、风暴与灾害](#section-10)
 - [11. 60:00–62:14 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=_RZviFwBIlI&t=0s) · 本段原话**：hey good morning family praise the Lord thank you for joining me today well I told you that it was rice paper thin in the Middle East right now I was shown things about military strikes we're seeing those I've seen a lot more concerning uh Iran concerning Syria concerning turkey rising up and and
+- **[12:02](https://www.youtube.com/watch?v=_RZviFwBIlI&t=722s) · 他进行祷告**：asking us to pray over their eye laboratory so father we lift up that the Eye Institute this this surgical place that they're wanting to do father to be able to restore the sight of people in Puerto Rico so father we lift up the the Puerto Rican this the whatever this hindrance is with the government and we
+- **[26:43](https://www.youtube.com/watch?v=_RZviFwBIlI&t=1603s) · 他描述所见**：you in your name of Jesus you'll not destroy any churches you'll not come against our churches from all around from all around from all around [Music] in the Middle East I see Middle Eastern churches I see Middle Eastern churches right now in the [Music]
+- **[36:49](https://www.youtube.com/watch?v=_RZviFwBIlI&t=2209s) · 本段原话**：driest of the lands where it seems to be the driest in the spiritual climate where it seems to be the dest the Lord Lord is bringing a freshh mighty wave of his glory the fresh Mighty wave of his power it's coming upon these lands in the name of Jesus we stir we stir we
+- **[49:32](https://www.youtube.com/watch?v=_RZviFwBIlI&t=2972s) · 本段原话**：you don't but I keep your eyes on me keep your eyes on me go vertical go vertical in the days ahead go [Music] vertical for there'll be great distractions there'll be great distractions to pull you away wait for me to pull you away from the King of Kings you see you see to look you'll look to the right you
+- **[60:02](https://www.youtube.com/watch?v=_RZviFwBIlI&t=3602s) · 本段原话**：America and there will be a great shaking to awaken for there's a wakeup call for when I've called and called and called for my body to wake up they've remained in their Slumber and their sleep for now a great shaking to Awakening will wake you up keep your eyes vertical the ones are you
+
 <a id="section-01"></a>
 ## 01. 00:00–05:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=_RZviFwBIlI&t=0s) · 本段原话**：hey good morning family praise the Lord thank you for joining me today well I told you that it was rice paper thin in the Middle East right now I was shown things about military strikes we're seeing those I've seen a lot more concerning uh Iran concerning Syria concerning turkey rising up and and
+- **[02:27](https://www.youtube.com/watch?v=_RZviFwBIlI&t=147s) · 他描述所见**：new rain is coming a new rain a holy ghost reain but it's a toad Strangler do you understand what I'm saying it's going to be one of those great toad Strangler Reigns and I saw great brush Harbor churches rising up in the country with great great Revival in the in the the rural areas with great great Revival
+- **[04:05](https://www.youtube.com/watch?v=_RZviFwBIlI&t=245s) · 他转述所听到的话**：he could press through that that the Archangel Michael would come through and he said I was battling the I heard you the first time you prayed but I had he was battling with the prince of uh Prince of Persia so we believe that that that God's no respector of persons and that we are we stand in the Gap just
+- **[05:22](https://www.youtube.com/watch?v=_RZviFwBIlI&t=322s) · 他转述所听到的话**：brings things that have been buried things that had been hidden are going to be exposed and the Darkness that was behind it will be have an embarrassing moment the Lord told me if you remember great days of embarrassment for the Democratic party days of embarrassment are coming days of embarrassment for Camala Harris hidden
 
 ### 完整英文 Transcript
 
@@ -167,7 +185,14 @@
 <a id="section-02"></a>
 ## 02. 06:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[06:21](https://www.youtube.com/watch?v=_RZviFwBIlI&t=381s) · 他描述所见**：uncovering of of corrupted money even more so as they keep digging things that were bu I saw them burning papers and and destroying computers I saw them doing these things and I'm telling you there's people that saw this stuff happening that they will come and expose the darkness that they saw even about January 6th there's
+- **[07:46](https://www.youtube.com/watch?v=_RZviFwBIlI&t=466s) · 本段原话**：and all that believe we have to be believing Believers and we have to believe what we're praying today will come to pass at last and that it will have a 24-hour turnaround that we're not going to go well we prayed and we've never seen no fruit of it no we're going to be believing Believers and we're
+- **[08:42](https://www.youtube.com/watch?v=_RZviFwBIlI&t=522s) · 本段原话**：bruised for our iniquities the chastisement of our peace was upon you and with your stripes we're healed from all viruses all flu all snotty noses stomach bugs whatever it may be you took it on the cross for me cancers diabetes heart disease Strokes high blood pressure father all of it heart foots uh sexually
+- **[10:44](https://www.youtube.com/watch?v=_RZviFwBIlI&t=644s) · 他表达判断**：its wash in the blood and I enter in by the blood of the lamb and the word of my testimony that I am redeemed I am free I am blood W I'm Blood Bought and I believe that if I make much of the blood the blood makes a much me and we take
 
 ### 完整英文 Transcript
 
@@ -320,7 +345,14 @@
 <a id="section-03"></a>
 ## 03. 12:00–17:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:02](https://www.youtube.com/watch?v=_RZviFwBIlI&t=722s) · 他进行祷告**：asking us to pray over their eye laboratory so father we lift up that the Eye Institute this this surgical place that they're wanting to do father to be able to restore the sight of people in Puerto Rico so father we lift up the the Puerto Rican this the whatever this hindrance is with the government and we
+- **[14:26](https://www.youtube.com/watch?v=_RZviFwBIlI&t=866s) · 他描述所见**：asked her how come you haven't been Where Have You Been are you okay we thought something happened to you how come you haven't been coming to the the the to the bomb shelter and she said I saw and I read in the Bible that the Lord neither Slumber neither Slumbers nor sleeps and I thought well there's no
+- **[16:05](https://www.youtube.com/watch?v=_RZviFwBIlI&t=965s) · 本段原话**：the second hand on the clock ticks okay so we're not going to get upset about things we see trade Wars Wars rumors of wars plagues and the in the future how much we should be storing back how much food should we listen to the Holy Spirit and he will lead you and guide you into
+- **[17:23](https://www.youtube.com/watch?v=_RZviFwBIlI&t=1043s) · 他描述所见**：false flag events trying to take place in Europe to stir up war on a greater level accusing Russia trying to throw the uh the the the War uh paint in there more no we will not have it we will expose this Darkness we pray over Emanuel macron I told you I saw an antichrist
 
 ### 完整英文 Transcript
 
@@ -466,7 +498,14 @@
 <a id="section-04"></a>
 ## 04. 18:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:02](https://www.youtube.com/watch?v=_RZviFwBIlI&t=1082s) · 他进行祷告**：always pray for the leaders so father we lift up all hidden cells in the United States over the last how many uh over the last Administration especially and we call those hidden cells of people that are here doing evil exposed even by a water hose We Believe father that Your Hand of Justice your
+- **[19:05](https://www.youtube.com/watch?v=_RZviFwBIlI&t=1145s) · 他进行祷告**：before that we'll see the great exposing of Darkness for seed time and harvest is accelerating like we've never seen it before and we believe father that this is a time that we're going to see it so father I pray and believe father right now we're believing Believers that every plot every plan of the wicked even
+- **[20:23](https://www.youtube.com/watch?v=_RZviFwBIlI&t=1223s) · 本段原话**：of of of of mass casualties and and over uh mass shootings or any kind of evolvement with with a pipe bombs or anything we expose it in the name of Jesus we say you will not do this we come against you in the name of Jesus we bind you and we break your power we come
+- **[21:48](https://www.youtube.com/watch?v=_RZviFwBIlI&t=1308s) · 他进行祷告**：tongues and I'm unashamedly do this I tell you this because I tried to prepare you I'm going to intercede for what I just saw I'm not going to pray in English over it because God God knows the holy spirit will pray a perfect prayer out of my out of my belly and we're going to pray and this is a the
 
 ### 完整英文 Transcript
 
@@ -562,7 +601,14 @@
 <a id="section-05"></a>
 ## 05. 24:00–29:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[26:43](https://www.youtube.com/watch?v=_RZviFwBIlI&t=1603s) · 他描述所见**：you in your name of Jesus you'll not destroy any churches you'll not come against our churches from all around from all around from all around [Music] in the Middle East I see Middle Eastern churches I see Middle Eastern churches right now in the [Music]
+- **[27:17](https://www.youtube.com/watch?v=_RZviFwBIlI&t=1637s) · 他进行祷告**：worship we pray over our brothers and sisters in the Middle East we pray over our brothers and sisters in the Middle East oh God from suicide bombers we bind it oh the spirit of of antichrist you bind you in the name of Jesus get your hands off the church get your hands off to
+- **[27:39](https://www.youtube.com/watch?v=_RZviFwBIlI&t=1659s) · 本段原话**：God's beloved we raise up a standard against you in the name of Jesus we raise up a standard against you in the name of Jesus you foul devil from Hell you ceased assist in your maneuvering against us no you'll not cause Mass casualties no
+- **[29:19](https://www.youtube.com/watch?v=_RZviFwBIlI&t=1759s) · 本段原话**：this is this is a this is a demonic Spirit of ant the Antichrist Spirit of coming against the church with satanic plot against is Easter you say and we're uncovering and and and we're exposing it right now we're exposing it right now the very plans their very plots they have dung the P they have dug this pit
 
 ### 完整英文 Transcript
 
@@ -628,7 +674,14 @@
 <a id="section-06"></a>
 ## 06. 30:00–35:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:14](https://www.youtube.com/watch?v=_RZviFwBIlI&t=1814s) · 他描述所见**：camp even in the little churches even in the little churches [Music] we pray over even Australia we pray over Australia and the Australian churches I see fires I see fires in
+- **[30:50](https://www.youtube.com/watch?v=_RZviFwBIlI&t=1850s) · 他描述所见**：Australia I see fires dry dry dry it's dry it's dry we speak rain we speak rain over Australia we speak rain not not destructive rain a a
+- **[33:40](https://www.youtube.com/watch?v=_RZviFwBIlI&t=2020s) · 他描述所见**：see an outflow I see the rivers I see the w i see a wave coming over Australia he's calling forth the new Davids he's calling forth the new Davids he's calling forth the new Esters he's calling them forth he's calling them
+- **[34:17](https://www.youtube.com/watch?v=_RZviFwBIlI&t=2057s) · 他描述所见**：[Music] forth they just needing a new Fresh Fire that's all I see them I see men in the bars I see men in the bars and they're in the women in the bars and they're in there in their partying and they're coming out in the name of Jesus I see them I see them I see
 
 ### 完整英文 Transcript
 
@@ -710,7 +763,14 @@
 <a id="section-07"></a>
 ## 07. 36:00–41:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:49](https://www.youtube.com/watch?v=_RZviFwBIlI&t=2209s) · 本段原话**：driest of the lands where it seems to be the driest in the spiritual climate where it seems to be the dest the Lord Lord is bringing a freshh mighty wave of his glory the fresh Mighty wave of his power it's coming upon these lands in the name of Jesus we stir we stir we
+- **[37:10](https://www.youtube.com/watch?v=_RZviFwBIlI&t=2230s) · 他描述所见**：stir we stir and I see the cloud the size of a man's hand and we speak to that cloud for an abundance of rain abundance of rain is coming abundance of rain I hear the sound of an abundance of rain but it's not just a natural rain it's a spiritual rain a spiritual rain a
+- **[38:19](https://www.youtube.com/watch?v=_RZviFwBIlI&t=2299s) · 他描述所见**：over all of Asia I see the abundance of rain over Asia over Asia over Europe over Europe over Europe in Africa in Africa from every tribe and every tongue even in the big the the the the great Great Huts in the Huts in the in the grass Huts we call the people the tribal
+- **[41:38](https://www.youtube.com/watch?v=_RZviFwBIlI&t=2498s) · 本段原话**：the doctor said his worst spinal injury he's ever seen we say that there's nothing too big for our God we call this young man healed and whole and well in the name of Jesus all through that and that father he would be a testimony he would be a te he would be a testimony of
 
 ### 完整英文 Transcript
 
@@ -787,7 +847,14 @@
 <a id="section-08"></a>
 ## 08. 42:00–47:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:01](https://www.youtube.com/watch?v=_RZviFwBIlI&t=2521s) · 本段原话**：trophy of grace to the grace of God in this young man's life right now I call his spine healed and whole and well and let the hand of the Lord move on that spine let the hand of the Lord move on that spine where there's where there's breakage where there is no nerve feeling
+- **[43:10](https://www.youtube.com/watch?v=_RZviFwBIlI&t=2590s) · 本段原话**：over all of it we call healing and holess or Wellness over your bodies all of your bodies all the unsaved loved ones there's a there's there's a there there is a a a stirring right now for unsaved loved ones they're coming back reviv rival is coming a major outpouring is coming I'm telling you I feel it I
+- **[45:23](https://www.youtube.com/watch?v=_RZviFwBIlI&t=2723s) · 本段原话**：the Fresh Fire of your presence follows in that house breaking every yoke of bondage on them in the name of Jesus and father that they're no longer bound by a devil that they're free by the blood of the lamb and by the word of our their testimony we're free in the name of
+- **[47:10](https://www.youtube.com/watch?v=_RZviFwBIlI&t=2830s) · 他描述所见**：[Music] we pray over Israel right now we pray I see it fear not fear not for what's about to happen fear not fear
 
 ### 完整英文 Transcript
 
@@ -880,7 +947,14 @@
 <a id="section-09"></a>
 ## 09. 48:00–53:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、战争与国际事务。 提到的地点：Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[49:32](https://www.youtube.com/watch?v=_RZviFwBIlI&t=2972s) · 本段原话**：you don't but I keep your eyes on me keep your eyes on me go vertical go vertical in the days ahead go [Music] vertical for there'll be great distractions there'll be great distractions to pull you away wait for me to pull you away from the King of Kings you see you see to look you'll look to the right you
+- **[50:27](https://www.youtube.com/watch?v=_RZviFwBIlI&t=3027s) · 他描述所见**：go around you oh it seemed like all this is going to go around I see it I see it I see [Music] it for the ways will come and the storms winds will blow but you keep your eyes upon me and you speak to to the storms
+- **[51:35](https://www.youtube.com/watch?v=_RZviFwBIlI&t=3095s) · 他描述所见**：for he is the captain of your ship he is the captain of your ship I see the I see the sea and the Sea SE the sea I see the storms I see the [Music] storm St vertical [Applause] shal no matter how rough these Seas get we speak to the storms we speak to
+- **[52:52](https://www.youtube.com/watch?v=_RZviFwBIlI&t=3172s) · 他描述所见**：see I see Russia I see Russia I see Ukraine I see see it I see I'm seeing I told you I told you greaton the Great is running around he's running around
 
 ### 完整英文 Transcript
 
@@ -956,7 +1030,14 @@
 <a id="section-10"></a>
 ## 10. 54:00–59:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[54:01](https://www.youtube.com/watch?v=_RZviFwBIlI&t=3241s) · 他描述所见**：I see Trump cracking his whip again and like I said it makes the thing pause but as it pauses it's still devising the plan of Destruction as it pauses a pause it's just a pause do you understand cracking a whip just makes a pause a pause it's not to contain the animal it
+- **[55:50](https://www.youtube.com/watch?v=_RZviFwBIlI&t=3350s) · 他描述所见**：God lord said he's done now Glory I see it Lord he's he's given us a window he's given us a window of reprieve pushing back this Darkness do you see he's cracking the whip he put this man to give us a window he holds the darkness in the
+- **[57:38](https://www.youtube.com/watch?v=_RZviFwBIlI&t=3458s) · 他描述所见**：Grace the hour is coming to an end for there's not even seconds do you understand it's beginning It's Beginning the time I see it it's I see the the sand going through the hourglass and there's just a little at the in we're running out of time we're
+- **[58:11](https://www.youtube.com/watch?v=_RZviFwBIlI&t=3491s) · 他描述所见**：running out of time what will you do with this window of time for the cracking of a whip is only for a season stopping in his track stopping in his track glory to God I see I see him standing on on that that that podium in the middle and I see I see I see Israel I see I see
 
 ### 完整英文 Transcript
 
@@ -1048,7 +1129,14 @@
 <a id="section-11"></a>
 ## 11. 60:00–62:14 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[60:02](https://www.youtube.com/watch?v=_RZviFwBIlI&t=3602s) · 本段原话**：America and there will be a great shaking to awaken for there's a wakeup call for when I've called and called and called for my body to wake up they've remained in their Slumber and their sleep for now a great shaking to Awakening will wake you up keep your eyes vertical the ones are you
+- **[60:33](https://www.youtube.com/watch?v=_RZviFwBIlI&t=3633s) · 本段原话**：that are awake keep your eyes vertical for what you're about to partake you will see this this this you'll see this on the edge of herizon do you understand but the but the Welter for is an active Grace the is able what will you do with it what will
+- **[61:05](https://www.youtube.com/watch?v=_RZviFwBIlI&t=3665s) · 本段原话**：you do with it what will you do with it he asked what will you do with it there's a purpose for it what will you do with it glory to God glory to
+- **[62:07](https://www.youtube.com/watch?v=_RZviFwBIlI&t=3727s) · 本段原话**：smile on your face and a song on your heart Jesus loves you so much and we love you we'll see you again tomorrow God bless you all byebye
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1118；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 40:00–41:05 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:06](https://www.youtube.com/watch?v=iTNAyPgepls&t=6s) · 他转述所听到的话**：Hi. And we're excited to be here. We have some things on our heart. The Lord told me, he said, "Brandon, I want you to talk to my people again about the refiner's fire and where it where they are and what what basically about how to get to the next level." A lot of people
+- **[08:01](https://www.youtube.com/watch?v=iTNAyPgepls&t=481s) · 他描述所见**：shaking is coming. Food shortages are coming. Uh I would say basically there birthing pains like you you can't imagine the Lord had me even like what like even yesterday praying over uh American Airlines praying over the United Airlines. I don't know what I just got I saw planes flying in the sky major planes flying in
+- **[16:11](https://www.youtube.com/watch?v=iTNAyPgepls&t=971s) · 本段原话**：somebody came and just showed up in the middle of the night. We were like sleeping on the floor somewhere. I I vaguely remember as a kid because I was so little and I remember them showing up with with Christmas presents and beautifully wrapped, just beautiful. And I remember this one of the best
+- **[24:01](https://www.youtube.com/watch?v=iTNAyPgepls&t=1441s) · 他转述所听到的话**：shut because you couldn't keep the And so one night I was praying the Lord said deal with this and all of a sudden a massive explosion happened from the meth house and I don't know if they were hurt or anything. I don't know but they stopped cooking meth after that because the massive explosion took place next
+- **[32:36](https://www.youtube.com/watch?v=iTNAyPgepls&t=1956s) · 本段原话**：Oh yeah. And blessed it. We got a testimony about a woman saying she made lemonade and God's blessing. She's going to have a vending machine vending trucks and all kinds of stuff. God a creative idea to get wealth. But he'll speak to you and show you how to do it because God is a
+- **[40:07](https://www.youtube.com/watch?v=iTNAyPgepls&t=2407s) · 本段原话**：Well, we just say subscribe if you haven't subscribed. Here's our little pillow. We always say ding ding.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 地震、风暴与灾害、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：地震、风暴与灾害、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕地震、风暴与灾害、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:06](https://www.youtube.com/watch?v=iTNAyPgepls&t=6s) · 他转述所听到的话**：Hi. And we're excited to be here. We have some things on our heart. The Lord told me, he said, "Brandon, I want you to talk to my people again about the refiner's fire and where it where they are and what what basically about how to get to the next level." A lot of people
+- **[01:58](https://www.youtube.com/watch?v=iTNAyPgepls&t=118s) · 本段原话**：We you need to understand it's it's it's him and us. I'm just a person just like you are. But he will use you in the kingdom if you yield yourself to him. But you have to be a vessel that's been tried. You will not walk in the greater glory and the manifest demonstrations and
+- **[03:00](https://www.youtube.com/watch?v=iTNAyPgepls&t=180s) · 本段原话**：And I'm trying to tell you all the fundamentals of life. We have those test times. And the Lord showed me a lot of people will be tested usually every 20 years. He showed me it was it was keys and he he showed me the life life divided up in quarters and he show he
+- **[03:15](https://www.youtube.com/watch?v=iTNAyPgepls&t=195s) · 本段原话**：gave me this whole thing. It was beautiful about how he test us and we go from glory to glory. But the the the Monday through Fridays, Saturday, Sunday, we we we are we are growing each and every single day. And then when we get to those major tests, we don't even know a lot of times like he told me he
 
 ### 完整英文 Transcript
 
@@ -128,7 +146,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:56](https://www.youtube.com/watch?v=iTNAyPgepls&t=296s) · 本段原话**：to this greater manifestations of what you showed me of the great glory of healings and demonstrations?" and he said, "Brandon, it's going to come through the fundamentals. It's going to come through walking in love. You've got to get down the foundation of love better."
+- **[05:29](https://www.youtube.com/watch?v=iTNAyPgepls&t=329s) · 他描述所见**：Like getting on there and taking down all of these uh false accounts saying they're me calling prophetic bigs and all these things. I I don't call myself a prophet. I'm a watchman. I I'm just like you all. I pray and I tell you what I hear and what I see. I don't claim to
+- **[06:01](https://www.youtube.com/watch?v=iTNAyPgepls&t=361s) · 本段原话**：doing is telling you what he's told me to tell you. And whether you receive that or not, it's on you. But it, you know, but it's like coming on there and and dealing with the people like this last couple of days. Diana Diana spent literally 24 hours. She was up all night long and all day taking those accounts
+- **[06:56](https://www.youtube.com/watch?v=iTNAyPgepls&t=416s) · 本段原话**：It was awful. I I am really tired today. Yeah, it was rough seeing all that. And some of the people had 30,000 subscribers, some of them had 10,000. Some had 11,000. It was a lot of people. and they had some videos had 1.1 million views, more than I've had on my YouTube channel. Well, all to the glory
 
 ### 完整英文 Transcript
 
@@ -242,7 +267,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=iTNAyPgepls&t=481s) · 他描述所见**：shaking is coming. Food shortages are coming. Uh I would say basically there birthing pains like you you can't imagine the Lord had me even like what like even yesterday praying over uh American Airlines praying over the United Airlines. I don't know what I just got I saw planes flying in the sky major planes flying in
+- **[08:58](https://www.youtube.com/watch?v=iTNAyPgepls&t=538s) · 本段原话**：and say, "Hey, you you going to make a viral video? Talk about fear." Boy, they sure like it. I mean, I told we laugh about it. My son do, because it's like, what? Why don't y'all want to hear about the glory more than what you want to hear about fear? We got you got to shake
+- **[09:42](https://www.youtube.com/watch?v=iTNAyPgepls&t=582s) · 他表达判断**：Look at all these things that are coming." But they seem to be people are more into that than they are to tell you, "Hey, there's a glory coming." you know, in prayer at church tonight. We we're hearing about Brother Hagen during the 1920s and some of the some of the the greats that I believe, you know,
+- **[11:09](https://www.youtube.com/watch?v=iTNAyPgepls&t=669s) · 本段原话**：a breath out of my lungs today. I I I my my eyes and you may be paralyzed. My eyes moving. I can move my eyes. And you may not be able to move anything else, but you can move your eyes. Be thankful for any little thing that you and I'm telling you that's the the key of the
 
 ### 完整英文 Transcript
 
@@ -356,7 +388,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=iTNAyPgepls&t=720s) · 他转述所听到的话**：And when you do, blessings flow. The more you praise him, the more blessings will flow. And I'm telling you, whenever I heard Pastor Chip talk about the great uh depression and he was saying that Brother Hagen and them never went without food because they always praised him for the little things. And for what
+- **[12:19](https://www.youtube.com/watch?v=iTNAyPgepls&t=739s) · 本段原话**：I've seen coming, I'm talking, you think the Great Depression was bad in those story books. For what I have seen coming, folks, this is going to make the Great Depression look like a walk in the park because this generation doesn't understand how to even grow things in a garden. They don't know how to go and do
+- **[12:46](https://www.youtube.com/watch?v=iTNAyPgepls&t=766s) · 本段原话**：So, that's what I'm talking about. You've got to learn now. You've got to learn now how to live by faith now so that you're able to operate when things get rough. You can't wait until things get rough and to and then start doing the things and go, "Well, I'm we're going to start
+- **[14:34](https://www.youtube.com/watch?v=iTNAyPgepls&t=874s) · 本段原话**：It's imprinted in my brain forever. I was We rejoiced about that. She pushed a button and another one came out. Then I pushed another one and another one came out and we loaded our arms full of sodas and they were cold. It was the best. It was the best thing ever. So see God
 
 ### 完整英文 Transcript
 
@@ -471,7 +510,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 物资、能源与供应链、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、教会、复兴与信仰展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:11](https://www.youtube.com/watch?v=iTNAyPgepls&t=971s) · 本段原话**：somebody came and just showed up in the middle of the night. We were like sleeping on the floor somewhere. I I vaguely remember as a kid because I was so little and I remember them showing up with with Christmas presents and beautifully wrapped, just beautiful. And I remember this one of the best
+- **[17:18](https://www.youtube.com/watch?v=iTNAyPgepls&t=1038s) · 本段原话**：know, we were just being thankful for everything. It's beautiful. I love it. There's so many times, you know, even when we we've been married that we didn't have nothing and we we were we were trying to just figure out how to pay our electric bill.
+- **[18:28](https://www.youtube.com/watch?v=iTNAyPgepls&t=1108s) · 本段原话**：And so we we were so desperate to try to help Megan um at that time, just trying to just find any kind of alternative uh to to help her to function more because we we just we wanted her to live a normal life. And um it was rough. We charged everything up. We were tens of
+- **[19:23](https://www.youtube.com/watch?v=iTNAyPgepls&t=1163s) · 本段原话**：We're not going to go around talking about our problems to everybody and telling them how bad you've got it because it's just like it's just like this. I try to tell y'all praying in the spirit and not let letting the devil see that he's that he's made a move on you that's working that you feel like it's
 
 ### 完整英文 Transcript
 
@@ -590,7 +636,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:04](https://www.youtube.com/watch?v=iTNAyPgepls&t=1204s) · 本段原话**：I'd spend my whole entire night giving God praise for the water bill. God, I thank you for the water bill. Anyway, only $100 water bill or in trash, whatever. It's not very much, but it was a lot to us. And we would take a seed and we would sew what we could. And we
+- **[21:26](https://www.youtube.com/watch?v=iTNAyPgepls&t=1286s) · 本段原话**：realized that the Lord started teaching me about good ground because not all ground's going to produce. Most people don't want to hear that. And a lot of people go, "Well, that's not bu." No, no, no, no. some 30, some 60, and some 100fold. And I'd always ask the Lord, "Show me where miracle good soil ground is. Show Diana
+- **[22:36](https://www.youtube.com/watch?v=iTNAyPgepls&t=1356s) · 本段原话**：would go, "That's good ground, babe. Let's do that again." So, we would sew intentionally and believe God for a harvest and say, "Lord, show us what to do because we need a blessing because I but I've trusted God with all my heart, all my soul, and all my mind, all my strength. And I lean not under mine
+- **[23:43](https://www.youtube.com/watch?v=iTNAyPgepls&t=1423s) · 本段原话**：And we had we had mice. We had cockroaches. It was it was here. I had to put traps out all the time, clean up things. The neighbors next door were a crack house and they had meth. They were cooking meth so bad we couldn't open our windows up in the fall because they were
 
 ### 完整英文 Transcript
 
@@ -713,7 +766,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:01](https://www.youtube.com/watch?v=iTNAyPgepls&t=1441s) · 他转述所听到的话**：shut because you couldn't keep the And so one night I was praying the Lord said deal with this and all of a sudden a massive explosion happened from the meth house and I don't know if they were hurt or anything. I don't know but they stopped cooking meth after that because the massive explosion took place next
+- **[25:29](https://www.youtube.com/watch?v=iTNAyPgepls&t=1529s) · 本段原话**：It took us sewing seed and believing God. Sewing seed and believing God, but God provided. I'm trying to tell you all it it may not happen overnight, but if you keep on keeping on and you keep on keeping on and you don't let go and
+- **[26:22](https://www.youtube.com/watch?v=iTNAyPgepls&t=1582s) · 本段原话**：Tell him. Yeah. Uh, so one of those times whenever we didn't have enough money to make our bills for the month, electric. Uh yeah, it was electric. And we were going over our budget and we he said, "We have I just got laid off at the church because our pastor fell morally."
+- **[26:53](https://www.youtube.com/watch?v=iTNAyPgepls&t=1613s) · 他表达判断**：this. I need ideas for how we can do this." And that's whenever he gave me the idea for uh selling on eBay. So I said, "Let's take that and that $100 and let's go to a thrift store and we'll buy something and you know as clothing or whatever and I I think I can we the
 
 ### 完整英文 Transcript
 
@@ -827,7 +887,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:24](https://www.youtube.com/watch?v=iTNAyPgepls&t=1704s) · 他表达判断**：It was rough. Megan was really overcoming then. Yeah. I said I need your help Lord. I have no idea what I'm doing but I really feel you leading you're you leading me to do this. And so I went through and I went through every everything and and okay I I think I think I feel like the
+- **[29:03](https://www.youtube.com/watch?v=iTNAyPgepls&t=1743s) · 他表达判断**：Just took my phone, took pictures of it, and then just started an eBay account. And I think I had I already had one because I had used it just to buy kids clothes, my kids clothes from there before. And I just put it on there and loaded it up and did auctions and within a week
+- **[29:51](https://www.youtube.com/watch?v=iTNAyPgepls&t=1791s) · 本段原话**：Cuz I had I got laid off and was told don't you know that we're not going to be able to use you anymore because the finances dried up the church after the patch for fail morally back on staff. So yeah.
+- **[30:53](https://www.youtube.com/watch?v=iTNAyPgepls&t=1853s) · 本段原话**：And and and it was her. God used her. It wasn't me. And then I'd start praying and I would start praying in the spirit with her. I was like, I'm going to join up with her instead of being seen against being being uh let's don't be divided. Let's be let's be together.
 
 ### 完整英文 Transcript
 
@@ -963,7 +1030,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 提到的地点：Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:36](https://www.youtube.com/watch?v=iTNAyPgepls&t=1956s) · 本段原话**：Oh yeah. And blessed it. We got a testimony about a woman saying she made lemonade and God's blessing. She's going to have a vending machine vending trucks and all kinds of stuff. God a creative idea to get wealth. But he'll speak to you and show you how to do it because God is a
+- **[33:48](https://www.youtube.com/watch?v=iTNAyPgepls&t=2028s) · 本段原话**：Always take the time to be thankful for everything you have. You may be a multi multi. You may be watching this right now and you're saying, "Man, I've got millions in the bank. I live in the best uh neighborhood in Oklahoma. I live in Oak Tree. This a big neighborhood in Oklahoma. I live in the Guardia. It's
+- **[34:23](https://www.youtube.com/watch?v=iTNAyPgepls&t=2063s) · 本段原话**：so accustomed to what you live. But I'm trying to tell you, God, if you are going to make it in the days ahead, you've got to learn how to have a cultivation of thanksgiving because I'm telling you, hard days are coming more than what any of you all you multi-millionaires will ever You think,
+- **[34:49](https://www.youtube.com/watch?v=iTNAyPgepls&t=2089s) · 本段原话**：In a 24-hour time frame, you're going to lose everything. Remember what I'm telling you. You better be hearing the voice of God for yourself, listening to him on a day-to-day basis. Because if you don't, you're going to be in trouble. And you'll see the last will be first and the first will be last. And
 
 ### 完整英文 Transcript
 
@@ -1087,7 +1161,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:19](https://www.youtube.com/watch?v=iTNAyPgepls&t=2179s) · 本段原话**：believes. Okay? So, let's just stretch out and believe right now for each one of them that God is going to heal their bodies, restore their marriages, the good days are ahead of them. Okay? So, Father, I just thank you for every single person who's watching this this little broadcast, our little YouTube channel. And I thank you, Father, that
+- **[36:38](https://www.youtube.com/watch?v=iTNAyPgepls&t=2198s) · 本段原话**：every single one of them are the head and not the tail and above and not beneath. I thank you, Father, that no weapon formed against them is going to prosper. We thank you, Lord, that we have authority over over the devil and we take our seat and we are grateful and we're thankful for everything that you
+- **[37:22](https://www.youtube.com/watch?v=iTNAyPgepls&t=2242s) · 本段原话**：Even for the millionaire that's watching, be grateful. Thank you. Thank you, Lord, for what you've taken care of us. Thank you, God, for how much you've provided. Thank you, Lord, for our electric, water, gas, food, car payments, insurance payments, whatever it may be. Lord, we want to give you praise. Thank you for the for
+- **[38:51](https://www.youtube.com/watch?v=iTNAyPgepls&t=2331s) · 本段原话**：Thank you, Lord, for healing in everyone's body that's believing, for new new stomachs, new new gallbladders, new intestines, new whatever they may need. Thank you, Father, for all that you've provided. Lord, thank you that we have the mind of Christ according to 2 Timothy 1:7. God has not given us a spirit of fear, but of power, love, and
 
 ### 完整英文 Transcript
 
@@ -1204,7 +1285,14 @@
 <a id="section-11"></a>
 ## 11. 40:00–41:05 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:07](https://www.youtube.com/watch?v=iTNAyPgepls&t=2407s) · 本段原话**：Well, we just say subscribe if you haven't subscribed. Here's our little pillow. We always say ding ding.
+- **[40:12](https://www.youtube.com/watch?v=iTNAyPgepls&t=2412s) · 本段原话**：Subscribe. Subscribe. It blesses us. It gets us in the algorithm. Every time you all subscribe, every time you click the notification bell, you're helping get the gospel spread throughout the whole world. And even in those heathen channels that were trying to There was one video had 1.1 million views talking about things. Even if they were trying
+- **[40:35](https://www.youtube.com/watch?v=iTNAyPgepls&t=2435s) · 本段原话**：Yeah, that's awesome. So, I gave God praise for that. I thought, well, maybe they got even in all their e being evil, God can do anything. He can turn the what the devil meant for bad, he can turn around for good. Even whatever it was, because they're they're mean and bad, but somebody got blessed maybe.
+- **[40:52](https://www.youtube.com/watch?v=iTNAyPgepls&t=2452s) · 本段原话**：So, well, put a smile on your face and a song in your heart. Jesus loves you so much and we love you and we will see you all next time. God bless you all and I hope y'all have a wonderful day. We both.
 
 ### 完整英文 Transcript
 

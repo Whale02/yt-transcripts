@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 799；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 - [09. 32:00–32:04 · 现场讲话（无可靠自动分类）](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:17](https://www.youtube.com/watch?v=R25p0fPXgc4&t=17s) · 他进行祷告**：out how to pray for every single every single one of these you know without calling you out on the uh camera and saying hey we're praying for such such because the video would go on for hours and so I'm going to do blanket prayers for you and I'm but but I what I thought
+- **[08:01](https://www.youtube.com/watch?v=R25p0fPXgc4&t=481s) · 本段原话**：rich so if you look at that and even with mental torment there's man said hey Brennon I I'm overcoming uh PTSD from war or whatever it's been there's so many and like I said we're we're believing for every single one of you that today is your day for your Miracle but but my heart and what's going on
+- **[12:02](https://www.youtube.com/watch?v=R25p0fPXgc4&t=722s) · 他表达判断**：about every little detail in your life and I believe he even cares about little dogs you understand it's like well well do you think that God's going to show up and show up in my life for my dog yes why not and they're so cute too yeah so little cute little dogs you know Coco
+- **[20:40](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1240s) · 他描述所见**：clue he is he is endless remember I told you the Lord allowed me to see inside of him I saw and he was he there was no end and there was no beginning he shaded himself and he allowed me he was light and there was all kind it was it was gorgeous it was
+- **[24:00](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1440s) · 本段原话**：the Holy Ghost that it's not just some little bitty bitty fire This Little Light of Mine I'm going to let it shine but it's an erasing Inferno that they say look at this Inferno that that's in shine of me it's not just a little little light of mine I'm going to let it
+- **[32:00](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1920s) · 本段原话**：loves you so much and we love you God bless you all and we'll see you again soon byebye
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:17](https://www.youtube.com/watch?v=R25p0fPXgc4&t=17s) · 他进行祷告**：out how to pray for every single every single one of these you know without calling you out on the uh camera and saying hey we're praying for such such because the video would go on for hours and so I'm going to do blanket prayers for you and I'm but but I what I thought
+- **[01:28](https://www.youtube.com/watch?v=R25p0fPXgc4&t=88s) · 他描述所见**：seeing in the spirit now I'm not an economist person I don't know much about stocks I don't know much about the world economy all I know is what the Holy Spirit shows me in prayer and I just tell you all what I see now it in the natural it may not make sense but I know
+- **[02:25](https://www.youtube.com/watch?v=R25p0fPXgc4&t=145s) · 他进行祷告**：you and make you very wealthy that's because this is his will Happ that's what the Lord showed me this is his will house and a lot of people don't understand that they're like well why do you need to pray in the first place because the the Bible tells us to pray whatsoever things we bind on Earth are
+- **[03:44](https://www.youtube.com/watch?v=R25p0fPXgc4&t=224s) · 本段原话**：that can agree with you for your needs because if you're not getting it in your area because I felt like I said I felt such a spiritual void in a lot of those places and I know that you're waking up every day and you don't have uh uh a Church to go to that's radically on fire
 
 ### 完整英文 Transcript
 
@@ -137,7 +155,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:21](https://www.youtube.com/watch?v=R25p0fPXgc4&t=261s) · 本段原话**：can call those things that be not as though they were we can change our circumstances with the power of our words we were we are made in the image of God we're Jo airs with Jesus Christ and there's somebody in Oklahoma that is agreeing with us today that no matter how dark we're if we're living in Miami
+- **[05:43](https://www.youtube.com/watch?v=R25p0fPXgc4&t=343s) · 本段原话**：and say there's no hope for your circumstance this is going to be like that for the rest of your life I'm sorry sir but your daughter's never going to talk if she hasn't started talking by now she's never going to talk I'm sorry sir your daughter's never going to come out of a 5-year-old level of of thinking
+- **[06:19](https://www.youtube.com/watch?v=R25p0fPXgc4&t=379s) · 他描述所见**：really true no no the Bible says it and I believe it if the word of God says it I believe it and that settles it I'm not moved by what I see I'm not moved by what I feel I'm moved about what the word of God says and I'm telling you all what the spirit of the Lord has told me
+- **[06:33](https://www.youtube.com/watch?v=R25p0fPXgc4&t=393s) · 本段原话**：about Black Rock I told you about these major banking what I'm going to call them cartels that are in with evil people concerning sex trafficking concerning drugs concerning money laundering there's some dark things now I'm not saying black rocks involved in all that but I'm saying in my heart I know that there is Big businessmen man
 
 ### 完整英文 Transcript
 
@@ -250,7 +275,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=R25p0fPXgc4&t=481s) · 本段原话**：rich so if you look at that and even with mental torment there's man said hey Brennon I I'm overcoming uh PTSD from war or whatever it's been there's so many and like I said we're we're believing for every single one of you that today is your day for your Miracle but but my heart and what's going on
+- **[08:19](https://www.youtube.com/watch?v=R25p0fPXgc4&t=499s) · 本段原话**：inside of me right now I have alarm bells for Israel I have alarm bells for our brothers and sisters in Syria right now that are being uh uh murdered brutally murdered martyred for the for the cause of Christ martyred because they're Christians in Syria right now they're they're killing them they're doing it all over Africa it this we are
+- **[09:36](https://www.youtube.com/watch?v=R25p0fPXgc4&t=576s) · 他转述所听到的话**：away you understand that the window we have a window what the Lord told us we have a window right now before there's great great Shak there's a shaking to awaken and he told me a lot of you will go back into your Slumber and your sleep as Trump tries to do all that he's doing
+- **[10:39](https://www.youtube.com/watch?v=R25p0fPXgc4&t=639s) · 本段原话**：into a service and everyone that's sick is healed that not one feeble one among them like like what was with the children of Israel when the children of Israel left Egypt they left all healed they left with the gold they left with the silver they left with The Spoils of Egypt they left with with their clothes
 
 ### 完整英文 Transcript
 
@@ -361,7 +393,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:02](https://www.youtube.com/watch?v=R25p0fPXgc4&t=722s) · 他表达判断**：about every little detail in your life and I believe he even cares about little dogs you understand it's like well well do you think that God's going to show up and show up in my life for my dog yes why not and they're so cute too yeah so little cute little dogs you know Coco
+- **[13:41](https://www.youtube.com/watch?v=R25p0fPXgc4&t=821s) · 他进行祷告**：will be softened to be able to communicate in a Godly way that that that their their eyes will be open to things and that they'll be able to to be able to see without any demonic influence we pray what lines up with the word of God right but we're not going to manipulate people no so so
+- **[14:48](https://www.youtube.com/watch?v=R25p0fPXgc4&t=888s) · 他转述所听到的话**：rehashing this but I'm telling you all we need to be praying for Israel we need to be praying for Iran and what's going on in Syria right now I've seen a line and the Lord told me he said it's rice paper thin for what's about to take place for a great acceleration of war or
+- **[15:20](https://www.youtube.com/watch?v=R25p0fPXgc4&t=920s) · 他进行祷告**：and I and I'm not going to expose what I'm I'm hearing we pray for America we pray for wisdom we pray for Israel and we pray for wisdom on how they handle this because it is very serious so that's what we're going to do so I'm going to finish this prayer up we're going to pray for your Miracles
 
 ### 完整英文 Transcript
 
@@ -477,7 +516,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:39](https://www.youtube.com/watch?v=R25p0fPXgc4&t=999s) · 本段原话**：denominational the Pentecostals the Church of God whatever it will be a great move of all denominations all beliefs all tribes all tongues there there will be a movement of Christianity that people who represent Christianity as a whole will go out and do the work of the father bringing in the Harvest the Baptist the methodists
+- **[17:05](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1025s) · 本段原话**：the Catholics the the Church of Christ all of us we will join together as a beating Army like a big drum beating this Army and going forth and proclaiming the Lord Jesus Christ is coming just like it was with 911 there was an urgency for a season there will be an urgency again I have seen a great
+- **[18:07](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1087s) · 本段原话**：father without you I want a fresh touch of the healing power of God on my life in overflow to take it to the Nations that's what Diana prays too she's behind the camera now we're believing as a family for a fresh Holy Ghost and Fire we want you to believe for your family that there's a
+- **[19:20](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1160s) · 本段原话**：what's mine yes I'm hungry I'm thirsty I'm desperate I need a touch and I refuse to stay spiritually the way I am today tomorrow I'm going to go from glory to glory to glory and when I get get to this next year 2026 I'm going to look back and say I am different than what I
 
 ### 完整英文 Transcript
 
@@ -581,7 +627,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:40](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1240s) · 他描述所见**：clue he is he is endless remember I told you the Lord allowed me to see inside of him I saw and he was he there was no end and there was no beginning he shaded himself and he allowed me he was light and there was all kind it was it was gorgeous it was
+- **[21:52](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1312s) · 本段原话**：him he is a defeated foe he let captivity captive do you understand he triumphed over them he gave us all power and authority and it dwells on the inside of us the Holy Spirit from The Upper Room according to Acts chapter 2 with the sound of a mighty rushing wind and the clothing tongues of fire that experience
+- **[22:19](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1339s) · 本段原话**：still dwell still will happen for you today the gifts and the callings of God are still happening today people say well that passed with when the old the the last disciple died no Jesus Christ the same yesterday today and forever and the same Jesus that died 2,000 years ago is living on the inside of you
+- **[23:03](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1383s) · 他表达判断**：him seek ye first the kingdom and all these things will be haded unto us I believe it's time to get radical for Jesus today it's time to get on fire for Jesus today and say hey ask for me in my house we're we're serving Lord and you may be living in the driest area ever I believe that God
 
 ### 完整英文 Transcript
 
@@ -682,7 +735,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、地震、风暴与灾害、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、地震、风暴与灾害展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1440s) · 本段原话**：the Holy Ghost that it's not just some little bitty bitty fire This Little Light of Mine I'm going to let it shine but it's an erasing Inferno that they say look at this Inferno that that's in shine of me it's not just a little little light of mine I'm going to let it
+- **[25:56](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1556s) · 他描述所见**：live in the victim anymore I'm no longer broke busted and disgusted and feeling down for myself anymore why because I'm a joiner of Jesus Christ you have to see it an inward image of the Covenant an inward image of the Covenant right babe yes an inward image you have to see yourself delivered you have to see I see
+- **[26:18](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1578s) · 他描述所见**：myself in my inward inside of myself I see it I am more than a conqueror through him who loved me I am more than a conqueror I believe it I'm fully persuaded that what God has promised He's Able also to perform it today I am fully persuaded when you get fully persuaded you believe you're a believing believer
+- **[27:00](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1620s) · 本段原话**：there's a ma massive Cyclone thing that I told you all manipulation of the weather that they say h hurricane Forest winds are supposed to hit Texas and Oklahoma and Kansas major fire Outbreak on Friday as we say oh no father we take authority over that Cyclone this low pressure Cyclone bomb thing they say and
 
 ### 完整英文 Transcript
 
@@ -787,7 +847,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:42](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1722s) · 本段原话**：just fine that all these things will be exposed and brought to Justice and light in the mighty name of Jesus and we believe we receive that his he's saved he's delivered Trump's radically born again and on fire for the Holy Ghost he will serve this nation with a God uh Solomon type anointing we believe that
+- **[29:05](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1745s) · 本段原话**：there is a there's a turn of events right now in jesus' name turn of events on our Nations and Chuck Schumer's going to retire and so is Nancy Pelosi and so is Pocahontas they're all going to retire and go on their way they're going to be removed and they're going to raise up
+- **[30:04](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1804s) · 他表达判断**：amen well if this video blessed you today I know it was kind of distracting I'm moving around I I I'll do more videos at home the people like to watch I think they're dra like I said they're drawn to the the anointing but then they're rude when they are um I I you
+- **[31:11](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1871s) · 本段原话**：that we're going to reach this nation we're going to reach the world for the saving knowledge of Lord Jesus Christ we're praying that that that God will anoint us in a in a supernatural way to do what we're called to do but do it with with with with Victory and with uh results not just being I don't want to
 
 ### 完整英文 Transcript
 
@@ -898,7 +965,11 @@
 <a id="section-09"></a>
 ## 09. 32:00–32:04 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:00](https://www.youtube.com/watch?v=R25p0fPXgc4&t=1920s) · 本段原话**：loves you so much and we love you God bless you all and we'll see you again soon byebye
 
 ### 完整英文 Transcript
 

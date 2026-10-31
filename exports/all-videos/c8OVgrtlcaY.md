@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1058；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 36:00–39:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-10)
 - [11. 40:00–43:46 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=0s) · 本段原话**：good morning family praise the Lord day 46 glory to God thank you for joining me today as you can see we're doing something different we got the new green screen Braden's going to start uh making some different backgrounds and you know being like that where a waterfall or forest or you know whatever he can play
+- **[08:00](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=480s) · 他描述所见**：but I'm telling you by the spirit of God I heard this 6 months prior and I started warning people around my church congregation and warning them what was coming I said a great shaking is coming to awaken a major storm's coming I saw people dying I saw people getting sick I saw all the stuff that was happening all
+- **[16:00](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=960s) · 本段原话**：has been laxidasical is an obesity we frown a lot on on lust and gossip pornographies uh drinking there's a lot of things that the body of Christ will unless you're in a secret Friendly Church saying uh that say well it's okay but then we okay obesity well it's a health issue a lot of health
+- **[24:01](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1441s) · 本段原话**：we could give you a amazing Christmas present maybe a thousand souls or something Lord that we could give you something that would be your your wildest dreams your greatest heart's desire is that all your children would come to repentance help us father anoint us to do something great for you today anoint us to do something Supernatural
+- **[32:54](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1974s) · 本段原话**：name of Jesus because it's the Great Commission to go into all the world lay hands hands on the sick and see recover cast out Devils raise the dead freely we've been given freely you give it out don't charge a dime for it if you take care of God's people God's people will take care of you preach the gospel
+- **[40:02](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=2402s) · 本段原话**：scripture he said I will show you the hidden things the dark and darkness in the Deep I will I will bring it to light to you I will I will uncover these things for you I will show it to you he's going to give you the things that are hidden in darkness if you seek Him and they people
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、疾病、医疗与药品、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、疾病、医疗与药品展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=0s) · 本段原话**：good morning family praise the Lord day 46 glory to God thank you for joining me today as you can see we're doing something different we got the new green screen Braden's going to start uh making some different backgrounds and you know being like that where a waterfall or forest or you know whatever he can play
+- **[01:46](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=106s) · 本段原话**：we need to take authority over the Demonic principalities that have had their hands on our health health health care system because the enemy is a kill still and destroyed devil God has come that you may have life and life more abundantly ladies and gentlemen and so I I I know this is a serious time from
+- **[02:06](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=126s) · 他表达判断**：high fru toast corn syrup to all kinds of toxic things in our water chemicals and things like that and I believe God is raising up a man that has obviously been through the fire yeah I don't always agree with everything that everybody always says but I'm telling you the Lord said his heart is really
+- **[03:04](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=184s) · 他表达判断**：and this is not Health advice this is what we do I'm just being full full full disclosure that the Lord told Diana and me and the children to take after the month of November kicks in around October to start taking 10,000 uh IUS of uh I believe is I or milligrams I don't know iuse of uh D3 a
 
 ### 完整英文 Transcript
 
@@ -133,7 +151,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:19](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=319s) · 他描述所见**：the world this is the audience of the believer this is the audience of the baby believer so that you know who I'm talking to so because I think what it's going to make it easier when I tell you I see financial crisis coming if I tell you I see a major crash coming it's for
+- **[06:50](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=410s) · 他描述所见**：would affect the world because they don't understand how to believe God by faith and for their Covenant so when I tell you I see a plague coming and I see a major plague coming and it's going to it's going to kill 350 million people this time that it'll be uh Co on steroids all these things is that for
+- **[07:09](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=429s) · 他描述所见**：you no it's for the it's a a warning for the believer to pray against it for protection for you but it's ultimate for the world to warn the world that it's coming a great shaking is coming a great humbling is coming a shaken to awaken is coming I told told you I saw a wave a first wave
+- **[07:31](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=451s) · 他描述所见**：coming that was Co I saw that months before Co ever happened and you know what I think is interesting not very many prophetic voices were speaking at then nobody was warning and telling anybody in the body of Christ really I mean what's supp to be real here about Co everybody who calls himself a prophet
 
 ### 完整英文 Transcript
 
@@ -241,7 +266,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=480s) · 他描述所见**：but I'm telling you by the spirit of God I heard this 6 months prior and I started warning people around my church congregation and warning them what was coming I said a great shaking is coming to awaken a major storm's coming I saw people dying I saw people getting sick I saw all the stuff that was happening all
+- **[08:37](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=517s) · 他表达判断**：heard because it was fear mongering but I'm telling you by the spirit of God there's another wave coming of something I do not know when yet I believe they're going to try to do this 2026 2027 it's been push down the road so I don't try to quote dates all I know is is I have have an
+- **[09:23](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=563s) · 他进行祷告**：the light on and we need to pray for him that he gets in that position because this all ties into this virus that I'm telling you coming in it's coming that I have seen that's going to kill over 350 million people worldwide that will be released in Europe first and spread all over the place and president Trump was
+- **[11:16](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=676s) · 本段原话**：bike or your treadmill 500 calories a day is what he's commission me I need you to do 500 calories a day extra burning it off that's what he's commissioned me and I don't know about you but that's what he's told me I'm just real with y'all I I I I'm as transparent as I can be
 
 ### 完整英文 Transcript
 
@@ -353,7 +385,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 物资、能源与供应链、疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、疾病、医疗与药品、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、疾病、医疗与药品展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:39](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=759s) · 本段原话**：and if you are obese morbidly obese the I told you the statistics of of the healthc Care industry from obesity in one of my last videos when I told you about the plague and I was wearing a green shirt I told you the Obesity plague industry was was was Far Far More on the health care population than any
+- **[14:15](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=855s) · 本段原话**：time that is for diabetes and you start injecting that in your body to try to get the weight off from all this other stuff so then your blood your your pancreas is working funny cuz you're injecting the stuff into your body to try to lose the Obesity that's being caused by food so do you understand how
+- **[15:15](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=915s) · 他描述所见**：the Box cereals and all the stuff folks ladies and gentlemen I'm trying to tell you the Lord's trying to protect you so then I see the devil taking Five Pillars of sin GL um uh Gossip lust all the things it went five things right there's five things he showed me it went up like it had columns
+- **[15:36](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=936s) · 本段原话**：and it was all in the spirit realm this is what it what the Lord showed me but he took obesity out and he said this one is gluttony has not been dealt with and he was using this in the spirit realm as as a point of contact to to for legalism in the spirit real because he's the
 
 ### 完整英文 Transcript
 
@@ -463,7 +502,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=960s) · 本段原话**：has been laxidasical is an obesity we frown a lot on on lust and gossip pornographies uh drinking there's a lot of things that the body of Christ will unless you're in a secret Friendly Church saying uh that say well it's okay but then we okay obesity well it's a health issue a lot of health
+- **[17:31](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1051s) · 本段原话**：for for people who have a backbone to step in there and expose the darkness because I telling you that that it was it was spliced the the virus looked like a DNA code and it was spliced and it was airborn okay so not trying to scare everybody just trying to wake you up
+- **[18:07](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1087s) · 本段原话**：yourself and I told you this and you're you're slacking off you've gained 20 lbs then it got up to 30 lbs you start getting putting weight back on you going my goodness I weighed myself I was like I'm 27 lbs over what in the world what how'd that happen over five months four
+- **[19:21](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1161s) · 本段原话**：the stronghold of that off of people and I tell you to release them right now in the name of Jesus father we cover them in the blood and we cover their minds in the blood and father Eating Disorders are a thing of the curse of the law and according to Galatians 3:13 Christ has redeemed us
 
 ### 完整英文 Transcript
 
@@ -569,7 +615,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:38](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1238s) · 本段原话**：knees and over their ankles and over their joints and I thank you Father they're able to out get out and move because you've created our joints to move you've created our knees to move you've created our bodies to be active and we get active and take care of our hearts and take care of our bodies and
+- **[21:33](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1293s) · 本段原话**：finished strong in 2024 2024 and then going into 2025 I thank you Father for Supernatural acceleration even more to come I call forth a a a great financial blessing on all the the things that you've told us about father to increase and multiply and have great favor for you said you're the god of favor you will give us great
+- **[22:02](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1322s) · 本段原话**：favor you favored your beloved and I thank you Father for Supernatural favor on every single day that we walk out in this life that we are favored by Jesus Christ himself that we have that kingly anointing on us that we are going from glory to glory father favored by the most high god father able to do
+- **[23:21](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1401s) · 本段原话**：and we say Jesus you're the reason for the season we magnify you King of Kings we magn ify you Lord of lords father happy birthday to you I know it's not your your rightful your birthday birthday but father this when we celebrate it and we just want to say Lord as we enter into this beautiful
 
 ### 完整英文 Transcript
 
@@ -675,7 +728,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:01](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1441s) · 本段原话**：we could give you a amazing Christmas present maybe a thousand souls or something Lord that we could give you something that would be your your wildest dreams your greatest heart's desire is that all your children would come to repentance help us father anoint us to do something great for you today anoint us to do something Supernatural
+- **[25:22](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1522s) · 本段原话**：Rise Up In The Name of Jesus with a supernatural backbone to stand and uncover the the wicked plots no matter if the debt threats no matter all the people who try to hurt and harm because they had there's trillions of dollars wrapped up in all this but father to uncover the Demonic strongholds that are
+- **[26:49](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1609s) · 他进行祷告**：in a spirit a stirring in a spirit Lord to raise him up for such a time as this even more we pray a hedge of protection around and about him today Lord right now now in the name of Jesus that there's Angels around him a thousand shall fall at his side and 10,000 at his right hand but
+- **[27:49](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1669s) · 本段原话**：situation that I've seen coming up trying to rise up and raise its head concerning Poland and this this uh weapon that I've never seen of mass destuction I say in the name of Jesus
 
 ### 完整英文 Transcript
 
@@ -783,7 +843,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:00](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1680s) · 本段原话**：this plan is uh stopped and it will not bear fruit in the name of Jesus and I say to the luciferians you will not do this we will have our Revival and there will be a glorious outpouring in the name of Jesus and I thank you Father for your hand on these nations I thank you
+- **[29:41](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1781s) · 他讨论新闻或报道**：to purchase and have a Godly not a well maybe just not so a liberal it' be cool if we had a Godly station but not so not a liberal station to to to be able to produce news out of it that would get great support through the Republic Republican party with great news anchors like
+- **[30:22](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1822s) · 本段原话**：stuff happening a turnaround of events father this would be a time like we've never seen before of the wealth of the sinner for you said this is another do com error coming you warned me Lord you said Brandon a newcom errors coming with crypto it's happening a new season so well praise the Lord praise the Lord everybody uh I
+- **[31:28](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1888s) · 本段原话**：forth China to have a great Revival in the underground churches we say a fresh fire of the holy spirit is on them in the name of Jesus and all throughout their communities taking off the blinders from being a Buddhist we speak to that false religion spirit and we command you to Bow your knee in the name
 
 ### 完整英文 Transcript
 
@@ -884,7 +951,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:54](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1974s) · 本段原话**：name of Jesus because it's the Great Commission to go into all the world lay hands hands on the sick and see recover cast out Devils raise the dead freely we've been given freely you give it out don't charge a dime for it if you take care of God's people God's people will take care of you preach the gospel
+- **[33:12](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=1992s) · 本段原话**：without compromise preach the gospel without compromise speak and do not be Seeker friendly preach Holiness and righteousness back in the pulpits telling the people that God is a holy God and that we are to live holy before him not like harlots to walk like Jesus in these last days to be like Jesus more
+- **[34:14](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=2054s) · 他描述所见**：believe that today the Lord told me to tell you believe him for bigger believe him for bigger it's time to believe for bigger I saw the five pillars of of crypto this morning again I saw five pillars when I was praying in my prayer time this morning you should know that there's going to be five
+- **[34:40](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=2080s) · 他描述所见**：pillars Five Pillars there's certain cryptos that will stand out and then I saw a stick and and there were shafts these pillers and and there was certain cryptos that were attached to the major crypto and they were support beams and all the others that weren't attached to the support beam fell away and became
 
 ### 完整英文 Transcript
 
@@ -986,7 +1060,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:01](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=2161s) · 他描述所见**：they support and they and they will merge it would be like a merge with these five merging with Technologies creating a super one because of the Technologies so you there's five and there'll be pillars so so that's all I'm going to say about that but I'm going to tell you all these others will I saw them falling like like
+- **[36:29](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=2189s) · 本段原话**：stars they're falling they'll fall and they'll be done but they will have the support system and the Lord spoke to me and he said this there will be great regulations ahead laws and boundaries so that there's not another ft FTX like the guy that stole all that all that money and went to prison I don't remember his name
+- **[37:37](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=2257s) · 他转述所听到的话**：and there has to be regulation and the Lord said regulation will come that will bring in boundaries and in these bound these these these uh guidelines through Congress and things in the United States that will make it a super thing it will be a new uh do error there was regulations and things that
+- **[38:37](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=2317s) · 他描述所见**：will be there'll be things that are set in motion to make it stable and when this takes place even more so into 2025 2026 you will see stability Beyond anybody's comprehend but this is the beginning of a new er of time and there'll be five five I saw five main pillars some of the pillars were
 
 ### 完整英文 Transcript
 
@@ -1089,7 +1170,14 @@
 <a id="section-11"></a>
 ## 11. 40:00–43:46 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:02](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=2402s) · 本段原话**：scripture he said I will show you the hidden things the dark and darkness in the Deep I will I will bring it to light to you I will I will uncover these things for you I will show it to you he's going to give you the things that are hidden in darkness if you seek Him and they people
+- **[41:45](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=2505s) · 他表达判断**：I think I've made this video long enough we'll talk more tomorrow well if you're new here and you never been to one of my videos um thank you for joining us today it's a real blessing if you could comment some down below say hey I'm new here we've or something tell us where
+- **[42:33](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=2553s) · 本段原话**：amazing South Africa welcome South Africa it's so cool well if you haven't subscribed subscribe we will we would really appreciate that subscribe click the notification Bell uh it all helps with the algorithm folks it gets his gospel spread throughout the whole world because and then the end will come we must tell the people that Jesus is
+- **[42:55](https://www.youtube.com/watch?v=c8OVgrtlcaY&t=2575s) · 他进行祷告**：coming and we're raising up a prayer Army of a million people that every day we will pray and bring forth the glory and and bring a refreshing to you today and I pray that this video refreshed you I pray this video brought some hope to you that we're we're not appointed under wrath God is a god of God is a god of of
 
 ### 完整英文 Transcript
 

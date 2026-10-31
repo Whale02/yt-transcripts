@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 844；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 40:00–43:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
 - [12. 44:00–47:12 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:15](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=75s) · 他表达判断**：and and tread on serpents and scorpions and nothing shall by any means hurt us I believe we are seated with him in the heavenlies just like it says in the word in Ephesians that we are joining cares with Jesus Christ and I want to encourage you today to thank big in 2025 believe God for big believe God for
+- **[08:17](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=497s) · 本段原话**：Lord that you're raising up men and women of God to speak and decree and declare a thing of the Great Mighty Harvest of the the meat of the word father that they would hear and and know uh uh your voice and that father that these these babies will grow up and get a backbone and have a great strong
+- **[16:48](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1008s) · 他描述所见**：you Lord for uh Elon Musk father I saw them coming against Elon Musk and I thank you Lord that Elon Musk is Born Again radically born again and I thank you for a supernatural protection over Eli musk father that he would get born again and they would use starlink for the glory they would use
+- **[28:02](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1682s) · 本段原话**：oh I told you a great acceleration a great acceleration a seed time and harvest a time and harvest oh for the for the for the no oh oh for the for the for the seers and the Reapers oh the Harvesters are going to go hand in hand and hand in hand and stepping into the supernatural will be
+- **[36:39](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=2199s) · 本段原话**：you it's a victim mentality that's holding us back it's victim mentality that keeps you in lack and the Lord's bringing you out of that victim mentality for you are not a victim you're a Victor we're not victims anymore we're Victorious Victor torious we're more than conquerors through him that loved us we're more than conquerors
+- **[44:02](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=2642s) · 本段原话**：earthquakes in diverse places we're going to see some fearful sights but it's not going to scare us because we walk in abundance we walk in Victory we walk in in to the full to it overflows so praise the lord well I hope this video blessed you today I know it's kind of different cuz I'm driving down
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:15](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=75s) · 他表达判断**：and and tread on serpents and scorpions and nothing shall by any means hurt us I believe we are seated with him in the heavenlies just like it says in the word in Ephesians that we are joining cares with Jesus Christ and I want to encourage you today to thank big in 2025 believe God for big believe God for
+- **[01:41](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=101s) · 他进行祷告**：for for for what you call the impossible in your life God is going to show up and show off and do Great and Mighty things in your life in 2025 um so we're just going to get right to it and start believing right now we're going to pray over 2024 2025 I'm praying for direction for our ministry
+- **[03:00](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=180s) · 他转述所听到的话**：about arms and and legs that weren't there are going to grow out it doesn't matter I heard brother Billy Pastor Billy Burke he said that there was a woman that had her breast removed because of cancer and uh she was in the service and she grew back new breast so I just want to tell you that nothing is
+- **[03:22](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=202s) · 本段原话**：impossible to him who believes so it's not about just arms legs and and fingers or whatever toes it could be uh something very personal to you that you need that God knows the desires of your heart and he's going to bring it to pass in these last days to believe him for exceedingly abundantly above all that
 
 ### 完整英文 Transcript
 
@@ -129,7 +147,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:35](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=275s) · 他进行祷告**：side and 10,000 at our right hand but it will not come n us so father right now we plead the blood of Jesus Christ over every single person that's traveling for this holiday season father I thank you Lord that no weapon formed against him was is going to prosper I plead the blood of Jesus over their car over their
+- **[04:56](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=296s) · 本段原话**：house over their over any kind of demonic assignment that the enemy is trying to do to kill steal and destroy we take authority over those demonic assignments right now in the name of Jesus and we say thus far and no further Satan you will not touch our families you will not touch our businesses and
+- **[06:27](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=387s) · 他进行祷告**：of the Lord are making war against the demonic spirits that are trying to come against us we thank you Lord that greater is he that is in us than he that is in the world we thank you Lord that a thousand shall fall at our side and 10,000 at our right hand and nothing
+- **[07:34](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=454s) · 本段原话**：we call forth the Harvest of souls all throughout Asia we speak a great harvest of souls a supernatural harvest in the name of Jesus like we've never seen before we call forth the the the blinders to be removed off of their eyes of false religion we take authority over false religion right now in the name of
 
 ### 完整英文 Transcript
 
@@ -229,7 +254,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:17](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=497s) · 本段原话**：Lord that you're raising up men and women of God to speak and decree and declare a thing of the Great Mighty Harvest of the the meat of the word father that they would hear and and know uh uh your voice and that father that these these babies will grow up and get a backbone and have a great strong
+- **[10:03](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=603s) · 他进行祷告**：we plead the blood over us today we plead the blood we plead the blood over this nation over over president Trump and over his family we intercede for his family we thank you Lord that no weapon formed against them is going to prosper we thank you Lord that the that the angels are protecting them we call forth
+- **[10:23](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=623s) · 他进行祷告**：your secret service angels father to watch over president Trump and the decisions that he's making father already before he is even in power in the next 20 day 30 days father it's about a month away and father I thank you Lord but as of this weekend it's a month away and he'll be in the office
+- **[10:42](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=642s) · 本段原话**：father in 30 days father there's a lot that can happen in 30 days so we hold the blood of Jesus up against the devil we hold the blood of Jesus against you that you will not be able to hinder or harm his inauguration and we say in the name of Jesus you are under our feet
 
 ### 完整英文 Transcript
 
@@ -316,7 +348,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、经济、银行与市场。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:21](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=741s) · 他表达判断**：the Lord wants to give us a more of a window but the economy is poised to crash and and and go down but I believe with what the Lord has showed me about crypto and the things that Donald Trump has a plan to turn things around and bring us out of of of this pit of this
+- **[12:40](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=760s) · 他描述所见**：hole remember I I saw the economy crash I saw about the interest rates I saw about the loaning freezes and the things trying to take place and that was and and the Lord warned me about all this but we have authority we're going to pray and we're not going to allow the enemy we're not going to allow the enemy
+- **[12:58](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=778s) · 本段原话**：to raise his ugly head out of that wack-o hole and allow him to come kill steal and destroy the Bible I'm telling you that what the Lord has told me that we're going to walk in abundance and victory and finances and we're not going to be busted and disgusted we're going to walk in a supernatural abundance but
+- **[14:32](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=872s) · 本段原话**：revealed father that this would be a time like never before that you'll see the the righteous and the good accelerate and the Demonic crumble we're believing father that you're exposing darkness in the churches that you're exposing the darkness in in in behind pulpits and behind the closed doors father that you're uh turning the light
 
 ### 完整英文 Transcript
 
@@ -424,7 +463,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:48](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1008s) · 他描述所见**：you Lord for uh Elon Musk father I saw them coming against Elon Musk and I thank you Lord that Elon Musk is Born Again radically born again and I thank you for a supernatural protection over Eli musk father that he would get born again and they would use starlink for the glory they would use
+- **[17:55](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1075s) · 本段原话**：that it has exposed the hidden things to derail the plan of the father and undermining and undermining a downplaying of what of President Trump's saying trying to to to double-sided mouth a double-sided mouth
+- **[18:30](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1110s) · 他转述所听到的话**：talking down to him it won't happen he's he's bold as a lion but but but it's an undermining it's a spirit it's a spirit of intimidation it's a spirit of it's a Jezebel spirit that has been sent on the White House The Jezebel spirit the Lord said even the Jezebel spirit will try to take down some of the
+- **[18:56](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1136s) · 他转述所听到的话**：most powerful men in power because of the fact it works by a spirit of intimidation and the Lord said that is a spirit that has been assigned to the White House a spirit of Jezebel from the demonic that's what's what that is what is um
 
 ### 完整英文 Transcript
 
@@ -499,7 +545,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1200s) · 他描述所见**：days as he starts to transition himself out into retirement I thank you Father I thank you Father that he doesn't make any stupid decisions to cause any greater War I saw them remember I I warned you I saw them burning files and in in in private documents in Ukraine I saw them burning things I saw them burning
+- **[20:29](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1229s) · 他表达判断**：uh computers destroying things that there was no evidence of things of corruption and I think you Lord that there there was somebody that just had some kind of uh file that was saved to expose it that somebody had the wisdom to save back somebody was on the good side to expose the darkness and they'll
+- **[20:53](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1253s) · 他描述所见**：come forth at the right time and say look and say look I see it and say look I have it right here for 2025 Lord we pray over 2025 father what do you have for 2025
+- **[21:24](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1284s) · 本段原话**：what does 25 look like Lord what does 25 look like Lord speak to each individual person today speak to them and you show them the way father for their life for what you've called them to do in 2025 father that they would hear you clearly as we put you first in our life father as we
 
 ### 完整英文 Transcript
 
@@ -551,7 +604,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 预言、梦境与异象
 
-**中文章节摘要**：本段涉及：预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:38](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1478s) · 本段原话**：the first quarter going into the first quarter Cabo what do you have planned father for the first quarter of 2020 of 2025 is [Applause]
+- **[25:47](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1547s) · 他描述所见**：the thing things are changing things are changing oh I see it yeah green green valleys Green Green Pastures green green Green behind behind the Still
+- **[26:24](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1584s) · 本段原话**：Waters a Grace a Grace gra a window an opportunity for change a window an opportunity for change a great acceleration of things what will you do with it
+- **[27:01](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1621s) · 本段原话**：some some will grab on to it some will grab on to it and some will stay asleep some some there is a majority there is a majority ab ab of the remnant of the remnant that will lch on to this time for they know they have an urgency an urgency in their Spirit they have an urgency in their
 
 ### 完整英文 Transcript
 
@@ -594,7 +654,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:02](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1682s) · 本段原话**：oh I told you a great acceleration a great acceleration a seed time and harvest a time and harvest oh for the for the for the no oh oh for the for the for the seers and the Reapers oh the Harvesters are going to go hand in hand and hand in hand and stepping into the supernatural will be
+- **[28:30](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1710s) · 本段原话**：as easy as taking a breath we'll see the first blade I told you then the then the a then the full manifestation of what I have for you in these days ahead first the blade vers the blade you are in that stage right now you're seeing that blade as you see this new
+- **[28:58](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1738s) · 本段原话**：government coming in in America you'll see turn you're going to see turn for my Remnant for the remnant is is getting itself ready for I ask you are the Harvesters the Harvesters are getting ready for you bringing forth my Great Harvest bringing forth the Great Lost the Sheep the sheep in the back fields
+- **[30:09](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1809s) · 本段原话**：we call the wall to be broke down we call the walls to be broke down when he said gorbachov take down that wall Ronald r Ronald [Music]
 
 ### 完整英文 Transcript
 
@@ -647,7 +714,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:31](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=1951s) · 他描述所见**：Rapture it's not time yet and people get upset about that and I try to stay away from it but I'm telling you I see a work I see a window of work I see the I see a harvest and a harvest takes work a harvest takes work it's a lot of work to
+- **[33:25](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=2005s) · 本段原话**：night long bringing in a harvest because there's a rain coming there's a storm coming and they they'll work even harder because they don't want to lose that that that crop in that in the field because the weather will ruin it and so the Harvest is going to come in a window but there is going to be a
+- **[33:46](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=2026s) · 他转述所听到的话**：there's much work than is going to be done and it's the time that the Lord told me whenever he so Diana actually he didn't tell me he told my wife he said you're tired the older generation says we're tired we can't go anywhere he said that's fine he's going to bring them home because they don't want to they're
+- **[34:24](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=2064s) · 本段原话**：will be a mighty Harvest of souls in these these last days walking in the Supernatural walking in the super it would behove you if you're Elder to just want to sit on the sidelines and just watch what's about to happen you may not want to do the work but that but you just it's going to be
 
 ### 完整英文 Transcript
 
@@ -733,7 +807,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 祷告、敬拜与现场互动、特朗普与白宫
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、特朗普与白宫展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:39](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=2199s) · 本段原话**：you it's a victim mentality that's holding us back it's victim mentality that keeps you in lack and the Lord's bringing you out of that victim mentality for you are not a victim you're a Victor we're not victims anymore we're Victorious Victor torious we're more than conquerors through him that loved us we're more than conquerors
+- **[38:22](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=2302s) · 他进行祷告**：a diffusing I keep seeing a diffusing of things it's almost like you taking the the the air out of a balloon all this up here has been so like like uh static Co basaba we must pray for him each day pray for Donald Trump each day praying for Donald Trump each day
+- **[38:54](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=2334s) · 本段原话**：praying for wisdom wisdom that Solomon anointing is coming on him like like to lead to lead this nation in a in a greater capacity for it will take a god anointing like like on his brain a wisdom a supernatural wisdom to turn this around you do not realize how bad it really is they have held it and they
+- **[39:21](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=2361s) · 本段原话**：have held it so that things will not completely crash they don't want they don't want it yet ladies and gentlemen I've seen it it's th this is dark there's some dark dark things that are being that are been behind closed doors dark dark dark but the Lord the Lord but the Lord has his hand on us because of the
 
 ### 完整英文 Transcript
 
@@ -803,7 +884,14 @@
 <a id="section-11"></a>
 ## 11. 40:00–43:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:00](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=2400s) · 他表达判断**：to change things we have the ability to change things by by the intercessory prayers of the righteous and I believe with all my heart that that we're turning things in October I told you when the people were praying when the people were interceding the the the there's in the core rooms of Heaven things
+- **[41:23](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=2483s) · 他表达判断**：the dead we can cast out Devils we have that same anointing and that same power and authority inside of us and I'm telling you we're going to start laying hands on people and the fire of God's going to drive out that sickness it's it's more it's time and and there there's some of you probably
+- **[43:11](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=2591s) · 他表达判断**：oh what a planner just like Miss Billy says oh what a plan oh what a planner glory to God glory to God we thank you Father for the Breakthrough we thank you for the Harvest of souls we thank you Father for demonst ations and manifestations of the glory then in 2025 father I believe it's
+- **[43:32](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=2612s) · 本段原话**：going to be a good year I'm calling forth a good year 2024 was a good year father we had a lot of things turn around but 2025 father it's just the 2024 was just the the first the blade then the a then the full manifestation of what God's going to do great turnaround is coming but we
 
 ### 完整英文 Transcript
 
@@ -905,7 +993,14 @@
 <a id="section-12"></a>
 ## 12. 44:00–47:12 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[44:02](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=2642s) · 本段原话**：earthquakes in diverse places we're going to see some fearful sights but it's not going to scare us because we walk in abundance we walk in Victory we walk in in to the full to it overflows so praise the lord well I hope this video blessed you today I know it's kind of different cuz I'm driving down
+- **[44:47](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=2687s) · 本段原话**：many people from all around the world and I can feel it pushing and tugging me because I'm interceding with all y'all for everywhere in all the areas it's not just about America anymore it's about praying for the Harvest in Europe Africa asah uh South America all throughout the Middle East this is a major
+- **[45:32](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=2732s) · 本段原话**：Christ that we're not going to just fall back in our little Comfort zones because we've got a little Victory here and there no we're taking the land for Jesus and we're going to be bold about it because we're running out of time this is our last call just like I told you all whenever he came to me one last
+- **[46:36](https://www.youtube.com/watch?v=DqpUUdLf2sQ&t=2796s) · 他进行祷告**：come I pray this video blessed you all today I really do I I appreciate you praying with me we prayed for 48 minutes my little ticker says so thank you for joining me remember if you're new here please like subscribe click the notification Bell we really appreciate uh all your support on this channel
 
 ### 完整英文 Transcript
 

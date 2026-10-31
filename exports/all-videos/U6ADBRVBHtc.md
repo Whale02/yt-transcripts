@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1229；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 50:00–54:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 55:00–59:45 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:22](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=22s) · 本段原话**：of the year, y'all. I mean, whenever the spring is is here and the grass is coming out and all the beautiful trees are budding and and uh all the birds are coming back from the south, it I just it I I I personally believe other than fall, it doesn't get better than that. I
+- **[10:21](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=621s) · 本段原话**：dead. They're not getting any outreach. They're not getting anybody saved. They're kind of just they're just there on a Sunday. They're there on a Wednesday. They have a couple Bible studies and they go home and they're not really into let's expand our tent and let's reach the nations for Jesus because that's what we're there
+- **[20:12](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=1212s) · 他描述所见**：Just like John Ostein used to say, I believe what the word of God says about me. I can have what the Bible says I have. I'm not going to be moved by what I see. I'm not moved by what I feel. I'm going to be moved by what the word of God says. That's what you got to do. And
+- **[35:05](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=2105s) · 他描述所见**：It's a demonic. It's black haze all around that mind and it wraps around the mind like a like a like a a serpent tries to wrap around as prey and it goes and squeezes and I saw demonic over that mind and we call that fog we call the brain fog we call the demonic stronghold to be
+- **[47:13](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=2833s) · 本段原话**：forth the people to vote, that it's too big to rig over Canada, that the people would rise up and vote. We call swaying of things, a swaying of the pendulum to go the good way. That there would be a major wave, a major wave of the righteous to rise up and vote in
+- **[55:01](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=3301s) · 本段原话**：no more. We're going to be over and above. Glory to God. Everybody say amen and amen. Don't Don't you I just feel the presence of the Lord today. Being excited that there's some breakthrough. Be be being filled with the Holy Ghost. Be being filled with the Holy Ghost and have breakthrough today.
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:22](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=22s) · 本段原话**：of the year, y'all. I mean, whenever the spring is is here and the grass is coming out and all the beautiful trees are budding and and uh all the birds are coming back from the south, it I just it I I I personally believe other than fall, it doesn't get better than that. I
+- **[00:37](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=37s) · 他进行祷告**：I love fall, too. I love the colors. But um you know, I I'm excited about resurrection Sunday Sunday. You know, we're going to pray for the protection over the people today for resurrection Sunday that no terrorist attacks, no plots, no plans of the evil one would come against us as we go into our houses
+- **[01:50](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=110s) · 他表达判断**：You don't. You don't. I It's what we believe is what we how we live. And this why I'll continue to live. And what I believe is is that unless the Holy Spirit corrects me, I'm just going to keep on keeping on because I've been doing it for 20 years. So, it is what it is. I just you
+- **[04:37](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=277s) · 本段原话**：goes fast. So I'm just a baby in this. It's just like a toddler. But if you've been in ministry for 30 years and you're still the same and you haven't changed and nothing's going from glory to glory and your t and your capacity hasn't increased to be able to handle to to to
 
 ### 完整英文 Transcript
 
@@ -164,7 +182,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 教会、复兴与信仰、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、物资、能源与供应链展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[06:00](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=360s) · 本段原话**：getting ready. He said, "Brandon, you're blaming you're blaming the harvest solely on the minister, but the but the but the sewer has part of it, too. It's not all on the on the person in the soil. It's on the It's on the seed swower. It's not all the, you know, so you need to know it's it I'm going to
+- **[06:20](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=380s) · 本段原话**：say it's a half and half responsibility. You have to name your seed. You have to water your seed by watering it with the word, calling those things that be not as though they were. Keeping strength out of your house, taking the communion on a day-to-day basis, and sending your angels forth in the name of Jesus to
+- **[07:24](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=444s) · 本段原话**：It I'd say more than more than what I've ever seen in my life, God says, "Brandon, go out and get it, buddy. Take your hand to it and make it happen. But I will bless whatever you put your hands to. Do something with your life. You waiting so much for the truck, the ice
+- **[09:16](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=556s) · 本段原话**：That's all I can say. Try it. And maybe maybe just maybe maybe just maybe you'll you if you keep your heart right and don't badmouth them and you sit there, God, you're obviously touching this individual for a reason. Something's going on with it. I I'm going to I'm going to test the ground. Now, if you got some of these
 
 ### 完整英文 Transcript
 
@@ -296,7 +321,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:21](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=621s) · 本段原话**：dead. They're not getting any outreach. They're not getting anybody saved. They're kind of just they're just there on a Sunday. They're there on a Wednesday. They have a couple Bible studies and they go home and they're not really into let's expand our tent and let's reach the nations for Jesus because that's what we're there
+- **[11:25](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=685s) · 本段原话**：people's lives changing that were drug addicts or prostitutes or or or whatever and they're getting their lives set free, then by all means, man, that's alive. I want to be where it's alive. I want to see people's lives changed from glory to glory to glory. where the Holy Ghost is there and he's allowed to move.
+- **[12:23](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=743s) · 本段原话**：We're never going to get anything. We're always going to be poor. Grandma was poor. We're poor. And and my chill, my kids are going to be poor." No, we we're barrier breakers. That's what you got to say. I'm a barrier breaker. I poverty stops with us. We're not having it ever again. We're not going to live in it.
+- **[14:23](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=863s) · 本段原话**：going to reap it. And you have more power over your seed than just the bad ground is what the Holy Spirit said to me. You need to know that. He said, "Brenda, you can't just blame that on this on the preacher's ground." He said, "There's a lot of them, Brandon, that are out there saying out of their
 
 ### 完整英文 Transcript
 
@@ -430,7 +462,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 教会、复兴与信仰、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、物资、能源与供应链展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:22](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=922s) · 他表达判断**：it. I believe that Isaac planted in and famine and reaped a hundfold that same year. I believe that God is no respector of persons and that what he did for Isaac, he'll do for me if you believe it. He He swed in famine. Genesis 26, one of my favorite chapters. Genesis 26, Isaac sowed in
+- **[16:32](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=992s) · 他表达判断**：don't? I always got the good stuff. I always have the blessing on my life. I always walk. Why? Because I believe in the covenant that God has given me. That greater is he that is in me than he that is in the world. And he's given me the ability and the power to get wealth with
+- **[17:36](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=1056s) · 他表达判断**：everywhere. I got sacks of them everywhere because I believe in the power of the blood of Jesus. I believe in the power of the communion and what he did for me. Whatever he this this is all about it right now, ladies and gentlemen. Palm Sunday going into the crucifixion of Good Friday on Friday and
+- **[19:07](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=1147s) · 他表达判断**：I believe for a $10,000 check. You may just be at a $500 level. That's fine. Or a $100 level. I believe for a $100 check. Say it out your mouth. And the more you say it, the more you believe it because your heart's going to start to change. You're going to start to change.
 
 ### 完整英文 Transcript
 
@@ -562,7 +601,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:12](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=1212s) · 他描述所见**：Just like John Ostein used to say, I believe what the word of God says about me. I can have what the Bible says I have. I'm not going to be moved by what I see. I'm not moved by what I feel. I'm going to be moved by what the word of God says. That's what you got to do. And
+- **[21:15](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=1275s) · 本段原话**：What kind of fruit is happening? Whose lives are being changed? Because the Holy Spirit's in that. When you see people's lives being changed and they're not staying the same and you can look at them and they're a year later that that baby Christians getting the meat of the word and they're learning how to stand
+- **[22:59](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=1379s) · 本段原话**：Huh? But we take this body and we lift it up before him. We thank him for Palm Sunday. We thank him for all that he's provided. Thank him for he set the captives free and that the seeds we've sewed in the past, he said, will come to harvest at last. And there'll be an
+- **[24:45](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=1485s) · 本段原话**：me. And I plead the blood over my children and over my wife, over my house, over my car, over all me, my dogs. Lord, I put a bloodline around all of us that no weapon formed against us will prosper. And you said you rebuke the devour for our sake.
 
 ### 完整英文 Transcript
 
@@ -695,7 +741,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:21](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=1521s) · 他进行祷告**：blood makes much of us. Now, I want to pray some more. I know I said a lot right then, but I but I feel like we should pray for uh the trade war thing and we should pray for um Canada's elections in two weeks uh protection over our services for Easter for all around the world. Okay,
+- **[26:43](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=1603s) · 本段原话**：And I know, Father, that we're getting so close to your return. This could be the last Palm Sunday we have on this earth. Could be. No man knows the day or the hour, but we're always looking for him all the time. And this could be the last Palms. Think about it. This could
+- **[28:12](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=1692s) · 本段原话**：And for whom the Son has set free is free indeed. And Father, I thank you, Lord, for every single person who's watching this video right now, we call them delivered. We call them free. We call them healed. We call them whole. We call them well.
+- **[29:16](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=1756s) · 他描述所见**：and that we believe that she's delivered from this satanic attack. I see the or origins of this where it comes from.
 
 ### 完整英文 Transcript
 
@@ -812,7 +865,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:13](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=1813s) · 他进行祷告**：Play pray over it. Put the bloodline. Do you understand? Apply the blood and make much of the blood around your house and anoint your house oil. Sir, you need to put the bloodline on your doorpost and around your business and around your stuff. There's satanic attack against you. You understand? It's not for you to be
+- **[30:33](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=1833s) · 本段原话**：afraid of, but you but you but but you you you've ticked some people off. Uh plead the blood over your household. Plead the blood. Make much of the blood. Make much of the blood. Thank you, Lord. Thank you, Father.
+- **[32:33](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=1953s) · 他描述所见**：[Music] The healing pathways in the brain. I see the pathways in the brain. I see the brain right now. The lining of the of the of the the brain waves.
+- **[34:24](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=2064s) · 本段原话**：Thank you, Lord. Thank you, Lord. Thank you, Lord. Thank you, Lord. We give you praise, Lord, for the manifestations on the brain right now. For the manifestations on the brain, pathways of the brain from toxic things. Father, I thank you, Lord. Alzheimer's is being healed. Oh, we call Alzheimer's healed right now in Jesus
 
 ### 完整英文 Transcript
 
@@ -891,7 +951,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:05](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=2105s) · 他描述所见**：It's a demonic. It's black haze all around that mind and it wraps around the mind like a like a like a a serpent tries to wrap around as prey and it goes and squeezes and I saw demonic over that mind and we call that fog we call the brain fog we call the demonic stronghold to be
+- **[36:08](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=2168s) · 本段原话**：The misfiring of it. The misfiring is healed and whole and well. Misfiring is healed and whole and well. Father, we thank you, Lord. We thank you, Lord. They're loose. Loose. Loose. Loosed.
+- **[38:23](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=2303s) · 本段原话**：We call forth the trade wars to stop today. We call the trade wars to stop today. We say in the name of Jesus that Father, we call no medicine shortages, no doctor supplies shortages, hospital supply shortages. We're saying it will not happen. We thank you, Lord, for wisdom.
+- **[38:45](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=2325s) · 本段原话**：wisdom on how to deal with this, that there will not be a a bricks uh rising up and all this strife, Father, there'll be a peace and a flow. Oh gosh. foreign.
 
 ### 完整英文 Transcript
 
@@ -958,7 +1025,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:36](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=2436s) · 本段原话**：Wisdom on how to lead this nation. wisdom over JD Vent. We call wisdom and the demonic hindrances to be broken in Jesus' name to be off of these men in Jesus' name. That father, they'll have they'll hear your voice clearly and a stranger's voice will not follow. They'll hear you clearly, Lord.
+- **[41:00](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=2460s) · 本段原话**：They'll hear you clearly, Lord. And a stranger's voice not follow. Father, as we line up and we protect Israel and we do the things that we know to do, Father, there's blessing in this. Father, I thank you, Lord, for uncovering of Iran and the darkness that you've showed me from Iran. Father, there'll be
+- **[41:23](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=2483s) · 本段原话**：uncovering uncovering in the days ahead. And we speak and call those things that be not as though they were that they will not they will not strike with biological or chemical weapons over our Easter services. Father, we'll cover every brother and sister in the Middle East. And Father, we thank you, Lord, that there's a covering over our our our
+- **[41:45](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=2505s) · 本段原话**：services that no weapon formed against us are prosper. No shootings, no bombings, no calamity of any kind come nigh. any church services in Jesus' name. We take authority over that right now in the name of Jesus. Father, we thank you, Lord, that the angels of the Lord are camped around about every single service. Father, from
 
 ### 完整英文 Transcript
 
@@ -1037,7 +1111,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[47:13](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=2833s) · 本段原话**：forth the people to vote, that it's too big to rig over Canada, that the people would rise up and vote. We call swaying of things, a swaying of the pendulum to go the good way. That there would be a major wave, a major wave of the righteous to rise up and vote in
+- **[47:59](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=2879s) · 本段原话**：and fire over those nations over over that nation in the name of Jesus. For this is a time like never before to get the glory out, to get the manifestation of his presence out. And there will be rejoicing in the streets. There'll be rejoicing in the streets for great change is coming. For
+- **[48:22](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=2902s) · 本段原话**：great change is coming. For there'll be rejoicing in the streets all over Australia. Great change all over Australia. over over the Philippines, over over Russia, over over all of Asia, for a great change is coming. Father, I thank you, Lord. Thank you, Lord, that we're always in the right place at the right time.
+- **[49:03](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=2943s) · 本段原话**：Oh, filled with prayer, fueled by filled filled with controlled by the Holy Ghost. And we're we are fueling this with prayer. Thank you, Lord. Oh Lord, we give you praise. Oh Lord, we give you glory. Thank you, Lord, that people's needs are being met right now. That every single person who has a need that
 
 ### 完整英文 Transcript
 
@@ -1124,7 +1205,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–54:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:54](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=3054s) · 他描述所见**：We take our place and our authority. No more bats. No more. No more the the demonic today. Father, we walk free. We walk free. We walk free. It's all all shriveled up. The demonic spirit. I see
+- **[51:42](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=3102s) · 他描述所见**：We resist the devil and he will flee. I believe that scripture more than the devil tried to stick around. He's fleeing because he's wrapped up there. I saw a fetal dub position. looked like a little devil's all up. He was scared cuz he's don't they don't want to they don't want to mess with a believer who knows
+- **[51:58](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=3118s) · 本段原话**：who they are. They don't want to mess with a believer. They only they're looking for whom they may devour. Who can they devour? Not a believing believer. Not a believing believer. Seeking whom he may devour. He have to seek for because he can't find them all. He can't seek. He can't destroy everybody. A believing believer.
+- **[53:12](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=3192s) · 他表达判断**：persuaded that what God promised, he's able also to perform in your life. Fully persuaded. I believe. I receive it. I walk in victory. I walk in victory. I walk in victory in my finances. I walk in victory in my health. I walk in victory in my marriage. I walk in victory for my children. I walk in
 
 ### 完整英文 Transcript
 
@@ -1245,7 +1333,14 @@
 <a id="section-12"></a>
 ## 12. 55:00–59:45 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[55:01](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=3301s) · 本段原话**：no more. We're going to be over and above. Glory to God. Everybody say amen and amen. Don't Don't you I just feel the presence of the Lord today. Being excited that there's some breakthrough. Be be being filled with the Holy Ghost. Be being filled with the Holy Ghost and have breakthrough today.
+- **[56:04](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=3364s) · 他表达判断**：I expect my miracle today, Lord. You're going to bring it to pass today. Thank you, Lord. We're not believing for tomorrow. We believe for faith calls the things be not faith cause those things that be not as though they were. Now, faith is a substance of things hoped for and evidence, not things not seen. I believe it now.
+- **[57:04](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=3424s) · 本段原话**：Uh if you could do me a favor, subscribe. You knew it was coming. You knew it was coming, right? I You knew I was going to say it before I even said it. Would you please subscribe to my YouTube channel? It really blesses us. Every single one of you that have subscribed, thank you. God bless every
+- **[59:10](https://www.youtube.com/watch?v=U6ADBRVBHtc&t=3550s) · 本段原话**：So, it's a lot because he's still going to school and and I've been trying to not hit him so hard. He said, "Dad, I gotta get China out. I gotta get these other these other nations. They're all waiting for the gospel." So, I do video and he on those other days he's been
 
 ### 完整英文 Transcript
 

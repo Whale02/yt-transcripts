@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 840；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 - [09. 32:00–34:41 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:32](https://www.youtube.com/watch?v=C2cDnPVroBg&t=32s) · 他进行祷告**：pictures in the mail today and so um there's this I've got these two right here and this lady uh said her daughter goes to school at U and so we're going to pray for her she's overcoming some stuff and then her son is in in the service he he serves our country and um
+- **[08:03](https://www.youtube.com/watch?v=C2cDnPVroBg&t=483s) · 本段原话**：the Iraqi dinar gold and silver you're not going to hinder cryptocurrency causing uh delay like on Friday in the meeting everything that President Trump had said about those those five pillars he only talked about the one a Bitcoin Reserve so there was a whole different it was almost like he was a a double
+- **[12:02](https://www.youtube.com/watch?v=C2cDnPVroBg&t=722s) · 他转述所听到的话**：we're going to pray it through just like in the Lord told me he said Brandon it's no different than what you did when you prayed for the election people had free will to to either vote for for Camila Harris or to vote for for president uh Trump but you still prayed for it just
+- **[21:08](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1268s) · 本段原话**：just like you said I have fire and it's stirred up in my bones that Holy Ghost Fire and it's stirred up in my bones father that we would be that that children that say oh that father that you would you would bless us indeed and you increase our land and you enlarge our territory that we would cause no
+- **[24:01](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1441s) · 本段原话**：Isaac and Jacob and Brandon bigs you're the god of of them Father you're the god you're you're our God and we we are seated with you in the heavenlies and we believe father that father that if you delivered Shadrach meach and abedo you'll Deliver Us you're no respector of person father and we may be in the pit
+- **[32:01](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1921s) · 本段原话**：Advance you'll not touch our s our Senate and our Congress father we call for blessing over them in the name of Jesus and that there will be a major Revival on the senate floor and the house floor we believe it father for this is the time like we've never seen before for a radical move of the spirit
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、预言、梦境与异象。 提到的地点：Iran、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:32](https://www.youtube.com/watch?v=C2cDnPVroBg&t=32s) · 他进行祷告**：pictures in the mail today and so um there's this I've got these two right here and this lady uh said her daughter goes to school at U and so we're going to pray for her she's overcoming some stuff and then her son is in in the service he he serves our country and um
+- **[02:12](https://www.youtube.com/watch?v=C2cDnPVroBg&t=132s) · 本段原话**：came up with Prayer Changes Things and we believe with what's about to take place because he started showing me as I was driving around yesterday the war with uh strategic things that I don't think would be wisdom to bring up about what about the United States and about Israel concerning Iran concerning Syria and concerning
+- **[02:37](https://www.youtube.com/watch?v=C2cDnPVroBg&t=157s) · 本段原话**：turkey this is very serious and the Lord showed me we're at a we're at a very thin line here it's almost like you know like it's rice paper thin it's rice paper thin of how close we are to going into a third world war a m you know like we can we could actually call it a third
+- **[03:22](https://www.youtube.com/watch?v=C2cDnPVroBg&t=202s) · 他描述所见**：in Israel with Hamas with this other stuff not not uh discluding what I've seen about Poland a man sent me an article today about Poland saying that they're wanting to raise up all these troops and get them ready for nuclear war and all this other stuff going on I told you all I saw a major strike coming
 
 ### 完整英文 Transcript
 
@@ -122,7 +140,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、经济、银行与市场
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、经济、银行与市场、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、经济、银行与市场展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:20](https://www.youtube.com/watch?v=C2cDnPVroBg&t=260s) · 他描述所见**：showed me this major attack coming on Poland that there was a major draft and that we would jump in the war then and I saw provoking of things like trying to poke the bear and I and it was like poking the bear in the spirit they keep trying to provoke the bear trying to
+- **[05:04](https://www.youtube.com/watch?v=C2cDnPVroBg&t=304s) · 他描述所见**：some of it can't some of it's to warn you all of what's about to take place but N I believe 95% of it is for us to change it in prayer being a Watchman being a Watchman and he even showed me about uh crypto and things like that I saw Satan standing over the financial sector
+- **[06:34](https://www.youtube.com/watch?v=C2cDnPVroBg&t=394s) · 他转述所听到的话**：I'm I'm seeing over about xrp and all these other cryptocurrencies the enemy knows so he's trying to like like you're seeing right now there's great shakeouts very uh bad ups and downs crashes and up and uprisings of a manipulated uh Market the Lord said a manipulated mark Market this is a manipulated Market Big Time and there
+- **[07:30](https://www.youtube.com/watch?v=C2cDnPVroBg&t=450s) · 本段原话**：this is his like he like I said this is his wheelhouse he is over the finances of the world and we're going into him and taking we are going in and taking the plunder the taking the the the the pillages and saying Satan that's ours we are Joy andair of Jesus Christ ladies and gentlemen we are Sons and
 
 ### 完整英文 Transcript
 
@@ -217,7 +242,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:03](https://www.youtube.com/watch?v=C2cDnPVroBg&t=483s) · 本段原话**：the Iraqi dinar gold and silver you're not going to hinder cryptocurrency causing uh delay like on Friday in the meeting everything that President Trump had said about those those five pillars he only talked about the one a Bitcoin Reserve so there was a whole different it was almost like he was a a double
+- **[09:20](https://www.youtube.com/watch?v=C2cDnPVroBg&t=560s) · 本段原话**：try to stop the end time of transfer because I've told you when the when the words are coming forth from the Watchman and the prophetic warning that there will be a wealth transferred before a major Revival what is his job I'm going to delay the wealth transfer because we don't want the Revival and if I can delay the Revival
+- **[10:23](https://www.youtube.com/watch?v=C2cDnPVroBg&t=623s) · 本段原话**：Angelic armies by by commissioning them saying Lord I send the Angelic armies with you that father they were working in on my behalf to bring forth the finances that are needed for the body of Christ to bring in this end time wealth transfer to bring in the end time Harvest of souls we will work together
+- **[11:29](https://www.youtube.com/watch?v=C2cDnPVroBg&t=689s) · 他转述所听到的话**：have the war department we have all of Heaven backing us as joint Heirs of Jesus Christ as his sons and daughters of God so we're going to take our dominion and Authority today and we're going to tell the devil to release the crypto to release these things because the Lord said like I told you all it's
 
 ### 完整英文 Transcript
 
@@ -317,7 +349,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:02](https://www.youtube.com/watch?v=C2cDnPVroBg&t=722s) · 他转述所听到的话**：we're going to pray it through just like in the Lord told me he said Brandon it's no different than what you did when you prayed for the election people had free will to to either vote for for Camila Harris or to vote for for president uh Trump but you still prayed for it just
+- **[12:42](https://www.youtube.com/watch?v=C2cDnPVroBg&t=762s) · 他进行祷告**：not be blinded by by a demonic spirits because the Bible says Satan has blinded the eyes of the unbeliever so we take authority over according to Ephesians 1 18 that the eyes of their understanding would be enlightened so we're going to pray and we're not going to we're not going to miss we're going to hit it and
+- **[14:26](https://www.youtube.com/watch?v=C2cDnPVroBg&t=866s) · 本段原话**：he's going to hell help my daughter she's overcoming help help me Lord he already knows what we have need of but we're believing Believers taking our dominion and Authority causing it making making your faith work like a like like a muscle like a weapon making it work Faith Works but it works by love walking in love get
+- **[15:29](https://www.youtube.com/watch?v=C2cDnPVroBg&t=929s) · 本段原话**：this devil you're not robbing me no more we're not going to stand for it as Believers anymore you're not robbing us of our our seed this is our children this is what we're believing for that these men and young men and women the people that are believing for healings and Men manifestations then it don't go
 
 ### 完整英文 Transcript
 
@@ -422,7 +461,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[17:27](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1047s) · 他描述所见**：impossible through him say it nothing is impossible for my God nothing is impossible for our God and that there will be the the the these there'll be strategic I saw strategic things happen in tyan in the days ahead I don't go into the depth of this because it was very strategic what the
+- **[17:47](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1067s) · 他描述所见**：Lord showed me there were I saw meetings I saw things and the Lord told me I I as out of wisdom uh to not uh to to not uh uncover or what disclose what the Lord showed me about President Trump and the meetings that I saw because I think it would be stupid so we know we we pray for our
+- **[18:10](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1090s) · 他表达判断**：president for wisdom to to to cut the head off of the snake concerning these well I don't agree no God has called president Trump for such a time as this ladies and gentlemen I believe it he's called president president Trump for such a time as this and for his cabinet and for his staff so let's get
+- **[18:33](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1113s) · 他表达判断**：bold about it all right let's pray together I've already went too long I Lord said five minutes I'm like I'm 18 minutes I get to talking and and so father I just thank you for every need that is that is here today every family member as we hold these pictures if I hold them Father I believe father that
 
 ### 完整英文 Transcript
 
@@ -528,7 +574,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[21:08](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1268s) · 本段原话**：just like you said I have fire and it's stirred up in my bones that Holy Ghost Fire and it's stirred up in my bones father that we would be that that children that say oh that father that you would you would bless us indeed and you increase our land and you enlarge our territory that we would cause no
+- **[21:24](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1284s) · 本段原话**：pain I thank you Father that you're you're increasing our land and you're in our territory today that we're taking dominion and authority over the crypto market and we say this far and no further Satan let go of God's money let go of that money now in the name of Jesus let go of xrp let go of xlm go let
+- **[21:45](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1305s) · 本段原话**：go of of of all the other cryptos father that that youve told us that you said the wealth of the Sinners laid up for the righteous and it may be the Satan's willhouse but we bind you in your willhouse and you're not able to move for you so whatsoever things are bound on Earth are bound in heaven and
+- **[22:55](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1375s) · 本段原话**：Supernatural wealth transfer the father we' have more than enough to give to the kingdom of God and promote the Gospel of Jesus Christ throughout the whole world and we believe that father this is the season of The Miracle this is a season of great transfer that the people that have been believing and we're believing Believers
 
 ### 完整英文 Transcript
 
@@ -644,7 +697,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:01](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1441s) · 本段原话**：Isaac and Jacob and Brandon bigs you're the god of of them Father you're the god you're you're our God and we we are seated with you in the heavenlies and we believe father that father that if you delivered Shadrach meach and abedo you'll Deliver Us you're no respector of person father and we may be in the pit
+- **[25:09](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1509s) · 本段原话**：and he's to kill steal and destroy but the Bible says that God has come that we might have life and life more abundantly so we lay hold to the life today we lay hold to the abundance and we say no more steal kill and destroying our stuff we'll have a Revival we will have a
+- **[26:38](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1598s) · 本段原话**：will not cast its fruit before it's time when they give birth there will be no pain it will be effortless father effortless effortless effortless and these babies will will be happy healthy babies with no colic and and they will latch on and nurse like they're supposed to and we thank you that they are being
+- **[27:35](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1655s) · 本段原话**：speak peace over these mamas these these we thank you that they that they have peace that passes all understanding and father that they have that that they're surrounded that you send people surrounding them with guidance and wisdom on what to do that they have options and not having to always think think think the worst that they would be
 
 ### 完整英文 Transcript
 
@@ -756,7 +816,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:35](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1715s) · 本段原话**：demonic Spirit of bell we command you to Bow your knee over these nations you say we say unto you you are bound you are rebuked and the devour will be rebuked in the name of Jesus for father you're going before us and you're preparing away and that father that we would Minister to these young women or even
+- **[30:23](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1823s) · 本段原话**：Revival in Russia there'll be a major Revival in Europe there'll be a major Revival all throughout Africa and father there will even be a major Revival in the Muslim Community in the Buddhist Community father that they will in the Hindu Community father there'll be a major Revival and a major Harvest of souls yet to come even in the Muslim
+- **[31:18](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1878s) · 本段原话**：there will be the Joshua we'll be the calebs we'll go and say no we're taking the land for Jesus and we're going to spread the gospel one last time thank you Father for your Mighty hand on this beautiful Nation all throughout this world we're calling in a mighty Harvest of souls we believe we receive
+- **[31:37](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1897s) · 他进行祷告**：it today in the name of Jesus and we pray a hedge around and about President Trump and the spirit of confusion will not rest on his mind that he'll know exactly what to do when to do it and there's a Divine wall of protection around him around the White House and the Merc ofo and the places that he goes
 
 ### 完整英文 Transcript
 
@@ -875,7 +942,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–34:41 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:01](https://www.youtube.com/watch?v=C2cDnPVroBg&t=1921s) · 本段原话**：Advance you'll not touch our s our Senate and our Congress father we call for blessing over them in the name of Jesus and that there will be a major Revival on the senate floor and the house floor we believe it father for this is the time like we've never seen before for a radical move of the spirit
+- **[33:21](https://www.youtube.com/watch?v=C2cDnPVroBg&t=2001s) · 本段原话**：something big to happen in our lives if you could please like this video subscribe if you have't subscribed click the notification Bell if you could it helps us this the only thing we'll ever ask you all to do is please bless us by by clicking that notification Bell clicking the Subscribe button it's what
+- **[33:39](https://www.youtube.com/watch?v=C2cDnPVroBg&t=2019s) · 他进行祷告**：helps us with the algorithm and we're believing for a million Soul uh prayer men and women Army that you want to come and pray with us every day we're taking it more serious we're going to pray together as a family we're praying in our prayer spot we're believing God for Supernatural things to take place as we
+- **[34:17](https://www.youtube.com/watch?v=C2cDnPVroBg&t=2057s) · 本段原话**：song in your heart Jesus loves you what was that guy yelling what did he yell what did he we always somebody healed when they drove by we we they might know us because they watch our videos who knows we'll put a smile on your face and a song in your heart Jesus loves you so
 
 ### 完整英文 Transcript
 

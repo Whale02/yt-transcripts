@@ -5,17 +5,31 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 98；**章节数**: 2；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
 - [01. 00:00–03:59 · 物资、能源与供应链、祷告、敬拜与现场互动](#section-01)
 - [02. 04:00–04:11 · 现场讲话（无可靠自动分类）](#section-02)
 
+## 全片概述与 Key Points
+
+全片共 2 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:40](https://www.youtube.com/watch?v=P7viEh9luCE&t=40s) · 他描述所见**：States and they're going to pump the oil they're going to cause an oil shortage but it but they're going to go with Russia in this and they're going to go with China and and it's it's like it's like a secret mission against the United States but I saw uh the price of gas go almost seven
+- **[04:01](https://www.youtube.com/watch?v=P7viEh9luCE&t=241s) · 本段原话**：basically what I had those are two little things uh of that I have another video I'm about to do it'll be my third video but this is this is the positive one have a blessed day bye-bye
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 物资、能源与供应链、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:40](https://www.youtube.com/watch?v=P7viEh9luCE&t=40s) · 他描述所见**：States and they're going to pump the oil they're going to cause an oil shortage but it but they're going to go with Russia in this and they're going to go with China and and it's it's like it's like a secret mission against the United States but I saw uh the price of gas go almost seven
+- **[01:22](https://www.youtube.com/watch?v=P7viEh9luCE&t=82s) · 他描述所见**：um creating a new digital currencies it's part of it weakening the dollar this is going to I don't know how all this happens I'm just saying I'm I'm this is the parts that I see the Lord told me that like I said oil would go 200 a barrel gas was going to go very
+- **[01:39](https://www.youtube.com/watch?v=P7viEh9luCE&t=99s) · 他表达判断**：very high and so um I just wanted to warn you about some of this stuff number two this was three or four weeks ago I believe I was praying and the Lord showed me he said I need you to pray for Italy he said and I said what's going on with Italy Lord and he said he and he showed
+- **[03:00](https://www.youtube.com/watch?v=P7viEh9luCE&t=180s) · 他描述所见**：all on the edge of the water where I saw this volcano go off and so there'll be signs maybe even on the news in Italy about some some Rumblings around that area some some earthquakes some Tremors or something to pre-warn that something big is going to happen do not ignore this do not ignore this it is very
 
 ### 完整英文 Transcript
 
@@ -118,7 +132,11 @@
 <a id="section-02"></a>
 ## 02. 04:00–04:11 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=P7viEh9luCE&t=241s) · 本段原话**：basically what I had those are two little things uh of that I have another video I'm about to do it'll be my third video but this is this is the positive one have a blessed day bye-bye
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1422；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 63:00–69:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 70:00–76:23 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:54](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=114s) · 他表达判断**：Do you think, Folks, I told you I believe the man is building the mark of the beast with Neuralink? I told you the Starlink is going to communicate with Neuralink. All the the signs of the times are happening. I told you Elon Musk had Nephilim behind him. And I hope I said that right. this time, Nephilim,
+- **[14:03](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=843s) · 他转述所听到的话**：Cuba. Watch Cuba. The Lord when I when I got that prophetic word, all of it on my archives, private stuff in my that I never released publicly, the Lord said, "Watch Cuba. Remember the Cuba Cuban missile crisis. Watch Russia in Cuba. Remember this. Behind closed doors, there's things that you do not know. A red dawn experience is coming.
+- **[28:09](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=1689s) · 本段原话**：where he is at is in the still small voice, not in the rush. It's the peace that passes all understanding. It's learning to tell your flesh to shut up. Shut up, flesh. I am not going to allow you to raise up and know you got all these things to do today. Oh my goodness. No,
+- **[43:43](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=2623s) · 他描述所见**：Remember the the shakina glory cloud is is old thing. I'm going to do a new thing. He says, "I'm going to do a new thing." Remember the breeze. I see the breeze. I see the wind. I see tangible wind in services blowing people's hair. A wind like the upper room. I hear the wind. It came as a sound of a a
+- **[58:04](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=3484s) · 他描述所见**：the Lord said there's no Lone Rangers. Make a men's make a right. Find the fold that you fit in today. For I'm assembling. I'm assembling this last mighty move, a great shaking to awaken. I see that bed again. And there's many people that are asleep.
+- **[71:19](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=4279s) · 本段原话**：They're still sounding. It's 8 It's 12 o'clock, which means it's it's high noon. It's time It's way past time to get up. It's way past time to get up.
+
 <a id="section-01"></a>
 ## 01. 00:00–06:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:54](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=114s) · 他表达判断**：Do you think, Folks, I told you I believe the man is building the mark of the beast with Neuralink? I told you the Starlink is going to communicate with Neuralink. All the the signs of the times are happening. I told you Elon Musk had Nephilim behind him. And I hope I said that right. this time, Nephilim,
+- **[03:07](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=187s) · 本段原话**：help the the kingdom of God with Starlink. We know he could. But Willie, I know of the foundation of crypto. I've warned you all about all these things that are coming. There's secret ties to other nations with this man. There's dark things that people do not realize. Elon Musk is coming out and saying all these
+- **[04:02](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=242s) · 本段原话**：Jerome Pal knows there's nothing they can do to save this economy. No matter how much Trump tries to pump things up and tell you that we're going to save America and make America great again, America is going into the beast system. I need you to hear me. We may have a window of opportunity of what I'm
+- **[05:16](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=316s) · 本段原话**：It's a worldwide economic disaster from China to Japan to all these nations. And the what's going to come in the days ahead, remember what I'm telling you, you need to hear me, is a digital platform through crypto and it will be uh the mark of the beast eventually, but they have to introduce it. A spoonful of
 
 ### 完整英文 Transcript
 
@@ -194,7 +212,14 @@
 <a id="section-02"></a>
 ## 02. 07:00–13:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[07:24](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=444s) · 他描述所见**：whatever it takes to go and back up Vladimir Putin with the war. This is exactly what the spirit of the Lord warned you was going to take place. And I saw men from North Korea on trains being shipped over to Ukraine. And this will escalate this even more into World War III. And you will see North Korea back
+- **[07:49](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=469s) · 他描述所见**：Russia with men. I saw farmers, men that were not trained to fight and they were slaughtered on the battlefield. This is very serious. In the days ahead, I saw NATO coming uh in agreement like with with Ukra UK, the UK and other nations all coming together to try to defeat Putin. We they want a
+- **[09:26](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=566s) · 他表达判断**：But I know that the the the main man is behind a curtain right now. He's not been revealed. And I believe I've always told you who that who that man is. And he's coming on the world stage saying, "I'll cause peace with with uh Israel. I'll cause peace. Let's have friends with uh Syria. Let's do all
+- **[13:02](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=782s) · 他描述所见**：The sky is not falling. No matter what you see in the news in the days ahead from Elon trying to to badger him, I warned you. Elon Musk was put in a position that I saw um in Doge that he saw things that uh he he uh shouldn't have. That's what I'll say. There'll be more things that come
 
 ### 完整英文 Transcript
 
@@ -360,7 +385,14 @@
 <a id="section-03"></a>
 ## 03. 14:00–20:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[14:03](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=843s) · 他转述所听到的话**：Cuba. Watch Cuba. The Lord when I when I got that prophetic word, all of it on my archives, private stuff in my that I never released publicly, the Lord said, "Watch Cuba. Remember the Cuba Cuban missile crisis. Watch Russia in Cuba. Remember this. Behind closed doors, there's things that you do not know. A red dawn experience is coming.
+- **[16:21](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=981s) · 他描述所见**：Remember, I saw major football games and baseball games when people are distracted watching a game. I saw drones coming in with with explosives and doing these things. The Lord told me there's a major event that's about to take place. Everything we know will change within a 24-hour period. You'll wake up one day and and
+- **[17:15](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=1035s) · 他描述所见**：they have infiltrated 10 cities. And these men have not disappeared. What will they do? Just remember what I've told you all. We still pray over these things. I see way in advance, folks. Remember, the things the Lord warns you about is so we can pray about it as a family. It's not so it happens the next day. Sometimes it
+- **[18:44](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=1124s) · 他表达判断**：the the than the black the plague of death, the black death that happened in the 1300s, I believe, is when it was a major plague that will be created by AI technology that there will be no vaccination for that is designed to wipe out people that are obese. Remember this. I don't say that
 
 ### 完整英文 Transcript
 
@@ -530,7 +562,14 @@
 <a id="section-04"></a>
 ## 04. 21:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[21:27](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=1287s) · 他表达判断**：you that which is to come. And I believe he wants to show us things. He may not today. He may. I don't know. It's on it's it's what he says. But we know that he loves us and he'll never leave us and he'll never forsake us. But we always take communion here as a family. We
+- **[21:58](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=1318s) · 他表达判断**：That the end is coming. And I believe, God, that we're about to see great demonstrations and manifestations of the glory of God. I take this body in the name of Jesus. And I thank you, Lord, that you were wounded for our transgressions. You were bruised for our iniquities. The chastisement of our peace was upon you. And with your
+- **[24:20](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=1460s) · 本段原话**：Every tongue that rises against us, we condemn it. It falls to the ground. It will not bear fruit in our lives because we're under the blood. We thank you, Lord. What can wash away my sin? Nothing but the blood of Jesus. What can make me whole again? Nothing but the blood of Jesus. Do you believe that today? It
+- **[27:25](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=1645s) · 本段原话**：There's just peace. Everything else doesn't matter. Your agenda for today, what what do you have to do today that's so important? We're in a hurry to go nowhere. We're in a hurry to go nowhere.
 
 ### 完整英文 Transcript
 
@@ -678,7 +717,14 @@
 <a id="section-05"></a>
 ## 05. 28:00–34:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:09](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=1689s) · 本段原话**：where he is at is in the still small voice, not in the rush. It's the peace that passes all understanding. It's learning to tell your flesh to shut up. Shut up, flesh. I am not going to allow you to raise up and know you got all these things to do today. Oh my goodness. No,
+- **[29:33](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=1773s) · 本段原话**：Father, you're my dad. Like a father would love on his child. Today, Father, we sit in your lap, not worried about all the things of this world. We take our care out of our prayer and we just sit at your feet.
+- **[33:58](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=2038s) · 他描述所见**：In the days ahead, there'll be there'll be very there'll be all this stuff on the news. I see dust. I see bombs. I see buildings.
+- **[34:13](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=2053s) · 他讨论新闻或报道**：Remember, keep your eyes upon him. People have a tendency when they see it to camp around news. It'd be like when 911, they spent hours watching the news because of what's being reported.
 
 ### 完整英文 Transcript
 
@@ -775,7 +821,14 @@
 <a id="section-06"></a>
 ## 06. 35:00–41:59 · 预言、梦境与异象
 
-**中文章节摘要**：本段涉及：预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:06](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=2106s) · 本段原话**：Keep your vessel filled. Keep your vessel filled. For the harvest is plentiful and the labors are few. Keep your vessel filled. Being an unfilled vessel makes you unusable. Do you understand? It's like you you he wants to be you. He wants to move through you. And if you're weak and anemic, you got to have a backbone like
+- **[37:16](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=2236s) · 他描述所见**：Look for the opportune times every day. Look for the opportune times every day. The harvest is plentiful and the labors are few. Those that are around you, I see them. They're at the grocery stores. They're at the Walmarts. They're at the the places you go buy groceries.
+- **[40:15](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=2415s) · 他描述所见**：I see him shaking the child in the bed saying, "Wake up. Wake up. Wake up. Wake up. This is where it's at. The alarm's going off. The alarm is going off in the background on this nightstand." And I see the nightstand. And I see the clock is at 12:00. I see the clock is at
+- **[40:32](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=2432s) · 他描述所见**：12:00. And in this vision, I see the clock is at 12:00. And the Lord said, "It's time to wake up." But you didn't hear the bell. You did not hear the bell. And therefore, a great shaking to awaken on another level will come. For you are still asleep in the slumber must but you must come out of the slumber.
 
 ### 完整英文 Transcript
 
@@ -876,7 +929,14 @@
 <a id="section-07"></a>
 ## 07. 42:00–48:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[43:43](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=2623s) · 他描述所见**：Remember the the shakina glory cloud is is old thing. I'm going to do a new thing. He says, "I'm going to do a new thing." Remember the breeze. I see the breeze. I see the wind. I see tangible wind in services blowing people's hair. A wind like the upper room. I hear the wind. It came as a sound of a a
+- **[45:16](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=2716s) · 他描述所见**：[Applause] No, no, no, no. I see great orchestra. What? Some are the brass, some of the drums, some of the symbols, some of the tubas.
+- **[45:42](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=2742s) · 他描述所见**：Usually I see the the the orc the the [Music] [Applause] One is not less than the other. Each one plays in a
+- **[46:59](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=2819s) · 本段原话**：Flow is my body. Flow and unity together. Flow and unity together. Make music together. Don't comp be in competition with this brother or this sister. Well, they operate better in a gift better than me, so they're more important than me. No. He says, I hear him say, you are all beautiful parts of
 
 ### 完整英文 Transcript
 
@@ -987,7 +1047,14 @@
 <a id="section-08"></a>
 ## 08. 49:00–55:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[49:06](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=2946s) · 本段原话**：is what he's talking about. Assembling together. Assembling together, breaking music together, adding one part, all the different parts. Paul Hebrews 10:25 says, "Not forsaking the assembling of ourselves together as the manner of some is, but exhorting one another and so much the more as ye see the day approaching." As you see the day
+- **[51:08](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=3068s) · 他描述所见**：Each child has a special part to play. Each one of us are assembled together to make a beautiful puzzle today. But you make beautiful music together. You're his kids. He looks at us as a family. And people don't look at it that way. And I see it as more as a it's a family. But if you don't have one
+- **[53:08](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=3188s) · 本段原话**：Walls of division, walls of strife, they're sent by the enemy. They're sent by the enemy to divide us all. You got to be straight standing more tall. Come up higher. Come up higher. Come up higher with the fire. Come up higher.
+- **[55:19](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=3319s) · 他转述所听到的话**：What about read the scripture above it? the the verse of Reubbet or the first one. And when the day of Pentecost was fully come, they were all with one accord in one place there. He said, "You're reading not reading the right one." I heard him. He said, he just said, he said, "Read the one above it."
 
 ### 完整英文 Transcript
 
@@ -1140,7 +1207,14 @@
 <a id="section-09"></a>
 ## 09. 56:00–62:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[58:04](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=3484s) · 他描述所见**：the Lord said there's no Lone Rangers. Make a men's make a right. Find the fold that you fit in today. For I'm assembling. I'm assembling this last mighty move, a great shaking to awaken. I see that bed again. And there's many people that are asleep.
+- **[59:44](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=3584s) · 他描述所见**：leadly lead for many will there there there are there there are leaders but I see a departing of the old and a brand new and and they'll be they're they're going to help help uh uh uh encourage uh edify lift up the the new leaders passing the baton gracefully. I see passing the baton
+- **[60:27](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=3627s) · 他描述所见**：I'm behind you. I'm praying for you, the elders. Do you see? I see it. A graceful transition. A grace A graceful transition. For my hand is upon the new Davids. My hand is upon the new Davids. They must be taught still some things. Do you see? By the elders. You
+- **[61:56](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=3716s) · 本段原话**：He'll open the door to speak in certain certain ways. He says, I I will open the door to speak and you'll interject into those times. Don't come across overbearing. Teach as the door is open a little at a time and there'll be a trust there. foreign.
 
 ### 完整英文 Transcript
 
@@ -1276,7 +1350,14 @@
 <a id="section-10"></a>
 ## 10. 63:00–69:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[63:47](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=3827s) · 本段原话**：papa and the finances will come through it too. you'll lack no good thing. For the finances will will be there as the jet fuel to this great revival. If you're listening to me, I hear him say, for this will propel the the revival into a to the stratosphere, whatever that is.
+- **[65:43](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=3943s) · 本段原话**：So that it's so much so read. Yeah. It says uh ex if you go back a couple more verses it says in Exodus 36:4 finally the craftsmen who were working on the sanctuary left their work and they went to Moses and reported the people have given more than enough materials to complete the job that the Lord has
+- **[67:26](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=4046s) · 本段原话**：That the finances are there to do what we need to do to finish this race. that the finances are there to finish the race, that there's such an abundant supply and we say, "We don't need anybody to bring any more offerings. We have too much. Our bank accounts are too full." Which is amazing. I just say that
+- **[68:45](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=4125s) · 本段原话**：Assemble in unity. Yes. That's really amazing how he brought all that together today. When I when I'm seeing it, it all flowed. It went I love it when he does that. It's go what Lord you're so cool when you flow through vessel. What is on his heart is unity from the prejudice
 
 ### 完整英文 Transcript
 
@@ -1433,7 +1514,14 @@
 <a id="section-11"></a>
 ## 11. 70:00–76:23 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[71:19](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=4279s) · 本段原话**：They're still sounding. It's 8 It's 12 o'clock, which means it's it's high noon. It's time It's way past time to get up. It's way past time to get up.
+- **[72:40](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=4360s) · 他描述所见**：And not only that, Father, we we breathe. We we move together as a mighty army, like a giant. Like Tommy Hicks vision, we're a giant. We're a giant.
+- **[74:06](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=4446s) · 本段原话**：me. Subscribe. Subscribe if you haven't subscribed. Click the notification bell. Say something nice down below. It helps with the algorithm. That last video got a lot of comments from a lot of the world. They came and see the Elon Musk video. And so that's great. I'm glad they came. Maybe they'll stick around
+- **[75:31](https://www.youtube.com/watch?v=bh5qXAKfSpM&t=4531s) · 本段原话**：just go, I'm going to tell you what the Bible says and you're going to hell. Did you know you're gay and you're going to hell? Did you know you're this? You're transgender. You need change. I'm going to show you love. You know how many times I It's grotesque to your spirit, but you anytime you see that in a
 
 ### 完整英文 Transcript
 

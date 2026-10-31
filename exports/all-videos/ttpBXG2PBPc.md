@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1232；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 50:00–54:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 55:00–56:52 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=0s) · 本段原话**：hey good morning family praise the Lord thank you for joining me today well I've had some things on my heart I could go a lot of different directions with this video um I had an experience Diana and I both she's behind the camera today um we had an experience with the Holy Spirit
+- **[10:00](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=600s) · 他描述所见**：there's no words in the English vocabulary that can go into the depth and try to explain uh he's v he's vast he had a barrel chest it was it was I saw him and phys like a physical Vision physical form he formed himself before me and I could see his robe the way his robe was
+- **[20:26](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=1226s) · 本段原话**：but you want to bypass intimacy on a lot of you 53% want to bypass the intimacy of the father to get to the blessing only and that's treating him like a whor and it grieved me so I give you something that's so precious to me and you say well Brandon you're a false prophet you said crash
+- **[35:57](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=2157s) · 他描述所见**：strength and they're going to do a lot in the next year 2025 I believe personally you will see a lot with turkey this next year I believe you will see a lot more I saw in the last and I have not told you this I've seen box Cars full of soldiers from North Korea
+- **[45:01](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=2701s) · 他表达判断**：waiting there was 10 half of the people I believe will be left and half will be taken that's a representation of 50/50 of the Rapture of the Rapture there is a there is a there is a remnant of people who have their lamps full and that are waiting for him I beg you
+- **[55:00](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=3300s) · 本段原话**：Again Lord I Thank You amen and amen well if you're new here and you want to subscribe subscribe if not it's cool I hope you do what I'm just I'm tired of it I'm not I'm not pushing that way no more if you want to subscribe if you do fine if you don't fine I don't care I'm just saying
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=0s) · 本段原话**：hey good morning family praise the Lord thank you for joining me today well I've had some things on my heart I could go a lot of different directions with this video um I had an experience Diana and I both she's behind the camera today um we had an experience with the Holy Spirit
+- **[02:40](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=160s) · 本段原话**：going to answer some questions about me and ladies and gentlemen in Visions he appeared before me and it and I'm going to tell you to describe what the Holy Spirit would look like in the the natural I I can't it is it's it's beyond it's breathtaking it's breathtaking I had a
+- **[03:41](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=221s) · 他描述所见**：he showed me the Chariots of Fire flowing over over the Earth's atmosphere and I saw the gifts being distributed out to the people and they were floating down and they were going inside of them as the Chariots of Fire were going around similar to what you would consider Santa slle but it was it
+- **[04:03](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=243s) · 他描述所见**：was Angelic all of them Distributing out floating above the atmosphere of the earth and I could see them shooting around and they were giving the gifts out to the people the spiritual mantles and whenever they did it floated down and it went inside of them as impartations this is what I saw in the
 
 ### 完整英文 Transcript
 
@@ -144,7 +162,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:20](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=320s) · 他描述所见**：world than they wanted to him they wanted more of what they could their flesh desired than to crucify their flesh and and pick up the cross and follow him I felt so grieved as I saw the Chariot of fire turn and go back up into heaven and they had that package still on the back of that Chariot that was
+- **[05:42](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=342s) · 他描述所见**：ready for he was ready he wanted to give it but their heart was Harden towards it and they didn't want it but the gifts were delivered on on Christmas just like he said they would I saw them and they fell down and they went into the people I'll say that again and they were beautiful gifts and he
+- **[07:43](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=463s) · 他描述所见**：spirit's hand the the was the hand was inside that glove it had power and whenever he took his hand out of it the glove was lifeless again so he showed me what his mission is always to do and I saw a massive mirror and he was holding the mirror and he seems really mysterious in the
+- **[08:49](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=529s) · 本段原话**：nothing in this earth without my father instructing me to do it and I give all my glor the glory to the Father and Jesus was the Lord re in flesh flesh the word became flesh and dwelt Among Us the Bible says the Holy Spirit was always magnifying with that mirror shining that light and it was reflecting on the
 
 ### 完整英文 Transcript
 
@@ -261,7 +286,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:00](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=600s) · 他描述所见**：there's no words in the English vocabulary that can go into the depth and try to explain uh he's v he's vast he had a barrel chest it was it was I saw him and phys like a physical Vision physical form he formed himself before me and I could see his robe the way his robe was
+- **[12:55](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=775s) · 他表达判断**：me uh great things about my wife beautiful things and if she ever wants to tell you those things that's that's what she can tell you but some of it was it's private and then he she spoke to me about my children other children but after this visitation that lasted for um probably 45 minutes what do you think
+- **[13:43](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=823s) · 本段原话**：father would want to visit me and my wife and my children on our bir her birthday it was such an honor and as she wept my wife we all wept that he would wait until her birthday until the TR the clock struck 12 midnight as we were celebrating him that he said now I want to celebrate
+- **[14:07](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=847s) · 他描述所见**：you I want to celebrate your life and he gave my wife a vision of her being birthed uh into out when she came up out of her mother and how he bre the the first breath she ever took she saw herself in that didn't she babe M yeah as a as a baby taking my
 
 ### 完整英文 Transcript
 
@@ -379,7 +411,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:36](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=996s) · 他描述所见**：you because I see your emails I see the comments my son had to spend half his day erasing the comments from the people biting us you call me a false prophet you call me all these terrible terrible things in the hidden comments getting blocked it is absolutely amazing and I'm not here to make you feel sorry for me I
+- **[17:24](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=1044s) · 本段原话**：fast forwarded all that and the algorithm shows me you didn't want I have nothing to do with Jesus a lot of you 50 it was almost 55% out of 70 some thousand views over half had nothing to do with communion nothing to do with giving God glory you just wanted what would benefit
+- **[17:48](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=1068s) · 本段原话**：you you just wanted what would make you rich potentially maybe if it's right we're all human with we have it we we see we see through the the glass dimly or Darkly or whatever the whatever we say but you don't want a relationship with him he wants a relationship with you so bad he looks for it every day but you
+- **[19:09](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=1149s) · 本段原话**：pagan holiday and I get rid of killed for it then by all means pick December 27th I don't care but the man he is he's not a man he is he came as a man he died and he rose again for you that you don't have to go to hell he deserves our praise and our our our
 
 ### 完整英文 Transcript
 
@@ -487,7 +526,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:26](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=1226s) · 本段原话**：but you want to bypass intimacy on a lot of you 53% want to bypass the intimacy of the father to get to the blessing only and that's treating him like a whor and it grieved me so I give you something that's so precious to me and you say well Brandon you're a false prophet you said crash
+- **[22:08](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=1328s) · 本段原话**：and take and just grab a hold of what you thought would benefit you but you're missing it he is what will benefit you this is all going to burn in hell forever fire forever money is a tool to bring forth the glory for him the very thing that you think that
+- **[22:41](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=1361s) · 本段原话**：you don't need the beginning is what would change you so it's tostain you for this but this is just a tool and the world that's all they want but yet they're so empty they're the dog in the road that's biting on to people's hands trying to figure out how to feel the hurt all the busted and disgusted
+- **[24:36](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=1476s) · 他描述所见**：for what's coming because you do not realize how bad it's about to get he gave us a window and he called this a a a season of Grace and most people what that season four years I don't know when you're looking into a vision you think it's four years it could be four days it could be four
 
 ### 完整英文 Transcript
 
@@ -599,7 +645,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、物资、能源与供应链。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:27](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=1527s) · 他描述所见**：I'm trying to paint a picture for you almost say days for hours hours standing in line just to get a bag of I saw a grocery sack of food of a paper sack of food that they'll give you by FEMA because there are great trade Wars with China and America that are coming and we
+- **[26:31](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=1591s) · 他描述所见**：nowhere no merchandise to put in it so they just took from other stores to fill the one store and they shut that store down that's how bad it was I saw I told you a house of cards falling I saw interest rates skyrocketing again because they couldn't control it everything they are trying to
+- **[26:52](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=1612s) · 他描述所见**：tell you right now with Jerome pal and all that they they don't know what to do they don't the the House of Cards is falling folks and we we see that Donald Trump will come in with a plan orchestrated by the by by Solomon anointing that God's going to use him for but I do I said I saw a spir a
+- **[27:53](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=1673s) · 他描述所见**：that we are able to stand and and be able to do anything I saw Church and people and and major congregations because the notes on their churches it was too much and they and they closed down the doors because the people weren't able to give to help support these mega churches and it was
 
 ### 完整英文 Transcript
 
@@ -722,7 +775,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:00](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=1800s) · 本段原话**：he's a false prophet I used to he was Afra I talked to him on the phone I said he's a false this guy's a false prophet why do you listen oh I feel the anointing on I but his words never come to pass are you kidding me and I used to say that as as a young person because I
+- **[31:33](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=1893s) · 他描述所见**：he said other than a couple of things have come to pass maybe xrps went up in value a little bit but it falls I told you it was volatile told you it was going to be this way I see as a Watchman on a wall because I tell you I don't feel like I'm a prophet I'm a Watchman I
+- **[32:28](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=1948s) · 本段原话**：and he can choose anybody he may not choose to use me ever again he I am a glove that he puts his his his Spirit into and and makes the glove work okay that's who I am so so where I'm going with this is is I've been on the internet for a year and
+- **[34:18](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=2058s) · 本段原话**：somebody has to fulfill the race as the other generals go home John Kilpatrick not to replace him not to replace him but the call still there but the call still still there the the mission of of getting the gospel out is still there his race was finished he went home John uh John uh what John Paul Jackson
 
 ### 完整英文 Transcript
 
@@ -848,7 +908,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、教会、复兴与信仰。 提到的地点：Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:57](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=2157s) · 他描述所见**：strength and they're going to do a lot in the next year 2025 I believe personally you will see a lot with turkey this next year I believe you will see a lot more I saw in the last and I have not told you this I've seen box Cars full of soldiers from North Korea
+- **[36:14](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=2174s) · 他描述所见**：going and being led to uh Russia as I've seen these men excited to leave Russia I mean to leave North Korea excited and they were rejoicing to leave the communistic party of of Kim Jong to leave that party and to leave there to go to war to lose their life because they're not trained enough I saw these
+- **[36:39](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=2199s) · 他描述所见**：people perishing on the battlefield because they're weak and they're not strong they don't have enough nutrients in their bodies and they're in cold and I saw the permafrost I saw things happening I've been in the spirit and I've watch this war and I saw them making bigger deals for greater troop uh conver I saw 100 of thousands of troops
+- **[38:09](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=2289s) · 本段原话**：2025 I Want You To sprad Your Wings Brandon and I want you to put it on every available voice in Asia as much as you can translating your videos into their language for they are they are starving for me and they don't even know it they need me and there's nobody outreaching for
 
 ### 完整英文 Transcript
 
@@ -970,7 +1037,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:18](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=2418s) · 本段原话**：intimate relationship with the father so that you don't have to watch a YouTube video that you hear him through your through your spiritual ears and in your spiritual heart and you are changed from glory to glory to glory my job is not to teach you about finances my job I've told you this that was me and compassion
+- **[41:37](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=2497s) · 本段原话**：the in the upper Loft so that he would have a place to come and stay whenever he was traveling through that area you may not have a lot but you can provide an apple who knows what God can do through one apple you you you don't have to have millions but God's going to need the
+- **[42:57](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=2577s) · 本段原话**：maybe they're able to reach somebody that you couldn't just let's stay on the same team we're all part of the body they may be a toe and you don't like the way the toe is painted but it's a toe do you see what I'm saying folks but we're so we're we're just really quick
+- **[44:16](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=2656s) · 他描述所见**：said Brandon I'm standing at the door do they even they don't a lot of them don't even realize I'm standing at the door I'm coming I'm standing at the door this was part of the visitation we had two nights ago I said he's standing at the door again babe I see him he's
 
 ### 完整英文 Transcript
 
@@ -1101,7 +1175,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:01](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=2701s) · 他表达判断**：waiting there was 10 half of the people I believe will be left and half will be taken that's a representation of 50/50 of the Rapture of the Rapture there is a there is a there is a remnant of people who have their lamps full and that are waiting for him I beg you
+- **[46:41](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=2801s) · 本段原话**：moment I felt when you become intimate with somebody you know when you heard them you know whenever something's grieved him and he has an opinion about everything and Diana and I we're we're learning I've I've messed up a lot but it's always to be quick to
+- **[47:40](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=2860s) · 他进行祷告**：course of time even through all the pain he's ever he's an everpresent help in a time of need I pray he's that for you today that you may be on your couch and you may be on your car listening to this and and you think think man I'm so empty and I'm so alone but I pray for you that
+- **[49:21](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=2961s) · 他描述所见**：you're dry and you're thirsty and he comes and visits you on your wife's birthday and the presid pres the Lord fills your whole house and you're sitting your at all at him and he allows you to see something so holy that not many have ever seen him in a vision in a movie screen
 
 ### 完整英文 Transcript
 
@@ -1208,7 +1289,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–54:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[52:03](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=3123s) · 本段原话**：flesh this is his channel and if I don't feel that he's inside the glove I am not going to operate with a glove trying to pick the glove up to make it move and go and it's flopping down you're going the glove's dead today we're not we're not doing this just for the sake of daily videos yeah I'm not
+- **[52:25](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=3145s) · 本段原话**：doing it I'm not doing it and I and that's why I've taken off I I'm looking for him and if I don't feel that I am not pushing to do it and I told him I said if you're not if I don't feel you present I'm going to just turn it off and I'll record the video and I'm up
+- **[52:39](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=3159s) · 本段原话**：here talking if I don't feel it I'm just like throw it in the trash I told Bren erase it I'm not doing it if they don't get a video it's not my problem this is about him this isn't about a Brandon show I'm not a blogger I ain't like a Roman Atwood or whoever on the internet making
+- **[54:29](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=3269s) · 他进行祷告**：202 the rest of 2024 and 2025 father they'll have an intimate relationship with the Lord Jesus Christ and I thank you Father that that's what we do that's what we're going to do on this channel father is keep telling people how to find Jesus so we love you all we pray covering over president Trump and over
 
 ### 完整英文 Transcript
 
@@ -1328,7 +1416,14 @@
 <a id="section-12"></a>
 ## 12. 55:00–56:52 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[55:00](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=3300s) · 本段原话**：Again Lord I Thank You amen and amen well if you're new here and you want to subscribe subscribe if not it's cool I hope you do what I'm just I'm tired of it I'm not I'm not pushing that way no more if you want to subscribe if you do fine if you don't fine I don't care I'm just saying
+- **[55:24](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=3324s) · 本段原话**：you know Di's laughing at me it's the truth it's like it is what it's just it's all hoopla it's like so what I just do it though because it helps with the algorithm it really does helps get the gospel helps to get the gospel out but it's like there's part of me that goes
+- **[55:43](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=3343s) · 他进行祷告**：if you get it you get it you don't fine I mean I just want to help them what well we love you all we appreciate every single one of you thank you for the support love for my family for for Diane and I and we pray this video blessed you today
+- **[56:13](https://www.youtube.com/watch?v=ttpBXG2PBPc&t=3373s) · 他进行祷告**：um I'm still in in that moment of just in that that I'm soaking I'm soaking it in what he did I'm thankful so uh and what he said to us and we pray it blesses you as we let you see a glimpse of it great changes are coming from my household I pray they're coming for
 
 ### 完整英文 Transcript
 

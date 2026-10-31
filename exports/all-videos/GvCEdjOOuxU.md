@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1198；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 70:00–76:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 77:00–81:08 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=0s) · 他描述所见**：hey good morning family how are y'all doing today well thank you for joining us so let's take communion together today all right let's take communion let's enter into that Throne we'll pray real quick I I I'll pray as long as I feel that stiring if let's see if we see anything new if I see anything new I'll
+- **[14:21](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=861s) · 他进行祷告**：Trump and the decisions that he's making and I pray over his mind right now in the name of Jesus that he has the mind of Christ and there's no bad people influencing him making bad decisions that father that he puts up a wall and it's a holy ghost wall around him father with the blood of Jesus Christ that he
+- **[28:12](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=1692s) · 本段原话**：I'm all of a sudden I'm I'm in the summer I'm seeing the the the the trees I'm seeing the heat on the from it I don't know why I'm in the summer but I'm in the summer and we're I'm praying into the summer okay I'm in the month of July
+- **[50:20](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=3020s) · 他描述所见**：one of those faces that were in uh uh uh uh the the The Terminator I saw a face half of a skeleton or face that was metal that was right here and I saw red on this side that it was demonic behind it there was there was demonic eyes over here and it was twoof faced it was split
+- **[63:01](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=3781s) · 他描述所见**：place some it's a very scary place you say about some it's a glorious place for you know when you know I see the glory on the ones that know I want to know I want to know I want to know but the ones that don't they're they have sorrow and they don't know him then we
+- **[77:02](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=4622s) · 本段原话**：English versus praying in the spirit and uh it's Romans 8:26 so too the Holy Spirit comes to our Aid and bears us up in our weakness for we do not know what prayer to offer nor how to offer it worthily as we ought for the spirit himself goes to meet our supplication and pleads in our behalf with
+
 <a id="section-01"></a>
 ## 01. 00:00–06:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=0s) · 他描述所见**：hey good morning family how are y'all doing today well thank you for joining us so let's take communion together today all right let's take communion let's enter into that Throne we'll pray real quick I I I'll pray as long as I feel that stiring if let's see if we see anything new if I see anything new I'll
+- **[02:11](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=131s) · 本段原话**：holy of holies without a rope T tied to your uh ankle because if you walked into the holy of holies and you had sin in you and you were messed up they the priest would fall over dead right there and they'd have to drag them out if the Bell stopped ringing cuz they had a bell on
+- **[04:50](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=290s) · 本段原话**：sound of a mighty rushing wind and they spoke with tongues of fire think about it all that was done Jesus did it all and then the Holy Ghost came and he was able to indwell every single one of us we're no longer walking around all messed up because Jesus Paid the price and we take this communion and we're
+- **[06:42](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=402s) · 本段原话**：you took it all for the whole world and we worship you and we thank you for Jesus Paid the price for us to walk in Victory and we don't have to be busted and disgusted we don't have to do all thank you Father for all that you've done and we take this body in the name
 
 ### 完整英文 Transcript
 
@@ -199,7 +217,14 @@
 <a id="section-02"></a>
 ## 02. 07:00–13:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[07:38](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=458s) · 本段原话**：authority over all principalities and powers and we're seated with you in in the heavenlies just like Ephesians tells us we are Ephesians 6 I will live in Victory because of that and I refuse to go back in that hole no glory to God do you believe it m well it's you got to believe it though you
+- **[08:24](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=504s) · 本段原话**：walk in Victory concerning it in every area of my life thank you Father now father we just we come before your throne boldly and I plead the blood over my eyes I plead the blood over my ears and over my mind and over my spiritual seeing father as a Watchman on the wall as Diana's here father all the
+- **[10:25](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=625s) · 本段原话**：a stranger's voice we will not follow it's a covenant promise that we hear the good Shepherd's voice we hear the good Shepherd's voice we will not follow a familiar Spirit we will not follow a dark angel that's trying to pretend he's light we will only follow the spirit of the Lord and what he has for
+- **[13:10](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=790s) · 他描述所见**：would tell everyone that Jesus Christ is coming and he's coming soon that father that there would be no hindrances with Godly laws and father I thank you Lord that every judge every of those other three that I saw there's three that would try to rise up and cause uh great confusion in these days ahead and we
 
 ### 完整英文 Transcript
 
@@ -369,7 +394,14 @@
 <a id="section-03"></a>
 ## 03. 14:00–20:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[14:21](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=861s) · 他进行祷告**：Trump and the decisions that he's making and I pray over his mind right now in the name of Jesus that he has the mind of Christ and there's no bad people influencing him making bad decisions that father that he puts up a wall and it's a holy ghost wall around him father with the blood of Jesus Christ that he
+- **[17:50](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=1070s) · 本段原话**：in our bank accounts today we'll be prosperous and healthy Even in our marriages our household our jobs our churches they'll be blessed because why we are seeking you we put you first we put you first above our kids above our wife above our husbands we put you first and as as you are the head of the of the household you
+- **[18:52](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=1132s) · 本段原话**：to seek your face and not your hand we want to seek you God and we thank you that father when we seek you we will find you and when we knock the door will be open unto us as we give it will be given unto us good measure press down shaking together and running over
+- **[20:36](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=1236s) · 他表达判断**：missiles out of way away and they'll go they'll be like how did that happen a mighty rushing wind blew the missile out of the way I don't know but all I know is that the angels of the Lord are camped around and about those that fear Him I believe with all my heart that the
 
 ### 完整英文 Transcript
 
@@ -537,7 +569,14 @@
 <a id="section-04"></a>
 ## 04. 21:00–27:59 · 战争与国际事务、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：战争与国际事务、祷告、敬拜与现场互动、教会、复兴与信仰。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[21:00](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=1260s) · 他表达判断**：service men and women right now I believe that your angels are watching over them even with e with the people having evil intentions there will be no Calamity that comes nigh our our our our service people I thank you Father even on our ships our Navy uh and our air force and our Marines and our uh space
+- **[22:38](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=1358s) · 他进行祷告**：missile systems they would get past the the the the the the defensive measures to be able to the infrastructure of a nuclear Iran that there will be no nuclear Iran there will be no nuclear Iran for a nuclear Iran is a threat to all Humanity and we will not have that we pray a
+- **[23:02](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=1382s) · 本段原话**：hedge of protection around our our secret Intel the father that they would hear you and they would go in with their their strategic weapons and annihilate these weapons of mass destruction that no one should fear going to bed at night in any area of the world of a worried about of Iran or
+- **[24:25](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=1465s) · 他描述所见**：you have to learn how to pray in tongues it's easy easier it's easier praying in the tongues it it's praying with the spirit and I'm telling you that's where I see things praying in the English for y'all I I just go my goodness it's like it's it's dry you're pushing you're pushing and I
 
 ### 完整英文 Transcript
 
@@ -653,7 +692,14 @@
 <a id="section-05"></a>
 ## 05. 28:00–34:59 · 预言、梦境与异象
 
-**中文章节摘要**：本段涉及：预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:12](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=1692s) · 本段原话**：I'm all of a sudden I'm I'm in the summer I'm seeing the the the the trees I'm seeing the heat on the from it I don't know why I'm in the summer but I'm in the summer and we're I'm praying into the summer okay I'm in the month of July
+- **[29:20](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=1760s) · 本段原话**：[Music] fourth K St the weeks prior to of of July 4th what's the 24th [Applause]
+- **[32:59](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=1979s) · 他描述所见**：I just saw April I saw the word April the month of April we're back now out of that we went into July now we're back into April oh yeah we're over Easter again [Applause]
+- **[33:29](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=2009s) · 他描述所见**：okay yep we're back in Easter we're on Easter Sunday and back in Australia again I see
 
 ### 完整英文 Transcript
 
@@ -690,7 +736,14 @@
 <a id="section-06"></a>
 ## 06. 35:00–41:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:17](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=2177s) · 本段原话**：go Let it go Let it go Let it go Let it go the first dominoes the first [Music] dominoes
+- **[39:26](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=2366s) · 他描述所见**：okay now I just went from Iraq all the way to South Korea I'm in South Korea right now and I see South Korea Japan South Korea Japan South Korea Financial things I see it
+- **[40:07](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=2407s) · 本段原话**：adoptions of financial things [Music] it's like the water when you shake a bottle of of water in it has a fizzy it's a waiting
+- **[41:12](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=2472s) · 他进行祷告**：Sooners Sooners the Sooners the Sooners the Sooners they were wait they were waiting they were waiting they were waiting for the land they it's April April the month of April we pray over the month of April they pray over the month the Sooners It Was Written real big Sooners
 
 ### 完整英文 Transcript
 
@@ -741,7 +794,14 @@
 <a id="section-07"></a>
 ## 07. 42:00–48:59 · 预言、梦境与异象
 
-**中文章节摘要**：本段涉及：预言、梦境与异象。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:42](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=2562s) · 他描述所见**：will always be I will always be he will make the way he will make the way he will make a way he will make a way I see him making a way he's making a way he's clearing the path he's clearing the path he's clearing the path [Applause]
+- **[43:47](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=2627s) · 他描述所见**：I see big buildings I see great big buildings I see buildings and they're lit up I see building I see wealth I see the wealth I see wealth I see wealth I see wealth buildings buildings buildings buildings this is in this is in South Korea this is in Japan money money money
+- **[46:50](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=2810s) · 他描述所见**：Canada now I see Canada now I see Canada now on the the Pacific the city on the Pacific the leadership there the leadership thereo they want to jump in too they want to jump in too Canada is in trouble can in trouble
+- **[48:44](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=2924s) · 本段原话**：be birthed will baby will be birthed for this a new a new new way of thinking a new
 
 ### 完整英文 Transcript
 
@@ -811,7 +871,14 @@
 <a id="section-08"></a>
 ## 08. 49:00–55:59 · 预言、梦境与异象、AI、科技与监控
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、AI、科技与监控、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、AI、科技与监控展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:20](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=3020s) · 他描述所见**：one of those faces that were in uh uh uh uh the the The Terminator I saw a face half of a skeleton or face that was metal that was right here and I saw red on this side that it was demonic behind it there was there was demonic eyes over here and it was twoof faced it was split
+- **[51:34](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=3094s) · 他描述所见**：AI the whole Foundation but the root the root the root of it I see Roots I see Roots the Roots of it the roots of it is dark this is dark a I I see the B system I see the B system the origin the
+- **[53:16](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=3196s) · 他描述所见**：everything is getting to set into place for is it's like it is like oh I see it one pillar upon another they're all building BLX just keep keep watching keep watching keep watching keep watching you don't know how long this last you don't know how long this last there's window I've given you a
+- **[54:14](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=3254s) · 他描述所见**：man he's talking about the body he's talking about his bride but he's talking about the fruit he's talking about the fruit the fruit all these people there I see them there there's literally all these people and there they're going to hell but his heart is for the Harvest his heart is for the
 
 ### 完整英文 Transcript
 
@@ -901,7 +968,14 @@
 <a id="section-09"></a>
 ## 09. 56:00–62:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[57:56](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=3476s) · 他描述所见**：there's so many of them there's coming a one last push there's coming a great Revival I I just saw Katherine keman I saw a flow of Katherine kman I see a flow of the the anointing I see the deliverances I see the healings I see the goodness of God drawing all men to repentance
+- **[58:26](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=3506s) · 他描述所见**：I see the goodness of God displayed through you and I displayed through you and I to the ones that will yield to the ones that will flow he will flow through you I see a river there will be a flow through you if you yield this day he's looking for the Harvesters for the Harvest is plentiful
+- **[59:29](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=3569s) · 他描述所见**：[Music] it'll be a quick work it will be a quick work M it will be a quick work I see a storm I see the light again but I see a great storm in the East I see a great storm in the east and in this great storm I still see the
+- **[62:24](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=3744s) · 他转述所听到的话**：matters I heard him say Nothing Else Matters nothing else matters in one's life either you know me or you don't he said it here all this other when you stand before him all this other that you were concerned about nothing else matters some is a very scary
 
 ### 完整英文 Transcript
 
@@ -1024,7 +1098,14 @@
 <a id="section-10"></a>
 ## 10. 63:00–69:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[63:01](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=3781s) · 他描述所见**：place some it's a very scary place you say about some it's a glorious place for you know when you know I see the glory on the ones that know I want to know I want to know I want to know but the ones that don't they're they have sorrow and they don't know him then we
+- **[65:25](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=3925s) · 他描述所见**：one last call I see him again he's yelling as loud as he oh
+- **[68:21](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=4101s) · 本段原话**：there's such a great harvest in the youth Satan has tried so hard to come after the youth but I'm coming after them harder and there will be a great harvest in the youth with signs and wonders for a fresh fire a fresh touch and then there's the ones that are just barely on the thread before they go
+- **[69:27](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=4167s) · 本段原话**：importance of this channel the importance of this do you hear it will be birthed out of prayer and there'll be many more rise up with prayer more rising up with prayer just saying yes prayer
 
 ### 完整英文 Transcript
 
@@ -1120,7 +1201,14 @@
 <a id="section-11"></a>
 ## 11. 70:00–76:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[71:17](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=4277s) · 他描述所见**：one just like his word says he leaves the 99 to go after the one even the ones that have turned their backs the great falling away he's still looking in the back field at the one I can see him glancing at him I could see him longing for him right then I see the father I could see Jesus and
+- **[73:30](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=4410s) · 他进行祷告**：people we pray for every single one of them to love Lord find it before it's too late it's the way he looks at the people that are in the backfield he doesn't look at them through judgment he looks at them through yearning you know it's the way he he GL ances at them I love to look at the way he looks
+- **[74:26](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=4466s) · 本段原话**：like if I could just have that moment huh he's wonderful yeah if I could just have a moment I can snatch him out of hell and yet the church is so busy wanting to leave and yet he looks at him and goes but you don't understand that one that back that that one out of the 99 I can
+- **[75:26](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=4526s) · 他描述所见**：their hearts we want to leave we want to leave we it's been rough it's been tough whatever but he's looking at the one and he was just glancing at it that one longing just for that one to leave the 99 oh is so touching looking in his face towards that person I saw it
 
 ### 完整英文 Transcript
 
@@ -1254,7 +1342,14 @@
 <a id="section-12"></a>
 ## 12. 77:00–81:08 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[77:02](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=4622s) · 本段原话**：English versus praying in the spirit and uh it's Romans 8:26 so too the Holy Spirit comes to our Aid and bears us up in our weakness for we do not know what prayer to offer nor how to offer it worthily as we ought for the spirit himself goes to meet our supplication and pleads in our behalf with
+- **[77:23](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=4643s) · 他表达判断**：unspeakable yearnings and groaning is too deep for utterance yeah it's beautiful yeah I love that scripture thank you for that scripture what was that again Romans what um 8 I think it was Romans 8:26 8:26 read it again and again Roman 8:26 well we pray this video bless you today I truly do I pray you got touch
+- **[78:21](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=4701s) · 本段原话**：things you can do Price is Right as on if you sit at his feet nothing else matters I don't I just I don't don't understand it such a rush to go nowhere csis on is that still something I don't know hey his presence there's fullness
+- **[80:27](https://www.youtube.com/watch?v=GvCEdjOOuxU&t=4827s) · 本段原话**：to seek Him and we're going to find him and we're going to be the ones that say yes and we'll help bring in the Harvest in these last days comment something nice down below don't be a troll but be a blessing thank you uh click the notification Bell click the thumbs up and uh like I said it helps us God
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1550；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 54:00–59:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-10)
 - [11. 60:00–64:25 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:10](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=70s) · 他表达判断**：what I wanted to tell you all that Billy Burke is coming to Tulsa Oklahoma uh December the 8th and the 9th um and he's coming to Millennial church I believe so a lot of people are always asking me hey Brandon uh can you let us know whenever you know of a meeting that's coming uh that that you believe
+- **[13:08](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=788s) · 本段原话**：and was watching and watching the room but this is what I thought was interesting when fear and doubt and unbelief from the doctors coming into the room didn't they always saying this is going to happen you got this is impossible you started believing the lie too and we both did cuz it was our first
+- **[25:25](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=1525s) · 他表达判断**：fully relying on God being fully that's just way it is and and until and I believe people who have a lot of Education nothing wrong with education but you've got like you got a master's degree you have a doctorate and everything you're just like they you only know what your head knows but you
+- **[37:12](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=2232s) · 他表达判断**：Victory I believe it with all my heart he's done it all being fully persuaded so we're going to take communion today and we're going to believe God with you for your Miracle no matter what how big you think it is you may say this is impossible brother Brennan no know all things are possible but this is this is
+- **[49:12](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=2952s) · 本段原话**：term nothing missing nothing broken father that you you said in your word that their Vine will not cast its fruit before it's time and that they would have easy uh deliveries with healthy babies no Downs no autism no no sickness no disease there is no colic these babies will not have colic they will not
+- **[60:00](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=3600s) · 他表达判断**：witnessing tools is what we call it the uh put a smile on your face and a song in your heart Jesus loves you hopefully ours are come tomorrow or next day when did they say it's coming I think they said Saturday man they're taking two they're taking long one day it was supposed to be three days ago four days
+
 <a id="section-01"></a>
 ## 01. 00:00–05:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:10](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=70s) · 他表达判断**：what I wanted to tell you all that Billy Burke is coming to Tulsa Oklahoma uh December the 8th and the 9th um and he's coming to Millennial church I believe so a lot of people are always asking me hey Brandon uh can you let us know whenever you know of a meeting that's coming uh that that you believe
+- **[02:38](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=158s) · 他表达判断**：Burke is I believe a vessel that the Lord is using uh to bring forth uh healings into the nation around the world I I mean I'm just excited for him and his ministry because when I went last time in eala Oklahoma um man the presence of the Lord was strong it was it radically changed me
+- **[04:07](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=247s) · 本段原话**：a uh conference type thing at at um glorious Church Fellowship with Pastor chipm they're going to do a meeting for a week uh T talking about uh end times and the Rapture and all kinds of cool stuff like that they they talk about the Thousand-Year reign and what what we're going to be doing uh and back it up with
+- **[05:17](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=317s) · 他表达判断**：to you I'm sure it will be uh I believe the first part of uh February um of of 2025 so I just want to encourage you all if you're interested to come on out and um I'll be there some and I don't know if I'll go to ver all of it but I will
 
 ### 完整英文 Transcript
 
@@ -180,7 +198,14 @@
 <a id="section-02"></a>
 ## 02. 06:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[06:46](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=406s) · 他表达判断**：testimony we we you remember Diana prayed for um babies for people to have babies and to get pregnant and and and they they weren't able to get pregnant or rece conceive in the last week I believe she's had several emails of ladies contacting her saying we weren't able to conceive a baby for over a year or more some people
+- **[08:31](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=511s) · 他表达判断**：received it the baby's there and now we're just going to believe God for a full term and it's going to be a beautiful healthy child of course and then nothing missing nothing broken shalom shalom over this whole uh pregnancy and that you'll have um easy no morning sicknesses no nothing you know and so I believe that we you know I
+- **[09:45](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=585s) · 他表达判断**：of Israel did not have uh uh bad births and the Egyptians it talks about in the word that they they marveled at how they had such easy births and I and so we latched gone to that scripture talking about it I believe it was in numbers um where they um went through uh birth easy
+- **[11:40](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=700s) · 本段原话**：see your your stomach Contracting it was Contracting you could see your body doing it was going through the labor MH it wasn't like she was just laying there and it was like there was nothing happening she act her body was going through the the everything her even her blood her her heart rate would uh
 
 ### 完整英文 Transcript
 
@@ -336,7 +361,14 @@
 <a id="section-03"></a>
 ## 03. 12:00–17:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[13:08](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=788s) · 本段原话**：and was watching and watching the room but this is what I thought was interesting when fear and doubt and unbelief from the doctors coming into the room didn't they always saying this is going to happen you got this is impossible you started believing the lie too and we both did cuz it was our first
+- **[14:05](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=845s) · 本段原话**：people in your in your uh Circle your family the ones that you love the most speaking to you telling you what you're believing is not right when it's biblical and they see the fruit of it the enemy comes in immediately to rob you of the blessing of a supernatural child birth and that Angel by what we
+- **[15:03](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=903s) · 他描述所见**：everybody knows what it is it's the stuff that makes you it makes you it makes you speeds up your labor labor pushes you and to dilate faster and so when all that started going on I saw the angel take his hand off and disappear out of all of the fear and the confusion do you know whenever the um
+- **[16:55](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=1015s) · 本段原话**：from fear fear tolerated is faith contaminated and we went from zero to 100 feeling the paint she did and she started screaming and travail and I started screaming and I started I started yelling like a at the angel where did you go put your hand back on my wife I was freaking out
 
 ### 完整英文 Transcript
 
@@ -497,7 +529,14 @@
 <a id="section-04"></a>
 ## 04. 18:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:23](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=1103s) · 本段原话**：all I felt was my stomach tightening up and then it would just relax and I never felt a single thing other than like when your muscle like tightens and there was no pain involved like when you like when you flex your arm yeah like it just like a like kind of like a zap like a zap but
+- **[20:11](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=1211s) · 本段原话**：delivered and everything her abar scores was perfect everything was perfect nothing was wrong and so it was all just fear MH all fear and that's what I was trying to say fear tolerated is Faith contaminated and what happens whenever you allow somebody in your room you may have uh a total peace about what you're going through in your
+- **[21:10](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=1270s) · 他讨论新闻或报道**：you got a bad report with this you're going to die doctors are doing what they know how to do by their knowledge from um what they learned in school they don't understand a supernatural God and a supernatural thing a lot of them they now if you find a good doctor that does then praise God and they in their
+- **[23:13](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=1393s) · 本段原话**：said that I'm going to be the father of many nations that I'm going to have a son and and and even in the deadness of his Sarah's womb his wife 100 years old 100 years old she's already been through menopause her eggs are dried up like raisins I mean you know what I'm saying
 
 ### 完整英文 Transcript
 
@@ -650,7 +689,14 @@
 <a id="section-05"></a>
 ## 05. 24:00–29:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:25](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=1525s) · 他表达判断**：fully relying on God being fully that's just way it is and and until and I believe people who have a lot of Education nothing wrong with education but you've got like you got a master's degree you have a doctorate and everything you're just like they you only know what your head knows but you
+- **[26:47](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=1607s) · 本段原话**：were human beings just like me hey hey Diana you're 100 years old I'm 100y old we're going to have another baby yeah can you imagine saying that God told me Diana and she's like I'm I went through menopause 40 years ago you know and you're like you know it's just being real but
+- **[27:49](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=1669s) · 他描述所见**：Faith saying I'm not moved by what I see I'm not moved by what I feel I'm moved by what the word of God says and regardless of it sagger not at the promise of God through unbelief we learned a valuable lesson and we're still learning to when people around you uh can't get it that's fine but you're not
+- **[29:18](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=1758s) · 本段原话**：you're believing for be be confident in what you're asking me for don't be don't be swayed by negative opinion yes so you know I know that like I said you may say well that's easier said than done brother Brandon I've lived it I've seen it I'm old now and I've never seen healing I've never seen this another
 
 ### 完整英文 Transcript
 
@@ -803,7 +849,14 @@
 <a id="section-06"></a>
 ## 06. 30:00–35:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:18](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=1818s) · 他表达判断**：you keep living it it keeps and it keeps snowballing and I believe when you sew a seed you believe for a harvest and every seed produces after own kind every single thing turns by the word of God finding scripture and for what you're believing for uh no matter what the circumstances are and I and it was it I just felt like
+- **[30:42](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=1842s) · 本段原话**：it was important to tell you all I never saw that angel again I started yelling immature freaking out cuz she's going through pain I'm starting yelling at this the wall where' the angel go you know freaking out acting a fool so immature Megan Megan's here and she was healthy and her abgar scores and so now
+- **[32:32](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=1952s) · 本段原话**：going to receive their Miracle but you're laying there on your bed and you need a miracle do you believe Jesus will heal you I want you to ask yourself and be truthful and real about it don't sit there and play religious don't be fake and don't be all like hypers spiritual well I he might no no no no do you
+- **[34:57](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=2097s) · 本段原话**：from you to take sin and sickness away from you to he he to he took it all sin disease um addictions it said he became a curse so that we don't have to Galatians 3:13 says that Christ redeemed us from the curse of law all the curses in the law is Deuteronomy 28 and he took it all on the
 
 ### 完整英文 Transcript
 
@@ -955,7 +1008,14 @@
 <a id="section-07"></a>
 ## 07. 36:00–41:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[37:12](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=2232s) · 他表达判断**：Victory I believe it with all my heart he's done it all being fully persuaded so we're going to take communion today and we're going to believe God with you for your Miracle no matter what how big you think it is you may say this is impossible brother Brennan no know all things are possible but this is this is
+- **[38:34](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=2314s) · 本段原话**：Sunday next Wednesday well I'll get it maybe next time I'm here I didn't get it today I didn't Phil I didn't see the fruit of it he said why not now so I'm going to ask you the same question why not now why not now believe for your baby believe for your turnaround in your
+- **[39:55](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=2395s) · 他描述所见**：wasn't the Manifest today all the way which is I always stay on God's side that's what I do with Megan I never want to get mad because of what I see my daughter going through God is a good god and the devil is a bad God yeah there's so many times I've gotten
+- **[40:12](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=2412s) · 他描述所见**：irritated because Megan's going through something at 19 20 years old and you look at the circumstance and you go I don't want to deal with this anymore but I still always say in my heart God you're good I always stay on God's side father I'm not moved by what I see I'm not
 
 ### 完整英文 Transcript
 
@@ -1103,7 +1163,14 @@
 <a id="section-08"></a>
 ## 08. 42:00–47:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:37](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=2557s) · 本段原话**：we ply the blood and we take our seat with you in the heavenlies in the name of Jesus far above all principalities and powers and might spiritual wickedness and high places and all the darkness we plead the blood that no weapon formed against us will prosper A thousand shall fall at our side and
+- **[43:48](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=2628s) · 本段原话**：greeing we believe right now in the name of Jesus we'll be your two we're going to be your two we're going to believe be your to and we're going to agree with you for your healing today for your deliverance for your financial breakthrough for jobs and better jobs for raises and bonuses benefit sales commission growth in
+- **[44:08](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=2648s) · 他表达判断**：business Estates inheritance rebates and returns checks in the maill gift and surprises finding money bills paid off bills decrease blessing increase I believe it so father right now in the name of Jesus we use our Authority and we tell the devil you are under our feet we call our bodies healed and whole and
+- **[45:11](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=2711s) · 他描述所见**：father you sent your word and you healed them for you said there your words are life to those that find them and health to all their flesh and we call their flesh healed and whole and well in the name of Jesus we call their bodies their hearts their minds I I just I see hearts
 
 ### 完整英文 Transcript
 
@@ -1251,7 +1318,14 @@
 <a id="section-09"></a>
 ## 09. 48:00–53:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[49:12](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=2952s) · 本段原话**：term nothing missing nothing broken father that you you said in your word that their Vine will not cast its fruit before it's time and that they would have easy uh deliveries with healthy babies no Downs no autism no no sickness no disease there is no colic these babies will not have colic they will not
+- **[52:04](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=3124s) · 他表达判断**：with you spiritually they're going from glory to glory in the natural in their bodies father every single woman that they will not have hard mental pusle symptoms do you believe that and I believe it for these women father and I thank you Father for even the men their prostates and over their bodies and
+- **[52:39](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=3159s) · 他描述所见**：you have the fire on you right now in the name of Jesus driving out all of it there's cancer that's being healed right now there's cancers that are being healed right now you feel the fire all over you and you are being completely delivered from this I see your eyes eyes of of of of of with h cataracts and
+- **[53:02](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=3182s) · 他描述所见**：detached eyes and the the the the Eye what's that DET detach Rea yeah I call no the degenerative degenerative diseases yes in the eyes I've seen it in the eyes when the eyes is is is like the this with the cones and the stuff going on their eyes I saw it being healed right
 
 ### 完整英文 Transcript
 
@@ -1408,7 +1482,14 @@
 <a id="section-10"></a>
 ## 10. 54:00–59:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[54:01](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=3241s) · 他描述所见**：feel warmth on those eyes right now feel that warmth of the Holy Spirit the the warmth is the Lord is touching those eyes right now oh I see ears and the Lord is healing ears right now I speak to those ears and to those little bones and the fragments in the ears and the cartilage and the things
+- **[55:08](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=3308s) · 他进行祷告**：Believe for Elon Musk we say in the name of Jesus Elon Musk you are born again Trump you're radically saved and on fire for Jesus father I pray for Elon Musk right now in the name of Jesus and over his family and I call him born again and I say Satan you take your hands off of
+- **[58:01](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=3481s) · 本段原话**：you're new here and you haven't subscribed this is your first video to watch or if you have been watching our videos and you haven't subscribed please subscribe to our Channel it is a real blessing to us when you subscribe because it it it is helping get the the gospel spread throughout the whole world
+- **[59:33](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=3573s) · 本段原话**：t-shirt it has snow on it from all the Christmas stuff we put behind we changed to put a truck around us today we like having fun we just try to make things fun but Jesus the Healer we're putting our stuff out um hopefully you've gotten some of it in the mail we got our our t-shirts coming
 
 ### 完整英文 Transcript
 
@@ -1562,7 +1643,14 @@
 <a id="section-11"></a>
 ## 11. 60:00–64:25 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[60:00](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=3600s) · 他表达判断**：witnessing tools is what we call it the uh put a smile on your face and a song in your heart Jesus loves you hopefully ours are come tomorrow or next day when did they say it's coming I think they said Saturday man they're taking two they're taking long one day it was supposed to be three days ago four days
+- **[60:17](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=3617s) · 本段原话**：ago now they're taking too long hopefully they'll if the people order they get it for Christmas presents but we'll see I mean I I thought it was cool I like it I can't wait so I'm going to start wearing it every single video yeah cuz it's really awesome but um I love Good t-shirts they're hard to find
+- **[61:45](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=3705s) · 本段原话**：weren't they yes yeah they were flying above soed about that video cuz the Eagles were the best yeah they were flying over the top W you hear the Lord loveing on for praying for uh president Trump yeah mhm that was neat that was really a moment yeah it was neat yeah they are big birds man they're huge big
+- **[63:43](https://www.youtube.com/watch?v=WQCtH3CHZ1A&t=3823s) · 本段原话**：put one of those deer cameras up there emotion detected goes like I say it comes down and layings on it and starts looking at it and turn in its head it's like he's like hey how are you doing they F to watch I want to try to do more videos outside I like it out
 
 ### 完整英文 Transcript
 

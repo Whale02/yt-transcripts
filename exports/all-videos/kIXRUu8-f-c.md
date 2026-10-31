@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 388；**章节数**: 4；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -14,10 +14,26 @@
 - [03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-03)
 - [04. 12:00–15:30 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-04)
 
+## 全片概述与 Key Points
+
+全片共 4 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:12](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=12s) · 本段原话**：the blessings that you all keep saying bless you and all the stuff you know there's there's several people that are not being too nice but for the most part I have a lot of support so I just wanted to say thank you I am not a fortune teller please do not email my house
+- **[04:00](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=240s) · 他进行祷告**：there we we're almost there we're right at the Finish Line guys we we just got to push just a little bit harder here we got to pray and God's going to do some great things in this earth still with a Revival there's going to be some people he's going to bring in that have been
+- **[08:18](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=498s) · 他描述所见**：and they shot them all and killed them okay I saw them have a briefcase a briefcase I'm not going to say the word it's a briefcase and it's and it's very powerful okay they drew they they took the ship and it went to in Washington Harbor okay it was where it was right and it was where the
+- **[12:40](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=760s) · 本段原话**：you to practice my my voice I want you to practice this and it was just private between me and him and he said I'm going to tell you about supporting this because I love sports it's one of my big things football basketball baseball all of it I watch it I love it it's amazing
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:12](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=12s) · 本段原话**：the blessings that you all keep saying bless you and all the stuff you know there's there's several people that are not being too nice but for the most part I have a lot of support so I just wanted to say thank you I am not a fortune teller please do not email my house
+- **[00:44](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=44s) · 本段原话**：the EMP attack people are really concerned about um about the um the water poisoning whenever I was taking care of my yard work the Lord re he spoke to me and he said there's there's a shifting you can I could feel it there's a pushback of the Demonic um assignment that was upon America our
+- **[01:28](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=88s) · 本段原话**：said rambos out there like trying to fight the war by herself if we will come together and fight together we're able to move mountains in in its amazing what we can accomplish just with five minutes of prayer a day I'm not bringing it in like I said for fear I'm bringing this to you to help me
+- **[02:43](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=163s) · 本段原话**：these green there's Green Pastures were all before me the grass was so green it looked um almost transparent it was beautiful green grass I have never seen this kind of grass on the earth how beautiful and Lush and green this was and my wife was running it from the distance and she was
 
 ### 完整英文 Transcript
 
@@ -127,7 +143,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=240s) · 他进行祷告**：there we we're almost there we're right at the Finish Line guys we we just got to push just a little bit harder here we got to pray and God's going to do some great things in this earth still with a Revival there's going to be some people he's going to bring in that have been
+- **[04:44](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=284s) · 本段原话**：that you're believing for believing for finances you may not have anything to eat but my God said he never seen the righteous forsaken or his seed begging bread he'll bring forth the finances that you need I just believe in a faithful God if he would bring the Raven to feed Elijah he'll bring he'll bring a raven to feed
+- **[05:05](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=305s) · 他描述所见**：you now I just want to tell you all uh What the Lord Has warned me now about what's coming and what we can avoid in prayer and and what we can we can stop excuse me um I saw a um this is this is this is something we'll uh remind me when I was doing my yard
+- **[05:28](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=328s) · 他描述所见**：work tonight this is what I'm trying to tell you and he said I want you to tell them to pray for Donald Trump I saw him walking down on a cobblestone path I saw it was like tropical I don't know where he was but I saw a woman now sometimes I'm seeing in the spirit and it's not
 
 ### 完整英文 Transcript
 
@@ -240,7 +263,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:18](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=498s) · 他描述所见**：and they shot them all and killed them okay I saw them have a briefcase a briefcase I'm not going to say the word it's a briefcase and it's and it's very powerful okay they drew they they took the ship and it went to in Washington Harbor okay it was where it was right and it was where the
+- **[09:34](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=574s) · 他进行祷告**：continual basis for what he has for the end times for the for the church for for for uh the the Thousand Years you all we have a bright future ahead of us God has a great plan for us and um number three he had me pray against big large Gatherings of people for Mass you know Mass uh shootings okay
+- **[10:00](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=600s) · 他描述所见**：praying against this this is an assignment uh that is being sent to try to take the Second Amendment away from the the people okay and they're going to run on campaigns in 2024 a lot of it will be ran against the Second Amendment and taking things away and so I saw these these big Mass events
+- **[10:42](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=642s) · 他表达判断**：supposed to take place and I interceded for this hard hard I prayed a facet believing God for protection that this stuff didn't happen nothing happened now I don't know when it happens again I believe probably next year so we're going to pray that these major events big gatherings of people for nothing to
 
 ### 完整英文 Transcript
 
@@ -341,7 +371,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:30 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:40](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=760s) · 本段原话**：you to practice my my voice I want you to practice this and it was just private between me and him and he said I'm going to tell you about supporting this because I love sports it's one of my big things football basketball baseball all of it I watch it I love it it's amazing
+- **[14:03](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=843s) · 本段原话**：gonna get he talks to me about when the fall will start when the first cold front's gonna come and he tells me way in advance and he said I want you to write this down and he said Summer's gonna have this many hurricanes and in the Gulf Coast this is how many hurricanes are going to be here this is
+- **[14:19](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=859s) · 他进行祷告**：how big they're going to be you can pray against them pray for safety for people and He will show me then he shows me about tornado season he shows me about the storms and that's how I've learned to develop my spiritual ears practicing his presence and sometimes you you miss it you miss it it's okay
+- **[14:37](https://www.youtube.com/watch?v=kIXRUu8-f-c&t=877s) · 他转述所听到的话**：we're human but you just keep picking yourself back up and say Lord I missed that man I thought Lord I thought I heard you right on that but but I didn't and you humble yourself and you keep going you don't keep you don't kick yourself when you fall down you you rise back up
 
 ### 完整英文 Transcript
 

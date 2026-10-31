@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 412；**章节数**: 5；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -15,10 +15,27 @@
 - [04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-04)
 - [05. 16:00–17:56 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
 
+## 全片概述与 Key Points
+
+全片共 5 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=0s) · 他描述所见**：hey good morning family I'm excited to be with you all today I have a uh another cool prophetic visitation Vision uh dream slash whatever you want to call it from someone that uh sent me from that Mina Jones I'm excited about this one this is about actually uh the Rapture and the US transforming into our
+- **[04:03](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=243s) · 本段原话**：almost like they read the Curiosity of my mind to know who they were gathered around as the path cleared there he stood Yeshua dressed in a beautiful floorlength white robe that seemed to Shimmer with lights he had a gold crown upon his head and a gold sash tied around his waist he was absolutely
+- **[08:00](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=480s) · 他描述所见**：society without it in another scene I was looking through a small window outside I saw complete chaos mhm this is what I saw the the complete chaos yep everything was moving at rapid speed as if someone had pressed the fast forward button on a movie I saw people in great distress famine disease and much death I
+- **[12:00](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=720s) · 他描述所见**：mystery Babylon being New York and you know there the other man that had the vision now she's seeing it and you know there there's a lot of confirmation through God's people warning us of what's coming I all I know is is I want to be out on the first load Jesus is coming I believe with all my
+- **[16:00](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=960s) · 他进行祷告**：and the Lord paid the price for you so father I just pray healing over their bodies healing over their minds I call Deliverance over them I thank you that father they have a blessed day they're blessed coming in they're blessed going out good days are ahead of them father I pray shalom shalom peace that passes all
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=0s) · 他描述所见**：hey good morning family I'm excited to be with you all today I have a uh another cool prophetic visitation Vision uh dream slash whatever you want to call it from someone that uh sent me from that Mina Jones I'm excited about this one this is about actually uh the Rapture and the US transforming into our
+- **[01:22](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=82s) · 他表达判断**：glory of the Lord upon this Earth on the remnant you know I I believe it could happen this summer if we see it this summer and it starts like in you know May June July area we could be out of here by October I I really truly believe that's the kind of a window that we
+- **[02:37](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=157s) · 他转述所听到的话**：allowed to experience the catching away I heard a loud sound it was that of a trumpet but more like a chofar I was looking up at the sky I remember seeing the clouds part as a glowing light broke through I began to ascend quickly I remember calling the name of the Lord over and over as it seemed I was picking
+- **[03:02](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=182s) · 他描述所见**：up speed I saw others but I couldn't see them clearly it was like I saw white silhouettes of people being pulled up with me perhaps this had to do with a transformation that takes place mentioned by the Apostle Paul in 1 Corinthians 15:52 it's so beautiful I can't wait I then found myself in a place a
 
 ### 完整英文 Transcript
 
@@ -116,7 +133,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 疾病、医疗与药品、经济、银行与市场
 
-**中文章节摘要**：本段涉及：疾病、医疗与药品、经济、银行与市场、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕疾病、医疗与药品、经济、银行与市场展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:03](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=243s) · 本段原话**：almost like they read the Curiosity of my mind to know who they were gathered around as the path cleared there he stood Yeshua dressed in a beautiful floorlength white robe that seemed to Shimmer with lights he had a gold crown upon his head and a gold sash tied around his waist he was absolutely
+- **[05:11](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=311s) · 他描述所见**：Rapture har Haro here on Earth I saw an unknown Highway here in the United States there were wrecked Vehicles piled up everywhere and some were on fire I was given the understanding that the mass accidents were not so much because too many people had disappeared but because a person in this car or that
+- **[06:42](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=402s) · 本段原话**：there's another thing that I've warned you all that's about to take place that the Lord keeps telling me about okay so they're already explaining away what's happening with about the pandemic so the so I I just I found that fascinating it stood out to me and I was like whoa okay go ahead sorry interrupt I just I I have
+- **[07:22](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=442s) · 他转述所听到的话**：rolled out after covid the pressure to get vaccinated and tracked had spread worldwide the leaders used what had transpired as a bridge to introduce a new biometric system that would count and track the people I heard leaders say that just as it was important during the pandemic that people worked together even more so now and that it was
 
 ### 完整英文 Transcript
 
@@ -213,7 +237,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=480s) · 他描述所见**：society without it in another scene I was looking through a small window outside I saw complete chaos mhm this is what I saw the the complete chaos yep everything was moving at rapid speed as if someone had pressed the fast forward button on a movie I saw people in great distress famine disease and much death I
+- **[08:28](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=508s) · 他描述所见**：saw meteor showers a fire falling upon the Earth massive earthquakes and worldwide droughts I saw military tanks and soldiers from many nations marching to war then finally I saw the sky part and the Lord of hosts with 10,000,000 of his Elite returning to Earth I saw his foot touched down on the Mount of Olives and as the ball of his
+- **[10:28](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=628s) · 本段原话**：still battling with bitterness unforgiveness fear perversion and pride seek him while you can still yet find him for the door is closing as with all things take this to prayer for confirmation I I that says it all it's so exciting yeah isn't it that Jesus is coming you know and she she and
+- **[11:26](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=686s) · 他描述所见**：explain away but he came on TV maybe she see we all see pieces we all have pieces I don't see it all I I didn't see a lot of things about it but she saw some things I see some things you know somebody else will see some and I told you all about the other man that saw the
 
 ### 完整英文 Transcript
 
@@ -307,7 +338,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=720s) · 他描述所见**：mystery Babylon being New York and you know there the other man that had the vision now she's seeing it and you know there there's a lot of confirmation through God's people warning us of what's coming I all I know is is I want to be out on the first load Jesus is coming I believe with all my
+- **[12:35](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=755s) · 本段原话**：about to take place with the the marriage supper and the lights and the everything that's decorated how beautiful it is and the parade that they're going to have for us and the family members that are waiting on us to come home and I just want to encourage you all it's not all doom and gloom yes
+- **[13:42](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=822s) · 他表达判断**：Revival I believe we will we will walk in those those suits of white you know the That Glory on us and we will touch people and they will be healed by the power of God and so um you know I I I just I'm always looking for him to come quickly you you know we may have a
+- **[14:00](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=840s) · 本段原话**：couple years left we may have five six years left but I'm just I'm just telling you all I have an urgency inside to be prepared so whatever no man knows the day of the hour but I just I'm telling you to be watching carefully and be be looking for him with your with your oil
 
 ### 完整英文 Transcript
 
@@ -419,7 +457,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–17:56 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=960s) · 他进行祷告**：and the Lord paid the price for you so father I just pray healing over their bodies healing over their minds I call Deliverance over them I thank you that father they have a blessed day they're blessed coming in they're blessed going out good days are ahead of them father I pray shalom shalom peace that passes all
+- **[16:20](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=980s) · 他进行祷告**：understanding over every single person that's over the on this YouTube channel watching me today I pray blessing and increase of multiplication and favor over them Father to be a blessing to those around us that we are the salt we're just not salted that we are the salt we haven't just been a little sprinkling of
+- **[16:55](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=1015s) · 他进行祷告**：Christ as 2 Timothy 1:7 says that God has not given us a spirit of fear but of power and of love and of of a sound mind and I just thank you for it today Lord we pray healing and wholeness and wellness over them Deliverance over their marriages over their children over drug addiction over addictions of all
+- **[17:50](https://www.youtube.com/watch?v=ebEeA5M-xaU&t=1070s) · 本段原话**：heart Jesus loves you so much and we love you and we will see you all next time God bless you all and have a wonderful day bye-bye
 
 ### 完整英文 Transcript
 

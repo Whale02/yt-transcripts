@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 766；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 - [09. 32:00–32:56 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=0s) · 他进行祷告**：hey good morning family I have another video for you all today um I want I'm going to talk to you all about being the friend of God and uh more so what that means to me but what what I what I feel in my heart that you all need to know you know I pray for people like I told
+- **[08:59](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=539s) · 他描述所见**：Mysteries and the secret things and if you have anything to show me today Lord not in the flesh I thank you that I see what I'm supposed to see I hear what I'm supposed to hear from you that you said I will hear your voice and a stranger's voice I'll not follow now Satan I bind
+- **[12:40](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=760s) · 他表达判断**：have a relationship with somebody and and talk to them but they don't know you you can have a conversation at church but you still don't know him you probably really do not know your pastor you probably don't and he comes up there and preaches at you for 30 minutes minutes or an hour or whatever every
+- **[20:00](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1200s) · 本段原话**：every couple of days do you casually conversate with him maybe on the way to work or praying in the shower maybe you give them like 5 10 minutes but it's always an agenda of what you need you have all this list of needs and wants and desires which is not a bad thing it's coming different in a deeper
+- **[24:00](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1440s) · 他进行祷告**：single one of them that are represented here today Father I bless them in the name of Jesus for the people who've blessed me and helped me father I pray over all their finances God I thank you Father that every single need they have is met in the name of Jesus I thank you
+- **[32:02](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1922s) · 本段原话**：all for watching this video I thank you for for spending time with me today uh if this video blessed you all if you could please click that like button please click click that subscribe button if you haven't already subscribed uh click the notification Bell you are helping get the gospel throughout the world when you do that literally we are
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=0s) · 他进行祷告**：hey good morning family I have another video for you all today um I want I'm going to talk to you all about being the friend of God and uh more so what that means to me but what what I what I feel in my heart that you all need to know you know I pray for people like I told
+- **[00:57](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=57s) · 本段原话**：videos you've made over 100 videos do you feel like they know you and I said no Lord they they don't know me at all and I said they may they know a lot about me they know a lot about my my history of my life and and my and things like that and things that you've done
+- **[02:17](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=137s) · 本段原话**：married there's an intimacy that develops Beyond a boyfriend and girlfriend beyond anything you can comprehend of course most people if you've been married for a while you know I mean I've been married 23 years so you you you you start to really know that individual like intimate every every you know they you know their likes you know
+- **[03:02](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=182s) · 他进行祷告**：they may volunteer maybe once a month and they have a a hour service they go to that hour service they may pray for 10 minutes a day and they may they may uh read their Bible for five minutes a day but just think about this what's mirit if you did that exact same thing with your spouse
 
 ### 完整英文 Transcript
 
@@ -123,7 +141,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:15](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=255s) · 本段原话**：have all this stuff going on in my work you know I'm having a bad my boss is a real jerk father and I and I've got all this going on at work and and I have this deadline and could you help me with some money all that and then you turn around okay amen and then you're gone
+- **[04:32](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=272s) · 本段原话**：and then and he don't hear from you anymore that day other than when you need something again and every single time you go to the Lord you need something again you don't really ever hear his heart prayer is a two-way convers he's going to talk to you and you're going to talk to him
+- **[05:48](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=348s) · 他进行祷告**：those that seek me will find me those that knock I'll open the door unto him relationship is developed by dayto day all day long it says the Bible says to pray without ceasing seeking him and you'll find him that means so that automatically is telling me that God is hiding in some way it's like hide and
+- **[07:14](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=434s) · 他进行祷告**：him to touch my agenda I pray for his agenda for me mirroring it back and saying God not my will but yours be done how can I come up higher in my thinking to have a the the Bible says that you have the mind of Christ you can think like Christ thinks by meditating on his word for one
 
 ### 完整英文 Transcript
 
@@ -220,7 +245,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:59](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=539s) · 他描述所见**：Mysteries and the secret things and if you have anything to show me today Lord not in the flesh I thank you that I see what I'm supposed to see I hear what I'm supposed to hear from you that you said I will hear your voice and a stranger's voice I'll not follow now Satan I bind
+- **[09:20](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=560s) · 本段原话**：you in the name of Jesus and I command you to Bow your knee you get out of here you leave me alone and I plead the blood of over my prayer time I plead the blood over me that I hear the Lord's voice and I'm not going to be tormented by the Tormentor and go to him with
+- **[09:38](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=578s) · 本段原话**：worship a f songs and I'm going to tell you what really blesses me is Kim Clement he has worshiped things on YouTube and I listen to him with him worshiping the mountain of the Lord and I and I record it on my phone and I and and I put it on repeat the same thing over and over and
+- **[10:52](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=652s) · 他表达判断**：what I want you to all think about lot was in Sodom and Gomorrah lot was Abraham's cousin right I believe that was his nephew right he was I mean Abraham that was Abraham's nephew so he's in the midst of all the trash going on he don't even know that that Sodom and gomorra is about to be judged
 
 ### 完整英文 Transcript
 
@@ -322,7 +354,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:40](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=760s) · 他表达判断**：have a relationship with somebody and and talk to them but they don't know you you can have a conversation at church but you still don't know him you probably really do not know your pastor you probably don't and he comes up there and preaches at you for 30 minutes minutes or an hour or whatever every
+- **[13:00](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=780s) · 本段原话**：Sunday if you go to church regularly but you don't know his intimacy that he is in his home behind his for that's what I'm talking about you can get to know the father in that deep of a relationship that he will come and start sharing and talking to you about the hidden things the secret
+- **[14:37](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=877s) · 本段原话**：coffee let's go out and and and play outside let's do this because they're asking always to be at your feet and to do something with you then the one that's going hey I'm going to go hang out with my friends I don't want to have time for you I'll see y'all later bye I'll talk to you in a
+- **[15:30](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=930s) · 本段原话**：these conversations not just five minutes time you have hours of conversations because you love them why because you have comp you have a you have this this this burning desire to know your spouse because you love them you bear you bore yourself with them you're Covenant does that make sense um that's the way it is with the Lord and
 
 ### 完整英文 Transcript
 
@@ -430,7 +469,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=960s) · 本段原话**：they want to see things and they want to have they want to see angels and everything it doesn't come with a shallow relationship it comes with with with with with refiner fire and a lot of times it's like a good marriage is always tested you if you you people always say well we never argue we
+- **[17:15](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1035s) · 他描述所见**：how hard these trial is I worship you father I keep my eyes on you father I will not be moved by what I see I'm not moved by what I feel I'm moved by what the word of God say says no matter if I come out of this uh with with a little
+- **[17:33](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1053s) · 本段原话**：dirt on me or whatever I'm going to keep praising you keeping your eyes on him father I'm hurting I'm broken and you just keep pushing and you make that relationship work and you be real with him when you get real with God God will get real with you it's not fake he knows the the the secrets of
+- **[19:05](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1145s) · 本段原话**：to that person on the phone when you're dating somebody you can talk to that person on the phone for 45 minutes and it feels like f five seconds and you go wow we've been on the phone for over an hour I doesn't even seem like it because you've been on the phone because you've
 
 ### 完整英文 Transcript
 
@@ -543,7 +589,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1200s) · 本段原话**：every couple of days do you casually conversate with him maybe on the way to work or praying in the shower maybe you give them like 5 10 minutes but it's always an agenda of what you need you have all this list of needs and wants and desires which is not a bad thing it's coming different in a deeper
+- **[20:25](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1225s) · 本段原话**：relationship being more intimate with him him because he loves you and he desires intimacy with his children just like he did with Abraham he said David was a man after God's Own Heart he was passionately in love with the Lord when you read psalms it makes them seem so feminine almost and you go
+- **[21:49](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1309s) · 本段原话**：father in 2024 how much deeper relationship can you have if just just make it a goal where will it be in 2025 will he start showing you the secret things hidden things and reveal to you things that that you go man this is the this is the cure for this this is the this is a witty idea this is
+- **[22:59](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1379s) · 本段原话**：just barely getting by with our relationship with you just walking in that that that lukewarm state but father we want to be on fire and hot for Jesus today that our relationship reflects you on inside of us that people see it and they wonder what are they doing different that Jesus is our Lord he is
 
 ### 完整英文 Transcript
 
@@ -641,7 +694,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1440s) · 他进行祷告**：single one of them that are represented here today Father I bless them in the name of Jesus for the people who've blessed me and helped me father I pray over all their finances God I thank you Father that every single need they have is met in the name of Jesus I thank you
+- **[24:39](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1479s) · 他进行祷告**：I thank you Lord that they are not they are not having anything in their body that sickness and disease from from the biggest thing to the smallest thing there's nothing too big for you I thank you Lord the Cancers and diabetes and heart disease and new eard drums and new kidneys and new new livers new thyroids
+- **[24:59](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1499s) · 他进行祷告**：new from Hashimoto to the this one lady says she needs the growes on her thyroid to be healed I speak to her thyroid I speak to thyroids to be healed and whole and well in Jesus name from the top of their head to the soles of their feet they're delivered from satanic bondage I
+- **[26:02](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1562s) · 他进行祷告**：you that arthritis is is underneath the blood according to Galatians 3:13 Christ has redeemed us from the curse of the law and being part of the curse is arthritis all these things are underneath the blood Jesus Paid the price for all of it and we thank you Lord even in pancreas we speak to
 
 ### 完整英文 Transcript
 
@@ -746,7 +806,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:24](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1704s) · 他进行祷告**：lest we Dash our foot against a stone I thank you Lord for your covering over us that our we are covered and protected by your son's blood and we give you praise and glory and honor for it father over our cars over semi drivers father as they're driving and bringing our Goods to the stores we pray for every single
+- **[29:24](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1764s) · 他进行祷告**：before it ever happened that you pred Pro protect them by the blood that no no Calamity comes nigh our officers our sheriffs our Department of Homeland Security the people that work in behalf of our nation protecting us God we thank you Lord even if they don't even know you God I thank you Lord that you would
+- **[30:23](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1823s) · 他进行祷告**：people would do what the law says to do and abide by the law of what they're supposed to do and and and and and do things legal do things legal I pray a protection over this nation I pray a protection over your nation that that you rise up and you call your nation blessed whoever you're
+- **[31:11](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1871s) · 本段原话**：that we get to we be able to spend eternity with you forever and ever and ever and ever crying holy holy holy is the Lord holy holy holy are you God you are so faithful you're so awesome you're so kind you're so generous you're so all that you are God you are merciful to
 
 ### 完整英文 Transcript
 
@@ -847,7 +914,13 @@
 <a id="section-09"></a>
 ## 09. 32:00–32:56 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:02](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1922s) · 本段原话**：all for watching this video I thank you for for spending time with me today uh if this video blessed you all if you could please click that like button please click click that subscribe button if you haven't already subscribed uh click the notification Bell you are helping get the gospel throughout the world when you do that literally we are
+- **[32:25](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1945s) · 本段原话**：getting people saved on a daytoday basis and I just want to say thank you for your support and for your love you all have been so kind to my family and I just want to say thank you well y'all put a smile on your face and a song in your heart Jesus loves you so much and I
+- **[32:45](https://www.youtube.com/watch?v=pNmMm0iQvJw&t=1965s) · 本段原话**：truly mean that Jesus loves you so much and we love you and we are grateful and thankful for you and we will see you next time y'all have a blessed day y'all bye-bye
 
 ### 完整英文 Transcript
 

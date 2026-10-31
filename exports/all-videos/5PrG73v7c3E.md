@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1203；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 - [10. 45:00–49:32 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:04](https://www.youtube.com/watch?v=5PrG73v7c3E&t=4s) · 本段原话**：Well, I'm going to talk about something that's pretty hard, but um there's a lot of you that don't have uh they don't know you all don't know about my daughter and all her testimony and the story of what she's been through. And I and I thought, well, I'll talk to talk about it because there's a lot of new
+- **[10:01](https://www.youtube.com/watch?v=5PrG73v7c3E&t=601s) · 他转述所听到的话**：when the So the Lord told me, he said, "Brandon, I've called you to the healing ministry. I've called you to go into all the world and lay hands on the sick and they'll recover." I said, "How how am I going to do that?" Whenever I pray for my little girl and I haven't seen the full
+- **[20:02](https://www.youtube.com/watch?v=5PrG73v7c3E&t=1202s) · 本段原话**：than a 24-hour in a period, you know. And you know, even the people who have, this is interesting, the people who have even more of an opinion is they just encounter you and they can fix all your issues. But if you lived it for a week, you'd want to hurt yourself physically.
+- **[25:02](https://www.youtube.com/watch?v=5PrG73v7c3E&t=1502s) · 本段原话**：seemed impossible that God's going to turn it around." I go over this story and I cry every time and it's still painful.
+- **[35:01](https://www.youtube.com/watch?v=5PrG73v7c3E&t=2101s) · 本段原话**：going to get out of it, whenever it looks the darkest is whenever you be you you you you get that bulldog inside of you saying, "I'm not giving up." It's like when I went to that Ronald meeting, it was like, "I need help. I need help."
+- **[45:22](https://www.youtube.com/watch?v=5PrG73v7c3E&t=2722s) · 本段原话**：things through Christ who strengthens you today. The greater one lives on the inside of you today. You have to believe that even in the midst of the darkest times you go through, the greater one lives on the inside of me today. No weapon formed against me is going to prosper. I bless you in the name of Jesus
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、个人故事与访谈
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、个人故事与访谈展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:04](https://www.youtube.com/watch?v=5PrG73v7c3E&t=4s) · 本段原话**：Well, I'm going to talk about something that's pretty hard, but um there's a lot of you that don't have uh they don't know you all don't know about my daughter and all her testimony and the story of what she's been through. And I and I thought, well, I'll talk to talk about it because there's a lot of new
+- **[01:06](https://www.youtube.com/watch?v=5PrG73v7c3E&t=66s) · 本段原话**：was developing normal. Her her abgar abgar scores were completely normal when she was born. Everything was completely fine. She was talking. She was making full sentences. She uh uh you know like any a 18 two months two two year old would do. And uh because she was starting to really develop everything was okay. And when we went in
+- **[03:00](https://www.youtube.com/watch?v=5PrG73v7c3E&t=180s) · 本段原话**：There's something really wrong." And uh Megan got worse and worse and worse. Her bowel stopped working. She wouldn't go to the bathroom anymore. Her belly would swell up to the size of a beach ball. As a child, she would hold her bowels with three weeks at a time without going and would cross
+- **[04:36](https://www.youtube.com/watch?v=5PrG73v7c3E&t=276s) · 本段原话**：This went on for for years. The the severity of this is I can't even uh just tell you with words how bad it truly was. She would get two hours of sleep at night keeping us up all night long. We uh were Diane and I were were walking zombies like like because of how tired we were. I would go
 
 ### 完整英文 Transcript
 
@@ -149,7 +167,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:00](https://www.youtube.com/watch?v=5PrG73v7c3E&t=300s) · 本段原话**：to work and and pass out in in the hall, you know, because of how tired I was when I was working on a Saturday cleaning the church. I would go into the men's stall and just lay my head over because I was so tired I couldn't I couldn't function even driving. It was
+- **[06:42](https://www.youtube.com/watch?v=5PrG73v7c3E&t=402s) · 本段原话**：basically less than a five is three year old or whatever. and he said, "You, she'll never talk. She'll never be potty trained. She'll never uh have a a normal functioning life. You're going to be this way forever. Why don't you kids sign her over to the state and make her an orphan of the state so that you
+- **[08:01](https://www.youtube.com/watch?v=5PrG73v7c3E&t=481s) · 他表达判断**：We're going to be the ones that come back and tell you that Jesus Christ is a healer and she's going to come out of this. And we're still believing that, okay? After 21 20 years, 20 years going on 20 years and we're standing on it and we're believing for the full manifestation. But I think it's it's
+- **[08:39](https://www.youtube.com/watch?v=5PrG73v7c3E&t=519s) · 他表达判断**：I we have stuff we we just don't I I think it's interesting because we watch other people and they they comment about what their child's going through on Facebook and they say these things, but I would never make public a lot of things that I've went through whenever Megan was first diagnosed. We didn't
 
 ### 完整英文 Transcript
 
@@ -283,7 +308,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:01](https://www.youtube.com/watch?v=5PrG73v7c3E&t=601s) · 他转述所听到的话**：when the So the Lord told me, he said, "Brandon, I've called you to the healing ministry. I've called you to go into all the world and lay hands on the sick and they'll recover." I said, "How how am I going to do that?" Whenever I pray for my little girl and I haven't seen the full
+- **[12:30](https://www.youtube.com/watch?v=5PrG73v7c3E&t=750s) · 本段原话**：and she there was a huge light switch board that was on the back of the of the the auditorium and Megan decided she was going to throw a fit and pushed those buttons and uh the lights and and in the middle of Andrew Wack preaching his sermon, all the lights went out in the
+- **[12:48](https://www.youtube.com/watch?v=5PrG73v7c3E&t=768s) · 他表达判断**：whole auditorium and went completely black. So, there's probably 3,000 people in there or more and it's complete. you can't see your hand in front of your face inside of this auditorium with the doors closed and andrew on the front stage and he goes, "Hello." You know how he's so real country. And uh I I I literally thought I could crawl
+- **[14:16](https://www.youtube.com/watch?v=5PrG73v7c3E&t=856s) · 本段原话**：$500 to to try to cast the devils out of her. and and um I'm not going to get into that. So then we took her to a Billy Burke service. And when we went to the Billy Burke service, we set up to the very back and we were at a massive church, huge church. And there was so many
 
 ### 完整英文 Transcript
 
@@ -423,7 +455,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:06](https://www.youtube.com/watch?v=5PrG73v7c3E&t=906s) · 他进行祷告**：And he says, "Uh, everybody who needs a miracle, get down to the very front. I'm going to pray for you. I'm closing the service." And I was like, "Oh, I was so disappointed because there was people all around me that had a lot more issues, it seemed like, than what we had, broken legs and all this thing
+- **[16:45](https://www.youtube.com/watch?v=5PrG73v7c3E&t=1005s) · 本段原话**：That was the day that Billy Burke prayed for our little girl and she started having bowel functions for the first time. And she came home and for the first time had a bowel movement by herself and was able to go on the stool and was completely potty trained within within a couple weeks. Happened within a within what 24
+- **[18:54](https://www.youtube.com/watch?v=5PrG73v7c3E&t=1134s) · 本段原话**：Megan wet in our chair. Megan peed or had a a pee accident in our chair or ruined it. I don't want to hear it. you know, I live it. She's destroyed three cars. I mean, seriously, that's how bad it was. So, when people don't relate and they can't um um handle something, they attack it or
+- **[19:33](https://www.youtube.com/watch?v=5PrG73v7c3E&t=1173s) · 他描述所见**：feel like they have their their suggestion of what they think you should be doing because they have it all figured out. They look at your life and they're doing it through their little their little u their magnifying glass going, I see that you have a flaw here and they have no idea because they've
 
 ### 完整英文 Transcript
 
@@ -555,7 +594,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:02](https://www.youtube.com/watch?v=5PrG73v7c3E&t=1202s) · 本段原话**：than a 24-hour in a period, you know. And you know, even the people who have, this is interesting, the people who have even more of an opinion is they just encounter you and they can fix all your issues. But if you lived it for a week, you'd want to hurt yourself physically.
+- **[21:03](https://www.youtube.com/watch?v=5PrG73v7c3E&t=1263s) · 他进行祷告**：here. There's a devil of suicide trying to come against you and I'm going to pray for you right now. Jesus is going to set you free." I was so broken at that time. I I literally thought I was lost. I didn't think I was going to make it out of it.
+- **[23:27](https://www.youtube.com/watch?v=5PrG73v7c3E&t=1407s) · 本段原话**：that some people will never know until you've been there. A place of hurt, a place of discouragement that is so deep and so vast that you don't know how you're ever going to fill that bubble because you think there's no way out. And I'm so thankful for the Ronald's. He was a missionary from
+- **[24:32](https://www.youtube.com/watch?v=5PrG73v7c3E&t=1472s) · 本段原话**：kids and I and I took her to this revival at that night and they they he was at a Pizza Hut at a pizza place eating after church and I took her over there and I said, "Let me just try to sew a seed." Because I knew the power of seed. It made me like 20 bucks. I don't
 
 ### 完整英文 Transcript
 
@@ -679,7 +725,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:02](https://www.youtube.com/watch?v=5PrG73v7c3E&t=1502s) · 本段原话**：seemed impossible that God's going to turn it around." I go over this story and I cry every time and it's still painful.
+- **[26:24](https://www.youtube.com/watch?v=5PrG73v7c3E&t=1584s) · 他描述所见**：you he was not a vision he was tangible tangible like this he shows up into the kitchen the presence of God felt so much. I turned around as I'm fussing and Jesus said, "I've heard all of your prayers." And I turned around and I melted on the ground because I could not stand in front of his
+- **[28:39](https://www.youtube.com/watch?v=5PrG73v7c3E&t=1719s) · 他转述所听到的话**：She says, "I can sense. I can feel, but I don't see it. I don't see him. I don't see him." And she stood there and she started weeping at the presence of the Lord. And the Lord told us that Megan was going to get better at and in that hour. To make a long story short, I know
+- **[29:35](https://www.youtube.com/watch?v=5PrG73v7c3E&t=1775s) · 本段原话**：as they went they were healed it wasn't instantaneous that Jesus healed some people it was as they went that was that was Saturday. So Monday she went to school and uh her teacher called me in the middle of the afternoon. It's around 2:00 and
 
 ### 完整英文 Transcript
 
@@ -797,7 +850,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 教会、复兴与信仰、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、物资、能源与供应链展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:13](https://www.youtube.com/watch?v=5PrG73v7c3E&t=1813s) · 本段原话**：What What do you mean what happened?" and she said, "Explain to me how she's saying words." She said over 50 parited words today. We're talking a child that had no vocabulary at all, was not able to function at all, able to keep eye contact for the first time, and was repeated. She made a list
+- **[32:11](https://www.youtube.com/watch?v=5PrG73v7c3E&t=1931s) · 本段原话**：Sorry, I butcher the word. We did all of it. Uh Dan doctors, you name it. We spent thousands. DNA testing, magnet testing, all kinds of things, you know, over the years. It's kind of like the woman with is with with the issue of blood whenever she said she spent all she had but but
+- **[32:57](https://www.youtube.com/watch?v=5PrG73v7c3E&t=1977s) · 本段原话**：and spent we went to all the big healing evangelists. I'm not here to uh throw any of them under bus because it's not their faith that does anything. I I was seeking the anointing. But in a place of desperation and it was so bad that we I didn't think we were even going to be
+- **[34:07](https://www.youtube.com/watch?v=5PrG73v7c3E&t=2047s) · 他表达判断**：always says. God doesn't dangle a carrot. Brandon, God doesn't dangle a carrot. He doesn't heal you part way without getting the full manifestation to dangle a carrot and tell you, "Well, I'm going to do part of it and not do the whole thing." I believe Megan is a work in progress. That's where that all
 
 ### 完整英文 Transcript
 
@@ -929,7 +989,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:01](https://www.youtube.com/watch?v=5PrG73v7c3E&t=2101s) · 本段原话**：going to get out of it, whenever it looks the darkest is whenever you be you you you you get that bulldog inside of you saying, "I'm not giving up." It's like when I went to that Ronald meeting, it was like, "I need help. I need help."
+- **[37:01](https://www.youtube.com/watch?v=5PrG73v7c3E&t=2221s) · 本段原话**：really rough day with her on Sunday. I didn't even go to church. That's the Oh, but is that But but is it all fall? The world's falling in. Oh, no. I thought you were getting better. No, devil, you ain't stealing my victory. Get off. We're going to church.
+- **[38:09](https://www.youtube.com/watch?v=5PrG73v7c3E&t=2289s) · 本段原话**：And that's why I say, my God has a big staff. My God has a big rod and he's going to bust you in the head, devil. I'm not going to allow you to get me down and ever do that again. It's what you think on. What you think on the most becomes bigger in your life.
+- **[39:23](https://www.youtube.com/watch?v=5PrG73v7c3E&t=2363s) · 他描述所见**：But you still get up and brush yourself off and you don't give up on Jesus because he's never given up on you. He's never given up on you. Jesus has never given up on you. And I don't give up on this my circumstances. I don't I don't give up. Give up whenever I see that I feel that it's like
 
 ### 完整英文 Transcript
 
@@ -1064,7 +1131,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 提到的地点：Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:22](https://www.youtube.com/watch?v=5PrG73v7c3E&t=2422s) · 本段原话**：Everybody needs a Ronald. Everybody needs I I feel like sometimes to pull help pull you out of the ditch. That's where I get out of those things. When you're going in a ditch, you fall in the ditch. There's somebody pulls you out of the dish. Doesn't mean you're supposed to always hang around them, but they're
+- **[40:46](https://www.youtube.com/watch?v=5PrG73v7c3E&t=2446s) · 本段原话**：flew all the way from Romania to Oklahoma to preach in a little country church in Crescent, Oklahoma just to touch me. And now I'm here talking to you. Pretty amazing what God will do. Isn't that amazing? I I Wow, Lord. The people that come across your path that help pull you out, I never forget them, and I'm
+- **[42:13](https://www.youtube.com/watch?v=5PrG73v7c3E&t=2533s) · 他表达判断**：Faith is a substance of things hoped for and evidence of things not seen. I believe it's manifesting today. And Father, we lift up this body before you in the name of Jesus. And we thank you, Lord, that you were wounded for our transgressions. You are bruised for our iniquities. The chastisement of our
+- **[44:14](https://www.youtube.com/watch?v=5PrG73v7c3E&t=2654s) · 本段原话**：make much of the blood and the blood makes much of us. And we thank you, Lord, for your healing power that flows on the inside of us that no weapon formed against us will prosper. And if we confess our sins, you're faithful and just to forgive us of our sins and cleanse us from all unrighteousness. and
 
 ### 完整英文 Transcript
 
@@ -1196,7 +1270,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:32 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:22](https://www.youtube.com/watch?v=5PrG73v7c3E&t=2722s) · 本段原话**：things through Christ who strengthens you today. The greater one lives on the inside of you today. You have to believe that even in the midst of the darkest times you go through, the greater one lives on the inside of me today. No weapon formed against me is going to prosper. I bless you in the name of Jesus
+- **[47:07](https://www.youtube.com/watch?v=5PrG73v7c3E&t=2827s) · 本段原话**：Remember this. So you say, "Well, why am I living this?" Because of what you've been saying. I I'm not depressed. I'm I don't have anxiety. I have joy. Say that. I have peace. So all the people who are dealing with that stuff, you may need to have you may need to talk to somebody.
+- **[48:00](https://www.youtube.com/watch?v=5PrG73v7c3E&t=2880s) · 他表达判断**：Ronald was there for me. So, I'm believing for you. You got a Ronald coming. I believe somebody's coming across your path is going to help you pull you out of your ditch. And I believe today I pray for you and you coming out of your ditch. But sometimes we need a little extra. Sometimes we
+- **[48:42](https://www.youtube.com/watch?v=5PrG73v7c3E&t=2922s) · 他描述所见**：the light at the end of the tunnel. We see it. Before I couldn't see it. I see it now. So, we pray this video richly blessed you today. I have some things I have to go do, but I just thought I would pray and and and lift you all up, give you an encouraging word today, tell
 
 ### 完整英文 Transcript
 

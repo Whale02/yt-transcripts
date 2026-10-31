@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 766；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 - [08. 28:00–31:15 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=0s) · 他描述所见**：hey good morning family I'm going to do another video uh for you all today uh you know I'm I have some things that are on my heart you know people are excited about my video about what I saw about the Red Wave and about uh about the things happen in the spirit now I want to say it like this I'm a
+- **[04:18](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=258s) · 他表达判断**：greasy spot I'm talking you've ran it over so many times it's like now that's it's probably a gross illustration but it's like whenever you hit a uh you hit a um a armadillo or a posum in the road you you you see sometimes they're greasy PT because they've been hit so many times I know that's kind of gross but
+- **[12:01](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=721s) · 他表达判断**：believe with all my heart uh that there's good days ahead for a lot of people but I believe there's great shaken and more war coming even greater War even turmoil catastrophic events in the world like we've never seen before in the earth something else I was praying about I was praying just just and and just
+- **[16:39](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=999s) · 本段原话**：authority over your area Okay is what I'm going to tell you you all have authority over your area over your house over your neighborhood you have authority over that now all of a sudden that thing started gaining strength over here and WIP and and hit Tulsa pretty hard which is a major city not not
+- **[24:43](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=1483s) · 他描述所见**：I believe with all my heart your circumstances are going to turn as of today that your your life is going to start getting better and it's not going to get worse depression and I see these comment well there's no reason for me to live there's no reason for for this all that that's a lie from the pit of Hell
+- **[28:40](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=1720s) · 他进行祷告**：heart whatever circumstances I'm going through God you're faithful you are able to deliver so I pray over your marriages I pray over every single one of your children that they way where they come back to Jesus that today is a Day of Victory inter Turnal around for your home I call you healed and whole and
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=0s) · 他描述所见**：hey good morning family I'm going to do another video uh for you all today uh you know I'm I have some things that are on my heart you know people are excited about my video about what I saw about the Red Wave and about uh about the things happen in the spirit now I want to say it like this I'm a
+- **[01:12](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=72s) · 他描述所见**：and I try to tell you all I did not hear from the Lord that he would be uh the president of the United States I saw what I saw but he but he but the L but because I don't want to add to or take away from anything so what I'm trying to
+- **[02:11](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=131s) · 他描述所见**：humble themselves and pray and turn from their Wicked Ways and you will he will hear we will hear from heaven and he will heal our land that's where we have to be if we want our land to be fixed and healed and what I saw to come to pass it doesn't just happen what I'm trying to tell you
+- **[03:41](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=221s) · 本段原话**：waiting to get the ball back and they're going to try to score to win that game that's the way the devil's crowd does they're waiting you we as the body of Christ will start to win and we'll get a victory but then the we get relaxed cuz we're like well we got this no you keep
 
 ### 完整英文 Transcript
 
@@ -121,7 +139,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:18](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=258s) · 他表达判断**：greasy spot I'm talking you've ran it over so many times it's like now that's it's probably a gross illustration but it's like whenever you hit a uh you hit a um a armadillo or a posum in the road you you you see sometimes they're greasy PT because they've been hit so many times I know that's kind of gross but
+- **[05:28](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=328s) · 本段原话**：talking about when you start to see the manifestation of what you've been believing for and you go Hey cuz it's going to come but that's not when you stop stop praying and that's not when you stop kicking the devil you got to keep going keep on keeping on do exactly what you were doing already to get the
+- **[07:01](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=421s) · 他表达判断**：don't doubt in my heart but I have whatsoever things I say Mark 11:23 and verse 24 I believe with all my heart that that Jesus Paid the price for every single thing we're believing for no matter if it's demonic no matter if it's healing no matter if it's physical and finances or whatever your marriage your
+- **[07:23](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=443s) · 他表达判断**：children Deliverance whatever it is Jesus Paid the price for you to be free and to walk in Victory Galatians 3:13 says that Christ has redeemed you from the curse of the law so I'm trying to tell you all how I pray how I believe from things and you go well you know if Gavin comes out
 
 ### 完整英文 Transcript
 
@@ -229,7 +254,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=481s) · 他描述所见**：out and people say oh there's no way this is about the 10 million that's already come no I saw sea a sea of people sea so deep that you couldn't count them all coming throughout all what is that a th000 miles or more that's probably uh what's on the border of of land from California to the end of
+- **[08:44](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=524s) · 他描述所见**：just about people from Mexico it was people from all over the world in 2024 what the Lord showed me I told you I'm praying over 2024 2024 I saw people because they were afraid of who was going to get into the next Administration coming if it was going to be Donald or whoever that they knew that
+- **[09:06](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=546s) · 他描述所见**：their window of time was coming to an end of what they thought was if uh sleepy Joe was still at the will through 2024 that that's what they're that's what they're pushing for that's why I saw these people bum rushing the Border trying to uh get in our country as as quickly as possible and people go well
+- **[11:45](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=705s) · 他表达判断**：know but this is my opinion do I believe we're going to see Financial breakthrough in 2020 2024 for the body of Christ yes with all my heart I believe there's a turnaround of things coming for the body of Christ for people people that are awake and listening I I
 
 ### 完整英文 Transcript
 
@@ -339,7 +371,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 地震、风暴与灾害、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：地震、风暴与灾害、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕地震、风暴与灾害、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=721s) · 他表达判断**：believe with all my heart uh that there's good days ahead for a lot of people but I believe there's great shaken and more war coming even greater War even turmoil catastrophic events in the world like we've never seen before in the earth something else I was praying about I was praying just just and and just
+- **[12:24](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=744s) · 他转述所听到的话**：like I'm praying in the spirit the Lord dropped something in me and he I heard jet streams speeding up jet streams faster uh low pressure systems long track in the spring long track super tornadoes so much so and this and this is going to sound really wild but bigger than EF5 bigger than EF5 is far as I know
+- **[13:31](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=811s) · 他描述所见**：Lord shows me to pray about for protection and that that these things will come I saw droughts I saw famines I saw uh all kinds of crazy things happening where you know whenever it says it will rain in one city and it will be drought in another I saw super droughts coming to certain areas that
+- **[15:35](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=935s) · 本段原话**：major one inch of ice and it's going to destroy everything and I get in there we start praying and and my family my mom and my dad my sisters everybody my brother they start praying in the spirit we start we start calling those things that be not as other word we speak to
 
 ### 完整英文 Transcript
 
@@ -445,7 +484,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 地震、风暴与灾害、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：地震、风暴与灾害、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕地震、风暴与灾害、预言、梦境与异象展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:39](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=999s) · 本段原话**：authority over your area Okay is what I'm going to tell you you all have authority over your area over your house over your neighborhood you have authority over that now all of a sudden that thing started gaining strength over here and WIP and and hit Tulsa pretty hard which is a major city not not
+- **[17:09](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=1029s) · 他转述所听到的话**：what we pray we pray we took authority over I stood out on my porch the trees look like they were going to touch the ground but we were still taking Authority and we never lose power once and the Lord said Brandon you've got to get out there and start taking authority over this right now and cursing this
+- **[18:54](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=1134s) · 他转述所听到的话**：our marriage we can pray over our children we can call those thing we can speak over sickness and disease according to Galatians 3:13 that Christ has redeemed us from the curse of the law and sickness and disease your mouth has power and you and and people say well you I I heard it used to be
+- **[19:11](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=1151s) · 本段原话**：whenever I'd be at work because I work for major Ministry and people you say something negative out of your out they say do you is that what you want is that what you want because that's what you're going to start living you keep believing that you keep saying it out of the abundance of the heart the mouth
 
 ### 完整英文 Transcript
 
@@ -560,7 +606,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=1201s) · 本段原话**：believe what you're going to live tomorrow is what you said today it it it just keeps snowballing and it keeps going well my wife's are no good so and so my kids are no good so and so it's my job's terrible I hate working where I work I hate living where I live I hate
+- **[21:12](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=1272s) · 本段原话**：generational stuff from my family I'm redeemed from the curse of the law gen generational curses are not for me they're not for my wife they're not for my children that stops with us we're going to walk in God's B best we're going to walk in his healing we're going to walk in Deliverance that's what you
+- **[21:45](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=1305s) · 他描述所见**：going to live by faith and we're going to not live by sight I'm not moved by what I see I'm not moved by what I feel I'm moved by what the word says and he said in his word that I can be healed I can be be well I can be delivered I
+- **[23:39](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=1419s) · 他进行祷告**：mouth because I'm telling you all what I'm saying is true I hope this message blessed you today I truly believe it with all my heart everything I'm telling you all God called me to come on here and tell you what's coming God told me to come on here and tell you how to pray and to
 
 ### 完整英文 Transcript
 
@@ -669,7 +722,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:43](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=1483s) · 他描述所见**：I believe with all my heart your circumstances are going to turn as of today that your your life is going to start getting better and it's not going to get worse depression and I see these comment well there's no reason for me to live there's no reason for for this all that that's a lie from the pit of Hell
+- **[25:01](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=1501s) · 本段原话**：the Devil comes to kill steal and destroy he's trying to lie and steal your life early don't listen to his voice you need to listen to what the Lord says and he said he has a good future and and expected in something great for you he wants something awesome for you it's not to be busted and
+- **[25:18](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=1518s) · 本段原话**：disgusted and and all down and and out it's to rise above and fly on the wings of eagles and I'm telling you it's time your your circumstances are going to turn around as of today you start saying out your mouth I'm getting I'm good things are happening for me my my future's bright cuz Jesus has a plan for
+- **[27:45](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=1665s) · 他描述所见**：give him praise for thank you Father I'm not moved by what I see I'm not moved by what I feel even when I'm having a bad day God you're still faithful you're a good god even whenever uh you think well well there's nothing I can Praise Him for today you can find something to
 
 ### 完整英文 Transcript
 
@@ -777,7 +837,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:15 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:40](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=1720s) · 他进行祷告**：heart whatever circumstances I'm going through God you're faithful you are able to deliver so I pray over your marriages I pray over every single one of your children that they way where they come back to Jesus that today is a Day of Victory inter Turnal around for your home I call you healed and whole and
+- **[29:37](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=1777s) · 他进行祷告**：well I just want to say thank you all for joining me today I just came on I just wanted to share some things out what was on my heart um I I pray I pray for you all all the time I really do I pray God does something Supernatural in your life I
+- **[30:33](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=1833s) · 本段原话**：Downer and being and and kicked around we need to encourage one another and tell everybody that that Jesus is Alive and Well and he's doing Miracles not just for Brandon and his family but for your family too people need to hear it so I appreciate you putting a comment down below and tell people hey I was
+- **[30:51](https://www.youtube.com/watch?v=jRZDYWhp_lE&t=1851s) · 本段原话**：healed I was delivered I was set free whatever and and give God all the praise for it so uh uh if you could click that notification Bell uh put a like on this video comment down below whatever it really helps us with the with getting the gospel out well put a smile on your
 
 ### 完整英文 Transcript
 

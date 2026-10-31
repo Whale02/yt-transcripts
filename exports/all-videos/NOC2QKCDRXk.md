@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 421；**章节数**: 5；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -15,10 +15,27 @@
 - [04. 12:00–15:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-04)
 - [05. 16:00–16:27 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-05)
 
+## 全片概述与 Key Points
+
+全片共 5 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:12](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=72s) · 他描述所见**：the ear will come to pass and the and the bullet grazed his ear it busted his ear just like I told everybody I saw blood flowing down his face and the Lord said he would be spared and when this happens there would he would become radically born again because the Lord spared his life today and he would
+- **[04:02](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=242s) · 本段原话**：for Sodom and Gomorrah and go the Lord was willing to spare and he was interceding and interceding and and and and look at what happened he came coming back and saying listen I'm willing to spare the city if there be five right 10 righteous whatever and then here we are we have 50,000 people watching a video
+- **[09:04](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=544s) · 他表达判断**：church no I'm believing before I believe that God will do something huge right before the catching away and then we'll have Victory after the catching away that God is not a a God that loses he's a God that's victorious in every area he is victorious in in the in the in the beginning he's victorious in the end and
+- **[12:20](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=740s) · 他描述所见**：you know it is even like I said the blood flow down his face just like I saw and in the vision and the Lord said interceding that's why I said I prayed all night and I was in there and the Lord told me today he said you must pray for it will happen today you must pray
+- **[16:01](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=961s) · 他描述所见**：people without power even in Houston I told you all Houston it'll be Atlanta soon I prayed over Atlanta I've prayed over uh Pennsylvania Chicago New York and um I've been interest and those are the cities the major cities that I saw with with power problems coming and e
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:12](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=72s) · 他描述所见**：the ear will come to pass and the and the bullet grazed his ear it busted his ear just like I told everybody I saw blood flowing down his face and the Lord said he would be spared and when this happens there would he would become radically born again because the Lord spared his life today and he would
+- **[01:51](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=111s) · 本段原话**：missed him and it grazed his ear and busted his eardrum and I'm telling you all God's hand in Mercy is on This Nation there it's still there's going to be some hard days ahead y'all but I'm telling you a massive Revival is about to break forth in this land and we're going to see one of the greatest Harvest
+- **[02:43](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=163s) · 本段原话**：intercede for him and that the Angels would bear him up in their hands lest we Dash our foot against the stone that no weapon formed against him would Prosper I intercede every single day for for for things that the Lord gives me and he warns me about things and he tells me Brandon this is coming this is coming
+- **[03:03](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=183s) · 他描述所见**：this is coming you got to pray for the volcano in Italy you've got to warn those people because I told you I saw tsunami wave coming into the shore and I saw hundreds of thousands of people perishing because of the tsunami wave coming in and I um I've warned everybody about that and now those volcanoes are
 
 ### 完整英文 Transcript
 
@@ -126,7 +143,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:02](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=242s) · 本段原话**：for Sodom and Gomorrah and go the Lord was willing to spare and he was interceding and interceding and and and and look at what happened he came coming back and saying listen I'm willing to spare the city if there be five right 10 righteous whatever and then here we are we have 50,000 people watching a video
+- **[04:52](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=292s) · 他表达判断**：further you will not touch these people you will not touch our children you will not touch our our loved ones they will come home they will do this or whatever and I believe there's power and unity and prayer I believe with all my heart for these last days Jesus is joining up a great Army of Believers that will
+- **[05:45](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=345s) · 他表达判断**：spoil his plans then we then we win we don't want these things to come to pass today was an example of prayer and intercession that Jesus came through and the and the blood of the Lord protected president Trump today I believe believe God's not done with him and that there is a plan for him to bring um um uh a a
+- **[06:40](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=400s) · 他描述所见**：fly the the ship looked like it was all busted and messed up and it was in pieces but the but he took each piece by the by the wisdom of the Lord because the Lord said I will anoint him with wisdom like Solomon and I saw him take these pieces all of these pieces and he
 
 ### 完整英文 Transcript
 
@@ -236,7 +260,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[09:04](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=544s) · 他表达判断**：church no I'm believing before I believe that God will do something huge right before the catching away and then we'll have Victory after the catching away that God is not a a God that loses he's a God that's victorious in every area he is victorious in in the in the in the beginning he's victorious in the end and
+- **[10:12](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=612s) · 他描述所见**：and Googles it right now he was at a campaign rally and they just tried to assassinate him and I tried to warn everybody that this was coming I gave this exact word I even told you the ear that they would miss and I said it busted his eardrum and I saw blood flowing down his face and this is
+- **[10:27](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=627s) · 他描述所见**：exactly what I saw and Trump prob at a trump rally it just happened it just happened this just happened that's why I'm going live to tell you that prophecy was fulfilled the Lord spared his life ladies and gentlemen the Lord spared his life go Google it it's all over the news it's happening right now they just they
+- **[11:31](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=691s) · 本段原话**：presence on his church and it's not all doom and gloom but yet you need to know both sides I can't sit here and tell you you know sugarcoat everything and tell you all everything's going to be great no there's going to be hard times for some people and there's going to be a
 
 ### 完整英文 Transcript
 
@@ -358,7 +389,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:20](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=740s) · 他描述所见**：you know it is even like I said the blood flow down his face just like I saw and in the vision and the Lord said interceding that's why I said I prayed all night and I was in there and the Lord told me today he said you must pray for it will happen today you must pray
+- **[13:56](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=836s) · 本段原话**：warn the masses that Jes Jus is coming and what he has a plan so I um oh I I had a a somebody else send me a flag of the old Afghanistan flag and it matches identical to what the Lord show me about the Antichrist flag it's just altered a little bit and so somebody
+- **[15:27](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=927s) · 他描述所见**：grid yes you got I pray over that there there will be I even whenever I told you all about the um the power grid to pray and intercede over this it would be a 3 we period I saw three weeks for some cities and I saw Houston and you know like I said when you're sing over in the
+- **[15:45](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=945s) · 他描述所见**：spirit and you're praying like I see V I have these visions and the Lord shows me things when I'm praying a lot of things a lot of times you can add to it you know and you be like well what is this going to be oh this has to be terrorist related or whatever and it could have
 
 ### 完整英文 Transcript
 
@@ -471,7 +509,11 @@
 <a id="section-05"></a>
 ## 05. 16:00–16:27 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=NOC2QKCDRXk&t=961s) · 他描述所见**：people without power even in Houston I told you all Houston it'll be Atlanta soon I prayed over Atlanta I've prayed over uh Pennsylvania Chicago New York and um I've been interest and those are the cities the major cities that I saw with with power problems coming and e
 
 ### 完整英文 Transcript
 

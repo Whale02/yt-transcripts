@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 742；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 教会、复兴与信仰、预言、梦境与异象](#section-07)
 - [08. 28:00–30:19 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:40](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=40s) · 本段原话**：holy angel choir singing behind them all the time for God to use him. I want you to understand today that it's all by grace. And here's what I did. I did something really stupid.
+- **[04:22](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=262s) · 他进行祷告**：I said, "I'm I just acted out and the Lord's not going to hear me when I pray." I said, "You pray." So, she started marching up and down the hall just saying, "All things are possible to him that believe." And at this time, I left the room because I was so angry. I had to I I got to have some
+- **[12:36](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=756s) · 本段原话**：And that dog gasped for air. And all of a sudden, I felt the power of God come out of my fingers like electricity. And it went into that dead dog's body. and the dog's heart. I could feel it start to beat in my palm of my hand. And I could feel the the the the lungs started
+- **[16:00](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=960s) · 本段原话**：whole world. seeing arms and legs and eyes and ears popping open, the dead being raised, casting out devils. We're going to see some of the greatest miracles this world has ever seen or ever heard of. And I'm telling you, it's time to believe for the impossible. It's time to achieve the impossible. It's
+- **[24:00](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=1440s) · 本段原话**：be okay. You'll have a fullterm baby and nothing your vine will not cast fruit before the time. I say in the name of Jesus all your your your uterus is okay, healed and whole and well by the power of the blood of Jesus. I curse those tumors. I curse that cancerous stuff and
+- **[28:01](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=1681s) · 他描述所见**：Ears. Ears are popping open. I see ears. Wow. Lord, you're doing a lot. You're doing a whole bunch of stuff for these people today. Thank you, Lord. Thank you, Jesus. We call ears. Ears open.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、个人故事与访谈
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、个人故事与访谈、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、个人故事与访谈展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:40](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=40s) · 本段原话**：holy angel choir singing behind them all the time for God to use him. I want you to understand today that it's all by grace. And here's what I did. I did something really stupid.
+- **[01:37](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=97s) · 本段原话**：And so she was sitting there coloring on in her coloring book and and was over here to my side, but I didn't know that she had put the dog underneath my feet in a blanket. And so I jumped up to go to the bathroom real quick because I put the game on pause with my son and I
+- **[02:42](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=162s) · 本段原话**：situation. Bottom line is I acted a fool. I acted like a total you know what. I shouldn't have done it. And me freaking out. I'm screaming and and yelling, "Why did this happen? You know, you should have obeyed and you didn't d and I'm mad at my wife. I'm mad at everybody. I'm blaming everybody other
+- **[03:44](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=224s) · 他进行祷告**：And I and so my little girl turned to me and she said, "Daddy, aren't you going to pray for it to be raised from the dead?" And I said, "Honey," I said, "God's not going to hear me when I pray right now for that dog to be raised that you I said, "You pray." I said, "I'm not
 
 ### 完整英文 Transcript
 
@@ -135,7 +153,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:22](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=262s) · 他进行祷告**：I said, "I'm I just acted out and the Lord's not going to hear me when I pray." I said, "You pray." So, she started marching up and down the hall just saying, "All things are possible to him that believe." And at this time, I left the room because I was so angry. I had to I I got to have some
+- **[05:41](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=341s) · 本段原话**：She's still upset. I'm holding her at that time. You know, baby, I'm sorry. I yelled at you, freaked out, freaked out at the situation. I said, "I'm sorry you lost your dog. We'll replace him." But God, but God's got this, you know, and I just trying to comfort her, comfort the family because of my actions and
+- **[06:40](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=400s) · 本段原话**：She goes and tips the trash can over, grabs that dog, and pulls it out. God had completely restored all that dog's guts back inside. The blood was completely wiped off of it. There was no signs of any kind of um trauma on this dog at all.
+- **[07:03](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=423s) · 本段原话**：God had completely done a creative miracle on that dog. And my wife brought that little puppy in and it was shivering cold because it was freezing, which is a miracle in itself because of how cold it was. And the dog was shaking. And so we put a blow dryer on the dog and started
 
 ### 完整英文 Transcript
 
@@ -242,7 +267,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:02](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=482s) · 他表达判断**：respector of person. I believe with all my heart that the faith of a mustard seed can move a mountain. I believe even a childlike faith can bring a dog back.
+- **[09:26](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=566s) · 本段原话**：these excuses up in my head and and I'm talking to him about everything and and I was like, and wow. And he stopped me and he corrected me. He corrected me immediately. And he said this to me, Brandon, even on your best day, son, your righteousness is as filthy rags to me. Even on your best
+- **[10:49](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=649s) · 他进行祷告**：I I pray that over us. Father, increase our hands so we can be a blessing to your people. You can't be a real blessing a lot of times if you're if you're broke and you make it from paycheck to paycheck and you only got enough to pay your bills, you got to borrow the rest. So you that's where I'm
+- **[11:26](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=686s) · 他转述所听到的话**：Nasty. Come out green all over it. It was nasty. And the Lord told me, he said, "I'm going to start to deal with you with creative miracles, and I'm going to train you through animals and and you can I'm going to let you practice this way, and I'm going to train you and teach you how to do these
 
 ### 完整英文 Transcript
 
@@ -350,7 +382,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:36](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=756s) · 本段原话**：And that dog gasped for air. And all of a sudden, I felt the power of God come out of my fingers like electricity. And it went into that dead dog's body. and the dog's heart. I could feel it start to beat in my palm of my hand. And I could feel the the the the lungs started
+- **[14:19](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=859s) · 本段原话**：the church is about to happen and we're going to get out of here. Whether that's 10 years, 20 years, or whatever, that's nothing compared to the 2,000 years that we've been waiting. It could be tomorrow. So, you always want to have your lamps full and seeking him daily instead of just on Sunday. You need to have a relationship
+- **[15:02](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=902s) · 他表达判断**：steal, and destroy all the time. That's the kind of devil he is. And you may say, "Well, the devil hasn't been messing with me." Well, it's probably because you ain't a threat to him. You ain't trying to do something to affect his kingdom. And he's not going to sit back idly by and just and not mess with
+- **[15:32](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=932s) · 本段原话**：Praying for the sick, raise the dead, cast out devils. Freely you've been given, freely you give it out. That's the kind of Jesus we serve. He came to save that which was lost. And and I'm telling you, the greatest harvest of souls that this world has ever seen is yet to happen. The greatest outpouring
 
 ### 完整英文 Transcript
 
@@ -459,7 +498,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=960s) · 本段原话**：whole world. seeing arms and legs and eyes and ears popping open, the dead being raised, casting out devils. We're going to see some of the greatest miracles this world has ever seen or ever heard of. And I'm telling you, it's time to believe for the impossible. It's time to achieve the impossible. It's
+- **[17:25](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=1045s) · 本段原话**：We're joiners of Jesus. He loves you. Do you understand that? Jesus paid the price for you to be free. From sickness and disease, from poverty and lack, from from mental torment. He paid for it all for you. You don't have to have any of it. Jesus paid the price for you. He became a curse for you. Galatians 3:13
+- **[18:34](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=1114s) · 本段原话**：Your marriage is broke. Your finances are broke. Your your house, your children are weward. They're out sleeping around doing drugs, doing all this bad stuff. How bad is your want to change? How bad do you want it? Is it bad enough that you get up and you start praying extra hour early before work? Is
+- **[19:42](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=1182s) · 他转述所听到的话**：having a relationship with him. That's what's going to set you free. I heard TD Jake say this once. What do you do when God has become a spare tire that you only use in the time of an emergency? And now you are in an emergency and that tire is flat. What
 
 ### 完整英文 Transcript
 
@@ -569,7 +615,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:02](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=1202s) · 他转述所听到的话**：do you do? I heard him say that and that stuck with me. That's the way people are. They only go to God whenever they needed something. But if you But if you build a relationship, well, you want to see when God shows up like he did in our life for that little dog getting up from
+- **[20:46](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=1246s) · 本段原话**：Living by faith, living by the impossible, believing for the impossible, speaking to your mountain, learning these things, speaking in tongues. She's been baptized in the Holy Ghost, praying in tonesues since she was three years old. Since she's been just barely talking, she's been walking around praying in the Holy Ghost. I've been teaching cuz she mocks me. So my
+- **[21:06](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=1266s) · 他进行祷告**：son, all of us, we we all pray in the Holy Ghost. We all seeking him because that's what we do as a family. And so I'm going to encourage you. Bring your family up this way. Teach them that Jesus would do it. And when you start believing that way, it'll start manifesting in your
+- **[22:19](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=1339s) · 本段原话**：the anointing of the Holy Ghost dwells on the inside of us, that we have authority over the devil, and nothing shall by any means hurt us. Greater is he that is in us than he that is in the world. A thousand shall fall at our side and 10,000 at our right hand, but it
 
 ### 完整英文 Transcript
 
@@ -679,7 +732,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=1440s) · 本段原话**：be okay. You'll have a fullterm baby and nothing your vine will not cast fruit before the time. I say in the name of Jesus all your your your uterus is okay, healed and whole and well by the power of the blood of Jesus. I curse those tumors. I curse that cancerous stuff and
+- **[24:41](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=1481s) · 他描述所见**：breast. You go now in the name of Jesus. I call all kinds of cancers to be gone and healed and whole and well by the power of the blood of Jesus. You paid the price for them. You took it all for Oh, I saw blood transfusions. I speak to blood right now in the name of Jesus. I
+- **[25:24](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=1524s) · 他表达判断**：I'll be your two. And you believe. You say, "I have nobody to agree. I'll be your two." I believe with you. I believe with you that today's your day of healing. Today's your day for your miracle. Oh, I just saw somebody's tooth. You have a tooth infection on on on your on your tooth. I speak to that
+- **[27:04](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=1624s) · 他描述所见**：Anxiety, anxiety. I speak to anxieties. I speak to depression. I speak to you to go now in Jesus name. I call hormones to line up with the word of God. I call you delivered and whole and healed and well in the name of Jesus. Anything else, Holy Ghost, we will work together. Shoulder, rotator cuff. I saw
 
 ### 完整英文 Transcript
 
@@ -780,7 +840,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–30:19 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:01](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=1681s) · 他描述所见**：Ears. Ears are popping open. I see ears. Wow. Lord, you're doing a lot. You're doing a whole bunch of stuff for these people today. Thank you, Lord. Thank you, Jesus. We call ears. Ears open.
+- **[28:12](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=1692s) · 他表达判断**：Ears be healed and whole and well in the name of Jesus. Today's your day for your miracle. I believe that for you. Believe it and you'll receive it in the name of Jesus. Father, we just give you praise and glory and honor for it. We worship you. You are the great physician able to do exceedingly
+- **[29:37](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=1777s) · 本段原话**：Thank you for your healings. Thank you, Lord, that the great days are ahead of us. Thank you, Jesus, that you've taken care of us. He's so good. He's such a good God.
+- **[29:59](https://www.youtube.com/watch?v=wxzK3yqqPJk&t=1799s) · 本段原话**：He loves you so much. I just want to say thank you all for joining us today. It's sure a blessing. Well, we just want to say put a smile on your face and a song on your heart. Jesus loves you so much and we'll see you next time. You all have a blessed day. Bye-bye.
 
 ### 完整英文 Transcript
 

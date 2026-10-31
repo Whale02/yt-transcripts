@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1322；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 40:00–44:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-09)
 - [10. 45:00–48:32 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:08](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=8s) · 他表达判断**：I'm going to just pray a little bit and pray over New Year's Eve and whatever, you know, I don't know whatever they want to talk about. I'll answer some questions I guess but we have one little thing that we'll show you what I believe is a result of prayer and I think that you
+- **[10:19](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=619s) · 他描述所见**：This is the exact same style of a weapon that I saw used in uh uh um Hollywood off of Rodeo Drive. This is the exact same same the the exact same gun.
+- **[20:41](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=1241s) · 本段原话**：Every year it's different. And whatever whatever the Lord lays on my heart as as the head of the house to do. And I say, "We're going to give this ahead of time, and we're believing God.
+- **[25:00](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=1500s) · 本段原话**：it's just like saying "Twinkle, twinkle, little star." You ain't You're not going to get nothing. You must have word back prayers.
+- **[35:05](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=2105s) · 本段原话**："On the 27th?" "Hmm." "Okay." So, I told Dana, I said, "We're holding off on that. We're not going to get it at all." She said, "No." I said she goes, "I don't care, honey. You We we've already talked about this. We're going to sow. We're believing God for 2026.
+- **[45:36](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=2736s) · 本段原话**：Mhm. God said, "I'm cleaning house in 2026." First Corinthians 5:5 is going to become made manifest in a great great capacity for a lot of people.
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：New Orleans。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:08](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=8s) · 他表达判断**：I'm going to just pray a little bit and pray over New Year's Eve and whatever, you know, I don't know whatever they want to talk about. I'll answer some questions I guess but we have one little thing that we'll show you what I believe is a result of prayer and I think that you
+- **[02:39](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=159s) · 他描述所见**：[snorts] Um he pointed out we It was the night we went right in and I was getting ready to take communion and if everybody remembers watching that video we we were just take and the moment I was getting ready to take the blood I would I went into the spirit and I saw
+- **[03:04](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=184s) · 他描述所见**：Some kind of I saw her people screaming again. I heard women screaming. I heard I heard It was at the point where where I heard the It was Imagine the the song playing Imagine and and I and I I remember in the vision everything was so clear. I could see the flash but I don't know
+- **[04:16](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=256s) · 他转述所听到的话**：The I don't know Did it it Did he say they caught somebody down there? Uh I I don't Yeah, they said they had a threat or Yeah, I heard that. Yeah, they He It actually sounded like they found somebody.
 
 ### 完整英文 Transcript
 
@@ -177,7 +195,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、物资、能源与供应链。 提到的地点：France。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:26](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=326s) · 本段原话**：And it goes back to what the Lord showed us. You know, when I was praying over the the the the [snorts] the 50 gallon drum vans with all of the fertilizer and the Lord kept telling us, "Remember Timothy McVeigh." Sorry, I keep itching my nose.
+- **[06:19](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=379s) · 本段原话**：I truly believe the fertilizer and all the things that the Lord showed me from the detail of the the the money exchange of that from coming from overseas from a certain country funding this that this was a multi-multi-million dollar operation. That didn't just go away.
+- **[07:59](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=479s) · 他描述所见**：Casing churches, casing amusement parks, praying over Disney World, praying over uh Las Vegas. When I saw the major truck driving down and then there was a there was actually a knifing in Paris.
+- **[09:06](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=546s) · 本段原话**：prayed over. So did it happen with a van? No. But this is exactly what the French police arrest suspect after three stabbings in Paris metro attack. So he was in a train.
 
 ### 完整英文 Transcript
 
@@ -318,7 +343,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:19](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=619s) · 他描述所见**：This is the exact same style of a weapon that I saw used in uh uh um Hollywood off of Rodeo Drive. This is the exact same same the the exact same gun.
+- **[11:38](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=698s) · 他描述所见**：And I saw a lot of uh lights, neon lights, when I was in the spirit. And I could see the road and then the beach the the the ocean was over here and it wasn't very far from the road. The ocean wasn't very far and I could see this event happening there.
+- **[13:56](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=836s) · 他描述所见**：And they have these meetings and I saw them in in a certain office talking and strategizing of how they are going to go about this and bring North Korea out in of underneath the sanctions and bring them into a modern society.
+- **[14:38](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=878s) · 他描述所见**：If anybody remembers that. I saw the farmers that were first pick. People that he thought were expendables. He didn't want to get He didn't want to sacrifice the people that were strong.
 
 ### 完整英文 Transcript
 
@@ -457,7 +489,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:44](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=944s) · 他描述所见**：And the same things that I believe in the future he'll try to talk to Venezuela. As we see I saw him trying to join up with the BRICS.
+- **[16:50](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=1010s) · 他描述所见**：And so then I saw Putin I'm not Putin. I saw Benjamin and Trump all having a meeting talking about we we want to strike first and and the White House said, "No." And I saw the article on that. You you give me that?
+- **[17:49](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=1069s) · 他描述所见**：I saw Skid Row happening all over America. With tents full of people in parking lots trying to find a place to stay because they had no place to stay and it was cold. They had barrels burning trash and trying to keep warm.
+- **[18:40](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=1120s) · 他描述所见**：$100,000 $150,000 was no longer middle class. Do you remember that that vision that I was driving down the road and the Lord showed me the the tents and the things and Taco Bell would become middle class food. You like eating Taco Bell would be a luxury.
 
 ### 完整英文 Transcript
 
@@ -606,7 +645,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:41](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=1241s) · 本段原话**：Every year it's different. And whatever whatever the Lord lays on my heart as as the head of the house to do. And I say, "We're going to give this ahead of time, and we're believing God.
+- **[22:49](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=1369s) · 他进行祷告**：That'd be real stupid, wouldn't it? Well, I sowed it, honey, in that first acre, and I got enough corn out there to But, we're going to pray as a family for the whole five acres to come, but we only planted and sowed into 100 for one.
+- **[23:05](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=1385s) · 他表达判断**：And that's what a lot of the body of Christ does. I think it's it's funny to And not funny, it's sad. People perish for a lack of knowledge. But, everything is It How is it multiplication whenever the Bible says 30, 60, 100-fold?
+- **[24:09](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=1449s) · 他表达判断**：Now, maybe I'm off, but that's what I believe. Now, I'm not And now And now now when you get the harvest of that, and you believe God, and you you keep believing, and you sow your $10 or your $100 or whatever, and you keep being consistent, that's multiplication then.
 
 ### 完整英文 Transcript
 
@@ -748,7 +794,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:00](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=1500s) · 本段原话**：it's just like saying "Twinkle, twinkle, little star." You ain't You're not going to get nothing. You must have word back prayers.
+- **[26:04](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=1564s) · 本段原话**：USE SOME WISDOM. IF the farmer kept planting in that ground, he's going to have to either put some fertilizer up in that ground to get it to produce or something. But, people try to ask me these things all the time, and I'm thinking it's just common sense.
+- **[26:39](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=1599s) · 他描述所见**：I um I don't know. I I think it what I think in my mind just thinks real simple about things. And I And I see it work.
+- **[28:53](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=1733s) · 本段原话**：He says, "Brandon, that piece of land right there, in the next couple of years, is going to be worth tens of millions of dollars."
 
 ### 完整英文 Transcript
 
@@ -902,7 +955,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[31:09](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=1869s) · 本段原话**：I wasn't even asking for that, but thank you." And I don't just cast it aside. I listen to it and I take note of it. I got my phone out and I take a voice recorder and I it because I look at everything he says is precious.
+- **[32:22](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=1942s) · 本段原话**：Or the quarter or whatever you've got. But I know that if I can sow into my offering into good ground into my into your church of where you're going to. And if your church don't have good ground, why are you going there?
+- **[33:23](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=2003s) · 本段原话**：You got to make sure that you're in the right place at the right time doing exactly what he asked you to do and sowing where he tell you to sow, being obedient. I For instance, I was going to sow my seed for my my sacrificial gift this year. And I was going to give it
+- **[34:39](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=2079s) · 本段原话**：Let me bless you with a birthday present. Why? Harvest of souls. That's all he cares about.
 
 ### 完整英文 Transcript
 
@@ -1051,7 +1111,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:05](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=2105s) · 本段原话**："On the 27th?" "Hmm." "Okay." So, I told Dana, I said, "We're holding off on that. We're not going to get it at all." She said, "No." I said she goes, "I don't care, honey. You We we've already talked about this. We're going to sow. We're believing God for 2026.
+- **[35:44](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=2144s) · 本段原话**：I'm believing for my 2026 increase. I'm believing for our ministry to not have any lack, not anything and then whatever you tell us to do to grow our ministry in 2026, we're going to have more than enough."
+- **[37:35](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=2255s) · 本段原话**：Do you understand? I don't I hate manipulation. Especially in churches. Especially in big ministries. You got these all It's a lot of manipulation in the in in especially in the word of faith circles.
+- **[39:27](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=2367s) · 本段原话**：And I don't care how much you think you need for your orphan orphanage or your project and you want to play a high note on the key on your organ to make me feel like I'm feeling the Holy Ghost. And you go and you play the tambourine and you got sister up there doing her little thing,
 
 ### 完整英文 Transcript
 
@@ -1197,7 +1264,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:00](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=2400s) · 本段原话**：Stop it. And I and I'm telling you all, when you're led by the spirit of God and you're giving, and you listen to him when he tells you to do it, and you're not mo- emotionally being fed some baloney, you're going to get you're going to reap, and God will bless you.
+- **[41:08](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=2468s) · 本段原话**：So excited, and my dad gave it away cuz the cuz of the high note on the keyboard on the thing, and we suffer we we are in the back freezing in the back of a tailgate in the back of a truck, freezing all winter long because we didn't have no car to get to
+- **[42:16](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=2536s) · 本段原话**：Let it be spirit-led, and God will bless your hands. So, that's my message, and [laughter] and boom, there's a mic drop. There you go. That's I'm telling you, and if you listen to what I'm trying to tell you all, you'll be you'll walk in a greater side of blessing, and you'll have more
+- **[44:07](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=2647s) · 本段原话**：You're going to be held accountable for all of it. Everything you thought you did in private, you're going to stand before the Lord one day and give an account for everything.
 
 ### 完整英文 Transcript
 
@@ -1345,7 +1419,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–48:32 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:36](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=2736s) · 本段原话**：Mhm. God said, "I'm cleaning house in 2026." First Corinthians 5:5 is going to become made manifest in a great great capacity for a lot of people.
+- **[46:27](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=2787s) · 他转述所听到的话**：Time to go celebrate. But, some of them will. And the Lord said, "Over the next 3 years, you're going to see a lot of people's new faces coming up, the new Davids, the new Esthers, and you're going to see people have platforms that explode seemingly out of nowhere.
+- **[47:41](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=2861s) · 他转述所听到的话**：If I'm going to hurt thousands and thousands of people in the future, and I don't see it, please, because the It's like what I heard Joyce say, the bigger the bigger the uh platform, the bigger the level of how many people you can hurt.
+- **[48:20](https://www.youtube.com/watch?v=ULb5iK3ua_c&t=2900s) · 本段原话**：It's whenever you separate yourself from the life source that the vine eventually die the branch eventually dies. The branch doesn't die overnight, just like it is with you prune a tree, it dies over time.
 
 ### 完整英文 Transcript
 

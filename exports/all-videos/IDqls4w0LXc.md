@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1250；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 60:00–65:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 66:00–68:22 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:57](https://www.youtube.com/watch?v=IDqls4w0LXc&t=57s) · 他描述所见**：coming. And we must pray, pray, pray, pray, pray pray pray for the days ahead because the days are evil. We see great things happening already in the news and the media and everything concerning major weather events. I, you know, if we go back to what the Lord showed us on November the 11th, I saw a major ice
+- **[12:00](https://www.youtube.com/watch?v=IDqls4w0LXc&t=720s) · 本段原话**：There is no other way to the father unless it's through him. If you don't confess Jesus Christ as your Lord and personal savior, ladies and gentlemen, you're going to spend eternity in hell.
+- **[24:17](https://www.youtube.com/watch?v=IDqls4w0LXc&t=1457s) · 他描述所见**：And it will not be crippling or devastation. I see it. WE CALL IT TO MOVE UP NORTH FURTHER.
+- **[42:51](https://www.youtube.com/watch?v=IDqls4w0LXc&t=2571s) · 他表达判断**：And that's every tribe and every tongue, every denomination. And I believe, Father, as we all come together with one voice and one sound, one thought to tell the people and to save which is that which was lost to reach the hardest of the hearts ALL THROUGHOUT ITALY, ALL THROUGHOUT EUROPE, ALL THROUGHOUT GERMANY AND and
+- **[54:08](https://www.youtube.com/watch?v=IDqls4w0LXc&t=3248s) · 他描述所见**：Here am I, Lord. Send me. I'll touch him for you. I'll lay hands on him and and cast the devil out. I'll raise the dead. And I see this man that's dead. He has a big nose. He has wrinkles on his forehead. He has hair right here. And it's it's barely any hair right up here, but he it's like he
+- **[67:09](https://www.youtube.com/watch?v=IDqls4w0LXc&t=4029s) · 他进行祷告**：Praise the Lord for all he's done today. Thank you for joining us. I pray this video blessed you all. It uh will um we'll do more prayer. We'll keep praying over the nations. We'll keep praying over things. And um we're so grateful for every single one of you all showing up every single day,
+
 <a id="section-01"></a>
 ## 01. 00:00–05:59 · 祷告、敬拜与现场互动、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、地震、风暴与灾害、预言、梦境与异象。 提到的地点：Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、地震、风暴与灾害展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:57](https://www.youtube.com/watch?v=IDqls4w0LXc&t=57s) · 他描述所见**：coming. And we must pray, pray, pray, pray, pray pray pray for the days ahead because the days are evil. We see great things happening already in the news and the media and everything concerning major weather events. I, you know, if we go back to what the Lord showed us on November the 11th, I saw a major ice
+- **[03:00](https://www.youtube.com/watch?v=IDqls4w0LXc&t=180s) · 他表达判断**：And so this is one of them. I want you to see this clip real quick of what the Lord showed us concerning the ice storm on November the 11th is the day I believe it was. Braden, correct me if I'm wrong, but I want you to listen to it and I want and I'll be right back
+- **[03:38](https://www.youtube.com/watch?v=IDqls4w0LXc&t=218s) · 他描述所见**：TALKING I SAW MAJOR major weather events in the days ahead. Well, you say, "Well, Brandon, we have weather events all the time." Yes, but this is going to be different. I saw major winds. I saw major straight line winds. I saw power outages that would go for a thousand miles more way up thousand just I'm talking about
+- **[04:43](https://www.youtube.com/watch?v=IDqls4w0LXc&t=283s) · 他描述所见**：your house. I mean that's that's a lot of snow. Meteorologists have described it as the heaviest snowfall in 146 years with some areas receiving over 3 months worth of snow in just a few days. I saw ice storms that went from Oklahoma all the way up, crippling ice storms and lost power for for for a long time
 
 ### 完整英文 Transcript
 
@@ -179,7 +197,14 @@
 <a id="section-02"></a>
 ## 02. 06:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[06:01](https://www.youtube.com/watch?v=IDqls4w0LXc&t=361s) · 本段原话**：caution concerning our president and him being over in Switzerland right now for the safety of his life. As I was praying over him talking in his speech and all the things saying, "Hey, it's been 365 days. it's been a year since we uh been um uh inaugurated and been in office now and look at all that we've done. we've
+- **[07:27](https://www.youtube.com/watch?v=IDqls4w0LXc&t=447s) · 他描述所见**：The Lord showed us churches again, and he keeps bringing up churches. So, we'll pray over churches tonight. We're going to pray over the water. Last night, I was getting water. Oh, the deep in the deep. Praying over the deep and the water. I saw the deep trenches and volcanic eruptions about ready to go off
+- **[09:57](https://www.youtube.com/watch?v=IDqls4w0LXc&t=597s) · 他表达判断**：is to come. Signs follow them that believe. And I believe we're just walking in the great commission. We're going to go into all the world laying hands on the sick and they'll recover, casting out devils. We will lay hands on the blinded eyes and they'll open. We'll raise the dead. We'll do all the things
+- **[11:45](https://www.youtube.com/watch?v=IDqls4w0LXc&t=705s) · 本段原话**：I'm not trying to tell you anything that the Bible hasn't already warned you about. So, a preacher try to tell you you can't tell people they're going to hell. I don't have to tell you you're GOING TO HELL. THE BIBLE TELLS YOU YOU'RE GOING TO hell if you don't accept Jesus Christ.
 
 ### 完整英文 Transcript
 
@@ -334,7 +359,14 @@
 <a id="section-03"></a>
 ## 03. 12:00–17:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=IDqls4w0LXc&t=720s) · 本段原话**：There is no other way to the father unless it's through him. If you don't confess Jesus Christ as your Lord and personal savior, ladies and gentlemen, you're going to spend eternity in hell.
+- **[13:05](https://www.youtube.com/watch?v=IDqls4w0LXc&t=785s) · 他转述所听到的话**：All glory to God, ladies and gentlemen. It ain't Brandon Biggs doing any of this. I don't have any. I'M TELLING YOU, I'm just an average guy that was a janitor for 15 years. And the Lord said, "Go on YouTube and tell him I'm coming, son. I'm going to show you things and I'm going to do things in your ministry
+- **[14:07](https://www.youtube.com/watch?v=IDqls4w0LXc&t=847s) · 他描述所见**：And I saw chariots of fire in heaven with with packages of mantels and giftings for end times that the world has never seen before. And he said, "Behold, I'm going to do something new that I've never done on this earth before."
+- **[15:23](https://www.youtube.com/watch?v=IDqls4w0LXc&t=923s) · 他表达判断**：I'm just here to tell you Jesus loves you. And I'm so thankful that you would take your time every single day out of your busy schedule. So much in America is busy, busy, busy. So I'm going to try to keep it underneath an hour. Here we are probably like at 15 minutes. I've
 
 ### 完整英文 Transcript
 
@@ -501,7 +533,14 @@
 <a id="section-04"></a>
 ## 04. 18:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:20](https://www.youtube.com/watch?v=IDqls4w0LXc&t=1100s) · 他转述所听到的话**：And that's what the Lord was showing me about that. So, I'm not here to embarrass anybody or call their name out who I heard their conversations. The Lord allowed me to. I wish I could because they need to be corrected. But the Lord said, "You're it's not your place. It's not your place. I'm doing it and I'm using you to
+- **[19:52](https://www.youtube.com/watch?v=IDqls4w0LXc&t=1192s) · 本段原话**：You said in your word that as far as the east is from the west, you're you've taken our sins from us. If we confess our sins, you are faithful and just to forgive us of our sins and cleanse us from all unrighteousness. And Jesus, you are our our great great redeemer, our sh our
+- **[21:48](https://www.youtube.com/watch?v=IDqls4w0LXc&t=1308s) · 他进行祷告**：We're the closers and we're finishing this thing up. And so let's clo let's close this up right now. Let's pray over President Trump. Let's pray over our weather. Okay. First and foremost, this weather storm is very big. It's a major turner and and one person needs and where I'm at with my faith. I need a lot
+- **[23:04](https://www.youtube.com/watch?v=IDqls4w0LXc&t=1384s) · 本段原话**：Father, I thank you that it will be way too hot for it to b to stick and break limbs and and and and and power lines and all that they say the devastation that's going to be across this nation.
 
 ### 完整英文 Transcript
 
@@ -650,7 +689,14 @@
 <a id="section-05"></a>
 ## 05. 24:00–29:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Texas。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:17](https://www.youtube.com/watch?v=IDqls4w0LXc&t=1457s) · 他描述所见**：And it will not be crippling or devastation. I see it. WE CALL IT TO MOVE UP NORTH FURTHER.
+- **[25:50](https://www.youtube.com/watch?v=IDqls4w0LXc&t=1550s) · 本段原话**：YOU GO over Illinois, Ohio, T Tennessee, Missouri. But don't go down where the air is too hot, where it's not cold enough WHERE THIS ICE, WE STIR YOU UP IN THE NAME of Jesus. We have how many days? We got four days to do it. Tuesday, Wednesday, Thursday, FRIDAY. WE HAVE FOUR DAYS. WE
+- **[27:14](https://www.youtube.com/watch?v=IDqls4w0LXc&t=1634s) · 他描述所见**：I see it. The lower the lower it goes, the lower it goes, the hotter the air.
+- **[27:39](https://www.youtube.com/watch?v=IDqls4w0LXc&t=1659s) · 他描述所见**：So that's what that's why I'm telling y'all. I see if we can just move this we just move it up there by our faith praying over this thing.
 
 ### 完整英文 Transcript
 
@@ -742,7 +788,14 @@
 <a id="section-06"></a>
 ## 06. 30:00–35:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:59](https://www.youtube.com/watch?v=IDqls4w0LXc&t=1859s) · 本段原话**：at Canadian Air, we say share the Canadian Air, Canadians. Bring it down. We don't want that that destruction. Not us. Not us down here.
+- **[33:25](https://www.youtube.com/watch?v=IDqls4w0LXc&t=2005s) · 本段原话**：Yeah. We'll mess up what you say. Would it be funny? We're going to mess up those fat weather man's forecast for them. They're going to go, "Hey, you going What's happening to our computer models?
+- **[35:01](https://www.youtube.com/watch?v=IDqls4w0LXc&t=2101s) · 本段原话**：Every plot, every plan, every evil pursuit against us, we say it falls at our feet like like leaves falling before us as we go before our become a thousand shall fall at our side and 10,000 at her right hand. All demonic activity, all spells, all incantation, all witchcraft, anything that's associated WITH THE
+- **[35:41](https://www.youtube.com/watch?v=IDqls4w0LXc&t=2141s) · 他进行祷告**：The blood of Jesus Christ is against you. The blood OF JESUS CHRIST IS AGAINST YOU. AND THAT is concerning President Trump. That's what I hear right now. That's what I hear. We pray overhead of all. There's so much occult coming against him. There's so much There's so much word curses coming
 
 ### 完整英文 Transcript
 
@@ -827,7 +880,14 @@
 <a id="section-07"></a>
 ## 07. 36:00–41:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Europe、Canada、France。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:32](https://www.youtube.com/watch?v=IDqls4w0LXc&t=2192s) · 本段原话**：He will live long and finish strong. And though a thousand SHOULD FALL AT HIS SIDE AND 10,000 AT HIS RIGHT HAND, NOTHING SHALL COME NIGH HIM. HIS PLANE WILL FLY OVER and fly back and he'll have nobody try to hurt him, NOBODY TRY TO HARM HIM, NOBODY TRY TO COME AGAINST HIM. I know he's go, excuse me. I know
+- **[39:20](https://www.youtube.com/watch?v=IDqls4w0LXc&t=2360s) · 他描述所见**：GREAT SHAKING IS COMING TO CANADA. I SAW A GREAT DEPRESSION, even worse than the 1930s.
+- **[39:32](https://www.youtube.com/watch?v=IDqls4w0LXc&t=2372s) · 本段原话**：But Father, I thank you, LORD, THAT YOU'LL SUPPLY every need for every believer there. that Father that they'll be that head and not the tail and they'll have supernatural provision and they'll be THE THE THE VOICE PIECES OF REVIVAL COMING TO THEIR NATION FOR A GREAT MIGHTY HARVEST OF SOULS IS COMING.
+- **[40:34](https://www.youtube.com/watch?v=IDqls4w0LXc&t=2434s) · 他表达判断**：TORONTO, ONTARIO, British Columbia, Alberto, all of them. I believe, Father, Quebec, WE CALL THEM TO HAVE A MAJOR revival in the name of Jesus. Stir in McCarnney.
 
 ### 完整英文 Transcript
 
@@ -959,7 +1019,14 @@
 <a id="section-08"></a>
 ## 08. 42:00–47:59 · 教会、复兴与信仰、战争与国际事务
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、战争与国际事务展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:51](https://www.youtube.com/watch?v=IDqls4w0LXc&t=2571s) · 他表达判断**：And that's every tribe and every tongue, every denomination. And I believe, Father, as we all come together with one voice and one sound, one thought to tell the people and to save which is that which was lost to reach the hardest of the hearts ALL THROUGHOUT ITALY, ALL THROUGHOUT EUROPE, ALL THROUGHOUT GERMANY AND and
+- **[43:22](https://www.youtube.com/watch?v=IDqls4w0LXc&t=2602s) · 他进行祷告**：and and Finland and Ukraine. Father, for the war and all the things that are taking place right now, we call great shaking to awaken the church for THE GREATEST HARVEST OF SOULS this world has ever seen. We call it from sea TO SHINING SEA ALL AROUND. FATHER, We pray over Iran. We pray over the
+- **[47:20](https://www.youtube.com/watch?v=IDqls4w0LXc&t=2840s) · 本段原话**：What you are about to see is another lynch pin. It's whenever you see a door and every single combination whenever you're opening a big safe, every single combination makes that pin tick to open this great door and the great door that is before Trump.
+- **[47:41](https://www.youtube.com/watch?v=IDqls4w0LXc&t=2861s) · 他描述所见**：the pen to the combination. This pen that's to the I see the door and the door is opening up and the decisions that will be made even in the next couple of days will bring an ex acceleration to the end time events.
 
 ### 完整英文 Transcript
 
@@ -1033,7 +1100,14 @@
 <a id="section-09"></a>
 ## 09. 48:00–53:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[48:43](https://www.youtube.com/watch?v=IDqls4w0LXc&t=2923s) · 他描述所见**：I remember I told you a great revival will come to Ireland and there's a redhead girl there and these young people and I saw black coat people black they look like old uh tiny thinking people there it looked like a they were black coats they had uh and they and there was a revival rising up and these
+- **[51:04](https://www.youtube.com/watch?v=IDqls4w0LXc&t=3064s) · 他描述所见**：Rise up, church. Rise up." He says, "A great revival is coming to Ireland." He says, and an unusual thing. You'll see a dead raised. I see a dead person being raised in Ireland. I see a dead person getting
+- **[51:55](https://www.youtube.com/watch?v=IDqls4w0LXc&t=3115s) · 他描述所见**：raise the dead and I see a man. He's an elderly man. He's probably about 65 years old. And the Lord said I'm going to raise him from the dead and it will be a sign and a wonder to Ireland. Watch this. It's about to happen. That's what the Lord said. He said, "Watch this. I'M
+- **[52:11](https://www.youtube.com/watch?v=IDqls4w0LXc&t=3131s) · 他描述所见**：ABOUT TO DO SOMETHING TO SHAKE THE LAND OF IRELAND. It will be heard around the world." a man that was dead and he'll be dead for quite a I say I I see a number of hours. It's quite a while and he's going to get up and he'll tell about what he's seen.
 
 ### 完整英文 Transcript
 
@@ -1163,7 +1237,14 @@
 <a id="section-10"></a>
 ## 10. 54:00–59:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[54:08](https://www.youtube.com/watch?v=IDqls4w0LXc&t=3248s) · 他描述所见**：Here am I, Lord. Send me. I'll touch him for you. I'll lay hands on him and and cast the devil out. I'll raise the dead. And I see this man that's dead. He has a big nose. He has wrinkles on his forehead. He has hair right here. And it's it's barely any hair right up here, but he it's like he
+- **[54:31](https://www.youtube.com/watch?v=IDqls4w0LXc&t=3271s) · 他描述所见**：does a comb over and it's right here. He has hair. is black, thick hair, black on the sides, and he wears a hat. And I see this man dead, and I'm trying to describe him to you. You'll see him on the news when he gets up.
+- **[55:54](https://www.youtube.com/watch?v=IDqls4w0LXc&t=3354s) · 他描述所见**：I see his belly. I see what he look like. He has a He's a He's skinny everywhere else, but his belly pop kind of but he's I'm heavy kind of a lot of places. But this guy's tall, man. And he's has a like a beer belly. I think he probably drink a lot of beer.
+- **[57:02](https://www.youtube.com/watch?v=IDqls4w0LXc&t=3422s) · 本段原话**：It's it's like you you you got to know he's going to do some big things in this last gen this generation and it's time to get excited about it. It's a form of rejoicing. You got to rejoice in the Lord. And again I say rejoice. A JOY.
 
 ### 完整英文 Transcript
 
@@ -1257,7 +1338,14 @@
 <a id="section-11"></a>
 ## 11. 60:00–65:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[62:24](https://www.youtube.com/watch?v=IDqls4w0LXc&t=3744s) · 本段原话**：It's It's going to It's going to stir up all them old religious Pharisees.
+- **[62:56](https://www.youtube.com/watch?v=IDqls4w0LXc&t=3776s) · 本段原话**：He's defeated. Oh father, we thank you that he's defeated concerning our nation, concerning the weather, concerning Ireland, concerning what you show us. Oh God, HE'S DEFEATED. HE'S DEFEATED BY THE BLOOD. HE'S DEFEATED BY THE BLOOD of the lamb and by THE WORD OF OUR TESTIMONY.
+- **[63:33](https://www.youtube.com/watch?v=IDqls4w0LXc&t=3813s) · 本段原话**：He's alive and he's inside of you and me and we He is there richly by faith and we're so grateful for what he's doing in us. Thank you, Lord. Thank you, Lord, that we're not dead. We're busted up discussed religion. FATHER, WE SHAKE OFF THE way the things people always try to put God in A BOX. WE BREAK OUT OF THAT
+- **[65:31](https://www.youtube.com/watch?v=IDqls4w0LXc&t=3931s) · 本段原话**：today, oh, we'll have the last laugh. HE SAID, "OH, YOU'LL HAVE THE LAST LAUGH. You'll have the last laugh, he said.
 
 ### 完整英文 Transcript
 
@@ -1343,7 +1431,14 @@
 <a id="section-12"></a>
 ## 12. 66:00–68:22 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[67:09](https://www.youtube.com/watch?v=IDqls4w0LXc&t=4029s) · 他进行祷告**：Praise the Lord for all he's done today. Thank you for joining us. I pray this video blessed you all. It uh will um we'll do more prayer. We'll keep praying over the nations. We'll keep praying over things. And um we're so grateful for every single one of you all showing up every single day,
+- **[67:32](https://www.youtube.com/watch?v=IDqls4w0LXc&t=4052s) · 他进行祷告**：praying for the weather. We pray for revival. There's pray now. We pray for our president's safety. We love y'all.
+- **[67:38](https://www.youtube.com/watch?v=IDqls4w0LXc&t=4058s) · 本段原话**：And um we appreciate every single one of you. Please like, subscribe, do all the things you can for us. I'm really not focused. I I I'm I'm getting to the point where it's like who who's here is here. And I'm so grateful for who the who the ones that take this serious. And
+- **[67:56](https://www.youtube.com/watch?v=IDqls4w0LXc&t=4076s) · 他进行祷告**：um pray with us because it's many hands make light work. And that's what we say every single time. And we're so thankful for every single one of you that take this serious that are here for on assignment from the Holy Spirit for such a time as this. God bless you all.
 
 ### 完整英文 Transcript
 

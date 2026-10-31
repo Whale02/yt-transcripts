@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 688；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 - [08. 28:00–28:43 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:19](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=19s) · 本段原话**：weather person, you know, like the way she was trying to describe. And she was just everything was green, everything was lush. The beautiful uh sky was so blue in the dream. And all of a sudden she started pointing out that there was a weather change coming. And all of a sudden out of nowhere, nobody was
+- **[04:36](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=276s) · 本段原话**：Okay. And then I the Lord showed me a plug, an outlet plug came up out of the ground beside the oak tree and it and it and it specifically said 220. It was a massive outlet plug. 220 plug, not a 110 in the United States.
+- **[12:03](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=723s) · 本段原话**：They start to look really hard and gross because you're deter your your your flesh is deteriorating. So, back to the glory. When you're close to the Lord and the more you're in the glory and the more you're in the presence of the Lord, you look beautiful and shining because you're you look radiant and vibrant
+- **[16:11](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=971s) · 本段原话**：We will we will be able to take our authority still. And when the authority of the believer is still in in motion and we're able to take our authority and do the things we have, laying hands on the sick and seeing and recover, casting out devils, whatever, I don't you folks, there's going to be a rapture of the
+- **[25:30](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=1530s) · 他表达判断**：I'm a tither and have a tither's rights. And I believe with all my heart that you promised, Father, to rebuke the devour for me. I thank you, Lord. I thank you for what you said you'd do for us. And God, I give you all the glory and honor and praise that we are free. And we are
+- **[28:01](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=1681s) · 本段原话**：us something nice. I don't know. The trolls can go away, but the people that are nice, we appreciate your support, but we we just want to say put a smile on your face. Put a smile on your face.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:19](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=19s) · 本段原话**：weather person, you know, like the way she was trying to describe. And she was just everything was green, everything was lush. The beautiful uh sky was so blue in the dream. And all of a sudden she started pointing out that there was a weather change coming. And all of a sudden out of nowhere, nobody was
+- **[00:41](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=41s) · 本段原话**：expecting this. Okay, it just happened in suddenly in the dream. It just happened in suddenly. a massive dark gray looking cloud came in from the north and it was so cold instantaneously. And like I said, she was wearing shorts and she was wearing a a red shirt which I really believe this represented something about the United
+- **[01:45](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=105s) · 本段原话**：and just really healthy looking. And there were four of them and they went one and they were all by each other, but they all looked the same as each oak tree looked the same. And all of a sudden when this massive gray looking storm came in and the ma and the cold cold cold air beyond cuz everybody they
+- **[03:22](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=202s) · 本段原话**：But when it got to the two center trees, I could see the people. It's like I could see in the future of the trees, okay, in the dream. And everybody was not prepared. They were able to sustain in the first tree easier than the la the middle two. And then the last tree was
 
 ### 完整英文 Transcript
 
@@ -118,7 +136,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:36](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=276s) · 本段原话**：Okay. And then I the Lord showed me a plug, an outlet plug came up out of the ground beside the oak tree and it and it and it specifically said 220. It was a massive outlet plug. 220 plug, not a 110 in the United States.
+- **[05:25](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=325s) · 他描述所见**：like a Holy Ghost glow. It plugged into this this uh outlet and it was a power source. And the power source started plow. And I'm seeing this in the spirit in in a vision. And so all of a sudden, like I said, and the limbs, all those massive huge limbs started to glow with
+- **[06:23](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=383s) · 他描述所见**：And it was like it was speaking. It was like a loudspeaker. is speaking into that microphone from the 1950s and and then the vision ended. And this was another part of I believe what the Lord showed me about the the oak trees. But the oak trees all started getting plugged into the uh the
+- **[06:42](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=402s) · 他描述所见**：microphone. I mean the the the outlet and which became a microphone and and so that was what I saw. So I I guess there's going to be a part three or a part four of this. I don't know. I just thought it was interesting because I was like, "Whoa, another piece of a puzzle.
 
 ### 完整英文 Transcript
 
@@ -217,7 +242,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:22](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=502s) · 本段原话**：know, the children of Israel, their shoes didn't deteriorate, their clothes didn't mess up or anything. And they always had an abundant supply. When you're connected to the glory and the glorious outpouring that is coming, your flesh will become healed. your your your finances will become abundant because God is an abundant supplying God. He is
+- **[10:05](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=605s) · 他讨论新闻或报道**：even more from July, August, September, October of of a deterioration of the of his of his mind. And it will become even more evident with the media. They're they won't be able to cover it up.
+- **[10:22](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=622s) · 本段原话**：They're not going to be able to to like last time they they were able to the to hide it in the shadows. Now, every time you do a debate, every time you do a speech, every time you talk, you'll see the uh mind of the rep probate spirit, the rep probate mind, because you're
+- **[11:18](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=678s) · 本段原话**：um demonic things like that, they always are painted old and with warts on their nose and things like that. Because when you're astral projecting and you're doing dark things, the more you try to go out of your body and do evil, evil stuff through satanic worship, the more your flesh becomes deteriorated because
 
 ### 完整英文 Transcript
 
@@ -326,7 +358,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:03](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=723s) · 本段原话**：They start to look really hard and gross because you're deter your your your flesh is deteriorating. So, back to the glory. When you're close to the Lord and the more you're in the glory and the more you're in the presence of the Lord, you look beautiful and shining because you're you look radiant and vibrant
+- **[13:08](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=788s) · 本段原话**：more abundantly is what I'm trying to tell you. And the people who are attached to and what I'm trying to get to again that when you see what's going to happen over the summer, the acceleration of the darkness because acceleration of sea time harvest is happening. They're not going to know what to do. They're not going to know
+- **[14:22](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=862s) · 本段原话**：That part of it going into tribulation. Tribulation is hell on earth. Do you understand? It's going to be terrible. We have never seen or have ever seen even in the dark ages any anything remotely from the pestilence, the disease, the earthquakes, the the it's going to be awful. And we as the bride of Christ will the remnant will
+- **[15:48](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=948s) · 本段原话**：believers. We're going to be rec making havoc for the enemy's camp. So he can't take over everything and do everything because we're the believers. We're you think he's going to go walking around cutting everybody's head off and doing everything and they say that they're
 
 ### 完整英文 Transcript
 
@@ -441,7 +480,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:11](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=971s) · 本段原话**：We will we will be able to take our authority still. And when the authority of the believer is still in in motion and we're able to take our authority and do the things we have, laying hands on the sick and seeing and recover, casting out devils, whatever, I don't you folks, there's going to be a rapture of the
+- **[17:49](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=1069s) · 他表达判断**：all there'll be there's there's alliances there going to become even stronger with Putin and Cuba and the Havana area praying over that still praying over a supernatural covering for the United States because I'm telling you I believe there's going to be acceleration of war still and there'll be an acceleration of uh of uh something
+- **[18:47](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=1127s) · 本段原话**：pushing and pushing and pushing this back for the for the uh the plague that's 10 that be that co would be like a 10% versus the major uh thing that that was in store for the hundreds of millions of people perishing because of this major virus that's coming. It's it's even worse than the um
+- **[19:10](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=1150s) · 他表达判断**：other one that came before in 2020. So, um I think that's all I have for y'all today for that. But let me pray for y'all. You know, I always I always try to be uh end with positive note that I'm telling you that financial breakthroughs coming for folks that you believe for supernatural harvest for for your family
 
 ### 完整英文 Transcript
 
@@ -548,7 +594,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:53](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=1253s) · 本段原话**：But Father, I thank you, Lord, for healings and deliverances from all kinds of sickness and disease. You said in your word that we would lay hands on the sick and we would see them recover. I thank you, Father, for supernatural healing, Father, over every single person that's watching this video. I thank you, Lord, for healing from the
+- **[21:13](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=1273s) · 本段原话**：top of their head to the soles of their feet. We call them healed and whole and well in the name of Jesus. We thank you, Lord, that you've delivered them from all kind of bondages, from tobacco, from from perversions, from sexual perversions. Father, we thank you, Lord, that you've delivered them from all
+- **[22:54](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=1374s) · 本段原话**：shines through on our countenance. That people would see us and they would want what we have. That Father, they wouldn't go, "Oh, well, they look cranky and all mad and beat up and we're wore down and all exhausted." No, we're plugged into that 220 and the glory of the Lord is resting and abiding in us because of
+- **[23:54](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=1434s) · 本段原话**：And what the devil meant for bad, Lord, you're going to turn it around for their favor. I call sevenfold what the devil
 
 ### 完整英文 Transcript
 
@@ -658,7 +711,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:30](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=1530s) · 他表达判断**：I'm a tither and have a tither's rights. And I believe with all my heart that you promised, Father, to rebuke the devour for me. I thank you, Lord. I thank you for what you said you'd do for us. And God, I give you all the glory and honor and praise that we are free. And we are
+- **[26:59](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=1619s) · 本段原话**：you. It's the devil that comes to kill, steal, destroy. God is a good God. God is a loving God. He's merciful. Yes, sometimes we go through the refiner's fire, but but he we come out we come out better than what we we we we went in.
+- **[27:20](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=1640s) · 本段原话**：Don't give up. What all there is to do is stand. Stand therefore and keep standing. Keep fighting the good fight of faith because I'm telling you, victories on the other side. God bless you all. I if you could please subscribe to my channel. Help me out. Get the gospel out. Every one of you that has
+- **[27:41](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=1661s) · 他进行祷告**：support me and help me. I thank you. God bless you all. I really do. I I I we we my wife and I, we pray for you all the time and we bless you in the name of Jesus. Click the notification bell. Uh click the thumbs up. Leave a good comment down below if you if you're
 
 ### 完整英文 Transcript
 
@@ -760,7 +820,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–28:43 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:01](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=1681s) · 本段原话**：us something nice. I don't know. The trolls can go away, but the people that are nice, we appreciate your support, but we we just want to say put a smile on your face. Put a smile on your face.
+- **[28:14](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=1694s) · 本段原话**：I truly mean that. Put a smile on your face today. Show people that Jesus is in the inside of you. Don't be gloomy gus.
+- **[28:21](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=1701s) · 本段原话**：Be happy, happy, happy. Be full of joy. Put a smile on your face and a song in your heart. That's one that's full of singing to Jesus, making making praise unto him, giving him praise and worship.
+- **[28:33](https://www.youtube.com/watch?v=tzSAVrfA5Z8&t=1713s) · 本段原话**：Put a song in your heart. Put a smile on your face and a song in your heart because Jesus loves you so much and we love you. And we will see you all next time. God bless you all. Have a blessed day. Bye-bye.
 
 ### 完整英文 Transcript
 

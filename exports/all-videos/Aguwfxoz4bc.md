@@ -5,17 +5,31 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 87；**章节数**: 2；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
 - [01. 00:00–03:59 · 预言、梦境与异象、治安、袭击与安全](#section-01)
 - [02. 04:00–04:11 · 治安、袭击与安全、预言、梦境与异象](#section-02)
 
+## 全片概述与 Key Points
+
+全片共 2 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=Aguwfxoz4bc&t=0s) · 他进行祷告**：overl Vegas father I just seen a glimpse of Vegas oh these are are these all on the same day I pray over Las Vegas Lord oh it is interesting I now I just seen a glimpse of New Orleans Bourbon Street it is a it is an attack simultaneously when people are distracted when people are distracted
+- **[04:00](https://www.youtube.com/watch?v=Aguwfxoz4bc&t=240s) · 他描述所见**：terrorist attacks coming out of Toronto and I saw terrorist attacks coming into Pennsylvania and and New York in very uh strong uh uh terrorist activities trying to take place and and shake the world
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、治安、袭击与安全
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、治安、袭击与安全、祷告、敬拜与现场互动。 提到的地点：New Orleans、Las Vegas、Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、治安、袭击与安全展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=Aguwfxoz4bc&t=0s) · 他进行祷告**：overl Vegas father I just seen a glimpse of Vegas oh these are are these all on the same day I pray over Las Vegas Lord oh it is interesting I now I just seen a glimpse of New Orleans Bourbon Street it is a it is an attack simultaneously when people are distracted when people are distracted
+- **[00:56](https://www.youtube.com/watch?v=Aguwfxoz4bc&t=56s) · 他描述所见**：New Orleans as Tennessee and Nevada as Tennessee and in Las Vegas as new Nashville and Las Vegas the party scene there's something about New Orleans but there but there not as strong as what I see about these two places there's something more it's like one and and and many many many but I would say New Orleans is
+- **[02:04](https://www.youtube.com/watch?v=Aguwfxoz4bc&t=124s) · 他描述所见**：what I saw Nashville Tennessee whenever I saw Nashville Tennessee and was interceding for Nashville it was a very strong Holy Spirit check it's like a h there's something there and then I saw a a a major event taking place in Nashville then I saw in Las Vegas and what I thought was really interesting
+- **[03:12](https://www.youtube.com/watch?v=Aguwfxoz4bc&t=192s) · 他描述所见**：so I in in the vision people were uh being hurt in those Visions from Mash po house um in those areas um because of the bars and I was like seeing honky talk dancing and stuff and then I seen people in Las Vegas on the Strip and things happening there and then that's what the Lord showed me it
 
 ### 完整英文 Transcript
 
@@ -107,7 +121,11 @@
 <a id="section-02"></a>
 ## 02. 04:00–04:11 · 治安、袭击与安全、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：治安、袭击与安全、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕治安、袭击与安全、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=Aguwfxoz4bc&t=240s) · 他描述所见**：terrorist attacks coming out of Toronto and I saw terrorist attacks coming into Pennsylvania and and New York in very uh strong uh uh terrorist activities trying to take place and and shake the world
 
 ### 完整英文 Transcript
 

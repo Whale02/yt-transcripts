@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 544；**章节数**: 6；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -16,10 +16,28 @@
 - [05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
 - [06. 20:00–23:24 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
 
+## 全片概述与 Key Points
+
+全片共 6 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:22](https://www.youtube.com/watch?v=EnW6CgbUg60&t=22s) · 本段原话**：to get it out. It was it was sideways or something. And so I tried to reach up and grab it and get a hold of it to turn it around and I couldn't I couldn't turn the dog and she was pushing as hard as she could and and I thought she's going to break this puppy in half and and and
+- **[04:33](https://www.youtube.com/watch?v=EnW6CgbUg60&t=273s) · 本段原话**：My front door is over there. Walks through my front door and she is just about and everyone say I don't know what gender it was. I'm saying it looked female to me. Okay, so don't sit there and go there's no whatever. I I'm just going to say this. It looked like a little girl. Okay, it it the angel was
+- **[08:00](https://www.youtube.com/watch?v=EnW6CgbUg60&t=480s) · 本段原话**：he witnesses a lot of it. And so, uh, he was he all of them came out alive, every single one of them, like a train. I cleaned them all up. We got them all done and and, um, ready for and and and and it was a big blessing to this family. So, I just wanted to tell you
+- **[12:19](https://www.youtube.com/watch?v=EnW6CgbUg60&t=739s) · 本段原话**：you. And it may just be 10 cents. You go in there and you give that 10 cents. If if the widows might move Jesus more than the rich man given all that he had, how much more would he be moved for you? He's no respector of persons. So even if you just have a penny to give,
+- **[16:00](https://www.youtube.com/watch?v=EnW6CgbUg60&t=960s) · 本段原话**：and have faith behind it and get the manifestation of it. It don't have to be some kind of elegant theosophical wordback prayer all the time. Uh like what I'm talking about to be perfect. Just find scripture. Find scripture that that pertains to your situation and say a simple prayer about it. You don't have to make it all
+- **[20:00](https://www.youtube.com/watch?v=EnW6CgbUg60&t=1200s) · 本段原话**：represented here, Father, that they need the salvation in their homes, I call their home uh filled with the presence of the Lord. And we call those wayward people back in the name of Jesus. We say, Satan, you take your blinders off of their eyes. And we thank you, Lord, that you're bringing in uh
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:22](https://www.youtube.com/watch?v=EnW6CgbUg60&t=22s) · 本段原话**：to get it out. It was it was sideways or something. And so I tried to reach up and grab it and get a hold of it to turn it around and I couldn't I couldn't turn the dog and she was pushing as hard as she could and and I thought she's going to break this puppy in half and and and
+- **[00:39](https://www.youtube.com/watch?v=EnW6CgbUg60&t=39s) · 本段原话**：kill it cuz she was pushing so hard. Well, there was green. You know, if you're if you've ever seen animals born, green is distress. And it was it was going on hours and it was in the middle of the night. It was in the It was in in the winter during the Christmas holiday
+- **[01:31](https://www.youtube.com/watch?v=EnW6CgbUg60&t=91s) · 本段原话**：ear. What are you going to do? What are you going to do? And you got all these thoughts running through your head going 90 miles an hour about how I could maybe pro, you know, rub her and and help her maybe doing all these things. What could I do? you know, you're just you're
+- **[02:42](https://www.youtube.com/watch?v=EnW6CgbUg60&t=162s) · 他表达判断**：ever and and that's why I said God I take I take my prayer and I you said be careful for nothing and I kept saying over my be careful for nothing but in everything uh make your request known unto the Lord. I believe I just butchered that scripture, but that's it for for whatever it is. You I I need my
 
 ### 完整英文 Transcript
 
@@ -129,7 +147,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:33](https://www.youtube.com/watch?v=EnW6CgbUg60&t=273s) · 本段原话**：My front door is over there. Walks through my front door and she is just about and everyone say I don't know what gender it was. I'm saying it looked female to me. Okay, so don't sit there and go there's no whatever. I I'm just going to say this. It looked like a little girl. Okay, it it the angel was
+- **[05:04](https://www.youtube.com/watch?v=EnW6CgbUg60&t=304s) · 本段原话**：She has this this this uh this like lattice looking berry looking crown like thing on her head. This halo looking thing. Okay. On her head. Okay. Her hair is beautiful blonde looking. Okay. She has a little gown on. She smiles at me with the greatest grin on her face. She is light all over her. The glory of the
+- **[05:39](https://www.youtube.com/watch?v=EnW6CgbUg60&t=339s) · 他描述所见**：I didn't see like physical touching flesh. I'm looking into the spirit and I see this angel go through my door and I just grinned back at her and I was because I just the peace that passes all understanding flooded my home and I could feel the presence of the Lord so strong all over me and I just I feel it
+- **[06:39](https://www.youtube.com/watch?v=EnW6CgbUg60&t=399s) · 他描述所见**：like this. Just it was nothing. I saw her bend down on her knees and she touched that little dog with her hands and I kid you not, I kid you not, I heard the loudest pop. It sounded like a cork. It went like a like the pop and I saw the dog all I seriously all
 
 ### 完整英文 Transcript
 
@@ -219,7 +244,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=EnW6CgbUg60&t=480s) · 本段原话**：he witnesses a lot of it. And so, uh, he was he all of them came out alive, every single one of them, like a train. I cleaned them all up. We got them all done and and, um, ready for and and and and it was a big blessing to this family. So, I just wanted to tell you
+- **[09:10](https://www.youtube.com/watch?v=EnW6CgbUg60&t=550s) · 他表达判断**：He blinds them and we're to pray that the Lord remove the blinders off of their eyes. And I believe it's in Corinthians or uh something. Praying that the the eyes be uh the the the scales and the blinders be removed off the unsaved loved ones. You know, finding scripture to stand on concerning
+- **[10:18](https://www.youtube.com/watch?v=EnW6CgbUg60&t=618s) · 本段原话**：the word concerning what you need. Stand on that word. Believe it with all your heart and don't let it go. Let it become so real to you that you that it is more real to you is Rama. It becomes it it becomes something so alive inside of your spirit because we're not dealing
+- **[11:17](https://www.youtube.com/watch?v=EnW6CgbUg60&t=677s) · 本段原话**：flesh. God's not moved by our need. He's moved by our faith. And I'm going to tell you, if you're begging, you're not believing. And you have to get inside the spirit first to get into the to to get out of the spirit to get into the natural. I'm gonna say that again and
 
 ### 完整英文 Transcript
 
@@ -321,7 +353,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:19](https://www.youtube.com/watch?v=EnW6CgbUg60&t=739s) · 本段原话**：you. And it may just be 10 cents. You go in there and you give that 10 cents. If if the widows might move Jesus more than the rich man given all that he had, how much more would he be moved for you? He's no respector of persons. So even if you just have a penny to give,
+- **[13:31](https://www.youtube.com/watch?v=EnW6CgbUg60&t=811s) · 本段原话**：Whenever it seems like it's not even working, you've got to keep speaking and finding scripture because that's whenever your whenever your mountain needs to hear your voice. You have to speak to your mountain and tell it to be thou removed. be thou cast in the sea.
+- **[15:20](https://www.youtube.com/watch?v=EnW6CgbUg60&t=920s) · 他进行祷告**：But it comes down flat down to it. It's the grace of God that gets me through every single day. It is it's it's the grace of God. It ain't nothing how much Brandon prays or how elegant I may pray or how I may think that I have it. Well, well, I prayed that special prayer so
+- **[15:45](https://www.youtube.com/watch?v=EnW6CgbUg60&t=945s) · 本段原话**：He's going to hear if your prayer if you got all kinds of doubt and unbelief up in your heart and you're praying for something for faith whatever it it could be somebody just says Jesus heal him and be some kind of simple little prayer and
 
 ### 完整英文 Transcript
 
@@ -428,7 +467,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=EnW6CgbUg60&t=960s) · 本段原话**：and have faith behind it and get the manifestation of it. It don't have to be some kind of elegant theosophical wordback prayer all the time. Uh like what I'm talking about to be perfect. Just find scripture. Find scripture that that pertains to your situation and say a simple prayer about it. You don't have to make it all
+- **[17:23](https://www.youtube.com/watch?v=EnW6CgbUg60&t=1043s) · 他描述所见**：That's why I say a lot of times I'll be praying and I say, "Listen, Brandon, Brandon, chill out." You know, calm down. Calm down. I see. I see what you're going through. I understand why you what you said what you said. I understand why you did what you did. And I'm merciful to you. My mer his mercies
+- **[17:51](https://www.youtube.com/watch?v=EnW6CgbUg60&t=1071s) · 本段原话**：He loves you. He's a good God. He's a faithful God. And that's what I'm trying to tell y'all. That's what I had for y'all today. I don't want to take it too long. It's 30 minutes. I I try to keep these short because uh it uh people just seem to click out. But I just want to
+- **[19:40](https://www.youtube.com/watch?v=EnW6CgbUg60&t=1180s) · 本段原话**：Jesus. I thank you, Lord, for supernatural harvest over their finances from every single area of their life from from from 30, 60, and 100fold. I call forth an abundant harvest over their finances in the name of Jesus. And I thank you, Father, that every unsaved loved one, every unsaved person that's
 
 ### 完整英文 Transcript
 
@@ -530,7 +576,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:24 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=EnW6CgbUg60&t=1200s) · 本段原话**：represented here, Father, that they need the salvation in their homes, I call their home uh filled with the presence of the Lord. And we call those wayward people back in the name of Jesus. We say, Satan, you take your blinders off of their eyes. And we thank you, Lord, that you're bringing in uh
+- **[20:23](https://www.youtube.com/watch?v=EnW6CgbUg60&t=1223s) · 本段原话**：h the the light light that's flooding their eyes, flooding their hearts, and they would know that Jesus Christ loves them, and that he came and he died for them, and he rose again on the third day, and that they don't have to go to hell with the devil's hell. They can go to heaven and and live for eternity for
+- **[21:52](https://www.youtube.com/watch?v=EnW6CgbUg60&t=1312s) · 本段原话**：would bring healing to their homes in the name of Jesus. Father, I thank you, Lord, for new kidneys for Joyce. We always believe for kidneys for joy and for new hearts and for for new new uh brains and new whatever they need. Alzheimer's is gone, broken off, strokes are healed and whole and well.
+- **[22:50](https://www.youtube.com/watch?v=EnW6CgbUg60&t=1370s) · 本段原话**：I Oh no, I did it again. Whatever. Uh uh have a blessed day and thank you for supporting me. Thank you for watching my YouTube videos. God bless you all. I hope uh if you could comment down below what you think the oak trees mean or whatever uh and and and what you think
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1077；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 36:00–39:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-10)
 - [11. 40:00–43:27 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:17](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=17s) · 本段原话**：spoke to me about things it was about the video that I posted on Sunday and so about what I told you about the great uh refiners fire that was coming you know people are asking me when is this going to happen when uh are these events going to take place and so the more I do these
+- **[09:01](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=541s) · 他描述所见**：kind of a thing I think it's a it's something else this is not a c word uh virus this is something else I believe that it's this is it because whenever I've seen over there and the Lord showed me about it it's very it's very serious what I saw about the refiners fire I
+- **[16:39](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=999s) · 本段原话**：agriculture so they were really really good at sowing seeds and planting stuff and so in exchange we will give you protection for your goods of your Agriculture and these people over here might have been really good at um making clothes so that Chieftain Gabe the statue so his markings were on those staff that happened and in Indian tribes
+- **[24:01](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1441s) · 本段原话**：Ministries and doing things like that um to help out with people maybe it'll be by maybe you're sowing a seed like I said by buying the widow woman some food maybe you're gonna pay her electric bill maybe she's living next year you say Lord put it on my heart to pay your electric bill you sow into good ground
+- **[32:00](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1920s) · 他表达判断**：will hear you Lord and I will follow your voice concerning my life and I thank you Father that you are going to speak to me today I believe by faith say this I believe by faith I hear my father's voice stop saying out of your mouth I don't hear Jesus I don't hear my father stop
+- **[40:17](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=2417s) · 本段原话**：kill steal and destroy but the Bible says that the Lord has come that you might have life and life more abundantly you better believe in the life-giving god that we serve in what's coming you better believe in what I'm telling you that you have authority over demonic spirits and over over coven yeah we have
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:17](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=17s) · 本段原话**：spoke to me about things it was about the video that I posted on Sunday and so about what I told you about the great uh refiners fire that was coming you know people are asking me when is this going to happen when uh are these events going to take place and so the more I do these
+- **[01:16](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=76s) · 他描述所见**：different and so you know I I even in my prayer time is different I was asking him I said Lord what about all these people talking about the the virus coming in the fall and there you know there's a lot of rumors I see it on even on Infowars and some of these other platforms you know I
+- **[02:23](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=143s) · 他描述所见**：with each other when we're having hard times you know I see a lot of you uh polished Christians that are really know the word that come out whenever there's a a person who's not as polished there's a baby Christian that is asking for help and they're just you come in and you're helping them there's a lot of good uh
+- **[03:40](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=220s) · 他描述所见**：the 350 million that I saw no and and a lot of you will not like this what I'm gonna say but that's years down the road I believe whenever I'm praying I'm telling you 20 25 has the potential to be very dark we have authority to
 
 ### 完整英文 Transcript
 
@@ -130,7 +148,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=240s) · 他描述所见**：pray over this stuff so when I'm praying over the virus and whatever this I saw blue States and if you're familiar with America the Democrats are blue and the red the reds are the Republicans and you have the conservatives and the Liberals and so in the the the Democratic uh run States I saw more of a uh escalation in
+- **[05:09](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=309s) · 他描述所见**：migration like I'm trying to tell you I saw people relocating more and more but this was almost like what's going on it causes you to to the before you probably would be uh comfortable in your surroundings you're comfortable with where you're living you don't really want to move out and do things because this is the way
+- **[06:13](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=373s) · 他进行祷告**：like whenever I was saying the 350 million that's a worldwide event that the Lord has showed me okay and that's something that we can pray over and and and y'all what I what I'm learning is we have authority in this earth why we are here to rule and reign with him and that and and a lot of people
+- **[07:14](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=434s) · 他表达判断**：of life that I've been through and some people are just now going through that you know the beginning stages so this is where we are I believe with the virus that everybody's talking about on the on on the uh the internet you know the media hadn't even really picked up on it yet like I just said you see the blue
 
 ### 完整英文 Transcript
 
@@ -235,7 +260,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、物资、能源与供应链。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[09:01](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=541s) · 他描述所见**：kind of a thing I think it's a it's something else this is not a c word uh virus this is something else I believe that it's this is it because whenever I've seen over there and the Lord showed me about it it's very it's very serious what I saw about the refiners fire I
+- **[09:41](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=581s) · 他描述所见**：saw people rioting I saw people pillaging stealing from people like crazy in major cities um by gunpoint all kinds of crazy stuff trying to steal people's food their cars whatever they could get their hands onto because people were that desperate I'm talking like Anarchy you know it was a complete Anarchy in some major cities
+- **[10:23](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=623s) · 他描述所见**：to go back into all that we're going to stand for what we want and we're going to uh go by our constitution all that so then when I saw spring you know whenever the the eclipses go over America and it goes right over the New Madrid Vault I was reading an article from Israel and
+- **[11:22](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=682s) · 他描述所见**：April of 2024 which is a major event that we will see take place in in 2024 the eclipse that will go over America okay we and so the way he what I saw like I said in March of what them saying that they wanted to do this in March was another major event so uh wanting to
 
 ### 完整英文 Transcript
 
@@ -340,7 +372,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、地震、风暴与灾害、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、地震、风暴与灾害展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:03](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=723s) · 本段原话**：the the the the light over the central part of America going down the I-35 Corridor where the glory is the Glorious Church where all the Revival a major part of the revivals and the end times of what we are in the end times but for what we're about to see the major outpouring one of the major hubs when
+- **[12:23](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=743s) · 本段原话**：I'm call is it goes down the I-35 Corridor clear up to Wichita Kansas all the way down to Dallas Fort Worth it's like it's a vein a major highway of a vein of a Revival so then I'm on my Mower and the Lord says to me Brandon what are you believing for what are you believing for now I want
+- **[14:14](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=854s) · 他转述所听到的话**：drama happens practice his presence now practice his The Authority now over the weather call in rain start speaking to the weather start speaking to the rain to come or the hot weather to leave I speak to the high pressure system all the time I speak to the rain to come the Lord told
+- **[15:26](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=926s) · 本段原话**：participate in a recession I'm not going to participate in that that's for them that's not for me I have a Heavenly account I have a Heavenly gifting God said he would supply all my needs according to his riches and Glory by Christ Jesus he said he'd never see the righteous for second the second nor his
 
 ### 完整英文 Transcript
 
@@ -448,7 +487,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、战争与国际事务
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、战争与国际事务展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:39](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=999s) · 本段原话**：agriculture so they were really really good at sowing seeds and planting stuff and so in exchange we will give you protection for your goods of your Agriculture and these people over here might have been really good at um making clothes so that Chieftain Gabe the statue so his markings were on those staff that happened and in Indian tribes
+- **[17:59](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1079s) · 本段原话**：biblical all what you sow into you will reap if you don't sow into something how are you going to reap if you don't have an exchange of finances to help and say hey God I'm putting my my what's most precious to me David said I only gave what cost me something to the Lord it
+- **[19:26](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1166s) · 本段原话**：prison but I also said those that bless Israel will be blessed and those that curse Israel will be cursed the Bible says that so if you're sowing into trying to get the Jews to come home or whatever trying to help out in a Ministry that is ministering to the Jewish people you're automatically going
+- **[19:43](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1183s) · 本段原话**：to be blessed by that because you're sowing into ground that he already said those that bless you I will bless and those that curse you I will curse so if you're going to help out the Widow and she can't go out there and mower grass or maybe she's your relative and she can't um she's too old to even take a
 
 ### 完整英文 Transcript
 
@@ -560,7 +606,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、物资、能源与供应链展开，包含个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1201s) · 本段原话**：bath or she can't um go out and make food anymore if you do like the Mills the Meals on Wheels you go and you honor them you help them out you you maybe go get them an ice cream cone you they're alone they need love you you show the love of God to the elderly There's
+- **[21:06](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1266s) · 本段原话**：her mouth but God had another plan for her life she had to take what she had and she had to sew it sacrificially to Elijah okay and in her sacrificial gift God took and multiplied her by by the whole rest of him because the Bible says there was a famine in the land okay
+- **[22:27](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1347s) · 本段原话**：extend and multiply your household I have seen for what's coming is terrible for for the people who don't listen to him if you're not listening you're not obeying you're in trouble so you tape that oil just like she did she went and sold it on she had enough to supply okay here it is and it says in
+- **[22:46](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1366s) · 他表达判断**：Genesis 26 I believe Isaac sowed in famine what did Isaac do there was a famine in the land Isaac sewed in famine and in that famine God blessed his cross and he reaped a hundred-fold return in that same year okay there's already a miracle there in itself he obeyed in famine famine no Dr it's
 
 ### 完整英文 Transcript
 
@@ -666,7 +719,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、物资、能源与供应链、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、物资、能源与供应链展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:01](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1441s) · 本段原话**：Ministries and doing things like that um to help out with people maybe it'll be by maybe you're sowing a seed like I said by buying the widow woman some food maybe you're gonna pay her electric bill maybe she's living next year you say Lord put it on my heart to pay your electric bill you sow into good ground
+- **[24:59](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1499s) · 本段原话**：Isaac look what he did for Abraham in famine in famine always in Fame and there was famines in the land with Joseph there was a famine for seven years of plentiful seven years of a famine look at all the times in the Bible God look it starts Google it Google it Google famines in the Bible
+- **[25:37](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1537s) · 他表达判断**：time until the until he told them to move on a raven brought him his meal he brought the mill and I believe it was twice a day he brought a mill to him uh at noon and and uh at dinner time that Raven would come and if you know Ravens Ravens are a dirty nasty bird but and
+- **[26:14](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1574s) · 本段原话**：fear what what what's about to happen do not fear any kind of financial crash do not fear um not having enough groceries on the Shelf the Lord showed me people gathering around tables and their pots were empty and blessing the food and and the food coming into the pot supernaturally we serve as super
 
 ### 完整英文 Transcript
 
@@ -778,7 +838,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、地震、风暴与灾害、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、地震、风暴与灾害展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:50](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1730s) · 他描述所见**：make you all worried it's to tell you preparation a Watchman on the wall guy I see on the wall I'm on the wall and I'm looking out over there prophetically and I'm saying oh storm's coming oh storm's coming and what other people do oh good let's go down there and get ready for
+- **[29:45](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1785s) · 本段原话**：he did raise the Dead cast out Devils heal the sick it's all the Great Commission you have it but it never said we'd have to go through famine and and and and suffer through it we may see the feminine baby be all around us and that could happen but it but I'm not going to participate
+- **[30:41](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1841s) · 本段原话**：impossible believe the impossible believe the impossible that he'll he'll come through for you it may look like it's not going to happen and I'm telling you I'm sure she thought that lady she thought I'm gonna cook this last meal and we're gonna die what a what a bleak way to think but yet God had a plan and
+- **[31:12](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1872s) · 本段原话**：is he is more than able to do exceedingly abundantly above all that you dare ask or think according to the power that working through you through you you have to understand Jesus is going to use you to do something to but you have to be listening to him listen to him today he wants to talk to you as
 
 ### 完整英文 Transcript
 
@@ -890,7 +957,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:00](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1920s) · 他表达判断**：will hear you Lord and I will follow your voice concerning my life and I thank you Father that you are going to speak to me today I believe by faith say this I believe by faith I hear my father's voice stop saying out of your mouth I don't hear Jesus I don't hear my father stop
+- **[32:36](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1956s) · 本段原话**：he always is directing my path he always has a plan for my life the footsteps of the righteous are ordered the Lord and I'm righteous I'm full of following you father I hear you I'm not going to give up on hearing you father father I I know I I'm gonna hear you today I'm believing today that you have
+- **[32:55](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=1975s) · 本段原话**：a plan for my life seek Him daily not just on Sunday he said those that seek me you will find me you gotta gotta you gotta seek him though okay so father right now in the name of Jesus I speak blessing over these people according to Deuteronomy 28.
+- **[35:54](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=2154s) · 本段原话**：from the top of our head to the souls of our feet I call blood blood diseases healed and whole and well I just saw
 
 ### 完整英文 Transcript
 
@@ -998,7 +1072,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:18](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=2178s) · 本段原话**：in the name of Jesus I call the fire of God to dwell in you and burn out that hepatitis out of your body in the name of Jesus I commend you to be healed and whole and well from the top of your head and from the soul any sexually transmitted disease we command you delivered in the name of
+- **[38:19](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=2299s) · 本段原话**：name of Jesus Restoration in homes children coming home the prodigals are coming home we're calling in the prodigals and father we start changing what we say out of our mouth and we start believing for blessing and not curses we believe in the blessing of Deuteronomy 28.
+- **[39:00](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=2340s) · 本段原话**：underneath that devil we don't have to have that in our home we put a bloodline over us we put a bloodline over our house we put a bloodline over our children we put a bloodline over our elderly thus far and no further Satan you have to be that bold you have to believe it that strong thus
+- **[39:20](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=2360s) · 本段原话**：far and no further Satan you're not touching my house with covet again we're not going to have a mandate and shut down over our nation no where I live we have authority over it a lot of people are asking like I said if you're begging you're not believing if you're begging him to protect you from covid
 
 ### 完整英文 Transcript
 
@@ -1107,7 +1188,14 @@
 <a id="section-11"></a>
 ## 11. 40:00–43:27 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:17](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=2417s) · 本段原话**：kill steal and destroy but the Bible says that the Lord has come that you might have life and life more abundantly you better believe in the life-giving god that we serve in what's coming you better believe in what I'm telling you that you have authority over demonic spirits and over over coven yeah we have
+- **[40:37](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=2437s) · 本段原话**：to take D3 we have to take the vitamins we have to take things and because we live our soil and our stuff so depleted our our things are not taken care of right because they're they're putting Roundup on our food and they're poisoning us but but no weapon formed against you is going to prosper you got
+- **[41:53](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=2513s) · 他表达判断**：if it usually I say if it tastes bad it's probably really good for you you know if it's salad or whatever you you start training your flesh that's what I'm doing training your flesh chart going that direction again I'm not going to go out and have waffle fries from Chick-fil-A today I'm going to have a
+- **[43:15](https://www.youtube.com/watch?v=jx6fBGkMNTI&t=2595s) · 本段原话**：right yeah thank you God bless you guys and so um we just want to say put a smile on your face and a song in your heart Jesus loves you so much and we love you we'll see you next time have a blessed day bye-bye
 
 ### 完整英文 Transcript
 

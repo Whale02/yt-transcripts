@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 2647；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 130:00–142:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
 - [12. 143:00–150:26 · 祷告、敬拜与现场互动、经济、银行与市场](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[05:55](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=355s) · 他描述所见**：And this is what we were praying into over the last 48 hours. If you've been praying with us, we're praying for the the the leadership of Cuba to change now. We're praying for Claudia to be removed, for a new this man that I saw looks like Antonio Banderas, a great new leader that's conservative to rise up in
+- **[26:01](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=1561s) · 本段原话**：believe that I'm a he's a covenant keeping God, and greater is he that is in me than he that is in the world. A thousand shall fall at my side and 10,000 at my right hand, but nothing shall come nigh me. People say, "Brennan, you're bold. You say a lot of THINGS ON THERE." WHY? BECAUSE I'M
+- **[52:43](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=3163s) · 本段原话**：When you when you are when you're basically riding in somebody's downdraft, and you don't you're not you're not resisting, but you're kind of you're you're you're you're you're catching the draft in front of them. And you're allowing them to to to break the waves in the ice, and you're just kind of coasting waiting for
+- **[92:33](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=5553s) · 他描述所见**：I call in this with all this anti um Jewish things that I see in the days ahead.
+- **[122:07](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=7327s) · 他描述所见**：I need you to hear that I I see what would be like an Amber Alert on all the phones hitting the nation.
+- **[144:12](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=8652s) · 本段原话**：It's beautiful. I I watch Kathryn Kuhlman and the way she moved and she was so theatrical. It seemed kind of weird sometimes, you know?
+
 <a id="section-01"></a>
 ## 01. 00:00–12:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Iran、Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:55](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=355s) · 他描述所见**：And this is what we were praying into over the last 48 hours. If you've been praying with us, we're praying for the the the leadership of Cuba to change now. We're praying for Claudia to be removed, for a new this man that I saw looks like Antonio Banderas, a great new leader that's conservative to rise up in
+- **[07:52](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=472s) · 他描述所见**：He has Easter on our hearts to pray over this, to pray over the 250 year anniversary, praying over our anti-Semitism. He's warned us about that spreading throughout the nation around Australia, around this for great persecution against the Jewish people for what's happening today. I saw great protest and great anti-Semitism with making it very hard
+- **[10:31](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=631s) · 本段原话**：The weekly portion read in in re- read in the synagogues was from Deuteronomy 25 and through 17 and 19. So she was she was talking about where we are in these end times and how significant the Ayatollah Khomeini being removed at this exact day going into the third with the blood moon on on this time frame.
+- **[12:43](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=763s) · 他描述所见**：warn you of what I see coming as a watchman to tell you this is the darkness of the hour. It's going to get dark dark dark and it's going to get really light in in the church.
 
 ### 完整英文 Transcript
 
@@ -381,7 +399,14 @@
 <a id="section-02"></a>
 ## 02. 13:00–25:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[13:08](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=788s) · 本段原话**：No, I'm talking about being rooted and grounded in the word of God. Having a having that foundation of a rhema word inside of you of knowing who you are in these last days. Knowing that no weapon formed against you is going to prosper.
+- **[20:48](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=1248s) · 本段原话**：Father, I thank you, Lord, that tomorrow as our church is gathered and we have our services tomorrow, that every person, every every church service is protected by the blood of Jesus, that every plan, every plot of the enemy is found out in the name of Jesus. Father, we thank you.
+- **[24:45](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=1485s) · 他描述所见**：stay in that place of peace and thanksgiving. Regardless of what you see on the news, I'm not moved by what I see, I'm not moved by what I feel, I'm moved by what the word of God says. and he said he's never seen the righteous forsaken forsaken nor his seed BEGGING BREAD.
+- **[25:18](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=1518s) · 他转述所听到的话**：I but either you believe IT OR YOU DON'T. HE'S A HEALER. WELL, THERE'S A PLAGUE, BRENNAN. Did you know there's a plague coming? I'VE ALREADY TOLD YOU WHAT THE LORD SAID. A major plague that's worse than the black death is coming.
 
 ### 完整英文 Transcript
 
@@ -734,7 +759,14 @@
 <a id="section-03"></a>
 ## 03. 26:00–38:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[26:01](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=1561s) · 本段原话**：believe that I'm a he's a covenant keeping God, and greater is he that is in me than he that is in the world. A thousand shall fall at my side and 10,000 at my right hand, but nothing shall come nigh me. People say, "Brennan, you're bold. You say a lot of THINGS ON THERE." WHY? BECAUSE I'M
+- **[28:53](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=1733s) · 他描述所见**：I don't control the gift. If there's a vision that comes and God wants to show me something to warn the people, then fine. We're not here to perform.
+- **[32:24](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=1944s) · 本段原话**：And I thank you, Father, for your healing power that flows on the inside of us and we receive it and there's an expiration date right now for every one of your of what you're having in your body. You say, "Well, Brandon, I need this and this and this." There's an expiration date for it.
+- **[34:26](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=2066s) · 本段原话**：I apply the blood of Jesus and thank you, Lord, that George is here, my big angel, to protect, and with the swords and shields up, ready to defend in the name of Jesus. Amen and amen.
 
 ### 完整英文 Transcript
 
@@ -1030,7 +1062,14 @@
 <a id="section-04"></a>
 ## 04. 39:00–51:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[43:18](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=2598s) · 他描述所见**：This is what I see. Marco Rubio For he has slain his his his it's for I
+- **[45:31](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=2731s) · 本段原话**：Assigned by Trump. Assigned by Trump for uh Cuba and Mexico Venezuela the South American people.
+- **[47:29](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=2849s) · 他描述所见**：I see the eyes. I see the eyes of the chameleon. I see the eyes of the gecko.
+- **[50:21](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=3021s) · 他描述所见**：But I see this a a transition is coming. If he will yield to the hand.
 
 ### 完整英文 Transcript
 
@@ -1193,7 +1232,14 @@
 <a id="section-05"></a>
 ## 05. 52:00–64:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、地震、风暴与灾害。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[52:43](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=3163s) · 本段原话**：When you when you are when you're basically riding in somebody's downdraft, and you don't you're not you're not resisting, but you're kind of you're you're you're you're you're catching the draft in front of them. And you're allowing them to to to break the waves in the ice, and you're just kind of coasting waiting for
+- **[55:10](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=3310s) · 他描述所见**：He's going to restore back like a Job. Not quite like Job, the Lord said, of course. I see, Lord.
+- **[59:28](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=3568s) · 他描述所见**：I I know can't see what I see. So, I tell you I'm I'm in Cuba right now and I'm praying over all that's going on in Cuba.
+- **[64:07](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=3847s) · 他描述所见**：THE ATTACKS THAT IS PLANNED TO COME AGAINST THE THE the the the the the THE THE THE OIL AGAIN. I SEE THE DECKS BLOWING UP. I SEE FIRE. I SEE FIRE ON THE THE DECK. I SEE FIRE. I SEE A RETALIATION. I SEE THE DRUG LORD DRUG LORDS COMING AGAINST THE THE OIL.
 
 ### 完整英文 Transcript
 
@@ -1331,7 +1377,14 @@
 <a id="section-06"></a>
 ## 06. 65:00–77:59 · 经济、银行与市场、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：经济、银行与市场、预言、梦境与异象、战争与国际事务。 提到的地点：China、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕经济、银行与市场、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[65:29](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=3929s) · 他描述所见**：I see a planned attack. I see a planned I see a planned attack mondeling mondeling mounting amaldeling in Boston of the Boston ring outer door of the bull bull of THE CASTLE ALLEY THE RUSSIANS THE RUSSIANS THE MOUNT THE
+- **[66:46](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=4006s) · 本段原话**：AND RUSSIA AND CHINA AND NORTH KOREA AND CHINA AND NORTH KOREA MOCO ROTOCO a plan a plan a plan THAT YOU DON'T UNDERSTAND YOU DON'T SEE IT YOU DON'T SEE IT MOTALI MOTALI A LITTLE CASINO ROSSO COTILINI LELO LELO AND IT'S WITH TURKEY MILO ON THE TOTAL MISSILE
+- **[67:16](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=4036s) · 他描述所见**：OR WHAT DO YOU MEAN RULE AMONG ALL THE MOST UH THEY'RE WEIGHING WHAT THEIR DECISION IN THE BALANCE. What do we can this is a strategic a strategic plan a strategic finding allies. I see Kim is is one of the take
+- **[73:30](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=4410s) · 他描述所见**：It looks like electric grid on a pole like a transformer. There's two of them side by side. I see them and they're on a cart. They're on these carts and I see men with black like berets on their head with mask like mask.
 
 ### 完整英文 Transcript
 
@@ -1533,7 +1586,14 @@
 <a id="section-07"></a>
 ## 07. 78:00–90:59 · 战争与国际事务、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：战争与国际事务、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[80:03](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=4803s) · 他描述所见**：They're regrouping. And they're bringing them to this one location and I see it closer to the Israel.
+- **[82:56](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=4976s) · 他转述所听到的话**：Getting for their real What the Lord said. They're getting ready for their real retaliative attack. They're They're It's real. This is They They haven't done their their defensive or uh uh uh this is not offensive.
+- **[85:38](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=5138s) · 他描述所见**：Not one will be touched. Not one will be hurt. I see this.
+- **[88:43](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=5323s) · 他描述所见**：We're praying. It's serious. What I see right now is serious. Very, very serious and this is going to involve Europe.
 
 ### 完整英文 Transcript
 
@@ -1757,7 +1817,14 @@
 <a id="section-08"></a>
 ## 08. 91:00–103:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[92:33](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=5553s) · 他描述所见**：I call in this with all this anti um Jewish things that I see in the days ahead.
+- **[94:57](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=5697s) · 他描述所见**：Do you remember when I said I saw them rejoicing in the streets because the Lord became real to them in this generation?
+- **[99:01](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=5941s) · 本段原话**：That every place, every plan, every pursuit, every kind of demonic attack that they would have to try to destroy our nation in any way, we thank you, Lord, that you're exposing them and bringing them to justice right now. That there's confusion in the enemy's camp.
+- **[103:48](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=6228s) · 本段原话**：Matale bistele bitelaro. Mandale bistele bistele loste stoste stolle bofolo. Mandere bistis tis tis tialatou kotale basandere bitaralo.
 
 ### 完整英文 Transcript
 
@@ -1986,7 +2053,14 @@
 <a id="section-09"></a>
 ## 09. 104:00–116:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[104:20](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=6260s) · 本段原话**：bostas sardede bekro to kosho leba falaba falaba falaba. Otalaba valaba. Otalaba valaba basho. Shashashashan nanana otoko radare. Rotoko dador edare de fafarere kasho anama to deba sorada. Ro.
+- **[110:07](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=6607s) · 他描述所见**：Oral Roberts vision from 2004. The wake-up call. 22 years ago. So many shaking, so much awakening and
+- **[112:09](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=6729s) · 本段原话**：Droves. You think what was what what what church was like the day after 9/11 was something? Watch what's about to take place. Are you ready for what's for for this great race? Are you ready for all these people that are coming?
+- **[114:31](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=6871s) · 本段原话**：It won't come out of flowers and roses. Like oh, we're good. We're having a picnic. No, it's going to come out of great pressure.
 
 ### 完整英文 Transcript
 
@@ -2182,7 +2256,14 @@
 <a id="section-10"></a>
 ## 10. 117:00–129:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[122:07](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=7327s) · 他描述所见**：I need you to hear that I I see what would be like an Amber Alert on all the phones hitting the nation.
+- **[124:21](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=7461s) · 他描述所见**：Emergency. Alert, alert. I see it and I feel it. The Lord said this happened in Hawaii once.
+- **[126:20](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=7580s) · 他描述所见**：I see them with with with just a couple little things, their medication or whatever, and they're leaving for some reason.
+- **[128:53](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=7733s) · 他描述所见**：I see tomato plants. Just in your flower bed. Everything is going to change.
 
 ### 完整英文 Transcript
 
@@ -2338,7 +2419,14 @@
 <a id="section-11"></a>
 ## 11. 130:00–142:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[131:43](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=7903s) · 本段原话**：They're they're asking what's going to happen. They're saying 24 hours from now. He's saying 24-hour period. In a 24-hour period. Yes. Yes.
+- **[133:38](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=8018s) · 他描述所见**：I see these people leaving and going places and you go What what would freak people out so bad that they would leave their house, their furniture, their stuff, and have just the clothes on their back and their dog or their cat and their children and just a little bit of stuff to leave.
+- **[138:13](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=8293s) · 本段原话**：Not in 24 hours from now. I have to say that cuz there's so many people that will try to find, "Well, see, I looked at 24 hours and nothing happened, Brannon." No, I said within in a 24-hour period. I got to learn to talk a little better.
+- **[141:40](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=8500s) · 本段原话**：As I told my friend Billy Burke, I said, "The Lord's about to increase the anointing on your services by double, and it's going to be it because he already has a foundation and he's all to cultivate it with him." Watch what Let me tell you this. Watch what what God does with Billy Burke in the next couple
 
 ### 完整英文 Transcript
 
@@ -2620,7 +2708,14 @@
 <a id="section-12"></a>
 ## 12. 143:00–150:26 · 祷告、敬拜与现场互动、经济、银行与市场
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、经济、银行与市场、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、经济、银行与市场展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[144:12](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=8652s) · 本段原话**：It's beautiful. I I watch Kathryn Kuhlman and the way she moved and she was so theatrical. It seemed kind of weird sometimes, you know?
+- **[147:14](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=8834s) · 本段原话**：They're all celebrating. They're celebrating? Show them. They're celebrating Ayatollah Khomeini. Can you imagine being in that that's their 24 hours everything changes, huh?
+- **[148:19](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=8899s) · 他描述所见**：I'm excited about this. I saw them and those those um those uh B-2 bomber stealths flying in the moon tonight.
+- **[150:05](https://www.youtube.com/watch?v=5u6wPxLzE9E&t=9005s) · 他描述所见**：What's interesting is what's going on up top on the ground, but what I saw in the military underground tonight. Isn't that interesting? Yes.
 
 ### 完整英文 Transcript
 

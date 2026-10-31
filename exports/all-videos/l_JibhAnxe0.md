@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 416；**章节数**: 5；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -15,10 +15,27 @@
 - [04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-04)
 - [05. 16:00–18:13 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
 
+## 全片概述与 Key Points
+
+全片共 5 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:17](https://www.youtube.com/watch?v=l_JibhAnxe0&t=17s) · 他描述所见**：prayer and my wife is going to read it it's a vision and so it encouraged me it is really really really powerful and so we read these prophec these Visions these prophecy from people cuz people have been ever since the last like three videos ago people have been sending us words and um we read them and so if if
+- **[04:02](https://www.youtube.com/watch?v=l_JibhAnxe0&t=242s) · 本段原话**：begun myriads multitudes Beyond count and singing in Perfection together in worship dancers and skaters on a part of the sea that is frozen for them in perfect choreography it is beyond description help me oh Lord to be faithful to write what you want me to then my angel said write the words that you are hearing
+- **[08:26](https://www.youtube.com/watch?v=l_JibhAnxe0&t=506s) · 本段原话**：it is all rhyming and imperfect meter in the language they are singing in but it is not English I gave the understanding and interpretation as I could that's what is written here may God bless this poor rendition of the beginning of the Heavenly Symphony amen it's exciting I just get excited about it it's just like
+- **[12:41](https://www.youtube.com/watch?v=l_JibhAnxe0&t=761s) · 他表达判断**：to manifest in people's lives through dreams signs wonders uh visions and I'm just telling you the best is yet to come this is going to be I believe 2024 will be a year of Great Beginnings of new miracles in your life and so um I we just I just want to encourage you all to
+- **[16:00](https://www.youtube.com/watch?v=l_JibhAnxe0&t=960s) · 他表达判断**：from maybe they need hair maybe they need new ears whatever father I believe they with them Father we thank you Lord that by the stripes of Jesus they are healed they are free thank you Lord for finances Lord we thank you Lord we call in finances in the name of Jesus from the north the South the East the West
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:17](https://www.youtube.com/watch?v=l_JibhAnxe0&t=17s) · 他描述所见**：prayer and my wife is going to read it it's a vision and so it encouraged me it is really really really powerful and so we read these prophec these Visions these prophecy from people cuz people have been ever since the last like three videos ago people have been sending us words and um we read them and so if if
+- **[01:51](https://www.youtube.com/watch?v=l_JibhAnxe0&t=111s) · 他描述所见**：going to bless you so we let's get right to it hi good morning everybody um I have this um amazing uh vision that I wanted to read to y'all um it was from January uh 2020 and it's uh it was just email to us so um it says I was just caught up in a vision into the start of
+- **[02:31](https://www.youtube.com/watch?v=l_JibhAnxe0&t=151s) · 他描述所见**：much it is too marvelous for Earthly language to adequately describe but tonight I have permission to share this with you oh my what ecstatic and Majestic praise and worship I have never seen or heard anything to compare with this Glory I see millions of saints and angels singing dancing and playing musical instruments before the holy
+- **[03:17](https://www.youtube.com/watch?v=l_JibhAnxe0&t=197s) · 他描述所见**：spectacular and triumphant event I see a giant rainbow that forms a perfect circle over and under to the throne of God the stones of fire there are multicolored gemstones set like a pave setting like a giant Mosaic they light up in amazing intricate patterns right under the great Throne of Glory under the throne is a crystal sea that is
 
 ### 完整英文 Transcript
 
@@ -121,7 +138,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:02](https://www.youtube.com/watch?v=l_JibhAnxe0&t=242s) · 本段原话**：begun myriads multitudes Beyond count and singing in Perfection together in worship dancers and skaters on a part of the sea that is frozen for them in perfect choreography it is beyond description help me oh Lord to be faithful to write what you want me to then my angel said write the words that you are hearing
+- **[05:08](https://www.youtube.com/watch?v=l_JibhAnxe0&t=308s) · 本段原话**：they were singing in heaven yes Y and he wrote it down these are the words now that I hear the Heavenly Host singing wow it's here it's here the fullness of harvest is here the glory of God shall be seen on Earth as God's judgments fall on the wicked together together let let
+- **[06:23](https://www.youtube.com/watch?v=l_JibhAnxe0&t=383s) · 本段原话**：judge the Earth the time of Jacob's trouble is almost begun run run to The Mercy Seat as my spirit once sung through young charity there is still a window of Grace and opportunity repent repent come to Yeshua now flee from the Wrath to come Glory Glory mine eyes have seen the glory of
+- **[07:21](https://www.youtube.com/watch?v=l_JibhAnxe0&t=441s) · 本段原话**：who will suddenly perish warn warn those deceived in darkness that time is short the bride has made herself ready come come up hither I am calling you home my bride my beloved is waiting for me I am taking you home to be with me you shall Rule and reign with me all those who have overcome enter enter into
 
 ### 完整英文 Transcript
 
@@ -206,7 +230,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:26](https://www.youtube.com/watch?v=l_JibhAnxe0&t=506s) · 本段原话**：it is all rhyming and imperfect meter in the language they are singing in but it is not English I gave the understanding and interpretation as I could that's what is written here may God bless this poor rendition of the beginning of the Heavenly Symphony amen it's exciting I just get excited about it it's just like
+- **[09:26](https://www.youtube.com/watch?v=l_JibhAnxe0&t=566s) · 本段原话**：they're they're kind of rude but I'm telling you for the most part we have some some amazing followers and I just want to say thank you for encouraging us and sending us your visions and your dreams and things that the Lord is showing you and so uh if we don't get to all of it and we don't maybe put it on
+- **[10:36](https://www.youtube.com/watch?v=l_JibhAnxe0&t=636s) · 本段原话**：don't you think yeah it's awesome we're in I I mean you know our grandparents used to talk about it to us you know like Grandma said oh I've heard about Jesus coming back clear back and whenever I remember in World War II and granny granny used to tell us about that all the time tent revivals you know and
+- **[11:46](https://www.youtube.com/watch?v=l_JibhAnxe0&t=706s) · 他表达判断**：tent meetings I believe we're going to see major stadiums like the Dallas Cowboys or whoever filled with worship filled with the presence of God for days at a time you know in the off season
 
 ### 完整英文 Transcript
 
@@ -312,7 +343,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:41](https://www.youtube.com/watch?v=l_JibhAnxe0&t=761s) · 他表达判断**：to manifest in people's lives through dreams signs wonders uh visions and I'm just telling you the best is yet to come this is going to be I believe 2024 will be a year of Great Beginnings of new miracles in your life and so um I we just I just want to encourage you all to
+- **[13:01](https://www.youtube.com/watch?v=l_JibhAnxe0&t=781s) · 他描述所见**：to don't give up on what you're believing for don't give up on your Miracle believe God for big in 2024 I believe that the best days are yet to come if you have a a a vision or a u dream or something that's similar some kind of really cool visitation send it to us in our email and if the Lord tells
+- **[13:24](https://www.youtube.com/watch?v=l_JibhAnxe0&t=804s) · 他描述所见**：me to I'll put it on here I want to I want to share what God is doing your all's lives it's not just about me this is his channel and if he wants his word spoken about somebody else's Vision or encounter or visitation or whatever I want to be able to put it on here and
+- **[14:24](https://www.youtube.com/watch?v=l_JibhAnxe0&t=864s) · 本段原话**：it's it's it's become it's a major deal it's I'm excited it's I in my mind I always believe for Ministry uh my whole life but look at What the Lord Has Done in just a year I've been doing this channel since March of 202 uh3 and it's been a year uh this next month or so and
 
 ### 完整英文 Transcript
 
@@ -416,7 +454,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–18:13 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=l_JibhAnxe0&t=960s) · 他表达判断**：from maybe they need hair maybe they need new ears whatever father I believe they with them Father we thank you Lord that by the stripes of Jesus they are healed they are free thank you Lord for finances Lord we thank you Lord we call in finances in the name of Jesus from the north the South the East the West
+- **[17:13](https://www.youtube.com/watch?v=l_JibhAnxe0&t=1033s) · 他进行祷告**：that they're they're children are are blessed and whole in their minds and their no more ADHD and autism and all kinds of things in the mind thank you Lord that they're blessed and highly favored they go and they have good grades at school father we give you all the glory and honor and praise for every single
+- **[17:31](https://www.youtube.com/watch?v=l_JibhAnxe0&t=1051s) · 本段原话**：one of them and father I I just agree with them by faith they're healed set free delivered whatever they need of today and Father we thank you for amen and amen do you all believe that do you believe Jesus is your healer do you believe he sets you free you've got to believe it don't be begging be believing
+- **[17:50](https://www.youtube.com/watch?v=l_JibhAnxe0&t=1070s) · 他表达判断**：and I believe that Jesus takes care of all your needs I believe it it's done it's done agree so we just want to say thank thank you thank you thank you thank you for for watching this video please uh uh put a smile on your face and a song in your heart Jesus loves you
 
 ### 完整英文 Transcript
 

@@ -5,17 +5,31 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 140；**章节数**: 2；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
 - [01. 00:00–03:59 · 祷告、敬拜与现场互动](#section-01)
 - [02. 04:00–06:05 · 祷告、敬拜与现场互动](#section-02)
 
+## 全片概述与 Key Points
+
+全片共 2 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=tWg3r_VvMGQ&t=0s) · 本段原话**：hey good morning everybody I just wanted to come on here and tell you some more things the Lord has showed me in prayer time this time I I I you know I I'm trying to be I'll tell you some positive things I'm going to tell you some good things so I have to tell you this first
+- **[04:21](https://www.youtube.com/watch?v=tWg3r_VvMGQ&t=261s) · 本段原话**：and so I had some friends call the landline at my house and they said do you have power and I said yes and I opened and then I went to my refrigerator and I opened up the refrigerator and there was still a light on in the refrigerator then I could see looking out over going south I could see
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=tWg3r_VvMGQ&t=0s) · 本段原话**：hey good morning everybody I just wanted to come on here and tell you some more things the Lord has showed me in prayer time this time I I I you know I I'm trying to be I'll tell you some positive things I'm going to tell you some good things so I have to tell you this first
+- **[01:43](https://www.youtube.com/watch?v=tWg3r_VvMGQ&t=103s) · 他表达判断**：China or whatever but um they raised this rocket up and it was about five feet tall and it was about probably it was probably about uh maybe about a foot thick two foot maybe at the most and um it was black and it was white and it had USSR written on this on the
+- **[02:07](https://www.youtube.com/watch?v=tWg3r_VvMGQ&t=127s) · 本段原话**：rocket and they shot the rocket out over America and when they did it exploded but it but I kept hearing in the spirit realm it's not going to get high enough it wasn't getting high enough and that's what I was hearing and so um it went out over uh Tennessee Kentucky area uh Atlanta and um you know
+- **[03:42](https://www.youtube.com/watch?v=tWg3r_VvMGQ&t=222s) · 本段原话**：wasn't you wasn't able to have a whole bunch of stuff going the power grid was real weak but you were still able to power things uh just not like I don't I don't understand at all I I I just see things and you know whenever I'm praying and so um I could see the emergency broadcast
 
 ### 完整英文 Transcript
 
@@ -116,7 +130,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–06:05 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:21](https://www.youtube.com/watch?v=tWg3r_VvMGQ&t=261s) · 本段原话**：and so I had some friends call the landline at my house and they said do you have power and I said yes and I opened and then I went to my refrigerator and I opened up the refrigerator and there was still a light on in the refrigerator then I could see looking out over going south I could see
+- **[04:42](https://www.youtube.com/watch?v=tWg3r_VvMGQ&t=282s) · 本段原话**：in the spirit realm the trees the Lord allowed me to see the trees the trees were the sycamore trees had leaves on them it was still really warm outside because I whenever I'm seeing in the spirit and the Lord's showing something I always try to pay attention to what's going on around me my surroundings trees
+- **[05:22](https://www.youtube.com/watch?v=tWg3r_VvMGQ&t=322s) · 他表达判断**：over the west but it was more South Southwest and it was so it was a summer kind of a month probably late summer I don't I don't know so this was basically the end of this but it was a warning of an EMP attack Upon Our Nation I come on here I know it's a heavy uh message but
+- **[05:44](https://www.youtube.com/watch?v=tWg3r_VvMGQ&t=344s) · 他表达判断**：I but I want to tell you about things that the Lord shows me to pray about it's not to stir up fear I believe we can stop things through intercessory prayer I tell people this stuff because I'm trying to warn you to pray well I just want to say thank you so much for
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 701；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-07)
 - [08. 28:00–31:32 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=ko6ArpLejj4&t=0s) · 本段原话**：So the timeline I'm going to be uh I'm going to tell you detail of what the Lord showed me when he show he came to me as a a massive fiery light and the light was so bright. It literally I I felt my spiritual eyes my whole body I felt like I was melting it. I I I
+- **[04:02](https://www.youtube.com/watch?v=ko6ArpLejj4&t=242s) · 他描述所见**：can these bones live? Like it was it talks about in the Bible. The bones were anticipating the glory and it was like a there was there was a a an atmosphere of acceleration of excitement in the bones. I don't know how. It's just what I saw. So he said, I want to and this is that was something I
+- **[13:07](https://www.youtube.com/watch?v=ko6ArpLejj4&t=787s) · 本段原话**：Like the sun was shining off of it. It was making it alive and it was moving and and so Okay. Then I could see the birds and the birds were birds that I they're not here anymore. There were different kinds of birds with massive wingspans flying around in this in the atmosphere in the garden. It was
+- **[16:02](https://www.youtube.com/watch?v=ko6ArpLejj4&t=962s) · 他描述所见**：kinds of things. They were using all this stuff to build these these monuments, these huge things. and they were moving through time, but I didn't see any d like, you know, like uh like most people think, well, they'd have giants building. I didn't see any giants. I saw men working and it was it
+- **[24:36](https://www.youtube.com/watch?v=ko6ArpLejj4&t=1476s) · 本段原话**：his body. And all the seeds that we've swed in the past, I'm telling you, will come to harvest at last. We're going to see a great transfer of wealth from the sinner laid up for the righteous. And we're going to see a great harvest of souls and a great healing healings and demonstrations manifest. God's going to
+- **[28:00](https://www.youtube.com/watch?v=ko6ArpLejj4&t=1680s) · 本段原话**：it all for us. And we thank you, Father, that no cancers, no diabetes, no heart disease, no strokes, no no uh birthing problems or whatever, colon cancers, colon problems, constipation issues. It all stems from the curse. But Galatians 3:13 says that Christ has redeemed us from the curse of the law.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=ko6ArpLejj4&t=0s) · 本段原话**：So the timeline I'm going to be uh I'm going to tell you detail of what the Lord showed me when he show he came to me as a a massive fiery light and the light was so bright. It literally I I felt my spiritual eyes my whole body I felt like I was melting it. I I I
+- **[00:29](https://www.youtube.com/watch?v=ko6ArpLejj4&t=29s) · 本段原话**：And he and all of a sudden, cuz he knew it, he he was so intense. And I'm telling you, in any intensity, I've never seen anything like this before in my life. He took something and he shielded himself. And I and it was where I he could it was like a shield. And all of
+- **[01:10](https://www.youtube.com/watch?v=ko6ArpLejj4&t=70s) · 本段原话**：a massive dove comes out of it with his wings flapping with a olive branch coming and it it came over the top of me and the glory of the Lord filled me to the to to the I mean the glory and all of a sudden he said, "Brendon, I want to show you this the
+- **[02:57](https://www.youtube.com/watch?v=ko6ArpLejj4&t=177s) · 本段原话**：bones. And I and I'm I don't want to skip around too much. I could see their bones in the first couple layers of soil around the whole earth. And there was skulls and and and and hands and legs and all this. The bones of the believers were still in the dirt like fossilized. And they were looking in the
 
 ### 完整英文 Transcript
 
@@ -116,7 +134,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:02](https://www.youtube.com/watch?v=ko6ArpLejj4&t=242s) · 他描述所见**：can these bones live? Like it was it talks about in the Bible. The bones were anticipating the glory and it was like a there was there was a a an atmosphere of acceleration of excitement in the bones. I don't know how. It's just what I saw. So he said, I want to and this is that was something I
+- **[05:10](https://www.youtube.com/watch?v=ko6ArpLejj4&t=310s) · 他表达判断**：Wow. That's you. You're still here. I believe there's a remnant of you. I know there's probably some elderly people that'll probably go home, but I'm telling you, there is a generation that will not taste death. That we will be the ones that are caught up. Glory to God. And we will see our our our soon
+- **[07:04](https://www.youtube.com/watch?v=ko6ArpLejj4&t=424s) · 他表达判断**：There wasn't like it like South America, North North America, Asia, all this, you know, it was just one big thing. And I don't know how it all was divided, whether it was Noah's flood or whatever, which I believe it was Noah's flood that caused all this land to be divided and to create different continents.
+- **[07:33](https://www.youtube.com/watch?v=ko6ArpLejj4&t=453s) · 他描述所见**：So then he takes me to the garden and I see Adam and he is ripped. He is not a uh like plumpy looking dude like me. I'm still working on it. Um he has muscles and he has a black looking beard and he's olive skinned. He's not um I did I only seen his backside with the glory
 
 ### 完整英文 Transcript
 
@@ -206,7 +231,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[09:04](https://www.youtube.com/watch?v=ko6ArpLejj4&t=544s) · 本段原话**：So he was there and he was he was communicating to this big lizardl looking dinosaur thing that was like a uh like on like Jurassic Park massive long neck looking dinosaur and he was communicating to this dinosaur. I could see him pointing his finger at this dinosaur and the dinosaur was looking down and was understanding what he was
+- **[10:16](https://www.youtube.com/watch?v=ko6ArpLejj4&t=616s) · 他描述所见**：limbs. The leaves were not turning any kind of dead looking colors. They were all perfect. There was nothing uh dying at all in the garden. Everything was amazing. The trees were not, you know, like we have these little we have trees that are we go, "Wow, those are big trees." No, these trees that I saw in
+- **[10:55](https://www.youtube.com/watch?v=ko6ArpLejj4&t=655s) · 本段原话**：I mean that I mean what that would be like well what not 10 story high tree like you know a redwood is like huge you know that's the biggest trees you know but these oh these trees were so huge and they were no death in them then all the grass and the foliage was just
+- **[11:12](https://www.youtube.com/watch?v=ko6ArpLejj4&t=672s) · 他描述所见**：beautiful. But this is what I noticed the most in this part of the vision that the Lord allowed me to see. The sky was alive. That it was alive. The sky this the the the atmosphere of the earth was alive and it was it had a vibration to it. It was like it was it was vibrating.
 
 ### 完整英文 Transcript
 
@@ -302,7 +334,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[13:07](https://www.youtube.com/watch?v=ko6ArpLejj4&t=787s) · 本段原话**：Like the sun was shining off of it. It was making it alive and it was moving and and so Okay. Then I could see the birds and the birds were birds that I they're not here anymore. There were different kinds of birds with massive wingspans flying around in this in the atmosphere in the garden. It was
+- **[14:52](https://www.youtube.com/watch?v=ko6ArpLejj4&t=892s) · 本段原话**：They were dirty. Like dirty, like real dirt. Like real like greasy looking like I don't know. But there was people behind him and I could see them behind him and they were and I don't know what they were saying, but this one man pointed out and he the Lord showed me this man really clear and he had a big
+- **[15:28](https://www.youtube.com/watch?v=ko6ArpLejj4&t=928s) · 他描述所见**：had eaten the fruit by then, but it didn't look like the earth didn't look really deteriorated. It didn't look really bad. I mean, I don't know for what I could see what the Lord showed me. Okay, that's enough on that one. So then he takes me to another part of time and I see uh the the the uh the the um
+- **[15:47](https://www.youtube.com/watch?v=ko6ArpLejj4&t=947s) · 他描述所见**：pyramids being built. I see the Sphinx being built, but it's happening and it's building like and they had wood sticks and they were building stuff. They were like with ramps and pulleys and all
 
 ### 完整英文 Transcript
 
@@ -399,7 +438,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:02](https://www.youtube.com/watch?v=ko6ArpLejj4&t=962s) · 他描述所见**：kinds of things. They were using all this stuff to build these these monuments, these huge things. and they were moving through time, but I didn't see any d like, you know, like uh like most people think, well, they'd have giants building. I didn't see any giants. I saw men working and it was it
+- **[17:36](https://www.youtube.com/watch?v=ko6ArpLejj4&t=1056s) · 他描述所见**：stretching out over China and I could see over over Asia and all that area and just being built up and happen. I saw wars happening and I could see their their clothes and what they were wearing and they were wearing these really thick this is thousands of years of time all coming before me at like
+- **[17:55](https://www.youtube.com/watch?v=ko6ArpLejj4&t=1075s) · 本段原话**：seconds. But I could slow it down in the spirit realm by being able to see it by taking glimpses like photos and I could see it in my my mind in this my spirit eyes being able to see it and it was moving so fast. And then the Lord showed me these men riding horseback fighting
+- **[18:14](https://www.youtube.com/watch?v=ko6ArpLejj4&t=1094s) · 本段原话**：these wars, these Asian men. They look like samurai warriors. And they were fighting with swords and with uh these these on battle fronts and they were shooting bow and arrows and staffs and spears on horsebacks. And it was a very uh bloody battle. I don't know what battle it was. But then the Lord showed
 
 ### 完整英文 Transcript
 
@@ -501,7 +547,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:07](https://www.youtube.com/watch?v=ko6ArpLejj4&t=1207s) · 他描述所见**：Satan knows when Adam's lease is up." And he said, "Son, it will happen on a roashana. That's when the lease will be up and you're at that time frame." And I saw Satan moving like a snake throughout the earth. And he went to go talk to the pope. And he was talking and
+- **[21:14](https://www.youtube.com/watch?v=ko6ArpLejj4&t=1274s) · 他转述所听到的话**：And I heard the Lord say, "I have never been defeated. I will not be defeated now. I can control time. And he was telling Satan basically to go take a hype. I' I'm controlling time. A day is a thousand years unto me. And he said, "And I can take a sliver of this time
+- **[22:45](https://www.youtube.com/watch?v=ko6ArpLejj4&t=1365s) · 本段原话**：call it with man that he would be able to reign for a th for 6,000 years and when that time frame's over we go into the thousand-y year reign with Jesus Christ. So God had made that in with man. And when that time frames up, there will be a glory and because because the
+- **[23:48](https://www.youtube.com/watch?v=ko6ArpLejj4&t=1428s) · 本段原话**：all we've known is Adam's lease. That's all we've known for 6,000 years. But we're going to see a side of God that we've never seen before. The great wells of revival. The great wells of revival
 
 ### 完整英文 Transcript
 
@@ -599,7 +652,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:36](https://www.youtube.com/watch?v=ko6ArpLejj4&t=1476s) · 本段原话**：his body. And all the seeds that we've swed in the past, I'm telling you, will come to harvest at last. We're going to see a great transfer of wealth from the sinner laid up for the righteous. And we're going to see a great harvest of souls and a great healing healings and demonstrations manifest. God's going to
+- **[24:53](https://www.youtube.com/watch?v=ko6ArpLejj4&t=1493s) · 本段原话**：show himself real to the Jews and to his church. And I'm telling you, your unsaved loved ones are coming home. Your unsaved loved ones are coming to Jesus Christ. It's time. They will, if you petition, you praying for them, I'm telling you, they will come to the saving knowledge of Jesus Christ. There will be a move of God and
+- **[25:48](https://www.youtube.com/watch?v=ko6ArpLejj4&t=1548s) · 本段原话**：going to happen tomorrow like the manifestation of what you're seeing but there's a depth perception when you're looking over in the spirit and so sometimes that could be a fiveyear window a twoyear two two two day uh thing or whatever I don't try to put a time frame on the Holy Spirit in visions
+- **[27:22](https://www.youtube.com/watch?v=ko6ArpLejj4&t=1642s) · 本段原话**：person that is represented here today from the top of their head to the soles of their feet. We speak to the bodies and we call them healed and whole and well in the name of Jesus. Delivered from satanic bondage from depression, anxiety, fear, worry, torment of all kinds, mental torment. Father, we thank
 
 ### 完整英文 Transcript
 
@@ -706,7 +766,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:32 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:00](https://www.youtube.com/watch?v=ko6ArpLejj4&t=1680s) · 本段原话**：it all for us. And we thank you, Father, that no cancers, no diabetes, no heart disease, no strokes, no no uh birthing problems or whatever, colon cancers, colon problems, constipation issues. It all stems from the curse. But Galatians 3:13 says that Christ has redeemed us from the curse of the law.
+- **[28:48](https://www.youtube.com/watch?v=ko6ArpLejj4&t=1728s) · 他表达判断**：child's healed. Today, your manifestation and demonstration is happening today for you. I believe that for you now, Satan, I tell you to get your hands off of God's stuff. I call forth finances in the name of Jesus. For every single person who's believing for finances, I call their harvest in from the north, the south, the east, the
+- **[29:12](https://www.youtube.com/watch?v=ko6ArpLejj4&t=1752s) · 本段原话**：west, some 30, some 60, and 100fold depending on your ground you've sewed into. Now, Father, I thank you, Lord, for supernatural ideas to get wealth. I thank you, Father, that you said in your word that you would supply all their needs according to your riches and glory by Christ Jesus. I thank you, Lord, that
+- **[30:11](https://www.youtube.com/watch?v=ko6ArpLejj4&t=1811s) · 本段原话**：it was kind of something different. We I I tried to just do not everything always had to be serious, but I wanted to tell you more about what the Lord showed me.
 
 ### 完整英文 Transcript
 

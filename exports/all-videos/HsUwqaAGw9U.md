@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 997；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 40:00–42:30 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=0s) · 本段原话**：Hey, good morning, family. Well, we're going to take communion today and stuff. I I have some stuff on my heart to talk to y'all about. He [snorts] said to me, "During this great revival that's about to take place, you are about to see something that you've never seen before."
+- **[08:38](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=518s) · 本段原话**：Seeking me daily and you will find me." And out of this this personal, more intimate relationship with me will become a greater overflow out of you for the people.
+- **[16:14](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=974s) · 他描述所见**：When I saw all the people that were so broken and so downcast get a fresh touch from Jesus and see their faces changed by the power of the Holy Spirit.
+- **[24:10](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=1450s) · 本段原话**：Father, I thank you, Lord, that every single person today on this platform, they're seeking you and they will find you. For the eyes of the Lord are running to and fro throughout the whole earth looking for a heart who's perfect toward him.
+- **[32:01](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=1921s) · 本段原话**：And we thank you, Lord, for the blood that covers us from the top of our head to the soles of our feet. And we enter in by the blood of the lamb and by the word of our testimony. Jesus set me free.
+- **[40:37](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=2437s) · 本段原话**：We're underneath those shadow of the Almighty. We believe that Father, that you are our great defender, our protector. And the name of the Lord is a a a strong tower, and the righteous run into it, and they are safe. We believe, Father, that we walk by by that divine Holy Ghost covering. Like that Holy
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=0s) · 本段原话**：Hey, good morning, family. Well, we're going to take communion today and stuff. I I have some stuff on my heart to talk to y'all about. He [snorts] said to me, "During this great revival that's about to take place, you are about to see something that you've never seen before."
+- **[01:02](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=62s) · 他进行祷告**：A great river is coming. You know, and he he showed me he said, "Brandon, whenever the first the the healing revival and the and the tent revival started with Jack Coe and and Oral Roberts and and William Branham and all all them, they would pray for people and and and and A. A. Allen, they would pray for
+- **[01:58](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=118s) · 本段原话**：That started with Kathryn Kuhlman, it looked like for what I understand for what I I'm trying to I pinpoint it and correct me if I'm wrong any of you elders. If you saw people fall out in in certain revivals, then I'm wrong. But the Lord showed me that that really started to take off
+- **[03:33](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=213s) · 他描述所见**：And I saw a a I'm talking there's no way to to explain what I saw that what it's that's what's going to happen. It doesn't make any sense. I saw wind blowing these women's hair like a whirlwind.
 
 ### 完整英文 Transcript
 
@@ -135,7 +153,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=241s) · 他描述所见**：like the like power power of the Holy Spirit or whatever. I don't know it was like it was like that moving your hand and I saw the glory moving on in the atmosphere and people could feel the wind of the Holy Spirit in the auditorium.
+- **[05:49](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=349s) · 他描述所见**：Breathing in, breathing in what you'll be physically healed. It will be a wind of the spirit. I saw people being touched by the Shekinah glory in a different well different way a well that's good in a different way than we've ever seen before.
+- **[06:08](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=368s) · 他描述所见**：He's going to do something like we've never seen before. And I saw the wind whipping around people's hair and it was moving on them and they were they were being refreshed and old wine skins that they had turned into vinegar turned into new wine.
+- **[07:04](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=424s) · 本段原话**：Do you understand? What God is about to do we've never seen it in generations past. We're going to see a fresh touch of the fire of the Holy Spirit on every single person who is thirsty.
 
 ### 完整英文 Transcript
 
@@ -242,7 +267,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:38](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=518s) · 本段原话**：Seeking me daily and you will find me." And out of this this personal, more intimate relationship with me will become a greater overflow out of you for the people.
+- **[09:33](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=573s) · 他描述所见**：And I told you what I saw about ORU and about what he's going to do with the students there on ORU campus. And he said, "I'm going to bring forth a great and mighty revival with the with this young people this young generation, and it will be through the Maybe Center. And I'm going to fill that Maybe Center up.
+- **[09:52](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=592s) · 本段原话**：And I'm telling you, it's not going to be a convenient move with people. Well, it's 9:00. It's time for my bedtime."
+- **[11:27](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=687s) · 本段原话**：If we get a fresh drink, if we get it we don't want to be a Holy Ghost crack addicts and not get changed and let it change us where we get in a Holy Ghost high every time we come in there and we're not taking IT OUT AND DUMPING it out on the
 
 ### 完整英文 Transcript
 
@@ -347,7 +379,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:15](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=735s) · 本段原话**：The Lord WANTS YOU TO COME UNDER HIM and be filled with controlled by the Holy Spirit every single day your life to the overflow and go, "Well, I GOT A TOUCH AND I GOT MY HIGH AND I'M GOING BACK to go into it." But it's going to so you can have the overflow. He's
+- **[13:34](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=814s) · 本段原话**：Who cares about popularity? Who cares about the finances? I do not care about how much money I'm going to get in the days ahead from investments.
+- **[14:35](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=875s) · 本段原话**：But are you going to be there with the catcher's mitts ready to receive the people when they're coming in and they're dry and they're thirsty and they're going, "Man, I NEED SOMEBODY TO HELP ME."
+- **[15:21](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=921s) · 本段原话**：That's not worried about a time clock, about convenience. A revival, an awakening, is not going to be convenient for a lot of you.
 
 ### 完整英文 Transcript
 
@@ -459,7 +498,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:14](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=974s) · 他描述所见**：When I saw all the people that were so broken and so downcast get a fresh touch from Jesus and see their faces changed by the power of the Holy Spirit.
+- **[17:29](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=1049s) · 本段原话**：For inconvenience, for hunger. Inconvenience for what's convenient. I I I I told my wife we were talking about it. She said, "Brandon, we're we're so desperate. We're so thirsty.
+- **[18:08](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=1088s) · 他描述所见**：I have an anticipation for what I saw with the glorious uh outpouring of what he's about to do, a new thing.
+- **[19:10](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=1150s) · 本段原话**：How many of you, whenever he touches your life for what you've been believing for all this time, will not go and give God the praise for what he's done?
 
 ### 完整英文 Transcript
 
@@ -559,7 +605,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:41](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=1241s) · 本段原话**：You believe me for big. I stagger not at the promise of God through unbelief, but I'm strong in faith giving glory to God, being fully persuaded that what God has promised he's able also to perform it."
+- **[21:05](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=1265s) · 他进行祷告**：So, we pray right now, and we're going to lift up our president. We're going to lift up these meetings.
+- **[21:37](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=1297s) · 本段原话**：You're going to give bread to the hungry. Father, I thank you, Lord, for those that are dry and thirsty. That we come unto you. And we're not going to just do it and have a Holy Ghost shake out, but we're going to get it and get filled with and we're going to dump it all over
+- **[22:41](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=1361s) · 本段原话**：Father, I thank you, Lord. I thank you, Lord, for touching every single person that is represented here today. That you would bring them a fresh fire. You would bring a fresh anointing on their life. That, Father, from the top of their head to the soles of their feet, they're filled with and controlled
 
 ### 完整英文 Transcript
 
@@ -675,7 +728,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:10](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=1450s) · 本段原话**：Father, I thank you, Lord, that every single person today on this platform, they're seeking you and they will find you. For the eyes of the Lord are running to and fro throughout the whole earth looking for a heart who's perfect toward him.
+- **[25:12](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=1512s) · 本段原话**：THAT HE IS NOT just some pathetic Jesus that was, that he's alive and he is he is is I am that I am and he is delivering the people cuz Jesus Christ is the same yesterday, today, and forever.
+- **[26:45](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=1605s) · 本段原话**：Because I've been at the bottom and think, "Man, I if I could just have somebody give me a fresh drink, help me to get to that river. Teach me how to get there. And I found it.
+- **[27:49](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=1669s) · 本段原话**：How much more do you need of the Holy Spirit in these last days? Just say, "JESUS, I DON'T WANT to live like this anymore."
 
 ### 完整英文 Transcript
 
@@ -782,7 +842,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:00](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=1680s) · 本段原话**：How bad do you want change in your life today, ladies and gentlemen?
+- **[30:31](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=1831s) · 本段原话**：We thank you, Lord, that you are wounded for our transgressions. You are bruised for our iniquities. The chastisement of our peace was upon you, and with your stripes we're healed.
+- **[30:47](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=1847s) · 本段原话**：And Father, I thank you, Lord, that every sickness, every disease is part of the curse. And Galatians 3:13 says Christ has redeemed us from the curse of the law.
+- **[31:25](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=1885s) · 本段原话**：And we apply the blood over our sins. We apply it You said if you confess your sins, you're faithful and just to forgive me of my sins and cleanse me from all unrighteousness.
 
 ### 完整英文 Transcript
 
@@ -885,7 +952,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:01](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=1921s) · 本段原话**：And we thank you, Lord, for the blood that covers us from the top of our head to the soles of our feet. And we enter in by the blood of the lamb and by the word of our testimony. Jesus set me free.
+- **[33:49](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=2029s) · 本段原话**：And we thank you, Father, that they have wisdom, that Trump would have wisdom, and there is a Jonathan David relationship coming up out of this like never before. There will be a flow with this relationship.
+- **[34:08](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=2048s) · 本段原话**：Father, I thank you, Lord, that that there's divine friendships and relationships that are being being brought up. And Father, financial blessing will come over America like a big, mighty waterfall.
+- **[35:40](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=2140s) · 他进行祷告**：Thank [snorts] you, Father. Thank you, Father. Oh, my sick and if you know how to If you're baptized in the Holy Ghost, you can pray with me.
 
 ### 完整英文 Transcript
 
@@ -994,7 +1068,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[38:18](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=2298s) · 本段原话**：We call for the revival. We call for a mighty Holy Ghost revival over this nation, around the world, and a move of the spirit like we've never seen before.
+- **[38:33](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=2313s) · 本段原话**：We're calling it in in the name of Jesus. Father, we thank you, Lord, that there's there's there's a that the people that are set that the leaders of this that they would get their hearts ready for what's about to take place on the earth.
+- **[38:50](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=2330s) · 本段原话**：For a mighty move of the presence of the Lord is coming like a mighty wave one last time.
+- **[39:42](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=2382s) · 本段原话**：Father, we take authority over the virus. All the plans they have to try to do this virus and try to kill, steal, and destroy. We bind it back in the name of Jesus, and it will not happen. Father, I thank you. I know what you said that that would happen in the word down later
 
 ### 完整英文 Transcript
 
@@ -1047,7 +1128,14 @@
 <a id="section-11"></a>
 ## 11. 40:00–42:30 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:37](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=2437s) · 本段原话**：We're underneath those shadow of the Almighty. We believe that Father, that you are our great defender, our protector. And the name of the Lord is a a a strong tower, and the righteous run into it, and they are safe. We believe, Father, that we walk by by that divine Holy Ghost covering. Like that Holy
+- **[41:20](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=2480s) · 本段原话**：I want you to lift up your countenance to him, and be excited that Jesus is going to do one last major push. And we're going to see things we've never seen before.
+- **[41:38](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=2498s) · 本段原话**：Um please like it, subscribe. If you haven't subscribed, click the notification bell. Uh click the thumbs up. Do all the things it does to help us with the algorithm. We appreciate you helping us get the gospel out. Uh if you're if you if you're new here, and you don't know about our Spanish
+- **[42:05](https://www.youtube.com/watch?v=HsUwqaAGw9U&t=2525s) · 本段原话**：Amazing what my son and my wife are doing. And we're excited that God is uh we're getting the gospel spread throughout the whole world. So, we're excited for you. If you want to watch those channel, they're there. So, thank you for subscribing. Thank you for being a part of this. And we will continue to
 
 ### 完整英文 Transcript
 

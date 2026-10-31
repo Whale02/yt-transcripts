@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1467；**章节数**: 11；**明确省略行数**: 1
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 63:00–69:59 · 教会、复兴与信仰、战争与国际事务](#section-10)
 - [11. 70:00–74:55 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:51](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=51s) · 本段原话**：the Senate failed uh uh because they didn't vote on it and it should have been bathed in prayer and it wasn't. He said there there's attacks coming upon your soil that have not been bathed in prayer. There's attacks against your president that have not been bathed in prayer. great war is rice paper thin ready to break out across the
+- **[14:11](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=851s) · 本段原话**：Nobody there. It just gets forgotten. This is serious times. We are in serious hours. We are in a time that the church needs to rise up and have that backbone like a crowbar or we're going to lose the land. Do you understand? It's not just for me to come out here and to show
+- **[28:29](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=1709s) · 本段原话**：We call revival OVER SOUTH KOREA AND OVER JAPAN AND over all the AREAS OF ASIA. WE CALL A REVIVAL IN THE NAME OF JESUS TO RISE UP AND PROCLAIM THAT JESUS CHRIST IS LORD OF LORDS AND KING OF KINGS and he's coming sooner than what WE THINK. HE'S STANDING AT THE DOOR ready to receive his bride.
+- **[42:25](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=2545s) · 他转述所听到的话**：And that's why the Lord said, "Brandon, you're you're saying all this stuff and then you're rehashing it, but you're never nobody's ever praying it. They they take it and they put it on the shelf. This is these words that the Lord's given us are for very serious times. It's not for entertainment. Well,
+- **[56:28](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=3388s) · 他描述所见**：We call breakthrough concerning this. I see t I see China raising up their they're going to try to do something in the days ahead.
+- **[70:00](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=4200s) · 本段原话**：every prophet, every teacher, every evangelist, Father, stirring in their spirit for a fresh fire, a fresh touch of the Holy Ghost, a fresh fire, a fresh touch of the Holy Ghost. That the churches rise up and do what they're called to do. Father, I thank you, Lord, that they don't lose their saltiness.
+
 <a id="section-01"></a>
 ## 01. 00:00–06:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:51](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=51s) · 本段原话**：the Senate failed uh uh because they didn't vote on it and it should have been bathed in prayer and it wasn't. He said there there's attacks coming upon your soil that have not been bathed in prayer. There's attacks against your president that have not been bathed in prayer. great war is rice paper thin ready to break out across the
+- **[01:53](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=113s) · 本段原话**：this is either a make orb breakak time for for for President Trump's term. He said this the decisions in the valley of the decisions of where he's at right now will make or break the election in 20 in in 2026 midterms. This will be the the deciding factor, the deciding things that he does over the next two weeks
+- **[02:57](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=177s) · 他描述所见**：cabinet in his spiritual circle I saw even moles in his spiritual circle and the Lord showed me he said Brandon this is very important that He puts count takes no counsel from ungodly people.
+- **[04:42](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=282s) · 他转述所听到的话**：And so, that happened today. Then we had a massive solar flare, the largest one in 20 years erupt, uh super solar storm, and the Lord said to watch for signs in the heavens that we would start to see signs of heaven. The weather man said you're going to see uh uh northern lights clear down into Oklahoma
 
 ### 完整英文 Transcript
 
@@ -204,7 +222,14 @@
 <a id="section-02"></a>
 ## 02. 07:00–13:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[07:44](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=464s) · 本段原话**：before and the Lord showed me Braden took that poll and I'm telling you you must be filled with the Holy Ghost of the my wife got an email uh Diana got an email from somebody that had an a audio audible voice reading this book why tongues because I'm not a person who likes to read and it's hard for
+- **[09:42](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=582s) · 本段原话**：And it and and I'm telling you, phenomenal. Really, the first 30 minutes of the video is pretty slow. But when he gets to the last half and leads the people in the prayer, it is really amazing. I loved it. And so, I'm going to listen to that again and again again.
+- **[11:33](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=693s) · 他表达判断**：are not right. And I believe that God will remove what he needs to remove and raise up the right voice for the hour of 2028. I said there will be a Watergate scandal come up in the days ahead if we do not pray these things away. So there's major things the Lord has told
+- **[11:52](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=712s) · 本段原话**：us even concerning war and an escalation of war concerning Greenland, all those things. And and and I and again this last video the Lord showed us again the Hispanic man rising up out of Claudia's position. Claudia would be moved in eventually in the days ahead. He said, "But you will have to contend for it,
 
 ### 完整英文 Transcript
 
@@ -400,7 +425,14 @@
 <a id="section-03"></a>
 ## 03. 14:00–20:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[14:11](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=851s) · 本段原话**：Nobody there. It just gets forgotten. This is serious times. We are in serious hours. We are in a time that the church needs to rise up and have that backbone like a crowbar or we're going to lose the land. Do you understand? It's not just for me to come out here and to show
+- **[15:13](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=913s) · 本段原话**：are we in this world. And we don't have to uh waller around in a pig pin anymore. We are we are joint hes of Jesus Christ seed with him in the heavenlies far above all principalities and powers that we're no longer uh kids that are broken, busted, and disgusted.
+- **[16:20](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=980s) · 他进行祷告**：honor, and praise for this prayer time today. Help us, Holy Spirit. Help us to be effective. That we hit the target at what's on your heart today. That we pray in the spirit in a brand new tongue. We lift up holy hands before you. And we give you all the glory, honor, and
+- **[19:09](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=1149s) · 本段原话**：I know he has a lot on him. And he has all in dealing with his own flesh, his own marriage, his own children, his own pride, his own needs, whatever he has in there. Plus the demonic pressure. I can't even imagine the demonic pressure that's tried to knock him off his course.
 
 ### 完整英文 Transcript
 
@@ -567,7 +599,14 @@
 <a id="section-04"></a>
 ## 04. 21:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、经济、银行与市场。 提到的地点：Florida、California、Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[21:59](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=1319s) · 本段原话**：I CALL FATHER FIRST SUPERNATURAL LEADERSHIP TO RISE UP ALL around him that the hand of the Lord would guide him concerning Iran, concerning Greenland, concerning uh Venezuela, Mexico and Cuba and the enemy within.
+- **[24:17](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=1457s) · 本段原话**：And so, Father, the MS13 and the drug drug lords and all the people that come over here illegally to to kill, steal, and destroy, Father, we call them exposed and expelled in the name of Jesus. Father, that the angels of the Lord would help camp around and about our our agents to go and get them and
+- **[26:27](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=1587s) · 本段原话**：Father, I thank you, Lord, that Claudia would be removed in the mighty name of Jesus. We call Claudia to to lose her seat of power. We call a new president in over uh Mexico, Father, to be that uh that man that you showed me that looks like Antonio Banderez. Father, I call that new leader to rise up and lead that
+- **[27:35](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=1655s) · 他进行祷告**：FATHER, I CALL A STIRRING in those governments right now in the name of Jesus that it will not go communist. It will not go to the dragon, but they'll STAND LIKE A BACKBONE, LIKE A CROWBAR, AND THEY'LL RISE UP IN TAIWAN. THEY'LL RISE UP IN SOUTH KOREA AND THEY WILL PRAY OVER THEIR land and they WILL NOT
 
 ### 完整英文 Transcript
 
@@ -733,7 +772,14 @@
 <a id="section-05"></a>
 ## 05. 28:00–34:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Vatican。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:29](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=1709s) · 本段原话**：We call revival OVER SOUTH KOREA AND OVER JAPAN AND over all the AREAS OF ASIA. WE CALL A REVIVAL IN THE NAME OF JESUS TO RISE UP AND PROCLAIM THAT JESUS CHRIST IS LORD OF LORDS AND KING OF KINGS and he's coming sooner than what WE THINK. HE'S STANDING AT THE DOOR ready to receive his bride.
+- **[30:44](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=1844s) · 他描述所见**：Father, I thank you Lord right now in the name of Jesus that every hidden plan, every hidden assignment from Mcronone, from black swan events, I saw him going down the river in France with the black swan event. We call that exposed in Jesus' name. I saw a major terrorist attack coming to the Vatican.
+- **[32:02](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=1922s) · 本段原话**：We believe God. We believe there's revival taking place. And Father, there will be a shaking with crypto. There's going to be a shaking with this new industrial revolution. Father, there'll be a shaking in in finances. There'll be a shaking in politics. There'll be a shaking in the earth. There'll be a shaking in in in political uh things.
+- **[34:12](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=2052s) · 他描述所见**：And God, I thank you, Lord. But my remnant will be held in the cliff of the rock. And I will protect you as it passes by. And I saw that death angel. I saw the shakings. I saw all of it coming.
 
 ### 完整英文 Transcript
 
@@ -909,7 +955,14 @@
 <a id="section-06"></a>
 ## 06. 35:00–41:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:17](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=2117s) · 本段原话**：Goodness and mercy will follow you and you will see that goodness of un what was it? Un unc uncommon wealth, uncommon favor, uncommon success, uncom un it's unprecedented. It's like it's going to be something that you know whenever it happens you be quick and give God all the glory.
+- **[37:34](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=2254s) · 他描述所见**：come clear into full effect clear into 2031. I saw and the Lord said great shaking is coming even into 2031 for some.
+- **[38:44](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=2324s) · 本段原话**：That's the Bank of England must plan for a financial crisis sparked by alien invasions. What are they thinking? It's the rapture of the church. A major economic crisis will happen because the aliens are taking the rapture. That's where they're going to blame it on. The the Christians all left, folks. It's going to cause havoc in the economic
+- **[41:12](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=2472s) · 本段原话**：2025 was like like a light like that. We're already at the first month's almost over of 2026. We got only 11 more months left until 2027.
 
 ### 完整英文 Transcript
 
@@ -1075,7 +1128,14 @@
 <a id="section-07"></a>
 ## 07. 42:00–48:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 提到的地点：Texas。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:25](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=2545s) · 他转述所听到的话**：And that's why the Lord said, "Brandon, you're you're saying all this stuff and then you're rehashing it, but you're never nobody's ever praying it. They they take it and they put it on the shelf. This is these words that the Lord's given us are for very serious times. It's not for entertainment. Well,
+- **[42:41](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=2561s) · 本段原话**：I want to see if it comes to pass. This not what we're here for. This isn't a a a psychic hotline. That's what most people act like. Well, what's what's like Don Dion Warwick? Let's see what Dion Warwick's SAYING TODAY. I'M NOT I'M A HOLY GHOST BAPTIZED AND HOLY GHOST CHRISTIAN. THAT'S COMING HERE TO TELL
+- **[43:31](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=2611s) · 他描述所见**：So, we're going to pray more. All right. I instantaneously I'm seeing that. I'm not going to tell you what I saw. I see this. And Lord said, "Pray over JD Vance." Okay.
+- **[48:48](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=2928s) · 他描述所见**：will not have major outages all are over our nation we command it in the name of Jesus for really cold temperatures to come in I saw that cold cold arctic air and I say in the name of Jesus, yeah,
 
 ### 完整英文 Transcript
 
@@ -1182,7 +1242,14 @@
 <a id="section-08"></a>
 ## 08. 49:00–55:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[49:01](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=2941s) · 本段原话**：it's good to have some good cold air to kill the bugs and things like that, but we'll not have destruction because of it and outages up to three weeks, solar storms and people freezing. We'll not have it being too hot in the summer.
+- **[51:49](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=3109s) · 他描述所见**：call in the the the the whatever it needs to happen to the weather for it not to happen like that. Do [snorts] you believe that? You stand with that. I see it really hard. I see you strong.
+- **[53:36](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=3216s) · 本段原话**：BIND THAT SPIRIT OF COMMUNISM. AND WE SAY IN THE NAME OF JESUS, THUS FAR AND NO FURTHER, YOU'LL NOT HAVE THE LAND OF TAIWAN. YOU'LL NOT HAVE SOUTH KOREA. AND FATHER, WE CALL EVEN NORTH KOREA to be released IN THE NAME OF JESUS FROM THAT DICTATOR KIM JONG-UN. WE SAY YOU'RE BEING REMOVED AND YOUR SISTER IS REMOVED
+- **[54:32](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=3272s) · 本段原话**：WE CALL THE BLESSING. WE CALL THE INCREASE. WE CALL IN THE FAVOR. AND FATHER, I THANK YOU, LORD. WHEN THE ENEMY COMES IN LIKE A FLOOD, YOU RAISE UP A STANDARD AGAINST THE DEVIL RIGHT NOW CONCERNING TAIWAN. WE PUT THAT GOLDEN DOME OF THE GLORY OVER TAIWAN IN JESUS' NAME. AND THE PEOPLE RISE UP AND
 
 ### 完整英文 Transcript
 
@@ -1325,7 +1392,14 @@
 <a id="section-09"></a>
 ## 09. 56:00–62:59 · 教会、复兴与信仰、战争与国际事务
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：China、Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、战争与国际事务展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[56:28](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=3388s) · 他描述所见**：We call breakthrough concerning this. I see t I see China raising up their they're going to try to do something in the days ahead.
+- **[57:39](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=3459s) · 本段原话**：They'll remove Ping and they'll bring in another leader. By the time it's already done, it'll be years past because they have confusion in their own camp. And the underground church of of China rises up and have a major revival. Why there's confusion in the camp of the of of the politics in China?
+- **[58:10](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=3490s) · 本段原话**：But we call confusion in the camp of the government. We call a regime change. We call shaking OF THE CHANGE, A A TURNING OF THE TIDE in China and in North Korea.
+- **[59:22](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=3562s) · 本段原话**：We thank [snorts] you Lord. We believe [clears throat] we believe Father that there's a major move of God all throughout Australia. You're raising up new Davids, new ERS all throughout the land of Australia in the name of Jesus and Father through New Zealand.
 
 ### 完整英文 Transcript
 
@@ -1438,7 +1512,14 @@
 <a id="section-10"></a>
 ## 10. 63:00–69:59 · 教会、复兴与信仰、战争与国际事务
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、战争与国际事务。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、战争与国际事务展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[64:02](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=3842s) · 本段原话**：The shakening of the false temples and the idol temples. Thousand-y old temple destroyed in a day.
+- **[65:07](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=3907s) · 本段原话**：Here they say There'll be a thousand year old destroying in a day.
+- **[68:06](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=4086s) · 他进行祷告**：Iran and we call the pink currency to rise. eyes in Jesus name. We call the change of tides in Iran for a major revival within the land for Persia to lose hold of Babylon.
+- **[69:31](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=4171s) · 本段原话**：for we call stirring in the churches, Father. We call a stirring in the churches.
 
 ### 完整英文 Transcript
 
@@ -1491,7 +1572,14 @@
 <a id="section-11"></a>
 ## 11. 70:00–74:55 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[70:00](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=4200s) · 本段原话**：every prophet, every teacher, every evangelist, Father, stirring in their spirit for a fresh fire, a fresh touch of the Holy Ghost, a fresh fire, a fresh touch of the Holy Ghost. That the churches rise up and do what they're called to do. Father, I thank you, Lord, that they don't lose their saltiness.
+- **[72:11](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=4331s) · 他进行祷告**：Thank you Lord. Healing and wholeness and wellness over our bodies. Father that we lack no good thing that we're healed and whole and well in Jesus name. Every single one of us from the top of our head. Weight issues. Father we're free from obesity, free from from weight issues in 2026. We get our weight under control. We get our
+- **[73:47](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=4427s) · 他表达判断**：Everyone say amen and amen. Well, I think that's good. Hour and hour and 10 minutes or whatever of praying and um and we'll do it again. The Lord said keep coming. Keep doing this and we're gonna keep doing this. will pray over this until he wants to uh until I feel released. But there's so many things
+- **[74:04](https://www.youtube.com/watch?v=CBpKNYPCKgA&t=4444s) · 他表达判断**：that we cannot just let go. We call those things that mean not as though they were. And the [clears throat] church is rising up like a backbone, like a crowbar. So, this gives you enough time to pray probably on the way to work or home or whatever you want to do. And you can pray with me and and uh
 
 ### 完整英文 Transcript
 

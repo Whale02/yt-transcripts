@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 730；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 - [09. 32:00–34:12 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=0s) · 他描述所见**：hey good morning family I am so excited to be here with you today so this is how it went the first of the the vision I was praying in the spirit and the Lord took me up into the spirit and he showed me all this stuff okay what what's coming and so I wanted I'm going to
+- **[08:01](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=481s) · 他描述所见**：so now the Lord tells me to focus and he shows me two men two men listen to this I saw a man that's that is a I believe he's the president of a country and I saw another president of a country prime minister I think and they were they were um participating in homosexual
+- **[12:03](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=723s) · 他描述所见**：attack was so uh I saw uh stress on um Benjamin Netanyahu and that's when the Lord said pray for Israel pray for the Peace of Jerusalem pray for this stuff and I saw um Benjamin yet and Yahoo he was he was he wasn't worried but I could see like he was sweating a little bit
+- **[20:03](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1203s) · 本段原话**：stand in the gap for America and we plead the blood of Jesus over this great nation that the leadership when you showed me our president standing in the O office with the with with that spirit that demonic devil wrapped around him we take authority over that Spirit right now in the name of Jesus and we thank
+- **[24:53](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1493s) · 本段原话**：the blood of Jesus we come of the blood over them from the top of their heads to the SES of their feet the satanic attacks that have been bothering them and trying to plag them down we come against them in the name of Jesus healing flows into their bodies Deliverance flows into their bodies free
+- **[32:33](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1953s) · 本段原话**：tamper at the world stuff going out to the clubs and sleeping around doing all the stuff I'm doing seed time and harvest is speeding up and the manifestation of what you sowed if you're walking in compromise it's going to start manifesting and it can cost you it'll cost you your life it can cost you
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、政党与政治人物。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=0s) · 他描述所见**：hey good morning family I am so excited to be here with you today so this is how it went the first of the the vision I was praying in the spirit and the Lord took me up into the spirit and he showed me all this stuff okay what what's coming and so I wanted I'm going to
+- **[00:59](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=59s) · 本段原话**：this the snake and so um it had its mouth open which I thought was interesting because it was in a strike position and whenever it went over the the Louisiana all up uh Arkansas Missouri and went around and it wrapped around uh America it pulled tight then the Lord showed me President Biden and
+- **[02:22](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=142s) · 本段原话**：seasons change in front of him and he's just staring in one place looking out the window in a in a days always looking out this window and so the Lord showed this to me then the Lord showed me um another snake but this snake of course is not as big as the one that came out of the Gulf of
+- **[03:48](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=228s) · 他描述所见**：controlling the president's Mind through a demonic influence it because it was demonic and so then I see behind that snake and I see one of our old
 
 ### 完整英文 Transcript
 
@@ -119,7 +137,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、地震、风暴与灾害。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=240s) · 他描述所见**：presidents and he was dressed in solid black and then I see another person which was a white man and I do not know who this was but he was taller he was a tall individual and he was Heavy he looked almost like he was over he was overweight then I saw a shorter person
+- **[04:17](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=257s) · 他描述所见**：and I believe this was a female okay and uh you can you can know who she is okay that was a that was a pre ex-president's wife and she ran for president also uh at one time and she lost um this person right here so I saw these people there was three individuals and they were
+- **[04:53](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=293s) · 他描述所见**：the stuff and then I could sort of deliver the lines but somebody else was uh doing all the talking and ceremony I I'd be fine with that and so now the Lord took me in in the vision and he showed me New York City and I saw these two buildings standing by themselves okay and um all of a sudden
+- **[07:25](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=445s) · 他描述所见**：separate things the Lord was showing me at this time but I could see those those two those those buildings that were completely gone and I believe I know which buildings they are but I'm I'm I'm before I know I'm never going to say something prophetically that I've seen and just guess I saw these buildings I
 
 ### 完整英文 Transcript
 
@@ -216,7 +241,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=481s) · 他描述所见**：so now the Lord tells me to focus and he shows me two men two men listen to this I saw a man that's that is a I believe he's the president of a country and I saw another president of a country prime minister I think and they were they were um participating in homosexual
+- **[08:26](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=506s) · 他描述所见**：relationship he he he was painting his face he had lipstick on he had he had this blue underneath his eyes and he was dressed similar to a clown which I don't understand all that I'm just telling you what I saw but th these two men one from overseas and one not too far from here
+- **[09:07](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=547s) · 他描述所见**：the Kings from the East are go are devising a plan against the United States and I saw Vladimir Putin and ping having a meeting in Saudi Arabia for the bricks Nations and I saw the bricks Nations the man that's over Saudi Arabia the prince of Saudi Arabia he got he he started devising a plan and it was all
+- **[10:57](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=657s) · 他描述所见**：what I'm going to say when I was looking out over uh America it was just like it was just it was vulnerable then the Lord took me in the spirit and I saw Israel and out of Syria all I could see Iran devising a plan and they were communicating with Syria and they were
 
 ### 完整英文 Transcript
 
@@ -312,7 +344,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：France、Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:03](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=723s) · 他描述所见**：attack was so uh I saw uh stress on um Benjamin Netanyahu and that's when the Lord said pray for Israel pray for the Peace of Jerusalem pray for this stuff and I saw um Benjamin yet and Yahoo he was he was he wasn't worried but I could see like he was sweating a little bit
+- **[12:21](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=741s) · 他描述所见**：like he was he was concerned like this is this is going to be a major ordeal here this isn't just a couple Rockets shooting in this is coming an allout war and so now I'm going to go back to what I saw in Saudi Arabia I could see uh this Prince of Saudi Arabia with he say
+- **[12:39](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=759s) · 他描述所见**：I'm going to put my boot down on America and I saw him do this he had a plan because of Joe Biden and he was against Joe Biden and I could see um him devising a plan with with with Russia and um China and they were making uh the currency for the bricks and they Nations
+- **[14:33](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=873s) · 他描述所见**：them talking to France okay and this was what was really interesting I saw a man and his eyes were kind of slanted evil in Germany and he was he was he was talking to France and he was like he was he was trying to be uh sneaky and so the France leader started talking to Great Britain
 
 ### 完整英文 Transcript
 
@@ -410,7 +449,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:27](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=987s) · 他描述所见**：whenever I'm trying to tell telling you things I'm I'm say it was a lot like old pictures from the 1920s during the Great Depression people were still trying to have a camaraderie then I saw the light from from from Africa when it was about the same time that it went over Europe and all that I saw it go to South
+- **[16:49](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1009s) · 他描述所见**：America I saw Venezuela and I saw Venezuela the prime the Prime Minister maybe the president whoever he is he had slick black hair back and he was a heavy sex guy and he was he was he's an evil man and I saw him go along beside from the oil revenue and the oil stuff he
+- **[17:08](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1028s) · 他描述所见**：went alongside Saudi Arabia and he was going that direction trying to Buddy up to take down America and I saw that but Mexico I saw the the people the leadership of Mexico were just kind of like they were in a days confused like they didn't there was no really backbone they wanted to side with America they
+- **[19:34](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1174s) · 他描述所见**：America and we bind these demonic spirits that I saw over the Atlantic Sea and I thank you Father right now in the name of Jesus that we have authority over the Antichrist agenda pushing things when you told me you wanted to have a harvest of people coming in to the kingdom and they're trying to
 
 ### 完整英文 Transcript
 
@@ -513,7 +559,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:03](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1203s) · 本段原话**：stand in the gap for America and we plead the blood of Jesus over this great nation that the leadership when you showed me our president standing in the O office with the with with that spirit that demonic devil wrapped around him we take authority over that Spirit right now in the name of Jesus and we thank
+- **[20:24](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1224s) · 他进行祷告**：you Lord that you're sending your Waring angels to war on behalf of us father we plead the blood of Jesus over our leadership you said to pray for those that are in leadership and we pray over our President we pray over over his wife we pray over the the vice president we pray over over the the the Senate and
+- **[21:42](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1302s) · 本段原话**：our eyes are flooded with light today we cover our eyes of light right now in the name of Jesus we bind the spirit of fear we're not tormented by fear in the name of Jesus we plead the blood of Jesus over our minds over our spiritual eyes father that we're not deceived by by by
+- **[23:14](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1394s) · 本段原话**：Lord that you're guiding us and strengthening us and you show us the way to go father what we're supposed to do to be like Joseph to either put stuff back to get water to do the things to relocate to do whatever you tell us to do we thank you Holy Ghost we thank you
 
 ### 完整英文 Transcript
 
@@ -615,7 +668,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:53](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1493s) · 本段原话**：the blood of Jesus we come of the blood over them from the top of their heads to the SES of their feet the satanic attacks that have been bothering them and trying to plag them down we come against them in the name of Jesus healing flows into their bodies Deliverance flows into their bodies free
+- **[25:15](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1515s) · 他进行祷告**：from satanic bondage for such a time as this We rise up and pray and we decree a thing the plot against Israel and the things you showed me about Israel tonight oh you showed me I pray for the Peace of Jerusalem I pray for the covering of Netanyahu I cover him in the blood I
+- **[25:38](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1538s) · 他描述所见**：cover the leadership of Israel I cover those people right now in the name of Jesus you're the apple of your eye I cover them Father I thank you Lord that you have a plan oh what a plan well what a planner father that you're not done there's a great great I saw things coming out of
+- **[25:59](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1559s) · 他描述所见**：Syria I saw I saw these things Lord tonight oh God I have mercy on these people oh God have mercy oh God I thank you that you waken up the people and shown them what the plots of the plans of the wicked that demonic principality that's over Iran we bind it in Jesus name we
 
 ### 完整英文 Transcript
 
@@ -710,7 +770,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[29:28](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1768s) · 本段原话**：oh man it's like sometimes you feel that you're lifting a a a 2,000 lb weight you have to crawl up a mountain at the same time some of this stuff I have seen tonight is so heavy oh Lord oh God have mercy I hope this video shakes
+- **[30:03](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1803s) · 本段原话**：you I hope this video wakes you up to realize how what's going on it made sense as an intercessor as a person who sees prophetically the Lord is warning me about the enemy's plans to try to destroy people um please wake
+- **[30:37](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1837s) · 本段原话**：up please listen please get your home right get out of sin stop living stupid you've got to you've got to be more serious you can't keep living in a compromising State and thinking well I'll just walk this line you either are hot or you're cold but there's no lukewarm because he said he'd spew you out of this mouth if
+- **[31:06](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1866s) · 他描述所见**：you're lukewarm you need to be hot or cold either you live in sin but don't play Church no more stop playing Church stop playing like oh well I'm okay I'll walk this fence and as soon as I see things get really bad I'll jump over here real quick quit playing it's time to get
 
 ### 完整英文 Transcript
 
@@ -778,7 +845,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–34:12 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:33](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1953s) · 本段原话**：tamper at the world stuff going out to the clubs and sleeping around doing all the stuff I'm doing seed time and harvest is speeding up and the manifestation of what you sowed if you're walking in compromise it's going to start manifesting and it can cost you it'll cost you your life it can cost you
+- **[32:54](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1974s) · 本段原话**：your finances it can do a lot of stuff because you're playing in the devil ground and you're trying to play in the in the in God's ground and you can't do both you have to stop this and there's going to be it's going to be on the just and the unjust there is a dividing line
+- **[33:11](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=1991s) · 本段原话**：coming like never before and I hope you're hearing me I hope you're hearing me because you're going to start seeing manifestations like like this boom boom boom boom because ex seed time and harvest is being accelerated it's being accelerated so thank you for watching this video I really appreciate all all the support
+- **[33:54](https://www.youtube.com/watch?v=Ugdoq-ODJqI&t=2034s) · 他进行祷告**：on for about 30 minutes uh you all just pray for me you know that I get uh Direction on what I'm supposed to do with it um I really appreciate it hey put a smile on your face and a song in your heart Jesus loved you so much and we'll see you next
 
 ### 完整英文 Transcript
 

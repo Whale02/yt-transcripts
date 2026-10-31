@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 540；**章节数**: 6；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -16,10 +16,28 @@
 - [05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
 - [06. 20:00–21:46 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-06)
 
+## 全片概述与 Key Points
+
+全片共 6 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=0s) · 本段原话**：hey good morning family how are y'all doing today I'm going to do a video just some things that that are on my heart that I've been praying over uh you know we're here we are really close to the Fourth of July weekend and um Bas basically Fourth of July next weekend interceding for protection for your
+- **[04:00](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=240s) · 他讨论新闻或报道**：boings because sometimes a spirit of for boings because we hear so much stuff in the news and we hear so much stuff uh you know on Facebook or YouTube or wherever you you're watching your social media and all of a sudden you will um start to meditate on the wrong thing and because you're you're thinking on the
+- **[09:03](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=543s) · 本段原话**：and Malachi rebukes the devour for our sake that was that was sewn so deep down inside of us we we worked there for 13 years so for 13 years we tithed regularly every single time we got paid and and it changed our life and so it's one of the things that I always say if I didn't
+- **[12:18](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=738s) · 本段原话**：thank you Father that no weapon formed against the school will prosper now now I'm going to drive around now you can't now you can't really go all the way around uh but I'm just going to cover the Box cover the block where your where the school is at father we just cover this
+- **[16:00](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=960s) · 本段原话**：influential who you hang around you know my pastor always said who I I'll be able to see where you go in your future by who you hang around if you're hanging around a 5x5 you need to hang around a 10 by 10 you don't need to hang around another 5 by5 it's time sometimes that
+- **[20:01](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=1201s) · 他转述所听到的话**：to go through and buy up all of the major places to um get it ready for the end times because the Lord told him people were coming to this town for the Revival now I'm telling you I have seen the exact same things coming about the Revival and so um and to prepare and
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=0s) · 本段原话**：hey good morning family how are y'all doing today I'm going to do a video just some things that that are on my heart that I've been praying over uh you know we're here we are really close to the Fourth of July weekend and um Bas basically Fourth of July next weekend interceding for protection for your
+- **[00:59](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=59s) · 本段原话**：go to school or wherever so you know I'm going to play that video again here in a couple of seconds if you want to watch it and um let me hold the camera like that maybe that'll be better I'm not used to filming in the car but um you know making a public uh hedge of
+- **[02:09](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=129s) · 本段原话**：be sensitive to the spirit of God every single day of where you're supposed to be at all times the grocery store the gas station whatever he may say don't go down that street right there you're fixing to go down go down the next one and you're like well I don't understand why just follow the voice and the
+- **[02:47](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=167s) · 本段原话**：all my heart and that's where we have to be in these last days just just trusting confidently in the finished work of the Lord and knowing that he's going to protect you know that he said that he would send his angels to Bear us up lest we Dash our foot against a stone that we
 
 ### 完整英文 Transcript
 
@@ -125,7 +143,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=240s) · 他讨论新闻或报道**：boings because sometimes a spirit of for boings because we hear so much stuff in the news and we hear so much stuff uh you know on Facebook or YouTube or wherever you you're watching your social media and all of a sudden you will um start to meditate on the wrong thing and because you're you're thinking on the
+- **[04:56](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=296s) · 本段原话**：passes all understanding and you will know it's an in Ward knowing it's an inward knowing I do not need to go there I need to to go to this other store or whatever and so I just I don't want to keep going around that but I feel like it's important in these days to really
+- **[06:15](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=375s) · 本段原话**：protection over uh Donald and that he would be uh sheltered and protected that no Calamity comes not him um that um the enemy's plans would not um bear any fruit that's a good way to say it they will not bear fruit for what they have planned to try to take his life or anything that he will always be
+- **[07:39](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=459s) · 本段原话**：power of sewing and reaping we believe that that God is uh uh uh is not mocked whatsoever a man Seth that shall he also reap we believe that that when you seow in good soil you'll reap back some 30 some 60 and 100 fold and we believe that we've believed it for for years down and
 
 ### 完整英文 Transcript
 
@@ -229,7 +254,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[09:03](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=543s) · 本段原话**：and Malachi rebukes the devour for our sake that was that was sewn so deep down inside of us we we worked there for 13 years so for 13 years we tithed regularly every single time we got paid and and it changed our life and so it's one of the things that I always say if I didn't
+- **[10:20](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=620s) · 本段原话**：wife and my children so I I've rambled on here enough but I just wanted to tell you all um To Be watchful of your surroundings basically bottom line of where you are uh at all times in these last days listening to him and praying a hedge of protection over you and your children and so I'm going to take you
+- **[10:59](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=659s) · 他进行祷告**：encourage you to watch it God bless you all and we'll see you in a little bit bye-bye hey good morning everybody uh I'm going to take you to a school the Lord spoke to me and told me to tell you all to to pray for your kids this there then we're coming into a very dark
+- **[11:17](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=677s) · 本段原话**：season y'all and and there's going to be yeah there's going to be light and yeah there's a Revival and there everything but just like I tried to tell you all before it's like holding a um quarter you can either Focus on the darkness or you can focus on the light of what's about to happen but if I'm putting my
 
 ### 完整英文 Transcript
 
@@ -331,7 +363,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:18](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=738s) · 本段原话**：thank you Father that no weapon formed against the school will prosper now now I'm going to drive around now you can't now you can't really go all the way around uh but I'm just going to cover the Box cover the block where your where the school is at father we just cover this
+- **[13:26](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=806s) · 本段原话**：that you you that there are the the salt in the light in this school and that father they Excel above every other CH student in thiso this this the classroom I thank you that that my CH child has A's is the a b honor rooll I play over their mind father they would Excel and
+- **[14:33](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=873s) · 他进行祷告**：I would go once a week at least and and pray over my child if you can walk around the school make just like do a March like a Jericho March go around that school and just cover in that child in the blood covering the school in the blood that there's no um evil people is
+- **[15:27](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=927s) · 本段原话**：evil comes not their dwelling you need to understand you have rights and Authority in the spirit realm to be able to cover them these people that are crazy they have demonic spirits and we wrestle not against flesh and blood but against principalities against powers and spiritual wickedness in high places and we need to bring that stuff down and
 
 ### 完整英文 Transcript
 
@@ -449,7 +488,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=960s) · 本段原话**：influential who you hang around you know my pastor always said who I I'll be able to see where you go in your future by who you hang around if you're hanging around a 5x5 you need to hang around a 10 by 10 you don't need to hang around another 5 by5 it's time sometimes that
+- **[17:57](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=1077s) · 本段原话**：so we're going to read Psalms 91 Little Johnny or whoever I'm going to read Psalms 91 so you get Psalms 91 and you get that scripture down inside of them and you start letting them when they quote it you know whenever the things happen in Colorado or in Florida you know you if that for instance that was
+- **[19:03](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=1143s) · 本段原话**：school we take our spiritual flu shots we take the covering and I put a bloodline over and I say here we're going to take communion this is our spiritual covering no sickness no disease comes n you in sickness and disease it doesn't have to you don't have to deal with the devil's stuff you could we take Psalms
+- **[19:23](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=1163s) · 本段原话**：91 we take that stuff and we we plead the blood of Jesus Christ over our home that no weapon formed against you is going to prosper that's just the way we live that's the way we we we we live our lives we live in this I want to tell you um you know we I I tell tell yall this
 
 ### 完整英文 Transcript
 
@@ -566,7 +612,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–21:46 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=1201s) · 他转述所听到的话**：to go through and buy up all of the major places to um get it ready for the end times because the Lord told him people were coming to this town for the Revival now I'm telling you I have seen the exact same things coming about the Revival and so um and to prepare and
+- **[20:40](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=1240s) · 他表达判断**：it's really cool I think this is really beautiful I think you and it is is absolutely I think he he bought it and I think he didn't pay a whole lot for it it was an old boy's home it's right here and you can show them show them right here this is an old boy's home that this
+- **[21:15](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=1275s) · 本段原话**：house I can you can feel them when you drive by God is good and I thank you all for subscribing to my YouTube channel I thank you for being a part of our family I I just want you to know Jesus Christ is coming and and you don't have to walk walk in a in a devil's hell you can walk
+- **[21:30](https://www.youtube.com/watch?v=SAJApN0MzAQ&t=1290s) · 本段原话**：in authority and power and dominion and and and and and you don't have to keep letting the devil run you over put a smile on your face and a song in your heart Jesus loves you so much and I love you thank you for watching my videos and we'll see you next time byebye
 
 ### 完整英文 Transcript
 

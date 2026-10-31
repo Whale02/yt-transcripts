@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1954；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 90:00–98:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-11)
 - [12. 99:00–102:19 · 祷告、敬拜与现场互动、物资、能源与供应链](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:29](https://www.youtube.com/watch?v=tbUShTZrtiA&t=29s) · 本段原话**：I'm tired of the status quo. I'm tired of Christianity as you as usual. I'm ready for Christianity unusual. I'm tired I This is why when you get fed up being the way you are, that's when you'll start to see change. I want change. Diane and I, Braden, Megan, all of us. I want change in my daughter. I
+- **[19:10](https://www.youtube.com/watch?v=tbUShTZrtiA&t=1150s) · 他表达判断**：more. Believe in God for more. Well, this guy said, "I believe in God for I Do you think the Lord wants me to have a new car, brother?" That's what I'm talking about. Driving around looking at that. That's when I heard Brother Hagen teaching that today. I said, "Let's go look at the
+- **[37:10](https://www.youtube.com/watch?v=tbUShTZrtiA&t=2230s) · 他描述所见**：[Music] Faith isn't a feeling. Faith isn't a feeling. I'm not moved by what I see.
+- **[63:33](https://www.youtube.com/watch?v=tbUShTZrtiA&t=3813s) · 他转述所听到的话**：he said, "These are there's a vast bones all in these valleys, Brandon, of of Christians that are dead. They're spiritually dead." And then he told me, he said, "When I heard him, I could hear him and I could see Satan." And Satan was looking out over the valley of bones and looking what he's done to all these
+- **[81:00](https://www.youtube.com/watch?v=tbUShTZrtiA&t=4860s) · 他转述所听到的话**：together. But not only was it all coming together and creating a whole man spiriously, but I heard the sound of the rain. And not only there was rain, but it was rain not just sprinkles of rain.
+- **[99:26](https://www.youtube.com/watch?v=tbUShTZrtiA&t=5966s) · 他描述所见**：We we the Lord said, "I've camped here for It's amazing because usually I can when I'm pushing in prayer, I can push the vision and push what he's doing."
+
 <a id="section-01"></a>
 ## 01. 00:00–08:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:29](https://www.youtube.com/watch?v=tbUShTZrtiA&t=29s) · 本段原话**：I'm tired of the status quo. I'm tired of Christianity as you as usual. I'm ready for Christianity unusual. I'm tired I This is why when you get fed up being the way you are, that's when you'll start to see change. I want change. Diane and I, Braden, Megan, all of us. I want change in my daughter. I
+- **[02:27](https://www.youtube.com/watch?v=tbUShTZrtiA&t=147s) · 本段原话**：whatever it bypassed another week. I know I from glory to glory he's changing me. I want that so bad. The only thing that's ever going to change you is having a foundation of this word down inside of your heart changing you from the inside out. That's the only thing. And that's what brother Hagen, he he he drove it
+- **[06:08](https://www.youtube.com/watch?v=tbUShTZrtiA&t=368s) · 本段原话**：the fog. And you lay hands on them and the power of God sets them free for and they go from glory to glory. They go There was something to that. It's not just watered down lukewarm religion that you're getting from stale preachers behind the pulpit, but you're teaching people that Jesus Christ is coming and they need to repent
+- **[07:19](https://www.youtube.com/watch?v=tbUShTZrtiA&t=439s) · 他转述所听到的话**：you die tonight sir the Lord told me you're going to hell I don't know what it is with you but God's calling you God's calling you God's calling your son that's standing next to you and I feel to intercede and just weep in behalf of your soul because you don't realize how close
 
 ### 完整英文 Transcript
 
@@ -260,7 +278,14 @@
 <a id="section-02"></a>
 ## 02. 09:00–17:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[09:03](https://www.youtube.com/watch?v=tbUShTZrtiA&t=543s) · 本段原话**：week. Wednesday, Wednesday evening, we come home, we get home from church, did all that. Got so excited. Thursday morning, we wake up. We're going to make another video for you all. And Braden's computer has completely crashed. All of the uh software, all of it completely gone, wiped out. It's like we got hacked in
+- **[11:08](https://www.youtube.com/watch?v=tbUShTZrtiA&t=668s) · 本段原话**：he he fixed it. Thank God. Took him all day long Thursday. All day long, we didn't have we didn't have it. And I and I told him, I said, "Whatever happens happens, buddy. we we'll we'll make it work. Whenever whenever you the enemy comes in and he tries to see and test you to see if he's getting to you by
+- **[13:51](https://www.youtube.com/watch?v=tbUShTZrtiA&t=831s) · 本段原话**：and you say, "Honey, I know this may not be your calling, but I'm going to bless you anyway and show you love, you know, 20 bucks or whatever. I don't know. That's a big tip. I'm just saying you give them give them a big tip. They may say, "Hey, I don't I they look at you and go, I I can't
+- **[17:06](https://www.youtube.com/watch?v=tbUShTZrtiA&t=1026s) · 本段原话**：We've never seen it. It's time to believe for the impossible. It's time to believe. God forbid. Are we in the last days or not? Are we going to see signs will follow them that that believe? I'm so done with being a Christian that's just barely, you know, well, we see it. Well, we may not. Every
 
 ### 完整英文 Transcript
 
@@ -502,7 +527,14 @@
 <a id="section-03"></a>
 ## 03. 18:00–26:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[19:10](https://www.youtube.com/watch?v=tbUShTZrtiA&t=1150s) · 他表达判断**：more. Believe in God for more. Well, this guy said, "I believe in God for I Do you think the Lord wants me to have a new car, brother?" That's what I'm talking about. Driving around looking at that. That's when I heard Brother Hagen teaching that today. I said, "Let's go look at the
+- **[21:17](https://www.youtube.com/watch?v=tbUShTZrtiA&t=1277s) · 他描述所见**：burning your house is nice now." But you don't know what I came from. You don't know what God did. I never get mad at somebody's blessing whenever you see what they have and where they are because you don't know what seeds they sowed to get what they've got. I rejoice when them whenever I see
+- **[23:44](https://www.youtube.com/watch?v=tbUShTZrtiA&t=1424s) · 本段原话**：And whenever you see the enemy try and attack you, whenever he tries to come against you, take no thought saying. I'm not going to take my thoughts of what I'm feeling and lose my my my my in and all of this. I'm not going to take a thought saying and let him see it. The enemy is not going to
+- **[26:22](https://www.youtube.com/watch?v=tbUShTZrtiA&t=1582s) · 他表达判断**：Some people plant, some people water, and some bring forth the increase. Not everybody's always going to bring forth all the increase. Some people plant, some people water, and some people bring forth the increase. But I believe I planted and maybe even watered. And that's what you have to keep doing is planting, watering, but
 
 ### 完整英文 Transcript
 
@@ -738,7 +770,14 @@
 <a id="section-04"></a>
 ## 04. 27:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[27:45](https://www.youtube.com/watch?v=tbUShTZrtiA&t=1665s) · 本段原话**：That we'll be watchmen today. And we're going to see on the wall. If there's anything to see, he'll show us. Father, we lift up this body before you. And I never enter into that place of uh spiritual uh intercessor intercession without taking communion first. You say why do you take communion so much?
+- **[29:11](https://www.youtube.com/watch?v=tbUShTZrtiA&t=1751s) · 本段原话**：guys, Braden, I'm the most real person when it comes to the spiritual realm than anybody I because I know I have no I have nothing to hide. He can see it all. He knows everything, all my thoughts, my thought. He knows all my my failures. He knows everything about me.
+- **[33:18](https://www.youtube.com/watch?v=tbUShTZrtiA&t=1998s) · 他表达判断**：possible to him who believe. I believe father that we can achieve the impossible today financially, mentally, emotionally, all of it. I can believe and receive what's impossible today to the world. to the world it's impossible but I can have it because he said all things are
+- **[34:38](https://www.youtube.com/watch?v=tbUShTZrtiA&t=2078s) · 本段原话**：healing. You have deliverance. You have it all. We're not need to be bound by anything the devil has. We don't We're not going to be bound by anything the devil has because you've set us free. We will not accept a poo poo package of a symptom on our flesh. We will take no thought saying,
 
 ### 完整英文 Transcript
 
@@ -958,7 +997,14 @@
 <a id="section-05"></a>
 ## 05. 36:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[37:10](https://www.youtube.com/watch?v=tbUShTZrtiA&t=2230s) · 他描述所见**：[Music] Faith isn't a feeling. Faith isn't a feeling. I'm not moved by what I see.
+- **[39:36](https://www.youtube.com/watch?v=tbUShTZrtiA&t=2376s) · 本段原话**：We rest. We're not rude. We rest. When you step, we step. When you step, we step. Oh, Father, we thank you, Lord. Oh, Father, we politely We politely We politely say, "Can I have the keys to that?" Oh, we politely say, we confidently trust. We confidently rely. We confidently rest in the finished work of Jesus. We confidently
+- **[41:27](https://www.youtube.com/watch?v=tbUShTZrtiA&t=2487s) · 本段原话**：You've got to step off in it by faith. That's what you're doing when you're praying like this. You step off in it by faith. I'm going to step into that river. And when the when you get into that river, the river pulls you. The river pulls [Applause] you. We have no other agenda other than
+- **[42:35](https://www.youtube.com/watch?v=tbUShTZrtiA&t=2555s) · 本段原话**：We worship you, Father. We worship you. Oh, Father, we worship you. Oh, Father, we worship you. We enter into your your courts with praise. We magnify you, Lord. We magnify you, Lord. We glorify you, Lord. We honor you, Lord. For you are worthy of our praise. We sing to you a new
 
 ### 完整英文 Transcript
 
@@ -1060,7 +1106,14 @@
 <a id="section-06"></a>
 ## 06. 45:00–53:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:57](https://www.youtube.com/watch?v=tbUShTZrtiA&t=2757s) · 他描述所见**：My first reit a re in rein initial reaction when I saw this mountain. It was it was it was hollowed out around the side and there was barely anything covering to keep this big head of this mountain on, but it was dissolved all at the foundation of it. And it was all up
+- **[48:11](https://www.youtube.com/watch?v=tbUShTZrtiA&t=2891s) · 他描述所见**：I'm going to do a quick work. I'm going to be a quick work. A quick work. See, I see that many people will take them take them years of cultivating years. But now it'll be a quick work. A quick work for quick work. An acceleration for the time is short. An acceleration for the time
+- **[50:58](https://www.youtube.com/watch?v=tbUShTZrtiA&t=3058s) · 本段原话**：You were part of the old You were part of the old the 10 revivals. You were part of the old T [Music] revival. And he's going to live. You're going to live long and finish strong.
+- **[53:25](https://www.youtube.com/watch?v=tbUShTZrtiA&t=3205s) · 他描述所见**：[Music] I see. I see. I see. See, I see that he what he thinks the enemy is one. I see that the enemy thinks he's one. When you look at the vast majority of the churches itself looks very pathetic.
 
 ### 完整英文 Transcript
 
@@ -1210,7 +1263,14 @@
 <a id="section-07"></a>
 ## 07. 54:00–62:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[54:06](https://www.youtube.com/watch?v=tbUShTZrtiA&t=3246s) · 他描述所见**：Oh, I hear the spirit of the Lord say, "Oh, greater the greater greater greater works are coming. The greater works are coming. The fire is coming. The fire for the driest and the deadest will burn the hottest for upon these gr this vast land. I see upon the vast land. Oh, for the escape of eternity, for this for the
+- **[56:54](https://www.youtube.com/watch?v=tbUShTZrtiA&t=3414s) · 他转述所听到的话**：So, and I just heard him say, "I heard the sound of a mighty rushing wind." He's in that still small voice. He's in that still small voice.
+- **[57:59](https://www.youtube.com/watch?v=tbUShTZrtiA&t=3479s) · 他描述所见**：When you look at this at the vast of of of of all of all of the church, what the enem is tried to do, preaching anemic Christianity throughout all these churches, seeker friendly, I see it all.
+- **[60:10](https://www.youtube.com/watch?v=tbUShTZrtiA&t=3610s) · 他描述所见**：Lord and set me in the middle of a valley. It was full of bones. He led me back and forth among them and I saw a great many bones on the floor of the valley, bones that were very dry. He said to me, "Son of man, can these bones live?" I said, "Sovereign Lord, you
 
 ### 完整英文 Transcript
 
@@ -1378,7 +1438,14 @@
 <a id="section-08"></a>
 ## 08. 63:00–71:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[63:33](https://www.youtube.com/watch?v=tbUShTZrtiA&t=3813s) · 他转述所听到的话**：he said, "These are there's a vast bones all in these valleys, Brandon, of of Christians that are dead. They're spiritually dead." And then he told me, he said, "When I heard him, I could hear him and I could see Satan." And Satan was looking out over the valley of bones and looking what he's done to all these
+- **[66:38](https://www.youtube.com/watch?v=tbUShTZrtiA&t=3998s) · 他描述所见**：rushing wind. I see the cloud the It's like I see the cloud the size of a man's head and there's the sound of rain. I hear the sound of rain. I hear the sound of rain. It's the outpouring. It's the outpouring. I hear the sound. I hear the sound.
+- **[68:52](https://www.youtube.com/watch?v=tbUShTZrtiA&t=4132s) · 他描述所见**：I I stay there. I camp there. Father looking at the bones getting up. I look at the bones getting up. I stay in this position. You're not moving here. I You're the vision just just paused right there.
+- **[71:27](https://www.youtube.com/watch?v=tbUShTZrtiA&t=4287s) · 他描述所见**：Revival. He's still at the point of the revival. I see the mountain. I see that mountain. I see the mountain. And I see the valley. And I see all the dry bones.
 
 ### 完整英文 Transcript
 
@@ -1526,7 +1593,14 @@
 <a id="section-09"></a>
 ## 09. 72:00–80:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[72:25](https://www.youtube.com/watch?v=tbUShTZrtiA&t=4345s) · 他转述所听到的话**：I hear it echoing. Satan had thought he had won. I heard it say Satan has thought he had won.
+- **[74:57](https://www.youtube.com/watch?v=tbUShTZrtiA&t=4497s) · 他描述所见**：[Music] I hear the sound of an abundance of rain. I hear the sound of an abundance of rain. I see the rain. I see the rain now. I see the rain. I see the clouds. I see the clouds. The clouds are they're
+- **[75:58](https://www.youtube.com/watch?v=tbUShTZrtiA&t=4558s) · 他描述所见**：And I see a dam that is broken. And in the valley of the bones, I see the waves. I see the waves. I see the dams are broken.
+- **[80:12](https://www.youtube.com/watch?v=tbUShTZrtiA&t=4812s) · 他描述所见**：diamonds, it makes them glisten. And the bones were on the valley and they were all upon it. And the valley was is like going into the desert. It was like desert. And all of a sudden, I see and hear the sound of an abundance of rain, an abundance of water. And there was a
 
 ### 完整英文 Transcript
 
@@ -1647,7 +1721,14 @@
 <a id="section-10"></a>
 ## 10. 81:00–89:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[81:00](https://www.youtube.com/watch?v=tbUShTZrtiA&t=4860s) · 他转述所听到的话**：together. But not only was it all coming together and creating a whole man spiriously, but I heard the sound of the rain. And not only there was rain, but it was rain not just sprinkles of rain.
+- **[84:54](https://www.youtube.com/watch?v=tbUShTZrtiA&t=5094s) · 他描述所见**：The deadest of the deadest are going to get up and it's almost I see I see some of them they have alligator skin. I see alligator skin all around them. Alligator skin. It looks like reptilian. It's alligator skin on them.
+- **[86:22](https://www.youtube.com/watch?v=tbUShTZrtiA&t=5182s) · 他描述所见**：former rain and the latter rain. The former rain. The latter rain. What is it? He's It's like a teeter totter. I see it. The the former rain's already come and the latter rain's coming and the the the wave running and the rave is already coming. One's falling down and the other one's already been here and
+- **[89:49](https://www.youtube.com/watch?v=tbUShTZrtiA&t=5389s) · 他描述所见**：In the cave of life. Victim mentality. Now I see a cave. I see a cave. People are coming out of the cave. Keep people coming out of the cave. He said it's time to come out of the cave. Come out
 
 ### 完整英文 Transcript
 
@@ -1813,7 +1894,14 @@
 <a id="section-11"></a>
 ## 11. 90:00–98:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[91:05](https://www.youtube.com/watch?v=tbUShTZrtiA&t=5465s) · 他描述所见**：Yes. I see. It's almost like they all they have dirt on their face. They have dirt on their face. They have their hair is really really like when it's matted.
+- **[93:20](https://www.youtube.com/watch?v=tbUShTZrtiA&t=5600s) · 他描述所见**：Living in the victory. Living and going from glory to glory. Living in the victory side. So many times the the waves of life, the waves of things. I see these people always hiding underneath the bridge. Wait, waiting for the next thing to fall on them. Waiting in the cave, waiting. Oh, don't want to come out cuz
+- **[95:43](https://www.youtube.com/watch?v=tbUShTZrtiA&t=5743s) · 他描述所见**：Coming through the press. Coming through the press. Comes through the press. When when when I see the more the pressure squirting on the grapes that comes through the press. I hear I hear the pressure cause the oil the oil. And the more the press come down on the the olives, it comes and brings
+- **[97:59](https://www.youtube.com/watch?v=tbUShTZrtiA&t=5879s) · 本段原话**：living. Those old bones living, folks. I hear the sound on abundance of rain that Satan was like, "What are you going to do?" He's looking at him. He's laughing at it. And God is laughing at him. He was Satan is idiot. He's real dumb. He really is dumb. He tries to challenge our creator. He what a what an
 
 ### 完整英文 Transcript
 
@@ -2000,7 +2088,14 @@
 <a id="section-12"></a>
 ## 12. 99:00–102:19 · 祷告、敬拜与现场互动、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、物资、能源与供应链、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、物资、能源与供应链展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[99:26](https://www.youtube.com/watch?v=tbUShTZrtiA&t=5966s) · 他描述所见**：We we the Lord said, "I've camped here for It's amazing because usually I can when I'm pushing in prayer, I can push the vision and push what he's doing."
+- **[100:14](https://www.youtube.com/watch?v=tbUShTZrtiA&t=6014s) · 本段原话**：started coming up out of the out of the depth of the earth. So folks, there's more water, more Holy Ghost water than what you all can ever comprehend. There's former latter rain together and the old wells, the fountain of because as the days of Noah, think about that. The the the the fountains of the depth and the fountains
+- **[100:44](https://www.youtube.com/watch?v=tbUShTZrtiA&t=6044s) · 本段原话**：The rain come from here. Rain, rain, rain. It just filled up and and it was as the days of Noah. That's what I'm hearing. Wow. Praise the Lord, Braden. A great mighty Holy Ghost rain this time though. Not a destructive rain. It's a Holy Ghost rain.
+- **[101:50](https://www.youtube.com/watch?v=tbUShTZrtiA&t=6110s) · 他进行祷告**：appreciate you all. We we love you, Braden. We we we pray for you. We pray for your financial harvest. We're praying for your abundance for your homes. Whatever you're believing for, we're believing with you. We're believing with you. And we pray that everything is good and well in your households. We do. Well, we always close
 
 ### 完整英文 Transcript
 

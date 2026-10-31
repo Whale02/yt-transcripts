@@ -5,17 +5,31 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 131；**章节数**: 2；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
 - [01. 00:00–03:59 · 物资、能源与供应链、教会、复兴与信仰](#section-01)
 - [02. 04:00–05:47 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-02)
 
+## 全片概述与 Key Points
+
+全片共 2 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=xopTkhIITvI&t=0s) · 本段原话**：good morning everybody I wanted to come on today and just tell everybody a quick testimony of what God did for us um a couple years ago now um we uh were cleaning the rugs at the church on Saturday and and uh every we were driving home we were headed home and and my truck the gas gauge on my
+- **[04:01](https://www.youtube.com/watch?v=xopTkhIITvI&t=241s) · 本段原话**：just got we just got so full of joy at what God just did and so I just wanted to come on and tell everybody this this testimony about what happened for my children you know um and and me that the Lord took care of us that we didn't have to uh have my my
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 物资、能源与供应链、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、教会、复兴与信仰展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=xopTkhIITvI&t=0s) · 本段原话**：good morning everybody I wanted to come on today and just tell everybody a quick testimony of what God did for us um a couple years ago now um we uh were cleaning the rugs at the church on Saturday and and uh every we were driving home we were headed home and and my truck the gas gauge on my
+- **[00:21](https://www.youtube.com/watch?v=xopTkhIITvI&t=21s) · 他表达判断**：truck that we had uh was completely broken and uh I didn't realize how low we were on gas and we were we were driving down the highway and all of a sudden the truck just uh went dead uh and ran out of gas and it was probably about 105 degrees is in July it was
+- **[01:35](https://www.youtube.com/watch?v=xopTkhIITvI&t=95s) · 他描述所见**：of our truck and it jolted us forward and I thought we were rear-ended that's how hard it was and I looked in the the rear in my rear view mirror and I I'm seeing in the spirit at this time and I see an angel smiling at me in the spirit realm grinning from ear to
+- **[02:34](https://www.youtube.com/watch?v=xopTkhIITvI&t=154s) · 本段原话**：and my wife's like my God what's going on we're all just freaking out and we're going faster and faster and faster and I'm in the left-hand Lane and I'm starting to we're gather getting so much speed we start passing people in the right hand lane all the way down that angel pushes us three miles to the
 
 ### 完整英文 Transcript
 
@@ -115,7 +129,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–05:47 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=xopTkhIITvI&t=241s) · 本段原话**：just got we just got so full of joy at what God just did and so I just wanted to come on and tell everybody this this testimony about what happened for my children you know um and and me that the Lord took care of us that we didn't have to uh have my my
+- **[04:38](https://www.youtube.com/watch?v=xopTkhIITvI&t=278s) · 本段原话**：believes and in and nothing's too big for God and and I I have testimony after testimony that I'm gonna I'm gonna document I'm gonna put on here so people can hear about the goodness of God and what he's still doing today Jesus Christ the same yesterday today and forever and the Miracles that he did two thousand
+- **[05:00](https://www.youtube.com/watch?v=xopTkhIITvI&t=300s) · 他表达判断**：years ago he will still do today if you believe him for him I believe with all my heart I I've seen it time and time again and I'm going to tell you about each one of them stay tuned thank you for watching and uh if you could give us a a thumbs up or a
+- **[05:20](https://www.youtube.com/watch?v=xopTkhIITvI&t=320s) · 本段原话**：like or share or whatever because it really helps us in the algorithms on YouTube they try to suppress some of my videos and I'm trying to get them out there for the people I really believe God put me on this platform to help folks in these last days there's a lot that I have inside of me to help people
 
 ### 完整英文 Transcript
 

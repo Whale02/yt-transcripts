@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 700；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-08)
 - [09. 32:00–32:55 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=SGHieO5qcZM&t=0s) · 他进行祷告**：hey good morning family I'm excited to be with you all again today you know I've taken some time to pray and I've been seeking the Lord about 2024 you know and and and I I don't take this lightly speaking to you all like this and and telling you all what's coming and and and um and and
+- **[08:24](https://www.youtube.com/watch?v=SGHieO5qcZM&t=504s) · 他描述所见**：the weeds and all the stuff was burnt up and I saw green new new flowers beautiful new things coming I saw those those sequal plants being planted and growing up because of the fire and the testing that was coming upon the people and I saw the Lord told me he showed me as a a a a a like like I
+- **[12:40](https://www.youtube.com/watch?v=SGHieO5qcZM&t=760s) · 本段原话**：you're walking through St standing before him righteous and listening to him every day and praying and seeking his face daily and reading his word and and having fellowship with him he you the word said I'll never see the righteous forsaken or his seed begging bread think about what he's saying and many of you all say well I'm righteous
+- **[20:42](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1242s) · 他描述所见**：to us father I'm not moved by what I see I'm not moved by what I feel I'm moved by what the word says and father we just give you praise and glory for it right now in the name of Jesus and we we humble oursel before you father we humble ourself and we we worship
+- **[24:25](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1465s) · 他描述所见**：tested all throughout your your your digestive system a complete healing and wholeness of all these little PPS and all this stuff going on inside of you I call you healed and whole and well in the name of Jesus completely delivered like a rotor rooters cleaning those out oh I see it right now you're going
+- **[32:00](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1920s) · 本段原话**：the word get in the word and put on some a Garment of Praise for a spirit of heaviness put on some worship praise and worship get that fool in your house get get set free from all that you don't have don't let the dev will get stronghold in your life this is a joyous
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=SGHieO5qcZM&t=0s) · 他进行祷告**：hey good morning family I'm excited to be with you all again today you know I've taken some time to pray and I've been seeking the Lord about 2024 you know and and and I I don't take this lightly speaking to you all like this and and telling you all what's coming and and and um and and
+- **[01:03](https://www.youtube.com/watch?v=SGHieO5qcZM&t=63s) · 本段原话**：word to give again and um uh you know I'm going to say it like this the Lord's called me to say the hard things y'all and it's not always easy being me you know but I'm going to tell you exactly what's going on regardless of all this other crap you're hearing on the other platforms and that's what I'm
+- **[02:12](https://www.youtube.com/watch?v=SGHieO5qcZM&t=132s) · 他描述所见**：so I told my son I said get the recorder out right now cuz I don't want to forget anything he's going to talk and all of a sudden the word of the Lord came up to me and I started I saw a vision and I saw a preachers standing behind the pulpits now holy spirit ask
+- **[03:22](https://www.youtube.com/watch?v=SGHieO5qcZM&t=202s) · 他描述所见**：was all um selfish gain trying to appease the ear of the people then I saw ears on the people and I could see their ears were just being all these these these Whispers of of the things that were happening in the spirit were just were just the pacifying them everything is going to be good all
 
 ### 完整英文 Transcript
 
@@ -119,7 +137,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:26](https://www.youtube.com/watch?v=SGHieO5qcZM&t=266s) · 他描述所见**：these Pampers and I saw you know whenever you see soil diapers the smell that rises up in like cartoons like the the smell of the the the O odor from the diaper all the babies had soil diapers on and there were flies buzzing around those babies and the babies were crying they were crying and they were all
+- **[05:17](https://www.youtube.com/watch?v=SGHieO5qcZM&t=317s) · 他描述所见**：stature and he said therefore he said there is going to be a great shifting upon the land he said I there you have raised your noses they have raised their noses towards me with a stiff neck and their noses were pointed up towards God I saw a pride that was upon the people and he said there's a pride
+- **[06:28](https://www.youtube.com/watch?v=SGHieO5qcZM&t=388s) · 他描述所见**：sake you but there will be a shifting and he said a a shaken come to the body and I saw I saw a a a box a slof sloof box you know like a that shifts dirt from the gold and I and I saw these these this this manure and dirt and all
+- **[07:14](https://www.youtube.com/watch?v=SGHieO5qcZM&t=434s) · 他描述所见**：shaking he said you have to shake all the debris and all the stuff off so that the gold will rise and then he said I want you to focus on the great squala tree out in California he said I want you to focus I saw he said the seed does not produce until there is great fire upon it and it
 
 ### 完整英文 Transcript
 
@@ -207,7 +232,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:24](https://www.youtube.com/watch?v=SGHieO5qcZM&t=504s) · 他描述所见**：the weeds and all the stuff was burnt up and I saw green new new flowers beautiful new things coming I saw those those sequal plants being planted and growing up because of the fire and the testing that was coming upon the people and I saw the Lord told me he showed me as a a a a a like like I
+- **[08:50](https://www.youtube.com/watch?v=SGHieO5qcZM&t=530s) · 他描述所见**：tell you all I see calendars sometimes and he shows me things like in Windows of time and I saw a time of testing coming I saw times of of hardship coming upon the people I saw the Glorious Church rising in uh the a a a a a window of time with great great Glory I saw an
+- **[09:41](https://www.youtube.com/watch?v=SGHieO5qcZM&t=581s) · 他描述所见**：word not on the Milk of the word there's too many babies and therefore there will be a great shaking coming and like I said then all of a sudden I saw people that were um that were that he said you call me Lord Lord you call me savior you call me your friend he said I do not
+- **[11:43](https://www.youtube.com/watch?v=SGHieO5qcZM&t=703s) · 本段原话**：will fill them for fear for for what's coming upon the Earth they will be a lover of thems there is it is coming upon the land even more even a greater greater greater loving of self they have itching ears their hearts their heart hearts are full of of of of of G and and
 
 ### 完整英文 Transcript
 
@@ -298,7 +330,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:40](https://www.youtube.com/watch?v=SGHieO5qcZM&t=760s) · 本段原话**：you're walking through St standing before him righteous and listening to him every day and praying and seeking his face daily and reading his word and and having fellowship with him he you the word said I'll never see the righteous forsaken or his seed begging bread think about what he's saying and many of you all say well I'm righteous
+- **[13:23](https://www.youtube.com/watch?v=SGHieO5qcZM&t=803s) · 本段原话**：stand you come to this Channel and I'm going to tell you Jesus loves you he loves you but he wants you to grow up he wants you to put your big boy pants on or or big girl pants on and and and walk with him stop being these little babies get a spine to you stand for what
+- **[13:42](https://www.youtube.com/watch?v=SGHieO5qcZM&t=822s) · 本段原话**：the word says repent turn from your wicked ways you you got to turn it's intercession starts to hit me again you've got to repent and turn because Jesus is coming you've got to get your heart right before him because Jesus is coming and you ain't ready and I'm going to try to tell you all you've
+- **[14:44](https://www.youtube.com/watch?v=SGHieO5qcZM&t=884s) · 本段原话**：and they say there's something different about us or are we just like them we're called to stand out I'm trying to tell you something y'all you better hear me I'm trying to tell you what the Father's Heart is truly he even was upset about things that I've said always telling you good things you
 
 ### 完整英文 Transcript
 
@@ -404,7 +443,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=SGHieO5qcZM&t=960s) · 本段原话**：shaking is coming and it's not all about America I want you to understand a lot of people have a lot of Pride saying well it's about America and America and America but we're not even 10% of the world's population the world is going to shake the world is going to shake the bride of Christ is not
+- **[17:46](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1066s) · 本段原话**：you I want to give you hope though and I want to tell you in the midst of this you'll never be forsaken you're never going to be the righteous will never be forsaken nor a seed will beg and bread he said he'll always provide for you he will always take care of you your hearts
+- **[18:02](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1082s) · 本段原话**：for him and we're going to walk in the glory they're going to walk in the glory and and the and the Revival like we've never seen before there is a mighty move of the spirit of God coming upon this Earth but I'm telling you that there's too many um there's too much compromise
+- **[19:15](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1155s) · 本段原话**：Great and Mighty Works will you do you said that Lord and I thank you Father that we are going to do the great works we're going to be ready for you our lamps are full of oil our hearts and our eyes are seeking you daily we're seeking you for you said the eyes of the Lord are
 
 ### 完整英文 Transcript
 
@@ -506,7 +552,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:42](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1242s) · 他描述所见**：to us father I'm not moved by what I see I'm not moved by what I feel I'm moved by what the word says and father we just give you praise and glory for it right now in the name of Jesus and we we humble oursel before you father we humble ourself and we we worship
+- **[21:34](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1294s) · 他描述所见**：turmoil in their minds I just saw somebody right now you've been tormented with double-mindedness it's like a split personality it's almost like you feel trapped I it's like I see somebody who is trapped it's almost like in a mirror it's very strange what I just saw but this is a demonic spirit that has
+- **[23:20](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1400s) · 本段原话**：that's not empty no more or they going to come back eight more you better listen to me you be free but you've got to feel your word mind back up with the word you've got to fill it back up fill it back up fill it back up and it's not just a one-time process you've got to do
+- **[23:37](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1417s) · 他描述所见**：this daily you've got to get in the word daily and fill that mind up with the word fill your your your mind your will and your emotions Spirit soul and body thank you Father thank you you father I saw I see I see right now I see
 
 ### 完整英文 Transcript
 
@@ -598,7 +651,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:25](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1465s) · 他描述所见**：tested all throughout your your your digestive system a complete healing and wholeness of all these little PPS and all this stuff going on inside of you I call you healed and whole and well in the name of Jesus completely delivered like a rotor rooters cleaning those out oh I see it right now you're going
+- **[24:47](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1487s) · 本段原话**：to release them in your stool through the waist and don't freak out if there if there's blood in your stool right now it's going to clean you out like a root rer all those little things you're going to pass them in your way in your waist it's going to come out of you that's actually kind of gross but
+- **[25:05](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1505s) · 他描述所见**：it's it's is the truth and that's what the Lord showed me in a vision you can go to the bathroom when you clean it's going to come out of you it's going to be roor rer you're going to clean it out in Jesus name all those little tumors those little little things are coming
+- **[27:17](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1637s) · 他描述所见**：has torment but perfect love cast out all fear we call Peace that passes all understanding over you right now you're crying I see you you're healed and whole and well be of good cheer more life more life life giving Faith Life Giving F in your flesh life it would be Health to all their
 
 ### 完整英文 Transcript
 
@@ -695,7 +755,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:41](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1721s) · 本段原话**：there's nothing for you to be sh you did nothing wrong they try to make it like well you you you were the problem you you brought it on yourself that's a lie from the pit of Hell you did nothing wrong way you dressed or whatever they they had a spirit of perversion and the devil the
+- **[29:19](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1759s) · 他描述所见**：from the top of your head to the soul you feel fire is going through your body right now fire I saw fire go through you right now fire of the Holy Ghost go through right now in the name of Jesus delivering them from that and we call you free from it right now I don't know who you are but Jesus
+- **[29:39](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1779s) · 本段原话**：Christ loves you you start seeing people's stuff man some people have so much hurt Jesus loves you you've been dealing with that for a
+- **[31:15](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1875s) · 本段原话**：you drinking listening to sad music stop feeding that stop feeding that depression like that put some Joy on put some put some happiness on feed on the word get in the word shake that off don't have that heaviness on you it's a choice yeah it's a demonic Spirit trying to latch on to you because of the
 
 ### 完整英文 Transcript
 
@@ -779,7 +846,13 @@
 <a id="section-09"></a>
 ## 09. 32:00–32:55 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:00](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1920s) · 本段原话**：the word get in the word and put on some a Garment of Praise for a spirit of heaviness put on some worship praise and worship get that fool in your house get get set free from all that you don't have don't let the dev will get stronghold in your life this is a joyous
+- **[32:15](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1935s) · 本段原话**：time Jesus came and he set the captives free he was born in a manger and he came for you and me Jesus loves you all well that's what I have for you today put a smile on your face and a song in your heart Jesus loves you so much and we love you thank
+- **[32:38](https://www.youtube.com/watch?v=SGHieO5qcZM&t=1958s) · 本段原话**：you for being a part of this YouTube Channel please if you could click that like and notification bell ring that Bell and and and and click and comment down below if this video bless you put a smile on your face song on your heart Jesus loves you so much and we will see
 
 ### 完整英文 Transcript
 

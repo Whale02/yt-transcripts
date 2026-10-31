@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 604；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 - [10. 36:00–39:34 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=GgdUFY2SQag&t=0s) · 他进行祷告**：Hey, good morning family. I'm going to do another pray with me video, but this time I'm going to do it solo, just how I do it at home. You know, instead of praying with Lynn or or Billy or whoever I, you know, try to have to pray along with them. I'm just going to do my own
+- **[10:49](https://www.youtube.com/watch?v=GgdUFY2SQag&t=649s) · 本段原话**：We comb breakthrough. We call the breakthroughs in the name of Jesus. We call breakthroughs in the name of Jesus.
+- **[16:33](https://www.youtube.com/watch?v=GgdUFY2SQag&t=993s) · 本段原话**：We call breakthrough in every area of our lives, spiritually, physically, financially. We call on breakthrough in our homes. We call breakthrough in our bodies. We speak life over our flesh. We speak healing for you said in your word that your youth is renewed like the eagles. Father, I thank you, Lord. We call our bodies healed and whole and
+- **[20:10](https://www.youtube.com/watch?v=GgdUFY2SQag&t=1210s) · 本段原话**：You're not done, Father. You're not done with America. Father, you said that there be 50 righteous that you would spare the city, spare the land. Father, I'm calling forth more time. Father, for people to repent. We call forth more time. We call for for for your harvest for a great harvest of souls that all that you don't
+- **[28:15](https://www.youtube.com/watch?v=GgdUFY2SQag&t=1695s) · 本段原话**：That's how you're going to to survive the days ahead. Being filled with the spirit, be being filled with the spirit and laughter.
+- **[36:02](https://www.youtube.com/watch?v=GgdUFY2SQag&t=2162s) · 本段原话**：Every one of them are believing for breakthrough in some way. There's so many needs. There's so many people that need touched on this YouTube channel.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=GgdUFY2SQag&t=0s) · 他进行祷告**：Hey, good morning family. I'm going to do another pray with me video, but this time I'm going to do it solo, just how I do it at home. You know, instead of praying with Lynn or or Billy or whoever I, you know, try to have to pray along with them. I'm just going to do my own
+- **[00:17](https://www.youtube.com/watch?v=GgdUFY2SQag&t=17s) · 本段原话**：thing today. And uh I'm going to do it how I do it every night whenever I'm praying and seeking the Lord and how I jump into the rivers. And so, yeah, all it it's pretty raw, you know, being by yourself like this talking to a camera, but I'm going to do my best.
+- **[01:12](https://www.youtube.com/watch?v=GgdUFY2SQag&t=72s) · 本段原话**：you know. So, Father, we're going to start singing. Open the eyes of my heart, Lord.
+- **[03:21](https://www.youtube.com/watch?v=GgdUFY2SQag&t=201s) · 本段原话**：You're the lamb upon the throne [Music] and unto you we lift our voice in praise.
 
 ### 完整英文 Transcript
 
@@ -107,7 +125,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:21](https://www.youtube.com/watch?v=GgdUFY2SQag&t=321s) · 本段原话**：And we thank you that we're free. And Father, we repent of our sins. And we thank you, Lord, that we're we're we're we're covered. We're washed in your blood. And we plead the blood. Let him now we take our seat with you in the heavenlies and we seat we're seated with you right
+- **[06:14](https://www.youtube.com/watch?v=GgdUFY2SQag&t=374s) · 他表达判断**：So we So we're going I'm just going to pray in the spirit now. Okay? And I'm going to pray in tonesues. This is according to Acts chapter 2. And I believe with all every believer has the ability to pray in tonesues. And every believer should pray in tongues. So you say, "Well, you shouldn't do it if you
+- **[07:00](https://www.youtube.com/watch?v=GgdUFY2SQag&t=420s) · 他表达判断**：but I believe with all my heart these prayers are mystery prayers that the devil doesn't understand. he can understand it. And so it there's no interference in the spirit realm. When I'm speaking English, he knows what I'm saying in the in the natural. He knows when I'm praying over my wife or my
+- **[07:18](https://www.youtube.com/watch?v=GgdUFY2SQag&t=438s) · 本段原话**：children, whatever. But when you're praying in the spirit and you're praying in tongues, he he don't understand it cuz he's a flesh devil. He's a dumb devil. He's a flesh devil and he ain't a spirit devil. So when you're praying in the spirit, it's go it's bypassing the any kind of demonic interference and
 
 ### 完整英文 Transcript
 
@@ -201,7 +226,11 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:49](https://www.youtube.com/watch?v=GgdUFY2SQag&t=649s) · 本段原话**：We comb breakthrough. We call the breakthroughs in the name of Jesus. We call breakthroughs in the name of Jesus.
 
 ### 完整英文 Transcript
 
@@ -235,7 +264,12 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[13:27](https://www.youtube.com/watch?v=GgdUFY2SQag&t=807s) · 他进行祷告**：[Music] Oh. We thank you father for direction. We thank you Lord for direction. We thank you Lord.
+- **[15:36](https://www.youtube.com/watch?v=GgdUFY2SQag&t=936s) · 他进行祷告**：Everything we pray in the spirit, we receive it by faith. I receive it right now in the name of Jesus. We receive it, Father. We believe we receive in Jesus' name. Thank you, Lord, for the breakthrough in our lives. Thank you, Lord, for the manifestation of the glory in our lives. Lord, we praise you. We
 
 ### 完整英文 Transcript
 
@@ -276,7 +310,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:33](https://www.youtube.com/watch?v=GgdUFY2SQag&t=993s) · 本段原话**：We call breakthrough in every area of our lives, spiritually, physically, financially. We call on breakthrough in our homes. We call breakthrough in our bodies. We speak life over our flesh. We speak healing for you said in your word that your youth is renewed like the eagles. Father, I thank you, Lord. We call our bodies healed and whole and
+- **[16:56](https://www.youtube.com/watch?v=GgdUFY2SQag&t=1016s) · 本段原话**：well in Jesus' name. We take authority over the demonic attacks that have come against us. We command it to break its knee right now. We command you cease and be still in your maneuvering against us.
+- **[19:01](https://www.youtube.com/watch?v=GgdUFY2SQag&t=1141s) · 本段原话**：Calling it in. Calling in those souls. Calling in the healing. Father, we have a mighty move of God beyond anybody's comprehension. Father, I thank you, Lord, that it would be exceedingly abundantly above all that we dare ask or think.
+- **[19:17](https://www.youtube.com/watch?v=GgdUFY2SQag&t=1157s) · 本段原话**：Father, I thank you, Lord. I thank you, Lord, that the atmosphere is primed and ready for the manifestations of the glory, the primed and ready for the manifestation of the anointing of the Holy Spirit. Father, I thank you, Lord, that there's more churches. We call forth the pastors to preach righteousness and truth and holiness
 
 ### 完整英文 Transcript
 
@@ -351,7 +392,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:10](https://www.youtube.com/watch?v=GgdUFY2SQag&t=1210s) · 本段原话**：You're not done, Father. You're not done with America. Father, you said that there be 50 righteous that you would spare the city, spare the land. Father, I'm calling forth more time. Father, for people to repent. We call forth more time. We call for for for your harvest for a great harvest of souls that all that you don't
+- **[20:36](https://www.youtube.com/watch?v=GgdUFY2SQag&t=1236s) · 本段原话**：want any man to perish but all to come to repentance. We're calling them in right now in Jesus' name. We call in the lost from the Bobbies to the Suzies to the Joe's to all of them.
+- **[21:44](https://www.youtube.com/watch?v=GgdUFY2SQag&t=1304s) · 他描述所见**：It's on a slope and it's going down. And the Lord I see I see a red light, green light, red light, green light.
+- **[23:26](https://www.youtube.com/watch?v=GgdUFY2SQag&t=1406s) · 他描述所见**：paid the price for deliverance. [Music] jobs. Oh, I see it. a replanting a replanting of of of people, placing
 
 ### 完整英文 Transcript
 
@@ -412,7 +460,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:26](https://www.youtube.com/watch?v=GgdUFY2SQag&t=1466s) · 他描述所见**：I see a plant being replanted, being removed out of soil that is not fertile and planted into a soil that is fertile and and flourishing.
+- **[25:35](https://www.youtube.com/watch?v=GgdUFY2SQag&t=1535s) · 他描述所见**：You're on the golf coast. Some I see the I see uh you're you're you're going to relocate.
+- **[26:41](https://www.youtube.com/watch?v=GgdUFY2SQag&t=1601s) · 本段原话**：We call forth new wells, new rivers to come forth in the name of Jesus there. It's like a dried desert wasteland where you are. And the Lord is bringing oasis, a beautiful springs of water out of the dryness and bringing you up out in your spirit. A fresh touch,
+- **[27:36](https://www.youtube.com/watch?v=GgdUFY2SQag&t=1656s) · 他转述所听到的话**：Drink drink. I heard the Lord. Remember I told you all about the time whenever I I I told you the Lord said there's very sobering days ahead.
 
 ### 完整英文 Transcript
 
@@ -494,7 +549,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:15](https://www.youtube.com/watch?v=GgdUFY2SQag&t=1695s) · 本段原话**：That's how you're going to to survive the days ahead. Being filled with the spirit, be being filled with the spirit and laughter.
+- **[28:25](https://www.youtube.com/watch?v=GgdUFY2SQag&t=1705s) · 本段原话**：Be filled with laughter and joy in your houses today. Be filled with laughter and joy in your houses today. I speak in laughter. I speak joy over your homes. I speak restoration of joy. And I break the spirit of depression off of you in the name of Jesus.
+- **[29:14](https://www.youtube.com/watch?v=GgdUFY2SQag&t=1754s) · 本段原话**：Out of your spirit shall flow rivers of living water. And today is your day for a drink. Father, we thank you for the fresh touch of the Holy Spirit.
+- **[31:36](https://www.youtube.com/watch?v=GgdUFY2SQag&t=1896s) · 本段原话**：Bread of heaven, feed me till I want no more. Fill my cup, fill it up, and make me whole.
 
 ### 完整英文 Transcript
 
@@ -565,7 +627,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:17](https://www.youtube.com/watch?v=GgdUFY2SQag&t=1937s) · 本段原话**：Pour out your Holy Ghost. Lord, I want to see the hand of God move mightily inside of me.
+- **[34:21](https://www.youtube.com/watch?v=GgdUFY2SQag&t=2061s) · 本段原话**：sweet Holy Spirit. We need a fresh touch today. Help us to jump into those rivers of living water. The you said inside of us out of our belly shall flow rivers of living water. And that's what quenches all the fiery darts of the wicked.
+- **[34:42](https://www.youtube.com/watch?v=GgdUFY2SQag&t=2082s) · 本段原话**：It's the shield of faith. We put it up today. And we just we worship you, Holy Spirit. We worship you, Lord. We come against the demonic attacks against our families. And we thank you, Father, that greater is he that is in me and my family and he that is in the world. And
+- **[35:06](https://www.youtube.com/watch?v=GgdUFY2SQag&t=2106s) · 本段原话**：every tongue that rises against us, we condemn it in Jesus' name. We condemn the words that people speak against us, word curses, voodoo, witchcraft, it don't matter. You said, "Greater is he that is in you than he that is in the world." And we thank you, Father, that those words go back on them double in
 
 ### 完整英文 Transcript
 
@@ -636,7 +705,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:34 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:02](https://www.youtube.com/watch?v=GgdUFY2SQag&t=2162s) · 本段原话**：Every one of them are believing for breakthrough in some way. There's so many needs. There's so many people that need touched on this YouTube channel.
+- **[37:17](https://www.youtube.com/watch?v=GgdUFY2SQag&t=2237s) · 本段原话**：It's not all religious. It's not all hyped up spiritually. It's just simple. And you go to him as a child, not an adult or his children. And you just say, "Father, I'm here. I'm broken. I need you."
+- **[38:06](https://www.youtube.com/watch?v=GgdUFY2SQag&t=2286s) · 本段原话**：No. just how you started at the gym or you do you do things. A relationship is built over time. It is not overnight. It is not instantaneous like any relationship. It is built out of love and trust and and communion. It's day to day to day to day. Like with the hand clapping against the other, they just
+- **[38:31](https://www.youtube.com/watch?v=GgdUFY2SQag&t=2311s) · 本段原话**：keep doing it. And you just keep going and you go from glory to glory to glory to glory with the father. And that's how you do it. So, I hope this video helped you today a little bit. I I don't think it was too long. So, I'm going to say this. Please, if you could, I know uh it
 
 ### 完整英文 Transcript
 

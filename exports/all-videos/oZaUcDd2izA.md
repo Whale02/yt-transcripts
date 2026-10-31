@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1365；**章节数**: 11；**明确省略行数**: 1
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 72:00–79:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-10)
 - [11. 80:00–87:08 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[02:15](https://www.youtube.com/watch?v=oZaUcDd2izA&t=135s) · 本段原话**：Thank you. Yeah, he works really hard and it was really a nice gift and I just wanted to honor the person who did it and just say thank you. Braden was excited. All right. Well, hey, you never see him. He's always behind the camera hiding out over here praying with me, but he said he said I've got to tell
+- **[16:54](https://www.youtube.com/watch?v=oZaUcDd2izA&t=1014s) · 他表达判断**：race. Let's finish this race. you know, and I believe, you know, with this prayer channel and what we're doing throughout the whole world praying, you know, and I whenever the Lord wore me about Mel Gibson, Braden's been researching everything and he said, "Did you know he was on Joe Rogan Dad?" And I said, "No, he was
+- **[32:01](https://www.youtube.com/watch?v=oZaUcDd2izA&t=1921s) · 本段原话**：said that there would be many souls. There would be many healings, many deliverances in these movie theaters when this movie plays, whatever they show on it. Now, Father, I thank you, Lord, that your wave will be done. It will be a mighty moving rushing wind in the mighty name of Jesus.
+- **[50:31](https://www.youtube.com/watch?v=oZaUcDd2izA&t=3031s) · 本段原话**：protests going on at once throughout America. Multiple protests throughout America at the same time almost like an uprising kind of like a civil unrest. A civil unrest I'm telling you martial laws coming to some places.
+- **[64:21](https://www.youtube.com/watch?v=oZaUcDd2izA&t=3861s) · 本段原话**：Launch out into the deep. Oh, papa. It's very That's all very strange. Lord, where the teeth?
+- **[80:25](https://www.youtube.com/watch?v=oZaUcDd2izA&t=4825s) · 本段原话**：We're going to do it one at a time. We got work to do. Clear out to the 4th of July.
+
 <a id="section-01"></a>
 ## 01. 00:00–07:59 · 祷告、敬拜与现场互动、AI、科技与监控
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、AI、科技与监控、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、AI、科技与监控展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[02:15](https://www.youtube.com/watch?v=oZaUcDd2izA&t=135s) · 本段原话**：Thank you. Yeah, he works really hard and it was really a nice gift and I just wanted to honor the person who did it and just say thank you. Braden was excited. All right. Well, hey, you never see him. He's always behind the camera hiding out over here praying with me, but he said he said I've got to tell
+- **[05:14](https://www.youtube.com/watch?v=oZaUcDd2izA&t=314s) · 本段原话**：Now, I don't know if Poland has woods, but the Lord showed me it went out of Russia and came across and struck right there on the border right there by Warsaw and that area. Okay? And when it did, it made a huongous blast zone and it went straight up and it looked like a
+- **[06:20](https://www.youtube.com/watch?v=oZaUcDd2izA&t=380s) · 他表达判断**：It's always it it's a pat on the back say hey guys we're we're doing it. We prayer changes things. Let's pray into this and pray more and stop these things. I believe there's there's certain things you know mass casualties. The Lord showed me it was like a 50-mi blast zone. Huge blast zone. This was not like a normal little
+- **[06:40](https://www.youtube.com/watch?v=oZaUcDd2izA&t=400s) · 他描述所见**：area. This was big. And I'm I know 50 mi seems like a lot, folks. That's a big area, but I'm just saying it was a massive blast zone. Maybe it was 10 miles, but I'm just saying it looked huge for what I saw. And everything around it uh the people were were gone
 
 ### 完整英文 Transcript
 
@@ -239,7 +257,14 @@
 <a id="section-02"></a>
 ## 02. 08:00–15:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、战争与国际事务。 提到的地点：Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:59](https://www.youtube.com/watch?v=oZaUcDd2izA&t=539s) · 他描述所见**：you, if you remember what I told you, when I went to tribulation with the father and he took me out of my body and I'm out of body experience, I saw many groups of Christians that knew what had happened that had been left behind that did not keep their lamps full of oil
+- **[10:41](https://www.youtube.com/watch?v=oZaUcDd2izA&t=641s) · 他转述所听到的话**：seemed like there were signs of war. What fright me was that there was a talk of a destructive weapon and I heard this. They're looking in the wrong place. It's hidden. And so I was it's like I was catapulted hundreds of feet into the air and I was above a large forest.
+- **[12:07](https://www.youtube.com/watch?v=oZaUcDd2izA&t=727s) · 他表达判断**：Was I interceding on behalf of Israel and America? I believe I was first of all. But at that point there were multiple visions and a question seemed to arise constantly. Armageddon, the slaughter of humanity, an atomic war no one wanted but which no one had the wisdom to avoid. Now I need to say that to you again and I want you
+- **[14:22](https://www.youtube.com/watch?v=oZaUcDd2izA&t=862s) · 他描述所见**：He said while I was praying the man Gabriel and I remember Gabriel is one of the most powerful angels whom I'd seen in the vision at the beginning being caused to fly swiftly. Now you think about God and time. Why would God need an angel to move rapidly?
 
 ### 完整英文 Transcript
 
@@ -445,7 +470,14 @@
 <a id="section-03"></a>
 ## 03. 16:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:54](https://www.youtube.com/watch?v=oZaUcDd2izA&t=1014s) · 他表达判断**：race. Let's finish this race. you know, and I believe, you know, with this prayer channel and what we're doing throughout the whole world praying, you know, and I whenever the Lord wore me about Mel Gibson, Braden's been researching everything and he said, "Did you know he was on Joe Rogan Dad?" And I said, "No, he was
+- **[18:47](https://www.youtube.com/watch?v=oZaUcDd2izA&t=1127s) · 他描述所见**：We're going to call forth the angels. We're going to intercede for him. And this is going to change for Mel Gibson today. We're he's going to get some relief, get some pressure off his shoulders so he can finish this. I'm telling you, I saw theaters packed full of people and when they watched this movie, What's Coming? I saw
+- **[19:09](https://www.youtube.com/watch?v=oZaUcDd2izA&t=1149s) · 他描述所见**：them weeping with the glory in the theaters. And that last prayer service we did, I saw them weeping underneath the presence of God. And when this happens, I saw people being healed. I saw people being delivered in the middle of a movie theater.
+- **[21:10](https://www.youtube.com/watch?v=oZaUcDd2izA&t=1270s) · 本段原话**：they're going to burn down the cities. It's like, okay, well, that that's real smart. Burn our country up. So, you know, we people just don't I mean, there's such a reprobate mind on folks and you just go, "Are you kidding me?
 
 ### 完整英文 Transcript
 
@@ -656,7 +688,14 @@
 <a id="section-04"></a>
 ## 04. 24:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:29](https://www.youtube.com/watch?v=oZaUcDd2izA&t=1469s) · 本段原话**：We don't ignore it. But thank God that it says that Galatians 3:13, Christ has redeemed you and me from the curse of the law. Glory to God. He became sickness. He became poverty. He became what? Sin. He took it all for us to walk in victory over all of it. And we don't have to kill a a lamb. The the
+- **[27:25](https://www.youtube.com/watch?v=oZaUcDd2izA&t=1645s) · 本段原话**：We There's a bloodline around us when we go into the grocery store. A thousand shall fall at our side and 10,000 at our right hand, but nothing shall come nigh us. You have to believe it. Psalms 91, Psalms 23, we are walking in that place of provision. Father, we call for finances from the north, the south, the
+- **[28:52](https://www.youtube.com/watch?v=oZaUcDd2izA&t=1732s) · 本段原话**：teeth." No. No. Father, I thank you for the blood. I plead the blood over all our sins, over everything we've done. Father, I thank you, Lord, that your blood washes it over. It's gone. You don't even remember it anymore. Thank you, Father, that you covered us. Thank you, Lord, that we enter into your throne room boldly into
+- **[31:00](https://www.youtube.com/watch?v=oZaUcDd2izA&t=1860s) · 他描述所见**：as he's making this film for you, Father. As he's making the film, though, it's a call. This is a purpose for I see deep into it. Oh, I see by the spirit of the Lord. I see into this, Father, that he will finish his race and finish it strong, uninterrupted and unhindered by
 
 ### 完整英文 Transcript
 
@@ -831,7 +870,14 @@
 <a id="section-05"></a>
 ## 05. 32:00–39:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:01](https://www.youtube.com/watch?v=oZaUcDd2izA&t=1921s) · 本段原话**：said that there would be many souls. There would be many healings, many deliverances in these movie theaters when this movie plays, whatever they show on it. Now, Father, I thank you, Lord, that your wave will be done. It will be a mighty moving rushing wind in the mighty name of Jesus.
+- **[36:10](https://www.youtube.com/watch?v=oZaUcDd2izA&t=2170s) · 他描述所见**：I see $50 million. I see the number five Z. I saw it's $50 million.
+- **[37:23](https://www.youtube.com/watch?v=oZaUcDd2izA&t=2243s) · 他描述所见**：down. I see boulders that are stacked up. Every obstacle, every barrier, everything that's standing in the way, we call forth those boulders to come down in the name of Jesus. We're calling those boulders down in the name of Jesus.
+- **[39:16](https://www.youtube.com/watch?v=oZaUcDd2izA&t=2356s) · 他描述所见**：he they know he's doing it they know he's doing it I see it but they're coming against him and there's there's co coven of them there's covenis [Applause] The greater is he that is in us than he
 
 ### 完整英文 Transcript
 
@@ -952,7 +998,14 @@
 <a id="section-06"></a>
 ## 06. 40:00–47:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:34](https://www.youtube.com/watch?v=oZaUcDd2izA&t=2434s) · 他描述所见**：They're coming for a movie, but they're c they're going to experience an have an experience. They're going to have an experience in the experience of the movie. You hear they're going to have an experience with me. He says as they have the exper as they're coming to experience the movie, but I see the presence of the Lord.
+- **[41:49](https://www.youtube.com/watch?v=oZaUcDd2izA&t=2509s) · 本段原话**：[Music] I even keeping it PG 13 at least. And I I'm seeing a even a battle with the R rating with this. A battle with the R rating like Kobe seco. They're like the Hollywood people. You see evil men trying to say this is and it's not this is you you like coming against the
+- **[45:42](https://www.youtube.com/watch?v=oZaUcDd2izA&t=2742s) · 他描述所见**：I'm seeing I'm seeing Dallas. I'm seeing I'm seeing rioting with Antifa. More planned uh disruptions across America. Seattle. I'm seeing Seattle with my eyes open. I see Seattle.
+- **[47:03](https://www.youtube.com/watch?v=oZaUcDd2izA&t=2823s) · 他描述所见**：I see Kansas City. I see Kansas City. I see Denver. The the people trying to do uprisings, mocking the similar event like in like in California, like trying to do LA again, trying to uprise in other cities. The same thing.
 
 ### 完整英文 Transcript
 
@@ -1049,7 +1102,14 @@
 <a id="section-07"></a>
 ## 07. 48:00–55:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:31](https://www.youtube.com/watch?v=oZaUcDd2izA&t=3031s) · 本段原话**：protests going on at once throughout America. Multiple protests throughout America at the same time almost like an uprising kind of like a civil unrest. A civil unrest I'm telling you martial laws coming to some places.
+- **[51:39](https://www.youtube.com/watch?v=oZaUcDd2izA&t=3099s) · 本段原话**：Agree with me. We're going to stop this. These these uprisings in each one of these cities. We won't even hear We're not going to hear about it. We're It's going to be a couple people just talking, huh? Signs picketing, doing things like that. But none of this rioting stuff, burning buildings and and
+- **[53:12](https://www.youtube.com/watch?v=oZaUcDd2izA&t=3192s) · 他描述所见**：I see many pots and many plans going until after the 4th of July. We must pray a prayer of protection over this nation from now until after the 4th of July.
+- **[55:30](https://www.youtube.com/watch?v=oZaUcDd2izA&t=3330s) · 他描述所见**：This is this is this is more than just touching this a little bit with a surface prayer. This is deep. The root is deep. And I see very dark men.
 
 ### 完整英文 Transcript
 
@@ -1156,7 +1216,14 @@
 <a id="section-08"></a>
 ## 08. 56:00–63:59 · 地震、风暴与灾害、治安、袭击与安全
 
-**中文章节摘要**：本段涉及：地震、风暴与灾害、治安、袭击与安全、教会、复兴与信仰。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕地震、风暴与灾害、治安、袭击与安全展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[56:47](https://www.youtube.com/watch?v=oZaUcDd2izA&t=3407s) · 本段原话**：Whenever something's so big in front of me like that, you do. How do you do it? One bite at a time. You you you you take like a pimp prick and you just keep going here and you don't worry about all this. It's so so much. You just do it by the spirit of
+- **[57:05](https://www.youtube.com/watch?v=oZaUcDd2izA&t=3425s) · 他进行祷告**：God and you pray into it. You see because I can't I can't focus on on so many things. You I'm going to attack it by the spirit of what how the Holy Spirit tells me to attack it with y'all, you know, because many hands make light work. Does that make sense? So, we're
+- **[60:54](https://www.youtube.com/watch?v=oZaUcDd2izA&t=3654s) · 他描述所见**：to to the to to to the ocean. And I see a major hurricane of brewing. I see a major hurricane.
+- **[62:54](https://www.youtube.com/watch?v=oZaUcDd2izA&t=3774s) · 本段原话**：you watch Cuba. I hear it. Watch Cuba. [Music] What is up with the Black Panther?
 
 ### 完整英文 Transcript
 
@@ -1223,7 +1290,14 @@
 <a id="section-09"></a>
 ## 09. 64:00–71:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[64:21](https://www.youtube.com/watch?v=oZaUcDd2izA&t=3861s) · 本段原话**：Launch out into the deep. Oh, papa. It's very That's all very strange. Lord, where the teeth?
+- **[67:57](https://www.youtube.com/watch?v=oZaUcDd2izA&t=4077s) · 他描述所见**：now. Now it's coming for me. September. I see a very on that hurricane. And I saw a very very tight defined eye.
+- **[68:23](https://www.youtube.com/watch?v=oZaUcDd2izA&t=4103s) · 他表达判断**：It wasn't just like a you know big wall eye. It was very skinny and small and very pronounced and it was very thick. So that means I believe it was a very strong hurricane.
+- **[71:16](https://www.youtube.com/watch?v=oZaUcDd2izA&t=4276s) · 他进行祷告**：Father, for all our military. We pray a hedge of protection over every single one of them.
 
 ### 完整英文 Transcript
 
@@ -1282,7 +1356,14 @@
 <a id="section-10"></a>
 ## 10. 72:00–79:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[72:01](https://www.youtube.com/watch?v=oZaUcDd2izA&t=4321s) · 他描述所见**：soon. Thank you, Lord, you're coming soon. We thank you, Lord, that all these things we ask in your son's name. I see New York.
+- **[75:41](https://www.youtube.com/watch?v=oZaUcDd2izA&t=4541s) · 他描述所见**：railroads. Foods, box cars, derailments, bigger than that. I see Santa Fe.
+- **[77:25](https://www.youtube.com/watch?v=oZaUcDd2izA&t=4645s) · 本段原话**：protection. We thank you, Lord, for your divine protection. We give you all the glory, honor, and praise, Father, for all that you've done in this prayer session. Thank you, Lord, that there's more work to be done, but we we eat an elephant one bite at a time. You said, eat an elephant, Brandon. One bite at a
+- **[77:58](https://www.youtube.com/watch?v=oZaUcDd2izA&t=4678s) · 本段原话**：Take your care out of your prayer. We're not worried about any of this. We're not taking the care of it. We take the care out of our prayer. All these terror attack things, all these Antifa, Antifa, all this. Jesus has a plan and he's We're praying out the plan. We're praying out the plan. We're praying out
 
 ### 完整英文 Transcript
 
@@ -1357,7 +1438,14 @@
 <a id="section-11"></a>
 ## 11. 80:00–87:08 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[80:25](https://www.youtube.com/watch?v=oZaUcDd2izA&t=4825s) · 本段原话**：We're going to do it one at a time. We got work to do. Clear out to the 4th of July.
+- **[81:38](https://www.youtube.com/watch?v=oZaUcDd2izA&t=4898s) · 他描述所见**：And in it, it was red and it was white. And I saw Santa Fe. And it looked like it looked like almost like a cross. It looked like similar to a cross on this Santa Fe on this red railroad car. And there was a bomb in the railroad car.
+- **[84:28](https://www.youtube.com/watch?v=oZaUcDd2izA&t=5068s) · 他描述所见**：I roll the care off on him because he's got this where he's he's working through us and we're going to get this done. You know, we got to pray over into the month of we get through the fourth but the week go clearing and I see the se of September and it was highlighted. Pray over the
+- **[86:18](https://www.youtube.com/watch?v=oZaUcDd2izA&t=5178s) · 本段原话**：many million a million men and women army all for the glory of God. It's not about Brandon. I'm gonna tell you people I I I just want to finish my job. I want to do it and do it right and I want to I want to do this with all my might and to
 
 ### 完整英文 Transcript
 

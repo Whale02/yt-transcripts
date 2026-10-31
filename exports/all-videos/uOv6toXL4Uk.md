@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1131；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 40:00–43:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 44:00–44:46 · 教会、复兴与信仰、预言、梦境与异象](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:19](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=19s) · 本段原话**：There's nothing going on with the car ahead of time. So, you all know. Uh she just makes uh stemming noises. you know, she's overcoming autism, so she makes stmming noises. And I'm here waiting for my my wife, Diana's getting her hair done. And so I said, "Let's make a video while mama's getting her hair done." So,
+- **[08:19](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=499s) · 他描述所见**：prehistoric animals." And he said, "It will become a place where you go to a zoo to see them. You can see, you'll be able to see a woolly mammoth and a saber-tooth tiger." And I saw them trying to find DNA like Jurassic Park, which is nuts to create ancient dinosaurs, lizards.
+- **[16:16](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=976s) · 他描述所见**：to create this what they're doing, they're trying to to to bypass seed time and harvest. They're trying to bypass it. There's a there's a time to live and there's a time to die. I saw them taking genetics from a starfish and worms trying to figure out how to splice that and make things that grow arms grow back
+- **[28:01](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=1681s) · 他进行祷告**：to meetings, finding things like Billy Burk's meetings. I try to find them and go, "Where is he going to be?" You know, or wherever. Trying to find places to dip in the river. be a continually drinking of the spirit in these last days. It's very important that you do not go dry uh spiritually. Let me pray for you. All
+- **[37:39](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=2259s) · 本段原话**：a a piece that comes off of you. I was tormented or whatever because it's the glory. Father, I thank you, Lord, that we are carriers of the anointing. We're carriers of the glory. And Father, that when we carry this glory, when we carry it into the earth, Father, we you said you you came to set the captives free
+- **[44:02](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=2642s) · 本段原话**：said, "Hey, would you come on the 13th and come on our channel?" And I and you know, I usually don't do collabs. I usually don't, but I felt in my spirit to do it. Uh they're a blessing and uh I was excited about I thought, you know, I I'll do it. You know, I'm not, like I
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:19](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=19s) · 本段原话**：There's nothing going on with the car ahead of time. So, you all know. Uh she just makes uh stemming noises. you know, she's overcoming autism, so she makes stmming noises. And I'm here waiting for my my wife, Diana's getting her hair done. And so I said, "Let's make a video while mama's getting her hair done." So,
+- **[01:17](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=77s) · 他描述所见**：Right? So we have the Nephilim. The Nephilim. I hope I don't but butcher that again. the Nephilim. So, what I saw happening in labs in certain cities, I saw they look like it. It was the creepiest thing I've ever seen. They were trying to create superhumans. They were taking DNA from an animal using AI.
+- **[02:42](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=162s) · 他转述所听到的话**：And the Lord showed me, he said, "As in the days of Noah, Brandon, look what they're going to do again. They're trying to to to out like recreate the human the way we are, right? By by being blasphemous. It's it's like the Lord said, we are made in his image. We're perfect. We're perfect in his sight. And
+- **[03:24](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=204s) · 他描述所见**：And I when I'm looking into the vision, this is what the Lord shows me. He says to me, he says, "Brandon, they're they're they're they're playing around with fire. They're playing around with things that they don't know if these people are evil. They have a reprobate mind." And I saw them adding to the DNA
 
 ### 完整英文 Transcript
 
@@ -131,7 +149,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:25](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=265s) · 他描述所见**：these men. I'm trying to tell you what I saw in labs. If that's what they're telling you, then they're right. This is what I saw." And it was it was it was a race from China and other countries which the Lord said do not mention the other country. There was a a race trying
+- **[04:41](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=281s) · 他描述所见**：to perfect it to who had who it was like a a new the new industrial revolution with the crypto trying to create a new superhuman be being a species of human being of genetically altered bodies trying to get the flaws out in other words right and then I saw babies in labs in
+- **[05:58](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=358s) · 他描述所见**：could see the fluids and it looked like the ambriotic fluid looked a yellow tint color. It looked like almost like a a shade of urine. I don't know. Like like that's what I'm saying. It looked like that. It looked like a like a like a but it looked thick like jelly. And I saw it
+- **[07:25](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=445s) · 他描述所见**：This is not this is created is possessed by a demonic spirit. You what you're seeing it's animal human. They're splicing it. And I saw they were trying to harvest organs creating these things that were because the if you could get a super heart that was was made perfect in the future. I don't know when this is I don't know
 
 ### 完整英文 Transcript
 
@@ -235,7 +260,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:19](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=499s) · 他描述所见**：prehistoric animals." And he said, "It will become a place where you go to a zoo to see them. You can see, you'll be able to see a woolly mammoth and a saber-tooth tiger." And I saw them trying to find DNA like Jurassic Park, which is nuts to create ancient dinosaurs, lizards.
+- **[09:38](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=578s) · 他描述所见**：This dispensation of grace is coming to an end, and you're about to step over into tribulation." What I saw was a very, very dark time frame. Oh. Oh. And then the Lord showed me uh hydrogen collider the the CERN. I saw CERNs being trying to be made all around the world.
+- **[09:57](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=597s) · 他描述所见**：People were trying to copy what's happening in the Switzerland is where I believe it's at. They were doing a massive one in China and I saw one in America. I saw them trying to be built.
+- **[11:22](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=682s) · 他描述所见**：And the Lord showed me them playing around with dark stuff. And um uh I saw like I said them creating super stuff and human beings and just very demonic activity with AI technology with this new industrial revolution. And it was a it was a race like a space race like the space age race. Everybody's want to get
 
 ### 完整英文 Transcript
 
@@ -342,7 +374,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、AI、科技与监控
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、AI、科技与监控、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、AI、科技与监控展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=720s) · 他描述所见**：that should be illegal is what I was seeing. It was it was very dark. But it was people trying to be the best at splicing and making a better better human. Then I saw underground cities in China and I saw bunkers and the Lord told me he said Brandon they know what's coming and in these underground like
+- **[13:05](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=785s) · 他描述所见**：they see in outer space, what they see coming on the earth. They know something's coming and they're preparing for it and they're scared about what's coming, but they have their own sick agenda of being the elites and well, you all may die, but we're not because we're rich, right? And so, I saw a different
+- **[13:24](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=804s) · 本段原话**：way of thinking that they were thinking that they were going to outs survive all that's coming upon the earth with this tribulation and all the things that are coming. So, I'm just going over some of the things the Lord showed me in the last one. And and I'm telling you all, it was dark.
+- **[15:28](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=928s) · 本段原话**：We God never designed us to death. That was after the fall of man. Adam would have lived forever. But the problem is is after he fell, everything got messed up. And they're trying to figure out how to keep the body going for a long time for these elites. They want to live like
 
 ### 完整英文 Transcript
 
@@ -447,7 +486,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:16](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=976s) · 他描述所见**：to create this what they're doing, they're trying to to to bypass seed time and harvest. They're trying to bypass it. There's a there's a time to live and there's a time to die. I saw them taking genetics from a starfish and worms trying to figure out how to splice that and make things that grow arms grow back
+- **[16:48](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=1008s) · 他转述所听到的话**：It was very weird stuff that I was seeing. And then I was seeing them trying to create a superfood that was cheap out of like a soybean that was full of protein, but the Lord told me this has no nutrition in it at all. It's genetically modified crap that they're going to try to give people.
+- **[17:24](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=1044s) · 本段原话**：was there's no nutritional value in it. It's it's man-made. Anything medine is not going to be good for you. I mean seriously if if it's not vegetables or whatever I mean seriously this is like something that's in it's a lab. They were trying to create it and it was it was gross, but they were
+- **[19:25](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=1165s) · 本段原话**：on another level and everybody's like what is happening up in here. God had to wipe out a whole generation all those people because of how corrupt the bloodline was. And I don't know if Noah and his sons were the only ones that weren't corrupt but I'm going to tell you very serious times.
 
 ### 完整英文 Transcript
 
@@ -554,7 +600,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=1201s) · 本段原话**：darkness, more things that we need to be praying over and and I know that there's a lot of this we can't stop because Bible says as in the days of Noah. So, it's going to happen. So, when will we see this in the public eye? I don't know. when you start seeing about woolly
+- **[20:59](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=1259s) · 他描述所见**：is not it's it's it's trying to to be a mockery of God's creation of what these what he originally intended just like it was with the Nephilim and I think it's interesting I really do whenever I see what I saw um he was he was ticked off about it needless to say what I was seeing he was
+- **[22:04](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=1324s) · 他描述所见**：going to be. It's it's going to be hell on earth, folks." And I'm telling you, as you watch this video, you may say, "Brandon, all that seems so so sci-fi, so out there. You are on some bad stuff. What are you talking about?" All I'm here to tell you is is I see I'm
+- **[23:11](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=1391s) · 他进行祷告**：birthing of the tribulation. Watch what's about to take place in the days ahead. We must pray for our leaders. we see Elon Musk saying we're going to create a new party called uh the American Party or whatever he was calling.
 
 ### 完整英文 Transcript
 
@@ -664,7 +717,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、美国选举与投票。 提到的地点：Oklahoma、Texas。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:09](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=1449s) · 他描述所见**：2026 will be the year of a fix. If you do not pray even for Oklahoma, for they have a chance to be divided with with Oklahoma for the first time in a long time. I saw a line going from from um Altus, Oklahoma to Miami, Oklahoma, and it was split down the middle and half
+- **[24:45](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=1485s) · 他转述所听到的话**：It was a very serious time. 2026, the Lord said they're going to try to fix it. Well, the rat in the White House, the one that I've warned you about all along, saying that they're wanting to create a new party, the rat wants to do it. And more rats and and I, for what I understand, Kim
+- **[26:09](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=1569s) · 他描述所见**：you're not taking our pop house. We're doing all these things and Texas tried to be its own little thing and the days ahead. And I saw them trying and Oklahoma was saying, "Hey, we want to be half with you because Oklahoma was divided." And I thought it was interesting. I really did some of the
+- **[26:26](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=1586s) · 他描述所见**：things I saw trying to come and and the Lord said, "You must pray for not a Democratic uh governor over your nation, over your state uh for 2026, for Oklahoma."
 
 ### 完整英文 Transcript
 
@@ -775,7 +835,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:01](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=1681s) · 他进行祷告**：to meetings, finding things like Billy Burk's meetings. I try to find them and go, "Where is he going to be?" You know, or wherever. Trying to find places to dip in the river. be a continually drinking of the spirit in these last days. It's very important that you do not go dry uh spiritually. Let me pray for you. All
+- **[29:51](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=1791s) · 本段原话**：four years back then. What are you going to do with this window? I'm giving you a window for bringing in the harvest, Brandon. and and it will and and I know the schmita cycle starts a new one starts in 2029 the end of it right so allto together a decade is is is the
+- **[30:28](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=1828s) · 他表达判断**：Do we have a 10-year window? Because he said over this next decade in his in in the father's mind, I believe he still looks at the tribulation as people have an opportunity to give their heart to Jesus. There's still an opportunity to get saved in the tribulation. But whenever that's over, it's over. This
+- **[30:47](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=1847s) · 本段原话**：dispensation, this time frame is over and we step into the new millennial. We step into the thousand-y year reign. I don't believe people are going to get born again in the thousand year. I don't I there's nothing there to say or not. I don't know. You know, I'm sure I'll have Sister Billy. I could ask her. She She
 
 ### 完整英文 Transcript
 
@@ -892,7 +959,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:17](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=1937s) · 他进行祷告**："We're going to see a great the greatest revival we've ever seen before, and I want to be a part of it." Diana's almost done, so I'm not going to be able to pray a long time with you today. I I could go home and pray, but I wanted to throw get you a video out really quick.
+- **[33:37](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=2017s) · 本段原话**：So, we're going to believe for your today. I know the faith, we always grab a hold of it, folks. But I'm telling you there, if we're always living in there, there's Job had his time of a turnaround. He wasn't all his his season of trial, his season of what he went through didn't
+- **[34:24](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=2064s) · 本段原话**：have a season. It's time for your turnaround. But you know what I'm going to tell you? Greater is he that is in you than he that is in the world. A thousand shall fall at your side and 10,000 at your right hand end, but nothing shall come nigh you. You are victorious because he's made you
+- **[35:32](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=2132s) · 本段原话**：their life, Father, that you're the healer and every area of their life, Lord, that you're you make them whole. I plead the blood of Jesus over every single need they have. And I thank you, Lord, that their finances are blessed.
 
 ### 完整英文 Transcript
 
@@ -1006,7 +1080,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[37:39](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=2259s) · 本段原话**：a a piece that comes off of you. I was tormented or whatever because it's the glory. Father, I thank you, Lord, that we are carriers of the anointing. We're carriers of the glory. And Father, that when we carry this glory, when we carry it into the earth, Father, we you said you you came to set the captives free
+- **[38:15](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=2295s) · 本段原话**：more like you all the time, less of this world and more like Jesus. I thank you, Lord, for the harvest of souls, even in this neighborhood right now. I thank you, Lord, for a major outpouring of the spirit of God beyond what we've ever seen before. I call for revival in the name of Jesus. We thank you, Lord, that
+- **[38:35](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=2315s) · 本段原话**：we're always in the right place at the right time, ministering to the who we need to minister to. I thank you, Lord, that the blood of Jesus covers us and we're always protected. Father, I thank you that a thousand shall fall at our side and 10,000 at our right hand, but it shall not come nigh us. I plead the
+- **[39:04](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=2344s) · 本段原话**：We hear you. We follow the still small voice on the inside of us. But it be it won't be still the small. It's going to be loud because we hear you. Because we're familiar with you, Father. We have a relationship with our father and he speaks loud to me. It's not quiet to me.
 
 ### 完整英文 Transcript
 
@@ -1125,7 +1206,14 @@
 <a id="section-11"></a>
 ## 11. 40:00–43:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:59](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=2459s) · 本段原话**：the the weward husbands, the weward wives, Father, I thank you, Lord, they're becoming radically saved in these ne days ahead. Father, there's a Holy Ghost movement coming on these households. Father, that men will rise up like a backbone, like a crowbar and lead their family. Father, I thank you, Lord, that there's no weak, limp wristed
+- **[42:10](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=2530s) · 他表达判断**：Father, it's been the wetest summer I think I've ever seen. Father, you've blessed us with so much rain. Thank you, Lord, for the rain. Thank you, Lord, for the blessing of the rain. I hear the sound of an abundance of rain. I hear the sound of of abundance of rain.
+- **[42:50](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=2570s) · 本段原话**：Father, I thank you, Lord, that all moles and rats are revealed. I thank you, Lord, that there's a there's a covering over President Trump and his decision-making in the days ahead. And we thank you, Lord, that Congress passes all the things it needs to about crypto.
+- **[43:50](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=2630s) · 本段原话**：And I and and we and we thank you for the continue coming and praying. We'll do more prayer videos. We're going to do live videos. I I I got invited Kim Clement's daughter uh contacted us and
 
 ### 完整英文 Transcript
 
@@ -1246,7 +1334,14 @@
 <a id="section-12"></a>
 ## 12. 44:00–44:46 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[44:02](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=2642s) · 本段原话**：said, "Hey, would you come on the 13th and come on our channel?" And I and you know, I usually don't do collabs. I usually don't, but I felt in my spirit to do it. Uh they're a blessing and uh I was excited about I thought, you know, I I'll do it. You know, I'm not, like I
+- **[44:19](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=2659s) · 他表达判断**：said, I usually don't do that kind of stuff. But if you want to support her uh live feed coming on next Sunday, this coming on the 13th, I believe is it is.
+- **[44:29](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=2669s) · 本段原话**：Uh we're going to be uh doing um a video over there and I'm going to be talking to Don. I thought that's kind of cool.
+- **[44:36](https://www.youtube.com/watch?v=uOv6toXL4Uk&t=2676s) · 本段原话**：So, God bless you all and we'll see you again soon. Remember, put a smile on your face and a song in your heart.
 
 ### 完整英文 Transcript
 

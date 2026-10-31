@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 3332；**章节数**: 12；**明确省略行数**: 1
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 150:00–164:59 · 教会、复兴与信仰、预言、梦境与异象](#section-11)
 - [12. 165:00–176:40 · 战争与国际事务、地震、风暴与灾害](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:18](https://www.youtube.com/watch?v=odkjS3oGxxI&t=18s) · 他表达判断**：the Holy Ghost and find out the vein of what the Lord's wanting me to do with my family and uh changes that I believe in 2026. Um and when you're seeking him, you'll find him. Uh I you know if you notice my eye it's from the stress from this week my the blood vessel busted in
+- **[30:40](https://www.youtube.com/watch?v=odkjS3oGxxI&t=1840s) · 本段原话**：Like never before. As we close out this year in 2025, we're closing out. We have couple more. We have 15 days left or so, what will you do for him in 2026 and the rest of this year? You have just a little time left. If this was our last Christmas, if this was our last time on
+- **[61:51](https://www.youtube.com/watch?v=odkjS3oGxxI&t=3711s) · 他描述所见**：Mourning by morning new mercies I see. I thank you, Father, that you've been so faithful to us.
+- **[107:50](https://www.youtube.com/watch?v=odkjS3oGxxI&t=6470s) · 他描述所见**：HE CAN'T TAKE IT ANYMORE. YOU SAY YOU CAN TAKE ANYMORE. NICO, I see a great cracking down. A cracking down even greater in in Australia. A
+- **[135:58](https://www.youtube.com/watch?v=odkjS3oGxxI&t=8158s) · 他描述所见**：LONG. I see great great floods. I great floods. I see great floods all in one time in Thailand and in these area. I'm talking about great great floods. Great floods. Great floods. These are great floods. Like mega floods.
+- **[166:59](https://www.youtube.com/watch?v=odkjS3oGxxI&t=10019s) · 他描述所见**：It's going to be all on the news. I saw it on a head. It's going to be on the headlines on the newspapers.
+
 <a id="section-01"></a>
 ## 01. 00:00–14:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Canada、France。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:18](https://www.youtube.com/watch?v=odkjS3oGxxI&t=18s) · 他表达判断**：the Holy Ghost and find out the vein of what the Lord's wanting me to do with my family and uh changes that I believe in 2026. Um and when you're seeking him, you'll find him. Uh I you know if you notice my eye it's from the stress from this week my the blood vessel busted in
+- **[05:44](https://www.youtube.com/watch?v=odkjS3oGxxI&t=344s) · 他描述所见**：governor and that they would try to attack his finances in the days ahead because I saw a cork coming out of a back and the drain was draining down and he was losing more and more and more trying to defund him. Does that make sense? And so the Lord said pray for him. But I saw I felt I felt in my
+- **[09:08](https://www.youtube.com/watch?v=odkjS3oGxxI&t=548s) · 他描述所见**：WE'RE PULLING INTO IRAQ. PULLING INTO the the about the currency for the Iraqi dinar and I saw a number 25 and it was black with yellow around it and it was on a pink piece of parchment paper similar to the $25,000 note that they have now but it was a big number 25. It
+- **[13:56](https://www.youtube.com/watch?v=odkjS3oGxxI&t=836s) · 他描述所见**：in this vision lifted up and went like this and it was you can see you know how when you can take a belt on somebody's waist and it will cause wrinkles in their clothes if it's way too tight. You can see like in cartoons whatever as you pull and restrict something tight it had
 
 ### 完整英文 Transcript
 
@@ -382,7 +400,14 @@
 <a id="section-02"></a>
 ## 02. 15:00–29:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:06](https://www.youtube.com/watch?v=odkjS3oGxxI&t=966s) · 他描述所见**：this is before President Trump became president. This is when Joe Biden was president. I had this vision. Now I see that same snake colored the same way wrapped around our nation squeezing it from from like this constricting it so it can't breathe. And so I I see a part here in part but I'm seeing more. So
+- **[18:09](https://www.youtube.com/watch?v=odkjS3oGxxI&t=1089s) · 他描述所见**：single one of you standing with us because it's not easy always standing on this side so anything else you saw Maduro you saw lighting stuff up on the Oh yeah I saw Maduro lighting that when he out of desperation because of him being upset about being them coming and trying to overthrow his government, they
+- **[24:57](https://www.youtube.com/watch?v=odkjS3oGxxI&t=1497s) · 他描述所见**：But he said it will increase and increase. Do you remember I saw Canada and I saw the laws being pressed and all the things coming and he said very great religious persecution is coming to Europe and Canada and Australia. Now, after today's event, I I bet it even doubles in Australia. Look at Look at
+- **[29:07](https://www.youtube.com/watch?v=odkjS3oGxxI&t=1747s) · 他描述所见**：anointing. And the only thing that I saw that brought them in in the old days was the power of God, creative miracles, signs and wonders, raising the dead. You you raise somebody from the dead. Nowadays, you're going to have Fox, CNN, ABC, CB, CBS, NBC, all of them. They're all going to be over
 
 ### 完整英文 Transcript
 
@@ -740,7 +765,14 @@
 <a id="section-03"></a>
 ## 03. 30:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:40](https://www.youtube.com/watch?v=odkjS3oGxxI&t=1840s) · 本段原话**：Like never before. As we close out this year in 2025, we're closing out. We have couple more. We have 15 days left or so, what will you do for him in 2026 and the rest of this year? You have just a little time left. If this was our last Christmas, if this was our last time on
+- **[34:31](https://www.youtube.com/watch?v=odkjS3oGxxI&t=2071s) · 他描述所见**：And that was the what the seven deadly and going into 2026 and coming up and keeping your heart right before the father. I saw the pillars, but as Satan was the accuser of the brethren, he was going up and petitioning for every single one of them. And there was things that the body
+- **[36:19](https://www.youtube.com/watch?v=odkjS3oGxxI&t=2179s) · 他描述所见**：um just making sure in 2026 you clean yourself. And I'm telling you, it was off of the plague was based off of gluttony and greed. And as I saw the enemy coming out and I saw him creating a battle plan concerning the plague that's coming, they were interlacing it with AI and uh uh
+- **[38:43](https://www.youtube.com/watch?v=odkjS3oGxxI&t=2323s) · 本段原话**：Making sure you're keeping yourself cleaned that you walk in this greater glory. I I know what the Lord showed me about 1 Corinthians 5:5. And he keeps bringing up to me about bringing the bride to his side, bringing you up higher, a cleansing of things.
 
 ### 完整英文 Transcript
 
@@ -1105,7 +1137,14 @@
 <a id="section-04"></a>
 ## 04. 45:00–59:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[47:59](https://www.youtube.com/watch?v=odkjS3oGxxI&t=2879s) · 他表达判断**：with a lot. I'm very very strong in what I believe and what I think because I follow with the Holy Ghost and what he guides and tells you things. It's not always a popular opinion. And I think that that makes my personality type probably even with family. I I'm pretty rigid. You not
+- **[49:23](https://www.youtube.com/watch?v=odkjS3oGxxI&t=2963s) · 他描述所见**：Always been obedient. Now your season's done. Your season's this. your season that and I go extreme I go I go exactly what he asked me to do and that's that path I just saw I saw me walking on that path I saw it but I saw I was walking to an eye and the eye kind of freaked me
+- **[52:27](https://www.youtube.com/watch?v=odkjS3oGxxI&t=3147s) · 他描述所见**：How big you truly are, Father. For you are great. Your eye is great. The path of what I see, Father. Father, this is such a it's a winding road.
+- **[56:56](https://www.youtube.com/watch?v=odkjS3oGxxI&t=3416s) · 他描述所见**：I see. I sing. Oh father, we worship you. Let not your heart be troubled.
 
 ### 完整英文 Transcript
 
@@ -1350,7 +1389,14 @@
 <a id="section-05"></a>
 ## 05. 60:00–74:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[61:51](https://www.youtube.com/watch?v=odkjS3oGxxI&t=3711s) · 他描述所见**：Mourning by morning new mercies I see. I thank you, Father, that you've been so faithful to us.
+- **[63:50](https://www.youtube.com/watch?v=odkjS3oGxxI&t=3830s) · 本段原话**：Long lay the world in sin and narrow pine till he appeared and the soul felt its worth. Maybe I burst that one up. A thrill of hope.
+- **[65:10](https://www.youtube.com/watch?v=odkjS3oGxxI&t=3910s) · 本段原话**：It's for him anyways. It's not for them. I feel him. So many people when you get so many people watching you, you have an auditorium of seven almost 7,000 people watching you. But I I lose myself in him and you're just a part of it.
+- **[66:19](https://www.youtube.com/watch?v=odkjS3oGxxI&t=3979s) · 本段原话**：They don't even know why they're wanting to stay. But it's him and I want him to always be welcome here that I always provide an atmosphere in my home of worship. We have it all the time. Now Paisley's on the kick. She puts Brother Hagen all the time. She says she's taking notes. She go up in a
 
 ### 完整英文 Transcript
 
@@ -1590,7 +1636,14 @@
 <a id="section-06"></a>
 ## 06. 75:00–89:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[75:48](https://www.youtube.com/watch?v=odkjS3oGxxI&t=4548s) · 他描述所见**：There's so many of you that are like on a racetrack. You're going as fast as you can with life. And I see you're in like one of those sports one race car, those very fast race cars that go really fast and you're on that track and you're pushing as hard as you can.
+- **[78:44](https://www.youtube.com/watch?v=odkjS3oGxxI&t=4724s) · 本段原话**：Maybe it was 20,000. It's not enough. This year we've spent it. we're at a max capacity and we're so used to what he blessed us with from the raise we got last year or whatever that it's still not enough because it we've enlarged our tent now and we gobble up the race, right? And
+- **[81:38](https://www.youtube.com/watch?v=odkjS3oGxxI&t=4898s) · 本段原话**：It's always a download. That's why I get I get quiet and sing or everybody's so so well. When's he going to so busy, but he but he he he's in the visions and he'll show it to you. But sometimes you just like I feel him. What do you hurry for?
+- **[88:54](https://www.youtube.com/watch?v=odkjS3oGxxI&t=5334s) · 他描述所见**：really physical last Christmas on this earth for what the doctors said I see one part particular person in particular you've just got a bad bad report concerning your heart you've got a bad report concerning and all the care of it.
 
 ### 完整英文 Transcript
 
@@ -1875,7 +1928,14 @@
 <a id="section-07"></a>
 ## 07. 90:00–104:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[90:10](https://www.youtube.com/watch?v=odkjS3oGxxI&t=5410s) · 他描述所见**：Beautiful. It's on a and the and the willow is coming down. And I see the the stream there.
+- **[94:57](https://www.youtube.com/watch?v=odkjS3oGxxI&t=5697s) · 他描述所见**：I see you're going to the bottle. You're going to the bottle and it's been trying to be a comfort to you. You think, well, I just drink a little bit here and a little bit there. And you're you and and it used to start out with a little wine. Now it's getting harder.
+- **[97:30](https://www.youtube.com/watch?v=odkjS3oGxxI&t=5850s) · 他描述所见**：But as you keep going, the body wants more. And I see the flashing lights ahead in the vision. I see it very clear. and you're coming home and it's dark outside and this has changed.
+- **[100:15](https://www.youtube.com/watch?v=odkjS3oGxxI&t=6015s) · 本段原话**：Separate. Come unto him. 2025 is over. 2026 is time to do something different. Here we are. Don't even wait till 20. This is very serious, but I'm saying you need to stop this and say, "Listen, we got we got I got more.
 
 ### 完整英文 Transcript
 
@@ -2086,7 +2146,14 @@
 <a id="section-08"></a>
 ## 08. 105:00–119:59 · 预言、梦境与异象、AI、科技与监控
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、AI、科技与监控、经济、银行与市场。 提到的地点：Canada、New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、AI、科技与监控展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[107:50](https://www.youtube.com/watch?v=odkjS3oGxxI&t=6470s) · 他描述所见**：HE CAN'T TAKE IT ANYMORE. YOU SAY YOU CAN TAKE ANYMORE. NICO, I see a great cracking down. A cracking down even greater in in Australia. A
+- **[111:57](https://www.youtube.com/watch?v=odkjS3oGxxI&t=6717s) · 本段原话**：It's a on the cameras on the on the post. They will bring in what China does and they'll bring it into these other areas. And people will cry out cry out, but they'll have event event to pull away the freedoms. Event event event to pull away the freedoms. Event event to pull away the freedoms. 2026 will be the
+- **[114:21](https://www.youtube.com/watch?v=odkjS3oGxxI&t=6861s) · 他描述所见**：And and they're ahead of us and they're ahead of us and they're ahead of us and no and in in in England I see the king again as a scorpion make Hey, and they'll try to influence it even on
+- **[116:57](https://www.youtube.com/watch?v=odkjS3oGxxI&t=7017s) · 本段原话**：DO YOU UNDERSTAND? THE VIRUS WILL BE ON THE YOU CAN'T TOUCH IT. I'M SORRY. You can't touch it. WE DON'T WANT IT IN OUR BANK. WE DON'T It's all going to be digital. YOU SEE, WE WILL come when the when the virus kit is ON THE GROUND. IT'S HONEST. IT'S on this. We
 
 ### 完整英文 Transcript
 
@@ -2288,7 +2355,14 @@
 <a id="section-09"></a>
 ## 09. 120:00–134:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[120:18](https://www.youtube.com/watch?v=odkjS3oGxxI&t=7218s) · 他描述所见**：Event event event. It start to roll out. Watch. I see the Olympics before me. I see the Olympics before me. And I see a massive demon. I see a massive demon. I see that dragon again. Remember the dragon with his arms wrapped out? It's over the Olympics.
+- **[122:43](https://www.youtube.com/watch?v=odkjS3oGxxI&t=7363s) · 他描述所见**：Saudi Arabia. Sudan. Tada. Is Israel. That's where it is. I'm looking right in that area. It was right there in the vision. I didn't realize how close they were to Africa.
+- **[132:20](https://www.youtube.com/watch?v=odkjS3oGxxI&t=7940s) · 他描述所见**：Great earthquakes. Great earthquakes. Great earthquakes. I see on New Madrid. I see a great earthquake.
+- **[134:38](https://www.youtube.com/watch?v=odkjS3oGxxI&t=8078s) · 他描述所见**：BE MANY COMING AND and a shake hand. And I see California and I see sh No, and drought and there'll be rains and they I see the drought
 
 ### 完整英文 Transcript
 
@@ -2494,7 +2568,14 @@
 <a id="section-10"></a>
 ## 10. 135:00–149:59 · 战争与国际事务、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：战争与国际事务、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[135:58](https://www.youtube.com/watch?v=odkjS3oGxxI&t=8158s) · 他描述所见**：LONG. I see great great floods. I great floods. I see great floods all in one time in Thailand and in these area. I'm talking about great great floods. Great floods. Great floods. These are great floods. Like mega floods.
+- **[136:55](https://www.youtube.com/watch?v=odkjS3oGxxI&t=8215s) · 本段原话**：People are coming in quick. Be shaking. They'll be looking at what what's all the great aquakening. They're great quaking. There's quaking in the in the ground. And and I remember I warned YOU ABOUT ABOUT JAPAN. GREAT EARTHQUAKE to split the land. A great earthquake IN JAPAN THAT WILL SPLIT the land. Remember this. A GREAT EARTHQUAKE IN JAPAN TO
+- **[141:09](https://www.youtube.com/watch?v=odkjS3oGxxI&t=8469s) · 本段原话**：and you'll see all the shaking all the shaking to awaken for 2026 will be a year of great shaking 2027 shake SHAKE SHAKE SHAKE YOU'RE GOING TO PINCH YOURSELF. THAT'S HOW THAT'S HOW MUCH it'll be changed.
+- **[149:15](https://www.youtube.com/watch?v=odkjS3oGxxI&t=8955s) · 他描述所见**：war and earthquakes and all kinds of major things. But I saw if you go by his side, you'll be okay.
 
 ### 完整英文 Transcript
 
@@ -2755,7 +2836,14 @@
 <a id="section-11"></a>
 ## 11. 150:00–164:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[153:22](https://www.youtube.com/watch?v=odkjS3oGxxI&t=9202s) · 他描述所见**：I saw rubble and rock. I saw it was it was literal. It looked like something out of a bad movie. There was white bags of people dead in those baggy bag bags everywhere all over the street that were laying there waiting to be picked up because there was so many of them pulling out of the rubble
+- **[156:39](https://www.youtube.com/watch?v=odkjS3oGxxI&t=9399s) · 本段原话**：things, you've turned your back on the father. But tonight's your opportunity to come back. Like the prodical son, he came to himself and he realized, hey, I can go back home. I'll be a servant in my father's house. But guess what? The father was waiting with that robe and the kill the fatted calf. Let's have a
+- **[159:00](https://www.youtube.com/watch?v=odkjS3oGxxI&t=9540s) · 他表达判断**：But today and right now is your opportunity to accept Jesus Christ as your Lord and personal Savior. So, I'm going to say this prayer, and I want you to say it with your whole heart. The Bible says, "With a heart, confessions made unto salvation." And I believe as you confess Jesus, you'll be saved.
+- **[163:22](https://www.youtube.com/watch?v=odkjS3oGxxI&t=9802s) · 他描述所见**：Be led by my spirit will catch many fish. The revival is nothing like we've ever seen before. For one, and the shaking to awaken with this plague. And he was talking about the the money. Did you hear that part pushing away you? Oh, you can't want to touch it anymore. I've seen them people. I saw them in Europe
 
 ### 完整英文 Transcript
 
@@ -3147,7 +3235,14 @@
 <a id="section-12"></a>
 ## 12. 165:00–176:40 · 战争与国际事务、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：战争与国际事务、地震、风暴与灾害、预言、梦境与异象。 提到的地点：New York、Canada、Israel、China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、地震、风暴与灾害展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[166:59](https://www.youtube.com/watch?v=odkjS3oGxxI&t=10019s) · 他描述所见**：It's going to be all on the news. I saw it on a head. It's going to be on the headlines on the newspapers.
+- **[169:50](https://www.youtube.com/watch?v=odkjS3oGxxI&t=10190s) · 他转述所听到的话**：many dead volcanoes are going. Ground is split wide open. The multitudes and they were saying whoa whoa whoa whoa. I heard the angels saying whoa whoa whoa. Not the people. I heard the angels saying whoa whoa whoa whoa whoa whoa. Because they were saying I could hear them in the atmosphere because of all the what was going on.
+- **[172:29](https://www.youtube.com/watch?v=odkjS3oGxxI&t=10349s) · 他描述所见**：To control is to lose control. Yep. So a great you already said y'all already talk about Japan. Um no explain to me is that harp. I don't know. I don't know how they're going to do it. It I'm telling you all I saw major major rain and it was so much so that they
+- **[176:03](https://www.youtube.com/watch?v=odkjS3oGxxI&t=10563s) · 他表达判断**：But it's just um it's pretty over the top. Well, we love you all. Thank you for joining us tonight. It's a pretty long video, but I but I believe you know um you can fast forward or whatever you got to do. All 6,800 of you. Wow, that's a lot. That Are y'all still here? Does
 
 ### 完整英文 Transcript
 

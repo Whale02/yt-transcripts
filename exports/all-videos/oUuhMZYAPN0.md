@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 326；**章节数**: 4；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -14,10 +14,26 @@
 - [03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-03)
 - [04. 12:00–12:39 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-04)
 
+## 全片概述与 Key Points
+
+全片共 4 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:16](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=16s) · 本段原话**：It's helping us get the gospel out and we're getting many saved uh from from the p pits of hell. I'm just telling you, Jesus Christ is coming and he's coming real soon. And I just want to tell you, thank you from the bottom of our hearts for helping us get the gospel out. Um, this video, I know the last
+- **[04:01](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=241s) · 本段原话**：and powers and might. You've got to take your place every day in in that seat and say, "Father, I bind the devil thus far and no further. Satan, you have no right, no power, no authority over our area, and you will not come nigh us and harm us in any way from any kind of terrorist attack, any
+- **[08:32](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=512s) · 本段原话**：wife. I don't live in doom and gloom. I live in abundance. And abundance to the full to it overflows. believing God for the miraculous to happen every single day of my life. Something supernatural, angel visitations, manifestations of the glory, laying hands on the sick, raising the dead, whatever it may be. Jesus, here am I. Use me and send me into the
+- **[12:00](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=720s) · 本段原话**：he'll show you. Be be watchful over where you're where you're shopping, where you're at. Look around. Be be like a a private eye. You know, God will use you in these end times, ladies and gentlemen, if you allow him to. Jesus wants to be be big in your life today.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:16](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=16s) · 本段原话**：It's helping us get the gospel out and we're getting many saved uh from from the p pits of hell. I'm just telling you, Jesus Christ is coming and he's coming real soon. And I just want to tell you, thank you from the bottom of our hearts for helping us get the gospel out. Um, this video, I know the last
+- **[01:24](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=84s) · 他描述所见**：Now, that one man that I saw had a meeting with the devil and I told you about it about mass powpows taking out people and rising up witchcraft against the body of Christ, against the America to try to cause mass uh things happening, you know, uh cuz I don't want to get censored. So, I'm trying to warn
+- **[02:21](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=141s) · 他描述所见**：I keep praying and just praying, you know, just and all of a sudden I got downloads from the the Holy Ghost and the Lord started it gave me an openeyed vision of malls and attacks against the malls during the holiday season trying to disrupt people from from buying Christmas gifts and doing things for the economy and attacks
+- **[03:37](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=217s) · 本段原话**：that you have a covering over your family and over your children, over your grandchildren, over your over your loved ones, that they would be in the right place at the right time, that no weapon for a thousand shall fall at their side, 10,000 at their right hand, but nothing shall come nigh you. You are seated with
 
 ### 完整英文 Transcript
 
@@ -130,7 +146,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=241s) · 本段原话**：and powers and might. You've got to take your place every day in in that seat and say, "Father, I bind the devil thus far and no further. Satan, you have no right, no power, no authority over our area, and you will not come nigh us and harm us in any way from any kind of terrorist attack, any
+- **[04:44](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=284s) · 他描述所见**：Use Psalms 91 as a weapon. Use Psalms 23 as a weapon. And you use those scriptures and you you pray over protection over your families. So I like I said, I saw these events trying to take place during the holiday season, the Christmas season over and it doesn't just have to be about America. It could
+- **[05:43](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=343s) · 他进行祷告**：formed against these people would prosper. And so I'm trying to tell you this because it's very, very serious for stuff that I'm picking up in the spirit realm. So, we're going to pray right now. I know this was just a a little short little video here, but let's pray for the for the Christmas season that
+- **[07:20](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=440s) · 他描述所见**：when Ryan Arbar Bonnke prayed for me. So I want to say um a lot of these giftings have just have just de developed. I've just developed it like you develop a spiritual muscle and I see these things coming. I and the Lord will warn me and you know and my main job was when I
 
 ### 完整英文 Transcript
 
@@ -243,7 +266,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:32](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=512s) · 本段原话**：wife. I don't live in doom and gloom. I live in abundance. And abundance to the full to it overflows. believing God for the miraculous to happen every single day of my life. Something supernatural, angel visitations, manifestations of the glory, laying hands on the sick, raising the dead, whatever it may be. Jesus, here am I. Use me and send me into the
+- **[09:49](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=589s) · 本段原话**：ones, aunts, uncles, cousins, whatever. We hold the blood of Jesus over our homes, over our cars, over us. When we go shopping, if we go into the public, no weapon formed against us will prosper. A thousand should fall at our side and 10,000 at our right hand, but it will not come nigh us. We cover our
+- **[10:50](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=650s) · 本段原话**：enemies. And father you're watching over us and you our cup runth over. Truly, goodness and mercy will follow us all the days of our life. And we will dwell in the house of the Lord forever. And we abide in you and you abide in us. And I thank you, Father. You've made us to be
+- **[11:08](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=668s) · 他描述所见**：the light in this earth in these end times. And Father, we thank you, Lord, that we take authority over satanic attack over over mass casualties and shootings in Jesus name. and we bind you, devil, and you will not do this plan that I saw. You will not do this.
 
 ### 完整英文 Transcript
 
@@ -354,7 +384,13 @@
 <a id="section-04"></a>
 ## 04. 12:00–12:39 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=720s) · 本段原话**：he'll show you. Be be watchful over where you're where you're shopping, where you're at. Look around. Be be like a a private eye. You know, God will use you in these end times, ladies and gentlemen, if you allow him to. Jesus wants to be be big in your life today.
+- **[12:17](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=737s) · 本段原话**：And so I just want to say thank you for watching this video. I hope this blessed you. It's just a warning things that I'm praying over and I and I just want to say thank you for watching. Y'all put a smile on your face and a song in your heart. Jesus loves you so much and we
+- **[12:31](https://www.youtube.com/watch?v=oUuhMZYAPN0&t=751s) · 本段原话**：love you and we are so grateful for everything you've done. The likes, the comments, all the things. And so we will see you next time. God bless you guys.
 
 ### 完整英文 Transcript
 

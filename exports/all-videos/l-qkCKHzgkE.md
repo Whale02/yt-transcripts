@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 696；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 - [08. 28:00–29:17 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:30](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=90s) · 他描述所见**：of even a greater acceleration from in the spirit realm so from with the economy with signs uh with the politics with all of it with Israel and so then he said this to me he said I want you to pay attention to the East and I saw uh Chicago Philadelphia and he told me
+- **[04:02](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=242s) · 他描述所见**：burst of air and so I saw 150 mph wind burst coming out like straight line winds and the Lord was talking to me about storms in this in the spring coming and um like I told you long track tornadoes long track uh to pray we we have authority over this now and I'm not
+- **[12:44](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=764s) · 本段原话**：even if you are in those places that the devil's trying to do something and and you're there you you you cause it to stop you say no cease and decision you're maneuvering right now in the name of Jesus Jesus no uh casualties no nothing comes nigh us a thousand shall fall at my side and 10,000 at my right
+- **[16:00](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=960s) · 他表达判断**：lately people say the and and I and I agree with you I agree you I agree with you that that love covers a multitude of sins I get that the blood of Jesus and I and but I'm going to tell you all I believe also I'm telling you we got to walk in Holiness as M and not be
+- **[24:22](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=1462s) · 本段原话**：take authority over the spirit of fear and torment over these people today we call them delivered from the spirit of fear and torment over their sleep over their dreams over their minds over any kind of demonic Spirit trying to cause fear in their hearts we rebuke you and we cast you out for perfect love cast
+- **[28:00](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=1680s) · 他表达判断**：with your finances do you trust the Lord with your home I seow seeds I I and I said God I I trust you I trust you're going to take care of me I sew these seeds I sew it to and and I believe for a supernatural Harvest and God takes care of my family he does and he'll take
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:30](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=90s) · 他描述所见**：of even a greater acceleration from in the spirit realm so from with the economy with signs uh with the politics with all of it with Israel and so then he said this to me he said I want you to pay attention to the East and I saw uh Chicago Philadelphia and he told me
+- **[01:54](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=114s) · 他描述所见**：through the summer he said I saw I saw headlines on on in the news and and I saw great heat waves heat in uh on the East up up Northeast heat waves record temperatures never seen before in that area he said there will be record temperatures in Chicago record temperatures in Philadelphia and this would be a sign of
+- **[02:23](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=143s) · 他描述所见**：the weather acceleration of the weather acceleration of of not The Season's changing the Earth is the birthing Pains of the earth um things like that he said there'll be great acceleration with the weather and so I saw um like I said heat like I've like like and I hate that because I because hot
+- **[03:07](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=187s) · 他描述所见**：last a week maybe it last a month I don't know he didn't say I just saw record-breaking temperatures and it was over Philadelphia New York area all up East up in the East uh Northeast and so um then he spoke to me about the thunderstorms again and he told me there would be record breaking wind gust I saw
 
 ### 完整英文 Transcript
 
@@ -115,7 +133,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:02](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=242s) · 他描述所见**：burst of air and so I saw 150 mph wind burst coming out like straight line winds and the Lord was talking to me about storms in this in the spring coming and um like I told you long track tornadoes long track uh to pray we we have authority over this now and I'm not
+- **[04:43](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=283s) · 本段原话**：Psalms 91 Psalms 23 quoting those and getting ready because you know we're in an active time in this Earth but he started talking to me about a long like I told you long track super sales super sales super storms that were going to try to happen in the spring through April May of
+- **[05:38](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=338s) · 他描述所见**：some areas I saw great downpours I saw great the the the lakes and the ponds filling up as a sign of Mercy he started talking to me a lot about Grace and about um uh it's something you don't earn it's something you don't deserve but it was it's just by his love and what he paid
+- **[07:45](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=465s) · 本段原话**：on my heart I've been still praying for the uh the re the hostages release oh and I want to tell you all this we need to be watching I told you all when we saw the stupid thing that happened up in Kansas and that those two kids doing
 
 ### 完整英文 Transcript
 
@@ -217,7 +242,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、物资、能源与供应链、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、物资、能源与供应链展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:24](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=504s) · 本段原话**：poo poo pew pews that that doesn't happen anymore and it's not just about America it's a worldwide thing and I don't know if everybody has Pew pews everywhere but um but I'm just saying having uh wisdom and praying Psalms 91 for protection over where you are at all times malls big gatherings uh soccer
+- **[08:47](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=527s) · 他描述所见**：event whatever it I don't know I I just feel to to to pray over this stuff for for protection because I told you I saw a demonic agenda coming against this to to cause havoc and and confusion and turmoil and I'm just and we have authority over this stuff that's what I'm trying to tell you
+- **[10:16](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=616s) · 他表达判断**：taking communion and and and and anointing them I you know I got this oil from one of the one of the people that follow us and he has an oil company here and he he makes all his oil and uh in America and I think that's really cool is Spike nard he has all kinds of
+- **[11:18](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=678s) · 本段原话**：this I put a bloodline on them and I said I put a bloodline on the top of your head to the souls of your feet no weapon formed against you will prosper and every tongue that Rises against you we condemn it in the name of Jesus you've got to condemn it and I say
 
 ### 完整英文 Transcript
 
@@ -323,7 +355,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:44](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=764s) · 本段原话**：even if you are in those places that the devil's trying to do something and and you're there you you you cause it to stop you say no cease and decision you're maneuvering right now in the name of Jesus Jesus no uh casualties no nothing comes nigh us a thousand shall fall at my side and 10,000 at my right
+- **[13:44](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=824s) · 本段原话**：it wasn't able to touch them and those were underneath and and the children of Israel were underneath an old Covenant they didn't have Jesus's blood we can apply the blood of Jesus over our children we can apply the blood of Jesus over your husband over your wife the over your flight you when you get on an
+- **[14:59](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=899s) · 他表达判断**：for him 2,000 years ago died and he would do it all over again today for us I believe with all my heart Jesus loves us that much and he wants protection for your family he wants you to walk in it and that's what I'm talking about about the storm season take the anointing oil
+- **[15:29](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=929s) · 他进行祷告**：my tree I have dominion and authority over this tree you're not going to touch the limbs on my tree you're not going to destroy my tree there's no pestilence no plagues no nothing come over my fruit trees I pray over them I pray over my apple and I got Great Harvest of apples
 
 ### 完整英文 Transcript
 
@@ -431,7 +470,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=960s) · 他表达判断**：lately people say the and and I and I agree with you I agree you I agree with you that that love covers a multitude of sins I get that the blood of Jesus and I and but I'm going to tell you all I believe also I'm telling you we got to walk in Holiness as M and not be
+- **[17:16](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=1036s) · 本段原话**：camera crashed so hopefully I I it it's going to pick up I had to turn off the microphone it overheated and so it turned off but um I don't know what I was saying but I but I'm just going to tell you all this it's important that you anoint your family with oil it's
+- **[18:25](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=1105s) · 他表达判断**：listen to it it's it's on I think it was his last thing he dis upad loed over there on YouTube is it was it church of his presence I it was just John Kilpatrick John Kilpatrick I believe you can find it over there it's it has like a like a uh it's a really cool looking thumbnail
+- **[19:44](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=1184s) · 他表达判断**：let's stretch it as far as a stretch you know coupons whatever God God will provide he'll give you witty ideas to get wealth and I believe it all the time we pray this and and and you know go through the store God got show you ideas to make your dollar stretch I believe it
 
 ### 完整英文 Transcript
 
@@ -543,7 +589,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=1201s) · 他进行祷告**：or wherever you're living and he'll give you ideas to make your money go further than what it normally wouldn't because it's anointed it's anointed by the Lord because he's he he loves you and he wants to he wants the best for you in every area of your life I just want you all to Bow your head you can pray with
+- **[20:20](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=1220s) · 他进行祷告**：me I'm GNA pray for you and I just want to I'm I'm going to believe God for whatever you have need of today's your day for your miracle that's what we're going to believe for we're going to believe for a supernatural turnaround and your circumstances that no weapon formed against you prosper every tongue
+- **[20:37](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=1237s) · 本段原话**：that rises against you you condemn it but not only that that you are the head and not the tail you're above and not beneath and we are not supposed to be struggling we're supposed to be the we're supposed to they're supposed to wonder how what was going on with us how are we successful the devil shouldn't be
+- **[22:49](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=1369s) · 本段原话**：you've made us uh join HS with you I thank you Father that you've created us in your image and you love us and you know every single hair on our head all the way down to the toe our toes every single cell of our body everything you know what we have need of if they need
 
 ### 完整英文 Transcript
 
@@ -650,7 +703,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:22](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=1462s) · 本段原话**：take authority over the spirit of fear and torment over these people today we call them delivered from the spirit of fear and torment over their sleep over their dreams over their minds over any kind of demonic Spirit trying to cause fear in their hearts we rebuke you and we cast you out for perfect love cast
+- **[25:53](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=1553s) · 他表达判断**：Lord is there is freedom and there's freedom and he come and he said freedom for whom the sun set free is free indeed and we don't have to be bound by no devil we're free by the blood of the lamb and by the word of Our Testimony I believe it with all my heart you need to
+- **[26:53](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=1613s) · 本段原话**：Jesus loves you and he paid the price for you not to be bound by no devil but to walk in Victory and walk in light so I hope this ble blessed you all today Andre encourag you all that's what I want to do I come on here and encourage you it's like Chicken Little the sky is
+- **[27:28](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=1648s) · 本段原话**：provide for you if he's able to provide for for for for the people in the Bible he's able to provide for you he's the same yesterday today and forever and he loves you and he going to take care of you be a tither be a giver be a swer and I'm telling you the the windows of
 
 ### 完整英文 Transcript
 
@@ -752,7 +812,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–29:17 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:00](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=1680s) · 他表达判断**：with your finances do you trust the Lord with your home I seow seeds I I and I said God I I trust you I trust you're going to take care of me I sew these seeds I sew it to and and I believe for a supernatural Harvest and God takes care of my family he does and he'll take
+- **[28:17](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=1697s) · 本段原话**：care of your family so that's what I have for y'all today oh yeah and I forgot to ask youall if you could please like this video subscribe click that notification Bell if would really be a blessing to us you doing that helps get the gospel throughout the whole world so that people and people are getting born
+- **[28:36](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=1716s) · 本段原话**：again off this channel just telling y'all it's a cool thing uh getting born again getting healed marriage is getting restored people are getting saved I I it's amazing I you know just a year ago when I started this channel to than where God is taking it and what he's doing on this channel on a daily basis I am just
+- **[29:10](https://www.youtube.com/watch?v=l-qkCKHzgkE&t=1750s) · 本段原话**：smile on your face put a song on your heart Jesus loves you so much and we love you and we will see you next time and you all have a blessed day bye-bye
 
 ### 完整英文 Transcript
 

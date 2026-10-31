@@ -5,7 +5,7 @@
 **上传日期**: 20260908
 **源字幕行数**: 2183；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 80:00–87:59 · 预言、梦境与异象、教会、复兴与信仰](#section-11)
 - [12. 88:00–94:20 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:43](https://www.youtube.com/watch?v=phTgJq-lfWo&t=43s) · 他表达判断**：make it a greasy spot. No more 100 degree weather for the rest of this year into next year for sure. And so, uh, I believe that our prayers are working. We can see it. And uh we're believing for rain over 5 in in the name of Jesus. And so every one of you that are believing
+- **[16:08](https://www.youtube.com/watch?v=phTgJq-lfWo&t=968s) · 本段原话**：And that was Putin. So, uh, they're all meeting and having this is just like the Lord showed us in the in prayer. We've been we've been interceding. We've been seeing this. I I love that yellow at the white wall.
+- **[32:00](https://www.youtube.com/watch?v=phTgJq-lfWo&t=1920s) · 他描述所见**：ahead. I saw the Democratic party provoking him and he uses his his social media as his outlet to vent and it makes the people look at him as he's not stable mentally.
+- **[56:13](https://www.youtube.com/watch?v=phTgJq-lfWo&t=3373s) · 本段原话**：The Lord warned us about CMEs. And he said, "Watch for CMEs." What's a CMA? A a coronal mass ejection from the sun. He said the sun will become very active in the days ahead and it will cause major pressure on the plates on the earth in the ring of fire. Does anybody remember that? I said you'll see
+- **[72:25](https://www.youtube.com/watch?v=phTgJq-lfWo&t=4345s) · 本段原话**：Is that coincidence? I don't believe so. That's going to be pretty neat to see that. Do you see that? what that's going to look like. I mean, it won't be that detailed. Of course, on September 8th of 2040, Mercury, Venus, Mars, Jupiter, Saturn will will cluster within uh 9.3 of of uh degrees of the sky joined by a
+- **[88:00](https://www.youtube.com/watch?v=phTgJq-lfWo&t=5280s) · 本段原话**：14 years from now. two seven-year cycles. And it goes with, like I said, Pastor Steve Shakalani with his horses, his revelation of what the Lord says, and he's the only one I know preaching it. So, I thought it was interesting because I because he was on Jim Baker.
+
 <a id="section-01"></a>
 ## 01. 00:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:43](https://www.youtube.com/watch?v=phTgJq-lfWo&t=43s) · 他表达判断**：make it a greasy spot. No more 100 degree weather for the rest of this year into next year for sure. And so, uh, I believe that our prayers are working. We can see it. And uh we're believing for rain over 5 in in the name of Jesus. And so every one of you that are believing
+- **[02:13](https://www.youtube.com/watch?v=phTgJq-lfWo&t=133s) · 本段原话**：God, we're so grateful. Thank you, Lord, that it's going to get cooler. It's going to we don't have the full manifestation yet to say it's going to be 100° today. But Lord, we know that in this too shall pass. This and in suddenly are happening all around us today, Father, for the unsuddenlies. I
+- **[05:03](https://www.youtube.com/watch?v=phTgJq-lfWo&t=303s) · 本段原话**：I love that. [laughter] It's like All right. Um All right, son. Do you have a Do you have anything you Okay, this is interesting to me. Okay, we we've had we've had several things that we've prayed over uh in the last what was it since 2025 I uh that time frame, right?
+- **[07:40](https://www.youtube.com/watch?v=phTgJq-lfWo&t=460s) · 他表达判断**：you've been believing for and you hear him talking about it and saying, "Well, I I put on my spiritual cavalar." Well, I believe there's a lot of prayer covering in that, too. Even with her his expectation, he knew what was coming, the spiritual warfare behind it. But to even to know that he said, well, I to me
 
 ### 完整英文 Transcript
 
@@ -241,7 +259,14 @@
 <a id="section-02"></a>
 ## 02. 08:00–15:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 提到的地点：Russia、Ukraine。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=phTgJq-lfWo&t=480s) · 他描述所见**：because I was anticipating. Well, I believe the power of prayer. We we I didn't know to pray for the Passion of the Christ. I don't think anybody did, but I but I'm going to stand with this man to to that this will I I saw it as one of the greatest har as far as modern
+- **[09:15](https://www.youtube.com/watch?v=phTgJq-lfWo&t=555s) · 他描述所见**：not going up there and having a a big sign saying if you need prayer, you know, something religious, you may be outside of the the uh theater because you don't want the theater to call, you know, tell you to leave and be disrespectful to their property. But I'm just saying I I saw a move of God taking
+- **[10:22](https://www.youtube.com/watch?v=phTgJq-lfWo&t=622s) · 他描述所见**：days ahead concerning peace or major war. And the Lord said, "It's not it's no longer going to be called uh uh just a war. It will be a great war." And I saw trouble on the water. And the Lord said there's a chance for lavender in Russia with decisions that will be made. But it was concerning Zalinski and
+- **[14:11](https://www.youtube.com/watch?v=phTgJq-lfWo&t=851s) · 他描述所见**：Okay. Okay. So, I saw that Cana Canada was in trouble and we've seen it over and over and over again about uh that that they would reach out and I've saw these guys right here go together. You can see go to that. That's pretty interesting that that that this the Scorpion and Emanuel Mcronone and uh
 
 ### 完整英文 Transcript
 
@@ -426,7 +451,14 @@
 <a id="section-03"></a>
 ## 03. 16:00–23:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、祷告、敬拜与现场互动。 提到的地点：Canada、Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:08](https://www.youtube.com/watch?v=phTgJq-lfWo&t=968s) · 本段原话**：And that was Putin. So, uh, they're all meeting and having this is just like the Lord showed us in the in prayer. We've been we've been interceding. We've been seeing this. I I love that yellow at the white wall.
+- **[19:10](https://www.youtube.com/watch?v=phTgJq-lfWo&t=1150s) · 他描述所见**：But, uh, I saw I saw flickers of light praying and interceding. And I believe that's you all, the ones that are on the channel. There's people that are praying and I saw black it look like telephone to telephone like the old switchboard cords that were plugged into Toronto and they extended into u England they
+- **[21:22](https://www.youtube.com/watch?v=phTgJq-lfWo&t=1282s) · 他描述所见**：Mark. He doesn't have it under control. And I see a great great great They're in trouble. The barrels are rolling down out of Canada coming into America. The barrels are rolling and they're and they're breaking again. They're breaking again. They're 50 gallon barrels of like whiskey barrels and they're rolling and they're breaking. He's trying to build
+- **[23:35](https://www.youtube.com/watch?v=phTgJq-lfWo&t=1415s) · 他描述所见**：Even in our country, the first amendment, the right to a freedom of speech being challenged in the days ahead on social media platforms, but mainly in this vision, I saw it being challenged in Australia and in Canada.
 
 ### 完整英文 Transcript
 
@@ -613,7 +645,14 @@
 <a id="section-04"></a>
 ## 04. 24:00–31:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Canada、France、China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:45](https://www.youtube.com/watch?v=phTgJq-lfWo&t=1485s) · 他描述所见**：I saw great great trial for some testing your faith being persecuted for your faith in a way that that mo that this generation a lot of the western s society would not be familiar with compared to what maybe the far east have experienced and a great persecution uh from China from from uh the the the the
+- **[26:01](https://www.youtube.com/watch?v=phTgJq-lfWo&t=1561s) · 他描述所见**：uh I saw Carney and he was sweating cuz he realized they were in trouble and their economy was a lot worse than what they're saying. And I saw a black swan event, a black swan major event trying to take place with a new ground zero in Canada to distract from their economy. I
+- **[28:22](https://www.youtube.com/watch?v=phTgJq-lfWo&t=1702s) · 他描述所见**：Canada announced extensive deal to strengthen corporation cooperation. Huh? Uh this is what the Lord said. He will reach with black cords trying to go to England in the EU and Ursula, remember Ursula, with the star with with the things coming off her head. And I said, she's a she's she's a Satanist. And I said, I see all this
+- **[30:15](https://www.youtube.com/watch?v=phTgJq-lfWo&t=1815s) · 本段原话**：going to be next sitting next to the Antichrist system. Who's going to be number two? Who's going to be number one? Because they were fighting to pull each other underwater and and they were trying to use them as a life raft other countries. And you had France and these other and they were fighting America.
 
 ### 完整英文 Transcript
 
@@ -797,7 +836,14 @@
 <a id="section-05"></a>
 ## 05. 32:00–39:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：Russia、Canada、Ukraine。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:00](https://www.youtube.com/watch?v=phTgJq-lfWo&t=1920s) · 他描述所见**：ahead. I saw the Democratic party provoking him and he uses his his social media as his outlet to vent and it makes the people look at him as he's not stable mentally.
+- **[35:37](https://www.youtube.com/watch?v=phTgJq-lfWo&t=2137s) · 他描述所见**：a swastika coming up out of Berlin with sacrifices with some kind of black looking dagger and I saw young virgin girl and the Lord showed us the satanic rituals that were calling forth major war to bring forth the Hitler spirit over Europe.
+- **[37:22](https://www.youtube.com/watch?v=phTgJq-lfWo&t=2242s) · 他描述所见**：But it's the more he tilted over into death because he did die. Uh he was tilting this way. But the Lord said, "You're you're at the same place right now at the the the breaking point concerning World War II and um having a a a lavender." And I saw Trump was in the base of this with his life and he's
+- **[39:37](https://www.youtube.com/watch?v=phTgJq-lfWo&t=2377s) · 他描述所见**：We took this way too far. And that's why I told you I saw that the a great Apolon coming up out of a pit and spinning like a top upon the land. And he went over and he started to influence Russia, his mind, everything. He was being influenced by Apolon like possessed.
 
 ### 完整英文 Transcript
 
@@ -998,7 +1044,14 @@
 <a id="section-06"></a>
 ## 06. 40:00–47:59 · 战争与国际事务、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：战争与国际事务、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Russia、Texas、Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:00](https://www.youtube.com/watch?v=phTgJq-lfWo&t=2400s) · 他描述所见**：And I saw a major draft trying to they were trying to ask United States for troops. We need your help. We got to have help. So they were trying to cause a draft with the United States government. When this happened, do you remember I I I feel urged to tell you what what I saw happen when they called
+- **[41:16](https://www.youtube.com/watch?v=phTgJq-lfWo&t=2476s) · 他描述所见**：saying, "You ain't taking my son and my daughter to war over my dead body." And they were fighting in the street. And I said, "I told you I saw the Mississippi River become closed down by by guys with biker jackets and they had pontoon boats, these those old airboats, and they were going up and down the Mississippi, and
+- **[41:46](https://www.youtube.com/watch?v=phTgJq-lfWo&t=2506s) · 他描述所见**：Sheriff's department they did they didn't want they didn't want to die because they knew if they gonna try to come against these these these revolutionary it was bad. And I said these visions were dark and I saw Texas secede and say listen we're having our own borders. You all fight it out. We
+- **[42:45](https://www.youtube.com/watch?v=phTgJq-lfWo&t=2565s) · 他描述所见**：all hell on earth what it looked like in in in America as they were calling for a major war and I said and then I saw a major uh event taking place in uh New York. So just pray just pray that's uh that we're just going to we're just going to call that tribulation.
 
 ### 完整英文 Transcript
 
@@ -1199,7 +1252,14 @@
 <a id="section-07"></a>
 ## 07. 48:00–55:59 · 物资、能源与供应链、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Russia、Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[48:39](https://www.youtube.com/watch?v=phTgJq-lfWo&t=2919s) · 他描述所见**：Huh? Okay. So, this is what the Lord warned us about America concerning 911, which is Friday. And he said, "Pray for the 9 uh for football, tailgate parties, uh our oil infrastructure, our water systems. when I saw uh uh uh attacks upon our electric grid and our
+- **[50:25](https://www.youtube.com/watch?v=phTgJq-lfWo&t=3025s) · 本段原话**：Last month, the US cyber security and infrastructure agency, SISA, warned Iranian hackers have targeted over a 100 water systems across seven states, causing loss of water pressure and flooding. Iran has grown closer to Russia, China, and North Korea in recent years. One cyber expert says defenses must be strengthened to thwart this new
+- **[52:46](https://www.youtube.com/watch?v=phTgJq-lfWo&t=3166s) · 他描述所见**：Do you remember that? I said this was very clear visit vis vision I had it was very detailed and I saw all the people freaking out over the water and I said they will attack the water plants in the days ahead.
+- **[53:48](https://www.youtube.com/watch?v=phTgJq-lfWo&t=3228s) · 他描述所见**：I said they will use 50gallon drums full of fertilizer in the back of trucks and cars, massive 50-gallon things to make it look like a Timothy McVey experience again. They were looking for fertilizer and people go, "Well, Brandon, that never came to pass." Well, thank God because I saw tens of thousands of
 
 ### 完整英文 Transcript
 
@@ -1396,7 +1456,14 @@
 <a id="section-08"></a>
 ## 08. 56:00–63:59 · 地震、风暴与灾害、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：地震、风暴与灾害、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：Canada、Vatican。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕地震、风暴与灾害、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[56:13](https://www.youtube.com/watch?v=phTgJq-lfWo&t=3373s) · 本段原话**：The Lord warned us about CMEs. And he said, "Watch for CMEs." What's a CMA? A a coronal mass ejection from the sun. He said the sun will become very active in the days ahead and it will cause major pressure on the plates on the earth in the ring of fire. Does anybody remember that? I said you'll see
+- **[57:55](https://www.youtube.com/watch?v=phTgJq-lfWo&t=3475s) · 他描述所见**：Braden gets into all that. He likes it. It's pretty It's pretty neat stuff to He He likes science. Something is killing fish around the world. And we saw the water boiling in the water and fish started dying. And I saw ponds, lakes, uh, uh, rivers, streams with fish dying all over. And so they they they're
+- **[59:53](https://www.youtube.com/watch?v=phTgJq-lfWo&t=3593s) · 他转述所听到的话**：Yes. And it said it says a record highest hourly rainfall highest hourly rainfall recorded since n 1890 since they've been taken record manipulation weather warfare. The Lord said we need some of that rain in Oklahoma. So if you could bring that over, we won't complain. Just not that much that fast. We we'll take it though.
+- **[62:58](https://www.youtube.com/watch?v=phTgJq-lfWo&t=3778s) · 本段原话**：economy. It's diversifying our economy uh with 20 more than 20 partners around the world uh reliable partners who want to do more with Canada. That's the core of what we're doing. Uh I don't think with all respect appointed unelected cabinet members in the United States are experts on Canadian politics. Um, our core role, my everything this
 
 ### 完整英文 Transcript
 
@@ -1593,7 +1660,14 @@
 <a id="section-09"></a>
 ## 09. 64:00–71:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：Ukraine。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[64:52](https://www.youtube.com/watch?v=phTgJq-lfWo&t=3892s) · 本段原话**：Don't worry about it. I'm ready to move on. I've met uh Vladimir Putin in the past um uh multiple times. uh he understands uh he only understands strength uh and directness and uh the message would be simple. Uh get out of Ukraine, give back all of Ukraine uh to Ukraine, end this war which is killing more than 30,000 of
+- **[65:35](https://www.youtube.com/watch?v=phTgJq-lfWo&t=3935s) · 本段原话**：worse. And so that's where he stands with I Israel I mean I'm sorry with um England with uh France with uh Australia with Italy with Germany. And so, um, interesting to me cuz that's what's I'm curious of how this is all really going to kick off. Kind of just watching. It's like a powder cake every day. Just power
+- **[67:32](https://www.youtube.com/watch?v=phTgJq-lfWo&t=4052s) · 他转述所听到的话**：praying in the spirit and the Lord said pay attention to this. I heard it real loud almost audible. Pay attention to this. I said what is this?
+- **[71:19](https://www.youtube.com/watch?v=phTgJq-lfWo&t=4279s) · 本段原话**：went into the thou and that was a marker of when the tribulation was over and Jesus the thousand-y year reign. There will be another one at the end of the thousand years with with less than 80 years left of the thousand-y year reign with Christ 900 and some years. So you're looking at
 
 ### 完整英文 Transcript
 
@@ -1784,7 +1858,14 @@
 <a id="section-10"></a>
 ## 10. 72:00–79:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[72:25](https://www.youtube.com/watch?v=phTgJq-lfWo&t=4345s) · 本段原话**：Is that coincidence? I don't believe so. That's going to be pretty neat to see that. Do you see that? what that's going to look like. I mean, it won't be that detailed. Of course, on September 8th of 2040, Mercury, Venus, Mars, Jupiter, Saturn will will cluster within uh 9.3 of of uh degrees of the sky joined by a
+- **[75:31](https://www.youtube.com/watch?v=phTgJq-lfWo&t=4531s) · 他描述所见**：going on he believes great civil war is coming to America he believes there's a lot of things about to happen with with major more war and stuff right but he talks about every one of the horses es last for three and a half years which is seven years between and so then when I saw the window of uh of 2027 the
+- **[76:26](https://www.youtube.com/watch?v=phTgJq-lfWo&t=4586s) · 本段原话**：Before the next seven years starts. Could that be the marker of tribulation of 2034? Correct. 2033. 24. 34. I don't want to miss it cuz they're going to they'll butcher me.
+- **[77:35](https://www.youtube.com/watch?v=phTgJq-lfWo&t=4655s) · 他表达判断**：You're seeing the storm. There's a major storm coming in the east. I keep telling you this and and I believe and I told you the first wave will be uh the COVID and I told everybody I prophesied I told everybody back before I was on YouTube and I said the wave would come on and
 
 ### 完整英文 Transcript
 
@@ -1969,7 +2050,14 @@
 <a id="section-11"></a>
 ## 11. 80:00–87:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[80:36](https://www.youtube.com/watch?v=phTgJq-lfWo&t=4836s) · 本段原话**：Khan and all these people, they have all the Harbingers and all this stuff and they they write these books and I go, "Hey, it's interesting. I you got my attention, but you're kind of over my head sometimes, you know, they're a lot smarter than me." I go, "Okay, you know, Perry Stones, everything else, so bring it
+- **[83:34](https://www.youtube.com/watch?v=phTgJq-lfWo&t=5014s) · 本段原话**：I thought that's not coincidence. That's pretty cool. Now, I know Sister Billy looks at the schmita cycles as uh 2028 uh and saying that the schmita cycle is over and that and and and Jacob's trouble starts at a beginning of a smita cycle, end of smita cycle. Um, October the 6th of of 38. What?
+- **[85:16](https://www.youtube.com/watch?v=phTgJq-lfWo&t=5116s) · 本段原话**：And it happens on Rashashana. That's the big one. If it would happen on se on July 1st, I've been like, big deal. I mean, okay, cool. We had something in our lifetime, man. But when you say it's on a Jewish feast day of Rashashana, that's when my attention went, "Hold on a minute.
+- **[86:37](https://www.youtube.com/watch?v=phTgJq-lfWo&t=5197s) · 他描述所见**：I see where that impression comes from. The 854 years gap from 1186 to 2040 makes the event sound like an approximate once every thousand year phenomena, but it's actually on a thousand years cycle, huh?
 
 ### 完整英文 Transcript
 
@@ -2165,7 +2253,14 @@
 <a id="section-12"></a>
 ## 12. 88:00–94:20 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[88:00](https://www.youtube.com/watch?v=phTgJq-lfWo&t=5280s) · 本段原话**：14 years from now. two seven-year cycles. And it goes with, like I said, Pastor Steve Shakalani with his horses, his revelation of what the Lord says, and he's the only one I know preaching it. So, I thought it was interesting because I because he was on Jim Baker.
+- **[90:19](https://www.youtube.com/watch?v=phTgJq-lfWo&t=5419s) · 本段原话**：He has that amazing book he just wrote telling about his experience. And there's been many more that have had encounters uh uh and went to heaven and and and visited and and came back to tell us about it. And you grasp from those encounters and you go, "Oh, heaven is a place I I I'm so excited to be able to
+- **[92:06](https://www.youtube.com/watch?v=phTgJq-lfWo&t=5526s) · 本段原话**：Ursley is h Ursa's happy with her green jacket on. That's the wicked witch of the west. Remember her? She wore a lot of green and black, too. She she wore black pants, green shirt, green face.
+- **[93:04](https://www.youtube.com/watch?v=phTgJq-lfWo&t=5584s) · 他进行祷告**：We pray over their finances. We pray over their lives. We pray over their marriages. We pray over their their children. Father, we thank you for the weather that is changing. We apply the blood of Jesus over this time, God. And we thank you, Father, that you've called us to the kingdom for such a time as
 
 ### 完整英文 Transcript
 

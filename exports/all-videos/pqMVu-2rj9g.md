@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1189；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 45:00–49:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-10)
 - [11. 50:00–53:08 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=0s) · 本段原话**：hey good morning family how are y'all doing today well we we're here again we're going to we're going to do another prayer video for you it's Brandon and Diana the the dynamic duel so we so I we want to tell you a quick testimony you know Braden was a part of it Diana was
+- **[10:02](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=602s) · 本段原话**：because you think well he'll help us he'll help us by you know someone stopping and helping us or something you know you have faith in him that he's going to help you um but you just don't you we weren't expecting that at all so when when it happened you're it's just you're like shock and awe yes it was
+- **[20:25](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=1225s) · 本段原话**：why would you not want to ask he may not he may be thinking he's annoyed about something it's a dialogue it's not a monologue yes yeah but we always you always ex you always think you already know what he's going to say because he may say the same thing every time but don't always anticipate him to
+- **[30:22](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=1822s) · 本段原话**：just we're going to reach out in faith and just latch on to his hym of his garment I I still got stuff I'm overcome with some drainage and I'm believing God for my complete manifestation that I'm that this is done with all the things that we're needing so father we just thank you
+- **[40:49](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=2449s) · 本段原话**：to the CIA whoever it may be the father that all hidden things be revealed and uncovered and that there would be no casualties no nothing that come n anybody on the Thanksgiving Day Parade and and the in Black Friday shopping father are going in the malls or whatever we call Protection over the
+- **[50:24](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=3024s) · 他表达判断**：broadcast blessed you all um we wanted to tell you about the angels and the things like that that happen with us and we'll tell more about stuff that that the Lord's done and and more videos but I think one one testimony is good for a video yeah but if you could like our
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 物资、能源与供应链、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=0s) · 本段原话**：hey good morning family how are y'all doing today well we we're here again we're going to we're going to do another prayer video for you it's Brandon and Diana the the dynamic duel so we so I we want to tell you a quick testimony you know Braden was a part of it Diana was
+- **[01:37](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=97s) · 本段原话**：God have mercy you know cuz I'm I'm seeing we're down on the highway and we're in the middle of nowhere it seemed like people were driving fast and I thought I'm going to have to get out of the car and and walk to the gas station several miles away and Diana and I told D I said well
+- **[02:29](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=149s) · 本段原话**：she's pregnant and there's no air and it's 100° and I'm have to roll down these windows and I'm going to have to walk to a gas station and try to find help so I pull I pull off and I'm and I'm and I'm going off on the shoulder and all of a sudden I just started
+- **[03:43](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=223s) · 他描述所见**：see in the spirit and I see this massive angel with these huge wings look like Angels in the Outfield a massive wingspan and he grabbed a hold of that tailgate and he smiled at me with these huge chubby cheeks and he smiled at me and he grinned from ear to ear and he started pushing our truck
 
 ### 完整英文 Transcript
 
@@ -150,7 +168,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 物资、能源与供应链、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:00](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=300s) · 本段原话**：from0 to 70 mph just like that like quick W and we start and I and I had to turn my my blinker on to to enter back onto the highway yeah cuz we were we were going at such momentum it wasn't a slow no it was speed limit we started passing people in the in the leftand lane yeah
+- **[06:00](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=360s) · 本段原话**：hazard lights on because I'm thinking people need to know I you know I I just trying to figure to as you're looking at people and they're dve and you're passing them on the highway you're kind of looking at things because we're laughing and I'm rejoicing we're all like it's in a it's like shock yeah it it was very surreal
+- **[06:56](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=416s) · 本段原话**：louder and he's yelling in tongues and he's praying in tongues and D is praying in tunks and we're all praying in the spirit and we're going faster and faster we're going to speed Li I mean we weren't breaking the law but we were going you know from from from where we were to to nothing from going to nothing
+- **[09:35](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=575s) · 本段原话**：Lord how's it going to come through we how are we we're in the middle of nowhere we we're going to have to walk or get uh hitch hike or have hopefully have somebody like a Good Samaritan stop and help us and we were in the middle of nowhere even though we were on the
 
 ### 完整英文 Transcript
 
@@ -276,7 +301,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:02](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=602s) · 本段原话**：because you think well he'll help us he'll help us by you know someone stopping and helping us or something you know you have faith in him that he's going to help you um but you just don't you we weren't expecting that at all so when when it happened you're it's just you're like shock and awe yes it was
+- **[11:39](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=699s) · 他表达判断**：angels are real such a cool thing I know I believe it with all my heart that he said it in Psalms 91 he sent his angels to protect us but when you actually have an experience that that defies the laws of everything mm they don't it don't we cars don't go down the road fast with
+- **[12:41](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=761s) · 本段原话**：sea the open up and they were able to walk on dry land and go across or the cloud by day and the fire by Night the Mana every morning when that woke up we hear those stories but whenever we have some kind of Supernatural son something take place for us it shakes you and I
+- **[13:48](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=828s) · 本段原话**：one testimony of many we've had you know I told you about Paisley praying for the dead dog and and uh all things are p possible I mean there's so many things so many times from visitations and manifestations of Glory in our life that he's come through financially healings you name it but that was one of the ones
 
 ### 完整英文 Transcript
 
@@ -399,7 +431,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:00](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=900s) · 本段原话**：comfortable in our home that if he wants to come right now and visit us he he he I want him to feel feel that that that he's welcome but more so that we practice his presence and people say what does that mean I talk to the father like I'm talking to Diana right
+- **[16:51](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=1011s) · 他表达判断**：cannot box God in thinking you can control him and I think that a lot of people try to do that that's why I said like I said before you you have a meeting that you had a supernatural experience with him back when you were 17 years old and we camp there thanking that you can get him to
+- **[17:12](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=1032s) · 本段原话**：do the same exact thing the same exact experience Again by doing ex exactly what you did I sang this song and this song and this song and then I prayed and I fasted for 24 hours and then I took communion and then the manifestation came that's it let's write that down and we'll make a book out of
+- **[19:24](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=1164s) · 本段原话**：consistency inconsistency lies the key boom boom boom and it keeps building and then eventually you have this this Tower and the building blocks it's like whenever your whenever your husband brings you home roses and you think wow that was a wonderful surprise but what did I do what did I do for you to do
 
 ### 完整英文 Transcript
 
@@ -519,7 +558,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:25](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=1225s) · 本段原话**：why would you not want to ask he may not he may be thinking he's annoyed about something it's a dialogue it's not a monologue yes yeah but we always you always ex you always think you already know what he's going to say because he may say the same thing every time but don't always anticipate him to
+- **[20:47](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=1247s) · 本段原话**：say the same thing that's putting him in a box yes I'm I'm always looking for a new answer I'm always wanting something different and as like well I know what God's going to do cuz he's like Cookie Cutter no he is not and the first time and when you start dishonoring him as he's cookie
+- **[22:30](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=1350s) · 本段原话**：to do and we're like well how much should we do what when should we do it and you have all these questions because you're in fear thinking if I don't get on that boat I'm going to miss the ride and and and then I'm really going to be in trouble it's trusting the it's not
+- **[24:32](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=1472s) · 本段原话**：request be made known unto God Philippians 46 through 8 the Thanksgiving part with supplication with Thanksgiving let your request be made known to god father I just thank you yeah I thank you for all that you've provided I just thank you that you've taken care of this and I'm not going to take the care of this I'm not going to
 
 ### 完整英文 Transcript
 
@@ -642,7 +688,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:23](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=1523s) · 本段原话**：the good of the land right being willing and obedient that's right babe being willing and obedient eating the good in the land but just following his voice on a day-to-day basis and having that relationship with him and whenever he tells you about Investments and he tells you other this he's got your life it's
+- **[27:26](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=1646s) · 本段原话**：miss it and you and you stumble and you fall and you skin your knee pick yourself back up and keep going don't give up and don't let the devil knock you down and try to make you feel that you're not going to make it anymore well that's it God's not going to give
+- **[28:37](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=1717s) · 他表达判断**：heart that The Best Is Yet To Come there's great days for the body of Christ and it's not all doom and gloom I believe with all my heart there's no Doom and Gloom for the body of Christ regardless we win but there will be Doom and Gloom in the world it seems like but
+- **[29:42](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=1782s) · 本段原话**：don't know MH y healings all kinds of things a court order something with the with the the the judges or or their kids or something with lawyers who knows but he said he would take care of us and it don't matter how big the circumstances it seems so impossible he's going to
 
 ### 完整英文 Transcript
 
@@ -772,7 +825,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:22](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=1822s) · 本段原话**：just we're going to reach out in faith and just latch on to his hym of his garment I I still got stuff I'm overcome with some drainage and I'm believing God for my complete manifestation that I'm that this is done with all the things that we're needing so father we just thank you
+- **[33:18](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=1998s) · 本段原话**：against you is going to prosper and every tongue that rise against you you would condemn it and we condemn the words that people speak against us and they will fall to the ground they do not bear fruit in our life CU we condemn those words in the name of Jesus and we thank you
+- **[34:04](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=2044s) · 他描述所见**：thank you Father for the blood thank you Father for your healings now Lord we lift up Elon Musk I think this is day like day six and I saw on YouTube somebody saying that he went to church and I believe father that this is going to happen that he will be born again in in jesus' name and we call him
+- **[34:31](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=2071s) · 他表达判断**：saved in the name of Jesus Satan take your hands off of him Lord you commissioned me and you said you put it on my heart to pray for Elon Musk every day for 20 days and I believe in the name of Jesus he is radically Born Again filled with and controlled by the Holy Spirit father for such a time
 
 ### 完整英文 Transcript
 
@@ -882,7 +942,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:18](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=2178s) · 本段原话**：God for starlink will be used to spread the gospel throughout the whole world and then the end will come I thank you Father even to the edges of places that they've never heard the the gospel on an island maybe somebody could get the some kind of Internet to them or something and they could listen to the the
+- **[37:49](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=2269s) · 本段原话**：Tom Cruz getting out of Scientology father to have people that have huge platforms to start speaking in and decreeing Jesus is Lord Jesus is Lord thank you Father they would have an they would have that experience on the road that desperation father of knowing that I need something bigger something to shake them Father I shaking inside of them to
+- **[39:32](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=2372s) · 他进行祷告**：every area of their life and we give you all the glory honor and praise for that Lord and their marriages are strong we pray over their marriages we pray over them Father that their marriages have peace that passes all understanding in their house that this would be a place of Heaven on Earth in their
+- **[39:50](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=2390s) · 本段原话**：home now Lord we lift up president Trump to you for Supernatural protection for him the father that there is no weapon formed against him that will prosper we
 
 ### 完整英文 Transcript
 
@@ -999,7 +1066,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动、治安、袭击与安全
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、治安、袭击与安全、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、治安、袭击与安全展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:49](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=2449s) · 本段原话**：to the CIA whoever it may be the father that all hidden things be revealed and uncovered and that there would be no casualties no nothing that come n anybody on the Thanksgiving Day Parade and and the in Black Friday shopping father are going in the malls or whatever we call Protection over the
+- **[41:31](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=2491s) · 他描述所见**：intervention concerning this clear going into uh New Year's Eve with Rocking New Year's Eve all in New York City we thank you Lord no terrorist attacks no plots would come nigh our country in the name of Jesus or over Europe over England I saw it over England that there would be an uncovering even over England father as a
+- **[41:54](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=2514s) · 他进行祷告**：countdown for the New Year's we're already stepping ahead of it we're already getting ahead of it that there will be no plots no plans of the wicked that will come to pass in the name of Jesus trying to stir up drama and cause life loss father I've already been praying we prayed over uh Nashville we pray over
+- **[43:41](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=2621s) · 本段原话**：the righteous are ordered of the Lord and we thank you Father for creative ideas to get wealth father that we're not we're not bound we're not bound by Devil's works but we are we have freedom and we are going to be blessed in the city in the field coming in going out for
 
 ### 完整英文 Transcript
 
@@ -1113,7 +1187,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[46:03](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=2763s) · 本段原话**：speak to it right now we apply the blood of Jesus over it right now yeah to irregular periods that they will be regular and it will be like a clock yes and then no more of this missing and not having one and sometimes H missing a whole month we call for them to be
+- **[47:08](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=2828s) · 本段原话**：will be normal and regular it is not painless it will not be it will not be a torment anymore yes it's because because it's torment and that is not that's part of the curse according to Galatians 3:13 Christ has redeemed us from the curse of the law and that we we will not have that
+- **[48:12](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=2892s) · 本段原话**：they need in the name of Jesus and that there is and it's not always just about the female's body but father about the the male's body the reproductive system in the male and I speak to the testicles I speak to the body you produce in the name of Jesus and you be fruitful and
+- **[49:42](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=2982s) · 本段原话**：them Father we call Healing over the bodies we call healing and deliverance over their livers over their bodies over their kidneys over all of it and overhaul from the top of your head to the soles of your feet Yes we call an over h of
 
 ### 完整英文 Transcript
 
@@ -1235,7 +1316,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–53:08 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:24](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=3024s) · 他表达判断**：broadcast blessed you all um we wanted to tell you about the angels and the things like that that happen with us and we'll tell more about stuff that that the Lord's done and and more videos but I think one one testimony is good for a video yeah but if you could like our
+- **[51:57](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=3117s) · 本段原话**：channel we believe in the baptism of the Holy Spirit we believe in the evidence of speaking up with other tongues and we believe in it boldly we're not going to ever shy back away from that we believe in the power of the Holy Spirit we believe that Jesus Christ is the same yesterday today and forever and that
+- **[52:14](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=3134s) · 他表达判断**：he's Healing The Sick today just like he did 2,000 years ago you just got to believe him for it and I believe that it's the that it's your day to have a miracle it's your day to walk in blessing in prosperity and that you're not going to have to be busted and disgusted and barely getting by that we
+- **[52:31](https://www.youtube.com/watch?v=pqMVu-2rj9g&t=3151s) · 本段原话**：have exceedingly abundantly above all that we dare ask for because Jesus Paid the price for us to have it and I want everything the Lord has for me so that's what we want to say on this channel and we're going to stick by it because it's the word and we stand on the word so we always close our our our
 
 ### 完整英文 Transcript
 

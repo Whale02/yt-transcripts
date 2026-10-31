@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 752；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-08)
 - [09. 32:00–33:42 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=0s) · 他表达判断**：I was shown the mark of the beast I was shown what what it is and I believe and I'm not saying it's neuralink but I'm saying it is a type of a neuralink what Elon Musk is working on I'm not saying it is that but it's the technology that kind of Technology it's
+- **[08:04](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=484s) · 他描述所见**：calm or uh like a zombie State it's very weird I saw in every single Town had at on the major highways or the roads coming into the town they had barricades like checkpoints the everybody had to go through to come in or out of that town and the only way you were allowed in
+- **[12:02](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=722s) · 他表达判断**：leaves which represented I believe Prosperity the swords represented um by the Islam faith it represented something about sternness and about ruling or something I believe if I I don't I don't quote me on that you can Google it and then this was over a globe for the whole world was going to control uh by the
+- **[20:02](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1202s) · 他描述所见**：sometimes sometimes when you're seeing in the spirit realm what you're seeing doesn't exist yet but just hold on it's going to manifest is what I'm trying to tell you it took years for the for what I saw to start to happen and we're seeing it the alien inv visitations the things that happened in Miami not too
+- **[24:05](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1445s) · 本段原话**：they're going to talk about aliens a lot it's one of the signs and this is in 2014 he said they're going to talk about aliens a lot like it's going to become a big deal and he told me you'll know and to be watching for the great deception that's about to take place there's going
+- **[32:01](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1921s) · 他表达判断**：no longer going to hell and that you're coming to heaven with me what maybe we'll be neighbors in heaven who knows I believe it the Bible says that he's making us a mansion and he has a place that's uh that's a beautiful home a beautiful place up there for us every single one of us has one well his kids
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · AI、科技与监控、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：AI、科技与监控、地震、风暴与灾害、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕AI、科技与监控、地震、风暴与灾害展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=0s) · 他表达判断**：I was shown the mark of the beast I was shown what what it is and I believe and I'm not saying it's neuralink but I'm saying it is a type of a neuralink what Elon Musk is working on I'm not saying it is that but it's the technology that kind of Technology it's
+- **[01:11](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=71s) · 他描述所见**：like buddies okay and when they inject that chip inside of your hand or your forehead it will communicate to the internet up above the the earth atmosphere with starlink I saw the government from all over over the world start to use drones all over the place to to look out for uh anybody that did not have the
+- **[01:41](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=101s) · 他表达判断**：mark of the beast the chip that was in your forehead or your hand communicated to the uh drones there was drones and you could hear the drones there were literally like swarms of bees and you know it even talks about it in the Bible that it looked like Locust coming up out of a pit remember I believe was probably
+- **[03:17](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=197s) · 他描述所见**：to be able to cook that food okay because you run out of supplies try try seven years this isn't just a couple weeks living off the grid this is years years years seven years of hell so I saw a woman and her two children that were born during the tribulation and her husband all St
 
 ### 完整英文 Transcript
 
@@ -113,7 +131,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象
 
-**中文章节摘要**：本段涉及：预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=240s) · 他描述所见**：freaking out you don't cut my baby's heads off I'll take the mark and I saw her right before my face take the mark of the beast and the children took of the mark of the beast and and and the father said no I'll never take the mark of the beast and I saw those men take
+- **[04:23](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=263s) · 他描述所见**：and they pulled his head out and they had a a sword a massive sword and they chopped his head off right before me and I saw his head roll right before my feet I could smell the blood from the man that got his head cut off right before me and the the kids and the mother had
+- **[05:37](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=337s) · 他描述所见**：they were just like they were wiped out man and they were just he was mowing but he had no expression then I saw a man trying to commit suicide trying to jump off of a bridge but whenever he did it created peace in his mind the chip did it sent a signal to his mind
+- **[07:37](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=457s) · 本段原话**：a little square it's not a grain of rice it's a little square chip thing and whenever it's injected into your body it messes with your mind it creates a signal to calm you down it Alters your personality I do not know how it does this but it sends waves to your brain and causes you to be uh
 
 ### 完整英文 Transcript
 
@@ -204,7 +229,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:04](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=484s) · 他描述所见**：calm or uh like a zombie State it's very weird I saw in every single Town had at on the major highways or the roads coming into the town they had barricades like checkpoints the everybody had to go through to come in or out of that town and the only way you were allowed in
+- **[09:57](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=597s) · 他描述所见**：groceries or whatever from the coming out of the sea coming inside in and out I see public squares with big huge movie screens massive movie screens that are as big as a a huge building like but on Fridays everybody dresses in white garments they dress in like white like robes by by by law you go and on Friday
+- **[10:57](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=657s) · 他描述所见**：worship there I saw them wor shipping in Rome the Vatican and all that it they have major screens there they have major screens in Europe and and Paris it's everywhere Buckingham Palace they had a huge they had them there I'm telling you they're everywhere and the people are required to worship on Fridays he
+- **[11:39](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=699s) · 他描述所见**：that came right out of my spirit okay what everything I saw these Stars I told everybody represents the five pillars of Islam Faith prayer fasting MSG giving and pilgrimage that's the five pillars of Islam and that's what those Stars represent these uh these were like Palm
 
 ### 完整英文 Transcript
 
@@ -292,7 +324,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:02](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=722s) · 他表达判断**：leaves which represented I believe Prosperity the swords represented um by the Islam faith it represented something about sternness and about ruling or something I believe if I I don't I don't quote me on that you can Google it and then this was over a globe for the whole world was going to control uh by the
+- **[13:44](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=824s) · 本段原话**：your lord and savior don't be one of the people that's going to one day be in this field worshiping the Antichrist because there's going to be a time it's going to happen and I'm telling you I've seen it I stood Here with Jesus it was right actually right over there I stood Jesus and I watch the people on these
+- **[14:40](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=880s) · 本段原话**：here but this Temple is like hundreds of years old it's really old but this this is where they will go and they'll have massive screens they're going to have massive screens all on the side of this building so that you can uh worship the Antichrist on Friday so if you don't don't believe in the Rapture and you
+- **[15:47](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=947s) · 他描述所见**：him but this is how big it is do you see how big it is all the land this is this building right here that we're fixing to come upon is where you are mandated to bring your Bible and so all the people I saw them lining up bringing the the
 
 ### 完整英文 Transcript
 
@@ -401,7 +440,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=961s) · 他表达判断**：Bibles to the courthouse and they take this flag down whenever they do right here and they put the Antichrist flag up and when that happens then a couple feet away you know it's like probably 50 60 yards maybe I don't know maybe more 100 yards to where they will burn the Bibles one day this is
+- **[17:04](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1024s) · 他描述所见**：stack of Bibles is and it's similar to whenever uh Hitler burned all the books in the Bibles you saw during uh Indiana Jones and that and that's similar to like what kind of what I saw when I was standing with Jesus when they burn him and I saw the smoke the smoke goes up
+- **[17:19](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1039s) · 他描述所见**：for miles you can see it all around from them burning all the Bibles I saw these massive looking like army tank cars with these men with solid black outfits with with black Shields over their faces and you could not see their faces okay but they had these black outfits on and they would they would drive up in these
+- **[18:24](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1104s) · 本段原话**：control that knocked you out unconsciously for like a couple of minutes which they just pointed pointed the thing in the direction of where they wanted it to go and as soon as that beam of whatever that was hit that person and that individual and knocked them out unconscious so there was no running away
 
 ### 完整英文 Transcript
 
@@ -509,7 +555,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:02](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1202s) · 他描述所见**：sometimes sometimes when you're seeing in the spirit realm what you're seeing doesn't exist yet but just hold on it's going to manifest is what I'm trying to tell you it took years for the for what I saw to start to happen and we're seeing it the alien inv visitations the things that happened in Miami not too
+- **[21:20](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1280s) · 他描述所见**：the clouds and everything the the clouds were active it was just like like an electric storm but then I walk up and I'm looking across uh this this this town that I'm in and I'm looking at people like I said and I see fires burning in all the buildings a lot of buildings I'm going
+- **[22:04](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1324s) · 他表达判断**：again every believer every person wakes up with a sense of peace that they don't realize they have everybody has a sense of Peace even the greatest sinner doesn't realize it but they have a sense of peace and I'm going to call this the prayer covering of the church the there's a covering I believe from the church that the the
+- **[23:39](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1419s) · 本段原话**：be a big deal you're going to see a great deception before long and they're going to try to really deceive people to believe that there is a people in a um another world in Another Universe and all this other stuff you know what it's all demonic Jesus looked at me and he said
 
 ### 完整英文 Transcript
 
@@ -609,7 +662,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:05](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1445s) · 本段原话**：they're going to talk about aliens a lot it's one of the signs and this is in 2014 he said they're going to talk about aliens a lot like it's going to become a big deal and he told me you'll know and to be watching for the great deception that's about to take place there's going
+- **[25:23](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1523s) · 他描述所见**：this is the part that gets hard and there's going to be a probably a lot of you that will disagree with this but I have to tell you what I saw a lot of the grace message that was preached people lived a compromising lifestyle they were um living like the world and um they got left they did
+- **[26:08](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1568s) · 他描述所见**：they were the ones that even like the Bible talks about you gave him my name you you you you cast out devils in my name you heal the sick in my name depart from me I never knew you you know and there were pastors that I saw that preached that that that that watered
+- **[27:37](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1657s) · 他表达判断**：gave the Lord the middle finger and she said some explicits and um it was very it was very bad but I was watching them all just turn on God turn they were angry and I believe that today is your day of salvation don't keep waiting for tomorrow oh I'll
 
 ### 完整英文 Transcript
 
@@ -704,7 +764,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:01](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1681s) · 他表达判断**：give it tomorrow you may not have tomorrow you may die in your sleep tonight and the Lord told me I was sitting outside he said do you have a comprehension of Eternity Brandon I said I think I do he said I want you to count all those stars in the sky that would represent a
+- **[30:03](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1803s) · 他表达判断**：your head and just mean it with all your heart it doesn't have to be religious could be just be something simple say it with me right now Jesus I'm a sinner I ask you to come into my heart I believe you are the Son of God write my name in the Lamb's Book of
+- **[31:27](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1887s) · 本段原话**：me I'm coming home that's it now get in a Bible believing church that believes in the baptism of the Holy Spirit reads the Bible teaches you how to stand and live by faith and go and volunteer and be a part of that church go on Sunday go on Wednesday go to Bible study go whatever you got to do
+- **[31:45](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1905s) · 他表达判断**：getting plugged in and get your lamp full of oil I believe with all my heart today you are saved and if you got saved today watching this broadcast and watching let us know in the comment section we want to rejoice with you we're excited that you came home we're excited that you're
 
 ### 完整英文 Transcript
 
@@ -809,7 +876,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–33:42 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:01](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1921s) · 他表达判断**：no longer going to hell and that you're coming to heaven with me what maybe we'll be neighbors in heaven who knows I believe it the Bible says that he's making us a mansion and he has a place that's uh that's a beautiful home a beautiful place up there for us every single one of us has one well his kids
+- **[32:19](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1939s) · 本段原话**：are going to have a place up there for him with him I just want to encourage you all today to be blessed I hope this this blessed you well I hope you could subscribe if you haven't subscribed it blesses us to get the gospel out like the video please and and and click the
+- **[32:39](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1959s) · 本段原话**：notification Bell it really blesses us I'm telling you it gets the gospel spread throughout the whole world that's how YouTube works it helps with the algorithm it's just about it that's the way they designed it that's the way they set it up so we just we do what Their little system work and it
+- **[33:12](https://www.youtube.com/watch?v=ToSbQNKCVXM&t=1992s) · 本段原话**：I thank you Father for all that you've done and all that you continue to do to heal every single one of us that you've not made it hard for healing you're not made a heart for salvation that Jesus Christ paid the price for every single one of us to walk in Victory and we
 
 ### 完整英文 Transcript
 

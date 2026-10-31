@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1506；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 60:00–65:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
 - [12. 66:00–71:35 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:25](https://www.youtube.com/watch?v=RlS3QooVBxg&t=25s) · 他描述所见**：experience I had with him. Um, this experience um lasted all night long and um I'm just asking the Holy Spirit right now to help me to communicate with everybody uh everything that I saw. And um it's it's really important because Jesus Christ is coming and he told me he's coming face to face.
+- **[12:03](https://www.youtube.com/watch?v=RlS3QooVBxg&t=723s) · 他描述所见**：was Middle Eastern. He was a Muslim. I know this because he said he was and he was he he uh had a um Okay, I won't get to that part yet. Okay, this is what happens next. I see uh him come on TV and he's telling um everybody to bring their Bibles in to the stadiums into
+- **[24:00](https://www.youtube.com/watch?v=RlS3QooVBxg&t=1440s) · 他描述所见**：you couldn't you couldn't stay in your house. You couldn't you couldn't go into uh town and buy groceries because the mark of the beast is coming. I'm fixing to tell you about it. Uh it's I saw how it happens. I saw how the mark of the beast changes you. I saw how they put it
+- **[42:01](https://www.youtube.com/watch?v=RlS3QooVBxg&t=2521s) · 他表达判断**：those big columns with a man right here, a man right here. I I don't know who this man is right here on on his other hand. I believe he's another form of a religion. I'm not familiar with a lot of other uh leaders and other religious beliefs.
+- **[55:23](https://www.youtube.com/watch?v=RlS3QooVBxg&t=3323s) · 他描述所见**：boxes, giftings. Then I look over um to to my to my left again. It's over here on this this this and I see these angels, but these angels were different.
+- **[66:18](https://www.youtube.com/watch?v=RlS3QooVBxg&t=3978s) · 他描述所见**：you need to know. One other thing was really neat was there's a there's a Starbucks that's coming into our town where I'm at. And um for a long time whenever I saw it during the tribulation, the Starbucks and it was at at a at the time in 2014, it was a barbecue house. They made
+
 <a id="section-01"></a>
 ## 01. 00:00–05:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:25](https://www.youtube.com/watch?v=RlS3QooVBxg&t=25s) · 他描述所见**：experience I had with him. Um, this experience um lasted all night long and um I'm just asking the Holy Spirit right now to help me to communicate with everybody uh everything that I saw. And um it's it's really important because Jesus Christ is coming and he told me he's coming face to face.
+- **[00:49](https://www.youtube.com/watch?v=RlS3QooVBxg&t=49s) · 本段原话**：Um, this experience happened on July the 6th of 2014 and um, I've held it all these years. I wrote it down on paper and I released it to some people on Facebook and to some church friends and family and [Music] um, um, some people received it and some people didn't. So, uh, I'm just a
+- **[01:46](https://www.youtube.com/watch?v=RlS3QooVBxg&t=106s) · 他描述所见**：post-trib, or all trib uh believer. Um but uh you know, like I said, I'm not here to argue or try to get you to say anything in the comments about uh what what what I saw or what I experienced.
+- **[02:42](https://www.youtube.com/watch?v=RlS3QooVBxg&t=162s) · 他描述所见**：He grabbed a hold of my hand and um I'll go from there. Uh the first uh I will call a scene per se of what I saw was as Jesus was standing on my right hand. He had a hold of my hand and we were in a town. I don't know what town
 
 ### 完整英文 Transcript
 
@@ -157,7 +175,14 @@
 <a id="section-02"></a>
 ## 02. 06:00–11:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 提到的地点：Europe、Berlin。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[06:20](https://www.youtube.com/watch?v=RlS3QooVBxg&t=380s) · 他描述所见**：was looking out over over uh Europe and I saw this man and he was in Berlin and all the world leaders were behind this table. It was a round table in Berlin. It was a big like a like a office looked like. It was this brown table and there was chairs all around it. And all of these
+- **[08:41](https://www.youtube.com/watch?v=RlS3QooVBxg&t=521s) · 他描述所见**：punished. it was the Christians and they were all being punished and they were taken out. And then I he was just explaining that he was the new leader of the world. And um I look out and and I and I see over um it was just kind of it was gradual how he was taking power. And I want to
+- **[10:00](https://www.youtube.com/watch?v=RlS3QooVBxg&t=600s) · 他表达判断**：and and when we invite him in our heart, I believe that he he went with us when and the rapture happened. I I can't I can't back that up biblically. I don't know. All I know is is that there is no prayer covering. There is no sense of peace. There is no joy. There it is
+- **[11:13](https://www.youtube.com/watch?v=RlS3QooVBxg&t=673s) · 他描述所见**：the Christians. And so uh then I see people in um Iran, Iraq area over there, Pakistan, that area over there, they were rejoicing. And they were all calling out and saying the mahadim has come. The mahadim has come. And I don't know what that means. I I I I I have studied it
 
 ### 完整英文 Transcript
 
@@ -289,7 +314,14 @@
 <a id="section-03"></a>
 ## 03. 12:00–17:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:03](https://www.youtube.com/watch?v=RlS3QooVBxg&t=723s) · 他描述所见**：was Middle Eastern. He was a Muslim. I know this because he said he was and he was he he uh had a um Okay, I won't get to that part yet. Okay, this is what happens next. I see uh him come on TV and he's telling um everybody to bring their Bibles in to the stadiums into
+- **[13:46](https://www.youtube.com/watch?v=RlS3QooVBxg&t=826s) · 他描述所见**：you know it was like a like a library is what I want to call it. Within a couple of months, I would say I saw uh a football field with a Bibles Bibles is sign probably three or four stories high. It was massive. I just massive.
+- **[16:15](https://www.youtube.com/watch?v=RlS3QooVBxg&t=975s) · 他描述所见**：what happens next. I go to I go with Jesus to this other area. And in this I see um people on Fridays. Every Friday you're required to worship him. Every Friday they all had white outfits on.
+- **[17:36](https://www.youtube.com/watch?v=RlS3QooVBxg&t=1056s) · 他描述所见**：town square areas. And you and what's really interesting is is that um I I watch a lot of videos on YouTube of uh people walking tours and stuff. And there's a place in Rome that I saw that it happens at uh there's places that are in um where in my town where I live now.
 
 ### 完整英文 Transcript
 
@@ -422,7 +454,14 @@
 <a id="section-04"></a>
 ## 04. 18:00–23:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:09](https://www.youtube.com/watch?v=RlS3QooVBxg&t=1089s) · 他描述所见**：And so um very very very interesting stuff. So okay so then it goes off of him and I see um Christians that were left. Now, this is the part that gets hard, and there's going to be a probably a lot of you that will disagree with this, will get angry about this, but uh I have to
+- **[20:20](https://www.youtube.com/watch?v=RlS3QooVBxg&t=1220s) · 他转述所听到的话**：And he said to me, "Look at this. Watch this. Remember this." I He didn't say it, but I heard his thoughts. He said, "Watch this. Look at this." And um I I was gazing upon this this area. I know I'm back in I knew after all this happened I was back in time uh back
+- **[21:28](https://www.youtube.com/watch?v=RlS3QooVBxg&t=1288s) · 他描述所见**：and u they were ready to kill him. And uh it was awful. And I saw one lady that I know very well. Uh she was uh I worked at a church for for 13 years. I was a janitor there. And uh she was one of the members there at the church where I was at. I was looking up
+- **[23:15](https://www.youtube.com/watch?v=RlS3QooVBxg&t=1395s) · 他描述所见**：And so I I watched these younger people go with their families. And so um during the tribulation though, I saw uh kids being birthed, kids being born. And so this is part that's really hard.
 
 ### 完整英文 Transcript
 
@@ -554,7 +593,14 @@
 <a id="section-05"></a>
 ## 05. 24:00–29:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=RlS3QooVBxg&t=1440s) · 他描述所见**：you couldn't you couldn't stay in your house. You couldn't you couldn't go into uh town and buy groceries because the mark of the beast is coming. I'm fixing to tell you about it. Uh it's I saw how it happens. I saw how the mark of the beast changes you. I saw how they put it
+- **[25:56](https://www.youtube.com/watch?v=RlS3QooVBxg&t=1556s) · 他描述所见**：know if they were Christians or not. He never said, but I knew they were Christians. But they were moving at night. So then I see these men and these black Hummer trucks. There are these there's like blue lights. And it was weird because they were blue lights, like infrared looking lights inside these
+- **[28:04](https://www.youtube.com/watch?v=RlS3QooVBxg&t=1684s) · 他描述所见**：And so these men would give them an ultimatum. And I saw um a woman and she had uh these uh two children. It was a boy and a girl that were born during the tribulation. They were probably three years old, four years old, maybe more. They were talking. Uh so they're they were they're
+- **[29:06](https://www.youtube.com/watch?v=RlS3QooVBxg&t=1746s) · 本段原话**：son. Um, he said, the dad said, "We're not taking the mark." And the mother said, "No, you can't cut my baby's heads off." Because the man had this huge sickle, this huge sword in his hand. And he was getting ready to he had the baby's head head like this and he was getting ready to to just go and slice
 
 ### 完整英文 Transcript
 
@@ -700,7 +746,14 @@
 <a id="section-06"></a>
 ## 06. 30:00–35:59 · 预言、梦境与异象、AI、科技与监控
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、AI、科技与监控、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、AI、科技与监控展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:22](https://www.youtube.com/watch?v=RlS3QooVBxg&t=1822s) · 本段原话**：incredible. It's it's absolutely amazing about this part. They take this chip and instantaneously those children were crying because they just saw their dad die right in front of them. And the mom is crying and she's balling her eyes out because she saw her husband die right in front of her. And the moment she takes
+- **[31:21](https://www.youtube.com/watch?v=RlS3QooVBxg&t=1881s) · 他描述所见**：some kind of endorphin in them and they just went like cold in their face like they're not there. It's like hello you're not there and they were not crying anymore about him anymore. It's like they didn't care. And so I saw that and then I then I saw a man trying to commit suicide and
+- **[33:53](https://www.youtube.com/watch?v=RlS3QooVBxg&t=2033s) · 本段原话**：every there was a lot of people, not everybody, that had a bruise on their head. It was a burn sore. The the body had a reaction to the chip and it caused sores on people's heads. It was like burn sores and it was burn sores on their hands. Not everybody though. And so she was trying to mock it with
+- **[35:16](https://www.youtube.com/watch?v=RlS3QooVBxg&t=2116s) · 他描述所见**：there was no emotion to these people. They were gone. It was weird. I don't know how. I don't I'm I'm just trying I'm just telling you what I saw and I'm trying to figure it out myself. I still try to figure it out. And the only thing that I think is really close to this
 
 ### 完整英文 Transcript
 
@@ -842,7 +895,14 @@
 <a id="section-07"></a>
 ## 07. 36:00–41:59 · 预言、梦境与异象、AI、科技与监控
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、AI、科技与监控、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、AI、科技与监控展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:28](https://www.youtube.com/watch?v=RlS3QooVBxg&t=2188s) · 他描述所见**：So, I see the Christians again. And this is part of it. And I'm hoping I'm I'm I'm praying I'm not skipping around too much because I'm because I'm just I'm I'm telling you how I remember it. Um, they were digging, like I said, these foxholes. And the winters were terrible.
+- **[38:09](https://www.youtube.com/watch?v=RlS3QooVBxg&t=2289s) · 他描述所见**：couldn't hide from them. The only way I saw that the Christians could hide from them was digging in the side of the hills and the drones was looking for smoke, for gunshots. So the Christians couldn't shoot stuff for food, the rabbits or or any kind of deer or anything that made noise because the
+- **[39:26](https://www.youtube.com/watch?v=RlS3QooVBxg&t=2366s) · 他表达判断**：like I said, when they were on the earth, but they knew the truth. They knew. And, um, the children was the hardest part for me uh, that were born during the tribulation. I know that there's Bible verse that says woe to those that give suck in those days. Um I believe that verse is is talking about uh the
+- **[40:58](https://www.youtube.com/watch?v=RlS3QooVBxg&t=2458s) · 他描述所见**：Uh, I was all of a sudden translated to Israel and I see this great big temple. It's on like this this hill. It's elevated the way it is, but there's these massive columns, these massive stone columns all inside of it. Uh, w with this with this this roof the way it is. But there but
 
 ### 完整英文 Transcript
 
@@ -986,7 +1046,14 @@
 <a id="section-08"></a>
 ## 08. 42:00–47:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:01](https://www.youtube.com/watch?v=RlS3QooVBxg&t=2521s) · 他表达判断**：those big columns with a man right here, a man right here. I I don't know who this man is right here on on his other hand. I believe he's another form of a religion. I'm not familiar with a lot of other uh leaders and other religious beliefs.
+- **[43:10](https://www.youtube.com/watch?v=RlS3QooVBxg&t=2590s) · 他描述所见**：And he's standing there proclaiming that he is God on the temple mount. And he has at this time, not every time that that that I see him, like whenever he was in uh at the beginning, uh whenever he first appears in um Berlin, he didn't have a beard. I didn't see his eyes
+- **[44:34](https://www.youtube.com/watch?v=RlS3QooVBxg&t=2674s) · 他表达判断**：person now you know. And he was probably around um uh 195 215 somewhere around there in weight. And um I'll describe him like this. He carries himself like a James Bond like a It may sound dumb, but I'm just going to say it like this. He he he carries himself like a very
+- **[47:33](https://www.youtube.com/watch?v=RlS3QooVBxg&t=2853s) · 他描述所见**：I'm sucked up out of the earth and I'm go I go to the edge of heaven and earth and I'm standing there and I can turn around and I can look and I see the gates of heaven. I see the holy city is beautiful all behind me and Jesus is standing right here this time on my
 
 ### 完整英文 Transcript
 
@@ -1112,7 +1179,14 @@
 <a id="section-09"></a>
 ## 09. 48:00–53:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、经济、银行与市场。 提到的地点：Europe、China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[48:23](https://www.youtube.com/watch?v=RlS3QooVBxg&t=2903s) · 本段原话**：And he said there is a there's going to be a major revival about to happen throughout the earth. A final push, a final harvest, a major harvest. It's like a And so I'm I don't want to add any words that he didn't say, but but that's what he showed me. And and he said, "I
+- **[49:18](https://www.youtube.com/watch?v=RlS3QooVBxg&t=2958s) · 他描述所见**：And there was there what I what I saw when I was looking over was these gold streams. They were like gold gold streets, but they weren't because I knew each one of those lights represented a soul. And I said, "Lord, what is that?"
+- **[51:44](https://www.youtube.com/watch?v=RlS3QooVBxg&t=3104s) · 他描述所见**：seem as significant uh as as what it was some of these other places that I saw, but it it was amazing all over the place. And so, but America from coast to coast was lights everywhere. Literally hundreds of thousands if not millions of lights everywhere. And they went all up and down I35 corridor from and from Texas to
+- **[53:20](https://www.youtube.com/watch?v=RlS3QooVBxg&t=3200s) · 他转述所听到的话**：wet water of wave and and the Lord told me this is the a last outpouring. There is a an outpouring about to this this this massive wave is coming upon the earth and behind the wave was these angels and they were all like like soldiers on these chariots of fire.
 
 ### 完整英文 Transcript
 
@@ -1247,7 +1321,14 @@
 <a id="section-10"></a>
 ## 10. 54:00–59:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[55:23](https://www.youtube.com/watch?v=RlS3QooVBxg&t=3323s) · 他描述所见**：boxes, giftings. Then I look over um to to my to my left again. It's over here on this this this and I see these angels, but these angels were different.
+- **[57:10](https://www.youtube.com/watch?v=RlS3QooVBxg&t=3430s) · 他描述所见**：um uh but I but I see all this going on in heaven and Jesus looked at me and he said you need to tell my people I'm coming. Tell my people I'm coming. I said, "Lord, we I I kind of I looked him like, wow." Like, "Well, we know." But he he was urgent in his eyes.
+- **[58:34](https://www.youtube.com/watch?v=RlS3QooVBxg&t=3514s) · 本段原话**：Um, if you only really really knew. That's all I can say. If you have loved ones that don't know Jesus Christ and you're scared to tell them uh about him, you're about to miss your opportunity and they could spend the rest of their life in hell. You're running out of time. I'm just going to be really real
+- **[59:29](https://www.youtube.com/watch?v=RlS3QooVBxg&t=3569s) · 本段原话**：signs." And this is in 2014. He said, "They're going to talk about aliens a lot. Like, it's going to become a big deal." And he told me, "You'll know and to be watching for the great deception that's about to take place. There's going to be something take place. There is an event. You'll see. There's a great
 
 ### 完整英文 Transcript
 
@@ -1375,7 +1456,14 @@
 <a id="section-11"></a>
 ## 11. 60:00–65:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[60:03](https://www.youtube.com/watch?v=RlS3QooVBxg&t=3603s) · 他讨论新闻或报道**：when I told you she was frantic screaming the aliens come, it's going to be talked about in the media like all the time. It's going to start to become like I almost say the norm. And it almost is, isn't it kind of interesting where we are from 2014 to 2021. The government's talking about it.
+- **[62:27](https://www.youtube.com/watch?v=RlS3QooVBxg&t=3747s) · 他描述所见**：Louis, which I don't know why I see certain cities, but there was a man in a wheelchair. And these people weren't preachers. They were just average Joe's and they walked up to this guy in this wheelchair and they prayed for him and the Lord healed him right there in part of the things that the Lord showed me
+- **[63:31](https://www.youtube.com/watch?v=RlS3QooVBxg&t=3811s) · 本段原话**：you touch your neighbor, the person at your Walmart or your Target or your gas station or your um health food store or whatever. You just have to be yielded to him. You just have to want it. You have to wake up every day with an expectation. God, use me for your end time message. Use me, Jesus.
+- **[64:46](https://www.youtube.com/watch?v=RlS3QooVBxg&t=3886s) · 他表达判断**：tell you what to do next because I'm telling you what's coming and you're in trouble if you're still here. There is some bad stuff fixing to happen to the folks that get left. I seen it. And you may say, "Well, I think you're crazy."
 
 ### 完整英文 Transcript
 
@@ -1514,7 +1602,14 @@
 <a id="section-12"></a>
 ## 12. 66:00–71:35 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[66:18](https://www.youtube.com/watch?v=RlS3QooVBxg&t=3978s) · 他描述所见**：you need to know. One other thing was really neat was there's a there's a Starbucks that's coming into our town where I'm at. And um for a long time whenever I saw it during the tribulation, the Starbucks and it was at at a at the time in 2014, it was a barbecue house. They made
+- **[68:07](https://www.youtube.com/watch?v=RlS3QooVBxg&t=4087s) · 他描述所见**：So the buildings that I saw in tribulation that didn't exist in the time that I'm living at that time in 2014 are being built right now in 2021. So what I'm trying to tell you is it it was really a cool awe moment for me. Uh so um I just want to tell you
+- **[69:41](https://www.youtube.com/watch?v=RlS3QooVBxg&t=4181s) · 本段原话**：Write my name in the Lamb's Book of Life. Forgive me of my sins. Cleanse me from all unrighteousness. I turn away from the devil and all his evil works. And I come to you, Jesus, as a as as a as a vessel that is broken and needs you. Fill me with your Holy Spirit.
+- **[71:07](https://www.youtube.com/watch?v=RlS3QooVBxg&t=4267s) · 本段原话**：will help you in your Christian walk. There's a lot of good churches out there. Find them. If you're not in that area, watch them online. Build your faith up and um it change you. All right, thank you for watching and hopefully this meant something to you. If you don't if you don't agree
 
 ### 完整英文 Transcript
 

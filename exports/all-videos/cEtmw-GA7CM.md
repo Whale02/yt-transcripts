@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 697；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-08)
 - [09. 32:00–32:58 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:19](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=19s) · 本段原话**：things like that and I'm just going to give you a little bit of it you know um I I'm trying to think of how it even start started start it you know there's so much pain there's so much stuff and uh I I struggle a lot talking about it so uh here you
+- **[08:00](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=480s) · 本段原话**：child who's just absolutely in this weird bubble and you're trying to figure out what happened how and they say you can do all these therapies and all this stuff and I'm still standing on the word but I will not allow anybody to say that she's autistic around me or I'd want to punch you in the face that's how angry I
+- **[12:37](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=757s) · 本段原话**：process he stood there for a little bit and he loved on me he said I've got to go I've got to go back to my father and all of a sudden he vanished the presence of God was so strong on me I didn't tell nobody other than my wife what he had said I stood the sink I got back up I I
+- **[20:43](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1243s) · 本段原话**：not there and there'll be waves that knock you down and you think I can't get back up again there'll be waves that keep hitting you and it keeps knocking you down but you've got to stand your ground when all there else to to do is stand stand stand therefore and I'm telling you it's a process my little girl is
+- **[24:24](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1464s) · 本段原话**：nothing happens for you it's very hard be it I still sand time and time again I've seen him help people he even helped my little granny it was 100 years old and she couldn't move her legs my granny came in my house after a long trip from Colorado and uh she couldn't move her
+- **[32:01](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1921s) · 本段原话**：throw you lemons but you've got to learn how to make it into lemonade stand and know that Jesus is your answer he is your strong tower and you have to run to him and know that he's got your back even whenever the winds and the and and all of the junk tries to knock you down he is able to
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕疾病、医疗与药品展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:19](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=19s) · 本段原话**：things like that and I'm just going to give you a little bit of it you know um I I'm trying to think of how it even start started start it you know there's so much pain there's so much stuff and uh I I struggle a lot talking about it so uh here you
+- **[01:32](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=92s) · 本段原话**：words little little things here and there her eye contact everything was normal we went in and got the vaccination and um we went home that night and my baby was uh screaming and things were really different she started running really high fever and um within about a week her whole mind changed everything
+- **[01:58](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=118s) · 本段原话**：changed she uh lost all verbal communication her bowels stopped moving her stomach swelled up like a beach ball she stopped eating she went into this bubble she cried all the time continuously from the time she got up to the time she went to bed she cried she hummed she made weird noises
+- **[03:19](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=199s) · 本段原话**：months she kept me up all night long and I would sit in the rocking chair and just cry myself to sleep just holding her and she I'd find her in there just uh screaming and it it was it was awful I had to go to work the next day and I'd fall asleep at work because I
 
 ### 完整英文 Transcript
 
@@ -115,7 +133,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:03](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=243s) · 本段原话**：pooed us off like you know well she'll come out of it we got a certified letter in the mail telling us not to come back to the doctor she fired us as patients she blamed it on us uh being late for our appointments too many times she told us not to come back we tried to get a
+- **[05:00](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=300s) · 本段原话**：that everything was going to be okay you know I wouldn't allow anybody to speak any negative around us I I kind of we just closed oursel off she started then uh pulling all the stuff out of the drawers in our our kitchen she would take everything from the from one covered and put it in the bathroom you
+- **[06:00](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=360s) · 本段原话**：seriously going on with your daughter but we're going to have to do a lot of testing all this to say they labeled her as severely autistic the they it was like the biggest Sucker Punch I can ever tell I didn't know what to do and all I could do that time because of my faith and where
+- **[07:22](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=442s) · 本段原话**：Ministry $500 to cast The Devils out of her because we were we were all so new at this got got uh ripped off basically scammed and um tried to everybody has a cure for it spent thousands and thousands and thousands of dollars everything we could on credit cards to try to get her help to get because
 
 ### 完整英文 Transcript
 
@@ -214,7 +239,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=480s) · 本段原话**：child who's just absolutely in this weird bubble and you're trying to figure out what happened how and they say you can do all these therapies and all this stuff and I'm still standing on the word but I will not allow anybody to say that she's autistic around me or I'd want to punch you in the face that's how angry I
+- **[09:16](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=556s) · 本段原话**：doing Ava therapy and our church tried to help us out as much as they could you know giving us time off for whatever we needed for appointments uh doctor's appointments and all and I don't want to keep rambling over this I've always said I do not want pity I don't want pity for
+- **[09:36](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=576s) · 本段原话**：my life I I I'm not I'm not going to Waller in self-pity period I live by faith so one night I was at the sink and I was doing dishes and I was just fussing cuz the church was having a big party and they were having a big cookout and we couldn't go cuz we we didn't have
+- **[10:18](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=618s) · 他描述所见**：dishes and Jesus comes in the room the presence of God was this is the first manifestation I can tell you that he I actually saw him it wasn't a vision he actually came into the kitchen with me the presence of God was so strong in the kitchen the manifested presence was so strong I turned around and I hit the
 
 ### 完整英文 Transcript
 
@@ -306,7 +338,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、个人故事与访谈
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、个人故事与访谈展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:37](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=757s) · 本段原话**：process he stood there for a little bit and he loved on me he said I've got to go I've got to go back to my father and all of a sudden he vanished the presence of God was so strong on me I didn't tell nobody other than my wife what he had said I stood the sink I got back up I I
+- **[13:10](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=790s) · 本段原话**：I I shook it all off and I and I and I got up and I started washing the dishes again my wife came in and we start talking about what Jesus had said there was more to what he said but I'm not going to share that that's private this was on a Friday
+- **[13:52](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=832s) · 本段原话**：weekend there something happened and I said I don't know what what you're talking about and she said well you need to explain to me how she's talking little sentences and she's Sayang little words she has a list of every she said she said so many different things today it's like a light switch is coming
+- **[15:46](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=946s) · 本段原话**：her to have a valve Movement we took her to Billy Burke and and Tulsa he was having a service and I'm going to show you the clip right here I'm going to I have the clip and I'm going to show you my son
 
 ### 完整英文 Transcript
 
@@ -390,7 +429,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、疾病、医疗与药品、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、疾病、医疗与药品展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=961s) · 本段原话**：filmed it when he prayed for her is this your daughter sir bring her over she's making all the noise over there right what's going on with your daugh she got a flu vaccination she had a flu vaccination autism caused autism how long go this that I when she was three how old did she know
+- **[16:59](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1019s) · 本段原话**：Tulsa and had that prayer service a miracle is a miracle even if it is a process our doctor our neuros psychologist told us you just need to move on and let her be a war of the state and let her go in and and and and and be be raised in a home you kids are young enough that you
+- **[17:52](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1072s) · 本段原话**：believe Jesus is going to heal her all the way and we still do we're not giving up on her we believe that by his stripes she is healed he said you're living in a fairy tale land you need to let it go it is not going to happen he said I have never seen any
+- **[19:02](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1142s) · 本段原话**：18 it's been a process we believe by faith that she would eat normal Foods she would only eat McDonald's chicken nuggets and french fries every single day she would starve herself without it or mashed potatoes and gravy the textures finally she started eating normal Foods we got it to a point where she would eat anything we put in front
 
 ### 完整英文 Transcript
 
@@ -476,7 +522,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:43](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1243s) · 本段原话**：not there and there'll be waves that knock you down and you think I can't get back up again there'll be waves that keep hitting you and it keeps knocking you down but you've got to stand your ground when all there else to to do is stand stand stand therefore and I'm telling you it's a process my little girl is
+- **[22:19](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1339s) · 本段原话**：validated it's your circumstance does not validate my word my valid my word validates itself preach the gospel son and do what I've called you to do he said this is a case of it it it bring it you whenever you see the manifestations around you and all the things that I'm going to do through
+- **[22:43](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1363s) · 本段原话**：you you won't be able to get any you're going to be able to think in your mind it's not getting any of the credit you're not being able to take any of the glory because of what's going on in your life remember it's me that is the Healer it's not you do what I've called you to do I said I
+- **[23:27](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1407s) · 他描述所见**：hard how I said cuz my faith is so shaken by all that I see around me all the time he said do and be obedient I said how do you want me to do this over the years he's told me over and over again to start this channel to tell you all that he's a
 
 ### 完整英文 Transcript
 
@@ -573,7 +626,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:24](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1464s) · 本段原话**：nothing happens for you it's very hard be it I still sand time and time again I've seen him help people he even helped my little granny it was 100 years old and she couldn't move her legs my granny came in my house after a long trip from Colorado and uh she couldn't move her
+- **[25:33](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1533s) · 他进行祷告**：106 and she fell and her her uh coming out of the baptism she broke her hip and and and my grandma couldn't take care of her so she said oh she going to a nursing home and the next day she said will you pray that I go home you were in the hospital and everybody was asking
+- **[26:23](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1583s) · 本段原话**：just praying for people and the power of God she she that night about 4: 5: in the morning whatever it was she smiled real big the day right before the day she's going to go into the nursing home because the hospital said she can't stay here anymore she smiled real big and took a last breath
+- **[27:25](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1645s) · 本段原话**：touching a cold stove and he says my grace is sufficient for you I don't get it I still don't get it but I don't question him what I learned is even whenever you don't understand why you're going through what you're going through stay on God's side stay on God's side never uh get complaining and cranky in
 
 ### 完整英文 Transcript
 
@@ -674,7 +734,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:00](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1680s) · 本段原话**：god and he's a faithful God a couple weeks ago was a couple months ago I got real cranky with him at that time whenever he telling me to do this YouTube channel again I told him I didn't want to do it he said are you going to obey me and do what I've asked you to do teach my
+- **[28:56](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1736s) · 本段原话**：accidents but uh she's still nonverbal she don't talk she doesn't say she says little words she parrots it just like it was back whenever uh happened whenever she was like six years old whenever she got her full whenever I was at the sink and that all happened she's still able to do that but it's not able to carry a
+- **[29:55](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1795s) · 本段原话**：belongs to Jesus has nothing to do with me and has everything to do with him I am nothing I am humbled before him I'm a servant I am broken y'all well that's my testimony about my little girl I I I I I just I wanted to be open and real with you all I'm going to do another video
+- **[31:21](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1881s) · 本段原话**：don't know if I'm going to be able to make it through this but he says stand up Soldier put your armor on Walk It Out be strong in the Lord in the power of His might you can do all things through Christ who strengthens you greater is he that is in you than he
 
 ### 完整英文 Transcript
 
@@ -776,7 +843,13 @@
 <a id="section-09"></a>
 ## 09. 32:00–32:58 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:01](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1921s) · 本段原话**：throw you lemons but you've got to learn how to make it into lemonade stand and know that Jesus is your answer he is your strong tower and you have to run to him and know that he's got your back even whenever the winds and the and and all of the junk tries to knock you down he is able to
+- **[32:25](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1945s) · 本段原话**：bring you out of the pit if you believe him I'm telling you I still am still climbing out my my stuff guys I'm still believing for a lot of stuff but I come on here to tell you the testimonies and to Fan your flame and to tell you don't give up Jesus is a great friend in a
+- **[32:44](https://www.youtube.com/watch?v=cEtmw-GA7CM&t=1964s) · 本段原话**：time of need he's Lord of your life he's faithful and he is able to do exceedingly abundantly above all that you dare ask or think God bless you all and thank you if you're still watching and uh I appreciate appreciate all your love and your compassion
 
 ### 完整英文 Transcript
 

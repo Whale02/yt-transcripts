@@ -5,17 +5,31 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 105；**章节数**: 2；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
 - [01. 00:00–03:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-01)
 - [02. 04:00–04:27 · 祷告、敬拜与现场互动](#section-02)
 
+## 全片概述与 Key Points
+
+全片共 2 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:15](https://www.youtube.com/watch?v=NZu1xk5IGHw&t=15s) · 他描述所见**：tribulation but um you know part of the birthing pains that happen and so uh in this dream there's a massive asteroid and it's it's coming into the Earth and and I see it and everybody can see it but you could hear it and it sounded like massive freight trains and I went and you it's
+- **[04:02](https://www.youtube.com/watch?v=NZu1xk5IGHw&t=242s) · 本段原话**：it and it hit out there in the ocean in the Atlantic and so um it caused a Devastation worldwide and like I said I don't know if this is tribulation the Lord's showing me or if it's something that happens in the birthing pains but it's just one of the things I felt like
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:15](https://www.youtube.com/watch?v=NZu1xk5IGHw&t=15s) · 他描述所见**：tribulation but um you know part of the birthing pains that happen and so uh in this dream there's a massive asteroid and it's it's coming into the Earth and and I see it and everybody can see it but you could hear it and it sounded like massive freight trains and I went and you it's
+- **[01:18](https://www.youtube.com/watch?v=NZu1xk5IGHw&t=78s) · 本段原话**：and it split the the rock into this massive asteroid it split it in two and it busted up all the of this one half into little bitty fragments but the other half was still massive and it hit by um the islands by San Juan Puerto Rico it hit by um the Bahamas all that
+- **[01:41](https://www.youtube.com/watch?v=NZu1xk5IGHw&t=101s) · 本段原话**：area out there and when it did it it crashed into the ocean and it created this massive tsunami I'm talking humongous like I don't know 100 feet up or more and it was it was moving so quick and so fast it covered the islands up it covered um haitia they covered those things up
+- **[02:22](https://www.youtube.com/watch?v=NZu1xk5IGHw&t=142s) · 本段原话**：Miami it hit North Carolina and South Carolina all that area up into there and it went in but the main area that that I was shown in the dream was the Miami area Fort Lauderdale and it went in and it went in Inland like the one that hit Japan and it went the wave was the tsunami and
 
 ### 完整英文 Transcript
 
@@ -117,7 +131,12 @@
 <a id="section-02"></a>
 ## 02. 04:00–04:27 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:02](https://www.youtube.com/watch?v=NZu1xk5IGHw&t=242s) · 本段原话**：it and it hit out there in the ocean in the Atlantic and so um it caused a Devastation worldwide and like I said I don't know if this is tribulation the Lord's showing me or if it's something that happens in the birthing pains but it's just one of the things I felt like
+- **[04:18](https://www.youtube.com/watch?v=NZu1xk5IGHw&t=258s) · 本段原话**：I should share that the Lord has showed me thank you very much for watching and um there's other things that the Lord showed me and I'm going to tell those in other videos all right have a blessed day bye
 
 ### 完整英文 Transcript
 

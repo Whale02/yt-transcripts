@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 714；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 - [08. 28:00–31:06 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=0s) · 本段原话**：hey good morning family I'm excited to be with You' all again today um I have a word for y'all but you know it's just you know these are just conversations that I have with the Lord I'm going to get right to it I don't want to waste your time and I'm going to I'm going to
+- **[04:18](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=258s) · 他表达判断**：that the Lord has spoken to me about along the way now I found a Doctor Garland and uh I believe he's in up like Colorado Springs I I'm I I'll reach out to him and have ask if he'd like to be on our show he is a natural path doctor he's not an MD but he is a natural path
+- **[12:21](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=741s) · 本段原话**：praying and I felt the peace as I I left my body God gave me a dream sitting on my couch and I'd passed away in my dream and right here and I felt peace when you leave your body to be absent from the body is to be present with the Lord there is no fear in death when you are a
+- **[17:03](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1023s) · 他描述所见**：for your life and I don't want to keep rambling on here but I'm going to tell you when I saw that woman tormented I interceded for her and then the BL brought it up in my heart and said this dispensation of time is coming to an end the dispensation of Grace is coming to
+- **[24:00](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1440s) · 本段原话**：he does you remind him of his future you say hey sucker you're going to burn in hell forever you try to remind me of my past devil I'm going to remind you of your future you are going to burn in a pit of fire for in the Lake of Fire forever and ever and
+- **[28:24](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1704s) · 他表达判断**：begotten son that who should ever believe in him should not perish but shall have everlasting life I believe with all my heart you got to believe you got to believe that he he he died for you and then he rose again on the third day and whenever you believe that you're saved it's not hard
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、疾病、医疗与药品、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、疾病、医疗与药品展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=0s) · 本段原话**：hey good morning family I'm excited to be with You' all again today um I have a word for y'all but you know it's just you know these are just conversations that I have with the Lord I'm going to get right to it I don't want to waste your time and I'm going to I'm going to
+- **[01:34](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=94s) · 他进行祷告**：everybody's different you know everybody has a different blood chemistry everybody has a different uh chemistry in their body all together I'm just telling you what he told me to do for my family and what and so I'm just going to tell you so you can pray about it you can go to your doctor and ask them what
+- **[02:57](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=177s) · 他转述所听到的话**：uh D3 well it went along identically with what the Lord said and he told me personally for my kids by the month of October every single year to start taking 10,000 IUS of D3 and K2 now the K2 is just what usually comes with the uh the vitamin that's already there you get it hell food store uh hell food
+- **[03:21](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=201s) · 本段原话**：store or you can get it on Amazon there's a lot of places that sell D3 K2 combo mixes but we take 10,000 I use every single day through um uh October November December January and February and we get our levels pretty high now whatever that high is is above 60 so for us and so we that's where we try to keep
 
 ### 完整英文 Transcript
 
@@ -134,7 +152,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:18](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=258s) · 他表达判断**：that the Lord has spoken to me about along the way now I found a Doctor Garland and uh I believe he's in up like Colorado Springs I I'm I I'll reach out to him and have ask if he'd like to be on our show he is a natural path doctor he's not an MD but he is a natural path
+- **[05:16](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=316s) · 本段原话**：really into health I'm really into things that in the earth of what the Lord has provided for us you know he gave us all these amazing herbs and and greens and grasses and and and all kinds of stuff to help us with our our our bodies so and then another thing um I I
+- **[06:24](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=384s) · 他描述所见**：world okay all that this B this been ation of time is coming to an end and he was and it was when he said it to me you all I it was beautiful the way he said it because I saw it for a glimpse through his eyes the way he sees us during these times with family
+- **[07:35](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=455s) · 本段原话**：there's not very many of these times like this that are that are left this this this dispensation of time is coming to an end as far as the way we the way the Earth has gone so far we're about to enter into the Thousand Years and and the Thousand Year Reign and that time
 
 ### 完整英文 Transcript
 
@@ -233,7 +258,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:02](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=482s) · 他描述所见**：embrace uh life more he was saying Brandon I want you to enjoy life I want you to enjoy your kids I want you to enjoy your to enjoy family more to to embrace it because it's beautiful and all of a sudden I was I was just interceding like I always do and I saw this lady and she was laying
+- **[08:53](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=533s) · 他表达判断**：total dread of thinking I didn't do what I wanted to do I didn't live the way I wanted to live I wished I could have done things differently I wished I would have raised my kids differently with so many regrets she had so many regrets and I believe this woman really exists because whenever the Lord showed me this
+- **[10:37](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=637s) · 本段原话**：hands like I said and the Lord showed me her children she had three beautiful children and she was she had not raised him them to be in a Godly fearing home and she was worried about leaving this Earth because she wanted to be a better mother to them and show them that Jesus
+- **[11:36](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=696s) · 本段原话**：is it's appointed unto man wants to die all of us are going to die Jesus uh is coming yes but there's an elderly generation right now that I know that I've seen you know we all know everybody's appointed to die everybody's going to die if Jesus carries and he doesn't come come back in the next 20 30
 
 ### 完整英文 Transcript
 
@@ -330,7 +362,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:21](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=741s) · 本段原话**：praying and I felt the peace as I I left my body God gave me a dream sitting on my couch and I'd passed away in my dream and right here and I felt peace when you leave your body to be absent from the body is to be present with the Lord there is no fear in death when you are a
+- **[14:34](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=874s) · 他描述所见**：some people because like I said As the World Turns every day there's people going into eternity all the time every second we talk there's somebody going into eternity is your what I have to ask you after I saw that woman being so tormented by the spirit of death so afraid of the decisions that she made
+- **[14:56](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=896s) · 他表达判断**：every single day for the last last whatever probably 90 years I don't know how old she was she looked Elder real elderly elderly to me probably she had really wrinkly hair gray hair I mean real wrinkly face gray hair um she was really wrinkled up and very weak and feeble um and she was holding on to that
+- **[15:41](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=941s) · 本段原话**：season that you're going to experience is this the last times that you'll be able to see your children to even tell them that Jesus Christ loves them if you know him is this the last time you'll see your your your husband or your wife you you may wake up tomorrow and you may be with him in in
 
 ### 完整英文 Transcript
 
@@ -428,7 +467,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[17:03](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1023s) · 他描述所见**：for your life and I don't want to keep rambling on here but I'm going to tell you when I saw that woman tormented I interceded for her and then the BL brought it up in my heart and said this dispensation of time is coming to an end the dispensation of Grace is coming to
+- **[17:20](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1040s) · 本段原话**：an end we're going into the tribulation son we're getting ready to go in there there's another there's a there's a seven years of tribul ation that's coming and we're going to step over into that soon and and I'm telling you it's hell on Earth but it is not for you and I I've lived in this house where I live
+- **[17:57](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1077s) · 本段原话**：prayer he said Brandon he's he's he doesn't know me and he's and if he dies tonight son he's going to spend eternity in hell but he needs to be asked the question he needs to be presented the gospel so I went over and I said Barney I've known you for a long time he
+- **[19:30](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1170s) · 本段原话**：olderly so I just kind of his son is kind of looking at me like leave my dad alone and I I said well Barney I'm I'm sorry to hear you say that but I'm going to keep praying for you he turned around and they walked off I was so grieved and sigh that he would
 
 ### 完整英文 Transcript
 
@@ -535,7 +581,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:26](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1226s) · 他描述所见**：hell but I but just maybe just maybe maybe he he accepted him maybe taking a bath maybe he was uh uh waking up more one morning and he he had a visitation from an angel I don't know I'm just going to believe the best and pray that he got he made it but for what I saw
+- **[20:48](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1248s) · 本段原话**：Barney Barney went to hell and that b bothered me a lot when he passed away is his wife his wife wife's name was Marie and um and uh I used to kind of witness to her a little bit I wasn't as bold with her as what I was with him uh I I talked
+- **[21:29](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1289s) · 本段原话**：important that you're a witness to your neighbors it's important that you tell them about Jesus it's important then that you speak to the elderly and make sure and even the young none of us know we're none of us are promised tomorrow we could go home that fast but the what what I'm trying to tell you is have you
+- **[23:34](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1414s) · 本段原话**：that I had a lot of memories about this even a couple days ago talking about some people that did me wrong and it started to raise up those old feelings inside and I started going and I and I and I I no that's under the blood I refuse to be tormented by that anymore
 
 ### 完整英文 Transcript
 
@@ -634,7 +687,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1440s) · 本段原话**：he does you remind him of his future you say hey sucker you're going to burn in hell forever you try to remind me of my past devil I'm going to remind you of your future you are going to burn in a pit of fire for in the Lake of Fire forever and ever and
+- **[24:52](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1492s) · 本段原话**：represented here today that they would know you not only do they know you but they know you intimately they have a relationship with you they they have a they have a knowing that Jesus Paid the price for their sins and they are healed by his stripes they're delivered for whom the son has set free is free indeed
+- **[25:39](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1539s) · 他讨论新闻或报道**：reason to be afraid of death to be absent from the body is to be present with the Lord no matter if they've gotten a bad report from the doctor and they're they're they're fixing to take their last breath if they just let go they're going to be right there with you in Paradise I I felt it Lord I
+- **[26:45](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1605s) · 他表达判断**：thousand years to reign with you on the other side that there'll be a thousand years and father we can do a lot of good in that thousand years I believe with all my heart I um so I just want you to repeat this prayer after me if you're not saved and you're watching this and
 
 ### 完整英文 Transcript
 
@@ -732,7 +792,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:06 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:24](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1704s) · 他表达判断**：begotten son that who should ever believe in him should not perish but shall have everlasting life I believe with all my heart you got to believe you got to believe that he he he died for you and then he rose again on the third day and whenever you believe that you're saved it's not hard
+- **[30:09](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1809s) · 本段原话**：Bell it really helps us with the algorithm y'all you helping get the gospel out every single day helping the people to know more about Jesus and to teach them about prayer salvation healing whatever it may be that the Lord puts on my heart today to teach you all and I just want to say thank you for
+- **[30:28](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1828s) · 本段原话**：helping me thank you for helping my my channel out it means so much to us my family you've been such a blessing to us we're almost to uh 990,000 subscribers we're so close on our way to 100,000 that's my goal I'm believing God for 100,000 subscribers this uh year to to reach the people throughout the world
+- **[30:49](https://www.youtube.com/watch?v=fb9hNUmISjQ&t=1849s) · 本段原话**：helping with the algorithms we're going we're going to save the Lost through a YouTube channel and I just want to say thank you well put put a smile on your face and a song in your heart Jesus loves you so much and we love you and we will see you next time and we thank you
 
 ### 完整英文 Transcript
 

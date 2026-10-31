@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1989；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 90:00–99:59 · 预言、梦境与异象、地震、风暴与灾害](#section-10)
 - [11. 100:00–108:35 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:28](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=88s) · 本段原话**：timing." She goes, "Brandon, we live in Tulsa." And she said, 'I just found the Tulsa race riots started on May 31st of of [Music] 1921, and they went until June 1st. And she said 30 blocks of homes were burned from African African-American men and women, businesses, everything. And they called it Black Wall Street. It was a
+- **[21:14](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=1274s) · 他描述所见**：that gas would skyrocket and it would bring the price of oil up like like really high, really high. I saw it going up $200 a barrel, like big money trying to flow, which would stimulate the American economy. It stimulated the American economy whenever these big oil productions get hit in the Middle East.
+- **[40:02](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=2402s) · 本段原话**：tongue, doesn't matter who how far it li it. Jesus paid the price for you to walk in freedom from that pain. Jew, Gentile, all of us. Thank you, Father. Thank you, Father. I take this body in the name of Jesus and I thank you that for whom the Son has set free is free indeed today.
+- **[60:02](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=3602s) · 他描述所见**：[Music] I see the pray for for South Korea. We decree it so. We decree it so that South Korea will not go communist. There will not be an iron curtain over South
+- **[81:14](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=4874s) · 他描述所见**：That's what he said. I heard him that thing in Seattle. I see it again. That's why I know it's in Seattle and I see a tsunami wave. I see I see a wave.
+- **[101:18](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=6078s) · 本段原话**：Many of you all are living in compromise and sin and you have your you're your you're riding the fence. But I tell you that there is no riding fence. He wants you either hot or cold, but if you're lukewarm, he said he would spew you out of his mouth. It's time to get your heart right before a holy God.
+
 <a id="section-01"></a>
 ## 01. 00:00–09:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：New York、Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:28](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=88s) · 本段原话**：timing." She goes, "Brandon, we live in Tulsa." And she said, 'I just found the Tulsa race riots started on May 31st of of [Music] 1921, and they went until June 1st. And she said 30 blocks of homes were burned from African African-American men and women, businesses, everything. And they called it Black Wall Street. It was a
+- **[03:51](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=231s) · 他描述所见**：My son Googled her and we started looking with purple do-rags just like I saw with the white shirt when she was doing the Underground Railroad. But they called it Black Wall Street. And if you remember last night, I kept seeing Wall Street, Wall Street, and I saw New York City. And that was
+- **[06:47](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=407s) · 本段原话**：And words can't explain to you the bondage and the hopelessness that they felt similar to, I'm sure, what the children of Israel felt for 400 years. But people, you you can read a story, you can read a novel, you can read uh history books. That's what I'm trying to say. You can read history
+- **[09:48](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=588s) · 他描述所见**：to look over there, I see them praying and singing old songs. And uh there were old uh not Pentecostal songs, but old Bible songs
 
 ### 完整英文 Transcript
 
@@ -239,7 +257,14 @@
 <a id="section-02"></a>
 ## 02. 10:00–19:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Israel、Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:01](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=601s) · 他描述所见**：like himnils, old hymns, old songs that we don't sing anymore. I that's I was trying to listen because I was hearing and this is what's amazing. I've never been in a vision and heard people singing before.
+- **[14:09](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=849s) · 他描述所见**：it. And those of you that are in the young generation, if those others have have gone home, your elders have went home, cuz I saw 80 years old, 90 years old, and I didn't know why I was singing that, seeing that. But if you was if you was a child in the 1921 race riots, you'd still be here
+- **[17:47](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=1067s) · 本段原话**：Now, side note, that was a that was precious in itself, but the things I'm seeing about Israel and the baby wrapped in the blanket with Israel. I don't understand all that. A rebirththing, a new things are going to take place. So what a patriotism. There's something about patriotics from June this next month
+- **[19:06](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=1146s) · 他描述所见**：And everything's going to change within a 24-hour period. Everything you know, a great shaking to awaken is coming. A great shaking to awaken is coming. I saw great war breaking out with Israel and Iran in the days ahead.
 
 ### 完整英文 Transcript
 
@@ -471,7 +496,14 @@
 <a id="section-03"></a>
 ## 03. 20:00–29:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、物资、能源与供应链。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[21:14](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=1274s) · 他描述所见**：that gas would skyrocket and it would bring the price of oil up like like really high, really high. I saw it going up $200 a barrel, like big money trying to flow, which would stimulate the American economy. It stimulated the American economy whenever these big oil productions get hit in the Middle East.
+- **[22:13](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=1333s) · 他描述所见**：It was the big pipeline. I saw it being re read re talked about and opened up, working on it, just like like trying to get this pipe deal going, doing major oil big deals ahead, stimulating America's economy.
+- **[23:08](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=1388s) · 他描述所见**：Have we changed it through prayer? I don't believe we have. We hear uh some of this on the news now. Some of the things that I see take years to come to pass. Sometimes it it takes 10 years, you know, I don't know. Sometimes it's months. So, let's pray for for President Trump. Remember I
+- **[23:44](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=1424s) · 他描述所见**：I'm not pushing the button, but Israel did it anyway." Remember? But then I've been praying and I've told you all I see a u a uh black swan event. We got to create a boogeyman. I hear him say we have to create an enemy so that it justifies our reaction to our we're going to have to
 
 ### 完整英文 Transcript
 
@@ -710,7 +742,14 @@
 <a id="section-04"></a>
 ## 04. 30:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:50](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=1850s) · 本段原话**：Maybe I shouldn't be that way. Maybe it should be that I charge for it for the ministry and and grow it that way. And you, you know, say you sell 100,000 books at $25 a piece, you know, you uh fund your ministry, you know, and maybe that's the that's how it works. I don't
+- **[32:53](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=1973s) · 他表达判断**：one of you how to touch the hem of his garment with what we've done. and um that the intimacy of our relationship would become real to you. Maybe it would inspire you. You know, this is my book that you could be inspired. I think I was just so touched that the father would want me to
+- **[35:43](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=2143s) · 本段原话**：This deserves great respect. This is something that costs somebody everything. Our Lord and Savior. Do you understand? This cost him everything. He prayed. He paid the price for everything. And this is what it represents. This isn't something that you do like putting on your clothes or taking a bath.
+- **[38:54](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=2334s) · 本段原话**：All the pains, all the hurts, all the things that I go through on a day-to-day basis, Father, you make me whole. You put the pieces back together again. and all these people that are hurting from race riots, all the things in the past from from all this deep roots of pain throughout the whole world. There's
 
 ### 完整英文 Transcript
 
@@ -946,7 +985,14 @@
 <a id="section-05"></a>
 ## 05. 40:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:02](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=2402s) · 本段原话**：tongue, doesn't matter who how far it li it. Jesus paid the price for you to walk in freedom from that pain. Jew, Gentile, all of us. Thank you, Father. Thank you, Father. I take this body in the name of Jesus and I thank you that for whom the Son has set free is free indeed today.
+- **[43:05](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=2585s) · 他描述所见**：And what is a lot of people freaked out? I said, "You've got to stay vertical for the days what I saw coming ahead. If you go horizontal," I said, "Men's hearts will fail them for fear." So the Bible said, "But if you stay vertical, you're all right. You're all right. Let's pray today together and
+- **[44:07](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=2647s) · 本段原话**：We're so thankful. We're so thankful, Father. We're thankful, Father. Holy Spirit. And I tell you this, if you're singing a song, it's not for anybody's entertainment. It you're singing a song to him. And you may not know all the words. Kind of like how I did yesterday.
+- **[45:12](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=2712s) · 本段原话**：Yeah. He loves to hear you sing to him. And if you just sing to him, it could be something you make up like a child and and the the glory will come down. It's not even a real song. Yeah. When when our kids were little, they didn't know all the words to some songs, but it was
 
 ### 完整英文 Transcript
 
@@ -1131,7 +1177,14 @@
 <a id="section-06"></a>
 ## 06. 50:00–59:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:50](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=3050s) · 本段原话**：Red and yellow, black and white. They are precious in his sight. Jesus loves the little children of the world. He loves everyone. Thank you, Lord.
+- **[53:50](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=3230s) · 本段原话**：Yes, my Jesus loves me. For the Bible tells me so. Such a simple little song. Oh father, we worship you today. Praise you, Father.
+- **[55:48](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=3348s) · 本段原话**：Impotent Father of mercy and grace, thou art welcome in this [Applause] place. For in your presence there's healing divine. Do you believe that?
+- **[57:40](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=3460s) · 本段原话**：[Music] divine. No other power can heal Lord but thine. [Music] Holy Spirit, you are welcome in this place.
 
 ### 完整英文 Transcript
 
@@ -1286,7 +1339,14 @@
 <a id="section-07"></a>
 ## 07. 60:00–69:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[60:02](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=3602s) · 他描述所见**：[Music] I see the pray for for South Korea. We decree it so. We decree it so that South Korea will not go communist. There will not be an iron curtain over South
+- **[62:28](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=3748s) · 他描述所见**：[Music] I see it even starting in Japan. I see it starting in Japan. A great fire, a great revival. There's great corruption here. I see a lot of sexual perversion here. There's some very, very dark businessmen here. I'm looking at them.
+- **[67:54](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=4074s) · 他描述所见**：A wedding arch. An arbor or a chupa. A chupa is what it's called. Now, I don't understand what this means. I see this thing. But I saw fire and not a fire of burning like you would light something on fire, but a fire that is never dying in the middle of a chup this chupa thing
+- **[69:23](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=4163s) · 他转述所听到的话**：The Holy Ghost in fire in the middle of this for the bridegroom is coming. The bridegroom is coming and he's getting ready for the bride and the middle of this Jewish altar thing. I don't know what this is, but the Lord spoke to me and I heard it in the spirit when I'm eyes
 
 ### 完整英文 Transcript
 
@@ -1419,7 +1479,14 @@
 <a id="section-08"></a>
 ## 08. 70:00–79:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[70:00](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=4200s) · 他描述所见**：bride and the fire is on the altar. My son's return is imminent." I hear him say, "This represents a wedding. I hear the spirit of the Lord say this. I see a chupa thing. This thing. It's what my wife looked up. I because I don't know what this is. All I know is has it look
+- **[71:05](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=4265s) · 他描述所见**：The king is coming. Yeah. Do you see this? Do you see? But there the one I saw, I don't know if you can even see that. Maybe Braden will have to put it on there. The one I saw had decorations and stuff all underneath this thing, but it had actually there was there was a
+- **[72:44](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=4364s) · 他描述所见**：Again, it looks and most people last time said this is nuclear fallout, but I have no idea. It looks like vog. It looks like gray soot. That almost looks like a like it's a uh like it's a it's it's like like like whenever you dump ash out of a fireplace. I see that from from from
+- **[78:49](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=4729s) · 他描述所见**：volcanic reactions. For this is a sign. I even see it in Japan. I see that big mountain with the big with the with the with the with all the snow on the top of it and where the berries are like a thumb. Goji berries. Go. I see goji berries. I see the volcano coming alive. I see a
 
 ### 完整英文 Transcript
 
@@ -1550,7 +1617,14 @@
 <a id="section-09"></a>
 ## 09. 80:00–89:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[81:14](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=4874s) · 他描述所见**：That's what he said. I heard him that thing in Seattle. I see it again. That's why I know it's in Seattle and I see a tsunami wave. I see I see a wave.
+- **[84:17](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=5057s) · 他描述所见**：The powers of heaven will be shaken. I see shaken in volcanoes, shaken in the ocean, volcanoes. There'll be shakening all around the world. There's great shakening to become. in the sun, signs in the sun, even more to come more than what you saw today. He says what with the what the what the the the
+- **[86:25](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=5185s) · 他描述所见**：Huh? Is that a money tree? And they're falling off the tree. I see these this massive oak tree. And the leaves are falling off their $100 bills and they're falling off. And as they fall down, they turn into digital before they hit the ground. A great great financial shaking is yet to come. I've given you a window,
+- **[87:29](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=5249s) · 他描述所见**：I see his heart. Oh, you if you waste this window, he says, "Oh, woe unto you that waste this window. Many of you all are like an ostrich with their head in the sand.
 
 ### 完整英文 Transcript
 
@@ -1718,7 +1792,14 @@
 <a id="section-10"></a>
 ## 10. 90:00–99:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[90:09](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=5409s) · 他描述所见**：Groanings. He's watching and waiting to come back. guy. I see him in antic. He's watching. Do you remember I told you Jesus was standing at the door waiting for his father's instruction. He said, "I'm waiting at the door." And I said, "What are you doing, Lord? You're standing at the door." He said, "I'm coming. I'm waiting
+- **[93:10](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=5590s) · 他描述所见**：some of the biggest tsunamis and some of the biggest earthquakes this world has ever known is about to take place. Now, I don't know if I'm looking into the tribulation or not, ladies and gentlemen, but I'm telling you by the spirit of the Lord, I see the ring of fire. I see great shaking and pressure
+- **[95:20](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=5720s) · 他描述所见**：And I see that barn full of the Holy Ghost and fire. And I'm distributing it out of this hour. And I'm pouring upon my spirit upon a great again another great wave of my presence, a greater outpouring, a greater manifestation of my glory is coming on my bride. The ones that will yield as I as I come along the
+- **[99:18](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=5958s) · 本段原话**：I I mean, seriously, I refuse to get on the other side and say, "Well, you know, I couldn't use you to all the way to the to the fullest because you fear these people." I could give a flip what y'all think. There's going to be haters, there's going to be lackers, but either
 
 ### 完整英文 Transcript
 
@@ -1912,7 +1993,14 @@
 <a id="section-11"></a>
 ## 11. 100:00–108:35 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[101:18](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=6078s) · 本段原话**：Many of you all are living in compromise and sin and you have your you're your you're riding the fence. But I tell you that there is no riding fence. He wants you either hot or cold, but if you're lukewarm, he said he would spew you out of his mouth. It's time to get your heart right before a holy God.
+- **[103:23](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=6203s) · 本段原话**：do. God's giving you a window of repentance. No man is is promised tomorrow. You may die tonight in your sleep. You may die on the way. You may tie your shoes going to work today, but the undertaker takes your shoes off tonight and you never make it home. You need to repent. It's time.
+- **[105:27](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=6327s) · 本段原话**：Read your Bible. If you don't have a Bible, Diane and I, my wife will give you a Bible for free. If you can't afford a Bible, you say, "Brandon, I can't even afford a Bible. I just watched this broadcast by accident." It wasn't an accident that you watched this broadcast because most people would have
+- **[107:18](https://www.youtube.com/watch?v=r-6QgcJFlPM&t=6438s) · 他表达判断**：A day to remember. Well, I think that's all I have for you today. We'll pray again. And we'll keep uh going before and praying and praying and praying every time, ladies and gentlemen. The anointing of the Holy Spirit is so strong on these prayer sessions. And he has so much to say about these end
 
 ### 完整英文 Transcript
 

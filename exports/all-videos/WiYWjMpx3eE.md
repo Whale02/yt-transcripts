@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 581；**章节数**: 10；**明确省略行数**: 1
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 - [10. 45:00–49:08 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=0s) · 他进行祷告**：excited to be with you all today. Uh we're going to do a reactionary video, but we're going to pray for the uh peace of Jerusalem. We're going to pray for uh the peace of Israel and and and for the for protection over this ground invasion that the the casu the civilian casualties. We're going to pray over
+- **[11:59](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=719s) · 本段原话**：little take them out. way. You will not come in that way.
+- **[21:52](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=1312s) · 本段原话**：Where? Where? Father where? Yes. Arabia. Arabia. Arabia. Arabia. Arabia. Syria. Syria. Syria.
+- **[25:01](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=1501s) · 本段原话**：America, but he's he keeps he doesn't let me go there. So even though I keep in my self trying to get there, he doesn't let me go there. So I have to just wait here. And we're actually praying in tongues. I'm trying to get an entrance back into America.
+- **[35:10](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=2110s) · 本段原话**：Yeah, merit. We got a note yesterday. uh from someone whose brother-in-law um is the border guard in the southern border in Arizona and uh they reported that there was a crossing 150 Syrian into Arizona and um uh they're calling for jihad and a day of rage. Is that right? Here
+- **[45:29](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=2729s) · 本段原话**：Brother Bill U Pale's astronaut has something he wants to share about America and Israel.
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=0s) · 他进行祷告**：excited to be with you all today. Uh we're going to do a reactionary video, but we're going to pray for the uh peace of Jerusalem. We're going to pray for uh the peace of Israel and and and for the for protection over this ground invasion that the the casu the civilian casualties. We're going to pray over
+- **[00:52](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=52s) · 本段原话**：more so that if you're in a dry season and you're by yourself at your house or you're on your way to work, you could put this on your phone and and and listen to prayer as you're going to work today or tomorrow or whatever day you're going or if you're doing uh cooking or
+- **[01:19](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=79s) · 本段原话**：It's a it's a season to step in and go higher. It's come up to go it's time to go up higher with the fire. It's time to go up higher. He the Lord the Lord has spoke to me so strong on Thursday. I had a visitation from the Lord and he told me it's time to come up higher and stop
+- **[01:37](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=97s) · 本段原话**：being so carnal. It's time to It's time. It He said heaven is getting ready. It's in It's invading Earth. There's a There's a glorious outpouring that is that is covering. It's going to be a massive revival that's about to take place over this this land. And so I want I want you to be a part of it. I want to
 
 ### 完整英文 Transcript
 
@@ -109,7 +127,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:04](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=304s) · 本段原话**：of your ears. Your ears. Your ears are ready. We are [Applause] foreign.
+- **[06:18](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=378s) · 本段原话**：[Applause] Leo Ramboi Leonio Ramo Leo Broady Grande Roto Rebea Rio Leo
+- **[07:29](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=449s) · 本段原话**：We respond to the spirit of God and main [Music] door in the name of Jesus name.
+- **[08:51](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=531s) · 本段原话**：Yes, Lord. We are marching right with them. We are marching. We are marching.
 
 ### 完整英文 Transcript
 
@@ -153,7 +178,11 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[11:59](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=719s) · 本段原话**：little take them out. way. You will not come in that way.
 
 ### 完整英文 Transcript
 
@@ -187,7 +216,11 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:12](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=1092s) · 本段原话**：very very very Yes, we will not be distracted but we will come. Let's just sing everyone. Let's sing. Let's sing right now. Hallelujah. Hold our place right here and sing. Hold our place in the spirit here in tones. Sing in tones.
 
 ### 完整英文 Transcript
 
@@ -223,7 +256,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[21:52](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=1312s) · 本段原话**：Where? Where? Father where? Yes. Arabia. Arabia. Arabia. Arabia. Arabia. Syria. Syria. Syria.
+- **[23:33](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=1413s) · 本段原话**：Because she's a little single I found myself saying in Hebrew while we were praying I just listened in and there it was uh macakarabala and that means what happened in the night time.
+- **[24:01](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=1441s) · 他表达判断**：Yes. And I believe we can handle what happened in the night time and stop it.
+- **[24:04](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=1444s) · 本段原话**：Assist. Desist it. Desist in your maneuvers. Stop now. Stop it. Stop it in the name of Jesus.
 
 ### 完整英文 Transcript
 
@@ -287,7 +327,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:01](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=1501s) · 本段原话**：America, but he's he keeps he doesn't let me go there. So even though I keep in my self trying to get there, he doesn't let me go there. So I have to just wait here. And we're actually praying in tongues. I'm trying to get an entrance back into America.
+- **[25:23](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=1523s) · 本段原话**：Bring the flag. Bring the two flags over here. America. Bring the flags. Bring the flags over here. Bring them over there. Right over there. Put them out in the front over there quickly. Quickly.
+- **[25:49](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=1549s) · 他表达判断**：Yes. Uh, no. I think over What do you think, Lyn? I think over right over there on the straight part.
+- **[27:55](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=1675s) · 本段原话**：Brother Rex. Come over there by the flag and blow the chauffear.
 
 ### 完整英文 Transcript
 
@@ -360,7 +407,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 教会、复兴与信仰、战争与国际事务
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、战争与国际事务、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、战争与国际事务展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[31:36](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=1896s) · 本段原话**：These are the ram's horn caught in the thicket. They call for the Messiah. They're also a call to war. This one is the Ashkanazi. This represents the Jews who were in diaspora in uh Europe and other places. This is the Yemenite. This represents the Safari Jews, the ones who are on all the other
+- **[31:58](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=1918s) · 本段原话**：parts in Yemen and the other parts. All of jewelry is is is represented here and of course in the flags war and call for Messiah for the assembling of the troops for the assembling of the soldiers force the air force the army
+- **[33:18](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=1998s) · 本段原话**：with you. The prayers of the saints are working with the even in the sleeper cells in America.
+- **[33:58](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=2038s) · 本段原话**：Stop the angels. Uhhuh. And it won't be long till the hailstones fall till the stars in the sky are the god of justice. The god of vengeance. The god of vengeance. The god of vengeance. Arrives. foreign.
 
 ### 完整英文 Transcript
 
@@ -422,7 +476,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:10](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=2110s) · 本段原话**：Yeah, merit. We got a note yesterday. uh from someone whose brother-in-law um is the border guard in the southern border in Arizona and uh they reported that there was a crossing 150 Syrian into Arizona and um uh they're calling for jihad and a day of rage. Is that right? Here
+- **[35:40](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=2140s) · 本段原话**：in America. And uh this is just uh sent to us uh from Heather that in Chicago a Palestinian walked into a Jewish center and shot the receptionist.
+- **[36:50](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=2210s) · 本段原话**：We have authority over you. There will no be calam no calamity come n uses.
+- **[38:18](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=2298s) · 本段原话**：All hidden things be revealed. Large public gatherings. We call forth an exposing of any plots of wickedness that tries to come against this land. We call them exposed. We call them exposed in the name of Jesus.
 
 ### 完整英文 Transcript
 
@@ -519,7 +580,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:51](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=2451s) · 本段原话**：they're written before you God they're there before We are the American people and we call absolutely call on our covenant for we are a covenant people with God and Israel is your covenant people and your covenant you are bound.
+- **[41:12](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=2472s) · 本段原话**：We stand in the gap for America. Father we stand in the gap for this great nation. Father we call on the blood of the covenant. Oh father there be a repenting Jesus Christ of Nazareth.
+- **[43:29](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=2609s) · 本段原话**：Hastau is his hessid. He's obligated to keep the covenants. And they went forth declaring before heaven, earth, sea, and skies, and all that in the midst that they were a covenant people with a creator. And we are a covenant people.
+- **[43:45](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=2625s) · 本段原话**：The United States of America is a covenant people. And we are coming to our destiny that God designed, not the enemy would try to infiltrate today.
 
 ### 完整英文 Transcript
 
@@ -603,7 +671,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:08 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:29](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=2729s) · 本段原话**：Brother Bill U Pale's astronaut has something he wants to share about America and Israel.
+- **[45:49](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=2749s) · 本段原话**：Well, praise God. I felt great breakthrough when we praying together today. I just want to say thank you for joining me. You know, I I I that that was very powerful. I could feel the presence of the Lord all over me when I was in my in praying with y'all. Um I'm encouraged. You know, I
+- **[46:25](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=2785s) · 本段原话**：his throne boldly and decree and declare and and and bring down strongholds, tearing down strongholds, tearing down things the devil's trying to set up and saying, "You ain't going to do it. You don't have a right to come in and try to mess up our land. You have You have done too much too much. Thus far and no
+- **[48:06](https://www.youtube.com/watch?v=WiYWjMpx3eE&t=2886s) · 本段原话**：You're not going to bear fruit in my life. You're not going to touch me in my house. As for me in my house, we're going to serve the Lord. And we're going to serve him with all our heart, mind, soul, and strength. Love the Lord your God with all your heart, all your mind,
 
 ### 完整英文 Transcript
 

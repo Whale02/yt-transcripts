@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 499；**章节数**: 6；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -16,10 +16,28 @@
 - [05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
 - [06. 20:00–21:52 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-06)
 
+## 全片概述与 Key Points
+
+全片共 6 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=0s) · 本段原话**：hey good morning family I'm excited to be with y'all today I have some things on my heart um first off I want to say thank you for almost 100,000 subscribers we are 3,000 people away from hitting 100,000 subs and I just want to tell you all thank you from the bottom of my
+- **[04:47](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=287s) · 他转述所听到的话**：earth towards his wife and to his children and to those that are around him that was the most important thing that he would ever operate in when I heard the angel talking I froze and I just got quiet and I thought about what he what the angel was saying what did he do with
+- **[08:27](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=507s) · 本段原话**：the earth how how did you treat other people not how did they treat you and how you respond you respond in Love Love Takes no account to have suffered wrong when people do you wrong love is not jealous it is not envious it doesn't brag it's not boastful so I'm going to have Diana read 1 Corinthians
+- **[12:23](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=743s) · 本段原话**：and if this is what I'm going to do for 2024 is meditate on love and get that down inside of me being rooted and grounded in love being rooted and grounded in the word getting that inside of me that I am stable in this because everything else just like you just heard don't matter it will all fade away but
+- **[16:02](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=962s) · 他进行祷告**：law and the curse of the law is Deuteronomy 28 and father we the whole bottom of the chapter 28 Deuteronomy 28 all those curses will come upon thee we're redeemed from it we don't have to have it and father I thank you Lord that we're redeemed from the curse of the law you paid the price for us to walk in
+- **[20:00](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=1200s) · 他表达判断**：the name of Jesus we we call this woman healed we call her whole and healed and well that Joyce has new kidneys in the name of Jesus we call her healed and whole Joyce Joyce I know you're believing for this and I believe with you we'll be your we'll be your three D
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=0s) · 本段原话**：hey good morning family I'm excited to be with y'all today I have some things on my heart um first off I want to say thank you for almost 100,000 subscribers we are 3,000 people away from hitting 100,000 subs and I just want to tell you all thank you from the bottom of my
+- **[00:57](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=57s) · 他进行祷告**：spread the word spread the gospel because every time you do it helps get us further in the algorithms with with YouTube and you know I'm going to say this and I'm not attacking any denomination or belief okay but I was driving down the road and the Lord spoke to me I like I do I pray a lot when I'm
+- **[01:58](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=118s) · 他表达判断**：uh following to this and I believe they're good people so I hope I don't want to offend anybody if you're Church latter latterday Saints and you're watching this I'm not trying to offend you but I'm trying to I'm trying to tell you some of your beliefs I personally believe is way off but the
+- **[03:11](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=191s) · 他转述所听到的话**：and some great uh uh spiritual Freedom coming to some folks in that denomination of people so and then another thing the other night I was I was praying and the Lord opened my ears up in the spirit realm and I heard two angels talking and it was a lot of personal things that were going on in my
 
 ### 完整英文 Transcript
 
@@ -129,7 +147,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:47](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=287s) · 他转述所听到的话**：earth towards his wife and to his children and to those that are around him that was the most important thing that he would ever operate in when I heard the angel talking I froze and I just got quiet and I thought about what he what the angel was saying what did he do with
+- **[05:11](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=311s) · 他转述所听到的话**：love what did he do with love and I I told my wife uh I I woke up the next day and I said hey honey I said this is what I heard two angels talking about last night and she said Brandon my favorite passage of scripture even growing up as as a teenager was uh what
+- **[06:36](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=396s) · 本段原话**：love is love is not uh bragging it does not boast it does not it it does not take account to a suffered wrong it does all things and and and it's beautiful everything that it's saying in 1 Corinthians 13 just reading them all reading over reading over I've read it over and over and over
+- **[07:34](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=454s) · 他表达判断**：just real what did you do with love it it the the when I heard the angel say that it pierced me it pierced me it still pierces me because I think about how I I I lack so much in that nothing else matters prophecy just like she was talking about
 
 ### 完整英文 Transcript
 
@@ -229,7 +254,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:27](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=507s) · 本段原话**：the earth how how did you treat other people not how did they treat you and how you respond you respond in Love Love Takes no account to have suffered wrong when people do you wrong love is not jealous it is not envious it doesn't brag it's not boastful so I'm going to have Diana read 1 Corinthians
+- **[08:53](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=533s) · 本段原话**：13 because bottom line is if we're not practicing this right here prophecy any of this stuff it doesn't matter if we are not walking in the love of God with people treating with people respect honoring them doing this verse that she's fixing her read to you you can go ahead hun you read it though I speak
+- **[09:36](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=576s) · 本段原话**：all my goods to feed the poor and though I give my body to be burned but have not love it profits me nothing love suffers long and is kind love does not envy love does not parade itself it is not puffed up does not behave rudely does not seek its own is not provoked think thinks no
+- **[11:12](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=672s) · 他表达判断**：it's about walking in love and faith works by love and perfect love casteth out all fear for fear has torment and he that is he that is in fear is not made perfect in love I believe that's 1 John 4:18 I'm just I'm just I I was just shaking after hearing that because I I
 
 ### 完整英文 Transcript
 
@@ -319,7 +351,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:23](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=743s) · 本段原话**：and if this is what I'm going to do for 2024 is meditate on love and get that down inside of me being rooted and grounded in love being rooted and grounded in the word getting that inside of me that I am stable in this because everything else just like you just heard don't matter it will all fade away but
+- **[13:40](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=820s) · 他表达判断**：people you know like I said I believe they're they're they're a cultic there's some stuff going on there and God's going to set them free and God has a plan for them and you know it may sound that may sound harsh and you say well that's not walk in Love no love love
+- **[15:13](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=913s) · 他表达判断**：Father right now we ask in your son's name healing belongs to your children it is the children's bread and I believe with all my heart as a covenant air with you Lord that you said by your your stripes we are healed we don't have to have sickness and disease in our lives anymore from the top of our head to the
+- **[15:37](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=937s) · 本段原话**：soues of our feet from from the greatest of things that we're believing for all the way down to maybe a toenail that might be hurt you paid the price for us that we don't have to have sickness and disease in our bodies from cancers to diabetes to heart disease to whatever it does not matter you said Galatians 3:13
 
 ### 完整英文 Transcript
 
@@ -422,7 +461,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:02](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=962s) · 他进行祷告**：law and the curse of the law is Deuteronomy 28 and father we the whole bottom of the chapter 28 Deuteronomy 28 all those curses will come upon thee we're redeemed from it we don't have to have it and father I thank you Lord that we're redeemed from the curse of the law you paid the price for us to walk in
+- **[16:25](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=985s) · 他表达判断**：Divine health and I believe I receive right now in the name of Jesus from the top of my head to the souls of my feet healing and wholeness and deliverance in the name of Jesus father we thank you Lord that every single person that is represented here watching this that they're touched from the everything they
+- **[18:24](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=1104s) · 他进行祷告**：that you've delivered them from Financial bondage Financial lack Financial not enough and barely getting by we thank you Lord they have more than enough father to be able to do things and be able to help other people around them not just to hoard upon thems but to be an a funnel that that the that the
+- **[19:25](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=1165s) · 本段原话**：Jesus name we we give you all all the glory honor and praise Diane and I we believe this we believe it and we call these people delivered every single one we just want to say thank you for the for the gifts for the blessings for all the for being kind to my family we we
 
 ### 完整英文 Transcript
 
@@ -525,7 +571,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–21:52 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=1200s) · 他表达判断**：the name of Jesus we we call this woman healed we call her whole and healed and well that Joyce has new kidneys in the name of Jesus we call her healed and whole Joyce Joyce I know you're believing for this and I believe with you we'll be your we'll be your three D
+- **[20:20](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=1220s) · 他表达判断**：and I believe we believe in Creative Miracles that Jesus Christ is the same yesterday today and forever and today is Joyce's day she's going to get her healing today we call it done no more more torment of these kidney problems father I thank you Lord for that everything that she needs she is whole
+- **[21:21](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=1281s) · 他表达判断**：something different about them we want to be like the Jesus in them because we're we're we're shining like Jesus so that's what we have for you today we just believe for you we believe for your manifestations Diane and I believe in for you we love you we pray for you and we just say put a smile on your face and
+- **[21:41](https://www.youtube.com/watch?v=RCxgEuKAZVU&t=1301s) · 本段原话**：a song in your heart Jesus loves you so much and we love you and we will see you next time you all have a wonderful day today be blessed and have a great one byebye
 
 ### 完整英文 Transcript
 

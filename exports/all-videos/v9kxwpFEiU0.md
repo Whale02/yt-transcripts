@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 904；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 - [10. 36:00–38:13 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=0s) · 他表达判断**：hey good morning family how are youall doing today I have some things on my heart to talk to you'all about uh first off I just want to say thank you for all the people who are the likes the subscribes all of it you are such a blessing to us I mean I think my channel
+- **[08:01](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=481s) · 本段原话**：what that's where I'm going to have that's where I have to stay maintain an atmosphere of love because that's the greater glory if you want to walk in the greater glory if you want to walk in the presence of the Lord God is love it's not what he does it's not it it's it's it's who he
+- **[16:23](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=983s) · 本段原话**：and and and diamonds and things on it okay but it was it was it was like remember I told you I went to the throne room with the father and I was the Lord showed me his throne it was he tried to mimic and mock the Lord's throne but I told you living water was flowing from
+- **[20:02](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1202s) · 本段原话**：what it sound like it sounded like Michael Jackson and Thriller and the whole time I want to have my son now he's going to play this that laughing he's laughing at me and I'm praying in the spirit and he's laughing and he's laughing he's praying in the spirit and I said in the name of Jesus get out of
+- **[28:32](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1712s) · 本段原话**：silly God God knows your your future more than you know your past and you can't for you can't you can't pull a fast one over come on now but it's um it's interesting I'm just trying to tell you all this stuff you all need to know this it's important some of the things I'm trying to tell you all so
+- **[36:01](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=2161s) · 他进行祷告**：than he that is in the world A thousand shall fall at your side and 10,000 at your right hand but nothing shall come nigh us I thank you Father that we submit oursel therefore unto God we resist the devil and he will flee from us in Jesus name and father I thank you
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=0s) · 他表达判断**：hey good morning family how are youall doing today I have some things on my heart to talk to you'all about uh first off I just want to say thank you for all the people who are the likes the subscribes all of it you are such a blessing to us I mean I think my channel
+- **[01:35](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=95s) · 本段原话**：wanting the world system to acknowledge you fame money success all that you're in trouble people need to understand that this life is a vapor and we all we all see that and I feel like the older I get you know the the time see seems to be going faster and faster but one night I was praying and the Lord
+- **[02:21](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=141s) · 他进行祷告**：the earth the Bible says that he that SWS in secret will will reward be rewarded openly he that pray the B even Jesus said praying in secret giv in secret doing things without having to have Praise on this Earth basically is what I'm trying to talk about voling tearing at the church or like cleaning a bathroom just because
+- **[03:36](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=216s) · 本段原话**：you know I gave that person this I gave that you got your reward right there you're not getting nothing on the other side I'm just telling you when we step over into that thousand years you are going to be shocked when you see who's first and who's last and people have no idea the the the arrogance that they
 
 ### 完整英文 Transcript
 
@@ -122,7 +140,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:42](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=282s) · 本段原话**：I'm going back to this when you get to the other side and and you you did all these things unto the Lord versus you did it for the praise of man or you did it because of wrong motive I'm telling you the Lord showed me he said the the the everything is based out of seed time
+- **[06:28](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=388s) · 本段原话**：Internet are you you going to respond to that and I Say No Love Takes no account of a suffered wrong no matter how bad somebody runs you down you don't go back and attack out of out of out of anything you know what they have their opinion they're entitled to it but I don't have
+- **[07:03](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=423s) · 本段原话**：like a pastor takes care of his church he don't allow people to come in and just vomit all over the pl the the aisles and the and the stage so I'm not going to allow people come and vomit in here so if you're rude I erase it but my son does I don't have time to read all
+- **[07:18](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=438s) · 他进行祷告**：that trash but I but I'm going to tell you this my job is to maintain Love Love Takes no account to have suffered wrong regardless of how somebody's talking bad about you and running you down on another Channel or something else the Bible says pray for those that that come against you pray for them pray pray pray
 
 ### 完整英文 Transcript
 
@@ -224,7 +249,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=481s) · 本段原话**：what that's where I'm going to have that's where I have to stay maintain an atmosphere of love because that's the greater glory if you want to walk in the greater glory if you want to walk in the presence of the Lord God is love it's not what he does it's not it it's it's it's who he
+- **[09:45](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=585s) · 本段原话**：important because people need to know some things like this okay so one night I was just I was asleep and I was W woken up in the middle of the night about 3 3:00 in the morning with Satan standing right in front of my bed and at this time I'm going to go into detail and I I
+- **[10:10](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=610s) · 他表达判断**：never do this because like I said he's not worthy of it he is he is a piece of trash but people under need to understand more in detail about things you know because I because I think a lot of times it doesn't the the the church needs to know but the body of Christ is real ignorant
+- **[11:14](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=674s) · 本段原话**：very draw it draws you in his eyes were as black as onx the blackest most evil eyes I've ever seen it it it would it was like it was it was just pure evil his eyes but his face and his voice his voice sounded like music this is very interesting his pitch of his voice was
 
 ### 完整英文 Transcript
 
@@ -321,7 +353,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:02](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=722s) · 他转述所听到的话**：picture it sounds like a symphony because it didn't sound like musical instruments playing it carried Perfect Pitch the way it hit my ears when I heard it but it it was cuz it was soothing the way he said it okay but his clothes was flowing and it almost looked like he was on like one of those
+- **[14:16](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=856s) · 他描述所见**：come with a message for you he said I'm going to offer you something and at this time I'm just Frozen but I'm I'm not knowing what to do and this is what I think's interesting I see you know and a lot of people I I could go so so so many different places with this when you're
+- **[14:53](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=893s) · 他描述所见**：okay and so I so just remember this part because I'm going to go back back to it I see this vision of all this and he says I want to I'm going to offer you anything and everything if you bow your knee to me and you worship me he said this to me he said I will give you your
+- **[15:12](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=912s) · 他描述所见**：heart's desires of everything and anything you ever wanted and he showed me and I could see cars Ferraris Lamborghinis H massive houses on the ocean all this stuff piles of cash I could see piles of cash and it was all in this Vision you showed me all this wealth a yacht this massive Yachts it
 
 ### 完整英文 Transcript
 
@@ -418,7 +457,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、物资、能源与供应链展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:23](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=983s) · 本段原话**：and and and diamonds and things on it okay but it was it was it was like remember I told you I went to the throne room with the father and I was the Lord showed me his throne it was he tried to mimic and mock the Lord's throne but I told you living water was flowing from
+- **[17:33](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1053s) · 本段原话**：front I'll never forget there was at the front Okay so it opened up and it was all open and then there was these two black looking uh it looked like marble it looked like marble because it was like the Roman you know like the Roman Coliseum the way that was all designed and it was all like it's like it's all
+- **[18:40](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1120s) · 本段原话**：in the earth and all I could do at this time whenever he's offering me this I SP spoke out loud and I said I will never bow my knee to you and I will never uh give my heart over to you and what you're offering there's nothing that you could offer me that I would ever want
+- **[19:02](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1142s) · 本段原话**：that's I I was I I came up out and I was so angry at this this moment because I'm frozen in fear and I just started and and I and there's a lot of you that don't believe in the baptism of the Holy Spirit and speaking of every T in other tongues but I do believe it and I I
 
 ### 完整英文 Transcript
 
@@ -515,7 +561,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:02](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1202s) · 本段原话**：what it sound like it sounded like Michael Jackson and Thriller and the whole time I want to have my son now he's going to play this that laughing he's laughing at me and I'm praying in the spirit and he's laughing and he's laughing he's praying in the spirit and I said in the name of Jesus get out of
+- **[21:41](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1301s) · 他描述所见**：entertain it I I but this is where I I thought was interesting and where this is where I'm going next okay so how do you know when the Devil comes and gives you a vision because people say how the devil's giving him Visions that's why I brought this up the devil's giving you these things
+- **[22:02](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1322s) · 他描述所见**：he's speaking he's he's a messenger of the Devil he's not a prophet of God the devil's coming and giving all these Vision to you I've seen that side I've seen it whenever the Devil comes and gives something and you know how you know the difference between the Lord and the devil you can get snared very easily by
+- **[23:36](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1416s) · 他表达判断**：River of Praise and Worship and you start seeking the father and you're praying and you're speaking in tongues and you're seeking his face and you're and he starts showing you things and you start you start walking in your gifting but that's how you know I believe it with all my heart that's how I do it and
 
 ### 完整英文 Transcript
 
@@ -630,7 +683,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1440s) · 本段原话**：tongues and you get in there and worship and you get in the Bible and then you say father show me scriptures to back up what I'm seeing show me things that you're that you're speaking give me a a scripture to back up because I not going to get snared by some kind of devil
+- **[24:35](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1475s) · 本段原话**：or not and if it don't line up you're going to and I'm tell you this you'll have peace that passes understanding you know it the Bible says the the the Sheep will know the shepherd's voice and a stranger's voice he'll not follow but I'm telling you when you're hearing the devil there's torment because fear has
+- **[26:25](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1585s) · 本段原话**：praise from him don't take no glory always know that we have this treasure and Earth and vessels that the Excellency of the Power Mate would be known of him and not of me I'm going to tell you all that's why I that's why I keep myself I I have this treasure I have this Treasure of Jesus in this
+- **[27:21](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1641s) · 本段原话**：to become like God he wanted to be most powerful and he fell like lightning I just always know that you never touch God's glory uh of what belongs to him always keep yourself humble before him and in due time he will exalt you but it will but he always keep you always keep
 
 ### 完整英文 Transcript
 
@@ -739,7 +799,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:32](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1712s) · 本段原话**：silly God God knows your your future more than you know your past and you can't for you can't you can't pull a fast one over come on now but it's um it's interesting I'm just trying to tell you all this stuff you all need to know this it's important some of the things I'm trying to tell you all so
+- **[29:32](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1772s) · 本段原话**：and say listen don't go this way and he'll he's trying to really protect you there's things there they're sent to protect us but they're not there to hang out with you and to be your friend so don't be going around saying I'm going to hang out with my angel today we're going to go talking and stuff because
+- **[29:47](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1787s) · 本段原话**：I'm telling you you get swayed you'll get snared by a familiar Spirit angels are there on assignment to protect you I commissioned my angels I said angels of the Lord I thank you you you are protecting us and they are watching over us and I commission them from the north the south east the West to protect our home today
+- **[30:50](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1850s) · 本段原话**：that's not confusing was that confusing yeah just don't talk to angels talk to the Holy Spirit like you said yeah yes talk to the holy Spirit don't talk to angels so it's it's it's going to be that hard but some people be talking about that kind of stuff and I go hold on a minute
 
 ### 完整英文 Transcript
 
@@ -858,7 +925,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:02](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1922s) · 本段原话**：heart that God's given his angels Char to keep charge over protect us and and and um but it's not to be like hanging out like we hey buddy what's up you know what I'm saying so I hope that I hope that blessed you all today that's kind of a Down a kind of a different road but
+- **[32:58](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=1978s) · 他表达判断**：believing for in 2024 this is not over we've got a half a year left it's time and he said Brandon tell my people to believe for bigger believe bigger in 2024 believe that you can have exceedingly abundantly above all that you dare ask or think I believe with all my heart that the the better days of
+- **[33:26](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=2006s) · 他描述所见**：2024 the wealth of The Sinner I saw it again I saw a supernatural Harvest of of the wealth of the sinner laid up for the righteous still yet to come this year there's still something Supernatural happening I'm telling you all people say well you believe a crash is coming not before Financial blessings for the body
+- **[34:04](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=2044s) · 他描述所见**：care of his kids and that he's going to provide for us with the supernatural Harvest before I see all we see all the drama because he's not going to allow his kid the he he said I'll never seen the righteous forsaken or his seed begging bread and I believe with all my heart God's going to take care of his
 
 ### 完整英文 Transcript
 
@@ -964,7 +1038,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–38:13 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:01](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=2161s) · 他进行祷告**：than he that is in the world A thousand shall fall at your side and 10,000 at your right hand but nothing shall come nigh us I thank you Father that we submit oursel therefore unto God we resist the devil and he will flee from us in Jesus name and father I thank you
+- **[36:59](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=2219s) · 本段原话**：Lord that we we are blessing the city and the field coming in and going out and this is a good year that 2024 is going to be a year that we SAR and we go even higher with you and that father that this still half a year left and we give you praise for it all of August
+- **[37:19](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=2239s) · 他进行祷告**：September October November and December five months that's a lot you can do a lot in five months so Lord we give you praise and glory for it today and we thank you Lord that you died on the cross and you Rose again on the third day and you made it where we don't have to go to hell that father
+- **[37:58](https://www.youtube.com/watch?v=v9kxwpFEiU0&t=2278s) · 本段原话**：already subscribed and uh thank you for sticking around I appreciate it well we just want to say uh put a smile on your face and a song in your heart Jesus loves you so much and we love you and we will see you all next time God bless you all and have a wonderful day byebye
 
 ### 完整英文 Transcript
 

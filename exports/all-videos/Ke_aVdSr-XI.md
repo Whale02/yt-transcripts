@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 553；**章节数**: 6；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -16,10 +16,28 @@
 - [05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-05)
 - [06. 20:00–23:49 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
 
+## 全片概述与 Key Points
+
+全片共 6 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=0s) · 他描述所见**：hey good morning family um I have some things on my heart today um you know I as a prophetic uh intercessor I I see a lot you know the Lord we have we have a real tight relationship about a lot of things you know and and I've noticed this this is something that you know
+- **[04:34](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=274s) · 本段原话**：way and it took me back because of the way God spoke so highly of this individual and I was like Wow and it made me examine myself because I started looking as like a mirror if I am able to prophetically when I am standing before that person and I'm either going to do business with
+- **[08:01](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=481s) · 本段原话**：party are are their parents are are real loose in the way they raise their children don't allow them to go over there because they're a mixed bag does God have an opinion about you yes he does and what things do you think you're hiding from people on a day-to-day basis that you think you're
+- **[12:00](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=720s) · 本段原话**：intimacy where what does he say about you what is what is his heart towards you what's the hidden things that the added discernment I keep saying it over and over again but I want to drive it home it's so important because it whenever he examines lets me examine that person in the spirit and he's warning me about
+- **[16:00](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=960s) · 他描述所见**：he shows me colors colors are real big in the spirit realm and people people get all inoc where's that in the word and they get all mad at me I'm telling you when you get when you get close to God he shows you the a big secret things he'll show you and so I see colors about things and
+- **[20:20](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=1220s) · 本段原话**：are represented here today I bless them in the name of Jesus and I thank you Father for every single one of them Father father may this message today Inspire them to grow and become more intimate with you help them Father to know you God create in them a clean heart create in them Father that they would they would
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=0s) · 他描述所见**：hey good morning family um I have some things on my heart today um you know I as a prophetic uh intercessor I I see a lot you know the Lord we have we have a real tight relationship about a lot of things you know and and I've noticed this this is something that you know
+- **[01:29](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=89s) · 本段原话**：want to know everybody's business dogs are just friends they're friendly but sometimes dogs are are are are are aggressive and you got to be cautious what kind of dog you're around you know just being real okay that's I don't know if that was a bad illustration but I'm just going to go with it God when I'm on the phone I can
+- **[02:28](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=148s) · 本段原话**：husband and tell them things that you you wouldn't tell anybody else because you're a friend to them you have relationship with them so I I'm going to make this a two-part thing but I'm I don't want to touch too much on the Friendship part but of Being A Friend Of God so what I'm trying to say is
+- **[03:25](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=205s) · 本段原话**：opinion about everyone one time I one time I'll say it like this one time I was really hurt by talking to a pastor and a pastor I talked to before uh hurt me really bad and the Lord came to me and apologized for how that individual treated me and he said Brandon I I I
 
 ### 完整英文 Transcript
 
@@ -126,7 +144,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:34](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=274s) · 本段原话**：way and it took me back because of the way God spoke so highly of this individual and I was like Wow and it made me examine myself because I started looking as like a mirror if I am able to prophetically when I am standing before that person and I'm either going to do business with
+- **[05:21](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=321s) · 本段原话**：you go green means go buddy go or red means stop don't do that don't do this Brandon they're they'll end up ripping you off don't do that buddy stay away from them you can go certain ways you can go in certain areas with this relationship but it does not ever go to this level right here don't let them in
+- **[06:24](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=384s) · 本段原话**：dating but you can't fool God he sees the depth of who you are all the way from the beginning when you were born created in your mother's womb all the way to the day you're going to die he sees it all he knows who you are who are you before him yes we're
+- **[06:42](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=402s) · 本段原话**：underneath the blood yes we're our sins are washed away but there's character issues with people that they don't want to take care of and deep down inside if you were you were not that I'm a judge but if you were to stand before me or stand before another prophetic person what would God warn them about
 
 ### 完整英文 Transcript
 
@@ -229,7 +254,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=481s) · 本段原话**：party are are their parents are are real loose in the way they raise their children don't allow them to go over there because they're a mixed bag does God have an opinion about you yes he does and what things do you think you're hiding from people on a day-to-day basis that you think you're
+- **[08:43](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=523s) · 本段原话**：Brandon's a good one do you do you see what I'm trying to say it's a serious what does God say about you and I just wanted to come on today and tell you examine your heart because there's a lot of times it's not about he's gossiping and he's trying to back by but he always protects those he loves
+- **[09:44](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=584s) · 他进行祷告**：go and pray for that person right now they're hurting they're wanting to hurt their s physically they're wanting to do all this stuff would you obey him will you quick to do these things are you a gossip are you a complainer Are you a backbiter do you talk bad about people all the time and and and ridicule people
+- **[10:57](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=657s) · 本段原话**：I I need some spiritual backing here where are you at so you haven't spent enough time in prayer today Brandon where where where are you at CU a lot of you know it's always it's me I'm the one that's a fault never God I'm the I'm the one with the issue not him
 
 ### 完整英文 Transcript
 
@@ -330,7 +362,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=720s) · 本段原话**：intimacy where what does he say about you what is what is his heart towards you what's the hidden things that the added discernment I keep saying it over and over again but I want to drive it home it's so important because it whenever he examines lets me examine that person in the spirit and he's warning me about
+- **[13:07](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=787s) · 本段原话**：hidden things that people don't realize uh that nobody else can see you know a lot of times I I I I you know it's like I I tell it like this part of my gifting you know he'll reveal to me uh hidden things I I part of my gifting I can I can see
+- **[14:13](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=853s) · 本段原话**：even calling you today but you to be a light to them be careful with this watch over this and caution but I always go with the love of God knowing what he's warned me about instant L they don't know that I know what they know and even like this I tell you like this so he'll
+- **[15:11](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=911s) · 本段原话**：Spirit has a fragrance do you do there is there's it's like a body odor every single thing about him the the way is the the the way the the breath smells whenever he's having a hard day with his kids I can feel it agitated inside and I said father are you okay today he said
 
 ### 完整英文 Transcript
 
@@ -434,7 +473,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=960s) · 他描述所见**：he shows me colors colors are real big in the spirit realm and people people get all inoc where's that in the word and they get all mad at me I'm telling you when you get when you get close to God he shows you the a big secret things he'll show you and so I see colors about things and
+- **[16:20](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=980s) · 他描述所见**：and and and a lot of times colors are warnings I see blacks around people outlines purples pinks different things things and I know that it's stuff that they're dealing with it's it's prayer cues and I and I and and it's about atmospheres I can go into a church and the Lord will warn me about uh what's
+- **[18:12](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=1092s) · 本段原话**：place is my my children and my wife that's my safe place I feel uh around other people like I said atmospheres going to dinner doing things I just I don't do it I just don't do it don't invite me because I do not want to offend you usually because I don't want to be rude to people but I just H 99%
+- **[19:10](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=1150s) · 本段原话**：relationship with you it's all about falling in love with Jesus it's all about having intimacy with the Holy Spirit if anything El doesn't matter finances Investments people all this other stuff God it's about loving your neighbor as you and and and and telling them about Jesus it's about uh showing love to people I get that but all into
 
 ### 完整英文 Transcript
 
@@ -537,7 +583,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:49 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:20](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=1220s) · 本段原话**：are represented here today I bless them in the name of Jesus and I thank you Father for every single one of them Father father may this message today Inspire them to grow and become more intimate with you help them Father to know you God create in them a clean heart create in them Father that they would they would
+- **[21:05](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=1265s) · 本段原话**：well because of Galatians 3:13 says Christ redeemed us from the curse of the law and Jesus Christ is the same yesterday today and forever you're still healing the sick today just like you did 2,000 years ago so I call healing and wholeness and Wellness over every single person here right now in the name of Jesus delivered
+- **[22:36](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=1356s) · 本段原话**：name today's a new day amen well I appreciate you all watching if you could please click that like button for me if you could subscribe if you're not already subscribed uh click the notification Bell I got me a new no notification Bell click that notific if ation Bell I really would appreciate it it really
+- **[23:01](https://www.youtube.com/watch?v=Ke_aVdSr-XI&t=1381s) · 本段原话**：would bless us we are getting the gospel out throughout the whole world literally every time you all do that click that notification Bell getting those likes out there doing all that commenting down below being nice I just want to say thank you because truly we are getting people born again and it's all that's
 
 ### 完整英文 Transcript
 

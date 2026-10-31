@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 254；**章节数**: 3；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -13,10 +13,25 @@
 - [02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-02)
 - [03. 08:00–10:35 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-03)
 
+## 全片概述与 Key Points
+
+全片共 3 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=53k9Cj8j4ao&t=0s) · 本段原话**：hey good morning family I'm excited to be with y'all again today you know um I'm going to bring on a challenge is what I'm thinking you know let's do something fun together you know um it doesn't always have to be serious when I come on here preaching and whatever but this is just something that is on my
+- **[04:11](https://www.youtube.com/watch?v=53k9Cj8j4ao&t=251s) · 本段原话**：single week and I weighed in and they they kept on me well I didn't want to pay the the $1,500 again to do the program so I I went away from it and I and and I gained all that weight back over a course of a year uh or so just eating trash again you know and and
+- **[08:01](https://www.youtube.com/watch?v=53k9Cj8j4ao&t=481s) · 本段原话**：blood of the lamb and by the word of Our Testimony and I thank you Father that there will be a great turnaround of event in each one of our lives that when we look back in the next year we're going to say look it What the Lord Has Done and we give you all the glory honor
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=53k9Cj8j4ao&t=0s) · 本段原话**：hey good morning family I'm excited to be with y'all again today you know um I'm going to bring on a challenge is what I'm thinking you know let's do something fun together you know um it doesn't always have to be serious when I come on here preaching and whatever but this is just something that is on my
+- **[01:47](https://www.youtube.com/watch?v=53k9Cj8j4ao&t=107s) · 本段原话**：we'll we'll see where we are then but I'm but I'm believing God in 2024 I'm going to do the things that it needs to what I need to do to achieve that goal now I know that it's not going to just fall off of me by eating the way I still uh did so I'm going to change it
+- **[02:42](https://www.youtube.com/watch?v=53k9Cj8j4ao&t=162s) · 本段原话**：out cutting out the the treats and I'm going to really uh no no sugary sodas nothing you know just really really fine-tune this thing to exercise take care of my heart take care of my body and and focus on being a healthier me in 2024 and you know what we can come on
+- **[03:18](https://www.youtube.com/watch?v=53k9Cj8j4ao&t=198s) · 本段原话**：me honey I love you but it would be good if you lost 100 pounds just for your health and um so I'm I'm just like hey I'm going to do this but not only lose it I'm going to keep it off so I don't want to find it ever again I don't want
 
 ### 完整英文 Transcript
 
@@ -121,7 +136,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:11](https://www.youtube.com/watch?v=53k9Cj8j4ao&t=251s) · 本段原话**：single week and I weighed in and they they kept on me well I didn't want to pay the the $1,500 again to do the program so I I went away from it and I and and I gained all that weight back over a course of a year uh or so just eating trash again you know and and
+- **[05:58](https://www.youtube.com/watch?v=53k9Cj8j4ao&t=358s) · 本段原话**：start taking care of yourself especially from hereditary crap you know that your family's dealt with for years you just got to go no that's not me I'm not going home early you know I'm going to stick around God has a plan for me I have things I need to do and so I'm not going
+- **[06:13](https://www.youtube.com/watch?v=53k9Cj8j4ao&t=373s) · 本段原话**：to let weight stick in my way anymore it's going to be something I'm believe God no more strongholds so what we're going to do I'm finding scriptures find scriptures that I have self-control you know God has not given me a spirit of fear but a power of love and of a sound mind I have a sound mind he gives you
+- **[07:33](https://www.youtube.com/watch?v=53k9Cj8j4ao&t=453s) · 本段原话**：Lord that we use f food as fuel and it's a it maintains us to take care of it's not for Comfort it doesn't for enjoyment I'm looking at it father as a a place of this is just to keep me alive to sustain my Ministry and to do what God's called me to do you know that's just it's a
 
 ### 完整英文 Transcript
 
@@ -232,7 +254,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–10:35 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=53k9Cj8j4ao&t=481s) · 本段原话**：blood of the lamb and by the word of Our Testimony and I thank you Father that there will be a great turnaround of event in each one of our lives that when we look back in the next year we're going to say look it What the Lord Has Done and we give you all the glory honor
+- **[09:50](https://www.youtube.com/watch?v=53k9Cj8j4ao&t=590s) · 本段原话**：I hope that was encouraging to you'all today if you like it put a thumbs up on it click that notification Bell subscribe let's be what's what it helps me at the algorithms y'all when you do that you're getting the gospel and videos like this all out throughout the world it helps people start clicking it
+- **[10:09](https://www.youtube.com/watch?v=53k9Cj8j4ao&t=609s) · 他表达判断**：and I and I start getting heathens looking at this stuff that are not born again they're they they need Jesus they need Jesus and you are helping them find Jesus I believe with all my heart when they watch my videos that Jesus loves them and that's going to set them free from whatever they need well put a smile
+- **[10:26](https://www.youtube.com/watch?v=53k9Cj8j4ao&t=626s) · 本段原话**：on your face and a song in your heart Jesus loves you so much and we love you and we will see you next time yall have a blessed day bye-bye
 
 ### 完整英文 Transcript
 

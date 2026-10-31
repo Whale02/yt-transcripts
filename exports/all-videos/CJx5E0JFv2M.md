@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 697；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-07)
 - [08. 28:00–30:18 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:40](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=40s) · 他描述所见**：praying and I and he opened my eyes up in the realm of the spirit whenever I was praying and he he said Brandon I'm bringing the cure for cancer and I saw a man in a lab coat and he was pouring some stuff in this this this jar and all of the sudden he got uh like holy ghost
+- **[04:00](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=240s) · 他描述所见**：they're overcoming and the cells in their body but it's just like it's it's designed perfectly for it but it's divine from God does that make sense what I'm trying to tell you all I I'm doing the best I can with this but I'm but but what I saw in the spirit was is
+- **[12:20](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=740s) · 他描述所见**：with their finances and with what they're doing but I'm telling you dad's about ready to spank some hinies you know what I'm saying he's going to take his big spiritual stick out and and and and spank some rears and so um I saw a man that uh I pray about a lot and he's
+- **[16:02](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=962s) · 本段原话**：their uh judgment why do they keep getting away with all this Darkness they're not ladies and gentlemen I'm telling you payday is coming and it's going to be a bad day bad Payday for these people and they're going to wake up in hell and you and and if you're one of them and you're
+- **[25:50](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=1550s) · 本段原话**：night's sleep in a long time because you keep having these nightmares and and reoccurring bad dreams and from of Torment from things that have happened to you I call you delivered from that in the name of Jesus Holy Spirit go right where they are and deliver they you are delivered from the power with the power
+- **[28:01](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=1681s) · 本段原话**：no more I plead the blood over you and you're plead the those days are done those days are done you're not going to be tormented by that no more that's breaking off of you right now I I'm I'm I'm happy for you but I'm telling you you got authority over that devil you put a you put a bloodline over
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:40](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=40s) · 他描述所见**：praying and I and he opened my eyes up in the realm of the spirit whenever I was praying and he he said Brandon I'm bringing the cure for cancer and I saw a man in a lab coat and he was pouring some stuff in this this this jar and all of the sudden he got uh like holy ghost
+- **[01:32](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=92s) · 本段原话**：and he warned me and he said to me he said but Brandon I'm bringing this to pass because people have cried out and to me for for for a long time and they have been believing for their relatives people that have went home too early this is this has been a plague on
+- **[01:51](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=111s) · 他转述所听到的话**：humanity and the Lord said Brandon I'm bringing a cure for this and he said I'm going to put my my foot on this and he said it will become like like plagues of the past that were completely eradicated out of um basically we don't hear about anymore like leprosy it's not very it's not very
+- **[02:57](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=177s) · 本段原话**：have it will automatically uh it will just leave them okay and it didn't and the way he presented it to me when I was praying was it didn't matter what kind of cancer it was it was that it would be gone and it wouldn't be a long drawn out process it would just instantaneously
 
 ### 完整英文 Transcript
 
@@ -117,7 +135,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=240s) · 他描述所见**：they're overcoming and the cells in their body but it's just like it's it's designed perfectly for it but it's divine from God does that make sense what I'm trying to tell you all I I'm doing the best I can with this but I'm but but what I saw in the spirit was is
+- **[07:02](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=422s) · 他描述所见**：and I saw the company name I saw where it was located I'm praying over it still you can pray with me I'm not going to give that out yet but I'm praying because I because I don't want no demonic taxs trying to come against this because I believe uh that God's going to do the
+- **[07:20](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=440s) · 他描述所见**：what he said he would do he he's bringing this to pass I'm not going to be dumb and and tell tell everybody what I saw all the way because it's not wisdom but I'm going to tell you um the company does exist the company is uh working with supplements and doing things right now but they they I don't
+- **[07:40](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=460s) · 他描述所见**：even know if they they they know anything about it yet I don't know all I know is I hear things and I see in part I hear in part and I see sometimes years in advance there's been times whenever he has told me to pray for companies that didn't even exist yet that he
 
 ### 完整英文 Transcript
 
@@ -226,7 +251,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:51](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=531s) · 他描述所见**：their mission is and it's usually for health and wellness and stuff you know but and then and then I see other companies try to attack and and and lawsuits and everything else so the devil don't want people to be restored and in health okay he his mission is to kill steal and destroy but the Lord said
+- **[09:54](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=594s) · 本段原话**：Christ is about to do on this Earth with the last outpouring of a great Revival that's about to hit this nation around the world I'm telling you good days are coming blessed days are coming and I just want to encourage you you know there's another thing the Lord showed me and I'm going to and I want to give this
+- **[10:31](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=631s) · 他描述所见**：not happen that God wants to happen but he but but we all know the devil's defeated and we all know we have authority over the devil but we have to stand in that place of authority and tell him to get underneath our feet daily but I saw these things trying to come to pass now I told you
+- **[11:11](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=671s) · 他描述所见**：and it it was highlighted to me by the by the Holy Ghost warning me that the events are going to come to try to get people discouraged from gasoline and try to sway them to go to EVS okay because of gas prices going up again I saw gas prices going high I saw lines for um I
 
 ### 完整英文 Transcript
 
@@ -327,7 +359,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:20](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=740s) · 他描述所见**：with their finances and with what they're doing but I'm telling you dad's about ready to spank some hinies you know what I'm saying he's going to take his big spiritual stick out and and and and spank some rears and so um I saw a man that uh I pray about a lot and he's
+- **[13:14](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=794s) · 他描述所见**：and take his place he said but that man is judgment's coming and I saw him being dealt with and the Lord warned me about that and told me uh he said Brandon you judgment is is going going to hell for eternity separation from God for eternity true judgment and and I it was
+- **[14:53](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=893s) · 本段原话**：that he told us to do you've got good seed in the ground and you're going to start reaping a amazing Harvest off of this because the because the the Harvesters are coming with the sewers and they're going to catch up with each other and I'm telling you Supernatural increase is coming to your
+- **[15:31](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=931s) · 本段原话**：they've sowed from the perversion from sex trafficking from drugs to prostitution to all these things that they've inflicted on people these pimp bosses and all this stuff you know what I'm saying God said I'm bringing judgment on this stuff because seed time and harvest is going to accelerate so that's all that that right
 
 ### 完整英文 Transcript
 
@@ -432,7 +471,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:02](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=962s) · 本段原话**：their uh judgment why do they keep getting away with all this Darkness they're not ladies and gentlemen I'm telling you payday is coming and it's going to be a bad day bad Payday for these people and they're going to wake up in hell and you and and if you're one of them and you're
+- **[16:36](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=996s) · 本段原话**：he is faithful and just to forgive you of your sins and cleanse you from all unrighteousness so you better get your heart right before Jesus Christ right now because your time is running out Jesus is coming and he's coming back soon and I hope you all are getting your hearts ready it I've seen people that
+- **[17:14](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=1034s) · 本段原话**：from a man in Australia that was living was raised in a Christian home but an abusive home and I'm going to have him on the channel sometime soon but he long story short he died and went to hell and he saw all the things in hell and I'm going to have him on sometime and I want him to tell what
+- **[18:39](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=1119s) · 本段原话**：a false prophet and all all the drama and whatever but I don't care I'm going to keep telling you Jesus is coming and you better listen to me they mocked Noah and I'm telling you there was a day when whenever he he told them the rain was coming the floods were coming and that
 
 ### 完整英文 Transcript
 
@@ -536,7 +582,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:25](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=1225s) · 本段原话**：you get scriptures down inside of you on an hour toour basis they say Smith Wigglesworth used to carry a little a New Testament Bible in his pocket and every 15 minutes when he was walking around he would pull pull it out and read a couple of verses in that new testament that's how you do it you be
+- **[20:48](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=1248s) · 本段原话**：being filled with the Holy Ghost you've got to fill yourself up every as much as you can because we leak out we're in a very sinful world but you keep filling your eyes and filling your heart with the word of God and in that that's what's going to set you free from demonic spirits and we going to we can
+- **[21:45](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=1305s) · 他进行祷告**：heart to help folks out don't be just about you help people so that's what I have for you all today I I hope I hope that blessed you but I'm telling you great breakthroughs coming too it's not all doom and gloom now I'm going to pray for you all father I just thank you for
+- **[23:28](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=1408s) · 他描述所见**：the time I speak life into the womb right now in the name of Jesus and I call it healed and whole oh I just saw somebody fixing have a baby boy I saw somebody right now you're believing for a baby boy and you're going to get a baby boy in Jesus name I speak life over that womb I speak
 
 ### 完整英文 Transcript
 
@@ -635,7 +688,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:50](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=1550s) · 本段原话**：night's sleep in a long time because you keep having these nightmares and and reoccurring bad dreams and from of Torment from things that have happened to you I call you delivered from that in the name of Jesus Holy Spirit go right where they are and deliver they you are delivered from the power with the power
+- **[26:12](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=1572s) · 他转述所听到的话**：of the blood of Jesus over your mind and I say in the name of Jesus you are free no more I heard the spirit of the Lord say anoint your bed with oil anoint your home with oil this is a demonic spirit that has been sent to torment you anoint your forehead with oil and
+- **[27:34](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=1654s) · 本段原话**：the spirit realm this is like a little devil look like a little monkey you need to get it out of here but you got to anoint your head with oil I'm see I've seen it in the spirit realm and I'm telling you those days are done you're not going to be bound by that devil no
+- **[27:51](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=1671s) · 他描述所见**：more I'm angry for you because I saw what's messing with you now anoint your bed of oil and tell that devil get out of my house and don't let him bother you
 
 ### 完整英文 Transcript
 
@@ -736,7 +796,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–30:18 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:01](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=1681s) · 本段原话**：no more I plead the blood over you and you're plead the those days are done those days are done you're not going to be tormented by that no more that's breaking off of you right now I I'm I'm I'm happy for you but I'm telling you you got authority over that devil you put a you put a bloodline over
+- **[28:27](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=1707s) · 他描述所见**：your house put it over here o o over your bed post and over the foot so you a't torment me no more like I said find scriptures Jesus Loves You Jesus Loves You No More torment of PTSD anoint your mind of loyal to I see it put it over that that olive oil you
+- **[28:45](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=1725s) · 本段原话**：get it off of Amazon you get anointing oil from those places and just get it you don't have to be all super religious about it g Jesus knows your heart he knows your heart and what you're trying to do anoint your head oil and if my cup runneth over lord surely goodness and mercy will follow me all
+- **[29:49](https://www.youtube.com/watch?v=CJx5E0JFv2M&t=1789s) · 本段原话**：you all you are helping to get the gospel out and we are getting people saved throughout the whole world because of the this YouTube channel and I just want to say thank you for your support and how much you've helped us out we we really appreciate it it we if from the bottom of my hearts thank you well put a
 
 ### 完整英文 Transcript
 

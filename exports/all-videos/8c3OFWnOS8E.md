@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 811；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 - [09. 32:00–35:50 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:42](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=42s) · 他描述所见**：spirit and I saw so many ministers in the spirit and the Lord said Brandon they don't know what's coming a lot of them don't know what's coming because they've allowed the pressure from the people and the pride of life to clog their spiritual ears so you're not able to hear you're able to hear partially
+- **[08:00](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=480s) · 他描述所见**：you the Davids are coming I told you the new Davids are coming ladies and gentlemen because the Sauls have lost the anointing they let the mixture in and they allowed the enemy to let their ego get puffed up and I saw so many of them that that were that were that were behind the pulpit
+- **[12:02](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=722s) · 本段原话**：even I hear some ministers say oh it'll be 2040 2050 I'm telling you no man knows the day or the hour that Jesus Christ is coming but I have spoken to him I've seen him and he said I'm coming soon what does that mean I truly don't know all I know is that he says I'm
+- **[20:00](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1200s) · 本段原话**：devil tries to speak to you at in your mind the Lord will speak to you through your spirit and that's where you'll hear him he don't speak in your mind he speaks to your spirit so that's where you're going to receive it you're that still Small Voice in the sight of your spirit that tells you hey I love
+- **[24:13](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1453s) · 他描述所见**：but the Lord say I see it I see it there's a lot of you that try to pretend I'm just one of I'm just one that's just a public about it I'm just on here and being real with you about it you try to hide all those pains and all those things and when God come to you
+- **[32:01](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1921s) · 他表达判断**：the one who brings wholeness it's you you have that Shalom that peace that passes all understanding on the inside of every single one of us you're not a respector of person and what you do for one you'll do for a million I believe father that this is the time that we are the salt like never before and what's
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:42](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=42s) · 他描述所见**：spirit and I saw so many ministers in the spirit and the Lord said Brandon they don't know what's coming a lot of them don't know what's coming because they've allowed the pressure from the people and the pride of life to clog their spiritual ears so you're not able to hear you're able to hear partially
+- **[01:58](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=118s) · 他进行祷告**：you say no I'm going to pray against the road out I'm going to stop the road from being out with my prayer but the road is out and you're going to keep driving that way because you think you're going to pray against the road that's out and change it when God's just telling you
+- **[03:14](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=194s) · 他描述所见**：listening to him partially you got a partial ear over here but you're not go both ears you don't have both ears to him and I saw them getting a a message from the father but it was only at this level and he showed me the more people got bigger in ministries not never never
+- **[03:33](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=213s) · 本段原话**：going to name a name he said there their their reception intenna started to become not as in tune and he said they're not hearing me in the in in the in the higher in the greater levels in the throne room they're picking it up down here but they're not hearing me in the throne room and and if
 
 ### 完整英文 Transcript
 
@@ -124,7 +142,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=240s) · 本段原话**：you stop hearing me in the throne room he said Brandon you're you're going to get off not that you're not getting the you're not getting the whole picture it's like you you get a little bit of it's okay it's it's like this you see the The Horizon as a Watchman you can see the whole Horizon when you're up on
+- **[05:17](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=317s) · 本段原话**：first he said but I can only reveal it to the ones that are vertical keeping their eyes on me not allowing Fame and ego to get in the way because when you when you start thinking it's you the glove instead of the hand in the glove he's not able to use you like he was
+- **[06:22](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=382s) · 本段原话**：they started out right and I'll keep emphasizing this they started out right and the reason reason why they fall in adultery the reason why you're going to see a house of cards fall with a lot of these Ministries you're going to see a lot of cleaning of the house in 2025 2026 you're going to see a great uh
+- **[07:34](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=454s) · 本段原话**：greater and greater inside of him to the point that the anointing had departed off of him and he wanted the the prophet to walk with him so that they could pretend that he still had it and it had already the holy the Holy Spirit already that that that the the anointing that was on his life to rule as king had left
 
 ### 完整英文 Transcript
 
@@ -226,7 +251,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=480s) · 他描述所见**：you the Davids are coming I told you the new Davids are coming ladies and gentlemen because the Sauls have lost the anointing they let the mixture in and they allowed the enemy to let their ego get puffed up and I saw so many of them that that were that were that were behind the pulpit
+- **[08:22](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=502s) · 他进行祷告**：and they were hearing a little bit but it wasn't the whole message of what's coming and because of the ego because of the the fame because of the money because of so many things they lost their self in it and they forgot to stay vertical and we pray for every one of them we not we're not any better than
+- **[09:17](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=557s) · 本段原话**：that it's about him and me staying pliable and allowing the glove to be there for that hand the Holy Spirit to flow and make the glove work and as long as I keep my eyes on him as long as I take just like he said deflect the glory deflect the praise and bring it to the father I am just a
+- **[10:25](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=625s) · 他进行祷告**：highest and the donkeys in there and everybody said boy he's pray everybody's laying all day them Palm leaves down in my feet and the donkey's getting a big old head but he didn't have nothing to do with him it had everything to do with the one that was riding on his b i i I'm
 
 ### 完整英文 Transcript
 
@@ -325,7 +357,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:02](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=722s) · 本段原话**：even I hear some ministers say oh it'll be 2040 2050 I'm telling you no man knows the day or the hour that Jesus Christ is coming but I have spoken to him I've seen him and he said I'm coming soon what does that mean I truly don't know all I know is that he says I'm
+- **[12:45](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=765s) · 本段原话**：behind many of them are going to go to hell you must help me bring in my Harvest and in these times of staying vertical and sitting at his feet in the throne room and I'll go in there and he said B there's mixture today I need you to separate yourself and even more don't
+- **[14:39](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=879s) · 本段原话**：tell your neighbor to tell your friends that there's one last call and he doesn't want that any of you should perish the Lord spoke to me and he said to me Brandon the window for the internet of preaching the gospel very free is coming to a close soon and when the door closes it will be closed forever
+- **[15:23](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=923s) · 本段原话**：four years until the Rapture but he said this window of preaching on the internet with free freom of speech being able to just do what you want to telling people all around the world like we do right now he said that window's coming it's it's going to come to abrupt end and the
 
 ### 完整英文 Transcript
 
@@ -421,7 +460,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=961s) · 他转述所听到的话**：down I can't go in there and tell them about Jesus grieve me so but they said we will not allow that on YouTube right now China is allowing me to right now South Korea and Japan there's so many other nations that I'm trying so hard to get the gospel out to right now because the Lord told me he
+- **[17:19](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1039s) · 本段原话**：intimidation of of self of worried about what they're going to think about you I it was hard for me to come on the internet for years I I wrestled with this and finally I yielded and I said I will do it for you because of because of it was it was just very awkward talking
+- **[17:36](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1056s) · 他进行祷告**：to a camera for one and just worried about what people were going to think and I died to it and now the rest is history and I and I and I pray I pray with all my heart you're hearing me that Jesus is coming folks and I a voice of one who's crying in the wilderness
+- **[18:23](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1103s) · 本段原话**：visitations and the manifestations he'll do for you he's not saying your special one and I'm going to just visit you and I don't want to talk to anybody else he's said I want to love on them too I want to have a relationship with them too I want them to sit at my feet just
 
 ### 完整英文 Transcript
 
@@ -514,7 +560,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1200s) · 本段原话**：devil tries to speak to you at in your mind the Lord will speak to you through your spirit and that's where you'll hear him he don't speak in your mind he speaks to your spirit so that's where you're going to receive it you're that still Small Voice in the sight of your spirit that tells you hey I love
+- **[20:38](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1238s) · 本段原话**：side oh that hurts to touch it he asked my wife the other day do you trust me do you trust me concerning Megan you know my little girl has autism do you trust me he ask us hard questions all the time and ladies and gentlemen I have to be real with you whenever she she said that to me what he
+- **[20:58](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1258s) · 本段原话**：said to her I examined myself and I said do I fully trust him even with all the things I've got going on in in my life and I've seen so much but whenever you have a child with special needs and he's asking you to do more and she's still not verbal she's still going through all
+- **[22:38](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1358s) · 本段原话**：day and I don't give up on it but it just being real there's so much fakeness in the body of Christ you try to play this this this I'm all I've got everything together but there's some days you don't have everything together and I'm telling you I'm one of them and it hurts after 20 years and your daughter
 
 ### 完整英文 Transcript
 
@@ -610,7 +663,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:13](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1453s) · 他描述所见**：but the Lord say I see it I see it there's a lot of you that try to pretend I'm just one of I'm just one that's just a public about it I'm just on here and being real with you about it you try to hide all those pains and all those things and when God come to you
+- **[25:39](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1539s) · 本段原话**：said we're not we're not parking here we're going to put it in four-wheel drive and keep going here but I'm just being real with y'all today of the things that he's talking to me about there's many of y'all he said Brandon there's a lot of things that that are coming and the people aren't hearing
+- **[26:46](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1606s) · 他表达判断**：cleanse me of all unrighteousness now father I believe you're the Son of God I believe you died and you Rose again again on the third day Lord I make you my lord and personal savior today thank you Jesus that you've forgiven me and now I'm your son or your daughter I'm Yours
+- **[27:47](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1667s) · 他表达判断**：Bible believing church that teaches the word of God get baptized by water I believe getting baptized in the Holy Ghost with evidence of speaking in other tongues I'd say that too according to Acts chapter 2
 
 ### 完整英文 Transcript
 
@@ -714,7 +774,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:00](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1680s) · 本段原话**：get get on fire y'all go to go and volunteer do something tell somebody about what you've done today get excited about what you've done today because I'm telling you that you've made the best decision you've ever could have ever made it just happened and he's going to change you from the inside out well I'm
+- **[28:57](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1737s) · 他进行祷告**：he'll all night to you so that's it it it's pretty easy when it comes to that and you just walk it out you know well praise the Lord so we're going to pray right now for all you that U you feel like this was you that I've talked about today and ministered to
+- **[29:40](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1780s) · 他表达判断**：all joining up I believe you're here because of him not me and I'm thankful that every single one of you would want to go on the journey with us and we'll pray and we're going to we're going to bring in the word and we're going to bring prayer and we're going to tell you
+- **[31:00](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1860s) · 本段原话**：made created in us that clean heart we receive it by faith we're coming up higher with the fire that we clean out our spiritual ears and not have the mixture in there and that father when you speak we will hear you even on the hard things even on the hard things and we're not going to shy back away from it
 
 ### 完整英文 Transcript
 
@@ -821,7 +888,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:50 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:01](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1921s) · 他表达判断**：the one who brings wholeness it's you you have that Shalom that peace that passes all understanding on the inside of every single one of us you're not a respector of person and what you do for one you'll do for a million I believe father that this is the time that we are the salt like never before and what's
+- **[33:08](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=1988s) · 本段原话**：forever and you are going to touch the Nations through just me through a Wretch like us just say it you're going to touch the Nations through us because we're his vessel that he can use we're not going to be a damn we're going to be a we're going to be a river and we're going to flow like a river in
+- **[35:07](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=2107s) · 他进行祷告**：one of you if you could click the like button click the notification button click uh subscribe if you haven't subscribed we appreciate all the subscribers we appreciate all the the support you all have given us we pray for every single one of you on a day to B daytoday basis Diana and I both the
+- **[35:25](https://www.youtube.com/watch?v=8c3OFWnOS8E&t=2125s) · 本段原话**：kids we just want to say thank you than you all God bless you thank you for your support uh it truly does mean a lot to us um well we always want to close out our our little YouTube thing here today by telling you all to put a smile on your face and a song in your heart Jesus
 
 ### 完整英文 Transcript
 

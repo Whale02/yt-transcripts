@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1141；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 - [10. 45:00–49:04 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:19](https://www.youtube.com/watch?v=JKPqjW92sdc&t=19s) · 本段原话**：uh we're working hard folks and and my son and my wife we're all downloading and getting this channel set up uh spreading the gospel throughout the whole world now I will go to what I've seen about Israel I was interceding for Israel and um and what's about to happen and the moment Trump is inaugurated on
+- **[10:16](https://www.youtube.com/watch?v=JKPqjW92sdc&t=616s) · 本段原话**：to do and they've they've rebelled they've not done it the way I've asked them to do it so you you're it's it's a form of punishment you've been naughty you don't you're getting time out you know and so I mean that's the only way I can describe it is it's time for timeout for some folks you're going to
+- **[20:20](https://www.youtube.com/watch?v=JKPqjW92sdc&t=1220s) · 本段原话**：hellbent on going down that road at 90 miles an hour and there's sign after sign after sign and you chose to vote Gavin in you chose to go this Direction with Nancy Pelosi you chose to devote these evil corrupt politicians in to rule Over You by a majority you take the hand off of prayer
+- **[25:27](https://www.youtube.com/watch?v=JKPqjW92sdc&t=1527s) · 他描述所见**：central part of America I saw people fleeing from the east coast up north in New York and those areas I'm talking families I'm talking Mass migration of Americans leaving certain areas because of uh of of of of having uh an nword hello it's time to go you know because of what's coming we have a
+- **[35:01](https://www.youtube.com/watch?v=JKPqjW92sdc&t=2101s) · 本段原话**：demons to come in as you offer up a satanic sacrifical thing on at your at your your buildings and so do you understand when you open the door the Devil comes in like a flood he doesn't take just an inch he'll take 10 miles and he'll keep kill stealing destroying cuz that's all he
+- **[45:18](https://www.youtube.com/watch?v=JKPqjW92sdc&t=2718s) · 他进行祷告**：that we're always staying vertical hearing you on what to do with it on what to do with it father I pray a hedge of protection around his family around his wife his children I pray the blood of Jesus over them that no weapon formed against them will prosper I cover this house in the blood I cover our finances
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Iran、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:19](https://www.youtube.com/watch?v=JKPqjW92sdc&t=19s) · 本段原话**：uh we're working hard folks and and my son and my wife we're all downloading and getting this channel set up uh spreading the gospel throughout the whole world now I will go to what I've seen about Israel I was interceding for Israel and um and what's about to happen and the moment Trump is inaugurated on
+- **[01:03](https://www.youtube.com/watch?v=JKPqjW92sdc&t=63s) · 他描述所见**：plan and I saw strategic plans of taking out um key select Targets in the Middle East I'm talking within a matter of just time I'm talking about a small span of time I'm talking using the military like a like a chest game and I saw I Iran crippled financially I saw Iran a great um
+- **[02:25](https://www.youtube.com/watch?v=JKPqjW92sdc&t=145s) · 他描述所见**：want you to think about I saw weapons that the United States has never used before they're about to use they are going to use weapons that our country has never used before as far as in battle maybe we've practiced with them but we've never used them in battle on any foreign adversary and I saw uh
+- **[03:43](https://www.youtube.com/watch?v=JKPqjW92sdc&t=223s) · 他描述所见**：presence I'm talking the respect that America has lost with our foreign adversaries over the last four years we have been the laughing stock of the world and when he comes in I saw um respect restored back to America like like you wouldn't believe it this is going to be I saw again in the spirit a
 
 ### 完整英文 Transcript
 
@@ -135,7 +153,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:01](https://www.youtube.com/watch?v=JKPqjW92sdc&t=301s) · 他描述所见**：I saw him hitting strategic Targets in Iran and in Syria I'm talking it's going to look like shock and awe for what I have seen coming folks and it was like you all have messed with the wrong folks this has been going on too long the bullying and all the stuff and I'm telling you I
+- **[06:02](https://www.youtube.com/watch?v=JKPqjW92sdc&t=362s) · 他描述所见**：were that were basically all those people were laid off and that that big pipeline I'm talking major stuff is going to start to to happen again I'm talking jobs jobs jobs putting America first you're going to see um basically a patriotism come back on the people I saw patriotism coming back on America uh
+- **[07:46](https://www.youtube.com/watch?v=JKPqjW92sdc&t=466s) · 他描述所见**：person that was needed and cleaned up and I saw him being scrubbed down and it was the church okay and whenever the cleaning of this happens in a greater level in 2025 we've seen the beginning of it in 2024 with these Ministries that you see on the news and on uh YouTube everybody's
+- **[09:38](https://www.youtube.com/watch?v=JKPqjW92sdc&t=578s) · 本段原话**：anointing that you've never seen before and you see people that walked in an anointing don't walk in it anymore you it'll be like they they've had the light switch turned off just like this it' be like what happened to the light all of a sudden the lights are going to start going out on those people and all of a
 
 ### 完整英文 Transcript
 
@@ -267,7 +292,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:16](https://www.youtube.com/watch?v=JKPqjW92sdc&t=616s) · 本段原话**：to do and they've they've rebelled they've not done it the way I've asked them to do it so you you're it's it's a form of punishment you've been naughty you don't you're getting time out you know and so I mean that's the only way I can describe it is it's time for timeout for some folks you're going to
+- **[12:39](https://www.youtube.com/watch?v=JKPqjW92sdc&t=759s) · 本段原话**：sometimes it feels like a gusher and you're just flowing in the spirit and it's like when it's a river but sometimes you feel like you're hitting a dam a wall and you ask yourself why and I sometimes I say Lord I'm praying for the sister whoever I won't you know no names and they've been given a diagnosis
+- **[13:35](https://www.youtube.com/watch?v=JKPqjW92sdc&t=815s) · 本段原话**：over this fire it's like pushing against uh mud is sometimes what I felt like what is it about this and the Lord showed me if my people who are called by my name will humble themselves and turn from their Wicked Ways they will hear from heaven and I will heal their land but if you have a group of people in a
+- **[14:41](https://www.youtube.com/watch?v=JKPqjW92sdc&t=881s) · 本段原话**：bunch um it causes that umbrella of that prayer covering to be lifted it's like this it's lifted and so you have attacks when you have an open door when I told you when you open a door the enemy comes in like a snake because a snake's a snake and it's going to come in
 
 ### 完整英文 Transcript
 
@@ -397,7 +429,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:00](https://www.youtube.com/watch?v=JKPqjW92sdc&t=900s) · 本段原话**：regardless if you open a door to it so you have people out there in these blue areas like in California La you have all the pornography and the pedophilia rings and all the trash out there that's happening on a consecutive basis every day we're talking dark dark stuff with witchcraft and everything else in
+- **[15:59](https://www.youtube.com/watch?v=JKPqjW92sdc&t=959s) · 本段原话**：open the door for attack do you see because the Devil comes to kill still and Destroy but God come that we might have life and life more abundantly and so when you have open doors the devil will walk through it and whenever you are are taking your hand saying I don't want God in this area I don't want the
+- **[16:36](https://www.youtube.com/watch?v=JKPqjW92sdc&t=996s) · 本段原话**：me tell you what it's like y'all it's like having lot in the midle middle of Sodom and Gomorrah there not knowing that judgment was coming in a 24-hour period Abraham was on the hill praying for lot to get out and God had to send angels to get lot out of that City how many times you behind this
+- **[19:35](https://www.youtube.com/watch?v=JKPqjW92sdc&t=1175s) · 本段原话**：election over this last 2024 election he told me he said I'm watching to see how they vote I'm watching to see how hard their hearts and how stiff neck they are toward me you can keep going down a road in Rebellion for so long with with the road signs saying dead end
 
 ### 完整英文 Transcript
 
@@ -525,7 +564,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:20](https://www.youtube.com/watch?v=JKPqjW92sdc&t=1220s) · 本段原话**：hellbent on going down that road at 90 miles an hour and there's sign after sign after sign and you chose to vote Gavin in you chose to go this Direction with Nancy Pelosi you chose to devote these evil corrupt politicians in to rule Over You by a majority you take the hand off of prayer
+- **[21:58](https://www.youtube.com/watch?v=JKPqjW92sdc&t=1318s) · 他转述所听到的话**：this whole year of 2025 this is just the beginning I told you there was a word for both crowds remember I told you the Lord told me there's a two-sided word war war war and great acceleration of things with seed time and harvest the the the the bride The Remnant the church that is a is excited on fire filled with
+- **[22:24](https://www.youtube.com/watch?v=JKPqjW92sdc&t=1344s) · 本段原话**：controlled by the holy ghost that has their lamps full of oil will will walk in a prosperity and an abundance of overflow and and healing and deliverance and the manifestations of the glory will be on the church like you've never seen it before and it will start and you will see a rocket ship take off as Trump
+- **[23:45](https://www.youtube.com/watch?v=JKPqjW92sdc&t=1425s) · 本段原话**：say right so these other dark States you will see a dividing line of the blessing and the favor when it comes to drought and storm like you would not believe in earthquakes you're going to see signs in the heavens signs in the Earth signs of of all kinds of attack I'm talking because you've opened the door for an
 
 ### 完整英文 Transcript
 
@@ -647,7 +693,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:27](https://www.youtube.com/watch?v=JKPqjW92sdc&t=1527s) · 他描述所见**：central part of America I saw people fleeing from the east coast up north in New York and those areas I'm talking families I'm talking Mass migration of Americans leaving certain areas because of uh of of of of having uh an nword hello it's time to go you know because of what's coming we have a
+- **[26:46](https://www.youtube.com/watch?v=JKPqjW92sdc&t=1606s) · 他描述所见**：would be I know it's in the winter months I know it's in the winter because I've seen it several times but I don't know what year it is because he said he was giving us some time he said I'm taking care of it uh my church and I saw uh the the bridegroom giving presentence
+- **[29:05](https://www.youtube.com/watch?v=JKPqjW92sdc&t=1745s) · 他描述所见**：kinds of things like that the meat of the word secet friendly all this stuff it's going to go away y'all I'm telling you I've seen like I told you all in the center part of America where there's red more red state in these areas where it's really do dominant red I saw a mighty
+- **[29:29](https://www.youtube.com/watch?v=JKPqjW92sdc&t=1769s) · 他描述所见**：outpouring a mighty move of the wind of the spirit like you've never seen before even greater on these red States I saw people coming like I said in Mass migration of Americans coming for the Revival because it really C kicks off in Oklahoma it really kicks off in these places and they go I want to be a part
 
 ### 完整英文 Transcript
 
@@ -759,7 +812,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:02](https://www.youtube.com/watch?v=JKPqjW92sdc&t=1802s) · 本段原话**：people trying to move here and so many people trying to get away from the blue areas because it's going to be like light and dark you will see gross Darkness so much so that you will feel it in the days ahead and where it's light you will see great light in those cities with the presence and the fire of
+- **[31:31](https://www.youtube.com/watch?v=JKPqjW92sdc&t=1891s) · 本段原话**：lighter and the dark is going to get darker but you can choose which side you want to look at the dark will exist and the light will exist it the Bible says as labor pains upon a woman so will it be so do labor pains get lighter or do they get heavier as as the baby is about to be birthed
+- **[33:38](https://www.youtube.com/watch?v=JKPqjW92sdc&t=2018s) · 本段原话**：coming and God's giving you a window and I'm trying to pinpoint what why these things are happening show me greater detail for what I've seen coming let me have an understanding of why 10 cities let me have an understanding of why this stuff is coming like like a snowball going down a hill and it's getting bigger and
+- **[34:39](https://www.youtube.com/watch?v=JKPqjW92sdc&t=2079s) · 本段原话**：don't want you in our schools we don't want you in our some Churches we don't want you in our churches we don't want you in our government in fact we need to be politically corre correct and put a satanic statue next to the Ten Commandments if it's there so let's have the devil with little kids around him
 
 ### 完整英文 Transcript
 
@@ -897,7 +957,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 教会、复兴与信仰、战争与国际事务
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、战争与国际事务、地震、风暴与灾害。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、战争与国际事务展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:01](https://www.youtube.com/watch?v=JKPqjW92sdc&t=2101s) · 本段原话**：demons to come in as you offer up a satanic sacrifical thing on at your at your your buildings and so do you understand when you open the door the Devil comes in like a flood he doesn't take just an inch he'll take 10 miles and he'll keep kill stealing destroying cuz that's all he
+- **[36:34](https://www.youtube.com/watch?v=JKPqjW92sdc&t=2194s) · 他讨论新闻或报道**：your cities burning up right now just saying and it may be a really strong word today but I'm trying to help you and it's right look at the news and it will be more and more and more intense in the days ahead and you're going to go it's a great eabod God's turned his back on us
+- **[37:54](https://www.youtube.com/watch?v=JKPqjW92sdc&t=2274s) · 他进行祷告**：like boom what you're going to see Trump operating in cuz you cuz you have you bless Israel I'll bless you if you curse Israel I'll curse you so he's like I'm smart enough to bless Israel then I'm smart enough to let the church come in and pray for me and say God Bless
+- **[39:17](https://www.youtube.com/watch?v=JKPqjW92sdc&t=2357s) · 本段原话**：gate and Broad is the the road that leads to destruction and many enter through it but small is the gate and narrow is the road that leads leads to life and only a few find it that say all right there it's not always going to be easy to go the right way because it's a small
 
 ### 完整英文 Transcript
 
@@ -1028,7 +1095,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:38](https://www.youtube.com/watch?v=JKPqjW92sdc&t=2438s) · 本段原话**：but there is a great shaking to awaken that's coming and it's going to unfold even more in the next four years and you're going to go my gosh what's going on and you're going to see great blessing blessings and great prosperity and great favor and great healings on the remnant on the church that's awake
+- **[42:23](https://www.youtube.com/watch?v=JKPqjW92sdc&t=2543s) · 本段原话**：again in those places and that father that there will be a great shaking to awaken in the days ahead and you said Brandon has much more to do it has much more than just about the United States of America this has to do with waking up the whole world and you will see major shaking all
+- **[43:27](https://www.youtube.com/watch?v=JKPqjW92sdc&t=2607s) · 本段原话**：is a time and a place where he says listen you either are on my side or not and I'm going to show up and show off in my church's life if you are on fire and your lamp is full get ready for the best days you've ever had you will see great days of Heaven on Earth and you will
+- **[43:46](https://www.youtube.com/watch?v=JKPqjW92sdc&t=2626s) · 他表达判断**：stand in the darkness and it will be a time like never before to soar and to and to flow with the presence of the Lord I believe we will see the the greatest Harvest of souls this world has ever known but it will come out of out of birthing pains it will come out of a
 
 ### 完整英文 Transcript
 
@@ -1154,7 +1228,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:04 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:18](https://www.youtube.com/watch?v=JKPqjW92sdc&t=2718s) · 他进行祷告**：that we're always staying vertical hearing you on what to do with it on what to do with it father I pray a hedge of protection around his family around his wife his children I pray the blood of Jesus over them that no weapon formed against them will prosper I cover this house in the blood I cover our finances
+- **[46:19](https://www.youtube.com/watch?v=JKPqjW92sdc&t=2779s) · 本段原话**：formed against us will prosper A thousand shall fall at our side and 10,000 our right hand but it will not come nest and I give you all the glory glory honor and praise for it in the name of Jesus and everyone say amen and all the terrorist attacks father we call them down we say they will not bear
+- **[46:38](https://www.youtube.com/watch?v=JKPqjW92sdc&t=2798s) · 他进行祷告**：fruit or kill steal and destroy father we still pray for Mercy even for what I've seen I call forth uh uh for the FBI the CIA the homeland security all of the those areas to rise up and be able to expose the darkness and say thus far and no further and and and and Deport these
+- **[48:29](https://www.youtube.com/watch?v=JKPqjW92sdc&t=2909s) · 本段原话**：to see God show up and show off in your life ladies and gentlemen I know that was a heavy word but there's good days for the body of Christ folks brush Harbor churches remember that on fire brush Harbor churches great great glories coming and so we get excited about that and we get ready with our
 
 ### 完整英文 Transcript
 

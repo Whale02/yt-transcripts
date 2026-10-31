@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1732；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 70:00–76:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 77:00–82:37 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:18](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=18s) · 他进行祷告**：know you're busy, but I I need you at least in the room with me. I love having my family pray with me. So, I want to encourage you all. I want to tell y'all something that's that that I'm excited about right now. Billy Brim has a meeting that is coming up. Billy Burke
+- **[14:52](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=892s) · 他表达判断**：from heaven. He said he'd heal our land. So I believe if the United States of America has a Holy Ghost and we all get in sackcloth and ashes and we out there praying you're we're going to see the greatest revival. Now we're going to see a great shaking to awaken and we're going to see things that we've never
+- **[28:26](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=1706s) · 本段原话**：I've already received it by faith, but I'm resisting the devil's symptoms of whatever you're facing right now. All kinds of symptoms. Back pains, leg pains, uh brain pains, I don't know, whatever you may be overcoming.
+- **[49:22](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=2962s) · 他描述所见**：cobra hatch and it was slithering around. I see these things and this is the part that I don't show on on camera, but this is what I I I I say, "What is this?" And the Lord shows me much darkness on some ministers and they're being exposed soon.
+- **[66:04](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=3964s) · 本段原话**：It's not God. The gift never should bring glory to the person. No matter how many people come on this channel and say how great Brandon is, it's wrong.
+- **[77:37](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=4657s) · 本段原话**：How to be led by the Spirit of God by by Kennethy Hagen. Great book. Need to find it. You You can buy it on Amazon or directly from eBay. They sell eBay. They've got a You can get it from KennethHagen Ministries. It's still there. You can go on there. Wherever you buy, it's it's supporting them. They're
+
 <a id="section-01"></a>
 ## 01. 00:00–06:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:18](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=18s) · 他进行祷告**：know you're busy, but I I need you at least in the room with me. I love having my family pray with me. So, I want to encourage you all. I want to tell y'all something that's that that I'm excited about right now. Billy Brim has a meeting that is coming up. Billy Burke
+- **[02:13](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=133s) · 他表达判断**：at the Ozarks Autumn Fall Assembly. You can look it up on Sister Billy's website uh uh Billybrim.org and you can get the rest of the information there. I believe it's like the 15th, 16th, 17, 18, 19th, 20 somewhere right there. It's like four, it's like six day window and there's a tent meeting. It's awesome out in the
+- **[04:20](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=260s) · 本段原话**：And I give all the glory to God. But I'm telling you something. If I lived in there, you you couldn't keep me out of the door of the of what's going to happen. I'd be like, "Get me on the front row pushing people." Sister, you see Brandon, she's excuse me, you know, stiff arm splash zone.
+- **[05:27](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=327s) · 他描述所见**：Now, I want you to recall some of the things that I've told you that there'll be ministers and people that that the Lord said judgment begins in the house of the Lord first. And I saw a transition of ministers and movie stars, politicians, people going home in the days ahead. a great uh harvest of people going home.
 
 ### 完整英文 Transcript
 
@@ -216,7 +234,14 @@
 <a id="section-02"></a>
 ## 02. 07:00–13:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[07:00](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=420s) · 本段原话**：specific word to tell you there will be judgment in some houses and they will be preaching behind the pulpit and they will fall over. for he gave them time and time again to repent from doing corruption in in their ministry and even with certain things.
+- **[08:11](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=491s) · 本段原话**：is accelerating. And it will be soon seed harvest. There will be a very short window of time, maybe 24 hours for certain seeds that you sew. And you'll see it rain on the just and the unjust in the days ahead. But not every person that goes home is because of corruption.
+- **[08:50](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=530s) · 本段原话**：You're like, man, they live they it's like you they leave a void in that area because they they they were here for so long. people have great impact on people's lives and when you're doing that and you're imparting into people it it's sad to see somebody that you love go home but we know we're going to see
+- **[12:55](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=775s) · 本段原话**：[Music] Okay. Well, that's hard for my flesh to hear, but I know what you told me to do. And regardless of what the the company does to overcharge or do whatever they're going to do, I say, "I'm not moved by it." And God, my bill is your bill. My need is your need, and you'll supply for me.
 
 ### 完整英文 Transcript
 
@@ -392,7 +417,14 @@
 <a id="section-03"></a>
 ## 03. 14:00–20:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[14:52](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=892s) · 他表达判断**：from heaven. He said he'd heal our land. So I believe if the United States of America has a Holy Ghost and we all get in sackcloth and ashes and we out there praying you're we're going to see the greatest revival. Now we're going to see a great shaking to awaken and we're going to see things that we've never
+- **[15:58](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=958s) · 他描述所见**：get raised from the dead. We're going to see devils cast out because the Lord I said, "Lord, let's impart into people special manifestations of deliverance ministry to set the captives free from demonic strongholds." I see so many people that are bound by demonic spirits. And I'm telling you, God doesn't want any of us to to have
+- **[19:33](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=1173s) · 本段原话**：I want you to be very cautious with what's coming because I I I feel an acceleration of deception is coming of trying to get people confused. We need to get back to the basics of the word of God and and prayer and fasting and seeking him daily, not coming on like a fortune teller and
+- **[20:32](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=1232s) · 他转述所听到的话**：Because I'll go in and say, "This is what I feel like I heard the spirit of the Lord say." And Diana will write it down. And then we test it. We're praying over it. And Diana said that you we got to pray over that more. But the Lord said, "Was you underneath my glory when you heard
 
 ### 完整英文 Transcript
 
@@ -589,7 +621,14 @@
 <a id="section-04"></a>
 ## 04. 21:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[21:21](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=1281s) · 本段原话**：Go back to the foundation. Go back to the ABCs and don't get into weirdness because there's a lot of weirdness out there." And don't go around saying, "I need to hear a voice. I need to hear him. I want audible voice." cuz I'm going to tell you the devil will snare you with an audible voice, too. That's
+- **[22:19](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=1339s) · 本段原话**：because they are because we get the emails and Diana reads them and says, "What do you feel?" I said, "That's that's not the Lord. That's not the Lord." So, you watching my channel, the only way you are going to make sure that you're not snared by some demonic weirdness and you think you're seeing
+- **[24:18](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=1458s) · 本段原话**：these this men and this woman trying to help me navigate through something that I'm I'm doing ministry for the first time." And I'm like, "I'm not alone for you're just thankful for people helping you along the ways that are seasoned veterans. One is in their 70s and one's in their 80s." And you go, "Thank God
+- **[26:49](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=1609s) · 本段原话**：There's still a lot we can do in 2025. What are you going to do with whatever God's given you for the rest of this year? We have August, September, October, November, and December. Five months left. School's about to start back up. Uh fall's almost here soon. But it's very interesting because we're we're we're entering into that. We're
 
 ### 完整英文 Transcript
 
@@ -785,7 +824,14 @@
 <a id="section-05"></a>
 ## 05. 28:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:26](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=1706s) · 本段原话**：I've already received it by faith, but I'm resisting the devil's symptoms of whatever you're facing right now. All kinds of symptoms. Back pains, leg pains, uh brain pains, I don't know, whatever you may be overcoming.
+- **[29:42](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=1782s) · 本段原话**：So if I'm more than a conqueror, I'm not trying to to to defeat the devil. the de devil's already defeated and I'm telling him he's already underneath my feet. As he tries to air his head up and say, "No, you're not going to do that to me.
+- **[30:19](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=1819s) · 他描述所见**：You have to be a believing believer that believes the word of God. And I say, "I believe what he said about me today. And I'm not moved by what I see. I'm not moved by what I feel. Thank you, Lord, that I am a healed. I am whole. I am well. And I am prosperous in every area
+- **[31:45](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=1905s) · 本段原话**：I play Kim today behind the background. I I He's helping me pull. There's things here that need to be exposed. There's things that need to be exposed. I'm seeing darkness today when I'm praying before and this is my private prayer time. I'm letting you all in it.
 
 ### 完整英文 Transcript
 
@@ -907,7 +953,14 @@
 <a id="section-06"></a>
 ## 06. 35:00–41:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:01](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=2161s) · 他描述所见**：[Laughter] A a great great great grand a great transition. A great transition is on a great transition for many of you. Many of you I see cars. I see cars driving through hills. I see cars driving through hills. I see red car. I see a blue car. I see. And they look like an old cartoon car.
+- **[36:28](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=2188s) · 他描述所见**：And I see the hills. It's a winding path. Many of you have been taking many of you been taking and the leaves are falling. The leaves are falling off the trees. I see autumn leaves falling off the trees. A transition. A transition you will see.
+- **[41:17](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=2477s) · 他描述所见**：I I when when when when p when people have said I I look at the prophetic and he's showing it a as as a whole and he true prophetic comes through attract to deflect to me like you hear the worship Kim attracted by the glory by bringing down the glory I see and and
+- **[41:39](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=2499s) · 本段原话**：accuracy comes from the anointing whenever you are trying to like a paric card readers and and and crystal ball readers, they they're they're listening and tapping into a demonic spirit realm.
 
 ### 完整英文 Transcript
 
@@ -1001,7 +1054,14 @@
 <a id="section-07"></a>
 ## 07. 42:00–48:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:23](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=2543s) · 本段原话**：of people you know they they come and he and and this is step on toes but you say well they gave me my address they gave me my phone number well they gave me this and that. They told me my name or my street. He told me all this is from familiar spirit speaking to thee. Do you
+- **[44:32](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=2672s) · 本段原话**：He didn't go around just prophesying all the time. He worshiped which gave God praise and bring glory to him. And prophetic words came through him after he worshiped first. He that's what happened all the time. Every time you see his videos, he's worshiping, playing on his piano, singing. Boom, the glory came and God worked through the glory
+- **[46:31](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=2791s) · 他描述所见**：And I see darkness on people. I see cobras around people. I see snakes. And this is a form of witchcraft.
+- **[48:26](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=2906s) · 本段原话**：I stand alone. I hold you close. My desire purified. My dreams are realized.
 
 ### 完整英文 Transcript
 
@@ -1167,7 +1227,14 @@
 <a id="section-08"></a>
 ## 08. 49:00–55:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[49:22](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=2962s) · 他描述所见**：cobra hatch and it was slithering around. I see these things and this is the part that I don't show on on camera, but this is what I I I I say, "What is this?" And the Lord shows me much darkness on some ministers and they're being exposed soon.
+- **[50:14](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=3014s) · 本段原话**：The gift is only pure when worship is going. When you're praising and when you're singing. When I sing these songs before the thing and I from glory to glory. This what I'm saying. This is showing. If you want to tap in his river and you want to hear him, you have to give him praise first.
+- **[51:59](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=3119s) · 本段原话**：He you decrease, he increase. I have this treasure in earth and vessels that the excellency of the power will be known of him and not of me. If it attracts attention to you, it's not God. It's all about giving him praise and him worth in these last days.
+- **[55:09](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=3309s) · 本段原话**：Father, we worship you today. Is there anything else you want to say today? Father, I I feel so strong to warn the people for there's so much static out there. There's too many voices, Brandon, that are not of me.
 
 ### 完整英文 Transcript
 
@@ -1325,7 +1392,14 @@
 <a id="section-09"></a>
 ## 09. 56:00–62:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[56:22](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=3382s) · 他进行祷告**：Praying prophets. Do you understand? Prophets pray. People who are of God worship that if it's if you ever seen uh Billy Burke, it always goes around worship first and worship and praise and then the healing comes. It's all peace.
+- **[57:28](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=3448s) · 他表达判断**：I believe in miracles for I believe in God. I'm trying to help you all to recognize it. And I'm not saying Brennan's accurate. Well, because he prays and prophes he prays. He pre he he prophesies. He preaches and all the other things. What?
+- **[58:39](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=3519s) · 本段原话**：We must get to the heartbeat of the father or you're going to get snared by familiar spirits. There's so much of it on the internet right now and there's so much of it in my email right now. My account literally read them to me all afternoon. I go, "Oh, dear God, we've got to teach them this is the only way
+- **[60:35](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=3635s) · 他表达判断**：For you are good and your mercy endures forever. [Music] I think it's interesting. He said, "Demonstrate, demonstrate, show them, teach them."
 
 ### 完整英文 Transcript
 
@@ -1460,7 +1534,14 @@
 <a id="section-10"></a>
 ## 10. 63:00–69:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[66:04](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=3964s) · 本段原话**：It's not God. The gift never should bring glory to the person. No matter how many people come on this channel and say how great Brandon is, it's wrong.
+- **[67:30](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=4050s) · 他描述所见**：Jesus is the reason for everything and it's not fake. I see so many false humble people that try to pretend they're humble by saying what I'm saying. It's it's it it it's something that it oozes out of you because you really truly know that without him I can do nothing. Apart from him I can do nothing. Just like Jesus
+- **[69:06](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=4146s) · 本段原话**：It's about him anyway, right? Does this make sense what I'm trying to tell you all? It's so important that you get this because this is going to be the life's blood to to your hearing him and listening to him every day and discernment and discernment because there's so much false words so much about giving them
+- **[69:28](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=4168s) · 本段原话**：about my my my platform my it ain't about nothing. I'm telling you. And even when the glory starts coming, he told me, he warned me. He said, you're going to see a lot of people being raised from the dead and you're going to see a lot of falseness and stuff. I'm telling you
 
 ### 完整英文 Transcript
 
@@ -1592,7 +1673,14 @@
 <a id="section-11"></a>
 ## 11. 70:00–76:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[73:05](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=4385s) · 他进行祷告**：But he even said those that sow in secret will be rewarded openly. Those that that that plant it's seed time harvest never sees. Right? That whatever man sws that will also reap. But it those that that give in secret will be rewarded open. Those that pray in secret will be rewarded openly. Do you see?
+- **[73:38](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=4418s) · 本段原话**：You got your reward. Oh man, you're so awesome. You got your reward. You're getting a praise for man. I'm telling you, I I'm sewing for the thousand years. I'm sewing in secret trying to to to to to deflect it to him so that whenever I get say he's well done, thy good and faithful servant. It's all
+- **[74:19](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=4459s) · 本段原话**：Always. I've never seen a prideful man either stay there or or keep it there. It's always it's it's shortlived. The moment you get an ego, so many ministers I've seen fall and they it's because they got big head. And I'm telling you, this is what this whole me this whole prayer session is about.
+- **[76:34](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=4594s) · 本段原话**：Always take them back to how they can have you can have a relationship with the father. How do I have a relationship with the father as a believer? How do I hear God, Brandon? That's what I I You don't know how many emails I get. How do I hear God, Brandon? This is how
 
 ### 完整英文 Transcript
 
@@ -1736,7 +1824,14 @@
 <a id="section-12"></a>
 ## 12. 77:00–82:37 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[77:37](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=4657s) · 本段原话**：How to be led by the Spirit of God by by Kennethy Hagen. Great book. Need to find it. You You can buy it on Amazon or directly from eBay. They sell eBay. They've got a You can get it from KennethHagen Ministries. It's still there. You can go on there. Wherever you buy, it's it's supporting them. They're
+- **[79:01](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=4741s) · 本段原话**：You don't want to listen to familiar spirits. You do you hear what I'm saying? And they'll come to snail. They'll come as an angel light to whisper in your ear and tell you things and you go, "Hold on a minute. Hold on." We give all of the glory to Jesus and tell of his love, his wonderful
+- **[80:07](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=4807s) · 本段原话**：Some people Some people are Listen, they're they're snaring you. These are scammers. You didn't send Brandon your jewelry and you didn't send Brandon your money. I don't ask for nothing. Do not send these people. You got You got scammed. You got ripped off. Somebody stole your stuff from you. Do not do this. I am not on
+- **[81:16](https://www.youtube.com/watch?v=Zr5Rb79dbd0&t=4876s) · 本段原话**：Subscribe. Subscribe. Subscribe. Please. Click the notification bell. Click the like button. Click the click the uh the comment down below. Say something. Hey, how are you doing? We're so blessed by the video. Whatever you want to do. Um, even if you have criticism, I mean, I guess you can do that, but I don't read
 
 ### 完整英文 Transcript
 

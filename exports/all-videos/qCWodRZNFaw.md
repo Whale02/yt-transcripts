@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 736；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 54:00–59:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-10)
 - [11. 60:00–62:27 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:50](https://www.youtube.com/watch?v=qCWodRZNFaw&t=50s) · 本段原话**：my heart you know I told you all back uh it's almost been a year ago about one of the visions that the Lord showed me about um Putin and the escalation of the the the war and that this would not just stop with Ukraine and that the Lord warned me that there would be a strike
+- **[12:00](https://www.youtube.com/watch?v=qCWodRZNFaw&t=720s) · 他进行祷告**：happening and so I'm getting excited about it I'm just like wow Lord um so just like he said so but here we are so let's get started and pray um with sister Billy here God your God your evil evil evil [Applause]
+- **[24:37](https://www.youtube.com/watch?v=qCWodRZNFaw&t=1477s) · 本段原话**：up we [Applause] America America you shall be saved show show the [Applause] Jesus loose your grip on This
+- **[36:10](https://www.youtube.com/watch?v=qCWodRZNFaw&t=2170s) · 本段原话**：[Music] when is the Oscars there's something I just saw there's some things about the thank you son
+- **[52:28](https://www.youtube.com/watch?v=qCWodRZNFaw&t=3148s) · 本段原话**：ways so right there we see that these moves of the spirit they come in waves and I can sense it in my spirit there's another wave coming get ready for it it isn't coming just because God said it's coming we are going to have to enter into a deeper realm of prayer we've been
+- **[60:49](https://www.youtube.com/watch?v=qCWodRZNFaw&t=3649s) · 他表达判断**：going to do more of these I've got I'm going to save the rest of this one I believe I got another at least 30 minutes of a prayer time on another video um but I'm going to end this one here and I just want to encourage you all to be encouraged uh great things are going to
+
 <a id="section-01"></a>
 ## 01. 00:00–05:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:50](https://www.youtube.com/watch?v=qCWodRZNFaw&t=50s) · 本段原话**：my heart you know I told you all back uh it's almost been a year ago about one of the visions that the Lord showed me about um Putin and the escalation of the the the war and that this would not just stop with Ukraine and that the Lord warned me that there would be a strike
+- **[02:13](https://www.youtube.com/watch?v=qCWodRZNFaw&t=133s) · 他描述所见**：saw about the um the the DNA codes and the virus they're saying is it the medicine that's bad no they take I I want everybody understand what I'm trying to say here because I like I said I'm not ever coming on here to preach fear I preach I'm telling you what I see
+- **[03:33](https://www.youtube.com/watch?v=qCWodRZNFaw&t=213s) · 他描述所见**：obese people and it was created because the Obesity rates were so big and so um uh astronomical that's what I was trying to warn you all about and so um there's things that I see that are very dark you know and and the Lord will warn me about things that the enem is planning and
+- **[04:58](https://www.youtube.com/watch?v=qCWodRZNFaw&t=298s) · 他描述所见**：was trying to comfort you all to to listen listen to what the spirit of the Lord is trying to tell you about what the enemy is planning about um uh taking DNA code and it was about the bees I saw the bees I saw the the high blood pressure medicine diabetic medicine and
 
 ### 完整英文 Transcript
 
@@ -171,7 +189,14 @@
 <a id="section-02"></a>
 ## 02. 06:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[07:49](https://www.youtube.com/watch?v=qCWodRZNFaw&t=469s) · 本段原话**：word the lord gave me he said when Passover comes there's going to be an acceleration of things Beyond uh like what we what he told me about roash to roash this is going to be another time of great acceleration and he said this would you'll see acceleration come at Passover with the economy with uh the war with uh
+- **[08:51](https://www.youtube.com/watch?v=qCWodRZNFaw&t=531s) · 他转述所听到的话**：acceleration even more it will come about Passover is to watch for Passover so here we are uh for what I heard Pastor Paul Begley talking about that we're going to see even more of an acceleration um take place uh at Passover and there's fruit of it they're they're talking about sacrificing this red heer now I don't know what all
+- **[09:56](https://www.youtube.com/watch?v=qCWodRZNFaw&t=596s) · 本段原话**：is coming and I and that's why I feel in urgency to do these prayer videos now I've rambled on long enough but I but I'm trying to tell you all it's time for us to get serious about the coming of the Lord he's coming soon now some people say well it'll be years and years
+- **[10:55](https://www.youtube.com/watch?v=qCWodRZNFaw&t=655s) · 他转述所听到的话**：okay so here we go I'm going to play this uh prayer video and let's just pray you pray what's on your heart for whatever you're believing for but I'm believing I'm praying over um breakthrough oh the Lord showed me even tonight when I was praying I was interceding when I was exercising and um and the Lord told me
 
 ### 完整英文 Transcript
 
@@ -326,7 +351,11 @@
 <a id="section-03"></a>
 ## 03. 12:00–17:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=qCWodRZNFaw&t=720s) · 他进行祷告**：happening and so I'm getting excited about it I'm just like wow Lord um so just like he said so but here we are so let's get started and pray um with sister Billy here God your God your evil evil evil [Applause]
 
 ### 完整英文 Transcript
 
@@ -373,7 +402,14 @@
 <a id="section-04"></a>
 ## 04. 18:00–23:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、教会、复兴与信仰。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[19:23](https://www.youtube.com/watch?v=qCWodRZNFaw&t=1163s) · 本段原话**：now Lord we take up Israel now we take up Israel now take up Israel now we take Israel up now we take Israel up we take Israel [Laughter] up
+- **[20:00](https://www.youtube.com/watch?v=qCWodRZNFaw&t=1200s) · 本段原话**：[Applause] right now Motion in that realm in that realm the military the mosad all hands on that now for the operation of God the
+- **[22:56](https://www.youtube.com/watch?v=qCWodRZNFaw&t=1376s) · 本段原话**：up [Applause] hallelu hallelujah hallelujah hallelujah you Jesus Lord we praise you we praise you for your angelic
+- **[23:26](https://www.youtube.com/watch?v=qCWodRZNFaw&t=1406s) · 他进行祷告**：operation for the nation of Earth moving people thank you Lord in your mercy you're moving people
 
 ### 完整英文 Transcript
 
@@ -417,7 +453,14 @@
 <a id="section-05"></a>
 ## 05. 24:00–29:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:37](https://www.youtube.com/watch?v=qCWodRZNFaw&t=1477s) · 本段原话**：up we [Applause] America America you shall be saved show show the [Applause] Jesus loose your grip on This
+- **[25:26](https://www.youtube.com/watch?v=qCWodRZNFaw&t=1526s) · 他进行祷告**：Nation spirit human in Jesus name noot no as a nation separ unto God for his purpose for his plan as a light to the [Music] Nations a an instrument and a tool Church
+- **[26:03](https://www.youtube.com/watch?v=qCWodRZNFaw&t=1563s) · 本段原话**：[Applause] Rel the outpouring of God across this land yes the outpouring the outpouring the
+- **[28:32](https://www.youtube.com/watch?v=qCWodRZNFaw&t=1712s) · 本段原话**：of Na you demon Spirit has been in operation over our White House in the name of Jesus in the name of Jesus you loose your hold and your grip you no longer have that in the name of Jesus
 
 ### 完整英文 Transcript
 
@@ -482,7 +525,11 @@
 <a id="section-06"></a>
 ## 06. 30:00–35:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:00](https://www.youtube.com/watch?v=qCWodRZNFaw&t=1800s) · 他进行祷告**：we depend upon the help of the Holy Spirit praying further pray into that place right there the co co the
 
 ### 完整英文 Transcript
 
@@ -522,7 +569,14 @@
 <a id="section-07"></a>
 ## 07. 36:00–41:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:10](https://www.youtube.com/watch?v=qCWodRZNFaw&t=2170s) · 本段原话**：[Music] when is the Oscars there's something I just saw there's some things about the thank you son
+- **[38:09](https://www.youtube.com/watch?v=qCWodRZNFaw&t=2289s) · 本段原话**：the operation of God the operation the and assist and assistance Aid and assistance Aid and assistance to the resistance and ass
+- **[39:55](https://www.youtube.com/watch?v=qCWodRZNFaw&t=2395s) · 本段原话**：people [Music] we ask you we ask you we ask you for that Nation we ask you we ask you for that for that Lord we ask you for that possession of ours you said every would ask you ask you for
+- **[41:06](https://www.youtube.com/watch?v=qCWodRZNFaw&t=2466s) · 本段原话**：operations in the Earth the ones we see the ones we don't see Lord [Music]
 
 ### 完整英文 Transcript
 
@@ -570,7 +624,12 @@
 <a id="section-08"></a>
 ## 08. 42:00–47:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[43:25](https://www.youtube.com/watch?v=qCWodRZNFaw&t=2605s) · 本段原话**：say we're making power available resources things that prayers lifted up that God can use lifting up prayers for him to [Music] use
+- **[46:01](https://www.youtube.com/watch?v=qCWodRZNFaw&t=2761s) · 他描述所见**：[Music] andus over our bodies over our healings over healings right now I see heing healings right now healings right now healings right [Applause] now it has been
 
 ### 完整英文 Transcript
 
@@ -614,7 +673,14 @@
 <a id="section-09"></a>
 ## 09. 48:00–53:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[52:28](https://www.youtube.com/watch?v=qCWodRZNFaw&t=3148s) · 本段原话**：ways so right there we see that these moves of the spirit they come in waves and I can sense it in my spirit there's another wave coming get ready for it it isn't coming just because God said it's coming we are going to have to enter into a deeper realm of prayer we've been
+- **[52:47](https://www.youtube.com/watch?v=qCWodRZNFaw&t=3167s) · 本段原话**：talking about and give birth to that which God wants to do yeah it's another dimension if you've ever gone down to the ocean and watched watch the waves come in you know that before a wave ever breaks on the shore it has its Beginnings way out in the deeper waters of the ocean right the potential energy
+- **[53:06](https://www.youtube.com/watch?v=qCWodRZNFaw&t=3186s) · 他进行祷告**：of the wave begins long before you ever see the final results watching up washing up on the shore that's what praying in tongues accomplishes in the spiritual realm When you pray in tongues you give impetus to the next move of God's spirit before that spiritual wave is ever seen seen with your natural
+- **[53:27](https://www.youtube.com/watch?v=qCWodRZNFaw&t=3207s) · 他进行祷告**：eyes God is calling us to answer his call to pray in these last days Jesus is coming soon but before he comes there's something he wants to do and what he wants done on this Earth he will do through us his body the body has no coordination when half of its members are going one way and the other
 
 ### 完整英文 Transcript
 
@@ -700,7 +766,14 @@
 <a id="section-10"></a>
 ## 10. 54:00–59:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[54:02](https://www.youtube.com/watch?v=qCWodRZNFaw&t=3242s) · 本段原话**：every one of us should be determined not to miss it we've seen the wave called the healing Revival we've seen the wave called the charismatic movement we've seen the wave of faith and of the teaching of God's word but now another wave is coming it's the wave of the Holy Ghost thank you Jesus yes you've seen
+- **[54:19](https://www.youtube.com/watch?v=qCWodRZNFaw&t=3259s) · 本段原话**：the power of the holy ghost in a limited fashion but a wave is coming that will bring his power on a higher level in in a far greater measure than we've ever seen here to for I can see that wave way out yonder in the Deep Waters yes it's coming it's coming the
+- **[55:14](https://www.youtube.com/watch?v=qCWodRZNFaw&t=3314s) · 本段原话**：upon holy way look these last days to vessels by Your Grace by your mercy receive it waves of Glory we walk in boldness in these end times we walk GL on the church in the nation waves of the
+- **[59:05](https://www.youtube.com/watch?v=qCWodRZNFaw&t=3545s) · 他描述所见**：world has never seen before I saw it tonight in prayer even before this prayer and I'm telling you there is a move of God the world has never seen before about to happen a major outpouring of the spirit of the Lord right before the catching away of the church church I'm telling you a major
 
 ### 完整英文 Transcript
 
@@ -798,7 +871,14 @@
 <a id="section-11"></a>
 ## 11. 60:00–62:27 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[60:49](https://www.youtube.com/watch?v=qCWodRZNFaw&t=3649s) · 他表达判断**：going to do more of these I've got I'm going to save the rest of this one I believe I got another at least 30 minutes of a prayer time on another video um but I'm going to end this one here and I just want to encourage you all to be encouraged uh great things are going to
+- **[61:07](https://www.youtube.com/watch?v=qCWodRZNFaw&t=3667s) · 本段原话**：manifest in these last days for you and your family so don't give up believe for big believe God for big things in your life I'm I'm believing for big I'm believing God for big big things he's going to he's showing up and showing off and he's going to show the world that he's still uh on the throne that he's
+- **[62:05](https://www.youtube.com/watch?v=qCWodRZNFaw&t=3725s) · 本段原话**：praying as a unit and praying as as all over the world we're praying and you're lifting up your government lifting up things so there i' I've said enough but put a smile on your face and a song on your heart Jesus loves you so much and we love you and we thank you for joining
+- **[62:21](https://www.youtube.com/watch?v=qCWodRZNFaw&t=3741s) · 本段原话**：if you could click that notification Bell likes all that almost 100,000 subscribers so God bless you you all today and have a wonderful night byebye
 
 ### 完整英文 Transcript
 

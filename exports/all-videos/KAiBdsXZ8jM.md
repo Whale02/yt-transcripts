@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 635；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 - [08. 28:00–31:01 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:18](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=18s) · 他描述所见**：a much better speaker than me. No, hun. You did great. It's your first time. So, I'm proud of you. Um, so what I just know in my heart, well, I had an openeyed vision when I was praying and people said, "Do you have these lot?"
+- **[04:47](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=287s) · 他描述所见**：because our redemption is drawing nigh. It's time to wake up and know that Jesus Christ is coming. Well, I'm telling you, I saw. So, I had a vision and the Lord started talking to me about the Nephleum and I'm telling you, I'm I'm I saw this is where I'm going to It's just
+- **[13:49](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=829s) · 本段原话**：would be by the spirit of the Lord raising up inside of them saying, "Vote this way." And the things they're trying to cover up would be exposed. Yep. And the things they're trying to cover up will be exposed. Angels are going right now on assignment. We call forth angels on assignment right now in the name of
+- **[17:17](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1037s) · 他描述所见**：Do not get discouraged. We call forth her to have a backbone and be strong even in oh amate. Even do not give up even after the day. Do not give up after the day. Do not give up after that Tuesday. Do not give up after the Wednesday. Do not give up after the Thursday. I see them trying
+- **[24:01](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1441s) · 他进行祷告**：in in Jesus' name. The victory is ours. And we pray father that Carrie Lake has she is not we will not be discouraged. She has peace that passes all understanding. She takes the land and she takes the land.
+- **[28:30](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1710s) · 他表达判断**：If you want to learn about tongues, yes, find the book by Tongues. It's what it's called. Why tongues and and it's by brother Kenneth E. Hagen. read that book and it will bless you. And I believe you say that prayer along in that book and you'll be baptized in the Holy Spirit.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、AI、科技与监控
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、AI、科技与监控、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、AI、科技与监控展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:18](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=18s) · 他描述所见**：a much better speaker than me. No, hun. You did great. It's your first time. So, I'm proud of you. Um, so what I just know in my heart, well, I had an openeyed vision when I was praying and people said, "Do you have these lot?"
+- **[01:16](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=76s) · 本段原话**：Neuralink and what what he warned me about uh about Elon Musk. We've seen Elon Musk turn a corner here saying that he's for the First Amendment, everybody.
+- **[02:12](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=132s) · 他表达判断**：They're going to get them there, but they were not everywhere. Okay, so the the antichrist when he rules and reigns over the earth, he will rule over everything. Okay, so the satellites, Starlink, there's literally, I believe, hundreds of them in the sky now. But there will be when this takes place there will be a lot more and it provides
+- **[03:46](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=226s) · 本段原话**：When I brought out the the about the bricks bringing out for the new cashless system, for a new digital platform to go against the dollar, I prophesied that that was going to happen. Well, all this is getting set up for crypto for for a
 
 ### 完整英文 Transcript
 
@@ -129,7 +147,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:47](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=287s) · 他描述所见**：because our redemption is drawing nigh. It's time to wake up and know that Jesus Christ is coming. Well, I'm telling you, I saw. So, I had a vision and the Lord started talking to me about the Nephleum and I'm telling you, I'm I'm I saw this is where I'm going to It's just
+- **[05:12](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=312s) · 他描述所见**：like stepping on something, folks. It's like, oh god. I saw Elon Musk and I saw a demonic shadow behind him of a Nephim um technology.
+- **[06:25](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=385s) · 本段原话**：So this mind that he has that is that is bringing forth Starlink, the bringing forth the chips, the bringing forth all the stuff is is on a thinking that is is beyond anybody who I've ever seen before. The ideas and the f of the electric cars and the his mind is just it's it's does anybody else agree with
+- **[07:34](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=454s) · 他描述所见**：Bible prophecy is going to happen. So I'm always want to be careful because you don't want to add to or take away from anything. But I saw a dark demonic spirit behind it. Okay? And it had humongous, not little bitty horns, huge horns that look like huge, huge horns.
 
 ### 完整英文 Transcript
 
@@ -229,7 +254,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:32](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=512s) · 本段原话**：So it it was shocking and I told my wife, we talked about I said, "Diana, all the things the Lord showed me, even when the Lord took me in tribulation, it's coming to pass. It's happening. And we're going to start to see aliens, fallen angels, not real aliens.
+- **[09:07](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=547s) · 他描述所见**：So that's what I had for you about Elon Musk. I I thought it was kind of interesting, you know, uh what I saw in the spirit about him with that big devil behind him. But uh you know, let's just pray. You know, we don't get all I don't get into all the darkness, but I just
+- **[09:21](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=561s) · 本段原话**：want to tell you all we're getting close to Jesus coming. I want to encourage you to keep your eyes to the skies that Jesus Christ is coming. And it's exciting times, folks, but it's time to get radical for Jesus and get your heart, your lamps full of oil, seeking him daily and being excited about his
+- **[11:44](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=704s) · 本段原话**：bear us up in our hands lest we dash our foot against a stone. And Father we put a bloodline around our voting areas and around our voting booths and around our neighborhoods and over where we go that there will be no weapon formed against us that will prosper. And we say there
 
 ### 完整英文 Transcript
 
@@ -332,7 +364,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、美国选举与投票
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、美国选举与投票、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、美国选举与投票展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[13:49](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=829s) · 本段原话**：would be by the spirit of the Lord raising up inside of them saying, "Vote this way." And the things they're trying to cover up would be exposed. Yep. And the things they're trying to cover up will be exposed. Angels are going right now on assignment. We call forth angels on assignment right now in the name of
+- **[14:08](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=848s) · 本段原话**：Jesus that you are moving in our behalf angels and you are causing it to come to pass. Every evil plot, every evil thing that the devil has in store, Father, you will turn it around for good in our favor in the name of Jesus. that we will not have uh the a turnout of
+- **[14:29](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=869s) · 本段原话**：demonic voting with illegal people voting illegally that it will all be Father your by your hand. We thank you, Lord, that it'll be people. Father, I thank you that you would part the sea just like you did. That you would part the sea just like you did for the children of Israel, Father. And you're
+- **[14:48](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=888s) · 本段原话**：going to part the sea for America right now. Father, that that we will walk upon dry ground and we go to the other side and Pharaoh's left behind. I thank you, Father, that all hidden things be revealed. And I call for favor over Ted Cruz. I thank you that Ted Cruz will win by a landslide in
 
 ### 完整英文 Transcript
 
@@ -426,7 +465,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[17:17](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1037s) · 他描述所见**：Do not get discouraged. We call forth her to have a backbone and be strong even in oh amate. Even do not give up even after the day. Do not give up after the day. Do not give up after that Tuesday. Do not give up after the Wednesday. Do not give up after the Thursday. I see them trying
+- **[17:41](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1061s) · 他描述所见**：to delay, delay, delay. Keep on keeping on. Keep on keeping on. A fighter mentality you must have. A fighter mentality you must have. Oh, it'll be so close. I see us.
+- **[18:12](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1092s) · 他描述所见**：So close. So close. So close. A recount. A recount. A recount. I see what we call a recount. A recount of the the Democrat fighting this.
+- **[19:38](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1178s) · 他描述所见**：people that are set in position to help her. Father, a strategic people to help her that this thing is not robbed from her. Father, I thank you, Lord, that there are strategic people put around her right now. Father, people that are just judges. I see the judges. There's judges involved in this. There will be
 
 ### 完整英文 Transcript
 
@@ -488,7 +534,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:22](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1222s) · 他描述所见**：Not party line that they go, "Well, no, we're just doing it because we're liberal." No, that they would have Father, there's favor there. I call favor there. I see somebody. We pray over that heart of that judge right now. We pray over the heart of the judge right now in the name of Jesus. We say, Satan, get your hands
+- **[20:51](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1251s) · 本段原话**：off of that heart that that that of the of the of the will of the mind over the mind, declarity of the mind. I bind you in the name of Jesus. you get out of there that the judge will be able to f function and think freely making good decisions not being influenced by
+- **[21:13](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1273s) · 他描述所见**：demonic spirits. I see clear into it. [Music] Father, I thank you, Lord. All hidden ballots be revealed.
+- **[22:18](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1338s) · 他描述所见**：Oh, by 200,000 in Jesus name. by 200,000 votes in the name of Jesus. Wide in the margin, I see the number 200,000. Over the counties, we call the red votes. We call them in. foreign.
 
 ### 完整英文 Transcript
 
@@ -555,7 +608,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:01](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1441s) · 他进行祷告**：in in Jesus' name. The victory is ours. And we pray father that Carrie Lake has she is not we will not be discouraged. She has peace that passes all understanding. She takes the land and she takes the land.
+- **[24:38](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1478s) · 本段原话**：We lift her up. Her family. We lift up her. She will have confidence. Even the workers surrounding her. Yep. From the smallest to the biggest helping her. Do not fold. Do not fold.
+- **[27:33](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1653s) · 本段原话**：protection over the election. There's protection over America. That there's angels now taking charge and there war.
+- **[27:40](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1660s) · 他表达判断**：If there are swords and shields drawn, they're watching over us. And I thank you, Lord, that we're always in the right place at the right time. Do you believe that, ladies and gentlemen? You are always in the right place at the right time, doing exactly what God's called you to do at all times. I believe
 
 ### 完整英文 Transcript
 
@@ -648,7 +708,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:01 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:30](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1710s) · 他表达判断**：If you want to learn about tongues, yes, find the book by Tongues. It's what it's called. Why tongues and and it's by brother Kenneth E. Hagen. read that book and it will bless you. And I believe you say that prayer along in that book and you'll be baptized in the Holy Spirit.
+- **[28:49](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1729s) · 本段原话**：Speaking in tongues and speaking in fire and it's time to come up higher in Jesus' name. So if you're new here, could you please like our videos, subscribe, subscribe for our videos, like our videos, and click the notification bell, folks. It's what gets the gospel spread throughout the whole world and we are doing it every single
+- **[29:49](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1789s) · 他描述所见**：completely off. And they had to have seven surgeries on it and still after seven surgeries she couldn't lift her hand above her her head. And so and the power of God and she was raising her hand in church. I saw glory to God. It was amazing to see that die. a arm that
+- **[30:45](https://www.youtube.com/watch?v=KAiBdsXZ8jM&t=1845s) · 本段原话**：they're still stirring on that. That was definitely necessary. Praying for Carrie Lake. So, uh if this, like we said, you like it, whatever. But we just want to say put a smile on your face and a song in your heart. Jesus loves you so much and we love you and we're excited y'all
 
 ### 完整英文 Transcript
 

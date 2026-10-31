@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1123；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 - [10. 45:00–48:38 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:44](https://www.youtube.com/watch?v=gGCKex1IOtE&t=44s) · 他描述所见**：So, I've been in great intercession for this o over the last 24 hours praying and the Lord has showed me some things concerning this. And this is what the Lord was showing us about World War III trying to spark World War II with Poland. And I said, when you see these things, I saw Russia will use weapons of
+- **[10:11](https://www.youtube.com/watch?v=gGCKex1IOtE&t=611s) · 他描述所见**：And I saw a Polyon creating great war. And so now Putin moves to escalate war in Ukraine with talks at dead end. And so uh what will happen with uh North Korea and with uh uh his his alliances.
+- **[20:02](https://www.youtube.com/watch?v=gGCKex1IOtE&t=1202s) · 本段原话**：all these ma this is all playing out because the dollar is in trouble and the economy $40 trillion in the hole and that's why they're trying to figure out who's going to be the survivor of this Titanic going down and they're fighting and the Lord showed me they were fighting and they were pulling their
+- **[26:13](https://www.youtube.com/watch?v=gGCKex1IOtE&t=1573s) · 他描述所见**：the medication all in my opinion of what the Lord showed me. It was for the seven deadly sins and obesity and slothfulness was back in the back. And I saw the devil petition about this and uh for gluttony and I saw be uh because of diabetic medicines and things like that that this
+- **[35:39](https://www.youtube.com/watch?v=gGCKex1IOtE&t=2139s) · 本段原话**：Leading cause of death. Look at that. Shame on you. The blood of the innocent, it's crying out. You wonder why it say once you repent and turn from your wicked ways, you'll get some rain. God have mercy.
+- **[45:08](https://www.youtube.com/watch?v=gGCKex1IOtE&t=2708s) · 本段原话**：The healing power of God flows on their bodies in the name of Jesus from the top of their head to the soles of their feet. We take authority over every demonic spirit that's tried to come and kill, steal, and destroy in their life.
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：Russia、Ukraine、Canada、France。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:44](https://www.youtube.com/watch?v=gGCKex1IOtE&t=44s) · 他描述所见**：So, I've been in great intercession for this o over the last 24 hours praying and the Lord has showed me some things concerning this. And this is what the Lord was showing us about World War III trying to spark World War II with Poland. And I said, when you see these things, I saw Russia will use weapons of
+- **[01:44](https://www.youtube.com/watch?v=gGCKex1IOtE&t=104s) · 他表达判断**：So, him and Syria is talking. Russia President Putin calls Syria president to reaffirm his support for Syria. So, he's reaffirming, hey, we're together. We We got We got stuff going on, right? We're cool. I think it's interesting as we see the CIA going to uh Moscow. What's being discussed? I truly believe it was about
+- **[02:47](https://www.youtube.com/watch?v=gGCKex1IOtE&t=167s) · 他描述所见**：I saw that he had a hundred million and $100 bills and they were on a plane and he was going to flee. But he there was a plan to in the days ahead with Russia and America to remove him like a Jason Bourne experience. So I saw a Jason Bourne kind of a decision being made
+- **[03:53](https://www.youtube.com/watch?v=gGCKex1IOtE&t=233s) · 本段原话**：And so, um, here we see Putin moves to escalate war in Ukraine with talks at dead end. They're going to a dead end and he's reaching further into Moscow than he's ever has before. They were saying that he had he's he's going way deep in like 6,000 miles or something what it was right deep into Moscow. And
 
 ### 完整英文 Transcript
 
@@ -136,7 +154,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、战争与国际事务。 提到的地点：Canada、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:37](https://www.youtube.com/watch?v=gGCKex1IOtE&t=337s) · 他描述所见**：And as I was seeing this I saw the economy of the world going down like a Titanic and they were fighting to who would be still alive at the end who's still going to be strong at the end. And it's like war, whatever it may may be.
+- **[07:50](https://www.youtube.com/watch?v=gGCKex1IOtE&t=470s) · 他描述所见**：And as I saw why he took a Venezuela, why I saw he went after Iran with the with the nuclear and all the things that they're talking about, it's a bigger picture than what you realize. America sinking. We're $40 trillion in the hole.
+- **[08:27](https://www.youtube.com/watch?v=gGCKex1IOtE&t=507s) · 他描述所见**：House. But I saw certain things trying to he was trying to maneuver even with Greenland and uh making Carney Canada make his big decisions because a can Canada's economy is in trouble. And that's why I say he turns his back and starts looking at him because he knows what's going to happen. But he's he's
+- **[09:06](https://www.youtube.com/watch?v=gGCKex1IOtE&t=546s) · 他表达判断**：And I heard Ezekiel 38 and 39 is at the door concerning Putin. He's playing for the long haul. Trump has two years and Trump's just trying to barely he's going to say trying to get through trying and whether or not J D Vance gets chosen or uh Rubio or whoever um I I believe it'll be uh Rubio in
 
 ### 完整英文 Transcript
 
@@ -249,7 +274,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、AI、科技与监控。 提到的地点：Ukraine、Iran、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:11](https://www.youtube.com/watch?v=gGCKex1IOtE&t=611s) · 他描述所见**：And I saw a Polyon creating great war. And so now Putin moves to escalate war in Ukraine with talks at dead end. And so uh what will happen with uh North Korea and with uh uh his his alliances.
+- **[13:20](https://www.youtube.com/watch?v=gGCKex1IOtE&t=800s) · 本段原话**：That's interesting, isn't it? He's warning just like the first time. Do you all remember when he warned about the first one in CO? Now he's telling you again the plan of what they're going to do of 10 million deaths. Now clearly a a big war could and [music] a pandemic natural or or created by boteterror.
+- **[13:42](https://www.youtube.com/watch?v=gGCKex1IOtE&t=822s) · 本段原话**：[music] The natural pandemic the last gigantic one was 100 years ago. We are healthier today, but the speed of travel and therefore the speed of global spread [music] that works against us. But in some ways the bioteterror thing uh scares me the most. All [music] it takes is one small terrorism group. Uh you know those
+- **[14:28](https://www.youtube.com/watch?v=gGCKex1IOtE&t=868s) · 他描述所见**：[clears throat] I saw uh there was one over uh America, one in Europe, one in Asia, and they would have meetings with the devil. And I saw these men having meetings that had big money. The real rich men were having business meetings with the devil.
 
 ### 完整英文 Transcript
 
@@ -369,7 +401,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 物资、能源与供应链、战争与国际事务
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、战争与国际事务、预言、梦境与异象。 提到的地点：Canada、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、战争与国际事务展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:22](https://www.youtube.com/watch?v=gGCKex1IOtE&t=922s) · 他描述所见**：Doesn't matter. But they were they were negotiating and the obesity epidemic AC pro across the world has reached heights beyond anybody's comprehension on purpose. When remember whenever I told you all I saw the 350 million people perish, 350 million would go home, but I didn't know. I thought it was going to be a um kind of like a co
+- **[16:43](https://www.youtube.com/watch?v=gGCKex1IOtE&t=1003s) · 他表达判断**：And and and I think it's interesting because here we go. This is here we and isn't it interesting timing when the Lord warned us about 2027 the fall of 2027. Bill Gates warns AI doomsday scenario is coming with bioteterror pandemic and huge job losses that just happened uh yesterday. So, Bill Gates wants to
+- **[17:54](https://www.youtube.com/watch?v=gGCKex1IOtE&t=1074s) · 他描述所见**：And I saw trouble on the water. Brits to be told, "Stock up on bottle water and 10 food to prepare for threatening, including cyber attacks and weather."
+- **[19:09](https://www.youtube.com/watch?v=gGCKex1IOtE&t=1149s) · 他描述所见**：So, UK to warn citizens to stock up on food, a threat from climate crisis and hostile states. They they know what's coming with Russia and that's why America flew over there. This is this is about like I said I saw across it World War III.
 
 ### 完整英文 Transcript
 
@@ -484,7 +523,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:02](https://www.youtube.com/watch?v=gGCKex1IOtE&t=1202s) · 本段原话**：all these ma this is all playing out because the dollar is in trouble and the economy $40 trillion in the hole and that's why they're trying to figure out who's going to be the survivor of this Titanic going down and they're fighting and the Lord showed me they were fighting and they were pulling their
+- **[21:13](https://www.youtube.com/watch?v=gGCKex1IOtE&t=1273s) · 本段原话**：That's how close we are. They're getting already and I said watch. They're going to roll this out in 2027, 2028, 2029, 2030. Watch what happens over this next little bit of time. It's going to be like a freight train. And when they bring out the new virus, it will be very very uh over the it's going to it's
+- **[23:37](https://www.youtube.com/watch?v=gGCKex1IOtE&t=1417s) · 他描述所见**：I saw it passing by one vote. I saw one person reaching across the aisle and making this happen. One person. It that's they needed that one vote. So will we get the one vote now or will it be in January? because I saw January, February, March, April, May, June, July, August of trying to pump the economy
+- **[24:42](https://www.youtube.com/watch?v=gGCKex1IOtE&t=1482s) · 他表达判断**：We love it. That's what we do here. a lot of investors that I talked to thinking it is kind of dead in the water for 2026 and could get delayed till 2027. Um, if that's the case though, I think the status on regulation is that the SEC and the CFTC are still largely
 
 ### 完整英文 Transcript
 
@@ -621,7 +667,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 疾病、医疗与药品、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：疾病、医疗与药品、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕疾病、医疗与药品、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[26:13](https://www.youtube.com/watch?v=gGCKex1IOtE&t=1573s) · 他描述所见**：the medication all in my opinion of what the Lord showed me. It was for the seven deadly sins and obesity and slothfulness was back in the back. And I saw the devil petition about this and uh for gluttony and I saw be uh because of diabetic medicines and things like that that this
+- **[27:03](https://www.youtube.com/watch?v=gGCKex1IOtE&t=1623s) · 本段原话**：Are you listening? He's telling you ahead of time. He brought people uh cyber attacks or in the extreme case bioteterrorism. And so you know these um negative uses uh we need to monitor things like creating a a dangerous virus uh to to see if that's happening. Another problem will be the job market change which has
+- **[28:49](https://www.youtube.com/watch?v=gGCKex1IOtE&t=1729s) · 本段原话**：Yeah, the pandemic sadly uh was fairly predictable. Uh and it won't be the last pandemic. Uh the next one could be far more severe. I mean, this one, it killed millions. It was awful. Uh we got the vaccine. You know, uh actually President Trump's leadership was a factor in getting that out quickly. and and so I
+- **[29:35](https://www.youtube.com/watch?v=gGCKex1IOtE&t=1775s) · 本段原话**：was reading though that you said the next pandemic you are predicting within maybe 25 years certainly we'll one in the next 25 years. Uh you know there's even some pathogens out there that we're watching over right now.
 
 ### 完整英文 Transcript
 
@@ -749,7 +802,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 物资、能源与供应链、疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、疾病、医疗与药品、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、疾病、医疗与药品展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:38](https://www.youtube.com/watch?v=gGCKex1IOtE&t=1838s) · 他描述所见**：He he gave you all three talking about nuclear war. I saw a I saw a weapon used and I've an and AI and pandemic. Do you see? And then and then you the United Kingdom saying you need to have food. You need to have all this stuff cuz the weather weather manipulation all this stuff. And I said
+- **[31:17](https://www.youtube.com/watch?v=gGCKex1IOtE&t=1877s) · 本段原话**：double. They will double after Rashashana. Remember what I tell you. You will not recognize the world by this time next year going into the fall of 2027, you're going to pinch yourself and go, "Oh my goodness."
+- **[32:29](https://www.youtube.com/watch?v=gGCKex1IOtE&t=1949s) · 他描述所见**：I'm warning you people. This is what I saw when I prayed. Now is people go, "Well, Brandon, you're saying all this stuff. It's what I see in visions." I anointed my microphone with oil and I was trying to rub some of it in there because uh I anoint everything with oil, don't I? [laughter]
+- **[34:20](https://www.youtube.com/watch?v=gGCKex1IOtE&t=2060s) · 本段原话**：A new analyst of data has revealed the leading cause of death in Scotland is abortion. They're aborting so many babies and and and murdering so many children that it's the leading cause of death. Not cancer, not diabetes, not not not heart attack, abortion. There's more babies aborted and it's the leading cause of death in Scotland.
 
 ### 完整英文 Transcript
 
@@ -880,7 +940,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、物资、能源与供应链。 提到的地点：Canada、California、Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:39](https://www.youtube.com/watch?v=gGCKex1IOtE&t=2139s) · 本段原话**：Leading cause of death. Look at that. Shame on you. The blood of the innocent, it's crying out. You wonder why it say once you repent and turn from your wicked ways, you'll get some rain. God have mercy.
+- **[36:29](https://www.youtube.com/watch?v=gGCKex1IOtE&t=2189s) · 他描述所见**：Even going into Walmart and all these other places, even in churches, and some churches in the days ahead, I saw they will scan you and if you don't uh meet uh the FBI database or whatever it is that they're looking for, I don't know.
+- **[38:29](https://www.youtube.com/watch?v=gGCKex1IOtE&t=2309s) · 他描述所见**：Oh, I see. Yeah, it's right there. It's just a blue light. It looks like a It looks like outer space. And then and Ohio and and uh Huh?
+- **[39:18](https://www.youtube.com/watch?v=gGCKex1IOtE&t=2358s) · 他转述所听到的话**：The Lord said, "Who is who will help me bring in the harvest?" It he's leaving the 99 to go after the one. We work while it is day for night is coming when no one can work. That's why I told Billy Burke about Canada. He was going to Canada this week and I said, "Workwide
 
 ### 完整英文 Transcript
 
@@ -1014,7 +1081,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:02](https://www.youtube.com/watch?v=gGCKex1IOtE&t=2402s) · 他表达判断**：evil man. We're in a time like never before. This is a time you should be heightened like and and be alert. Uh you know, I think it's interesting. The Lord told us to watch uh the Yankees and the Red Sox. They play at Yankee Stadium this weekend on a double double header, the day after the blood moon. And the
+- **[40:48](https://www.youtube.com/watch?v=gGCKex1IOtE&t=2448s) · 他表达判断**：and I believe it will be a time of uh great shakings in the days ahead um so it was something to really watch. Well, I pray this video educated you or uh maybe opened your eyes to some things of where we are. Like I said, I don't ever want to bring fear to you, but I always
+- **[41:55](https://www.youtube.com/watch?v=gGCKex1IOtE&t=2515s) · 本段原话**：pretty self-explanatory. Don't fear. God's got you. Everything is going to be all right with the household of faith. If you're a believing believer and you're not a doubter, being in the right place at the right time will save your life. Listening to him on a day-to-day basis, getting in the word, finding out who you are in Christ.
+- **[43:17](https://www.youtube.com/watch?v=gGCKex1IOtE&t=2597s) · 本段原话**：Father, I thank you, Lord, that you're meeting all their needs as they get ready to get ready as they get ready to go into their weekend and they're getting ready for their Friday and all the things that they're looking forward to this weekend. Father, we claim rain over the southern states. I say in the
 
 ### 完整英文 Transcript
 
@@ -1146,7 +1220,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–48:38 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:08](https://www.youtube.com/watch?v=gGCKex1IOtE&t=2708s) · 本段原话**：The healing power of God flows on their bodies in the name of Jesus from the top of their head to the soles of their feet. We take authority over every demonic spirit that's tried to come and kill, steal, and destroy in their life.
+- **[46:06](https://www.youtube.com/watch?v=gGCKex1IOtE&t=2766s) · 本段原话**：We thank you, Lord, for the right spouse for some of these people. We thank you, Lord, that they find the right church, a church that teaches them the word of God, and they move in the gifts of the Holy Ghost. Father, I thank you, LORD, THAT YOU'RE CALLING UP PASTORS and prophets and evangelists and teachers,
+- **[47:28](https://www.youtube.com/watch?v=gGCKex1IOtE&t=2848s) · 他描述所见**：He takes care of all that. I But I just want to let you know we are so thankful for every single one of you. every single one of you that have written in and you know and I see your needs and we and I read over it. Dian and I read over it. We pray over it as a family. And we
+- **[47:44](https://www.youtube.com/watch?v=gGCKex1IOtE&t=2864s) · 他表达判断**：believe, but I bring it publicly to pray over it. And I believe with all that you are asking for that that that it will be exceedingly abundantly above all that you dare ask or think that God is meeting you at the at your at greater than your expectation. And I believe it in the name of Jesus.
 
 ### 完整英文 Transcript
 

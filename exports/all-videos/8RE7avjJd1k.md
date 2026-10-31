@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 527；**章节数**: 6；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -16,10 +16,28 @@
 - [05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
 - [06. 20:00–21:53 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
 
+## 全片概述与 Key Points
+
+全片共 6 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:39](https://www.youtube.com/watch?v=8RE7avjJd1k&t=39s) · 他表达判断**：Whenever I got to 10,000, I thought, man, this is a lot of people. And I and and I and I told my son, I said, "Do you ever think we'll get to a 100,000?" I said, you know, and he goes, "Yeah, Dad, I believe we will. You know, it may take a while, you know, but what you know,
+- **[04:09](https://www.youtube.com/watch?v=8RE7avjJd1k&t=249s) · 本段原话**：the whole project, the greatest construction project on earth right now is called Neil. It's like a futuristic green uh city. And guess who's building it? The greatest, you know, the biggest Sunni uh country in the world. I I'm going to be real with y'all and and I and I'm just going to be as bold and as
+- **[08:02](https://www.youtube.com/watch?v=8RE7avjJd1k&t=482s) · 他描述所见**：were planning in America another type of a 911 event. Now we know what happened in 911 with the the flights and everything. Now how long did it take to plan something out like that big? I don't know. I don't know if they've already have it planned. I don't know anything. All I know is I saw this and
+- **[13:05](https://www.youtube.com/watch?v=8RE7avjJd1k&t=785s) · 他表达判断**：Thomas was a tragic accident and but but he went home too early. He was I think 13 years old, 14 years old and um that dump truck hit him now because there was no beeper on the back of the the the dump truck. Well, it's terrible things happen. But you know what I'm saying?
+- **[16:00](https://www.youtube.com/watch?v=8RE7avjJd1k&t=960s) · 本段原话**：inside of me to tell you all Jesus is coming. And then the Lord keeps telling me about the revival. I keep seeing a revival take place, a major major outpouring of the grace of God like we've never seen before. A supernatural uh uh grace explosion upon America, upon this earth for one last push for a major harvest of
+- **[20:10](https://www.youtube.com/watch?v=8RE7avjJd1k&t=1210s) · 他进行祷告**：He saved my soul. He delivered me. He set me free. I I pray to you, God, because I love you and I want relationship with you today. Not trying to get something from you, but just to give praise to you. He's worthy of it.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、个人故事与访谈
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、个人故事与访谈、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、个人故事与访谈展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:39](https://www.youtube.com/watch?v=8RE7avjJd1k&t=39s) · 他表达判断**：Whenever I got to 10,000, I thought, man, this is a lot of people. And I and and I and I told my son, I said, "Do you ever think we'll get to a 100,000?" I said, you know, and he goes, "Yeah, Dad, I believe we will. You know, it may take a while, you know, but what you know,
+- **[01:42](https://www.youtube.com/watch?v=8RE7avjJd1k&t=102s) · 本段原话**：blessing to us. You are helping get the gospel spread throughout the whole world. Literally, we are getting people saved throughout the whole world. And so, I thought it was cool. I I want to tell you all something. Uh, Pastor Steve Czechalani called me uh today and uh he was in a nearby city and he said,
+- **[03:29](https://www.youtube.com/watch?v=8RE7avjJd1k&t=209s) · 本段原话**：weeks ago, he said to me, he said, "Brandon, I want you to watch Passover for when Passover comes, there's going to be an acceleration of things even more so from what it was from Roharasha to Rosha." prophetic ministry is saying, "Oh, no. You know, if Trump comes in, it's going to be great. Everything's
+- **[03:46](https://www.youtube.com/watch?v=8RE7avjJd1k&t=226s) · 他表达判断**：going to work out great. We're all going to be rich." Pockets of, I believe, turbulence, civil war, terrorism. Um, but nothing engulfs the whole world.
 
 ### 完整英文 Transcript
 
@@ -125,7 +143,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:09](https://www.youtube.com/watch?v=8RE7avjJd1k&t=249s) · 本段原话**：the whole project, the greatest construction project on earth right now is called Neil. It's like a futuristic green uh city. And guess who's building it? The greatest, you know, the biggest Sunni uh country in the world. I I'm going to be real with y'all and and I and I'm just going to be as bold and as
+- **[06:12](https://www.youtube.com/watch?v=8RE7avjJd1k&t=372s) · 他表达判断**：I don't know if he'll put it all on there, but we all talk for like 45 minutes. I think he might edit it down a lot, but who knows? But if whatever he edits out and he doesn't uh doesn't like it and he uh he wants uh to maybe he'll let me put some of it on there. I don't
+- **[06:37](https://www.youtube.com/watch?v=8RE7avjJd1k&t=397s) · 他表达判断**：Let's go on to something else here. But things are escalating like warp speed now as everybody can see. You know, I I wanted to tell you all I was praying and I was in the spirit and um I think it was like four or five days ago. The Lord warned me about three men. And I want
+- **[07:48](https://www.youtube.com/watch?v=8RE7avjJd1k&t=468s) · 他描述所见**：They the one guy was heavy set. He had a in the vision what the Lord showed me and he had a great big uh black beard, big black looking beard. He was Middle Eastern. And so he told me that they
 
 ### 完整英文 Transcript
 
@@ -234,7 +259,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:02](https://www.youtube.com/watch?v=8RE7avjJd1k&t=482s) · 他描述所见**：were planning in America another type of a 911 event. Now we know what happened in 911 with the the flights and everything. Now how long did it take to plan something out like that big? I don't know. I don't know if they've already have it planned. I don't know anything. All I know is I saw this and
+- **[08:26](https://www.youtube.com/watch?v=8RE7avjJd1k&t=506s) · 他描述所见**：Okay? Whether whether what city, whatever, I don't know. All I saw was a vision and the Lord gave it to me and he told me to intercede for protection. So here's another warning.
+- **[09:45](https://www.youtube.com/watch?v=8RE7avjJd1k&t=585s) · 本段原话**：like a it's a check. You'll feel like I feel bothered. I don't feel like we should do that today. Now, you always test the spirits and you say, "Is this you?" Now, don't let a spirit of forbodings bother you. If you look at that, it's a demonic spirit and it tries to torment you. You I'm not talking
+- **[11:26](https://www.youtube.com/watch?v=8RE7avjJd1k&t=686s) · 本段原话**：You may hear it and say your your your your teenager might say, "Hey, I'm going over to my friend's house tonight and um we're going to have a sleepover and you may feel inside, I don't feel good about that circum circumstance." And you you have control over your kids to be able to protect them, you know, as what
 
 ### 完整英文 Transcript
 
@@ -344,7 +376,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[13:05](https://www.youtube.com/watch?v=8RE7avjJd1k&t=785s) · 他表达判断**：Thomas was a tragic accident and but but he went home too early. He was I think 13 years old, 14 years old and um that dump truck hit him now because there was no beeper on the back of the the the dump truck. Well, it's terrible things happen. But you know what I'm saying?
+- **[13:39](https://www.youtube.com/watch?v=8RE7avjJd1k&t=819s) · 本段原话**：a fact Jesus is coming and he's coming soon. So, I just wanted to tell you all being in the right place at the right time in these last days is crucial, crucial that we hear him every day. And uh follow the peace that passes all understanding inside of your spirit.
+- **[14:15](https://www.youtube.com/watch?v=8RE7avjJd1k&t=855s) · 本段原话**：to you because I'm telling you all, I I have I have such a a inward check about things. Things are happening. You can feel it. Even after o uh Biden's State of the Union, y'all, I'm telling you, something big's fixing to happen. Some big major major events are fixing to take place with Israel
+- **[15:21](https://www.youtube.com/watch?v=8RE7avjJd1k&t=921s) · 本段原话**：Lord really spoke to me. I'm telling you, there's there's even he's getting warnings about things about these dragons, these red dragons, and the things he saw the Lord showed him and and it was just it was a really prophetic dream about uh uh food shortages and things like that. And so I try, like I said, I try not to come on
 
 ### 完整英文 Transcript
 
@@ -446,7 +485,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=8RE7avjJd1k&t=960s) · 本段原话**：inside of me to tell you all Jesus is coming. And then the Lord keeps telling me about the revival. I keep seeing a revival take place, a major major outpouring of the grace of God like we've never seen before. A supernatural uh uh grace explosion upon America, upon this earth for one last push for a major harvest of
+- **[17:27](https://www.youtube.com/watch?v=8RE7avjJd1k&t=1047s) · 他表达判断**：I believe that every single person that is watching this video today can walk an abundant life full of the Holy Ghost, full of expectation and manifestations of the glory. We are living in those last days, Father. And I thank you, Father, that they're healed and whole and well from the top of their head to
+- **[17:47](https://www.youtube.com/watch?v=8RE7avjJd1k&t=1067s) · 本段原话**：the soles of their feet. They're delivered from sickness and disease. They're delivered from bondage. They're delivered from satanic oppression of all kinds, generational curses, generational strongholds. We call them broken off of your life. We call you delivered and set free by the power of Jesus. And Father, I thank you, Lord, for every single
+- **[19:42](https://www.youtube.com/watch?v=8RE7avjJd1k&t=1182s) · 他进行祷告**：It's not by works lest any man should boast. It's all about his grace and he paid the price for you. And I'm telling you all, it's very important that you understand that. Yeah, we read the Bible and pray. Yeah, we do all this stuff, but we do it with a motive to get close
 
 ### 完整英文 Transcript
 
@@ -552,7 +598,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–21:53 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:10](https://www.youtube.com/watch?v=8RE7avjJd1k&t=1210s) · 他进行祷告**：He saved my soul. He delivered me. He set me free. I I pray to you, God, because I love you and I want relationship with you today. Not trying to get something from you, but just to give praise to you. He's worthy of it.
+- **[20:28](https://www.youtube.com/watch?v=8RE7avjJd1k&t=1228s) · 本段原话**：And if and and all that he does back is by grace. You can't earn it and you don't deserve it. It's grace. He loves us. And I just want you to be encouraged today. That's what I'm trying to tell you all. Be encouraged today. Jesus loves you. Jesus loves you and he paid
+- **[21:02](https://www.youtube.com/watch?v=8RE7avjJd1k&t=1262s) · 本段原话**：His peace, his peace is on you today. his peace, his love, his joy, his his self-control concerning food, concerning things. So, I just want to encourage y'all today. I just want to tell you thank you for being a part of this YouTube channel and to be praying about these bozos crossing the border. They're
+- **[21:20](https://www.youtube.com/watch?v=8RE7avjJd1k&t=1280s) · 他表达判断**：serious. These guys are bad. And we need to pray pray for uh divi for them to be caught, exposed, and the Lord would would uh bring people uh to the the intelligent people to to find out about them. and they'll be and they'll be busted. So, I believe it. All hidden things be revealed. No weapon formed
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 613；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 教会、复兴与信仰、预言、梦境与异象](#section-06)
 - [07. 24:00–24:22 · 教会、复兴与信仰](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=0s) · 他表达判断**：hey good morning family praise the Lord another day this is day 46 I believe 47 47 Braden and I are out here we we came to the park to do a video cuz I said this isn't a green screen this isn't a green screen this is real live leaves yeah here in a park it's so beautiful uh
+- **[04:37](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=277s) · 他表达判断**：end of the SMA cycle on and whenever president Trump's uh presidency is over in 2028 that would that would end that cycle of of the shmita which would be the end of the uh when we would have the Revival and I believe the catching away could happen in that time frame at that
+- **[08:01](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=481s) · 他表达判断**：have blessing on us I believe favor this will be a season of favor like you've never seen before the Lord said Brandon I'm giving favor to my people a supernatural abundance of favor coming on you as a as a child of the most high God we are ambassadors of the Lord Jesus Christ and the Lord showed me he said
+- **[16:15](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=975s) · 他表达判断**：udica square and I think it's beautiful I thought isn't that beautiful but thank you for being here today I know it was kind of a short little video but I I I had I was on the phone with p Pastor Steve for a long time today talking about Revelations and stuff and it was just um I I think it's
+- **[20:01](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=1201s) · 本段原话**：opinion some people like squirel though getting that you have to skin them and get the fur all and the meat it was gross I mean it really was thinking about childhood stuff I went to that and rabbit wait till the first freeze you make sure the rabbit's dead and then go out there and hunt
+- **[24:00](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=1440s) · 本段原话**：well thank you for joining me today sorry to keep getting like squirrel there's so many things so many things happening look there squirrel there's another one like subscribe and and and we'll see you again tomorrow remember put a smile on your face and a song in your heart Jesus loves you so much and we love you
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=0s) · 他表达判断**：hey good morning family praise the Lord another day this is day 46 I believe 47 47 Braden and I are out here we we came to the park to do a video cuz I said this isn't a green screen this isn't a green screen this is real live leaves yeah here in a park it's so beautiful uh
+- **[01:39](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=99s) · 本段原话**：all there's some trying days ahead there's some very serious days ahead for the body of Christ in the world great persecution great great thing I talked to um Pastor Steve calani on the phone today and we were going over the time frames going over what the Lord has showed both of us he talking about crypto talking about
+- **[02:41](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=161s) · 他描述所见**：when he believes that we will see a great drought and a great plague that would be midterm of President Trump's presidency whenever I warned you all I saw president Trump standing on the platform uh addressing the American people warning them of a major plague coming that was very deadly it was a very it was a very serious time frame
+- **[03:21](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=201s) · 本段原话**：taking place 2025 all uh through I mean when we saw the Hamas and all the things happen with that going up clear up into 2026 so I look at the time frames and I and I'll weigh out what he's saying in my spirit um some people don't believe the horses are riding yet they believe
 
 ### 完整英文 Transcript
 
@@ -126,7 +144,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:37](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=277s) · 他表达判断**：end of the SMA cycle on and whenever president Trump's uh presidency is over in 2028 that would that would end that cycle of of the shmita which would be the end of the uh when we would have the Revival and I believe the catching away could happen in that time frame at that
+- **[05:25](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=325s) · 他转述所听到的话**：enter into a major season of war in 2025 even yet to still to come with uh with the with the um with Russia and everything but we're praying against that I'm praying for peace I'm praying for a major Harvest of souls I'm praying for like the Lord told me an extended amount of time of four years for a
+- **[06:29](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=389s) · 他描述所见**：we're going to see another side of things that doesn't have anything to do with man it has going to have to do with the environment is what I'm trying to tell you all I saw great acceleration of things happening with the environment and so I want you to to to know that we're going to see tsunamis we're going
+- **[07:46](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=466s) · 他描述所见**：President Trump coming in and and and and and a season of great blessing now I'm telling you all I saw acceleration of war I've seen great great Darkness but we can we can as as it is for um our house we can we serve the Lord and we
 
 ### 完整英文 Transcript
 
@@ -236,7 +261,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=481s) · 他表达判断**：have blessing on us I believe favor this will be a season of favor like you've never seen before the Lord said Brandon I'm giving favor to my people a supernatural abundance of favor coming on you as a as a child of the most high God we are ambassadors of the Lord Jesus Christ and the Lord showed me he said
+- **[08:40](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=520s) · 他表达判断**：believe that blessing and that covering comes on you as you as you are helping us out by being a part of this family praying every day I believe we we're a body and we're we're moving together and we're operating together and we're going to move in the favor of God Supernatural abundance is coming to your household
+- **[09:29](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=569s) · 他表达判断**：to see more and more and more in these last days in this this outpouring that I'm telling you is coming it's going to take people to get bold about what they're believing for and step out in faith and say I believe I receive and this will be a time like never we never before so let's pray
+- **[11:48](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=708s) · 他表达判断**：of Jesus I believe it and I believe that for you that you'll be the best what you're called to do all for the glory of God that when you go into workplaces when you go into the boss the boss cuz man there's Supernatural wisdom on you
 
 ### 完整英文 Transcript
 
@@ -356,7 +388,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=721s) · 他表达判断**：they they don't even know what it is but they're going to go there's something different about them but it's a natural it's a supernatural wisdom it's a supernatural thing of how to lead finances and to do things a problem solving anointing I believe that that this is a time like never we stand out
+- **[13:48](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=828s) · 他描述所见**：squirrels over there it was jumping on that Branch ear they're kind of distracting me yeah broke it broke the branch off you broke the branch it there's squirrels everywhere oh oh yeah I see them right there see there's one over there there's one there's 1 2 3 4 five six six right here with this one look at this one baby
+- **[14:43](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=883s) · 本段原话**：beautiful yeah yeah this isn't in green screen though that's what I told y'all that this ain't this a't green screen you just he he's always behind the camera aren't you buddy yeah I appreciate you you tell them hi say thank you thank you for subscribing subscribing and uh I read your comments and uh saying you're from South Korea
+- **[15:25](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=925s) · 本段原话**：squirrels he's trying to get ready for the winter it's going to get cold here Tulsa's beautiful I love Tulsa it's it's really been beautiful but yeah yeah I don't know I just I'm thankful for every single one of you thank you for joining us today if you haven't uh watched one of our videos
 
 ### 完整英文 Transcript
 
@@ -470,7 +509,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:15](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=975s) · 他表达判断**：udica square and I think it's beautiful I thought isn't that beautiful but thank you for being here today I know it was kind of a short little video but I I I had I was on the phone with p Pastor Steve for a long time today talking about Revelations and stuff and it was just um I I think it's
+- **[17:06](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=1026s) · 本段原话**：can't stop that that means it's going to happen and that's going to mean that there's a lot of people that are fixing a parish and if that's the case that's that's terrible but not for you not for you you're covered in the blood you saw the honey glow yeah the honey glow yes
+- **[17:21](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=1041s) · 他描述所见**：thank you buddy yeah I saw the honey glow on the body of Christ and we were laying hands on the people in the tents they were M makeshift tents everywhere and they had the people on CS because the hospitals were full and they couldn't take everybody so they had military makeshift tents all throughout
+- **[18:11](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=1091s) · 本段原话**：him recover and if that happens and that green horse is riding like he's talking about and it's during President Trump's term then because I've seen it that would be in 2026 so he was putting a time frame on my on my visions and I thought it was interesting I was just like wow wow okay okay so I don't
 
 ### 完整英文 Transcript
 
@@ -582,7 +628,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=1201s) · 本段原话**：opinion some people like squirel though getting that you have to skin them and get the fur all and the meat it was gross I mean it really was thinking about childhood stuff I went to that and rabbit wait till the first freeze you make sure the rabbit's dead and then go out there and hunt
+- **[22:44](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=1364s) · 本段原话**：don't think there's anything else that matters other than to do the Great Commission raise the Dead cast out Devils do every everything I can to bring in the Harvest because Jesus is coming and if he's given us a fouryear window of reprieve in America to do a great to bring in a great harvest let's
+- **[23:03](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=1383s) · 他表达判断**：do all we can to bring in the souls that not one should perish that all come to repentance that's the kind of God I think we serve as a god of mercy and a god of love but yet the time is running out Jesus is standing at the door ladies and gentlemen and Jesus is coming soon I
+- **[23:22](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=1402s) · 他表达判断**：believe at the next shita cycle we'll see in in four years that's just my opinion after that if it doesn't he doesn't come in that time frame it'll be another seven years that's just what I believe with the scripture what Pastor I mean with Billy Bram and Rick grener and all them that's what they teach now you have
 
 ### 完整英文 Transcript
 
@@ -682,7 +735,11 @@
 <a id="section-07"></a>
 ## 07. 24:00–24:22 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=GF5JHPdXNqs&t=1440s) · 本段原话**：well thank you for joining me today sorry to keep getting like squirrel there's so many things so many things happening look there squirrel there's another one like subscribe and and and we'll see you again tomorrow remember put a smile on your face and a song in your heart Jesus loves you so much and we love you
 
 ### 完整英文 Transcript
 

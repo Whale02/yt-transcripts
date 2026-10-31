@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 583；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-06)
 - [07. 24:00–25:39 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:18](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=18s) · 本段原话**：are you believing for in 2024 and I want you to talk to the people to to to encourage them to to tell them to believe me for the impossible in 2024 believe for the impossible believe for something that's so big and so out of your comprehension that it would only take God to move in your circumstances
+- **[04:00](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=240s) · 他进行祷告**：it down pray over it take communion over it call that husband in put yourself in a position though to meet this this person it may like I told him you may need to relocate your life to a different city and the Lord says hey your husband or your your your wife is in such and such place and you're
+- **[08:14](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=494s) · 他表达判断**：going to heal Megan but God that you'll provide a bedroom for my for my for my little one uh and that's what I do I pray for it and God give you the desires your heart ladies and gentlemen I believe with all my heart he is not uh broke he's not up there going well I got
+- **[16:01](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=961s) · 本段原话**：standing on and I you're not going to receive nothing because it's the word that backs the prayer word back prayer that's what you're going to get your faith that's what puts the faith in motion with love and it's like a it's like a formula you've got to have the right things people say well I don't get any
+- **[20:00](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=1200s) · 本段原话**：never I I I I still shake myself all the time because I I used to believe for Ministry for years and and to see that God would be able to use me and I'm thankful I'm thankful he's he's brought all this to pass this was one of the things I wrote on this is one of the things I wrote on
+- **[24:00](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=1440s) · 本段原话**：creative ideas to get wealth increase in in everything they put their hands to will prosper jobs and better jobs raises and bonuses benefits sales and commissions growth in business and inheritances interest in in returns rebates and returns I'm sorry gifts and surprises finding money bills paid off blessings increase believe it all there's overflow coming to you in your
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:18](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=18s) · 本段原话**：are you believing for in 2024 and I want you to talk to the people to to to encourage them to to tell them to believe me for the impossible in 2024 believe for the impossible believe for something that's so big and so out of your comprehension that it would only take God to move in your circumstances
+- **[02:25](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=145s) · 他描述所见**：a child or whatever nothing's too big you may be bearing and not being able to have a a child write the vision down Lord I'm believing you and I am I I am petitioning you father for a baby for a baby for our home you you but first you need to be married don't be trying to
+- **[03:02](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=182s) · 他表达判断**：with Abraham at 90 some years old look at what you could have God's no respector of persons and if he'll believe if he'll bless Abraham with a baby Isaac he'll bless you with a baby and I believe with all my heart and so you just you lay hands on your stomach and you start praying over your womb and
+- **[03:22](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=202s) · 本段原话**：you you start calling that in and saying I call my ovaries to produce I call my uterus to to do what it's called to do I call my husband seed to produce in the name of Jesus lay hands on each other and believe God for the supernatural in your life I've seen it happen and and
 
 ### 完整英文 Transcript
 
@@ -126,7 +144,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=240s) · 他进行祷告**：it down pray over it take communion over it call that husband in put yourself in a position though to meet this this person it may like I told him you may need to relocate your life to a different city and the Lord says hey your husband or your your your wife is in such and such place and you're
+- **[05:37](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=337s) · 他描述所见**：you'all spouses babies whatever finances houses whatever but make the vision plain find scripture to stand on okay I'm going to say that again find scripture concerning your circumstances to believe God for you have to have scripture to back your prayers don't just be praying uh flipping things because you need word to back it you
+- **[06:43](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=403s) · 本段原话**：commissioning your womb to not get uh cast fruit before it's time that's in Deuteronomy 28 believe that stand on the word that I'm just trying to I'm just trying to throw some things out there y'all of what what you could believe for for 2024 and I I just felt a lot of people are believing for children a lot
+- **[07:43](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=463s) · 本段原话**：I say father I know that you're the god that owns a cattle on a thousand hills and and I know father that you you Pro produce wealth in my hands that father that you'll take care of my family that we'll have a good house a good home a place to lay our head at night that's
 
 ### 完整英文 Transcript
 
@@ -233,7 +258,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:14](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=494s) · 他表达判断**：going to heal Megan but God that you'll provide a bedroom for my for my for my little one uh and that's what I do I pray for it and God give you the desires your heart ladies and gentlemen I believe with all my heart he is not uh broke he's not up there going well I got
+- **[09:03](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=543s) · 本段原话**：stinking thinking it's your thinking it's poverty minded you you you think bad you think well God don't love me he's not going to take care of me no he's he loves you Faith Works by love and this is another thing I was I was I was this is something else and now this
+- **[10:31](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=631s) · 本段原话**：real it even talks about in the Bible that if you ain't honoring your wife and treating her with respect that your prayer the Lord don't hear your prayers now I don't have the exact street address for that scripture right there where chapter and verse but I'm telling you it's in the Bible and and go Google
+- **[11:38](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=698s) · 本段原话**：patient love is kind look at all the things that that Jes the the in the Bible says what is love and and I'm going to tell you all that's where you have to base where your faith is at that's like a that's a little gauge because if Faith Works by it it says the in 1 John 47 and 8 that
 
 ### 完整英文 Transcript
 
@@ -344,7 +376,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、物资、能源与供应链、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、物资、能源与供应链展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:25](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=745s) · 本段原话**：other Scriptures it says that perfect love casteth out all fear cuz fear has torment so there's so much about walking in love there's so much about putting your faith in motion and and but but love is the fuel behind your faith okay it's like putting jet fuel in the jet the Jet's not going to take off and and
+- **[13:28](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=808s) · 他描述所见**：Lord was trying to tell me tell you all to believe big believe you're believing too small you're thinking too small but you got to get your love walk right and you're going to write down the vision and make it plain and I'm telling you you'll look back and at the end of 2024
+- **[13:46](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=826s) · 他描述所见**：and you're going to be amazed at how many things God brought it uh brought to pass in your life I and so like I said I write it down I anoint it with oil I anoint that Vision on oil I call it in and I plead the blood of Jesus over it I
+- **[15:23](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=923s) · 本段原话**：pornography or whatever I am free from bondage from satanical addictions I'm free from it I'm not going to have it in my life no more no more and I'm going to be free from that I speak to strongholds I am free from strongholds that have been there from generational things the Bible says For Whom the son has set free
 
 ### 完整英文 Transcript
 
@@ -440,7 +479,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=961s) · 本段原话**：standing on and I you're not going to receive nothing because it's the word that backs the prayer word back prayer that's what you're going to get your faith that's what puts the faith in motion with love and it's like a it's like a formula you've got to have the right things people say well I don't get any
+- **[17:07](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=1027s) · 本段原话**：you know the truth and the truth will set you free not all this stuff everybody always talking about casting out Devils you ain't going to stay free if even if you cast The Devil out I don't care care who you are if you don't have word inside of you that Devil's going to come back with eight more of
+- **[18:04](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=1084s) · 本段原话**：your house be that vessel that can be used by God in these last days get that word inside of you he he wrote that people died for you to be able to read that they they sacrificed their life that's how important it was it's the only thing the devil tried to distract you the most from I'm telling you is
+- **[19:23](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=1163s) · 本段原话**：he wants you to be prosperous in your family doesn't mean about money just Pros erity is is to being blessed children are blessed they they they're not sick and strung out on drugs sleeping around doing bad things he wants you to have prosperous children being blessed in that to to be successful good good in your homes so I
 
 ### 完整英文 Transcript
 
@@ -544,7 +590,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=1200s) · 本段原话**：never I I I I still shake myself all the time because I I used to believe for Ministry for years and and to see that God would be able to use me and I'm thankful I'm thankful he's he's brought all this to pass this was one of the things I wrote on this is one of the things I wrote on
+- **[21:19](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=1279s) · 本段原话**：impossible for you make all things possible to him that believe no matter how big no matter how small it doesn't matter you're faithful and I speak to their circumstances in the name of Jesus and I call those things that be not as though they were over everything they're believing for no matter how big it is
+- **[22:11](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=1331s) · 他描述所见**：to become radically saved and the Lord just told me they're going to come in 2024 your spouse is coming to Jesus I just saw it's there is a w woman and she's coming in I saw men they're coming in they're coming in the Harvest is coming in for the souls in 2024 I'm believing with you now we call
+- **[23:23](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=1403s) · 他进行祷告**：like I said from cancers to diabetes to whatever they may have been living this way for so long they thought I'll never get out of this but father there is always and then suddenly we call the in suddenly to happen now in Jesus name not at the end of 2024 not even at the middle of 2024
 
 ### 完整英文 Transcript
 
@@ -625,7 +678,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–25:39 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=1440s) · 本段原话**：creative ideas to get wealth increase in in everything they put their hands to will prosper jobs and better jobs raises and bonuses benefits sales and commissions growth in business and inheritances interest in in returns rebates and returns I'm sorry gifts and surprises finding money bills paid off blessings increase believe it all there's overflow coming to you in your
+- **[24:27](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=1467s) · 本段原话**：house but you've got to believe it you got to believe it expectation brings the manifestation of what you've been believing for believe him healing and wholeness whatever it may be God's got you in the palm of his hand and he loves you so much well we just want to tell you all we love you and we thank you for being a
+- **[24:53](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=1493s) · 他表达判断**：part of our our little YouTube channel if you don't mind please click that like and the Subscribe and and and click the notification Bell and and and put a good comment down below if this sermon blessed you uh let us know we I believe with all my heart God brought you here today and I believe that this is going
+- **[25:13](https://www.youtube.com/watch?v=ZaN6tavyCdQ&t=1513s) · 本段原话**：to be a good year for you of Supernatural things taking place in your life God's got you and he's not forgot you he loves you and he's got a amazing plan for your future so we just want to say thank you well put a smile in your face and a song in your heart Jesus
 
 ### 完整英文 Transcript
 

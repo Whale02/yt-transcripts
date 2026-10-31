@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 710；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 - [08. 28:00–28:34 · 祷告、敬拜与现场互动](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:34](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=34s) · 本段原话**：all uh some of the things that are coming to past because I told you you haven't known me that long I've only been on here about uh about six months you know uh with with my gifting telling you all the things that are coming here's number one the Lord warned me July the 6th of
+- **[04:17](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=257s) · 本段原话**：this boat were Oriental looking they were um they were from Asia from somewhere I have no idea uh if it was China or whatever and it's the same culture it's the same people that the Lord showed me on the boat so just letting youall see that there I want to just put that out there for youall hey
+- **[12:32](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=752s) · 他描述所见**：real with y'all I hear in the news the ETF is being signed by Black Rock the the one of I warned you all about the dragon hiding behind the black rock and they were and the dragon was hiding behind it remember I told you all in the World War III Vision the prophecy
+- **[16:18](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=978s) · 本段原话**：are coming to pass there's another one you know and I told you all about um about the economic things happening with the bank seizing the money it happened in Cyprus and so here we are with another thing the Lord showed me that there already that that he said remember when I told you all I said to watch the Euro
+- **[24:39](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=1479s) · 他进行祷告**：that you took care of the children of Israel and you'll take care of the children of of who of of your children us your our born the Born Again believer I thank you Lord that you're going to watch over us you protect us father that no weapon formed against us will prosper no matter if there's an earthquake or a
+- **[28:02](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=1682s) · 本段原话**：say thank you it's because of people like you we're getting the gospel uh throughout the whole world on a day-to-day basis people are getting saved delivered set free and healed because of this these videos and the Lord using them so I just want to say thank you for supporting it well if you
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:34](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=34s) · 本段原话**：all uh some of the things that are coming to past because I told you you haven't known me that long I've only been on here about uh about six months you know uh with with my gifting telling you all the things that are coming here's number one the Lord warned me July the 6th of
+- **[01:56](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=116s) · 他讨论新闻或报道**：here we are 2024 and we are having uh what people want to call neph neph nephlim Encounters in Miami it's all on the news there's police cars there's all kinds of weird stuff going on in the news and and there's so many things in in the news about uh aliens on daily bases you know that we're seeing uh
+- **[02:59](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=179s) · 他进行祷告**：coming down the Mississippi River and the Lord warned me to pray against this rocket that was attached to this barge and the barge was shooting a rocket off and it had an EMP on it and so they it was Electric magnetic pulse to try to cause darkness and it went over and it
+- **[03:37](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=217s) · 本段原话**：stuff okay so now for the first time ever I was scanning on the YouTube you noce look into my feed and it says China is practicing launching uh Rockets from its boat you're going to see it right here in my son's going to put it in here it's it shows the the the rocket
 
 ### 完整英文 Transcript
 
@@ -125,7 +143,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:17](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=257s) · 本段原话**：this boat were Oriental looking they were um they were from Asia from somewhere I have no idea uh if it was China or whatever and it's the same culture it's the same people that the Lord showed me on the boat so just letting youall see that there I want to just put that out there for youall hey
+- **[06:24](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=384s) · 他描述所见**：place I warned you about in in one of the other videos I believe it was World War II video that I put down it's one of my first videos turkey was beating the drums and and I saw these huge War drums in the spirit when I was praying and I saw them beating these Ward drums and I
+- **[06:39](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=399s) · 他描述所见**：said turkey will get involved it's whenever I saw the angel coming up out of the pit and the other Angel was releasing the chains off of this Angel to create War upon the Earth and I saw him and he spin like a top like a Tasmanian devil and I warned you all about this uh demonic looking angel
+- **[07:14](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=434s) · 他描述所见**：with Putin remember and I tried to warn you all about this but then I saw men with Red Hats Red Hats all marching towards Israel to cause destruction I believe those are either Turkish Fighters or um Hezbollah uh this is what's happening I saw this before it started to manifest I prophesied the war
 
 ### 完整英文 Transcript
 
@@ -236,7 +261,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:38](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=518s) · 本段原话**：Berets little red Berets I I warned you all about the elections for 2024 and I said I prayed over Michelle Obama and and the Lord showed me that she would try to rise up and and take the White House that they had a secret plan that's been in place that she would go and and
+- **[08:59](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=539s) · 他描述所见**：replace Joe and that she would come and and rise up and become the Democratic nomina nominee for the Democratic party in 2024 trying to uh uh bring in um Gavin with her I saw Gavin and I saw Michelle now I've warned you all about this now I told you all at the beginning
+- **[10:09](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=609s) · 他描述所见**：then now she starts saying this today today as of today I saw this article somebody sent it to me that there that she's talking about running and and because they see Donald Trump as a major threat and that they don't think they're going to be able to stop him how much he won Iowa and it was a landslide Victory
+- **[11:18](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=678s) · 他描述所见**：trying to warn you all I told you it's going to increase and increase and increase clear up clear through the spring it would draw out clear through the summer and then I saw I told you I saw a major red Mega on the hats rising up even more so to to to to try to vote for him so we
 
 ### 完整英文 Transcript
 
@@ -348,7 +380,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、经济、银行与市场
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、经济、银行与市场、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、经济、银行与市场展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:32](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=752s) · 他描述所见**：real with y'all I hear in the news the ETF is being signed by Black Rock the the one of I warned you all about the dragon hiding behind the black rock and they were and the dragon was hiding behind it remember I told you all in the World War III Vision the prophecy
+- **[14:09](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=849s) · 本段原话**：we see fruit of what I told you was coming okay so I don't know what what's going to happen with it but but I we're seeing something we're seeing something ding ding ding the little bells are going off then Jamie Diamond warns of warns all these very powerful forces will impact US economy in 202 in 2025 so
+- **[14:30](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=870s) · 本段原话**：the guy of JP Morgan the head of that uh Jamie Diamond he is warning about something taking place in the economy in 2425 so I warned you all about 2025 being very dark I warned you all about a major catastrophic event like with the financial sector complete depression I'm talking uh worse than uh the
+- **[15:15](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=915s) · 他转述所听到的话**：coming okay so here's another thing the Lord showed me remember whenever I told you all in the places where the Antichrist was it's in that video when I warned you the Lord told me there were coming great short shortages of uh prescription medic medications for people to get uh try to get a a a if you
 
 ### 完整英文 Transcript
 
@@ -458,7 +497,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 经济、银行与市场、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：经济、银行与市场、地震、风暴与灾害、预言、梦境与异象。 提到的地点：Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕经济、银行与市场、地震、风暴与灾害展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:18](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=978s) · 本段原话**：are coming to pass there's another one you know and I told you all about um about the economic things happening with the bank seizing the money it happened in Cyprus and so here we are with another thing the Lord showed me that there already that that he said remember when I told you all I said to watch the Euro
+- **[17:34](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=1054s) · 他表达判断**：that's what I'm trying to show you all the Lord warned me about these things and he told me there would be wars and rumors of wars he told us all in the word so but I believe there will be an acceleration in this time I told you all 2020 20 from rash to rashah from this
+- **[18:41](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=1121s) · 本段原话**：and birthing pains don't get worse I mean less they keep getting worse worse and worse and worse until the baby is born so here we are we've went into another phase of of uh intense birthing pains labor pains are happening very very quick quickly very very quickly so we're still looking for earthquakes in
+- **[19:43](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=1183s) · 他描述所见**：bigger they're going to get bigger and they're going to get bigger and they're going to increase and I warned people even at my old church and I told them that I saw a 5.2 5.5 getting pretty big for Oklahoma then when the major new madri fall uh I I hope I said that right
 
 ### 完整英文 Transcript
 
@@ -564,7 +610,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=1200s) · 他描述所见**：probably butchered it uh DET Texs Arcana Tulsa I saw a 6.5 earthquake going through that area and it was going to like destroy the houses on cinder blocks and I warned you all about that too uh when the 10.0 happens it two faults go off and it it rattles the nation it rattles the world it's awesome to be in
+- **[20:20](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=1220s) · 他表达判断**：the last days ladies and gentlemen Jesus is coming he's coming and I hope you're ready we see the signs of the time every day all the time things are happening from from deceptions to all kinds of stuff we're seeing corruption being uncovered we're seeing manifestations of stuff that that we've only uh we never drew I believe in our
+- **[20:43](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=1243s) · 本段原话**：time lifetime people have been prophesying it forever that we wouldn't my grandma said well she never dreamed n none of this stuff would happen that's what I'm trying to say grandma Grandma's 88 years old she told me Brandon it is crazy out there I used to think a long time cuz she remembers as a little girl
+- **[23:16](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=1396s) · 本段原话**：said in your word father that you would cause the windows of Heaven to open up over their houses I call blessing and increase and multiplication and favor over them right now in the name of Jesus we bind the devil off of their finances and we command you to get under our feet we command Financial Harvest to
 
 ### 完整英文 Transcript
 
@@ -677,7 +730,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:39](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=1479s) · 他进行祷告**：that you took care of the children of Israel and you'll take care of the children of of who of of your children us your our born the Born Again believer I thank you Lord that you're going to watch over us you protect us father that no weapon formed against us will prosper no matter if there's an earthquake or a
+- **[25:16](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=1516s) · 本段原话**：in the name of Jesus we condemn those words and we say words you you negative words word curses and curses of words you fall to the ground and it goes back on them double we say in the name of Jesus you will not touch us we plead the blood over our children and my wife and
+- **[26:27](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=1587s) · 本段原话**：your word that by my stripes you are healed and we receive healing and wholeness and wellness from every area of our life physically mentally emotionally whatever it may be it doesn't matter nothing's too big for God to heal you with heal you from whatever you need whatever you have uh need of in
+- **[27:24](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=1644s) · 本段原话**：law Jesus Paid the price for you so I just want to encourage you all today Jesus loves you so much and I and I just want to tell you all thank you for supporting my YouTube channel thank you for watching my videos thank you for clicking thumbs up thank you for for all all that you've done you
 
 ### 完整英文 Transcript
 
@@ -785,7 +845,12 @@
 <a id="section-08"></a>
 ## 08. 28:00–28:34 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:02](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=1682s) · 本段原话**：say thank you it's because of people like you we're getting the gospel uh throughout the whole world on a day-to-day basis people are getting saved delivered set free and healed because of this these videos and the Lord using them so I just want to say thank you for supporting it well if you
+- **[28:19](https://www.youtube.com/watch?v=2jhb5cXzw5A&t=1699s) · 本段原话**：if you could like I said like subscribe all that put a comment down below it helps with the algorithm well put a smile on your face and aong in your heart Jesus loves you so much and we love you and we will see you next time you all have a blessed day and we'll see
 
 ### 完整英文 Transcript
 

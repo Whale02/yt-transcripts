@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 772；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 - [09. 32:00–32:38 · 教会、复兴与信仰、地震、风暴与灾害](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:16](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=16s) · 本段原话**：that God will meet you at the point of your need today we believe that your your circumstance is going to change within 24 hours there's going to be a difference in your life we're believing that today we're going to start believing that first the blade then the ear then the full manifest of everything
+- **[08:00](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=480s) · 本段原话**：for the blinded eyes to be open for the blinded eyes to be open we speak for the blinders to come off their eyes for Satan has blinded the eyes of the unbeliever and we say Satan take your hand off of our unsaved loved ones they will know the saving knowledge of the Lord Jesus Christ and you will not bind
+- **[12:18](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=738s) · 本段原话**：and he's going to deliver you out of your circumstance I'm bound with drugs I'm bound with pornography I've been bound with with anger I've been bound well all you say this stuff but God is the god of the great deliverer and he delivered the children of e Egypt out of the hand of the Pharaoh and he can
+- **[20:02](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1202s) · 他进行祷告**：we say in the name of Jesus their minds are free and healed and whole and they'll sleep sound uninterrupted and unhindered by any satanic or demonic Force we pray over their minds father they have the mind of Christ you have to say it out your mouth say I am free I am whole I am well and I have the mind of
+- **[24:20](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1460s) · 他描述所见**：say as of this time it's not going to happen no more and if it happens again I'm still standing I'm not moved by what I see I'm not moved by what I feel I'm not going to have faith in the ability of Satan's job to steal kill and destroy I have faith in the ability that God
+- **[32:01](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1921s) · 他进行祷告**：of golf balls or whatever we have authority over these storms and we say cease and assist in your maneuvering and we call peace be still to the storm in Jesus name will put a smile on your face and a song in your heart well I told him 30 minutes I I I preach yall
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:16](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=16s) · 本段原话**：that God will meet you at the point of your need today we believe that your your circumstance is going to change within 24 hours there's going to be a difference in your life we're believing that today we're going to start believing that first the blade then the ear then the full manifest of everything
+- **[00:30](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=30s) · 本段原话**：you've been believing for that it's going to happen in suddenly so we're just going to get right to praying and we're going to believe with you for your circumstances let's get excited we see a turning in things a praying over uh uh uh the Ukraine war praying over the stuff looks like there's going to be
+- **[00:49](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=49s) · 本段原话**：maybe some peace talks I know I've warned some about some peace and safety I told you rice paper thin the war and all the things are going on with the Middle East houthis are getting struck I told you strategic things are happening there's very strategic things and I've warned you all about this about Iran and there's more to come
+- **[02:04](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=124s) · 本段原话**：Joshua blew the horns and and the the midianites all defeated thems by the sword they will defeat them themselves by the sword because great confusion is coming in the camp of the enemy in the name of Jesus and what the devil meant for bad God's going to expose it in the name of Jesus as we uh go after these
 
 ### 完整英文 Transcript
 
@@ -123,7 +141,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:22](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=262s) · 本段原话**：needs he supplies all our needs because he knows what consider the lies of the fileld how they grow they neither toil nor Spin and yet I tell you even Solomon all his glory was not a raid like one of these but if God closed the so clothes the grass of the field which today is
+- **[05:13](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=313s) · 本段原话**：are Wayward so many people that are bound but father you came to set the captives free and we believe that their circumstance is going to turn around right now we call the blinders off of their eyes in the name of Jesus and all the kids all the grandkids all of them that are Wayward we call you in in the
+- **[06:12](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=372s) · 他进行祷告**：supernatural experience with you Angelic visitations and manifestations that just like when Paul and Silas was in that jail cell and it looked like they were going to die tomorrow but in suddenly when the church started to pray when we're starting to pray on this channel when we're lifting up our loved ones they will have that shaking experience
+- **[06:37](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=397s) · 本段原话**：for they'll be a shaking to awaken even in the Midnight Hour and they're in that that that jail cell in that place of the the the pit is what we'll call it they're going to have a great shaking to awaken and the gel cell doors of their heart of their mind it may not be me in
 
 ### 完整英文 Transcript
 
@@ -224,7 +249,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=480s) · 本段原话**：for the blinded eyes to be open for the blinded eyes to be open we speak for the blinders to come off their eyes for Satan has blinded the eyes of the unbeliever and we say Satan take your hand off of our unsaved loved ones they will know the saving knowledge of the Lord Jesus Christ and you will not bind
+- **[09:44](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=584s) · 本段原话**：out cuz he already knows what he's doing so we send that same Angel out and his buddies that helped because you know we went with some others so we send those angels out we send those angels out right now in the name of Jesus to release and to set our unsaved loved ones their
+- **[10:44](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=644s) · 本段原话**：manifestations that just like it was with the woman with the issue of blood father that in that that 24-hour turnaround she did it within a touch of His Garment and boom everything dried up everything that she had spent 12 years but what but rather grew worse her and suddenly came within that moment I
+- **[11:26](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=686s) · 他表达判断**：he said in his word that by his stripes I I am healed not ye were it's already done it's past tense I am healed I receive it today I lay hold of it I lay hold of it by faith and I believe by faith that Jesus Christ is the same yesterday today and forever and he's
 
 ### 完整英文 Transcript
 
@@ -325,7 +357,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:18](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=738s) · 本段原话**：and he's going to deliver you out of your circumstance I'm bound with drugs I'm bound with pornography I've been bound with with anger I've been bound well all you say this stuff but God is the god of the great deliverer and he delivered the children of e Egypt out of the hand of the Pharaoh and he can
+- **[13:15](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=795s) · 他表达判断**：he gave them the silver he gave them the cattle he gave them whatever they needed to get out of that pit of of slavery and that's what's going to happen with you today I believe that today is your day of your deliverance just like he did with the children of Israel your circumstances is turning around believe
+- **[13:48](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=828s) · 他表达判断**：you'll do it for them they may need a new job there's a job waiting for them I believe that today their job's coming to pass God that they'll have a greater job and they'll second command of all their company or they'll be first that you'll make them CEO of whatever it may be you
+- **[15:15](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=915s) · 本段原话**：nothing missing nothing broken we speak to the whole person that they are filled with and controlled by the Holy Spirit and we thank you that that mighty mighty touch of the holy spirit is flowing through them right now now touching every part you know the parts that they need you know what needs to function in
 
 ### 完整英文 Transcript
 
@@ -440,7 +479,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:40](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1000s) · 他描述所见**：will latch on and nurse as they should that there is no colic father we speak to their we speak to their bodies and we thank you Father that Holy Spirit you you will move through them and touch them where they need to be touched that you will help make it I saw Fallopian
+- **[17:15](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1035s) · 他描述所见**：tube no scarring I see scarring I call scarring being healed from the top all the way down we call that that that uterus healed we call the uterus whole that there is no Groves there is no CIS there is no blockage of any kind from scars I see scars scars being healed and
+- **[17:54](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1074s) · 他表达判断**：them in right now in the name of Jesus call them in with no more of this keep going babe I just saw that yes I um I think I was done was I well whatever you want to are you done yeah we pray over their marriages we agree together that their marriages are blessed we call
+- **[18:54](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1134s) · 本段原话**：Mamas are going to be bountifully supplied for there is nothing missing nothing broken in your life and Supernatural finances is flowing over you and we call restoration of homes restoration of marriages and father we say Satan get your hands off of these men get your hand off of these women that you will not cause division in the
 
 ### 完整英文 Transcript
 
@@ -547,7 +593,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:02](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1202s) · 他进行祷告**：we say in the name of Jesus their minds are free and healed and whole and they'll sleep sound uninterrupted and unhindered by any satanic or demonic Force we pray over their minds father they have the mind of Christ you have to say it out your mouth say I am free I am whole I am well and I have the mind of
+- **[21:17](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1277s) · 本段原话**：miscarriage I've had a miscarriage after Mar no my Vine will not cast fruit before it's time yes we decree and declare the vine will not cast fruit before it's time the Bible says in Malachi that he rebukes the devour for my sake and in and and and so I say be a tither be a giver be a swer and be a
+- **[22:32](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1352s) · 本段原话**：fruitful and multiply this is what God told us to do and I'll do what he told me to do and we will do this and we we we're not going to we're not going to have the stress of of of of of making a baby we're going to have a baby yes we're going to have it and we take
+- **[23:53](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1433s) · 本段原话**：going to happen and guess what the very thing fear opens the door for satanic attack having more faith fear is faith
 
 ### 完整英文 Transcript
 
@@ -648,7 +701,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:20](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1460s) · 他描述所见**：say as of this time it's not going to happen no more and if it happens again I'm still standing I'm not moved by what I see I'm not moved by what I feel I'm not going to have faith in the ability of Satan's job to steal kill and destroy I have faith in the ability that God
+- **[25:01](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1501s) · 本段原话**：fear fear tolerated is Faith contaminated I refuse to tolerate and and to let the fear be contam this contaminate my faith I refuse to let fear just you are not going to I'm not tolerating this fear perfect love cast out all fear my father loves me he wants me to be fruitful he wants me to have a
+- **[25:56](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1556s) · 本段原话**：devil's a bad devil and we believe that you're living on the victory side of things it's time to be happy it's time to Rejoice for our Redemption is drawing n Jesus Christ is coming back and he's coming back soon but but he's coming back for a glorious church and we're going to see a great Mighty move of the
+- **[27:05](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1625s) · 他表达判断**：Lord that you've anointed me for such a time as this to prosper and be in health even as your soul prospers I believe that father Diane and I are going to be blessed and we're blessed now in jesus' name and we're not going to wait five years from now but father this the the
 
 ### 完整英文 Transcript
 
@@ -751,7 +811,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:01](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1681s) · 本段原话**：exceedingly abundantly above all that we dare ask and thank in the mighty name of Jesus and everybody say amen and amen We Believe with you today that you're you're the you're the Victor and you're not a victim we're not going to live in a victim mentality because we are Victors we have the Victor we have the
+- **[29:17](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1757s) · 他进行祷告**：dime everything's going to change glory to God well if this video blessed you all today we pray it did remember we uh we we don't thing we'll ever ask you for is for a click a notification Bell a like a subscribe all the things that help us with the YouTube algorithm we we
+- **[30:14](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1814s) · 本段原话**：squirrel I didn't mean to I have promise I I was I told BR I go oh no I messed up on shaking the squirrel I I I but I wasn't I I had him in my hand he was all so nice and cozy in there and he he liked it yeah he found his mama today she was out there
+- **[31:38](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1898s) · 本段原话**：have to rise up and say Satan you ain't robbing me in my neighborhood you're not robbing me you're not doing that we have authority over you and you bow your knee to this when when cease and assist and you're maneuvering against us we will have tornadoes we won't have high winds we won't have hell the size
 
 ### 完整英文 Transcript
 
@@ -858,7 +925,12 @@
 <a id="section-09"></a>
 ## 09. 32:00–32:38 · 教会、复兴与信仰、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、地震、风暴与灾害展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:01](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1921s) · 他进行祷告**：of golf balls or whatever we have authority over these storms and we say cease and assist in your maneuvering and we call peace be still to the storm in Jesus name will put a smile on your face and a song in your heart well I told him 30 minutes I I I preach yall
+- **[32:22](https://www.youtube.com/watch?v=VDCTCQ25A3k&t=1942s) · 本段原话**：I'll tell y'all something I told them 30 minutes put a smile on your face and a song on your heart Jesus loves you so much and we love you God bless you all thank you Braden he's trying to keep our green screen up put a smile on your face on your heart Jesus Lov you we love you
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1316；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 45:00–49:59 · 教会、复兴与信仰、物资、能源与供应链](#section-10)
 - [11. 50:00–54:58 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:52](https://www.youtube.com/watch?v=2JeWign9G7Y&t=112s) · 他转述所听到的话**：out of North Korea they were excited to be able to see the world because they've been so oppressed and and and in in bondage and these men were on these Box Car these train cars and they were celebrating leaving and I heard the Lord say but they're going to their death and they don't even know it you must pray
+- **[10:50](https://www.youtube.com/watch?v=2JeWign9G7Y&t=650s) · 本段原话**：person what does that mean okay so the H5 virus which doesn't adapt too well to our respiratory tract and is preventing us from getting infected but conecting cows and pigs and cats and dogs so our flu which is has The Binding SES for us for our nasal passages flu viruses are very specific and so they're very animal
+- **[20:00](https://www.youtube.com/watch?v=2JeWign9G7Y&t=1200s) · 本段原话**：that's so prominent right now we have a five-fold rise in protestas cases whooping cough over the last year 15 measles outbreaks this year we've got polio that's been in the Wastewater in in New York state all that's going to come crashing down on January 21st on on the Trump Administration we need a
+- **[30:54](https://www.youtube.com/watch?v=2JeWign9G7Y&t=1854s) · 他表达判断**：is affecting the cows just like um brother Hank Pastor Hank kumin said there's 10,852 wild birds detected as of 127 of 2024 December 17th yep wow so December the 17th so 51 jurisdictions with bird flu and wild birds yeah I don't have my reading glasses on I don't want to make this video boring y'all but I think it's
+- **[40:24](https://www.youtube.com/watch?v=2JeWign9G7Y&t=2424s) · 他表达判断**：write that your name in right now by faith he's up there those angels rejoice joing over even one getting born again right at this moment and I believe today is your day say father I'm a sinner I need a savior forgive me of my sins i' i' I've done all kinds of bad
+- **[50:19](https://www.youtube.com/watch?v=2JeWign9G7Y&t=3019s) · 他表达判断**：Avail much and I believe you and I in these last days are going to do Great and Mighty things and he said signs and wonders will follow them that will believe so we pray this video bless you all today we pray healing over your bodies we pray demonstrations and manifestations of the glory over your
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、疾病、医疗与药品。 提到的地点：Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:52](https://www.youtube.com/watch?v=2JeWign9G7Y&t=112s) · 他转述所听到的话**：out of North Korea they were excited to be able to see the world because they've been so oppressed and and and in in bondage and these men were on these Box Car these train cars and they were celebrating leaving and I heard the Lord say but they're going to their death and they don't even know it you must pray
+- **[03:47](https://www.youtube.com/watch?v=2JeWign9G7Y&t=227s) · 他讨论新闻或报道**：Trump's agenda and how it worked last time was they sent Co and I told you this virus that they're preparing is is a so much worse than Co ever thought about being this is a a very lethal virus that there that this is that's about to happen soon and this video uh that I'm showing you are news clips of
+- **[04:14](https://www.youtube.com/watch?v=2JeWign9G7Y&t=254s) · 他表达判断**：the media talking about this that they're already trying to tell you their plan they always uh show you their cards before they actually release it and so I think it's really interesting here we have this video this this uh news brief briefing from CNN is on December the 27th of 2024 so it was just a couple of days ago
+- **[04:36](https://www.youtube.com/watch?v=2JeWign9G7Y&t=276s) · 他描述所见**：so folks it's already in the balls already starting to roll is what I've tried to tell you all about it and I saw president Trump uh uh in office whenever they release this next plague so okay so we're going to get right to this video and I want you to listen to what they
 
 ### 完整英文 Transcript
 
@@ -149,7 +167,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 疾病、医疗与药品、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：疾病、医疗与药品、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕疾病、医疗与药品、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:24](https://www.youtube.com/watch?v=2JeWign9G7Y&t=324s) · 本段原话**：mutation like this could potentially lead to another pandemic Russia's Ministry of Defense has released a statement revealing the murky activities of the United States military the ministry says that Washington's office of pandemic preparedness and response policy searches for virus mutations to then use them to further its own interests you see that as in 2019 the United States began
+- **[07:16](https://www.youtube.com/watch?v=2JeWign9G7Y&t=436s) · 他描述所见**：Airborne it's an Airborne virus this is what the Lord showed me but it's genetically uh created it's it's in a lab and I saw it being created by AI technology okay keep going more easily transmitted personto person so the more this virus circulates and specifically co- circulates with human strains that's going to increase the odds of the virus
+- **[07:42](https://www.youtube.com/watch?v=2JeWign9G7Y&t=462s) · 本段原话**：evolving to more human to human transmission and that that of course could signal another pandemic join us now is Dr Deborah Burks you may remember her as the response coordinator for the White House Corona virus task force in the first Trump Administration we are very fortunate to have your expertise as we try to figure
+- **[09:33](https://www.youtube.com/watch?v=2JeWign9G7Y&t=573s) · 他转述所听到的话**：that's and the Lord told me he said Brandon this is the only way you're going to there's going to be people that survive this is understanding their Covenant and and who they are in Christ taking communion I still have my communion cups from yesterday uh communion and Tak in their communion daily and understand in Psalms 23 and
 
 ### 完整英文 Transcript
 
@@ -281,7 +306,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 疾病、医疗与药品、战争与国际事务
 
-**中文章节摘要**：本段涉及：疾病、医疗与药品、战争与国际事务。 提到的地点：Ukraine、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕疾病、医疗与药品、战争与国际事务展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:50](https://www.youtube.com/watch?v=2JeWign9G7Y&t=650s) · 本段原话**：person what does that mean okay so the H5 virus which doesn't adapt too well to our respiratory tract and is preventing us from getting infected but conecting cows and pigs and cats and dogs so our flu which is has The Binding SES for us for our nasal passages flu viruses are very specific and so they're very animal
+- **[12:01](https://www.youtube.com/watch?v=2JeWign9G7Y&t=721s) · 本段原话**：flu they later somehow end up becoming pandemic and who stands to benefit from this as we've seen time and time again it's American pharmaceutical companies and they point out their findings point out that for example that there is a possible collusion between big Pharma and us a via an intermedi company called Ecco Health allian now they have been
+- **[13:06](https://www.youtube.com/watch?v=2JeWign9G7Y&t=786s) · 本段原话**：year said that there is no longer a public health emergency when it comes to Joe Biden himself last September said that the pandemic is over yet this July they are opening this office of pandemic preparedness and response policy which is led by a man who's a military combat surgeon and retired Air Force Major why
+- **[14:15](https://www.youtube.com/watch?v=2JeWign9G7Y&t=855s) · 本段原话**：Congo hemorrhagic fever and auto Hunter viruses was studied that's why Russia's defense Ministry believes that Washington is preparing to establish biological control sort of using defensive technology IES for offensive purposes to create biological crisis conditions and situations and also there is added concern about the people involved in all this for example Dr
 
 ### 完整英文 Transcript
 
@@ -405,7 +437,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 预言、梦境与异象、疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、疾病、医疗与药品、战争与国际事务。 提到的地点：Texas、Ukraine。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、疾病、医疗与药品展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:31](https://www.youtube.com/watch?v=2JeWign9G7Y&t=931s) · 本段原话**：fouchy because he's going to create a microb that will uh that will cause a global pandemic another one and so Obama signed a moratorium that shut down the 18 worst of Anthony fouche's experiments and uh and instead of obeying that law Anthony fouchy shifted a lot of his operations offshore and those operations ended up
+- **[16:32](https://www.youtube.com/watch?v=2JeWign9G7Y&t=992s) · 他描述所见**：in I saw them burning files in Ukraine I saw them Burning uh documents they were burning everything that they could because they were trying to cover up what they what what was behind closed doors and I saw uh computers being destroyed I saw things that were being covered up like crazy and so here we
+- **[17:50](https://www.youtube.com/watch?v=2JeWign9G7Y&t=1070s) · 他转述所听到的话**：things and so uh it's it's like the Lord showed me it would be another uh genocide I I heard the word used genocide so uh ethnic cleansing things like that praying in the spirit I hear those words in men's mouth Darkness it's very dark and like I said this isn't a a call to fear folks it's a wake you up to
+- **[19:44](https://www.youtube.com/watch?v=2JeWign9G7Y&t=1184s) · 本段原话**：or expecting Deni and uh Pro possibly zika virus coming back or AOE virus maybe even yellow fever and there's more then we have all this sharp rise and vaccine preventable diseases going up because of part the antivaccine activism
 
 ### 完整英文 Transcript
 
@@ -538,7 +577,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 预言、梦境与异象、特朗普与白宫
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、特朗普与白宫、政党与政治人物。 提到的地点：California。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、特朗普与白宫展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=2JeWign9G7Y&t=1200s) · 本段原话**：that's so prominent right now we have a five-fold rise in protestas cases whooping cough over the last year 15 measles outbreaks this year we've got polio that's been in the Wastewater in in New York state all that's going to come crashing down on January 21st on on the Trump Administration we need a
+- **[20:56](https://www.youtube.com/watch?v=2JeWign9G7Y&t=1256s) · 他描述所见**：the evil and they're they're relentless and I'm trying to warn you all of this is just the beginning little pulses that uh was shown to me by the Lord clear back this time last year warning me that this was coming trying to prepare the body for something that was worse than Co because I saw the
+- **[21:59](https://www.youtube.com/watch?v=2JeWign9G7Y&t=1319s) · 他描述所见**：taste of something that they're planning it's it's later on I saw it a year into in advance it's going to be like I think it's 2026 2027 yeah uh going into uh later on in his presidency I don't believe it's going to be the first year I could be wrong but I'm just saying
+- **[23:11](https://www.youtube.com/watch?v=2JeWign9G7Y&t=1391s) · 他描述所见**：run for president and government N I think he they're grooming him to be the Democratic Sugar Sugar boy he's going to be the Golden Boy here eventually eventually he's going to be the next like Obama watch and I saw G and Michelle one day I I saw them running and I don't know if that's later
 
 ### 完整英文 Transcript
 
@@ -665,7 +711,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 疾病、医疗与药品、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：疾病、医疗与药品、祷告、敬拜与现场互动、教会、复兴与信仰。 提到的地点：California。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕疾病、医疗与药品、祷告、敬拜与现场互动展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:48](https://www.youtube.com/watch?v=2JeWign9G7Y&t=1548s) · 本段原话**：to humans is that is that real I don't even know what to say to this it's all it was on Twitter 176 million for vaccine development so they're going to they're giving him the money to to because they want to be able to capitalize on this thing again we're seeing $176 million granted to the Bill Gates
+- **[27:18](https://www.youtube.com/watch?v=2JeWign9G7Y&t=1638s) · 本段原话**：businesses you close churches down you close down factories you made people stay in their houses for weeks at a time locking down everybody's livelihood it didn't get their attent but this one's going to get their attention this time play that again that is that that tells you that prepare for the next one
+- **[28:50](https://www.youtube.com/watch?v=2JeWign9G7Y&t=1730s) · 他表达判断**：talk to your health care provider but that's what we do yeah and so I think it's interesting uh just just the whole whole thing again folks it's just it's just as alarming listening to Benny guy Benny Benny Johnson this I like this guy happens when Trump shining come in every time there go didn't happen the whole
+- **[29:45](https://www.youtube.com/watch?v=2JeWign9G7Y&t=1785s) · 他讨论新闻或报道**：they said that and and he even said in the article that I just read he read it this Benny John guy said that they're going to if they take all precautions necessary if need to be lock Downs or whatever if if needed to be Gavin Nome said it right out of his mouth but I was
 
 ### 完整英文 Transcript
 
@@ -796,7 +849,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：California。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:54](https://www.youtube.com/watch?v=2JeWign9G7Y&t=1854s) · 他表达判断**：is affecting the cows just like um brother Hank Pastor Hank kumin said there's 10,852 wild birds detected as of 127 of 2024 December 17th yep wow so December the 17th so 51 jurisdictions with bird flu and wild birds yeah I don't have my reading glasses on I don't want to make this video boring y'all but I think it's
+- **[31:39](https://www.youtube.com/watch?v=2JeWign9G7Y&t=1899s) · 本段原话**：and here another plan is and I'm not saying it's this virus but it's already the birthing pains the yeah it's the signs of the times but it's the birthing Pains of it saying listen this is our plan this is how we're going to derail this next Administration well yeah just like you said about the drones in New
+- **[33:49](https://www.youtube.com/watch?v=2JeWign9G7Y&t=2029s) · 他表达判断**：greater the demonstrations and the manifestation of the glory are going to follow those that believe I believe we will counter react in a greater measure the glory of the Lord on this generation and we will impart uh healing to the people to the masses to show them that Jesus Christ is the same yesterday today
+- **[34:46](https://www.youtube.com/watch?v=2JeWign9G7Y&t=2086s) · 本段原话**：go to hell with the where the devil's going to be it's our choice God didn't send you there you sent yourself there by by rejecting the Jesus what he did on the cross for you it's you that rejected him he has opened his arms wide as of
 
 ### 完整英文 Transcript
 
@@ -930,7 +990,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:21](https://www.youtube.com/watch?v=2JeWign9G7Y&t=2121s) · 本段原话**：financial uh fall windfall we're talking major House of Cards is going to fall ladies and gentlemen we're talking a depression worse than the 1930s will eventually come but he's providing a window of what I told you yesterday he's giving us a window an opportunity for Grace to get your house in order are you ready for the coming of
+- **[36:56](https://www.youtube.com/watch?v=2JeWign9G7Y&t=2216s) · 本段原话**：open arms he's not a mean God he's not an Angry God he's a god of love he just wants you to come in and just confess your sins the Bible says it's appointed unto man want to die and after that the Judgment it's appointed unto every single one of us that we're going to die
+- **[37:53](https://www.youtube.com/watch?v=2JeWign9G7Y&t=2273s) · 本段原话**：sew my wild I'm going to go have fun I'm going to do all this and and enjoy the world's fruit of the of sin I'm going to do all that and I'll serve the Lord tomorrow I'll serve the Lord 10 years from now you're not promised 10 years from now you're not even promised
+- **[39:41](https://www.youtube.com/watch?v=2JeWign9G7Y&t=2381s) · 本段原话**：for you and he rose again on the third day and he he has he wants to write your name what's watching what's what's believe right now he's riding your name in that Lamb's Book of Life he's writing those angels are writing it down right now Bob somebody whoever Susie suie Snowflake I don't know I don't know I
 
 ### 完整英文 Transcript
 
@@ -1061,7 +1128,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:24](https://www.youtube.com/watch?v=2JeWign9G7Y&t=2424s) · 他表达判断**：write that your name in right now by faith he's up there those angels rejoice joing over even one getting born again right at this moment and I believe today is your day say father I'm a sinner I need a savior forgive me of my sins i' i' I've done all kinds of bad
+- **[41:57](https://www.youtube.com/watch?v=2JeWign9G7Y&t=2517s) · 本段原话**：to belong to this world anymore with the devil's help I don't want that I want Jesus help me to be a light to others just like I I I I feel that you feel that presence you feel you're being washed it's that cleansing flow that blood is cleansing you right now and the
+- **[42:57](https://www.youtube.com/watch?v=2JeWign9G7Y&t=2577s) · 本段原话**：tomorrow we're going to go tomorrow they're having baptism at church tomorrow and he's going to go and and be baptized tomorrow at church and and my daughter is bely yeah and so we are he's making the steps that he wants to do he's never done it and he's ready yeah he's excited about excited yep and so
+- **[44:12](https://www.youtube.com/watch?v=2JeWign9G7Y&t=2652s) · 本段原话**：still tries to stick his head up out of that hole like and we got to hit him with our whacka most or we got to smack him in the head and say you ain't touching my family at this virus you ain't touching me with that virus no weapon formed against me is going to
 
 ### 完整英文 Transcript
 
@@ -1184,7 +1258,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 教会、复兴与信仰、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、物资、能源与供应链、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、物资、能源与供应链展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:40](https://www.youtube.com/watch?v=2JeWign9G7Y&t=2740s) · 本段原话**：devil to come in it's and the blood he'll cross the bloodline folks if you have an open door you can apply the blood all the day long but if you're walking with an open door and inviting the evil to come through that that Devil's going to march on right through there cuz the doors
+- **[47:21](https://www.youtube.com/watch?v=2JeWign9G7Y&t=2841s) · 本段原话**：world he said what's it what's it what abstain from these things look at the things he tells us to stay away from don't go undoing that keep yourself protected by by by by being smart use be wise be wise in these days ahead be wise be vigilant be be strong in the Lord in the power of
+- **[48:03](https://www.youtube.com/watch?v=2JeWign9G7Y&t=2883s) · 本段原话**：saying by being dumb and if you do be quick to repent and go back underneath it say listen I'm I'm going I'm going to repent and I'm going to shut this door because I said that I've seen it uh Billy Burke was even talking about it opening the door to a big black snake
+- **[49:42](https://www.youtube.com/watch?v=2JeWign9G7Y&t=2982s) · 本段原话**：leather shoes on there shiny looking shoes we had a nice white tie on white shirt white everything we are all and we had a honey glow all over us and that's called the anointing of the Holy Spirit and not one person who had the honey glow on them that that virus couldn't penetrate the honey glow because we were
 
 ### 完整英文 Transcript
 
@@ -1315,7 +1396,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–54:58 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:19](https://www.youtube.com/watch?v=2JeWign9G7Y&t=3019s) · 他表达判断**：Avail much and I believe you and I in these last days are going to do Great and Mighty things and he said signs and wonders will follow them that will believe so we pray this video bless you all today we pray healing over your bodies we pray demonstrations and manifestations of the glory over your
+- **[52:12](https://www.youtube.com/watch?v=2JeWign9G7Y&t=3132s) · 他表达判断**：we'll see you again soon I don't know tomorrow I I believe I'll have other videos but pray for the people of North Korea those men on the train let's father we lift them up before you father that they would know you that there would be angels that go before and and manifest thems to them that father they
+- **[53:12](https://www.youtube.com/watch?v=2JeWign9G7Y&t=3192s) · 本段原话**：Russia that this this this needless War would cease in the name of Jesus and the leaders would come to the table and agree for peace Father that Donald Trump would be a voice in the darkness and call out this this unrighteous unruly stuff and put an end to this behavior and all that's happening and this virus will not
+- **[53:36](https://www.youtube.com/watch?v=2JeWign9G7Y&t=3216s) · 他进行祷告**：take a hold and do this we will not have this virus we come against it now Lord I know you showed me it will happen but Lord I pray that it don't I I petition you that it don't just like Abraham petitioned you Lord that Sodom and Gore and you were willing to change your mind
 
 ### 完整英文 Transcript
 

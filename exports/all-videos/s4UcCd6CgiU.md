@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 344；**章节数**: 4；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -14,10 +14,26 @@
 - [03. 08:00–11:59 · 祷告、敬拜与现场互动、战争与国际事务](#section-03)
 - [04. 12:00–15:01 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-04)
 
+## 全片概述与 Key Points
+
+全片共 4 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=0s) · 他表达判断**：hey good morning family I'm going to do another video for you all today it's heavy on my heart to pray for Israel Israel at War Israel and Palestine Israel's am I'm going to bring some of my old words that I have given about Israel right now I'm going to I'm going to show you each one of them uh I think
+- **[04:02](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=242s) · 本段原话**：mouth do not be lukewarm in these last days the enemy comes like a roaring lying seek and whom he may devour and he's going to Devour the cold ones and the lukewarm ones and he's not going to devour my house the Bible says that he rebukes the devour for our sake when we
+- **[08:18](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=498s) · 他描述所见**：because it's an island and so people were trying we were fighting back and everything but it was a serious uh serious issue then the Lord took me in the spirit and I saw Israel and out of Syria all I could see Iran devising a plan and they were communicating with Syria and they were sending stuff uh
+- **[12:00](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=720s) · 本段原话**：cause Supernatural uh wisdom to come over their their minds that they would have wisdom on tunnels or whatever any kind of hidden secret tunnels or any kind of torture or whatever over the soldiers that were captured we thank you Father for wisdom father for their people and I ask father even for our
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、战争与国际事务
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、战争与国际事务展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=0s) · 他表达判断**：hey good morning family I'm going to do another video for you all today it's heavy on my heart to pray for Israel Israel at War Israel and Palestine Israel's am I'm going to bring some of my old words that I have given about Israel right now I'm going to I'm going to show you each one of them uh I think
+- **[00:20](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=20s) · 本段原话**：there's just two on there I I I'm trying to put all of them together but I just don't have time so for whoever's watching this this is what the Lord showed me you know I I I told you about the this war that's about to happen it that they announced yesterday that a bunch of men are going
+- **[00:37](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=37s) · 他表达判断**：to come out of Syria and they're all in a single file line and uh so you'll hear this and so I I just you know I know we're almost Jesus is coming y'all and I believe we're almost to the Ezekiel 3839 War I believe we're right on the hills of this and we're going to see this war
+- **[02:02](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=122s) · 本段原话**：folks and and this is just part of it we're going to see out the outpouring of the spirit of the Lord like we've never seen before a creative Miracle working power through his body laying hands on the sick casting out Devils raising the dead we're going to see marriages restored we're going to see blinded eyes
 
 ### 完整英文 Transcript
 
@@ -117,7 +133,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Israel、China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:02](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=242s) · 本段原话**：mouth do not be lukewarm in these last days the enemy comes like a roaring lying seek and whom he may devour and he's going to Devour the cold ones and the lukewarm ones and he's not going to devour my house the Bible says that he rebukes the devour for our sake when we
+- **[06:13](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=373s) · 他描述所见**：having a a an agreement I saw a turkey joining it and starting beating their War drums we're seeing the manifestations of stuff taking place like never before the Bible says watch the fig tree in these last days so I'm going to go right now to the to the video and we're going to watch the Fig
+- **[06:36](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=396s) · 他转述所听到的话**：Tree and I'm going to show you the prophecy I was shown Israel and Iran and these other area other other countries were all coming against Israel but the United States turned our back we turned our back and the Lord said this is what's going to happen during the Ezekiel 38 and 39 War people have always wondered where's
+- **[07:29](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=449s) · 他描述所见**：get us and I saw but it would came as this a dragon and it looked like a it looked like a red streaking dragon and so then the Lord showed me and he said watch Hawaii and I can see Hawaii and all these F-16 looking fighter planes coming in and they were just shooting
 
 ### 完整英文 Transcript
 
@@ -219,7 +242,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、预言、梦境与异象。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:18](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=498s) · 他描述所见**：because it's an island and so people were trying we were fighting back and everything but it was a serious uh serious issue then the Lord took me in the spirit and I saw Israel and out of Syria all I could see Iran devising a plan and they were communicating with Syria and they were sending stuff uh
+- **[09:17](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=557s) · 他描述所见**：saw a great War breaking out in Israel a great uh uh coming out of Syria this this attack was so uh I saw uh stress um um Benjamin Netanyahu and that's when the Lord said pray for Israel pray for the Peace of Jerusalem pray for this stuff and I saw um Benjamin yet and
+- **[09:38](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=578s) · 他描述所见**：Yahoo he was he was he wasn't worried but I could see like he was sweating a little bit like he was he was concerned like this is a this is going to be a major ordeal here this isn't just a couple Rockets shooting in this is becoming an allout war and so I saw like
+- **[11:11](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=671s) · 本段原话**：we call Supernatural protection of your angels right now going we call angels all over them from the north the South the East the West protecting no more kidnappings all hidden things be revealed whether that's bi logical or whatever no dirty bombs no nothing we call Protection over their PE and we call Peace over them we call wisdom over
 
 ### 完整英文 Transcript
 
@@ -323,7 +353,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:01 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Israel、Ukraine。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=720s) · 本段原话**：cause Supernatural uh wisdom to come over their their minds that they would have wisdom on tunnels or whatever any kind of hidden secret tunnels or any kind of torture or whatever over the soldiers that were captured we thank you Father for wisdom father for their people and I ask father even for our
+- **[12:45](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=765s) · 本段原话**：Ukraine now God I ask you father that we would give our our our support to Israel father I'd even ask that we would pull some of that money back that we've given to Ukraine to help Israel out father because there's a blessing on it there's a there's a covering over it there's a
+- **[13:24](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=804s) · 本段原话**：name we command you to cease and desist and you're maneuvering against God's people people we call Peace over the land in jesus' name and we give you all the glory and honor and praise for it and I thank you Father that there will be a blessing over our land because of it and we give you father we just thank
+- **[14:33](https://www.youtube.com/watch?v=s4UcCd6CgiU&t=873s) · 他表达判断**：all the kind comments in the comment section over the times I've done these videos I I thank you for the support I I believe I'm almost to 70,000 subscribers if you're not a subscriber to my Channel Please Subscribe right now I appreciate the support uh put a smile on your face a great big smile today put a song on
 
 ### 完整英文 Transcript
 

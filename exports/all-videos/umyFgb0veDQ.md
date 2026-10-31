@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 469；**章节数**: 6；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -16,10 +16,28 @@
 - [05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
 - [06. 20:00–21:03 · 教会、复兴与信仰](#section-06)
 
+## 全片概述与 Key Points
+
+全片共 6 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:36](https://www.youtube.com/watch?v=umyFgb0veDQ&t=36s) · 他进行祷告**：figure out I know we have power and authority as Believers we're seated with him in the heavenlies and I know that the that that when we join together as a group and we pray and I I tell you all the plan of the the enemy and IAI listen I'm blowing my trumpet I'm my Watchman
+- **[05:04](https://www.youtube.com/watch?v=umyFgb0veDQ&t=304s) · 本段原话**：people that is maybe I have a 10,000 group of strong Believers on here worldwide I don't know I some of my prayer videos they'll get a couple thousand people and they and they'll watch the whole thing and I know you're interceding with me the whole time and I know that we can do something
+- **[08:21](https://www.youtube.com/watch?v=umyFgb0veDQ&t=501s) · 本段原话**：telling you he doesn't want to get around that fire and he won't be he'll be like that little fly you go up there and touching the flame burn him up just saying that's the way it is that's the way the Lord showed me so cuz you I started dealing with stuff and he goes Brandon you're getting
+- **[12:02](https://www.youtube.com/watch?v=umyFgb0veDQ&t=722s) · 本段原话**：you'll bring rain for all the grass whatever and that's what you got to do you have to use your Authority in these last days more than ever before but you have to know you have authority so you can use your Authority or you're going to be dumb about it you won't know so
+- **[17:21](https://www.youtube.com/watch?v=umyFgb0veDQ&t=1041s) · 本段原话**：healing that they have that manifestation of what they're believing for we call their marriage restored we call People's marriages good you can call your marriage restored speak to your marriage my marriage is good my marriage is awesome I have an I have a marriage that's full of love full of joy my marriage is strong we will last
+- **[20:01](https://www.youtube.com/watch?v=umyFgb0veDQ&t=1201s) · 本段原话**：in Christ read Ephesians read the things but know that you have that Authority the devil don't have no authority to torment you in your house you don't you take Dominion authority over him you tell him thus far and no further you get out of here and you stop bothering my house you ain't putting no plague
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、物资、能源与供应链、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、物资、能源与供应链展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:36](https://www.youtube.com/watch?v=umyFgb0veDQ&t=36s) · 他进行祷告**：figure out I know we have power and authority as Believers we're seated with him in the heavenlies and I know that the that that when we join together as a group and we pray and I I tell you all the plan of the the enemy and IAI listen I'm blowing my trumpet I'm my Watchman
+- **[00:58](https://www.youtube.com/watch?v=umyFgb0veDQ&t=58s) · 本段原话**：on the wall saying listen The Bozo devil is going to try to do this let's stop it and I know and I know the Lord's trying to to to warn y'all it's trying to warn the world trying to warn America and and I thought this was interesting he made a statement to me I
+- **[01:53](https://www.youtube.com/watch?v=umyFgb0veDQ&t=113s) · 本段原话**：righteous people and beh and standing in behalf of Sodom and Gomorrah and they were a very uh a corrupt unmoral city of course like it was wiped off the face of the Earth and um he was interceding for him and he said Brandon if I was willing to do that for them back then underneath the old
+- **[02:48](https://www.youtube.com/watch?v=umyFgb0veDQ&t=168s) · 他表达判断**：people we are able to do a lot of damage to the kingdom of darkness and you know I warned you all about the water attack about the the men's trying men trying to pour the stuff into the lakes and uh mess with our water I believe we can stop that I believe this okay and
 
 ### 完整英文 Transcript
 
@@ -121,7 +139,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、地震、风暴与灾害、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、地震、风暴与灾害展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:04](https://www.youtube.com/watch?v=umyFgb0veDQ&t=304s) · 本段原话**：people that is maybe I have a 10,000 group of strong Believers on here worldwide I don't know I some of my prayer videos they'll get a couple thousand people and they and they'll watch the whole thing and I know you're interceding with me the whole time and I know that we can do something
+- **[05:43](https://www.youtube.com/watch?v=umyFgb0veDQ&t=343s) · 本段原话**：dominion and authority and take back what the devil's tried to steal it's it's it's marching forward and taking taking on act taking action and taking that sword of the spirit and the The Shield of Faith the helmet of salvation and going after after and smacking that devil in the head but it's not to run
+- **[06:04](https://www.youtube.com/watch?v=umyFgb0veDQ&t=364s) · 他转述所听到的话**：away cuz there's no armor for the backside period the Lord said this to me he said Brandon the devil is the Lord of the Flies he is the L he is he is he is like a fly that's why I want you to see it this the way they show the Lord showed
+- **[07:23](https://www.youtube.com/watch?v=umyFgb0veDQ&t=443s) · 本段原话**：the the L that Devil's going to try to mess with you because he's a fly and he don't want to touch a hot surface because he'll get burnt okay that's what I'm trying to tell you'all you get on fire for Jesus and you get fire how do you get on fire you said well I don't
 
 ### 完整英文 Transcript
 
@@ -212,7 +237,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 地震、风暴与灾害、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：地震、风暴与灾害、教会、复兴与信仰、祷告、敬拜与现场互动。 提到的地点：Texas。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕地震、风暴与灾害、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:21](https://www.youtube.com/watch?v=umyFgb0veDQ&t=501s) · 本段原话**：telling you he doesn't want to get around that fire and he won't be he'll be like that little fly you go up there and touching the flame burn him up just saying that's the way it is that's the way the Lord showed me so cuz you I started dealing with stuff and he goes Brandon you're getting
+- **[08:38](https://www.youtube.com/watch?v=umyFgb0veDQ&t=518s) · 他表达判断**：lukewarm you're getting lukewarm son you got to come back underneath that fire buddy you got to get back underneath there and and and fan that flame and I heard uh somebody preaching this last Wednesday even talking about Authority in your realm of authority I believe we have a power and authority over storms
+- **[09:16](https://www.youtube.com/watch?v=umyFgb0veDQ&t=556s) · 本段原话**：lose power we're not going to have any damage to our houses our trees nothing Satan I bind you and I tell you now you get out of here and you leave my stuff alone we have authority over you and we have authority over the weather and I command this weather to be peace and be
+- **[11:37](https://www.youtube.com/watch?v=umyFgb0veDQ&t=697s) · 本段原话**：golf moisture to come up or wherever jet string come over and I call forth how many inches then I write it down I call for 4 Ines of rain over how many days I call for 4 Ines of rain over the next week two weeks whatever and I thank you Father that you're the lord of the
 
 ### 完整英文 Transcript
 
@@ -312,7 +344,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:02](https://www.youtube.com/watch?v=umyFgb0veDQ&t=722s) · 本段原话**：you'll bring rain for all the grass whatever and that's what you got to do you have to use your Authority in these last days more than ever before but you have to know you have authority so you can use your Authority or you're going to be dumb about it you won't know so
+- **[12:20](https://www.youtube.com/watch?v=umyFgb0veDQ&t=740s) · 本段原话**：when you hear the weather man say in your area hey there's a storm coming for such and such area you say not my house not my area not where I tread and put my feet to where I go and walk where I go to the grocery store you're not going to come and mess up my stuff no and you've
+- **[14:00](https://www.youtube.com/watch?v=umyFgb0veDQ&t=840s) · 本段原话**：he wants more Harvest he wants the fruit of of of what's a matter to him he don't he sent his only begotten son to die for you he he don't want anybody to perish but for all to come to repentance and to know him John 3:16 look at look at what he says he he he's a how come he hasn't
+- **[15:29](https://www.youtube.com/watch?v=umyFgb0veDQ&t=929s) · 他进行祷告**：mountains to speak to the storms to speak to your finances to call those things that be not as though they were to to believe for the for the impossible that what seem to be impossible because all things are possible him believes so I want to pray for yall and pray for some of these storms that I've seen
 
 ### 完整英文 Transcript
 
@@ -412,7 +451,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[17:21](https://www.youtube.com/watch?v=umyFgb0veDQ&t=1041s) · 本段原话**：healing that they have that manifestation of what they're believing for we call their marriage restored we call People's marriages good you can call your marriage restored speak to your marriage my marriage is good my marriage is awesome I have an I have a marriage that's full of love full of joy my marriage is strong we will last
+- **[18:27](https://www.youtube.com/watch?v=umyFgb0veDQ&t=1107s) · 他进行祷告**：they'll not depart from it father it's part of my Covenant rights to have children that worship you that they'll not go to hell father I thank you Lord if my children go Wayward you'll bring them back in father I thank you Lord that you'll leave the 99 to go after the one now father I thank you Lord how much
+- **[19:10](https://www.youtube.com/watch?v=umyFgb0veDQ&t=1150s) · 本段原话**：say well I don't hear God no God's speaking all the time the word of God his word him speaking is in that beautiful book called The Bible pick it up and read it today because that's God speaking to you you want to hear God speak read your Bible he's speaking through that Bible and he wants to
+- **[19:29](https://www.youtube.com/watch?v=umyFgb0veDQ&t=1169s) · 本段原话**：minister to you today people then well it's an old book I don't want no it ain't it's new his mercies are new every morning and his his beautiful word is it's alive and it's beautiful and it's you just breathe it in it's a beautiful book read it it encourage you read read things
 
 ### 完整英文 Transcript
 
@@ -513,7 +559,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–21:03 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=umyFgb0veDQ&t=1201s) · 本段原话**：in Christ read Ephesians read the things but know that you have that Authority the devil don't have no authority to torment you in your house you don't you take Dominion authority over him you tell him thus far and no further you get out of here and you stop bothering my house you ain't putting no plague
+- **[20:20](https://www.youtube.com/watch?v=umyFgb0veDQ&t=1220s) · 本段原话**：sickness on my home you are not going to come and torment me in my sleep you are not going to bring Strife in my house you will not do this we won't have it you've got to talk to him like a dog because he's a dog God is good and he's faithful and we have authority of a
+- **[20:41](https://www.youtube.com/watch?v=umyFgb0veDQ&t=1241s) · 本段原话**：Believer that's what I've come on here to say not to rant God bless you all and I thank you for subscribing liking my videos commenting down below the ones are nice God bless you all well put a smile on your face and a song in your heart Jesus loved you so much and and we
+- **[20:58](https://www.youtube.com/watch?v=umyFgb0veDQ&t=1258s) · 本段原话**：love you and we will see you all next time y'all have a blessed day God bless you all bye-bye
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 707；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 - [08. 28:00–30:28 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=iehkue2MLfQ&t=0s) · 本段原话**：hey good morning family praise the Lord how are y'all doing today well thank you for joining me you know I was praying this this evening and the Lord spoke to me and he said Brandon 2025 is going to be a good year for my for the Believers I was looking over in the
+- **[04:46](https://www.youtube.com/watch?v=iehkue2MLfQ&t=286s) · 本段原话**：all these religious thoughts like Pharisees we think it's he's so you know like God doesn't want to spend time with me we have all these stupid thoughts because the devil tries to put those negative words he comes like a a a roaring lion seeking who he may devour he's looking who he can and the only
+- **[12:00](https://www.youtube.com/watch?v=iehkue2MLfQ&t=720s) · 本段原话**：faith cometh by hearing and hearing by the word of God your Faith's going to grow you're going to be intimate with the father and it's going to change your life because the Bible says that his sheep will hear his voice and a stranger's voice they will not follow but you don't know that until you get
+- **[16:01](https://www.youtube.com/watch?v=iehkue2MLfQ&t=961s) · 本段原话**：much the Holy Spirit dwells on inside of me richly by faith and I'm telling you that's that out of my belly shall flow rivers of Living Water and that's what quenches all the fiery darts of the wicked and the righteous the name of the Lord is as a strong tower and the righteous run into it and they are safe
+- **[24:00](https://www.youtube.com/watch?v=iehkue2MLfQ&t=1440s) · 他描述所见**：the eyes that's bad their eyes have 2020 Vision in the name of Jesus we decree and declare healing over those eyes in Jesus name and we thank you Lord that the fire of the Holy Ghost goes in those eyes and delivers them from satanic bondage over their ears we call their ears to pop open and hear and they have
+- **[28:41](https://www.youtube.com/watch?v=iehkue2MLfQ&t=1721s) · 他转述所听到的话**：God just like the Lord told me it would and we're we have a China Channel now so if you're new here and you are speak Chinese or you speak uh uh Korean go and join our Korean Channel and our China Channel and you'll be able to understand it better you don't have to read the
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=iehkue2MLfQ&t=0s) · 本段原话**：hey good morning family praise the Lord how are y'all doing today well thank you for joining me you know I was praying this this evening and the Lord spoke to me and he said Brandon 2025 is going to be a good year for my for the Believers I was looking over in the
+- **[00:42](https://www.youtube.com/watch?v=iehkue2MLfQ&t=42s) · 他表达判断**：looking forward to the Lord Jesus coming and they thought he was coming in their time frame folks we're about to see the Lord Jesus come and we're going to see a major Harvest of Souls and I know I keep telling you all this and I've said it over and over I probably sound like I
+- **[01:20](https://www.youtube.com/watch?v=iehkue2MLfQ&t=80s) · 本段原话**：time this week he said that we are on the we are on the countdown the five 4 3 2 1 liftoff and I'm telling you wall a great move of God is about to hit this land like you can never I'm telling you exceedingly abundantly above all that you dare ask or think it's time to
+- **[02:38](https://www.youtube.com/watch?v=iehkue2MLfQ&t=158s) · 本段原话**：could just weep because of the intercession that's coming up out of my spirit to intercede for the lost and intercede for what's coming and the Lord when I came home the Lord I I started watching Billy Burke and I just I started I I told uh my wife I said I want to hear this sermon about
 
 ### 完整英文 Transcript
 
@@ -125,7 +143,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、地震、风暴与灾害展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:46](https://www.youtube.com/watch?v=iehkue2MLfQ&t=286s) · 本段原话**：all these religious thoughts like Pharisees we think it's he's so you know like God doesn't want to spend time with me we have all these stupid thoughts because the devil tries to put those negative words he comes like a a a roaring lion seeking who he may devour he's looking who he can and the only
+- **[05:45](https://www.youtube.com/watch?v=iehkue2MLfQ&t=345s) · 本段原话**：you're standing there and he's looking to see do they have it or do do they not because any Christian that's on fire he's going to run away from because James James says that if we submit oursel unto God and we resist the devil he will flee in Terror so he's looking if who has that fire who has that that
+- **[07:05](https://www.youtube.com/watch?v=iehkue2MLfQ&t=425s) · 本段原话**：of us has anything less but everyone has a choice how much time are you going to spend with him today you may say well I'm so busy I got to go to the gym I've got to go to work I've got to come home I want to watch my favorite TV program and then you have some people
+- **[07:41](https://www.youtube.com/watch?v=iehkue2MLfQ&t=461s) · 本段原话**：got to go and you got to get in your word everybody has the opportunity to get in the word you can get your Bible out and look at those scriptures read a couple passages and memorize those scriptures it's not it's not going to be a microwave it's going to be a slow cook
 
 ### 完整英文 Transcript
 
@@ -223,7 +248,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:41](https://www.youtube.com/watch?v=iehkue2MLfQ&t=521s) · 他进行祷告**：counselor when I worked for aega Ministry she said if you pray in the spirit if you pray and you talk in tongues for 30 minutes a day your you'll your life will never be the same then increase it to an hour increase it to an hour praying in the spirit because brother Hagen brother kenthy Hagen
+- **[09:00](https://www.youtube.com/watch?v=iehkue2MLfQ&t=540s) · 本段原话**：talked about praying for an hour in tongues praying for two hours in tongues and he talked about that praying in the mornings praying in the evenings and that's why I've tried to tell you all if your flesh eats some of you all do inter intermediate fasting so it doesn't really count but I'm saying if your
+- **[09:42](https://www.youtube.com/watch?v=iehkue2MLfQ&t=582s) · 本段原话**：a little passages it don't have to be uh well I'm going to have to read the whole Bible and you know people get on these religious kicks and they go I'm going to read the Bible in a in a year and I'm like yeah fine but did you learn anything did the word change you or did
+- **[10:54](https://www.youtube.com/watch?v=iehkue2MLfQ&t=654s) · 本段原话**：you're going to see things change because that's when your prayers are going to get answered and prayer change things but it's the scripture that you know that's going to change you so people I I've heard I've even heard this and I don't want to go on too many rabbit Trails people say well I've got a
 
 ### 完整英文 Transcript
 
@@ -332,7 +364,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=iehkue2MLfQ&t=720s) · 本段原话**：faith cometh by hearing and hearing by the word of God your Faith's going to grow you're going to be intimate with the father and it's going to change your life because the Bible says that his sheep will hear his voice and a stranger's voice they will not follow but you don't know that until you get
+- **[13:40](https://www.youtube.com/watch?v=iehkue2MLfQ&t=820s) · 本段原话**：makes you even healthy it changes you so if you are are you are bound by demonic force and you feel that oh I go get the the Bible says if you don't fill your temple up it comes and that that devil that you cast out says it goes for a season into the to the wild and it goes
+- **[14:35](https://www.youtube.com/watch?v=iehkue2MLfQ&t=875s) · 本段原话**：so people say how am I going to get there how do I have an intimate relationship with the father it's by F feeding on the word of God and praying so that you see your prayers answered some people say well I don't I have any I have all stuff it's because your word
+- **[15:31](https://www.youtube.com/watch?v=iehkue2MLfQ&t=931s) · 他表达判断**：or just pray in English until you get baptized in the Holy Ghost the more you hang around me you're going to get baptized in the Holy Ghost because I believe in it the Holy Ghost and Fire the burden removing yoke destroying power is on the inside of you when you get filled with the Holy Ghost and I
 
 ### 完整英文 Transcript
 
@@ -435,7 +474,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=iehkue2MLfQ&t=961s) · 本段原话**：much the Holy Spirit dwells on inside of me richly by faith and I'm telling you that's that out of my belly shall flow rivers of Living Water and that's what quenches all the fiery darts of the wicked and the righteous the name of the Lord is as a strong tower and the righteous run into it and they are safe
+- **[17:44](https://www.youtube.com/watch?v=iehkue2MLfQ&t=1064s) · 本段原话**：voice of the Lord and he'll start giving you signs and wonders and dreams and visions and things will start to happen for you and you're going to look back and at the end of 2025 and say my life has radically changed try it for a year try it for a year but find scriptures that you need
+- **[18:54](https://www.youtube.com/watch?v=iehkue2MLfQ&t=1134s) · 他表达判断**：2025 believe God for big we're almost done with 2024 you can still believe him for this year but believe him even more in 2025 a a year of great great things for the body I believe it yeah I'm not worried about what's going on in the world right now the wars and the rumors
+- **[19:11](https://www.youtube.com/watch?v=iehkue2MLfQ&t=1151s) · 他进行祷告**：of wars and all the things I'm I'm focused on you today what do you believe in God for in 2025 I'm going to keep on this for a little bit believe in God for Supernatural exceedingly abundantly above all that you dare ask or think so let's pray today I hope this blessed you
 
 ### 完整英文 Transcript
 
@@ -536,7 +582,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=iehkue2MLfQ&t=1200s) · 本段原话**：praying I'll be asking for things I well maybe that'll come in a couple days he'll hear my heart he say Brandon Brandon hold on believe for now now don't always don't believe for tomorrow believe for today now Faith is the substance of things hoped for and evidence of things not seen yet that's what we got to keep doing we
+- **[21:29](https://www.youtube.com/watch?v=iehkue2MLfQ&t=1289s) · 他表达判断**：by the blood of the lamb and the word of their testimony today I speak life I speak increase I speak favor over their life that everything they put their hands to will prosper and I believe father that this is a time like never before that you said Brandon I want to I want to show up and show off in their
+- **[21:50](https://www.youtube.com/watch?v=iehkue2MLfQ&t=1310s) · 他表达判断**：lives and I believe it that this is a time like never before that father is going to show up and show off in your life in your flesh in your in your mind in your will your emotion in your marriage and your children Deliverance healing wholeness and wellness over your marriage we call your marriage blessed
+- **[23:42](https://www.youtube.com/watch?v=iehkue2MLfQ&t=1422s) · 本段原话**：with the good things and their youth is renewed like the eagles and I thank you that that glory is keeping them whole they're keep it's keeping them and their eyes will not grow dim their eyes will not fade there's no cataracts there's no there's no glockoma there's nothing but
 
 ### 完整英文 Transcript
 
@@ -636,7 +689,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=iehkue2MLfQ&t=1440s) · 他描述所见**：the eyes that's bad their eyes have 2020 Vision in the name of Jesus we decree and declare healing over those eyes in Jesus name and we thank you Lord that the fire of the Holy Ghost goes in those eyes and delivers them from satanic bondage over their ears we call their ears to pop open and hear and they have
+- **[24:40](https://www.youtube.com/watch?v=iehkue2MLfQ&t=1480s) · 本段原话**：Father for the blessing of the Lord over them that the Harvesters and the sers are going hand in hand that they'll not have to reap and that seed time and harvest that time is being shortened now and it's time for a seed time acceleration and I say acceleration is coming to to your seeds and I say in the
+- **[25:59](https://www.youtube.com/watch?v=iehkue2MLfQ&t=1559s) · 本段原话**：them trying to sink the economy and combat what he's going to try to do to make America great again we say Satan get your hands off of our economy and we will not have this we have authority over you and crypto will soar the things that God has for his body will soar in
+- **[27:22](https://www.youtube.com/watch?v=iehkue2MLfQ&t=1642s) · 本段原话**：it we still got work to do so we call blessing over this nation we call favor father that Trump gets in there and things are going to turn around things are going to start turnning around they're turning around now tomorrow is going to be a good day we believe it God we believe it that today is even turning
 
 ### 完整英文 Transcript
 
@@ -740,7 +800,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–30:28 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:41](https://www.youtube.com/watch?v=iehkue2MLfQ&t=1721s) · 他转述所听到的话**：God just like the Lord told me it would and we're we have a China Channel now so if you're new here and you are speak Chinese or you speak uh uh Korean go and join our Korean Channel and our China Channel and you'll be able to understand it better you don't have to read the
+- **[28:59](https://www.youtube.com/watch?v=iehkue2MLfQ&t=1739s) · 他表达判断**：subtitles so that'll be a blessing for you cuz we're it it's I it's exploding for what I can see people are really starting to join it and I think we have almost over a thousand subscribers so on our our Korean channel so we appreciate all the support over there um if you're here and you're American or you speak
+- **[29:39](https://www.youtube.com/watch?v=iehkue2MLfQ&t=1779s) · 他表达判断**：really does help us it helps us to grow it helps us to get in the algorithm when you click the like button and stuff and and and it's getting the gospel spread throughout the whole world it's amazing what's going on in Asia and I believe Asia is about to have a major Revival a
+- **[29:56](https://www.youtube.com/watch?v=iehkue2MLfQ&t=1796s) · 本段原话**：major Revival because the Lord's talking talk to me about it especially South Korea there's something about South Korea the Lord's talking to me about and I'm excited about it so thank you for your support God bless you all and we'll see you again tomorrow remember to put a smile on your face and a song in your
 
 ### 完整英文 Transcript
 

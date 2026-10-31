@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 268；**章节数**: 3；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -13,10 +13,25 @@
 - [02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-02)
 - [03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-03)
 
+## 全片概述与 Key Points
+
+全片共 3 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:18](https://www.youtube.com/watch?v=zXkss9pDyCs&t=18s) · 他描述所见**：dream and I wake up at in my dream and I'm looking out the my window at my house and I I pick up my phone and I see all these news Bulls bus on my phone from YouTube and uh friends people trying to tell me what was going on and uh I go and I look at my phone and and I
+- **[04:00](https://www.youtube.com/watch?v=zXkss9pDyCs&t=240s) · 他讨论新闻或报道**：filling their buggies and whatever families were um it was that way for everything and I remember in the dream um you know watching the news in the dream which was it was such a weird dream um with with with all the major news networks talking about this is a new virus this is a new pandemic and uh it
+- **[08:00](https://www.youtube.com/watch?v=zXkss9pDyCs&t=480s) · 本段原话**：not just physically not mentally but father spiritually that father that we know who we are in Christ we take our Authority we take our rightful place seated next to you and father we use that Authority against all sickness against all disease you said in your word Lord that a thousand should fall at
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、疾病、医疗与药品、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、疾病、医疗与药品展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:18](https://www.youtube.com/watch?v=zXkss9pDyCs&t=18s) · 他描述所见**：dream and I wake up at in my dream and I'm looking out the my window at my house and I I pick up my phone and I see all these news Bulls bus on my phone from YouTube and uh friends people trying to tell me what was going on and uh I go and I look at my phone and and I
+- **[00:40](https://www.youtube.com/watch?v=zXkss9pDyCs&t=40s) · 他描述所见**：start seeing that there is a major Announcement by the United States government and I see the president but in this in in in this dream it's president Trump again and president Trump is holding a a a Podium with the presidential seal on this Podium and he starts talking and he has he has a blue
+- **[01:25](https://www.youtube.com/watch?v=zXkss9pDyCs&t=85s) · 本段原话**：there's another virus and he starts explaining to everybody that this virus is uh basically uh a new virus that that is going to Door uh Co that made Co look like it was a wimpy virus compared to what this new virus is the uh death ratio was skyrocketing even more higher than um Co did the uh this started in
+- **[01:55](https://www.youtube.com/watch?v=zXkss9pDyCs&t=115s) · 他描述所见**：Europe which was interesting and he was making an announcement that this was we were going on lockdowns again instantaneously um I I felt like oh no this is what I saw you know in my dream I'm thinking this this is what the Lord showed me this is the virus that I've warned you all about and here it is it
 
 ### 完整英文 Transcript
 
@@ -107,7 +122,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=zXkss9pDyCs&t=240s) · 他讨论新闻或报道**：filling their buggies and whatever families were um it was that way for everything and I remember in the dream um you know watching the news in the dream which was it was such a weird dream um with with with all the major news networks talking about this is a new virus this is a new pandemic and uh it
+- **[04:25](https://www.youtube.com/watch?v=zXkss9pDyCs&t=265s) · 本段原话**：it is it it dwarfs uh Co and they kept saying saying that in their speech this the death toll ratio is going to DF uh Co and um basically that was the dream but I just remember feeling uneasy in my dream because of what the Lord had showed me prophetically already prior to the dream warning you all and
+- **[05:42](https://www.youtube.com/watch?v=zXkss9pDyCs&t=342s) · 本段原话**：you you you could you could take it and put it on a shelf or whatever but I felt in my heart it was serious it was serious enough to tell you all and I thought it was cool because Trump was behind the pulpit he was behind the podium talking it wasn't Biden and so um
+- **[06:54](https://www.youtube.com/watch?v=zXkss9pDyCs&t=414s) · 他表达判断**：state to state which I think that would be over the top but you know it's what I was seeing that they were locking down airplanes people in closed C closed areas cuz it was air it Airborne virus it was not a um by fluids it was Airborne like I said I'm not coming on
 
 ### 完整英文 Transcript
 
@@ -211,7 +233,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=zXkss9pDyCs&t=480s) · 本段原话**：not just physically not mentally but father spiritually that father that we know who we are in Christ we take our Authority we take our rightful place seated next to you and father we use that Authority against all sickness against all disease you said in your word Lord that a thousand should fall at
+- **[08:58](https://www.youtube.com/watch?v=zXkss9pDyCs&t=538s) · 本段原话**：lest we Dash our foot against a stone I thank you Father that we're doing what it takes to take care of our flesh that we're getting the weight off we're we're exercising we're we're honoring our temples that father that we are physically fit and we will live long and finish strong I plead the blood of Jesus
+- **[10:13](https://www.youtube.com/watch?v=zXkss9pDyCs&t=613s) · 本段原话**：um that we're not going to be afraid of whatever comes because we trust you we confidently trust in the finished work of Jesus Christ that he paid the price for us to walk in victory over sickness and disease over over death and over all torment of fear whatever it doesn't matter God I know that you have a plan
+- **[11:12](https://www.youtube.com/watch?v=zXkss9pDyCs&t=672s) · 本段原话**：help us with the algorithm uh comment down below if you've had dreams about a new virus if you've if you've seen something coming if the Lord's warned you about something that strong that was more deadly than Co was I I ask you uh to to be polite in the comments section though don't don't don't um don't be
 
 ### 完整英文 Transcript
 

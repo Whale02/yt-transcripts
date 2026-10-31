@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 640；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-06)
 - [07. 24:00–27:24 · 教会、复兴与信仰、预言、梦境与异象](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:46](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=46s) · 他描述所见**："There's great pressure on the Earth's crust. And in this, we're going to see things we never thought we would ever see." I saw ash all over United States of America. I saw major shaking about to take place.
+- **[04:32](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=272s) · 本段原话**：There's not going to be any walls in denomination where where you're well, I'm Catholic. I'm I'm Presbyterian. I'm I'm charismatic. I'm Baptist. I'm I'm Methodist. We don't we don't associate with you." No. It's like there's there's skin racial pre prejudices and there's religious pre prejudice. I'm telling you all for what's about to happen. The Holy
+- **[08:25](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=505s) · 他描述所见**：new kind of weapon that will look like a nuclear weapon will be used soon. And I even told you I saw it in by Warsaw, Poland. I saw it there and it was a 50 mile radius. It was a massive blast, but it was so hot it melted the people, but it did not hurt the cars or
+- **[16:20](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=980s) · 他描述所见**："Pay attention to the goji berries." I saw Mount Fuji in Japan go off. I'm not talking about a little bit of an eruption. I'm talking like blow the whole top of it off. Explosion in uh Mount Jafu Fuji. I'm talking about a major volcanic uh eruption goes off in Mount Fuji. I don't know when. I don't know if this is
+- **[20:41](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=1241s) · 他描述所见**：I saw shaking of war. I saw shaking of all fronts, a major major shifting. But it wasn't about just America. I saw a major Oh, I saw volcanoes. But then I saw ash, some kind of gray substance upon the from from from Louisiana all the way up to Canada and ash all on the east. Some
+- **[24:02](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=1442s) · 本段原话**：is. Glory to God. Ha. Hubba hubba a hubba a hoopa hubba. So hopefully that gets you excited about prayer today. It got me excited about prayer. I was like man Lord you're coming. The powers of heaven will be shaken. You're going to see fearful fearful sights and all these things. But folks look up for redemption draws nigh.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:46](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=46s) · 他描述所见**："There's great pressure on the Earth's crust. And in this, we're going to see things we never thought we would ever see." I saw ash all over United States of America. I saw major shaking about to take place.
+- **[01:03](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=63s) · 他描述所见**：So, Mount Fuji is the mountain that the Lord showed me that would go off soon. I don't know when, but I saw the whole top of all the snow cap completely gone. It was leveled out. It's a major eruption when this takes place. And I know the Lord showed me Yellowstone uh national park, Yoseite National Park,
+- **[02:10](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=130s) · 他转述所听到的话**：So then Black Wall Street, all the things the Lord showed me about the race riots and all that, the Lord told me, he said, "I'm bringing justice. I'm bringing justice for all the wrongs will be made right and financial restitution is coming with interest. Watch what I'm about to do." And I and I was like,
+- **[03:13](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=193s) · 本段原话**：It's prophetic because it's the timing. Right after we prayed for it as a family, all 70,000 people prayed and interceded for this and travailed. And God's showing already the first the blade, then the ear, then the full manifestation. I know this is just the beginning of what the Lord spoke to us about. Has the full manifestation of
 
 ### 完整英文 Transcript
 
@@ -132,7 +150,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:32](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=272s) · 本段原话**：There's not going to be any walls in denomination where where you're well, I'm Catholic. I'm I'm Presbyterian. I'm I'm charismatic. I'm Baptist. I'm I'm Methodist. We don't we don't associate with you." No. It's like there's there's skin racial pre prejudices and there's religious pre prejudice. I'm telling you all for what's about to happen. The Holy
+- **[05:33](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=333s) · 他表达判断**：somebody who wants to help me who will say yes and that's what he's after right now and I'm telling you I believe this is just the beginning as we pray as a family and we bring away like a bring we we step aside hide from our petty differences, all this stuff. Yes, there's hurts. Yes, but God is a healer
+- **[06:14](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=374s) · 他转述所听到的话**：we've never seen it before. Knowledge is increasing just like the Lord said it would. AI, all the stuff, crypto, all digital platforms, all the things, beast systems, all the stuff's being talked about. Even the world's starting to talk about it. And I go, "Yep, my king is coming. My king is coming." And he is coming back for a
+- **[06:55](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=415s) · 本段原话**：done, thy good and faithful servant. Enter into my rest. I have a place for you." Because of what the Lord showed me in 2023 when I told you, I asked the Lord, do you remember what I told you all?
 
 ### 完整英文 Transcript
 
@@ -238,7 +263,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:25](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=505s) · 他描述所见**：new kind of weapon that will look like a nuclear weapon will be used soon. And I even told you I saw it in by Warsaw, Poland. I saw it there and it was a 50 mile radius. It was a massive blast, but it was so hot it melted the people, but it did not hurt the cars or
+- **[09:12](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=552s) · 他描述所见**：So then I saw a major draft. Then I saw a major war escalation. Can we pray about it? And this is what I want to tell you. Remember what I told you last prayer video. The Lord said this stuff will a lot of this stuff will not be prayed away. You will not stop this
+- **[09:29](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=569s) · 他描述所见**：through prayer. For this is a great shaking to awaken for my son's return is imminent. and you say, "What did you see about Taiwan?" Now, not a lot of a lot of people not going to like to hear this, but I'll tell you today. I saw a red dome over Taiwan that looked like some kind of membrane that
+- **[11:27](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=687s) · 他描述所见**：tell you, I'm open and I'll tell you what I saw. And it was it was it was from there over China attacked whenever there was gray upon the land. It was some kind of thick substance. Whether it was nuclear fallout, which don't believe it was it was e it was something ash. I don't
 
 ### 完整英文 Transcript
 
@@ -342,7 +374,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=721s) · 他描述所见**：and Japan. And I saw major revival coming to the Asian people and it spread. I I'll start with this. I saw one of those Jewish where they get the the like it looks like a wedding and it was carved out of olivewood because I heard the spirit of the Lord say this is
+- **[13:46](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=826s) · 他描述所见**：in the heavens. I could see this fiery light, right? But every single time it looks like a ball because he's sitting. This time he was standing. I could see his legs in this vision like what the outline of him all the way up, but it was a consuming light, a light that would burn
+- **[14:35](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=875s) · 他转述所听到的话**：shaking to awaken the world has ever known." And I heard him say, "They're getting ready to come in hot, Brandon. You're not going to pray away what's coming to this earth now.
+- **[14:50](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=890s) · 他描述所见**：You're not going to pray away these things. For this is happening to bring in the harvest, for he's leaving the 99 to go after the one." And I saw earthquakes in diverse places. I saw massive earthquakes. I saw earthquakes uh that would that like it's making the earth like like distort. Not like when you see buildings
 
 ### 完整英文 Transcript
 
@@ -435,7 +474,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:20](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=980s) · 他描述所见**："Pay attention to the goji berries." I saw Mount Fuji in Japan go off. I'm not talking about a little bit of an eruption. I'm talking like blow the whole top of it off. Explosion in uh Mount Jafu Fuji. I'm talking about a major volcanic uh eruption goes off in Mount Fuji. I don't know when. I don't know if this is
+- **[17:29](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=1049s) · 他描述所见**：upon the earth, many people's hearts will fail them for fear." He said, "You will have to stay vertical in the days ahead." And I saw Brush Harbor Churches again, major major revivals coming throughout the whole world, a major harvest of souls. And he said, "Brandon, a lot of people are coming. What are
+- **[17:50](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=1070s) · 他描述所见**：they going to get when they get there? What are they going to experience in your churches when they get there? Are they going to get some religious sermon or are they going to get the Holy Ghost and fire?" He said, "I saw the barn again full of harvesting equipment." And he said, "I provided you this harvest
+- **[19:17](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=1157s) · 他描述所见**：And then I saw $100 bills falling off trees. And he said that, remember I told you five shakings, five major shaking, politics, the earth, the the heavens.
 
 ### 完整英文 Transcript
 
@@ -536,7 +582,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:41](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=1241s) · 他描述所见**：I saw shaking of war. I saw shaking of all fronts, a major major shifting. But it wasn't about just America. I saw a major Oh, I saw volcanoes. But then I saw ash, some kind of gray substance upon the from from from Louisiana all the way up to Canada and ash all on the east. Some
+- **[21:06](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=1266s) · 他描述所见**：kind of gray substance on the land. And I don't know what that was, but it looked like a thick uh jelly looking uh gray soot is the only way I can describe it. Don't know why that I saw that but I saw it on the east and I saw a revival coming and I saw Texas I saw Oklahoma
+- **[21:26](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=1286s) · 他描述所见**：and I saw the m Brush Harbor churches. I saw the glorious outpouring and the Lord said this. He said these will be days of fun and the fun has just begun. Are you ready for the fun? He kept saying it. Are you ready for the fun? The harvest has just begun there. I
+- **[23:37](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=1417s) · 他描述所见**：I saw the harvesting equipment. I saw the glory. I saw I saw not the father sitting in a down position like you see a ball. He was long in the fire. What I saw his outline. Wow. Glory to God. And Jesus was standing in that hoopa. That thing not hoopa. That whatever that
 
 ### 完整英文 Transcript
 
@@ -634,7 +687,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:24 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:02](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=1442s) · 本段原话**：is. Glory to God. Ha. Hubba hubba a hubba a hoopa hubba. So hopefully that gets you excited about prayer today. It got me excited about prayer. I was like man Lord you're coming. The powers of heaven will be shaken. You're going to see fearful fearful sights and all these things. But folks look up for redemption draws nigh.
+- **[24:29](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=1469s) · 他描述所见**：Jesus Christ is coming. And whoo what a day of rejoicing that will be. Are you excited about the coming of the Lord Jesus Christ? Does this not get you? I just go when I start seeing things like this. I saw uh to pray over uh the the the election for South Korea. I mean,
+- **[25:34](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=1534s) · 他描述所见**：root wars and rumors of wars, folks. Woo! We're right there. Obviously, I don't know. You know, when I see all these, you say, "Well, what about the the energy and all the things you see, folks? I'm just telling you what I see now. All I know is I pray into these things. This is what he shows
+- **[26:50](https://www.youtube.com/watch?v=xRB5Htmm8wA&t=1610s) · 本段原话**：All I know is is that Jesus Christ is coming. That's all I care about. Whether that's five years, two months, or whatever. When you're looking over in the spirit, right, like that, it could it felt like it was imminent. Seriously, it felt like the the the major shakings and all this stuff could be tomorrow. I'm looking for
 
 ### 完整英文 Transcript
 

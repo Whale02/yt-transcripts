@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 900；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 - [10. 45:00–48:03 · 祷告、敬拜与现场互动、地震、风暴与灾害](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:53](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=53s) · 他表达判断**：but father let's just lift up the body if you haven't got your elements yet you can you can pause the video real quick some sister in the Lord sent me all these communion cups she gave us a a box of it I think she wanted us to take it the way that you do at church so I'm
+- **[10:01](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=601s) · 本段原话**：you up and we thank you the God on the mountain is still God in the valley when things go wrong he'll make them right and the god of the good times is still God in the bad times the god of the day is still God in the
+- **[20:01](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=1201s) · 本段原话**：oh Bread of Heaven feed me till I want no more through my cup fill it up and make me whole As the deer pen for the water so my soul longth
+- **[25:00](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=1500s) · 本段原话**：Spirit you are welcome in this place Holy Spirit Holy Spirit on poent Father omnipotent father of mercy and
+- **[36:09](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=2169s) · 本段原话**：expecting we're expecting in to close out 2024 and and to go with great acceleration into 2025 with great acceleration into 2025 father that this would be a year like we've never seen before father an amazing year ahead of us financially spiritually mentally emotionally to excel spiritually father with you to come up higher at the new
+- **[45:42](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=2742s) · 他讨论新闻或报道**：is a strong tower and the righteous run to it and they are safe so that's what we stand on today we stand on the word no matter all this drama in the news all this stuff we're moved we're not moved by it we we take our authority over the Nations and we thank you Father over our area over
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:53](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=53s) · 他表达判断**：but father let's just lift up the body if you haven't got your elements yet you can you can pause the video real quick some sister in the Lord sent me all these communion cups she gave us a a box of it I think she wanted us to take it the way that you do at church so I'm
+- **[01:30](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=90s) · 他表达判断**：with all my heart that Jesus Christ is the same yesterday today and forever I've said that a hundred times if not a thousand and I believe with all my heart that it's true because it's real to me that Jesus Is A Healer that Jesus cares and he loves you that Jesus came and he
+- **[01:48](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=108s) · 本段原话**：set the captives free 2,000 years ago he became the ultimate sacrifice for every single one of us that we don't have to walk in a devil's hell we don't have to be bound by satanic bondage anymore that we have authority over the devil ladies and gentlemen and I take the communion because as he is so are we in this world
+- **[04:33](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=273s) · 他表达判断**：is Lord of lords and he of King he is a king of kings and I believe with all my heart that he rose again on the third day and he set me free from all this demonic stuff no weapon formed against him he's going to prosper and we take this Blood right now in the name of
 
 ### 完整英文 Transcript
 
@@ -146,7 +164,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:37](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=337s) · 本段原话**：lot so you know because I feel like there's a lot of anointing on the old songs so I'm going to sing this one for you and and I like I might mess up on some of the words but you know uh I know I'm pretty good I guess life is easy when you're up on the
+- **[05:55](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=355s) · 本段原话**：[Music] mountain and you've got peace of mind that you never [Music] known but things change when you're down in the valley don't lose faith for you're never alone for the God on the mountain is still God in the
+- **[08:11](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=491s) · 本段原话**：day is still God in the [Music] night I like that song a lot we talk of faith when you're up on the mountain and talk comes so easy easy when life's at its best but we're down in the valley of Trials and temptations that's where your
+- **[09:20](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=560s) · 本段原话**：times the god of the day is still God in the night praise the Lord thank you Father for your hand on our homes and the god of the [Music] day is still God in the night father I just worship you I thank
 
 ### 完整英文 Transcript
 
@@ -243,7 +268,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:01](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=601s) · 本段原话**：you up and we thank you the God on the mountain is still God in the valley when things go wrong he'll make them right and the god of the good times is still God in the bad times the god of the day is still God in the
+- **[11:27](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=687s) · 本段原话**：Water as we we crawl up into your lap today father as your children your your beautiful children not as your adults but as children and we say father we need a fresh drink we need a fresh touch father Jesus I am thirsty won't you come and feel me though those Earthly
+- **[13:08](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=788s) · 本段原话**：things have left me dry only you can satisfy all I want is more of you all I want is more of you all I want is
+- **[14:18](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=858s) · 本段原话**：soul Bread of Heaven feed me till I want no more fill my cup fill it up and make me [Music] whole fill my cup Lord I lifted up Lord come and
 
 ### 完整英文 Transcript
 
@@ -328,7 +360,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:35](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=935s) · 本段原话**：to come underneath your spout where the glory comes out we're desperate to know more about you today less of us and more of you as you are the Potter we are the clay mold us and make us today Father create in us a clean heart CLE create in us a clean heart strip off the things of this world
+- **[17:27](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=1047s) · 他表达判断**：me I believe it father we need more You Are The Potter father we have this treasure in Earth and vessels that the Excellency of the power would be known of you and not of us we take this time in our day just to sit at your feet to drink from the Master's Hand father we need
+- **[18:00](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=1080s) · 本段原话**：more I know we're wall to wall Holy Spirit but father I want to come up greater levels greater levels to come and soar to be to to to come up higher where where the fire's at where you're where the throne in the throne taking all this stuff off all this stress and all the worries of Life
+- **[18:55](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=1135s) · 本段原话**：Lord come and quit this thirsting of my soul Bread of Heaven feed me till I want no more fill my cup fill it up and make me whole thank you I feel the glory to
 
 ### 完整英文 Transcript
 
@@ -419,7 +458,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=1201s) · 本段原话**：oh Bread of Heaven feed me till I want no more through my cup fill it up and make me whole As the deer pen for the water so my soul longth
+- **[21:06](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=1266s) · 本段原话**：you alone may my spirit you father we just worship you father we worship you you we say Jesus is coming soon Jesus is coming soon morning or night or
+- **[22:17](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=1337s) · 本段原话**：coming soon morning or night or noon many will meet their Doom trumpets will surely sound all of the Dead shall rise rightous me in the sky going where no one dies heaven we bound oh Lord we worship
+- **[24:30](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=1470s) · 本段原话**：for in your presence there's healing Divine no other power can heal Lord but thine Holy Spirit you are welcome in this place sweet hope Holy
 
 ### 完整英文 Transcript
 
@@ -504,7 +550,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:00](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=1500s) · 本段原话**：Spirit you are welcome in this place Holy Spirit Holy Spirit on poent Father omnipotent father of mercy and
+- **[26:04](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=1564s) · 他进行祷告**：world father that when we go into the public places father that people see the glory on us and they want what we have father we worship you that father that we pray your heart right now we not in a hurry we take the time just to to just just sit at your feet and we thank you Father for all
+- **[28:10](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=1690s) · 本段原话**：name we glorify your [Music] name we glorify your name in all the [Music] Earth Holy Spirit we love
+- **[29:34](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=1774s) · 本段原话**：right now in the name of Jesus we take authority over addictions we bind that demonic spirit and we tell you cease and assist and you're maneuvering against them right now and we command all addictions to be broken off of them from drug addictions to pornography to alcohol to cigarettes to all of it all
 
 ### 完整英文 Transcript
 
@@ -599,7 +652,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:22](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=1822s) · 本段原话**：is free indeed and we thank you Father for your mighty hand delivering them and that they receive it right now completely breaking off the scales of bondage the the the the that that demonic Spirit just wrapped you up so tight we break that off and we call the Yoke of bondage to be removed off of you
+- **[31:46](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=1906s) · 本段原话**：not we're not going to be moved by fear we're not moved by fear but we flow we flow with the Holy Spirit and we are in step with you we're in syn with you we're following you every day and we know exactly where we're supposed to be when we're supposed to be there we're
+- **[32:43](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=1963s) · 他表达判断**：worship you for you have everything we need everything we need you have it and you've provided it for us and you've made a way for us and you've you've made us the head and not the tail above and not beneath father I believe that this is a time like no other that we walk in
+- **[33:50](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=2030s) · 本段原话**：on a stronger and stronger and stronger in these last days that the glory of the Lord would rest on us now father we lift up Asia we lift up the prime ministers of of of South Korea and over all of the parliament South Korea and over all of uh uh uh Asia and Japan China all of
 
 ### 完整英文 Transcript
 
@@ -719,7 +779,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:09](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=2169s) · 本段原话**：expecting we're expecting in to close out 2024 and and to go with great acceleration into 2025 with great acceleration into 2025 father that this would be a year like we've never seen before father an amazing year ahead of us financially spiritually mentally emotionally to excel spiritually father with you to come up higher at the new
+- **[36:35](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=2195s) · 本段原话**：levels with you father to know you more uh than we've ever known you before father to have a revelation knowledge according to Ephesians 118 that the eyes of our understanding would be enlightened father and we call forth to know you to have a revelation of you to understand who we are in Christ in a
+- **[37:22](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=2242s) · 本段原话**：there's nothing missing nothing broken on every single person who's watching this video they they are delivered they are set free by the blood of the lamb and by the word of their testimony and we find scriptures to stand on father today for healing and wholeness and wellness to know that you've made us
+- **[38:51](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=2331s) · 本段原话**：that you're you're getting around for us and you've got it all around and and there's it's beautiful it's the desires of our heart heart thank you Father for all that you're doing thank you for this Christmas season father that we give you worth father for you're worthy of it we silent night holy
 
 ### 完整英文 Transcript
 
@@ -831,7 +898,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:32](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=2432s) · 他进行祷告**：Jesus thank you Father that you Protecting President Trump today Father with Emanuel mccrone and the meetings they've had father I thank you Lord that you've given president Trump wisdom that as he is not even stepping in yet to his his being uh in office father and he's already starting to make the plan set up
+- **[41:36](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=2496s) · 他进行祷告**：and amen well I pray this video blessed you today I know it was kind of different but I just thought you know why not re bring a different kind of atmosphere in instead of doing things different uh do do a different vein of prayer today but it's a worship prayer it's putting him
+- **[43:29](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=2609s) · 他描述所见**：is he is not a p he's never in panic he's never oh my God Jesus what are we going to do oh holy spirit this is a big one he is steady he's firm and and that's where we should be because we're abiding in him I am not moved by what I see I'm not moved by
+- **[44:42](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=2682s) · 他描述所见**：devil he told him what the word said that's how he resisted him and he stood steadfast it is written devil he he wasn't moved by all that I'm not moved by what I see around me that's
 
 ### 完整英文 Transcript
 
@@ -944,7 +1018,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–48:03 · 祷告、敬拜与现场互动、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、地震、风暴与灾害、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、地震、风暴与灾害展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:42](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=2742s) · 他讨论新闻或报道**：is a strong tower and the righteous run to it and they are safe so that's what we stand on today we stand on the word no matter all this drama in the news all this stuff we're moved we're not moved by it we we take our authority over the Nations and we thank you Father over our area over
+- **[46:57](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=2817s) · 他表达判断**：joining me today I appreciate it I played the you know I don't know how long we went but it I think it's good I I we'll be back again tomorrow and we'll pray again tomorrow we'll pray again the next day keep doing it tomorrow be 51 but I like I said I appreciate y'all
+- **[47:13](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=2833s) · 本段原话**：joining me today uh if you could please like the video subscribe if you haven't subscribed C click the notification Bell um give us a thumbs up all the good things comment something nice down below and uh and we appreciate that we really do it helps with the algorithm and it really it helps our channel to grow we
+- **[47:32](https://www.youtube.com/watch?v=eXaBZ07F4nk&t=2852s) · 他表达判断**：appreciate every one of you that are sticking around and praying with us every single day it is a true blessing uh it's getting bigger it it's growing it looks like it at least and uh I think people are coming back so we'll praise the Lord and so we'll see you tomorrow but we always close the broadcast uh by
 
 ### 完整英文 Transcript
 

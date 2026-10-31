@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 286；**章节数**: 4；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -14,10 +14,26 @@
 - [03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-03)
 - [04. 12:00–12:57 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-04)
 
+## 全片概述与 Key Points
+
+全片共 4 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:45](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=45s) · 他进行祷告**：with some severe uh arthritis really bad and um his name was Stanley and he told me he said hey Brandon he goes how come not all Christians are healed when they pray and and we they suffer so long with stuff and and you know it's just kind of a challenging question and I and I didn't
+- **[04:00](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=240s) · 本段原话**：was had oily skin he was had dirt on him from the from the dirt outside from the sweat and and his dirt was on his back you could see it he was dirty and it was it was oily and it was all like Olive looking skin and then they took they took uh though that cat nine tails
+- **[08:00](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=480s) · 他描述所见**：by my stripes you're healed and I saw his stripes I saw him I could hear the people yelling in the background I didn't see him crucify him crucify him and he was beaten to a pulp for us so that we don't have to have sickness in our bodies so we don't have to suffer
+- **[12:00](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=720s) · 他进行祷告**：over sickness and disease we take authority over poverty we take authority over lack not enough and barely getting by we take authority over it and we say it's under our feet in the name of Jesus and we thank you Lord for your healing power that delivers us from all sickness all disease in the name of Jesus Christ
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:45](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=45s) · 他进行祷告**：with some severe uh arthritis really bad and um his name was Stanley and he told me he said hey Brandon he goes how come not all Christians are healed when they pray and and we they suffer so long with stuff and and you know it's just kind of a challenging question and I and I didn't
+- **[01:37](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=97s) · 本段原话**：like to understand more give me Revelation and I went to bed and all of a sudden I I can't explain it to you it's very similar to how I went there he took me to tribulation I was taken out of my body and I was at the foot of the cross well to his crucifixion
+- **[02:05](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=125s) · 本段原话**：and oh man he was tied to a within post there was a Roman soldier with all this Roman Garb on standing on this on his right hand no it was on his left hand right here he was chained up with his hands just like this on a whipping post are you able to get that in the shot his
+- **[03:10](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=190s) · 他表达判断**：and this other man that was on this side was wearing this black outfit it was like a black it was like a big he was a big man I bet he was probably 400 pounds he was a massive man he wasn't heavy like overweight he was muscular he looked huge and he took that cat of nine tails and
 
 ### 完整英文 Transcript
 
@@ -119,7 +135,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=240s) · 本段原话**：was had oily skin he was had dirt on him from the from the dirt outside from the sweat and and his dirt was on his back you could see it he was dirty and it was it was oily and it was all like Olive looking skin and then they took they took uh though that cat nine tails
+- **[04:21](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=261s) · 本段原话**：and they whipped him one time with it on this side and then this one whipped him on this side and he screamed out in agony I watched it and I started screaming and I started yelling stop this stop this but nobody could hear me but Jesus was watching Jesus himself with me I was standing outside in my out
+- **[05:06](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=306s) · 他描述所见**：he said I love you he said I love you and he kept telling that every single time and they were mocking him and they grabbed a hold of his beard and I saw him and they ripped huge chunks of his beard out of his face they kept going at it and it was almost
+- **[06:27](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=387s) · 他表达判断**：if somebody was to ask you and challenge you about your faith saying that you're saved and they said we don't really believe you're saved you're not going to go to heaven he said you would fight them with every single thing yes I believe I'm saved you would you would argue with them you would go after them is what he
 
 ### 完整英文 Transcript
 
@@ -209,7 +232,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=480s) · 他描述所见**：by my stripes you're healed and I saw his stripes I saw him I could hear the people yelling in the background I didn't see him crucify him crucify him and he was beaten to a pulp for us so that we don't have to have sickness in our bodies so we don't have to suffer
+- **[08:21](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=501s) · 他描述所见**：with it by his stripes you are healed and I saw it he was beaten and he was bruised for our iniquities the chastisement of our peace was upon him and with his stripes you are healed believe it as much as you believe in your salvation if anybody was to talk to you try to
+- **[09:28](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=568s) · 他表达判断**：the stuff they used to do to wash the sins away of the people we just go to him and just ask him for forgiveness and he said he's faithful and just to forgive us and cleanse us from all righteousness but we just believe that and it's simple we just I believe it God you you saved me you you
+- **[10:28](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=628s) · 他描述所见**：and cried because it it was it was I I it was horrific it was horrific what he went through so Jesus did that for you Jesus died for you and he loves you so much I saw those people whipping him and he kept telling him I love you I love you when most people would just
 
 ### 完整英文 Transcript
 
@@ -312,7 +342,13 @@
 <a id="section-04"></a>
 ## 04. 12:00–12:57 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=720s) · 他进行祷告**：over sickness and disease we take authority over poverty we take authority over lack not enough and barely getting by we take authority over it and we say it's under our feet in the name of Jesus and we thank you Lord for your healing power that delivers us from all sickness all disease in the name of Jesus Christ
+- **[12:24](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=744s) · 他进行祷告**：and we call you whole and healed and well in Jesus name now comment down below if if there's witness with you if you're that person that that that I was talking to because I really believe the Lord wanted me to tell you and I hope my words gave what what he did for us a little Justice because I'm
+- **[12:49](https://www.youtube.com/watch?v=Z3rF6Pje6QQ&t=769s) · 本段原话**：I know it's all so short of it uh in my heart I I want to get it across to the people and so have a blessed day y'all bye-bye
 
 ### 完整英文 Transcript
 

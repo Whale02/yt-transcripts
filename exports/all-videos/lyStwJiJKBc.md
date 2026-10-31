@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1251；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 50:00–54:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 55:00–59:42 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:04](https://www.youtube.com/watch?v=lyStwJiJKBc&t=4s) · 本段原话**：Well, we want to take the time right now just to thank all our servicemen and women. I know a lot of you uh don't get enough appreciation. I feel in my heart there's a lot of you that you're still going through uh the trials of war from your body being mangled up to all kinds of things.
+- **[11:34](https://www.youtube.com/watch?v=lyStwJiJKBc&t=694s) · 他描述所见**：glory? No. my heart when I see children with special needs like my Megan that is overcoming. She's she's getting better and better every day. When I see that I you see you feel helpless without it. There's nothing you can do in the natural to fix it other than the anointing and a prayer. So the
+- **[20:00](https://www.youtube.com/watch?v=lyStwJiJKBc&t=1200s) · 本段原话**：move. I'm desperate for for for what we've not seen before. What I know what's coming. What the visions that I've had about the outpouring, the visions that I've had about the last outpouring of the the healing revival and the demonstrations, the manifestations. And I thought, what is the domino to tip it? Jesus did
+- **[35:44](https://www.youtube.com/watch?v=lyStwJiJKBc&t=2144s) · 本段原话**：I if we would just acknowledge it. God is not the one resisting. We are the ones being dumb. He's the one that's always there saying, "Hey, I love you. I want to be your friend. You just have a religious mindset. You need to renew your mind to being real with me and I'll be real with
+- **[45:36](https://www.youtube.com/watch?v=lyStwJiJKBc&t=2736s) · 本段原话**：For he's changing. He's changing me from earthly things to the heavenlies. His likeness and image to perfect in me. The love of God shown to the world. From glory to glory. He's changing me. Changing me. Changing me. His likeness and image to perfecting
+- **[55:55](https://www.youtube.com/watch?v=lyStwJiJKBc&t=3355s) · 本段原话**：those those glands and the the mind all these things with the the the the change of life with with with with menopause and all these things all these symptoms for hard menopause we call healing and wholeness and wellness in the mighty name of Jesus. Body line up with the word of God. but not to go through the change
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:04](https://www.youtube.com/watch?v=lyStwJiJKBc&t=4s) · 本段原话**：Well, we want to take the time right now just to thank all our servicemen and women. I know a lot of you uh don't get enough appreciation. I feel in my heart there's a lot of you that you're still going through uh the trials of war from your body being mangled up to all kinds of things.
+- **[02:32](https://www.youtube.com/watch?v=lyStwJiJKBc&t=152s) · 他表达判断**：know. And so when I talk about driving around cars, I really don't have a desire to have a a a fleet load of cars, but I think that's the best the world has to offer. Cadillacs, uh, Range Rovers. That's what the Hollywood movie stars drive, you know, and and R, you know, we don't have a
+- **[03:17](https://www.youtube.com/watch?v=lyStwJiJKBc&t=197s) · 他表达判断**：poor, their grandma was poor, everybody's been poor, and you'll be poor, too. No, I'm redeemed from the curse. And I believe poverty is a curse regardless of I've never seen anybody that's not able to pay their bills and struggling and and eating spam and doing things. Well, people say, "I like spam."
+- **[04:28](https://www.youtube.com/watch?v=lyStwJiJKBc&t=268s) · 他描述所见**：there and I know that those times were sorrowful. That was hard. and believing God to get extra, selling on eBay and Poshmark and doing these things that we've done, stepping out by faith and finding things. There's even a another level of of I see wealth. And and the Bible says, "Beloved, I wish above all things that
 
 ### 完整英文 Transcript
 
@@ -159,7 +177,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:02](https://www.youtube.com/watch?v=lyStwJiJKBc&t=302s) · 他表达判断**：not living, barely getting by and and broke. And yeah, people got you burned out because of the prosperity, preaching and all that stuff. But they were I believe a lot of them were try it started out good trying to help out uh the body of Christ to break off the yoke of bondage because I'm telling you
+- **[06:18](https://www.youtube.com/watch?v=lyStwJiJKBc&t=378s) · 他描述所见**：be real with you right now. Satan himself came to my house and and and I used the visions that I have, showed me all the wealth. He said, "If you bow your knee to me, if you bow your knee to me, I will give you all this wealth." I saw jets, I saw houses, I saw
+- **[06:39](https://www.youtube.com/watch?v=lyStwJiJKBc&t=399s) · 他描述所见**：Ferraris, I saw all this. He said, "If you serve me and use the gift that you have for seeing for the kingdom of darkness, I will give you everything that your hearts desire." So showed it all to me. I saw his palace and it was black onyx and and blood was flowing through his from his
+- **[08:05](https://www.youtube.com/watch?v=lyStwJiJKBc&t=485s) · 本段原话**：But I want you to know that even the devil tries to to to entice people with wealth. Why? Because it's what it's what the world wants. We wake up every day, Monday through Friday, like I said. But how much can you be a believing believer and have it and show the world that you
 
 ### 完整英文 Transcript
 
@@ -286,7 +311,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 物资、能源与供应链、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[11:34](https://www.youtube.com/watch?v=lyStwJiJKBc&t=694s) · 他描述所见**：glory? No. my heart when I see children with special needs like my Megan that is overcoming. She's she's getting better and better every day. When I see that I you see you feel helpless without it. There's nothing you can do in the natural to fix it other than the anointing and a prayer. So the
+- **[11:56](https://www.youtube.com/watch?v=lyStwJiJKBc&t=716s) · 他描述所见**：more I see it, it comes out of my spirit. It comes out of my spirit to see children of downs and to know that there's more. that God is a God that is able to heal, that he is he is a rewarder of those that diligently seek him. It's like when I one person I swed
+- **[12:51](https://www.youtube.com/watch?v=lyStwJiJKBc&t=771s) · 本段原话**：it h to have a staff to hire somebody to help us. And that's going to take a lot of money to go and say, "Well, I'm going to relieve Diana and all this pressure on Diana to answer all these emails and all this stuff all the time so she can focus on other things to hire an
+- **[14:34](https://www.youtube.com/watch?v=lyStwJiJKBc&t=874s) · 本段原话**：the Lord many of times, if I'm not able to handle this, if I'm not able to preach the gospel to the nations and I'm going to stumble and fall like some of these people through trials, they've moral uh things or whatever. And you see what happened even in our old church. So many people were
 
 ### 完整英文 Transcript
 
@@ -415,7 +447,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:15](https://www.youtube.com/watch?v=lyStwJiJKBc&t=915s) · 他描述所见**：greatest fall. I said, Lord, I'd rather not have it at all than cause a million people to to fall. That's what I'm trying to tell y'all because because of my because of something that I don't see in myself. So, I examine myself every day like that because I see what people in huge platforms that get really big, get
+- **[16:18](https://www.youtube.com/watch?v=lyStwJiJKBc&t=978s) · 他进行祷告**：I'm just me. Now, I know there's c certain lines when you show up at my at my PO box and you camp outside like I'm mentioning somebody right now and you demand to want to pray for my little girl and you say that God sent you to pray for her.
+- **[17:20](https://www.youtube.com/watch?v=lyStwJiJKBc&t=1040s) · 他进行祷告**：Never. That's my child. And if God calls me to have somebody pray for my child, I'll take that my child to that person. But you're not called to come laying hands on people unless God unless I feel peace about it. And that happened that's happened several times now. And it makes me quite
+- **[19:30](https://www.youtube.com/watch?v=lyStwJiJKBc&t=1170s) · 本段原话**：There's so much impartation that didn't come from laying on hands other than David had an impartation from the prophet. But I look at I but I look at and say, "God, where are you? I just need you." The Smith Wigglesworth, the John G. Lakes, the Kathn Coleman's all had impartation from him sitting at his feet. I'm just
 
 ### 完整英文 Transcript
 
@@ -542,7 +581,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=lyStwJiJKBc&t=1200s) · 本段原话**：move. I'm desperate for for for what we've not seen before. What I know what's coming. What the visions that I've had about the outpouring, the visions that I've had about the last outpouring of the the healing revival and the demonstrations, the manifestations. And I thought, what is the domino to tip it? Jesus did
+- **[20:46](https://www.youtube.com/watch?v=lyStwJiJKBc&t=1246s) · 本段原话**：Mary put I've always said this. Mary put a a demand on the anointing that was on Jesus's life at the marriage at the feast whenever he turned the water into wine. I know putting a demand on it saying, "Father, I thank you when you lay hands on someone that you're the healer. You're the deliverer. I get
+- **[22:47](https://www.youtube.com/watch?v=lyStwJiJKBc&t=1367s) · 本段原话**：it. Are you on my YouTube channel? Are you going to be on collabs? All this stuff. I just want Jesus. Well, you didn't come to my conference and you I just want Jesus. If I don't feel the If I don't And who said you're going to, you know, who who said we're going to feel a
+- **[24:18](https://www.youtube.com/watch?v=lyStwJiJKBc&t=1458s) · 本段原话**：you go, "But it's pure to me. All I know is is that is that I I love him and I seek him with all my heart because he's my friend and I and it's and and it and in my desperation he visits. All this other crap doesn't matter to me. It truly doesn't.
 
 ### 完整英文 Transcript
 
@@ -661,7 +707,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:00](https://www.youtube.com/watch?v=lyStwJiJKBc&t=1500s) · 他讨论新闻或报道**：me." And it's not easy for my flesh because I'm a very reclusive person. I be I try to be real with people on social media, but I don't like them knowing my business. I don't like them in my my circle, my my my space. In fact, I I truly I never even talked to
+- **[26:27](https://www.youtube.com/watch?v=lyStwJiJKBc&t=1587s) · 本段原话**：I did something rude. Does that make sense? Well, it's a relationship. And most people look at it and going, "Well, it's the thouest. I'm going to take it and I'm going to be all religious today and I'm going to sit at his feet and I'm going to move him." I just look at and say,
+- **[27:36](https://www.youtube.com/watch?v=lyStwJiJKBc&t=1656s) · 本段原话**：maybe if you pull this lever, you got to believe for so much. You got to have an employee. You got to I I don't know. I'm just I This is all I'm walking this out by faith with y'all. I'm just being real. I ain't done nothing to this. God said to make a mega ministry. He wants
+- **[28:40](https://www.youtube.com/watch?v=lyStwJiJKBc&t=1720s) · 本段原话**：want to touch you, be weird. It's like whatever. Maybe that's what they've come into and that's how the kind of standard they had to set up. Maybe that's what I'm learning is that maybe I need to be more guarded and more have more boundaries that I'm not more approachable than what I am. But I
 
 ### 完整英文 Transcript
 
@@ -796,7 +849,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:01](https://www.youtube.com/watch?v=lyStwJiJKBc&t=1801s) · 他进行祷告**：I I want to just jump right into prayer with y'all. and uh pray. I don't have a lot of time here and so I'm trying to uh do a video for you today. I've I'm waiting on the air conditioning guy to come. My air conditioner went out another day. I just go. Okay. Well,
+- **[32:01](https://www.youtube.com/watch?v=lyStwJiJKBc&t=1921s) · 本段原话**：Your flesh, you are enticed by your own lust, your own flesh. You got to crucify your flesh. God didn't do it. The devil attempts you, but you and he'll he'll he'll mess with you, but you're the one that chose to do it, right? He can't force you to do it is what I'm trying to
+- **[32:52](https://www.youtube.com/watch?v=lyStwJiJKBc&t=1972s) · 本段原话**：I may have messed up today, but this covers it all. This is the mercy seat. People get all hung up on communion and where you got it from, whatever. This is just my heart. I thank you, Father, that you forgive me. Thank you, Lord, that you cleanse me from all unrighteousness. Thank you, Lord, that
+- **[34:08](https://www.youtube.com/watch?v=lyStwJiJKBc&t=2048s) · 他进行祷告**：bones live?" And I knew he wasn't talking about real bone real bones. He was talking about spiritually dead people is what I felt inside. And that was amazing. All the things he showed me, the glory, the glory. So, let's pray today. I'm going to take some time with y'all and just pray and see what the
 
 ### 完整英文 Transcript
 
@@ -924,7 +984,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:44](https://www.youtube.com/watch?v=lyStwJiJKBc&t=2144s) · 本段原话**：I if we would just acknowledge it. God is not the one resisting. We are the ones being dumb. He's the one that's always there saying, "Hey, I love you. I want to be your friend. You just have a religious mindset. You need to renew your mind to being real with me and I'll be real with
+- **[36:55](https://www.youtube.com/watch?v=lyStwJiJKBc&t=2215s) · 本段原话**：He's a more of a friend than a brother. He's closer than a brother. He is your friend. He is your companion. He'll never leave you and he'll never forsake you. He said, "Lo, unto the end of the earth, I will be with you always, Brandon. Though I walk through the valley of the shadow of
+- **[39:13](https://www.youtube.com/watch?v=lyStwJiJKBc&t=2353s) · 他进行祷告**：this stuff going on with their minds, Father, with torment in their sleep, torment in their minds, torment in their brains. Father, you're the healer. I pray over over men today and over their bodies, over their reproductive organs, and they're bleeding for children, and there so many people that need so many healings.
+- **[39:31](https://www.youtube.com/watch?v=lyStwJiJKBc&t=2371s) · 本段原话**：They're dealing with cancers. They're dealing with diabetes. They're dealing with heart disease. They're dealing with strokes, cancers of the stomachs and of the prostates and of the of the of the livers and over over their their colons and all leukemia and all kinds of things. But Jesus, you said in your word that by my stripes you're healed. We
 
 ### 完整英文 Transcript
 
@@ -1039,7 +1106,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:08](https://www.youtube.com/watch?v=lyStwJiJKBc&t=2408s) · 他进行祷告**：And we're sitting at your feet. And we we seek you, Father, right now. And we pray in the spirit. And oh, Father, for people's marriages. We call forth marriages to be restored. We call forth marriages to be whole. Father, there's blessing on the marriages that are represented here right now. That there is no strife.
+- **[40:52](https://www.youtube.com/watch?v=lyStwJiJKBc&t=2452s) · 他表达判断**：marriages, Father, for a new stirring in their marriage. Father, what made them attracted to them before? what made them want to get married before. Maybe it was lust, whatever. But I believe that there's a re kindling, a re firing of the fire inside of them, Father, that they would have a intimacy again in that
+- **[43:30](https://www.youtube.com/watch?v=lyStwJiJKBc&t=2610s) · 本段原话**：him who believe. And we believe today that we receive our unsaved loved ones born again, filled with and controlled by the Holy Ghost. Father, the same with our our lives today. Father, we thank you, Lord, for intimacy. We thank you, Lord, that we're coming up to a higher level from glory to glory. You're changing us.
+- **[44:28](https://www.youtube.com/watch?v=lyStwJiJKBc&t=2668s) · 本段原话**：He's changing me from earthly things to the heavenlies. His likeness and image to perfect in me. The love of God shown to the world. Thank you. From gloryy to glory. He's changing me. Changing me. Changing me.
 
 ### 完整英文 Transcript
 
@@ -1157,7 +1231,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:36](https://www.youtube.com/watch?v=lyStwJiJKBc&t=2736s) · 本段原话**：For he's changing. He's changing me from earthly things to the heavenlies. His likeness and image to perfect in me. The love of God shown to the world. From glory to glory. He's changing me. Changing me. Changing me. His likeness and image to perfecting
+- **[48:25](https://www.youtube.com/watch?v=lyStwJiJKBc&t=2905s) · 本段原话**：He's a parting the Red Seas today. He's parting your seas today. He's parting the seas today. You that you're able to walk upon the dry dry land. You're crossing over to the other side. There's no more staying over there.
+- **[49:12](https://www.youtube.com/watch?v=lyStwJiJKBc&t=2952s) · 本段原话**：You've kept there long enough. It's time. It's time. It's time. It's time to arise and shine. For the light has come and the glory of the Lord is risen upon you. It's the glorious church. It's the glorious church will rise. It's the glorious church. He's parting the sea. He's parting that sea.
+- **[49:40](https://www.youtube.com/watch?v=lyStwJiJKBc&t=2980s) · 本段原话**：It's time for you to walk across onto the new dry land. Oh, you kept there long enough. You've kept there long enough. That's what we talked about last time is being a victim mentality.
 
 ### 完整英文 Transcript
 
@@ -1224,7 +1305,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–54:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:00](https://www.youtube.com/watch?v=lyStwJiJKBc&t=3000s) · 本段原话**：those caves, coming out of that mentality of been bondage thinking. No more bondage. No more bondage. No more bondage. That's what he's saying. Come out of that mentality of thinking.
+- **[53:09](https://www.youtube.com/watch?v=lyStwJiJKBc&t=3189s) · 本段原话**：They're free today. They're walking across that dry land. They're walking across the dry land today. They have a They have They have the greater one inside of them. Father, we thank you, Lord. We thank you, Lord. Healed and whole and well. Satan, take your hands off of their flesh from diabetes to heart disease to all these things. Let
+- **[53:52](https://www.youtube.com/watch?v=lyStwJiJKBc&t=3232s) · 他转述所听到的话**：Delivered. I heard the spirit of the Lord say, and this is this is painful menstrual cycles. He's healing painful menstrual cycles. Like very bad pain painful menstrual cycle. very very very painful.
+- **[54:10](https://www.youtube.com/watch?v=lyStwJiJKBc&t=3250s) · 他转述所听到的话**：Like you cramp up and it's hurting to the point where it's it's it's you almost cannot function. You you ladies, the Lord said the Lord said you're healed of that in the name of Jesus.
 
 ### 完整英文 Transcript
 
@@ -1302,7 +1390,14 @@
 <a id="section-12"></a>
 ## 12. 55:00–59:42 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[55:55](https://www.youtube.com/watch?v=lyStwJiJKBc&t=3355s) · 本段原话**：those those glands and the the mind all these things with the the the the change of life with with with with menopause and all these things all these symptoms for hard menopause we call healing and wholeness and wellness in the mighty name of Jesus. Body line up with the word of God. but not to go through the change
+- **[57:31](https://www.youtube.com/watch?v=lyStwJiJKBc&t=3451s) · 本段原话**：delivered from this gashto maramo man having emotions go all over the place almost like it's bipolar almost it's like you like a like your emotions are all happy one moment sad crying another it's like emotions like pregnancy hormones all these things going on it's like you it's like split personality almost make you feel like you're crazy
+- **[58:30](https://www.youtube.com/watch?v=lyStwJiJKBc&t=3510s) · 他描述所见**：I don't know who that was for. Maybe more than one. Probably a lot. Probably a bunch of you for what I saw is a sea of women there. This is going because of the foods and the water and the things we're being contaminated with. We're drinking and it's messing with our food and it's causing hormones to be off in
+- **[59:31](https://www.youtube.com/watch?v=lyStwJiJKBc&t=3571s) · 本段原话**：if you haven't subscribed. Click the notification bell. Thank you for joining me today. Remember, put a smile on your face and a song in your heart. God bless you all and we'll see you again soon.
 
 ### 完整英文 Transcript
 

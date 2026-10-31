@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 531；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-06)
 - [07. 24:00–26:42 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=0s) · 他表达判断**：I want to take communion with you and with everybody else let's take communion and let's believe God for their miracle today let's believe God for Supernatural yes you believe it I believe it I'm ready I know you do I I believe it too H and what's believe it together we're expect we're expect we're
+- **[04:30](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=270s) · 他表达判断**：forever he said it and I believe it and that settles it I am fully persuaded that Jesus Christ the same yesterday today and forever he is the same God that he was then as he is now he's not changed he's still Healing The Sick he's still casting out Devils through you and I we lay hands on the sick and he said
+- **[08:00](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=480s) · 本段原话**：sinless he had no sin there was no sin in him so his blood was pure and it it washes you wide as snow he is the Redeemer he set you free he bought he paid for all of it by what he did on calvary's tree he did it all he paid the price for you and me he washed you in
+- **[16:01](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=961s) · 本段原话**：shine like the Bright Morning [Music] Star [Music] Jesus What a Wonder you are Jesus you're the sweetest name of all Jesus you you always hear me when I call
+- **[20:39](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=1239s) · 他表达判断**：running the dog around I thought that guy that was way out there folks are you break was laugh we were all laughing and I said what was he doing I said I believe in miracles I've seen the soul set free miraculous the change in one redeem through Calvary I've seen the Lily push its way
+- **[24:02](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=1442s) · 本段原话**：ask you for nothing so uh we we don't invest do Investments helps or invest your money or whatever scams people try to do that's never us never that's why it's I I I I even more so I stop talking about this crypto stuff because there's people getting scammed it is important that you know that that that's not us so
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=0s) · 他表达判断**：I want to take communion with you and with everybody else let's take communion and let's believe God for their miracle today let's believe God for Supernatural yes you believe it I believe it I'm ready I know you do I I believe it too H and what's believe it together we're expect we're expect we're
+- **[00:18](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=18s) · 本段原话**：we're trying to shake you all to tell you there's an urgency I know I keep saying that but my goodness that you need to know it there's a great major thing about to take place in God's timing he won't tell me the exact time I've seen it and oh what will do to the
+- **[01:31](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=91s) · 本段原话**：the top of our head to the SES of our feet from all kinds of things it doesn't matter whatever it may be sickness of all kinds you said you took it all and Galatians 3:13 says the Christ has redeemed us from the curse of the law and we will not be underneath that curse
+- **[02:56](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=176s) · 本段原话**：much of us and we plead the blood of Jesus over our households we plead the blood of Jesus over our minds we plead the blood of Jesus that no weapon formed against us is going to prosper every tongue that rises against us we condemn it we say a thousand shall fall at our side and
 
 ### 完整英文 Transcript
 
@@ -117,7 +135,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:30](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=270s) · 他表达判断**：forever he said it and I believe it and that settles it I am fully persuaded that Jesus Christ the same yesterday today and forever he is the same God that he was then as he is now he's not changed he's still Healing The Sick he's still casting out Devils through you and I we lay hands on the sick and he said
+- **[04:56](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=296s) · 本段原话**：they will recover we cast out devils and he said they have to flee submit yourself therefore unto God resist the devil and he will flee from you you say why I how come the Lord hasn't taken any more of these Devils they're bothering me all this stuff he said you do it you do it he's not going to do any
+- **[06:09](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=369s) · 本段原话**：of Jesus over my mind over my body thus far Satan and no further you will not torment my children you will not torment my house you will not mess with my finances you are under my feet greater is he that is in me than he that is in the world and that's what you've got to do
+- **[06:35](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=395s) · 本段原话**：submit yourself therefore unto God resist the devil and he will flee believe it you've got to believe it be fully persuaded about that well I'm having night bad dreams I'm having night tears I'm having all this stuff go on in my marriage I plead the blood of Jesus what you mean by that it's what's at the
 
 ### 完整英文 Transcript
 
@@ -203,7 +228,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=480s) · 本段原话**：sinless he had no sin there was no sin in him so his blood was pure and it it washes you wide as snow he is the Redeemer he set you free he bought he paid for all of it by what he did on calvary's tree he did it all he paid the price for you and me he washed you in
+- **[09:06](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=546s) · 本段原话**：destroy but it's only by this blood that represents what he did on that cross that you're able to live free that's why I take this every day the only way that we're able to stand against the devil is by the blood of the lamb and the word of my testimony and my testimony is he saved me he delivered me
+- **[09:51](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=591s) · 本段原话**：thing that gives you power do you understand if it wasn't for this Blood if it wasn't for that body you'd be damned To Hell For Eternity none of us have enough good works none of us can do anything good enough we all have sinned and come short of the glory of God the Bible says every
+- **[11:25](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=685s) · 本段原话**：do this it's the blood that make makes you white as snow it's a it's he's your he is your attorney Jesus is your attorney making intercession for you father they messed up again his blood is is praying for you his blood is crying out for you guess what it's all washed away whatever you've done today it's the
 
 ### 完整英文 Transcript
 
@@ -298,7 +330,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:27](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=747s) · 本段原话**：law according to Deuter Deuteronomy 28 and we make much of this Blood because it was so expensive it was so expensive this Blood was so expensive it cost him his life he did it just for you so that you don't have to be sick you don't have to have poverty he said I became poor that
+- **[12:57](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=777s) · 本段原话**：they might be rich I took poverty I took these things poverty is a curse true poverty poverty is a curse it's spiritual leprosy I will not be poor another day in my life for what Jesus Paid the price for he said I became poor look it up Google it he became poor that you might
+- **[13:25](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=805s) · 本段原话**：be rich Jesus thank you for what you did for me and that's what we do with this communion it should be so real to you when you take it like I'm talking about right now don't just take a a piece of cracker and juice and just go well I'm taking it because it's a religious thing
+- **[15:22](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=922s) · 本段原话**：eyes are on this child your great abounds to [Music] me Jesus What a Wonder you are you are so gentle so pure and so
 
 ### 完整英文 Transcript
 
@@ -382,7 +421,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=961s) · 本段原话**：shine like the Bright Morning [Music] Star [Music] Jesus What a Wonder you are Jesus you're the sweetest name of all Jesus you you always hear me when I call
+- **[17:09](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=1029s) · 本段原话**：Jesus you lift me up each time I fall you're the sweetest sweetest name of all Jesus you're the the sweetest name of all Jesus you always hear me when I call
+- **[18:19](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=1099s) · 他表达判断**：name of [Music] all I I love that song I sing it to him all I believe in miracles I've seen a soul set free miraculous the
+- **[19:19](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=1159s) · 他表达判断**：God I believe in miracles I've seen the soul set free miraculous the change in one redeemed through calary I've seen the Lily push its way up through the stubborn S I believe in
 
 ### 完整英文 Transcript
 
@@ -453,7 +499,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:39](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=1239s) · 他表达判断**：running the dog around I thought that guy that was way out there folks are you break was laugh we were all laughing and I said what was he doing I said I believe in miracles I've seen the soul set free miraculous the change in one redeem through Calvary I've seen the Lily push its way
+- **[21:45](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=1305s) · 他表达判断**：thank you for joining us I know it's probably long and some of you will fuss about it but it's how long it went and we're thankful for the Holy Spirit coming with us today I felt his presence so strong God bless you all hey all to the ones who get saved all to the ones who do not
+- **[22:40](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=1360s) · 他进行祷告**：address will be private to us it's for this use only we're not here to solicit you about anything we just want to get you a Bible our hearts are to help you we pray for you we love you we thank you for joining us if you're still here this long you are really dedicated there's
+- **[23:38](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=1418s) · 本段原话**：doing it it is not us and there are people trying to imitate us yes and they're trying to snare you impersonators yes impersonators and it makes me very angry and I've we've tried our hardest to stop these people because it's wrong and we want you to be aware of this so I have to tell that every
 
 ### 完整英文 Transcript
 
@@ -549,7 +602,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–26:42 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:02](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=1442s) · 本段原话**：ask you for nothing so uh we we don't invest do Investments helps or invest your money or whatever scams people try to do that's never us never that's why it's I I I I even more so I stop talking about this crypto stuff because there's people getting scammed it is important that you know that that that's not us so
+- **[25:17](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=1517s) · 他表达判断**：gospel out so we have all these new channels China South Korea Japan nor uh not North Korea one day in the name of Jesus uh Philippines uh my son laughs at me because I say North Korea cuz I'm believing God it's going to happen we're going to see North Korea I believe it
+- **[26:01](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=1561s) · 他进行祷告**：dealt with and there will be a day when those people that have been tormented and tortured for so long get to hear about our Jesus yes he is going to visit them even in their sleeps whatever it takes we must pray for them and pray for the people who are not able to hear
+- **[26:18](https://www.youtube.com/watch?v=6R2mI4Rxlwg&t=1578s) · 他进行祷告**：about Jesus it's our job to pray for our brothers and our sisters well we appreciate you all being here today and we we we we we're excited that you're here we're thankful for every single one of you and we say put a smile in your face and a song in your heart Jesus loves you so much and we
 
 ### 完整英文 Transcript
 

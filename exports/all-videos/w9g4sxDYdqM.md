@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 538；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
 - [07. 24:00–25:57 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:15](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=15s) · 他进行祷告**：thank you uh for supporting this YouTube channel like y'all have God bless you all I pray for you daily that the Lord increases you in every area of your life physically spiritually financially emotionally everything that the Lord will give you abundant overflow in your homes and I just want to say thank you
+- **[04:00](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=240s) · 本段原话**：which was it took at traveling 186,000 m per second it took forever to get there like thousands of years you know what I'm saying and so then he said he said I want to take you and I want to show you something and all of a sudden we we were we were instantaneously there and this is where
+- **[08:00](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=480s) · 本段原话**：equally equally okay moving like this at 186,000 m per second but it was moving like like very very slow and he spoke to me and he said Brandon he said you know in my word where it says I can measure the spand uh of it of of of the universe in my hand
+- **[16:22](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=982s) · 他转述所听到的话**：going to rule and reign with him forever and ever and ever for all eternity people always go what are we going to do for forever and never never we're going to rule and reign with him and um I just oh and this is what the Lord told me he said Brandon my he said I am
+- **[20:14](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=1214s) · 本段原话**：the earth that we're bringing forth uh the glory and and a happiness and a peace throughout all of uh the world and that we are able to minister to our neighbors and tell them that Jesus loves them and that he's coming soon Jesus is coming soon folks he's coming I hope you're ready I hope your heart's
+- **[24:02](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=1442s) · 本段原话**：quarter and we got a lot left and by the way by the time we get to the end of 2024 we say Look What the Lord Has Done great is your faithfulness to me is to say all my life you have been faithful and all my life you have been so so good
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:15](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=15s) · 他进行祷告**：thank you uh for supporting this YouTube channel like y'all have God bless you all I pray for you daily that the Lord increases you in every area of your life physically spiritually financially emotionally everything that the Lord will give you abundant overflow in your homes and I just want to say thank you
+- **[00:34](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=34s) · 本段原话**：thank you thank you from the bottom of our hearts for supporting this YouTube channel and I appreciate your prayers for my family I do I appreciate all y'all's prayers um I'm going to uh I'm going to do a video that I've already done before but I felt because of the time that's passed since I've made the
+- **[02:22](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=142s) · 他表达判断**：Brandon how long does it take for the Sun's light to get to the Earth and I knew the answer it I said it takes like eight minutes and like 20 some seconds right now at that time I knew the answer but now I I don't I probably butchered it but I'm saying I knew the answer to
+- **[03:29](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=209s) · 本段原话**：the speed of light because this because you'll Boop you're there Boop you're there instead of going well I'm traveling across the at the speed of light is 186,000 miles per second so and so he's telling me all this and he and so I'm looking and he's he's talking to me about how far the nearest star is
 
 ### 完整英文 Transcript
 
@@ -116,7 +134,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=240s) · 本段原话**：which was it took at traveling 186,000 m per second it took forever to get there like thousands of years you know what I'm saying and so then he said he said I want to take you and I want to show you something and all of a sudden we we were we were instantaneously there and this is where
+- **[05:48](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=348s) · 本段原话**：massive it looked like cauliflower clouds like thunder clouds was was moving very very slow moving like this but it was forming all in front of my face stars were forming in front of my face inside of this Dimension shrunk down moving at 186,000 MES per second was moving that
+- **[06:21](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=381s) · 本段原话**：fast but it was moving slow because he controls time he has he is in control of all of time time does not exist around him but at 186,000 M second creating right before my eyes was moving this slow barely moving and I could see oh I could see how big since the beginning of when
+- **[07:14](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=434s) · 本段原话**：One Direction in every single Direction downward upward side left right uh north south east west all all at the same time creating like this like like a thunderstorm from the center that was still still from the out for where it was being created still was still moving like cough like this very slow like
 
 ### 完整英文 Transcript
 
@@ -198,7 +223,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=480s) · 本段原话**：equally equally okay moving like this at 186,000 m per second but it was moving like like very very slow and he spoke to me and he said Brandon he said you know in my word where it says I can measure the spand uh of it of of of the universe in my hand
+- **[09:11](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=551s) · 本段原话**：he put it in his hand and he had the whole all the universe the galaxies which is billions and billions of galaxies traveling a 186,000 m per second forever and ever and ever you you could travel for thousands and thousands and thousands of years and never get to the furthest Galaxy could take you a trillion years
+- **[10:48](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=648s) · 本段原话**：lightning storm like and it was growing all in the side of palm of his hand I I just stood there and watched it as he did all of it I I know I wasn't in my body I know this was more than just a dream this happened to me over 20 some years ago and I've
+- **[11:09](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=669s) · 本段原话**：never forgot it it stuck with me I can remember every detail like it was yesterday I remember everything about it other than the numbers which I already have a problem with I've told you I overcome us learning disabilities so he takes me then and he Saidi want to show you something else and he showed me
 
 ### 完整英文 Transcript
 
@@ -289,7 +321,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=720s) · 本段原话**：pure light and it was it was beyond comprehension of what I'm trying to tell you all with words does I cannot give it ju adequate Justice I'm telling you because of how amazing this was but it was inside its own Dimension so the G the universe man my hands are kind of dry today uh was was on the edge
+- **[13:39](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=819s) · 本段原话**：you and he said Brandon this is my portion I set this aside for myself Heaven he said but but son I'm giv the you the universe all the galaxies are going to be yours he said that is the por I'm given to my kids to the Born Again Blood Washed Born Again Believers
+- **[14:53](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=893s) · 他转述所听到的话**：and ever and ever with me over eternity in those places why people say well why would I want my own Galaxy I don't know we have a a mansion in heaven I heard people say that in the last video I made but I'm trying to tell you all it was and and then he said to me he
+- **[15:51](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=951s) · 本段原话**：thought you'll travel at this to to all your brothers and sisters all the body of Christ there all going to be ruling reigning the Earth the new Earth the new
 
 ### 完整英文 Transcript
 
@@ -381,7 +420,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:22](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=982s) · 他转述所听到的话**：going to rule and reign with him forever and ever and ever for all eternity people always go what are we going to do for forever and never never we're going to rule and reign with him and um I just oh and this is what the Lord told me he said Brandon my he said I am
+- **[17:34](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=1054s) · 本段原话**：around how big the galaxies and the universe is it's it's endless basically but he's able to control it at 186,000 m per second it's still being created it's still being created and he has because you know why because life is still being created people are getting born again every single day and he has one assign just
+- **[19:15](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=1155s) · 本段原话**：didn't say you'd have to climb it he said you would move it move it destroy it tell it to be cast in the sea if you shall not doubt in your heart you'll have whatsoever things you say m Mark 11:23 and verse 24 I'm just believing with all my heart for big things in
+- **[19:33](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=1173s) · 本段原话**：2024 I'm believing for big in 2025 with all the stuff I've seen I'm believing for big it's time to believe God for the impossible today that he can do exceedingly abundantly for you he's no respector of persons and what got to do for one he'll do for another God loves you and he has an amazing plan beloved I
 
 ### 完整英文 Transcript
 
@@ -475,7 +521,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:14](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=1214s) · 本段原话**：the earth that we're bringing forth uh the glory and and a happiness and a peace throughout all of uh the world and that we are able to minister to our neighbors and tell them that Jesus loves them and that he's coming soon Jesus is coming soon folks he's coming I hope you're ready I hope your heart's
+- **[21:09](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=1269s) · 本段原话**：for ginormous that you are an awesome God able to do exceedingly abundantly above all that we'd ask or than I thank you God that you've creating something amazing for me and for my children and for my wife and for for all the we my friends and family you you've got it all that you have eternity you know eternity
+- **[22:10](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=1330s) · 本段原话**：of more than enough I've seen the edges of Heaven it's there's no poverty in heaven you can't give us what you don't have there's no poverty in heaven there's only abundance there's only overflow of gold and rubies and sapphires and diamonds and pearls and beautiful gemstones Beyond mind's comprehension I thank you Father that
+- **[23:13](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=1393s) · 本段原话**：love us God and you have a plan for our lives Lord we give you glory and honor and praise we call every single person in this YouTube video healed and whole and well delivered from things that they they being oppressed by the devil that the strongholds are broken off of their lives set free by the blood of the lamb
 
 ### 完整英文 Transcript
 
@@ -581,7 +634,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–25:57 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:02](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=1442s) · 本段原话**：quarter and we got a lot left and by the way by the time we get to the end of 2024 we say Look What the Lord Has Done great is your faithfulness to me is to say all my life you have been faithful and all my life you have been so so good
+- **[25:00](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=1500s) · 本段原话**：thank you Father thank you Father you love us thank you that we're healed thank you that we're whole I bless you Lord I just want to say thank you all thank you for watching my videos and supporting us and and I hope this video bless you today I really do I I hope you
+- **[25:26](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=1526s) · 本段原话**：I hope it inspires you to to believe for bigger because Jesus wants you to believe for big he's he loves you so much and he has so much great plan he has such great plans ahead for you in these last days and for eons and eons and eons to come God bless you all we'll put a smile
+- **[25:50](https://www.youtube.com/watch?v=w9g4sxDYdqM&t=1550s) · 本段原话**：on your face y'all and a song on your heart Jesus loves you so much and we love you and we will see you next time y'all have have a blessed day bye-bye
 
 ### 完整英文 Transcript
 

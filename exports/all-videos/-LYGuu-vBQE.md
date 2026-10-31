@@ -5,7 +5,7 @@
 **上传日期**: 20260910
 **源字幕行数**: 1469；**章节数**: 12；**明确省略行数**: 2
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 90:00–98:59 · 预言、梦境与异象、经济、银行与市场](#section-11)
 - [12. 99:00–107:00 · 预言、梦境与异象、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=0s) · 本段原话**：Good morning, family. Thank you for joining us again today. Well, we're going to do a prayer video today. So, we're just going to jump right in the river here. Uh we're getting a lot of prayer requests uh from so many of you. I've got to mail your stuff back to you. The one that
+- **[19:00](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=1140s) · 本段原话**：And we're so thankful. We're so grateful for the blood of Jesus. We're so grateful. We're so thankful, Father, as we make much of the blood concerning all that you've done. Thank you, Lord. No weapon formed [clears throat] against us will prosper. A thousand shall fall at our side and 10,000 at her right hand,
+- **[36:18](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=2178s) · 他描述所见**：I see the rain. I hear the rain. And this is about the rain of the Holy Ghost. For there was a dry season. There was a dry season and a rain is coming. A rain is coming. A new wine and new wine skin is coming. A greater greater flow of the Holy Ghost and power
+- **[63:58](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=3838s) · 他描述所见**：no more. I see I see a I see a snake again. But it but but it has bigger squares on it.
+- **[82:30](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=4950s) · 他描述所见**：He's leaving the 99 to go after the ones. But there's but it would be it. But what I see coming is a shaking of the world like I' like you wouldn't believe.
+- **[99:47](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=5987s) · 本段原话**：Tell me the numbers to the the the investments. Tell me the Tell me where I can invest my money to make me rich, Brandon. Do you know how many times I get that on a day-to-day basis? Tell me where to false Christ or and false prophets are coming.
+
 <a id="section-01"></a>
 ## 01. 00:00–08:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=0s) · 本段原话**：Good morning, family. Thank you for joining us again today. Well, we're going to do a prayer video today. So, we're just going to jump right in the river here. Uh we're getting a lot of prayer requests uh from so many of you. I've got to mail your stuff back to you. The one that
+- **[02:01](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=121s) · 本段原话**：mess. So that's something you should discuss before you you tie the knot before you get married. But don't expect, hey, you're going to change whenever I get married, buddy. And uh we're going to have children. And he's like, well, I want to do career. And um it it like I said, it it's very
+- **[06:39](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=399s) · 他表达判断**：though lo these I think it was 18 years plus or whatever it was and then he talked about it with the woman with the issue of blood Satan has bound her daughter your faith has made you whole and if you and if her faith can make her whole your faith can make you whole
+- **[08:37](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=517s) · 本段原话**：You say, "Well, Brandon, I've had this for a long time. Lo these 18 years like that lady." And he said, "Whom Satan has bound. So if Satan took did it, I call restoration for everything he did. And I'm not going to sit back and and settle for for for less than God's best. I want
 
 ### 完整英文 Transcript
 
@@ -247,7 +265,14 @@
 <a id="section-02"></a>
 ## 02. 09:00–17:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[09:01](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=541s) · 本段原话**：want God's exceedingly abundantly above all that we dare ask or think. I'm not settling for just barely getting by. I'm not settling for just having a little bit of a healing in my body. I want everything that Jesus paid for on that cross.
+- **[13:30](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=810s) · 本段原话**：2 Corinthians 8 and 10. Verse 10, excuse me. I speak not the commandments, but I am testing the sincerity of your love by the diligence of others. For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, that you through his poverty might become rich.
+- **[14:32](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=872s) · 本段原话**：devil to try to tell you in your thought, well, you know that you're this is going to help you out. You're going to become a better Christian or whatever because uh because of you having the sickness on your body.
+- **[16:07](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=967s) · 本段原话**：adopted sons and daughters of the most high God, seated with him in the heavenlies, far above all principalities and powers and might and dominion. He when Christ sat down, you sat down with him. That's what the Bible says. When Christ sat down, we sat down with him triumphing over death, hell, and the grave. He put it all under
 
 ### 完整英文 Transcript
 
@@ -454,7 +479,14 @@
 <a id="section-03"></a>
 ## 03. 18:00–26:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[19:00](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=1140s) · 本段原话**：And we're so thankful. We're so grateful for the blood of Jesus. We're so grateful. We're so thankful, Father, as we make much of the blood concerning all that you've done. Thank you, Lord. No weapon formed [clears throat] against us will prosper. A thousand shall fall at our side and 10,000 at her right hand,
+- **[20:18](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=1218s) · 本段原话**：And whoever blessed me with it, I appreciate you. I never ever got to tell you that because I don't know who you are, but you send it every month you send me a case of water to drink on my broadcast. And uh for whoever did that, I just want to say thank you. It it
+- **[21:22](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=1282s) · 本段原话**：That these these these burdens that your anointing is the burden removing, yoke destroying power. And the anointing has come to set the captives free today. And I thank you that today is the day of the expiration date for all that they've been believing for. from the top of their head to the soles of their feet.
+- **[25:25](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=1525s) · 本段原话**：Jesus. Let all heaven and earth proclaim. Kings and kingdoms will all pass away.
 
 ### 完整英文 Transcript
 
@@ -601,7 +633,14 @@
 <a id="section-04"></a>
 ## 04. 27:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:48](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=1728s) · 本段原话**：The yoke has been destroyed because of the yoke. The because of the anointing, the anointing. The anointing of the Holy Ghost. Fore!
+- **[30:51](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=1851s) · 本段原话**：Over five inches of rain. Over this area, over Oklahoma, over Kansas, over I'll even say Alabama. I I don't know if Alabama needs rain, but we call in rain.
+- **[31:56](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=1916s) · 本段原话**：Cool temperatures come down and flow. No more 100 degrees this year. None.
+- **[34:35](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=2075s) · 他描述所见**：You thought you had won. You thought you had won. You thought you had won. I see a divine reversal coming on things. I see a divine reversal coming on things.
 
 ### 完整英文 Transcript
 
@@ -707,7 +746,14 @@
 <a id="section-05"></a>
 ## 05. 36:00–44:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 提到的地点：Florida。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:18](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=2178s) · 他描述所见**：I see the rain. I hear the rain. And this is about the rain of the Holy Ghost. For there was a dry season. There was a dry season and a rain is coming. A rain is coming. A new wine and new wine skin is coming. A greater greater flow of the Holy Ghost and power
+- **[39:34](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=2374s) · 他描述所见**：I see a P. It looks like a very venomous snake. Holy, holy, holy Jesus.
+- **[41:51](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=2511s) · 他描述所见**：You know what's interesting? I even you know the the uh her that Jennifer lady I see Jennifer I know never seen her in a vision before but Jennifer in Florida has a ministry there.
+- **[44:18](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=2658s) · 他描述所见**：Release this now. Release it. It's It's It's black and white. It's black and white. I see the black and white. I see it tries to be more black than it is white. But the but but but but but but but release it. It's it's crumpled up paper.
 
 ### 完整英文 Transcript
 
@@ -809,7 +855,14 @@
 <a id="section-06"></a>
 ## 06. 45:00–53:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:50](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=2750s) · 本段原话**：There's more that are with you than against you. for an acceleration of of this of it's interesting. This is like beautiful diamonds behind it where the the the paper's been a black and white paper's being watted up. It's some kind of it
+- **[47:24](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=2844s) · 本段原话**：every attack, every word curse, every demonic assignment, it will not bear fruit.
+- **[51:24](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=3084s) · 他描述所见**：No, no, no. There's some kind of major event that just had happened [snorts] [clears throat] and it is a there's trying to be a darkness on the land and I'm in America and I see it and an event has already happened. I'm on the other side of it.
+- **[53:39](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=3219s) · 他描述所见**：I see Mcronone. And they want to try to create a boogeyman.
 
 ### 完整英文 Transcript
 
@@ -913,7 +966,14 @@
 <a id="section-07"></a>
 ## 07. 54:00–62:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务。 提到的地点：Europe、Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[54:01](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=3241s) · 本段原话**：Laden. A new Osama bin Laden is coming. They but it will be with a with this is what I'm talking about. Like you know you know how it was. Oh, we have Osama bin Laden. He was the boogeyman.
+- **[55:14](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=3314s) · 他讨论新闻或报道**：a false one. It's they'll be on everything. TV, media, they're going to be on and the boogeyman is going to be on there. And they're going to they're going to paint this to create a greater war. They want to create a great war.
+- **[59:08](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=3548s) · 他描述所见**：I see goats and I see sheep. I see the goats. It's concerning Europe. It's concerning Europe. It's concerning Europe.
+- **[62:36](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=3756s) · 本段原话**：a sobering, a sobering, a sobering, a sobering is coming. A sobering, a sobering, a sobering to be sober. To be sober.
 
 ### 完整英文 Transcript
 
@@ -1003,7 +1063,14 @@
 <a id="section-08"></a>
 ## 08. 63:00–71:59 · 物资、能源与供应链、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[63:58](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=3838s) · 他描述所见**：no more. I see I see a I see a snake again. But it but but it has bigger squares on it.
+- **[64:53](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=3893s) · 本段原话**：A ruby with with a burnt orange. It's milk. Some of them are like um and it's flattened. It looked like it got hit by a truck tire. And it got And and it's still sli slithering.
+- **[65:57](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=3957s) · 他描述所见**：today. And I see the water. I see the water. There's something going on with the water. There's something going on with the water in the in the in the Gulf area going toward the Caribbean. There's something in the water in the Caribbean.
+- **[71:45](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=4305s) · 本段原话**：You know, when you're looking at some of the things I look at, I [snorts] I don't know how to make I don't know how to say words.
 
 ### 完整英文 Transcript
 
@@ -1080,7 +1147,14 @@
 <a id="section-09"></a>
 ## 09. 72:00–80:59 · 地震、风暴与灾害、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：地震、风暴与灾害、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕地震、风暴与灾害、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[72:27](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=4347s) · 他描述所见**：They're they're moving and they look like they have a film on the top of it again. And I see troubled waters. I see um but it's the atmosphere and it and the only way I can describe it to you is after 9/11, but I've been to this place several times in prayer.
+- **[74:23](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=4463s) · 他描述所见**：Bible, but I see their but the but I see their faces and their mask was burning their I could see all this but their teeth was was clenching there and it was the visions focused upon their teeth as I could see people burning in hell.
+- **[75:44](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=4544s) · 他描述所见**：and shall a and shall cast them into a furnace of fire and they and there shall be wailing and nashing of teeth. That's what I just saw. That's what I saw. What does verse 41 say? 43. The son of man will send shall send forth his angels and they shall gather out of his kingdom
+- **[79:50](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=4790s) · 本段原话**：for zero braito brato maronito brato maramito brato brato marinito brato bradto brato bradito
 
 ### 完整英文 Transcript
 
@@ -1225,7 +1299,14 @@
 <a id="section-10"></a>
 ## 10. 81:00–89:59 · 教会、复兴与信仰、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、地震、风暴与灾害、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、地震、风暴与灾害展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[82:30](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=4950s) · 他描述所见**：He's leaving the 99 to go after the ones. But there's but it would be it. But what I see coming is a shaking of the world like I' like you wouldn't believe.
+- **[83:06](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=4986s) · 他描述所见**：And it it's so loud as I see the storm approaching. The va back half of this uh storm of this hurricane is so vast as we go through the eye of this that it's the eye of the storm. It's in that that that uh the first half came and we're about to see the last half.
+- **[84:15](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=5055s) · 本段原话**：By this time next week, you'll you'll even know more. may remember this.
+- **[85:30](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=5130s) · 本段原话**：predia. There's certain things that whenever I come up to it, it'd be so much easier if I had corporate prayer with me, a bunch of because it's so this is so big.
 
 ### 完整英文 Transcript
 
@@ -1329,7 +1410,14 @@
 <a id="section-11"></a>
 ## 11. 90:00–98:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[90:04](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=5404s) · 他描述所见**：You'll see a dark figure rise up in this. You'll see a dark figure rise up in crypto. You're going to see a dark figure rise up. You'll see the antichrist, the man with no face. I see no. I see the no. I see the nose.
+- **[91:44](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=5504s) · 他描述所见**：You'll see more Democrats join on to this because they're being controlled by the puppets of the blackness by the blackness of the black the bankers and they'll grab a hold of it because they've been instructed by the devil himself. And I see I see him shuffling it with his fingers.
+- **[97:13](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=5833s) · 本段原话**：It's such a black uh onyx. It's such a black thing. the satanic what the antichrist most people are are think well you have no idea what's coming this is something the world has never experienced before and it sucks you in like a black vortex it will suck the people even the
+- **[98:25](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=5905s) · 本段原话**：Keep your eye and yourself on him at all times. For they shall rise false Christs and false prophets, and shall show great signs and wonders in so much that if it were possible that they shall deceive the very elect.
 
 ### 完整英文 Transcript
 
@@ -1456,7 +1544,14 @@
 <a id="section-12"></a>
 ## 12. 99:00–107:00 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[99:47](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=5987s) · 本段原话**：Tell me the numbers to the the the investments. Tell me the Tell me where I can invest my money to make me rich, Brandon. Do you know how many times I get that on a day-to-day basis? Tell me where to false Christ or and false prophets are coming.
+- **[102:34](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=6154s) · 本段原话**：And things that were resisted even by the Democrats will be embraced wholeheartedly by them in the days ahead. And you're going to go, "What flipped the script?
+- **[103:53](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=6233s) · 本段原话**：As Rashashana comes in the next couple of days, an acceleration doubling of the birthing pains, but we'll leave you with that today.
+- **[104:56](https://www.youtube.com/watch?v=-LYGuu-vBQE&t=6296s) · 本段原话**：it. Know the difference between bad fruit that's been poisoned by a witch like Snow White and a good fruit that's good because there's some bad fruit coming that are going to pretend they're good and they're going to pres be presented to you like they did with the witch. Eat this and you're going to go, "Oh, it looks so
 
 ### 完整英文 Transcript
 

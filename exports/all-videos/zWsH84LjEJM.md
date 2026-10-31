@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 469；**章节数**: 5；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -15,10 +15,27 @@
 - [04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-04)
 - [05. 16:00–17:58 · 祷告、敬拜与现场互动](#section-05)
 
+## 全片概述与 Key Points
+
+全片共 5 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=zWsH84LjEJM&t=0s) · 他描述所见**：hey good morning family I have another video for you there's going to be a celebrity that's very influential that is very popular I saw I plot um this is heavy again too uh with with the demonic okay and they will pretend to be born again and they will side they will side preaching the gospel
+- **[04:16](https://www.youtube.com/watch?v=zWsH84LjEJM&t=256s) · 本段原话**：scriptures being fulfilled right in front of your face son there are many false prophets there are many many but but what's amazing is a lot of them are charismatic a lot of them are there's not other religions out there I don't see a Buddha Prophet or a Muhammad prophet or a Hindu Prophet or or or even
+- **[08:16](https://www.youtube.com/watch?v=zWsH84LjEJM&t=496s) · 他描述所见**：of it that I see in the comment section they're going well I'm living with my boyfriend but we're not having any sexual relationship but we're living together and that is that okay no it's not okay we're not doing anything so what you it's like Joseph you gotta flee from evil you gotta run whenever that
+- **[12:20](https://www.youtube.com/watch?v=zWsH84LjEJM&t=740s) · 本段原话**：sharpens iron here you don't want you don't want a bozo don't settle for for a uh four Ishmael if they are not respectable enough to put to put a ring on your finger and to proposed to you and all they use you it why buy the cow if the milk's free you know that's why I hate to say that
+- **[16:33](https://www.youtube.com/watch?v=zWsH84LjEJM&t=993s) · 本段原话**：did they get you you know Carrie Jobe I listen to her she she gets me excited I I worship and I get excited about the Holy Ghost you gotta keep yourself filled you got to keep Phil BB being filled with the Holy Ghost filling yourself up with the word and encouragement so that you're able to help with this
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=zWsH84LjEJM&t=0s) · 他描述所见**：hey good morning family I have another video for you there's going to be a celebrity that's very influential that is very popular I saw I plot um this is heavy again too uh with with the demonic okay and they will pretend to be born again and they will side they will side preaching the gospel
+- **[00:31](https://www.youtube.com/watch?v=zWsH84LjEJM&t=31s) · 他描述所见**：saying about the way we believe that Jesus Christ is Lord and he died for you and everything and they're going to come out real strong with that and then I saw months go by okay and then they start preaching a universal gospel that that everybody whatever you believe whatever Gods you believe in is is is
+- **[01:32](https://www.youtube.com/watch?v=zWsH84LjEJM&t=92s) · 他描述所见**：going to send people to try to to corrupt and and trick people into following a false gospel okay so I saw this this celebrity I won't name the person's name because uh you know it's not wisdom uh be be come on the scene I know exactly who it is and it's it's somebody
+- **[02:36](https://www.youtube.com/watch?v=zWsH84LjEJM&t=156s) · 他描述所见**：preaching out Buddha is the way to heaven all these other religions and everything's okay but we're all linked to one and we're all serving one God and all this other trash that they're gonna start spewing out of their mouth so I saw this coming so this was a prophetic warning that this this person
 
 ### 完整英文 Transcript
 
@@ -125,7 +142,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:16](https://www.youtube.com/watch?v=zWsH84LjEJM&t=256s) · 本段原话**：scriptures being fulfilled right in front of your face son there are many false prophets there are many many but but what's amazing is a lot of them are charismatic a lot of them are there's not other religions out there I don't see a Buddha Prophet or a Muhammad prophet or a Hindu Prophet or or or even
+- **[04:55](https://www.youtube.com/watch?v=zWsH84LjEJM&t=295s) · 本段原话**：but God I don't want to I don't I start getting I don't want to be lumped in that crowd you know I just separate myself from some of this this is it's getting intense because of what the Lord was warning me about you know there's gonna be a lot of this exposed in the in the near in the coming days a
+- **[05:14](https://www.youtube.com/watch?v=zWsH84LjEJM&t=314s) · 本段原话**：lot of false this is going to be exposed so you know I ain't here to point fingers at anybody and say that one that one that one that one that one is is false you need to you need to line it up with the word you need to follow if they're if they're talking about scripture if
+- **[07:04](https://www.youtube.com/watch?v=zWsH84LjEJM&t=424s) · 他进行祷告**：going to tell you this you all need to have more discernment and you need to listen to and pray in the spirit more you all need to pray in the spirit you need to get and you get in the rivers and you need to seek God for yourself and stop listening to a lot of this
 
 ### 完整英文 Transcript
 
@@ -250,7 +274,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:16](https://www.youtube.com/watch?v=zWsH84LjEJM&t=496s) · 他描述所见**：of it that I see in the comment section they're going well I'm living with my boyfriend but we're not having any sexual relationship but we're living together and that is that okay no it's not okay we're not doing anything so what you it's like Joseph you gotta flee from evil you gotta run whenever that
+- **[08:51](https://www.youtube.com/watch?v=zWsH84LjEJM&t=531s) · 本段原话**：loves you then somebody else God has somebody else that's your Ishmael do not stay with an Ishmael find your Isaac there's there's there's so many people on here that are desperate for love desperate for marriage desperate for stuff and and you're like well he won't I'm going to turn him around no no
+- **[09:47](https://www.youtube.com/watch?v=zWsH84LjEJM&t=587s) · 他进行祷告**：pay the bills God is your supplier he's he's going to take care of you don't do don't don't fall and go to hell for for for sex don't fall and go to hell for for a a relationship that is not based upon Godly principles find somebody that loves the word and will pray with you and and stand
+- **[11:01](https://www.youtube.com/watch?v=zWsH84LjEJM&t=661s) · 本段原话**：my wife my father I wanna I want this to enter I want this and I want you to do this and I'll start seeing our scene I thank you that you give me the desires of my heart and even the things that I don't even know that I'm praying for but I cover her in the blood I prayed
 
 ### 完整英文 Transcript
 
@@ -366,7 +397,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:20](https://www.youtube.com/watch?v=zWsH84LjEJM&t=740s) · 本段原话**：sharpens iron here you don't want you don't want a bozo don't settle for for a uh four Ishmael if they are not respectable enough to put to put a ring on your finger and to proposed to you and all they use you it why buy the cow if the milk's free you know that's why I hate to say that
+- **[13:18](https://www.youtube.com/watch?v=zWsH84LjEJM&t=798s) · 他描述所见**：I I appreciate you listening to me but I'm trying to tell you love tells the truth love love helps you because I know the wages of sin is death and it and it can't you can't we can't keep going down this roads I I see the conversation like I said and I just I
+- **[14:16](https://www.youtube.com/watch?v=zWsH84LjEJM&t=856s) · 他转述所听到的话**：and I'm reading right now it's about the Azusa Street Revival the Lord told me he said stay filled with my presence be excited I want you to stay inspired be inspired by my spirit every day son so that you are not leaking out you you we we haven't we can leak out and leak out
+- **[15:15](https://www.youtube.com/watch?v=zWsH84LjEJM&t=915s) · 本段原话**：Apple sometimes trying to find Revival and I find these at Mardel if you have them are Dale in your in your town or whatever you know on the Christian bookstores so I just try to find stuff read those books and stay inspired so that you can feed your spirit and and be encouraged to keep going
 
 ### 完整英文 Transcript
 
@@ -472,7 +510,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–17:58 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:33](https://www.youtube.com/watch?v=zWsH84LjEJM&t=993s) · 本段原话**：did they get you you know Carrie Jobe I listen to her she she gets me excited I I worship and I get excited about the Holy Ghost you gotta keep yourself filled you got to keep Phil BB being filled with the Holy Ghost filling yourself up with the word and encouragement so that you're able to help with this
+- **[16:53](https://www.youtube.com/watch?v=zWsH84LjEJM&t=1013s) · 他表达判断**：last days but like I said I'm reading this book right now and this book is amazing and I told you about George Washington Carver I believe that's his name uh the man who talks with the flowers read that book it's amazing it will change your life these books are amazing because the these men and these
+- **[17:10](https://www.youtube.com/watch?v=zWsH84LjEJM&t=1030s) · 本段原话**：women walk this they've walked it they've walked it before us and they're they've died and went on home to be with the Lord but you can you can reflect on some of this stuff and it encourages you and you go wow if they did it I can do it you know and that's where I live so
+- **[17:46](https://www.youtube.com/watch?v=zWsH84LjEJM&t=1066s) · 本段原话**：shares and all the things you do for me I appreciate you being here with me today I asked you to put a smile on your face and a song in your heart Jesus loves you so much and we'll see you next time bye-bye
 
 ### 完整英文 Transcript
 

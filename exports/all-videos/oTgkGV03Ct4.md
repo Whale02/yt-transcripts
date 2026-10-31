@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 863；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 - [10. 36:00–36:43 · 教会、复兴与信仰、预言、梦境与异象](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:27](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=27s) · 他描述所见**：this is part two of what the Lord showed me in my my 1 hour uh Vision that he gave me um so I'm going to tell you all you have the Holy Spirit living on the inside of you and he will show you things to come too I'm a Watchman and I'm telling you what I feel the Holy
+- **[08:00](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=480s) · 他描述所见**：when the economy crashes when things go to pot I saw people acting a fool writing I told you I saw signs of people standing around saying we won our entitlements because Social Security was cut off for a while uh Government funding food stamps things like that it was bad and so um people were writing
+- **[16:01](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=961s) · 他描述所见**：showed me tractors major huge combines and big Mammoth tractors completely Dusty sitting in fields not able to go I saw Fields plowed with no crops in them at all and I thought it was just in one area and the Lord took me above the United States of America and from west to east there was no crops in any of the
+- **[20:22](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1222s) · 他描述所见**：was Obama but these men over here I could see them and they were very evil men but they were in business suits very uh with gold on they were they looked very wealthy and some of them had ball head with hair on the side I saw um they were elderly men they weren't younger
+- **[28:01](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1681s) · 本段原话**：circumstance is different everybody's is but ladies and gentlemen I know beyond a shadow of a doubt God is going to bring in one last push because why he's a merciful god people say well there's a great falling away I never said there wasn't when this happens there will be a lot of people that called him Lord Lord
+- **[36:00](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=2160s) · 他描述所见**：blessed you all today I didn't I think I I covered everything as much as I could you know I saw a lot you know and it's and and I and I believe I touched as much as I I I feel in my heart I could so put a smile on your face and a song
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 物资、能源与供应链、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:27](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=27s) · 他描述所见**：this is part two of what the Lord showed me in my my 1 hour uh Vision that he gave me um so I'm going to tell you all you have the Holy Spirit living on the inside of you and he will show you things to come too I'm a Watchman and I'm telling you what I feel the Holy
+- **[00:46](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=46s) · 本段原话**：Spirit has told me and I'm going to tell you this we are imperfect vessels that are we're getting a message from a perfect God and whenever we're getting the download the water is pure okay but whenever he's trans he's putting it into a a a pipe the pipe may be flawed and that makes because of that it makes the
+- **[01:33](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=93s) · 他描述所见**：water sometimes messed up not not that the water's messed up but because the pipe is so I'm just telling you all I do the best I can I'm I'm I'm a work in progress and so we know that God is merciful and I'm going to do the best I can to tell you what I saw in the spirit
+- **[02:30](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=150s) · 他转述所听到的话**：family okay and so that's what he said to me now for you I don't know like I said everybody's situation is different but he said to me he said I want you to get your stuff ready for your family and and what what he I I heard him say is have uh some cash on hand have some food
 
 ### 完整英文 Transcript
 
@@ -125,7 +143,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 疾病、医疗与药品、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：疾病、医疗与药品、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕疾病、医疗与药品、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:54](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=294s) · 本段原话**：like 45 minutes to charge a full charge and I did not like that so and you couldn't go very much on a uh full charge anyway I mean it we got half of what they said you could get on your recommended uh battery life I mean whenever you're especially when it's hot outside or it's cold if it was extremely
+- **[05:51](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=351s) · 他描述所见**：you through a week or two extra just in case there's a shortage in that I saw shortages of certain medications coming because of trade Wars with China okay so when whenever they go against Taiwan and the United States is upset about it and all that starts to happen I saw uh prescription medication and some
+- **[06:53](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=413s) · 他表达判断**：to go home and I believe Jesus Is A Healer I believe that God is going to take care of you anyway if you can't get that medicine I believe that you can that Jesus will keep you alive and and and and you won't go home but I'm just saying some people's faith is not there
+- **[07:48](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=468s) · 他描述所见**：in your doors some people say what about our Windows I'm just trying to slow the bad guys down I saw people looting houses and robbing homes in in major cities
 
 ### 完整英文 Transcript
 
@@ -231,7 +256,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 物资、能源与供应链、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=480s) · 他描述所见**：when the economy crashes when things go to pot I saw people acting a fool writing I told you I saw signs of people standing around saying we won our entitlements because Social Security was cut off for a while uh Government funding food stamps things like that it was bad and so um people were writing
+- **[08:58](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=538s) · 他表达判断**：know that you you have to have I I believe in the Second Amendment personally and you say would you shoot somebody for for for food if you're going to come in my house and try to hurt me yes I'm I'm going to have to defend my family but you know if you're asking for a cup of rice I'll do what I
+- **[09:57](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=597s) · 他描述所见**：God that multiplies don't get me wrong but I'm just saying I've seen what's coming and so okay so I'm going to go back to the vision whenever the Lord spoke to me and I saw this open eyed he showed me he said Brandon he told me Jesus told me he said Brandon this is
+- **[11:33](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=693s) · 本段原话**：denominational barriers Baptist Methodist Catholic uh Episcopalian whatever everybody came together as one when this happens one similar to how everybody came together in World War II and the and the women came and worked in the factories just to keep everything afloat everybody tried to pitch in as a a as an American
 
 ### 完整英文 Transcript
 
@@ -340,7 +372,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:02](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=722s) · 他描述所见**：to keep our country going to build things for our troops that we're fighting and and that's the way I saw it in the spirit I saw the body of Christ coming together as one no denominational barrier uh boundaries okay everybody was as the body of Christ it wasn't about the charismatic it wasn't about the secr
+- **[12:26](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=746s) · 他描述所见**：friendlies it wasn't about every I'm talking about Bo Body of Christ because people were desperate okay and that's what I saw in the spirit and it was beautiful because we operated just in love and it's going to be an act of love in these last days that's going to bring forth the glory if
+- **[13:37](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=817s) · 他描述所见**：to do that but it's going to take that okay so I saw people coming together in communities growing up and helping each other and then and this is this is what I saw I'm just telling you what I saw and I don't know why I saw this but I saw brush Harbors brush Harbor churches
+- **[15:43](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=943s) · 他描述所见**：I'm just being real with y'all this is what I see you know this is this is what what what the Lord showed me and so um so then I saw this and I saw I saw oldtime Revival and and and and like that okay so that was that was one another thing in the I saw then the Lord
 
 ### 完整英文 Transcript
 
@@ -443,7 +482,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 物资、能源与供应链、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=961s) · 他描述所见**：showed me tractors major huge combines and big Mammoth tractors completely Dusty sitting in fields not able to go I saw Fields plowed with no crops in them at all and I thought it was just in one area and the Lord took me above the United States of America and from west to east there was no crops in any of the
+- **[16:48](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1008s) · 他描述所见**：there's drought there's no water and I looked upon Texas and over LEC area and all down through that area all where they would the ranchers would be all the Plains area there was drought and I saw no water there was a lack of water for some reason whether that's uh through the through the I believe it's probably
+- **[18:38](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1118s) · 他描述所见**：air out and blowing it in trying to just manipulate it and he was sweating profusely in this vision and the Lord said to me what you are seeing right now on this last week with with the two trillion lost on Friday and the one trillion lost on Monday he said Brandon this is raxton
+- **[19:01](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1141s) · 他描述所见**：Hicks false labor pains that are about that are taking place the true labor is yet to come this is false labor and he said they're going to try to control it okay so I saw now I'm going to be very cautious with this I saw it looked like a valley and it was split into two
 
 ### 完整英文 Transcript
 
@@ -535,7 +581,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:22](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1222s) · 他描述所见**：was Obama but these men over here I could see them and they were very evil men but they were in business suits very uh with gold on they were they looked very wealthy and some of them had ball head with hair on the side I saw um they were elderly men they weren't younger
+- **[20:37](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1237s) · 本段原话**：looking okay and then the Lord showed me Ukraine okay and the money that was being uh printed for the war they were doing something with this money and I cannot go into all that okay but they were doing something with this preparing they knew what was coming with the economy and they were taking that some
+- **[21:24](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1284s) · 他描述所见**：this and it was over in Europe and it stretched and I saw it Go clear into to Moscow secretly very interesting so then the Lord spoke to me and he said there's a lot of people that you have communicated with in the in the last couple of uh weeks he said Brandon there will be a lot of them
+- **[22:48](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1368s) · 本段原话**：these different distractions cut them off seek me for in the days come in the days to come you're going it's going to require more of me and less of you saying at the foot of the father you will not make it being half Christian half world you are going to have to be Allin are you Allin and I
 
 ### 完整英文 Transcript
 
@@ -637,7 +690,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:20](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1460s) · 他描述所见**：provide for my beloved I will take care of my bride I will take care of those that are separated unto me if you are seeking him daily and not just on Sunday You're going to hear him for what's to come for your family if you're supposed to relocate I told you all I saw big
+- **[25:13](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1513s) · 本段原话**：I'm going to provide a Goan for my people I'm going to provide when it was dark and and and this is what I thought was interesting the Bible even says that whenever the children of Israel whenever they were there in in Goan that there was a dividing line of Darkness between Egypt and Goan but it was so much so
+- **[25:32](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1532s) · 本段原话**：that you could feel the darkness I don't know how much uh darkness that you're able to feel but the darkness was so dark that you could feel it so the Lord showed me that it's going to be a type and Shadow of this that the dark will be so dark on the world and the light will
+- **[26:44](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1604s) · 他表达判断**：will allow him to shine on you with the great light of his holy presence in his in in the glory of God by walking in love to your brother I believe with all my heart will get the greatest Harvest of souls this world has ever known but it is not time for for us to go home in
 
 ### 完整英文 Transcript
 
@@ -740,7 +800,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:01](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1681s) · 本段原话**：circumstance is different everybody's is but ladies and gentlemen I know beyond a shadow of a doubt God is going to bring in one last push because why he's a merciful god people say well there's a great falling away I never said there wasn't when this happens there will be a lot of people that called him Lord Lord
+- **[28:41](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1721s) · 本段原话**：will be with you always he will not forsake you he will not abandon you but it will take you not living in sin and walking with him on a day-to-day basis seating with him seated with him taking your place of authority in the heavenlies you have to learn to take your seat you have to learn to fall at
+- **[29:46](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1786s) · 他表达判断**：man I believe it's the man the George Washington Carver the man who talks to the flowers I want you to go and find that book it's on Amazon there's there's copies of it there there might be some on eBay Bay there's probably some at your Barnes and Noble find that book and read that book over and over and over
+- **[30:41](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1841s) · 他进行祷告**：lost in these last days because Jesus is going to bring in a harvest but he's got to get their attention and right now people don't have their he is he don't got their attention it's going to take a shaking to awaken remember that so God bless you all let me pray for you all
 
 ### 完整英文 Transcript
 
@@ -844,7 +911,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:01](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1921s) · 他进行祷告**：they're healed and whole and well that everything is well in their body from all from cancers from diabetes from heart disease to uh from all kinds of things father whatever it may be we call them healed and whole and well we thank you Lord that you said that you're our healer according to Galatians 3:13
+- **[33:17](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=1997s) · 他进行祷告**：that they're delivered from bondages from PTSD we call them delivered in the name of Jesus we call their minds free from tormenting Spirits we thank you Lord that you set them free you came to set the captives free from addictions from all kinds of addictions from Alcohol Tobacco to drugs to pornography to lust to whatever it may be you came
+- **[33:57](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=2037s) · 本段原话**：manifestation of the glory of God on their life we call the manifestation of Peace we call the manifestation of Joy on them right now in the name of Jesus those that were Bound by depression are free from depression those that were Bound by all kinds of of schizophrenia and demonic attacks father we thank you
+- **[35:41](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=2141s) · 本段原话**：soar whenever the world is at its worst we're at our best because Jesus dwells on the inside of us and we're not moved by what we see we're not moved by what we feel and I'm not believing for an economic crisis for us so we just give you all the glory honor and praise in
 
 ### 完整英文 Transcript
 
@@ -956,7 +1030,13 @@
 <a id="section-10"></a>
 ## 10. 36:00–36:43 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:00](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=2160s) · 他描述所见**：blessed you all today I didn't I think I I covered everything as much as I could you know I saw a lot you know and it's and and I and I believe I touched as much as I I I feel in my heart I could so put a smile on your face and a song
+- **[36:15](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=2175s) · 本段原话**：in your heart Jesus loves you so much oh and if you could like like our video subscribe if you haven't subscribed all the things that you can do to help us get in in the algorithm it it blesses us y'all it really does you're grow you're helping us grow and spread throughout the world to tell people what's coming
+- **[36:32](https://www.youtube.com/watch?v=oTgkGV03Ct4&t=2192s) · 本段原话**：and Let Jesus is coming and that Jesus is coming well put a smile on your face and a song in your heart Jesus loves you so much and we love you and we will see you all next time God bless you all and have a wonderful day bye-bye
 
 ### 完整英文 Transcript
 

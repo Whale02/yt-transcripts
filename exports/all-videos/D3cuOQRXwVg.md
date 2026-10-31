@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1193；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 40:00–44:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-09)
 - [10. 45:00–49:05 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:21](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=21s) · 他描述所见**：and the things that the Lord is talking to me about I saw a door a massive door and it was a white door a beautiful painted white door but on this door there was purple there was uh like swirls of different like the glory of what I want to call the Shuka Glory it
+- **[10:00](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=600s) · 他描述所见**：on a thin line a thread and he spreaded It Out by every thousand years and he took me through time and it was it was way out there but I could see uh from the beginning whenever he spoke the world into existence I saw Adam walking the earth I saw uh Noah in the flood he took me to
+- **[20:13](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=1213s) · 他描述所见**：of this we probably can't because I'm telling you he's coming time the Sun is setting on this dispensation and where we are and Jesus is is getting ready to come back for his church but I saw Adam's Le coming up and I'm I'm be real with y'all I don't know where it's at in the Bible I asked him I
+- **[25:38](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=1538s) · 本段原话**：years old 16 years old was doing creative Miracles praying for people that needed a limb or eyes or whatever it wasn't like well this guy was a seasoned veteran that was was um being used this guy was in he was a preacher for 45 years at the Assemblies of God no these were these were people that were
+- **[36:35](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=2195s) · 本段原话**：prosper and be in health even as your soul prospers as it is on Earth as it is in heaven that's it he wants it to be heaven on Earth boom and I'm telling you where we are in that time frame people can focus on I told you all you can focus on it it's going to be
+- **[45:01](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=2701s) · 他表达判断**：father we thank you right now for that demonstrations and your manifestations of your glory on every single one of these people I stretch forth my hand and I believe with them right now that you said in your word that by your stripes Lord they are healed and I call them healed and whole and well in the name of
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:21](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=21s) · 他描述所见**：and the things that the Lord is talking to me about I saw a door a massive door and it was a white door a beautiful painted white door but on this door there was purple there was uh like swirls of different like the glory of what I want to call the Shuka Glory it
+- **[01:45](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=105s) · 他描述所见**：can try I'm trying to paint a picture for y'all like the lion witch in the wardrobe how there was a uh there was a closet and they walked through the closet and they could go through the new dimen other dimension into Narnia okay so that's kind of what like this what I saw it was a door that was in it was
+- **[03:27](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=207s) · 他描述所见**：time and space uh that we've hit a time in um history of of where of Adam's least be coming up that we are getting ready for the great outpouring and we're going home we're getting ready to go home I saw the glory behind this door and I saw the door was going to open and he said
+- **[04:15](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=255s) · 他描述所见**：said you're coming into a new time frame and he said you're going to cross and you're going to go through this door and I saw the glory again upon the bride upon the body like in a way that is that is like huge huge we think we've seen stuff in the past revivals demonstrations and
 
 ### 完整英文 Transcript
 
@@ -142,7 +160,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、祷告、敬拜与现场互动。 提到的地点：Vatican。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:20](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=320s) · 他描述所见**：last of the last I'm telling you all Jesus is coming and the and the Sun is going down on this this the dispensation of Grace and I saw the devil petitioning again for his seven-year tribulation and I saw he had a this time he had a black cloak on it was a massive black cloak
+- **[06:01](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=361s) · 他描述所见**：and he was talking to the pope which I think is just a wow but he was talking to the pope influencing the Vatican and the church in Rome and then because I was like what is that all about but I saw the devil trying to go and influence and talk to the Pope in the Vatican and
+- **[07:41](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=461s) · 他描述所见**：Angels were warning the people and they were coming out and I saw a portal open up over Italy I mean I'm trying to go over that really fast but but but if anybody who's followed this channel for a while remembers this um that I warned about this and we was interceding for Italy that this m major earthquake would
+- **[07:58](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=478s) · 他描述所见**：not take place in destroy a lot of people I saw 300,000 people perish and so um I saw that again I saw uh Italy splitting open I saw fire coming up out of these cracks and I thought it was interesting but I saw the pope being uh influenced by a demon by by the devil
 
 ### 完整英文 Transcript
 
@@ -264,7 +289,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:00](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=600s) · 他描述所见**：on a thin line a thread and he spreaded It Out by every thousand years and he took me through time and it was it was way out there but I could see uh from the beginning whenever he spoke the world into existence I saw Adam walking the earth I saw uh Noah in the flood he took me to
+- **[10:24](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=624s) · 他描述所见**：each one and how it was milestones in history and I saw each thing of how from from the Roman Empire to the ottoman Empires to to everything he showed it to me but each thing was divided up into a thousand years and then a thousand years would divide up into a 100 years and
+- **[12:54](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=774s) · 本段原话**：to bring in financial Harvest beyond anything you can comprehend there will be decamillionaire in the near future he said Brandon there will be a transfer of the wealth from the wicked like it was when the children of Israel left Egypt he said I will bring forth a harvest of my of of of finances on on my children
+- **[13:16](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=796s) · 他描述所见**：as a sign and a Wonder in these last days I saw a group of people rising up that were and I didn't even know what the word decamillionaire was I am I I am not I'm I'm telling youall I'm not a real educ educated person and it was I had to I had told my wife I said this is
 
 ### 完整英文 Transcript
 
@@ -390,7 +422,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:13](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=913s) · 本段原话**：Victorious we're going to go with our heads held high we're not cowering down because the devil's taking ground he said Brandon the problem is is the body of Christ has been off kilter he said they've tried to De Demas Iz my the men of the church by making them metrosexual feminine like he called
+- **[16:44](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=1004s) · 本段原话**：it was illustration what he's talking about raising up David's raising up the ones that would take the land and he was talking to me about taking the land back for him being bold about our faith being bold about laying hands on the sick and cast out Devils freely we've been given freely we give it out uh sharing the
+- **[18:04](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=1084s) · 本段原话**：coming upon your Shores and it will shake and I'm telling you everything that you've ever known ladies and gentlemen will change within a 24-hour period it's going to change and it will be that quick of a change it would be like a light switch being flipped on where there was and it would be boop
+- **[19:28](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=1168s) · 他描述所见**：this he he the sky ain't falling even you know we we we look at all the stuff going on around us and we think well Lord do you not see all the things are going on Israel's at War he showed me major war breaking out in Europe again I saw a major thing happening in Europe
 
 ### 完整英文 Transcript
 
@@ -524,7 +563,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:13](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=1213s) · 他描述所见**：of this we probably can't because I'm telling you he's coming time the Sun is setting on this dispensation and where we are and Jesus is is getting ready to come back for his church but I saw Adam's Le coming up and I'm I'm be real with y'all I don't know where it's at in the Bible I asked him I
+- **[21:34](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=1294s) · 他描述所见**：the light was so strong when he appeared it was so strong that I it was it was brighter than the Noonday Sun at its foolest the light that I saw when he appeared this way was so bright that I thought it was going to burn me up and I said Lord you're going to have to turn
+- **[23:28](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=1408s) · 本段原话**：thousand year reign he has such a plan for each and every single one of you we will see creative Miracles we will see blinded eyes open we will see dead men walk again we will see the the the the things that we've always desired to see and thought is it possible but I'm trying to tell you all
+- **[24:27](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=1467s) · 本段原话**：these testimonies to me to show me Brandon it's happened once and he's gonna do it again he's gonna do it again he's going to do it again there is a great outpouring of Great Harvest of souls I'm telling you he's the lord of the Harvest hi everybody um I'm just reading um a couple of um miracles from
 
 ### 完整英文 Transcript
 
@@ -656,7 +702,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:38](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=1538s) · 本段原话**：years old 16 years old was doing creative Miracles praying for people that needed a limb or eyes or whatever it wasn't like well this guy was a seasoned veteran that was was um being used this guy was in he was a preacher for 45 years at the Assemblies of God no these were these were people that were
+- **[26:48](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=1608s) · 本段原话**：think of the movies The Elephant Man or the mask and you can picture the total disfigurement of this 25 to 30y old man who came to isza Street he came there on his own pathetically dragging his feet sickening looking with one eye shooting up and the other looking down his mind was perfectly fine but he had been
+- **[28:08](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=1688s) · 他表达判断**：man stood in front of her in about five minutes praise God over two decades of deformity were made perfect in five minutes I never found out his name he became a minister after God blessed him with his healing I believe this miracle alone could start an Awakening it just takes one it just takes one I'm telling youall wa
+- **[29:45](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=1785s) · 本段原话**：lost his arm 10 years earlier through a work-related accident the arm had been totally severed at the shoulder brother Seymour asked the crowd would you like to see God have a wonderful time here tonight some of you may remember that that the man leg that grew up out about a year ago Seymour then asked the one
 
 ### 完整英文 Transcript
 
@@ -793,7 +846,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:33](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=1833s) · 本段原话**：instantly it grew out the the healed man stood in total shock then started moving his new arm and inspecting it with his other hand wond struck by the miracle a few weeks later the man came back bringing about two bringing about 200 people with him telling many at the meeting that he had gotten his old job
+- **[31:30](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=1890s) · 本段原话**：have we won't be able to keep the people away from church because they they're going to be so hungry people are broken out there they're wanting to touch from Jesus and this when we start operating walking in this demonstrations and manifestations of his glory the people are going to come in by The
+- **[33:02](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=1982s) · 他表达判断**：and crying her son was just healed of down syndrome the next story surprised me even more I still Marvel when I think of it one day sister duny found a horribly disfigured child around 5 years old amongst all the people on at Aza Street he had scars all around his head his family said that doctors literally
+- **[34:10](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=2050s) · 本段原话**：as well now here's the Shocker this disfigure child grew up to be a handsome Hollywood star his name was Robert Montgomery he became an actor on stage and on screen as well as a director in 1937 he was nominated for an Academy Award for best actor for a thriller called nightm Must Fall his daughter
 
 ### 完整英文 Transcript
 
@@ -935,7 +995,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:35](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=2195s) · 本段原话**：prosper and be in health even as your soul prospers as it is on Earth as it is in heaven that's it he wants it to be heaven on Earth boom and I'm telling you where we are in that time frame people can focus on I told you all you can focus on it it's going to be
+- **[38:00](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=2280s) · 本段原话**：done but until then we got a we got a battle we got a war to fight until he tells us but it's never for us to cower down in defeat he paid the price for you to walk in Victory in every area of your life praise God spiritually physically financially everything he paid the price
+- **[38:39](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=2319s) · 他描述所见**：see I'm not moved by what I feel I'm moved by what the word of God says and the Bible anything the Bible says we can have we can have it and it's time to get excited about it expectation brings the manifestation of what you've been believing for and I saw an open door
+- **[39:14](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=2354s) · 他表达判断**：full manifestation of what I believe for i s and so and so and so so to the church and I've never seen it I'm telling you there'll be deck of millionaires in a matter of just a 24-hour period there's going to be a great har if you're listening to him and and and you are not allowing money to to
 
 ### 完整英文 Transcript
 
@@ -1065,7 +1132,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:00](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=2400s) · 本段原话**：million dollars and they broke within a couple weeks because they don't know how to handle it and it destroys them their marriages are some people are end up dead they I mean it's bad bad stuff when they come into a lot of wealth real quick and God doesn't want he's not going to give you nothing like that if
+- **[41:02](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=2462s) · 他表达判断**：I just felt in my heart to to lead you in the sinner's prayer I believe that today is your day to come back to Jesus maybe you're away you you you've ran away from the Lord and you're watching this video and you're like why did I even click on this video it wasn't by
+- **[42:45](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=2565s) · 他表达判断**：simple little thing right there I believe you're born again doesn't have to believe be something all weird it's just simple he looks at the Simplicity of things find your Bible find a church that teaches the word of God get baptized in the Holy Ghost get baptized with water serve volunteer at the church go to church on Sundays
+- **[44:23](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=2663s) · 本段原话**：there's some dark but but I but I don't want to focus on that I trying to focus on the other side of the quarter so hope this video blessed you all today it was fun I'll do another video I'm going to do more videos Lord want me to do more prayer videos and stuff but um that's
 
 ### 完整英文 Transcript
 
@@ -1205,7 +1279,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:05 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:01](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=2701s) · 他表达判断**：father we thank you right now for that demonstrations and your manifestations of your glory on every single one of these people I stretch forth my hand and I believe with them right now that you said in your word that by your stripes Lord they are healed and I call them healed and whole and well in the name of
+- **[45:58](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=2758s) · 本段原话**：delivered from sickness and disease but all that and that they're delivered from Financial bondage I call them free from Financial bondage in the name of Jesus I speak to their seeds we speak to them and we call the Harvest in in the name of Jesus some 30 some 60 and 100 fold we
+- **[48:15](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=2895s) · 本段原话**：thank you for joining us today put we just say if you could like our videos subscribe if you haven't subscribed uh click the notification bell all of it we appreciate every single one of you you are helping get the gospel spread throughout the whole world literally people are coming to know Jesus all over
+- **[48:49](https://www.youtube.com/watch?v=D3cuOQRXwVg&t=2929s) · 本段原话**：what the Lord has done and so Diane and I are so grateful for every single one of you all thank you for joining us today we'll put us smile on your face and a song in your heart Jesus loves you so much and we love you and we will see you all again next time God bless you
 
 ### 完整英文 Transcript
 

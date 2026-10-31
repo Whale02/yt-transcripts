@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 807；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 - [09. 32:00–32:51 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=0s) · 他描述所见**：hey good morning family praise the Lord day 53 I believe um you know I'm excited you're all here today I I have some things on my heart I saw some things in the spirit yesterday that I'm going to get into I was driving around by U again and every time I it seems like when I
+- **[08:01](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=481s) · 本段原话**：enlightened that you may know the hope of your calling and the Glorious Riches of inheritance you have a treasure in an earth and vessel that the Excellency of the power will be known of him and not of you and that's why I'm saying the anointing breaks the Yoke but to keep the Yoke off you have to have the word
+- **[12:00](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=720s) · 他表达判断**：year to receive exceedingly abundantly above all that we dare ask or think this is your time to lay hold of what you've been believing for for the heart the seeds you've sewed in the past are going to come to harvest At Last I believe that this is a year of great great overflow for the body of Christ there
+- **[20:40](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1240s) · 他描述所见**：well I got to be in the front well it's nice to be on the front it's nice to be up there I like it but you know what God's in the back too God's in the back row too so and so we saw people I saw a dear sister that was from San Antonio
+- **[24:00](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1440s) · 本段原话**：here are baptized with the Holy Spirit and they believe and they have the they are they're filled with the evidence of speaking with other tongues and it is for today according to Acts chapter 2 those gifts did not go away they are still running and doing things today and I thank you Father that the spirit of
+- **[32:00](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1920s) · 本段原话**：now to to my place of and do my business but I but I just want to say thank you all for joining us thank you for being a part of this YouTube channel if you could please like this video subscribe if you haven't subscribe click the notification Bell Dian and I would really appreciate that it helps us to
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=0s) · 他描述所见**：hey good morning family praise the Lord day 53 I believe um you know I'm excited you're all here today I I have some things on my heart I saw some things in the spirit yesterday that I'm going to get into I was driving around by U again and every time I it seems like when I
+- **[00:19](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=19s) · 本段原话**：drive around by U there is an anointing on U or Roberts University I'm telling you the grounds of O Roberts University and when I drive by there I have to go to the Post Office to deliver my stuff sometimes to the to the for my eBay and um you know I we were going to the the
+- **[01:31](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=91s) · 本段原话**：isn't it Diana yes we create Diana It's Like Oxygen yes it's oxygen it's exactly right we we try so hard to get in meetings like this because this is what feeds you to get you through when we pour out like we do on a daily on a day-to-day basis most pastors just preach one one sermon a a a week maybe
+- **[03:41](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=221s) · 他描述所见**：here is one of the portals of the end times for The Glory outpouring well ladies and gentlemen if you go back to what the Lord showed me about the portals coming out of the Lord's hand I saw the great God Jehovah's hand uh the Lord his hand came out of the of the
 
 ### 完整英文 Transcript
 
@@ -129,7 +147,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:26](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=266s) · 本段原话**：here but I didn't see them all but he said the Lord showed him that this church Millennial church is that what it's called yeah Millennial church is a has an end time portal which I thought was amazing because he saw one of the portals because I said they shot out 10 10 major portals there were 10 major
+- **[05:26](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=326s) · 他描述所见**：church last night and gave his heart to Jesus Christ and was healed I believe I saw the power of God knock him down on his back and uh he said he was overcoming something with pain in his hands and the power of the Lord healed healed him I believe and and with that he uh accepted Jesus Christ as
+- **[06:22](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=382s) · 本段原话**：we're talking about it will radically change you and there's a reason why you go to church after you go to service after service after Serv service and you're listening to a secret friendly message and you're not getting changed it's because there's no Holy Ghost there the only way that you're going to change
+- **[07:23](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=443s) · 本段原话**：captives free but how you stay free ladies and gentlemen is by getting the word down inside it you the anointing can only take you so far and then you have to have the word inside of you to keep that devil at Bay because I'm telling you it says submit yourself therefore unto God resist the devil and
 
 ### 完整英文 Transcript
 
@@ -234,7 +259,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=481s) · 本段原话**：enlightened that you may know the hope of your calling and the Glorious Riches of inheritance you have a treasure in an earth and vessel that the Excellency of the power will be known of him and not of you and that's why I'm saying the anointing breaks the Yoke but to keep the Yoke off you have to have the word
+- **[09:30](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=570s) · 本段原话**：hearing and hearing by the word of God getting it down inside of you just because you heard it doesn't mean you've got it hearing and hearing and hearing and hearing is what changes you how many times I can tell you all literally listening to brother Hagen all my life and uh other preachers listening to them
+- **[11:03](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=663s) · 本段原话**：in the house of the Lord first and we're seeing a cleaning of the house throughout all America and around the world right now exposing darkness in the in the in the closets turning on the the light and exposing saying we got to clean this up this room's dirty and we're going to bring in some new people
+- **[11:21](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=681s) · 他表达判断**：to fix this this room because obviously sometimes uh it it takes a little bit more than just cleaning the room up but got to clean a little bit a a lot actually and so you know it's amazing to see what the Lord is doing and I believe your 2025 is going to be an amazing year I
 
 ### 完整英文 Transcript
 
@@ -346,7 +378,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Canada、Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=720s) · 他表达判断**：year to receive exceedingly abundantly above all that we dare ask or think this is your time to lay hold of what you've been believing for for the heart the seeds you've sewed in the past are going to come to harvest At Last I believe that this is a year of great great overflow for the body of Christ there
+- **[13:26](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=806s) · 他描述所见**：because they were desperate for a touch that's desperate to get in a van and drive across into another country folks that is a big deal then you had another man say I I flew here from Canada I saw two people from Canada from from British Columbia and the other one from uh Ontario or no no no Toronto Edmonton is
+- **[14:33](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=873s) · 他描述所见**：there's all kinds of people that I see tangible presence of the Lord moving in their services and it's like I told di man let's do this let's go and dip in the river how desperate how thirsty how hungry are you for a supernatural touch from the father and I'm just ready to go where
+- **[15:35](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=935s) · 本段原话**：and we're going to see a major harvest in this year in 2025 to be able to let us be free us up to be able to go and do the things that God's called us and told us to do it just takes money it's just money and you just go and say Lord thank
 
 ### 完整英文 Transcript
 
@@ -445,7 +484,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 疾病、医疗与药品、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：疾病、医疗与药品、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕疾病、医疗与药品、教会、复兴与信仰展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=960s) · 本段原话**：a time like never before we're going to see some stuff and so then when you when you you watch these videos I hope we encourage you to give you a fresh breath of air to believe God for the big to believe God for the impossible Diana had some things she wanted to say oh I was
+- **[16:55](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1015s) · 本段原话**：and mental health that same if not especially more time and and should be spent on nourishing your spirit like a spa for your spirit if you're willing to to invest that much time into your physical body then how much more do we need it for our spiritual bodies our spiritual our spirit man needs it so I
+- **[18:23](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1103s) · 本段原话**：her and mess up why because he stayed in the glory yes the glory renews you and that's what I said before about Joe Biden and these people when you latch on to the devil he is a kill Ste and Destroy but and and that and it makes your mind reprobate when you're more
+- **[19:19](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1159s) · 本段原话**：the glory is what's going to keep you in these last days like dinos they're refreshing the spa yes yes just like Moses that's where it is that's where it's at Moses attached himself to the glory and the children of Israel and they their body they weren't sick they weren't didn't swell their feet didn't
 
 ### 完整英文 Transcript
 
@@ -548,7 +594,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:40](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1240s) · 他描述所见**：well I got to be in the front well it's nice to be on the front it's nice to be up there I like it but you know what God's in the back too God's in the back row too so and so we saw people I saw a dear sister that was from San Antonio
+- **[21:09](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1269s) · 他表达判断**：baptized in the Holy Ghost watching one of our videos Baptist for like how many years she was she's probably in her 60s she she'd been baptized her whole life and the Holy Spirit touched her and she got baptized in the Holy Ghost then I had a young man was wearing a white jacket don't remember his name excuse me
+- **[21:41](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1301s) · 本段原话**：is G is the first step to to your Victory walking in a in overflow you you I I honest to goodness Diana we think we talk about it all the time I don't know how anybody makes it without him without being baptized in the Holy Spirit speaking with other tongues I don't know
+- **[22:58](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1378s) · 他描述所见**：I had to tell you about what I saw in the spirit about Donald Jr and all the things the attacks and the things are coming again i' I guess we'll make another video that'll be tomorrow all right well let's pray real quick let's pray for you and for your Miracle as I drive down this road I can't close my
 
 ### 完整英文 Transcript
 
@@ -660,7 +713,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1440s) · 本段原话**：here are baptized with the Holy Spirit and they believe and they have the they are they're filled with the evidence of speaking with other tongues and it is for today according to Acts chapter 2 those gifts did not go away they are still running and doing things today and I thank you Father that the spirit of
+- **[24:17](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1457s) · 他表达判断**：the Lord is on them to do something Mighty in these last days I Believe In The Name of Jesus for demonstrations and impartations of the glory on people's lives today I re I reach my hand out with you right now and I believe with you for your healing I believe with you for your deliverance and I thank you
+- **[24:37](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1477s) · 本段原话**：Father that you're touching them from the top of their head to the soles of their feet we command and demand our rightful place and privileges by our our rights because we're jointed with Jesus Christ we're seated with him in the heavenlies far above all principalities and powers and might and I thank you
+- **[26:53](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1613s) · 他进行祷告**：with the word of God you will level out you every every cell in my body functions as it the as my maker my Creator designed it to be yes pray for their bodies yes and your bodies father if you're if you're believing whatever it is for your body you speak to that in
 
 ### 完整英文 Transcript
 
@@ -777,7 +837,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:34](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1714s) · 本段原话**：it's been more than one on multiple I've had somebody had conceived Twins and uh yeah we're I'm excited to hear about it lots of babies lots of babies are coming in 2025 folks a lot of babies all to the glory of God we're just glad to be used y'all we're humbled and it's it's it's
+- **[29:31](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1771s) · 本段原话**：and set the captives free let us do help the other people like you've helped us and who would ever thought that we'd have a YouTube channel praying for people like this and and and it's amazing to see fruit it's amazing to see fruit isn't it babe to see people's lives being true Robert and K really
+- **[29:49](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1789s) · 他进行祷告**：nice people they drove from Texas and and they're Ministry and they're doing stuff and they're talking to us there there's a lot of nice people that we've come across with connect for nice nice folks and uh we're thankful for every single one of you we pray for you yeah we pray for you we pray for
+- **[30:09](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1809s) · 他进行祷告**：your deliverances we pray for your financial breakthroughs we pray that God does something Supernatural in your year in 2024 we're believing for for Elon Musk to become radically born again in 2025 in this year to finish out this year that Elon Musk would have a radical experience with the Lord Jesus Christ that this year Elon Musk will give his
 
 ### 完整英文 Transcript
 
@@ -887,7 +954,13 @@
 <a id="section-09"></a>
 ## 09. 32:00–32:51 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:00](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1920s) · 本段原话**：now to to my place of and do my business but I but I just want to say thank you all for joining us thank you for being a part of this YouTube channel if you could please like this video subscribe if you haven't subscribe click the notification Bell Dian and I would really appreciate that it helps us to
+- **[32:19](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1939s) · 本段原话**：get the gospel out there y'all one Soul at a time it's been look at what the Lord is doing through a YouTube channel and we appreciate your support we really do thank you like subscribe click the notification click say something nice down below and uh it helps us well we always want to close our broadcast by
+- **[32:38](https://www.youtube.com/watch?v=T3Er0gUSNLU&t=1958s) · 本段原话**：always telling you this put a smile on your face and a song in your heart Jesus loves you so much and we love you and we will see you all again next time and maybe even tonight at the Revival if you're there God bless you all byebye
 
 ### 完整英文 Transcript
 

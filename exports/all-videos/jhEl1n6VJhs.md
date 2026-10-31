@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 650；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 - [09. 32:00–33:25 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:36](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=36s) · 他描述所见**：want I have tons of other videos down below you can watch uh so here you go I saw a massive wave on the edge of heaven and it was it was on it it was looking like a a massive tidal wave and it was going like this and I asked the Lord whenever I this was right at tribulation
+- **[09:12](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=552s) · 他描述所见**：change this world I'm telling you I've seen it manifestations of the glory of God and he told me I saw his hand come out of heaven and there was there was shafts of light and he told me these will be major hotpots for the glory of God for my presence in the last days and
+- **[12:16](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=736s) · 他描述所见**：I don't want to assume so I you know it's just me talking to y'all um there's tents and there there's Fields full of tents like the hippie movement of people coming just for the Revival and and and trying to get a touch from the Lord okay I saw uh Glory domes there was massive
+- **[20:23](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1223s) · 本段原话**：deliverance we take authority over the healing over their body we speak to those things right now we speak to the healing we speak to it be healed and whole and well by the power of the lord it's in us we have authority we have deliverance we have the power and authority to lay hands on
+- **[24:00](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1440s) · 本段原话**：description majesty enthroned above I stand I stand in all of you I stand I stand in all of you holy
+- **[32:07](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1927s) · 本段原话**：you rise and be healed in the name of Jesus let Faith arise in your soul rise and be healed in the name of Jesus he will touch
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、地震、风暴与灾害、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、地震、风暴与灾害展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:36](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=36s) · 他描述所见**：want I have tons of other videos down below you can watch uh so here you go I saw a massive wave on the edge of heaven and it was it was on it it was looking like a a massive tidal wave and it was going like this and I asked the Lord whenever I this was right at tribulation
+- **[03:10](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=190s) · 他描述所见**：Creative miracles for the last outpouring of the spirit of God upon this Earth and I saw the angels and the there was there was full of legs and arms and noses and ears and eyes and everything you can imagine I'm trying to tell you of anything that you ever believed but there was not just one
+- **[03:29](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=209s) · 他描述所见**：color of eyee there was brown eyes and green eyes and blue eyes and black eyes and all kinds of colors of eyes and all kinds of colors of skin and and pigments and and there was full of these parts and then I saw the angels with massive baskets full of finances I could see
+- **[03:48](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=228s) · 他转述所听到的话**：bicycles that that the that that people were believing for on the earth which you know I heard somebody talk in the comments of my video saying that bicycles represent individual Ministry I don't know it could be a type in Shadow
 
 ### 完整英文 Transcript
 
@@ -125,7 +143,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=241s) · 他描述所见**：or something like that I have no no idea all I know is that's what I saw and I saw these baskets full of money huge amounts of gold huge amounts of silver and they were the Angels were pouring it out on top of the earth and they were dumping those baskets on the
+- **[04:57](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=297s) · 他描述所见**：through Asia and CH All In China and all of U North Korea there was Souls you could see them and all South Korea and and all Vietnam and and and the Philippines you could see it and then I saw Jesus he had and a tear in his eye and he told me he said he said my gospel
+- **[05:53](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=353s) · 他描述所见**：gospel and getting born again and it and it was it was a great sacrifice for them so that was that part of the the the about the tribulation now I'm going to take you to another part okay I saw uh the another part of this last outpouring and the Lord showed this to me but this
+- **[06:09](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=369s) · 他描述所见**：was at a separate time I saw people in St Louis Missouri he showed me Missouri and I could see all the people gathered on a street corner it was downtown St Louis and I could see a man in the wheelchair and there was a an African-American man and and and his wife an African-American
 
 ### 完整英文 Transcript
 
@@ -232,7 +257,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[09:12](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=552s) · 他描述所见**：change this world I'm telling you I've seen it manifestations of the glory of God and he told me I saw his hand come out of heaven and there was there was shafts of light and he told me these will be major hotpots for the glory of God for my presence in the last days and
+- **[10:14](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=614s) · 本段原话**：power in the manifestation of what God's trying to do but oh how are they so dumb there's no one going to be able to stop this last move I don't care how big you think you are God is going to plow you over like a Steamroller there's nobody going to stop this revival God's going
+- **[10:33](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=633s) · 他描述所见**：to have his way in this earth I saw uh Branson City Missouri a great Revival happening in Branson City Missouri I saw Kentucky I saw it on the Eastern Sea Seaboard around North Carolina South Carolina area all in through that area I saw a great Revival happening they're not it's not that it's not going to
+- **[11:30](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=690s) · 他描述所见**：so uh I saw it happening like that I saw I35 in the central part of America I saw millions of people coming to the central part of America and they were all coming by the millions and there was so many people that were coming here because of natural disaster there's a big event
 
 ### 完整英文 Transcript
 
@@ -343,7 +375,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:16](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=736s) · 他描述所见**：I don't want to assume so I you know it's just me talking to y'all um there's tents and there there's Fields full of tents like the hippie movement of people coming just for the Revival and and and trying to get a touch from the Lord okay I saw uh Glory domes there was massive
+- **[12:35](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=755s) · 他描述所见**：these Glory domes where these pillars of light we're at okay and everyone that comes into those Glory domes not one person touches them they are healed by the power of God they are touched by the power of God I saw their arms grow out they come through that Glory Dome and their arms or their legs or their eyes
+- **[14:01](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=841s) · 他转述所听到的话**：charismatic flakiness but I the Lord told me he said I am going to bring the walls of religion down okay there will be no Baptist there will be no Methodist there will be no Catholic or or or or Church of Christ he said I'm going to make it into a unified body all doing what God's called us to
+- **[15:39](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=939s) · 他描述所见**：Korea saved and South Korea and and they were bringing a Liber Liberation for the people of North Korea from the from all their oppression of the the Demonic uh government there and so I saw that happening I saw um just a massive amount of awesome stuff happening y'all Jesus Christ is fixing to do something huge and I want
 
 ### 完整英文 Transcript
 
@@ -452,7 +491,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:02](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=962s) · 他进行祷告**：you to be a part of it if you're not born again you need to get born again if you are not uh filled with the Holy Ghost you should get filled with the Holy Ghost I'm going to pray for you we're going to believe God you're going to get baptized in the Holy Ghost if
+- **[16:35](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=995s) · 本段原话**：evidence of Things Not Seen now Faith is not tomorrow now it's like my little little girl says all the time daddy we're believing for Megan's healing not tomorrow not the next day but we're believing for it now we're believing for the manifestation now we're believing for all Megan to talk and do all the
+- **[17:55](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1075s) · 本段原话**：deliverance over your bodies I speak for blind eyes eyes to be open I speak for ears to be open right now I speak for your heart to be restored I speak for your legs and arthritis to go away I speak for your your brain and fogginess of thinking and depression and anxiety and fear be broken off of your life
+- **[19:15](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1155s) · 他表达判断**：persuaded that what you've promised you're able also to perform I thank you Father what you've promised us Lord you're able also to perform it I believe in for these people right now for deliverance in their bodies I believe it God you're a Healer have mercy on us just like blind bamus we we say that
 
 ### 完整英文 Transcript
 
@@ -554,7 +600,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:23](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1223s) · 本段原话**：deliverance we take authority over the healing over their body we speak to those things right now we speak to the healing we speak to it be healed and whole and well by the power of the lord it's in us we have authority we have deliverance we have the power and authority to lay hands on
+- **[22:06](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1326s) · 本段原话**：Me Oh How He loves you and me he gave his life what more could he give oh how How He Loves You Oh How He Loves Me Oh How He loves
+- **[22:41](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1361s) · 本段原话**：you and me thank you Jesus thank you Jesus we worship you father you are beautiful beyond description too
+- **[23:16](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1396s) · 本段原话**：marvelous for words to wonderful for comprehension like nothing ever seen or heard who can grasp your Infinite Wisdom who can
 
 ### 完整英文 Transcript
 
@@ -619,7 +672,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1440s) · 本段原话**：description majesty enthroned above I stand I stand in all of you I stand I stand in all of you holy
+- **[24:30](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1470s) · 本段原话**：God to whom all praise is due I stand in all of you holy oh oh
+- **[25:52](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1552s) · 本段原话**：glorious and worthy to be praised you're the lamb upon the [Music] throne and unto you we lift our voice and praise you're the lamb upon the throne [Music]
+- **[27:01](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1621s) · 本段原话**：glorious and worthy to be praised you're the lamb upon the throne and unto you we lift our voice and praise you're the Lamb of upon the
 
 ### 完整英文 Transcript
 
@@ -686,7 +746,13 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:13](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1693s) · 本段原话**：oh holy is the Lord holy holy is the Lord whatever you
+- **[28:54](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1734s) · 他进行祷告**：need right now the Master's here receive it I rebuke the sickness off of you right now in Jesus name be healed of your sickness right
+- **[29:28](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1768s) · 他进行祷告**：right now in Jesus name Deliverance over your bodies right now in Jesus name from the top your head to the souls your feet you're delivered for
 
 ### 完整英文 Transcript
 
@@ -728,7 +794,13 @@
 <a id="section-09"></a>
 ## 09. 32:00–33:25 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:07](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1927s) · 本段原话**：you rise and be healed in the name of Jesus let Faith arise in your soul rise and be healed in the name of Jesus he will touch
+- **[32:40](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1960s) · 他表达判断**：you and make you whole I believe it I believe it I felt the Holy Ghost he moved today believe him right now for your manifestation Jesus come to set you free touches him
+- **[33:14](https://www.youtube.com/watch?v=jhEl1n6VJhs&t=1994s) · 本段原话**：today he loves you so thank you for watching thank you for being a part of this family God bless you have a wonderful day
 
 ### 完整英文 Transcript
 

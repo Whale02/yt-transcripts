@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1081；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 40:00–41:26 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:42](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=42s) · 本段原话**：These people are desperate. They need a touch from the father. They don't need a a still word from a pastor that you go on a Wednesday night or a Sunday and you walk away and you go, "What was that? What was that? Why did I waste my 30 minutes? Why did I waste my an hour?
+- **[08:04](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=484s) · 本段原话**：Whoopde-doo. I mean, I'm just saying. You're You're like you you think that you're qualified for God to tell you the secret things because you gave your hundred bucks and you made $250,000 last year. I mean, seriously, I I it comes out of sacrifice. David said, "I gave I didn't give God anything that didn't
+- **[16:00](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=960s) · 本段原话**：land because we really aren't the size of grasshoppers to these giants. We're going to go and take the land. Who wants to be a land grabber? Us. I don't want to live in the valley of the shadow of death anymore. I want to live in the on the on the high peaks with Jesus Christ
+- **[24:35](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=1475s) · 本段原话**：off that have been way over in left field. And you're saying, "Let's bring it back to home base." And Father, I thank you that you're bringing back clarity to the body of Christ. That there's be some balance up in here. Not so much weirdness. There going to be some structure. and in the structure.
+- **[32:18](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=1938s) · 本段原话**：Breakthrough is coming. Breakthrough is here. It's time, Father. We thank you that they're no longer going around that that mountain anymore. that they're coming up out and they're and they're going to to to conquer their mountains by speaking to it. Speak to your mountain. They're speaking to that.
+- **[40:00](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=2400s) · 本段原话**：you get out of the circumstances when you see so many people you love doing the same thing? I have I have family that that need need breakthrough.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:42](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=42s) · 本段原话**：These people are desperate. They need a touch from the father. They don't need a a still word from a pastor that you go on a Wednesday night or a Sunday and you walk away and you go, "What was that? What was that? Why did I waste my 30 minutes? Why did I waste my an hour?
+- **[01:49](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=109s) · 本段原话**：every single day. You have to have that glory, the outward honey glow. And that's why I told Diana, we talk about all the time. I I want it so much so that it don't never turn off. That they have to put a drape around my head because they go, "What is going on with
+- **[02:27](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=147s) · 本段原话**：know a great shaking coming into awaken you. And I will sound the alarm just like Jeremiah to tell you all that God is coming. And you have to get your house in order because we're running out of time. Thank God we're not like we were back then. We're underneath more grace. I get it. But I'm telling you
+- **[02:54](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=174s) · 本段原话**：It's a father correcting a child who's spoiled. It's the father who's correcting a child who's went wayward that's saying you you've went off the road buddy and I want you to come back over here in the fold. The sheep that the 99 is over here and you're the one and I'm trying to snatch that one.
 
 ### 完整英文 Transcript
 
@@ -134,7 +152,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:13](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=253s) · 他表达判断**：Where am I at with the Lord concerning this? People say, I don't believe in I don't believe in tithing because it's underneath the old covenant. I believe in giving God something to work with. I believe in giving God if the farmer sews a seed to reap a harvest, then I'm going to sew a seed to
+- **[06:19](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=379s) · 本段原话**：I want I want prosperity and and his blessing on it, my heart, and saying, "Brandon, Brandon, well done, thy good and faithful servant. You did everything you could. You could did everything you could. you helped stretch the kingdom of God throughout the whole world. Most people don't want to give. Most people are stingy with it and they say, "Well,
+- **[07:08](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=428s) · 本段原话**：I've worked for churches my whole life, it seemed like. And we knew what it took to get the the the bills paid at the church. We knew what it took to get the flyers out and the the all the the staff paid. It takes millions of dollars. And most people go, "Well, I gave my 10
+- **[07:42](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=462s) · 本段原话**：the 10% that you have to to to tithe to him, he's not going to show you the greater works. I'm telling you, I'm just being real with y'all. I'm just telling you all the facts. And most people don't want to hear it. Well, I'm qualified because I gave my five bucks to the Lord
 
 ### 完整英文 Transcript
 
@@ -252,7 +277,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:04](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=484s) · 本段原话**：Whoopde-doo. I mean, I'm just saying. You're You're like you you think that you're qualified for God to tell you the secret things because you gave your hundred bucks and you made $250,000 last year. I mean, seriously, I I it comes out of sacrifice. David said, "I gave I didn't give God anything that didn't
+- **[09:15](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=555s) · 他表达判断**：in the power of the seed. We believe in the power that you give and it shall be given unto you. Good measure, pressed down, shaken together, and running over will men give unto your bosom. That's what Diane and I believe. We believe that God is a rewarder of those that diligently seek him. Not just with just
+- **[10:08](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=608s) · 他描述所见**：God, I my heart is for you. My heart is for the gospel. I want to help Billy Burks out. I want to help missionaries out. I want to help them. If you're going out and praying for the sick and seeing people recover, I would like to help you. If I if I if I see that you're
+- **[10:23](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=623s) · 他描述所见**：doing something major for God, I want to help you. I see the cause. I see the anointing. And you sew into the anointing. Do you do you give all at one place? No. I split my seed a lot of times and I help each ministry out. I help each each u pastors, prophets,
 
 ### 完整英文 Transcript
 
@@ -374,7 +406,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:16](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=736s) · 本段原话**：you. That's what I've seen a lot in the body of Christ. A lot of people want the money and they go, I I I I feel that if you give this $58 seed and this $58 blessing, you're going to get a miracle. I don't get into all that stuff. I just give where I'm led to
+- **[13:00](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=780s) · 他转述所听到的话**：Sometimes it's the devil trying to torment you. But sometimes it it because you acted out in flesh. And I'm not going to be well, you know, I heard the Saabb story about that and it was really sad at church and I gave it. I'm not going to give out of emotion. I'm giving
+- **[14:02](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=842s) · 本段原话**：I'm giving to sow because God says he loves a cheerful giver, but he gives back 36. It's his It's his system. So, I'm sewing into it saying, "God, show me how to reap the maximum reward. Show me how to reap the maximum reward." And if this is stony ground, run. Well, well, their ministry died.
+- **[15:39](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=939s) · 本段原话**：every single time. For 40 years they wandered in the mount the wilderness. 40 years they wondered and they never say why am I still going through what we're going through Moses? Why are we still walking around this mountain? And you go through another year and he's like well the whole generation has to die because
 
 ### 完整英文 Transcript
 
@@ -487,7 +526,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=960s) · 本段原话**：land because we really aren't the size of grasshoppers to these giants. We're going to go and take the land. Who wants to be a land grabber? Us. I don't want to live in the valley of the shadow of death anymore. I want to live in the on the on the high peaks with Jesus Christ
+- **[16:51](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=1011s) · 本段原话**：broke and it's frustrating and you go and you listen to it and you hear the prosperity gospel and you hear all this stuff and God is a God that is abundantly rewarding those that diligently seek him. And he wants you to have 30, 60, and 100fold, but you're giving it into in bad ground. And you
+- **[17:56](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=1076s) · 本段原话**：show me how to get this. And I was the guy, I'm telling you, forever I as being a janitor, sitting in back there going, "Lord, Lord, teach me how that some sister will walk up and give me $100 today cuz we're desperate for it." And that's a miracle, right? For somebody, somebody to hear it on their heart to
+- **[18:54](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=1134s) · 本段原话**：500 bucks. I sold it for $3,000. But at that time, that $500 seed that I bought that car that needed a new time belt, the horse, there's nothing else wrong with this car. And this was a long time ago. That three grand was a lot of money to us. So he said, "A man
 
 ### 完整英文 Transcript
 
@@ -601,7 +647,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、经济、银行与市场
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、经济、银行与市场、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、经济、银行与市场展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:57](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=1257s) · 他表达判断**：I believe God will anoint you to do something. He'll give you an idea. But there's a lot of it, I believe, that has been off. And and a lot of the body of Christ is still believing 50 years later and they're still living in the slums. And I've learned if you put your boat into motion
+- **[22:04](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=1324s) · 本段原话**：cause increase, but I've never seen the lottery ticket stuff. I've never I I'm telling y'all, a lot of people treat crypto like that. And I'm not going to be one of those. I do it and I I don't I pretend I sew it, put my money in it, and then I walk away and act like I
+- **[22:38](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=1358s) · 他进行祷告**：Anoint me to do something supernatural for you. And as I seek you and I seek your face, you said you'd give me what's in your hand. And God's going to give those rewards as he gives ideas and he speaks to you in the midnight hour. Let me pray for y'all, though. I'm gonna
+- **[23:13](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=1393s) · 本段原话**：get out of the holes, Father, that they don't keep going down the mental anguish of what they've done 10 years ago, expecting different results and going, "Well, seed, time, harvest, where's my harvest?" And they've never seen what they're believing for. And yet, they sew into bad ground over and over and over again, expecting different results. And
 
 ### 完整英文 Transcript
 
@@ -719,7 +772,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:35](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=1475s) · 本段原话**：off that have been way over in left field. And you're saying, "Let's bring it back to home base." And Father, I thank you that you're bringing back clarity to the body of Christ. That there's be some balance up in here. Not so much weirdness. There going to be some structure. and in the structure.
+- **[24:55](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=1495s) · 他表达判断**：It's all back in the word and it's in the anointing. And you said that you came to set the captives free. And I believe, Father, that there's a lot of the body of Christ that needs to be set free. They're walking with bondage of the yoke of bondage of poverty, lack, not enough, barely getting by. They've
+- **[25:23](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=1523s) · 他表达判断**：They hear your voice and a stranger's voice will not follow. And Father, they're going to know exactly where to put their money. I believe, Father, that this is the day of the open door, that this will be a time that they set their path right. That 2025 will be a time that they get on track, they get on the right
+- **[27:18](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=1638s) · 本段原话**：We're blessed in the field. We're blessed coming in. We're blessed going out. And that God, that you're a healer, that you're the you're the God of more than enough that heals us by the stripes of Jesus. We believe, Father, that you already paid the price for us, that we walk in divine health, that we don't
 
 ### 完整英文 Transcript
 
@@ -836,7 +896,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:00](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=1680s) · 他进行祷告**：said in your word that if we pray, we humble oursel and pray you and turn from our wicked ways that you would heal our land. Now, Father, I thank you, Father, that you're healing our land today. I thank you, Father, that you're guiding President Trump. You're getting rid of the the leftist party out of the
+- **[28:56](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=1736s) · 本段原话**：good laws, to turn around the laws that are corrupt, for abortion, and for dark, dark things. Father, I thank you, Lord, that you're bringing forth the righteous, the righteous in a mighty army, Father, to raise up and say, "Hey, enough's enough." Father, even the unbelievers, Father, that do not see it.
+- **[30:15](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=1815s) · 本段原话**：We call those things that be not as though they were. We say they're healed and whole and well. We call them delivered and set free from drugs addictions and and and sexual perversions and over their lives.
+- **[31:32](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=1892s) · 本段原话**：We thank you for revival. Father, we thank you, Father, for revival. Lord, we thank you, Lord, for the you're not done. You You're calling the You're go leaving the 99 to go after the one. Father, there will be a major outpouring of your spirit, Father, in a major major way like we've never seen
 
 ### 完整英文 Transcript
 
@@ -956,7 +1023,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:18](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=1938s) · 本段原话**：Breakthrough is coming. Breakthrough is here. It's time, Father. We thank you that they're no longer going around that that mountain anymore. that they're coming up out and they're and they're going to to to conquer their mountains by speaking to it. Speak to your mountain. They're speaking to that.
+- **[33:36](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=2016s) · 本段原话**：Congress, Senate, and House will have a glorious visitation in the name of Jesus? We thank you, Lord, for the glory. We thank you, Lord, that you touch every single person who's watching this video right now. Father, there is a mighty move of the spirit of the Lord.
+- **[34:41](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=2081s) · 本段原话**：Father, that they are um doing the same thing after 20 years and expecting different results is very annoying. Help me, Father, to teach what I've learned, Father, to see the breakthroughs that I've seen in my life.
+- **[35:21](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=2121s) · 本段原话**：They're not the size. We are not the size of grasshoppers, Father. We are the people that will take the land. Show us, Father, how to take the land. And we do it with you. Put our boat into motion. Father, we put our boat into motion today and expect different results. We're We're not going to walk
 
 ### 完整英文 Transcript
 
@@ -1066,7 +1140,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:02](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=2162s) · 本段原话**：that we don't get frustrated and weary and welloing, but God, we're asking, Father, for a new direction change. Show us to change the directions, Lord. They say, "Oh, wow. I've heard so many people and so many cries of help.
+- **[37:28](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=2248s) · 本段原话**：we operate and we walking in that peace and that joy. And Father, you said in your word that we could ask for it and it will be done. We're believing Father that there's a supernatural turnaround on our lives today in every area of our life.
+- **[38:35](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=2315s) · 本段原话**：It's a sentence or a paragraph or whatever. This is it. Boom. and the Holy Spirit just blows on it and you're and and you're on the right road going 1,000 miles an hour. I mean, you know, I just believe it. It's at his feet. It's at him. Glory to God, Father. We just We're
+- **[39:43](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=2383s) · 本段原话**：Uh I I just I I don't want to waste y'all's time, like I said, and I and I just I'm excited to to talk to y'all.
 
 ### 完整英文 Transcript
 
@@ -1168,7 +1249,14 @@
 <a id="section-11"></a>
 ## 11. 40:00–41:26 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:00](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=2400s) · 本段原话**：you get out of the circumstances when you see so many people you love doing the same thing? I have I have family that that need need breakthrough.
+- **[40:14](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=2414s) · 本段原话**：They need this and and I I get and you can't say certain things because they won't receive it from you. You know, people won't receive certain things from you because they're too familiar with you. And so, um, you want to help them, but and and tell them you're this is off because I know by the spirit of God it's
+- **[40:56](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=2456s) · 本段原话**：Uh click the thumbs up. Comment something nice below if this blessed you. You know, if I didn't, then you say, "Well, you know, I'll try better next time." You know, it is all I can do is keep trying and keep going and going and going. Help me, Holy Spirit, to do the best I can for you because we're all
+- **[41:12](https://www.youtube.com/watch?v=tc6VEcMn8BY&t=2472s) · 本段原话**：work in progress and he's faithful. So, but we always close the broadcast by saying this. Put a smile on your face and a song in your heart. Jesus loves you so much and we love you. God bless you all and we'll see you again tomorrow. Bye-bye.
 
 ### 完整英文 Transcript
 

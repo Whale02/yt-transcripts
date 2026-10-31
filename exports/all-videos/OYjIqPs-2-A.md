@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 196；**章节数**: 3；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -13,10 +13,25 @@
 - [02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-02)
 - [03. 08:00–08:17 · 现场讲话（无可靠自动分类）](#section-03)
 
+## 全片概述与 Key Points
+
+全片共 3 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=OYjIqPs-2-A&t=0s) · 他描述所见**：It's a small little window, but we'll take it. It's a small little window by few votes, by a fraction of a hair. I see fear in their heart. I'm seeing it prophetically. We work on those hearts.
+- **[04:12](https://www.youtube.com/watch?v=OYjIqPs-2-A&t=252s) · 他描述所见**：They have They have white outfits on. And I see white counters. Same thing with like Fauci.
+- **[08:02](https://www.youtube.com/watch?v=OYjIqPs-2-A&t=482s) · 他描述所见**：the eagle. Trying to fatally wound the eagle. This is the This is I see the man with the black hoodie again. Remember I told you?
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、美国选举与投票
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、美国选举与投票、战争与国际事务。 提到的地点：Ukraine。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、美国选举与投票展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=OYjIqPs-2-A&t=0s) · 他描述所见**：It's a small little window, but we'll take it. It's a small little window by few votes, by a fraction of a hair. I see fear in their heart. I'm seeing it prophetically. We work on those hearts.
+- **[00:43](https://www.youtube.com/watch?v=OYjIqPs-2-A&t=43s) · 他进行祷告**：A few. Pray over these few. The Senate voted 60 to 40 to back a revamped the GOP funding bill that would keep the government open until the end of January. Eight Democrats joined Republicans to pass the bill including Senate Minority Whip Dick Durbin, Senators Tim Kaine, Catherine Cortez Masto, and Jackie Rosen among
+- **[01:38](https://www.youtube.com/watch?v=OYjIqPs-2-A&t=98s) · 他描述所见**：I see these these people's heart. They're not too far from it. They're right on the edge, but they're being pushed by these other outside sources.
+- **[02:43](https://www.youtube.com/watch?v=OYjIqPs-2-A&t=163s) · 他描述所见**：They'll not have this this all this chaos. We call peace over this nation in the name of Jesus. We'll have peace over this nation. Over every state. Over every Over Arkansas. Over Oklahoma. Over Texas. I see even concerning Ukraine.
 
 ### 完整英文 Transcript
 
@@ -123,7 +138,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:12](https://www.youtube.com/watch?v=OYjIqPs-2-A&t=252s) · 他描述所见**：They have They have white outfits on. And I see white counters. Same thing with like Fauci.
+- **[04:32](https://www.youtube.com/watch?v=OYjIqPs-2-A&t=272s) · 他描述所见**：I see New Year's Eve. I'm in Times Square. I see the the the the the the two men on CNN. New York will look so much different at this time. New York City has elected Democrat Assemblyman Zohran Mamdani to be its next mayor. New York will look so much more different at this time.
+- **[05:06](https://www.youtube.com/watch?v=OYjIqPs-2-A&t=306s) · 本段原话**：There's so much expectation for the beginning of the new race. You know, you have that expectation for 2026. Every year you're you're optimistic. What does this year hold?
+- **[07:37](https://www.youtube.com/watch?v=OYjIqPs-2-A&t=457s) · 他描述所见**：It's all like this. This light. A flash. I see that man's face that is running for the mayor.
 
 ### 完整英文 Transcript
 
@@ -223,7 +245,12 @@
 <a id="section-03"></a>
 ## 03. 08:00–08:17 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:02](https://www.youtube.com/watch?v=OYjIqPs-2-A&t=482s) · 他描述所见**：the eagle. Trying to fatally wound the eagle. This is the This is I see the man with the black hoodie again. Remember I told you?
+- **[08:11](https://www.youtube.com/watch?v=OYjIqPs-2-A&t=491s) · 本段原话**：It's the man with the black hoodie again. It's the the enemy within. The enemy within has a plan.
 
 ### 完整英文 Transcript
 

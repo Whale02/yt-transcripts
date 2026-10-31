@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1148；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 40:00–43:50 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:58](https://www.youtube.com/watch?v=474imccihxY&t=58s) · 他表达判断**：you're still standing and believing for your child. You're still believing that God's going to give you a child. And I believe by this time next year, by this time next year when we celebrate Mother's Day again in 2026, that you'll have your baby. I we're we're believing that today that today is your day of
+- **[08:14](https://www.youtube.com/watch?v=474imccihxY&t=494s) · 本段原话**：harvest inside those seeds of the of what the what's being said even on this broadcast right now. Catch it. Say, you know what? I line up with what the word says. I'll have what the Bible says I can have. Yes. And that's why I thought it was interesting. We haven't seen nothing. Not that I'm taking the glory
+- **[17:07](https://www.youtube.com/watch?v=474imccihxY&t=1027s) · 本段原话**：become familiar with what I'm about to do. Because there will be many of you all that will look at it and go, "Oh, yeah. It's just another healing. It's just another blinded eyes open. Oh, it's another dead raised. I've heard that last week." Because we haven't seen it yet.
+- **[24:08](https://www.youtube.com/watch?v=474imccihxY&t=1448s) · 本段原话**：We thank you that we walk up healed and whole and well as children of God and that we w we rise up and and and our husbands call us blessed. And we thank you that we're blessed in this city.
+- **[32:18](https://www.youtube.com/watch?v=474imccihxY&t=1938s) · 本段原话**：Nope. That's not what we're going to do. So, Father, we thank you, Lord, for the trade wars. We call them ended. We say there's a financial breakthrough coming concerning this, that there's a turnaround and there won't be this this Pearl Harbor experience that you've showed me, an attack with China busting up on America or doing whatever. Father,
+- **[40:38](https://www.youtube.com/watch?v=474imccihxY&t=2438s) · 他转述所听到的话**：I'm not believing for that for me. No, we we have too much to do and it's going to take too much to do it to That's why I say no. Not now. We have to get the harvest in. And when this stuff happens, the great shaking happens and all these things happening like the Lord said is
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:58](https://www.youtube.com/watch?v=474imccihxY&t=58s) · 他表达判断**：you're still standing and believing for your child. You're still believing that God's going to give you a child. And I believe by this time next year, by this time next year when we celebrate Mother's Day again in 2026, that you'll have your baby. I we're we're believing that today that today is your day of
+- **[01:31](https://www.youtube.com/watch?v=474imccihxY&t=91s) · 本段原话**：God's no respector of persons and what he did for them, he'll do for you. You may need a creative miracle in your body to receive and conceive a baby. But we know that nothing is impossible to him who believes that all things are possible. I've seen miracle babies happen. That whenever they they they get
+- **[02:13](https://www.youtube.com/watch?v=474imccihxY&t=133s) · 本段原话**：Maybe it's not the the the wife that has the problem. Maybe it's husband. But we're believing for supernatural child birth for supernatural uh yes reproduction systems. You know that God's going to work in your behalf and it'll be like, man, we conceived and it was effortless. You know what I'm saying? That's what I'm believing God
+- **[03:43](https://www.youtube.com/watch?v=474imccihxY&t=223s) · 本段原话**：You know, I was excited about uh the Trump sounds like, you know, we've been praying the last two videos, was it two videos, three videos? We've been interceding for the trade agreement to come with China and with America. And then uh today my son telling me he said,
 
 ### 完整英文 Transcript
 
@@ -141,7 +159,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=474imccihxY&t=240s) · 他表达判断**："Dad, it looks like China and America are coming to the table and they're agreeing on a trade war to end. It'd be like 60% tariff or whatever. I don't know. We need to pray for that to get lower." I mean 60%'s quite a bit over 50% anything's ridiculous, I think. But um they're talking and and and what I
+- **[05:03](https://www.youtube.com/watch?v=474imccihxY&t=303s) · 他进行祷告**：Pray against this stuff. take your authority as this big body of people usually average of 60,000 people pray and pray and change this trade stuff with the shortage of medicines with the shortage on the shelves. I didn't tell you this just to let it happen. And I started going, you know what? When he said that to me, I said,
+- **[05:24](https://www.youtube.com/watch?v=474imccihxY&t=324s) · 本段原话**：you know what? I kicked myself in the rear. That's the truth. Why are we going to just sit by idally when we are the body of Christ and we can raise up a standard against this stuff by prayer and say, "No, devil. You're not going to c We're not going to have shortages at
+- **[06:44](https://www.youtube.com/watch?v=474imccihxY&t=404s) · 本段原话**：Period. Revelation says it. Period. Daniel says it. Period. That's what's going to happen. It's in if it's in the Bible, it's going to manifest. The end times are going to happen. But it doesn't mean we have to participate in it. I'm not going to let that affect my life. I know that he's an abundant
 
 ### 完整英文 Transcript
 
@@ -256,7 +281,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:14](https://www.youtube.com/watch?v=474imccihxY&t=494s) · 本段原话**：harvest inside those seeds of the of what the what's being said even on this broadcast right now. Catch it. Say, you know what? I line up with what the word says. I'll have what the Bible says I can have. Yes. And that's why I thought it was interesting. We haven't seen nothing. Not that I'm taking the glory
+- **[09:43](https://www.youtube.com/watch?v=474imccihxY&t=583s) · 本段原话**："We're going to go kick the devil's butt today." Huh? Seriously, we're going to come out there and we're going to run him over like a freight train. He ain't going to come and mess with us. And when the the Lord shows us as a walk on the wall and says, "Hey, there's trade wars.
+- **[10:30](https://www.youtube.com/watch?v=474imccihxY&t=630s) · 本段原话**：No. We had weeks before they weren't even talking. They would they were mad at each other. But now all of a sudden, China and and America are in Switzerland talking at the table and they come to an agreement. We prayed yesterday. We prayed the day before. And I said, I called I called this to stop. I speak to
+- **[11:36](https://www.youtube.com/watch?v=474imccihxY&t=696s) · 他进行祷告**：spot. Roadkill. It sound It's nasty, but it's the truth. Roadkill. He's going to be roadkill to us. We're going to keep running him over till he's a greasy spot. You know, pick up the pace. Pick up the pace. This is when we're going to pray over the trade war. We're going to pray over this that it's really truly
 
 ### 完整英文 Transcript
 
@@ -369,7 +401,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、政党与政治人物。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:07](https://www.youtube.com/watch?v=474imccihxY&t=727s) · 他描述所见**：Remember I told you I saw Obama and the Democratic party party and they were influencing Ukraine. And as Trump landed and started making trade uh like with the mineral deals and the things like that with this with this Uncle Sam outfit and I saw all that and the Lord said, "You see the hat? You see he's
+- **[12:43](https://www.youtube.com/watch?v=474imccihxY&t=763s) · 他描述所见**：in the picture? Obi Biden was like running into walls and we had Obama running the show. So we have that when Nancy Pelosi and these people that's what I've told you all with the with all the money and the 24 billion. I've warned you about these things. So he started fing away. So then I saw Putin
+- **[13:33](https://www.youtube.com/watch?v=474imccihxY&t=813s) · 他进行祷告**：I went, "Wow, something that took years." And I thought I kicked myself because I because you don't you you I I didn't not you. I didn't look at what the purpose was even more of coming to agreement and saying, "Listen, we're going to pray about this and not just pray about it just like we did the Trump
+- **[14:01](https://www.youtube.com/watch?v=474imccihxY&t=841s) · 他转述所听到的话**：And I was like, "For 30 days? All right, we'll do it." And I agreed to it. We did it. We did it. And then I went over and we prayed every day for Trump to win the presidency. And he won it by a landslide, just like the Lord said. But he said, "You're going to have to pray
 
 ### 完整英文 Transcript
 
@@ -484,7 +523,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[17:07](https://www.youtube.com/watch?v=474imccihxY&t=1027s) · 本段原话**：become familiar with what I'm about to do. Because there will be many of you all that will look at it and go, "Oh, yeah. It's just another healing. It's just another blinded eyes open. Oh, it's another dead raised. I've heard that last week." Because we haven't seen it yet.
+- **[17:56](https://www.youtube.com/watch?v=474imccihxY&t=1076s) · 他进行祷告**：were not born again to get born again. Yes. And that's what we're believing for. So, let's pray today and believe for your baby. That's what we're ending this with. We're going to pray and believe God for babies. And if the Lord wants to show us anything else in prayer right now, he'll show it. If not, we'll
+- **[18:11](https://www.youtube.com/watch?v=474imccihxY&t=1091s) · 他进行祷告**：end it with that and we we'll come back again tomorrow interceding and believing God. But oh yeah, we'll pray for the trade wars again today. Yeah. That this will end that it's over and we'll have a victory day tomorrow. Let's call it victory day. May it's going to be a Mayday. Mayday. A victory day.
+- **[18:28](https://www.youtube.com/watch?v=474imccihxY&t=1108s) · 他描述所见**：No more fear turning this thing around. Let's do it. Now, I might come on here and tell you about the storms I saw. I saw two major huge storms, two huge tornadoes up by Nebraska. And I saw all these things, but doesn't mean we don't have authority over storms. I have never once had God say, "I want you to
 
 ### 完整英文 Transcript
 
@@ -591,7 +637,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=474imccihxY&t=1200s) · 本段原话**：scripture. So, Father, we lift up this body right now before you right now. And we thank you, Lord, that you were wounded for our transgressions. You were bruised for our iniquities. The chastisement of our peace was upon you.
+- **[21:27](https://www.youtube.com/watch?v=474imccihxY&t=1287s) · 本段原话**：to these wounds to conceive, to be whole, to be healed, to be well in Jesus' name, that their wombs are nourished, that whatever is missing in their wombs, whatever is missing in the male would would be there supernaturally. Father, we speak to that. We we thank you that whenever whenever uh that they will that they
+- **[22:24](https://www.youtube.com/watch?v=474imccihxY&t=1344s) · 本段原话**：And even though the symptoms may say, even though the doctors may say you can't have children, we we know that's not true because you're you're a God of more than enough. You're a God that gives us all of you're all of your all of our needs are met. All everything that we could ever hope for, everything
+- **[23:34](https://www.youtube.com/watch?v=474imccihxY&t=1414s) · 本段原话**：women's feet will not swell. Just like the children of Israelite, Israel, the ch the children of Israel, they walked through the through the uh wilderness and their feet did not swell. So we call these mothers to for their feet to not swell even during their pregnancy. We fa father Father, we thank you that we do
 
 ### 完整英文 Transcript
 
@@ -709,7 +762,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:08](https://www.youtube.com/watch?v=474imccihxY&t=1448s) · 本段原话**：We thank you that we walk up healed and whole and well as children of God and that we w we rise up and and and our husbands call us blessed. And we thank you that we're blessed in this city.
+- **[25:16](https://www.youtube.com/watch?v=474imccihxY&t=1516s) · 他描述所见**：Amen. Glory to God. And and redeeming the time. Yes. I I see that what the canker worm has eaten the time. He'll redeem the time. You say, "Well, I'm getting too old." We call redemption of time in Jesus name. For all the years that you've tried, Father, I thank you, Lord, for the years of toil come back.
+- **[25:44](https://www.youtube.com/watch?v=474imccihxY&t=1544s) · 本段原话**：You say, "I'm 40 years old. I'm I'm 50." It don't matter. I'm believing God for a baby that has no downs, no autism, no no special needs because of getting the be conceiving it too late. Well, the doctor says I'm a high-risisk. No, we're not going to have a high-risisk pregnancy.
+- **[27:44](https://www.youtube.com/watch?v=474imccihxY&t=1664s) · 本段原话**：And we thank you, Lord, that we confess our sins. You are faithful and just to forgive us of our sins and cleanse us from all unrighteousness. Now, I just heard this by the spirit of the Lord. If you are living in a a fornicating mar relationship, calling yourself together
 
 ### 完整英文 Transcript
 
@@ -826,7 +886,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:20](https://www.youtube.com/watch?v=474imccihxY&t=1700s) · 本段原话**：Keep things holy and clean. Keep things clean. I just heard that by the spirit of the Lord. There's somebody that's believing for a baby, but you're not even legally married. You're just living together saying, "We want to have a baby together." And you're in sin. And the Bible, God's not going to bless that.
+- **[28:43](https://www.youtube.com/watch?v=474imccihxY&t=1723s) · 本段原话**：be honorable, marry that girl, or you say yes to him and marry him. But don't you be living together thinking, "Well, God's just going to bless us because we're we're we're uh what is it? Pre free pre um common law. We're common law baloney. Make a covenant with that girl. Put a ring on her finger and go to
+- **[29:38](https://www.youtube.com/watch?v=474imccihxY&t=1778s) · 他转述所听到的话**：Okay. So, that's who that's for somebody out there. I heard that strong right then when I was about to take this blood now. We repent of that sin. Go down to the justice of peace and get a paper if you don't if you can't a we can't afford to have a marriage. Just
+- **[30:07](https://www.youtube.com/watch?v=474imccihxY&t=1807s) · 他转述所听到的话**：God can't bless it. Keep things clean. I don't know who that's for, but I heard that strong inside of my spirit right then. So, we take the blood of Jesus Christ and we apply the blood of Jesus over our relationships and over this and we keep things clean. Yes. We repent and we turn from our wicked ways and we make
 
 ### 完整英文 Transcript
 
@@ -938,7 +1005,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：China、Russia、Ukraine。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:18](https://www.youtube.com/watch?v=474imccihxY&t=1938s) · 本段原话**：Nope. That's not what we're going to do. So, Father, we thank you, Lord, for the trade wars. We call them ended. We say there's a financial breakthrough coming concerning this, that there's a turnaround and there won't be this this Pearl Harbor experience that you've showed me, an attack with China busting up on America or doing whatever. Father,
+- **[32:40](https://www.youtube.com/watch?v=474imccihxY&t=1960s) · 他描述所见**：there'll be peace in the midst of this. But Father, at the same time, I saw that there would be a major revival breakout in China because of a financial thing.
+- **[34:10](https://www.youtube.com/watch?v=474imccihxY&t=2050s) · 他讨论新闻或报道**：Father, I thank you, Lord, that tomorrow we will have a good report with the trade wars tomorrow. Father, that this will not escalate, it will deescalate, and that there'll be peace in all of Ukraine and in Russia. And we call for Vladimir Putin and Zinsky to get along and stop acting like this. Father,
+- **[35:35](https://www.youtube.com/watch?v=474imccihxY&t=2135s) · 本段原话**：come to pass and we'll finish the race strong and not going, "Well, we don't have enough to finish it." We have enough. There's more than enough to do what God's called us to do and promote the gospel throughout the whole world in the name of Jesus. And then the end will come. We believe that God's raised up
 
 ### 完整英文 Transcript
 
@@ -1050,7 +1124,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:00](https://www.youtube.com/watch?v=474imccihxY&t=2160s) · 本段原话**：this, they have more than enough in Africa, more than enough in South America, more than enough in Asia, more than enough middle east. Preachers and pastors that are believing for churches and they live they're having huts or who whatever you have to feed the orphans to do whatever. We believe with you for
+- **[37:17](https://www.youtube.com/watch?v=474imccihxY&t=2237s) · 本段原话**：want to rejoice with you. We want to rejoice with you. When you get your orphanage, whatever you're believing for, your church, whatever you're belieing for, tell us and we're going to rejoice with you. We'll tell everybody that prayer changes things. That this is the God of miracles, that you saw what you're believing for, and that we we
+- **[38:09](https://www.youtube.com/watch?v=474imccihxY&t=2289s) · 本段原话**：You say, "Well, I just need healing." We believe that God has abundant supply of healing for you. Anointing. There's an abundant supply of anointing that you don't have to lack any good thing. That when you lay hands on the people, they're going to recover. That this is a time for the great outpouring not on America alone,
+- **[39:23](https://www.youtube.com/watch?v=474imccihxY&t=2363s) · 本段原话**：Eastern trip. Tomorrow he leaves. We call a hedge of protection around him for your secret service angels. your mighty angels will go with him, protect him, that no weapon formed against him would prosper. Father, I thank you, Lord, that he have peace and that they'll have he'll have divine uh uh steps. His steps of are going to be
 
 ### 完整英文 Transcript
 
@@ -1170,7 +1251,14 @@
 <a id="section-11"></a>
 ## 11. 40:00–43:50 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:38](https://www.youtube.com/watch?v=474imccihxY&t=2438s) · 他转述所听到的话**：I'm not believing for that for me. No, we we have too much to do and it's going to take too much to do it to That's why I say no. Not now. We have to get the harvest in. And when this stuff happens, the great shaking happens and all these things happening like the Lord said is
+- **[41:41](https://www.youtube.com/watch?v=474imccihxY&t=2501s) · 本段原话**：years of famine. Joseph knew it was coming. God's told us what's coming, ladies and gentlemen. But he said, "I'm going to provide a window of opportunity for this remnant to get ready. I'm part I'm part of the remnant.
+- **[42:04](https://www.youtube.com/watch?v=474imccihxY&t=2524s) · 他进行祷告**：I'm excited, folks. Great, great days ahead for the body of Christ. It's not a downtown down and out. Oh, no. No. It's a It's a Let's rejoice. We're going out with victory. We're not going out with our tail between our legs feeling sad for ourel. Oh, no, no, no. Well, we pray this video blessed
+- **[43:09](https://www.youtube.com/watch?v=474imccihxY&t=2589s) · 他进行祷告**：and watch this again with us and we'll have another video out and I'll spend more time interceding. But today's good family time in America. God bless you all and we pray this video bless you and we'll we'll see you soon. Subscribe if you haven't subscribed. Click the notification bell. Click the likes, the
 
 ### 完整英文 Transcript
 

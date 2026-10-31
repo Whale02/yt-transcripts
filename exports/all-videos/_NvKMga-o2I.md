@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1308；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 50:00–54:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 55:00–55:43 · 教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:17](https://www.youtube.com/watch?v=_NvKMga-o2I&t=17s) · 他描述所见**：are asking what are you talking about the economy I thought it was going to crash and all this stuff I saw when President Trump wins the election the the economy and the news of um winning causes a ripple throughout the whole world people are are there is a lot of people that will be excited yes
+- **[12:49](https://www.youtube.com/watch?v=_NvKMga-o2I&t=769s) · 他描述所见**：and build and build off of it and even being so precise of something that I saw clear back in May which is very hard to do in the natural uh to hear that about that I still missed it in my heart and I walked away it would discouraged I thought well you know and I'm just being real with y'all
+- **[20:01](https://www.youtube.com/watch?v=_NvKMga-o2I&t=1201s) · 本段原话**：here with the spirit of intimidation and demonic spirits of Jezebel and try to knock me down I'm not listening to you I'm going to be even more bold about it because I know I touch the nerve and if you don't like it like I said byebye I don't care I'm going to tell what the Holy
+- **[35:20](https://www.youtube.com/watch?v=_NvKMga-o2I&t=2120s) · 本段原话**：Life church or something you could just do Craig relle or something like that you know there around your area just get your teeth in something good that's going to teach you and people people say well why would you tell people to go there it's good for babies learn learn you need to learn just start somewhere
+- **[45:00](https://www.youtube.com/watch?v=_NvKMga-o2I&t=2700s) · 本段原话**：Tuesday is election and we believe it father we believe it it's time it's it's our time it's our Victory it's our time and father we give you praise father that what the thing the devil turn what the devil tried to do for bad you're going to turn it for good and all father we praise you for all hidden
+- **[55:00](https://www.youtube.com/watch?v=_NvKMga-o2I&t=3300s) · 本段原话**：Jesus move in people's lives I get excited about it because I know what it was like to to be uh bound and to be lost and not have hope felt like I was in a a dark hole and then Jesus Set Me Free and I know that Jesus if he did it for me he'll do it for you he's no
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、经济、银行与市场。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:17](https://www.youtube.com/watch?v=_NvKMga-o2I&t=17s) · 他描述所见**：are asking what are you talking about the economy I thought it was going to crash and all this stuff I saw when President Trump wins the election the the economy and the news of um winning causes a ripple throughout the whole world people are are there is a lot of people that will be excited yes
+- **[00:57](https://www.youtube.com/watch?v=_NvKMga-o2I&t=57s) · 他描述所见**：economy crash I did and I still do I told you all that it was like a house of cards that the I saw the bricks Nations uh rising up and trying to create their their digital platform I said I believe this is me looking into a vision whenever you I've said this I do not
+- **[01:16](https://www.youtube.com/watch?v=_NvKMga-o2I&t=76s) · 他描述所见**：there's there's debt perception in a vision where you are looking if it's a year a month or or two years or whatever it's very hard to tell you have to it's like this the Lord told me he said you are going to have to be so prec precise it's going to be like a ticking
+- **[04:23](https://www.youtube.com/watch?v=_NvKMga-o2I&t=263s) · 他描述所见**：Series and the Los Angeles Dodgers clear back in like May okay and I saw attempted attacks on the Yankee Stadium and he kept telling me watch the Yankees watch the Yankees that's the only word he was giving me watch and pray for the Yankees so and so when you add to or take away from anything okay whenever
 
 ### 完整英文 Transcript
 
@@ -153,7 +171,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:36](https://www.youtube.com/watch?v=_NvKMga-o2I&t=336s) · 他描述所见**：time that there would be that we pray over it that there would be no attacks at the World Series because I knew they were going to the World Series I just had no idea if they were going to win I saw them going but then I saw Los Angeles so when it got to the Friday
+- **[07:14](https://www.youtube.com/watch?v=_NvKMga-o2I&t=434s) · 他描述所见**：this is how he teaches me to flow in my gift and how I see and hear so because just because I'm a work in progress and I'm hearing things this is how I do it and so whenever the Lord is is instructing me you you you get pieces of of the puzzle and and you build your you
+- **[07:31](https://www.youtube.com/watch?v=_NvKMga-o2I&t=451s) · 本段原话**：build yourself so you learn you you do not become a champion in anything without practice I don't care who you are if you think that you're just going to jump right out and be a LeBron James or a Michael Jordan and anything you do you're it's it's impossible you have to learn how to to to to to when you're
+- **[09:12](https://www.youtube.com/watch?v=_NvKMga-o2I&t=552s) · 本段原话**：we'll watch it happen play out so when it got down to that Friday when the when the when the World Series started the Lord came to me and he said Brandon Los Angeles will win it by in game five and I said wow I said the Yankees are not going to they're only going to win one
 
 ### 完整英文 Transcript
 
@@ -280,7 +305,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:49](https://www.youtube.com/watch?v=_NvKMga-o2I&t=769s) · 他描述所见**：and build and build off of it and even being so precise of something that I saw clear back in May which is very hard to do in the natural uh to hear that about that I still missed it in my heart and I walked away it would discouraged I thought well you know and I'm just being real with y'all
+- **[13:30](https://www.youtube.com/watch?v=_NvKMga-o2I&t=810s) · 他描述所见**：you say well you said the economy is going to crash you said that that that the the the interest rates were going to be lowered in April and you missed it and I apologize I told you all I did I saw what I assumed uh the the deflating of the balloon I saw the deflating of
+- **[14:04](https://www.youtube.com/watch?v=_NvKMga-o2I&t=844s) · 他描述所见**：The Thin Me membrane shaking shaking shaking shaking so nothing happened for the interest rates until I believe it was September and then I told you all that I saw the the the bubble pop the bubble pop in October and there would be an event happen in October so then the Lord says to me he said you're going to pray over
+- **[14:28](https://www.youtube.com/watch?v=_NvKMga-o2I&t=868s) · 他描述所见**：the economy we were going to pray we prayed for 30 we're praying for 30 days and he has said much prayer in Washington all these places prayer has has went up before my throne and now I'm he said Brandon I and I saw this I saw going into uh 2025 that there would be
 
 ### 完整英文 Transcript
 
@@ -412,7 +444,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、祷告、敬拜与现场互动。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:08](https://www.youtube.com/watch?v=_NvKMga-o2I&t=968s) · 本段原话**：and they had the um the major event on the 20 21st to the 24th or somewhere around there and so I believed in my spirit that that was the event because every single time I've seen and I've prayed it's been around the bricks uh creating with China Russia uh Iran uh uh Saudi Arabia the Petro dollar all
+- **[17:17](https://www.youtube.com/watch?v=_NvKMga-o2I&t=1037s) · 他表达判断**：four oak oak trees and the Lord told me to pray about the four oak trees standing strong in the in in this economic uh decision that will be made which I believe is four years of President Trump's uh presidency one two three four you know it's four years so over the United States economy so
+- **[18:15](https://www.youtube.com/watch?v=_NvKMga-o2I&t=1095s) · 他描述所见**：wins and then I saw Jerome pal again so Jerome pal was still running things and so I saw the house of cards fall I saw the economy fall whether or not that is in January or whatever I it I still saw the damn busting I still saw uh the the terrible times ahead for the United
+- **[18:38](https://www.youtube.com/watch?v=_NvKMga-o2I&t=1118s) · 他描述所见**：States a humbling coming and people say what is the falling like gats I saw the plague and I've warns you all about this plague the war the the Donald Trump was president when the plague is released and he announces that he's shutting down air travel and I saw a mass mive plague coming again that was
 
 ### 完整英文 Transcript
 
@@ -541,7 +580,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=_NvKMga-o2I&t=1201s) · 本段原话**：here with the spirit of intimidation and demonic spirits of Jezebel and try to knock me down I'm not listening to you I'm going to be even more bold about it because I know I touch the nerve and if you don't like it like I said byebye I don't care I'm going to tell what the Holy
+- **[20:36](https://www.youtube.com/watch?v=_NvKMga-o2I&t=1236s) · 他描述所见**：I do is I see what I see and I and I'm I I do it with all I have I listen and I pray and I seek him with all I have you do the same and he'll speak to you he I'm nothing I am nothing more than just another person that God uses
+- **[22:08](https://www.youtube.com/watch?v=_NvKMga-o2I&t=1328s) · 他进行祷告**：the Harvest that he's wanting or we're not going to go do what you're supposed to do fight with all your heart with all your mind all your soul all your strength love him fight for him in the spirit realm and and pray for the unsaved loved ones he doesn't want anyone to perish but all
+- **[23:57](https://www.youtube.com/watch?v=_NvKMga-o2I&t=1437s) · 他表达判断**：and leave the night 99 folks I believe with all my heart there's there's the one out there today there's somebody out there that's would just that close you you're watching this video and you and you are been challenged and you're saying man Brandon I I I I want to come to Jesus I don't
 
 ### 完整英文 Transcript
 
@@ -679,7 +725,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:18](https://www.youtube.com/watch?v=_NvKMga-o2I&t=1518s) · 本段原话**：and sew my Wild Oats or whatever and then you get to the end of your into the end of your life and you think well I can't I can't serve him now cuz I've been bad all my my life so there's never a win situation in sin you never win cuz you're always going to get talk yourself
+- **[26:29](https://www.youtube.com/watch?v=_NvKMga-o2I&t=1589s) · 本段原话**：fun being being in peace that passes all understanding is fun having a a home that's full of peace is fun having kids that are raised up in a Godly manner is fun I there's nothing the world offers that I want any of it none of I want him and when you touch when you just touch
+- **[27:45](https://www.youtube.com/watch?v=_NvKMga-o2I&t=1665s) · 本段原话**：can fill me up Lord fill my cup Lord I Lift It Up Lord do you do he'll fill you right where you are you have to just learn how to cultivate the river in your house house drink the new wine in your house sing songs sing songs to Him worship Him and I'm telling you if he said he said
+- **[28:45](https://www.youtube.com/watch?v=_NvKMga-o2I&t=1725s) · 本段原话**：need uh your living water today flowing through me and I receive it by faith receive it by faith but there's some of you like I said I don't to get off you know I I I want to go back to the Salvation part if you've never accepted him as Lord and Savior and you're riding
 
 ### 完整英文 Transcript
 
@@ -810,7 +863,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:00](https://www.youtube.com/watch?v=_NvKMga-o2I&t=1800s) · 本段原话**：destroying my body I don't want to do this no more today's your day you don't have to be something hard I don't know it's why I feel the holy spirit is so strong startor doing it makes me cry you you you don't have to be bound by a devil's hell no more Jesus Paid the price for
+- **[31:40](https://www.youtube.com/watch?v=_NvKMga-o2I&t=1900s) · 他表达判断**：got this I've got this so I want you to say this prayer with me say father I'm a sinner and I need a savior write my name in the Lamb's Book of Life Jesus I believe you're the Son of God I believe you died and you Rose again on the third
+- **[32:56](https://www.youtube.com/watch?v=_NvKMga-o2I&t=1976s) · 他表达判断**：all that I I believe you're saved it's simple it doesn't have to be something all religious just say Lord I believe you're the Son of God write my name in the Lamb's Book of Life I I I want to be saved I want Jesus so you don't have to be nothing weird just super it from your
+- **[34:19](https://www.youtube.com/watch?v=_NvKMga-o2I&t=2059s) · 本段原话**：from cigarettes I'm free from pornography I'm free from drugs I'm free from alcohol I'm free from uh whatever it may be I call myself self free today and you got to speak to your mountain and it's going to hear your voice you got to speak to it get that word down inside of you now you're you got your
 
 ### 完整英文 Transcript
 
@@ -938,7 +998,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:20](https://www.youtube.com/watch?v=_NvKMga-o2I&t=2120s) · 本段原话**：Life church or something you could just do Craig relle or something like that you know there around your area just get your teeth in something good that's going to teach you and people people say well why would you tell people to go there it's good for babies learn learn you need to learn just start somewhere
+- **[35:54](https://www.youtube.com/watch?v=_NvKMga-o2I&t=2154s) · 他表达判断**：meal that heals I believe this ladies and gentlemen with all my heart that Jesus Christ Is A Healer Jesus Christ is the same yesterday today and forever and if he healed the sick 2,000 years ago he say he'll heal the sick today so I believe as we take this body and we believe with him that father that
+- **[37:22](https://www.youtube.com/watch?v=_NvKMga-o2I&t=2242s) · 本段原话**：thank you that the blood of Jesus Christ is is what is a barrier that the Satan cannot touch touch us and we believe and we have faith in the blood of Jesus today that you are our great protector that you said that you're that the that the in Psalms 91 that the Angels bear us
+- **[39:30](https://www.youtube.com/watch?v=_NvKMga-o2I&t=2370s) · 本段原话**：to me cuz you wanted to and I'm so appreciative of it Lord thank you seem so inadequate thank you seem so small to say something thank you wouldn't you say that lord it's such a small little word in my heart it seems too little I want to be able to say it so
 
 ### 完整英文 Transcript
 
@@ -1063,7 +1130,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:30](https://www.youtube.com/watch?v=_NvKMga-o2I&t=2430s) · 本段原话**：father I'm seated with you I'm I'm I'm a joy a with Jesus Christ I'm an ambassador of the Lord Jesus Christ in this earth and father we lift up the blood and we thank you for the blood Lord these precious times with that you've Tak we take this communion we don't just do it lightly it's not
+- **[41:21](https://www.youtube.com/watch?v=_NvKMga-o2I&t=2481s) · 他进行祷告**：Lord now Lord you said today when I was pray he said I want you to praise me for the victory stop we're not asking anymore we're rejoicing for what he's already done so we're going to take a moment whether it's just a couple minutes here and we're going to thank him for the
+- **[41:41](https://www.youtube.com/watch?v=_NvKMga-o2I&t=2501s) · 本段原话**：victory for Tuesday for the for the for the elections thank him for the victory where we've prayed and he's heard us and we're going to believe we're going to believe Now by faith what do you do that's what I want to say what do you do when you get your breakthrough what do you do when you see your what
+- **[42:01](https://www.youtube.com/watch?v=_NvKMga-o2I&t=2521s) · 本段原话**：you've been praying for come to pass you get excited about it you rejoice right so we're going to Rejoice by faith right now for the victory for for president Trump winning the election for victory in the senate in the house we're going to give him Victory we're going to praise him and and and we're
 
 ### 完整英文 Transcript
 
@@ -1182,7 +1256,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:00](https://www.youtube.com/watch?v=_NvKMga-o2I&t=2700s) · 本段原话**：Tuesday is election and we believe it father we believe it it's time it's it's our time it's our Victory it's our time and father we give you praise father that what the thing the devil turn what the devil tried to do for bad you're going to turn it for good and all father we praise you for all hidden
+- **[46:04](https://www.youtube.com/watch?v=_NvKMga-o2I&t=2764s) · 本段原话**：there is a Revival taking place in Asia today Father we thank you for Africa father there is a mighty wave of your glory happening in Africa today Father we call forth Africa to have a supernatural experience with you father there there all the people father would see father a great harvest of Souls
+- **[46:46](https://www.youtube.com/watch?v=_NvKMga-o2I&t=2806s) · 本段原话**：to to do spiritual warfare father and that they would rise up father and call their Nation back to you call their continent back to you all of them Father all of Africa every single nation there there's so many of them Father would have a a major major outpouring of the spirit of the Lord that the continent of Africa
+- **[48:39](https://www.youtube.com/watch?v=_NvKMga-o2I&t=2919s) · 他进行祷告**：move of your presence over Asia for a for a mighty mighty outpouring of the spirit of the Lord over North Korea South Korea over all of all all of it father Japan China Singapore Hong Kong father we pray for all the places father that there would be a supernal move of your spirit
 
 ### 完整英文 Transcript
 
@@ -1296,7 +1377,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–54:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:22](https://www.youtube.com/watch?v=_NvKMga-o2I&t=3022s) · 本段原话**：you're going to do Lord and The Best Is Yet To Come We Believe even for the brush Harbor churches for Big Tent Revival churches Big Tent Revival churches father in the middle of the fields father with people coming from everywhere to see and experience the the presence of the Lord and we give you praise for it right
+- **[51:41](https://www.youtube.com/watch?v=_NvKMga-o2I&t=3101s) · 本段原话**：for means to ways to give and I'm setting up zel and I'm going to have it ready this week hopefully and um hopefully that'll be easier for you to use I don't understand why the the World Cup don't like Christians but they they're just corrupt so we're going Diana and I are going to um what it will
+- **[52:58](https://www.youtube.com/watch?v=_NvKMga-o2I&t=3178s) · 本段原话**：t-shirts out there we got prayer gifts uh prayer shirts we're making and my wife's doing it and so if you're wanting to have a prayer hoodie or some kind of cool thing that has our logo on it uh like what we're going to be doing with our our uh our ministry here if you want
+- **[54:30](https://www.youtube.com/watch?v=_NvKMga-o2I&t=3270s) · 本段原话**：you're helping to get the gospel spread throughout the whole world I've had a lot of people get born again this week watching these videos and they emailing and there's L's been getting getting healed we had a really cool testimony about it somebody that we prayed for as a as a group that she I called out a
 
 ### 完整英文 Transcript
 
@@ -1425,7 +1513,13 @@
 <a id="section-12"></a>
 ## 12. 55:00–55:43 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[55:00](https://www.youtube.com/watch?v=_NvKMga-o2I&t=3300s) · 本段原话**：Jesus move in people's lives I get excited about it because I know what it was like to to be uh bound and to be lost and not have hope felt like I was in a a dark hole and then Jesus Set Me Free and I know that Jesus if he did it for me he'll do it for you he's no
+- **[55:18](https://www.youtube.com/watch?v=_NvKMga-o2I&t=3318s) · 他进行祷告**：respector of persons so we're excited you're here please stick around please come and pray with us and and be a part of this uh YouTube channel I hope it blesses you um that's my heart's desire is to see Jesus move in your life we put a smile on your face and a song in your
+- **[55:37](https://www.youtube.com/watch?v=_NvKMga-o2I&t=3337s) · 本段原话**：heart Jesus loves you so much and we love you and we'll see you again tomorrow God bless you all have a wonderful day byebye
 
 ### 完整英文 Transcript
 

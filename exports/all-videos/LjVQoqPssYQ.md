@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1789；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 81:00–89:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-10)
 - [11. 90:00–96:22 · 祷告、敬拜与现场互动、战争与国际事务](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:50](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=110s) · 他描述所见**：And I saw Israel strike first and I've got the videos to tell you what I saw I saw President Trump wanted to go about it diplomacy.
+- **[18:47](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=1127s) · 他描述所见**：And I saw 24 million. I even told you the eagle, and I showed you what I told you what the Lord showed me concerning a mass attack against our waterways.
+- **[36:06](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=2166s) · 本段原话**：Peace in the region, they say. Peace in the region. Yemen It's the because they have strategic interest. China and Russia concerning Iran.
+- **[54:52](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=3292s) · 他表达判断**：They're asleep. A lot of the world is asleep. But when they start to see the wars, the plague that I believe is coming. We're on the hills of it. A major plague.
+- **[72:42](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=4362s) · 本段原话**：Huh? It's like it's bathed in prayer. What we've already and there's so many of you and there's other prayer groups have prayed over Israel and this. But for whatever it is, it's like when I'm coming up to the to this tonight and I'm praying over it this morning.
+- **[91:12](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=5472s) · 他进行祷告**：We'll pray again here in a couple hours. The Lord is really putting on my heart, of course. This was the major thing that I've been praying over and it's happening. So, and now I'll pray over South Korea and over China that they won't attack Taiwan and that this will be a um uh
+
 <a id="section-01"></a>
 ## 01. 00:00–08:59 · 战争与国际事务、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：战争与国际事务、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Israel、Iran、Florida。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:50](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=110s) · 他描述所见**：And I saw Israel strike first and I've got the videos to tell you what I saw I saw President Trump wanted to go about it diplomacy.
+- **[01:59](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=119s) · 他描述所见**：And Israel and Benjamin wanted to push the button. I saw him push the button and then I saw anti-Semitism come to an all-time high for Israel in the days ahead if anybody remembers. And I said, this will be by God's hand and there'll be so many people leave New York and other places in the days ahead
+- **[04:40](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=280s) · 本段原话**：But I just believe that it could happen. You know what? President Trump they're wanting to liberate us. Let's just let's don't fight back. Let's just let let's get cuz even whatever he said, I want to play this what he just said. He just had a press briefing. Did anybody watch that? What he just said at
+- **[07:22](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=442s) · 本段原话**：And it was Iran's proxy Hamas that launched the monstrous October 7th attacks on Israel slaughtering more than 1,000 innocent people including 46 Americans while taking 12 of our citizens hostage. It was brutal. Something like the world has never seen before.
 
 ### 完整英文 Transcript
 
@@ -246,7 +264,14 @@
 <a id="section-02"></a>
 ## 02. 09:00–17:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、治安、袭击与安全。 提到的地点：Israel、Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[09:29](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=569s) · 本段原话**：For these reasons the United States military is undertaking a massive and ongoing operation to prevent this very wicked, radical dictatorship from threatening America and our core national security interests. We are going to destroy their missiles and raze their missile industry to the ground. It will be totally again obliterated. We are going to annihilate their navy.
+- **[09:57](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=597s) · 本段原话**：We're going to ensure that the region's terrorist proxies can no longer destabilize the region or the world and attack our forces and no longer use their IEDs or roadside bombs, as they are sometimes called, to so gravely wound and kill thousands and thousands of people, including many Americans, and we will ensure that Iran does not obtain
+- **[14:30](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=870s) · 他描述所见**：This is major, and it and and watching the fig tree. What happens with Israel in the days ahead? What I told you I saw even last night with um Turkey and Syria and Damascus and and the and the next couple of days, praying over Turkey and them retaliating and what can happen into to make this turn
+- **[16:30](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=990s) · 他表达判断**：So, I believe we can stop this. Now, the other part is praying over what I want to call them garbage that President Biden allowed over our border over the last uh 4 years prior to President Trump taking. And I'm telling you these people are here.
 
 ### 完整英文 Transcript
 
@@ -462,7 +487,14 @@
 <a id="section-03"></a>
 ## 03. 18:00–26:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:47](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=1127s) · 他描述所见**：And I saw 24 million. I even told you the eagle, and I showed you what I told you what the Lord showed me concerning a mass attack against our waterways.
+- **[18:59](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=1139s) · 他描述所见**：Our water plants, specifically the Gulf Coast. So, we will continue to stand and pray against every plot, every plan of every wicked. I saw the three terrorist men coming out of the the the border of um Mexico area coming into America in a van.
+- **[22:30](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=1350s) · 本段原话**：I said will either make or break midterms. I said he's in the valley decision and the speech he makes at at the speech that he gives on Tuesday night, which was last Tuesday. I said will be what what what what basically propels us into even greater end times.
+- **[26:25](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=1585s) · 他表达判断**：For them to have a great awakening, for a harvest of souls. I believe the same way he he visited me in my sleep concerning having translations into our North Korea.
 
 ### 完整英文 Transcript
 
@@ -684,7 +716,14 @@
 <a id="section-04"></a>
 ## 04. 27:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[27:23](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=1643s) · 本段原话**：there's very detailed record of what's coming. And so I thought about making some of those public. I'm praying about the timing of it because of how much of the of when this I let when I told you Jesus visited me, how that went so viral and I the church you talk about ruffling the
+- **[30:39](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=1839s) · 本段原话**：There's a lot of things. But the devil, remember I told you the prince of Persia had a hold of Iraq. And in the days ahead their regime, the prince of Persia was representation, that demonic principality had a hold of Iraq and he was he was losing his grip because Iran was about to go down.
+- **[32:35](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=1955s) · 他进行祷告**：And I pray over his mind. I pray over him in the name of Jesus that he takes no counsel from the ungodly. The Father, that our troops are men and women of service, are strategic in their strikes against their missile systems, against their any kind of biological attacks, against their drones, against their
+- **[33:43](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=2023s) · 他描述所见**：COOL HEADS WILL PREVAIL. NO, that's that that that hit hard. It's I see North Korea.
 
 ### 完整英文 Transcript
 
@@ -878,7 +917,14 @@
 <a id="section-05"></a>
 ## 05. 36:00–44:59 · 战争与国际事务、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：战争与国际事务、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:06](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=2166s) · 本段原话**：Peace in the region, they say. Peace in the region. Yemen It's the because they have strategic interest. China and Russia concerning Iran.
+- **[37:39](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=2259s) · 本段原话**：Concerned about the house. Watch him move so fast between March to the midterm. Watch him move so fast cuz he knows he's running out of time.
+- **[38:02](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=2282s) · 他描述所见**：Concerning foreign affairs. Do we pray? We pray OVER TAIWAN. WE PRAY over Taiwan. We put a hedge around about Taiwan. I see a gold dome.
+- **[41:20](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=2480s) · 他描述所见**：Mon do be Bobby you call me a Monday. And I see even Australia.
 
 ### 完整英文 Transcript
 
@@ -1009,7 +1055,14 @@
 <a id="section-06"></a>
 ## 06. 45:00–53:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、预言、梦境与异象。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:07](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=2707s) · 他进行祷告**：MO ALL IN CHINA. All in China. That the underground church would rise up and pray.
+- **[49:12](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=2952s) · 他描述所见**：And there's a demonic spirit I see it's pushing him. AND HE'S BEING PUSHED BY his influence around him concerning family, concerning his position as a leader over North Korea.
+- **[52:21](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=3141s) · 他描述所见**：I yield to the anointing of the seer. I yield to it right now and I see it so close.
+- **[53:19](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=3199s) · 他描述所见**：I see a volcano getting ready to erupt, literally. A major volcano is about to erupt.
 
 ### 完整英文 Transcript
 
@@ -1189,7 +1242,14 @@
 <a id="section-07"></a>
 ## 07. 54:00–62:59 · 祷告、敬拜与现场互动、疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、疾病、医疗与药品、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、疾病、医疗与药品展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[54:52](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=3292s) · 他表达判断**：They're asleep. A lot of the world is asleep. But when they start to see the wars, the plague that I believe is coming. We're on the hills of it. A major plague.
+- **[55:27](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=3327s) · 本段原话**：We're right at We're right rice paper thin. Major events taking place. I said, "People will leave the East Coast in the days ahead." Oh, did I say that out loud?
+- **[57:09](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=3429s) · 本段原话**：Father, they'll just lay down their arms and they'll walk away. [cough]
+- **[60:46](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=3646s) · 他描述所见**：Torpedo on our boat and a drones. I see this on the on the boats. You hear me, B? There's boats underwater drones with torpedoes.
 
 ### 完整英文 Transcript
 
@@ -1280,7 +1340,14 @@
 <a id="section-08"></a>
 ## 08. 63:00–71:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、AI、科技与监控。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[63:43](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=3823s) · 本段原话**：LET ME SEE. over Boston over Chicago over our buildings over Seattle the 10 major cities Atlanta
+- **[66:24](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=3984s) · 本段原话**：the covering the covering the covering the covering always in the right place at the right time Thank you, Father.
+- **[69:02](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=4142s) · 本段原话**：concerning our boats concerning our ships every drone every missile protection over our stuff over our people protection [snorts] no weapon formed against our men and women in service will a diffusing
+- **[70:58](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=4258s) · 他表达判断**：None of our troops will lose their lives. I believe it. It'll be supernatural.
 
 ### 完整英文 Transcript
 
@@ -1359,7 +1426,14 @@
 <a id="section-09"></a>
 ## 09. 72:00–80:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、教会、复兴与信仰。 提到的地点：Iran、China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[72:42](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=4362s) · 本段原话**：Huh? It's like it's bathed in prayer. What we've already and there's so many of you and there's other prayer groups have prayed over Israel and this. But for whatever it is, it's like when I'm coming up to the to this tonight and I'm praying over it this morning.
+- **[73:18](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=4398s) · 他描述所见**：As as the United States is preoccupied with Iran and Cuba and what I see with Venezuela there's too many irons in too many fires.
+- **[73:40](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=4420s) · 他描述所见**：That Taiwan is a sitting duck. Praying over them a hedge of blood around and about them, a wall of the glory. But I saw even Australia and South Korea and Japan and the like allies concerning this saying, "Listen, come into the aid of Taiwan.
+- **[80:13](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=4813s) · 本段原话**：Who? That that the prince. What did he say? Uh the aid of the president of the United States promised to brave people in Iran has now arrived. The humanitarian intervention is target in is the Islamic Republic. It's representatives of artists and it's a lot. He's not he's not against it though. No.
 
 ### 完整英文 Transcript
 
@@ -1522,7 +1596,14 @@
 <a id="section-10"></a>
 ## 10. 81:00–89:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[85:23](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=5123s) · 他描述所见**：And whenever I saw in the spirit what was it? The other couple nights ago and the Lord said be still. He didn't want me talking about it. I said well there's weapons that you all don't realize what we have that they're going to start to use and it's going to be shocking all.
+- **[85:39](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=5139s) · 他描述所见**：I'm curious if they'll use them this time. So I'm praying against Iran's defense what I saw about China even last night before the the first video I did today.
+- **[86:31](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=5191s) · 他描述所见**：Maybe like you know until you upload it again. It knocked your computers out and and and delay you maybe for an hour 2 hours or whatever like a And and I saw this this this some kind of weapon that would would knock the power grid out with the pulse.
+- **[89:30](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=5370s) · 他描述所见**：That's pretty cool. Tomahawk. Mhm. [clears throat] That's what what I saw Zelensky asking for.
 
 ### 完整英文 Transcript
 
@@ -1746,7 +1827,14 @@
 <a id="section-11"></a>
 ## 11. 90:00–96:22 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、教会、复兴与信仰。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[91:12](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=5472s) · 他进行祷告**：We'll pray again here in a couple hours. The Lord is really putting on my heart, of course. This was the major thing that I've been praying over and it's happening. So, and now I'll pray over South Korea and over China that they won't attack Taiwan and that this will be a um uh
+- **[92:11](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=5531s) · 本段原话**：Put another shrimp on the barbie, mate." [laughter] We ain't going to get involved in anything. Just leave us alone.
+- **[93:06](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=5586s) · 本段原话**：Australia's going to start getting cool. It's starting to get warm here. It was 80°. It was hot. We're supposed to get a lot of rain. So, I'm excited. So, I don't know how hot it's going to be there, but it should be starting to getting cold in Australia, right?
+- **[95:50](https://www.youtube.com/watch?v=LjVQoqPssYQ&t=5750s) · 他进行祷告**：I'm praying over the bases cuz the Lord showed us surprise attacks trying to really come against our bases in Kuwait and stuff. So, we'll continue to pray for that, but Well, we love y'all. I I pray you enjoyed this. I know it's a different time like I said, but I'm going to go.
 
 ### 完整英文 Transcript
 

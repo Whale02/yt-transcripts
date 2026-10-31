@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 200；**章节数**: 3；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -13,10 +13,25 @@
 - [02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-02)
 - [03. 08:00–08:17 · 现场讲话（无可靠自动分类）](#section-03)
 
+## 全片概述与 Key Points
+
+全片共 3 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:17](https://www.youtube.com/watch?v=UX_qzYVcU90&t=17s) · 本段原话**：for her and the doctors told us that she would never be potty trained she would never come out of a the level that she's at and um after you prayed for her a couple weeks later she became potty trained and she's completely that's crazy you better you better give him praise come on my God 19 years somebody
+- **[05:01](https://www.youtube.com/watch?v=UX_qzYVcU90&t=301s) · 本段原话**：you with progress he'll take you home before he does that he's not going to tease you but giving you Great Signs like this only for nothing to happen here's an example right here see this is what I love this is a miracle that happened yet it's still happening it's still it's unfolding right in front of us we give
+- **[08:04](https://www.youtube.com/watch?v=UX_qzYVcU90&t=484s) · 本段原话**：shout come on you got to give him a [Applause] shout oh my and the Angels Cried come on and the Angels Angels Cried
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 提到的地点：Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:17](https://www.youtube.com/watch?v=UX_qzYVcU90&t=17s) · 本段原话**：for her and the doctors told us that she would never be potty trained she would never come out of a the level that she's at and um after you prayed for her a couple weeks later she became potty trained and she's completely that's crazy you better you better give him praise come on my God 19 years somebody
+- **[00:40](https://www.youtube.com/watch?v=UX_qzYVcU90&t=40s) · 本段原话**：19 years 19 years she now but she was 18 she has never had never went to the bathroom in the stool she would swell up huge her belly would be huge and she would be she'd be impacted full of feces because she had to ate poop pills every day to go and be regular whenever you
+- **[02:18](https://www.youtube.com/watch?v=UX_qzYVcU90&t=138s) · 他进行祷告**：they're still walking through it what does Luke 18 say if you luk 18 it says though I T long though I T long when I do do come I'll deliver you speedily but make sure you're still in faith don't get out of Faith don't quit he told his disciples pray but don't quit I know you're going to get weary of
+- **[03:36](https://www.youtube.com/watch?v=UX_qzYVcU90&t=216s) · 本段原话**：[Applause] since to even go to church and now now we weren't even able to go to church and now she'll sit in Services Under The anointing and just soak get in for years we weren't able to go to church for over 10 years we we worked for a mega church we work for victory in in Oklahoma City
 
 ### 完整英文 Transcript
 
@@ -124,7 +139,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:01](https://www.youtube.com/watch?v=UX_qzYVcU90&t=301s) · 本段原话**：you with progress he'll take you home before he does that he's not going to tease you but giving you Great Signs like this only for nothing to happen here's an example right here see this is what I love this is a miracle that happened yet it's still happening it's still it's unfolding right in front of us we give
+- **[06:30](https://www.youtube.com/watch?v=UX_qzYVcU90&t=390s) · 本段原话**：birthing you it means you're going to birth it you're going to get pregnant with you're going to carry it there's a season of carry time and then that water will break and there comes the whatever he's birthing in you but it's not normal don't try and fit into the programmers don't don't play by their
+- **[06:48](https://www.youtube.com/watch?v=UX_qzYVcU90&t=408s) · 本段原话**：rules what you have is outside he was crucified outside the city he was crucified outside the city why was he crucified out because he wasn't welcome in the city he said crucify me wherever you want I'm going to change the world sometimes we have to go outside to reach inside that's what's going to happen
+- **[07:38](https://www.youtube.com/watch?v=UX_qzYVcU90&t=458s) · 他进行祷告**：coming on you for this type of dysfunction here you're going to pray for more babies more children that have been disconnected in the womb curses in the womb that's going to be your ministry just breaking these curses in the womb of women it's going to shock you you better you better get you better
 
 ### 完整英文 Transcript
 
@@ -232,7 +254,11 @@
 <a id="section-03"></a>
 ## 03. 08:00–08:17 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:04](https://www.youtube.com/watch?v=UX_qzYVcU90&t=484s) · 本段原话**：shout come on you got to give him a [Applause] shout oh my and the Angels Cried come on and the Angels Angels Cried
 
 ### 完整英文 Transcript
 

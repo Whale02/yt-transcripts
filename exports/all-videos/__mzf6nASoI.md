@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1469；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 54:00–59:59 · 祷告、敬拜与现场互动、物资、能源与供应链](#section-10)
 - [11. 60:00–65:22 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=__mzf6nASoI&t=0s) · 本段原话**：hey good morning family well I'm going to go ahead and release this video to youall I I talked to my pastor last night and because I I I was curious about things of why the Lord was uh uh showing me because he showed me dates he showed me more uh in depth of this it's
+- **[12:43](https://www.youtube.com/watch?v=__mzf6nASoI&t=763s) · 他描述所见**：throughout the Middle East I could see it spreading throughout the Middle East in each part but I could only see it go so far when it passed Jordan it passed uh uh it started going into Iraq and Iran but then it kind of faded away but because the vision didn't let me allow
+- **[25:07](https://www.youtube.com/watch?v=__mzf6nASoI&t=1507s) · 他转述所听到的话**：development right now a very fat you've got to take this serious this is not something that you can just halfway do this is going to have to become your breath listening and following the leading of the voice of the Lord for your life so the Lord told me he said you you must bring in the
+- **[36:25](https://www.youtube.com/watch?v=__mzf6nASoI&t=2185s) · 本段原话**：the children of Israel ladies and gentlemen from the pestilence of Egypt the frogs flies the the the all the the bo all the things that happened the hell the death whenever it killed all the firstborn of Egypt not one of of of of the children of Israel's uh children were were were killed none of them there was a covenant
+- **[48:19](https://www.youtube.com/watch?v=__mzf6nASoI&t=2899s) · 本段原话**：top of our head to the soles of our feet and we give you all the glory honor and praise father for everything you're going to do for us and all that you've already done in the name of Jesus that's just the way I take communion folks it's real to me it's the way my wife and I take
+- **[61:01](https://www.youtube.com/watch?v=__mzf6nASoI&t=3661s) · 本段原话**：of you folks apply the blood over your children today apply the blood over your husband or your wife if they go to work you're covered by the blood there's a virus spreading in the workplace everybody's getting that virus maybe they got got flu and everybody's getting sick with their stomach but nope I apply the blood
+
 <a id="section-01"></a>
 ## 01. 00:00–05:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=__mzf6nASoI&t=0s) · 本段原话**：hey good morning family well I'm going to go ahead and release this video to youall I I talked to my pastor last night and because I I I was curious about things of why the Lord was uh uh showing me because he showed me dates he showed me more uh in depth of this it's
+- **[01:52](https://www.youtube.com/watch?v=__mzf6nASoI&t=112s) · 本段原话**：me this is the fourth time he has spoken to me about the virus and he keeps giving me more detail so you know as I've went along with this he showed me the 350 million he's warned me about the being the Obesity and the them using um uh he's used the word again genocide
+- **[02:57](https://www.youtube.com/watch?v=__mzf6nASoI&t=177s) · 他描述所见**：so branon this is what they're planning in the future so he said you're you're running out of time for what they're trying to to to do so and then in this last Vision I have it seen it in over a year and here it is a year later and the Lord shows and downloads it to me again
+- **[04:07](https://www.youtube.com/watch?v=__mzf6nASoI&t=247s) · 他描述所见**：came a lot out of that that Vision so the the the fervent effectual prayer of the righteous availeth much and I truly believe God is now showing us another round of something the enemy's trying to do that is bigger even than terrorist activity I saw in this Vision that you're about to see
 
 ### 完整英文 Transcript
 
@@ -173,7 +191,14 @@
 <a id="section-02"></a>
 ## 02. 06:00–11:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、AI、科技与监控。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[06:00](https://www.youtube.com/watch?v=__mzf6nASoI&t=360s) · 他进行祷告**：calling you to raise up a million man woman prayer Army and you will change events throughout the whole world for what's coming so I said yes Lord and that's exactly uh what what I am am going to do with you all and we're going to pray more about this stuff here you all
+- **[08:52](https://www.youtube.com/watch?v=__mzf6nASoI&t=532s) · 他描述所见**：shorts with little suspender like things I see women with bonnets on their heads I see fires burning on a little stove inside their houses that was made like a little Black Cauldron that was cooking something on it I could see wooden tables I could see wooden tables outside I could see a little bridge that was
+- **[09:47](https://www.youtube.com/watch?v=__mzf6nASoI&t=587s) · 他描述所见**：of them and they were dead in the streets there was there was different things going on in this Vision part this part of it and the Lord was trying to tell me he said what's about to happen is going to be a type and Shadow of what happened with the black death the plague that took place back in
+- **[11:32](https://www.youtube.com/watch?v=__mzf6nASoI&t=692s) · 他描述所见**：animal die quickly like the other two they wanted it not to they wanted it to live longer does that make sense so I saw this rat go into the City and all of a sudden I see uh outlines of places in Europe that was there and all of a sudden it started out
 
 ### 完整英文 Transcript
 
@@ -323,7 +348,14 @@
 <a id="section-03"></a>
 ## 03. 12:00–17:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、特朗普与白宫。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:43](https://www.youtube.com/watch?v=__mzf6nASoI&t=763s) · 他描述所见**：throughout the Middle East I could see it spreading throughout the Middle East in each part but I could only see it go so far when it passed Jordan it passed uh uh it started going into Iraq and Iran but then it kind of faded away but because the vision didn't let me allow
+- **[12:56](https://www.youtube.com/watch?v=__mzf6nASoI&t=776s) · 他描述所见**：me to see that then it started going into South America this is whenever I remember I I've told you all I saw president Trump standing behind a Podium saying we're blocking all international travel from coming from overseas and enter flights inside the United States we're not allowing flights going inside the United States so all air travel for
+- **[13:17](https://www.youtube.com/watch?v=__mzf6nASoI&t=797s) · 他描述所见**：a period of time is going to be suspended from border to border trying to stop this lethal thing that's going to take place then I saw the the euro collapse all of Europe the money system collapses first and this is what triggers the United States dollar to collapse all of the economy everything
+- **[16:09](https://www.youtube.com/watch?v=__mzf6nASoI&t=969s) · 他描述所见**：manifest and started to spread upon America I saw death everywhere I literally saw death on it it looked it looked like something out of a horror film it was it was awful I've told you 350 million and the Lord said Brandon for what they have planned this is a small number for this
 
 ### 完整英文 Transcript
 
@@ -467,7 +499,14 @@
 <a id="section-04"></a>
 ## 04. 18:00–23:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:22](https://www.youtube.com/watch?v=__mzf6nASoI&t=1102s) · 他描述所见**：they were actually pacing and interceding in the Oval Office praying and tongues praying in the spirit in the Oval Office I seen it and they were all interceding I saw a man I don't know who he was he was a pastor I know I believe he's a pastor from somewhere had a ball
+- **[19:38](https://www.youtube.com/watch?v=__mzf6nASoI&t=1178s) · 他描述所见**：very interesting I saw do you like whenever you see the uh the the paddles for the for the you're you're you're going to shock somebody to to wake them up I saw those hitting the nation of America and I saw shock waves go over the land pulses and it was like this and I could see the shocks again
+- **[20:57](https://www.youtube.com/watch?v=__mzf6nASoI&t=1257s) · 本段原话**：is the way I'm going to describe it okay if you were to take an egg and you were to put pressure from the inside out like a chicklet breaking forth that's the way this Dome that was a half of a of a half of a sphere that was over over uh uh this area that looked like that it was a
+- **[23:13](https://www.youtube.com/watch?v=__mzf6nASoI&t=1393s) · 他描述所见**：shined outside of them that went about 3 feet the glory of the Lord was so present on these individuals and the Lord said this will be the remnant that rises up and there will be a supernatural covering over them when this stuff happens and I saw a glory glow all over these Remnant people and
 
 ### 完整英文 Transcript
 
@@ -598,7 +637,14 @@
 <a id="section-05"></a>
 ## 05. 24:00–29:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:07](https://www.youtube.com/watch?v=__mzf6nASoI&t=1507s) · 他转述所听到的话**：development right now a very fat you've got to take this serious this is not something that you can just halfway do this is going to have to become your breath listening and following the leading of the voice of the Lord for your life so the Lord told me he said you you must bring in the
+- **[27:07](https://www.youtube.com/watch?v=__mzf6nASoI&t=1627s) · 本段原话**：that die and go to hell many I've seen it and this is a very serious stern word but these people are ruthless and what I have seen is darker than what you can imagine because it shook me I tried to call other people to tell them what the Lord showed me and what I was praying
+- **[28:11](https://www.youtube.com/watch?v=__mzf6nASoI&t=1691s) · 他转述所听到的话**：over again where we are in the end times and he said the Lord already spoke to me about this uh last week Brandon I said wow praise the Lord praise the Lord it was confirmation because I know what I heard but he heard it too so he's going to start preaching it more and more and more like a voice
+- **[28:51](https://www.youtube.com/watch?v=__mzf6nASoI&t=1731s) · 他描述所见**：what's going they're prophesying from down here they must prophesy from the throne room they have to come up higher with the fire in the prophetic words for they I saw an ear it had wax in it that didn't have a clear path and a clear clear uh hearing to the father because they were so filled with the mixture and
 
 ### 完整英文 Transcript
 
@@ -743,7 +789,14 @@
 <a id="section-06"></a>
 ## 06. 30:00–35:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:00](https://www.youtube.com/watch?v=__mzf6nASoI&t=1800s) · 本段原话**：deflect the glory unto me they get a a big head they're getting big this big uh arrogant attitude of thinking it's them and they're only the vessel that God is using similar to the donkey that was carrying Jesus in on Palm Sunday they were throwing the Palms down at the donkey's feet and he could have a big
+- **[31:53](https://www.youtube.com/watch?v=__mzf6nASoI&t=1913s) · 本段原话**：days there will be plagues and pestilences there'll be wars and rumors of War there'll be earthquakes in diverse places there'll be there'll be famines and they don't want to hear that part of the word but he said fear not for this is the beginning of Sorrows and ladies and gentlemen we are in the beginning of
+- **[33:23](https://www.youtube.com/watch?v=__mzf6nASoI&t=2003s) · 本段原话**：them than he that is in this world that a thousand shall fall at their side and 10,000 at their right hand but nothing shall come nigh them son if they know and they trust in me be confident be steadfast no for I the Lord your God and with you wherever you go so that's what
+- **[35:48](https://www.youtube.com/watch?v=__mzf6nASoI&t=2148s) · 本段原话**：years ago is the same God that will heal the sick today if you believe him for it if you're just like the woman with the issue of blood going forth and latching hold of His Garment saying if I may
 
 ### 完整英文 Transcript
 
@@ -879,7 +932,14 @@
 <a id="section-07"></a>
 ## 07. 36:00–41:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:25](https://www.youtube.com/watch?v=__mzf6nASoI&t=2185s) · 本段原话**：the children of Israel ladies and gentlemen from the pestilence of Egypt the frogs flies the the the all the the bo all the things that happened the hell the death whenever it killed all the firstborn of Egypt not one of of of of the children of Israel's uh children were were were killed none of them there was a covenant
+- **[37:23](https://www.youtube.com/watch?v=__mzf6nASoI&t=2243s) · 本段原话**：blood and that same power that that that that that protected the children of Israel will protect you because we have the ultimate lamb Jesus Christ he was sacrificed he rose again on the third day and he is seated with the at the right hand of the father making intercession for each one of us and he
+- **[39:27](https://www.youtube.com/watch?v=__mzf6nASoI&t=2367s) · 本段原话**：that is above every name he is a strong tower and I will run into it I will run into it today and I'm not afraid of the terror by night I'm not afraid of the terror by night it's so important that they get this I've seen so much and it it it's very bad Diana
+- **[41:20](https://www.youtube.com/watch?v=__mzf6nASoI&t=2480s) · 他转述所听到的话**：we stopped so much with the inauguration you all don't realize how power of our of things you we pray we we stop it we're an army so I bring this to you today not for fear but because the Lord said some of this stuff is going to happen and we can't stop it specifically
 
 ### 完整英文 Transcript
 
@@ -991,7 +1051,14 @@
 <a id="section-08"></a>
 ## 08. 42:00–47:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:00](https://www.youtube.com/watch?v=__mzf6nASoI&t=2520s) · 他描述所见**：it because this will take place because my word said it would and a lot of people don't want to hear this and the timing of it I will not go into the timing of what I saw right now we have time right now to prepare it's not this year okay this year will be a good year I've
+- **[43:36](https://www.youtube.com/watch?v=__mzf6nASoI&t=2616s) · 他描述所见**：to pray okay we have and so I see like I said I see way I see things way off in a distance sometimes 5 years sometimes 10 years so I tell you this I can say this it will start in the fall and by Springtime I saw a three-month window of it was circled and
+- **[44:46](https://www.youtube.com/watch?v=__mzf6nASoI&t=2686s) · 他描述所见**：the vision to you and he said focus on the three months praying over those in the future okay cuz it was a three months March April May and then I saw it started Ed being on the news and things happening November o the end of October November December January February and it went
+- **[45:50](https://www.youtube.com/watch?v=__mzf6nASoI&t=2750s) · 他描述所见**：showed it to me in the vision so I was like well that's interesting cuz he's never done that before and I didn't understand it so let's take communion and pray right now let's just lift up all this and just pray over things and and um and and like I said I'm not getting in fear I focus
 
 ### 完整英文 Transcript
 
@@ -1139,7 +1206,14 @@
 <a id="section-09"></a>
 ## 09. 48:00–53:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[48:19](https://www.youtube.com/watch?v=__mzf6nASoI&t=2899s) · 本段原话**：top of our head to the soles of our feet and we give you all the glory honor and praise father for everything you're going to do for us and all that you've already done in the name of Jesus that's just the way I take communion folks it's real to me it's the way my wife and I take
+- **[50:15](https://www.youtube.com/watch?v=__mzf6nASoI&t=3015s) · 他进行祷告**：not we're not we're not afraid of all the stuff but father we're an army and we join together we pray against this demonic Spirit that's trying to come against us of the land father this pestilence and we say in the name of Jesus you will not do this the way I've seen it we plead the blood of Jesus over
+- **[52:30](https://www.youtube.com/watch?v=__mzf6nASoI&t=3150s) · 本段原话**：you've given us that our hearts are always ready for your soon return thank you Father for the days that you've given us on this Earth for every one of them Father our our blessing every year every hour you give us every second every every minute every second father you give us on this Earth
+- **[53:42](https://www.youtube.com/watch?v=__mzf6nASoI&t=3222s) · 他描述所见**：father we trust you father thank you Father for father exposing the terrorist that I saw the trucks and all that there's so many things that you've showed me Lord that the terrorist will be brought to Justice but whatever they're planning whatever they're plotting in this time father I thank you
 
 ### 完整英文 Transcript
 
@@ -1291,7 +1365,14 @@
 <a id="section-10"></a>
 ## 10. 54:00–59:59 · 祷告、敬拜与现场互动、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、物资、能源与供应链、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、物资、能源与供应链展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[54:01](https://www.youtube.com/watch?v=__mzf6nASoI&t=3241s) · 本段原话**：Lord that you reveal more to us that you show us more of what's coming this is a a so a totally side thing another vein of things that the enemy's plotting and planning even besides the terrorist attacks and all the things that they're trying to plan two different kinds of people two different agendas
+- **[56:12](https://www.youtube.com/watch?v=__mzf6nASoI&t=3372s) · 他进行祷告**：area because of seed time and harvest and and acceleration of things because they've opened the doors through this through demonic attack because of way they're going through unrighteous wanting to do things right they open the door for it so you go in those areas you righteous people and you pray over those areas and call a crop failure over the
+- **[57:26](https://www.youtube.com/watch?v=__mzf6nASoI&t=3446s) · 本段原话**：burning up all everything there's a major another wind storm coming through they it's going to burn up everything even more it you've got to use your power and authority over your area is what I'm trying to tell yall and don't get all freaked out but that's what I'm trying to tell you the covering over
+- **[58:30](https://www.youtube.com/watch?v=__mzf6nASoI&t=3510s) · 本段原话**：frankincense in it and I put it on my child's head I anoint him no I put I put it on their nose I say no sickness no virus is coming near you I apply the blood over my child's nose the blood of Jesus covers them I cover their head and as you go into the malls or wherever
 
 ### 完整英文 Transcript
 
@@ -1456,7 +1537,14 @@
 <a id="section-11"></a>
 ## 11. 60:00–65:22 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[61:01](https://www.youtube.com/watch?v=__mzf6nASoI&t=3661s) · 本段原话**：of you folks apply the blood over your children today apply the blood over your husband or your wife if they go to work you're covered by the blood there's a virus spreading in the workplace everybody's getting that virus maybe they got got flu and everybody's getting sick with their stomach but nope I apply the blood
+- **[61:39](https://www.youtube.com/watch?v=__mzf6nASoI&t=3699s) · 他描述所见**：again keep standing when all there else to do is stand stand stand therefore I'm not saying things don't happen but we but we still do it by faith regardless I'm not moved by what I see I'm not moved by what I feel I'm moved by what the word of God says and yes things
+- **[61:56](https://www.youtube.com/watch?v=__mzf6nASoI&t=3716s) · 本段原话**：happen and we live in a fallen world and they may get a virus when they go to school but it's not going to last to my body very long regardless if they get it ah it's not going to last in my body very long I'm going to get over this quick do you get what I'm saying you're
+- **[63:09](https://www.youtube.com/watch?v=__mzf6nASoI&t=3789s) · 本段原话**：button click the like button click the notification Bell tell you when I'm coming on we're always excited to see the new faces all the new my son tells me there's new people all the time daddy on China and and my my Spanish Channel and my Japanese Channel my got a a Brazilian Channel what is it uh what do
 
 ### 完整英文 Transcript
 

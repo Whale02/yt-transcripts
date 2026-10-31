@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 263；**章节数**: 4；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -14,10 +14,26 @@
 - [03. 08:00–11:59 · 物资、能源与供应链、预言、梦境与异象](#section-03)
 - [04. 12:00–12:35 · 战争与国际事务](#section-04)
 
+## 全片概述与 Key Points
+
+全片共 4 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=blXMRxKJs5U&t=0s) · 他描述所见**：And I saw Venezuela again. I saw battleships all around Venezuela. And the Lord said, "This is more than drug trafficking." He's trying to cause a front to cause a pause in the bricks system. So the the bricks like I told you was reaching out to Venezuela, to Cuba, to North Korea, to these other
+- **[04:01](https://www.youtube.com/watch?v=blXMRxKJs5U&t=241s) · 他描述所见**：the slick hair. I hear the word Gaddafi, a removing of a tyrant to have revival within it. a disable it for for you'll see uh uh I see Putin coming to the aid of Venezuela. This will be this could be the a powder keg for greater escalation of war. You see, I'm seeing this. I see I see TNT.
+- **[08:00](https://www.youtube.com/watch?v=blXMRxKJs5U&t=480s) · 他描述所见**：be done with his turn. But for whatever reason, I saw America trying to have a regime change in Venezuela, trying to influence to to get rid of the man with the black hair slick back. I saw the same way they did Saddam, they they will try to do uh this man with the slick hair. Slick hair guy.
+- **[12:01](https://www.youtube.com/watch?v=blXMRxKJs5U&t=721s) · 本段原话**：the same thing of Little Kim. But he's crazy rocket man. And that's why they don't try to push him too much because he's a crazy rocket man. It's surrounding him and it's surrounding strategic allies concerning the bricks with China, Russia, North Korea, Iran, Venezuela, Cuba, the the the the unwanteds.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、战争与国际事务。 提到的地点：Cuba、China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=blXMRxKJs5U&t=0s) · 他描述所见**：And I saw Venezuela again. I saw battleships all around Venezuela. And the Lord said, "This is more than drug trafficking." He's trying to cause a front to cause a pause in the bricks system. So the the bricks like I told you was reaching out to Venezuela, to Cuba, to North Korea, to these other
+- **[00:46](https://www.youtube.com/watch?v=blXMRxKJs5U&t=46s) · 本段原话**：We're not going to let that happen." Right? Taking down this guy, trying to cause confusion in Venezuela, trying to do this. But it was a front trying to stop it to keep do the safe face of the dollar for this season as Russia and China and all these others were trying to reach out to Venezuela for the oil
+- **[01:24](https://www.youtube.com/watch?v=blXMRxKJs5U&t=84s) · 他描述所见**：strategic countries for the last four years and I saw Cuba and you'll hear this. I saw Venezuela I saw for the oil wealth in Venezuela. I saw the the a like a communist party rise up with Putin. I saw I saw them secretly meeting with with uh Egypt and a lot of the OPEC nations and China
+- **[03:28](https://www.youtube.com/watch?v=blXMRxKJs5U&t=208s) · 他描述所见**：Now, if it's his own government that does it, I don't know. Or if it's the United States, I don't know. But I saw a major re like a a revolution, like a a shaking coming to this nation. Trouble in Panama concerning the trafficking, the Panama Canal, drug trade routes. is concerning China. Venezuela, an
 
 ### 完整英文 Transcript
 
@@ -115,7 +131,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、物资、能源与供应链。 提到的地点：Cuba、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=blXMRxKJs5U&t=241s) · 他描述所见**：the slick hair. I hear the word Gaddafi, a removing of a tyrant to have revival within it. a disable it for for you'll see uh uh I see Putin coming to the aid of Venezuela. This will be this could be the a powder keg for greater escalation of war. You see, I'm seeing this. I see I see TNT.
+- **[04:59](https://www.youtube.com/watch?v=blXMRxKJs5U&t=299s) · 他描述所见**：There's bigger. It's about the oil. I hear oil. We must put a kink in the hose. I [snorts] hear we must put a kink in the hose. I see a kink in a water hose for strategic allies concerning Putin. And this is concerning a darkness upon Cuba for the electric grid. I see problems with the
+- **[06:07](https://www.youtube.com/watch?v=blXMRxKJs5U&t=367s) · 本段原话**：No, remember the Cuban missile crisis. Don't forget the Cuban Missile Crisis. Trump, Russia, old alliances, old friendships.
+- **[07:46](https://www.youtube.com/watch?v=blXMRxKJs5U&t=466s) · 本段原话**：That's what I keep hearing. But Russia will step in other nations, little Kim, because they all have a plan. That's why I told you they're holding their cards waiting for Trump to
 
 ### 完整英文 Transcript
 
@@ -202,7 +225,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 物资、能源与供应链、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、预言、梦境与异象、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=blXMRxKJs5U&t=480s) · 他描述所见**：be done with his turn. But for whatever reason, I saw America trying to have a regime change in Venezuela, trying to influence to to get rid of the man with the black hair slick back. I saw the same way they did Saddam, they they will try to do uh this man with the slick hair. Slick hair guy.
+- **[08:24](https://www.youtube.com/watch?v=blXMRxKJs5U&t=504s) · 他描述所见**：Yeah. Nicholas Marulo. Yeah. Nicholas. I saw it'd be just like similar to uh Saddam. And it's oil, oil, oil, oil, oil. Remember that. Oil, oil, oil, oil, oil. He kept saying that. I heard in the spirit realm that many times. Oil, oil, oil, oil, oil. And it's to block them from joining the bricks
+- **[10:18](https://www.youtube.com/watch?v=blXMRxKJs5U&t=618s) · 他描述所见**：I saw his face, I saw Saddam. Does that make sense? Like they were like paired like twins. Like brothers, like twins, but they're not brothers. But that's the way they the the spirit. We must pray for Venezuela. An escalation of war is at the shore. keep our hand out of that.
+- **[11:24](https://www.youtube.com/watch?v=blXMRxKJs5U&t=684s) · 他描述所见**：I see massive I'm talking massive oil. Big money in oil is what I keep seeing right now. And and they're the they're the ones out in the like in the Gulf of America. You see the big oil oil rigs?
 
 ### 完整英文 Transcript
 
@@ -298,7 +328,11 @@
 <a id="section-04"></a>
 ## 04. 12:00–12:35 · 战争与国际事务
 
-**中文章节摘要**：本段涉及：战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=blXMRxKJs5U&t=721s) · 本段原话**：the same thing of Little Kim. But he's crazy rocket man. And that's why they don't try to push him too much because he's a crazy rocket man. It's surrounding him and it's surrounding strategic allies concerning the bricks with China, Russia, North Korea, Iran, Venezuela, Cuba, the the the the unwanteds.
 
 ### 完整英文 Transcript
 

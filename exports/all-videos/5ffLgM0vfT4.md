@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 287；**章节数**: 3；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -13,10 +13,25 @@
 - [02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-02)
 - [03. 08:00–11:05 · 教会、复兴与信仰、预言、梦境与异象](#section-03)
 
+## 全片概述与 Key Points
+
+全片共 3 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:03](https://www.youtube.com/watch?v=5ffLgM0vfT4&t=63s) · 他描述所见**：testing it. What do you feel about this? What do you feel about that? And I and I sit there and I went, "Oh my gosh, this is what the Holy Spirit was warning us about." Whenever I told you all, I saw the demon behind it looking like a um a face. And the more it became uh
+- **[04:18](https://www.youtube.com/watch?v=5ffLgM0vfT4&t=258s) · 本段原话**：It's going to cure cancers. It's going to cure all kinds of things that have been a a a plague to humanity for so long. But the very thing you embrace today, you'll push away tomorrow and it will take away your freedoms. It's going to take away your freedoms. I even told Braden, I said, "Isn't it amazing?
+- **[08:20](https://www.youtube.com/watch?v=5ffLgM0vfT4&t=500s) · 本段原话**：with Sodom and Gomorrah. He didn't realize within a 24-hour period that that judgment was coming to Sodom and Gomorrah. And the Lord warned me about uh the the earthquake and the volcano that's about to take place, all this stuff that's about to happen. Many people are not listening to the voice of the Lord because they become so lukewarm
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · AI、科技与监控、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：AI、科技与监控、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕AI、科技与监控、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:03](https://www.youtube.com/watch?v=5ffLgM0vfT4&t=63s) · 他描述所见**：testing it. What do you feel about this? What do you feel about that? And I and I sit there and I went, "Oh my gosh, this is what the Holy Spirit was warning us about." Whenever I told you all, I saw the demon behind it looking like a um a face. And the more it became uh
+- **[02:38](https://www.youtube.com/watch?v=5ffLgM0vfT4&t=158s) · 本段原话**：Do you all see how quick this is happening? It's like they just flipped the switch. And I told Braden, I said, "What has happened just in 2025 is is is an explosion of growth." So now people are going to start praying in tonesues. They all send, this is where I was going with
+- **[02:56](https://www.youtube.com/watch?v=5ffLgM0vfT4&t=176s) · 他描述所见**：this, they're all praying in tongues to this chat GPT asking this computer AI to interpret your tongues for you. The beast system with this big this demon face, this massive demon looking thing I saw behind it. It was all so demonic. I saw this demonic face and I saw a Nephleum technology. It was with fallen
+- **[03:32](https://www.youtube.com/watch?v=5ffLgM0vfT4&t=212s) · 他描述所见**：And then I see, well, we're going to pray to pray in tongues and have this AI uh interpret our tongues. So, you're getting your interpretation from a demon. It comes as an angel of light, folks. It's not going to come out as as spooky man, boogeyman. I'm the devil.
 
 ### 完整英文 Transcript
 
@@ -125,7 +140,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:18](https://www.youtube.com/watch?v=5ffLgM0vfT4&t=258s) · 本段原话**：It's going to cure cancers. It's going to cure all kinds of things that have been a a a plague to humanity for so long. But the very thing you embrace today, you'll push away tomorrow and it will take away your freedoms. It's going to take away your freedoms. I even told Braden, I said, "Isn't it amazing?
+- **[04:44](https://www.youtube.com/watch?v=5ffLgM0vfT4&t=284s) · 他描述所见**：I've told you this so many times. They're using AI technology to create a virus from the black plague. The black plague. And it's happening right now as we speak. And I said they will release this virus and it will wipe out millions, hundreds of millions of people in the day ahead. And I saw very dark
+- **[06:32](https://www.youtube.com/watch?v=5ffLgM0vfT4&t=392s) · 他进行祷告**：we see before we're taken out of here? That's the question you need to ask yourself today. How much are they going to shove down our throats to desensitize us to the things of the spirit? And right now, you can pray to a chat GPT and he'll tell you what you're praying in tonesues. It ain't the Holy Ghost
+- **[07:37](https://www.youtube.com/watch?v=5ffLgM0vfT4&t=457s) · 本段原话**：And I told you Satan will use this with cryptocurrency with uh with what's happening with uh the bozo across the way. I told you uh NBS, all these things come out as a hero. Everybody's going to come out a hero. It's all beautiful. and they're gonna a a spoonful of sugar helps the medicine go down, doesn't it?
 
 ### 完整英文 Transcript
 
@@ -238,7 +260,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:05 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:20](https://www.youtube.com/watch?v=5ffLgM0vfT4&t=500s) · 本段原话**：with Sodom and Gomorrah. He didn't realize within a 24-hour period that that judgment was coming to Sodom and Gomorrah. And the Lord warned me about uh the the earthquake and the volcano that's about to take place, all this stuff that's about to happen. Many people are not listening to the voice of the Lord because they become so lukewarm
+- **[09:14](https://www.youtube.com/watch?v=5ffLgM0vfT4&t=554s) · 他表达判断**：Folks, if you need a sword, get a sword. The Bible didn't say you couldn't carry a sword. If you Bible didn't say you can protect yourself. I'm just telling you all it's time to wake up. I believe in the Second Amendment. I believe in protecting my family. I believe in doing the things
+- **[10:30](https://www.youtube.com/watch?v=5ffLgM0vfT4&t=630s) · 他表达判断**：Does that make sense? But it took somebody with some with some oomph on the the beaches of Normandy to say, "We're going to take the land. Say what you want to, but I but I I think there's a lot of you that are watching me that don't need to be because you you are limp wristed and
+- **[10:49](https://www.youtube.com/watch?v=5ffLgM0vfT4&t=649s) · 他表达判断**：you're lukewarm. So, you should probably go watch some other prophet or some other watchman on there that's going to give you some tickly candy drop stuff for your ears because you're not going to get it on this channel. I'm going to tell you to get a backbone and and and and get out there and get ready because
 
 ### 完整英文 Transcript
 

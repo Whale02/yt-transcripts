@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1202；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 40:00–44:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-09)
 - [10. 45:00–48:10 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:58](https://www.youtube.com/watch?v=eBsTg-WimRc&t=118s) · 他表达判断**：We have a new covenant, Jesus's blood. And I believe she wasn't even operating underneath a new covenant. She was operating underneath the Abrahamic covenant. And I believe with all my heart that new covenant that Jesus paid the price for us that we're seated with him in the heavenlies far above all principalities and powers and might. And
+- **[11:05](https://www.youtube.com/watch?v=eBsTg-WimRc&t=665s) · 他描述所见**：write, it would write whatever I thought of in perfect calligraphy script as fast as I thought it. The nib seemed to just fly over the parchment with ease in my hand. It would write whatever the angel put in my mind from what I saw and heard to record and then it would describe
+- **[20:30](https://www.youtube.com/watch?v=eBsTg-WimRc&t=1230s) · 本段原话**：Yeshua then arose from the defense table. He wore a white robe with blue trim and a red red sleeves with a bottom border and neck border of red. He wore a small diadem of solid diamonds on as a crown. Once again when he stood up everyone bowed their heads before him to worship except those at the prosecution
+- **[25:20](https://www.youtube.com/watch?v=eBsTg-WimRc&t=1520s) · 本段原话**：overcoming bridal remnant church. Nevertheless, the birthing pains and judgments on the earth will not be stopped. Ha! Satan has the authority to rule over the tears of the earth, the wickedness and darkness by their willing consent according to the tent tenants of free will given to Adam's race at the beginning of creation. Both the tears
+- **[35:14](https://www.youtube.com/watch?v=eBsTg-WimRc&t=2114s) · 本段原话**：And they're going to come, you know, as labor pains come come upon a woman, they get closer and closer and closer as the baby's getting ready to be birthed, not further out, closer and closer together. So I know what the Lord has showed me that great great darkness as far as what you can
+- **[45:19](https://www.youtube.com/watch?v=eBsTg-WimRc&t=2719s) · 他进行祷告**：signs would follow us them that would believe. And we pray and we believe. We receive healing for our bodies, deliverance from all sickness and disease. We thank you, Lord, that their marriages are restored and their homes are happy again. Father, they would bring you in the found from the foundation and put a foundation of you
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:58](https://www.youtube.com/watch?v=eBsTg-WimRc&t=118s) · 他表达判断**：We have a new covenant, Jesus's blood. And I believe she wasn't even operating underneath a new covenant. She was operating underneath the Abrahamic covenant. And I believe with all my heart that new covenant that Jesus paid the price for us that we're seated with him in the heavenlies far above all principalities and powers and might. And
+- **[02:54](https://www.youtube.com/watch?v=eBsTg-WimRc&t=174s) · 本段原话**：even greater works still in 2024. Don't stop believing for the great manifestations and demonstrations of the glory. I'm telling you all the best is yet to come. And some people go, "Well, once you get to October, the year is over with. He didn't I didn't get what I was." No, no, no, no, no. Keep
+- **[03:34](https://www.youtube.com/watch?v=eBsTg-WimRc&t=214s) · 他进行祷告**：It says Jesus 2024. Yes. Make America pray again. Make America pray again. And you know we everybody's saying about uh Trump is going to save America. And I'm going to tell you this. I'll say it again. The only thing that's going to save America is an awakening unto God. for the churches to preach righteousness and
+- **[04:41](https://www.youtube.com/watch?v=eBsTg-WimRc&t=281s) · 他表达判断**：to what matters, teaching the fundamentals in church again. And I believe it with all my heart. That's what's going to save America. Not Trump, not not a a new Congress, not a new house, not a new whatever. I believe it's going to be an awakening unto God, a great revival.
 
 ### 完整英文 Transcript
 
@@ -159,7 +177,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:00](https://www.youtube.com/watch?v=eBsTg-WimRc&t=300s) · 本段原话**：of you all, if you are in the the Branson City area, the Branson, Missouri area, Sister Billy Brim is going to have a prayer conference from October the 16th to the 21st of October. And it's the fall time. It's going to be uh it's one of the best times of the year to be
+- **[06:18](https://www.youtube.com/watch?v=eBsTg-WimRc&t=378s) · 他描述所见**：In prayer. Mhm. And I believe it's a time like never before that we need to be praying for this nation and praying for our uh our officials, our our electoral our presidential candidates, whatever, and praying for them for a move of God for Trump for what I saw when he fell on his
+- **[08:09](https://www.youtube.com/watch?v=eBsTg-WimRc&t=489s) · 他表达判断**：It's worth reading again. Faith cometh by hearing and hearing and hearing and hearing. Not saying hearing having heard it once. It comes by hearing the word of God again. And I know this isn't a word, but this is a prophetic word. And so I believe uh it's good to listen to this again.
+- **[09:08](https://www.youtube.com/watch?v=eBsTg-WimRc&t=548s) · 本段原话**：Suddenly, a portal opened in the spirit realm, and my angel said to me, "You are summoned to come to the courtroom of heaven. You are to record the case being tried now so that God's people will know the lateness of the hour. You must warn them so that the bride may awaken and
 
 ### 完整英文 Transcript
 
@@ -296,7 +321,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[11:05](https://www.youtube.com/watch?v=eBsTg-WimRc&t=665s) · 他描述所见**：write, it would write whatever I thought of in perfect calligraphy script as fast as I thought it. The nib seemed to just fly over the parchment with ease in my hand. It would write whatever the angel put in my mind from what I saw and heard to record and then it would describe
+- **[11:35](https://www.youtube.com/watch?v=eBsTg-WimRc&t=695s) · 他描述所见**：I think this must have been heaven's way of court legal stenography. Most amazing of all, I was writing in Hebrew and I hardly knew the lang know the language at all. But somehow I understood and thought in fluent Hebrew during this vision. I cannot offer any explanation for this at all. The angel said, "You
+- **[13:25](https://www.youtube.com/watch?v=eBsTg-WimRc&t=805s) · 本段原话**：silk. Everyone finally assembled and a great and beautiful angel who presided over the courtroom named named Justice stood up. She seemed to tower over us and was about 20 ft tall. Then angels appeared with long trumpets on either side of the courtroom and sounded a fanfare that ended with a blast. The angel Justice then shouted with a very
+- **[14:27](https://www.youtube.com/watch?v=eBsTg-WimRc&t=867s) · 本段原话**：who was seated behind the holy bar. There were not nine judges but 12. God the father sat in the middle with six of the Supreme Court judges on both sides of him. I somehow knew he was the final deciding vote in every decision. After our praises finished, the angel justice, who I now saw was a lady and not a male
 
 ### 完整英文 Transcript
 
@@ -422,7 +454,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:40](https://www.youtube.com/watch?v=eBsTg-WimRc&t=940s) · 本段原话**：the father's right hand were Enoch, Father Abraham, Moses the lawgiver, David the King, Elisha the prophet, uh Elijah the prophet, and Daniel. On the father's right hand were John the Baptist, Peter, James, John, Andrew, and Paul the Apostle. I do not know whether these were the permanent judges of the Supreme Court of Heaven or not, but
+- **[16:46](https://www.youtube.com/watch?v=eBsTg-WimRc&t=1006s) · 他描述所见**：encircled him above and below that I saw a few times during this vision. I could not endure looking at him for more than a split second before I had to avert my eyes for the white blazing brightness was too intense. All the judges behind the great bar were emanating great light that was also nearly blinding. That is
+- **[18:43](https://www.youtube.com/watch?v=eBsTg-WimRc&t=1123s) · 本段原话**：There was silence in the courtroom for about a minute. Then Lady Justice spoke again. "You may sit down now." Finally, he did so with another sneering grunt. I marveled that he seemed human and actually very attractive to look at, although there was no heavenly light in him or around him. "The prosecution may
+- **[19:44](https://www.youtube.com/watch?v=eBsTg-WimRc&t=1184s) · 本段原话**：very well. Starting from Adam and Eve, he began accusing God of failing mankind in every generation. He started with this stipulation. Adam was given nearly 6,000 years to rule the earth. He gave that lease to me and I own it. I have the right to rule over every man, woman,
 
 ### 完整英文 Transcript
 
@@ -548,7 +587,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:30](https://www.youtube.com/watch?v=eBsTg-WimRc&t=1230s) · 本段原话**：Yeshua then arose from the defense table. He wore a white robe with blue trim and a red red sleeves with a bottom border and neck border of red. He wore a small diadem of solid diamonds on as a crown. Once again when he stood up everyone bowed their heads before him to worship except those at the prosecution
+- **[22:08](https://www.youtube.com/watch?v=eBsTg-WimRc&t=1328s) · 本段原话**：As he was speaking, Satan, the handsome man lawyer, was busy reading the scroll feverish feverishly to see if there was truly enough intercession to stop his immediate seizing of the earth and for the tribulation to begin. He was consulting his other diabolical lawyers about it. Foul language was coming out of his mouth along with hissing and
+- **[22:56](https://www.youtube.com/watch?v=eBsTg-WimRc&t=1376s) · 本段原话**：Look at China. Look at the Middle East. Look at Africa. Look at Indonesia. Look at South America. Look at the islands of the sea. Look at my p persecuted bride in all nations. Even America has held though all hell has been thrown against her. The facts speak for themselves. I have the authority to request for
+- **[24:49](https://www.youtube.com/watch?v=eBsTg-WimRc&t=1489s) · 本段原话**：Then it turned back to black ink again. After some deliberation, there was a vote. Every judge voted in favor of the saints to extend another time period of grace. I cannot disclose how long it is
 
 ### 完整英文 Transcript
 
@@ -679,7 +725,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:20](https://www.youtube.com/watch?v=eBsTg-WimRc&t=1520s) · 本段原话**：overcoming bridal remnant church. Nevertheless, the birthing pains and judgments on the earth will not be stopped. Ha! Satan has the authority to rule over the tears of the earth, the wickedness and darkness by their willing consent according to the tent tenants of free will given to Adam's race at the beginning of creation. Both the tears
+- **[27:39](https://www.youtube.com/watch?v=eBsTg-WimRc&t=1659s) · 本段原话**：Then the angel Lady Justice came forward and was blindfolded. She raised a large old-fashioned scale in her hands above her head. Into one of the bowls, a preciding angel poured a black like sand of powder from a brass earn. This tipped the scale all to all the way at the bottom as far as it could descend. This
+- **[28:46](https://www.youtube.com/watch?v=eBsTg-WimRc&t=1726s) · 本段原话**：Then there were mighty shouts of praise and victory in the courtroom. Then the father raised his golden scepter in his left hand and sla slammed his gavvel down accompanied by thunderclaps and lightning flashing everywhere with burst of rainbow colors shooting through the courtroom and said the time of grace shall be extended as petitioned by the
+- **[29:45](https://www.youtube.com/watch?v=eBsTg-WimRc&t=1785s) · 他描述所见**：other four four prophet reporters also signed their scrolls. I noticed that their scrolls were written in different earthly language. The most visible was in Chinese. Then the vision ended and I immediately went to my computer and typed what I saw and heard. Dearly beloved bride of Messiah, bride of
 
 ### 完整英文 Transcript
 
@@ -815,7 +868,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:11](https://www.youtube.com/watch?v=eBsTg-WimRc&t=1811s) · 本段原话**：Jesus is coming. Wow. This was this was um in my opinion, I mean that that that is so powerful. The visitation that this man had. I mean I I every time my wife reads that to me, I I I say, "My goodness, look where we are right now." This was back clear back in 2018. Mhm.
+- **[31:37](https://www.youtube.com/watch?v=eBsTg-WimRc&t=1897s) · 本段原话**：I don't know how long this time was given whenever he said there was a a blank space that he couldn't share whether that was seven years because usually God the Lord operates in sevenyear cycles a lot of times but whatever it may be we're out of time is running out and I and I want you all
+- **[33:29](https://www.youtube.com/watch?v=eBsTg-WimRc&t=2009s) · 他描述所见**：Not for what I saw. There's going to be a lot of people that can't. I mean, the people who are left, they they will be uh it's it's awful. It's awful. But it but I believe there's a rapture of the church that's about to take place. I believe there's a great harvest of
+- **[34:35](https://www.youtube.com/watch?v=eBsTg-WimRc&t=2075s) · 他表达判断**：It's going to be um soon. I believe it. You know, all I know is is right now what I'm doing is focusing on getting myself ready for it so that I'm a vessel that can be used in that time frame by prayer and fasting and seeking him, listening to him on a day-to-day basis, building
 
 ### 完整英文 Transcript
 
@@ -939,7 +999,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:14](https://www.youtube.com/watch?v=eBsTg-WimRc&t=2114s) · 本段原话**：And they're going to come, you know, as labor pains come come upon a woman, they get closer and closer and closer as the baby's getting ready to be birthed, not further out, closer and closer together. So I know what the Lord has showed me that great great darkness as far as what you can
+- **[36:42](https://www.youtube.com/watch?v=eBsTg-WimRc&t=2202s) · 他表达判断**：Whatever part you can do, God's going to take care of you. I believe it. But you've got to do your part. You got to put your boat into motion. You got to go to the place called there. Some of you need to relocate. Some of you need to be hearing him for where you need to be.
+- **[38:55](https://www.youtube.com/watch?v=eBsTg-WimRc&t=2335s) · 本段原话**：bibleelving church that teaches uncompromising word and and first priority. Reading your Bible every day, praying every day, and listening to teaching that teaches and stirs you up. What will inspire you? Like I told you, George Washington Carver, this book, things like that, books on healing, the the Isuza Street. Hey, I'm going to tell you
+- **[39:16](https://www.youtube.com/watch?v=eBsTg-WimRc&t=2356s) · 他表达判断**：all this, too. We're at at at uh Glorious Church Fellowship. They're having a healing revival with Nancy Drain. I believe it starts on October the 6th. If you are sick and you have an unccurable disease or something that is inside of you that you feel that you uh you need a little bit of extra faith
 
 ### 完整英文 Transcript
 
@@ -1078,7 +1145,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:01](https://www.youtube.com/watch?v=eBsTg-WimRc&t=2401s) · 他表达判断**：16th. Man, what a time to be in the body of Christ. And so Nancy Drain is coming on the 6th. The 10th, I believe, is 6 7 8 9 10. It's like a fiveday deal and uh it starts on a Sunday I believe and goes until like Thursday or Friday I believe. I don't
+- **[40:17](https://www.youtube.com/watch?v=eBsTg-WimRc&t=2417s) · 他表达判断**：know. But I'm just saying it's a healing service. She has morning services and night services to be submersed in God's word. Submersed in healing uh uh teaching and the anointing, laying hands on the sick, seeing them recover. And I believe with all my heart, if you're believing for your manifestation, whether it's a hangail or cancer,
+- **[41:20](https://www.youtube.com/watch?v=eBsTg-WimRc&t=2480s) · 本段原话**：that Jesus loves you. And yeah, we're in there's times of uh of of birthing pains, but great and mighty works are we going to do in these last days. It's time to be the salt. Wake up. Look up for your redemption draws nigh. It's it's a time to put a smile on your face
+- **[43:54](https://www.youtube.com/watch?v=eBsTg-WimRc&t=2634s) · 本段原话**：We're well. We're delivered by the power of the blood of Jesus and by the stripes that you took on your body. Lord, you said we're healed and whole and well from headaches to disease, from sickness, from brain cancers to brain tumors to to thyroid disease to to stomach disorders to bowel disorders to
 
 ### 完整英文 Transcript
 
@@ -1225,7 +1299,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–48:10 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:19](https://www.youtube.com/watch?v=eBsTg-WimRc&t=2719s) · 他进行祷告**：signs would follow us them that would believe. And we pray and we believe. We receive healing for our bodies, deliverance from all sickness and disease. We thank you, Lord, that their marriages are restored and their homes are happy again. Father, they would bring you in the found from the foundation and put a foundation of you
+- **[45:53](https://www.youtube.com/watch?v=eBsTg-WimRc&t=2753s) · 本段原话**：finances are blessed, blessed in the city, and the field coming in and going out. Father, they'll have more than enough to give to the kingdom of God and promote the gospel throughout the whole world. Not just about them, but Father, to help the about helping the church.
+- **[46:13](https://www.youtube.com/watch?v=eBsTg-WimRc&t=2773s) · 本段原话**：I thank you, Lord, that their their homes is full of joy. That they would give good measure pressed down, shaken together, and running over shall men give unto them, Father. That they would have some 30, some 60, and 100fold. And I thank you, Lord, that you'd bless their hands, Father, to do whatever you
+- **[47:44](https://www.youtube.com/watch?v=eBsTg-WimRc&t=2864s) · 本段原话**：Well, if you could like, subscribe to our channel. If you've not already subscribed, please subscribe. It helps us. God bless you all. And and click the notification bell. Click the like button. Comment down below. Something nice, please. something nice. God bless you all and put a smile on your face and a song in your heart. Jesus loves you
 
 ### 完整英文 Transcript
 

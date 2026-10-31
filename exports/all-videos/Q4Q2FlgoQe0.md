@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 575；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 教会、复兴与信仰](#section-07)
 - [08. 28:00–30:30 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:40](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=40s) · 他转述所听到的话**：breakthrough to your life and so I'm not and here I go in my prayer time I heard the spirit of the Lord say this to me a great financial shifting is about to take place he said my people have cried out to me Brandon and and they've stood and they've stood on the word they've given
+- **[04:00](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=240s) · 他描述所见**：okay I was caught up in the spirit and I saw these two men that were standing in the back row because of the revivals that are about to take place throughout America and the world and they were dressed up like women and they had pink hair and long eyelashes and the presence of God
+- **[12:00](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=720s) · 他描述所见**：going up in value I saw gold going up in value when the dollar is weakened okay people say when will this happen I'm not going to tell you a time frame of when it happens that's for you to pray about but I know this I'll tell you this when you see the the the the the the
+- **[16:00](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=960s) · 本段原话**：this like the oh God there's a derailment of the train and it fell in the Ohio River oh God he goes that I knew that was gonna happen start seeking me for that before and start praying over it before you're behind we got to get ahead he said the devil Devil's right here and you're chasing
+- **[26:43](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=1603s) · 本段原话**：freedom lotion freedom oh say Monday night freedom in every area and every area of your life freedom in
+- **[28:04](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=1684s) · 本段原话**：healing over their bodies I call Deliverance over their bodies in the name of Jesus we call the fire of God to drive it out it is [Music] foreign
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:40](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=40s) · 他转述所听到的话**：breakthrough to your life and so I'm not and here I go in my prayer time I heard the spirit of the Lord say this to me a great financial shifting is about to take place he said my people have cried out to me Brandon and and they've stood and they've stood on the word they've given
+- **[01:59](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=119s) · 他描述所见**：direction for what he wants to do with your finances you'll have a breakthrough overnight like that I saw instantaneously some people will become millionaires within a 24-hour period God has a million and one ways to get you a million dollars he can turn your your your financial uh hardship on a dime do you understand he is The Great I
+- **[02:25](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=145s) · 本段原话**：Am he is llan the most high and he'll turn your finances around he'll turn sickness around he'll heal your bodies when the doctor said you were gonna die and you only had uh 24 hours to live or whatever he can turn it like that and you could be completely restored and back home and
+- **[03:09](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=189s) · 他描述所见**：and then the end will come there is a great harvest of souls he showed me that is coming I'm going to say this he said Brandon where sin abounds by Grace does much more abound he said there is I saw a tidal wave of a great grace explosion about to take place upon this planet
 
 ### 完整英文 Transcript
 
@@ -118,7 +136,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=240s) · 他描述所见**：okay I was caught up in the spirit and I saw these two men that were standing in the back row because of the revivals that are about to take place throughout America and the world and they were dressed up like women and they had pink hair and long eyelashes and the presence of God
+- **[04:43](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=283s) · 他描述所见**：God I saw this in the spirit and he started taking off his fake eyelashes and removing his hair and his friend was standing next to him and the spirit wasn't really he didn't feel anything he didn't really do anything but the man that had the pink hair that was there he was really tall he's about six six three
+- **[05:32](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=332s) · 本段原话**：it's an oozing Grace that is so um not hell firing Brimstone you better repent you're all going to hell but it was a it was a tidal wave of the glory and the love of our father upon this this world one last time saying I love you I love you it's not a
+- **[06:28](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=388s) · 他描述所见**：because it really deep inside I thought that this was going to be a move of of like a harshness but it's going to be a move of Dad's love there's a great shakening about to happen before the great grace explosion okay of this massive move I saw a shakening taking place it's shaking the
 
 ### 完整英文 Transcript
 
@@ -211,7 +236,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 经济、银行与市场、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：经济、银行与市场、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕经济、银行与市场、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:43](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=523s) · 他描述所见**：like it's a final push that's what I'm trying to say okay now I saw a financial wave a financial push right before this stuff starts to happen it's almost like they go like a domino together okay it will be a a financial push of a tidal wave of blessing kind of like the
+- **[09:33](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=573s) · 他描述所见**：God's going to use it the gold and the silver are his and he's bringing forth the Harvest of the things that you've been believing for and I heard him say this I'm bringing I'm bringing a financial push for my people Brendan I'm bringing it and so this is what I saw and this is the disclaimer I you pray
+- **[09:54](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=594s) · 他描述所见**：about this I saw kryptos going up extremely in the near future like like like overnight okay you'll you'll go to bed like I said uh broke and you'll wake blessed that's how that's how it's gonna happen and I'm telling you this it's computer systems okay and he told me what is coming is like the.com era whenever Bill
+- **[11:21](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=681s) · 他描述所见**：and he gave me a flash in my vision of one of those cryptocurrencies he shows them to me but I'm telling you there's a financial wave coming for his body okay I saw property values skyrocketing High I saw things about gold and silver okay the the the the the for bartering for what's coming bartering little dimes
 
 ### 完整英文 Transcript
 
@@ -307,7 +339,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、经济、银行与市场。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=720s) · 他描述所见**：going up in value I saw gold going up in value when the dollar is weakened okay people say when will this happen I'm not going to tell you a time frame of when it happens that's for you to pray about but I know this I'll tell you this when you see the the the the the the
+- **[13:15](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=795s) · 他进行祷告**：um attacks things like that for this war nothing nothing really serious about that it was like like I said little pulses the thing about Poland serious and so I am I go on these spiritual uh things like a clock with the Lord and I pray over them because he leads me and he shows me the
+- **[14:03](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=843s) · 本段原话**：finances for the body of Christ and it's gonna be ability your responsibility to hear him on what you need to do for your family water food [Music] um electricity um toiletries beans rice whatever chickens you need to you you all need you all need to know
+- **[14:32](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=872s) · 他讨论新闻或报道**：okay I'm not going to preach fear but there is a great shaking in coming and if you're listening you'll get your stuff paid off if you're listening you won't be in lack when the drama happens you're gonna be ahead of it this is really interesting right here I used to be a real big News Junkie you
 
 ### 完整英文 Transcript
 
@@ -401,7 +440,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=960s) · 本段原话**：this like the oh God there's a derailment of the train and it fell in the Ohio River oh God he goes that I knew that was gonna happen start seeking me for that before and start praying over it before you're behind we got to get ahead he said the devil Devil's right here and you're chasing
+- **[17:21](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=1041s) · 本段原话**：real with you do you understand how long is this video son 27 minutes man it's getting too long I talk too long y'all I gotta uh I gotta make it short because people their attention spans not very long they're used to 30 minute services at church and they're used to not having somebody
+- **[17:42](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=1062s) · 本段原话**：ramble too long and they they go wow at 30 minutes and 30 and 10 minutes of worship 10 30 minutes of church and we're out of here and and things are going to change real quick uh I've got so much inside of me to tell you and I have these little moments I can do it in the morning
+- **[19:25](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=1165s) · 本段原话**：I'm needing some change you know or whatever he knows I'm complaining in my heart but I don't try to be disrespectful I just bear with him say I'm hurting inside I'm sad that person really hurt my feelings I'm really grieved and and and the Lord will come to you and I know you know and and I and I talked to him
 
 ### 完整英文 Transcript
 
@@ -511,7 +557,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=1200s) · 本段原话**：everything and the Lord showed some things to me after I got off I won't say gone off the phone when I was looking at my phone he spoke to me about her this young girl because she said I'm dealing with some addictions I need help and and and I'm not going to embarrass her uh
+- **[20:15](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=1215s) · 本段原话**：but the Lord showed me some things and and it wasn't totally truthful some of the things that she would show me she's dealing with a lot more addictions than what she was saying she was dealing with and um the Lord wanted to say it wants to set her free he told me he he it jumped off of me to
+- **[20:44](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=1244s) · 他描述所见**：I'm talking about it's nobody's business she knows who I'm talking to but honey the Lord wants you free and he don't want you bound No More by what you've been dealing with okay you know what I'm talking about I saw and the Lord wants it wants you to be delivered from that stuff okay
+- **[21:49](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=1309s) · 他描述所见**：hon close those doors and don't go back into that because he'll try to bring more back on you don't don't don't don't don't go back in there and water in that and you stop reading that stuff you've been reading okay I saw some Darkness you doing you need to stop that you're opening the doors
 
 ### 完整英文 Transcript
 
@@ -593,7 +646,13 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[26:43](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=1603s) · 本段原话**：freedom lotion freedom oh say Monday night freedom in every area and every area of your life freedom in
+- **[27:15](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=1635s) · 他进行祷告**：your bodies freedom in your minds freedom in your soul freedom deliverance from those things we take authority over those things in Jesus name addiction to cigarettes addiction to alcohol addiction to pornography I speak to those things to leave your body right now in the name of Jesus being free For Whom the sun is set free is free
+- **[27:43](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=1663s) · 他进行祷告**：indeed release their bodies release their minds release their emotions now in Jesus name
 
 ### 完整英文 Transcript
 
@@ -633,7 +692,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–30:30 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:04](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=1684s) · 本段原话**：healing over their bodies I call Deliverance over their bodies in the name of Jesus we call the fire of God to drive it out it is [Music] foreign
+- **[29:32](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=1772s) · 他表达判断**：of what I just prayed I believe for the for the revelation of what I just prayed I call forth a revelation in my spirit thank you Lord that you show me what I prayed in tongues today and I believe I receive it right now everything I prayed was a perfect prayer out of my spirit and I believe I receive
+- **[29:58](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=1798s) · 他进行祷告**：and I thank you Lord for everything that's coming to pass from it in the mighty name of Jesus now now I feel released to let this video go you all have a blessed and happy day filled with light filled with the glory of God and and cheer up hold your head up high Jesus is on the throne Jesus is
+- **[30:24](https://www.youtube.com/watch?v=Q4Q2FlgoQe0&t=1824s) · 本段原话**：King Jesus loves you and he sets You Free by the blood of the lamb and by the word of Our Testimony Hallelujah have a good day bye-bye
 
 ### 完整英文 Transcript
 

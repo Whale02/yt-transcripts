@@ -5,7 +5,7 @@
 **上传日期**: 20260926
 **源字幕行数**: 2700；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 130:00–142:59 · 教会、复兴与信仰、预言、梦境与异象](#section-11)
 - [12. 143:00–154:57 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[04:59](https://www.youtube.com/watch?v=P9652ejo9eA&t=299s) · 本段原话**：you honor what they've asked you to do. And so, I'm going to say this. If anything was to happen with Brandon Biggs on YouTube and uh I was to disappear over here, you can find me on X. You can find me on X. It's uh on Elon Musk site and uh I'll do live streams
+- **[28:46](https://www.youtube.com/watch?v=P9652ejo9eA&t=1726s) · 他描述所见**：I said 2028, remember? And I said, "This is what's going to be spun in the news." And I said JD will have to step down and they'll bring another one in because of they'll try to cause a scandal. And I saw this scandal major thing trying to take up up off all the media. And it's
+- **[53:45](https://www.youtube.com/watch?v=P9652ejo9eA&t=3225s) · 他描述所见**：I remember that. Yes. and I saw the the satellites and they had a new space race and I said this has to do with the Pope, France, the green train and uh the Canadians, the French Canadians and the Catholics.
+- **[92:48](https://www.youtube.com/watch?v=P9652ejo9eA&t=5568s) · 他描述所见**：Strange fires coming we that will deceive many strange fire. The strange fire and it will come out of the Latinos. It will come out of them out of out of out of this that that straight. It will come out of the Guatemala area. It's coming out of this witchcraft area. I see a
+- **[117:07](https://www.youtube.com/watch?v=P9652ejo9eA&t=7027s) · 他描述所见**：Oh, it's the same in England. I can see Big Ben. There's something. There's something. I see Big Ben very clear.
+- **[143:58](https://www.youtube.com/watch?v=P9652ejo9eA&t=8638s) · 本段原话**：Today, I denounce Satan. I denounce Muhammad. I denounce Buddha. I denounce any false gods. I denounce them. And I will not have anything to do with it anymore. I ask you to write my name in the lamb's book of life. I belong to you.
+
 <a id="section-01"></a>
 ## 01. 00:00–12:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:59](https://www.youtube.com/watch?v=P9652ejo9eA&t=299s) · 本段原话**：you honor what they've asked you to do. And so, I'm going to say this. If anything was to happen with Brandon Biggs on YouTube and uh I was to disappear over here, you can find me on X. You can find me on X. It's uh on Elon Musk site and uh I'll do live streams
+- **[06:09](https://www.youtube.com/watch?v=P9652ejo9eA&t=369s) · 他转述所听到的话**：a minute. I'm sorry. I should have already thought about it a little bit more, but I'm going to but we're going to pray over things and we're going to pray over the weather. And so, um, you know, whenever I told you that the Lord said in 2020, uh, 2026, come fall time and especially in 2028,
+- **[08:05](https://www.youtube.com/watch?v=P9652ejo9eA&t=485s) · 他描述所见**：said to go high instead of to go low. that they would try to keep him stirred up, to make him look very unprofessional as our president, as our leader, to try to derail his presidency by certain uh media groups and and so on and so on because it it as I saw these
+- **[09:43](https://www.youtube.com/watch?v=P9652ejo9eA&t=583s) · 他描述所见**：they were discouraged. They let go of the lifeline concerning what they were believing for making America great, making America strong, making America this new uh vision that they were presented back in 2024.
 
 ### 完整英文 Transcript
 
@@ -254,7 +272,14 @@
 <a id="section-02"></a>
 ## 02. 13:00–25:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、经济、银行与市场。 提到的地点：Canada、Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[14:40](https://www.youtube.com/watch?v=P9652ejo9eA&t=880s) · 他描述所见**：So, I want to show you last night at a table the man I saw. And as we were praying, I was uh seeing um this man joining back up with this man and it was with the other one. But I said it wasn't Trump, it was JD. And I said I said this man is going to come
+- **[22:40](https://www.youtube.com/watch?v=P9652ejo9eA&t=1360s) · 他描述所见**：Diesel's high. They're wanting to have a strike on the first. It's still a distraction for the election. And I said, "We must pray for Georgia. We must pray for Texas." And I even saw the counties that were turning purple. And I told you what I saw last night.
+- **[23:32](https://www.youtube.com/watch?v=P9652ejo9eA&t=1412s) · 他描述所见**：And I saw safe havens and I saw the rich fleeing to do certain things because of because of a waterfall edge. And you said a golden age of electronics, a golden age of of of crypto, a golden age. And I said, "Watch Elon Musk." I said, "Watch Elon Musk." I said, "For the there's there's a there is something
+- **[25:38](https://www.youtube.com/watch?v=P9652ejo9eA&t=1538s) · 他进行祷告**：And so, um we pray for our president. I pray for him more than I ever have. pray for for him to have wisdom to take no counsel from the ungodly not to accept 30 pieces of silver the one 30 pieces of silver and become a Judas
 
 ### 完整英文 Transcript
 
@@ -541,7 +566,14 @@
 <a id="section-03"></a>
 ## 03. 26:00–38:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 提到的地点：Texas、Oklahoma、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:46](https://www.youtube.com/watch?v=P9652ejo9eA&t=1726s) · 他描述所见**：I said 2028, remember? And I said, "This is what's going to be spun in the news." And I said JD will have to step down and they'll bring another one in because of they'll try to cause a scandal. And I saw this scandal major thing trying to take up up off all the media. And it's
+- **[30:09](https://www.youtube.com/watch?v=P9652ejo9eA&t=1809s) · 他描述所见**：House I see strong, but the Senate not. And they'll try to impeach him, but they will fail. And I said, "Then it it's not about 2026. It's about 2028." I've said it over and over and over and over. This is about 2028. I'm looking into the future. Well, people go, "Well, we're here. We're out of here. We're rapture
+- **[32:42](https://www.youtube.com/watch?v=P9652ejo9eA&t=1962s) · 本段原话**：So, we have a rain event and a low pressure system with the hurricane polo is going to merge. They saying it's going to go right over Texas panhandle, Texas up by Amarillo and go right over the state of Oklahoma, Kansas. And they're saying some places up to nine inches of rain.
+- **[36:49](https://www.youtube.com/watch?v=P9652ejo9eA&t=2209s) · 他进行祷告**：So we pray for President Trump to be strong. We pray for his heart to not uh get weary and welloing. We pray for his mind to stay strong as an elder. He's 80 years old. He's doing it. He's I mean most young people couldn't do what he does on a on a on a on a good day. I
 
 ### 完整英文 Transcript
 
@@ -849,7 +881,14 @@
 <a id="section-04"></a>
 ## 04. 39:00–51:59 · 祷告、敬拜与现场互动、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、地震、风暴与灾害、预言、梦境与异象。 提到的地点：Oklahoma、Texas、Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、地震、风暴与灾害展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:19](https://www.youtube.com/watch?v=P9652ejo9eA&t=2419s) · 本段原话**：election day. Tictton is also the attorney for convicted election denier Tina Peters out of Colorado. Her sentence was commuted by Colorado Governor Jared Pus. Soon after her sentence was commuted, she met with President Trump at the White House. This is what Peter said about that meeting. There is a plan. Uh yesterday when I was with the president,
+- **[44:18](https://www.youtube.com/watch?v=P9652ejo9eA&t=2658s) · 本段原话**：There's Alaska. It's about what 3,500 miles away. pretty far up there that'll head towards Oklahoma. And at the same time as it comes into California, it's going to pull remnants of polo, that's a hurricane big time, category 5 hurricane into and across Mexico into Oklahoma, Kansas, and Texas. And you can see that
+- **[45:18](https://www.youtube.com/watch?v=P9652ejo9eA&t=2718s) · 本段原话**：not going to Vegas on this yet because it's a long ways away. As always, things will change, but the trend on many, many pieces of data that we look at still look really, really good for again next week. Now, this evening, the Lord's going on there 10:00. Okay, we talked about the weather.
+- **[49:30](https://www.youtube.com/watch?v=P9652ejo9eA&t=2970s) · 他表达判断**：I think that people who have not been paying attention would be quite surprised to find that Democrats are actually the favorite now to take back the United States Senate. And why do I say that? Just take a look here. 2026 Senate. This is a result. If the results in fact match the polls, now of course
 
 ### 完整英文 Transcript
 
@@ -1177,7 +1216,14 @@
 <a id="section-05"></a>
 ## 05. 52:00–64:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、预言、梦境与异象。 提到的地点：Cuba、France、Russia、Ukraine。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[53:45](https://www.youtube.com/watch?v=P9652ejo9eA&t=3225s) · 他描述所见**：I remember that. Yes. and I saw the the satellites and they had a new space race and I said this has to do with the Pope, France, the green train and uh the Canadians, the French Canadians and the Catholics.
+- **[58:30](https://www.youtube.com/watch?v=P9652ejo9eA&t=3510s) · 本段原话**：AI is certainly powerful enough to drive events uh that, you know, cause a billion deaths, you know. So, even though it's pretty hard to get to 100%. There's never been a weapon as powerful as the combination of people with ill intent uh using the the latest AI tools.
+- **[60:20](https://www.youtube.com/watch?v=P9652ejo9eA&t=3620s) · 他描述所见**：But that's interesting, isn't it? US military laying groundwork for potential action. And I say it happens in the middle of the night in the still of the night. It happens. And they wake up and and and and the it there's a submarine and all the things that I've told you I saw by the spirit and and it happens
+- **[62:28](https://www.youtube.com/watch?v=P9652ejo9eA&t=3748s) · 本段原话**：Thank you, Father, that we have the victory. We have the victory that we call oursel blessed. We call oursel healed. We call our minds restored and no mental torments of any kind. Thank you, Father, that the angels of the Lord are camped around and about us, Father. That they bear us up in their hands lest we dash
 
 ### 完整英文 Transcript
 
@@ -1481,7 +1527,14 @@
 <a id="section-06"></a>
 ## 06. 65:00–77:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：Iran、Cuba、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[65:25](https://www.youtube.com/watch?v=P9652ejo9eA&t=3925s) · 他描述所见**：concerning this. Not here physically but I call that I see like a hotness concern hot in the what I'm calling hot what I'm consider it's it's it it is it's things are warming up much chatter much chatter concerning Cuba It's war games. War games. Tactics of
+- **[66:56](https://www.youtube.com/watch?v=P9652ejo9eA&t=4016s) · 他描述所见**：I see a Cuban man and he has been crying out for liberation for the people. He's been crying out for for for deliverance for the people of Cuba. I can even tell you where he lives. I see the area in the island.
+- **[71:26](https://www.youtube.com/watch?v=P9652ejo9eA&t=4286s) · 他描述所见**：They'll know it by the blood. They'll know it's him only because of the blood because I see it burn. His his body is charred.
+- **[73:29](https://www.youtube.com/watch?v=P9652ejo9eA&t=4409s) · 他描述所见**：Torture. What I told you when I saw the IVs and I saw the the this the soldiers the brainwashing of the men when when I saw Denzel Washington's face I see it again. And they and they and there's there's war crime there against humanity torture.
 
 ### 完整英文 Transcript
 
@@ -1659,7 +1712,14 @@
 <a id="section-07"></a>
 ## 07. 78:00–90:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、物资、能源与供应链。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[78:01](https://www.youtube.com/watch?v=P9652ejo9eA&t=4681s) · 他描述所见**：season and and there'll be and I even see him at the table and and I see him in our and Ukraine and open day and they'll they'll talk about the purple lavender and they'll talk about the purple lavender And they'll talk about the purple lavender.
+- **[81:02](https://www.youtube.com/watch?v=P9652ejo9eA&t=4862s) · 他描述所见**：I see a white smoke coming off of the oil. I see a white smoke coming off of the of the oil in Venezuela. I see it looks like a mushroom cloud concerning Venezuela.
+- **[83:33](https://www.youtube.com/watch?v=P9652ejo9eA&t=5013s) · 他描述所见**：out real and they're coming through the jungle looking area. They look like a green. It's a green area and they're and they're scouting things and I see I see a multan the multicon and these facilities and I see facilities of oil facilities and they want Ready
+- **[87:27](https://www.youtube.com/watch?v=P9652ejo9eA&t=5247s) · 他描述所见**：I sing praisees to your name. I see the I see the pyramids and I see I see the the the the the the where the Mayans and I see aliens. I see the aliens and I see them talking about it a lot of chatter concerning what's in the temples concerning what's in the for blood the
 
 ### 完整英文 Transcript
 
@@ -1828,7 +1888,14 @@
 <a id="section-08"></a>
 ## 08. 91:00–103:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、教会、复兴与信仰。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[92:48](https://www.youtube.com/watch?v=P9652ejo9eA&t=5568s) · 他描述所见**：Strange fires coming we that will deceive many strange fire. The strange fire and it will come out of the Latinos. It will come out of them out of out of out of this that that straight. It will come out of the Guatemala area. It's coming out of this witchcraft area. I see a
+- **[95:31](https://www.youtube.com/watch?v=P9652ejo9eA&t=5731s) · 他描述所见**：They're among us. And I see an eye and it's carve and I see this eye. It's eye that has that has carvings in it. A an eye that is carvings. an eye. It's a it's a it's it looks like it's in stone. And this eye is is uh the the pupil of the eye is
+- **[102:08](https://www.youtube.com/watch?v=P9652ejo9eA&t=6128s) · 他描述所见**：A fire a fire is int of a blue flame. A blue flame is coming and it's getting hotter and hotter and the church is going to get hotter and hotter. And I see the roots that were planted way down deep will grow forth very quickly. Now the the root I'm talking people that
+- **[103:44](https://www.youtube.com/watch?v=P9652ejo9eA&t=6224s) · 他描述所见**：This picture was in black and white and you took a pencil and you colored it right next to a building. And I see this this eraser. Somebody takes an eraser and they color in the next to the water next to the harbor and I see the Statue
 
 ### 完整英文 Transcript
 
@@ -2032,7 +2099,14 @@
 <a id="section-09"></a>
 ## 09. 104:00–116:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[106:18](https://www.youtube.com/watch?v=P9652ejo9eA&t=6378s) · 他描述所见**：There's a very sad the there's gray all on the sky and I see gray and the clouds are gray and the darkness is on it and it looks like there but there's an eraser on the Billy and the eraser is erasing outside of this building and it's in a circle.
+- **[108:18](https://www.youtube.com/watch?v=P9652ejo9eA&t=6498s) · 他描述所见**：And I see the subways again. And I see I see I see those tunnels. And I see the subway. And I see the sub I see a grainness on the subway. I see a gr a darkness. I see a darkness on the subway. I see a grayness on the cars.
+- **[110:56](https://www.youtube.com/watch?v=P9652ejo9eA&t=6656s) · 他描述所见**：I see a triangle with a at the allseeing eye at the top of it. And I see a triangle and and it's over and it's over and it extends into New York and it attach the pyramid tries it attaches to Toronto and it goes and it and it goes and it goes like this and it goes from Toronto
+- **[116:14](https://www.youtube.com/watch?v=P9652ejo9eA&t=6974s) · 他描述所见**：And I see uh like a like fire trucks. And I see the fire trucks and they're and they're trying to uh figure out how to do it. I see I see like a like um like like like like a streams of water like I see What?
 
 ### 完整英文 Transcript
 
@@ -2187,7 +2261,14 @@
 <a id="section-10"></a>
 ## 10. 117:00–129:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[117:07](https://www.youtube.com/watch?v=P9652ejo9eA&t=7027s) · 他描述所见**：Oh, it's the same in England. I can see Big Ben. There's something. There's something. I see Big Ben very clear.
+- **[120:53](https://www.youtube.com/watch?v=P9652ejo9eA&t=7253s) · 他描述所见**：I see the colors of a monarch on it. But but it's dark. This is something very very evil.
+- **[124:14](https://www.youtube.com/watch?v=P9652ejo9eA&t=7454s) · 他描述所见**：Anganotan even when it comes to Christmas and Rockefeller and and and and and and I see the claws concerning uh Rockefeller and and I see the the tree and I see the Christmas and I see the claws.
+- **[128:06](https://www.youtube.com/watch?v=P9652ejo9eA&t=7686s) · 他描述所见**：Holy, holy, holy are you, Lord. He says, I'm bringing a fresh fragrance and I see what comes through this gold dust and it's a stream like an hourglass sand. Like the hour coming through an hourglass, the sand is trickling down on out of heaven and on the earth. And I see that the this this this gold dust.
 
 ### 完整英文 Transcript
 
@@ -2325,7 +2406,14 @@
 <a id="section-11"></a>
 ## 11. 130:00–142:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[131:31](https://www.youtube.com/watch?v=P9652ejo9eA&t=7891s) · 他描述所见**：The redeemed they worship you now. Holy, holy, holy are you, Lord. And they and then I see a a individual that has purple hair with uh and he's and has false eyelashes.
+- **[137:49](https://www.youtube.com/watch?v=P9652ejo9eA&t=8269s) · 他描述所见**：being removed, the sands of time and and I see these the it looks like a wave of gold dust and it's it's it's sands of time moving on on this dispensation and it we're being removed. the restraining force.
+- **[139:41](https://www.youtube.com/watch?v=P9652ejo9eA&t=8381s) · 他描述所见**：And I saw this this it looked like it looked like the wing of a monarch. And I don't know why, but I saw it. And the Lord said, "The restraining force is being removed." And he said, "And and the sand of time is coming to an end."
+- **[142:33](https://www.youtube.com/watch?v=P9652ejo9eA&t=8553s) · 本段原话**：your sins. He is faithful and just to forgive you of your sins and cleanse you of all unrighteousness. And you have to make Jesus Christ your Lord and personal savior. You can't serve Muhammad. You can't serve Buddha. You can't serve uh Satan. You can't serve there's no other false god. There's nothing. You must
 
 ### 完整英文 Transcript
 
@@ -2551,7 +2639,14 @@
 <a id="section-12"></a>
 ## 12. 143:00–154:57 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[143:58](https://www.youtube.com/watch?v=P9652ejo9eA&t=8638s) · 本段原话**：Today, I denounce Satan. I denounce Muhammad. I denounce Buddha. I denounce any false gods. I denounce them. And I will not have anything to do with it anymore. I ask you to write my name in the lamb's book of life. I belong to you.
+- **[146:42](https://www.youtube.com/watch?v=P9652ejo9eA&t=8802s) · 他进行祷告**：Don't keep pretending everything's okay. Fix me, Lord." And get in the word and read your Bible and pray and and and and go to church. Get radi and tell the pastor there. Say, "Listen, I want to be water baptized." Get water baptized. Get plugged into your local church. Get a radical church. Don't go to a lukewarm
+- **[152:01](https://www.youtube.com/watch?v=P9652ejo9eA&t=9121s) · 本段原话**：I'm going to believe it and I'm going to believe it and I'm gonna be a believing believer and I'm not a beggar. I'm an overcomer by the blood of the lamb. And every tongue that rises against me, I condemn it. It will not bear fruit in my life. No matter what they curse me with,
+- **[154:22](https://www.youtube.com/watch?v=P9652ejo9eA&t=9262s) · 他转述所听到的话**：And so we're in election year and the Lord told us persecution would come even greater in in 2028.
 
 ### 完整英文 Transcript
 

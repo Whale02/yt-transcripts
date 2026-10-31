@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1298；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 63:00–69:59 · 预言、梦境与异象、AI、科技与监控](#section-10)
 - [11. 70:00–72:00 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:05](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=5s) · 他描述所见**：Well, this video is going to be kind of different. I prayed with you all yesterday and and the Lord showed us uh uh 1 Corinthians 13 and he talked about love and I saw the glory and I saw the glory in those huge massive silos and they were opening up and they're pouring. I said, "What qualifies for the
+- **[14:11](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=851s) · 他描述所见**：I don't understand what for it tells many tales. What is the oak in America? What is it? And I see Benjamin Franklin. What is that?
+- **[28:01](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=1681s) · 他描述所见**：technology. And the Lord says, "Watch the acorn." And I see the acorn split in half and it's shoving in the hole of what this whirlpool of sucking the water. And Benjamin Franklin is flying this. But it all came out of electricity, a new way of industrial revolution. Does this make sense what I'm trying to tell you
+- **[43:51](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=2631s) · 本段原话**：Like, that's me trying to decipher and tell you what I'm seeing. And I I I don't know how how it all works, but AI is going to outsmart humans and it won't even think with humans anymore. And the information that it's producing is so much that the humans can't gra grasp all of it so fast because we're we're we're
+- **[57:15](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=3435s) · 他描述所见**：dangerous, very demonic, talking to demonic spirits in realms through witchcraft, but using it as modern science, through finding God particles and doing things. And I saw a flat line and you'll hear of all the galaxies of all the universes all the stuff together of it was on a line and I could see the manipulation.
+- **[70:18](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=4218s) · 本段原话**：and a half hours. And I told Braden, I said, "They ain't going to make it to this." I said, "Most of the people complain after an hour." So, I said, "If you if if they want to see the deeper thing of what God showed us, I have to make a whole new video for tomorrow."
+
 <a id="section-01"></a>
 ## 01. 00:00–06:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:05](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=5s) · 他描述所见**：Well, this video is going to be kind of different. I prayed with you all yesterday and and the Lord showed us uh uh 1 Corinthians 13 and he talked about love and I saw the glory and I saw the glory in those huge massive silos and they were opening up and they're pouring. I said, "What qualifies for the
+- **[02:38](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=158s) · 他描述所见**：about what I I see after prayer instead of, you know, talking about it now because you're not going to know what I'm talking about. But let's go right now to the prayer time. you pray with me and if you don't want to pray, you can fast forward to the end, I guess, and be
+- **[03:52](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=232s) · 本段原话**：you, Lord, that we're always filled with control by the Holy Ghost. And Father, I plead the blood over everybody's bodies, over all their flesh. And I thank you, Lord, that you've called them and chosen them for such a time as this, to be the mighty prayer army that goes and prays all the secret things and the
+- **[05:13](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=313s) · 本段原话**：thank you, Lord, that all sickness, all disease, nothing shall by any means hurt us. From the top of our head to the soles of our feet, Father, every tongue that rises against us, every witchcraft, every incantations, every chant, every voodoo, all of it, no weapon formed against us will prosper. We put a
 
 ### 完整英文 Transcript
 
@@ -202,7 +220,14 @@
 <a id="section-02"></a>
 ## 02. 07:00–13:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[07:04](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=424s) · 本段原话**：I was going to talk about today before I went to this video, let your fool fight for you. Like Pastor Billy says, let your fool fight for you. But we'll talk about that some other time. Let's go to the prayer time.
+- **[09:33](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=573s) · 他描述所见**：hangs onto the tree and then and the fruit of the acorns down? It was turned upside right and you could see the the top the bottom half of the acorn in the middle of the swirl. That's what I saw. Now, what does that mean? I have no idea. And it's about something. Okay, so most people
+- **[10:08](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=608s) · 他描述所见**：interesting oak trees I've oak trees I for vision oak trees now I see an acorn come out of the off the oak tree and come upside down and clog the the the the drain the drain and the swirl trying to suck the water down and going down and the acorn orn plugged the
+- **[11:31](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=691s) · 他描述所见**：Okay, I see a massive oak tree and it's standing on a hill. I see a massive oak tree and is standing on a hill and oh, and there is a great light in the distance and it's shining upon the oak tree. It's shining upon the oak tree upon this hill and in the middle of the
 
 ### 完整英文 Transcript
 
@@ -301,7 +326,14 @@
 <a id="section-03"></a>
 ## 03. 14:00–20:59 · 预言、梦境与异象、AI、科技与监控
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、AI、科技与监控展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[14:11](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=851s) · 他描述所见**：I don't understand what for it tells many tales. What is the oak in America? What is it? And I see Benjamin Franklin. What is that?
+- **[17:20](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=1040s) · 他描述所见**：Meto me and I'm birthing and unbirththing and I'm birthening and in the industrial revolution. Now I see trains. I see trains. I see a train. A big locomotive train. And it's black. It's a black train. No.
+- **[18:29](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=1109s) · 他描述所见**：key upon the kite. Is it brass? Is that brass? And the kite has a tail and there's there's like bow ties on the kite all the way down and it goes down. He's holding and I see Benjamin Franklin holding this kite could stay and he's standing next to the oak tree.
+- **[20:32](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=1232s) · 他描述所见**：They're holding this tree down. But but only has one big tap routt. I see the tap routt, but all these little ones just like fragments on the top of the surface holding this tree in. And they're and they're and they're this deep onto the surface. It's just getting started. It's just getting started. Do you hear? It's
 
 ### 完整英文 Transcript
 
@@ -403,7 +435,14 @@
 <a id="section-04"></a>
 ## 04. 21:00–27:59 · 预言、梦境与异象、AI、科技与监控
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、AI、科技与监控、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、AI、科技与监控展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[22:29](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=1349s) · 他描述所见**：AI. And the Lord says a new industrial revolution. And the roots are just so thin. They're so spin. And they're going to go deeper. And they're going to go deeper and deeper. But I see a storm within.
+- **[24:20](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=1460s) · 他描述所见**：I see the water circling. I see the water circling, but the but the acorn stopped the water from flowing and going down and draining all out. It was a it was a tornado. It was a tornado that turned into water and the and went into the water and it turned into a whirlpool
+- **[26:45](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=1605s) · 他描述所见**：Yeah. Now I see that plane again and it looks like an old B-52 like those old bombers. Those old from the from the World War II bombers. It but it but it looks This is interesting that the the plane actually is mirrored.
+- **[27:17](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=1637s) · 他描述所见**：[Music] It's the period of flight. I see hot air balloons. I see hot air balloons. I saw and as the hot air balloon was like rainbows and everything and it was above the sky and the oak trees right here and I see a hot air balloon and I see oil and I believe this is like the
 
 ### 完整英文 Transcript
 
@@ -508,7 +547,14 @@
 <a id="section-05"></a>
 ## 05. 28:00–34:59 · AI、科技与监控、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：AI、科技与监控、预言、梦境与异象、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕AI、科技与监控、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:01](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=1681s) · 他描述所见**：technology. And the Lord says, "Watch the acorn." And I see the acorn split in half and it's shoving in the hole of what this whirlpool of sucking the water. And Benjamin Franklin is flying this. But it all came out of electricity, a new way of industrial revolution. Does this make sense what I'm trying to tell you
+- **[28:24](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=1704s) · 他描述所见**：all? For a new era, a new time. You've only seen the beginning of this AI for AI will roots will grow deep. And now I see medical medical with AI and breakthrough scientific breakthrough from AI and cures cures for diseases that were unccurable through AI technology.
+- **[30:44](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=1844s) · 他描述所见**：fix problems. So much so the surface of problems with with diseases, cancers, diabetes, able to fix it just with its own mathematical with all the the depth of it. I see so much into this son and it is scary spooky stuff. That's all I'm going to just say.
+- **[33:34](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=2014s) · 本段原话**：energy that never dies. This is an energy that sustains and keeps going, making it possible to have at long distance flights without having to refuel. Planes, cars, things like that. A renewable clean energy. An industrial revolution. A new one. Follow the oak. Follow. I follow the oak. Follow the oak tree. The Lord. I hear the
 
 ### 完整英文 Transcript
 
@@ -638,7 +684,14 @@
 <a id="section-06"></a>
 ## 06. 35:00–41:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、AI、科技与监控。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:58](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=2158s) · 他描述所见**：I see the hydrogen collider and it there's there it's like it it it shows it's showing how the universes were formed. how the universe, the all of it, the galaxies, I see stars, I see I see the the pit of what they call the God particle. I see a God
+- **[38:29](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=2309s) · 他转述所听到的话**：technological advancements like we've never seen before. Now, I heard the word Nephim. It's fallen angel technology.
+- **[39:47](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=2387s) · 他描述所见**：I think this is done today. I don't want to talk anymore like this. I see some very dark things.
+- **[40:44](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=2444s) · 他描述所见**：And I see an oak tree cut and I could see, you know, the rings of life in an oak tree for each year, how those rings, growth rings. I could see that on the oak tree as it's almost like I can see the transparentness of if you cut a slice of the oak like this, like with a
 
 ### 完整英文 Transcript
 
@@ -739,7 +792,14 @@
 <a id="section-07"></a>
 ## 07. 42:00–48:59 · 物资、能源与供应链、AI、科技与监控
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、AI、科技与监控、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、AI、科技与监控展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[43:51](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=2631s) · 本段原话**：Like, that's me trying to decipher and tell you what I'm seeing. And I I I don't know how how it all works, but AI is going to outsmart humans and it won't even think with humans anymore. And the information that it's producing is so much that the humans can't gra grasp all of it so fast because we're we're we're
+- **[44:53](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=2693s) · 本段原话**：Everything we've known up until this point, trains like you showed, planes, air balloons, all this is about to change. A new way of thinking, a new way. And it's behind AI and oak tree and acorn. Now, what is that? Very, very interesting. Very interesting. Today, this prayer time. Okay, you're back. Now you're wondering what in the world was
+- **[46:33](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=2793s) · 他描述所见**：sudden I see an a humong this massive oak tree like like I would say 200 year old oak tree, 300 year old tree, massive oak tree. And these oak uh the o the the acorns on the tree were the size of massive they were they were ginormous acorns and it fell down into the uh
+- **[48:24](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=2904s) · 他描述所见**：Franklin and I could see his hair and it was in a like a ponytail twist like thing and it was down like a ponytail and he had a a a bow like a black thing in his hair and he had and it went down and then I saw saw his his spectacles.
 
 ### 完整英文 Transcript
 
@@ -892,7 +952,14 @@
 <a id="section-08"></a>
 ## 08. 49:00–55:59 · AI、科技与监控、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：AI、科技与监控、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕AI、科技与监控、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[49:14](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=2954s) · 他描述所见**：Then I saw an airplane and it was an old B-52 style like a like, you know, old 1950s, you know, World War II uh bomber plane, you know, like one of those old 1940s, 1930s, you know, whenever the World War II was going on. You could see the bomb, the bomber, but it was
+- **[50:45](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=3045s) · 他转述所听到的话**：by the tree a capital A lowercase I a I came into play in front of all of this um different means of transport transportation, different means of transportation, different ways to travel over this course of time, hot air balloons, all this stuff. And I heard a new industrial revolution is coming. It's birthing. And the Lord
+- **[52:59](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=3179s) · 本段原话**：demonic face. And AI started to to to be its own mind. All the questions, everything that everybody has always been asked, it feeds it asking. When you say chat GPT, uh what is the nearest star chatbt? It knew all the answers, but it kept it in a database. It kept everything that we've ever asked, medical questions. It
+- **[55:10](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=3310s) · 他描述所见**：computers computers like that are so smart that you you can't you it's too much data for a human mind to so they're trying to cipher through all the data that was being stored up and made all so quickly to how to solve problems. But this is even more amazing. I saw medical science. I saw doctors with white robes
 
 ### 完整英文 Transcript
 
@@ -1050,7 +1117,14 @@
 <a id="section-09"></a>
 ## 09. 56:00–62:59 · 预言、梦境与异象、AI、科技与监控
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、AI、科技与监控、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、AI、科技与监控展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[57:15](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=3435s) · 他描述所见**：dangerous, very demonic, talking to demonic spirits in realms through witchcraft, but using it as modern science, through finding God particles and doing things. And I saw a flat line and you'll hear of all the galaxies of all the universes all the stuff together of it was on a line and I could see the manipulation.
+- **[58:12](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=3492s) · 他描述所见**：again. What I saw was fossil fuels will be a thing of the past. I saw Elon Musk's face and he was like the like you would say the head kingpin. I could see his face and he was he it was nephleum thinking fallen angel technology that is as the days of Noah so will it be when the son of man
+- **[60:26](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=3626s) · 他描述所见**：not housed by uh metal but by plexiglass like a thick see-through thing that was hydrogen waterbased energy. They found through AI in that vision a way to harness water by it by by making energy that never uh is able to be run out. Planes that will never have to be refueled.
+- **[62:02](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=3722s) · 他描述所见**：Crypto is actually a a platform. It was a thin thread that people are so focused on right now, but it's it's it's it's 50 years behind. Like, it's old news compared to what they're getting in the new AI. the new stuff they're getting in the quantum computers and the stuff that I saw was so far out there and so out of
 
 ### 完整英文 Transcript
 
@@ -1200,7 +1274,14 @@
 <a id="section-10"></a>
 ## 10. 63:00–69:59 · 预言、梦境与异象、AI、科技与监控
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、AI、科技与监控、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、AI、科技与监控展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[63:34](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=3814s) · 他描述所见**：secret I believe. And the Lord showed me things in in military bases. And the Lord showed me deep things. I saw time travel. I don't know how through portals I through AI. I don't know how else to describe to y'all
+- **[64:43](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=3883s) · 他描述所见**：anymore. Oh, and behind the AI, I saw an oil Derek with three springs of oil coming off of it. That was behind whenever the industrial revolution using oil and making things happen through fossil fuels. But the new wave will be different from fossil fuels. I don't know if they'll ever make it public that
+- **[67:05](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=4025s) · 本段原话**：of my prayer time. things that I go this is so far out there that if I knew how to do it this is like this is bigger than the computer like bigger than Steve Jobs bigger than Apple equivalent to electricity. Uh yeah it was equivalent to electricity just because Benjamin Franklin was flying his kite and he it
+- **[69:38](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=4178s) · 本段原话**：Many people will be deceived by technology about the beast about about the 666, the mark of the be all the things that are coming at a freight train speed. But they have to desensitize you first so everybody will accept it. Hook, line, and sinker. It won't come out so quickly and they're going to just force it on you because
 
 ### 完整英文 Transcript
 
@@ -1369,7 +1450,14 @@
 <a id="section-11"></a>
 ## 11. 70:00–72:00 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[70:18](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=4218s) · 本段原话**：and a half hours. And I told Braden, I said, "They ain't going to make it to this." I said, "Most of the people complain after an hour." So, I said, "If you if if they want to see the deeper thing of what God showed us, I have to make a whole new video for tomorrow."
+- **[70:42](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=4242s) · 本段原话**：We're trying to reach a million people, a million men and women prayer army, praying for the nations, praying for the lost, believing for supernatural. That's what we believe here. We believe that Jesus Christ is a healer and he's healing the sick today. So, if you just believe by simple faith, Jesus will touch your body right where you are.
+- **[71:02](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=4262s) · 本段原话**：Well, if you could subscribe, subscribe. Click the notification bell. Click the thumbs up. Comment something nice below of what you thought about this video. If you didn't understand it, maybe I can answer it on the next uh video. I don't know. I still don't understand the acorn. I'm like, why the acorn? What is
+- **[71:18](https://www.youtube.com/watch?v=w00xXf4Lfg4&t=4278s) · 本段原话**：it about an acorn? But acorn was upside down in the water and and it blocked the flow of the water flowing out. What was that about? Tell me what you think that was about. And then the tree was fully was grown fully grown with hardly any roots and the Illuminati was in the
 
 ### 完整英文 Transcript
 

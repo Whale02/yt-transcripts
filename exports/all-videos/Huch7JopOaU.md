@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1333；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 60:00–65:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 66:00–68:46 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:33](https://www.youtube.com/watch?v=Huch7JopOaU&t=93s) · 他描述所见**：know that what what I have right now what I've seen in the spirit and what I what I saw a video back is another storm a major shaking to awaken is coming you all and after I stopped praying with you I prayed for at least another what was another hour at least praying into that CU I the spirit
+- **[12:50](https://www.youtube.com/watch?v=Huch7JopOaU&t=770s) · 他描述所见**：said Brandon I heard what you said about when I've I've prayed over this with you about the Harvest you said a financial CR trash will happen and then the Harvest you a plague will happen you will all these things but what brings the Harvest what is the trigger to the mechanism of the Harvest I saw a
+- **[24:16](https://www.youtube.com/watch?v=Huch7JopOaU&t=1456s) · 本段原话**：devil's crap package at our door we're not doing it we're not doing it we're not taking it we're healed and whole and well because you said it Lord you said it we're not taking as pack Lord we're not taking what the enemy has brought we're only taking what you've given us every good and perfect thing comes from
+- **[42:21](https://www.youtube.com/watch?v=Huch7JopOaU&t=2541s) · 本段原话**：over here it keeps you focused on me can't stay in vertical for many of you are not ready for this he says for the wealth for the transfer for what you call and you hear the prophetic voice say there are many of you that are not ready for this for that's why I have said only
+- **[54:49](https://www.youtube.com/watch?v=Huch7JopOaU&t=3289s) · 他描述所见**：you're not either you are or you're not the odor gives it away the odor gives it away odor stinks or it smells good it's a fragrance to the altar that that person is ready for what's about to take place and I saw many in this Vision just a second five five minutes ago I
+- **[66:04](https://www.youtube.com/watch?v=Huch7JopOaU&t=3964s) · 本段原话**：father I decrease father I decrease thank you for the opportunity today to worship you thank you for the opportunity to come boldly before you your presence is so sweet in your presence there's fullness of
+
 <a id="section-01"></a>
 ## 01. 00:00–05:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:33](https://www.youtube.com/watch?v=Huch7JopOaU&t=93s) · 他描述所见**：know that what what I have right now what I've seen in the spirit and what I what I saw a video back is another storm a major shaking to awaken is coming you all and after I stopped praying with you I prayed for at least another what was another hour at least praying into that CU I the spirit
+- **[01:58](https://www.youtube.com/watch?v=Huch7JopOaU&t=118s) · 他描述所见**：of intercession hit me so hard it was so heavy um I came in I went in I sat on the couch and I and I told that and and I started hearing prophetically about our life the Lord just started downloading again warning us of what's coming I saw a rectangle window before me in the
+- **[02:17](https://www.youtube.com/watch?v=Huch7JopOaU&t=137s) · 他描述所见**：spirit realm and the Lord told me there is going to be a window of blessing I'm telling you you can see it right now that what I saw about the economy crash is trying to manifest right in front of our faces but the Lord is saying if we would pray and seek his face he would give us
+- **[04:07](https://www.youtube.com/watch?v=Huch7JopOaU&t=247s) · 他描述所见**：people have no morals like like they did in the 30s some common sense and so I saw places again the Lord spoke about places of Refuge the Lord spoke about places of having water I saw great drought again I saw great manipulation with the weather again and I thought it was very interesting
 
 ### 完整英文 Transcript
 
@@ -176,7 +194,14 @@
 <a id="section-02"></a>
 ## 02. 06:00–11:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[07:02](https://www.youtube.com/watch?v=Huch7JopOaU&t=422s) · 他描述所见**：cover no I'm saying it as a Watchman seeing it and it's not I I see it but I refuse to fear it because I have peace and you know when it's the spirit of the Lord warning you about something versus the devil coming and tormenting you about something to tell you that which
+- **[08:15](https://www.youtube.com/watch?v=Huch7JopOaU&t=495s) · 本段原话**：you will prosper that's where we that's where we stay that we walk through the valley of the shadow of death but we will fear no evil regardless of the plague regardless of the pestilence and the Lord showed me he said ma Brandon America will be humbled that's not a word I want to tell
+- **[09:22](https://www.youtube.com/watch?v=Huch7JopOaU&t=562s) · 他描述所见**：there was a little red left there was a little red left but it was trying to turn black heart what does that mean I don't know I see it and I pray over it but it is alarming to me but all Hearts became it wasn't just one heart one person it was a vast
+- **[11:19](https://www.youtube.com/watch?v=Huch7JopOaU&t=679s) · 本段原话**：did not know that in a 24-hour period judgment was coming so God sent Angelic host to go and get lot and his family family out of that hell hole and he grabbed a hold of them out of intercessory prayer Abraham interceded in behalf of lot my point of what I'm saying that is
 
 ### 完整英文 Transcript
 
@@ -323,7 +348,14 @@
 <a id="section-03"></a>
 ## 03. 12:00–17:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:50](https://www.youtube.com/watch?v=Huch7JopOaU&t=770s) · 他描述所见**：said Brandon I heard what you said about when I've I've prayed over this with you about the Harvest you said a financial CR trash will happen and then the Harvest you a plague will happen you will all these things but what brings the Harvest what is the trigger to the mechanism of the Harvest I saw a
+- **[13:13](https://www.youtube.com/watch?v=Huch7JopOaU&t=793s) · 他描述所见**：financial crisis throughout the whole world I saw a plague I saw these things and I saw people running not be because what gets their attention what shakes them out of their sleep touching their money touching their touching their circumstances that's what shakes them out of it does that make sense and I saw
+- **[13:37](https://www.youtube.com/watch?v=Huch7JopOaU&t=817s) · 他描述所见**：another major attack Coming to America I saw great shakings I saw the Enemy Within again I saw Red Dawn again praying over that Red Dawn again experiences with a major uprising of these ants inside our country I don't know what what that is I keep seeing it so let's pray you know I'm I'm
+- **[15:02](https://www.youtube.com/watch?v=Huch7JopOaU&t=902s) · 他描述所见**：they didn't realize that he was talking to them so I'm not going to say everyone of's devil Whispers And they're and they're they're having satanic you know practice and they're talking to the devil face to face I don't know I saw him influencing these men with great wealth and the Lord told me you do not
 
 ### 完整英文 Transcript
 
@@ -481,7 +513,14 @@
 <a id="section-04"></a>
 ## 04. 18:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:39](https://www.youtube.com/watch?v=Huch7JopOaU&t=1119s) · 本段原话**：light we call the eyes of their understanding to be flooded with light they would have a a Damascus Road experience father a supernatural experience a shaking off their horse that they would understand that there's a God that loves them and that they would have a choice to serve the Lord Jesus Christ a a a decision
+- **[19:47](https://www.youtube.com/watch?v=Huch7JopOaU&t=1187s) · 本段原话**：and they would see the lies from the pit of Hell and they would know that Jesus Christ loves them and that it is a no-brainer to serve Jesus if is a no-brainer to serve the Lord Jesus Christ that it is something that is it is just like it is it's common sense that but they would be able to think
+- **[21:21](https://www.youtube.com/watch?v=Huch7JopOaU&t=1281s) · 他进行祷告**：pray in the spirit and I'm going to just go on over folks when we get in the river co co co Holy Spirit we yield oursel Holy Spirit
+- **[23:48](https://www.youtube.com/watch?v=Huch7JopOaU&t=1428s) · 他表达判断**：transgressions he was bruised for our iniquities the chastisement of our peace was upon him and with his Tripes we are healed do you you believe that I believe
 
 ### 完整英文 Transcript
 
@@ -592,7 +631,14 @@
 <a id="section-05"></a>
 ## 05. 24:00–29:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:16](https://www.youtube.com/watch?v=Huch7JopOaU&t=1456s) · 本段原话**：devil's crap package at our door we're not doing it we're not doing it we're not taking it we're healed and whole and well because you said it Lord you said it we're not taking as pack Lord we're not taking what the enemy has brought we're only taking what you've given us every good and perfect thing comes from
+- **[26:21](https://www.youtube.com/watch?v=Huch7JopOaU&t=1581s) · 本段原话**：[Music] he say it's a dance you don't rush to dance you don't rush to dance you don't rush the dance there's no hurry there's no hurry Pap it's a dance it's a dance he said it's a dance this is a dance dance one one one leads one follows one leads one follows he's leading we follow we he
+- **[27:28](https://www.youtube.com/watch?v=Huch7JopOaU&t=1648s) · 他描述所见**：it's a dance I see a dance I see the ballroom I see the dance as he leads we follow as he leads we follow don't be in a hurry just let it flow fore
+- **[29:17](https://www.youtube.com/watch?v=Huch7JopOaU&t=1757s) · 本段原话**：polite not rambunctious like a bull there's times for that there's time for that but intimacy intimacy intimacy is is is is gentle
 
 ### 完整英文 Transcript
 
@@ -663,7 +709,14 @@
 <a id="section-06"></a>
 ## 06. 30:00–35:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:34](https://www.youtube.com/watch?v=Huch7JopOaU&t=1834s) · 他进行祷告**：what I'm trying to tell you sense what I'm trying to tell you you pray into it but you're praying put it into into the eye it's like it's like an imagination is what I I say but it's the spirit but I say it's the only way I can describe it for some like you see your loved one's face
+- **[32:52](https://www.youtube.com/watch?v=Huch7JopOaU&t=1972s) · 他进行祷告**：that don't know this and they and they F and they they may be baptized in the Holy Ghost but they they pray over here here and they're praying over there but their thoughts are all but if you push in your spirit you pushing it you say it's like lifting weights we're all grabbing and we're pulling that rope and
+- **[33:08](https://www.youtube.com/watch?v=Huch7JopOaU&t=1988s) · 本段原话**：we're moving those stones we're moving them out of the way and we're we're making a highway we're cleaning the road we're making a road we're pulling the highway so that we can all drive on that road together does that make sense but we got to clear the debris out of the road we're clearing it out we're pushing
+- **[34:48](https://www.youtube.com/watch?v=Huch7JopOaU&t=2088s) · 本段原话**：seek ye first the kingdom and all these things will be added unto us seek ye first the kingdom we seek you Lord we push forth to your face he said don't he said turn it turn it turn it and turn it to my face turn it to my face turn it to my face seek my face oh I'm working in
 
 ### 完整英文 Transcript
 
@@ -781,7 +834,14 @@
 <a id="section-07"></a>
 ## 07. 36:00–41:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[37:37](https://www.youtube.com/watch?v=Huch7JopOaU&t=2257s) · 本段原话**：I will open the doors I will open the doors I will open the doors be beond the door beond the door beond the door Beyond the Door work through it work through it work through it [Music] [Applause]
+- **[39:50](https://www.youtube.com/watch?v=Huch7JopOaU&t=2390s) · 他描述所见**：seek me seek me he said seek me seek me and I will give all unto you I will give it all As I see that you can handle it as I see that you can handle it Oho Oho as you go from glory to glory some are you are bridled some are you can handle
+- **[40:09](https://www.youtube.com/watch?v=Huch7JopOaU&t=2409s) · 他描述所见**：it but there are many that can't there are many that can't so I wait and I watch and I wait and I watch as I see the heart that is after me as I see the heart that panth for the water book so does my soul longth after you I seek the face I seek the face of God and in the
+- **[41:24](https://www.youtube.com/watch?v=Huch7JopOaU&t=2484s) · 他描述所见**：then they seek him with a heart of money they're seek seing him for the heart of the money but he says but just lose yourself and me and when I see that you are dead a dead has an odor a dead has an odor but it's not an odor of stenches a dead is a fragrance of beauty to me
 
 ### 完整英文 Transcript
 
@@ -885,7 +945,14 @@
 <a id="section-08"></a>
 ## 08. 42:00–47:59 · 教会、复兴与信仰、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、地震、风暴与灾害、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、地震、风暴与灾害展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:21](https://www.youtube.com/watch?v=Huch7JopOaU&t=2541s) · 本段原话**：over here it keeps you focused on me can't stay in vertical for many of you are not ready for this he says for the wealth for the transfer for what you call and you hear the prophetic voice say there are many of you that are not ready for this for that's why I have said only
+- **[44:38](https://www.youtube.com/watch?v=Huch7JopOaU&t=2678s) · 他描述所见**：motives I hear him say the ulterior motive is not to fall in love with the King and to have relationship as a dance as a symphony flowing flowing flowing but with an ulterior motive if I it's it's a divided heart one foot in the world and one foot over here riding a fence and he sees I see it
+- **[46:38](https://www.youtube.com/watch?v=Huch7JopOaU&t=2798s) · 本段原话**：I follow I gotta go I want to go hurry oh no I don't want to be left behind I said there'll be five virgins and five that have their lamps full and five that were empty it's a process keeping your lamps full for what's about to take place hold back hold it back hold it back hold
+- **[47:38](https://www.youtube.com/watch?v=Huch7JopOaU&t=2858s) · 他转述所听到的话**：heart the very intent of the man I the Lord told me Isaiah 45 about the Hidden Treasures I just heard it I will give you Hidden Treasures riches stored in secret places so that you may know that I I am the Lord the god of Israel who summoned You by
 
 ### 完整英文 Transcript
 
@@ -1009,7 +1076,14 @@
 <a id="section-09"></a>
 ## 09. 48:00–53:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[49:53](https://www.youtube.com/watch?v=Huch7JopOaU&t=2993s) · 本段原话**：to happen where it's like well you have one foot in the world and one-footed with him like this on the fence either you're all in or you're not but really when it all comes down to it once you touch that hym once you have that one second all that Earthly stuff the cars the Ferraris the Lamborghinis
+- **[51:03](https://www.youtube.com/watch?v=Huch7JopOaU&t=3063s) · 本段原话**：is no other yeah read it again it's so beautiful that's it do you hear that that's exactly what he's saying yeah I you start at the beginning verse three I will give you Hidden Treasures riches stored in secret places so that you may know that I am the Lord the god of Israel who summons You by name for the
+- **[51:59](https://www.youtube.com/watch?v=Huch7JopOaU&t=3119s) · 本段原话**：bring prosperity and create disaster I the Lord do all these things you heavens above rain down my righteousness let this Cloud shower it down let the Earth open wide let salvation spring up let righteousness flourish what with it I the Lord have created it I love that it lines up exactly what he's saying I Am Lord he
+- **[53:41](https://www.youtube.com/watch?v=Huch7JopOaU&t=3221s) · 本段原话**：him or you're not having nothing at all and he said that's why he said that's why he said 1% they've lost themsel in me and it took the dance of the last how many years he's been raising up people the dance a symphony he leads we follow and you can
 
 ### 完整英文 Transcript
 
@@ -1148,7 +1222,14 @@
 <a id="section-10"></a>
 ## 10. 54:00–59:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[54:49](https://www.youtube.com/watch?v=Huch7JopOaU&t=3289s) · 他描述所见**：you're not either you are or you're not the odor gives it away the odor gives it away odor stinks or it smells good it's a fragrance to the altar that that person is ready for what's about to take place and I saw many in this Vision just a second five five minutes ago I
+- **[56:01](https://www.youtube.com/watch?v=Huch7JopOaU&t=3361s) · 他描述所见**：give them nuggets they were the main Distributors because they were always in the whole process of giving these gold nuggets out they had their eyes him and their face was glowing with him because their eyes never looked at the people they were always looking at him they were always in this Vision that
+- **[57:02](https://www.youtube.com/watch?v=Huch7JopOaU&t=3422s) · 他描述所见**：self in him as their face was turned toward the Father the glory of these look like goldl looking bread nuggets were rolling down their gowns and they were helping feed the people below not that they were any better they were just they were focused on him they were lost in him it was beautiful truly cuz I saw
+- **[59:19](https://www.youtube.com/watch?v=Huch7JopOaU&t=3559s) · 他描述所见**：saying he's it's it's maintaining of a relationship with him all day long be being filled with the Holy Ghost so glory to God I pray this video blessed you all today that was uh that was amazing I I I appreciate the vision the Lord showed me God we give you praise and glory for opening my eyes today to
 
 ### 完整英文 Transcript
 
@@ -1294,7 +1375,14 @@
 <a id="section-11"></a>
 ## 11. 60:00–65:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[61:09](https://www.youtube.com/watch?v=Huch7JopOaU&t=3669s) · 本段原话**：money but God we want it for your kingdom to help you whatever you need Lord whatever you desire whatever you desire we lose oursel Into You You Lead we will follow glory to God I feel the presence of of the Lord so strong it's such a sweetness we love the father he's good isn't Jesus
+- **[62:44](https://www.youtube.com/watch?v=Huch7JopOaU&t=3764s) · 他进行祷告**：us but it's camera I just thought wow Treasures Treasures Treasures that will change you if you apply them to your life so well we bless you all we do we thank you for joining us God bless you we pray this blessed you as much as it blessed us trust me I'm going to apply it uh put
+- **[63:51](https://www.youtube.com/watch?v=Huch7JopOaU&t=3831s) · 他表达判断**：that Jesus Christ is coming and that he's coming back for a glory his church without spot or wrinkle and I believe you're one of them you're part of the remnant you're here for such a time as this to pray with us to seek Jesus's face and he said that those that seek Him will find him and I believe that's
+- **[65:05](https://www.youtube.com/watch?v=Huch7JopOaU&t=3905s) · 本段原话**：you're dancing we're dancing Lord oh Father we see the glory I keep my eyes on you and I'll be that funnel we be that funnel father letting that stuff fall down on the people not that they're not anything better but father father I want to be a person that is able to be used by you we always
 
 ### 完整英文 Transcript
 
@@ -1430,7 +1518,14 @@
 <a id="section-12"></a>
 ## 12. 66:00–68:46 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[66:04](https://www.youtube.com/watch?v=Huch7JopOaU&t=3964s) · 本段原话**：father I decrease father I decrease thank you for the opportunity today to worship you thank you for the opportunity to come boldly before you your presence is so sweet in your presence there's fullness of
+- **[66:36](https://www.youtube.com/watch?v=Huch7JopOaU&t=3996s) · 本段原话**：joy in your presence there's fullness of Peace everything that we ever need is at that Throne thank you Father sitting at your feet in the Pres Presence of Jehovah God Almighty Prince of
+- **[67:07](https://www.youtube.com/watch?v=Huch7JopOaU&t=4027s) · 本段原话**：Peace troubles vanish hearts are mended in the presence of the king we worship you father glory to God if I could just sit with you a
+- **[68:25](https://www.youtube.com/watch?v=Huch7JopOaU&t=4105s) · 他进行祷告**：well we bless you today we bless you thank you for joining us we'll see you again tomorrow and we'll pray through some other stuff as we seek him we will find him we'll put a smile on your face and a song in your heart Jesus loves you so much and we love you God bless you all
 
 ### 完整英文 Transcript
 

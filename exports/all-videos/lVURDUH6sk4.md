@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 940；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 - [10. 36:00–37:50 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=lVURDUH6sk4&t=0s) · 本段原话**：Hey, good morning family. Well, I'm going to talk to you all about the time whenever Jesus woke me up in the middle of the night and uh and uh wanted and ministered to me. Um this was October or yeah, it was around October or so of 2014. And um this experience forever changed my life. And I and I just feel
+- **[08:01](https://www.youtube.com/watch?v=lVURDUH6sk4&t=481s) · 本段原话**：because I didn't want them speaking out of their mouth because life and death is in the power of your tongue and I didn't want anybody saying it. So I got off real flaky about it. So I wouldn't even let nobody talk about I and I and I knew there was a serious issue of my kid
+- **[16:01](https://www.youtube.com/watch?v=lVURDUH6sk4&t=961s) · 他表达判断**：day, one of those big princess dresses. We tried to put one of those night gowns on her. So, she would walk around with a night gown on. And it took us, I think, another year or so before we got her there. And it was like all this time was pressure, pressure, pressure. And it and
+- **[20:32](https://www.youtube.com/watch?v=lVURDUH6sk4&t=1232s) · 本段原话**：And I'm telling you, don't give up on on what you believing for because those circumstances and that pain is what's going to help you to help somebody else that's walked through the pain that's walking through it right now. You'll be able to minister to somebody and have compassion on them when somebody else
+- **[28:00](https://www.youtube.com/watch?v=lVURDUH6sk4&t=1680s) · 本段原话**：same God that healed the sick back then is healing the sick today. And you cannot give up on what you're believing for. Do not give up on your unsaved loved ones. Do not give up on your on your your unhealed ones that don't have the full manifestation of what they're believing for. And some people say,
+- **[36:01](https://www.youtube.com/watch?v=lVURDUH6sk4&t=2161s) · 本段原话**：y'all is being rejoicing. And again, I say rejoice. Rejoice in the Lord always and again I say rejoice. Rejoice. God is faithful and he's able to do exceedingly abundantly above all that you dare ask or think. Well, if you like this video today, I know it was kind of a different one, but I but I but I felt it was on my
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=lVURDUH6sk4&t=0s) · 本段原话**：Hey, good morning family. Well, I'm going to talk to you all about the time whenever Jesus woke me up in the middle of the night and uh and uh wanted and ministered to me. Um this was October or yeah, it was around October or so of 2014. And um this experience forever changed my life. And I and I just feel
+- **[01:07](https://www.youtube.com/watch?v=lVURDUH6sk4&t=67s) · 他描述所见**：And I wake up and I looked over and Jesus was standing in my room. I And and most people will say, "Was this a vision?" No, this was not a vision. This was real. I'm talking he manifested in my house. And this was one of the only I've only had like two times that I've
+- **[01:24](https://www.youtube.com/watch?v=lVURDUH6sk4&t=84s) · 他描述所见**：it's not been a v open vision that I'm seeing Jesus. This was a face-to-face experience that I had with him touching my shoulder and waking me up out of my sleep. And I and it startled me so much when this happened that there was a man because I didn't rec recognize at the
+- **[03:34](https://www.youtube.com/watch?v=lVURDUH6sk4&t=214s) · 本段原话**：looked at him. I'm like, cuz I'm this is all just happening so fast because I'm just waking up out of asleep and the this is shocking me so much inside, you know, of anybody. I mean, I'm just saying if anybody was experiencing it would it would mess with anybody. Trust trust me. Jesus is standing there and
 
 ### 完整英文 Transcript
 
@@ -132,7 +150,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:19](https://www.youtube.com/watch?v=lVURDUH6sk4&t=259s) · 本段原话**：And I went and I was and we all of a sudden when I jumped inside of that hole, I was taken to the past and he was standing there and I was standing at a hospital where my wife and I uh we had our our daughter Megan and he said, "Brandon," he said, "I'm giving you a
+- **[05:48](https://www.youtube.com/watch?v=lVURDUH6sk4&t=348s) · 他描述所见**：And I ran up the stairs of this this this uh doctor's office. And I busted through the doors and I saw me at a younger age sitting there with my daughter and my wife. They were getting ready to administer this thing and I said it was the shot. I said stop just like that and I
+- **[06:15](https://www.youtube.com/watch?v=lVURDUH6sk4&t=375s) · 他描述所见**：froze with the young me froze and I said stop and I told the nurse to stop because I saw me being old older and I said stop and I told him to stop don't do it don't do it and I and all of a sudden Jesus came and he said I want to
+- **[07:11](https://www.youtube.com/watch?v=lVURDUH6sk4&t=431s) · 他表达判断**：said, "Lord, I he you've called me to be a healing evangelist. You've called me to lay hands on the sick. How much I can't I can't go and pray for these people because I'll look like a hypocrite. My own daughter's still overcome. I've laid hands on her probably close to a thousand times. And
 
 ### 完整英文 Transcript
 
@@ -244,7 +269,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=lVURDUH6sk4&t=481s) · 本段原话**：because I didn't want them speaking out of their mouth because life and death is in the power of your tongue and I didn't want anybody saying it. So I got off real flaky about it. So I wouldn't even let nobody talk about I and I and I knew there was a serious issue of my kid
+- **[08:31](https://www.youtube.com/watch?v=lVURDUH6sk4&t=511s) · 本段原话**：And I and I'm telling you, it was literal hell on earth for years before I would allow them to diagnose her and for her to get help with going to therapies and stuff because I was believing God by faith and everything because I'm the big healing evangelist because all these prophecies that was given over my life.
+- **[10:31](https://www.youtube.com/watch?v=lVURDUH6sk4&t=631s) · 本段原话**：develops a wall between you and your wife over the course of time. And Megan's developing normal, but he said your wife leaves you right here. and he pointed out the year, which is nobody's business, but it he told me, "Is she going to leave you right here?" And she takes your daughter and
+- **[11:14](https://www.youtube.com/watch?v=lVURDUH6sk4&t=674s) · 本段原话**：remarried to another man. And he showed me the man. And he said, this this is when your wife gets remarried. And he said, then you become very bitter and angry. Angry because of the choices that you've made. You're off track with your with your call and what I've called you to do because this is what's changing
 
 ### 完整英文 Transcript
 
@@ -349,7 +381,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、个人故事与访谈
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、个人故事与访谈展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=lVURDUH6sk4&t=721s) · 他描述所见**：So the pressure of my daughter I saw every single year without having the pressure from this because she was not ch she didn't have the autism anymore she became normal and she became an a elder and he said Brandon your son was never born your son that your that your wife has right now was never
+- **[13:34](https://www.youtube.com/watch?v=lVURDUH6sk4&t=814s) · 他描述所见**：not enough power in hell to derail your call on your life, son. Even with how bad you feel, you've messed up with this. I'll turn it around for good in your favor. If you keep seeking me, so I want to tell you this. Whenever he told me this, I'm I see each year play out
+- **[14:14](https://www.youtube.com/watch?v=lVURDUH6sk4&t=854s) · 本段原话**：today. And God took what the devil meant for bad and he turned it around for good in my favor because it molded me and created a better person person out of me. If you've never been a caretaker of somebody with special needs whenever they're messing their self or or having their cycle or going through the hell
+- **[14:50](https://www.youtube.com/watch?v=lVURDUH6sk4&t=890s) · 本段原话**：I'd catch myself because I was so tired cleaning toilets and I wasn't barely making any money at all, barely making it, living on food stamps for years. And I'm doing this and my wife is going and she's at home crying and I can't wait to get home. I can't deal with this anymore cuz cuz Megan was so
 
 ### 完整英文 Transcript
 
@@ -455,7 +494,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、地震、风暴与灾害展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=lVURDUH6sk4&t=961s) · 他表达判断**：day, one of those big princess dresses. We tried to put one of those night gowns on her. So, she would walk around with a night gown on. And it took us, I think, another year or so before we got her there. And it was like all this time was pressure, pressure, pressure. And it and
+- **[17:28](https://www.youtube.com/watch?v=lVURDUH6sk4&t=1048s) · 他描述所见**：So, a lot of times I see what what people go through. They think that that the the storms of life are destroying them, but yet they're they're they're making them into who they are. The pressure of life develops you into something great. We think God, can you remove this or that? Can you remove this? Can you
+- **[18:17](https://www.youtube.com/watch?v=lVURDUH6sk4&t=1097s) · 本段原话**：Don't embrace it and and coddle it. Resist it. J submit yourself therefore unto God. Resist the devil and he will flee. But when trials happen and tri and things happen, we fight against him and we we we we won't let him stay. But the but the process of the fight is what what what changes us. A
+- **[19:37](https://www.youtube.com/watch?v=lVURDUH6sk4&t=1177s) · 本段原话**：It's different because we're going from glory to glory and that potter is putting his hand on that clay and he's molding us. We have this treasure in earth and vessels that the excellency of the power will be known of him and not of us. And if you think, well, I've derailed my life. I was a bad person. I
 
 ### 完整英文 Transcript
 
@@ -564,7 +610,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:32](https://www.youtube.com/watch?v=lVURDUH6sk4&t=1232s) · 本段原话**：And I'm telling you, don't give up on on what you believing for because those circumstances and that pain is what's going to help you to help somebody else that's walked through the pain that's walking through it right now. You'll be able to minister to somebody and have compassion on them when somebody else
+- **[20:48](https://www.youtube.com/watch?v=lVURDUH6sk4&t=1248s) · 他描述所见**：won't. Like somebody who's been diagnosed with something really bad and you were diagnosed with it and God healed you. You have more compassion for that person like I like I have for children special needs. when you when when I see child with special needs in the store or whatever and I I I I
+- **[21:59](https://www.youtube.com/watch?v=lVURDUH6sk4&t=1319s) · 本段原话**：God had a plan for my life. But I'm talking about the darkest darkest at the bottom of the pit. And you're thinking, I don't think I'm going to make this. There was days that there were that dark. I'm just being real with y'all there. You may not want to hear that, but it's real. This is raw. It's
+- **[23:24](https://www.youtube.com/watch?v=lVURDUH6sk4&t=1404s) · 本段原话**：But a miracle is a miracle. Even if it's if if it's it's a day to day. If you're seeing change, it's still a miracle. Jesus, sometimes it's a it's a progressive thing. Sometimes I've seen it in my own life and I still believe and I'm still standing. And people say, "Well, shouldn't you have your full
 
 ### 完整英文 Transcript
 
@@ -678,7 +731,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:01](https://www.youtube.com/watch?v=lVURDUH6sk4&t=1441s) · 本段原话**：my strength. And I and I and I lean not unto my own understanding. I lean not unto my own understanding, but all thy ways acknowledge him. And he said, "You direct your path." I I lean not unto my own understanding because I have a thousand one things. Why I You could get upset
+- **[25:40](https://www.youtube.com/watch?v=lVURDUH6sk4&t=1540s) · 他描述所见**：when he said by my stripes you are healed in Galatians 3:13 Christ redeemed me from the curse of the law and he told me he said that's the foundation regardless I'm not moved by what I see I'm not moved by what I feel I'm moved by what the word of God says so back to
+- **[26:36](https://www.youtube.com/watch?v=lVURDUH6sk4&t=1596s) · 本段原话**：towards her, but towards me. change the complaining because I was complaining all the time. I complaining about I don't like being I don't want to raise this. I don't want to do that. I don't I was always mingle my mouth was terrible speaking things out of my mouth. I don't want to do this anymore. I don't want to live
+- **[27:33](https://www.youtube.com/watch?v=lVURDUH6sk4&t=1653s) · 本段原话**：going to get better. But all things work together for good for those that love the Lord. And some people may not want to hear that. But sometimes people need to hear reality as whenever you're going through something and the storm the storms of life is trying to knock you down. That you got to keep on keeping on
 
 ### 完整英文 Transcript
 
@@ -791,7 +851,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:00](https://www.youtube.com/watch?v=lVURDUH6sk4&t=1680s) · 本段原话**：same God that healed the sick back then is healing the sick today. And you cannot give up on what you're believing for. Do not give up on your unsaved loved ones. Do not give up on your on your your unhealed ones that don't have the full manifestation of what they're believing for. And some people say,
+- **[29:14](https://www.youtube.com/watch?v=lVURDUH6sk4&t=1754s) · 他描述所见**：God loves you. And yeah, things happen and things that are hard happen. And and if I would have heard the voice of the Lord not to get that and do that, I'd have been a real rascal still for what I saw.
+- **[30:16](https://www.youtube.com/watch?v=lVURDUH6sk4&t=1816s) · 本段原话**：I've done that. You're not big enough to mess your life up. The steps of the righteous are ordered of the Lord. The steps of the righteous are ordered of the Lord. And whatever the devil meant for bad, the Lord will turn it around for good in your favor. Remember that today. And you've
+- **[31:21](https://www.youtube.com/watch?v=lVURDUH6sk4&t=1881s) · 本段原话**：Father, for every single person that is represented here today. I thank you, Father, for your visitations and manifestations of your glory. I thank you, Father, that no weapon formed against us would prosper.
 
 ### 完整英文 Transcript
 
@@ -899,7 +966,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:02](https://www.youtube.com/watch?v=lVURDUH6sk4&t=1922s) · 本段原话**：prospers. How much more? How much more, Father, that you are the great creator. You're the great You're the great father that you are. That you have that beautiful plan planned out for every single one of us. And it's not to harm us. It's not to hurt us. And if the devil tries to throw us a a big log in
+- **[33:26](https://www.youtube.com/watch?v=lVURDUH6sk4&t=2006s) · 本段原话**：Now God, I speak to healing over their bodies. Every single person who's believing for a stu a creative miracle from the top of their head from their from kind of um something that seemed to be that would linger on forever. There's always and then suddenly there's always a time whenever the manifestation of
+- **[33:58](https://www.youtube.com/watch?v=lVURDUH6sk4&t=2038s) · 他表达判断**：He said, "Brandon, why don't you believe me for now?" Now, faith is a substance of things hoped for and evidence of things not seen. Now is never lose your now. Never lose your now. I believe for now. Now is the healing over my daughter Megan. Not in the tomorrow. I believe for now. Always keep your now.
+- **[35:27](https://www.youtube.com/watch?v=lVURDUH6sk4&t=2127s) · 本段原话**：We're believing you for what the doctor said is impossible and you're going to turn it around for good, Father. So, we give you praise and for we give you praise for it. We give you glory for it. And we thank you, Father, that today is the day that you have made and we'll rejoice and
 
 ### 完整英文 Transcript
 
@@ -1005,7 +1079,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–37:50 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:01](https://www.youtube.com/watch?v=lVURDUH6sk4&t=2161s) · 本段原话**：y'all is being rejoicing. And again, I say rejoice. Rejoice in the Lord always and again I say rejoice. Rejoice. God is faithful and he's able to do exceedingly abundantly above all that you dare ask or think. Well, if you like this video today, I know it was kind of a different one, but I but I but I felt it was on my
+- **[36:23](https://www.youtube.com/watch?v=lVURDUH6sk4&t=2183s) · 他表达判断**：heart to tell you more about my my my life, more of my journey, what we've walked through there, our testimonies, what the Lord's done with us. And Megan's doing so much better and she's going to get better and better every single day. I believe it.
+- **[36:38](https://www.youtube.com/watch?v=lVURDUH6sk4&t=2198s) · 他表达判断**：Today is going to be different than it was yesterday. That's what I believe for my Megan. Well, please subscribe if you haven't subscribed. If you're new here, if this is your first video to ever watch me, welcome. Thank you for coming to our YouTube channel. God bless you.
+- **[37:27](https://www.youtube.com/watch?v=lVURDUH6sk4&t=2247s) · 本段原话**：that Jesus loves them. This is a a channel that will always tell that Jesus is coming and that he loves you. Well, and I always close my my my my little YouTube channel, my my broadcast out with this. Put a smile on your face and a song in your heart. Jesus loves you so
 
 ### 完整英文 Transcript
 

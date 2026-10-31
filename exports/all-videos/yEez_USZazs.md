@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 554；**章节数**: 6；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -16,10 +16,28 @@
 - [05. 16:00–19:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-05)
 - [06. 20:00–23:36 · 教会、复兴与信仰、预言、梦境与异象](#section-06)
 
+## 全片概述与 Key Points
+
+全片共 6 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:33](https://www.youtube.com/watch?v=yEez_USZazs&t=33s) · 他描述所见**：right after I had the Sid Roth interview I was praying that night and the lord gave me an open eyed Vision now this Vision lasted longer than any Vision that I've ever had and each scene lasted for for what it seemed like a long time for my flesh and so I'm going to tell
+- **[04:00](https://www.youtube.com/watch?v=yEez_USZazs&t=240s) · 他描述所见**：coast and I'm seeing this and oh and I forgot to tell you this I see at this time I'm in in Time Square again I'm going to tell you about this I'm sorry to jump around I see a massive moon in the sky I look up and my attention is drawn to this massive Moon and I see a
+- **[08:00](https://www.youtube.com/watch?v=yEez_USZazs&t=480s) · 本段原话**：business it was like that to saying I'm broken I I just yield to you I'm not going to sit there and squirm in your lap anymore I'm going to take that time and just going to worship you because I was in I was caught up but there was so much peace around me at this time frame
+- **[12:49](https://www.youtube.com/watch?v=yEez_USZazs&t=769s) · 他描述所见**：violent volcano and I saw Portland Oregon and I saw uh the uh the Space Needle in Seattle completely Des destroyed I saw the the the area between Portland Oregon and the ocean going this way it split off from a massive earthquake a massive massive earthquake the largest earthquake we've ever felt in this area before ever in this it was
+- **[16:50](https://www.youtube.com/watch?v=yEez_USZazs&t=1010s) · 他描述所见**：water and the water was going Inland to these areas okay all on the on the the Asia coastlines okay so I see all this but I was just kept focusing on the the the the the uh the string and everything elevating all of this up into the air of this uh volcano erupting in Yellowstone
+- **[20:21](https://www.youtube.com/watch?v=yEez_USZazs&t=1221s) · 本段原话**：deliverance belongs to you because you paid the price for them Galatians 3:13 says that Christ has red redeemed us from the curse of the law and we are healed and whole and well in the name of Jesus we're delivered by the blood of the lamb and by the word of Our Testimony we plead the blood of Jesus
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、经济、银行与市场。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:33](https://www.youtube.com/watch?v=yEez_USZazs&t=33s) · 他描述所见**：right after I had the Sid Roth interview I was praying that night and the lord gave me an open eyed Vision now this Vision lasted longer than any Vision that I've ever had and each scene lasted for for what it seemed like a long time for my flesh and so I'm going to tell
+- **[01:08](https://www.youtube.com/watch?v=yEez_USZazs&t=68s) · 他描述所见**：economy and the Lord was warning me about U another financial crash coming and he was and so I was just praying over this but it was very intense intercessory prayer praying for the economy and the collapse of the dollar and so all of a sudden I'm caught up in the spirit and I'm and I see in in my in
+- **[01:29](https://www.youtube.com/watch?v=yEez_USZazs&t=89s) · 他描述所见**：a vision New York City and the Lord shows me New York City and and I see Time Square but I'm noticing when I'm in the vision that there's no people around it's complete all the lights are on everything is really bright I can see um the the the the marquee signs everywhere but I'm noticing a couple of snowflakes
+- **[02:58](https://www.youtube.com/watch?v=yEez_USZazs&t=178s) · 他描述所见**：rocking and I could see the wheels touching and going back and forth back and forth touching as it was moving closer to me as I was standing in Time Square in this vision and everything inside of that Gypsy cart was falling I could see the stuff on the shelves and I could see the
 
 ### 完整英文 Transcript
 
@@ -123,7 +141,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=yEez_USZazs&t=240s) · 他描述所见**：coast and I'm seeing this and oh and I forgot to tell you this I see at this time I'm in in Time Square again I'm going to tell you about this I'm sorry to jump around I see a massive moon in the sky I look up and my attention is drawn to this massive Moon and I see a
+- **[04:17](https://www.youtube.com/watch?v=yEez_USZazs&t=257s) · 他描述所见**：little sliver of it so I know it wasn't a full moon and it was still kind of just coming up over the horizon so now I'm going to go back to Miami I see the same Moon Over uh Miami and I see that over here but it's but I'm down here in Miami and I see it
+- **[04:49](https://www.youtube.com/watch?v=yEez_USZazs&t=289s) · 本段原话**：1,500 miles and so um I'm seeing the same moon is what I'm trying to tell you all so all of a sudden you know I'm like I said I'm noticing there's no people walking around they it's completely quiet and it's at the night and night life is Big booming in in both cities
+- **[06:18](https://www.youtube.com/watch?v=yEez_USZazs&t=378s) · 本段原话**：his head he had a crown and it was purple and it was gold and it had Jewels all over it was beautiful and he had some kind of fur on the band of this um crown and I could see a cape like a cloak around him and he was just sitting there ruling and reigning with the
 
 ### 完整英文 Transcript
 
@@ -233,7 +258,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=yEez_USZazs&t=480s) · 本段原话**：business it was like that to saying I'm broken I I just yield to you I'm not going to sit there and squirm in your lap anymore I'm going to take that time and just going to worship you because I was in I was caught up but there was so much peace around me at this time frame
+- **[08:29](https://www.youtube.com/watch?v=yEez_USZazs&t=509s) · 他转述所听到的话**：boom and I heard this I heard this and I was able to see and I was taken back down to uh I was in the spirit realm but I was in a in in a place where I was looking out over the United States as a whole and he said oh he said I have blessed
+- **[09:37](https://www.youtube.com/watch?v=yEez_USZazs&t=577s) · 本段原话**：Over America a woman and she had blonde hair and she had extensions all in her hair and she had all kinds of fillers in her face and her lips were done up and her her her face had Botox all in it she had a massive breast from having augmentation on her her body and she had a little
+- **[11:16](https://www.youtube.com/watch?v=yEez_USZazs&t=676s) · 他描述所见**：looking at her hair looking at everything and she was so proud of the way she looked but she was so fixated on herself she wasn't looking at what was going on around her and all of a sudden the Lord said I want to show you something I heard him and I saw a square a massive
 
 ### 完整英文 Transcript
 
@@ -343,7 +375,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 地震、风暴与灾害、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：地震、风暴与灾害、预言、梦境与异象、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕地震、风暴与灾害、预言、梦境与异象展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:49](https://www.youtube.com/watch?v=yEez_USZazs&t=769s) · 他描述所见**：violent volcano and I saw Portland Oregon and I saw uh the uh the Space Needle in Seattle completely Des destroyed I saw the the the area between Portland Oregon and the ocean going this way it split off from a massive earthquake a massive massive earthquake the largest earthquake we've ever felt in this area before ever in this it was
+- **[13:20](https://www.youtube.com/watch?v=yEez_USZazs&t=800s) · 他表达判断**：a humongous earthquake and the the land from Portland Oregon to the ocean broke off into the water okay and and it and you could see the the the ground of this uh I believe it's the San Andreas fault it lifted up the land up higher and this land was lowered down to sea level all
+- **[14:50](https://www.youtube.com/watch?v=yEez_USZazs&t=890s) · 他描述所见**：can but it went for hundreds of miles all the land was completely submerged that broke off in a a in in a ocean when the land moved and shifted it caused a humongous tidal wave that hit Alaska Anchorage Alaska it the the earthquake hit Alaska too okay and British Colombia I saw all this land
+- **[15:20](https://www.youtube.com/watch?v=yEez_USZazs&t=920s) · 他描述所见**：completely destroyed by this massive earthquake okay and the land was shifted up it was elevated where it broken off okay and the water was all coming Inland it was this I know it's so far out there but I'm trying to tell you all what I saw and so all of Anchorage Alaska was on
 
 ### 完整英文 Transcript
 
@@ -431,7 +470,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:50](https://www.youtube.com/watch?v=yEez_USZazs&t=1010s) · 他描述所见**：water and the water was going Inland to these areas okay all on the on the the Asia coastlines okay so I see all this but I was just kept focusing on the the the the the uh the string and everything elevating all of this up into the air of this uh volcano erupting in Yellowstone
+- **[17:13](https://www.youtube.com/watch?v=yEez_USZazs&t=1033s) · 本段原话**：National Park causing all this seismic activity that was taking place on the on the west coast now I don't I don't ever have visions very often of uh uh earthquakes on the west coast the Lord has showed me a lot about the New Madrid he showed me a lot about um the east
+- **[18:03](https://www.youtube.com/watch?v=yEez_USZazs&t=1083s) · 他表达判断**：this about um some things that the Lord's showing me about the the Christmas holiday season and so I'm going to make another video about that so I I think it should be separated because this is it's this is by itself is a lot so um I'm going to pray for you all and I'm going to pray for peace and
+- **[19:49](https://www.youtube.com/watch?v=yEez_USZazs&t=1189s) · 他描述所见**：side and 10,000 at their right hand but nothing shall come nigh you in the mighty name of Jesus and we give you all the glory honor and praise concerning this situation and this vision and we
 
 ### 完整英文 Transcript
 
@@ -537,7 +583,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:36 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:21](https://www.youtube.com/watch?v=yEez_USZazs&t=1221s) · 本段原话**：deliverance belongs to you because you paid the price for them Galatians 3:13 says that Christ has red redeemed us from the curse of the law and we are healed and whole and well in the name of Jesus we're delivered by the blood of the lamb and by the word of Our Testimony we plead the blood of Jesus
+- **[20:39](https://www.youtube.com/watch?v=yEez_USZazs&t=1239s) · 本段原话**：Christ over every single body that's represented here all Cancer all diabetes all heart disease all lung disease all all kidney disease all anything that's attached to their body satanically we take authority over it right now in the name of Jesus we call Healing over their minds healing over their stomachs oh over their serotonin levels over their
+- **[22:41](https://www.youtube.com/watch?v=yEez_USZazs&t=1361s) · 本段原话**：coming I'm trying to tell you there's a great shaken and coming and people are asleep and they don't see it coming their hearts are hardened to the things of God and God's calling you to repent and get your life right before him Jesus is coming soon and the bride is asleep people are not ready for the coming of
+- **[23:20](https://www.youtube.com/watch?v=yEez_USZazs&t=1400s) · 本段原话**：get your life right you're going to get left turn or burn turn or burn you're running out of time so put a smile on your face and a song on your heart Jesus loves you and we love you and we will see you next time you all have a blessed day God bless you all bye-bye
 
 ### 完整英文 Transcript
 

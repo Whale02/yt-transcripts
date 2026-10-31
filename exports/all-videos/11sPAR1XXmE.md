@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 215；**章节数**: 3；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -13,10 +13,25 @@
 - [02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-02)
 - [03. 08:00–08:13 · 预言、梦境与异象](#section-03)
 
+## 全片概述与 Key Points
+
+全片共 3 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=11sPAR1XXmE&t=0s) · 他描述所见**：But I have seen a mass exodus of all the rich people leaving New York because of the decisions that will be made in the future. I saw New York City on fire. I saw fires all throughout New York City.
+- **[04:59](https://www.youtube.com/watch?v=11sPAR1XXmE&t=299s) · 他描述所见**：And we are not Oh and I saw Gavin Newsom's times coming up short. I saw former President Biden getting ready to go home soon.
+- **[08:01](https://www.youtube.com/watch?v=11sPAR1XXmE&t=481s) · 他描述所见**：We're out of here. I see you it's like a migration. It's like a mask a mass migration is coming of people.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、美国选举与投票
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、美国选举与投票、地震、风暴与灾害。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、美国选举与投票展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=11sPAR1XXmE&t=0s) · 他描述所见**：But I have seen a mass exodus of all the rich people leaving New York because of the decisions that will be made in the future. I saw New York City on fire. I saw fires all throughout New York City.
+- **[01:10](https://www.youtube.com/watch?v=11sPAR1XXmE&t=70s) · 他描述所见**：There's a time to sow and there's a time to reap. A time to plant and a time to harvest. But he kept but he kept going over things and telling me this is because they sow this way. So I saw all the rich people leaving. I saw a mass I hundreds of thousands of people were
+- **[02:38](https://www.youtube.com/watch?v=11sPAR1XXmE&t=158s) · 他描述所见**：I see at least a thousand fires burning in every borough, every business that's on the brink right now deciding whether to move out of the city will move. There's a hemorrhage already and the economic the economic basis collapsing.
+- **[02:52](https://www.youtube.com/watch?v=11sPAR1XXmE&t=172s) · 他表达判断**：We're a third world city already. I don't care what Mayor Dinkins says, it's a third world city. We have an out we have a murder every hour on the hour now. Major crime every 20 seconds. This is murder city and I believe that we're going to see such chaos and anarchy in New York City coming.
 
 ### 完整英文 Transcript
 
@@ -133,7 +148,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、美国选举与投票。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:59](https://www.youtube.com/watch?v=11sPAR1XXmE&t=299s) · 他描述所见**：And we are not Oh and I saw Gavin Newsom's times coming up short. I saw former President Biden getting ready to go home soon.
+- **[05:06](https://www.youtube.com/watch?v=11sPAR1XXmE&t=306s) · 他描述所见**：And so I I saw him being buried and I saw him going. His because of course he's old. So it's not like it's a shocker Brandon's a prophet of confirmation if he goes home tomorrow. I I everybody's going to is going to go home, right? But but the Lord said it's coming. So we pray over
+- **[05:54](https://www.youtube.com/watch?v=11sPAR1XXmE&t=354s) · 他描述所见**：And there's some cockroaches up in here. I see people making big decisions, relocation relocation relocation. This is a lot of people moving from the East Coast coming to the center again. I see people moving it's like Chicago area all up here all around Ohio. I see them moving. I see people moving. I see people relocating.
+- **[07:44](https://www.youtube.com/watch?v=11sPAR1XXmE&t=464s) · 他描述所见**：Oh and I see financial structures falling. I see financial the the institution of like that like all the money all the falling falling. I see a fleeing of the city.
 
 ### 完整英文 Transcript
 
@@ -246,7 +268,11 @@
 <a id="section-03"></a>
 ## 03. 08:00–08:13 · 预言、梦境与异象
 
-**中文章节摘要**：本段涉及：预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=11sPAR1XXmE&t=481s) · 他描述所见**：We're out of here. I see you it's like a migration. It's like a mask a mass migration is coming of people.
 
 ### 完整英文 Transcript
 

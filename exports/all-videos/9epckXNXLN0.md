@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1746；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 90:00–98:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
 - [12. 99:00–101:43 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:01](https://www.youtube.com/watch?v=9epckXNXLN0&t=61s) · 本段原话**：Billions is what they're saying. So all that I show was talking about and what the Lord showed me in my prayer time is legit. Obviously, when you're using software from 1995 and it's 30-year-old software and you're using computers with floppy disc, I mean, this is a major deal. We're going into a new industrial
+- **[18:43](https://www.youtube.com/watch?v=9epckXNXLN0&t=1123s) · 本段原话**：Do you understand? It's not it's not going to happen just Ezekiel 38 and39 here we are Russia what are the beginning stages of it when they call peace and safety then sudden destruction they're saying a peace agreement if you go back to the video on from December I told you all that we're they're going to start
+- **[36:13](https://www.youtube.com/watch?v=9epckXNXLN0&t=2173s) · 本段原话**：A mighty rushing river like a the Mississippi. You can't control it. You go, "Well, I'm going to we're going to try to control it." You ain't going to control that. It's going to knock you over. Does that make sense what I'm trying to tell you? There's no controlling a rapid river, a rapid
+- **[64:42](https://www.youtube.com/watch?v=9epckXNXLN0&t=3882s) · 他描述所见**：D. I'm like like two or like five people on it. Like on this one I just saw flying. I saw five like five people in this plane. They were so spread out in there and they are covered in masks.
+- **[81:43](https://www.youtube.com/watch?v=9epckXNXLN0&t=4903s) · 他描述所见**：Record snowfall. Record record snowfall. Record snowfall. I see record drought. Record drought in some places. Record drought.
+- **[99:02](https://www.youtube.com/watch?v=9epckXNXLN0&t=5942s) · 本段原话**：Bible believing church. Tell them you want to be water baptized. Say, "I need to get water baptized." Get water baptized. Read your Bible. If you say, "Brandon, I can't afford a Bible. I'm barely making it from paycheck to paycheck. I I got like five bucks in my account. I don't even have money to buy
+
 <a id="section-01"></a>
 ## 01. 00:00–08:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、AI、科技与监控。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:01](https://www.youtube.com/watch?v=9epckXNXLN0&t=61s) · 本段原话**：Billions is what they're saying. So all that I show was talking about and what the Lord showed me in my prayer time is legit. Obviously, when you're using software from 1995 and it's 30-year-old software and you're using computers with floppy disc, I mean, this is a major deal. We're going into a new industrial
+- **[03:42](https://www.youtube.com/watch?v=9epckXNXLN0&t=222s) · 他描述所见**：So, you're sending me the trackers of all the red the red decks with all the black bottom boats with the white thing and they're sending stuff. So, we got to track this boat and this is where it's at. And you're showing me all Now, folks, I'm going to tell you, whenever I saw this boat, it was leaving Africa. It
+- **[06:55](https://www.youtube.com/watch?v=9epckXNXLN0&t=415s) · 他描述所见**：And I'm like, "Wow, I'm getting a lot of cool stuff." So, um, there was a there's an asteroid is 80 miles wide. This thing is massive. I mean, that's that's a huge piece of ice or rock or whatever it is that's flying around out there. So, then I see an article from Fox News saying
+- **[08:47](https://www.youtube.com/watch?v=9epckXNXLN0&t=527s) · 他描述所见**：I saw it was it was the most devastating. And I saw from Texar, Canada to Tulsa, Oklahoma, I saw over 1,800 people die. And the massive building that's at OU was split down the middle. The big skyscraper look, you
 
 ### 完整英文 Transcript
 
@@ -278,7 +296,14 @@
 <a id="section-02"></a>
 ## 02. 09:00–17:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[09:01](https://www.youtube.com/watch?v=9epckXNXLN0&t=541s) · 他描述所见**：know, that big hospital looking building was split that was split down the middle when this earthquake takes place. I saw it completely. Half of the building was broke off at the top and it broke down and all that was laying on the ground and I remember it was on fire.
+- **[10:56](https://www.youtube.com/watch?v=9epckXNXLN0&t=656s) · 他描述所见**：like speaking like another language to me. So, I'm trying to understand what was decided. And it said August 15th, like they have to make another decision by August 15th. And that goes to the second courts or something and that could go clear into 2026. And I told I told you all I said I saw the enemy
+- **[11:56](https://www.youtube.com/watch?v=9epckXNXLN0&t=716s) · 他描述所见**：article and I saw that and I thought that was really interesting and that was a word that was given clear back in uh February and I and I was driving around and the Lord spoke to me about certain cryptos in the in the future would be created for housing loans and for car loans and
+- **[17:17](https://www.youtube.com/watch?v=9epckXNXLN0&t=1037s) · 他转述所听到的话**：You're a fool, Noah. There is no coming of the Lord. Oh my gosh, I heard this one. It's 50 years away, 60 years away, maybe 200 for one person said. And I'm like, whatever. You say what you want to say, but you can see it all around you. Every single day, there's something biblical
 
 ### 完整英文 Transcript
 
@@ -529,7 +554,14 @@
 <a id="section-03"></a>
 ## 03. 18:00–26:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:43](https://www.youtube.com/watch?v=9epckXNXLN0&t=1123s) · 本段原话**：Do you understand? It's not it's not going to happen just Ezekiel 38 and39 here we are Russia what are the beginning stages of it when they call peace and safety then sudden destruction they're saying a peace agreement if you go back to the video on from December I told you all that we're they're going to start
+- **[19:02](https://www.youtube.com/watch?v=9epckXNXLN0&t=1142s) · 本段原话**：calling peace agreements they're going to have all this stuff and then a major event will take place I said because they they want revenge they want revenge as they're still screaming death to America America. Death to Israel. And I'm like, there's their heart right there. They don't want peace. Death to America. I'm like, my goodness, that
+- **[25:11](https://www.youtube.com/watch?v=9epckXNXLN0&t=1511s) · 本段原话**：You're going to see a great acceleration of things more than you've ever than you could ever dream of. Even in the next couple of months going into the next year, watch what happens. And I told you when we get to this time next year in 2026, you won't even recognize where we are
+- **[25:35](https://www.youtube.com/watch?v=9epckXNXLN0&t=1535s) · 本段原话**：right now. That's how much it will change. Things are going to change at such a rapid pace. When we get to 2026, summer of 2026, going into the fall of 2026, getting ready to 27 for the elections, midterms.
 
 ### 完整英文 Transcript
 
@@ -723,7 +755,14 @@
 <a id="section-04"></a>
 ## 04. 27:00–35:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[27:48](https://www.youtube.com/watch?v=9epckXNXLN0&t=1668s) · 本段原话**：But all of it as painted as as a big picture like you see the financial uh turnaround, you see the financial wealth uh exchange, it looks fun, it looks beautiful, everything's happy, people rejoicing as they have what they've ever always dreamed of. But on another level, the higher you go up here, you see the
+- **[29:46](https://www.youtube.com/watch?v=9epckXNXLN0&t=1786s) · 本段原话**：The birthing pains are accelerating. They're happen at such a rapid pace and you'll see them right in front of your face. A great great great great acceleration of the birthing pains.
+- **[34:03](https://www.youtube.com/watch?v=9epckXNXLN0&t=2043s) · 他描述所见**：popcorn is getting ready to really and it's starting to get ready to go. I see those first kernels popping up across the world as we speak right now. And as we hear about them, you'll say, "What's going on over there?" But you'll see you'll see these and they'll be there'll be they're they're going to
+- **[35:13](https://www.youtube.com/watch?v=9epckXNXLN0&t=2113s) · 他描述所见**：God is breaking down this dam and there's going to be a major flow of the of him. I see a flow. I'm telling you what I said. Can these bones live?
 
 ### 完整英文 Transcript
 
@@ -851,7 +890,14 @@
 <a id="section-05"></a>
 ## 05. 36:00–44:59 · 预言、梦境与异象、疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、疾病、医疗与药品、物资、能源与供应链。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、疾病、医疗与药品展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:13](https://www.youtube.com/watch?v=9epckXNXLN0&t=2173s) · 本段原话**：A mighty rushing river like a the Mississippi. You can't control it. You go, "Well, I'm going to we're going to try to control it." You ain't going to control that. It's going to knock you over. Does that make sense what I'm trying to tell you? There's no controlling a rapid river, a rapid
+- **[38:07](https://www.youtube.com/watch?v=9epckXNXLN0&t=2287s) · 他描述所见**：There's people that need encouragement today. Again, I see they're they're on the verge of giving up. They they they fill their cup. They they need a fresh cup of water. The fresh fresh drinks today. Fresh drink drinks today. Fill their cup, Lord. They lift it up, Lord.
+- **[40:55](https://www.youtube.com/watch?v=9epckXNXLN0&t=2455s) · 他描述所见**：I saw the plague again. I saw the plague again. And I see the rats again. I see rats. I see rats. They're not bats. These are rats.
+- **[42:53](https://www.youtube.com/watch?v=9epckXNXLN0&t=2573s) · 他描述所见**：And this time it's cold outside. I see people in big coats. I see people with things on their head trying to keep their ears warm.
 
 ### 完整英文 Transcript
 
@@ -963,7 +1009,14 @@
 <a id="section-06"></a>
 ## 06. 45:00–53:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、疾病、医疗与药品。 提到的地点：Europe、France、Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:06](https://www.youtube.com/watch?v=9epckXNXLN0&t=2706s) · 他描述所见**：What's going on in the shadows? I see submarines going to Cuba.
+- **[49:34](https://www.youtube.com/watch?v=9epckXNXLN0&t=2974s) · 他描述所见**：whatever. They hear glimpses and they'll they'll they'll they'll, you know, that bothers me or whatever, but they're really not. They're a frog in the pot and I seen a pot and I saw people and and they're and the water's rising. The water's getting hot and the temperature is rising around them, but they're so
+- **[51:30](https://www.youtube.com/watch?v=9epckXNXLN0&t=3090s) · 他描述所见**：the virus. It will not start in America. This will start in Europe because these were old looking cobblestone streets. This is old what I saw these rats running around. I saw like it's old stuff. It wasn't like like America like everything is here. It's different. It was like old like villages.
+- **[52:47](https://www.youtube.com/watch?v=9epckXNXLN0&t=3167s) · 他描述所见**：It's like what I saw on the lab labs. You remember I told you they were practicing on rats? This is back. It's like another piece of the puzzle, another piece of the vision that I saw back over a year ago. Braden, seeing the rats and seeing the But it was a rats and they're scurrying around
 
 ### 完整英文 Transcript
 
@@ -1107,7 +1160,14 @@
 <a id="section-07"></a>
 ## 07. 54:00–62:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[54:14](https://www.youtube.com/watch?v=9epckXNXLN0&t=3254s) · 本段原话**：and it's blue. So, they didn't want to touch the blue money and people were afraid of it. He said, "This is going to introduce the the system faster being afraid to touch money."
+- **[56:56](https://www.youtube.com/watch?v=9epckXNXLN0&t=3416s) · 他描述所见**：Remember it. I'm seeing it bleed into Africa right now. I'm seeing it bleed bleed in from to I see it spreading throughout all of it.
+- **[58:13](https://www.youtube.com/watch?v=9epckXNXLN0&t=3493s) · 他描述所见**：when it goes to China, it's it it it it's it there's like you see in populated areas how there's so people that like in India right now I see they're like they're stacked on each other like sardines.
+- **[58:43](https://www.youtube.com/watch?v=9epckXNXLN0&t=3523s) · 他描述所见**：You see, because they're touching shoulders, but in the areas where there's not as many people touching shoulders like China is spread out apart, there's not as many people like in this vision for whatever. Like, I don't understand this, but they seem to be they're in white outfits. They're in white uh out they're they're whatever this is.
 
 ### 完整英文 Transcript
 
@@ -1204,7 +1264,14 @@
 <a id="section-08"></a>
 ## 08. 63:00–71:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 提到的地点：Vatican。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[64:42](https://www.youtube.com/watch?v=9epckXNXLN0&t=3882s) · 他描述所见**：D. I'm like like two or like five people on it. Like on this one I just saw flying. I saw five like five people in this plane. They were so spread out in there and they are covered in masks.
+- **[67:21](https://www.youtube.com/watch?v=9epckXNXLN0&t=4041s) · 他描述所见**：And I see the towers again. And these people are dark evil people.
+- **[69:49](https://www.youtube.com/watch?v=9epckXNXLN0&t=4189s) · 他描述所见**：And I saw it coming into the earth's atmosphere to deceive many.
+- **[70:46](https://www.youtube.com/watch?v=9epckXNXLN0&t=4246s) · 本段原话**：We know there's no such thing as aliens, folks. I need to make that clear. This is demonic. This is demonic. What I just saw There's going to be an uptick in this kind of events in the days ahead. An uptick.
 
 ### 完整英文 Transcript
 
@@ -1322,7 +1389,14 @@
 <a id="section-09"></a>
 ## 09. 72:00–80:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、祷告、敬拜与现场互动。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[72:07](https://www.youtube.com/watch?v=9epckXNXLN0&t=4327s) · 他描述所见**：A great deception is coming. My gosh. I see one over Europe and Italy around the Vatican. I'm telling you, I see I
+- **[74:02](https://www.youtube.com/watch?v=9epckXNXLN0&t=4442s) · 他描述所见**：There's weird people like trying to put signs out like talk trying to communicate with this thing like weird people like it's crazy like Braden I see like people with like poster boards like trying to hold it up like looking at it like I and they're holding up a poster board and the lady's heavy that and she has
+- **[78:03](https://www.youtube.com/watch?v=9epckXNXLN0&t=4683s) · 他描述所见**：It's like the mother ship and little bitty ones. Do you hear me? I see like a big ones and small ones today. trying to deceive many today.
+- **[80:05](https://www.youtube.com/watch?v=9epckXNXLN0&t=4805s) · 本段原话**：A a form a form of weapon. Weather weapon. weather warfare perfecting it but it will get out of control. It will get out of control and trying to control they will lose control, jet streams, supertorrms, exceeding wind that you've never ever experienced before.
 
 ### 完整英文 Transcript
 
@@ -1482,7 +1556,14 @@
 <a id="section-10"></a>
 ## 10. 81:00–89:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[81:43](https://www.youtube.com/watch?v=9epckXNXLN0&t=4903s) · 他描述所见**：Record snowfall. Record record snowfall. Record snowfall. I see record drought. Record drought in some places. Record drought.
+- **[84:26](https://www.youtube.com/watch?v=9epckXNXLN0&t=5066s) · 本段原话**：I warned you he said about the chickens ahead of time and that happened the eggs that was back in this the remember and all the all that happened it's just like he said it was going to happen and all the eggs and everything there was a shortage of all that and they were
+- **[85:37](https://www.youtube.com/watch?v=9epckXNXLN0&t=5137s) · 他描述所见**：They're fanning it up. I see these dark people. In fact, you know who that dark man is?
+- **[87:13](https://www.youtube.com/watch?v=9epckXNXLN0&t=5233s) · 他描述所见**：Yeah. That is That is disgusting. I've seen it on a burger. I see it on a burger and they've got it like it's ground up like in like like ground up powder and they make it into like a like some kind of burger patty like a like a ground up like into like like flour
 
 ### 完整英文 Transcript
 
@@ -1618,7 +1699,14 @@
 <a id="section-11"></a>
 ## 11. 90:00–98:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[90:58](https://www.youtube.com/watch?v=9epckXNXLN0&t=5458s) · 他描述所见**：I see a decrease in fertility rates. a decrease in in population and fertility rates messing with people's fertility.
+- **[92:57](https://www.youtube.com/watch?v=9epckXNXLN0&t=5577s) · 他描述所见**：I see celebrities that are false false saying, "I got Jesus. I got Jesus." And they'll pro preach a universal gospel to deceive the many.
+- **[95:39](https://www.youtube.com/watch?v=9epckXNXLN0&t=5739s) · 本段原话**：And I'm telling you, this is just a little glimpse of something tonight of what the Lord's trying to tell you to warn you because he doesn't want you caught off guard. But there's many of you here that do not know the Lord Jesus Christ as your Lord and personal savior.
+- **[98:13](https://www.youtube.com/watch?v=9epckXNXLN0&t=5893s) · 他进行祷告**：We want to rejoice with you. We want to be excited for you. We want to tell you, congratulations. Please do that in the comment section down below. Now, find a bibleelving church. Go to a church that teaches the word of God. Come on here, pray with us. Read your Bible every day.
 
 ### 完整英文 Transcript
 
@@ -1808,7 +1896,14 @@
 <a id="section-12"></a>
 ## 12. 99:00–101:43 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[99:02](https://www.youtube.com/watch?v=9epckXNXLN0&t=5942s) · 本段原话**：Bible believing church. Tell them you want to be water baptized. Say, "I need to get water baptized." Get water baptized. Read your Bible. If you say, "Brandon, I can't afford a Bible. I'm barely making it from paycheck to paycheck. I I got like five bucks in my account. I don't even have money to buy
+- **[99:35](https://www.youtube.com/watch?v=9epckXNXLN0&t=5975s) · 本段原话**：We'll not solicit you. We don't want your address for anything else other than just to be a blessing to you to give you a Bible. You see, cuz I can't afford it. I've only got five bucks, whatever I've got to live on, and it's too much of a stretch for me to get one.
+- **[100:01](https://www.youtube.com/watch?v=9epckXNXLN0&t=6001s) · 他表达判断**：Stick around there. The best is yet to come. I believe the Lord keeps showing us things because he wants us to not be caught off guard. So, thank you for joining us today, and we're excited with you. Please tell us down below if you got born again. Well, if you're here and you've and and you're a consistent
+- **[100:50](https://www.youtube.com/watch?v=9epckXNXLN0&t=6050s) · 他表达判断**：We're for a million women in prayer army all for his glory. And we're excited about it. We're getting there. We're growing and growing and growing every single day. Braden tells me we got another 200 people. So, we're excited you're here. So, please keep coming back and praying with us. It I believe the
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 975；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 - [10. 36:00–37:38 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=0s) · 他转述所听到的话**：Well, family, we're back. It's Brandon and Diana again. I know we're wearing the same thing we wore yesterday, but we're doing back-to-back video videos for y'all. And I'm I'm just going to jump right in the river that we had yesterday. And and Spirit's presence is here. It's heavy still. So, we're the Lord said make the
+- **[08:51](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=531s) · 他表达判断**：I believe you died and you rose again on the third day. I believe you're seated at the right hand of the Father right now making intercession for me.
+- **[16:01](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=961s) · 本段原话**：And that Father, that you're bringing forth the new young Davids, the new generals of the faith, bringing forth great men and women of God to TAKE THE BATON, FATHER, from the ones that are lukewarm. Father, for you said that you would want us to be hot or cold, but if we're lukewarm, you would spew us out of
+- **[21:10](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1270s) · 本段原话**：A supernatural explosion of the glory of God would rise up in each college campus throughout O O O R U, O U, O S U, all all around the world, Nebraska, all of them, Father. We call forth a mighty move of the presence of the Lord, of Holy GHOST AND FIRE LIKE it was in the
+- **[28:54](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1734s) · 本段原话**：wickedness in the name of Jesus. And every plan, Father, when you showed me about Brezani or whatever that man was that got taken out by Trump before, there will be no retaliation. That every plot, every plan of the wicked would be uncovered concerning any attempts on Trump's life.
+- **[36:00](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=2160s) · 本段原话**：every single one of y'all that that you get through the circumstances you're going through. The valley of the shadow of death has expiration date.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=0s) · 他转述所听到的话**：Well, family, we're back. It's Brandon and Diana again. I know we're wearing the same thing we wore yesterday, but we're doing back-to-back video videos for y'all. And I'm I'm just going to jump right in the river that we had yesterday. And and Spirit's presence is here. It's heavy still. So, we're the Lord said make the
+- **[00:18](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=18s) · 本段原话**：videos a little shorter for you. And so, we're going to just I'm trying to keep them 30 minutes, but the last one went for about almost an hour. And so, here we go.
+- **[01:54](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=114s) · 他表达判断**：He's given us all things to enjoy, but I'm a giver. And I believe with all my heart I'm going to say, "Lord, here you gave me this, but I want to give it back to you." Because God is an an overwhelming God. And and when we get to heaven, I cannot wait to see all the
+- **[03:25](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=205s) · 本段原话**：One day every one of us will have that that moment that will either be before the Father or you're going to be in hell. That's the bottom line.
 
 ### 完整英文 Transcript
 
@@ -137,7 +155,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:44](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=284s) · 本段原话**：I You know what, folks? I'm just I'm just Brandon. I'm I'm I'm thankful for praying for President Trump and that that was recorded and it it is what it is. It's history for me.
+- **[06:50](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=410s) · 本段原话**：You say, "Well, I I don't believe that." Well, we'll see. You'll see. I'm telling you. I'm telling you. If you He doesn't know you, he one day he's going to say, "Depart from me. I never knew you." if you don't have If you If your name is not written in the Lamb's Book of Life. If you've
+- **[07:12](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=432s) · 他进行祷告**：I We're going to pray with you right now. We're We're This is This is a channel that's called to raise up a million and million men and women prayer army. A million of you all. And we're believing for those million people today. We're believing for a supernatural army of men and women of God to pray and
+- **[07:35](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=455s) · 本段原话**：We believe in the power of prayer on this channel. We believe that whatsoever things are bound on earth are bound in heaven. And whatsoever things are loosed are loosed. We believe that we have power and authority to tread on the serpents and scorpions and nothing shall by any means hurt us. We believe that
 
 ### 完整英文 Transcript
 
@@ -256,7 +281,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:51](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=531s) · 他表达判断**：I believe you died and you rose again on the third day. I believe you're seated at the right hand of the Father right now making intercession for me.
+- **[09:56](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=596s) · 本段原话**：a new James Version or or amplified or something. us. Yeah, email us in the description below and say, "I just got born again. I was watching your channel." And we want to buy you a Bible. So, write up get your Bible, read your Bible every day, get into a Bible-believing church that teaches you the word of God.
+- **[11:28](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=688s) · 本段原话**：And so, Christian's coming home to Jesus. We're going to believe God for Christian today. And we're believing for anybody else who who has an unsaved loved one and you want to send us a photo of your unsaved loved one or whoever you're believing for to be healing or whatever. This is our point
+- **[11:42](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=702s) · 他进行祷告**：of contact. This is our first photo. is in is in the description below if you want to mail a Mail a photo. People say, "Well, you're going to have thousands of photos." Well, we'll take parts of them in boxes and I'll pray for every single one of them every single time we do
 
 ### 完整英文 Transcript
 
@@ -376,7 +408,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=720s) · 本段原话**：Praying for people who need a touch from Jesus today. And we Prayer works. Prayer works. This is our This is what we're doing. We're praying for people. And we believe with you for your breakthrough, for your miracle, whatever you need in your life. There's nothing too big for God to turn it around. You say, "Well,
+- **[13:46](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=826s) · 他表达判断**：Do you believe that? I don't know what you're believing for, but I believe that what you're believing for is going to come to pass if it lines up with the word of God. And he said, "Beloved, I wish above all things that you prosper and be in health even as your soul prospers."
+- **[14:10](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=850s) · 本段原话**：For everything they may need today. We call the Christians to come home. The these young men and women that need to come home. Father, we call them in right now in the name of Jesus. We call the the families to be born again. We call radical change in every single one of their lives.
+- **[14:54](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=894s) · 他进行祷告**：Yeah. And that's all right. I understand totally. I don't want my other daughter on the YouTube yet. She's young. Yeah. And it's not time for her yet. I tell her she she's young and I said, "Nope. No, you're you're just we're not doing that." Yes. So, yeah. So, we're going to pray.
 
 ### 完整英文 Transcript
 
@@ -496,7 +535,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=961s) · 本段原话**：And that Father, that you're bringing forth the new young Davids, the new generals of the faith, bringing forth great men and women of God to TAKE THE BATON, FATHER, from the ones that are lukewarm. Father, for you said that you would want us to be hot or cold, but if we're lukewarm, you would spew us out of
+- **[16:19](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=979s) · 本段原话**：our your mouth. Father, that we don't want to be lukewarm anymore. THAT YOU WOULD STIR US UP IN THE NAME OF JESUS, BRINGING FORTH A GREAT FIRE OUT OF OUR SPIRITS. A GREAT FIRE OUT OF US, FATHER, THAT the anointing OF THE HOLY GHOST WOULD FLOW OUT OF US, FATHER. THAT WE WOULD BE AT THE SPOT WHERE THE GLORY
+- **[17:58](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1078s) · 本段原话**：That there will be one last harvest of souls. WE CALL FORTH THAT HARVEST OF SOULS RIGHT NOW IN THE name of Jesus. FOR YOU SAID THE HARVEST IS PLENTIFUL AND THE LABORERS ARE FEW. SO, FATHER, we call forth THE LABORERS RIGHT NOW IN THE NAME OF JESUS. A SUPERNATURAL MOVE OF THE SPIRIT OF THE LORD ON THESE PEOPLE. THAT
+- **[19:08](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1148s) · 本段原话**：That there will be a major harvest of souls like this world has never seen before. ALL FOR THE GLORY OF GOD. WE THANK YOU, LORD, for healings and demonstrations and manifestations of the glory on our churches. That Father, that there would be no demonic hindrances, Father, for people trying to hold control the spirit of move that's moving
 
 ### 完整英文 Transcript
 
@@ -598,7 +644,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[21:10](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1270s) · 本段原话**：A supernatural explosion of the glory of God would rise up in each college campus throughout O O O R U, O U, O S U, all all around the world, Nebraska, all of them, Father. We call forth a mighty move of the presence of the Lord, of Holy GHOST AND FIRE LIKE it was in the
+- **[21:30](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1290s) · 本段原话**：upper room, the sound of the mighty rushing wind will flow with clothing TONGUES OF FIRE ONE MORE TIME. A move of the spirit OF THE LORD POURING OUT ON OUR SONS AND DAUGHTERS, FATHER. I thank you, Lord, that this will be the greatest move of God WE'VE EVER SEEN BEFORE IN THE NAME of Jesus.
+- **[22:04](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1324s) · 本段原话**：A burning bush experience. Father, that the Shekinah glory cloud would fill our houses, our our churches, our cars. And Father, that people would see something different about us.
+- **[22:28](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1348s) · 本段原话**：Father, we shake off the earthly garments AND WE SAY, "GOD, WE WANT A NEW TOUCH. WE WANT THE FIRE. WE WANT A FRESH FRESH PRESENCE OF YOU, LORD. WE ARE HUNGRY. WE'RE DESPERATE. WE'RE THIRSTY.
 
 ### 完整英文 Transcript
 
@@ -697,7 +750,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:15](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1515s) · 本段原话**："Here am I, Lord. Send me. Send us INTO THE NATIONS. WE'LL BRING IN THE HARVEST. WE'LL DO WHAT YOU'VE ASKED US TO DO. WE'RE yielded and we're filled with AND WE'RE CONTROLLED BY THE HOLY GHOST."
+- **[26:12](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1572s) · 本段原话**：That there'll be a mighty move of the presence of the Lord on Billy Joe Daugherty's church, Paul Daugherty. Father, there'll be a fire on their church. There'll be a fire on these congregations. There'll be a fire at Glorious Church Fellowship. There'll be a fire in these churches. There'll be a presence of the Lord like we've never
+- **[27:27](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1647s) · 本段原话**：Yes, Lord. Anything you ask. Anything you ask, Father. Lord, we give you praise and glory for it right now in the name of Jesus. Thank you, Lord, for President Trump. Thank you, Lord, for Vice President Pence.
+- **[27:43](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1663s) · 他进行祷告**：Thank you, Lord, that you're giving them wisdom. And we pray over every nation today and we pray for the peace of of of Ukraine and over all that stuff with Zelenskyy and over Putin. Father, we call peace and the bloodshed would stop.
 
 ### 完整英文 Transcript
 
@@ -801,7 +861,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:54](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1734s) · 本段原话**：wickedness in the name of Jesus. And every plan, Father, when you showed me about Brezani or whatever that man was that got taken out by Trump before, there will be no retaliation. That every plot, every plan of the wicked would be uncovered concerning any attempts on Trump's life.
+- **[29:34](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1774s) · 本段原话**：wife. No sickness, no disease comes nigh them. Thank you, Lord, for for our Congress, our House. Father, for we will have a greater red wave in November of 2026.
+- **[29:56](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1796s) · 本段原话**：A more of a majority in Jesus' name. Thank you, Lord. Father, for crypto, we call it to go up in value and for dinar and for all these investments, gold and silver, for creative ideas, for stocks, for Father, for a supernatural wealth transfer to take place in the name of Jesus. And that Satan CANNOT HOLD IT
+- **[31:04](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1864s) · 本段原话**：Thank you, Lord. Thank you, Lord, that they that the thief has been found and he must restore forth sevenfold what the devil stole in Jesus' name. Even our peace, our joy, everything. We call forth a harvest of what's been stolen back. We call forth money come forth in Jesus' name. No more with with with Yes, what?
 
 ### 完整英文 Transcript
 
@@ -913,7 +980,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:01](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1921s) · 本段原话**：financial seed, breaking the back of lack, breaking the back of sickness and disease. Barrier breakers, generational changing now that we will have be the generation that changes that it will say, "As of this generation, as of us today, we are going to go forth and take the land." And yeah, our ancestors may
+- **[32:29](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1949s) · 他描述所见**：Yes. And we will not stand for unrighteous thinking, stinking retrib retribute mind. We will be carnality We're not going to be carnal carnally minded. We will be word minded and word people and a word people that are like Tommy Hicks' vision that when he points to us, when the glorious when the Lord points to us,
+- **[34:22](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=2062s) · 本段原话**：We're calling it in. Well, thanks for being with me today, babe. I love it when you're on here with us. You're going to be on here every day now. I'm It's a mandate. I need my wife with me beside sitting beside me. I enjoy you being here.
+- **[35:24](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=2124s) · 他描述所见**：Pray for" And I'm like, "I don't even know who this person is. I don't even cuz I'm going to do I'll be real with y'all. If I see their face and I'll be able to see it what you're going through and I can always see a lot of reason why you're not getting your prayers
 
 ### 完整英文 Transcript
 
@@ -1042,7 +1116,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–37:38 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:00](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=2160s) · 本段原话**：every single one of y'all that that you get through the circumstances you're going through. The valley of the shadow of death has expiration date.
+- **[36:39](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=2199s) · 本段原话**：Please like, subscribe, click the notification bell. It helps us with the algorithm. That's the only thing we ever ask you to do for us, honest to goodness.
+- **[36:49](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=2209s) · 他进行祷告**：Help us. It gets the gospel out. It gets the gospel out. It really truly does. It's helping us. We're believing for a million men and women soul army prayers. Yes. That they come on here and pray with us every day and we're taking this more serious because we are in the last of the last days, folks. And we're
+- **[37:24](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=2244s) · 本段原话**：God bless you all. Yes. It's Diane and I. We're signing out saying, "Put a smile on your face and a song in your heart." We love you and Jesus loves you. God bless you all and we'll see you again soon.
 
 ### 完整英文 Transcript
 

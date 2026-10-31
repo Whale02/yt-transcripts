@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 640；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-08)
 - [09. 32:00–34:34 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=0s) · 本段原话**：good morning family uh I have a heavy word to give today and so I made the recording for whenever I was in the spirit and what the Lord showed me but after watching it back I I really want to get across what you're about to watch how heavy this word really was you know
+- **[08:01](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=481s) · 本段原话**：pressure that pressure is what's going to create that beautiful pot that beautiful butterfly coming out of that cocoon to help you what for what's coming in into the next Glory stage many many people are living in sin many many people are living in compromise and you say oh the grace message oh this stuff that's happening
+- **[12:00](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=720s) · 他转述所听到的话**：everything you can in your life without grumbling and complaining father I choose to worship you today Father I choose to honor you today regardless of this pain you know I heard this in my spirit right now you know when Joseph was just doing everything he could to follow the lord and he flee from the woman trying
+- **[20:01](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=1201s) · 本段原话**：face and and you and you delight yourself into him and you and you worship him and he's so holy he's so worthy and you go before him with prayer and you and you and you seek him you will find him you will find him oh I feel him right I feel his presence oh my goodness
+- **[24:00](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=1440s) · 他进行祷告**：that they are not able to confuse or or or or distract me in any way I bind it in Jesus name I thank you Lord that I hear your voice and I hear it clearly on how to lead and guide my family I thank you Father that we are rising up as Leaders as men or women
+- **[32:02](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=1922s) · 本段原话**：voice in the process of the Refiner's Fire father oh Lord we worship you God say Abe
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=0s) · 本段原话**：good morning family uh I have a heavy word to give today and so I made the recording for whenever I was in the spirit and what the Lord showed me but after watching it back I I really want to get across what you're about to watch how heavy this word really was you know
+- **[00:48](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=48s) · 他描述所见**：II all all it was it was a very hard time in in America in world history whenever I'm praying and I'm seeing over and the Lord's showing me en vision when I'm praying the heaviness of what he showed me is it I I'm trying to let you be able to relate with it it's
+- **[01:50](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=110s) · 他描述所见**：don't want to add anything to it and you don't want to take anything away I want to convey what I saw and and and so that you're able to get the message that I Saul in the spirit so cuz you don't want to like I said you don't want to add your opinion to it he said Brandon there
+- **[03:09](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=189s) · 本段原话**：he and then he kept using the word kabad there's it's going to feel like an kabad and I have no idea what that word means a kabad but he said it will feel that there's a great kabot upon the land he said but I have not abandoned you he said I've have not I've not forsaken you
 
 ### 完整英文 Transcript
 
@@ -119,7 +137,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、地震、风暴与灾害、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、地震、风暴与灾害展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=240s) · 本段原话**：test and you're already awake through the Refiner's Fire he said you don't go through it again he said because you're awake but but just like the children of Israel he said whenever the they put the blood po Blood on the door and the Death Angel passed through son he said they could hear the whes and the cries of the
+- **[04:59](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=299s) · 本段原话**：judgement all it's kabad like this word kabad you're going to feel this way and you're going to feel that he's departed from America he's going to feel that he's departed from the earth it's going to be a great shaken but in this he said you will there are the people that are awake you will be the salt in the light
+- **[05:16](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=316s) · 他描述所见**：he said they will come to you and you'll have a a a sense of instruction to encourage them and tell them it's going to be okay but on the other side of this this kabad what you feel that's an kabad i saw a great I saw a great glorious Church a great shaking um after that
+- **[07:42](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=462s) · 本段原话**：pressure and through some refiner fire and through that cocoon you will become the beautiful butterfly that God has called you to be it it may look like it's not going to get over it may look like things are falling apart but you keep pushing you keep stretching you keep moving Ming your wings and in that
 
 ### 完整英文 Transcript
 
@@ -227,7 +252,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=481s) · 本段原话**：pressure that pressure is what's going to create that beautiful pot that beautiful butterfly coming out of that cocoon to help you what for what's coming in into the next Glory stage many many people are living in sin many many people are living in compromise and you say oh the grace message oh this stuff that's happening
+- **[09:15](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=555s) · 本段原话**：going through a major test he said the teacher and the the principal do or whoever's take over the test he says does not talk he said I'm they're silent in the test until you pass the test and the test is finished and then I'll tell you your grade that's what happens they grade the test they they give it back to
+- **[10:27](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=627s) · 本段原话**：better be praying in the spirit you better start seeking him with prayer and fasting listening to his voice because you there is there is there is very hard days very sobering days coming to a lot of people and they're going to feel like I said like there's an eabod on their life but in this if they turn away and
+- **[11:26](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=686s) · 本段原话**：but he would always encourage me and give me that tug inside of my spirit to say I'm still there Brandon you're going through something but but in the on the other side of the of the pressure and the pain it's going to be beautiful for you but if I remove that cocoon off of
 
 ### 完整英文 Transcript
 
@@ -334,7 +366,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=720s) · 他转述所听到的话**：everything you can in your life without grumbling and complaining father I choose to worship you today Father I choose to honor you today regardless of this pain you know I heard this in my spirit right now you know when Joseph was just doing everything he could to follow the lord and he flee from the woman trying
+- **[13:45](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=825s) · 他表达判断**：in that he didn't know in 10 hours that there was going to be a great turnaround and he would be second in command of all of Egypt whenever he was even probably 5 minutes into it standing in front of pharaoh and interpreting the dream he didn't know that that that there there was going to be a great turnaround in
+- **[14:01](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=841s) · 他表达判断**：his life to tell him there's seven years of plenty and seven years of famine coming but you need to prepare and in that process of his Refiner's Fire God promoted him and made him great I think people don't realize until you are tested you're never able to stand in the in in in a
+- **[14:49](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=889s) · 本段原话**：call the ikabod we have you have got to push into him you've got to learn how to believe him if you're watching this video and it's at a later time and the refiner fire is taking place right now keep pressing don't give up it's going to get better on the other side of the
 
 ### 完整英文 Transcript
 
@@ -440,7 +479,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=961s) · 本段原话**：and you're going to be bold as a lion and you're going to deliver the words that I'm telling you son or or or I have consequences for my own life I'm just trying to warn you about what God is trying to tell you about what's coming but if you're awake uh you're already
+- **[17:16](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=1036s) · 本段原话**：not I'm not going to sit here and lie to you you you all I need to tell you there is sometimes maybe the Refiner's Fire might be a little stronger on some people than others but at the but but um it's a process that it actually I want to say it kind of It kind of stinks a
+- **[18:13](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=1093s) · 本段原话**：was like that that is a it sounds very heavy Jesus is coming Jesus is coming you all but but he's coming back and there and there's still there's still a a pressure coming to the church there's still stuff happening I've said this and I like I said I've said enough so father I just thank you for your people I thank
+- **[19:14](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=1154s) · 本段原话**：channel that are very wealthy and if you're listening you won't lose your wealth he wants to he he doesn't it's not a thief to come to steal kill and destroy there's a lot of things you can you can line yourself up with him and and he always protects his people just like he did Joseph but if you are
 
 ### 完整英文 Transcript
 
@@ -547,7 +593,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=1201s) · 本段原话**：face and and you and you delight yourself into him and you and you worship him and he's so holy he's so worthy and you go before him with prayer and you and you and you seek him you will find him you will find him oh I feel him right I feel his presence oh my goodness
+- **[21:42](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=1302s) · 本段原话**：your presence there's fullness of joy Glory Glory Glory I bask in your glory I I I sit I sit and I let you you overshadow me with your presence father it's your you're I run to that secret place of the most high even in Refiner's Fire run to him run to Him Father I I worship
+- **[22:49](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=1369s) · 本段原话**：some people need to move and relocate some people need to find another job some people need to to know to St store up money or to to to to put their money in a certain place or do certain things help them to have wisdom and boldness to do the things that you're telling them
+- **[23:31](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=1411s) · 本段原话**：the right road going the right direction at all times and I don't have any detours messing up any wasted I don't want any waste of time I thank you Father that I am not a Time waster I'm quick to obey and I'm quick to listen to what you've called me to do I thank you Father that I am not
 
 ### 完整英文 Transcript
 
@@ -638,7 +691,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=1440s) · 他进行祷告**：that they are not able to confuse or or or or distract me in any way I bind it in Jesus name I thank you Lord that I hear your voice and I hear it clearly on how to lead and guide my family I thank you Father that we are rising up as Leaders as men or women
+- **[24:20](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=1460s) · 本段原话**：that if you may be a single mom you may be a person who's that that might not even ever been married that you are rising up as as lead leaders of your home men you rise up and you become what God has called you to be to lead your families into victory that you are the backbone of the
+- **[24:41](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=1481s) · 本段原话**：home that that Jesus is is the is the Cornerstone and that you are able to help you lead your families and and be the spiritual leader that you need to be teaching them the word praying over them praying over your wife leading your wife teach teaching her teach showing her the love of God love your wife as
+- **[25:02](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=1502s) · 他进行祷告**：Christ loved the church and gave himself for it honor her respect her pray for one another in your home you're going to need to learn how to lean on each other you need to learn how to pray for one another showing the love of God to your neighbor oh Lord we worship
 
 ### 完整英文 Transcript
 
@@ -690,7 +750,12 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:37](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=1837s) · 本段原话**：Stillness you were there in this in the quiet place you are there oh
+- **[31:19](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=1879s) · 本段原话**：humidity oh the people have mercy oh God as one crying in the wilderness father for what is coming you show me father have mercy on the people oh God have mercy but not our will but yours be
 
 ### 完整英文 Transcript
 
@@ -719,7 +784,13 @@
 <a id="section-09"></a>
 ## 09. 32:00–34:34 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:02](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=1922s) · 本段原话**：voice in the process of the Refiner's Fire father oh Lord we worship you God say Abe
+- **[33:49](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=2029s) · 本段原话**：Christ I've got more praying to do I'm not going to do it on camera but I just want to say uh thank you for watching um I appreciate all your support all all the uh likes on my
+- **[34:21](https://www.youtube.com/watch?v=PgpRkOPR_Vc&t=2061s) · 本段原话**：videos all the love y all show me and um put a smile on your face and a song in your heart Jesus loves you so much and we'll see you next time bye-bye
 
 ### 完整英文 Transcript
 

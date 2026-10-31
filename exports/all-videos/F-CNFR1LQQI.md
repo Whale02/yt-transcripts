@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1865；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 70:00–76:59 · 祷告、敬拜与现场互动、经济、银行与市场](#section-11)
 - [12. 77:00–81:48 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:53](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=113s) · 他描述所见**：Yeah. Pretty cool, though. So, uh, we're going to see it. And so, uh, what what is that saying about America? When we were in prayer on, uh, last week, we saw, uh, uh, many, many, again, the Lord repeated himself to tell us many, many 9/11s in the vision. And I saw Chicago. I saw uh
+- **[15:15](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=915s) · 他描述所见**：They're 50 gallon barrels of like whiskey barrels and they're rolling and they're breaking. He's trying to build alliances with Europe. I see alliances with Europe. I see. I see Mcronone. I see I see other other people. There's a woman a woman. There there's there's trade agreements trying to help Canada, but Canada's in trouble. Canada
+- **[28:36](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=1716s) · 本段原话**：32 years, four typhoons at once in August. Amazing. The water's so hot and it's uh it is the water is hot out there and it's and and obviously there's something going on which they called a a super uh El Nino or whatever.
+- **[50:09](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=3009s) · 他描述所见**：Look at these guys. They're like, "We're going to we're going to make this happen regardless if they stall it on the 15th and they don't vote it." I say, I saw two votes that it will be passed by one. Now, let's see about that. I saw a reaching over the aisle and I saw one person
+- **[63:02](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=3782s) · 他描述所见**：not trying to um uh be koi or whatever you want to call it. And people are we get a lot of emails and and but but I'm not going to cast my my um pearls before the swine very much. If I see something and you're like Brandon, you should be telling us everything. No, I shouldn't.
+- **[77:00](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=4620s) · 本段原话**：Some of you do. But we love you. Like I said, you got to know when to hold them, know when to fold them, know when to walk away, know when to run. You better count your money. When you're sitting at the table, there'll be time enough to count it when the dealing's done.
+
 <a id="section-01"></a>
 ## 01. 00:00–06:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、经济、银行与市场。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:53](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=113s) · 他描述所见**：Yeah. Pretty cool, though. So, uh, we're going to see it. And so, uh, what what is that saying about America? When we were in prayer on, uh, last week, we saw, uh, uh, many, many, again, the Lord repeated himself to tell us many, many 9/11s in the vision. And I saw Chicago. I saw uh
+- **[03:04](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=184s) · 他描述所见**：ground zero like it was with 9/11. I saw a major some kind of event taking place in Toronto. Then he showed me British Columbia will have a major earthquake. And he said, "When these events take place, I saw even more so a shaking of people saying we're leading leaving Canada. we want to join with
+- **[04:00](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=240s) · 他描述所见**：I saw Canada, America, and Mexico becoming one, a one currency. Canada, America, and Mexico. They had a new dollar type currency. So, the Lord warned us about this a long time ago and then he brought it up again. And so now we see Trump and Carney bickering back and forth and we see this blood moon
+- **[05:23](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=323s) · 他描述所见**：question whether or not they can go someplace. And you've never had to do that before because we've always had that u a sense of security. But the Lord said it will be challenged in the days ahead. And so we pray over Don uh Don Jr. We pray over President Trump. I see a lot of this rumors and stuff right now
 
 ### 完整英文 Transcript
 
@@ -188,7 +206,14 @@
 <a id="section-02"></a>
 ## 02. 07:00–13:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Iran、Russia、China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[07:34](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=454s) · 他描述所见**：And then I saw Elon Musk and I saw power plants and I saw deals coming with with uh cobalt and and and uh a lithium, sorry, a lithium. And the Lord showed us uh major uh economic things coming with green cars, new ways to do oil. He's warned us about these things. And I saw Chicago and two
+- **[08:53](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=533s) · 他描述所见**：Though that's what the Lord used it specifically. He used those words. He said, "A D-Day is coming." Now, they're saying it's for Iran, but I saw concerning America. I heard it in the news. A D-Day is coming. A new Pearl Harbor, a new A D-Day, a Iran war update.
+- **[10:04](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=604s) · 他描述所见**：interesting. Kind of like the the cars lined up down the road for over a mile long. I see it. And it's happening in Russia. And so Putin is mad as a hornet because this is what Russia look like right now. And Russia, they're lining up so far that they're all day long to get
+- **[12:38](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=758s) · 本段原话**：Carney is going to war trade war the tone I because we're attacked um like you're at war when you get attacked we got attacked um US put 50% we waited until the United States decided to actually implement uh these so-called 338 tariffs. Uh that's fine. We've got the reserves, we got the resilience, we've
 
 ### 完整英文 Transcript
 
@@ -346,7 +371,14 @@
 <a id="section-03"></a>
 ## 03. 14:00–20:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、经济、银行与市场。 提到的地点：Canada、Europe、Ukraine、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:15](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=915s) · 他描述所见**：They're 50 gallon barrels of like whiskey barrels and they're rolling and they're breaking. He's trying to build alliances with Europe. I see alliances with Europe. I see. I see Mcronone. I see I see other other people. There's a woman a woman. There there's there's trade agreements trying to help Canada, but Canada's in trouble. Canada
+- **[17:08](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=1028s) · 他描述所见**：I said, "Why watching?" I said, "I see a a Illuminati eye taking place over uh Toronto in the days ahead." And the Lord said, "Work while it is day, for a night is coming concerning Canada. I saw great persecution coming to Canada." Okay.
+- **[17:27](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=1047s) · 他描述所见**：Canada wants the benefits of being a state without being one. They have also charged our great farmers for many years massive amount of tariffs. No more President Donald J. Trump. So, let's see what happens with this. I I give him less than a couple months [snorts] uh with all the drama and I see that uh
+- **[19:29](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=1169s) · 他描述所见**：They're trying these people are trying to keep the euro. I see these people and they're trying to figure out how to devise a plan financially like stirring things. But it's all centered around war war.
 
 ### 完整英文 Transcript
 
@@ -517,7 +549,14 @@
 <a id="section-04"></a>
 ## 04. 21:00–27:59 · 战争与国际事务、美国选举与投票
 
-**中文章节摘要**：本段涉及：战争与国际事务、美国选举与投票、祷告、敬拜与现场互动。 提到的地点：Russia、Ukraine。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、美国选举与投票展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[21:19](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=1279s) · 他描述所见**：I see women. People are dying. Bombs are going off. People are getting hurt. But men are on the battlefield. And I'm seeing women with I see brown hair in a ponytail. People are passing away as they're running away trying to get away out of harm's danger.
+- **[22:34](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=1354s) · 他描述所见**：He's he's poking he's poking the bear. I see he's going to use unconventional weapons of war. There is a major thing about to happen. No more cat and mouse.
+- **[23:33](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=1413s) · 本段原话**：So Russia threatens to attack British factories. Putin advisor says Moscow will not rule out semi-ilitary action. So will it will it get uh more escalated because Britain's giving them uh stuff? Trump rejects push to give Ukrainian Starlink long range range strikes on Russia. So he's not gonna give it to him. Wow.
+- **[25:52](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=1552s) · 他进行祷告**：What? What was that? Supreme Court allows Trump to implement key parts of order restricting melon voting ahead of midterms. We need all the help we can get concerning midterms, y'all. We've got to pray especially for the Senate. I keep I have major major alarm bells going off on in the inside of me for
 
 ### 完整英文 Transcript
 
@@ -674,7 +713,14 @@
 <a id="section-05"></a>
 ## 05. 28:00–34:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、祷告、敬拜与现场互动。 提到的地点：California。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:36](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=1716s) · 本段原话**：32 years, four typhoons at once in August. Amazing. The water's so hot and it's uh it is the water is hot out there and it's and and obviously there's something going on which they called a a super uh El Nino or whatever.
+- **[30:08](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=1808s) · 他表达判断**：Ask Skidro. Huh? All right. Go ahead. What is that? Okay. So, this is the drought. The Lord showed us major droughts coming. And I think this is interesting. Play this real quick.
+- **[31:50](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=1910s) · 本段原话**：So then we see uh uh they're trying to talk about how to hurt Baron Trump and they're given very uh major details Iran is about this young man and they're saying he's in the apartment. They tell where he lives and they're giving a $10 million bounty on his head. my wife told me. And they're
+- **[34:06](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=2046s) · 他描述所见**：Then I went to President Trump and I could see him weeping because of what had happened. And then oo I'm not I when I get into I see start seeing that vision again. I'm not going to I could I could see uh the the funeral and he could barely walk. He was so grieving.
 
 ### 完整英文 Transcript
 
@@ -842,7 +888,14 @@
 <a id="section-06"></a>
 ## 06. 35:00–41:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:31](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=2131s) · 他描述所见**：And so uh interesting, you know, they're talking this this stuff on the news over there about a $10 million bounty even on uh Baron. And I said Baron went into the new building with uh Krypto. And I said I saw him going with Eric and Don Jr.
+- **[36:28](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=2188s) · 他表达判断**：praying for Don Jr., pray for uh Trump, pray for a new 911 event, many, many 911s, praying for electric grid. You know, there's so many things the Lord has brought up to us to pray over. And I believe we're we're doing a great job, but we still got work to do. So uh so we
+- **[37:57](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=2277s) · 他描述所见**：going into the fall, our elections, distractions against our elections. All right. Now, I'm going to show you all something else that I think is amazing that Braden found. You know, I a couple of weeks ago, maybe it was a month ago, I don't remember, maybe back in July, I saw uh that they would get
+- **[41:16](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=2476s) · 他表达判断**：deep?" They're asked, they have a GoFundMe even for this. And I and I don't know how legitimate these people are, but I think they need like a million dollars to really go in and really escape all this. They're saying 2027 they want to do this next year. And uh I I just thought it was cool because
 
 ### 完整英文 Transcript
 
@@ -1010,7 +1063,14 @@
 <a id="section-07"></a>
 ## 07. 42:00–48:59 · 政党与政治人物、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：政党与政治人物、地震、风暴与灾害、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕政党与政治人物、地震、风暴与灾害展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[43:00](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=2580s) · 本段原话**：proof that there's something there so that some big company like Elon Musk would fund the whole thing. You know, I'm sure that's what they're looking for is funders and to prove that there's stuff there to show that they believe this is actually Noah's Ark. And if they can prove that, I'm sure they're going
+- **[45:43](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=2743s) · 本段原话**：Wow. This sea shell is embedded in the sedimentary rock. And the shell is not even fossilized. It looks brand new. And we're over 5,000 ft elevation. This rock layer is full of these seashells. Look at that. Wow. Not just seashells, though. Follow me. I'm going to show you a really awesome what we call in America
+- **[47:10](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=2830s) · 他描述所见**：It was it was uh petrified wood. So, it's cool to see a vision come to pass weeks later in the news and in Fox and other people talking. Now, this is interesting. Jared Kushner. Now, he is talking to uh uh the Democrats. And who is he talking to? Booker. I said, "Watch Booker in the days ahead.
+- **[47:45](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=2865s) · 他描述所见**：It's time for the newer ones to rise up. And I saw Booker talking with Gavin. And so we see him and now Kushner is having meetings with him of how they can bring the Democratic party with the Republicans and have some bipartisan agreements. Common ground. What is some common ground? Jared Kushner talking to
 
 ### 完整英文 Transcript
 
@@ -1194,7 +1254,14 @@
 <a id="section-08"></a>
 ## 08. 49:00–55:59 · 预言、梦境与异象、美国选举与投票
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、美国选举与投票、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、美国选举与投票展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:09](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=3009s) · 他描述所见**：Look at these guys. They're like, "We're going to we're going to make this happen regardless if they stall it on the 15th and they don't vote it." I say, I saw two votes that it will be passed by one. Now, let's see about that. I saw a reaching over the aisle and I saw one person
+- **[50:28](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=3028s) · 他描述所见**：shaking and making it work and then I saw a faded person in the background. So I know a a vote is a vote, but what does that mean? Cuz never some things are uh symbolic. Then I thought this was interesting. A rare devil's horn sunrise.
+- **[52:36](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=3156s) · 他描述所见**：was his mind is uh thinking on a different level than than anybody he is developing the end time system and it's amazing because of what I saw about the about this uh doubling of wisdom on him and we were talking about it uh uh tonight at dinner Diane and I what drives a man that is as rich as him
+- **[53:55](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=3235s) · 他表达判断**：It It's amazing to see an Elon Musk come on the scene and have like wisdom beyond anybody I've ever seen before um in this modern day or any any any other time. I mean, it's it's incredible and what's happening all around him. I I believe an acceleration of things is about to take place with his uh whole um
 
 ### 完整英文 Transcript
 
@@ -1348,7 +1415,14 @@
 <a id="section-09"></a>
 ## 09. 56:00–62:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、AI、科技与监控。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[56:02](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=3362s) · 他描述所见**：Is this uh the drug cartel that I said you'll see major uprisings and there'll be um what remember whenever the Lord showed us that there will be uh turf wars and I saw Claudia losing control and she'll be drugged out of her government or is this Iran or but I I would assume it's drug wars
+- **[57:56](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=3476s) · 他描述所见**：I saw a text trying to come again you all on our oil infrastructure of America and the Lord said pray for your pipelines. Pray for your uh for total Oklahoma. pray for for for uh Houston and and and Louisiana uh for their protection for the for for sabotage um retali retaliation. Um and we see and
+- **[59:03](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=3543s) · 他描述所见**：So this is the is this is this what triggers you know just just I don't want to add to or take away from anything but I'm saying I saw Turkey getting very upset and they became a vampire. He the leader and he shut down the Black Sea uh the straight that they blocked all boats
+- **[59:59](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=3599s) · 他描述所见**：So, wow. How many now? I wonder how many have went up in flames like that. How many refineries of gas and oil? And if you go back to the vision that I saw, I saw tur uh Europe will have a very hard winter with fuel cost. There's going to be major retaliation in the days ahead.
 
 ### 完整英文 Transcript
 
@@ -1502,7 +1576,14 @@
 <a id="section-10"></a>
 ## 10. 63:00–69:59 · 祷告、敬拜与现场互动、经济、银行与市场
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、经济、银行与市场、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、经济、银行与市场展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[63:02](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=3782s) · 他描述所见**：not trying to um uh be koi or whatever you want to call it. And people are we get a lot of emails and and but but I'm not going to cast my my um pearls before the swine very much. If I see something and you're like Brandon, you should be telling us everything. No, I shouldn't.
+- **[64:28](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=3868s) · 他描述所见**：You have no idea what I was saying. I said on the day that that man manifest it will be at a certain rate Bitcoin and it will double and it will triple what I saw in the vision. All in my opinion. Is that financial advice?
+- **[66:12](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=3972s) · 他表达判断**：I'm not a financial adviser. I told you something that I believe in that I pray over. Do I believe it's going to do something? I've prayed over this for over 15 years. Plus, 15 years plus interceding and praying because of what I I felt the Lord told me. And I just brought you in on it and
+- **[68:31](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=4111s) · 他表达判断**：So when you get it and you get it for 30 bucks and I held on to it, if it goes to nothing, I don't and and and and I [clears throat] can't sell it on eBay anymore, I don't know. I have to find somewhere else to do it. I don't know to sell it or buy it or whatever. I think
 
 ### 完整英文 Transcript
 
@@ -1688,7 +1769,14 @@
 <a id="section-11"></a>
 ## 11. 70:00–76:59 · 祷告、敬拜与现场互动、经济、银行与市场
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、经济、银行与市场、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、经济、银行与市场展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[70:22](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=4222s) · 本段原话**：Well, if that's what they want to believe, fine. But I don't believe God's got a chance. And I don't believe God gives lucky seven7 numbers the casino and you're going to sit there and pull the slot machine and you're gonna win uh the lucky 777 and be worth a couple hundred,000 because God gave you the
+- **[72:33](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=4353s) · 本段原话**：From what I understand, I've not sold any of it. until I had to because I had to pay a bill and I needed my electric bill paid so I had to sell some or I needed my water bill paid or I had a doctor bill so I had to sell some. I remember uh we we were behind on some
+- **[74:29](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=4469s) · 他描述所见**：We started doing eBay. I go well whatever. You lose hope in it after a while, but but it's still there. And so when I see it in the spirit and the Lord shows me something about Saudi Arabia and this, I tell you what I see. I can hide it like I do the the rate of of the
+- **[76:39](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=4599s) · 他表达判断**：This is something interesting." I don't know. I could bring this piece of paper to you and say I think you should pray about this book. It's something interesting how to use it. The authority of the believer. It's something interesting to me. This changed my life. But it's all in my opinion of what I feel it will
 
 ### 完整英文 Transcript
 
@@ -1874,7 +1962,14 @@
 <a id="section-12"></a>
 ## 12. 77:00–81:48 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[77:00](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=4620s) · 本段原话**：Some of you do. But we love you. Like I said, you got to know when to hold them, know when to fold them, know when to walk away, know when to run. You better count your money. When you're sitting at the table, there'll be time enough to count it when the dealing's done.
+- **[78:52](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=4732s) · 本段原话**：And if you think you can do it better, start a YouTube channel and I'll come watch you and see how people throw rocks at you and eggs. But I'll be one supporting you, praying for you. Say, "God, help them."
+- **[79:56](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=4796s) · 本段原话**：Nobody knows about Russia standing in line and fighting for gas and punching each other in the face for that. You don't see that on CNN, Fox or anything that that's going on. These are this is all footage of people things are getting serious in Russia and people aren't talking about it. What's going on with
+- **[81:24](https://www.youtube.com/watch?v=F-CNFR1LQQI&t=4884s) · 他表达判断**：bell, click the thumbs up, do everything you can to help us with the algorithm, and we will see you tomorrow. Uh we love you all. Um I believe it's almost over an hour or so video for you today. But uh remember, put a smile on your face and a song in your heart. Jesus loves
 
 ### 完整英文 Transcript
 

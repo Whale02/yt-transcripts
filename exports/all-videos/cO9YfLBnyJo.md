@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 498；**章节数**: 6；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -16,10 +16,28 @@
 - [05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-05)
 - [06. 20:00–21:21 · 教会、复兴与信仰](#section-06)
 
+## 全片概述与 Key Points
+
+全片共 6 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:34](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=34s) · 本段原话**：it's almost 10 years so I just was uh excited to be able to finally get something that I've had inside of me this whole time out into uh reality here you go this I'm gonna show you it's going to be right here and so this is the black represents Isis okay the white represents uh Al-Qaeda and the
+- **[04:27](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=267s) · 本段原话**：going to take you to algebra level here y'all you need to to to to to to go deeper in the word and what the the word is trying to tell you we have dominion and authority and power as Believers since Jesus Christ died on the cross and he said it is finished he
+- **[08:02](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=482s) · 他进行祷告**：want worship they want to worship him they worship the Creator and so uh to pray to an angel's dumb that those the comments are dumb listen what you do is you commission them I say go ministering spirits in the name of Jesus protect my house from the north to south the East the West I send Angels
+- **[12:25](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=745s) · 本段原话**：read the word and grow and stop um stop this we we've got to come up higher we've got we've got to start taking our Authority and our Dominion and doing what he's commission is to do setting people free from these demons that are binding people up in their dreams and their sleep and they're
+- **[16:00](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=960s) · 本段原话**：sleep and anoint your pillow with oil and say I refuse to be tormented anymore in my sleep I plead the blood over my dreams he gives his his beloved restful sleep I cover my dreams in the blood I cover my mind in the blood I will not be tormented in my sleep put a bloodline
+- **[20:00](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=1200s) · 本段原话**：up and they got tore up from those Devils because they didn't know their Authority you need to have authority before you go trying to cast Devils out of people you need to understand who you are in Christ because because the devil ain't playing games y'all you under you need to stop playing games with him and
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:34](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=34s) · 本段原话**：it's almost 10 years so I just was uh excited to be able to finally get something that I've had inside of me this whole time out into uh reality here you go this I'm gonna show you it's going to be right here and so this is the black represents Isis okay the white represents uh Al-Qaeda and the
+- **[01:58](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=118s) · 他描述所见**：and my for what I had remembered in my mind of everything that I saw in Tribulation I'm trying to bring each uh thing that I that the Lord puts on my heart to show you all so that uh I guess the people that are left here know what's coming I mean you know and to
+- **[02:15](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=135s) · 他描述所见**：show you how close we are to Jesus coming to get us I hope you're ready you know the time is so short Jesus Christ is about to come back and get us and we're going to go home in the Rapture I know there's a lot of people that do not believe in the Rapture I see
+- **[03:10](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=190s) · 本段原话**：in Chris and concentration camps millions of people and and they're not going to fight back and I guess the Antichrist is just gonna kill all these people and the Christians are all going to die I'm trying to figure it out I don't understand going through the whole tribulation Theory I I'm I'm trying to
 
 ### 完整英文 Transcript
 
@@ -126,7 +144,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:27](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=267s) · 本段原话**：going to take you to algebra level here y'all you need to to to to to to go deeper in the word and what the the word is trying to tell you we have dominion and authority and power as Believers since Jesus Christ died on the cross and he said it is finished he
+- **[05:05](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=305s) · 本段原话**：the word I don't I I'm not going to quote exactly chapter and verse here for you but it says that so as he is so are we in this earth okay so the same power that raised Jesus Christ from the dead dwells on the inside of you okay so so we have that
+- **[06:15](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=375s) · 本段原话**：States has an ambassador and they go throughout all of the areas and they have the United States of America backing them they have all finances they need they have all the military backing they need they have whatever they need we are backed by the Lord Jesus Christ and the heaven Heavens it from God God our father he is backing
+- **[07:26](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=446s) · 本段原话**：are looking to the face of the lord they're always looking to him they don't ever take any praise and if they do it's a demon remember that it's never God uh it's never God's angels it's the fallen angels that want worship and praise every time every time they get puffed up they want their prideful and they want
 
 ### 完整英文 Transcript
 
@@ -219,7 +244,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:02](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=482s) · 他进行祷告**：want worship they want to worship him they worship the Creator and so uh to pray to an angel's dumb that those the comments are dumb listen what you do is you commission them I say go ministering spirits in the name of Jesus protect my house from the north to south the East the West I send Angels
+- **[09:08](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=548s) · 他描述所见**：go to somewhere I father I see my angels with him right now I commission my angels laughs I just I don't understand why that's so hard why is that so hard I just go wow I commission my angels when I go to the mall or I go to uh to Walmart or wherever father I think even
+- **[10:39](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=639s) · 本段原话**：and I hate talking about the devil hate it but I'm going to tell you some things you need to know your enemy and you need to understand that uh most Christians are are they get off they get off by shaking in the aisle and having a holy ghost Goosebumps satanists are into kill still destroyed
+- **[11:23](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=683s) · 本段原话**：if they've tapped into it as as devil worshipers to be able to use fallen angels to be able to do their bidding to do do to do their assignments to inflict stuff on the the body of Christ it's like why are you so uh slow they're using the Demonic forces and doing it we have the power and authority
 
 ### 完整英文 Transcript
 
@@ -323,7 +355,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 物资、能源与供应链、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:25](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=745s) · 本段原话**：read the word and grow and stop um stop this we we've got to come up higher we've got we've got to start taking our Authority and our Dominion and doing what he's commission is to do setting people free from these demons that are binding people up in their dreams and their sleep and they're
+- **[13:28](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=808s) · 本段原话**：your blood is just like it was with the children of Israel when they put the blood upon the doorpost from the lamb we have a new lamb Jesus he died for us now I do it by faith I play his apply his blood upon my doorposts and there's not a devil in hell that can cross that
+- **[14:22](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=862s) · 本段原话**：Calamity comes nigh you I put it on my shoes the olive oil is what I I use I use olive oil and I March around my house and I put a bloodline around my house and I say the devil can't cross that bloodline no witches no incantations no chance no astral projection can come into my house
+- **[15:25](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=925s) · 本段原话**：he doesn't want you Bound by the devil he doesn't want you to have strongholds from addictions to all kinds of things he wants you free For Whom the son has set free is free indeed do you understand that there's more to this that I need to share but you need to go and take the olive
 
 ### 完整英文 Transcript
 
@@ -431,7 +470,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=960s) · 本段原话**：sleep and anoint your pillow with oil and say I refuse to be tormented anymore in my sleep I plead the blood over my dreams he gives his his beloved restful sleep I cover my dreams in the blood I cover my mind in the blood I will not be tormented in my sleep put a bloodline
+- **[18:05](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=1085s) · 本段原话**：they think it's fun and games but I'm telling you you play A Realm of Darkness and they're gonna get you you better not play around with Darkness you better understand it's time to get in the light playing Ouija boards and Dungeons and Dragons and doing Seance stuff and listening to bad satanic music you're
+- **[19:09](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=1149s) · 本段原话**：when the people when I started growling and acting crazy because they wanted to admit me into a sane Asylum they wanted to put me into an institution and and don't me down with all kinds of medications and my mom and dad wouldn't let that happen and they went and they they took me to church to get me help
+- **[19:40](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=1180s) · 他进行祷告**：pray for me the Devils inside of me got stronger and so I'm trying to tell you you cannot walk in fear to to a devil you need to have boldness and Faith do you remember the seven sons of Sheba uh they they they they they they were beat up and tore up from the from the floor
 
 ### 完整英文 Transcript
 
@@ -534,7 +580,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–21:21 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=1200s) · 本段原话**：up and they got tore up from those Devils because they didn't know their Authority you need to have authority before you go trying to cast Devils out of people you need to understand who you are in Christ because because the devil ain't playing games y'all you under you need to stop playing games with him and
+- **[20:19](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=1219s) · 本段原话**：you need to take your Authority that's what I'm trying to tell you well I got free and I'm gonna tell you when you were as bound as what I was you want to tell everybody you can that that Jesus Christ will set you free and I'm telling you I'll never be uh bound
+- **[20:38](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=1238s) · 本段原话**：another day in my life not by another demonic Spirit ever like that you don't open the door to the devil because when you do he'll run right in on you you even understand that don't play games with sin because you're opening the door for an attack and he'll attach himself to you and get
+- **[20:58](https://www.youtube.com/watch?v=cO9YfLBnyJo&t=1258s) · 本段原话**：to try to get a stronghold on you and try to run your life and so you need to stay in the word you need to stay prayed up and you need to use wisdom I know this is a pretty strong video but I just felt like it's necessary you need to understand understand this stuff
 
 ### 完整英文 Transcript
 

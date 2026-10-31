@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 345；**章节数**: 4；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -14,10 +14,26 @@
 - [03. 08:00–11:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-03)
 - [04. 12:00–15:35 · 预言、梦境与异象、教会、复兴与信仰](#section-04)
 
+## 全片概述与 Key Points
+
+全片共 4 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=0s) · 他描述所见**：I'm telling you all, this is just the beginning. I want you to listen to me very carefully. This is just the beginning of what's about to happen. I saw George behind the scenes. And George was getting the commands from Satan himself. Again, I saw the devil communicating to and they were they were
+- **[04:02](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=242s) · 他描述所见**：concerning your your governor race is very important that you pray over this already. For I saw Governor Stitz being brought down and a new Democratic person trying to come in." And the Lord said 2026 is the year of a fix.
+- **[08:32](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=512s) · 他描述所见**：And I saw an openeyed vision. And he said, "Do you see this what I'm showing you?" And the people were walking in having to think strategic of how they live their life in the days ahead because of the infrastructure uh shaking.
+- **[12:45](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=765s) · 他描述所见**：A boogeyman is coming. I've warned you. A boogeyman is coming. I want you to remember this. There'll be attacks against churches. There'll be attacks against churches in the days ahead. I saw major disruption in churches. I saw a major minister major minister be taken out in his service. And the Lord said to
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：Oklahoma、Texas。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=0s) · 他描述所见**：I'm telling you all, this is just the beginning. I want you to listen to me very carefully. This is just the beginning of what's about to happen. I saw George behind the scenes. And George was getting the commands from Satan himself. Again, I saw the devil communicating to and they were they were
+- **[00:38](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=38s) · 他描述所见**：I saw disruption in in major key cities. Denver was one of them. I saw a a man in in military gear with an AR-15 opening fire on crowds in the days ahead. I don't know when this happens, but I saw this man. He had u a camo on. He had a military style helmet on and he had a
+- **[01:21](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=81s) · 他描述所见**：Then the Lord showed me Miami area. I saw a man on uh tall buildings and he was using a sniper rifle. He was uh Hispanic origin I believe maybe Cuban some. You could see his skin was kind of olive, darker skin. Okay. And he was on top in a hidden like area and he was
+- **[02:56](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=176s) · 他描述所见**：population. I saw uh Texas standing strong against this movement, very strong. And it's like I saw a black outline around the state of Texas like borders sub subeding from the union.
 
 ### 完整英文 Transcript
 
@@ -107,7 +123,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:02](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=242s) · 他描述所见**：concerning your your governor race is very important that you pray over this already. For I saw Governor Stitz being brought down and a new Democratic person trying to come in." And the Lord said 2026 is the year of a fix.
+- **[05:34](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=334s) · 他描述所见**：The events that they're planning will be when you're not watching. If you remember what I prophesied about North Korea and them being a social pariah, Kim Jong-un, and that China was behind this, and I saw Kim Jong-un, and I've warned you several times in the last several videos, them being promised a position in the
+- **[06:03](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=363s) · 他描述所见**：bricks. you, we'll get you out underneath the western uh uh sanctions in the boot, right? We're going to create our own thing, right? So, I saw Russia again.
+- **[07:28](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=448s) · 他描述所见**：It's very important that you pray about these things and not get in fear about it. But okay, so I saw an uprising. I saw tormmo and I saw George paying for this stuff to keep continuing in the days ahead. I'm talking major disruptions. But it's not just him. I'm talking major uh trying to bring
 
 ### 完整英文 Transcript
 
@@ -203,7 +226,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、治安、袭击与安全。 提到的地点：New York、Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:32](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=512s) · 他描述所见**：And I saw an openeyed vision. And he said, "Do you see this what I'm showing you?" And the people were walking in having to think strategic of how they live their life in the days ahead because of the infrastructure uh shaking.
+- **[09:29](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=569s) · 本段原话**：enforcements. But as an uprising and a cancer within the country, trying to take away that freedom of peace, a freedom of of of of security and safety, making you uneasy, trying to develop a a a way of lifestyle of making you feel bondage is what the enemy is going to try to do.
+- **[10:48](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=648s) · 他描述所见**：And so, not saying that all the red states are perfect, but I'm telling you folks that there's more good in the red than there is bad. I saw a a continual escalation in Israel.
+- **[11:10](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=670s) · 他描述所见**：New York Yankees is the stadium I saw. New York. This is a major stadium. The Lord showed me the Los Angeles Dodgers. Major stadiums. The Lord said, "Pay attention to these stadiums. Pay attention to college football games where there's hundred,000 people or 80,000 people at a time in a college football game and they're all pay
 
 ### 完整英文 Transcript
 
@@ -306,7 +336,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:35 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 提到的地点：California。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:45](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=765s) · 他描述所见**：A boogeyman is coming. I've warned you. A boogeyman is coming. I want you to remember this. There'll be attacks against churches. There'll be attacks against churches in the days ahead. I saw major disruption in churches. I saw a major minister major minister be taken out in his service. And the Lord said to
+- **[13:47](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=827s) · 他描述所见**：God help him. And I pray and I'm not bringing up to fear, but I'm telling you, I heard a shot around the world and it trying to bring fear to go and have uh church services. I saw the strategic plan of the devil with with the soroses and these people trying to bring instability in America so that
+- **[14:34](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=874s) · 他描述所见**：And then if we bring another virus, they won't want to come again like co that worked. But God is saying, I'm raising up David's. I'm raising up people with the backbone. And you'll have brush harbor churches. I saw them in country in the country, not in major cities. I'm sawing people coming out in the country
+- **[14:54](https://www.youtube.com/watch?v=tXa9c_RJh2c&t=894s) · 他描述所见**：to worship to get away from major cities. I don't know why, but that's what I saw. And they were coming by the tens of thousands. We have to get busy and urgent about our father's business because I'm telling you what's coming.
 
 ### 完整英文 Transcript
 

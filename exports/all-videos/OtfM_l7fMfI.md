@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 756；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 50:00–52:02 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:36](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=36s) · 本段原话**：protection for for guidance for wisdom everything it's going to come out of prayer if you want you have to birth it in the Supernatural before you see it in the natural and and birthing it into Supernatural and what you're interceding for whether it be uh your spouse or for unsaved loved ones or
+- **[18:23](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=1103s) · 他进行祷告**：angel s go now in Jesus name in Jesus name we take authority over the Demonic stronghold in the name of Jesus we break it we break the power we break that assignments we break them in Jesus name foreign oh
+- **[26:43](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=1603s) · 本段原话**：Awakening under god um [Music] the rain the rain a new outpour a fresh Touch of Revival Upon This Nation upon the world a great Mighty Harvest of souls we call them
+- **[30:52](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=1852s) · 本段原话**：attack for In The Name Of The Lord it was important in the word of God when jethroat said to Moses you need some help here yeah and he chose men to help me
+- **[40:00](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=2400s) · 本段原话**：we ask for Mercy father give him Godly counsel and or a dream in the middle of the night name the government something to show him do not do this he knows of the new secretary of state who buy you to have right policies towards Israel yes
+- **[50:02](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=3002s) · 他进行祷告**：that urgency in father that the pastors would wake up and and preach Jesus is coming father I thank you Lord that they would start teaching the church on the blood and the power of the name of Jesus father I thank you Lord that there's Revelation knowledge that flows in these these people and the pastors and the evangelists and
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 提到的地点：Texas。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:36](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=36s) · 本段原话**：protection for for guidance for wisdom everything it's going to come out of prayer if you want you have to birth it in the Supernatural before you see it in the natural and and birthing it into Supernatural and what you're interceding for whether it be uh your spouse or for unsaved loved ones or
+- **[01:33](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=93s) · 本段原话**：where I'm gonna you know when we're praying you know they are praying you know this video the these ladies are praying for uh the election for for the presidential election and um you can put your faith you know prayer is timeless so it doesn't matter you know this is an older video but I'm
+- **[02:42](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=162s) · 他表达判断**：last video I think had like over 10 000 hits that is amazing do you realize if if it was 30 minutes at ten thousand that is what kind of uh mountains we move what what we're doing to change the spiritual atmosphere and the climate of our nations of our our cities of our states
+- **[03:37](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=217s) · 他进行祷告**：believing for extra finances and and my wife and I we want to let you know we pray for every single one of you your emails your your uh prayer request all of it you know nothing's too too big and nothing's too small you know you may have a hangnail it doesn't matter God
 
 ### 完整英文 Transcript
 
@@ -164,7 +182,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:15](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=315s) · 他进行祷告**：drought go now in Jesus name and we give you all the glory and honor and praise for it father we pray over the man in Pakistan and in his church and the church is burnt down we called back 7-4 with the devil's stole we call back restoration of the lives that were lost we thank you Lord for the family
+- **[06:42](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=402s) · 本段原话**：and there's a glory over that phone that home and all the families that are represented here that need a a breakthrough in finances we call breakthrough in the name of Jesus over their finances we call Deliverance over their children we call deliverance from demonic spirits in the name of Jesus we plead the blood of Jesus over their
+- **[08:17](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=497s) · 他进行祷告**：this video and my prayer focus is as you is my is the family my YouTube family I'm going to pray for you all and I'm going to intercede for your finances I'm going to intercede for your health and we're just going to pray in the tongues right now and that's what that's what I'm gonna
+- **[08:31](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=511s) · 他进行祷告**：I'm gonna Focus my prayers to and we're just gonna believe together when we're going to pray for pray with them now Okay and like I said I do these videos to help you stir yourself up so let's do this all right [Music] we're lifting it up now yes the decrease yes Lord the decree sure the decree we
 
 ### 完整英文 Transcript
 
@@ -290,7 +315,11 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节讨论主题：现场讲话（无可靠自动分类）。本节原文没有足够长的完整字幕片段可供可靠提取。
+
+### Key Points / 关键要点
+
+- 本节没有足够清晰的字幕可自动提取关键发言。
 
 ### 完整英文 Transcript
 
@@ -319,7 +348,11 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:23](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=1103s) · 他进行祷告**：angel s go now in Jesus name in Jesus name we take authority over the Demonic stronghold in the name of Jesus we break it we break the power we break that assignments we break them in Jesus name foreign oh
 
 ### 完整英文 Transcript
 
@@ -351,7 +384,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:48](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=1248s) · 本段原话**：so this is when we start to change into another River let's just wait another quiet it's another River fill it you can start to fill it you
+- **[21:22](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=1282s) · 本段原话**：start to pull with it it starts to change you can feel that you feel the pulse change [Music] all of Administration uh things that um might not be good all right just lift those things up to
+- **[21:53](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=1313s) · 他进行祷告**：the Lord right now whatever comes across your heart your own supplies we can pray over that is
+- **[23:07](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=1387s) · 本段原话**：to us yes yes we turn things around we're going to turn things around we can turn it around Chevrolet [Music] we play the plan
 
 ### 完整英文 Transcript
 
@@ -412,7 +452,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[26:43](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=1603s) · 本段原话**：Awakening under god um [Music] the rain the rain a new outpour a fresh Touch of Revival Upon This Nation upon the world a great Mighty Harvest of souls we call them
+- **[27:17](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=1637s) · 本段原话**：forth the mighty Harvest of souls father we call for them with an outpouring of your spirit oh God we thank you for a fresh manifestations of the glory on This Nation upon this world we call them forefather for your Mighty hand to move greatly in these last days of God we're going forth the mighty Harvest of the
+- **[28:53](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=1733s) · 本段原话**：rain down a fresh fire a fresh rain of your spirit on us oh God I thank you a new revelation [Music] defeated 118.
+- **[29:12](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=1752s) · 他进行祷告**：that the eyes of understanding would be enlightened God we may know the Hope father I thank you Lord I thank you Father that you you desire that not one should perish [Music] Kiki degrees
 
 ### 完整英文 Transcript
 
@@ -475,7 +522,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:52](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=1852s) · 本段原话**：attack for In The Name Of The Lord it was important in the word of God when jethroat said to Moses you need some help here yeah and he chose men to help me
+- **[32:04](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=1924s) · 本段原话**：ready to go on here okay this is in line with what we've been saying about the power in US from Ephesians 1 it says he's put all things under his feet he's appointed him the head of the church which is his body his body the fullness of him who fills all in all
+- **[32:36](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=1956s) · 他描述所见**：for in that body lives the full measure of him who makes everything complete and who fills everything or who fills every seat with himself I see the seat right now he fills every seat with himself in this body and this body dwells the fullness of him who fills every seat with he makes
+- **[33:09](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=1989s) · 他描述所见**：everything complete and he fills everything or fills every seat with himself and I see him whether from within or from upon the Lord himself goes and takes every seat that he sits in every seat around that table he sits in that seat behind that the over in that Oval Office that he himself
 
 ### 完整英文 Transcript
 
@@ -554,7 +608,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:45](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=2145s) · 本段原话**：them and bringing them to the pride of their own learning he uncovers deep things out of darkness and brings into light black Gloom and the shadow of death he makes Nations great and he can destroy them he enlarges Nations and then he straightens them and leads them away he takes away understanding from the leaders of the
+- **[36:14](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=2174s) · 本段原话**：people of the land of the earth and causes them to wander in the wilderness where there is no path they grew up in the dark without fight and he makes them stagger and wonder like drunken men joke chapter 12 verses 15 through 25.
+- **[37:00](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=2220s) · 本段原话**：watching in the spirit at the at the instruction of the Holy Spirit now giving forth A Reign of the spirit I want us all to stand up and Daniel repented for his Nation and there's something we have to repent about and then brother Bishop's going to come and speak to those seats and get the order right here
+- **[39:05](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=2345s) · 本段原话**：hold do not hold our nation in Divine judgment in Divine judgment over over this gross sin God have mercy on us we ask for Mercy father yes yes we ask for mercy now we are we are sit in the council and give Godly counsel concerning this
 
 ### 完整英文 Transcript
 
@@ -655,7 +716,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:00](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=2400s) · 本段原话**：we ask for Mercy father give him Godly counsel and or a dream in the middle of the night name the government something to show him do not do this he knows of the new secretary of state who buy you to have right policies towards Israel yes
+- **[40:33](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=2433s) · 他进行祷告**：may this Secretary of State no inside and may his mind be renewed renewed that those that bless her are blessed and those that those that curse and therefore shall he advise the president rightly according to the word do not do this we pray we'll hear your hear for every nation only in the name
+- **[42:04](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=2524s) · 他进行祷告**：unto God Awakening unto God Jesus moment a fear of the Lord in the name of Jesus [Music] such as this yes Secretary of Housing and Urban Development thank you we pray father as we reach out through this nation advise the president to help those who have needs thank you for those who may not
+- **[43:25](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=2605s) · 他进行祷告**：PTSD to leave now in Jesus name thank you eyes that they give the president shall be sound and strong strong we pray that the nest you didn't speak to that person what what to stand up against Satan's forces yes as he tries to come against America and the church in Jesus name Jesus Christ
 
 ### 完整英文 Transcript
 
@@ -746,7 +814,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[47:10](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=2830s) · 本段原话**：one thing have I asked of the Lord that will I seek and require that I may dwell in the house of the Lord we declare the House of Representatives to be the house of the Lord in the name of Jesus in the name of Jesus declare we decree of the Lord and we have authority to
+- **[48:48](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=2928s) · 本段原话**：shifting I was I started interceding I could hear Canada and I was interceding for Canada today I don't know what that was all about but there's something very significant when I was praying I could feel a very I push for Kenneth and I kept seeing in the spirit Canada so I was praying for either uh the the Prime
+- **[49:06](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=2946s) · 他表达判断**：Minister up there uh just Justin Trudeau I think is his name but father I um I'm just agreeing right now that Canada's borders are safe I thank you Father than the southern borders are safe father I thank you Lord that people would rise up and wake up and stop the evil that's going on that right now I thank you
+- **[49:26](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=2966s) · 本段原话**：father for bringing godly people into leadership I thank you Father that there's an Awakening unto God in this nation that the pastors would preach what they're supposed to they're supposed to preach behind the pulpits bringing forth a a repent of Holiness gospel instead of compromise father in in a lukewarm gospel father they would
 
 ### 完整英文 Transcript
 
@@ -826,7 +901,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–52:02 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:02](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=3002s) · 他进行祷告**：that urgency in father that the pastors would wake up and and preach Jesus is coming father I thank you Lord that they would start teaching the church on the blood and the power of the name of Jesus father I thank you Lord that there's Revelation knowledge that flows in these these people and the pastors and the evangelists and
+- **[51:15](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=3075s) · 本段原话**：honor and praise for it in the name of Jesus so father I thank you for these people we bless them so family put a smile on your face and a song in your heart Jesus loves you so much and we love you and we thank you for being a part of our YouTube channel
+- **[51:32](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=3092s) · 本段原话**：and we are so excited you came today we thank you if you're still praying with me I hope this did something if you like it um comment down below tell us tell us what you think about this one it wasn't as flowed as what is what I would hoped it would but um it's I hadn't watched it
+- **[51:47](https://www.youtube.com/watch?v=OtfM_l7fMfI&t=3107s) · 他进行祷告**：all the way through but I I created it I should have but I watched all three but I but I did this to pray with y'all so um I'm gonna make another one and I just want to say thank you again like I said uh you all be blessed and have a great
 
 ### 完整英文 Transcript
 

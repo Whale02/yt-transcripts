@@ -5,17 +5,31 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 130；**章节数**: 2；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
 - [01. 00:00–03:59 · 教会、复兴与信仰、预言、梦境与异象](#section-01)
 - [02. 04:00–05:20 · 预言、梦境与异象](#section-02)
 
+## 全片概述与 Key Points
+
+全片共 2 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=uG0-7UW8Aw8&t=0s) · 本段原话**：hi my name is John Kilpatrick today I am introducing to you a video that I feel compelled by the Holy Spirit to put out because there's an urgency in my spirit about the things that's about to happen this is very unusual for me to do this I uh have been pastoring for 53 years I
+- **[04:01](https://www.youtube.com/watch?v=uG0-7UW8Aw8&t=241s) · 本段原话**：was a meteorologist on television and the meteorologist said there's a system in the Pacific and it's coming in in the Pacific Northwest and it's a great low pressure system and you can see the low pressure system swirling up in the Pacific Ocean right off the West Coast right around Oregon and this meteorologist said this
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=uG0-7UW8Aw8&t=0s) · 本段原话**：hi my name is John Kilpatrick today I am introducing to you a video that I feel compelled by the Holy Spirit to put out because there's an urgency in my spirit about the things that's about to happen this is very unusual for me to do this I uh have been pastoring for 53 years I
+- **[01:02](https://www.youtube.com/watch?v=uG0-7UW8Aw8&t=62s) · 本段原话**：words is going to come out of my mouth but I said by Tuesday you will see on your television something that will shock you and you will say oh my God and what happened was it was 911 came right out of the clear blue but I gave my church warning on that Sunday two days before I gave them
+- **[02:45](https://www.youtube.com/watch?v=uG0-7UW8Aw8&t=165s) · 本段原话**：principle is working today where the land is going to manifest the sins that are proliferating in our nation and in the nations of the earth they are proliferating they are increasing at alarming rates it's hard to keep up with it but you're going to see the land begin to show forth and you're going to
+- **[03:44](https://www.youtube.com/watch?v=uG0-7UW8Aw8&t=224s) · 本段原话**：right with God and to be ready for his soon coming thank you for watching I woke up 3:15 the Lord was showing me a bunch of stuff some of it I'm not going to be able to preach today because it would take too long to preach it but one of the things that the Lord showed me was
 
 ### 完整英文 Transcript
 
@@ -125,7 +139,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–05:20 · 预言、梦境与异象
 
-**中文章节摘要**：本段涉及：预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=uG0-7UW8Aw8&t=241s) · 本段原话**：was a meteorologist on television and the meteorologist said there's a system in the Pacific and it's coming in in the Pacific Northwest and it's a great low pressure system and you can see the low pressure system swirling up in the Pacific Ocean right off the West Coast right around Oregon and this meteorologist said this
+- **[04:27](https://www.youtube.com/watch?v=uG0-7UW8Aw8&t=267s) · 本段原话**：is a low barometric pressure it's going to bring high winds it's going to bring a lot of rain and he said within not this week but the next week it will have worked its way into parts of America and it will go south and he said all that rain that's in the Pacific now this week by the middle of
+- **[04:49](https://www.youtube.com/watch?v=uG0-7UW8Aw8&t=289s) · 他描述所见**：next week will be along the Gulf Coast and bring a lot of rain so as I saw that and I woke up here's what the holy spirit said to me he said when my son was on the earth he told them you can read meteorology really good and you say if the sky is red and
+- **[05:12](https://www.youtube.com/watch?v=uG0-7UW8Aw8&t=312s) · 本段原话**：loow you know that showers are coming but if there's a south wind you know that there's going to be clear skies
 
 ### 完整英文 Transcript
 

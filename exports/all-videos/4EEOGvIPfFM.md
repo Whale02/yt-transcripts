@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 3162；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 110:00–120:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 121:00–126:47 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:20](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=20s) · 本段原话**：And for what the Lord has uh given us uh with the our new assignments of praying for America and praying for President Trump and continue to uh lift our nation up, lifting up other nations, lifting up Canada, and so on and so on. It It seems like it's a never-ending deal here.
+- **[22:18](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=1338s) · 本段原话**：their season Michael Jordan all them. But I don't ever want to be that championship team that falls apart for the Lord that you're always grabbing. You're always pulling yourself up. You're always going from glory to glory and not being satisfied with repeating somebody else's words and saying, well, it sounds good.
+- **[44:40](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=2680s) · 他描述所见**：And they that was their recon mission. And I saw the plans on the wall in their house in their in their apartment complexes. And they had blueprints of things that they had done with drones to do these recon over time of what they had for for for for power plants, for gas structures where they're
+- **[77:21](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=4641s) · 本段原话**：FALSE GOD. I'M NOT GOING TO GO DOWN THIS PATH ANYMORE, BUT I'M SELLING OUT TO JESUS." AND I CALL A FIRE ON J.D. VANCE FROM the top of his head to the soles of his feet to lead his wife and his children into a God-fearing relationship with him.
+- **[100:19](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=6019s) · 他表达判断**：the Son has set free is free indeed. I believe with them tonight that they will not leave live one more day bound by any more satanic or demonic strongholds, that today is the day of the expiration date of what the devil meant to destroy them. God, you're going to turn it around and get the glory out
+- **[121:42](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=7302s) · 本段原话**：on the word of God. That's the only way you're going to be able to stand in these evil days by getting this word down inside of you. If you don't have a Bible and you live in America, we're able to do this. We My wife and I will send you a Bible for free. We just want
+
 <a id="section-01"></a>
 ## 01. 00:00–10:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:20](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=20s) · 本段原话**：And for what the Lord has uh given us uh with the our new assignments of praying for America and praying for President Trump and continue to uh lift our nation up, lifting up other nations, lifting up Canada, and so on and so on. It It seems like it's a never-ending deal here.
+- **[02:21](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=141s) · 本段原话**：So you can see it. You can order it. Um if you feel led to get it, I I don't sell books. I don't try to push books. I have people send me books from all over the place, self-published books, major book writers, all kinds of trying to get me to promote their stuff on my channel.
+- **[06:59](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=419s) · 他描述所见**：When the Lord says, "I'm bringing revival to the nation. I'm going to bring a revival to these places." When I told you I saw uh Minnesota and these And he said, "I want to do it in Tennessee, and I have a a mobile again, and I want to use John Kilpatrick again, and I'm going to use these generals."
+- **[08:56](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=536s) · 本段原话**：And it stops in ministry. And as I'm observing, watching other ministers, and they say certain thing, and they say, "Well, I've been We've been in ministry for 30 years, 20 years, 50 years." All this stuff. And you see it, but their ministry is still the same.
 
 ### 完整英文 Transcript
 
@@ -321,7 +339,14 @@
 <a id="section-02"></a>
 ## 02. 11:00–21:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[11:40](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=700s) · 他表达判断**：But if I ever did, it would be a blessing. I always I I think when I when I process when I watch Azusa and they said it lasted for so many years and it went every day and William Seymour would sit in the corner and put the box on his head and and do the
+- **[13:46](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=826s) · 他转述所听到的话**：There's a lot of copycats in prophetic. There's a lot of copycats and and they they say, well, I heard it and you know, maybe they did. Maybe they didn't. But you just you just keep you have to be a pioneer work. And that's when the Lord said, Brandon, I've called you to stand alone and do these this
+- **[18:11](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=1091s) · 他表达判断**：It's exciting to hear what God did in your life. Congratulations. You know, I I I believe that you'll have a long healthy a good healthy baby that will have a long healthy good healthy pregnancy. No miscarriages. No nothing.
+- **[20:17](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=1217s) · 本段原话**：I want to be a trailblazer of somebody who is just out there and you may be a pioneer worker and there's stones all around. There's all this stuff, but we're going to make the soil ready by with prayer for people who are maybe have the the anointing on them to bring them in.
 
 ### 完整英文 Transcript
 
@@ -646,7 +671,14 @@
 <a id="section-03"></a>
 ## 03. 22:00–32:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[22:18](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=1338s) · 本段原话**：their season Michael Jordan all them. But I don't ever want to be that championship team that falls apart for the Lord that you're always grabbing. You're always pulling yourself up. You're always going from glory to glory and not being satisfied with repeating somebody else's words and saying, well, it sounds good.
+- **[25:29](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=1529s) · 本段原话**：They may not want you to preach at their conference. They may not want you to be in their inner circle. They don't I always look for the comradery of things and I thought, how many times did Brother Kenneth Hagin hang out with Oral Roberts?
+- **[29:10](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=1750s) · 本段原话**：And and when it's all said and done, no matter who's in your tent and who who's in your camp, we're in a time like we've never seen before and we're going to touch the nations for Jesus and we may be the only ones in our our little our little group, me and my
+- **[32:53](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=1973s) · 他描述所见**：Does anybody remember that? I saw it in the vision. And we were praying over it and I said they were going to Europe and they were going over place cuz that we got struck
 
 ### 完整英文 Transcript
 
@@ -961,7 +993,14 @@
 <a id="section-04"></a>
 ## 04. 33:00–43:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[34:09](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=2049s) · 他进行祷告**：And that they would have to do it in the days ahead. And there's so many women got so upset about it and freaked out about it. Now I'm trying to tell you what the Lord showed me and I'm not trying to stir up fear. I'm trying to tell you we must pray.
+- **[36:05](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=2165s) · 本段原话**：for afterwards cuz I can't stop and say, write this down. Braden's trained and he knows exactly what we are um uh looking for. Okay? So, the Red Cross runner, the Red Cross, see that? It's on April the 20th, right? So it's during this time frame, but the Boston Marathon starts all next week and it goes for
+- **[41:03](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=2463s) · 他描述所见**：help plow the fields to get it ready for what's about to take place. So we're going to continue to pray. Then the other part was I saw boats with uh with a look like PVC pipes that were shooting off rockets that were some kind of an explosive device in a long thing that was really strong.
+- **[43:01](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=2581s) · 他描述所见**：Doing surveillance and recon. The Lord called it recon last night. He said, "They're doing recon." So I saw them taking pictures of power plants.
 
 ### 完整英文 Transcript
 
@@ -1239,7 +1278,14 @@
 <a id="section-05"></a>
 ## 05. 44:00–54:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Iran、Canada、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[44:40](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=2680s) · 他描述所见**：And they that was their recon mission. And I saw the plans on the wall in their house in their in their apartment complexes. And they had blueprints of things that they had done with drones to do these recon over time of what they had for for for for power plants, for gas structures where they're
+- **[46:07](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=2767s) · 他描述所见**：And and and and it's very serious. Through the tunnels underneath the ground in Arizona. I told you. I said they're still trafficking these people and they're paying them big bucks for the drug cartel to bring them over on these tunnels. And I said I saw tunnels coming out in the mountains. I saw tunnels coming out in these certain
+- **[49:45](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=2985s) · 本段原话**：Jesus gave us power and authority over this to tread on serpents and scorpions, and nothing shall by any means hurt. I So, I don't care if they're licking crystals, drinking blood, or doing whatever. If the Bible says no weapon formed against us is going to prosper, that's what we stand by. And a thousand
+- **[51:28](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=3088s) · 他进行祷告**：You're going to pray for these people. So, that's what in praying for Alex Jones, praying for Alex Jones that God said he's going to be a major voice piece in these last days. Praying for Elon Musk, praying for the Kardashians, praying for Justin. I always say his last name.
 
 ### 完整英文 Transcript
 
@@ -1539,7 +1585,14 @@
 <a id="section-06"></a>
 ## 06. 55:00–65:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Texas。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[56:52](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=3412s) · 本段原话**：good father. Thank you, Lord, that this did not happen. Thank you, Lord. No matter what the plot, no matter what the plan. This is what I'm trying to tell you all. If we join together, many hands make light work, and look what's happening. We can change things through prayer.
+- **[58:15](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=3495s) · 本段原话**：I thank you, Father, that they're that the laboring the labor will be easy, that it will be short, that it won't be long and drawn out for a long time, very very painful. Father, I thank you, Lord, that the peace that passes understanding is over this family, that they're not always worried, "Oh, are we going to
+- **[58:34](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=3514s) · 本段原话**：miscarry? Are we going to have torment of this?" No, per we we say fear has torment, but perfect love casteth out all fear. We refuse to fear. God gave us this child, and we will have a son or a daughter, and we will not be afraid of this. We call the heart to function, all 10 fingers and all 10
+- **[61:45](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=3705s) · 他表达判断**：I apologize to those that I know I offended you probably. I heard it immediately when I took it. And I and I'll tell you I I I apologize for it if I dishonored anybody in in what you feel about it. And I and I know cuz the Lord just corrected me.
 
 ### 完整英文 Transcript
 
@@ -1792,7 +1845,14 @@
 <a id="section-07"></a>
 ## 07. 66:00–76:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[69:04](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=4144s) · 本段原话**：Father, that he would have better discernment. You [cough and clears throat] they may not have an Ivy League education, but just somebody that has some smarts that says, "Listen, I have been with Jesus today and he told me to tell you this."
+- **[71:14](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=4274s) · 本段原话**：The deep state is a demon. It's It's by the Illuminati and the darkness that is around this planet to bring forth the mighty and the Antichrist system. And we believe, Father, THAT YOU'VE RAISED UP TRUMP FOR SUCH A TIME as this and that he will hear your voice and he will not be led
+- **[73:10](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=4390s) · 本段原话**：Jesus to lead and to guide our politicians and the ones that are that are RINOs AND HAVE A A BACKBONE AND STRONG FOR THE DEVIL, YOU REMOVE them by vote and that the vote will not be corrupted anymore AND WE CALL EXPOSING OF THE DARKNESS OF THE VOTER FRAUD IN OUR NATION AND WE THANK YOU, LORD, THAT
+- **[76:29](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=4589s) · 本段原话**：And I cover them in the blood. I say in the name of Jesus, every tongue that rises against them, we condemn it. A thousand shall fall at their side and 10,000 at the right hand, but it shall not come nigh them. I thank you, Lord, that the angels of the Lord are camped
 
 ### 完整英文 Transcript
 
@@ -2052,7 +2112,14 @@
 <a id="section-08"></a>
 ## 08. 77:00–87:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[77:21](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=4641s) · 本段原话**：FALSE GOD. I'M NOT GOING TO GO DOWN THIS PATH ANYMORE, BUT I'M SELLING OUT TO JESUS." AND I CALL A FIRE ON J.D. VANCE FROM the top of his head to the soles of his feet to lead his wife and his children into a God-fearing relationship with him.
+- **[81:04](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=4864s) · 本段原话**：East, we're praying for Israel, we're calling forth REVIVAL ACROSS THIS FROM SOUTH AMERICA all the way around this world, that we'll have the greatest harvest of souls this world has ever seen before. And when the Lord, you showed me again that virus being sprung forth by China again, I TAKE AUTHORITY OVER THAT. WE will not have a virus that
+- **[82:38](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=4958s) · 他进行祷告**：them a fresh revelation. Give them fresh word, give them fresh mana in the churches, that they're not pray- preaching some dead, dried-up religious garbage, but they're pre- they're giving them something that's the meat of the word, and be able to stand and be able to fight OFF THE DEVIL AND COME AGAINST THIS ATTACK THAT IS ON OUR families and
+- **[86:15](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=5175s) · 他描述所见**：I see that. We for them being intimidated by the new anointings coming up and the new new Davids, that they will not be like the Sauls trying to throw the javelins at the Davids.
 
 ### 完整英文 Transcript
 
@@ -2319,7 +2386,14 @@
 <a id="section-09"></a>
 ## 09. 88:00–98:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[88:00](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=5280s) · 他描述所见**：Stop being lazy. Isn't that interesting? I see that so clear across America. There's a young li- There's young new ministers. There's young platforms rising up, and the people who've been in the pulpits for so long, they're intimidated of the anointing that they're seeing, and they're going to try to throw javelins at these these young people.
+- **[89:21](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=5361s) · 他转述所听到的话**：It's not just America. THERE'S SPIRITUAL CANNIBALISM ALL ACROSS MY CHURCH." THAT'S WHAT HE SAID. I heard it very strong. He said, "I AM DONE WITH THE SPIRITUAL CANNIBALISM.
+- **[90:58](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=5458s) · 他描述所见**：And I see a lot of insecure ministers try And this is very serious what I'm seeing. I'm seeing this by the hand of God.
+- **[95:50](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=5750s) · 他进行祷告**：You're stirring inside of them. Father, that it starts with our households. That Father, it starts with the praying family behind the the table. That they pray together. A family that prays together stays together. A family that brings you first and brings Jesus Christ in the midst of their household knows that this is what is the foundation for
 
 ### 完整英文 Transcript
 
@@ -2568,7 +2642,14 @@
 <a id="section-10"></a>
 ## 10. 99:00–109:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[100:19](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=6019s) · 他表达判断**：the Son has set free is free indeed. I believe with them tonight that they will not leave live one more day bound by any more satanic or demonic strongholds, that today is the day of the expiration date of what the devil meant to destroy them. God, you're going to turn it around and get the glory out
+- **[103:26](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=6206s) · 本段原话**：What is where is your spiritual thermostat? What is inside of you the most is going to come out when you start getting around somebody in a Out of the abundance of the heart, the mouth speaks.
+- **[105:47](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=6347s) · 他描述所见**：unusual and you're not going to be able to hide behind stuff anymore. You I'm telling you, you're going to be able to call the kettle black and you're going to say, "I see the Holy Ghost in them versus this other." Because it's the dark's going to get darker and the light's going to get lighter. And and
+- **[107:27](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=6447s) · 本段原话**：Most of the churches you go to, you're just going to go in and get a 30-minute little sermon with a little bit of skinny jeans and fog machines, like Mario Murillo says, and you're going to get in there and you get get shaken a little bit by by some kind of guitar player up there playing a high
 
 ### 完整英文 Transcript
 
@@ -2837,7 +2918,14 @@
 <a id="section-11"></a>
 ## 11. 110:00–120:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[111:43](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=6703s) · 本段原话**：I'm always talking I'm always talking to him all day long. Oh, Father. And and and and even whenever I'm praying in the car, I'm I'm singing songs. I'm always trying to even whenever I have problems reading, y'all. I try find something find books that I can read to me, help me, find something. I say, "It's been
+- **[114:18](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=6858s) · 本段原话**：And the only way you're ever going to change is getting this Bible inside of you from the inside out, finding sermons to to to meditate on and it will change you. From for out of the abundance of the heart, it's going to be the overflow. I told you, the sponge. What's inside of you and overflow?
+- **[116:03](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=6963s) · 本段原话**：It's opening the door. It It gave you the covenant and I have the keys to the with any I'm wall-to-wall Holy Ghost and I'm going to find out what room is in here for me. Let's see what he has going on in here. Woo, what's behind that one?
+- **[120:21](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=7221s) · 他表达判断**：Amen and amen. If you just said that simple prayer, I believe you just gave your heart to Jesus Christ. Now, what do you do? You go to a Bible-believing church. I'd go to one that preaches the fire like I'm talking about. Don't go to some dried-up dead church and you'll know the difference when you go in.
 
 ### 完整英文 Transcript
 
@@ -3134,7 +3222,14 @@
 <a id="section-12"></a>
 ## 12. 121:00–126:47 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[121:42](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=7302s) · 本段原话**：on the word of God. That's the only way you're going to be able to stand in these evil days by getting this word down inside of you. If you don't have a Bible and you live in America, we're able to do this. We My wife and I will send you a Bible for free. We just want
+- **[123:44](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=7424s) · 他表达判断**：disrupt his kingdom and his his his plans and his plots against America around the world through the power prayer. Not everything can be stopped, but I believe God has called us and chosen us for such a time as this to tread on serpents and scorpions and to kick the devil in the head one more time. And I believe with
+- **[125:14](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=7514s) · 本段原话**：Lord, that there's nothing missing, nothing broken. They're filled with, controlled by the Holy Ghost. And Father, they are looking up because we know our redemption draws nigh. I bless their work tomorrow. I bless whatever they put their hands to, it will prosper. I thank you, Lord, that they lack no good thing. That Father, I thank
+- **[126:23](https://www.youtube.com/watch?v=4EEOGvIPfFM&t=7583s) · 他进行祷告**：Tomorrow's Friday. Can you believe a work week's already almost over and we pushed through another week? We have a lot to pray about still, so join us again and um every time it's different. Every time it's different. Love you all. Remember, put a smile on your face and a song in your heart. Jesus loves you so much and
 
 ### 完整英文 Transcript
 

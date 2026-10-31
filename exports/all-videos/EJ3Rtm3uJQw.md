@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 633；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-06)
 - [07. 24:00–25:58 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=0s) · 本段原话**：people were wondering about prayer prayer cues and things like that they want to know some more things so I'm going to give you a couple right here okay in Ephesians it talks about we wrestle not against flesh and blood but against principalities and powers and there's a lot more to the verse but for
+- **[04:00](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=240s) · 本段原话**：addiction off of his life right now in the name of Jesus I call that Spirit to cease and desist and it's maneuvering in his life I commend it to Bow its knee you have no authority to torment him anymore you're a foul devil and I command you to release them right now in
+- **[08:17](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=497s) · 本段原话**：found a lot of times blessing Israel Ministries around trying to get the Jewish people saved uh Ministries trying to get the the Little Orphan saved I mean you know protecting the orphans the widows Ministries things like that they're real good soil because that's what Jesus commissioned us to take care of the orphan the Jesus commissioned us
+- **[16:53](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=1013s) · 他进行祷告**：be a light in this world and um if you got addiction to cigarettes don't can I'm not we're not going to condemn you for smoking cigarettes but I'm going to tell you this we're going to pray that you're set free from uh cigarettes I there was this young boy uh when I was at the church working there
+- **[20:45](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=1245s) · 他表达判断**：the spirit of lust to be bound off my life I bind the maneuvering of that spirit in the name of Jesus I command you to release me now I am not going to look at trash on the Internet or wherever or or it's going to strip clubs father I think you I'm you're free from
+- **[24:19](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=1459s) · 他描述所见**：prayer needs all of the the healings and the and the um the uh people dying of a disease or whatever their their loved ones are are far away from the Lord father we thank you Lord you showed me in a vision today Lord like little birds and I said father they're like little
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=0s) · 本段原话**：people were wondering about prayer prayer cues and things like that they want to know some more things so I'm going to give you a couple right here okay in Ephesians it talks about we wrestle not against flesh and blood but against principalities and powers and there's a lot more to the verse but for
+- **[00:16](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=16s) · 他表达判断**：time's sake there you go it's Ephesians 4 4 16 I believe somewhere around there you cannot pray against somebody's will okay like say say you go to work and your boss is really mean to you maybe you're a a teenager right now and you're watching me and you are in an abusive relationship with your parents verbally
+- **[01:26](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=86s) · 本段原话**：to move in torment in any way in the name of Jesus concerning abuse I bind the Devils that are tormenting my my husband or my wife I bind that devil in the name of Jesus I command you to cease and desist in your maneuvering and I command you to stop it right now you will not maneuvering
+- **[02:54](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=174s) · 他进行祷告**：they want what I have because it stands out but not I don't pray over their emotions manipulating them you know you don't manipulate people people in the spirit realm it's it's part of Witchcraft okay you don't do that you just pray over your stuff you pray that father that my stuff's Gonna Stand Out
 
 ### 完整英文 Transcript
 
@@ -117,7 +135,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=240s) · 本段原话**：addiction off of his life right now in the name of Jesus I call that Spirit to cease and desist and it's maneuvering in his life I commend it to Bow its knee you have no authority to torment him anymore you're a foul devil and I command you to release them right now in
+- **[05:40](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=340s) · 本段原话**：and say boom and the power of God moves on him in a supernatural way we don't know but I know this that God is able to do exceedingly abundantly above all that we dare ask or think according to the power that works in you okay he's already done it all folks he's already done it all he's already done
+- **[06:03](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=363s) · 本段原话**：everything he can do for your healing you've got to stay in agreement with what he's already done in his word that first Peter 2 24 by his stripes we are healed he was wounded for our transgressions he was bruised for our iniquities the chastisement of our peace was upon him and with his stripes we are
+- **[07:38](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=458s) · 他转述所听到的话**：how do I get 100 fold every time lord whenever I sacrificially give and Lord said it's the ground you're sowing in son some ground is Miracle working ground and some ground is not as rich as others so you've got to be uh a good student where I tell you to give your money and
 
 ### 完整英文 Transcript
 
@@ -225,7 +250,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:17](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=497s) · 本段原话**：found a lot of times blessing Israel Ministries around trying to get the Jewish people saved uh Ministries trying to get the the Little Orphan saved I mean you know protecting the orphans the widows Ministries things like that they're real good soil because that's what Jesus commissioned us to take care of the orphan the Jesus commissioned us
+- **[08:40](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=520s) · 本段原话**：to take care of the um the widows the Jesus Took told us that those that bless Israel I will bless and those that curse Israel I will curse so I'm going to be on the side of the blessing I want to be on the side that says Lord I bless Israel even if I don't always agree with
+- **[09:52](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=592s) · 本段原话**：is treating me like trash again and I've oh my kids acting up again boy he is a real devil you're gonna get what you have what you say you speaking you're you're decreeing those things out of your mouth manifestation is going to start happening because life and death is in the power of the tongue remember that
+- **[11:25](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=685s) · 他进行祷告**：call them the street address I just memorized the words and so um uh getting Faith down inside of you Mark 11 23 and verse 24 quote that and and know if you pray and you don't doubt you're going to get your your Harvest okay you gotta get it whatsoever things you desire When you pray believe that you
 
 ### 完整英文 Transcript
 
@@ -341,7 +373,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=720s) · 本段原话**：trying to say and so when you're praying against this you're praying and praying against uh and you're binding things and and and what's over things you bind on Earth are are are bound in heaven and whatsoever things you are loosed on Earth are loose in heaven you've got to bind these Devils up you gotta break off the
+- **[13:21](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=801s) · 本段原话**：and start and start attacking that I attack like what I overcome I attack even disorders eating for Comfort eating for for pleasure because you find you find that well I like to go out and eat a brand new uh like steak not brand new a steak at Outback I love to go to
+- **[14:37](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=877s) · 本段原话**：myself all the time I have an an unbelieving God and today I've done pretty good but I keep standing I keep standing and and I keep tell my kids you're not going to have this I'm breaking the cycle I'm breaking this cycle off of your life We're Not Gonna live this way no more food is to Keep Us
+- **[15:45](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=945s) · 他进行祷告**：drinking alcohol is not a light I don't want to be that if I'm sitting there and have booze all down my breath and somebody walks up to me so I've seen you at church can you pray for me oh yeah brother and you got a alcohol over your breath and you go lay hands on them it's
 
 ### 完整英文 Transcript
 
@@ -453,7 +492,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:53](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=1013s) · 他进行祷告**：be a light in this world and um if you got addiction to cigarettes don't can I'm not we're not going to condemn you for smoking cigarettes but I'm going to tell you this we're going to pray that you're set free from uh cigarettes I there was this young boy uh when I was at the church working there
+- **[18:24](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=1104s) · 本段原话**：and want to throw up well I said in the name of Jesus went home church was over he came back to me on Wednesday night church this was Sunday night church he came back to me on Wednesday night service and he said man I got home and I broke out in a massive sweat when I went to go light up
+- **[18:43](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=1123s) · 本段原话**：that cigarette he said I got so sick whenever I try to put that cigarette and light that cigarette and and smoke it he said I couldn't even do it I started to throw up he said your prayer worked he goes I have been delivered from cigarettes ever since you prayed so that's just that's just a Ministry
+- **[19:45](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=1185s) · 本段原话**：we can run to him he is our father and he is our deliverer and you find scripture pertaining to what you need in your life concerning your addiction there's a lot of good Bible apps that will help you with addictions find those scriptures and and every time you go up
 
 ### 完整英文 Transcript
 
@@ -559,7 +605,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:45](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=1245s) · 他表达判断**：the spirit of lust to be bound off my life I bind the maneuvering of that spirit in the name of Jesus I command you to release me now I am not going to look at trash on the Internet or wherever or or it's going to strip clubs father I think you I'm you're free from
+- **[21:26](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=1286s) · 本段原话**：listening to heavy metal and stuff okay that is a demonic Spirit there is a lot of demonic satanic influence behind heavy metal well basically any secular music okay because Satan is very good at it producing music that's what he did I mean so start anointing your son's uh uh room I take the olive oil he's like I'm telling
+- **[21:51](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=1311s) · 本段原话**：you and I've taken I dip my finger in the olive oil and I apply it just like the children of Israel applied the blood to the doorpost so that the death angel could not come in and Destroy them you apply the blood on your door and I say in the name of Jesus I put the bloodline
+- **[23:11](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=1391s) · 他讨论新闻或报道**：devil's going to run you over the media is trying to push their agenda on us the the all the trash we get from CNN or even Fox and wherever MSNBC trash they're trying to push their agenda on us from Facebook all the way down like I told you these are bad evil places and
 
 ### 完整英文 Transcript
 
@@ -665,7 +718,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–25:58 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:19](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=1459s) · 他描述所见**：prayer needs all of the the healings and the and the um the uh people dying of a disease or whatever their their loved ones are are far away from the Lord father we thank you Lord you showed me in a vision today Lord like little birds and I said father they're like little
+- **[24:38](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=1478s) · 他描述所见**：birds chirping in a mama's nest and and they're asking help help help chief chief chief and I saw him in the spirit Lord and I said God there's so many any Mouse to feed I can't do it all I don't know what you want me to do and you said to me it's my job Brandon the holy spirit will
+- **[24:57](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=1497s) · 他描述所见**：take care of this and I saw that big bird dump a whole bunch of worms on them little babies and today I pray that for you the holy spirit's going to meet you every need you have right where you're at Jesus has got this for you I call Healing over your bodies I call
+- **[25:51](https://www.youtube.com/watch?v=EJ3Rtm3uJQw&t=1551s) · 本段原话**：your heart Jesus loves you and I love you and I'm so thankful that you're part of my family here God bless you all bye-bye
 
 ### 完整英文 Transcript
 

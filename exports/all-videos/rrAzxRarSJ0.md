@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 617；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
 - [07. 24:00–26:09 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=0s) · 本段原话**：good morning family um I know you're used to seeing my husband but today it's just me and so I have some things that the L I feel the Lord wants me to share with you and so we're just going to get right into it so um last night I had a dream and um I've been reading just
+- **[04:37](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=277s) · 本段原话**：aspect of God's manifested Kingdom on Earth so um I just thought that would help those of you that have asked um and I'm excited I'm ready for it I'm I this is there's going to be a great outpouring of his Mir of Miracles and healings and it's it's going it's going it's coming it's going to happen so last
+- **[08:17](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=497s) · 本段原话**：be equal with him to be better than him be be more than him which is we we all know is impossible but he's still going to try yep and then see just like it was with the children of Israel with the with the Pharaoh's musicians M musicians the the the magic man and musicians not
+- **[16:35](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=995s) · 他表达判断**：read it a few times um so I wanted to mention that book again it's called seeing Jesus by who um by I think it's John mlan M McCain I believe it that's that's John McCain I'm pretty sure it'll be on screen yeah it'll be on there and then also I created a another bookshelf
+- **[20:02](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=1202s) · 本段原话**：pregnancy would have that oh that's just a part of pregnancy oh that's just a part of it nope that's under the curse we're not under the curse father you have set us free the blood of Jesus has set us free and we're not under the curse father we thank you that we have
+- **[24:02](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=1442s) · 本段原话**：mention that we have gotten um for the people who have asked for a tax deductible receipts and stuff we have gotten that uh set up so the info on that is going to be in the description and we're never asking but it's just for the people who have asked I've had a lot
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=0s) · 本段原话**：good morning family um I know you're used to seeing my husband but today it's just me and so I have some things that the L I feel the Lord wants me to share with you and so we're just going to get right into it so um last night I had a dream and um I've been reading just
+- **[01:52](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=112s) · 他转述所听到的话**：experience in prayer I'll never forget I heard so clearly son the book of Acts will seem like Child's Play in comparison into what I'm about to do and through the church prior to my son's return I was in shock in fact I didn't believe what I had heard I countered by saying father I need three different
+- **[02:11](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=131s) · 本段原话**：references from the Bible to believe this interestingly I sensed no displeasure in asking for this we are to test all things 1 Thessalonians 5:21 and are told by the mouth of two or three Witnesses let every word be established 2 Corinthians 13:1 one of the references he directed me to is and here's the
+- **[03:44](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=224s) · 本段原话**：throughout scripture God always Saves The Best For Last we are told the end of a thing is better than the beginning Ecclesiastes 78 Jesus displays this pattern by saving the best wine for the last of the wedding of kaaa later he declares that anyone who believes in me will do this same same works I have done
 
 ### 完整英文 Transcript
 
@@ -129,7 +147,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:37](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=277s) · 本段原话**：aspect of God's manifested Kingdom on Earth so um I just thought that would help those of you that have asked um and I'm excited I'm ready for it I'm I this is there's going to be a great outpouring of his Mir of Miracles and healings and it's it's going it's going it's coming it's going to happen so last
+- **[05:44](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=344s) · 他转述所听到的话**：like an end time Revival but as I was as I was there I sensed in my spirit that something wasn't right this did not feel like the Lord and then I heard the preacher saying an even greater work Works will we do than what Jesus did but the scripture says in Mark 24:24 that for
+- **[06:52](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=412s) · 本段原话**：that are going to perform signs and wonders healings demonstrations manifestations of the glory but they're not going to be preaching Jesus Christ is the same yesterday today and forever he's the Healer um he came to set the captives free all the things that we believe they'll that they're going to twist it that there's a there's more
+- **[07:49](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=469s) · 他转述所听到的话**：he is going to do what to try to counterfeit it he's going to counterfeit it that's what I heard in my spirit he said the Lord said anything that I do the devil tries to counterfeit
 
 ### 完整英文 Transcript
 
@@ -231,7 +256,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:17](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=497s) · 本段原话**：be equal with him to be better than him be be more than him which is we we all know is impossible but he's still going to try yep and then see just like it was with the children of Israel with the with the Pharaoh's musicians M musicians the the the magic man and musicians not
+- **[09:20](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=560s) · 他转述所听到的话**：stuff but just because he's able to do we have we have the greater one and so he's that's why I'm we're trying di had that dream the Lord told me to let he's going to try to deceive the multitudes so you're going to have to be on guard being filled with and controlled by the holy spirit in these
+- **[10:16](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=616s) · 他转述所听到的话**：right Jesus you know just just the way they talk it was just a bunch of sugarcoated poop mhm and so I just know after you I heard this babe and then what the Lord has showed me in my spirit this is a time like never before for the body of Christ to have their discernment
+- **[11:49](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=709s) · 他表达判断**：I think people don't realize that when you see this verse in the Bible about how it talks about the AR that the false Christ and read it one more time it says Matthew 24:24 for
 
 ### 完整英文 Transcript
 
@@ -341,7 +373,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:02](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=722s) · 本段原话**：false Christ and false prophets will arise and perform great signs and wonders so as to lead astray if possible even the elect and I don't think that people understand how closely he's going to try to imitate it and that's the part that alarmed me when I had this dream is not you know when you read this verse
+- **[12:43](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=763s) · 本段原话**：alarm bells in my spirit going off so it was disturbing to me how closely he mimicked it um to a te literally trying to trying to yeah the only reason is you're Spirit my spirit was like this is not my God and your of course our spirit's no feels dirty yes it felt dirty God is clean and it feels
+- **[14:09](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=849s) · 本段原话**：yeah even even the Christians the elect the people who should know better right will be deceived mhm my goodness that means that they that that they're going to be good at what they do yeah so when we see this stuff don't be alarmed just know that it's a sign of the time it's just where we are yeah and
+- **[15:31](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=931s) · 本段原话**：to me the way he talks I I know I I I'm telling you he he claims its fiction but I'll leave it up to y'all to decide but I personally feel like he's had an experience with Jesus now he has a whole series and I've not I've read a couple of other ones that aren't as good as the
 
 ### 完整英文 Transcript
 
@@ -438,7 +477,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:35](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=995s) · 他表达判断**：read it a few times um so I wanted to mention that book again it's called seeing Jesus by who um by I think it's John mlan M McCain I believe it that's that's John McCain I'm pretty sure it'll be on screen yeah it'll be on there and then also I created a another bookshelf
+- **[17:34](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=1054s) · 他表达判断**：that I took they that they had us read and I I really enjoyed it um and then um there's a couple of other books I mean you know ones we've already recommended in the past but um I'm going to try to just keep adding books in there as I think about them but um
+- **[18:30](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=1110s) · 本段原话**：and that you heal whatever needs to be healed in their bodies right now father from the top of their head to the souls of their feet father we thank you for Creative Miracles right now that organs that need to be there are there and their uterus whatever needs to be in the uterus is there father that you bless
+- **[19:34](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=1174s) · 本段原话**：missing nothing broken that these babies that are being formed in these mother's wombs that they are healed and whole and well and the mothers do not have any issues with their pregnancies that they carry them to full term and there's no issues no back pains no no migraines no itching none of the none of the things
 
 ### 完整英文 Transcript
 
@@ -537,7 +583,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:02](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=1202s) · 本段原话**：pregnancy would have that oh that's just a part of pregnancy oh that's just a part of it nope that's under the curse we're not under the curse father you have set us free the blood of Jesus has set us free and we're not under the curse father we thank you that we have
+- **[20:40](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=1240s) · 本段原话**：if they're if they're breastfeeding their babies father we thank you that there that it's easy that they latch on as they're supposed to father that they are nourished that their milk is is Bountiful a good Supply and there's no there's no pain that it's effortless and father that you allow them to nurse as
+- **[21:15](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=1275s) · 他进行祷告**：nursing father if they are just doing formula father we pray over that too again the digestive system that no matter what what father that they get what they need and that their brains and all of their their bodies are forming as they as they supposed to that they don't go through teething father I pray over
+- **[23:00](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=1380s) · 本段原话**：bodies over their minds over their Spirits father and that they will raise these children up in the way that they should go on when they get older they will not depart from it father we thank you for your word we thank you that that they are equipped and empowered to do everything that these mothers know
 
 ### 完整英文 Transcript
 
@@ -645,7 +698,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–26:09 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:02](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=1442s) · 本段原话**：mention that we have gotten um for the people who have asked for a tax deductible receipts and stuff we have gotten that uh set up so the info on that is going to be in the description and we're never asking but it's just for the people who have asked I've had a lot
+- **[24:53](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=1493s) · 本段原话**：know that the Lord laid this on my heart today so I wanted to put that out there I feel like it's for the body of Christ so thanks for giving me the time today I love and appreciate you all so much you're such a blessing to our family can't thank you enough for for every
+- **[25:07](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=1507s) · 本段原话**：single one of you um and next time it'll be him and you'll I because I know I'm not as good of a speaker as he is but I'm getting that babe you're doing great so it's your first video it's your first video I'm proud of you anyway so everybody love on my wife below y'all she she she
+- **[25:33](https://www.youtube.com/watch?v=rrAzxRarSJ0&t=1533s) · 本段原话**：she I'm very thankful for her she's a precious woman well I'm not I I tried yeah you did great baby you did great I'm proud of you you did awesome Jesus is the Healer yes and he is he is faithful to all of us and so I could listen to you all day oh thanks H you
 
 ### 完整英文 Transcript
 

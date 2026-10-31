@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 383；**章节数**: 5；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -15,10 +15,27 @@
 - [04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-04)
 - [05. 16:00–16:37 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
 
+## 全片概述与 Key Points
+
+全片共 5 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=0s) · 本段原话**：hey good morning family how y'all been doing um I'm going to uh go over a word that I gave 10 months ago and I you know I it was on one of the big prophecy uh channels and they were talking about it and saying well I wonder if he heard somebody else talk about it if this is
+- **[04:02](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=242s) · 本段原话**：see it coming across the sky and it was coming in real low but whenever it came in it crashed out by San Juan Puerto Rico oh first I can't skip this the United States government was trying to shoot this massive asteroid down because it was moving so quick they could not shoot it down with a rocket to try to
+- **[08:01](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=481s) · 本段原话**：how fast this wave came this tsunami wave was moving so quick okay and it wiped out all of the major hotels it wiped out all of the houses on the on the Atlantic Seaboard they just destroyed everything and it went clear up to Cape Hatters Island and North Carolina it went all up
+- **[12:23](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=743s) · 本段原话**：hardened they've become dull to the spirit they're they're they're Seekers of of things and fleshly things they are not seeking the Lord like they that like they should they have appearance of godliness and they're denying the power thereof they have um itching ears it's become more and more uh uh you can see
+- **[16:00](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=960s) · 本段原话**：voice and the stranger voice will not follow God I say it again Lord we give you all the glory and honor and praise that that you are coming soon in the mighty name of Jesus and everybody say amen amen well if you could like this video subscribe if you haven't already subscribed thank you for watching uh we
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=0s) · 本段原话**：hey good morning family how y'all been doing um I'm going to uh go over a word that I gave 10 months ago and I you know I it was on one of the big prophecy uh channels and they were talking about it and saying well I wonder if he heard somebody else talk about it if this is
+- **[00:19](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=19s) · 他描述所见**：really a real visit from the Lord or a vision from the Lord and all that you know questioning it and you know rightfully so you know there's a lot of flaky stuff on on YouTube but I'm going to you this it's it's genuine it's real and the spirit of the Lord spoke to me
+- **[01:48](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=108s) · 他表达判断**：it talks about it in Revelation The Book of Revelation that there will be a massive asteroid that hits the earth I believe that this is what the Lord showed me was this massive asteroid that is scheduled to hit I believe in 2029 that's supposed to hit the planet Earth and uh and it's it's going to be
+- **[02:08](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=128s) · 他表达判断**：huge supposedly you know what uh what what he saw you know this one I believe it was NASA that even talked about it it's like uh ginormous okay so but I want to tell you all I'm going to go over again what what I what the Lord showed me and I was standing outside I
 
 ### 完整英文 Transcript
 
@@ -120,7 +137,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、治安、袭击与安全
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、治安、袭击与安全、地震、风暴与灾害。 提到的地点：Florida。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、治安、袭击与安全展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:02](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=242s) · 本段原话**：see it coming across the sky and it was coming in real low but whenever it came in it crashed out by San Juan Puerto Rico oh first I can't skip this the United States government was trying to shoot this massive asteroid down because it was moving so quick they could not shoot it down with a rocket to try to
+- **[05:48](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=348s) · 本段原话**：part of that rock hit by San Juan Puerto Rico the islands out in the Atlantic Ocean and it was so the impact was so massive it sent a humongous tidal wave like huge I I like too much to even I'm like I'm trying to tell you all to even try to give an estimate of how big this
+- **[06:43](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=403s) · 他描述所见**：speed of sound like boom like it was just moving and it was so fast and so powerful that people did not have time to evacuate the islands and I saw the water covering all of the islands from uh St St Martin St Martin St Thomas uh sanan Puerto Rico um uh uh Haiti uh you
+- **[07:08](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=428s) · 本段原话**：name it Cuba all that was just completely saturated in in in the wave and wiped them completely out so people from everywhere you know if you weren't up high high high in the mountains or or on some hills or something they were they were completely destroyed but the wave came into uh Florida Miami Fort Lauderdale all of
 
 ### 完整英文 Transcript
 
@@ -212,7 +236,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=481s) · 本段原话**：how fast this wave came this tsunami wave was moving so quick okay and it wiped out all of the major hotels it wiped out all of the houses on the on the Atlantic Seaboard they just destroyed everything and it went clear up to Cape Hatters Island and North Carolina it went all up
+- **[09:16](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=556s) · 他表达判断**：that there's a massive asteroid that is supposed to miss the Earth uh in 2029 but um uh I believe we're we're going to have a a direct impact from this soon whether or not we're whether we're here and the Rapture of the church has taking place first or it happens and and and
+- **[10:10](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=610s) · 他描述所见**：the Lord Jesus Christ and this was one of the major things the Lord showed me that we would have a that this uh this major event would take place and like I said it's not inspired by anybody else's Vision not anything else about anybody else's encounter that I've seen and that I'm trying to mimic it this was a actual
+- **[10:29](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=629s) · 本段原话**：thing that the Lord showed me in prayer and is war and told and warned me of something that's coming and and whether or not people want to believe that that whatever but I'm just telling you what the Lord shows me and I want I want to tell you this was over 10 months ago
 
 ### 完整英文 Transcript
 
@@ -317,7 +348,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:23](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=743s) · 本段原话**：hardened they've become dull to the spirit they're they're they're Seekers of of things and fleshly things they are not seeking the Lord like they that like they should they have appearance of godliness and they're denying the power thereof they have um itching ears it's become more and more uh uh you can see
+- **[12:44](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=764s) · 本段原话**：it all over even in the body of Christ the church hasn't preached in the truth like they should Holiness and righteousness and and repentance they've fallen so far away from that secet friendly gospel milky word with a little porge they give you and you you're you're the the the Body of Christ in
+- **[13:00](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=780s) · 本段原话**：those churches are anemic they're starving spiritually on a day-to-day basis they're not you know they don't know how to live by faith they don't know how to stand against the devil and what he's doing in these end times and and and even know that Jesus is even coming because they don't tell you but
+- **[14:48](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=888s) · 本段原话**：expectation that you're coming back to get us and Lord we we we are looking for you we are looking for you daily keeping our lamps full of oil looking for the coming of the Lord expecting him and and and and and and we're excited about it Lord every single one of us we're
 
 ### 完整英文 Transcript
 
@@ -424,7 +462,13 @@
 <a id="section-05"></a>
 ## 05. 16:00–16:37 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=960s) · 本段原话**：voice and the stranger voice will not follow God I say it again Lord we give you all the glory and honor and praise that that you are coming soon in the mighty name of Jesus and everybody say amen amen well if you could like this video subscribe if you haven't already subscribed thank you for watching uh we
+- **[16:19](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=979s) · 本段原话**：we really appreciate you and we want to say thank you for everybody who supported us on this YouTube channel God bless you all and uh I just want to say this as as we close put a smile on your face and a song in your heart Jesus loves you so much and we love you and we
+- **[16:35](https://www.youtube.com/watch?v=Vt7BLMbB4RU&t=995s) · 本段原话**：will see you all next time you all have a blessed day God bless you all byebye
 
 ### 完整英文 Transcript
 

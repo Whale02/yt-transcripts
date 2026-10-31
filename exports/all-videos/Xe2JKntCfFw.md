@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 301；**章节数**: 3；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -13,10 +13,25 @@
 - [02. 04:00–07:59 · 教会、复兴与信仰、预言、梦境与异象](#section-02)
 - [03. 08:00–11:51 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-03)
 
+## 全片概述与 Key Points
+
+全片共 3 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:13](https://www.youtube.com/watch?v=Xe2JKntCfFw&t=13s) · 本段原话**：know you know uh you're helping get the gospel out there and um if it wasn't for you all this channel wouldn't exist. You know other other than you know the Lord's told me to do it but it takes people to support it. I just wanted to say thank you. I have some things I want
+- **[04:23](https://www.youtube.com/watch?v=Xe2JKntCfFw&t=263s) · 本段原话**：No, none at all. She's at complete peace on her as she's having our child. And everybody some family members are coming in. They're saying, "Do you have you had an epidural?" And and we said, "No, we haven't. She hadn't had an epidural. She feels no pain. There's nothing there."
+- **[08:11](https://www.youtube.com/watch?v=Xe2JKntCfFw&t=491s) · 本段原话**：We ain't never seen nothing like this before in our life. Oh my goodness. You know, and they and they start doubting and unbelief and all that doubt starts there. And doubt is a robber of your of your blessing. And so, you know what? I should have been had authority and said, "You know what, y'all? I appreciate you
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、个人故事与访谈
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、个人故事与访谈、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、个人故事与访谈展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:13](https://www.youtube.com/watch?v=Xe2JKntCfFw&t=13s) · 本段原话**：know you know uh you're helping get the gospel out there and um if it wasn't for you all this channel wouldn't exist. You know other other than you know the Lord's told me to do it but it takes people to support it. I just wanted to say thank you. I have some things I want
+- **[02:07](https://www.youtube.com/watch?v=Xe2JKntCfFw&t=127s) · 本段原话**：reading that book uh and and and just really meditating on the scriptures that the lady was talking about in the in the in the book and how you could go and uh labor without any pain. And she found some scriptures in there from uh the children of Israel that the Egyptian women marveled because the women weren't
+- **[02:28](https://www.youtube.com/watch?v=Xe2JKntCfFw&t=148s) · 本段原话**：in any pain and that they their birthing process was different than theirs. And so um I was like, you know what, I'll stand with you. I'll believe that there will be no pain whenever you have uh the baby. Uh she was pregnant with our daughter at the time. She believe she started going into labor, but she didn't
+- **[03:49](https://www.youtube.com/watch?v=Xe2JKntCfFw&t=229s) · 他描述所见**：see the contraction. She she could feel something was happening, but there was no pain. And the Lord opens my eyes and I see in the spirit realm and there's an angel standing with her with his hand on
 
 ### 完整英文 Transcript
 
@@ -131,7 +146,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:23](https://www.youtube.com/watch?v=Xe2JKntCfFw&t=263s) · 本段原话**：No, none at all. She's at complete peace on her as she's having our child. And everybody some family members are coming in. They're saying, "Do you have you had an epidural?" And and we said, "No, we haven't. She hadn't had an epidural. She feels no pain. There's nothing there."
+- **[04:39](https://www.youtube.com/watch?v=Xe2JKntCfFw&t=279s) · 他描述所见**：And they were like, "Oh, wow." like they couldn't believe it, you know, like, you know, this is really way out there. And all of a sudden, I'll tell you it like this. I saw that angel. I started getting in fear about what what what was happening. And so, because of all the doubt and unbelief that was coming in
+- **[06:29](https://www.youtube.com/watch?v=Xe2JKntCfFw&t=389s) · 本段原话**：atmosphere so much because of other people's doubt and unbelief. You got to be very cautious who you let inside your room. If you're sick in the hospital, if you're dying of incurable disease and you're letting doubt and unbelief inside your room, if you're letting them speak all their trash around you there, this
+- **[07:37](https://www.youtube.com/watch?v=Xe2JKntCfFw&t=457s) · 本段原话**：You can't allow doubt and unbelief to come in because the Bible says you can have whatever things you say and whatever you say out of your mouth is what's going to start manifesting around you. And if fear starts coming in the room, guess what? Fear starts to manifest. And that's what happened in
 
 ### 完整英文 Transcript
 
@@ -242,7 +264,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:51 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:11](https://www.youtube.com/watch?v=Xe2JKntCfFw&t=491s) · 本段原话**：We ain't never seen nothing like this before in our life. Oh my goodness. You know, and they and they start doubting and unbelief and all that doubt starts there. And doubt is a robber of your of your blessing. And so, you know what? I should have been had authority and said, "You know what, y'all? I appreciate you
+- **[09:16](https://www.youtube.com/watch?v=Xe2JKntCfFw&t=556s) · 本段原话**：to hear your voice. You have to speak to your circumstances. But I my main thing of what I'm trying to get across here, the main thing I want to get across is you have to be very cautious who you allow inside of your inner circle.
+- **[09:44](https://www.youtube.com/watch?v=Xe2JKntCfFw&t=584s) · 本段原话**：Oral Roberts because my wife graduated from Oru. It said, "Make no little plans here. You've got to think big. You've got to believe big." And and it was it was all over everywhere. Think no make no little plans here. And I'm just telling you, you've got to you've got to have a a a bulldog faith to grab on to a
+- **[11:09](https://www.youtube.com/watch?v=Xe2JKntCfFw&t=669s) · 本段原话**：When we've been and and we didn't have any money to to get groceries, and you think, well, it's going to come this way. No, God comes through in in ways that you can't even imagine. He'll use whoever he needs to use, whoever's going to be obedient. He's he he has a million and one ways to get it to you. It's
 
 ### 完整英文 Transcript
 

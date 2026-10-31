@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1062；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 40:00–43:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 44:00–45:16 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=8muAQEFYaHA&t=0s) · 他表达判断**：hey good morning family praise the Lord thank you for joining me today well we're going to pray for president Trump but first I want to say thank you all for the 500,000 subscribers wow y'all I think we're almost at like 55,000 or so I don't I don't remember eight8 58,000 I mean wow y'all you're
+- **[08:01](https://www.youtube.com/watch?v=8muAQEFYaHA&t=481s) · 他表达判断**：300 in a matter of a year it's pretty good deal right well praise the Lord that's what I think is a good deal for me it's a good deal for you maybe but um we're just we give God all the glory for it though folks it's about him trying to help his folk his people out and so
+- **[16:00](https://www.youtube.com/watch?v=8muAQEFYaHA&t=960s) · 他表达判断**：work and business and I believe that this is a time of great acceleration of of of having children because God wants the fruit of your your your womb to be blessed God wants you to have many children he wants you to have your your your quiver is full everything's going to be great I believe in 2025 this is a
+- **[28:00](https://www.youtube.com/watch?v=8muAQEFYaHA&t=1680s) · 他表达判断**：glory to God there's healing in that folks there's Deliverance in that there's power and authority in the name of Jesus and I believe this is a time like never before we're going to pray again let's pray right now for president Trump for his event we're praying over uh uh the the the Inauguration tomorrow and that the
+- **[36:35](https://www.youtube.com/watch?v=8muAQEFYaHA&t=2195s) · 他表达判断**：I believe I believe I receive it Lord I believe I receive all things are possible do you believe that all things are possible Lord I receive receive healing belongs to us Lord You've Got This Nation I believe father that you're turning this around I believe this would be the best
+- **[44:00](https://www.youtube.com/watch?v=8muAQEFYaHA&t=2640s) · 他表达判断**：I just wanted to tell you all thank you for coming and praying with us we believe this this we pray this video blessed you today we pray I pray that it did I pray you know just just to stir you up get get excited about what God's doing in other people's life I believe
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=8muAQEFYaHA&t=0s) · 他表达判断**：hey good morning family praise the Lord thank you for joining me today well we're going to pray for president Trump but first I want to say thank you all for the 500,000 subscribers wow y'all I think we're almost at like 55,000 or so I don't I don't remember eight8 58,000 I mean wow y'all you're
+- **[02:04](https://www.youtube.com/watch?v=8muAQEFYaHA&t=124s) · 本段原话**：it's like $67 a thing of coin or whatever I'm thinking it's pretty cool whatever Trump puts his hands to prospers and what God does with that and so you know and I never saw that coming and so it's amazing you know we see in part here in part but the Lord showed me
+- **[02:19](https://www.youtube.com/watch?v=8muAQEFYaHA&t=139s) · 他描述所见**：and this is this what's I think's amazing about it is that the Lord showed me that uh I think it was Sunday a week ago this week that he said Brandon uh the United States government over the time of of of President Trump's uh um term I saw the United States of America
+- **[02:37](https://www.youtube.com/watch?v=8muAQEFYaHA&t=157s) · 他描述所见**：pumping a trillion dollars into crypto and then I saw Japan and Australia and other nations joining in in that term in this four years it will it be like that all the time like people talking about this kind of stuff so I believe like I said in my opinion for what the Lord has
 
 ### 完整英文 Transcript
 
@@ -136,7 +154,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:44](https://www.youtube.com/watch?v=8muAQEFYaHA&t=284s) · 他描述所见**：showing me I don't know I hear in part I see in part but technically that prophetic word was fulfilled if you were a trump follower now people who are haters of trump they weren't on true social to be able to see that I'm not I'm not on true social I probably should have an uh you know thing and I'm going
+- **[05:42](https://www.youtube.com/watch?v=8muAQEFYaHA&t=342s) · 他描述所见**：people well are they you're not you know you hearing part seen part is that off is that whatever I just tell you the parts that I hear and I'm telling you and describing what I see the best of my ability looking into a vision like I was telling Alex Jones it's looking into a
+- **[06:19](https://www.youtube.com/watch?v=8muAQEFYaHA&t=379s) · 他描述所见**：in October I'm giving you a window of opportunity to get your house in order for the crash that's coming now how how long is the window I don't know all I know is that's the things I see and I hear a window I'm giving you a space of time like Joseph Joseph was granted
+- **[07:17](https://www.youtube.com/watch?v=8muAQEFYaHA&t=437s) · 他描述所见**：Father that you will speak to your people you will show us the things to come it's never for us to be caught off guard but Lord I see what you're saying in the news today today I see your warnings that you've warned your people to I that I've told you all that I've
 
 ### 完整英文 Transcript
 
@@ -240,7 +265,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=8muAQEFYaHA&t=481s) · 他表达判断**：300 in a matter of a year it's pretty good deal right well praise the Lord that's what I think is a good deal for me it's a good deal for you maybe but um we're just we give God all the glory for it though folks it's about him trying to help his folk his people out and so
+- **[08:16](https://www.youtube.com/watch?v=8muAQEFYaHA&t=496s) · 他描述所见**：we'll see what happens we'll just keep watching I just think it's interesting it's fun to be on this Christian Journey with you all it's fun to be watching what the Lord is doing with President Trump and seeing uh something like I said that I saw in 20203 and I told my son privately this
+- **[10:58](https://www.youtube.com/watch?v=8muAQEFYaHA&t=658s) · 他表达判断**：pray for his family another thing I thought was interesting before all the attacks all the lawsuits everything he lost even with the last one that he had to pay that lady I think like 200 million bucks I don't remember it was a lot he got $ 54 billion in the return off of that coin in the last 48
+- **[11:23](https://www.youtube.com/watch?v=8muAQEFYaHA&t=683s) · 本段原话**：hours everything the devil stole he got back more than 100 fold return the money he's put into the campaigns over the years dumping his own personal finances to save America dumping everything I'm seriously dumping his own sewing his paycheck doing the presidency his first term by by for free giving it all away
 
 ### 完整英文 Transcript
 
@@ -349,7 +381,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=8muAQEFYaHA&t=721s) · 本段原话**：happening folks and when you see that what that man has sewed into this country to turn it around to do and then the devil attacked him done all the stuff he did to try to take him out God is a rewarder of those that diligently seek him for me to hear that Trump got a
+- **[13:08](https://www.youtube.com/watch?v=8muAQEFYaHA&t=788s) · 本段原话**：bless and favor you you just have to be listening to the Holy Spirit every day being vertical with him listening to him on what you're supposed to be doing for your finances saying father what do you have for me because you like I said folks yeah he was he did he's a businessman he's president and all this
+- **[13:49](https://www.youtube.com/watch?v=8muAQEFYaHA&t=829s) · 他表达判断**：abundantly above all that you dare ask or think in these last days I believe it's a time of great acceleration on your house that what it seemed like was never going to come to pass what seemed so far out there is going to automat it's going to have there's going to be a
+- **[14:08](https://www.youtube.com/watch?v=8muAQEFYaHA&t=848s) · 本段原话**：24-hour turnaround I want you to start to believe for a 24hour turnaround like happened to these people that invested in that Trump coin believe for a 24-hour turnaround that it'll be so fast the time is going to be so accelerated that whenever you look back you're going to go but God who is rich in Mercy that's the kind of God
 
 ### 完整英文 Transcript
 
@@ -448,7 +487,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=8muAQEFYaHA&t=960s) · 他表达判断**：work and business and I believe that this is a time of great acceleration of of of having children because God wants the fruit of your your your womb to be blessed God wants you to have many children he wants you to have your your your quiver is full everything's going to be great I believe in 2025 this is a
+- **[16:55](https://www.youtube.com/watch?v=8muAQEFYaHA&t=1015s) · 他表达判断**：communion together we're going to believe right now for president Trump that this will be a time of of protection this is going to be a great year folks we're going to see it yeah I've told you I've seen things taking place that are dark but it's not for you and I I believe you the people that follow
+- **[17:55](https://www.youtube.com/watch?v=8muAQEFYaHA&t=1075s) · 他描述所见**：don't believe that I saw it with my own eyes how is that possible Brandon I have no idea God puts his super on your natural it may seem really flaky folks and you go well I don't believe all that I saw it Brandon me saw it with my own eyes and I looked at it and I studied it
+- **[19:45](https://www.youtube.com/watch?v=8muAQEFYaHA&t=1185s) · 本段原话**：talking about the glory he's talking about the outpouring there's other people that are believing and his church is in Amarello Texas so it exciting I you know it's silly of me I did not um uh ask him his church name to tell you all where to go and and and see this man
 
 ### 完整英文 Transcript
 
@@ -561,7 +607,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:33](https://www.youtube.com/watch?v=8muAQEFYaHA&t=1233s) · 本段原话**：channels are taking off sorry my mouth's been getting dry I got to get water it's exciting to see uh the the China channel the the Philippine all the other channels they're taking off the the the the uh people from all tribes and tongues are finding our our French Channel all of them and we're
+- **[20:54](https://www.youtube.com/watch?v=8muAQEFYaHA&t=1254s) · 本段原话**：excited about it because they're really really starting to get the word over there and we're anticipating great things in 2025 folks and thank you for being a part of that thank you for helping us to get the gospel spread throughout the whole world because the Bible says if we when we preach the world throughout the whole
+- **[21:56](https://www.youtube.com/watch?v=8muAQEFYaHA&t=1316s) · 他表达判断**：the back of the church so the pastor this man I'm talking about his name is Brian he walks up and he tells the man you will live and not die in the name of Jesus and he prayed over him he got up from the dead and came back then I believe it was a couple months later or
+- **[23:14](https://www.youtube.com/watch?v=8muAQEFYaHA&t=1394s) · 他转述所听到的话**：are you expecting him to show up and show off in your life when I heard that I thought I'm moving to Amarillo you know that's what I thought because I'm thinking I I'm I'm an anointing junkie I'm thinking people getting up from the dead in your church I'm there you know I got excited about it I was like my
 
 ### 完整英文 Transcript
 
@@ -668,7 +721,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:36](https://www.youtube.com/watch?v=8muAQEFYaHA&t=1476s) · 他表达判断**：but you know what but I believe somebody got blessed and I know that Trump has his finances turning around for him what the canker worm 8 folks God's turning around even for our leader and it happens this is what happens usually this happens the blessing hits the leadership and it starts flowing down on
+- **[25:54](https://www.youtube.com/watch?v=8muAQEFYaHA&t=1554s) · 他表达判断**：Holy Ghost as I take this this body goes inside of my body and it's part of me and I believe I'm a part of you I'm in Covenant with a God that loves me I'm a covenant with a God that says I have all that you ever need everything that you'll ever your your wildest dreams
+- **[26:14](https://www.youtube.com/watch?v=8muAQEFYaHA&t=1574s) · 他表达判断**：your hopes your desires I have it all and I believe father that healing is a part of that and I believe that we walk in Divine Health in the name of Jesus in these last days father he says if there is any sick among you let call for the Elders of the church and let them anoint
+- **[26:52](https://www.youtube.com/watch?v=8muAQEFYaHA&t=1612s) · 本段原话**：make much of the blood today and we plead the blood of Jesus over our families over our houses that no no weapon no satanic attack no witchcraft no incantations no chance no Voodoo nothing shall come n us every tongue that rises against us it will it will fall to the ground we're not going to
 
 ### 完整英文 Transcript
 
@@ -775,7 +835,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、特朗普与白宫
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、特朗普与白宫、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、特朗普与白宫展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:00](https://www.youtube.com/watch?v=8muAQEFYaHA&t=1680s) · 他表达判断**：glory to God there's healing in that folks there's Deliverance in that there's power and authority in the name of Jesus and I believe this is a time like never before we're going to pray again let's pray right now for president Trump for his event we're praying over uh uh the the the Inauguration tomorrow and that the
+- **[28:23](https://www.youtube.com/watch?v=8muAQEFYaHA&t=1703s) · 本段原话**：angels of the Lord are camping around and about him and the finances are going to start to pull pour on you like rip cherries off a tree that this would be a time of great acceleration and that father the spirit of increase is on us for such a time as this now father we
+- **[30:23](https://www.youtube.com/watch?v=8muAQEFYaHA&t=1823s) · 他进行祷告**：We Believe father that we we are more than conquerors through him who loved us and we believe father that Trump is protected we pray over every Secret Service person we pray over the homeland security we pray over FBI CIA whoever that father that the the righteous people would rise up we call forth
+- **[30:41](https://www.youtube.com/watch?v=8muAQEFYaHA&t=1841s) · 本段原话**：Supernatural protection over them Father that they'll know no Calamity no bombs no nothing no no hidden terrorist attacks will come now this our dwelling father that every city every plot every plan of the wicked will be uncovered in the name of Jesus that we will have Supernatural protection from sea to shining sea deliverance from the s that from any
 
 ### 完整英文 Transcript
 
@@ -879,7 +946,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:55](https://www.youtube.com/watch?v=8muAQEFYaHA&t=1975s) · 他进行祷告**：Congress and our senate floor we we believe that Revival is going to break out all throughout this nation in the name of Jesus I pray father for a supernatural move of the spirit of God Even in our our our our government and we say there will be prayer in the Oval Office We Believe father that this will
+- **[33:18](https://www.youtube.com/watch?v=8muAQEFYaHA&t=1998s) · 他表达判断**：not just be religious prayer but it would be heartfelt prayer that father they will find they will seek you and they will find you they will knock and the door will be open unto them I believe father this is a time like never before that we will see the spirit of the Lord risen upon us for such a time
+- **[33:55](https://www.youtube.com/watch?v=8muAQEFYaHA&t=2035s) · 他表达判断**：there's Supernatural things taking place for you in your house that this is a time of great acceleration father I just believe it I believe it father father We Believe Lord I believe all things are possible only believe only be
+- **[35:29](https://www.youtube.com/watch?v=8muAQEFYaHA&t=2129s) · 他表达判断**：Lord I believe I receive all the healing I need for my body Lord I believe I receive Prosperity Lord that I don't have to be broke bued and disgusted Lord I believe I receive everything you have for me Lord I believe I receive thee in what seems impossible I receive everything that you
 
 ### 完整英文 Transcript
 
@@ -972,7 +1046,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:35](https://www.youtube.com/watch?v=8muAQEFYaHA&t=2195s) · 他表达判断**：I believe I believe I receive it Lord I believe I receive all things are possible do you believe that all things are possible Lord I receive receive healing belongs to us Lord You've Got This Nation I believe father that you're turning this around I believe this would be the best
+- **[38:19](https://www.youtube.com/watch?v=8muAQEFYaHA&t=2299s) · 本段原话**：Is Yet To Come The Best Is Yet To Come Oh Lord The Best Is Yet To Come glory to God the greatest outpouring of the spirit of the Lord upon this Earth is coming the former and the latter Reign together are here and we will see the greatest Harvest of souls this world has
+- **[39:10](https://www.youtube.com/watch?v=8muAQEFYaHA&t=2350s) · 本段原话**：off of their eyes and according to to to Ephesians 1:18 that the eyes of their understanding would be enlightened we take those blinders off of their eyes in the name of Jesus We believe We Reed that for them that they would see father that you are are are are are their savior that you
+- **[39:31](https://www.youtube.com/watch?v=8muAQEFYaHA&t=2371s) · 他表达判断**：died on the cross you Rose again on the third day you're seated with him at the right hand of the father I believe father that they will see it father and they will know and they will taste and see that the Lord is good they will have a saving knowledge of the Lord Jesus
 
 ### 完整英文 Transcript
 
@@ -1066,7 +1147,14 @@
 <a id="section-11"></a>
 ## 11. 40:00–43:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:23](https://www.youtube.com/watch?v=8muAQEFYaHA&t=2423s) · 本段原话**：you're faithful and you will bring it to pass at last in the name name of Jesus and everybody say amen and amen do you believe it tomorrow will be a good day for president Trump there is the every hidden plot every plan of the wicked across this nation will be uncovered in the name of
+- **[41:14](https://www.youtube.com/watch?v=8muAQEFYaHA&t=2474s) · 本段原话**：that he would find you father that he would find Healing he would find restoration of his mind father that he would be able to take that time and and find you before uh he goes home and father we don't desire that anyone go to hell that all come to repentance all come to repentance from Camila
+- **[41:59](https://www.youtube.com/watch?v=8muAQEFYaHA&t=2519s) · 他进行祷告**：and and China and all the nations of Asia father we thank you Lord that there will be a supernatural Harvest of souls from from border to border all the way around father that xiin ping that like I said there's a there is a a a leadership coming out of out of trump that will
+- **[42:21](https://www.youtube.com/watch?v=8muAQEFYaHA&t=2541s) · 本段原话**：father that will cause the communistic parties to come to fall father there will be a uh a a a a separation from the wheat and the tears that father that we will see that you said you said I you showed me there be a dividing line and that those that are truly for you they'll
 
 ### 完整英文 Transcript
 
@@ -1164,7 +1252,14 @@
 <a id="section-12"></a>
 ## 12. 44:00–45:16 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[44:00](https://www.youtube.com/watch?v=8muAQEFYaHA&t=2640s) · 他表达判断**：I just wanted to tell you all thank you for coming and praying with us we believe this this we pray this video blessed you today we pray I pray that it did I pray you know just just to stir you up get get excited about what God's doing in other people's life I believe
+- **[44:14](https://www.youtube.com/watch?v=8muAQEFYaHA&t=2654s) · 他表达判断**：when you do that blessing comes on you I believe today you're healed I believe today you received uh impartation and have uh just an expectation inside of you to believe God for big in your life so uh so we just we just want to say thank you all if you if you're new here and you've never uh
+- **[44:36](https://www.youtube.com/watch?v=8muAQEFYaHA&t=2676s) · 本段原话**：click like or subscribe on one of our videos click like subscribe click the notification Bell it helps us to get the gospel it gets the gospel spread throughout the whole world and so we Rejoice we're we're excited for what the Lord is doing and I'm telling y'all The Best Is Yet To Come we have a a an an
+- **[44:54](https://www.youtube.com/watch?v=8muAQEFYaHA&t=2694s) · 本段原话**：anticipation for great things on this channel for uh this year 2025 so um like I said thank you all thank you God bless you we always close the video by saying put a smile on your face and a song in your heart Jesus loves you so much and we love you God bless you all and we
 
 ### 完整英文 Transcript
 

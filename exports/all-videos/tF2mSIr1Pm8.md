@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1056；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 36:00–39:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-10)
 - [11. 40:00–40:09 · 现场讲话（无可靠自动分类）](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:17](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=17s) · 本段原话**：of all, I want to say thank you for all the likes and all the shares and all of the the kind words and the comment section. God is so good. He told me to start this channel back at the first of the year and to see what the Lord has done in such a short amount of time. It
+- **[09:20](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=560s) · 他进行祷告**：blessings come down. I'm telling you, I was in a pray state of prayer last night. I was trying to tell you and I kind of skipped around here about the the about 2024 and what he was warning me about this and it's going to be a year that we sore. It's time for the
+- **[16:57](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1017s) · 本段原话**：No, no, no, no, no. You've got to change your words. You got to start speaking into that circumstance saying, "No, Johnny's full of the Holy Ghost. He's full of the life and the power of God, and God's going to deliver him and use him for the kingdom. Things are going to get better in John's life. I don't know
+- **[24:01](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1441s) · 本段原话**：to you to be obedient and to do something, do it immediately. Because if you don't, he'll bring that kind of a person who's who you're believing for and you're sewing those seeds. It may take you a long time. This might be something that I'm reaping. He might be telling you, you need to do this, do
+- **[32:00](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1920s) · 本段原话**：manipulating people by um ministry of hints. Don't do that. God is your provider. Man's not. You need to understand that. Don't go around telling people at church, "Well, I'm having a hard time and I can't pay my bills and everything." Tell God and rejoice. Keep your eyes on Jesus. Don't put your eyes on man. My wife Diana, we
+- **[40:00](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=2400s) · 本段原话**：Put a put a a smile on your face and a song in your heart. Jesus loves you so much. And I thank you for coming today.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:17](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=17s) · 本段原话**：of all, I want to say thank you for all the likes and all the shares and all of the the kind words and the comment section. God is so good. He told me to start this channel back at the first of the year and to see what the Lord has done in such a short amount of time. It
+- **[01:35](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=95s) · 本段原话**：mowers cost and I was pricing them. And for my land and how much of a mower I needed, it was going to cost thousands and thousands of dollars. And so, I was like, man, Lord, I, you know, I don't want to spend that kind of money on a credit card or try to do this right now.
+- **[01:49](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=109s) · 本段原话**：Uh, I'm just going to use this mower as much as I can. I'm going to I'm So, I I anointed it with oil. I started praying over my mower and I just had to drive real real slow. So, I just drove real real slow all right here. Here we are in August all basically all through the
+- **[02:55](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=175s) · 本段原话**：bless you with this mower. I bought it last year and I paid $7,000 for this mower. She said it's brand new. It has the bagger on the everything. This this mower is the top of the line. It's the Cadillac of mowers. One of the best mowers I mean you can buy on the market.
 
 ### 完整英文 Transcript
 
@@ -140,7 +158,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=240s) · 本段原话**：matter how small, God is able to provide. And I'm telling you, he came through for me again. And and and they they just they rolled that mower down off that that uh trailer and they said, "Here you And they taught me how to it took forever to teach me how to because it had all these buttons and all this
+- **[05:20](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=320s) · 本段原话**：And I just kept praying over it. And I kept praying in the spirit. I kept laying hands on my mower. Mo, you're going to work today when I need you to work because this land takes a long time to mow. But I told my wife, I said, "It's okay. It's prayer time. We'll just
+- **[06:16](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=376s) · 本段原话**：And that's the way God will move in in your life. Breakthrough comes. Faith calls those things that be not as though they were. And the same faith that will move a mountain, will produce a mower, will produce a healing, will produce uh whatever you need. You may need an electric bill paid. You may need uh uh
+- **[07:23](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=443s) · 本段原话**：There is a major financial shifting about to take place. I want you to get in faith. You need to get the word down inside of you. I've said this before and I'm going to say it again. I was driving down the road and I was praying in the spirit and the Lord wore me and he said, "Brandon, there are
 
 ### 完整英文 Transcript
 
@@ -262,7 +287,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[09:20](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=560s) · 他进行祷告**：blessings come down. I'm telling you, I was in a pray state of prayer last night. I was trying to tell you and I kind of skipped around here about the the about 2024 and what he was warning me about this and it's going to be a year that we sore. It's time for the
+- **[10:22](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=622s) · 本段原话**：shout of praise. Oh, glory, glory, glory. How to God in the highest. and they blew their trumpets and bam, all the walls came down through a great earthquake and it shook those walls and they went in and they took the city of Jericho. Now, it's time for us to do the kind of same things like they did in
+- **[11:05](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=665s) · 他描述所见**：It's time to turn the circumstances around in your life. God is no respector of persons. I'm telling you all, I saw the blessing and the favor of God even yesterday. What he can do. You got to change it. What you said today is what you'll be living tomorrow.
+- **[11:45](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=705s) · 本段原话**：financial giving will produce. Some 30, some 60, and 100fold. If you need a miracle in your finances, you need to sew into good ground. You need to believe God because the harvest comes by sewing seed. If you're not sewing seed,
 
 ### 完整英文 Transcript
 
@@ -371,7 +403,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:42](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=762s) · 本段原话**：and God's going to bless you. good measure, pressed down, shaken together, and running over, shall men give unto your bosom. He'll give you creative ideas to get wealth. He'll bless you so that you can be a blessing to others.
+- **[14:26](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=866s) · 他描述所见**：We've got to come up another level. I saw it again in the spirit. I saw a great financial harvest, okay? They were like dominoes stacked up. And I saw the years and the months ahead. And the Lord painted it out in front of me and he told me, he said, "There's going to be a
+- **[14:50](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=890s) · 他描述所见**：There's going to be a great great harvest of souls. But he told me, he said, "Brandon, that's what I trying to tell you again. 2024 you will soar. It's time to come up another level. It's time to do things greater. I will provide all your needs according to your riches and glory. And I saw into 2024. And 2024 is
+- **[15:30](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=930s) · 本段原话**：him through the storm and speak to your storm and tell it to be still. Or you can let the storm overtake you. But you are in charge of your destiny. But you speaking out of your mouth, well, my life's never going to change. My life's never going to get better. I'm all things are falling apart for me. You're
 
 ### 完整英文 Transcript
 
@@ -480,7 +519,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:57](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1017s) · 本段原话**：No, no, no, no, no. You've got to change your words. You got to start speaking into that circumstance saying, "No, Johnny's full of the Holy Ghost. He's full of the life and the power of God, and God's going to deliver him and use him for the kingdom. Things are going to get better in John's life. I don't know
+- **[18:15](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1095s) · 他描述所见**：Remember that you have got to speak life into your circumstances. You have to because it's what's life and death is in the power of the tongue. It's so important that you hear what I'm telling you because a lot of you I see what you're saying. Well, God works in your life but he doesn't work in mine. You
+- **[18:35](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1115s) · 本段原话**：know why? Because that's what you believe. Out of the abundance of the heart, the mouth speaks. The Bible says, "And what you believe in your heart, you're going to say out your mouth." You can always pinpoint somebody and where they are in their faith because of what they're saying out their mouth.
+- **[19:43](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1183s) · 他描述所见**：speaking it's like speaking death. That's a death word. We're not speaking that. We speak life. Megan is healed by the stripes of Jesus. Megan has the mind of Christ. Megan can do all things through Christ through who's in her. I'm not moved by what I see. I'm not moved
 
 ### 完整英文 Transcript
 
@@ -598,7 +644,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:48](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1248s) · 他描述所见**：I stand on that. I'm not moved by what I see. I'm not moved by what I feel. I'm moved by what the word says. God is a good God. Re remember this. Regardless of what your circumstances are saying around you, no. Regardless of how bad it may look, you may have the worst uh
+- **[22:34](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1354s) · 他描述所见**：But I'm telling you, if you keep speaking out of your mouth trash, you're going to live it. I'm telling you, I've lived it experience. I saw it happen when I was growing up. A lot of times my mom would speak a lot of things out of her mouth and she didn't believe in her
+- **[23:22](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1402s) · 本段原话**：by your words. You need to understand how powerful your words are. And I hope I haven't become um boring, but I'm just trying to tell you what's changed my life and what's when and that's what I kept saying over my about the mower. God is a good God. He's going to take care
+- **[23:38](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1418s) · 本段原话**：of me. Even whenever it didn't look like it was going to and in the summer's almost over, but right at the when it's almost time to start doing the leaves, God says, "Brennan, I got you back. I got you." It may maybe he was talking to that sister in the church for for for
 
 ### 完整英文 Transcript
 
@@ -715,7 +768,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:01](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1441s) · 本段原话**：to you to be obedient and to do something, do it immediately. Because if you don't, he'll bring that kind of a person who's who you're believing for and you're sewing those seeds. It may take you a long time. This might be something that I'm reaping. He might be telling you, you need to do this, do
+- **[24:18](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1458s) · 本段原话**：this, and do this. And you can have the same he'll bring that same kind of person around you that was re in rebellion. Ba basically if they if he told them a long time ago, hey, I wanted to give that that that mower to them back in June or May when the season
+- **[24:56](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1496s) · 本段原话**：speaks to you to do something, be quick to obey. Be quick to obey because that's the kind of seed you'll reap back. When God speaks to somebody's heart to help you out, be quick to obey. Be quick to obey. And and and they're going to be the kind of the person he'll start
+- **[26:42](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1602s) · 本段原话**：pastor." I said, "The Lord spoke to me to give this watch to you." I said, "This is a sacrificial gift that I'm doing this and it's it's painful for my flesh because it took me over over three months to save up for this watch. 400 bucks." And so, I went in there and I
 
 ### 完整英文 Transcript
 
@@ -840,7 +900,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、物资、能源与供应链、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、物资、能源与供应链展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:32](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1712s) · 他进行祷告**：thinking, man, I'm not going to get through this week. just think you could be the greatest influence and the greatest blessing to that person at that moment in that in that grocery store and just tell them Jesus loves you and I just want to pray for you. And they made me go, "Man, I I need prayer." Kind of
+- **[28:48](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1728s) · 他描述所见**：like when I prayed for the man that had the bad lung problem. He was he was desperate. He needed he needed his miracle right then. And if he didn't, he was getting ready to die. Man, what an opportunity to be a blessing to somebody. But I'm trying to tell you, I see the comment section. And I'm just
+- **[29:02](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1742s) · 他描述所见**：trying to go by what I see in the comment section about people because a lady's talking about how she's broke, she can't pay for her food, she's all this stuff. And I'm just telling you how the God's always provided for me. And I wanted to tell you a testimony about what God did for me this even just
+- **[31:08](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1868s) · 本段原话**：to pay them. Even it was nothing just for $10. We struggled just like I said, we were living on food st. They're saying we're going to garnish your checks. And we were like, man, God, what are we going to do? We couldn't even pay our rent. And so, um, we just standing by faith. Standing by faith. And this is
 
 ### 完整英文 Transcript
 
@@ -968,7 +1035,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:00](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=1920s) · 本段原话**：manipulating people by um ministry of hints. Don't do that. God is your provider. Man's not. You need to understand that. Don't go around telling people at church, "Well, I'm having a hard time and I can't pay my bills and everything." Tell God and rejoice. Keep your eyes on Jesus. Don't put your eyes on man. My wife Diana, we
+- **[33:52](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=2032s) · 本段原话**：Where wherever you are, you might be all around the world. You may be to your last cup of rice. There's some people that are all over the place that I'm I'm ministering to right now. You may be to your last cup of beans. Who knows? But I know this. God's a multiplier. God's a
+- **[34:55](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=2095s) · 本段原话**：the needs. I speak to the to to the mountain. You go in Jesus' name. We call forth blessing and increase and multic favor according to Malachi, according to Deuteronomy 28, that everything we put our hands to will prosper. I speak for jobs and better jobs, raises and bonuses, uh benefits, sales and commission. Uh Father, I thank you,
+- **[35:21](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=2121s) · 本段原话**：Lord, that interest and income, rebates and returns, checks in the mail, gifts and surprises, finding money, bills paid off, blessing and increase. I thank you, Lord, that that's the kind of God we will serve. Father, I thank you, Lord, for inheritances. I thank you, Lord, for for for things that have been caught up
 
 ### 完整英文 Transcript
 
@@ -1079,7 +1153,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:01](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=2161s) · 本段原话**：Gyra. You will provide. And God, I thank you, God, that you're the God of more than enough. And you'll take care of these people right now. and you'll meet them where where they are in their faith. Father, I thank you, Lord, that you're bringing that blessing forth to them right now. I thank you, Lord, that
+- **[37:45](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=2265s) · 他描述所见**：What is that turtle? There was a turtle and he's sticking his head out and I saw a turtle. That is so strange. What is that? Father, I speak to that in the name of Jesus.
+- **[38:20](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=2300s) · 他描述所见**：Demonic strongholds be broken off of their life. I see it. It's what it is. It's me.
+- **[39:08](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=2348s) · 本段原话**：You've been waiting and waiting and waiting for a long time for a manifestation for your healing. And God said he coming around in and that breakthrough's coming. I seen it. It's going to be a 24-hour turnaround. Watch right now in the name of Jesus. We speak for a turnaround right now in that
 
 ### 完整英文 Transcript
 
@@ -1176,7 +1257,11 @@
 <a id="section-11"></a>
 ## 11. 40:00–40:09 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:00](https://www.youtube.com/watch?v=tF2mSIr1Pm8&t=2400s) · 本段原话**：Put a put a a smile on your face and a song in your heart. Jesus loves you so much. And I thank you for coming today.
 
 ### 完整英文 Transcript
 

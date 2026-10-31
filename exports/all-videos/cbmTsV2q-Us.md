@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 2812；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 110:00–120:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-11)
 - [12. 121:00–131:14 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:59](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=59s) · 本段原话**：Um I thought I made it was amazing last night because I I went over everything that the Lord showed us at the end of the broadcast.
+- **[23:03](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=1383s) · 他描述所见**：Some [clears throat] say 100k. $100,000. Per citizen. To buy their country with our US tax dollars. So I saw I saw these major things being taken place last night in prayer. It's in the news today. Less than 12 hours, what is that?
+- **[44:24](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=2664s) · 本段原话**：What did he say? "I'm giving you a window of opportunity for a major revival." And this will happen in Iran and these other areas. And we see the at the beginning of 2026, the opportunity is starting to window has a crack. And look at this right now.
+- **[77:01](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=4621s) · 他描述所见**：Now this is these are private jets. Beautiful blue ones and white ones. I see white with blue stripes again. I see the white with blue stripes. I see These are like Gulfstreams.
+- **[99:00](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=5940s) · 他描述所见**：this is us normal on the day got it all. And it's an economic growth. I see economic I know and they're all standing there Palestine and I see the people free Palestine signs.
+- **[122:46](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=7366s) · 他描述所见**：Um [clears throat] But I saw England. I saw the royals. I saw um I saw uh Mark which is Canada. Mhm. And I saw them all trying to be a part of BlackRock somehow. I saw a digital age, a digital frontier. And I saw I saw a lot tonight, huh?
+
 <a id="section-01"></a>
 ## 01. 00:00–10:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:59](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=59s) · 本段原话**：Um I thought I made it was amazing last night because I I went over everything that the Lord showed us at the end of the broadcast.
+- **[04:19](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=259s) · 本段原话**：I remember Rodney Howard-Browne telling a story and I don't talk about names, but I remember this story he brought it up to me where he was over at some pastor's house before the service and he was playing video games with this boy with the pastor's boy and the pastor got so upset that he was not praying before
+- **[07:08](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=428s) · 本段原话**：I bet it's going to be really you qualified tonight, buddy. And that's why the Lord showed me is Brandon, even on your worst day it's my grace.
+- **[09:57](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=597s) · 他进行祷告**：And killed the dog. So, I I lose it. I go in the back and Paisley starts screaming, "Daddy, aren't you going to pray for my dog to raise from the dead?
 
 ### 完整英文 Transcript
 
@@ -332,7 +350,14 @@
 <a id="section-02"></a>
 ## 02. 11:00–21:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[13:30](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=810s) · 他表达判断**：I'll never forget Brandon's face. Everybody We were just in I think we were just in all kiss of the goodness of God, but at the same time just the the shock and all of what just had happened. I held that dog in my hand and God spoke to me and he said, "Even on your your best day, son, your
+- **[16:13](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=973s) · 本段原话**：Seeing anything that coming in the future, all the things is all a gift from him to show us what is coming. And in Joel chapter 2, that is young men will see visions. Old men will dream dreams. So many people ridicule all the time. You see so much stuff. You see all the stuff and you say, "Brandon, I'm
+- **[19:17](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=1157s) · 他描述所见**：And I saw Let me go over everything. I saw uh Europe the EU standing very strong against Trump, trying to tell him, "We're not going to allow you to do this." I saw it divided by fit half.
+- **[20:44](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=1244s) · 他描述所见**：Oh, I saw America stores, big companies going to Greenland to uh be just make it like America. Like we would do anywhere else.
 
 ### 完整英文 Transcript
 
@@ -619,7 +644,14 @@
 <a id="section-03"></a>
 ## 03. 22:00–32:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[23:03](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=1383s) · 他描述所见**：Some [clears throat] say 100k. $100,000. Per citizen. To buy their country with our US tax dollars. So I saw I saw these major things being taken place last night in prayer. It's in the news today. Less than 12 hours, what is that?
+- **[24:37](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=1477s) · 他转述所听到的话**：All this is to combat the BRICS. The dollar is in trouble as you see behind us on the screen. The dollar's in trouble and it's about to go over the waterfall and Trump is pedaling as fast he is he's conduing and he's fighting to keep our economy up and the Lord said pray for him. For I heard impeach
+- **[28:32](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=1712s) · 他描述所见**：and the Lord said pray over these areas. I see Salt Lake City. It's the area is the for the Mormons. There's certain things that I see this attack concerning certain landmarks, certain things that are represented so far in 2026.
+- **[32:28](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=1948s) · 他描述所见**：I saw it and I saw it all over the place. The Lord showed me. And so we we we saw a major earthquake taking place there. We saw Yellowstone going off. We've seen major earthquakes in Yellowstone National Park, right?
 
 ### 完整英文 Transcript
 
@@ -913,7 +945,14 @@
 <a id="section-04"></a>
 ## 04. 33:00–43:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[34:14](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=2054s) · 他描述所见**：[snorts] Let's watch. I saw pop stars, major name pop stars that all of a sudden are going to get radically changed and and some of them really will. There will be a great shifting in celebrity of people. I saw what are they reality TV shows, reality TV people are going to come become
+- **[37:11](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=2231s) · 他描述所见**：FOR A GREAT GREAT MOVE OF MY PRESENCE WILL COME. PRAY FOR MEL GIBSON with this new Passion of THE CHRIST MOVIE. I'M GOING TO VISIT Hollywood and you'll see A-list celebrities. I see one. I see the the girls are shaking and the girls are shaking are shaking and the and the family, all of them.
+- **[38:32](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=2312s) · 他描述所见**：I see a revival. God going to use them. And Bieber. It all they're all connected there. I see it's like they're all connected there. Chris, this and and then I see Billy. Great strongholds of satanic things to hold them. I see a revival coming to Hollywood. Great great celebrity influence.
+- **[42:46](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=2566s) · 他描述所见**：Whatever it Why it was painted red to me in the vision, I saw a military base with all kinds of military equipment and United States occupying that area. And it was like a small city.
 
 ### 完整英文 Transcript
 
@@ -1182,7 +1221,14 @@
 <a id="section-05"></a>
 ## 05. 44:00–54:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[44:24](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=2664s) · 本段原话**：What did he say? "I'm giving you a window of opportunity for a major revival." And this will happen in Iran and these other areas. And we see the at the beginning of 2026, the opportunity is starting to window has a crack. And look at this right now.
+- **[47:20](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=2840s) · 他描述所见**：Yeah, some people I saw an article where it said it's a million, something like that. Like there's a Yeah, all probably all together, but in that little area right there.
+- **[52:07](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=3127s) · 本段原话**：Father, even the single mom that's struggling, that can't pay the bills and waits on her child support every month and she's struggling raising three kids by herself. I thank you, Father, that you give her strength.
+- **[54:02](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=3242s) · 他进行祷告**：Thank you, Lord, that the peace that passes all understanding is on those kids and on the families and on the married couples that are having marriage problems. And Father, we pray over their marriages and we pray over their households. Father, that the husbands, the wives, the families, Father, we get ready because Jesus Christ is going to
 
 ### 完整英文 Transcript
 
@@ -1475,7 +1521,14 @@
 <a id="section-06"></a>
 ## 06. 55:00–65:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[55:01](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=3301s) · 本段原话**：faith like a bulldog and they latch onto the bone and they know that God that you we are fully persuaded that what you've promised you're able also to perform, to bring it to pass.
+- **[56:24](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=3384s) · 本段原话**：But I ask you, Father, for greater rain. Not freezing rain, but even if it was snow, I wouldn't complain about snow, Lord, but freezing rain on the power lines is not a good thing.
+- **[57:56](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=3476s) · 本段原话**：Your angels are watching over Diana, my children. Thank you, Lord, that we only see what you want us to see. And we only hear what you want us to hear. And a stranger's voice we will not follow.
+- **[64:43](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=3883s) · 他描述所见**：It's about the oil. A good a great place of provision. That's what he says but I see do I say that out loud?
 
 ### 完整英文 Transcript
 
@@ -1664,7 +1717,14 @@
 <a id="section-07"></a>
 ## 07. 66:00–76:59 · 预言、梦境与异象
 
-**中文章节摘要**：本段涉及：预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[66:12](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=3972s) · 他描述所见**：I see white I see table I see papers. There's glass all on this side of the wall.
+- **[69:39](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=4179s) · 他描述所见**：I see Japan. I see the woman. for the blade for the blade of what you're about to see the blade the same with Sir South Korea But Japan is forefront to me right now
+- **[71:04](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=4264s) · 他描述所见**：reunited. I see hearts being reunited. One's pink, one's red. One's pink, one's red. A uniting of the hearts. Nakunda Adonai Kadol 250 250 at ease at ease
+- **[74:08](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=4448s) · 他描述所见**：I see a Range Rover. [clears throat] It's an all terrain. It's an It's an all terrain vehicle.
 
 ### 完整英文 Transcript
 
@@ -1787,7 +1847,14 @@
 <a id="section-08"></a>
 ## 08. 77:00–87:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[77:01](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=4621s) · 他描述所见**：Now this is these are private jets. Beautiful blue ones and white ones. I see white with blue stripes again. I see the white with blue stripes. I see These are like Gulfstreams.
+- **[79:46](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=4786s) · 本段原话**：And you're going to walk in the great doors of opportunity are going to open for you. And you're going to walk through those doors with your head held high cuz you're my sons AND MY DAUGHTERS. HEAD HELD HIGH. AND COULDN'T SAY HIGH HIGH HIGH. HEAD BECAUSE it's all about Don't don't be down like broken. You know what I'm
+- **[81:45](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=4905s) · 他描述所见**：I see the number 10 0 0 0 0 0. Cool pile of mold.
+- **[83:45](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=5025s) · 他描述所见**：They're going to sign. I see Nazi. I see Chase. Chase coming right behind it.
 
 ### 完整英文 Transcript
 
@@ -2007,7 +2074,14 @@
 <a id="section-09"></a>
 ## 09. 88:00–98:59 · 经济、银行与市场、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：经济、银行与市场、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕经济、银行与市场、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[88:24](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=5304s) · 他描述所见**：Your face is all I see. And when your eyes are on this child, your grace abounds
+- **[96:24](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=5784s) · 他描述所见**：And that's not investment advice. I'm not an investment advisor. I'm only telling you what I see in the Holy Ghost and you take it to God and pray for yourself.
+- **[97:22](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=5842s) · 他描述所见**：Though I see the Gaza being developed. I see a hotels. I see a whole strip of life coming back to the Gaza. I see it looks like a resort town. There's all these new they looks like modern it's similar to what you would see in Miami. I they the houses are not like uh shacks or or
+- **[98:49](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=5929s) · 他描述所见**：Free Palestine. Free all this and I see they're upset about this and they're standing on the heckling as they build these buildings and they build this stuff. This is Palestine's land. This is
 
 ### 完整英文 Transcript
 
@@ -2220,7 +2294,14 @@
 <a id="section-10"></a>
 ## 10. 99:00–109:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[99:00](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=5940s) · 他描述所见**：this is us normal on the day got it all. And it's an economic growth. I see economic I know and they're all standing there Palestine and I see the people free Palestine signs.
+- **[102:32](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=6152s) · 他描述所见**：He's standing up here close. There's other people standing up right here. There's one over here and he's pretty dominant. I can't I've never seen him before. He's over here and he's on his left hand side in the vision. He's right here. He has a white looking hat on.
+- **[104:29](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=6269s) · 他描述所见**：I see it behind these Arab men. And I see and that's what this is prominent and then I see they're they have their hand in developing the Gaza and I see shopping malls. I see I see uh uh restaurants.
+- **[105:37](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=6337s) · 他描述所见**：[clears throat] I see a Trump flag. It's a flag with Trump's name on a golf course flag.
 
 ### 完整英文 Transcript
 
@@ -2404,7 +2485,14 @@
 <a id="section-11"></a>
 ## 11. 110:00–120:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、经济、银行与市场。 提到的地点：Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[110:06](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=6606s) · 他描述所见**：I see Iraq about to spring forth a great wealth. Great blessing to come corruption to be exposed corruption to be removed uh people are going to go to prison.
+- **[110:37](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=6637s) · 他描述所见**：We we funded we've helped you. Our base is there and all and and I and he's going to come in and he's going to and I see Marco Rubio and then cracking a whip.
+- **[116:07](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=6967s) · 他描述所见**：Pressure really makes us age. Yeah I saw well I saw that picture of Janet and I thought surely that is not the lady over Arkansas she has aged bad over the last three years when you showed her recent picture.
+- **[120:39](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=7239s) · 他描述所见**：Like I'm talking about inside of the mountains in Colorado. Going up there because of high What I saw, I saw a cat's back high.
 
 ### 完整英文 Transcript
 
@@ -2654,7 +2742,14 @@
 <a id="section-12"></a>
 ## 12. 121:00–131:14 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[122:46](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=7366s) · 他描述所见**：Um [clears throat] But I saw England. I saw the royals. I saw um I saw uh Mark which is Canada. Mhm. And I saw them all trying to be a part of BlackRock somehow. I saw a digital age, a digital frontier. And I saw I saw a lot tonight, huh?
+- **[124:07](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=7447s) · 他描述所见**：Salman. We need sleep today. And I'm just going to say his name. MBS. That's why they I'm not MBS. When I saw MBS coming along, he started helping build that temple and he started bringing forth his people and it was [laughter] And all of a sudden, I saw money flow.
+- **[127:01](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=7621s) · 本段原话**：they just all thrown eggs at me. But it's interesting because I just keep I just keep standing and doing what I God's called me to do. But it is interesting, the larger this channel grows, that all the different faiths and beliefs come on here and and we got The Buddhists like to watch us.
+- **[129:47](https://www.youtube.com/watch?v=cbmTsV2q-Us&t=7787s) · 本段原话**：The emails and all the stuff we get. By the time we get through our day, I'm like how cuz cuz Joseph and them all travel all over the United States of America and I'm like how in the world do they do that? They have to have huge staffs cuz between that I we're
 
 ### 完整英文 Transcript
 

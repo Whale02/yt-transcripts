@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 928；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 36:00–39:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-10)
 - [11. 40:00–41:45 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:18](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=18s) · 本段原话**：to upload it on YouTube so um sorry about that I tried to get you out of video ear early this morning and uh it's giving me a little trouble but um I'm going to make uh another video here cuz I might on that one and this is something that's on my heart and um it's
+- **[08:02](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=482s) · 本段原话**：always comes back with a whole bunch more of his buddies to try to grab on to you and latch on to you if you don't fill yourself up with the word the Bible says it comes to back to the house that the house that it came out of the the human being to see if it's if it's uh swept
+- **[16:00](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=960s) · 他表达判断**：I hate to maybe this is a bad illustration but it's like having part of like paying off the mafia you've got the you you've got that you've no it's probably a bad illustration it's like I'm trying to think of a way to communicate this in other way sorry y'all um you you want to forgive me you
+- **[24:41](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1481s) · 他描述所见**：mediums and doing stuff like that to see the things I see that is demonic it is pure witchcraft there is nothing there is nothing holy about it there's nothing good about it it is a demon that you're talking to and he comes as an angel of Light to to to to trick you and if you
+- **[32:22](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1942s) · 本段原话**：those angels in there right now make war against them in jesus' name we send angels in there to Del help deliver send those Devils To You Usher them out we send them to the dry places by the authority of the believer inside of us right now in the name of Jesus we're seated with him in the heavenlies and we
+- **[40:01](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=2401s) · 本段原话**：you don't have to be thank you I'm saved say I'm saved I'm saved I serve Jesus now I serve Jesus now my name is written in the Lamb's Book of Life he is forgive me he I've make him Lord of my life make him Lord over your life he is your lord Jesus is your lord
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、疾病、医疗与药品展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:18](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=18s) · 本段原话**：to upload it on YouTube so um sorry about that I tried to get you out of video ear early this morning and uh it's giving me a little trouble but um I'm going to make uh another video here cuz I might on that one and this is something that's on my heart and um it's
+- **[01:30](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=90s) · 本段原话**：whenever I am praying and interceding sometimes I will take authority over the devil of cancer and you and that when you start breaking off that devil of cancer or of diabetes or whatever off of somebody you can cast that devil off of them and tell that devil to leave whenever it's it's trying to hold on to
+- **[03:17](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=197s) · 本段原话**：almost I'm going to go ande be just real real real bold here and say a 95% cases it is a demonic attachment to that person in that circumstance that keeps driving you to that now I know there's there's endorphins there's brain things that that that your body from nicotine and things like that you you
+- **[03:40](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=220s) · 他进行祷告**：start craving things and you and your body needs to uh be detoxed from alcohol detox from certain things but there is demonic attachments that are attached to addictions okay and so we have we we are going to address that today we're going to pray and we're going to believe for
 
 ### 完整英文 Transcript
 
@@ -120,7 +138,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=240s) · 本段原话**：your deliverance from these demonic attachments today and I'm going to believe with you that the power of God is going to come through this camera and set you free from those demonic attachments there I I would say it's like a little imp on your shoulder it's like a little monkey on your shoulder
+- **[04:56](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=296s) · 本段原话**：they come in like a strong man they have a strong man and then he tries to bring in reinforcements around him to help reinforce that issue and so they'll bring in anxiety depression anger addiction anger issues Big Time anger Outburst issues and you start freaking out and anger all the time abuse because like I said they're
+- **[06:00](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=360s) · 本段原话**：the Lord will reveal to me this is a spirit you need it's not just a cell that's acting up that there you know from eating bad or whatever because uh the M you know these rebellious cells like Cancers and stuff this is an actual demonic attachment that they've done and uh to open up the door for this and you
+- **[07:12](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=432s) · 本段原话**：told you about faith calth those things that be not as though they were yeah you use that and you operate that but like I said when the devil's try to attach on to you you have to take it a step further and you've got to start attacking that demonic spirit in the spirit Realm saying you have no right to
 
 ### 完整英文 Transcript
 
@@ -228,7 +253,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:02](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=482s) · 本段原话**：always comes back with a whole bunch more of his buddies to try to grab on to you and latch on to you if you don't fill yourself up with the word the Bible says it comes to back to the house that the house that it came out of the the human being to see if it's if it's uh swept
+- **[08:22](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=502s) · 他表达判断**：and and garnished I believe this what the the verbiage but you've got to fill it with you've got to fill your your temple your mind your will your emotions and your flesh with the word of God you've got to get that word down inside of you so that that devil does not have
+- **[09:42](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=582s) · 本段原话**：expectancy expectancy of what God's going to do in your life Abraham staggered not at the promise of God but was fully persuaded fully persuaded that's an expect expecting heart he was expecting for for his wife to conceive their their son the promised child Isaac so he had expectation he was fully persuaded that what God has promised he
+- **[11:03](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=663s) · 本段原话**：sold he so gave up Jesus for the silver and did all he did and then he killed himself there was a demonic oppression there and it came on him so think about that it happened that time it's happened another time in the B Anan and safire opened the door and the devil came in
 
 ### 完整英文 Transcript
 
@@ -325,7 +357,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=721s) · 本段原话**：oppress people so I'm just trying to encourage you today how long 12 12 minutes okay good um that you don't have to have this oppression anymore you don't have to keep going and fighting the devil but you have to stand your ground and and S James 4:17 submit yourself therefore unto God resist the devil and he will
+- **[13:15](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=795s) · 本段原话**：no no no no devil get thee behind me Satan you are an offense to me I'm not going to allow you to keep speaking in my ear and I bind you in the name of Jesus get out of here I plead the blood over my mind I have a sound mind I'm not
+- **[13:35](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=815s) · 本段原话**：going to allow you to keep coming and speaking your lies in my ear trying to get me to fall in the Temptation do not fall to the devil's tactics he tries to come and tempt you he he attempts you he tempts you to get you to fall to open the door so he can oppress you and then
+- **[15:09](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=909s) · 本段原话**：Malachi when you tithe and you give and you seow if you start seeing a devour eating your stuff up you start seeing your car break down your refrigerator break down your your your water heater or whatever you start going around and looking at why is everything busted and disgusted in my life you know little Johnny sick
 
 ### 完整英文 Transcript
 
@@ -429,7 +468,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=960s) · 他表达判断**：I hate to maybe this is a bad illustration but it's like having part of like paying off the mafia you've got the you you've got that you've no it's probably a bad illustration it's like I'm trying to think of a way to communicate this in other way sorry y'all um you you want to forgive me you
+- **[17:48](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1068s) · 他表达判断**：the the door shut so the devil doesn't rob you I I swear by Tian this it's the way I live my life I know you know those are strong words but I'm just telling you all I believe in it with all my heart giving God 10% of my income to help his work doing things for the
+- **[19:12](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1152s) · 他表达判断**：ground when all there else to do is stand stand therefore you need to stand and hold your ground and not let the devil steal from you anymore and and so I believe tithing does that and I believe whenever you open the door to to sin he'll come in and he tries to to rob
+- **[19:31](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1171s) · 他表达判断**：you of your blessing because you've opened the door for the devour and he and and that's what he does so I hope this helped you today I really do um I I I think I really touched on some things oh I I'll tell you this I I I've told the story before real quick I'm
 
 ### 完整英文 Transcript
 
@@ -529,7 +575,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕疾病、医疗与药品展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:48](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1248s) · 本段原话**：I I I started uh uh they wanted to I'm trying to make this as short as possible they try to to they wanted to admit me to a a hospital to get get help uh a in a sane Asylum and they wanted to give me medication they were going to admit me there for a season because I tried to
+- **[21:49](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1309s) · 本段原话**：uh with traveling with his ministry and he came home and the and I manifested growling acting crazy the devil that was oppressing me started growling and I started flipping out and acting crazy I jump flights of stairs I went it was awful well needless story long uh needless to say a a long story short
+- **[22:38](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1358s) · 本段原话**：about this was is that we just went to a a restaurant prior to this and I ate dinner and none of that food came up okay there was none of that in the town I vomited up this demonic blob of garbage look like a humongous mucus blob I've never seen we've never seen it my
+- **[23:41](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1421s) · 本段原话**：there's a side two things that I don't like talking about because the devil likes to get Glory he likes to uh fluff up his his pride feathers and get all arrogant about stuff because he wants to be exalted he wants to be talked about Pride loves to be talked about Pride
 
 ### 完整英文 Transcript
 
@@ -621,7 +674,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:41](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1481s) · 他描述所见**：mediums and doing stuff like that to see the things I see that is demonic it is pure witchcraft there is nothing there is nothing holy about it there's nothing good about it it is a demon that you're talking to and he comes as an angel of Light to to to to trick you and if you
+- **[24:59](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1499s) · 本段原话**：keep opening the door for this you're going to wake up in hell and you're not even going to realize that you thought you were on the right side you've been on the wrong side the whole time you need to get free from this from this demonic Spirit you think well I'm seeing over into the spirit
+- **[26:46](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1606s) · 本段原话**：people trying to astr project in my house and stuff okay how long's this video Now 26 27 okay you're good they were trying to astrop project in my house I'm not going to touch this very much but I didn't know how to deal with it and this lady was high in the occult
+- **[27:24](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1644s) · 本段原话**：there she's going to she's going to teach you some things that you need need to know about what's going on in your house and stuff that how to plead the blood and things that I've learned through through the spirit realm through through intercessor prayer and and the dark side of things and the Lord teaches
 
 ### 完整英文 Transcript
 
@@ -731,7 +791,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:15](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1695s) · 本段原话**：to get free okay bottom line you need to get free Jesus is going to set you free today but you've got to want it and and so there's a lot of things that the church don't talk about pastors don't talk about this stuff but they don't talk about astral projection they don't talk about uh demonic spirits trying to
+- **[29:17](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1757s) · 他描述所见**：okay and then the church ain't teaching it so they don't understand that they're doing wrong and so it's a big mess and so it's like it's frustrating to me because I've learned so much over the years and then the Lord told me now I understand even more so why because when the I get in the comment section I see
+- **[30:17](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1817s) · 他进行祷告**：let they they open the door to so much satanic oppression and they don't even know what they're doing oh gosh I can get out my soap box and and there's so much I could say I I'll leave this for another video um another time here uh because I got to pray for you all and I got to get busy I
+- **[31:21](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1881s) · 本段原话**：tell you to get off their minds get out of their body break off of them now in jesus' name we take authority over you and we command you to release them right now in the name of Jesus we command you to take your hands off of God's Property you can no longer be oppressive over
 
 ### 完整英文 Transcript
 
@@ -836,7 +903,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:22](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1942s) · 本段原话**：those angels in there right now make war against them in jesus' name we send angels in there to Del help deliver send those Devils To You Usher them out we send them to the dry places by the authority of the believer inside of us right now in the name of Jesus we're seated with him in the heavenlies and we
+- **[32:39](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=1959s) · 本段原话**：take our Aral place and we tell the devil you're under our feet you will not be oppressing our bodies anymore you will not oppress our minds anymore we break the spirit of addiction we break the spirit of suicide and and and depression and anxiety and fear we break those Spirits off of these people in the
+- **[33:53](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=2033s) · 他表达判断**：you are good and your mercy endures forever you have set them free in the name of Jesus you have set them free I believe it we believe we receive by faith they're delivered we believe we receive by faith they are delivered just how we believe for our Salvation just how we believe for our
+- **[35:20](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=2120s) · 他描述所见**：wow I just saw somebody right now that you have been practicing Witchcraft and Jes Jesus is setting you free from those demonic spirits that you brought in through through witchcraft you were actually in the called and Jesus is setting you free right now woo I got fire on my ears I see this devil you you
 
 ### 完整英文 Transcript
 
@@ -930,7 +1004,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:32](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=2192s) · 他描述所见**：you they don't care for you they're trying to drag you to hell with them do not allow this to happen anymore in your life throw away your charms throw away your spell books throw away any ultic symbols out of your house destroy those right now do not keep that stuff in your house I see your house do not allow that
+- **[37:23](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=2243s) · 本段原话**：and things like that you you you've had you've had had this in your house you have a Ouija boards you have all kinds of stuff you need a burn that of get out out of your house Jesus is setting you free right now Jesus is setting you free right now the blood of Jesus Christ covers
+- **[37:50](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=2270s) · 本段原话**：you in the name of Jesus now we thank you angels of the Lord go and make war against them them demonic spirits do not allow them to come in anymore we hold the blood of Jesus over this right now and we seal them with the blood of Jesus no more torment no more we have authority over
+- **[38:50](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=2330s) · 本段原话**：the emotions say it say Jesus Come into my heart I confess my sins before you all that I've done confess your sins he is faithful and just to forgive you of your sins and cleanse you from all unrighteousness so Jesus forgive me of my sins write my name in the Lamb's Book of Life I belong to you now I don't
 
 ### 完整英文 Transcript
 
@@ -1016,7 +1097,14 @@
 <a id="section-11"></a>
 ## 11. 40:00–41:45 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:01](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=2401s) · 本段原话**：you don't have to be thank you I'm saved say I'm saved I'm saved I serve Jesus now I serve Jesus now my name is written in the Lamb's Book of Life he is forgive me he I've make him Lord of my life make him Lord over your life he is your lord Jesus is your lord
+- **[40:54](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=2454s) · 他表达判断**：business n it doesn't matter matter well wow wow I Holy Spirit are you done I I believe he's done I I just want to thank you all for watching today I want to thank you for subscribing I want to thank you for all the all the kind words and all the blessings and all that it's been awesome
+- **[41:22](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=2482s) · 本段原话**：put a smile on your face and song in your heart we love love you so much and we thank you for being a part of our YouTube channel and a part of our family here we will see you next time have a blessed day enjoy your labor day if you live in America enjoy this day enjoy
+- **[41:40](https://www.youtube.com/watch?v=uqDBLGjUK_U&t=2500s) · 本段原话**：your time on that you have off and we will see you next time love you guys bye-bye
 
 ### 完整英文 Transcript
 

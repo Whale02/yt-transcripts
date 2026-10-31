@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 863；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 教会、复兴与信仰、预言、梦境与异象](#section-08)
 - [09. 32:00–34:23 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:38](https://www.youtube.com/watch?v=fydYyJuEjgA&t=38s) · 他描述所见**：Cuz I don't know who's touching it. And I was just praying over it and everything and the Lord opened my eyes in the spirit and I and I and I saw some things. So, I I'll get into that, but we'll go over what we saw yesterday concerning Katy Perry and the Lord uh
+- **[08:52](https://www.youtube.com/watch?v=fydYyJuEjgA&t=532s) · 他描述所见**：Pray for Justin Bieber. Bieber? I I say his name right. The people made fun of me last time I said it wrong. But I want to make sure I say it right cuz I don't butcher somebody's name. But I then I saw Kanye with with these these snow goggles were on his head that were
+- **[12:09](https://www.youtube.com/watch?v=fydYyJuEjgA&t=729s) · 本段原话**：Like last thing you know, we get excited about Hillsong and and maybe uh Kari Jobe or whoever. There's been some really good ones that I've really you know, the blessing and thank songs like that that have really ministered to me. But I Oceans uh what is it? Oceans? Yeah. It's one of my favorites. But I But I um
+- **[21:30](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1290s) · 本段原话**：It's by worship. And if you want to bring get yourself right into the throne room, it's by worship. But there's certain frequencies of the sound that bring in that presence. Even whenever Sister Billie Remember when we were at the prayer autumn assembly, they were singing "Key tove. Key lay a lam hasto."
+- **[24:41](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1481s) · 他表达判断**：When you're in a healing service with Billie Burke and you see these things and the glory comes in, it comes through the worship. I believe in miracles.
+- **[32:01](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1921s) · 他进行祷告**：And now he's talking about heavenly worship. So, let's take Let's take communion, and we'll pray together tonight.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:38](https://www.youtube.com/watch?v=fydYyJuEjgA&t=38s) · 他描述所见**：Cuz I don't know who's touching it. And I was just praying over it and everything and the Lord opened my eyes in the spirit and I and I and I saw some things. So, I I'll get into that, but we'll go over what we saw yesterday concerning Katy Perry and the Lord uh
+- **[02:07](https://www.youtube.com/watch?v=fydYyJuEjgA&t=127s) · 他表达判断**：Even more than what they, you know, some of them are kind of riding the fence a little bit, probably, but uh there's some radical ones. But I'm But so, what I What So, what I'm going to What I'm going to say is is this goes alongside what the Lord showed us last night in
+- **[03:00](https://www.youtube.com/watch?v=fydYyJuEjgA&t=180s) · 他描述所见**：it was pit This pink hair, this bright pink hair was making and I kept looking I was praying over her praying for her and I was interceding and all of a sudden the Lord opened my eyes and and I saw music notes.
+- **[03:15](https://www.youtube.com/watch?v=fydYyJuEjgA&t=195s) · 他描述所见**：And I saw these music notes that were flowing up out of me. They were flowing up cuz I was I WAS HUMMING A I WAS humming a tune. I was humming a song.
 
 ### 完整英文 Transcript
 
@@ -135,7 +153,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:43](https://www.youtube.com/watch?v=fydYyJuEjgA&t=283s) · 本段原话**：He said, "Satan has his own like demonic influence over music, okay? And it's in in And because that's what he was created for. He was created for worship. He was created Lucifer was created with the with the with the the all the the the the music coming up out of him for THE WORSHIP OF THE FATHER.
+- **[05:50](https://www.youtube.com/watch?v=fydYyJuEjgA&t=350s) · 他转述所听到的话**：Divine reversal? Huh? Divine reversal. A DIVINE REVERSAL. A divine reversal is taking place concerning music with heavenly music and heavenly sounds that will draw them in. And as I was singing humming I was humming humming a tune, I heard a tune that I've never heard before. And I don't I can't even mimic it now, but I It was But it was
+- **[06:42](https://www.youtube.com/watch?v=fydYyJuEjgA&t=402s) · 他描述所见**：And she kept looking she Her hair I saw her little her little her her pink head peeking over the counter. Listen, I was humming, but I wasn't doing obnoxious. I would just sing it to myself. A little hum. But I could feel the anointing pulling.
+- **[07:24](https://www.youtube.com/watch?v=fydYyJuEjgA&t=444s) · 本段原话**：was mimicking that sound I was hearing and that young girl with the pink hair kept looking AND I COULD FEEL IT AND IT WAS IN AND THE LORD SHOWED ME THE THE SOUND COMING UP OUT OF MY SPIRIT WAS TURNING and dancing and it was moving in the atmosphere of that that the sandwich
 
 ### 完整英文 Transcript
 
@@ -242,7 +267,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:52](https://www.youtube.com/watch?v=fydYyJuEjgA&t=532s) · 他描述所见**：Pray for Justin Bieber. Bieber? I I say his name right. The people made fun of me last time I said it wrong. But I want to make sure I say it right cuz I don't butcher somebody's name. But I then I saw Kanye with with these these snow goggles were on his head that were
+- **[09:11](https://www.youtube.com/watch?v=fydYyJuEjgA&t=551s) · 他描述所见**：A demonic entity as I saw three demons standing behind him that were influencing this man's mind through some kind of something. It was demonic. And it was a pull ON HIM. AND BECAUSE he has talent.
+- **[09:58](https://www.youtube.com/watch?v=fydYyJuEjgA&t=598s) · 他描述所见**：The person that I saw that would come out and start preaching that they got born again and have a universal gospel has more influence than Kanye, Katy, and Justin all combined.
+- **[11:37](https://www.youtube.com/watch?v=fydYyJuEjgA&t=697s) · 本段原话**：And that's why it comes out innocent. A spoonful of sugar helps the the medicine go down. But it's I don't know, that's not the right It's not It's not medicine. It's It's poison. They're going to try to try to poison you. But you but I just want you to know that the enemy has a plan, but God has a greater
 
 ### 完整英文 Transcript
 
@@ -354,7 +386,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:09](https://www.youtube.com/watch?v=fydYyJuEjgA&t=729s) · 本段原话**：Like last thing you know, we get excited about Hillsong and and maybe uh Kari Jobe or whoever. There's been some really good ones that I've really you know, the blessing and thank songs like that that have really ministered to me. But I Oceans uh what is it? Oceans? Yeah. It's one of my favorites. But I But I um
+- **[13:10](https://www.youtube.com/watch?v=fydYyJuEjgA&t=790s) · 本段原话**：That it will become God's crowd that's main and center. Because he's drawing the celebrities to have the talent like the devil, you know, makes them sign their life contracts and you know, saying, "Well, you know, you sold your soul to me and I'll make you rich." And all the things that he tried to promise me.
+- **[14:21](https://www.youtube.com/watch?v=fydYyJuEjgA&t=861s) · 本段原话**：So, if you have a heart for worship, if you have a heart to praise our Father, there's impartations of giftings of heavenly sound coming to the body of Christ and it started today, the Lord showed me.
+- **[15:04](https://www.youtube.com/watch?v=fydYyJuEjgA&t=904s) · 他描述所见**：The other will come. The other talent brings brings it. That's what happens, but the anointing I'm telling you, it breaks the yoke. And in song heavenly sounds heavenly worship is coming. But I saw impartation for a great turnaround.
 
 ### 完整英文 Transcript
 
@@ -467,7 +506,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=fydYyJuEjgA&t=960s) · 本段原话**：that way. I'm a little country boy. I So, but I hear it and Brandon goes, "What?" Okay, and he writes it down. And so we do we have to take time to study what the Lord's saying. But I But I wanted you to be encouraged tonight.
+- **[16:59](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1019s) · 他转述所听到的话**：And I said, "Hey, go listen to that." But as I I could see the hum had glory on it. A hum. But the Lord said, "There will be more There's more to this. There's more sounds." So, I've said enough about that. But it went alongside what we prayed about last night concerning Katy
+- **[17:16](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1036s) · 他表达判断**：Perry. And I believe that God is about to do something with that that woman and with these others. That there will be uh people that were dark turned to the light and they'll use their gift and talents for Jesus. That's the whole purpose. Giving all of the glory to Jesus and tell of his love. His wonderful
+- **[18:53](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1133s) · 本段原话**：Taking that time and separating yourself from from your problems, from all your trials of life, from the heaviness of things. You may that In In In his presence, there's fullness of joy.
 
 ### 完整英文 Transcript
 
@@ -576,7 +622,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[21:30](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1290s) · 本段原话**：It's by worship. And if you want to bring get yourself right into the throne room, it's by worship. But there's certain frequencies of the sound that bring in that presence. Even whenever Sister Billie Remember when we were at the prayer autumn assembly, they were singing "Key tove. Key lay a lam hasto."
+- **[22:29](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1349s) · 本段原话**：God is a god of praise. And there are sounds. There's heavenly sounds. And I'm telling you by the spirit of God there's a there's a level of worship that we've never seen before for this next end time glorious church.
+- **[22:53](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1373s) · 本段原话**：Symphonies. Beautiful things from the throne room that will bring us into that level cuz we're all talking about the glory. We're all talking about the former and the latter rain. We're talking about this next Azusa Street Revival.
+- **[23:40](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1420s) · 他转述所听到的话**：IT WILL COME THROUGH PRAISE. WE'RE WANTING TO SEE arms and legs and people's lives changed from glory to glory. He's changing US, BUT IT WILL COME THROUGH WORSHIP, LADIES AND GENTLE GENTLEMEN. And I'm telling you the Lord said as of today, I'm dis- I'm dis- disper- dis- disper-
 
 ### 完整英文 Transcript
 
@@ -683,7 +736,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:41](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1481s) · 他表达判断**：When you're in a healing service with Billie Burke and you see these things and the glory comes in, it comes through the worship. I believe in miracles.
+- **[26:15](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1575s) · 他讨论新闻或报道**：Our phones. Our our social media, whatever. But there's a place in God with this worship that I I it changes and the when in in it change the atmosphere that the healings will manifest like we're asking for it.
+- **[26:53](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1613s) · 本段原话**：Too marvelous for words. Too wonderful for comprehension. [Music] Like nothing ever seen or heard.
+- **[27:50](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1670s) · 本段原话**：Be a contender. That's the word that he used. Time with me. Be a contender. Fight for it. Don't just sit there and just have a lackadaisical attitude. Well, you know,
 
 ### 完整英文 Transcript
 
@@ -785,7 +845,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[29:03](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1743s) · 本段原话**：But I want to tell you as if he's able to trust you with the heavenly sounds, you'll go into Wal- Walmart or whatever and and be humming a song and you'll have pink hair looking at you.
+- **[29:32](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1772s) · 本段原话**："What is that?" And and my little girl started humming it there cuz I started humming it she started humming it the rest of the day. Humming it cuz Payson my little girl loves to sing. And she she sings songs all the time and she's singing songs. She's in her word. She was humming the song and I'm telling
+- **[30:16](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1816s) · 本段原话**：It's not church uh usual, it's church unusual. And we're about to see something that we that we've only dreamed of it it's it's it's going to be pooh overflow, over the top, the glorious church, and we're going to get set with souls saved beyond anybody's comprehension.
+- **[30:54](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1854s) · 本段原话**：30? See, I didn't do too bad. I I'm trying to keep it short cuz you all want to go to bed, I'm sure. Some of y'all are like, "Well, Brandon, you're going on coming on way too late." I'm like, "Well, this is when I have time to do it, and it's quiet in the house."
 
 ### 完整英文 Transcript
 
@@ -898,7 +965,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–34:23 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:01](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1921s) · 他进行祷告**：And now he's talking about heavenly worship. So, let's take Let's take communion, and we'll pray together tonight.
+- **[32:39](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1959s) · 本段原话**：That Father, as your closers, you saved the best for last. We will see things that that church in any generation We will see things that the church has never seen before. WE WILL HEAR SOUNDS IN the glory that have never been heard before. WE WILL WE WILL TASTE. We will We will EXPERIENCE THINGS THAT NO CHURCH NO
+- **[33:03](https://www.youtube.com/watch?v=fydYyJuEjgA&t=1983s) · 本段原话**：GENERATION HAS EVER EXPERIENCED BEFORE. The great ten revivals the '80s, the '90 Father Father, you visited the church. You We had amazing things that all these all these done for us.
+- **[33:35](https://www.youtube.com/watch?v=fydYyJuEjgA&t=2015s) · 本段原话**：Thank you for the body. Let it be the word in the present and your kiss on I love you. So, give this body, and we thank you for Thank you for the A Lord, we plead the blood. We make much of the blood. The blood makes much of us. We abide the blood over us. And we thank
 
 ### 完整英文 Transcript
 

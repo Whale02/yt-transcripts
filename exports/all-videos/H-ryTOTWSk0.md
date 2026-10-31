@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 492；**章节数**: 6；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -16,10 +16,28 @@
 - [05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
 - [06. 20:00–23:12 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
 
+## 全片概述与 Key Points
+
+全片共 6 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=0s) · 本段原话**：hey good morning family I have another video for yall today uh there's some things I want to talk to youall about you know um 2024 where where are we and what what's going to happen what's the prophetic fulse you know I'm a prophetic intercessor uh the Lord will show me things that are coming and he will say I
+- **[04:32](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=272s) · 他描述所见**：being revealed I saw an exposing of things exposing and a deeper level at the beginning of of 2024 hidden things but they were even tied to Joe and I saw I saw like whenever you're rewinding a tape I saw it going clear back into the Obama Administration attached to the Obama Administration somehow and it went
+- **[09:32](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=572s) · 他描述所见**：was nothing he could do to stop it because it kept getting bigger and bigger and bigger and bigger so they waited a little bit long I could see into the summer I could see into June July August with this situation this is just part of the vision that the Lord showed me and when it got into September
+- **[12:01](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=721s) · 他描述所见**：the word dep a Great Depression a great depression and it was into 2025 and I hear this over and over 2025 a great depression and I could see going all the way into 2025 something that we've never in this generation has ever seen before going clear up into 20 26 going clear into 2027 and I saw America being
+- **[16:00](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=960s) · 他描述所见**：that's what I I don't want to add to or take away from anything I'm telling you exactly what I saw um and parts of it was stronger than others the oil things things like that going through 2025 it was like almost like you were were were not able to get a breath again
+- **[21:24](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=1284s) · 本段原话**：around us he's all he is in us around us all and he is is ministering to the people father in behalf of you I thank you Father that there are Supernatural things taking place in these last days for Creative working miracles will flow through us and we'll do the Greater Works in the mighty name
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、政党与政治人物。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=0s) · 本段原话**：hey good morning family I have another video for yall today uh there's some things I want to talk to youall about you know um 2024 where where are we and what what's going to happen what's the prophetic fulse you know I'm a prophetic intercessor uh the Lord will show me things that are coming and he will say I
+- **[00:33](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=33s) · 他描述所见**：interceding over and so um last night uh I had an open-eyed Vision that lasted probably 40 minutes uh I I was caught up again in the spirit and in an intercessory prayer for America for 2024 and um wow I was showing a lot uh I'm going to probably do a a a two-part video to
+- **[01:20](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=80s) · 他描述所见**：economy and so I was I was taken up in the spirit and I saw I saw January and I was shown into December right now where we are and I was shown in the next couple weeks and the Lord showed me okay it went into January and I saw okay I I'll start this way I saw Joe Biden and
+- **[02:02](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=122s) · 他描述所见**：reception um that's the way it was around Joe Biden's mind now that may sound funny and and I'm not making a joke this is really what I see when I was praying I saw like a it was like a confusion and he was staring off and he was even in a more state of confusion
 
 ### 完整英文 Transcript
 
@@ -112,7 +130,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:32](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=272s) · 他描述所见**：being revealed I saw an exposing of things exposing and a deeper level at the beginning of of 2024 hidden things but they were even tied to Joe and I saw I saw like whenever you're rewinding a tape I saw it going clear back into the Obama Administration attached to the Obama Administration somehow and it went
+- **[05:00](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=300s) · 他描述所见**：forward and that's what I was praying over and then all of a sudden I was praying over uh the bricks Nations and what was coming in January and them um doing a new uh currency and a new Petro dollar and I saw the United States of America had a plan to combat what was
+- **[06:42](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=402s) · 他描述所见**：lowering interest rates and I saw interest rates being lowered in March the springtime it was the springtime I'm not I'm not sure what month it is I see months I see calendars but I saw a a a a springtime event coming and he breathed into it and he kept saying to him himself I he he was worried about what
+- **[07:09](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=429s) · 他描述所见**：was happening because in his mind he kept saying is this going to work what is going to happen and all of a sudden I saw him breathe into it and the balloon started to expand inflation started to expanding and expanding expanding expanding and it was transparent and all of a sudden the blue Moon started to
 
 ### 完整英文 Transcript
 
@@ -198,7 +223,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[09:32](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=572s) · 他描述所见**：was nothing he could do to stop it because it kept getting bigger and bigger and bigger and bigger so they waited a little bit long I could see into the summer I could see into June July August with this situation this is just part of the vision that the Lord showed me and when it got into September
+- **[09:52](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=592s) · 他描述所见**：in October I saw the balloon bust I saw the the balloon like pop it's like it wasn't there anymore the balloon popped and I heard the word quanti quantitive easing quantitative easing now I'm not an economics person y'all I I barely have a high school education I'm just telling you what I see and what
+- **[10:35](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=635s) · 他描述所见**：easing I don't know you know I you you I I Googled it since then and I my wife was trying to explain it to me so um so then I saw uh October I saw it was like things were different things were different but it went went into the election and then um I won't I won't get
+- **[11:29](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=689s) · 他描述所见**：crash a major crash in the winter months of 2024 I saw going into 2025 and I saw it was very dark again I saw black black but I saw a great black depression it felt like depression like a heaviness in the spirit realm when I was praying I felt a very heavy presence
 
 ### 完整英文 Transcript
 
@@ -288,7 +320,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、经济、银行与市场。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=721s) · 他描述所见**：the word dep a Great Depression a great depression and it was into 2025 and I hear this over and over 2025 a great depression and I could see going all the way into 2025 something that we've never in this generation has ever seen before going clear up into 20 26 going clear into 2027 and I saw America being
+- **[12:36](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=756s) · 他描述所见**：changed completely changed I saw the the people that were evil their their job in their minds was done like we've achieved what we wanted to achieve okay I saw Canada America and a Mexico becoming one one a one currency Canada America
+- **[14:18](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=858s) · 他描述所见**：anointing I saw a Solomon like an endowment of an of wisdom from the father taking pieces pieces okay like when you're trying to build a rocket ship the rocket ship was destroyed and the and the architect of this of The Mastermind behind it the Brilliance of the Lord Jesus Christ and the Lord the father downloading into
+- **[14:46](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=886s) · 他描述所见**：human mind told him build it back this way so I saw this person building this spaceship kind of what I want to call it it was it was really a boat it looked like a boat uh building it back into something else and the Lord said America will never be what it was before but it will be
 
 ### 完整英文 Transcript
 
@@ -376,7 +415,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=960s) · 他描述所见**：that's what I I don't want to add to or take away from anything I'm telling you exactly what I saw um and parts of it was stronger than others the oil things things like that going through 2025 it was like almost like you were were were not able to get a breath again
+- **[16:59](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=1019s) · 本段原话**：icopod like I told you that everybody would say this is an kabod but it's not ikabod he said he'd never leave his forsakens and he would he would never leave us nor forsake us but I'm telling you there's a great shaking coming and that's what the Lord was showing me but I went so I'm going to go backwards
+- **[17:17](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=1037s) · 他描述所见**：again I'm going to go back into 2024 2024 I saw an economic boom I saw things getting better in what they were trying to present represent that everything was okay and I kept hearing them argue in the spring about a soft Landing arguing on the TV I could see it in the vision I
+- **[18:34](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=1114s) · 他进行祷告**：could do so it's like well just throw it in the air and let it burn and and you know what I'm saying I'm trying to tell you all and so when it went into it they tried to make it look good for the election but after that was over it was completely I'm going to pray for you all
 
 ### 完整英文 Transcript
 
@@ -479,7 +525,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:12 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[21:24](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=1284s) · 本段原话**：around us he's all he is in us around us all and he is is ministering to the people father in behalf of you I thank you Father that there are Supernatural things taking place in these last days for Creative working miracles will flow through us and we'll do the Greater Works in the mighty name
+- **[21:43](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=1303s) · 本段原话**：of Jesus I thank you Father for this we give you praise and glory and honor for it for a good day a good day today will be a good day today is going to be a day of victory in our households we call our marriages restored we call call our children to be uh born again and
+- **[22:39](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=1359s) · 本段原话**：uh comments for me or whatever and and and I just want to say thank you all subscribe if you could subscribe it would really bless me if you could subscribe you every time you all do that you all I'm seriously you are getting the gospel out throughout the whole world literally for the people to hear
+- **[22:57](https://www.youtube.com/watch?v=H-ryTOTWSk0&t=1377s) · 本段原话**：what Jesus is doing in this earth in these last days so I just want to say thank you put a smile on your face you all and a song in your heart Jesus loves you so much and we love you and we will see you next time y'all have a blessed day bye-bye
 
 ### 完整英文 Transcript
 

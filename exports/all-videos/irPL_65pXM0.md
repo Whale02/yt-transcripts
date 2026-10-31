@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1449；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 60:00–65:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
 - [12. 66:00–68:14 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:27](https://www.youtube.com/watch?v=irPL_65pXM0&t=27s) · 他描述所见**：And I'm telling you all, there's a major earthquake that's about to take place from British Columbia all the way down to about San Francisco. I saw a major major earthquake about that's about to take place there. I saw a tsunami wave coming in even into Alaska. A major something. And I even told everybody I
+- **[13:24](https://www.youtube.com/watch?v=irPL_65pXM0&t=804s) · 他进行祷告**：Same thing we do with President Trump. We won. WE WON. OH, GOD. WE WON. OH, NOVEMBER. WOOHOO. [cheering] WOOHOO. And everybody get And now I'm And now the Lord starts talking to me and said, "Brandon, you going to pray for his safety?"
+- **[25:15](https://www.youtube.com/watch?v=irPL_65pXM0&t=1515s) · 本段原话**：Get what you came to get from the Holy Ghost. I don't want my flesh to be a distraction to anybody because I want to be so saturated that even like Moses, the glory shined on his face and everybody was freaked out about it. So they had to take a prayer shaw and they had to wrap his head in it
+- **[42:16](https://www.youtube.com/watch?v=irPL_65pXM0&t=2536s) · 他描述所见**：I don't understand why they're not all the same. But each one is different and each one is a different shape. Okay? And they're opening up and I see them pouring out onto the earth.
+- **[54:00](https://www.youtube.com/watch?v=irPL_65pXM0&t=3240s) · 他转述所听到的话**：abide in love it's correction for me because there's a lot of times I just want to tell people off [laughter] I'm just real y'all and I and the Lord told me he said it's about 13 buddy the silos and the greater glory is attached to love [snorts] and that's [snorts] a fly that's flying
+- **[66:18](https://www.youtube.com/watch?v=irPL_65pXM0&t=3978s) · 本段原话**：Well done. This world, it's all going to burn. Who cares about the reward over here? I want the reward over there.
+
 <a id="section-01"></a>
 ## 01. 00:00–05:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:27](https://www.youtube.com/watch?v=irPL_65pXM0&t=27s) · 他描述所见**：And I'm telling you all, there's a major earthquake that's about to take place from British Columbia all the way down to about San Francisco. I saw a major major earthquake about that's about to take place there. I saw a tsunami wave coming in even into Alaska. A major something. And I even told everybody I
+- **[02:34](https://www.youtube.com/watch?v=irPL_65pXM0&t=154s) · 他描述所见**：Major earthquakes in these areas that you go, "Oh my god." And people are going to see it on the news and they're going to wake up the next day and and and I saw even 50,000 people in British Columbia died. 50,000 people. What I saw I saw the number and I saw major
+- **[02:50](https://www.youtube.com/watch?v=irPL_65pXM0&t=170s) · 他描述所见**：buildings falling. I saw major skyscrapers just tipping over major shaking. And so you say, Brandon, well that just scares me. It's not for you to be in fear. A thousand shall fall at your side and 10,000 at your right hand. If you're watching this channel, you're in the right place because I believe in the
+- **[04:21](https://www.youtube.com/watch?v=irPL_65pXM0&t=261s) · 他进行祷告**：It's time to quit playing church going and having prayer group and and and and just expecting just a a normal prayer group. I'm talking let the Holy Ghost show up and pray through you so much so that we're changing the nations. That's what I that's what I pray every single time I do this. I
 
 ### 完整英文 Transcript
 
@@ -192,7 +210,14 @@
 <a id="section-02"></a>
 ## 02. 06:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[06:12](https://www.youtube.com/watch?v=irPL_65pXM0&t=372s) · 本段原话**：He will show up in your desperation. I was out and I was I spray power washing the side of my house off. And you know, and and me, I'm going to say in this, and you don't know me, but a lot of people think they do. [laughter] I was prayer washing my house off and I
+- **[08:41](https://www.youtube.com/watch?v=irPL_65pXM0&t=521s) · 本段原话**：everything else is not a big deal. I can take care of this. I can handle it. I don't need you really over here on this, but if you could really help me out over here, just shaking me and making me realize that there's nothing I can do without him.
+- **[10:18](https://www.youtube.com/watch?v=irPL_65pXM0&t=618s) · 本段原话**：All that you do. All for the glory of God. I was challenged. I I I I I listened to to what it's all in these life lessons, you know, with the me planting flowers when he said to me, "You you just arranged it. I caused the flowers to grow. I caused the earth to produce and
+- **[11:54](https://www.youtube.com/watch?v=irPL_65pXM0&t=714s) · 他表达判断**：No matter how many books I think I could read or whatever, it all is based solely out of him. And I know I I don't want to
 
 ### 完整英文 Transcript
 
@@ -336,7 +361,14 @@
 <a id="section-03"></a>
 ## 03. 12:00–17:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[13:24](https://www.youtube.com/watch?v=irPL_65pXM0&t=804s) · 他进行祷告**：Same thing we do with President Trump. We won. WE WON. OH, GOD. WE WON. OH, NOVEMBER. WOOHOO. [cheering] WOOHOO. And everybody get And now I'm And now the Lord starts talking to me and said, "Brandon, you going to pray for his safety?"
+- **[13:36](https://www.youtube.com/watch?v=irPL_65pXM0&t=816s) · 他描述所见**：what's going on? There's more things here that you need to understand that there's more attacks on trying to be on his life, attempts on his life. You need to pray for him. So, I be I'll just doing my own thing and hell the Lord tell me and I see more attempts like like it was with the year
+- **[15:25](https://www.youtube.com/watch?v=irPL_65pXM0&t=925s) · 本段原话**：That's just the end times. You know why? Let me tell you why. Because he has a sense of urgency. What's his urgency? He knows his time is short. He has a sense of urgency. So where's the body of Christ's urgency right now? Well, you know, it's not convenient to go to prayer group on Sunday nights
+- **[16:57](https://www.youtube.com/watch?v=irPL_65pXM0&t=1017s) · 他表达判断**：Father's Day bam the glory fell two years they prayed for revival Isuzu Street I think it was like four years William Seymour and them they prayed in a little house they prayed and prayed and prayed and then God gave them a word there was a great earthquake and and it shook San Francisco and then because
 
 ### 完整英文 Transcript
 
@@ -503,7 +535,14 @@
 <a id="section-04"></a>
 ## 04. 18:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:15](https://www.youtube.com/watch?v=irPL_65pXM0&t=1095s) · 本段原话**：God resists the proud and exalts the humble. God exalts the humble. And the moment you have an attitude or an arrogant look thinking like me, I can do this house without you, Lord. I don't I don't need your help with that. I need this over there. The moment you realize how much you you have to learn,
+- **[20:34](https://www.youtube.com/watch?v=irPL_65pXM0&t=1234s) · 本段原话**：He's scared of it. That's where I want to be. I want to be right at his feet. I want to be sitting at his feet listening to him, listening to that still small voice, the still small voice of my good shepherd. I am the sheep and I am I'm on that potter's wheel even filling it.
+- **[21:48](https://www.youtube.com/watch?v=irPL_65pXM0&t=1308s) · 本段原话**：Is he still there? Is he there whenever nobody else is watching? Who are you whenever the camera is not rolling? Who are you whenever you are sitting at on the back row who and and you're watching and observing. Do you know how many times the Lord will reveal to me the more and
+- **[23:32](https://www.youtube.com/watch?v=irPL_65pXM0&t=1412s) · 本段原话**：Jealousy stinky. You can sense it when somebody's jealous of what God's doing in your life and they don't feel like you deser they des you deserve what you have and they feel they could do it better than you and when they see you they detest you and you can feel that you can feel that energy you can feel
 
 ### 完整英文 Transcript
 
@@ -652,7 +691,14 @@
 <a id="section-05"></a>
 ## 05. 24:00–29:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:15](https://www.youtube.com/watch?v=irPL_65pXM0&t=1515s) · 本段原话**：Get what you came to get from the Holy Ghost. I don't want my flesh to be a distraction to anybody because I want to be so saturated that even like Moses, the glory shined on his face and everybody was freaked out about it. So they had to take a prayer shaw and they had to wrap his head in it
+- **[26:01](https://www.youtube.com/watch?v=irPL_65pXM0&t=1561s) · 他表达判断**：So, let's pray together today. And see what the Lord has for you. I believe there's a lot here. I believe that there's an urgency of the hour to seek him. And as we see Israel, we see these things taking place. There's there's a lot of oil in the Mediterranean.
+- **[27:56](https://www.youtube.com/watch?v=irPL_65pXM0&t=1676s) · 他表达判断**：He's a good giftgiver. He's a giver of life. He's a giver of those that re and he's a rewarder of those that diligently seek him. The Bible told us that that he is a rewarder of those that diligently seek him. And as we seek him, we will find him. And I believe today is a day for you to have
+- **[29:50](https://www.youtube.com/watch?v=irPL_65pXM0&t=1790s) · 本段原话**：I thank you, Father, that we humble oursel underneath the mighty hand of God and in due time he said you said you would exalt us with all the things that
 
 ### 完整英文 Transcript
 
@@ -794,7 +840,14 @@
 <a id="section-06"></a>
 ## 06. 30:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:29](https://www.youtube.com/watch?v=irPL_65pXM0&t=1829s) · 本段原话**：Touch their life, Father, on another level. Father, I thank you, Lord, that they would have a deeper intimate relationship with you beyond anybody's comprehension. That, Father, that you are our everpresent help in a time of need. And I thank you, Father, that we become more familiar. We hear your voice. We hear your voice and that
+- **[31:35](https://www.youtube.com/watch?v=irPL_65pXM0&t=1895s) · 本段原话**：everything I put my hands to. Lord, I apply the blood of Jesus. And you said, "If you confess your sins, I am faithful and just to forgive you of your sins and cleanse you from all unrighteousness." And Father, I confess it. I've messed up. All have sinned and come fallen short of the glory. All have
+- **[33:01](https://www.youtube.com/watch?v=irPL_65pXM0&t=1981s) · 本段原话**：Father, we lift up our president. We lift up the decisions and the war of Ukraine and Russia and all that's going on in the in and all the drama. Father, we thank you, Lord, that they would come to the table and have peace in the name of Jesus.
+- **[35:22](https://www.youtube.com/watch?v=irPL_65pXM0&t=2122s) · 本段原话**：Father, we call all our unsaved loved ones saved today in the mighty name of Jesus. I call them born again. I call them spiritfilled. I call them filled with controlled by the Holy Ghost. And I thank you, Father, that they are they are free from the demonic strongholds that have held them back from the saving
 
 ### 完整英文 Transcript
 
@@ -956,7 +1009,14 @@
 <a id="section-07"></a>
 ## 07. 36:00–41:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:00](https://www.youtube.com/watch?v=irPL_65pXM0&t=2160s) · 本段原话**：to divine health. That Father, that those that are broke, they have no money. They are barely getting by. This is a time like never before that we will excel and be the head and not the tail, above and not beneath. We'll go through and we'll not go under. Father, that we you have a cattle on a thousand hills.
+- **[37:37](https://www.youtube.com/watch?v=irPL_65pXM0&t=2257s) · 他进行祷告**：There's peace in our finances. There's peace in our bodies. There's peace in our minds, in our mental, in our in in our understanding of things. Father, I thank you. We have joy unspeakable and full of glory. I'm going to pray right now in the spirit and see if the Lord has anything he wants to show us. And if
+- **[39:28](https://www.youtube.com/watch?v=irPL_65pXM0&t=2368s) · 他描述所见**：And I see silos like the old bra grain silos full of the glory. And I see these silos all on the edge of heaven. And all of these silos are full of what would look like liquid honey. And and they are pouring and opening up over the earth. And they're pouring out over the side of heaven. And
+- **[41:26](https://www.youtube.com/watch?v=irPL_65pXM0&t=2486s) · 本段原话**：EVERY single silo is different. Every single one is bigger. There's there's huge round ones and there's skinnier ones. But every single one of the reserves of these silos that are full of the glory, full of this anointing, it looks like liquid honey flowing out of these reserves, out of these silos full.
 
 ### 完整英文 Transcript
 
@@ -1064,7 +1124,14 @@
 <a id="section-08"></a>
 ## 08. 42:00–47:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:16](https://www.youtube.com/watch?v=irPL_65pXM0&t=2536s) · 他描述所见**：I don't understand why they're not all the same. But each one is different and each one is a different shape. Okay? And they're opening up and I see them pouring out onto the earth.
+- **[43:30](https://www.youtube.com/watch?v=irPL_65pXM0&t=2610s) · 他转述所听到的话**：takes no account of a suffered wrong. People are going to be jealous. People are going to get upset when they see the glory and they're dry. They want it themselves. Do you understand? The Lord said that the qualification to it is love. That's why I brought that up right then. He said, "You got to forgive
+- **[45:37](https://www.youtube.com/watch?v=irPL_65pXM0&t=2737s) · 本段原话**：love. Is walking in love. Walk in love. For if ye abide in me and my words remain in you, you shall ask what you will. But abiding in me is abiding in love. Abiding in me is abiding in love because I am love. God is love. God is love. So if you abide in me and love is
+- **[47:42](https://www.youtube.com/watch?v=irPL_65pXM0&t=2862s) · 本段原话**：reads a lot better than me. So, I'm going to have her read this and I want I want her I want you to read a first Corinthians 13.
 
 ### 完整英文 Transcript
 
@@ -1183,7 +1250,14 @@
 <a id="section-09"></a>
 ## 09. 48:00–53:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[48:10](https://www.youtube.com/watch?v=irPL_65pXM0&t=2890s) · 本段原话**：Go ahead honey. If I can speak in tongues of men and even of angels but have not love that reasoning intentional spiritual devotion such as inspired by God's love for and in us. I'm only a noisy gong or a clinging symbol. And if I have prophetic powers and understand all the secret truths and mysteries and possess all
+- **[50:05](https://www.youtube.com/watch?v=irPL_65pXM0&t=3005s) · 本段原话**：destroyed and cease. As for knowledge, it will pass away. It will it will lose its value and be superseded by truth. For our knowledge is fragmentaryary, incomplete and perfect. And our prophecy, our teaching is fragmentaryary, incomplete and imperfect. But when the complete and perfect total comes, the incomplete and imperfect will vanish away. When I was a
+- **[51:29](https://www.youtube.com/watch?v=irPL_65pXM0&t=3089s) · 他描述所见**：Love sees the best in everything. And when the Lord was showing me right then when I was looking over and I saw those silos, I said, "How do you qualify? How do I get that?" He said, "Love, love how you treat each other, how you love your brethren, how you love the brethren." Brandon,
+- **[53:09](https://www.youtube.com/watch?v=irPL_65pXM0&t=3189s) · 他转述所听到的话**：The glory is attached to it. And as we keep praying this out right now, the Lord said, I want you to read that and meditate on what I'm saying about love never fails. The glory of the Lord is attached to love [snorts] because God is love. And what we're wanting in these last days is is going to be birthed out
 
 ### 完整英文 Transcript
 
@@ -1323,7 +1397,14 @@
 <a id="section-10"></a>
 ## 10. 54:00–59:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[54:00](https://www.youtube.com/watch?v=irPL_65pXM0&t=3240s) · 他转述所听到的话**：abide in love it's correction for me because there's a lot of times I just want to tell people off [laughter] I'm just real y'all and I and the Lord told me he said it's about 13 buddy the silos and the greater glory is attached to love [snorts] and that's [snorts] a fly that's flying
+- **[55:54](https://www.youtube.com/watch?v=irPL_65pXM0&t=3354s) · 他转述所听到的话**：[snorts] He said, "Get this down inside of you. If you want to walk in the greater glory, you want to walk in the manifestations in these last days, you have to have a foundation of love." of what I heard him just say, love never fails. This must be the the greatest foundation is love in your
+- **[57:06](https://www.youtube.com/watch?v=irPL_65pXM0&t=3426s) · 他表达判断**：Beloved, let us love one another. First John 4:7 and 8. Is that right? I believe that's right. Beloved, see, let us love one another. For love is of God, and everyone that loveth is born of God, and knoweth God. He that loveth not, knoweth not God. For God is love. Beloved, let us love one another.
+- **[59:16](https://www.youtube.com/watch?v=irPL_65pXM0&t=3556s) · 本段原话**：and he chose to love them all the way through. Love never takes account of a suffered wrong. [snorts] No matter how people treat you at church, no matter how leadership treats you at church, no matter how the world treats you, it doesn't matter. Love takes no account of her suffered wrong.
 
 ### 完整英文 Transcript
 
@@ -1440,7 +1521,14 @@
 <a id="section-11"></a>
 ## 11. 60:00–65:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[64:11](https://www.youtube.com/watch?v=irPL_65pXM0&t=3851s) · 本段原话**：You know, I'm just saying if that's what he's correcting me on today, it's walking in love. The greater glory is attached to love because I've been asking about the glory, greater glory over the last couple days. Where's it at, Lord? What do I do? How do I get there? How do I tap into it? It all came
+- **[64:25](https://www.youtube.com/watch?v=irPL_65pXM0&t=3865s) · 本段原话**：out of today's prayer, [snorts] Brandon. Love, it's not what I want to hear in my flesh. My flesh does. Oh, goody. You know, cuz it takes sacrifice. It takes you. It t it takes it takes love takes no account to a suffered wrong. When people treat you bad, when they talk bad about you and run you down in the
+- **[65:05](https://www.youtube.com/watch?v=irPL_65pXM0&t=3905s) · 本段原话**：That's what he's saying to me. But then he says, "Go meditate on love and memorize this." So, he's telling me to get this down inside of you. You I just I open up myself a lot to y'all to so that you can grow with me. We're growing together.
+- **[65:21](https://www.youtube.com/watch?v=irPL_65pXM0&t=3921s) · 本段原话**：But I'm just telling you just something that's private that you could get this down inside of you and get 1 Corinthians 13 down there and just get that word down inside of your heart.
 
 ### 完整英文 Transcript
 
@@ -1538,7 +1626,14 @@
 <a id="section-12"></a>
 ## 12. 66:00–68:14 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[66:18](https://www.youtube.com/watch?v=irPL_65pXM0&t=3978s) · 本段原话**：Well done. This world, it's all going to burn. Who cares about the reward over here? I want the reward over there.
+- **[66:55](https://www.youtube.com/watch?v=irPL_65pXM0&t=4015s) · 本段原话**：We thank you, Lord, that we're never in a hurry. We always sit at your feet. We We want to know more. [snorts] How do we walk in the greater glory love?
+- **[67:06](https://www.youtube.com/watch?v=irPL_65pXM0&t=4026s) · 本段原话**：How do we get on the other side, Father? To flow in that greater anointing that we've never we've never seen really on this earth before in this last outpouring. Love, love, love, love, love.
+- **[67:48](https://www.youtube.com/watch?v=irPL_65pXM0&t=4068s) · 本段原话**：Subscribe if you haven't subscribed. Click the notification bell. Thank you for being a part of this YouTube channel. May it bless you today and may it may it increase you and you grow spiritually. I I am we always close the broadcast by always telling you put a smile on your face and a song in your heart. Jesus loves you so
 
 ### 完整英文 Transcript
 

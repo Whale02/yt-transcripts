@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 659；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 50:00–54:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 55:00–56:31 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=0s) · 他进行祷告**：hey good morning family um I'm going to do another reactionary video like a uh prayer Pray With Me video uh motivate yourself to pray I I created these I've said it several times now um why I did this was to help motivate the people to pray you know I I know it's sometimes
+- **[18:57](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=1137s) · 本段原话**：goodness oh [Applause] there is no [Applause] match oh Lord oh my
+- **[26:57](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=1617s) · 他描述所见**：keep he's he's War warning me about one of the prophetic words that I gave about the great betrayal concerning the United States turning its back on Israel making some bad choices and and and um actually not supporting them uh with what's about to happen and I'm telling you all this opens up an attack I I saw I saw a great
+- **[35:00](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=2100s) · 他描述所见**：were gold they were gold but they were not just a normal gold they were shining with the glory as these bells were ringing in the spirit right now I've seen this when I was praying I see the bells ringing with the gold like gold dust this gold that's Glory glow glory gold all over these bells as they're
+- **[45:25](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=2725s) · 本段原话**：fore oh Lord how much you love us how much you love us oh wow he loves you and me
+- **[55:01](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=3301s) · 他进行祷告**：Jesus name may the Lord bless you and keep you may his face shine upon you and give you peace today I pr pray Supernatural blessing over your households that this will be an amazing uh weekend for Palm Sunday that this will be a a time of of Great Fellowship with your homes that we
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=0s) · 他进行祷告**：hey good morning family um I'm going to do another reactionary video like a uh prayer Pray With Me video uh motivate yourself to pray I I created these I've said it several times now um why I did this was to help motivate the people to pray you know I I know it's sometimes
+- **[01:15](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=75s) · 本段原话**：right after Pastor George gave that Prophecy from Brother Hagen going into the rivers going into the rivers I mean going into the the the ocean and the wave was coming I'm sorry not Rivers but the the O The Wave was coming and so um I'm believing God for the manifestation of the Glorious uh outpouring you know
+- **[02:38](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=158s) · 本段原话**：the the the uh the the rabbis built a um a ramp with an altar on it to sacrifice the red heer and it was on I guess it was CBS or one of the major networks in America talking about uh that they were going to do this and and and he even when into talking about saying that this
+- **[04:36](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=276s) · 他描述所见**：that's about getting is about to get ready to be sacrificed supposedly and um it's going to be the the dedication to start the temple uh the Third Temple the the one that I told you that whenever I went to tribulation I saw the Antichrist on that Temple and he was talking to the
 
 ### 完整英文 Transcript
 
@@ -140,7 +158,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:00](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=300s) · 他转述所听到的话**：we're see we're we're we're it's all coming to pass it's all happening so quickly so I just was I was just so excited when I heard it about the 2,000 years and about the 800 800 year old prophecy and all those things uh being talked about on Paul Begley's Channel last night and so um he's doing
+- **[05:34](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=334s) · 他进行祷告**：8th of April uh and how significant that is but I just wanted to encourage you all Jesus is coming Jesus is coming and and as a as a as a group we pray about this we pray and we intercede for the the the signs of the times and all the things that the Lord is wanting to do
+- **[05:56](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=356s) · 本段原话**：we're we're helping uh uh I don't know cultivate the soil and get it ready and and and and help it you know for what's happening in the spirit realm we're priming the pump basically you know so I just want to encourage you all when we're doing this push in hard and and and let's go into the deep rivers and
+- **[06:17](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=377s) · 本段原话**：and ex be excited about what God is doing in these last days so here we are we're going to finish off this prayer video together uh and we're going to start praying he we're just going to jump right into it okay let me see [Music] here
 
 ### 完整英文 Transcript
 
@@ -200,7 +225,11 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节讨论主题：现场讲话（无可靠自动分类）。本节原文没有足够长的完整字幕片段可供可靠提取。
+
+### Key Points / 关键要点
+
+- 本节没有足够清晰的字幕可自动提取关键发言。
 
 ### 完整英文 Transcript
 
@@ -228,7 +257,11 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:57](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=1137s) · 本段原话**：goodness oh [Applause] there is no [Applause] match oh Lord oh my
 
 ### 完整英文 Transcript
 
@@ -265,7 +298,11 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[23:42](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=1422s) · 本段原话**：it's moved to a different part see that now let's find that [Applause] part [Music]
 
 ### 完整英文 Transcript
 
@@ -297,7 +334,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 战争与国际事务、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：战争与国际事务、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[26:57](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=1617s) · 他描述所见**：keep he's he's War warning me about one of the prophetic words that I gave about the great betrayal concerning the United States turning its back on Israel making some bad choices and and and um actually not supporting them uh with what's about to happen and I'm telling you all this opens up an attack I I saw I saw a great
+- **[27:24](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=1644s) · 他描述所见**：betrayal and I saw a red dragon come across the the sky and it was it was coming out of the the the E the the the west and it came across and it struck America and this is part of the what the the one of the Demonic assignments I know that's been sent to try to to to to
+- **[27:41](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=1661s) · 他转述所听到的话**：to destroy America but I know that we can stop things through prayer and this great betrayal the Lord said they will call this the great betrayal that against uh the the friend America being a friend to Israel and if you go back you can listen to that prophecy again but I but I'm I'm getting it inside I I
+- **[28:00](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=1680s) · 他描述所见**：I I saw it again praying over this when I'm interceding so I just want to let you all know where I'm headed [Applause] War [Applause]
 
 ### 完整英文 Transcript
 
@@ -371,7 +415,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[31:03](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=1863s) · 本段原话**：many more you're moving people out moving them out of judgment way moving them out of judgment's path moving them out of judgment Jud judgment judgment Jud that all see [Applause] know for Angelic assistance Angelic assistance Angel the
+- **[32:10](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=1930s) · 本段原话**：America you shall be saved you shall be turned around we call for repentance over over the wicked we call repentance even over over the right pride in the name Jesus loose your GP Awakening in the churches Awakening in the churches [Applause]
+- **[33:22](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=2002s) · 本段原话**：church what is that what is that what is it about the bells father we thank you Father for the release of angels to us the outpouring of God thank you Father for
+- **[34:30](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=2070s) · 本段原话**：bring the supply of Heaven great into this [Applause] land I just saw a I just saw a steeple with golden church bells in it but the the paint on the church was black and I don't understand what that is but the go but there was bells that were ringing and the ringing it was ringing but they
 
 ### 完整英文 Transcript
 
@@ -452,7 +503,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 祷告、敬拜与现场互动、经济、银行与市场
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、经济、银行与市场、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、经济、银行与市场展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:00](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=2100s) · 他描述所见**：were gold they were gold but they were not just a normal gold they were shining with the glory as these bells were ringing in the spirit right now I've seen this when I was praying I see the bells ringing with the gold like gold dust this gold that's Glory glow glory gold all over these bells as they're
+- **[36:35](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=2195s) · 本段原话**：involved but they will stay out we separate this nation from it Hallelujah Jesus thank you Jesus thank you Jesus you demon Spirit that's been in operation over our White House in the name of Jesus still want to know more about them them
+- **[38:06](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=2286s) · 本段原话**：calling and a coming back to me an understanding you give that understanding a calling and a [Music] coming an Awakening we exercise it's an Awakening the Bell to awaken the Bell to awaken oh
+- **[38:36](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=2316s) · 本段原话**：yeah the bells to awaken the Sleep the bells to awaken the slung the Slumber the body of Christ to wake up it's time to wake up for the king is coming for the king is [Applause] coming the king is coming for the bells to ring and the
 
 ### 完整英文 Transcript
 
@@ -523,7 +581,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:48](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=2448s) · 本段原话**：[Applause] asleep [Applause] for the Awakening The Awakening she come she come she
+- **[41:51](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=2511s) · 本段原话**：this is the last call this is the last call love the last call for the bells ring oh and the church they will sing Jesus is coming oh
+- **[42:36](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=2556s) · 本段原话**：the bells were ring and this is the last call this is the last call [Applause] Le Calling All the Lost Calling All the Lost oh the blinded eyes will be [Applause] [Music]
+- **[44:26](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=2666s) · 本段原话**：Jesus it's the wake up wake up Church wake up Church oh the bride wake up Church Jesus is coming
 
 ### 完整英文 Transcript
 
@@ -580,7 +645,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:25](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=2725s) · 本段原话**：fore oh Lord how much you love us how much you love us oh wow he loves you and me
+- **[47:09](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=2829s) · 本段原话**：gave his life what more could he give Oh How He Loves You Oh How He Loves Me Oh How He loves you and me sing it one more
+- **[48:55](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=2935s) · 他描述所见**：how one last call one last call I see as in the days of Noah so will it be when the son of man returns NOA yelled that last call anybody else want to come up this Ark before the door closes before the door closes his last call for Grace
+- **[49:31](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=2971s) · 本段原话**：his last call before the Great Tribulation his last call he loves us so much don't miss the boat don't miss the boat don't miss the boat the bells are ringing in the church the church is sleeping and Jesus is going to wake up the church church for the Great Tribulation is at
 
 ### 完整英文 Transcript
 
@@ -653,7 +725,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–54:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[51:05](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=3065s) · 本段原话**：push one last push for the church bells to ring and to wake everybody up out of their Slumber wake them up father especially Across America we need a Revival there's so many people that will go to hell right now father if you come we ask father for one push even if it just lasts a couple weeks Lord let it
+- **[52:06](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=3126s) · 本段原话**：open I don't know Oh How He Loves Us Jesus is coming wow what a time of prayer today I feel his presence so strong all by myself in this beautiful living room I Love You Lord and we're so
+- **[53:25](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=3205s) · 他描述所见**：restoration for them over their marriages over their children drug addictions I saw drug addictions right then I call drug addictions that that there's a spirit attached to it I command them to be free in the name of Jesus we take authority over it we take authority over allergies like oh I pray for my daughter right now healing over
+- **[54:25](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=3265s) · 本段原话**：not beneath I thank you Father for Supernatural turn of events concerning finances father where it looks like it it's impossible father you the you make things possible for all things are possible to him who believes and we believe for the impossible today we believe it for Supernatural things that take place and father we just lift up
 
 ### 完整英文 Transcript
 
@@ -761,7 +840,14 @@
 <a id="section-12"></a>
 ## 12. 55:00–56:31 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[55:01](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=3301s) · 他进行祷告**：Jesus name may the Lord bless you and keep you may his face shine upon you and give you peace today I pr pray Supernatural blessing over your households that this will be an amazing uh weekend for Palm Sunday that this will be a a time of of Great Fellowship with your homes that we
+- **[55:24](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=3324s) · 本段原话**：know that something super Supernatural is fixing to take place with Israel with the with the the with the Passover and the things that are taking place y'all I'm excited about where we are right now what I just saw today I have to write all this down and uh keep praying over it because I
+- **[55:47](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=3347s) · 本段原话**：believe there's layers to it we'll do more prayers together I I'll do more um and in the next days ahead the Lord put it me real hard again to he said Brandon I want you to do prayer videos and I'm like yes Lord yes Lord I'm I apologize I got to get this going more so y'all uh
+- **[56:08](https://www.youtube.com/watch?v=hbyGnC7qt4I&t=3368s) · 本段原话**：thank you for watching thank you God bless you all I hope you have a wonderful day remember put a smile on your face and a song in your heart Jesus loves you so much and we love you and we thank you if you could and your first time watching us uh click that
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 756；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 - [09. 32:00–32:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=YAacmBr8JyY&t=0s) · 本段原话**：hey good morning family praise the Lord Another Day Day 49 tomorrow's day 50 um you know California had the massive earthquake last night on 115 I I gave this I went I told my son I said go look at when I gave that word about a major earthquake that's going to happen uh in California and and I
+- **[08:00](https://www.youtube.com/watch?v=YAacmBr8JyY&t=480s) · 本段原话**：so you know I I I just think it's pretty amazing folks we are getting we are get getting ready to see some amazing stuff signs in the heavens signs in the Earth signs with plagues pestilence the war is another side of it we're seeing we we see that kind of stuff but like when the
+- **[12:00](https://www.youtube.com/watch?v=YAacmBr8JyY&t=720s) · 他描述所见**：do I feel he kept taking me back to I keep seeing that I had a dream one night of an eclipse and I saw this eclipse and I saw um it was completely but but was amazing was it wasn't eclipse of the of the Moon all together it was the sun it wasn't a blood blood moon I saw the
+- **[20:01](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1201s) · 本段原话**：in our their villages in their towns in their in their synagogues or wherever that they see that Jesus is Alive and he is risen and he is he is seated with the right at the right hand of the father and that the Holy Spirit dwells on the inside of us that they say I want some
+- **[24:25](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1465s) · 他进行祷告**：concerning where to move concerning where to go to church Church concerning where wherever we need to do whatever we hear we hear everything the Lord has for us we'll lack no good thing we will lack no good thing Lord and we give you all the glory honor and praise for that Lord we're expecting now father we pray over
+- **[32:02](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1922s) · 本段原话**：to be hot or you can be cold which is dumb but you can be hot or you can be cold but don't be lukewarm because he said he'd spew you out of his mouth it's time to have your F your fire uh uh hot hot hot with your lamps full of oil looking up for our Redemption is drawing
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、地震、风暴与灾害、预言、梦境与异象。 提到的地点：California。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、地震、风暴与灾害展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=YAacmBr8JyY&t=0s) · 本段原话**：hey good morning family praise the Lord Another Day Day 49 tomorrow's day 50 um you know California had the massive earthquake last night on 115 I I gave this I went I told my son I said go look at when I gave that word about a major earthquake that's going to happen uh in California and and I
+- **[00:26](https://www.youtube.com/watch?v=YAacmBr8JyY&t=26s) · 本段原话**：thought it was Southern California where this earthquake took place but it was Northern California just like the Lord showed me he said and and and I was praying over it I really didn't even really pay attention to it y'all until I started having people send me stuff an email saying hey did you see this well I
+- **[02:51](https://www.youtube.com/watch?v=YAacmBr8JyY&t=171s) · 本段原话**：this golden thread that was all like quilted to the United States of America that went on a humongous uh um over the states it was a covering over Yellowstone National Park and over that whole area up North and the Lord showed me it was a very active um uh Volcan volcanic area that he has
+- **[03:34](https://www.youtube.com/watch?v=YAacmBr8JyY&t=214s) · 本段原话**：showing me and and and that was whenever the Lord showed me the the blond-headed woman that had uh was big breasted with big heiny or you know and had the little waist and she was Vain and she was combing her hair in the mirror very uh and she was uh basically a prostitute
 
 ### 完整英文 Transcript
 
@@ -121,7 +139,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 地震、风暴与灾害、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：地震、风暴与灾害、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕地震、风暴与灾害、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:21](https://www.youtube.com/watch?v=YAacmBr8JyY&t=261s) · 他描述所见**：babies that because the preachers were not teaching the truth I saw babies all across the land and I saw almost soil diapers on and there was flies surrounding them and I've told you all about that there's been and then I and so then I saw I saw that thread that was sewn down starting to be taken and like
+- **[04:42](https://www.youtube.com/watch?v=YAacmBr8JyY&t=282s) · 本段原话**：cut back and pulled away that covering that hedge of that protection was being lifted off of that area and then the Lord showed me a massive earthquake that went from San Francisco area all the way through Portland all the way through Seattle and it shook the uh whole uh West Coast Area and it broke off the land broke off and
+- **[05:09](https://www.youtube.com/watch?v=YAacmBr8JyY&t=309s) · 本段原话**：water flooded Inland it was like it was it was separated from the main part of the the earthquake was so big that was about to happen and then the Lord showed me fires going all the way up through Anchorage Alaska and I don't know if it was a pipeline I don't want to assume
+- **[06:16](https://www.youtube.com/watch?v=YAacmBr8JyY&t=376s) · 他描述所见**：line it s sounds like that happened on the same time frame so I know God's a a math he he does things by numbers and we see uh we I I see I thought maybe it would happen during the tribulation but maybe maybe it's getting closer and that's why he I was warning
 
 ### 完整英文 Transcript
 
@@ -220,7 +245,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=YAacmBr8JyY&t=480s) · 本段原话**：so you know I I I just think it's pretty amazing folks we are getting we are get getting ready to see some amazing stuff signs in the heavens signs in the Earth signs with plagues pestilence the war is another side of it we're seeing we we see that kind of stuff but like when the
+- **[09:30](https://www.youtube.com/watch?v=YAacmBr8JyY&t=570s) · 他表达判断**：if if he would have stayed ladies and gentlemen he would have been burned up like a crisp but because he had Abraham interceding in behalf of he for him for his family he was spared and that's why I believe in these last days God is raising up this channel like to to intercede for the Nations to intercede
+- **[09:53](https://www.youtube.com/watch?v=YAacmBr8JyY&t=593s) · 他转述所听到的话**：for South Korea for their president for Australia for their for their prime minister and their stuff for Canada for for Russia for all of the uh Middle East for there's so many things it's not just about America this channel is not about America it's a worldwide Channel and the Lord said I'm raising up a million prayer Army on this
+- **[11:16](https://www.youtube.com/watch?v=YAacmBr8JyY&t=676s) · 他表达判断**：President Trump already being sworn into office when we get to Super Bowl what will he's talking about a great acceleration of finances great acceleration of things by Super Bowl of 2025 so that that means it's going to start happening things are going to start happening quick from the 20th to um probably the 13th what is that uh the of
 
 ### 完整英文 Transcript
 
@@ -324,7 +356,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=YAacmBr8JyY&t=720s) · 他描述所见**：do I feel he kept taking me back to I keep seeing that I had a dream one night of an eclipse and I saw this eclipse and I saw um it was completely but but was amazing was it wasn't eclipse of the of the Moon all together it was the sun it wasn't a blood blood moon I saw the
+- **[12:24](https://www.youtube.com/watch?v=YAacmBr8JyY&t=744s) · 他描述所见**：eclipse but I saw this side of the Earth was completely Darkness and this side of the Earth was light and I was standing in light and he said in in this this dream in this thing I heard uh alarm Sirens the the tornado sirens the air raid sirens they were blowing outside and it was completely this this
+- **[14:40](https://www.youtube.com/watch?v=YAacmBr8JyY&t=880s) · 本段原话**：the your Redemption draws nigh Jesus Christ is coming ladies and gentlemen and we're going to see these things it's part of it but as for you and and me and your house we're going to be protected because the Bible says that a thousand shall fall at your side and 10,000 at your right hand but nothing
+- **[15:36](https://www.youtube.com/watch?v=YAacmBr8JyY&t=936s) · 本段原话**：listen you have to be in sync with him just like my wife told you all being in sync with him in season and out of season being be and step as you're walking with him on a day-to-day basis don't skip one day of prayer with the father you know on the channel or whatever I'm talking about
 
 ### 完整英文 Transcript
 
@@ -426,7 +465,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=YAacmBr8JyY&t=960s) · 本段原话**：Lord Jesus Christ keeping yourself in sync with the holy spirit always following the pulse of what the holy spirit's telling you to do on a day-to-day basis because it will be life and death it will be so intense with the days ahead it will be a life and death situation you can't sit there and go
+- **[16:40](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1000s) · 本段原话**：to go and have my my my time with my father today I'm going to have to go and eat my spiritual food today so that you are able to grow and know the signs of the times and where we are be quick to hear and quick to obey whatever he tells you to do so hopefully this that part of
+- **[16:59](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1019s) · 他表达判断**：the video bless you today now let's pray together and believe God for uh Divine uh protection Divine interference for for for South Korea you know I I don't know much about your politics in South Korea but I believe with all my heart that God will set godly people in leadership over your nation that you
+- **[18:28](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1108s) · 本段原话**：the north the South the East the West we call forth the Angelic hosts to war in behalf of our brothers and sisters in Asia and I thank you Father that you anoint them from the top of their head to the soles of their feet that they would walk in a Divine anointing anointing to lay hands on the sick and
 
 ### 完整英文 Transcript
 
@@ -528,7 +574,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1201s) · 本段原话**：in our their villages in their towns in their in their synagogues or wherever that they see that Jesus is Alive and he is risen and he is he is seated with the right at the right hand of the father and that the Holy Spirit dwells on the inside of us that they say I want some
+- **[22:41](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1361s) · 本段原话**：down that frown upside down make make a smile be excited about what God's going to do in these last days ladies and gentlemen he's a Healer he's a deliverer and he said he's came to set the captives free and what better place to do it in Asia what a better place to do
+- **[23:00](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1380s) · 本段原话**：it in Africa and in all South America and over Europe Over America to show the love of God there's the goodness of God that draws men to repentance that when we lay hands on the sick we we expect it for expectations brings the manifestation of what we've been believing for I expect God to move in
+- **[23:24](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1404s) · 本段原话**：our behalf today I expect God to move and my wife and my children and and our finances I expect God to do something big for us he's he's no respector your persons and what he did 2,000 years ago he'll still do it today if he did it for them he'll do it for us and I expect it
 
 ### 完整英文 Transcript
 
@@ -626,7 +679,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:25](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1465s) · 他进行祷告**：concerning where to move concerning where to go to church Church concerning where wherever we need to do whatever we hear we hear everything the Lord has for us we'll lack no good thing we will lack no good thing Lord and we give you all the glory honor and praise for that Lord we're expecting now father we pray over
+- **[25:20](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1520s) · 他进行祷告**：Jesus we call forth that a thousand shall fall at his side and 10,000 his right hand but nothing shall come nigh him as we stand in the the Gap and pray for him father in his first 30 days of office that father he will walk in a supernatural solemon anointing and with favor over with all the other nations
+- **[25:59](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1559s) · 他进行祷告**：the 20 20th of January I thank you Lord that those demonic spirits are bound of C Harris and the Deep State I thank you Lord that they will not be able to accomplish any kind of division or any kind of plot or plan against this nation to bring it down I thank you Lord that
+- **[27:19](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1639s) · 他进行祷告**：to our Our Savior our king of kings and our Lord of lords for you are good and your mercy endures forever and great is your faithfulness to us now father we pray over osteoporosis we come against over o this Spirit of osteoporosis with the bones and and the and rittling of the bones we
 
 ### 完整英文 Transcript
 
@@ -727,7 +787,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[29:40](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1780s) · 本段原话**：believing that today was your day we're believing for miracles we're believing for for all kinds of amazing things that take place for you uh hopefully this video blessed you today I I I'm not concerned about the earthquakes I don't live on the fault line I know what the Lord showed me about Tulsa and the major
+- **[29:58](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1798s) · 本段原话**：earthquake coming from Texas Arcana and all that but I but I don't let fear in my heart I know what he said he he'd do for us ladies and gentlemen I know he said he protect us I know that we'll always be in the right place at the right time as the believer know that
+- **[31:16](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1876s) · 他进行祷告**：the algorithm we pray this richly blessed you today we really truly do I I I really uh pray we're we're uplifting you in your spirit we're telling you what's coming giving you a as The Watchmen on the wall we're warning you of what's coming and Jesus is coming there's there's the signs of the heaven
+- **[31:35](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1895s) · 本段原话**：I'm telling you folks great Great Mighty things is coming and so you know what I'm I'm I'm excited because he keeps talking to me even about next year 2025 and it's going to be a year to it's going to be a time to to really be drawing close to him 2025 it's not a time to be lukewarm I'm
 
 ### 完整英文 Transcript
 
@@ -837,7 +904,13 @@
 <a id="section-09"></a>
 ## 09. 32:00–32:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:02](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1922s) · 本段原话**：to be hot or you can be cold which is dumb but you can be hot or you can be cold but don't be lukewarm because he said he'd spew you out of his mouth it's time to have your F your fire uh uh hot hot hot with your lamps full of oil looking up for our Redemption is drawing
+- **[32:22](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1942s) · 本段原话**：nigh Jesus is coming soon and so I really want you to to to to be serious be serious it's not a time to be playing church it's time for you to really wake up so praise the Lord praise the lord we always end this broadcast by by always saying and closing out like this put a
+- **[32:43](https://www.youtube.com/watch?v=YAacmBr8JyY&t=1963s) · 本段原话**：smile in your face and a song in your heart Jesus loves you so much and we love you and we will see you on Tom at tomorrow at day 50 we'll be back tomorrow we'll do another video for y'all have a blessed and wonderful day bye-bye
 
 ### 完整英文 Transcript
 

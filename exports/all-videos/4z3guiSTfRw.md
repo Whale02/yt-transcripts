@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 878；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 - [10. 36:00–38:37 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:38](https://www.youtube.com/watch?v=4z3guiSTfRw&t=38s) · 本段原话**：year the same year that I had mine he went to tribulation and the Lord showed him tribulation and every single thing that he saw he saw different things than what the Lord showed me which is absolutely amazing but they go like a puzzle putting together I'm going to have my wife read his visitation and it's a dream he had
+- **[09:26](https://www.youtube.com/watch?v=4z3guiSTfRw&t=566s) · 他描述所见**：again against her it divided her in pieces as the sword would finish each strike fires would burst forth I heard terrible explosions the vision of the statue ended with an earthquake as it was hacked into pieces and sunk into the harbor I was weeping and crying out to God for Mercy never had I seen the side
+- **[16:00](https://www.youtube.com/watch?v=4z3guiSTfRw&t=960s) · 他描述所见**：believe it has to do with neuralink and so that's the difference between what he saw and I saw and I did not see a hologram they were made to worship on Fridays on the sides of buildings and so um that was one of the things that I saw every Friday they were in white outfits
+- **[20:25](https://www.youtube.com/watch?v=4z3guiSTfRw&t=1225s) · 本段原话**：take you out before the coming wrath is poured out upon the earth I have no obligation to do so wow but remember all those that will be left behind will be killed for their stand for me many will not stand for me in that hour and will even lose their souls when the
+- **[28:19](https://www.youtube.com/watch?v=4z3guiSTfRw&t=1699s) · 本段原话**：just on Sundays you go to Sunday you a lot of you are seeking in a in a church you're going to a church that Don't Preach uh preach a good solid word-based gospel you're going in there getting itching ear gospel you're going in there and uh you're out in 30 minutes you know
+- **[37:18](https://www.youtube.com/watch?v=4z3guiSTfRw&t=2238s) · 他表达判断**：guys a southern thing I think but I just want to say if you could click the notification Bell it really would bless us if you could like the video uh put a comment down below what you feel about it you know we're curious of you know what where where your hearts at who's
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:38](https://www.youtube.com/watch?v=4z3guiSTfRw&t=38s) · 本段原话**：year the same year that I had mine he went to tribulation and the Lord showed him tribulation and every single thing that he saw he saw different things than what the Lord showed me which is absolutely amazing but they go like a puzzle putting together I'm going to have my wife read his visitation and it's a dream he had
+- **[01:43](https://www.youtube.com/watch?v=4z3guiSTfRw&t=103s) · 他转述所听到的话**：and uh coming the water coming Inland into the east coast and whenever I told you the Lord I heard the Lord said whoo America whoo America I have favored you and I have loved you Above All Nations and and and I have Pro prospered you Above All Nations and and I gave that
+- **[02:36](https://www.youtube.com/watch?v=4z3guiSTfRw&t=156s) · 他描述所见**：you I have a visitation from the Lord Jesus and I see him face to face there's nothing that I've ever exaggerated on it I I I speak exactly what he says to tell you all that's why it shook me so much this visitation from this man having similarities even things and and even
+- **[03:28](https://www.youtube.com/watch?v=4z3guiSTfRw&t=208s) · 他描述所见**：tribulation and what I'm telling you I don't either I I all I know is I saw this stuff I don't know a time frame and I know that it that is it is a a spank it's a judgment and it's and a wake up and I I personally believe we're still here for some of this so but he he
 
 ### 完整英文 Transcript
 
@@ -128,7 +146,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:16](https://www.youtube.com/watch?v=4z3guiSTfRw&t=256s) · 本段原话**：like I said I don't know if he's one home to be with the Lord or whatever but I just want to tell you all this so here we go we're going to go straight to my wife and she's going to read this uh visitation please listen to the whole thing it's very serious Hi family um I
+- **[04:48](https://www.youtube.com/watch?v=4z3guiSTfRw&t=288s) · 他描述所见**：you all so much and so I will just start this this week I had a dream it was a terribly frightening dream in it I saw a huge angel standing suspended in the air over New York Harbor it looked so large that it covered the night sky his body was clad in golden armor as if he was going to
+- **[05:34](https://www.youtube.com/watch?v=4z3guiSTfRw&t=334s) · 他描述所见**：so brightly with Divine Light he reached for his belt that was covered with a red sash around his midsection and Drew out his sword it was so massive it blazed with light and fire all around it it looked at least 100 ft long I have never felt such fear when I saw an angel
+- **[07:39](https://www.youtube.com/watch?v=4z3guiSTfRw&t=459s) · 本段原话**：out the bowls of my wrath are full of my Fury and judgment they shall be poured out upon you you shall drink them down to the drgs every drop I have come to you day and night pleading with you to return to me for over 100 years I I am merciful and longsuffering it brings me
 
 ### 完整英文 Transcript
 
@@ -226,7 +251,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[09:26](https://www.youtube.com/watch?v=4z3guiSTfRw&t=566s) · 他描述所见**：again against her it divided her in pieces as the sword would finish each strike fires would burst forth I heard terrible explosions the vision of the statue ended with an earthquake as it was hacked into pieces and sunk into the harbor I was weeping and crying out to God for Mercy never had I seen the side
+- **[09:49](https://www.youtube.com/watch?v=4z3guiSTfRw&t=589s) · 他描述所见**：of God before I had only really known the love and goodness of him never had I seen The Wrath of the almighty then as if I was watching from a zoomed in closeup the dream shifted and I started to zoom outward from New York Harbor and started traveling in the air over America what I saw was horror beyond
+- **[10:13](https://www.youtube.com/watch?v=4z3guiSTfRw&t=613s) · 他描述所见**：anything I have ever seen I saw the United States seem to crack in two with a giant earthquake right down the middle I saw the southeastern United States covered with a giant wave of water from the ocean I saw a massive earthquake that just seemed to crack off the coast of California it reminded me of a salting
+- **[10:37](https://www.youtube.com/watch?v=4z3guiSTfRw&t=637s) · 他描述所见**：cracker that just cracked into the great cities along the west coast just fell into the ocean all the way from Mexico up to Alaska and giant waves flooded Inland until much of the West Coast just wasn't there it disappeared into the Pacific Ocean do you all remember that word that that's exactly what I saw then
 
 ### 完整英文 Transcript
 
@@ -322,7 +354,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 物资、能源与供应链、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=4z3guiSTfRw&t=720s) · 他描述所见**：stealing whatever food and supplies they could find then I saw what looked like Elite Riot police by the thousands go into communities and even cities forced the people out of their homes and brought into what looked like concentration camps some but not all of these police armies were a had light blue helmets on hundreds of thousands of
+- **[13:34](https://www.youtube.com/watch?v=4z3guiSTfRw&t=814s) · 他描述所见**：you went inside them and took the electronic Mark okay freeze mm this is what I saw remember I told you all they tried to fake the mark of the beast they put the they put a mark on their head trying to put a bruise or a sore on their forehead or their hand and I try
+- **[13:51](https://www.youtube.com/watch?v=4z3guiSTfRw&t=831s) · 他描述所见**：to tell you all the I saw women and moms that were so desperate for food and they want didn't want to take the mark but they wanted to go to these kiosk and try to get the food for their children because they were starving to death so and so he's talking about those kiosk
+- **[14:07](https://www.youtube.com/watch?v=4z3guiSTfRw&t=847s) · 他描述所见**：right now that's what I told you all about so I saw multitudes of tribulation Saints refusing to renounce Jesus as Lord they were starving many of them but still refused to take the stamp on their bodies so they could eat and live there was what looked like kiosks that were in every little town they advertised food
 
 ### 完整英文 Transcript
 
@@ -425,7 +464,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=4z3guiSTfRw&t=960s) · 他描述所见**：believe it has to do with neuralink and so that's the difference between what he saw and I saw and I did not see a hologram they were made to worship on Fridays on the sides of buildings and so um that was one of the things that I saw every Friday they were in white outfits
+- **[16:38](https://www.youtube.com/watch?v=4z3guiSTfRw&t=998s) · 本段原话**：their heads off then they were immediately in inated in incinerated incinerated sorry nothing but ashes remained this was the most horrifying of all it made the Nazi death camps look like a picnic if that is possible millions of people were executed in this way via computer systems automatically with such precision and efficiency that
+- **[17:06](https://www.youtube.com/watch?v=4z3guiSTfRw&t=1026s) · 本段原话**：I marveled that something like this was even possible and could take place on such a large scale the technology was more advanced than I have ever seen then I was back looking at that terrible Angel of the Lord and he said warn everyone flee from the Wrath to come repent and turn to Jesus while you still
+- **[18:50](https://www.youtube.com/watch?v=4z3guiSTfRw&t=1130s) · 本段原话**：air half of those that profess belief in me will be left behind as it is written in the parable of the wise and foolish virgins that's Matthew 25 the first Parable in that chapter I am coming for those that are prepared and awaiting and expecting my return but I am not leaving the Earth without a strong witness of my
 
 ### 完整英文 Transcript
 
@@ -518,7 +564,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:25](https://www.youtube.com/watch?v=4z3guiSTfRw&t=1225s) · 本段原话**：take you out before the coming wrath is poured out upon the earth I have no obligation to do so wow but remember all those that will be left behind will be killed for their stand for me many will not stand for me in that hour and will even lose their souls when the
+- **[21:31](https://www.youtube.com/watch?v=4z3guiSTfRw&t=1291s) · 本段原话**：I'll just add that the greatest warnings have been in the last 120 years which directly parallels Noah preaching while he built the ark nobody listened to him but God had sent people I mean even people on street corners they just laugh and mock at them and he sent prophets into the church men like Raven Hill
+- **[22:13](https://www.youtube.com/watch?v=4z3guiSTfRw&t=1333s) · 本段原话**：anymore and they departed from the Bible now they're preaching with itching ears they want smooth messages that make you feel good therapy how can I be fulfilled well you can be fulfilled but you don't do it by finding your life and becoming the ultimate perfect you no you do it by losing your life and dying and
+- **[23:38](https://www.youtube.com/watch?v=4z3guiSTfRw&t=1418s) · 本段原话**：Testament uh when are you the holy spirit says when are you going to start believing it amen I am coming for those who give who love me my soon appearing in the sky my wedding and my glorious supper I am coming for those that love Heaven and the coming Kingdom more more than they
 
 ### 完整英文 Transcript
 
@@ -615,7 +668,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=4z3guiSTfRw&t=1440s) · 本段原话**：this present Earth do not be deceived by false teaching that robs you of the Blessed hope of my coming my appearing I am the great king and the bridegroom keep your lamps burning brightly the Midnight Hour is here this is what the holy spirit is saying we must heed to it there is not much more time beloved May
+- **[24:41](https://www.youtube.com/watch?v=4z3guiSTfRw&t=1481s) · 他描述所见**：when I went to heaven and I saw the marriage supper of the lamb and the Lord I I saw the preparations they were doing for us all the personal name tags all the the the thought that Jesus put into celebrating us the parade everything for he is good and his Mercy endures forever and he's coming back for
+- **[26:42](https://www.youtube.com/watch?v=4z3guiSTfRw&t=1602s) · 本段原话**：itching ears in the churches that they're preaching compromise and they're not preaching uh uh to live Holiness and to live separated unto God yes it's not by um works and and I understand that and it's by Grace but we're to live a holy lifestyle separated unto Jesus as the best as we can living a repented
+- **[27:39](https://www.youtube.com/watch?v=4z3guiSTfRw&t=1659s) · 本段原话**：was the death sentence you know what I'm saying would you have that thrown at you if Christianity was wrong or would you stick in with the world can is there a separation where the salt that they say we know for a fact there's no denying that person right there's a Christian are you one of them are they going to
 
 ### 完整英文 Transcript
 
@@ -715,7 +775,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:19](https://www.youtube.com/watch?v=4z3guiSTfRw&t=1699s) · 本段原话**：just on Sundays you go to Sunday you a lot of you are seeking in a in a church you're going to a church that Don't Preach uh preach a good solid word-based gospel you're going in there getting itching ear gospel you're going in there and uh you're out in 30 minutes you know
+- **[28:50](https://www.youtube.com/watch?v=4z3guiSTfRw&t=1730s) · 本段原话**：telling you they're losing the purity of trying to preach people's repentance and change and and and and becoming better do you agree I just feel it's it's so important that people understand what he's talking about of feeling your lamps full of oil keeping yourself right before him not being ones that are going
+- **[29:32](https://www.youtube.com/watch?v=4z3guiSTfRw&t=1772s) · 他描述所见**：tribulation folks which one are you don't put it off yes don't put it off there's another man I saw in the comment section said well I guess I can go look at stuff and drink and and and live life like a heathen now for a while because it doesn't sound like he's coming back
+- **[31:37](https://www.youtube.com/watch?v=4z3guiSTfRw&t=1897s) · 他进行祷告**：lacking there's nothing there you did nothing for me on this Earth woe unto you I pray Mercy I pray I God have mercy and I'm just telling you all we're running out of time we're running out of time I always look for him during September time frame dur in roash uh could it be this year could be
 
 ### 完整英文 Transcript
 
@@ -822,7 +889,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:23](https://www.youtube.com/watch?v=4z3guiSTfRw&t=1943s) · 本段原话**：God speaking to different prophetic voices throughout the world trying to warn them about what's coming and he speaks to me loud and I it sounds like he speaks to this man loud but he's he put us to be a Watchman on the wall I feel like I'm Paul rever riding my horse through the through the towns telling
+- **[32:41](https://www.youtube.com/watch?v=4z3guiSTfRw&t=1961s) · 本段原话**：the Minutemen Jesus is coming Jesus he was on there telling everybody the British are coming the British are coming trying to wake everybody up getting ready for the war I'm trying to tell you Jesus is coming Jesus is coming to get you woke up for the spiritual war are you going to be a ready for the soon
+- **[34:03](https://www.youtube.com/watch?v=4z3guiSTfRw&t=2043s) · 本段原话**：that he gave his one and only begotten son that whosoever believe in him should not perish and have everlasting life you don't have to perish in and you don't have to perish but you can have everlasting life today when you when you make Jesus your lord and personal savior it doesn't have to be all uh hyped up
+- **[35:01](https://www.youtube.com/watch?v=4z3guiSTfRw&t=2101s) · 本段原话**：children our our our wayward Sons our wayward daughters our wayward uh husbands or whatever uh wives uh moms dads grandma grandpa whatever if they're way were father we call them in Aunts Uncles it doesn't matter who they are you know where they are you know if they're in the bars you know if they're
 
 ### 完整英文 Transcript
 
@@ -928,7 +1002,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–38:37 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[37:18](https://www.youtube.com/watch?v=4z3guiSTfRw&t=2238s) · 他表达判断**：guys a southern thing I think but I just want to say if you could click the notification Bell it really would bless us if you could like the video uh put a comment down below what you feel about it you know we're curious of you know what where where your hearts at who's
+- **[37:51](https://www.youtube.com/watch?v=4z3guiSTfRw&t=2271s) · 本段原话**：for being such a blessing to us um it if it wasn't for you we we wouldn't have have a YouTube channel and I'm telling you all uh you're helping get the gospel spread throughout the world another person gave their heart to Jesus Christ and uh some people got uh baptized in the Holy Ghost this week too I'm excited
+- **[38:10](https://www.youtube.com/watch?v=4z3guiSTfRw&t=2290s) · 本段原话**：about them we get these emails and and some of them like I said some of them are nasty some of them are nice but I but I like the nice ones and I just want to say thank you thank you for all your your love and your kindness God bless you all we'll put a smile on your face
+- **[38:24](https://www.youtube.com/watch?v=4z3guiSTfRw&t=2304s) · 本段原话**：and a song in your heart Jes Jesus love you so much and we love you and we will see you next time y'all have a blessed and wonderful day we'll see you bye bye say bye bye Brandon bye bye bye
 
 ### 完整英文 Transcript
 

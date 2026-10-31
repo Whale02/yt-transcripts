@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1036；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 36:00–39:59 · 教会、复兴与信仰](#section-10)
 - [11. 40:00–43:12 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:38](https://www.youtube.com/watch?v=9vDHCotP_W0&t=38s) · 本段原话**：he's he he is being a rascal um here we go when I was praying uh during roash yesterday I was there was a lot of things the Lord showed me in the spirit realm but whenever I was I was in my secret place praying he told me some of the stuff I can't talk about it
+- **[08:22](https://www.youtube.com/watch?v=9vDHCotP_W0&t=502s) · 本段原话**：the acceleration for roash rashna when we went into last Saturday and the holiday the new year here it was the atmosphere on Saturday was charged it was like I you it was almost like you were able to step over spiritually and even even more so even today I mean it hasn't went away even on
+- **[17:08](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1028s) · 本段原话**：get out of my house and when that power came up out of me out of your belly shall flow rivers of Living Water came out of me the word the word came out of me because I built myself up in my most holy fa praying in the spirit yielding my SP s to the Holy Ghost I spoke it out
+- **[24:01](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1441s) · 本段原话**：chapter I mean in verse 17 and comes out and and beats them up and tears them up from the Flor up whips their ears and so you that's what I'm trying to tell you the devil knows and understands Authority it's right even right here it's in the word and so um I'm going to go over here the Lord
+- **[32:30](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1950s) · 他描述所见**：over your health speaking over over over your children's protection over where you're at listening to that still small voice inside of you so that you can flow in this whenever they you know you see all this new stuff coming on TV I I I saw on these new news articles some people sent it to me on the Facebook
+- **[40:02](https://www.youtube.com/watch?v=9vDHCotP_W0&t=2402s) · 他进行祷告**：trying to tell you all you have to get that that uh you have to be that Bulldog faith believing in these last days and so I hope this sermon helped you all day let me pray for you all today thank you for joining me I'm going to pray for you whatever you have need of you need
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:38](https://www.youtube.com/watch?v=9vDHCotP_W0&t=38s) · 本段原话**：he's he he is being a rascal um here we go when I was praying uh during roash yesterday I was there was a lot of things the Lord showed me in the spirit realm but whenever I was I was in my secret place praying he told me some of the stuff I can't talk about it
+- **[01:19](https://www.youtube.com/watch?v=9vDHCotP_W0&t=79s) · 本段原话**：calendar and he said yours of course is January 1st to January 1st but he said from from from this September until the next rash which is sometimes it's in October whatever it's a fall the fall Feast he said you are going to see a lot of suppression coming from the internet from uh Facebook from all of the major
+- **[01:44](https://www.youtube.com/watch?v=9vDHCotP_W0&t=104s) · 他描述所见**：uh social media sites from YouTube all this uh suppressing uh freedom of speech freedom of of of of basically what you think so the you're on their platform so they're going to I I I saw them in meetings I saw things happening and they are going to start attacking a lot of free speech
+- **[03:04](https://www.youtube.com/watch?v=9vDHCotP_W0&t=184s) · 本段原话**：being born the birthing pains increase increase increase okay like every woman would know that she's had a child so what the Lord showed me was is that they will increase during roash Shah every time it's a Jewish New Year until his coming we will see those birthing pains increase increase increase clear up and
 
 ### 完整英文 Transcript
 
@@ -124,7 +142,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、战争与国际事务
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、战争与国际事务展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=9vDHCotP_W0&t=241s) · 他表达判断**：would have six more years until the next shita cycle uh starts that's a great time for the Rapture of the church that's my opinion and so um people have asked me about the the the uh the Revelation 12 sign and all that I believe we're going to see that they they've wondered if uh they've
+- **[04:21](https://www.youtube.com/watch?v=9vDHCotP_W0&t=261s) · 他表达判断**：talked to me about September 23rd and is that a significant day I don't know about I don't know much about September 2 I know the world acknowledges is it there's there's people saying there's all kinds of movies and all this stuff about it but I believe the the Revelation 12 sign I'm not I'm not like
+- **[06:41](https://www.youtube.com/watch?v=9vDHCotP_W0&t=401s) · 本段原话**：when we look at whenever happened in September of 2017 a couple months later Israel Donald Trump went to Israel and then in May another thing happened Jerusalem became the capital of of of of Israel because of we proclaimed we moved our Embassy there there was so so much stuff that happened within that 9 months
+- **[07:35](https://www.youtube.com/watch?v=9vDHCotP_W0&t=455s) · 他描述所见**：back today but I'm just saying let's just Swatch and see if has to do with someone Israel I know that they said they were delaying the peace agreement with with um with Syria right now I saw it on the news and what they were trying to do to do the two divide the the land in two
 
 ### 完整英文 Transcript
 
@@ -237,7 +262,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:22](https://www.youtube.com/watch?v=9vDHCotP_W0&t=502s) · 本段原话**：the acceleration for roash rashna when we went into last Saturday and the holiday the new year here it was the atmosphere on Saturday was charged it was like I you it was almost like you were able to step over spiritually and even even more so even today I mean it hasn't went away even on
+- **[09:21](https://www.youtube.com/watch?v=9vDHCotP_W0&t=561s) · 本段原话**：middle of the night and he was standing at the foot of my bed and he was the whole room was lit up like a light bulb it Glu it it was glowing with a a a dingy white light and his hair was flowing somehow his clothes were completely beautiful his his his gown
+- **[10:54](https://www.youtube.com/watch?v=9vDHCotP_W0&t=654s) · 他描述所见**：was able to see this stuff in a vision was I'd have no idea I'm going to tell you all that this is all weird for me he was trying to show off what he had he was trying to show off everything he had and and and he has nothing he's evil and so I'm not giving glory to the devil so
+- **[11:45](https://www.youtube.com/watch?v=9vDHCotP_W0&t=705s) · 他转述所听到的话**：have that spark and you have authority to cast him out you can say out of your mouth in fear in the name of Jesus get out of my house get and I'm trembling in fear and I heard the spirit speak up Holy Spirit speak up inside of me and he says pray in tongues right now and I
 
 ### 完整英文 Transcript
 
@@ -342,7 +374,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:38](https://www.youtube.com/watch?v=9vDHCotP_W0&t=758s) · 本段原话**：of My Most Holy Faith stirring myself up in my spirit getting out of perfect love cast out all fear greater is he that is in me quoting those scriptures inside of my heart underneath my breath as he's laughing and it was similar to like I've told you all before it was like whenever
+- **[12:53](https://www.youtube.com/watch?v=9vDHCotP_W0&t=773s) · 本段原话**：you listen to Thriller with Michael Jackson and that that guy at the end laughing like hahaa it was a demonic laughter of course cuz he's the devil I this is so bizarre to talk about this um so at that moment I kept praying in the spirit and and then I I went in the
+- **[13:36](https://www.youtube.com/watch?v=9vDHCotP_W0&t=816s) · 本段原话**：me and I started stirring myself up and I got bold as a lion that that the Holy Ghost came all over me that that de Satan himself could not stand at the presence of the almighty God even what was inside of me that's what I'm trying to say because greater is he that is in
+- **[15:33](https://www.youtube.com/watch?v=9vDHCotP_W0&t=933s) · 本段原话**：if you don't and you hit them you're going to jail for the rest of your life for for murder so you automatically know that person is walking in Authority because of the uniform that they're wearing now anybody else that's just out there holding up a uh holding up a a sign and is out there without that badge
 
 ### 完整英文 Transcript
 
@@ -442,7 +481,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[17:08](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1028s) · 本段原话**：get out of my house and when that power came up out of me out of your belly shall flow rivers of Living Water came out of me the word the word came out of me because I built myself up in my most holy fa praying in the spirit yielding my SP s to the Holy Ghost I spoke it out
+- **[18:01](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1081s) · 本段原话**：instead of just being the little guy out there that don't have the thing on trying to tell the cars to stop okay so it's the same way there was so Smith Wigglesworth used to tell the story about a lady he was at a bus stop and there was this little dog that followed
+- **[18:41](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1121s) · 本段原话**：and she said I told you to get and that dog went poof and it belted back to the house went back inside the house that's the way you've got to talk to the devil you can't when he's coming up messing with you the Bible says in James 4:17 to submit yourself therefore to God resist
+- **[19:37](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1177s) · 本段原话**：is chapter 2 verse4 Ephesians chapter 2 verse4 but God who is rich in Mercy for his great love wherewith he loved us even when we were dead in sins hath quickened us together with Christ by Grace you are saved and hath raised us up together see he
 
 ### 完整英文 Transcript
 
@@ -555,7 +601,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:29](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1229s) · 本段原话**：in Christ Jesus that in the ages to come he might show the exceeding Riches of his grace in his kindness toward us through Christ Jesus for by grace are ye saved through faith and not and that not of yourself it is the gift of God not of Works lest any man should boast for We
+- **[21:42](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1302s) · 他表达判断**：OFA I believe is what I I'm sorry about the pronouncation I'm probably butchered that but in verse 15 it said and the evil spirit answered and said Jesus I know and Paul I know but who are you think about that the devil knew that they didn't know who they were just like what I'm talking
+- **[22:09](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1329s) · 本段原话**：about I wasn't operating in fear in Authority I wasn't operating in fear but I had to transfer and and switch over my faith when the devil was in my house trying to mess with me I had to get in faith perfect love casteth out all fear cuz it's going to that's how you do it
+- **[23:22](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1402s) · 本段原话**：Jesus who Paul preaches see it wasn't Revelation to him them they didn't they didn't have a revelation of who Jesus was or who Paul was see they they're even saying here we adure You by by Jesus who Paul preached okay so they're they're messing up they don't have a they don't have a a revelation of who
 
 ### 完整英文 Transcript
 
@@ -646,7 +699,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:01](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1441s) · 本段原话**：chapter I mean in verse 17 and comes out and and beats them up and tears them up from the Flor up whips their ears and so you that's what I'm trying to tell you the devil knows and understands Authority it's right even right here it's in the word and so um I'm going to go over here the Lord
+- **[25:34](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1534s) · 他表达判断**：every name he is G God is given us that name and so I'll give you I was giving you another one I it was 1 John 5:18 I believe um okay and we know that whosoever okay this it is it's 1 John 5:18 okay and we know that whosoever is born of God sinth
+- **[25:57](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1557s) · 本段原话**：not but he that is begotten of God keepeth himself and the wicked one toucheth them not he's not going to be able to touch you the wicked one will touch you not 1 John 5 5:18 I would memorize that if I was you that's a good one to memorize he that is begotten of God
+- **[27:31](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1651s) · 本段原话**：Ephesians we are seated with him in the heavenlies we are join erors with Jesus Christ if you keep reading that we are joint HS we're we're with Jesus we are seated with him we have authority in this Earth To Tread on serpents and scorpions he's not talking about real s serpents and scorpions and he said
 
 ### 完整英文 Transcript
 
@@ -744,7 +804,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 地震、风暴与灾害、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：地震、风暴与灾害、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕地震、风暴与灾害、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:54](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1734s) · 本段原话**：daily basis and so um I was standing in the carport underneath where this where the storm Celler was and my grandma said get inside get inside that thing's coming back down I said no and I went outside I pointed my finger I told I said in the name of Jesus Christ I command you to go up there in those
+- **[29:46](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1786s) · 他进行祷告**：people always tell me I need you to pray for me I need you to do that and yes I have compassion for you but if you realize what the holy ghost that lives on the side inside of you you can you can can speak to your circumstances of sickness and disease and change it that
+- **[30:20](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1820s) · 本段原话**：is what the moisture spins on everybody knows whether brings it up from the Gulf of Mexico here in um in in America it brings in the moisture and stuff and so I call in the weather I call in cold fronts I call them in all the time from out of Canada I speak to the cold
+- **[31:26](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1886s) · 本段原话**：calling it in and and it takes a little bit you can see it out in the the Pacific Ocean coming the the the jet streams bringing it but I don't lose Faith you got to keep on keeping on even whenever you don't see it it may take a couple of days to get there but
 
 ### 完整英文 Transcript
 
@@ -858,7 +925,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:30](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1950s) · 他描述所见**：over your health speaking over over over your children's protection over where you're at listening to that still small voice inside of you so that you can flow in this whenever they you know you see all this new stuff coming on TV I I I saw on these new news articles some people sent it to me on the Facebook
+- **[33:05](https://www.youtube.com/watch?v=9vDHCotP_W0&t=1985s) · 他表达判断**：told you all the Lord showed me about the the um the major shaken that's coming and so they were already setting up the tents and it was I believe it was in England that this was at I don't know if this is what the Lord showed me about the the major plague or if this is them
+- **[33:23](https://www.youtube.com/watch?v=9vDHCotP_W0&t=2003s) · 他描述所见**：practicing for it maybe they know something I don't know look you all it's what I saw on the spir Supernatural is starting to manifest in the natural what he was warning me about to warn you all about so that you would get the the power and the authority of the name of Jesus that whenever we pray over pots
+- **[34:51](https://www.youtube.com/watch?v=9vDHCotP_W0&t=2091s) · 本段原话**：getting that word inside of you that you know who you are in Christ that when the enemy comes knocking at your door or trying to deliver your poo poo package and trying to say here's the virus here's the the thing I've got it for you and I'm going to put on you you're going
 
 ### 完整英文 Transcript
 
@@ -973,7 +1047,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:00](https://www.youtube.com/watch?v=9vDHCotP_W0&t=2160s) · 本段原话**：of Christ greater is he that's in me I have the mind of CH the Bible says I have the mind of Christ I have a Christ like mine I have peace he said Peace I leave with you my peace I give unto you and and if he left that peace peace is peace is peace is peace I'm going to
+- **[37:20](https://www.youtube.com/watch?v=9vDHCotP_W0&t=2240s) · 本段原话**：so tired of hearing it but but but I'm telling you it that's when it becomes Rama on the inside of you that's whenever becomes Revelation knowledge uh Ephesians 1:18 that the eyes of our understanding be enlightened that we may know the hope of his call when your eyes become enlightened when you become just
+- **[37:58](https://www.youtube.com/watch?v=9vDHCotP_W0&t=2278s) · 本段原话**：doubt that he was willing to uh sleep with the concubine and and get ishmail so he got ishmail because he wasn't fully persuaded he didn't know how the deadness of Sarah's womb how how she wouldn't even have a cycle anymore nothing happen she's she's 90 some years old her her her eggs have gone dried up
+- **[39:18](https://www.youtube.com/watch?v=9vDHCotP_W0&t=2358s) · 本段原话**：knew his authority and what what God he he believed in the promise he believed in the promise man I wish I I could I could look where that is it a Roman Romans something I want to quote that verse exactly I next time I I'll get that out better for y'all cuz I cuz I
 
 ### 完整英文 Transcript
 
@@ -1087,7 +1168,14 @@
 <a id="section-11"></a>
 ## 11. 40:00–43:12 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:02](https://www.youtube.com/watch?v=9vDHCotP_W0&t=2402s) · 他进行祷告**：trying to tell you all you have to get that that uh you have to be that Bulldog faith believing in these last days and so I hope this sermon helped you all day let me pray for you all today thank you for joining me I'm going to pray for you whatever you have need of you need
+- **[41:00](https://www.youtube.com/watch?v=9vDHCotP_W0&t=2460s) · 他表达判断**：in jesus' name agreeing with them that that father that they would have a h hundredfold return a quick manifestation of finances over their household I speak to that seed for whatever they believing for whoever sld to my Ministry God I believe right now in the name of Jesus I call those things that be not as though
+- **[42:45](https://www.youtube.com/watch?v=9vDHCotP_W0&t=2565s) · 本段原话**：the devil tries to hold them back with we call you free today and For Whom the son has set free is free indeed and I agree with you today for your freedom you're free just stand on that word God's good and he loves you well we just want to say thank you for joining us
+- **[43:02](https://www.youtube.com/watch?v=9vDHCotP_W0&t=2582s) · 本段原话**：today put a smile on your face and a song in your heart Jesus loves you so much and we love you and we thank you for joining us today have a blessed day y'all and we'll see you next time byebye
 
 ### 完整英文 Transcript
 

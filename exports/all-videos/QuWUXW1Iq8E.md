@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 317；**章节数**: 4；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -14,10 +14,26 @@
 - [03. 08:00–11:59 · 预言、梦境与异象、教会、复兴与信仰](#section-03)
 - [04. 12:00–14:45 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-04)
 
+## 全片概述与 Key Points
+
+全片共 4 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:21](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=21s) · 他描述所见**：I saw the fire. I saw this this this this this what he said a sha it's going to be a call to wake up everybody and what we're about to see in the heavens is a shaking in the heavens when he said I it's going to be like blood it's about fire and
+- **[04:13](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=253s) · 本段原话**：And he said when that thing lifted off the earth, there was a sound and the sound itself moved the weeds and the growth. And he said it penetrated my body. He said as I talked to others they felt the same thing. He said the sound was so enormous that nothing had ever happened like it in the history of
+- **[08:52](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=532s) · 他描述所见**：I see Hollywood. I see deep blue states. Deep blue states. I see the deep blue state. I see the scoffers. Even in the in the red states, YOU'LL SEE SCOFFERS and mockers. Where is the coming of the Lord? But this is my this is his mercy.
+- **[12:17](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=737s) · 他进行祷告**：What's going on? We must open our eyes and be more vigilant about what's happening and be watchmen and watch women looking at our horizon. There's much more there. We must pray for our president's protection. We must pray and intercede for his life. He must live long and finish strong and finish what God has
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:21](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=21s) · 他描述所见**：I saw the fire. I saw this this this this this what he said a sha it's going to be a call to wake up everybody and what we're about to see in the heavens is a shaking in the heavens when he said I it's going to be like blood it's about fire and
+- **[00:55](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=55s) · 本段原话**：There's no such thing as aliens. It's demonic spirits. But what you're about to see is or what oral Roberts saw in 2004 called the wakeup call for it will be a there is a wake up to the church, a wake up to the world, a sign of the second coming of the Lord
+- **[02:20](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=140s) · 本段原话**：Suddenly in the clouds in the skies above New York City and the east part of the United States and which hung there for quite some time and then spread out across America without touching the ground and then God diffused it away from America and sent it out to the nations of the earth.
+- **[03:22](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=202s) · 他描述所见**：Instantly I thought about uh 911 when the terrorist attacked the Twin Towers. First I saw this thing hovering and great changes coming in it to where I couldn't miss it. And then I heard something came into my ears and it reminded me of what a friend of mine had said when the first uh space uh uh
 
 ### 完整英文 Transcript
 
@@ -110,7 +126,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:13](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=253s) · 本段原话**：And he said when that thing lifted off the earth, there was a sound and the sound itself moved the weeds and the growth. And he said it penetrated my body. He said as I talked to others they felt the same thing. He said the sound was so enormous that nothing had ever happened like it in the history of
+- **[05:34](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=334s) · 本段原话**：And the preachers for the most part are not really concerned about the nations of the earth. They're concerned about the little group that is there. and they sing their songs and they they get up and preach and said when 911 struck there was a fear that that that came into their hearts even of of my people
+- **[06:28](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=388s) · 本段原话**：He said when when those planes of the terrorists struck the twin towers in New York City and they gradually came tumbling down, it was something bigger than people had ever seen. But it's nothing in comparison to what's going to happen in the second coming of my son.
+- **[07:14](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=434s) · 本段原话**：It's time to get on the boat. I've warned and warned and warned THAT WITHIN A 24-HOUR PERIOD, everything would change. Everything is going to change in within a 24-hour period. The way you live life, everything is going to change. WHERE THERE'LL BE SIGNS IN THE HEAVENS, THERE'LL BE SIGNS IN THE EARTH.
 
 ### 完整英文 Transcript
 
@@ -201,7 +224,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:52](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=532s) · 他描述所见**：I see Hollywood. I see deep blue states. Deep blue states. I see the deep blue state. I see the scoffers. Even in the in the red states, YOU'LL SEE SCOFFERS and mockers. Where is the coming of the Lord? But this is my this is his mercy.
+- **[10:24](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=624s) · 本段原话**：He knows. Therefore, rejoice ye heavens. Oh, is this wrong? Okay. Therefore, rejoice ye heavens, and ye that dwell in them. Woe to the inhabitors of the earth and of the sea. For the devil is come down unto you having great wrath because he knoweth that he hath but a short time.
+- **[11:07](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=667s) · 本段原话**：Something's changing. And they know the pressure. That's why I'm telling you, you're going to start to see things you never thought you would see.
+- **[11:28](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=688s) · 本段原话**：The glorious church without spot or wrinkle is rising up. But it's going to be a shaking to awaken. I know people are talking about 2026, 2027, 2028. I've seen into it.
 
 ### 完整英文 Transcript
 
@@ -300,7 +330,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–14:45 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:17](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=737s) · 他进行祷告**：What's going on? We must open our eyes and be more vigilant about what's happening and be watchmen and watch women looking at our horizon. There's much more there. We must pray for our president's protection. We must pray and intercede for his life. He must live long and finish strong and finish what God has
+- **[13:19](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=799s) · 他描述所见**：Well, it's it's it's a year away tomorrow. It's a year away tomorrow. Midterm. Now, what the Lord showed me was is a stalemate government. I saw uh it the the losing the Senate and keeping the House and the Lord said you're going to lose governors. You're going to lo if you don't pray now. If you don't start
+- **[13:51](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=831s) · 他描述所见**：I saw Oklahoma even being divided. I saw Texas with borders all around them, not wanting to succeed from the the the the United States, wanting to have their own country like we're we're not we're not going to go this way.
+- **[14:06](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=846s) · 他描述所见**：Succeed. I saw uh people very upset with Gavin and and I saw a a a red wave trying to come over California with people upset saying, "Listen, we're taking back our our state."
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 994；**章节数**: 11；**明确省略行数**: 1
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 72:00–79:59 · 教会、复兴与信仰、预言、梦境与异象](#section-10)
 - [11. 80:00–84:28 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:19](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=19s) · 他描述所见**：We're in New York City. We're in New York City. for I see an energizer bunny. It looks like
+- **[16:03](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=963s) · 本段原话**：It's It's another It's the Winnie the Poo. You You understand? It's It looks like a Disney toy.
+- **[33:00](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=1980s) · 他描述所见**：Close the door. I see a lion. I see a lion. It's a stone lion.
+- **[49:16](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=2956s) · 他描述所见**：It's pink and has tentacles. They're blood veins. I see blood veins that are springing off of this thing.
+- **[64:58](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=3898s) · 他描述所见**：What was that ugly lion in England? And what does it have to do with Oxford? Because I saw Oxford. I saw 2026 set in stone.
+- **[80:56](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=4856s) · 本段原话**：You keep praying into it and he'll show you more. You can't get impatient with it either and go, "Well, I want to know now." You don't you don't do that. You you you do it. You're very gentle with it and you walk very slow like you're on ice rice paper. I'm very respectful and
+
 <a id="section-01"></a>
 ## 01. 00:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:19](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=19s) · 他描述所见**：We're in New York City. We're in New York City. for I see an energizer bunny. It looks like
+- **[02:46](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=166s) · 本段原话**：Yep, that's right. That's what I'm seeing it very close. This is concerning subways. This is Not going no m 3D 3D the printers the printers you understand the 3D inside I hear inside of the animal
+- **[05:53](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=353s) · 他描述所见**：write this down, baby. Listen. Listen. I saw a bunny rabbit. It was about two foot tall. About like this. Okay. And it and it and it's thick in the belly. It's thick. It looks like a plump bellied rabbit. And it has a white belly. On the sides of this bunny rabbit is a dark
+- **[06:44](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=404s) · 他描述所见**：I see a blackheaded little girl, a blackheaded little girl with black eyes carrying this doll.
 
 ### 完整英文 Transcript
 
@@ -126,7 +144,14 @@
 <a id="section-02"></a>
 ## 02. 08:00–15:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:12](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=492s) · 他描述所见**：I see a little boy, too. There's a little boy also. He has He has a little bowl cut. His bangs are in his face down here. They go down to right here. He has bangs. This little boy does. It's His hair is combed down. His hair is the same color as his sister. A black hair. It's dark hair.
+- **[11:43](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=703s) · 他描述所见**：and all of it's carved out inside and it's a liquid. This is liquid. This is a liquid mixed with this liquid. I see it's like chambers.
+- **[13:11](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=791s) · 他描述所见**：And this is like a drink a drink like a bottle of water. A drink. I see like a Ozarka bottle of water. A big bottle like a like a bigger like like this. But there's it looks like a average bottle of water.
+- **[15:20](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=920s) · 他描述所见**：me morb multi multiloacy my globacy the globe the globe recmo I see poo.
 
 ### 完整英文 Transcript
 
@@ -212,7 +237,14 @@
 <a id="section-03"></a>
 ## 03. 16:00–23:59 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:03](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=963s) · 本段原话**：It's It's another It's the Winnie the Poo. You You understand? It's It looks like a Disney toy.
+- **[19:48](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=1188s) · 本段原话**：It's transparent with a light in it. And you can actually see the light flickering almost like it is a um like a uh strobe light, but it's but it's colorful. It's pinks and and blues and it's inside. But you can see the lines that's covering this plant.
+- **[22:13](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=1333s) · 本段原话**：I want to go there. I want to go there where I hear the sound.
+- **[23:18](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=1398s) · 本段原话**：So we see so sorry. So radar roy. So rey so my baby
 
 ### 完整英文 Transcript
 
@@ -288,7 +320,14 @@
 <a id="section-04"></a>
 ## 04. 24:00–31:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:36](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=1536s) · 他描述所见**：I see an elephant. I see an elephant with a long tusk, but it's only the side profile of its and it has its nose straight out. Has his trunk straight out.
+- **[25:56](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=1556s) · 他描述所见**：And his mouth is open. He's looking and he's looking. He's focused. As I see, his nose Oh father, all I have for thee.
+- **[27:01](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=1621s) · 他描述所见**：No. Okay. I see a beautiful tree. And in this tree, they've carved it out
+- **[28:27](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=1707s) · 他描述所见**：And now I see him. What is he? And the castle has to do something about Disney.
 
 ### 完整英文 Transcript
 
@@ -356,7 +395,14 @@
 <a id="section-05"></a>
 ## 05. 32:00–39:59 · 预言、梦境与异象
 
-**中文章节摘要**：本段涉及：预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[33:00](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=1980s) · 他描述所见**：Close the door. I see a lion. I see a lion. It's a stone lion.
+- **[34:41](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=2081s) · 本段原话**：for see where is that? Where's that at? That's the bank of HDC.
+- **[35:40](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=2140s) · 他描述所见**：That lion looks sick looking. His face. And it's something to do with the royals. I see Christopher Robin.
+- **[38:26](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=2306s) · 他描述所见**：I see the big bin. I see that. It's dark. It's dark outside.
 
 ### 完整英文 Transcript
 
@@ -427,7 +473,14 @@
 <a id="section-06"></a>
 ## 06. 40:00–47:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:02](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=2402s) · 他描述所见**：I see an acorn. And the acorn is dark where the where the where you know the little thing that goes. And then this is lighter like a gold color. There's actually a gold color of the dark where the you know attach it to the tree. It's dark like a dark dark brown like almost like a
+- **[41:58](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=2518s) · 他描述所见**：Bus [laughter] day. London. Lean. Lean. I see I see a cross and I see a
+- **[46:05](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=2765s) · 他描述所见**：I see Kate. concerning it's her health. I see she don't look good. She look real white in the face like real peakeda.
+- **[47:07](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=2827s) · 他描述所见**：And I see pink. And I see a lot of pink. The pink. Pink. Dark pink. Light pink.
 
 ### 完整英文 Transcript
 
@@ -508,7 +561,14 @@
 <a id="section-07"></a>
 ## 07. 48:00–55:59 · 预言、梦境与异象
 
-**中文章节摘要**：本段涉及：预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[49:16](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=2956s) · 他描述所见**：It's pink and has tentacles. They're blood veins. I see blood veins that are springing off of this thing.
+- **[50:26](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=3026s) · 他描述所见**：I see the the little boy. It's the Louiswis. It's he has he has dark hair, bion eyes.
+- **[52:47](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=3167s) · 他描述所见**：I see 2026. Are you listening, baby? I I see the number 2026 and it's it's highlighted with all kinds of um the TW number 2026. It's in stone.
+- **[55:04](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=3304s) · 他描述所见**：Malinga roto like that. I see the number seven. Huh? Yes. My eyes are getting tired. Lover.
 
 ### 完整英文 Transcript
 
@@ -622,7 +682,14 @@
 <a id="section-08"></a>
 ## 08. 56:00–63:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[57:50](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=3470s) · 他描述所见**：Yeah. Okay. I see a a a a a a wooden thing with a beam in the middle on a grinder stone.
+- **[58:29](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=3509s) · 他描述所见**：When you're milling the flour, you're milling the grain. And I see a grinding stone. I see like the grinding stone.
+- **[59:45](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=3585s) · 他描述所见**：You know how a windmill would turn it? It's a shaft with the wood and it's turning that millstone as the it's that big. And there's a wooden thing that's taking that that that stone in this room. I see wood on the walls and I see a uh a millstone turn. It's turning and
+- **[61:19](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=3679s) · 他描述所见**：And there's golden tapestry, golden uh wood. There's golden with a lion face again. I see a lion face at the top of the doorway. I see it's in a I'm in a castle and inside of this I see uh there's there's actually fire and it's actually a transparent fire from from the throne of God. It looks like a
 
 ### 完整英文 Transcript
 
@@ -742,7 +809,14 @@
 <a id="section-09"></a>
 ## 09. 64:00–71:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[64:58](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=3898s) · 他描述所见**：What was that ugly lion in England? And what does it have to do with Oxford? Because I saw Oxford. I saw 2026 set in stone.
+- **[65:19](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=3919s) · 他描述所见**：Is this a terror attack plot? Is this have to do with finances? I'm asking what asking the Lord. I'm seeing I'm seeing a lot of images tonight and I see what does it have to do with this woman?
+- **[66:12](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=3972s) · 他描述所见**：But the young boy rise up and he's not very good. I'm not going to run kids down. I'm being careful with names, but it's what it's what this boy represents. And I see the number seven.
+- **[68:18](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=4098s) · 本段原话**：Austria, Switzerland, Germany, Italy, German, y'all. There's something very it's it's all this is going on. Something about the end times. This is very concerning the antichrist and the and all this darkness right here because I'm seeing Hitler again.
 
 ### 完整英文 Transcript
 
@@ -838,7 +912,14 @@
 <a id="section-10"></a>
 ## 10. 72:00–79:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[72:02](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=4322s) · 他描述所见**：you all when we're done because that I see a lot to give you more details and I want you to write it down.
+- **[73:31](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=4411s) · 他描述所见**：Huh? And so it um I think that's interesting because it was poo bear and I saw uh motif like that.
+- **[75:06](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=4506s) · 他描述所见**：Say, so I'm I'm done tonight. God bless y'all. I don't know if even ask any questions or what. I don't know what to even say about it. It's very different. Uh when I get new stuff, usually I see a lot of the same things over in a different lens, but this was all new tonight. And
+- **[78:03](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=4683s) · 他描述所见**：Then I saw water bottles. Water bottles. And when you mix this liquid with this liquid, it made it happen. It made it Huh. And they just pull the string.
 
 ### 完整英文 Transcript
 
@@ -1020,7 +1101,14 @@
 <a id="section-11"></a>
 ## 11. 80:00–84:28 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[80:56](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=4856s) · 本段原话**：You keep praying into it and he'll show you more. You can't get impatient with it either and go, "Well, I want to know now." You don't you don't do that. You you you do it. You're very gentle with it and you walk very slow like you're on ice rice paper. I'm very respectful and
+- **[81:46](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=4906s) · 本段原话**：He's You know, that's how you It's a dance. Never demand anything. It's pa you're very dumb if you do that. Honor, reverence the Holy Spirit and he'll and and he'll use you and you'll flow like an instrument, like a symphony. The in the song was very interesting. I want to get that and I
+- **[82:26](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=4946s) · 本段原话**：light inside the flower. There was It would looked like a uh it looked like um like a like it was encapsuled with a light inside of this, but it was almost, you know, okay, do you know whenever you see a a a butterflies like a locust?
+- **[84:00](https://www.youtube.com/watch?v=YVw8Z6XsQVg&t=5040s) · 他表达判断**：Stick with it. Come back and pray with us again and again. I believe you'll learn something. It's all the glory to God, though. It's not Brandon. I want you to uh come back, subscribe, like, click the notification bell, comment something nice down below, and we'll continue to pray for the nations, and I
 
 ### 完整英文 Transcript
 

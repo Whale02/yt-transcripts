@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 236；**章节数**: 3；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -13,10 +13,25 @@
 - [02. 04:00–07:59 · 祷告、敬拜与现场互动、特朗普与白宫](#section-02)
 - [03. 08:00–11:32 · 祷告、敬拜与现场互动、物资、能源与供应链](#section-03)
 
+## 全片概述与 Key Points
+
+全片共 3 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=SKpOp2yfNRY&t=0s) · 他描述所见**：What did the Lord show me last night concerning Donald Trump? I saw him at a ballroom party. I saw him he was celebrating. He had a a tuxedo on. He had a a a nice They were all dressed up, but he had a goblet like a a glass in his hand. And and I saw I I I did not
+- **[04:00](https://www.youtube.com/watch?v=SKpOp2yfNRY&t=240s) · 他描述所见**：I've not stopped praying since. Interceding for the protection of Don Jr., over Kai, over Eric, over Baron, over all of them, Tiffany, over Ivanka, that God's hand would be on their family and on his marriage. So that's what we do. We continue to do this. And I saw an attack against his buildings more than
+- **[08:17](https://www.youtube.com/watch?v=SKpOp2yfNRY&t=497s) · 他表达判断**：Over drinks. We pray over the food. We over We bless his food. I don't know if we can bless his food, but I pray over his food. We bless his food. I believe we can pray over his food. I pray I pray over his drink and the go the goblet.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=SKpOp2yfNRY&t=0s) · 他描述所见**：What did the Lord show me last night concerning Donald Trump? I saw him at a ballroom party. I saw him he was celebrating. He had a a tuxedo on. He had a a a nice They were all dressed up, but he had a goblet like a a glass in his hand. And and I saw I I I did not
+- **[00:37](https://www.youtube.com/watch?v=SKpOp2yfNRY&t=37s) · 他描述所见**：This is what I saw. I saw him holding the glass and then I saw him having a massive heart attack. I saw something wrong in his heart. And I saw the weight staff and I don't know what happened between the glass and the goblet and him why he would do this but he was holding it. Now
+- **[01:16](https://www.youtube.com/watch?v=SKpOp2yfNRY&t=76s) · 他描述所见**：Pray over him as he has these gettogethers. So I instantaneously you can add to it and say, "Well, that's probably they're going to try to poison him." I don't know. It's not what that's not what the Lord said. All I saw was a cup with with gold and I saw the drink and I saw the
+- **[03:03](https://www.youtube.com/watch?v=SKpOp2yfNRY&t=183s) · 他描述所见**：because he was so uh uh he was grieving so much for his son's lo his loss of his son he was he was not able to even hardly walk and I saw Melania I saw them I I remember I I told you all I saw his daughter dressed up in solid black and
 
 ### 完整英文 Transcript
 
@@ -117,7 +132,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、特朗普与白宫
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、特朗普与白宫、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、特朗普与白宫展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=SKpOp2yfNRY&t=240s) · 他描述所见**：I've not stopped praying since. Interceding for the protection of Don Jr., over Kai, over Eric, over Baron, over all of them, Tiffany, over Ivanka, that God's hand would be on their family and on his marriage. So that's what we do. We continue to do this. And I saw an attack against his buildings more than
+- **[04:25](https://www.youtube.com/watch?v=SKpOp2yfNRY&t=265s) · 本段原话**：once now. I've had how many times have I seen that, son? I I keep seeing them trying to attack his main his attractions, you know, his his Trump towers and hotels and golf courses and just interceding because of the plans to try to rob him financially. But not only that, that caused a distraction to this
+- **[05:34](https://www.youtube.com/watch?v=SKpOp2yfNRY&t=334s) · 他描述所见**：I see the tuxedo. He has like his something in his hand. Looks like a drink. We know Trump don't drink, right? He don't drink alcohol. I see this glass that looks like um has gold at the top. There's gold at this top of this glass. That's actual real gold.
+- **[06:05](https://www.youtube.com/watch?v=SKpOp2yfNRY&t=365s) · 他进行祷告**：There's white with beautiful centerpiece arrangements. There's white tables. There's centerpiece. Everybody, these women are dressed up in ball gowns. Men are in blacks tuxedos. They're all dressed up very nice. We pray a protection over President Trump. We pray over him. We pray over his sons. We pray over his daughters. We pray over his family and
 
 ### 完整英文 Transcript
 
@@ -200,7 +222,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:32 · 祷告、敬拜与现场互动、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、物资、能源与供应链、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、物资、能源与供应链展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:17](https://www.youtube.com/watch?v=SKpOp2yfNRY&t=497s) · 他表达判断**：Over drinks. We pray over the food. We over We bless his food. I don't know if we can bless his food, but I pray over his food. We bless his food. I believe we can pray over his food. I pray I pray over his drink and the go the goblet.
+- **[09:38](https://www.youtube.com/watch?v=SKpOp2yfNRY&t=578s) · 本段原话**：That father any kind of poison any kind of thing father nothing comes nigh that father you even to make it look like an accident like you know like natural you know what I'm saying like natural it's just natural you understand what I'm saying [sighs]
+- **[10:15](https://www.youtube.com/watch?v=SKpOp2yfNRY&t=615s) · 本段原话**：That you raise up a hedge around and about him. Father, I thank you that his secret service are so uh heightened and alert, they never let their guard down. They never let their guard down. They are like they're like a bulldog the whole time. Always watching everybody's hands. always watching the people who are bringing uh
+- **[11:05](https://www.youtube.com/watch?v=SKpOp2yfNRY&t=665s) · 他进行祷告**：President Trump I pray over Marca Lago. I pray over the event any events over every event over his over his family over his Dawn Jr. I pray over Don Jr. I pray over Kai even the baron even over this boy. We pray a hedge over them over his son. We pray a hedge around and
 
 ### 完整英文 Transcript
 

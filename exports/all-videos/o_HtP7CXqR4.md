@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1990；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 70:00–76:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
 - [12. 77:00–78:12 · 教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[02:26](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=146s) · 他描述所见**：because it's a very very very hard time for their family and what it's a terrible way to start out this beautiful 2025 so I pray I pray for them I weep with their families it's very heavy and you know I saw that I the Lord showed me a major event taking place in Nevada but
+- **[14:16](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=856s) · 他描述所见**：attacks trying to come against mega churches the one down in Houston mega church the one down in um uh was it Tampa Tampa I saw a Tampa and I saw a mega church in North Carolina mega mega mega church in North Carolina a lot of people listen to music and stuff the Lord showed me these things and I saw a
+- **[29:32](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=1772s) · 他表达判断**：he's coming soon folks and we're that generation I believe it but there's one last call One Last Call remember that the visitation I had one last call Jesus is coming and he's calling for the last the Sheep In The Back Field and that's what this year is about that's what 2026 is about I believe we have a window to
+- **[51:32](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=3092s) · 他描述所见**：for South Korea and we believe that this is a time of great acceleration in this that they're going to rise up and pray in that nation and that they will come against what I saw that demonic Spirit of Communism trying to come over on their Nation over on South Korea from North Korea and we they don't not have
+- **[64:36](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=3876s) · 他描述所见**：my on the mower mowing my grandma's yard and that there's a there was a black man he was walking down the road and he looked like real ashy looking his skin was he didn't look right but I saw he had oxygen tank on him with him and he was pulling he would walk a little bit
+- **[77:01](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=4621s) · 本段原话**：I'm like okay I'm not that the Holy Spirit manifests on people and they and they do shake and I'm not mocking that I'm not mocking that but but but it and I felt the Holy Spirit cricked me right then so I say okay forgive me but I know a lot of people get flaky sometimes and
+
 <a id="section-01"></a>
 ## 01. 00:00–06:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：New Orleans。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[02:26](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=146s) · 他描述所见**：because it's a very very very hard time for their family and what it's a terrible way to start out this beautiful 2025 so I pray I pray for them I weep with their families it's very heavy and you know I saw that I the Lord showed me a major event taking place in Nevada but
+- **[03:46](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=226s) · 本段原话**：you 2025 for the remnant I said there's two words two prophetic words that the Lord showed me about 2025 and it was for the for the bride for the remnant for the people who are like the virgins you have 10 the 10 virgins that five had their lamps full of oil and they were
+- **[04:19](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=259s) · 他描述所见**：lamp full of oil in these last days because of how uh serious the hour is we are going to see very dark days folks but we are the ones that are going to be the light in the darkness like bugs to a light they will come and the Lord showed me even in this last Vision that the
+- **[06:21](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=381s) · 本段原话**：done thy good and faithful servant when we get on the other side it's about Jesus it's like I told you all it's holding that mirror up the Lord showed me whenever I whenever the Holy Spirit we had that visitation it was it was he said Brandon if you want to work with me
 
 ### 完整英文 Transcript
 
@@ -198,7 +216,14 @@
 <a id="section-02"></a>
 ## 02. 07:00–13:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:03](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=483s) · 他描述所见**：a crowbar is being filled with controlled by the Holy Spirit if you are not and you don't have that word out it's like I was telling Diana we I saw something somebody sent me about um treating your Bible like we do our cell phones yes having your Bible like if you you know everywhere you go if you
+- **[09:33](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=573s) · 他表达判断**：some prophetic word because all those things you'll probably forget this in the next couple weeks you'll go I remember when he said that if you went back and watched it over but it's not what's going to stick with you it's having a relationship with the Lord Jesus Christ and putting him first in
+- **[11:52](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=712s) · 本段原话**：like like that's what his nature is he comes in to kill still and destroy the Bible says that he comes like a roaring Lon seeking who he whom he he may devour and who is he going to devour I've said it a thousand times he's going to Devour the one that has the door open and you
+- **[12:57](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=777s) · 他描述所见**：f a a a not just a ahead knowledge I'm talking about inside deep knowledge of Psalms 91 and Psalms 23 because there's because I told you I saw a plague coming I told you you said well you saw this I told you I saw a plague coming and that's going to be Co on steroids that
 
 ### 完整英文 Transcript
 
@@ -389,7 +414,14 @@
 <a id="section-03"></a>
 ## 03. 14:00–20:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[14:16](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=856s) · 他描述所见**：attacks trying to come against mega churches the one down in Houston mega church the one down in um uh was it Tampa Tampa I saw a Tampa and I saw a mega church in North Carolina mega mega mega church in North Carolina a lot of people listen to music and stuff the Lord showed me these things and I saw a
+- **[15:44](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=944s) · 他描述所见**：things I see and I remember heals remember them so warning and praying for uh this next year between now and inauguration interceding for uh this time frame there will be a peaceful transition position of power there'll be a Praying for Trump's protection praying for his family the Lord showed me just like he
+- **[17:14](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=1034s) · 他描述所见**：attention but the Lord said I want you to notice that it did not uh destroy them it just made them pause and so uh I saw this and he said but you as the body of Christ must intercede for him to finish his race to finish what I've called him to do in these last days
+- **[19:21](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=1161s) · 他描述所见**：word that's going to change you from the inside out and it's the word of God that gets it's that's a rama word you just know know it it's like I try to tell you all about whenever I had the visitation from the Lord and I saw him being crucified and he told me he said it's
 
 ### 完整英文 Transcript
 
@@ -581,7 +613,14 @@
 <a id="section-04"></a>
 ## 04. 21:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[21:01](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=1261s) · 他表达判断**：in um Nevada by Trump's uh Hotel I don't believe anybody was but that's that's Divine protection I believe that right there is divine protection that's our prayers working that nobody was standing close to that truck because it was a cool truck it's a cyber truck so people automatically want to look at those
+- **[22:09](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=1329s) · 本段原话**：Sevenfold in the name of Jesus and eventually you'll become too expens expensive for the devil to mess with if you start claiming back what he stole from you I command back Sevenfold what the devil stole and that's what you're going to have to stand by cuz he stole he he K he came down there and killed
+- **[23:33](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=1413s) · 他描述所见**：them right now let's pray for the families let's pray for the Divine protection over president Trump and over his um his kids and that there'll be no uh drama between now and the 20th and then even after and that this will be a time I saw like I saw a cork coming out
+- **[24:47](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=1487s) · 他表达判断**：will be a year of great victory that the Harvesters the seers and the Harvesters will go hand in hand in 2025 that this would be a time of great acceleration of seed time and harvest for you told me what you seed in the past will come to harvest at last and I believe that this
 
 ### 完整英文 Transcript
 
@@ -771,7 +810,14 @@
 <a id="section-05"></a>
 ## 05. 28:00–34:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[29:32](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=1772s) · 他表达判断**：he's coming soon folks and we're that generation I believe it but there's one last call One Last Call remember that the visitation I had one last call Jesus is coming and he's calling for the last the Sheep In The Back Field and that's what this year is about that's what 2026 is about I believe we have a window to
+- **[31:46](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=1906s) · 本段原话**：this Earth did you do something big with it for Jesus or did you just wasted on yourself everybody has an opportunity to serve him every day everybody's been given 7 days a week 24 hours in a day but it's our choice whether we want to serve him or not and there's a lot of
+- **[32:47](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=1967s) · 他表达判断**：you're so mistaken and deceived there is a hell and there is a heaven I've seen Heaven I've seen glimpses of heaven and it's a wonderful place that was created just for you and just for me I believe that there's a to be absent from the body the Bible says to be absent from
+- **[33:47](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=2027s) · 他表达判断**：it doesn't have to be the you know whatever and just just simple come to him as a child come to him this is what I'm saying just come to him as a little child and just father I ask you to forgive me of my sins write my name in the Lamb's Book of Life I believe you're
 
 ### 完整英文 Transcript
 
@@ -950,7 +996,14 @@
 <a id="section-06"></a>
 ## 06. 35:00–41:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:54](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=2154s) · 他表达判断**：if you got born again today and you said that prayer comment something down below hey I got saved I believe that today is your day you started 2025 out something good in your life and that was accepting Jesus Christ as your lord and personal savior you made the best decision you could ever make was when you when you
+- **[37:15](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=2235s) · 他表达判断**：and I believe it it's this generation it's this generation we're running out of time and I pray that you prayed that prayer to me don't don't hesitate no more run to Jesus today well we pray this video blessed yall it's a live video we never do this I just um us Le braen edits and and cleans them up and
+- **[38:15](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=2295s) · 他描述所见**：did yeah praise the lord we Rejoice with you I saw it they were saying they got saved um I earlier I saw somebody asking praying over South Korea and then somebody I saw churches uh in those areas okay we can pray for and then somebody said they're going for chemo something father we thank you for the
+- **[39:53](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=2393s) · 本段原话**：are holding them back and that they're no longer bound from by a demonic force in the name of Jesus we believe that they're delivered and they'll walk in abundance and a victory in 2025 they'll have they'll Thrive this is going to be a time of great acceleration for them and this would be the best year they've
 
 ### 完整英文 Transcript
 
@@ -1133,7 +1186,14 @@
 <a id="section-07"></a>
 ## 07. 42:00–48:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:20](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=2540s) · 本段原话**：father that they have the their eyes are enlightened right now and father we call forth labors to come across their path father we call them saved we call them delivered we call them out of a devil's hell and that father they'll come to the light of the saving knowledge of the Lord Jesus Christ in 2025 and father we
+- **[43:57](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=2637s) · 他描述所见**：the head of the giant right I believe it it's time well anybody else have a prayer request I didn't see um I saw lots of uh praying for their children to be saved and and stuff like that but we pray we pray we pray over that we believe it's going really fast for yeah
+- **[45:52](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=2752s) · 他表达判断**：checks in the mail gifts and surprises finding money bills paid off bills decreased but blessing increase I believe it that it's time for acceleration of the wealth of the sinner laid up to the righteous in these last days that we are not supposed to be bound by poverty anymore because he said he became poor that we might be rich I
+- **[48:36](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=2916s) · 他表达判断**：enough to give to the kingdom of God and promote the Gospel of Jesus Christ throughout the whole world I believe in 2025 I'm debt free I have a house that's paid for I believe I have a car that's paid for I believe that whatever you're believeing for I believe I'm going to be
 
 ### 完整英文 Transcript
 
@@ -1320,7 +1380,14 @@
 <a id="section-08"></a>
 ## 08. 49:00–55:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Canada、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[51:32](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=3092s) · 他描述所见**：for South Korea and we believe that this is a time of great acceleration in this that they're going to rise up and pray in that nation and that they will come against what I saw that demonic Spirit of Communism trying to come over on their Nation over on South Korea from North Korea and we they don't not have
+- **[52:09](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=3129s) · 他描述所见**：Berlin is at and that's where I saw the Antichrist going in in in Germany I saw the Antichrist go there someday Nigeria yes New Zealand Puerto Rico Puerto Rico all of it we're just beding for a worldwide Revival and it will will be quick Israel a major harvest in Israel Indonesia Indonesia Argentina
+- **[52:32](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=3152s) · 他描述所见**：artina that's where all these people are from right Malaysia Japan wow that's amazing yeah Dominican Republic Dominican Republic father thank you Lord for Supernatural Supernatural Harvest Singapore El Salvador colia France Illinois gualo China Haiti Canada Michigan I see Singapore there's wow Hawaii ohaka
+- **[55:05](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=3305s) · 本段原话**：on there and his all his graphs and all his cool stuff he does Rick Rick rener um Billy Bram and and Perry Stone teach a lot about end times but I'm telling you I'm not an end time Bible scholar I I I it is the Book of Revelations is way out there to me and I read I've read it
 
 ### 完整英文 Transcript
 
@@ -1510,7 +1577,14 @@
 <a id="section-09"></a>
 ## 09. 56:00–62:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[56:56](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=3416s) · 本段原话**：truly a blessing to us you're truly a blessing and we believe like I said for the remant that The Best Is Yet To Come and um that we're going to have good days in 2025 does anybody else have anything um they're all saying they want you to keep going they want go well I don't
+- **[58:15](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=3495s) · 他表达判断**：could take yeah some people asked you to take communion with them I should have brought that box in here somebody sent me a big old box of communion uh some dear sister in the Lord did she didn't didn't like me taking communal crackers and stuff I think they get mad say I was
+- **[60:30](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=3630s) · 本段原话**：I but this is something I got to do in 2025 is really eat right and and um and take care of myself again I is down a lot and then I get I gained another was it 35 PBS and so annoying but 2025 I'm on it and I'm going to I'm I'm doing it
+- **[62:36](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=3756s) · 他表达判断**：shook my hand and had that had that virus I guess but whatever all pretty close it was it was it was close in that tent so it could have been at the meeting too I think it was at the meeting at the meeting yeah because uh yeah yeah I think so it doesn't matter
 
 ### 完整英文 Transcript
 
@@ -1695,7 +1769,14 @@
 <a id="section-10"></a>
 ## 10. 63:00–69:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[64:36](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=3876s) · 他描述所见**：my on the mower mowing my grandma's yard and that there's a there was a black man he was walking down the road and he looked like real ashy looking his skin was he didn't look right but I saw he had oxygen tank on him with him and he was pulling he would walk a little bit
+- **[65:35](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=3935s) · 他表达判断**：come down here and pray for you can I pray for you and he looked at me he said he looked at me he goes well yeah he goes I'm dying I sprayed dishes with Roundup for uh I think he said 35 years 35 years he's spraying dishes ditches and the BR he breathed all that in for
+- **[67:31](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=4051s) · 他表达判断**：you speak to the mountain and you and you don't doubt in your heart you'll have whatsoever things you say that's what the Bible says Mark 11: 23:4 I believe that's what that is it didn't mean you didn't have to who said you're going to feel anointing who who said you're going to have some Fallout
+- **[68:47](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=4127s) · 他描述所见**：there and I've seen familiar spirits and they and they they're they're they'll try to come in and and and mess with people and the Lord tell me said pray for them right now they're trying to me that do you see that devil right there and I said yeah cuz I see Devils on
 
 ### 完整英文 Transcript
 
@@ -1894,7 +1975,14 @@
 <a id="section-11"></a>
 ## 11. 70:00–76:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[70:32](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=4232s) · 本段原话**：I've seen them get stronger in these time whenever they lay hands on somebody and you and you feel it they they draw a fear and they feel because he's afraid that he don't know his authority so we're going to stay and you see them wrestling that's why they manifest in flesh they start growling and acting out
+- **[72:55](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=4375s) · 本段原话**：I start hearing it he start telling me say this so we're going to start seeing this stuff and you all need to know don't be afraid Don't Walk In Fear about it when you start seeing people trip out because a lot of secet friendly churches they just grab them two ushers and take
+- **[73:26](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=4406s) · 本段原话**：and we tell it to come out in jesus' name the Bible says to lay hands on a sick and see cover cast out devils and raise the dead those are that was the Great Commission the same devil that was there 2,000 years ago that Jesus commissioned those people to uh to to cast out it's still rolling running
+- **[75:03](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=4503s) · 他描述所见**：be going I never seen this before and get freaked out when you see a Critters manifesting in somebody you saying no no no we're not and don't be talking to it you go what's your name what's your origin where do you come from how long you been here I see these people talking don't talk to
 
 ### 完整英文 Transcript
 
@@ -2093,7 +2181,14 @@
 <a id="section-12"></a>
 ## 12. 77:00–78:12 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[77:01](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=4621s) · 本段原话**：I'm like okay I'm not that the Holy Spirit manifests on people and they and they do shake and I'm not mocking that I'm not mocking that but but but it and I felt the Holy Spirit cricked me right then so I say okay forgive me but I know a lot of people get flaky sometimes and
+- **[77:16](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=4636s) · 本段原话**：I would say I'd rather I guess be flaky in church than in the world so whatever so I have to get I have to I have to get off this broadcast I'm getting corrected by the Holy Spirit immediately I just got spanked I felt it immediately he went I went oh sorry I'm live y all I can't edit this
+- **[77:33](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=4653s) · 本段原话**：out and that's what's that's what makes it bad bra's not they're going the Holy Spirit say shut up you're done so okay well we I've got to get off I don't want to get in trouble bless you all have a wonderful night God we we thank you for joining us you I'm telling you I get in
+- **[77:50](https://www.youtube.com/watch?v=o_HtP7CXqR4&t=4670s) · 本段原话**：trouble I'll get i'll get a spanking after I get off this the Holy Spirit would be cranky with me he corrects whom he loves yeah he corrects me a lot and I say oh no I'm sorry said too much so well God bless you all remember remember put a smile on your face and a
 
 ### 完整英文 Transcript
 

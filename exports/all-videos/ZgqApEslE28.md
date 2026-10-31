@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 2448；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 140:00–153:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 154:00–157:22 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:44](https://www.youtube.com/watch?v=ZgqApEslE28&t=44s) · 本段原话**：Yeah. Ready? All right. No, not this one. Keep my song. Okay, right off the bat, did anybody see the Truth Social post from President Trump today? He posted on Truth Social and he said he wants to put himself on the $100 bill, which he could have been kidding.
+- **[28:17](https://www.youtube.com/watch?v=ZgqApEslE28&t=1697s) · 本段原话**：And when I keep praying over it, I feel like it's going to die out and it'll go away. It's not going to be. This is we're it's with the mice. It's with the rats supposedly. Now, the Lord showed us that it would be in Europe.
+- **[64:11](https://www.youtube.com/watch?v=ZgqApEslE28&t=3851s) · 本段原话**：The God on the mountain is still God in the valley. When life tries to sucker punch you and you feel that there's no air in your lungs and you don't know how you're going to make it to the next day, you cry yourself to sleep the next night.
+- **[99:38](https://www.youtube.com/watch?v=ZgqApEslE28&t=5978s) · 他描述所见**：It looks like a a cone. and and it has gold on this for the 250. I see a birthday hat. I see a birthday hat. It has sparkles on the top and it has a has uh streamers from the top of this hat that goes 250 and they're go they're silver streamers coming off this red
+- **[126:59](https://www.youtube.com/watch?v=ZgqApEslE28&t=7619s) · 他描述所见**：I plead the blood. Oh my goodness. Okay. I see caves. I see a certain kind of an energy in these caves.
+- **[154:01](https://www.youtube.com/watch?v=ZgqApEslE28&t=9241s) · 本段原话**：Emmanuel, God is with us. Blessed redeemer, living word Jesus name above all names.
+
 <a id="section-01"></a>
 ## 01. 00:00–13:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:44](https://www.youtube.com/watch?v=ZgqApEslE28&t=44s) · 本段原话**：Yeah. Ready? All right. No, not this one. Keep my song. Okay, right off the bat, did anybody see the Truth Social post from President Trump today? He posted on Truth Social and he said he wants to put himself on the $100 bill, which he could have been kidding.
+- **[03:44](https://www.youtube.com/watch?v=ZgqApEslE28&t=224s) · 本段原话**：But at least you can say, "I was on the victory side of believing instead of being a doubting Thomas and saying, "Well, everything's going in the sky falling, Chicken Little." And I'm telling you, I it's going to take some some men and women that have that that David who is this uncircumcised Philistine that he tries to defy the
+- **[07:17](https://www.youtube.com/watch?v=ZgqApEslE28&t=437s) · 他描述所见**：I saw a demonic demonic covering trying to come over like a cloak onto our president. And in this that fly is going to I'm going to slap that fly.
+- **[11:23](https://www.youtube.com/watch?v=ZgqApEslE28&t=683s) · 本段原话**：God will not share his glory with anyone. And the church must humble themselves and seek only Jesus because the only person who's going to save America is Jesus Christ. An awakening unto God is the only thing that's going to save America. Donald Trump is a man and God can use him. But we have to keep
 
 ### 完整英文 Transcript
 
@@ -382,7 +400,14 @@
 <a id="section-02"></a>
 ## 02. 14:00–27:59 · 祷告、敬拜与现场互动、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、地震、风暴与灾害、预言、梦境与异象。 提到的地点：California、Canada、Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、地震、风暴与灾害展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:16](https://www.youtube.com/watch?v=ZgqApEslE28&t=916s) · 他描述所见**：So Obama had a secret meeting today with the Canadian prime minister, president, whatever he is. Okay. What did I tell you I saw about Obama and Canada? Remember that prophetic word? I saw Obama and England and I said the Democrats were talking to Canada and they were devising a plan.
+- **[20:57](https://www.youtube.com/watch?v=ZgqApEslE28&t=1257s) · 他表达判断**：that is providing, I think it's 25 million people with their electricity, mainly California, Nevada. to generate electricity, you need to have a lot of water behind that dam. If this doesn't correct itself, you're going to have major electricity shortages by 2027, 2028, if we don't get miraculous rain here. California is in real trouble. the
+- **[23:52](https://www.youtube.com/watch?v=ZgqApEslE28&t=1432s) · 他描述所见**：And I saw a spark happening in Australia and in these place. And all of a sudden, a Holy Ghost gasoline was poured on those sparks, on that fire, and it became a wildfire. And the Lord, we were praying forth a a a a Holy Ghost tornado, a Holy Ghost whirlwind, stir, a stirring, a major outpouring of
+- **[27:31](https://www.youtube.com/watch?v=ZgqApEslE28&t=1651s) · 他描述所见**：This is not it. I repeat, I'm telling you, this is a trial run. I have prayed over this and prayed over this and I I asked the Lord, I said, you told I saw in the spirit to pray over 2028 concerning a release from China concerning this virus and it would try to affect the election. It
 
 ### 完整英文 Transcript
 
@@ -694,7 +719,14 @@
 <a id="section-03"></a>
 ## 03. 28:00–41:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 提到的地点：Europe、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:17](https://www.youtube.com/watch?v=ZgqApEslE28&t=1697s) · 本段原话**：And when I keep praying over it, I feel like it's going to die out and it'll go away. It's not going to be. This is we're it's with the mice. It's with the rats supposedly. Now, the Lord showed us that it would be in Europe.
+- **[31:03](https://www.youtube.com/watch?v=ZgqApEslE28&t=1863s) · 他描述所见**：The new guy takes over. But I said, his eyes get as big as saucers when he gets into the the whole thing and he sees where we are. And I say, he starts sweating like uh drone pal did. And I saw two uh 0.25%. He was trying to figure out how to lower interest rates.
+- **[33:25](https://www.youtube.com/watch?v=ZgqApEslE28&t=2005s) · 本段原话**：Says the Pentagon will be releasing requested 46 videos. Pentagon will be releasing the request of 46 videos in the coming weeks. The next 30 days or so. I'm talking with the Pentagon this Thursday. We will be we will obtain these 40 plus documents that we have been specifically requesting.
+- **[37:07](https://www.youtube.com/watch?v=ZgqApEslE28&t=2227s) · 本段原话**：Yeah. That's pretty good. We tried. What? It's only 9:30. We did good. Get out of here, fly. I have a little fly catcher thing. Oh, and then Russia sent some kind of nuclear stuff for to North Korea. Did you see that, son?
 
 ### 完整英文 Transcript
 
@@ -1010,7 +1042,14 @@
 <a id="section-04"></a>
 ## 04. 42:00–55:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:02](https://www.youtube.com/watch?v=ZgqApEslE28&t=2522s) · 他描述所见**：I saw Lyme disease, this fear of this tick fever. We address these ticks being released upon our nation.
+- **[43:37](https://www.youtube.com/watch?v=ZgqApEslE28&t=2617s) · 本段原话**：Same like mosquitoes and and fleas and flies. Thank you, Father. The healing belongs to our bodies. And if they've been bit by the ticks and Lyme disease, we call healing and wholeness and wellness over them. and the Havana virus or her antivirus or whatever it's called, we say it's under our feet too, we we say
+- **[44:18](https://www.youtube.com/watch?v=ZgqApEslE28&t=2658s) · 本段原话**：And we thank you, Lord, that you've given us authority over our bodies. And we call oursel healed and whole and well. And we thank you, Lord, that we arise and shine. And and we give you all the glory for the light has come and the glory of the Lord is risen on us.
+- **[45:52](https://www.youtube.com/watch?v=ZgqApEslE28&t=2752s) · 本段原话**：Come breathe upon me. Breath of God, breathe upon me. Spirit of the Lord, fill me with the life a new that I may love the way you love and do what you do. Breathe upon me until my heart is pure. I don't believe
 
 ### 完整英文 Transcript
 
@@ -1228,7 +1267,14 @@
 <a id="section-05"></a>
 ## 05. 56:00–69:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[64:11](https://www.youtube.com/watch?v=ZgqApEslE28&t=3851s) · 本段原话**：The God on the mountain is still God in the valley. When life tries to sucker punch you and you feel that there's no air in your lungs and you don't know how you're going to make it to the next day, you cry yourself to sleep the next night.
+- **[65:11](https://www.youtube.com/watch?v=ZgqApEslE28&t=3911s) · 本段原话**：We call forth the financial freedom for creative ideas to get wealth. That they owe no man anything but to love them. And in the valley of of trials and temptations, that's where our faith is really put to the test.
+- **[66:46](https://www.youtube.com/watch?v=ZgqApEslE28&t=4006s) · 他进行祷告**：There's a refreshing for you. He said, we pray that refreshing over you right now in the name of Jesus. There's so many of you that are at the end of your rope. You're saying, "I can't make it another day, Brandon. I need help.
+- **[69:06](https://www.youtube.com/watch?v=ZgqApEslE28&t=4146s) · 本段原话**：All other ground is sinking sand. We stand with you. When darkness veils his lovely face, I rest on his unchanging grace.
 
 ### 完整英文 Transcript
 
@@ -1418,7 +1464,14 @@
 <a id="section-06"></a>
 ## 06. 70:00–83:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[70:02](https://www.youtube.com/watch?v=ZgqApEslE28&t=4202s) · 本段原话**：The people wrote those songs out of pressure. They write them out of they write them out from their spirit. That's what I'm talking about. Holy Ghost songs. Holy Spirit led songs that come through the throne.
+- **[76:39](https://www.youtube.com/watch?v=ZgqApEslE28&t=4599s) · 本段原话**：vanish. Hearts are mended in the presence of the King. When we get to the other side, y'all,
+- **[78:42](https://www.youtube.com/watch?v=ZgqApEslE28&t=4722s) · 本段原话**：They're weary. Many of them are weary and welloing. They're weary. And they need a drink today.
+- **[83:27](https://www.youtube.com/watch?v=ZgqApEslE28&t=5007s) · 本段原话**：Father, we just worship you tonight. There's a river. There's things breaking off of you tonight as you worship and you just you just sit in his presence. It it it just takes all that heaviness from the world off. If you just sit at the river,
 
 ### 完整英文 Transcript
 
@@ -1573,7 +1626,14 @@
 <a id="section-07"></a>
 ## 07. 84:00–97:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[87:55](https://www.youtube.com/watch?v=ZgqApEslE28&t=5275s) · 本段原话**：It's just been surren It's been surrendering to worship. Just following and just following at his footsteps, just trying. It's like, what's it what's what does he want? And I and I go, well, you know, I'm thinking, well, there's all these things, all this stuff and the cares of what's going on. Oh, man,
+- **[92:39](https://www.youtube.com/watch?v=ZgqApEslE28&t=5559s) · 本段原话**：Visions of rapure now burst on my side. Angels descending, bringing from above, echoes of mercy, whispers of love.
+- **[95:55](https://www.youtube.com/watch?v=ZgqApEslE28&t=5755s) · 他描述所见**：I see a big American flag as a backdrop. I see a I see a big American flag on a stage.
+- **[97:18](https://www.youtube.com/watch?v=ZgqApEslE28&t=5838s) · 他描述所见**：white outfits with the with the with the bow tie. I see sailors. They're walking in a in the in the formations.
 
 ### 完整英文 Transcript
 
@@ -1742,7 +1802,14 @@
 <a id="section-08"></a>
 ## 08. 98:00–111:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、祷告、敬拜与现场互动。 提到的地点：France。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[99:38](https://www.youtube.com/watch?v=ZgqApEslE28&t=5978s) · 他描述所见**：It looks like a a cone. and and it has gold on this for the 250. I see a birthday hat. I see a birthday hat. It has sparkles on the top and it has a has uh streamers from the top of this hat that goes 250 and they're go they're silver streamers coming off this red
+- **[101:41](https://www.youtube.com/watch?v=ZgqApEslE28&t=6101s) · 他描述所见**：They're look like carnations. Red, white, blue, and on a carnations. They've been spray painted on a reef on the I see I see a green green reef. And I see our soldiers. You know, we we have men of military at the tomb of the unknown soldier. And I see a reef.
+- **[106:26](https://www.youtube.com/watch?v=ZgqApEslE28&t=6386s) · 他描述所见**：winding on a a a mi mari parosphria mosphria pari these are I'm hearing these key words ponyi pano panori parm pi And I see the sands coming out of this and they're skeleton hands and they're they're going across and they look like they stretch all the way across the
+- **[111:23](https://www.youtube.com/watch?v=ZgqApEslE28&t=6683s) · 他描述所见**：139 years. Yes. As her birthday October 28. I see gifts coming from nations for the 250th.
 
 ### 完整英文 Transcript
 
@@ -1895,7 +1962,14 @@
 <a id="section-09"></a>
 ## 09. 112:00–125:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[115:12](https://www.youtube.com/watch?v=ZgqApEslE28&t=6912s) · 他描述所见**：Okay. I see a like a like a like some kind of jewelry. It looks like it has a green uh green emerald in the center of it with the most beautiful gold that has it has it the g the the gem in there is an oval. It looks like an like an oval looking shape
+- **[117:31](https://www.youtube.com/watch?v=ZgqApEslE28&t=7051s) · 他描述所见**：I see a hidden pentagram in this. It's in the circle, a satanic emblem in the in the in the in the middle of the emerald. It's underneath the emerald. It's hidden. It's a pentagram.
+- **[122:32](https://www.youtube.com/watch?v=ZgqApEslE28&t=7352s) · 他描述所见**：And in between where the cracks of where the each one of the little plates on a turtle's back would be is laced with beautiful gold. The same kind of gold, translucent gold that's on this other artifact that I saw. But this is a turtle shell.
+- **[124:05](https://www.youtube.com/watch?v=ZgqApEslE28&t=7445s) · 他描述所见**：And they're going to release when they release this emperor. I see the eyes.
 
 ### 完整英文 Transcript
 
@@ -2058,7 +2132,14 @@
 <a id="section-10"></a>
 ## 10. 126:00–139:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[126:59](https://www.youtube.com/watch?v=ZgqApEslE28&t=7619s) · 他描述所见**：I plead the blood. Oh my goodness. Okay. I see caves. I see a certain kind of an energy in these caves.
+- **[131:31](https://www.youtube.com/watch?v=ZgqApEslE28&t=7891s) · 他描述所见**：Satan is not in the hell. He's in that He's up and above. He's in He's in that third heaven. He's in that third realm. I see him up there. He as a It's a dimension.
+- **[137:24](https://www.youtube.com/watch?v=ZgqApEslE28&t=8244s) · 他描述所见**：And I see the rats running on the ground. I see the rats running on the ground.
+- **[139:16](https://www.youtube.com/watch?v=ZgqApEslE28&t=8356s) · 本段原话**：Listen to brother Hagen. He's so sound. Brother Kennethy Hagen. Word of faith teaching of the uh of his about walking in love. Walking you you got to get yourself filled up of the word of God.
 
 ### 完整英文 Transcript
 
@@ -2250,7 +2331,14 @@
 <a id="section-11"></a>
 ## 11. 140:00–153:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[141:20](https://www.youtube.com/watch?v=ZgqApEslE28&t=8480s) · 他描述所见**：what I saw tonight. They don't they don't look like human form like you would see like a musly angel like I've seen. This looks de look like something out of a Star Wars movie.
+- **[142:17](https://www.youtube.com/watch?v=ZgqApEslE28&t=8537s) · 他描述所见**：I saw all kinds of different colors. But the things that I was seeing was very dark. But then I saw it upon the earth and I saw lizards. But I saw lots of things like with with jewelry, diamonds and and and and beautiful uh gold and emeralds. And I'm saying, well, emeralds aren't bad. I'm not trying to
+- **[144:25](https://www.youtube.com/watch?v=ZgqApEslE28&t=8665s) · 本段原话**：That's why I said I plead the blood over what I'm seeing. I I I don't know what this is. But there's darkness and people don't understand the deception that's going to try to get a great falling away. What causes people to you're we're so used to Hollywood desensitizing us?
+- **[149:20](https://www.youtube.com/watch?v=ZgqApEslE28&t=8960s) · 本段原话**：Help him to resist that we submit oursel unto God. We resist the devil and he will flee. We apply the blood of Jesus over President Trump, over his trip to China, over his trip over Asia. Jesus. And we thank you, Lord, that Father, that he is covered by the blood. No assassins, no nothing
 
 ### 完整英文 Transcript
 
@@ -2530,7 +2618,14 @@
 <a id="section-12"></a>
 ## 12. 154:00–157:22 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[154:01](https://www.youtube.com/watch?v=ZgqApEslE28&t=9241s) · 本段原话**：Emmanuel, God is with us. Blessed redeemer, living word Jesus name above all names.
+- **[155:08](https://www.youtube.com/watch?v=ZgqApEslE28&t=9308s) · 他描述所见**：Thank you for being here. I I really don't know what to say about what I see seen. So, I I hold it.
+- **[156:37](https://www.youtube.com/watch?v=ZgqApEslE28&t=9397s) · 本段原话**：Thank you for your support. Thank you for liking, subscribing, clicking the notification bell. Please help us. Click that. Click that button. It just takes 5 seconds. If you don't like the video, dislike it. then say, "I didn't like you." Bing. But either way, there's some kind of response. So, I say to to to
+- **[156:57](https://www.youtube.com/watch?v=ZgqApEslE28&t=9417s) · 他进行祷告**：respond with something just we appreciate the thumbs up, though. And so, God bless you all and um it helps us. Remember, we love you. We love you so much. We pray you were blessed by this today and we will see you again. Put a smile on your face and a song in your heart. Jesus loves you so
 
 ### 完整英文 Transcript
 

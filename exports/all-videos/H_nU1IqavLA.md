@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 776；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 - [09. 32:00–32:11 · 教会、复兴与信仰](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:42](https://www.youtube.com/watch?v=H_nU1IqavLA&t=42s) · 本段原话**：him with the stock market with uh crypto with all these other things when he says we're going to go this way they try to sink the stock market they try to sink uh the financial stuff with the dollar and and so we're seeing what the Lord showed me come to pass right in front of
+- **[08:01](https://www.youtube.com/watch?v=H_nU1IqavLA&t=481s) · 他转述所听到的话**：gadera but oppressed with all kinds of depression anxiety fear uh sexual perversion sexual uh you know all kinds of stuff drunk you have problem with alcohol you have a problem with lust you have a problem with all kinds of things and the Lord said I've come to set the captives free and we're going to see For
+- **[12:01](https://www.youtube.com/watch?v=H_nU1IqavLA&t=721s) · 他描述所见**：have heard what the spirit of the Lord is warning us that there's a plague coming there's a financial crisis trying to come out of this to try to sink the dollar and I saw a president Trump interceding in the White House praying and took paddles upon the land shocking the land and shocking the soil and as my
+- **[20:53](https://www.youtube.com/watch?v=H_nU1IqavLA&t=1253s) · 他进行祷告**：called him to be the leader over this nation for such a time as this and we pray a hedge of protection around him then no weapon formed against him will prosper greater is he that is in him than he that is in the world and father that he would be radically on fire for
+- **[25:01](https://www.youtube.com/watch?v=H_nU1IqavLA&t=1501s) · 他进行祷告**：change we feel the climate change we believe it we believe it father We Believe father for Eli muskus has wisdom we thank you Lord for all the people in this park that they're blessed father they're going to know you they'll know the saving knowledge of the Lord Jesus Christ Lord weay we pray we believe we
+- **[32:00](https://www.youtube.com/watch?v=H_nU1IqavLA&t=1920s) · 本段原话**：we thank you for joining us remember we always say this put a smile on your face and a song in your heart Jesus loves you and we love you God bless you all and we'll see you again tomorrow bye-bye
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 经济、银行与市场、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：经济、银行与市场、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕经济、银行与市场、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:42](https://www.youtube.com/watch?v=H_nU1IqavLA&t=42s) · 本段原话**：him with the stock market with uh crypto with all these other things when he says we're going to go this way they try to sink the stock market they try to sink uh the financial stuff with the dollar and and so we're seeing what the Lord showed me come to pass right in front of
+- **[01:41](https://www.youtube.com/watch?v=H_nU1IqavLA&t=101s) · 本段原话**：wrestle not against flesh and flesh and blood but we wrestle against principalities and powers and spiritual wickedness in high places that's what we're wrestling against we're wrestling against the Demonic trying to come against the end time wealth transfer trying to stop what God is going to do he's not trying to do anything he's going to do it but we're
+- **[02:41](https://www.youtube.com/watch?v=H_nU1IqavLA&t=161s) · 他描述所见**：we're going to do we're going to pray over this uh Administration so that they are able to do what God has called them to do bringing forth the wealth transfer so the sky's not falling things you know the stock market tanks crypto's tanking things are happening because it's them trying to it's like I saw this I saw
+- **[03:24](https://www.youtube.com/watch?v=H_nU1IqavLA&t=204s) · 本段原话**：demonic president Trump is coming against this demonic stronghold that has been in place with these banking cartel and they and they have been in in their position of stronghold with the Democratic party coming against it saying we're not going to do this anymore and we're going down a different path so as you try to come against that
 
 ### 完整英文 Transcript
 
@@ -129,7 +147,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=H_nU1IqavLA&t=240s) · 本段原话**：do this stuff with with Justin Trudeau I don't know if he's been replaced or not but I've seen him being replaced with with a new um uh prime minister over Canada we see this new shift a new Direction and that's what the Lord was showing us today he said Brandon this is what you're praying this is what this is
+- **[04:19](https://www.youtube.com/watch?v=H_nU1IqavLA&t=259s) · 本段原话**：what you're interceding for for the wealth transfer for this major Harvest of souls it's about to take place and the Lord showed me this he said Brandon God's about to show up and show off God is about to show up and show off in your life I'm telling you ladies and gentlemen it's time for you to believe
+- **[05:47](https://www.youtube.com/watch?v=H_nU1IqavLA&t=347s) · 本段原话**：we've never seen before it will be as shining on our faces like he did Moses so much so that the ones that are that are sold out the ones that are all in we are going to to carry a presence of the Lord on our life like we've never seen before he said Brandon I'm bringing
+- **[07:19](https://www.youtube.com/watch?v=H_nU1IqavLA&t=439s) · 他转述所听到的话**：walking in or because it it is the glory of the Lord that's going to change the atmosphere of everywhere it's exciting and when you see that it's going to challenge the Demonic and the Lord told me he said Brandon you're going to see more Devils manifest than you've ever seen before because there's so many
 
 ### 完整英文 Transcript
 
@@ -232,7 +257,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=H_nU1IqavLA&t=481s) · 他转述所听到的话**：gadera but oppressed with all kinds of depression anxiety fear uh sexual perversion sexual uh you know all kinds of stuff drunk you have problem with alcohol you have a problem with lust you have a problem with all kinds of things and the Lord said I've come to set the captives free and we're going to see For
+- **[09:43](https://www.youtube.com/watch?v=H_nU1IqavLA&t=583s) · 本段原话**：acceleration an acceleration of favor and the Lord showed this to me today when we are praying he said an acceleration of favor an Accel that would take days and days of labor labor working hard by your hand it will be great favor because it's God inside it's God it's a god possession do
+- **[10:43](https://www.youtube.com/watch?v=H_nU1IqavLA&t=643s) · 他描述所见**：presence practicing the presence of the Lord so this is what I saw coming a glorious Church Rising without spotter wrinkle a great glorious church and it will come out and he said and days of great shaking are coming great days of great shaking are coming a shaking to Awakening and that's what I've told you all when they can't come
+- **[11:25](https://www.youtube.com/watch?v=H_nU1IqavLA&t=685s) · 他描述所见**：thing with a new plague worse than Co when they see they can't control him when they see they can't stop it they will throw a plague in there and I've warned you all this plague is very very serious I saw billions of people trying to be affected by this billions the whole world it's a whole world pandemic
 
 ### 完整英文 Transcript
 
@@ -334,7 +366,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=H_nU1IqavLA&t=721s) · 他描述所见**：have heard what the spirit of the Lord is warning us that there's a plague coming there's a financial crisis trying to come out of this to try to sink the dollar and I saw a president Trump interceding in the White House praying and took paddles upon the land shocking the land and shocking the soil and as my
+- **[12:24](https://www.youtube.com/watch?v=H_nU1IqavLA&t=744s) · 他描述所见**：people who are called by my name will humble themselves and pray and turn from their Wicked Ways then would hear from heaven and we would and he would heal our land I told you I saw a plague I've told you I've seen these things as he tries to turn this around and then I saw
+- **[12:59](https://www.youtube.com/watch?v=H_nU1IqavLA&t=779s) · 他描述所见**：Army like Tommy Hicks Vision a mighty moving Army that is rising up in these days ahead that will go and take the the the glory to the nations with no fear and that's why I said yesterday we're praying for the abortion the people that this this this that that this stops that the righteous will rise
+- **[15:40](https://www.youtube.com/watch?v=H_nU1IqavLA&t=940s) · 本段原话**：har bunes and the new John woodfields and the new um uh whatever William Seymour's to John G Lakes to say thus far no further Satan you're not taking to minion you're not going to take the land we're taking it back for Jesus and we're going to be the ones that say as for me and my house we're serving the
 
 ### 完整英文 Transcript
 
@@ -442,7 +481,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=H_nU1IqavLA&t=961s) · 本段原话**：lord on a greater level on a greater level and the Lord showed me we've not seen Glory like we're about to see ladies and gentlemen we've never seen it before we've never seen the wells of Revival that we're about to see we've never seen it this is something that we're not familiar with what we're about to see we've never
+- **[16:24](https://www.youtube.com/watch?v=H_nU1IqavLA&t=984s) · 本段原话**：been familiar with it what I've seen over U what I've I've seen in the churches coming on the I35 Corridor we've never seen this level of Glory before uninterrupted and unhindered by any satanic or demonic Force I don't care how big it is the Devil Himself has visited my house twice and I'm telling you he's a
+- **[17:32](https://www.youtube.com/watch?v=H_nU1IqavLA&t=1052s) · 本段原话**：cowards it it's either real or it's not he said it's going to be that that you see people fall out in the spirit it's going to be a radical move inside of their life that they're not the same anymore all you need is one it's like Diana says we say this all time all you
+- **[19:10](https://www.youtube.com/watch?v=H_nU1IqavLA&t=1150s) · 本段原话**：Satan let our money go You release our money now in the name of Jesus and you cease and assist in your maneuvering against our finances we call blessing and increase and multiplication and favor there are days of favor and Heaven on Earth for us and that we'll walk in exceedingly abundantly above all that we
 
 ### 完整英文 Transcript
 
@@ -544,7 +590,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:53](https://www.youtube.com/watch?v=H_nU1IqavLA&t=1253s) · 他进行祷告**：called him to be the leader over this nation for such a time as this and we pray a hedge of protection around him then no weapon formed against him will prosper greater is he that is in him than he that is in the world and father that he would be radically on fire for
+- **[21:06](https://www.youtube.com/watch?v=H_nU1IqavLA&t=1266s) · 他进行祷告**：you and we pray over Vance and over him and over Elon Musk father that they would have wisdom on how to turn this around that the wealth transfer would come through this and that father that the supernatural abundance would manifest on our households in the name of Jesus and we thank you Father that
+- **[21:38](https://www.youtube.com/watch?v=H_nU1IqavLA&t=1298s) · 本段原话**：Deliverance we're believing for their for their for them to to understand that they say Well they're atheists whatever they'll have that Damascus Road experience they'll have a Damascus Road experience with you that they'll be a stirring inside of their spirits and they don't even know what it is that the glory would rest on their loved ones and
+- **[23:40](https://www.youtube.com/watch?v=H_nU1IqavLA&t=1420s) · 本段原话**：place and we'll do what you called us to do in these end times father rising up and we're not afraid We're Not Afraid by The Terror of night nor for the air the fly by day we're moved by what the word says we're not moved by our emotions or what and fear we're not moved by it
 
 ### 完整英文 Transcript
 
@@ -667,7 +720,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:01](https://www.youtube.com/watch?v=H_nU1IqavLA&t=1501s) · 他进行祷告**：change we feel the climate change we believe it we believe it father We Believe father for Eli muskus has wisdom we thank you Lord for all the people in this park that they're blessed father they're going to know you they'll know the saving knowledge of the Lord Jesus Christ Lord weay we pray we believe we
+- **[26:02](https://www.youtube.com/watch?v=H_nU1IqavLA&t=1562s) · 他表达判断**：father that the new Young Davids the new Lions will rise up and take dominion and authority and we will see a mighty Revival in the church D seeing visions when we're praying and I believe that there's there's vehicles coming to people you're believing in standing for vehicles just like we are we're always
+- **[26:19](https://www.youtube.com/watch?v=H_nU1IqavLA&t=1579s) · 本段原话**：believing for stuff it's time for cars it's time multiple cars yes multiple cars are coming to people din say with nice Wheels yes nice rims it's time for the wealth transfer it's time to believe for the supernatural wealth transfer and that's good automobiles if you're believing for an automobile just what she's seeing right now lay hold to it
+- **[27:23](https://www.youtube.com/watch?v=H_nU1IqavLA&t=1643s) · 本段原话**：stuff every good and perfect thing comes from the father believing for for the good believe him for The Spoils of the land believe him for it God shows up and shows off in your life today that you'll walk in Days of Favor like you've never believed you would it's time ladies and gentlemen
 
 ### 完整英文 Transcript
 
@@ -775,7 +835,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[29:30](https://www.youtube.com/watch?v=H_nU1IqavLA&t=1770s) · 本段原话**：turnaround over this over this city and over this this towns and the cities we're believing for that we drive around and we take our Dominion Authority we say this is being claimed for Jesus thank you Father glory to God glory to God we will not shrink back we will not walk in lack but we will
+- **[29:56](https://www.youtube.com/watch?v=H_nU1IqavLA&t=1796s) · 本段原话**：walk in the abundance of of the Lord and if it ticks the world off let it take them off let's provoke them let's say hey there is a God do you understand God's God is ready to show up and show off because he's ready to show the world that he is God but he's going to do it
+- **[30:40](https://www.youtube.com/watch?v=H_nU1IqavLA&t=1840s) · 他进行祷告**：religious Shrine he is God the one that threw the Stars into space the one that created these trees the one that created the grass the one that did it all he dwells on the inside of you and I and he's real you know glory to God ladies and gentlemen it's time well we pray this video blessed you
+- **[31:09](https://www.youtube.com/watch?v=H_nU1IqavLA&t=1869s) · 他进行祷告**：today and we pray that you're start up and it's time it's time to get excited it's time to he said days of great fun he keeps saying that to me days of great fun yes fun fun being a Christian should be fun not gloomy gust like Eeyore on poo what now we're going to have a bad
 
 ### 完整英文 Transcript
 
@@ -872,7 +939,11 @@
 <a id="section-09"></a>
 ## 09. 32:00–32:11 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:00](https://www.youtube.com/watch?v=H_nU1IqavLA&t=1920s) · 本段原话**：we thank you for joining us remember we always say this put a smile on your face and a song in your heart Jesus loves you and we love you God bless you all and we'll see you again tomorrow bye-bye
 
 ### 完整英文 Transcript
 

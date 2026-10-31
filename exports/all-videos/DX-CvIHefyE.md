@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 613；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
 - [07. 24:00–27:26 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:19](https://www.youtube.com/watch?v=DX-CvIHefyE&t=19s) · 他描述所见**：of the things that I see but I'm I it's my job and I'm going to tell you what I see and I prayed over this one for quite a while before I'm going to deliver this because because of how heavy this word is I just feel like I should pray before I start cuz I want you to receive this
+- **[04:01](https://www.youtube.com/watch?v=DX-CvIHefyE&t=241s) · 他描述所见**：was I could see DNA strands running like computers like computer uh uh code and Co there was there was lines there were lines now and I'm not a smart person about this kind of stuff y'all I I'm just telling you what I see I saw DNA lines but Co was clear over here on like
+- **[08:00](https://www.youtube.com/watch?v=DX-CvIHefyE&t=480s) · 他描述所见**：that's more than all of those other programs combined so now I saw this I saw Satan and he was the head of the meeting that I told you all that was happening and I saw a v i saw a v like this okay that was like a number five in the Roman numerals like
+- **[16:33](https://www.youtube.com/watch?v=DX-CvIHefyE&t=993s) · 他描述所见**：obesity and whatever these pills or whatever they're trying to spice with this thing and all the Demonic all this stuff with this AI stuff I'm telling you it's dark it's dark darker than what people realize because I saw into it and it's satanic uh Beyond anybody's comprehension for what they what they have planned trying to use this uh stuff
+- **[20:19](https://www.youtube.com/watch?v=DX-CvIHefyE&t=1219s) · 本段原话**：door he's he is seed time and harvest has to because Grace has keep kept it from happening and I told you all this seed time and harvest is going to accelerate beyond anything you can comprehend in these last days more so than if people are sewing you think well they're getting away with
+- **[24:03](https://www.youtube.com/watch?v=DX-CvIHefyE&t=1443s) · 本段原话**：think and we take authority we crucify our flesh daily and not just not just every once in a while and we tell it to get under our feet flesh you're under our feet we have dominion and authority over you and we command our mind and even the dopamines and the and the and
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:19](https://www.youtube.com/watch?v=DX-CvIHefyE&t=19s) · 他描述所见**：of the things that I see but I'm I it's my job and I'm going to tell you what I see and I prayed over this one for quite a while before I'm going to deliver this because because of how heavy this word is I just feel like I should pray before I start cuz I want you to receive this
+- **[02:40](https://www.youtube.com/watch?v=DX-CvIHefyE&t=160s) · 他描述所见**：a little wisdom here you know so I'm going to say it like this I was taken up in the spirit and I saw a meeting and they were contemplating the next virus okay they were they were they were in a in in a room and I could see these heads of these leaders and and that's where
+- **[03:05](https://www.youtube.com/watch?v=DX-CvIHefyE&t=185s) · 他描述所见**：I'll leave that I won't say who I saw doesn't matter but they were they were negotiating and the Obesity epidemic ac across the world has reached Heights Beyond anybody's comprehension on purpose remember whenever I told you all I saw the 350 million people perish 350 million would go home but I didn't know I thought it was
+- **[03:31](https://www.youtube.com/watch?v=DX-CvIHefyE&t=211s) · 他描述所见**：going to be a um kind of like a CO thing well okay oh God help me here I saw a laboratory I saw ai ai computer technology and AI was creating a superv virus they were using the AI to create something more dangerous in the end times than what Co
 
 ### 完整英文 Transcript
 
@@ -116,7 +134,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 疾病、医疗与药品、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：疾病、医疗与药品、预言、梦境与异象、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕疾病、医疗与药品、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=DX-CvIHefyE&t=241s) · 他描述所见**：was I could see DNA strands running like computers like computer uh uh code and Co there was there was lines there were lines now and I'm not a smart person about this kind of stuff y'all I I'm just telling you what I see I saw DNA lines but Co was clear over here on like
+- **[05:40](https://www.youtube.com/watch?v=DX-CvIHefyE&t=340s) · 他转述所听到的话**：this is what I'm saying no fear diabetic medicine high blood pressure medicine um uh high cholesterol medicines things like that or targets and because of this they were if you were real heavy you were um a Target is what I'm going to say throughout the whole world and I heard them say obesity is a drain on our economy
+- **[06:12](https://www.youtube.com/watch?v=DX-CvIHefyE&t=372s) · 他描述所见**：it's a drain on society therefore we must eliminate this okay and I saw a plan to eliminate uh and and and I'm going to be very careful uh genocide ethnic cleansing a a a a um group of people a group of people does that makes
+- **[06:45](https://www.youtube.com/watch?v=DX-CvIHefyE&t=405s) · 他描述所见**：sense I hope I'm making sense it's a group of people because the Health Care system is too much and I'm going to put a clip in right here that's going to show you exactly what I saw how much much money because of the Obesity epidemic because of this how much is costing on
 
 ### 完整英文 Transcript
 
@@ -206,7 +231,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=DX-CvIHefyE&t=480s) · 他描述所见**：that's more than all of those other programs combined so now I saw this I saw Satan and he was the head of the meeting that I told you all that was happening and I saw a v i saw a v like this okay that was like a number five in the Roman numerals like
+- **[08:23](https://www.youtube.com/watch?v=DX-CvIHefyE&t=503s) · 他描述所见**：a V okay and um at the first there was there were each pillar and it went seven and I saw seven deadly sins seven deadly sins and I'm not familiar with this because I'm I didn't realize this came from the Catholic Church okay is what I what I'm doing research because I'm trying to study
+- **[09:30](https://www.youtube.com/watch?v=DX-CvIHefyE&t=570s) · 他描述所见**：like this and two were right here and it was slothfulness slothfulness and gluttony things that were not as upfront as the other sins what I want to say they were back here and they were they wen't as there wasn't and so when I'm seeing it in the spirit I see light shining on the five but the devil pushed
+- **[11:39](https://www.youtube.com/watch?v=DX-CvIHefyE&t=699s) · 他描述所见**：to tell you all there is a plan for the enemy to come in and and and and and they're going to they're designing something to wipe people out I'm just being real with y'all and it's crazy the things I saw this is something else I thought was interesting I was seeing them use uh bumblebees for whatever it was
 
 ### 完整英文 Transcript
 
@@ -298,7 +330,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:27](https://www.youtube.com/watch?v=DX-CvIHefyE&t=747s) · 本段原话**：still praying over this some of this stuff but this is just some of the things that the Lord showed me in the laboratory with the genetic code using AI for this new thing and I'm telling you all this will line up with the with the end time uh the uh the pel the
+- **[14:02](https://www.youtube.com/watch?v=DX-CvIHefyE&t=842s) · 本段原话**：educate myself and and that's sad because I'm 43 years old and I have no clue and I had to go what what is a good portion size of meat 6 ounces as most of the people say is 6 ounces of meat a day and and and eat lots of vegetables and greens then you have other people that
+- **[14:35](https://www.youtube.com/watch?v=DX-CvIHefyE&t=875s) · 本段原话**：do you help people CU they say the average diet is 2,000 calories so I you know a day is what you should eat but you got to eat a lot less than that so I started figuring up I got that calorie app my son's using my phone to film me but I had that calorie app and I was
+- **[15:41](https://www.youtube.com/watch?v=DX-CvIHefyE&t=941s) · 本段原话**：guys just saying the bad guys they're crazy these people are crazy just like Hitler was he's crazy you know just crazy they they just fool the devil but they have a mandate to to lower the cost of healthc care to lower the cost of all this stuff I'm just telling you'all just
 
 ### 完整英文 Transcript
 
@@ -403,7 +442,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:33](https://www.youtube.com/watch?v=DX-CvIHefyE&t=993s) · 他描述所见**：obesity and whatever these pills or whatever they're trying to spice with this thing and all the Demonic all this stuff with this AI stuff I'm telling you it's dark it's dark darker than what people realize because I saw into it and it's satanic uh Beyond anybody's comprehension for what they what they have planned trying to use this uh stuff
+- **[17:37](https://www.youtube.com/watch?v=DX-CvIHefyE&t=1057s) · 他描述所见**：I told you over this year I saw going into 2025 and I told you it's dark now do we change things can we change things can we stop any of this I believe we can I believe we have a power and authority over to do a lot of things but I'm telling you all it doesn't give us the
+- **[18:09](https://www.youtube.com/watch?v=DX-CvIHefyE&t=1089s) · 本段原话**：it ever again I want to make this a lifestyle for me and my family and that's where I'm telling you I'm down to 35 and my goal for next month for month of March is another 20 to 30 pounds I'm believing God for it and that before before my birthday before all that I'll
+- **[18:44](https://www.youtube.com/watch?v=DX-CvIHefyE&t=1124s) · 本段原话**：years even just with a 35 PBS I told my wife I said I'm very excited to see what I do with uh myself in the next um 30 that' be 60 some pounds so I I'm just saying I I hope this encourages you all to to take care of yourself it's kind of
 
 ### 完整英文 Transcript
 
@@ -511,7 +557,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:19](https://www.youtube.com/watch?v=DX-CvIHefyE&t=1219s) · 本段原话**：door he's he is seed time and harvest has to because Grace has keep kept it from happening and I told you all this seed time and harvest is going to accelerate beyond anything you can comprehend in these last days more so than if people are sewing you think well they're getting away with
+- **[20:37](https://www.youtube.com/watch?v=DX-CvIHefyE&t=1237s) · 本段原话**：it no no no no no no seed time and harvest is going to it's got the the sewer and the reaper are going to go hand in hand in in any area of your life physically spiritually financially it's going to accelerate seed time and harvest and that's what it was about about obesity that's what it about about
+- **[21:14](https://www.youtube.com/watch?v=DX-CvIHefyE&t=1274s) · 本段原话**：it's fair for me to hold things back and not tell you all as a Watchman if you have an urgency inside of yourself to get the weight off you may think well he's totally full of full of it whatever but I'm trying to help you get the weight off take care of your bodies
+- **[22:14](https://www.youtube.com/watch?v=DX-CvIHefyE&t=1334s) · 本段原话**：Father right now that we have the spirit of self-control on the inside of us we have self-control we don't have to eat for Comfort anymore father we break the spirit of addiction to junk food in the name of Jesus we take authority over over pastas and father that our bodies will have self-control concerning sweets
 
 ### 完整英文 Transcript
 
@@ -611,7 +664,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:26 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:03](https://www.youtube.com/watch?v=DX-CvIHefyE&t=1443s) · 本段原话**：think and we take authority we crucify our flesh daily and not just not just every once in a while and we tell it to get under our feet flesh you're under our feet we have dominion and authority over you and we command our mind and even the dopamines and the and the and
+- **[25:18](https://www.youtube.com/watch?v=DX-CvIHefyE&t=1518s) · 本段原话**：alcohols to to lust to pornographies to whatever it may be you can be free for whom the son is set free is free indeed and you don't have to be Bound by sickness and disease anymore Jesus Paid the price for you to walk in Deliverance and freedom in the name of Jesus and you
+- **[26:17](https://www.youtube.com/watch?v=DX-CvIHefyE&t=1577s) · 本段原话**：Bell it really would bless us I I just want to tell you all thank you for liking subscribing for being a part of this channel it's getting the gospel out throughout the whole world we're warning the people we're warning the people of what the devil's tactics and what he's trying to do and we're getting people saved we're
+- **[26:37](https://www.youtube.com/watch?v=DX-CvIHefyE&t=1597s) · 他表达判断**：getting people delivered we're getting people set free from the power of the devil he is he is a defeated Foe and Jesus lives on the inside of you and we don't have to have it but I'm telling you'all people need to know that and I believe that the Lord's called me to tell people that Jesus is coming he told
 
 ### 完整英文 Transcript
 

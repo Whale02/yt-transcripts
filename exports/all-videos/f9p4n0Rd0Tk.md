@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1126；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 50:00–50:41 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=0s) · 本段原话**：hey good morning family praise the Lord day 54 thank you for joining us today well I have some things on my heart I left off uh uh yesterday's video with what the Lord showed me when I was driving around um before uh it was I was by Oru again praying by Oru we was going to the to
+- **[10:00](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=600s) · 本段原话**：things because they are lacking filling their yourself up with the Lord and they keep chasing their tail trying to figure out how to fulfill that that that empty void inside of their their heart they're never going to fulfill The Emptiness inside of them because the only thing that's ever going to fulfill that void
+- **[20:18](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=1218s) · 本段原话**：work and do things around the yard even at 120 years and father that you said to Abraham he was over 100 years old and he had a baby but father Moses was was 120 and his eyes didn't grow dim that he had the glory sustaining him and it went from glory to glory until he just went
+- **[30:00](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=1800s) · 本段原话**：oppressed by the devil we're free kid we're King's kids we're free and we call Elon must born again today in the name of Jesus we call Elon must baptized in the Holy Ghost we call him filled with controlled by the Holy Ghost father and that according to Ephesians 1:18 that the highs of his
+- **[40:02](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=2402s) · 他进行祷告**：get our stuff around she's up again you know Tim's up again J James is up again whoa no what are we gonna do oh man I thought they were going to sleep in today no they got up early to pray we're in real trouble today because they spend extra time in the word they got up today at 5:30 and
+- **[50:02](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=3002s) · 他进行祷告**：bathrooms I wanted so bad at those times to get out of that but now I look at that that's who made me what I am today glory to God well I pray this video blessed you all today I truly do and I and I and I pray that it uplifted your spirits well put a
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=0s) · 本段原话**：hey good morning family praise the Lord day 54 thank you for joining us today well I have some things on my heart I left off uh uh yesterday's video with what the Lord showed me when I was driving around um before uh it was I was by Oru again praying by Oru we was going to the to
+- **[01:22](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=82s) · 他描述所见**：are I won't say all of them but I'm going to say a vast majority of them were very e evil and very corrupt I saw the origins of a major banking of the Black Rock okay of the names of why they name certain things way they the way they name them and it was uh the the
+- **[02:15](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=135s) · 本段原话**：calling himself The Rock because he is the rock a rock of foundation a rock of finances a rock and the origin of it was from the the high was showing me uh the Lord showed me about the the the the the how how deep and how dark this system is and I'm going to tell you
+- **[04:32](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=272s) · 他描述所见**：demonic stronghold so I saw president Trump coming against certain um certain um sectors of this demonic stronghold exposing this and they War these people warn him if you do this we will touch those things that you love
 
 ### 完整英文 Transcript
 
@@ -128,7 +146,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:01](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=301s) · 本段原话**：We Will We Will and and the Lord showed me a picture of the Kennedy there was things that we did not know behind closed doors of exposing clear back in the 196s of trying to uh clean up and do things different yes he had uh things with mar mar Marilyn Monro they say right but there was there were
+- **[06:23](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=383s) · 他描述所见**：this person's going to disappear this person's going to disappear and this person's going to appear keep going and this person will disappear so I saw uh the first person that they had on their list was uh somebody really close to him and the Lord warned me um to pray for this individual and so and so then he told me
+- **[07:57](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=477s) · 本段原话**：America's debt over credit cards like I've warned you all about a 1920s 1930s style crash is coming planned on purpose trying to combat what he's going to try to do in the next four years trying to sabotage his agenda to make America great again the Lord showed me America is in the way and they have a plan to
+- **[08:55](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=535s) · 本段原话**：to them to the the big guys and the head gu guy is the devil and the and the Lord showed me it was in tears Satan being the top of a pyramid just like how they Ed the pyramid all this crap this is he was the top of the pyramid and all of it went and funneled
 
 ### 完整英文 Transcript
 
@@ -245,7 +270,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:00](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=600s) · 本段原话**：things because they are lacking filling their yourself up with the Lord and they keep chasing their tail trying to figure out how to fulfill that that that empty void inside of their their heart they're never going to fulfill The Emptiness inside of them because the only thing that's ever going to fulfill that void
+- **[10:41](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=641s) · 他进行祷告**：empty and so when you touch the pedophilia side this the sickness uh trying to expose that Darkness I even saw Eli must be in danger so we pray ah hedge of protection around Trump and his family we pray around his sons we pray for um no curses will stand that every tongue that rises against him
+- **[11:54](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=714s) · 他进行祷告**：raise up a prayer force of a million people he's going to do that on this channel I just come and be obedient and pray every day and he said he would bring the people so we're going to pray and I just want to say we we I prayed for a man named James today and I'm believing God
+- **[14:03](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=843s) · 他表达判断**：people that were had stage four cancer that I believe the power of the Lord touched them last night I believe that people that had incurable disease in the natural that were given a death sentence can turn it around by just an Act of Faith a faith the size of a mustard seed will move a
 
 ### 完整英文 Transcript
 
@@ -370,7 +402,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:01](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=901s) · 他表达判断**：you dare ask or think overflow time folks this is a time like never before that we will soar believe that your 2025 is going to be even better than your 2024 that it's you're going from glory to glory that it's not going to well 2025 is probably going to be a terrible year no it's going to be a better year
+- **[15:24](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=924s) · 本段原话**：than what this one was as good as 2024 was we're going to have an amazing 2025 more blessings more Prosperity more increase more Holy Ghost times more healing more Visions more demonstrations and manifestations more whatever we want to believe for the sky the limits W and even even further than that you know I just want you to believe
+- **[16:36](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=996s) · 他表达判断**：whatever they may need new ovaries new new uterus everything father you have it and I believe that they receive in jesus' name that father new Hearts new lungs new uh throats new esophaguses new uh thyroids new uh throat I mean teeth whatever it may be father I believe that they receive it Eyes Ears Nose Throat
+- **[17:41](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=1061s) · 本段原话**：Secret Service angels that are watching over him from all from the north the South the East the west and they will not shut him up they will not silence him he will have a Godly wisdom on how to turn this America Godly again and you said we'd have a window and we call
 
 ### 完整英文 Transcript
 
@@ -489,7 +528,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:18](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=1218s) · 本段原话**：work and do things around the yard even at 120 years and father that you said to Abraham he was over 100 years old and he had a baby but father Moses was was 120 and his eyes didn't grow dim that he had the glory sustaining him and it went from glory to glory until he just went
+- **[22:05](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=1325s) · 本段原话**：light has come and that glory of the Lord is risen on our faces that people see the glory on us the people see the glory and the demonstrations and the manifestations on our lives physically mentally emotionally financially we are of the Overcomers that we are not not going to be busted and disgusted people say well
+- **[23:09](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=1389s) · 他表达判断**：his Sacrifice by those stripes on his back and because he took that on his body we need not buar it in our own body according to Galatians 3:13 Christ has redeemed you from the curse of the law and I believe that we're redeemed from that curse according to Deuteronomy 28 all those curses that were labored all
+- **[24:10](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=1450s) · 他描述所见**：with closing out 2024 going into 2025 with great acceleration father you showed me a big rocket ship getting ready to take off and I saw 5 4 3 2 1 and that smoke was billing out of that for financial liftoff for people I believe father this is a time like never before that we will
 
 ### 完整英文 Transcript
 
@@ -613,7 +659,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:44](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=1544s) · 他表达判断**：that which the enemy meant for bad God you're going to turn it around for good and I believe there's a mending of Hearts I thank you Lord that Donald Trump is radically born again I thank you Lord that he is filled with and controlled by the holy spirit in these last days filled with comp a
+- **[27:10](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=1630s) · 本段原话**：I got a holy ghost I'm not going to hide it under a bush no I'm not going to put it out the devil's not going to put it out because he can't put out a bombfire he can't put out a raising Inferno like Elijah did with calling down the fire and burn up all that stuff in the
+- **[28:13](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=1693s) · 本段原话**：that we arise and we shine for the light has come and the glory of the Lord is risen on us that this is a time like never before to come up higher at the Throne of God coming up higher where the fire is at coming up higher with you father that we're no longer seeking
+- **[29:33](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=1773s) · 他转述所听到的话**：producing they will not keep producing we call the hormones of the mind to line up with the word of God completely delivered from satanic bondage that father that we'll be that bride without spot or wrinkle and the Lord told me spot and wrinkle is a hidden sin and this and the wrinkle is demonical
 
 ### 完整英文 Transcript
 
@@ -736,7 +789,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:00](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=1800s) · 本段原话**：oppressed by the devil we're free kid we're King's kids we're free and we call Elon must born again today in the name of Jesus we call Elon must baptized in the Holy Ghost we call him filled with controlled by the Holy Ghost father and that according to Ephesians 1:18 that the highs of his
+- **[30:39](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=1839s) · 本段原话**：You Lord that that Spirit of confusion and that demonic spirits that have been on him trying to plague him down we come against them in the name of Jesus we say you are free Elon Musk you are free and the starlink will be used all for the glory of God what the devil meant for bad God's
+- **[30:57](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=1857s) · 他表达判断**：going to get it for good in these last days I believe it and I believe that President Trump will be praying in the White House calling forth fire and the Holy Ghost because you said If my people who are called by my name will humble themselves and pray and turn from their Wicked Ways
+- **[34:31](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=2071s) · 他表达判断**：going through oh woes me no we brush ourself up and we stand up against the devil and we submit oursel therefore unto God we resist the devil and he will flee so I believe that this is a time like never before to do exactly what the word said so praise the Lord ladies and
 
 ### 完整英文 Transcript
 
@@ -871,7 +931,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 教会、复兴与信仰、疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、疾病、医疗与药品展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:02](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=2102s) · 本段原话**：the Deep state in the darkness that there will be a a Divine protection and he'll have a boldness like a David that not shrink back on threats and those that they they try to touch he said A thousand shall fall at our side and 10,000 at our right hand but nothing shall come nigh us nothing
+- **[36:05](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=2165s) · 本段原话**：speak that trash and say that because that that'll start to try to plant a seed in you you NOP you're not going to speak that over me I don't care what authentic I don't care what color of skin I don't I don't care what pigment I have I don't care what the race say I am
+- **[37:19](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=2239s) · 本段原话**：diabetes do they always have high cholesterol do they have do they and they get name off their stuff and they're doing what they've been trained to do I'm not mocking doctors but they mock you and they try to put you in a category well that makes you higher risk no no no no no no Christ has
+- **[38:15](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=2295s) · 本段原话**：DNA inside of me I'm made by the blood of I have the blood of Jesus Christ that has Set Me Free from generational curses I'm no longer underneath a generational curse that may have happened to them but that that that stops with me we're not going to have that in my house that's not moving on to
 
 ### 完整英文 Transcript
 
@@ -995,7 +1062,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:02](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=2402s) · 他进行祷告**：get our stuff around she's up again you know Tim's up again J James is up again whoa no what are we gonna do oh man I thought they were going to sleep in today no they got up early to pray we're in real trouble today because they spend extra time in the word they got up today at 5:30 and
+- **[41:42](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=2502s) · 他表达判断**：tail to smile and show Jesus loves you we believe it in this house at least I believe it my son believes it huh yes yes we believe it it's time it's time to get excited about life in this Christmas season we say happy birthday Jesus happy birthday Jesus we love you we love you Lord happy
+- **[43:15](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=2595s) · 他表达判断**：eternity you know I think tomorrow I'll talk to you all about more about the Thousand Years more about the thousand year reign and what we do after it you know I don't have scripture to back it up I I know what the Lord has showed me so if you want to come and eat me up for
+- **[44:22](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=2662s) · 他表达判断**：man that sewed in secret a lot and he's worth million hundreds of millions over the course of his lifetime and has given away I think his son told me over $53 million for sure that I know of $53 million away over the course of the a certain amount of time but he never
 
 ### 完整英文 Transcript
 
@@ -1112,7 +1186,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:17](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=2717s) · 本段原话**：things for him to honor him because they wanted to put his name in in stone saying look at what you gave us and he wouldn't let him do it the Lord showed me as I was praying for this man uh his robe in heaven and all of the gold uh uh they were like gold plates on his
+- **[46:23](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=2783s) · 他描述所见**：supernatural I'm talking I'm y'all his robe was gorgeous it was the most be I saw the gold these gold designs like I said that was I I I it's breathtaking what the Lord does for those who who do it with their whole heart you will be so surprised that you think oh it's the guy that preached the most
+- **[47:45](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=2865s) · 本段原话**：toilets because I want to make sure my reward is even greater and please don't give me no applause for it just please just go let me just get a toilet brush and let's wipe this this sink down let's wipe this glass down down and do it all to the glory of God and keep my mouth
+- **[48:57](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=2937s) · 本段原话**：try not to vomit all my own self all over the sorry this is real just people and body functions but we did that I did that for I did that for uh 15 years what is it 13 14 years between two Ministries some of the nastiest things you'll ever seen but I learned so much
 
 ### 完整英文 Transcript
 
@@ -1236,7 +1317,12 @@
 <a id="section-11"></a>
 ## 11. 50:00–50:41 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:02](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=3002s) · 他进行祷告**：bathrooms I wanted so bad at those times to get out of that but now I look at that that's who made me what I am today glory to God well I pray this video blessed you all today I truly do and I and I and I pray that it uplifted your spirits well put a
+- **[50:27](https://www.youtube.com/watch?v=f9p4n0Rd0Tk&t=3027s) · 本段原话**：smile on your face and a song in your heart Jesus loves you so much and we love you and we will see you all again tomorrow for day 55 so praise the Lord y'all have a great night byebye
 
 ### 完整英文 Transcript
 

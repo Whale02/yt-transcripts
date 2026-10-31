@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1500；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 72:00–79:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-10)
 - [11. 80:00–84:18 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:22](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=22s) · 他描述所见**：I heard 911. 911. And I saw the emergency responders respond responding to an emergency major turbulence ahead. And I looked at the fire station and I thought, Lord, what what's going on? And all of a sudden, it just I I went into deep groaning and praying in the spirit, travail in the spirit. And the Lord started to speak to
+- **[16:44](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=1004s) · 他描述所见**：I saw judgment beginning in the house of the Lord first. But I saw many I saw many politicians is a good word. I say politicians that are doing bad things wi-i with uh the the the the trafficking bad things and you are repeat offender concerning this and they will there will be uh there'll be things
+- **[32:00](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=1920s) · 他表达判断**：reprobate mind. Yeah, I believe the the election was rigged in your country, but it they couldn't rig it if there wasn't so much of a turnout for the wicked. Does that make sense? You can't rig something that that there's there's a majority going that way. If everybody would have went with the with the with
+- **[48:52](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=2932s) · 他描述所见**：[Music] foreign. Our tongues are going around this World War II thing. And I see France and and Germany and they're standing out in most still and it's camp here. Camp here for a minute. The Lord said, "Camp here.
+- **[65:15](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=3915s) · 他描述所见**：[Music] Oh, he wants to show more. Oh, the art of the deal again. And I see a temple mount being negotiated. I see the third temple being negotiated. I hear it becoming more upfront. It's bolding in letters. The temple will be rebuilt. the third temple in exchange
+- **[80:04](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=4804s) · 他描述所见**：a joke now and not in the future alongside Saudi Arabia with a new leaders getting rid of corruption that is tied to Iran. And I saw I saw Iraq Iraq rising like like a a world power.
+
 <a id="section-01"></a>
 ## 01. 00:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：China、Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:22](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=22s) · 他描述所见**：I heard 911. 911. And I saw the emergency responders respond responding to an emergency major turbulence ahead. And I looked at the fire station and I thought, Lord, what what's going on? And all of a sudden, it just I I went into deep groaning and praying in the spirit, travail in the spirit. And the Lord started to speak to
+- **[00:52](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=52s) · 他描述所见**：me very strongly. I started I saw over and the Lord started showing me uh a Pearl Harbor event as we see in the days ahead. China become desperate. China become desperate, North Korea become desperate more um wanting out of the the western boot underneath it from underneath it. I saw uh North Korea be because they are the social
+- **[03:20](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=200s) · 他描述所见**：Everybody think there it's just it's just culture. But I saw in this the Asians sticking with the Asian culture, trying to preserve what they believe and how they they they have family ties and all that. It's a very Asian thing, right? And I saw China being backed up in a hole. And I saw a tri a great
+- **[06:38](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=398s) · 他描述所见**：never been seen before, which is very, very gross. But this is what I saw coming through certain uh practices. I because I know I have children watching me. So, I'm going to be I'm trying to be careful how I say this because I have pure ears listening, you know, um certain practices that are
 
 ### 完整英文 Transcript
 
@@ -196,7 +214,14 @@
 <a id="section-02"></a>
 ## 02. 08:00–15:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:03](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=483s) · 他描述所见**：saw because of touching the children, because of touching the young people, this venerial disease will make them unic because of the infection. I saw so much infection that they have to do something because there's no cure for it. a new type of a a virus, a very serious virus that is tra trans transmitted
+- **[10:33](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=633s) · 他描述所见**：They will fill the sa cyismatic this the the the earthquake all throughout the centuries all throughout the whole world and it will pick up very strong and it will be so strong that it will be felt all throughout the world what's about to take place on the west coast I saw buildings fall I saw major
+- **[13:42](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=822s) · 他描述所见**：worldwide It was so dirty when I saw it. And I could see Jesus's blood on the altar. And the blood was crying out for repent, for people to repent and turn from their wicked ways to humble themselves and repent and turn from their wicked ways. But many people are still, oh, walking in a soupy
+- **[15:37](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=937s) · 他描述所见**：Okay? I'm telling you all, woe unto you for what's about to take place and the shaking that's about to take place. I saw such a great shaking of earthquakes. I told you we're in a we are in a um a a time of a metamorphosis. A great acceleration is on the land. A great acceleration is on
 
 ### 完整英文 Transcript
 
@@ -373,7 +398,14 @@
 <a id="section-03"></a>
 ## 03. 16:00–23:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:44](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=1004s) · 他描述所见**：I saw judgment beginning in the house of the Lord first. But I saw many I saw many politicians is a good word. I say politicians that are doing bad things wi-i with uh the the the the trafficking bad things and you are repeat offender concerning this and they will there will be uh there'll be things
+- **[17:58](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=1078s) · 他描述所见**：I watch the hearts upon the land, and the majority, the majority of the people are corrupt before me. I saw I saw a a shaking of the economies. I saw shaking of the land of of great great earthquakes, great devastation."
+- **[19:42](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=1182s) · 他转述所听到的话**：hear me. If you're practicing this stuff, you better repent. It will come on you and there's no cure for it. And it and it will it eventually will kill you, but it but it will be very very painful. It's very from what I heard the Lord say, it is a very painful, horrible way to
+- **[23:11](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=1391s) · 他描述所见**：I don't know if it's this summer, next summer. So, don't go, well, nothing happened this summer. If nothing happened, it I see in part, hear in part. I don't know. I can't pinpoint when. I've been trying. And it's only by me pressing in harder and harder. It takes me time praying what I've gotten
 
 ### 完整英文 Transcript
 
@@ -561,7 +593,14 @@
 <a id="section-04"></a>
 ## 04. 24:00–31:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:25](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=1525s) · 他描述所见**：in secret meetings again. I saw them in meetings and they were talking and they were whispering whispers of how to overcome the western culture. They were all whispering together. That means it was secret. They didn't want to be let out. the plans that they have to try to come out from underneath what they're
+- **[26:25](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=1585s) · 他描述所见**：And I saw them being removed like Pharaoh. And it was giving God time to minister through angelic encounters even more so to the North Korean people. I don't know if there'll be actual missionaries that go in there through translation like boom boom boom boom like it talks about in the Bible or if there'll be angelic ministries
+- **[27:32](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=1652s) · 他描述所见**：There's a great shaking coming, folks. A great shaking to awaken. I pray this video blessed you today. I know it's a heavy one, but um I tell you what I see. Let's take communion together and go before the Lord boldly. And let's repent of our sins and turn from our wicked ways. And let's
+- **[29:58](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=1798s) · 本段原话**：glory, the glory cloud, glory dust, whatever it may be, angel feathers, I don't know. I'm just like, show me something cool from the other side. I want to see you, Lord. you manifested in my presence and you becoming more real to me. And that is fun. Folks, we're going to spend an eternity. And I just want a glimpse of
 
 ### 完整英文 Transcript
 
@@ -752,7 +791,14 @@
 <a id="section-05"></a>
 ## 05. 32:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:00](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=1920s) · 他表达判断**：reprobate mind. Yeah, I believe the the election was rigged in your country, but it they couldn't rig it if there wasn't so much of a turnout for the wicked. Does that make sense? You can't rig something that that there's there's a majority going that way. If everybody would have went with the with the with
+- **[37:41](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=2261s) · 他描述所见**：job to pray we're going to pray even if I see it okay oh and I found out the Lord showed cuz I said Braden when does Jerome Pal when can we get rid of him and it's May of 2026 and I was like oh no we need him out of here this year so but Trump can't
+- **[38:47](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=2327s) · 他描述所见**：going on underneath the surface there there's a releasing point and that will happen in Italy that will h I saw another uh in a vision another major eruption coming to Italy released releasing points with volcanoes because of the pressure that's going on in the middle in the in the earth's crust. And this is a time of
+- **[39:41](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=2381s) · 他描述所见**：Not in just the water, but I'm telling you, release points, major stuff. And I saw Alaska. I saw uh uh Yellowstone, Yellowstone, Danger Zone. You'll see you're going to see major uh stuff happen with uh with Yellowstone. I'm telling you all there's
 
 ### 完整英文 Transcript
 
@@ -949,7 +995,14 @@
 <a id="section-06"></a>
 ## 06. 40:00–47:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、地震、风暴与灾害。 提到的地点：Europe、France。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:02](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=2402s) · 本段原话**：the earth is travailing. The earth is have birthing pains right now and it's going to show up in the natural. You're going to see this. So, I just wanted to let you all know Japan, a major earthquake, a major volcano. Watch in the days ahead. Great shaking is about to take place. All right. Well, let's
+- **[43:20](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=2600s) · 他转述所听到的话**：Father, you are you are the you're the leader. You dance, we we you lead the dance and we'll follow. Father, I thank you, Lord. You lead, we follow. You lead, we follow. It's a dance. It's a dance. It's a dance. I heard him say, "It's a dance, Brandon. It's a dance. It's a dance.
+- **[45:12](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=2712s) · 他描述所见**：Shando shap. [Music] I see I'm seeing right now. I'm seeing Germany.
+- **[46:44](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=2804s) · 他描述所见**：[Applause] [Music] Now I'm seeing France stand out. Stand out. And I see France's flag. I see Mcronone. for [Music]
 
 ### 完整英文 Transcript
 
@@ -1041,7 +1094,14 @@
 <a id="section-07"></a>
 ## 07. 48:00–55:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、特朗普与白宫。 提到的地点：France、Ukraine。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[48:52](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=2932s) · 他描述所见**：[Music] foreign. Our tongues are going around this World War II thing. And I see France and and Germany and they're standing out in most still and it's camp here. Camp here for a minute. The Lord said, "Camp here.
+- **[50:46](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=3046s) · 他描述所见**：It looks like grains of wheat in a bundle like a with a with a white and it's tied with a knot and it's tied with a knot and it's pointing and I see the cut off of the whole not just the heads of the the grains but the whole wheat the the straw and all of it the wheat
+- **[52:56](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=3176s) · 他描述所见**：[Music] for now. I see Obama's face, but it's faded out. It's faded out. And Obama's face was up here towards the north by Warsaw up here. And it's up here. It's up here at that at that going north. And I see Obama's face and it was fading out like he was becoming like
+- **[53:56](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=3236s) · 他描述所见**：Now I see Trump and he's bold. I see Trump's face and it's bold. I see Trump's face and it's bold and he has red, white, and blue on but it looks like Sam. Uncle Sam. Uncle Sam. It's red, white. It's an outfit that's red, white, and has a blue jacket with a red,
 
 ### 完整英文 Transcript
 
@@ -1141,7 +1201,14 @@
 <a id="section-08"></a>
 ## 08. 56:00–63:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、特朗普与白宫。 提到的地点：Russia、China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[57:46](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=3466s) · 他描述所见**：deals being struck. I'm hearing deals with President Trump making. I see I see Kiev Kiev. I see I see this in the spirit realm right here. It's right here. I see it. And I see it. Diplomacy.
+- **[59:54](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=3594s) · 他描述所见**：stronger or stronger. Russia is in the a middleman. Russia is a middleman of all these others that are upset about this. You see, see it again. But it's almost like a dividing line between Russia and and the NATO. And I see deals being and Trump is the negotiator in the middle. And I see Trump in the middle
+- **[61:37](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=3697s) · 他描述所见**：Five card draw. Poker is in Putin's hands. Gamble. It's playing poker face. Poker face. You hear me? I see Putin with a hand of cards.
+- **[63:17](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=3797s) · 本段原话**：Wants the B land back. The old USSR not settling for what they're going to be given. You can have the land you have. You see, you can have it new annex land grab where they've taken over with the war with all this going. You can have that. Access to the water. Access to the
 
 ### 完整英文 Transcript
 
@@ -1250,7 +1317,14 @@
 <a id="section-09"></a>
 ## 09. 64:00–71:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、物资、能源与供应链。 提到的地点：Iran、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[65:15](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=3915s) · 他描述所见**：[Music] Oh, he wants to show more. Oh, the art of the deal again. And I see a temple mount being negotiated. I see the third temple being negotiated. I hear it becoming more upfront. It's bolding in letters. The temple will be rebuilt. the third temple in exchange
+- **[65:46](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=3946s) · 他描述所见**：for peace, in exchange for this, exchange for that. Making the art of the deal. There's oil in the Mediterranean. I'm seeing oil written across the Mediterranean on the coastline of Israel. Again, I see oil. Oil written.
+- **[68:32](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=4112s) · 本段原话**：aso great oil wealth the great things there's great things there financial wealth corruption corruption corruption corruption corruption corruption it's just like they're pillaging and raping the people of finances keeping things bad it's like they're just they're stealing from them they're stealing from the the money out of there and there's going to be abrupt
+- **[71:10](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=4270s) · 他描述所见**：a lot of change grabbing on to crypto. You'll see this banking, new banking, new everything, a different thinking with the Arabs. I see oil. I see gold.
 
 ### 完整英文 Transcript
 
@@ -1378,7 +1452,14 @@
 <a id="section-10"></a>
 ## 10. 72:00–79:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[72:07](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=4327s) · 本段原话**：oasises crawl. Clobo crobo a great influence will start to come from from this area. Great influence remember this a great influence will start to f to to to to materialize is a good word materialize in the Arab nations. Watch this. An uprising of economy influence influencing the world stage. Chess match key plays are going
+- **[74:34](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=4474s) · 他描述所见**：people, but they're still Muslims. And that's what's interesting to me. I don't understand this, but I see Saudi Arabia reaching out to certain ones like like almost like a bloodline thing, like a like the way they believe. I don't know. I'm not familiar with the Muslim faith son. I'm just telling you what I've seen. And it and it goes
+- **[75:24](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=4524s) · 他描述所见**：he is like that. He's like the wounded brother. They will try to pump money into this this leader and what's going to happen here to make Syria strong. But there's darkness in Syria. Turkey is involved. I see Turkey.
+- **[79:32](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=4772s) · 他描述所见**：I saw uh vast oil wealth. I saw buildings and infrastructure and and all kinds of like mega buildings being built in the days ahead. I'm talking about like skyscrapers similar to Saudi Arabia and how they're building in the one tower that thing. I'm talking major buildings will build be built in Iraq.
 
 ### 完整英文 Transcript
 
@@ -1535,7 +1616,14 @@
 <a id="section-11"></a>
 ## 11. 80:00–84:18 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[80:04](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=4804s) · 他描述所见**：a joke now and not in the future alongside Saudi Arabia with a new leaders getting rid of corruption that is tied to Iran. And I saw I saw Iraq Iraq rising like like a a world power.
+- **[80:42](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=4842s) · 他描述所见**：Saudi Arabia. I'm talking big money is going to come out of Iraq. I like, how is that going to happen? But I'm telling you, I saw wealth coming to Iraq. They won't be a joke forever. It's going to be very that's going to be very interesting to watch that there's deals going to be
+- **[81:47](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=4907s) · 本段原话**：the Middle East. Watch, the Lord says to you, watch the Middle East. Watch what happens in the days ahead with the Middle East. Israel at the forefront. Peace agreements, things will happen. The third temple, watch great oil wealth out of the Mediterranean. The Middle East, it started there and it will end there.
+- **[83:59](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=5039s) · 本段原话**：I I feel release. I appreciate you being here. I don't even know how long that went. I know it was a long video, but praise the Lord. It's what he wanted done. And like I said, if he wants to go two hours, he can. So, God bless you all. Put a smile on your face and a song
 
 ### 完整英文 Transcript
 

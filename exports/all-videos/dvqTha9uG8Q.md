@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 704；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 祷告、敬拜与现场互动、物资、能源与供应链](#section-06)
 - [07. 24:00–26:18 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:36](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=36s) · 本段原话**：he tells me to do something I'm quick to obey I do not I try to at least like for the last video I told you about being hesitant of coming on here and telling you things on YouTube is because I had a gaping wound and I didn't want to I didn't want to come and expose that to
+- **[04:00](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=240s) · 本段原话**：you do uh root things and you say talk trash about him I'll ban you immediately there's no tolerance for it So I listened to him over and over and over and over and over again uh Kenneth Hagin found these Ministries I started listening to the word I fed on the word I fed on the word I fed on the word and
+- **[08:17](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=497s) · 本段原话**：his office on a Sunday night after church lightning striking and you could hear the storm blowing over there was actual storm happening so I knock on his door he goes come in what can I help you with I said the Lord has a word for you so I gave him this word I thought I had
+- **[16:01](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=961s) · 本段原话**：don't mind being here anymore he said yeah I know that's why you're released two a year ago goes by he releases me I stopped praying I'd start being a part of doing that or so I'm gonna do something different with your life now so I uh stopped doing it six months goes by and the pastor Falls
+- **[20:42](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=1242s) · 本段原话**：we we get through all of it she we're finishing her College I'm cleaning barely making it the whole time and he falls morally and she she's not able to get the job anymore so she has a masters in accounting and uh 4.0 all the degree we have all this stuff and the Lord says I'm going to do something
+- **[24:01](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=1441s) · 本段原话**：been a lot of I don't know if we're going to make it standing every single paycheck standing and believing cleaning the bathrooms dying to self the trials and the trials and and developing my relationship with him to the point of thinking man Lord if you're ever gonna use me and then he tells me I'm not
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:36](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=36s) · 本段原话**：he tells me to do something I'm quick to obey I do not I try to at least like for the last video I told you about being hesitant of coming on here and telling you things on YouTube is because I had a gaping wound and I didn't want to I didn't want to come and expose that to
+- **[01:49](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=109s) · 本段原话**：bullied every day at school sped on pushed down picked on all day long I would come home and cry myself to sleep because of being bullied all the time and so um I got up into my high school years I still couldn't read very well I still couldn't write very well I couldn't do math so the principal came
+- **[02:09](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=129s) · 他表达判断**：to my mom and she said you you know um some kids are just probably going to be uh uh like bricklayers she goes your son really has a hard time he's making zeros to school he's not able to keep up and so I would uh try to encourage you to just pull him out of school and let
+- **[03:10](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=190s) · 本段原话**：were going to Bible school at the time so they were going to Bible school and I was trying to get my GED I thought well maybe I can get my GED I couldn't do my GED I went and tried to do the test and I failed uh so I gave up and I just started working
 
 ### 完整英文 Transcript
 
@@ -129,7 +147,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=240s) · 本段原话**：you do uh root things and you say talk trash about him I'll ban you immediately there's no tolerance for it So I listened to him over and over and over and over and over again uh Kenneth Hagin found these Ministries I started listening to the word I fed on the word I fed on the word I fed on the word and
+- **[05:01](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=301s) · 本段原话**：sermons so then I got a job I was offered a job I've made some friends and they said we want you to come and work in the ministry for us I thought wow here's my opportunity to preach because I was I was 18 years old and I was excited I got my first job God
+- **[06:46](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=406s) · 他表达判断**：charismatic for him so he said no you can clean you'll probably never preach here and I thought well you know you're going to change your mind I'm going to pray and fast and God's gonna change your mind so the Lord said Brandon I want you just to be an armor Bearer you pray for for the pasture here and and I
+- **[07:04](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=424s) · 本段原话**：want you just to keep being here and praying so I just kept cleaning clean 90 toilets three times a week every single time I'm in there clean out griping in my heart God you called me to the ministry how am I going to do anything if I'm in here cleaning these toilets what are you going to do with my
 
 ### 完整英文 Transcript
 
@@ -243,7 +268,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:17](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=497s) · 本段原话**：his office on a Sunday night after church lightning striking and you could hear the storm blowing over there was actual storm happening so I knock on his door he goes come in what can I help you with I said the Lord has a word for you so I gave him this word I thought I had
+- **[08:34](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=514s) · 他表达判断**：hit him with it with a with with just punching him you know that's how strong the word was that the Lord had for me to give to him I thought he's gonna fire me right then he didn't fire me I think he was shocked because I came in there with such boldness because I'm just the cleaner
+- **[10:32](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=632s) · 本段原话**：like I said 90 toilets three times a week this was a mega church huge Church where I worked and so I cleaned him I go in there I clean them all by myself on a Saturday morning I clean them all by myself on a Sunday night clean them all by myself on on Wednesdays a lot of
+- **[11:43](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=703s) · 他转述所听到的话**：little girl in the previous video all that's going on I'm cleaning the bathrooms I'm submitting to the pastor I'm praying for him even if I don't agree with what he's preaching the Lord said honor him do not touch him with your words pray for him and honor him and and respect him even if you don't
 
 ### 完整英文 Transcript
 
@@ -361,7 +393,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:16](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=736s) · 本段原话**：this man with my words and my heart not complaining about cleaning these bathrooms not complaining about my boss that's treating me like trash every single day trying to get me fired trying to to conspire against me because I could see in the spirit I could warn things that was going to happen I would warn uh the pastor of the
+- **[13:27](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=807s) · 本段原话**：people of which witchcraft uh want to get free come in there get healed none of them knew how to deliver anybody from a devil they'd come and get me I'm cleaning the the toilets and church or vomit spill or whatever from somebody getting sick and they come and tell them hey we gotta have you in the back in the
+- **[14:28](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=868s) · 本段原话**：know so because I was already irritated about my circumstances and so so lo and behold this went clear on until about 11 30 at night and so the pasture when the pastors came in there and said can you tell them to hurt the Devils to hurry up and get out because I'm ready to go home
+- **[14:58](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=898s) · 他表达判断**：reputation that's the way I live my faith I believe God is a deliverer I believe God Is A Healer and regardless of my circumstances and what's going on around me he is a good god and so they let me start doing prayer so I started doing Saturday morning prayer whenever the main prayer lady was
 
 ### 完整英文 Transcript
 
@@ -483,7 +522,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=961s) · 本段原话**：don't mind being here anymore he said yeah I know that's why you're released two a year ago goes by he releases me I stopped praying I'd start being a part of doing that or so I'm gonna do something different with your life now so I uh stopped doing it six months goes by and the pastor Falls
+- **[17:34](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=1054s) · 本段原话**：about this we'd sit on the couch together and I practice the prophetic voice inside of me I started he'd tell me about scores of football games because it's just the way those little guy goes wolf Jesus is sitting on my couch I won't ask him about scores and about the games I'm going to talk to
+- **[18:43](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=1123s) · 本段原话**：I'm telling you my Refiner's Fire was clean and poop clean and clean and vomit cleaning the baby's rooms and doing all this stuff for all together between between the mega church and the mega Ministry I did it for uh 13 and a half years cleaning and cleaning and cleaning and and to the point where my hands had
+- **[19:37](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=1177s) · 本段原话**：accounting department so my wife started going to Oru doing this my daughter's overcoming autism we're pushing as hard as we can because we're tired of being broke and we want more we want more finances to be able to have a nice home we're living a shotgun rent house barely making it by it's terrible I'm just
 
 ### 完整英文 Transcript
 
@@ -600,7 +646,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、物资、能源与供应链、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、物资、能源与供应链展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:42](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=1242s) · 本段原话**：we we get through all of it she we're finishing her College I'm cleaning barely making it the whole time and he falls morally and she she's not able to get the job anymore so she has a masters in accounting and uh 4.0 all the degree we have all this stuff and the Lord says I'm going to do something
+- **[21:25](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=1285s) · 本段原话**：on the Shelf and he starts telling me Brandon are you going to be obedient to what I've called you I want you to do YouTube channel so what are you serious I said Lord I'm doing good I'm enjoying doing this I'm listening to you every day on what to do with my finances this is what you want
+- **[22:15](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=1335s) · 本段原话**：and I'm going to the doors are going to fling wide right open for you for Ministry now because you I have found that you fear me and you fear what I've asked you to do you've been obedient and now I said Lord I don't want to do it because I said my little girl's still overcoming
+- **[23:17](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=1397s) · 本段原话**：dead broke working for the church and and the Lord started like I said we got out of the church and my wife got out of uh college and we thought man it's gonna we're gonna be in the money now because she's got her her master's degree nope nope nothing happened with the Master's
 
 ### 完整英文 Transcript
 
@@ -721,7 +774,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–26:18 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:01](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=1441s) · 本段原话**：been a lot of I don't know if we're going to make it standing every single paycheck standing and believing cleaning the bathrooms dying to self the trials and the trials and and developing my relationship with him to the point of thinking man Lord if you're ever gonna use me and then he tells me I'm not
+- **[25:04](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=1504s) · 他表达判断**：to I don't have any clue all I know is God told me to be on YouTube and you all are watching it and it's been very interesting for me because I like I now have 50 000 subscribers and I started out in uh and and I believe it was February or whatever doing these videos
+- **[25:34](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=1534s) · 他表达判断**：doing what I still doing my business stuff working and doing this whenever I have time to so um I just I just want to say thank you for for helping and supporting me and and being a part like I said I I believe God has put healing in my hand I feel the fire in my fans
+- **[25:51](https://www.youtube.com/watch?v=dvqTha9uG8Q&t=1551s) · 他进行祷告**：when I pray for people it's there for a reason he told told me one day I'll have 10 a tent and I'm gonna go and set tents up and he wants me to put tents in a Tent Revival there's a great Revival about to happen with tents and and people being healed I've seen it thank you for watching and
 
 ### 完整英文 Transcript
 

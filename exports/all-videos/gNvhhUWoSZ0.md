@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 700；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 祷告、敬拜与现场互动、美国选举与投票](#section-07)
 - [08. 28:00–28:17 · 教会、复兴与信仰](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=0s) · 本段原话**：hey good morning family how are y'all doing I I I just wanted to first I just want to say thank you all for all the the kindness I mean we're at this prayer conference we right now we're still in our hotel we've been at this prayer conference for two days and there's many
+- **[04:01](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=241s) · 他描述所见**：showed me and do I still believe that I still feel something in the natural yes do I move am I moved by what I see or what I feel no but I'm but I'm telling you I still have a caution and so I'm I'm just being real with y'all I still feel that we we have prayer to do about
+- **[13:13](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=793s) · 他表达判断**：just like Abraham you stagger not at the promise of God through unbelief through unbelief and so but but giving glory to God we are fully persuaded fully persuaded we're fully persuaded that what God has promised He's Able also to perform it mhm and I believe it with all my heart and even just like I'm trying
+- **[16:24](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=984s) · 本段原话**：the doves flying sideways but but that beaks over there and it his head's tilting now cuz he's flying he's trying to he's that sucker's head he that that D's like he flies a couple of feet and Falls because the he's more but I'm going to make it because because we see more promise but we're standing for the
+- **[24:24](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=1464s) · 本段原话**：we heard side note while I'm praying that that the Administration was trying to uh cause it where all the illegal immigrants could vote in any state and that they would be able to do this and uh that without a voter voter ID card and that they would be able to vote in the election and we don't want that is
+- **[28:01](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=1681s) · 本段原话**：have real fast internet at the house as you always know but but God bless you all and we just want to say put a smile in your face and a song in your heart Jesus loves you so much and we love you God bless you all and have a wonderful day and we will talk to you all soon bye
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=0s) · 本段原话**：hey good morning family how are y'all doing I I I just wanted to first I just want to say thank you all for all the the kindness I mean we're at this prayer conference we right now we're still in our hotel we've been at this prayer conference for two days and there's many
+- **[01:26](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=86s) · 本段原话**：life seriously y'all genuinely nice people sometimes you you get around Christians and in the upper leadership and you think ah they're kind of stuck up but I'm going to tell you this these people are really good people and um I I've been really impressed with how how kind they've been to us and I um I'm
+- **[02:46](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=166s) · 他表达判断**：people you know there there's a lot of people that are standing for this nation and I believe it I'm telling you all I believe beyond a shadow of Doubt uh that that Trump is going to win this election that we're going to see victory and then and and it's even what sister Lan said even was seeing saying
+- **[03:23](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=203s) · 本段原话**：puts Godly men and women in positions around him for counsel that when he wins in the name of Jesus that it will be be it will be by a landslide that's what we're believing for and not only that that I'm believing God will take the house and the Senate and that it will be
 
 ### 完整英文 Transcript
 
@@ -128,7 +146,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 经济、银行与市场、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：经济、银行与市场、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕经济、银行与市场、教会、复兴与信仰展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=241s) · 他描述所见**：showed me and do I still believe that I still feel something in the natural yes do I move am I moved by what I see or what I feel no but I'm but I'm telling you I still have a caution and so I'm I'm just being real with y'all I still feel that we we have prayer to do about
+- **[05:18](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=318s) · 本段原话**：there and it said that in the last three weeks we've spent a half a trillion dollars more in the deficit in the last three weeks and it was it was it was skyrocketing in that uh graph and I'll put it right here you can see it it's skyrocketing our national debt is $35
+- **[06:52](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=412s) · 他转述所听到的话**：that that even if it was I I heard a testimony of some people during the Great Depression that they were consistent tithers consistent tithers and they they went through the Great Depression never lacking a job they never lacked any good thing because they were consistent in their giving to the father and they
+- **[07:32](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=452s) · 他转述所听到的话**：but they they weren't tithers they were they were they didn't believe in giv like that and they struggled but I heard of people that that like brother brother kenthy Hagen they were tithers these people believed in their Covenant they believed that God would take care of them and they made it through and so
 
 ### 完整英文 Transcript
 
@@ -234,7 +259,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[09:03](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=543s) · 本段原话**：my wife and I and my children praying for Megan and Lan and and there was I can see a supernatural change already taking place of Megan she is talking more in the last 24 48 Hours than we've ever heard her talk in um her whole life ever yes her whole life she's saying words you all MH and
+- **[09:25](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=565s) · 他表达判断**：after the man the man of God prayed for my daughter appropriate words at the right timing yes even spontaneous talking and she was jabbering and churching the people in front of us I don't think they knew that she was overcoming I think she was disrup and they got up and left I didn't I I was
+- **[10:00](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=600s) · 本段原话**：could see it in her eyes and she's alert it hasn't it been yes yes there is an actual tangible we see a tangible turnaround this week we've been seeing it and as we stay underneath the glory of of of the teachings and the prayer coverings and being in these meetings we fill being filled we've seen
+- **[11:03](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=663s) · 本段原话**：the time you look back you climbed a mountain like when she got healed and got potty drained yeah it was it was an overnight thing the the doctors told us you will never more than likely right ever see this child be potty trained and we had professionals like coming in trying to help us too did not work and they said
 
 ### 完整英文 Transcript
 
@@ -343,7 +375,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[13:13](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=793s) · 他表达判断**：just like Abraham you stagger not at the promise of God through unbelief through unbelief and so but but giving glory to God we are fully persuaded fully persuaded we're fully persuaded that what God has promised He's Able also to perform it mhm and I believe it with all my heart and even just like I'm trying
+- **[13:33](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=813s) · 本段原话**：to tell you all if you have the opportunity to keep you know it may seem like it's impossible in your circumstances all things are possible to him that believes and if you keep putting yourself in that that that uh environment of Faith like we've been doing went to the healing services and were going to prayer conferences and
+- **[14:49](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=889s) · 他描述所见**：over you you like if you're get resisting against the you work your arm do things you couldn't do before we're resisting against the symptom regard regard less of what the symptom tells me I am not moved by what I see I'm not moved by what I feel I'm moved by what the word says and the word says that by
+- **[15:46](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=946s) · 本段原话**：believe Megan's going to come out of this we believe she's come out of this but we're going to see fruit of it and that's where we're standing so and you know what she goes in she sides she she points to the menu sometimes if there's a picture what she wants what what do
 
 ### 完整英文 Transcript
 
@@ -453,7 +492,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:24](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=984s) · 本段原话**：the doves flying sideways but but that beaks over there and it his head's tilting now cuz he's flying he's trying to he's that sucker's head he that that D's like he flies a couple of feet and Falls because the he's more but I'm going to make it because because we see more promise but we're standing for the
+- **[17:06](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=1026s) · 本段原话**：laugh a little bit you know God is good and Mary heart doth good like a medicine we need to laugh but uh but I just like I said we just came on today to tell everybody I hadn't been able to be consistent the first hotel we stayed at I'm not going to run them down God bless them their
+- **[18:09](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=1089s) · 本段原话**：blessed me yeah it really did I was like wow there's so many compassion people so many people compassionate people and so many people saying hey you you changed my life Brandon by what you've said I'm going to tell you it's not me it's the Holy Spirit he's the one that that's changed you I'm just I'm telling you all
+- **[19:26](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=1166s) · 本段原话**：we'll try I'll try to be more uh up there in the four four year or whatever if I can and I won't maybe uh be able to talk very long if I talk to each individual person it causes a distraction it causes a distraction and I don't want the venue to ask me yeah
 
 ### 完整英文 Transcript
 
@@ -569,7 +615,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:16](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=1216s) · 他表达判断**：for you for your finances for your healings for the lady on the card for the so many people asking for prayer I believe with you for your Miracle thank you for believing with me for my family's Miracle so Dian and I want to agree with you that you're healed by the stripes of Jesus and that everything is
+- **[21:10](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=1270s) · 他表达判断**：set free whole well in the name of Jesus and I thank you Father that you said that two or more G two or more agreeing touching on anything it shall be done and I believe I believe father that this is a Time of Your Great outpouring upon all people that this will be a ma for
+- **[21:51](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=1311s) · 本段原话**：will not affect the tither for we have tither rights and you said in your word that you would supply all our needs according to your riches and Glory by Christ Jesus exceedingly abundantly above all that you dare ask or think was what we're standing for not just to barely get by but to have more than
+- **[23:45](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=1425s) · 本段原话**：change to vote in these elections father the truckers the the the farmers the the the the the police officers the all the the the blue collar workers and father all the white color work workers that
 
 ### 完整英文 Transcript
 
@@ -677,7 +730,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、美国选举与投票
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、美国选举与投票、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、美国选举与投票展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:24](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=1464s) · 本段原话**：we heard side note while I'm praying that that the Administration was trying to uh cause it where all the illegal immigrants could vote in any state and that they would be able to do this and uh that without a voter voter ID card and that they would be able to vote in the election and we don't want that is
+- **[26:43](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=1603s) · 本段原话**：subscribed to our video and you you're you're new here and you um just found us thank you for for joining us today please stick around and and and I'll be home and we're going to start doing videos more I'll be more consecutive at the house it's a lot easier um than trying to upload it on this internet
+- **[27:15](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=1635s) · 他表达判断**：consecutively like I wanted to um especially at the last Hotel the internet connection's been hard yep so um hopefully this one will go through if you're watching it you've it's it's up so we pray for it to go it happened yeah it happened we're using we're using our faith right now for that yeah I think if
+- **[27:35](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=1655s) · 本段原话**：we have to we'll go to maybe Chick-fil-A has better internet Starbucks has good internet maybe we could sit out there for a while it took it took a long time the last one was so slow it took over an hour he said they're trying to upload that thing and it was like the bars are
 
 ### 完整英文 Transcript
 
@@ -783,7 +843,11 @@
 <a id="section-08"></a>
 ## 08. 28:00–28:17 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:01](https://www.youtube.com/watch?v=gNvhhUWoSZ0&t=1681s) · 本段原话**：have real fast internet at the house as you always know but but God bless you all and we just want to say put a smile in your face and a song in your heart Jesus loves you so much and we love you God bless you all and have a wonderful day and we will talk to you all soon bye
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 848；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 - [10. 36:00–37:36 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:21](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=21s) · 本段原话**：looking at a thin quarter or or whatever you have in your country a coin you can either focus on the dark or you can focus on on on the light it's like a you can look it's like a two sides of Co a coin the dark's going to get darker in these last days with the birthing pains
+- **[08:00](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=480s) · 本段原话**：people wow there will be people driving down the street or down the highway and they'll see fire on the tops of the buildings and they will come and say what does all this mean but you see now get this the Lord will use signs of his presence to bring people in in the last
+- **[17:00](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1020s) · 本段原话**：outpourings which remind one of the day of Pentecost the intensity and constanty of his order were surprising the sacred fire never seemed to burn low and he was his campaign which began in New York State uh was absolutely preparing the way for the mighty move of Revival that swept America in 1857 and
+- **[20:18](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1218s) · 他进行祷告**：Daybreak the people began sending for finny he spent the morning going from house to house to pray with the people he finally announced a meeting for inquirers at at 1:00 and many more were convicted in the evening service people were so overwhelmed by the holy spirit's conviction then he dismissed the service and asked the people to go home Revival
+- **[28:01](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1681s) · 他进行祷告**：waken out of their Slumber and their sleep and and they would H that that their eyes would be open and they would know that that that they're not going to get left and they would have a revelation that Jesus loves them so let's pray right now let's pray for it you know was I don't know how long this
+- **[36:00](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=2160s) · 本段原话**：them of their marriage of their home of their children father they realize that who greater is he that is in them than he that is in the world that they don't have to have a devil's hell in their house that they have peace that passes all understanding over their home and father we just give you all the
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:21](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=21s) · 本段原话**：looking at a thin quarter or or whatever you have in your country a coin you can either focus on the dark or you can focus on on on the light it's like a you can look it's like a two sides of Co a coin the dark's going to get darker in these last days with the birthing pains
+- **[00:40](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=40s) · 他转述所听到的话**：but the Lord told me the light is going to start getting lighter you're going to you can you can see it it'll be tangible the last outpouring a great harvest of souls is what's about to happen we're about to see one of the the greatest things like like Bible times like when Moses parted the Red Sea and and walked
+- **[01:25](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=85s) · 他表达判断**：next next chapter I truly believe it with all my heart that's how how amazing these Miracles are going to be I believe with all my heart dead you know trans people translating from one place to another going and preaching the gospel you may be in a a city in in America and all of a sudden you're in Africa or or
+- **[02:28](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=148s) · 本段原话**：the spirit of God this world world has ever seen praise God here we go and if you'll give the more Earnest heed un these things which you have heard so think about this was back in 198 about Faith and Healing but those things which you've heard about the Holy Spirit about angels about Divine
 
 ### 完整英文 Transcript
 
@@ -121,7 +139,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:02](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=242s) · 本段原话**：naturally as you breathe the very air praise God you will not be conscious of your faith you'll not be conscious of what's going on around you but rather you'll be more conscious of the flow of the spirit of God and he will manifest himself and he will accomplish that which he desires for you see these are
+- **[05:15](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=315s) · 本段原话**：it will be widespread thank you Jesus and all whose hearts are open and whose minds are clear and who are sincere and honest those are the ones that will move in for a great Cloud of Glory is hanging just over our heads praise God and that cloud will burst into a torrent of outflow of the rain of the
+- **[07:01](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=421s) · 本段原话**：praise God now this one there will be a Revival of the supernatural not only the supernatural in casting out devils not only the supernatural in Healing The Sick not only the supernatural in speaking with other tongues but the supernatural in the realm of the seen realm men will see the glory of God a
+- **[07:22](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=442s) · 本段原话**：cloud will hang over certain congregations even the church buildings for days at a time wow and every everybody who passes by Sinner and Saint alike will say we've never well what in the world is that I've never seen anything like that wow and there will be in other places there will be in other places fire of the
 
 ### 完整英文 Transcript
 
@@ -224,7 +249,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=480s) · 本段原话**：people wow there will be people driving down the street or down the highway and they'll see fire on the tops of the buildings and they will come and say what does all this mean but you see now get this the Lord will use signs of his presence to bring people in in the last
+- **[08:20](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=500s) · 本段原话**：days so that's how we're going to get the Harvest Right There the outpouring of the spirit is going to draw them in will use signs of his to bring people in in the last days praise the Lord men and women too will be transported W it's in the Pro prophecy like Philip was and found in
+- **[09:01](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=541s) · 本段原话**：side today can feed 5,000 with a little boy's lunch he is the miral working God yes this is what I've been looking for lately the instruction what do we do mhm listen this brag on him praise the Lord brag on him lift him up draw attention unto him tell about how great he
+- **[11:30](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=690s) · 本段原话**：prayer all this praying in the spirit the Holy Ghost said is going to be fueled by prayer there will be churches in the body of Christ in buildings where they meet huh that the glory of God will fill the place like a cloud and everybody will see it wow and when that Glory comes in manifestation
 
 ### 完整英文 Transcript
 
@@ -324,7 +356,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:27](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=747s) · 本段原话**：to do a recap here so here here we are she's talking about how we're going to fuel this end time Revival how we get the manifestation of what we're believing for instead of just waiting for it to happen I know it's in God's timing but just like brother Hagen was talking about it the prayer is a major key to
+- **[12:51](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=771s) · 他表达判断**：this interceding for the last outpouring just like it was you know if we go back back to what what John Kilpatrick said with the Pensacola Revival um they had prayer there I believe every night for a while and they prayed and they prayed and they prayed for I think two years for for a Revival to break out in
+- **[13:45](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=825s) · 他进行祷告**：three men three men George Whitfield George Whitfield John Wesley John Wesley and Charles Wesley three Englishmen and they formed a club called The Holy Club the holy club and in their holy Club they endeavored to live a holy life and to pray mhm and their holy Club had an an unusual thing that happened to
+- **[15:00](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=900s) · 本段原话**：moment when the Wesley George Whitfield and others received God's power in the spirit waves of unspeakable joy passed over them and they prostrated themselves on the ground in awe and adoration thank God gave these men a deep conviction that he was about to do something great and wonderful in England and as they
 
 ### 完整英文 Transcript
 
@@ -417,7 +456,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[17:00](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1020s) · 本段原话**：outpourings which remind one of the day of Pentecost the intensity and constanty of his order were surprising the sacred fire never seemed to burn low and he was his campaign which began in New York State uh was absolutely preparing the way for the mighty move of Revival that swept America in 1857 and
+- **[18:08](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1088s) · 本段原话**：accompanied this revival and so finny began to preach he went to a town in New York named antp he walked through the streets he heard profanity and he spent the rest of the day in prayer and before a few days uh most of its 2,250 citizens were converted wow he visited a nearby Village in the first
+- **[18:48](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1128s) · 他表达判断**：their knees or prostrate I think in less than two minutes from the first shock that fell upon them everyone prayed for himself who was able to pray at all I of course was obliged to stop preaching for No One any longer paid attention to me do it again do it again Lord the meetings went
+- **[19:07](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1147s) · 本段原话**：on and on and the people became whole towns would get saved he went to New York Onida County God grave a prayer burden on Friday Sunday God came in power at the church services finny prevailed in prayer and spoke in several towns parts of the Town a Mrs Harris had wrestled in prayer night and day when
 
 ### 完整英文 Transcript
 
@@ -517,7 +563,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:18](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1218s) · 他进行祷告**：Daybreak the people began sending for finny he spent the morning going from house to house to pray with the people he finally announced a meeting for inquirers at at 1:00 and many more were convicted in the evening service people were so overwhelmed by the holy spirit's conviction then he dismissed the service and asked the people to go home Revival
+- **[21:16](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1276s) · 本段原话**：leaders the ministers said so far as my congregation is concerned the Millennium has come everyone who came into the village felt an overwhelming sense of God's presence the sheriff of you New York 20 mil away came on business he had laughed and mocked at the reports of the Revival as his Sligh crossed the canal
+- **[22:16](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1336s) · 他进行祷告**：people to pray to God earnestly and expectantly for quote the immediate outpouring of his holy spirit immediate he told them that if they United in prayer they could get God's answer quicker than a letter could come from Albany the state's capital several men agreed to prove God in that way and their prayer was answered just that
+- **[23:17](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1397s) · 本段原话**：Rome during these revivals and turned the area into a zone of Holiness the same phenomenon was occurring along the east whole eastern coast of the United States during the 1858 Revival in the midst of the Revival that was a later one the onid presbyter met in udica an aged clergyman commanded complained an
 
 ### 完整英文 Transcript
 
@@ -628,7 +681,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:04](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1444s) · 本段原话**：wow I've heard brother Hagen prophesy that when this starts going to be some people that are going to go on home and he prophesied that there'd be such judgments I love this part about it a Methodist Church was formed in the town and then a Presbyterian Church when finny would go to a town
+- **[24:53](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1493s) · 他表达判断**：whenever the Lord showed me about the time Revival and I and I've told you whenever I I I've I've seen over into it and I and the Lord showed me that there that the denominational barriers were coming down and I believe that you know just like we have so much separation between the Baptist the
+- **[25:13](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1513s) · 本段原话**：Methodist the Catholics the the the Presbyterian the Church of Christ all of them the Lord showed me he said Brandon for what's coming he said it's going to be one body all the uh T all the different tents and all the different thinko are going to come down the through this great shaking that's about
+- **[27:17](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1637s) · 他进行祷告**：it's going to happen again so we're going to start praying more we're going to pray for the Revival we're going to pray for an outpouring we're going to pray for a harvest of Souls the people would wake up out of their compromise wake up out of out of uh out of their sleep their Slumber
 
 ### 完整英文 Transcript
 
@@ -727,7 +787,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:01](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1681s) · 他进行祷告**：waken out of their Slumber and their sleep and and they would H that that their eyes would be open and they would know that that that they're not going to get left and they would have a revelation that Jesus loves them so let's pray right now let's pray for it you know was I don't know how long this
+- **[29:20](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1760s) · 他进行祷告**：when we see Wicked or or dark things that we would be the ones that light in the darkness and turn on that light and EXP expose the darkness so father right now in the name of Jesus I lift every single one of these people up before you I pray a great hunger a great thirst For Your
+- **[30:06](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1806s) · 本段原话**：thirst in their fles to want more of Jesus I want more of your Revival to to to to to not even to to turn away from this world to turn away from the darkness to turn away from the things of this Earth and to seek Jesus and to real realize that Jesus is coming
+- **[30:30](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1830s) · 本段原话**：soon Jesus is coming and that we are need to be ready and with our lamps full full of oil full of the oil of the Holy Ghost full of Revival ready for the outpouring of the spirit of God one last Harvest of souls one last push for your Mighty moving hand on this Earth
 
 ### 完整英文 Transcript
 
@@ -821,7 +888,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:02](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1922s) · 本段原话**：Jesus I speak for Laborers to go across their path I thank you Father that in the Midnight Hour when they're sleeping in their sleep father in in the the midnight in the in the in the the the early hours of the morning that they would have revelation of of a dream of some kind of Supernatural experience
+- **[32:25](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=1945s) · 他进行祷告**：with an angel or or or or the Holy Ghost himself to shake them and show them get all right before the Lord you're going to get left you're going to burn forever father I thank you Lord that we would have this Great Harvest of souls a great healing Revival will take place our
+- **[33:37](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=2017s) · 本段原话**：stage four cancer any kind of cancer we curse cancer in the name of Jesus and we command it to go away we call those rebellious cells to line up with the word of God we call diabetes to be healed and ho and well in jesus' name we call Deliverance of of of of gallbladder
+- **[35:51](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=2151s) · 本段原话**：thank you there's peace over their marriage that they rise up and they take authority over that home and they'll not let the devil Rob
 
 ### 完整英文 Transcript
 
@@ -921,7 +995,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–37:36 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:00](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=2160s) · 本段原话**：them of their marriage of their home of their children father they realize that who greater is he that is in them than he that is in the world that they don't have to have a devil's hell in their house that they have peace that passes all understanding over their home and father we just give you all the
+- **[36:20](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=2180s) · 本段原话**：glory and honor and praise for this in the name of Jesus and we just thank you Father for this for this encouragement today that father there's going to be something massive happen in the days ahead and I and I hope this encourages you all today I really do I this is what I feed on I try to find
+- **[36:59](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=2219s) · 他表达判断**：gloom there's good days ahead too for the believer I believe with all my heart they' be the best of days and the worst of days for some folks if they don't get on the right side of things it's time to get on the glory side so I hope this this blessed you today thank you for joining me if you're
+- **[37:19](https://www.youtube.com/watch?v=RiSqvsbEUSE&t=2239s) · 本段原话**：still watching thank you for all the support all the likes all the all the all the kind words in the comment section so I just want to say put a smile on your face and a song in your heart Jesus loves you so much and we love you and we just thank you for
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 435；**章节数**: 5；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -15,10 +15,27 @@
 - [04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-04)
 - [05. 16:00–19:54 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
 
+## 全片概述与 Key Points
+
+全片共 5 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=0s) · 本段原话**：well good morning family um I got my play button it came in the mail today after for my 100,000 subscribers and I'm fixing it I'm going to open it up and uh we're going to do it together because it's because of you all and because of the Lord Jesus Christ that did this and
+- **[04:31](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=271s) · 他描述所见**：Lord told me I was going to do and I see the fruit of it the fruit of the prophetic word for my personal life telling me to raise up a prayer people because of the fact that uh he needed you he needed me to pray for the end times to pray for his son's return there
+- **[08:24](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=504s) · 本段原话**：found you while searching YouTube learned about you through a friend or maybe you showed up as a recommended video no matter how they came to your channel your audience stayed and their numbers increased because of you and the community you've built we're we're proud to honor your impressive Milestone of reaching 100,000 subscribers with the
+- **[12:03](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=723s) · 本段原话**：that you do the impossible today in people's lives like you've done in mine countless times I thank you Father that you said in your word we could ask anything and it shall be done I thank you Father that you said in your word that by your stripes we are healed and I I thank you Father that
+- **[17:00](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=1020s) · 他进行祷告**：every single person that's believing God for Supernatural abundance over their house I pray abundance I pray blessing I pray increase I pray favor over their jobs that they would they would be the head and not the tail above and not beneath they will go through and not go under I thank you Father that the
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=0s) · 本段原话**：well good morning family um I got my play button it came in the mail today after for my 100,000 subscribers and I'm fixing it I'm going to open it up and uh we're going to do it together because it's because of you all and because of the Lord Jesus Christ that did this and
+- **[02:06](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=126s) · 他表达判断**：me to do it said I want you to start this YouTube channel I had no idea what it would turn into and you know um my wife can vouch for all this the pressure the spiritual pressure of being a pro prophetic Seer is more than what a lot anybody probably will ever understand but I I'm
+- **[02:54](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=174s) · 本段原话**：and I uh it's been it's been a joint effort we we've worked hard our our tails off uh answering emails as much as we can uh with her homeschooling our kids working a full-time job still um doing all that we do and then still praying and still trying it's like trying you know not seeking the Lord for
+- **[03:42](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=222s) · 他描述所见**：intimacy with him he shows me things and a lot of it I know he shows me things regardless if YouTube wasn't there or not I'm just taking you along the Journey of my personal prayer life and saying this is what I see because this this is what I would have prayed
 
 ### 完整英文 Transcript
 
@@ -99,7 +116,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:31](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=271s) · 他描述所见**：Lord told me I was going to do and I see the fruit of it the fruit of the prophetic word for my personal life telling me to raise up a prayer people because of the fact that uh he needed you he needed me to pray for the end times to pray for his son's return there
+- **[04:55](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=295s) · 他表达判断**：there's things that need to happen in the spirit Realm uh and and we're doing it we're working and we're and we're we're a team and I and I know that uh there's a lot of people that don't understand baptism of the Holy Ghost but you stick around and you will I believe with uh with all my
+- **[06:01](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=361s) · 本段原话**：it it says okay oh how cool is that wow the the the plaque the silver plaque telling me congratulations wow how cool is that Brandon last days 247 for passing a 100,000 subscribers is that the coolest thing ever
+- **[07:35](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=455s) · 本段原话**：that it's last days me so I just excited about that because I get so tired of having to go through there and tell everybody erase all those scammers you would not believe how many people are trying to impersonate me even on other platforms from Tik Tok to uh Facebook it is it is pretty uh it's
 
 ### 完整英文 Transcript
 
@@ -195,7 +219,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:24](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=504s) · 本段原话**：found you while searching YouTube learned about you through a friend or maybe you showed up as a recommended video no matter how they came to your channel your audience stayed and their numbers increased because of you and the community you've built we're we're proud to honor your impressive Milestone of reaching 100,000 subscribers with the
+- **[09:02](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=542s) · 本段原话**：and who knows when you reach your millionth subscriber you may we may just write to to you and ask do you remember your 100,000 subscriber your sincerely and it says Neil Mohan Youtube CEO wow you you want to say hi to him you just wave real quick thank you so much for supporting us we love you guys so
+- **[10:22](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=622s) · 本段原话**：those videos after he gets out of school and I and I'm so proud of him he works very hard and um it's a sacrifice yeah uh to do what he does uh to make sure it's praying what's going to catch the people's attention to catch for Jesus how do we get them how do we get the
+- **[11:37](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=697s) · 本段原话**：people and I thank you Father for the for the power of the Holy Ghost on their lives I thank you Father that it's not about me it's about you and it's about spreading this word throughout the whole world telling people that Jesus is coming I thank you for sign signs and wonders for Creative Miracles father
 
 ### 完整英文 Transcript
 
@@ -294,7 +325,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:03](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=723s) · 本段原话**：that you do the impossible today in people's lives like you've done in mine countless times I thank you Father that you said in your word we could ask anything and it shall be done I thank you Father that you said in your word that by your stripes we are healed and I I thank you Father that
+- **[12:26](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=746s) · 本段原话**：right now in the name of Jesus that healing belongs to every single Believer by faith we believe it and we receive it right now from the top of their head to the soles of their feet I call them healed and whole and well in the name of Jesus I speak life over their bodies I
+- **[12:47](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=767s) · 本段原话**：speak life over their cells I curse Cancers and diabetes and heart disease and strokes and glycom and over over their brains any kind of brain uh Alzheimer or dementia father we speak over their minds that they're healed and whole and well in jesus' name over their hearts I call new heart valves and heart
+- **[15:14](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=914s) · 本段原话**：you Lord they'll seek counsel from from Biblical counseling to be able to fix these uh problems or whatever they're going through father they'll be able to work it out and talk things out that they are not quitters father yeah when marriage gets hard you keep on pressing on and you keep working it even whenever it may seem maybe
 
 ### 完整英文 Transcript
 
@@ -398,7 +436,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:54 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[17:00](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=1020s) · 他进行祷告**：every single person that's believing God for Supernatural abundance over their house I pray abundance I pray blessing I pray increase I pray favor over their jobs that they would they would be the head and not the tail above and not beneath they will go through and not go under I thank you Father that the
+- **[17:18](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=1038s) · 本段原话**：supernatural power of prosperity that you have anointed our hands to do father that everything we put our hands to will prosper and for us to be that that salt in the Earth and that we would be that that that uh pillar for you to be able to use for these end times not to be
+- **[18:56](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=1136s) · 他进行祷告**：million now a million subscribers all for the glory of God it will happen Lord you've shown me that the channel will grow and grow and grow and we call forth a blessing over it and we just dedicate it to you continually keeping you first place in our life and we thank you Lord that we
+- **[19:17](https://www.youtube.com/watch?v=BNlaYwnO9Fk&t=1157s) · 本段原话**：never get a big head and we always stay humble before you we always stay small for You Are The Potter and we are the clay and we have this treasure in Earth and vessels that the Excellency of the power will be known of you and not of us it's not about me it's about
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 3470；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 140:00–153:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-11)
 - [12. 154:00–163:25 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:01](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=61s) · 他表达判断**：is uh the Lord showed us about praying over schools, mass shootings in schools. And yesterday, or I believe it was yesterday, we had a video shows hero, Oklahoma school principal tackles gunman who was allegedly inspired by Columbine massacre. Okay? Can we show the show show the clip a little bit?
+- **[28:57](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=1737s) · 他描述所见**：I have nothing to hide from nobody. I tell you and I tell the Lord, I said, "I'm bold as a lion. I'll say exactly what I see and I'll tell you what's coming next in the vision." I saw uh patriots that were like militia and they took over the Mississippi River with airboats.
+- **[56:01](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=3361s) · 本段原话**：The wages of sin is death. It leads you to hell. But Jesus paid the price for you to walk in victory over death, hell, and the grave. He whipped it all once and for all. I I It is finished. I took your sickness. I took your disease. I took your infirmities. I took poverty. He
+- **[99:21](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=5961s) · 他描述所见**：I'm not going to be all elegant in it. When I see that, I'm not tiptoeing in.
+- **[127:47](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=7667s) · 他描述所见**：a day a day a day a Buddha cube Cuba able to see Nerdus cube my Cuba baby see I'm ghost Then I'm ghost the panda and ghost the panda a panda me GHOST ME GHOST PANDA LA LA LA LA LA PANDA GHOST Ooh ooh Buddha I see the it's cold war Mhm
+- **[155:19](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=9319s) · 他进行祷告**：Mhm. It's so it's so I I we pray for our teams. We pray for our military. We pray for our men and women. We thank you, Lord, for giving President Trump the right right intel.
+
 <a id="section-01"></a>
 ## 01. 00:00–13:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Cuba、Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:01](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=61s) · 他表达判断**：is uh the Lord showed us about praying over schools, mass shootings in schools. And yesterday, or I believe it was yesterday, we had a video shows hero, Oklahoma school principal tackles gunman who was allegedly inspired by Columbine massacre. Okay? Can we show the show show the clip a little bit?
+- **[05:55](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=355s) · 他描述所见**：They're getting ready. I told you it will happen. And I said it will happen quickly. This is what the Lord said. The Lord said, "Watch Cuba. Watch what happens." And I saw the leader of Cuba, he had a double.
+- **[09:47](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=587s) · 他描述所见**：Well, I know they probably have some drone radar or whatever, hopefully, that they are wise enough to have these scanners to block these things. But, I saw sabotage. Now, President Trump is in What is that? Pipeline across America.
+- **[12:56](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=776s) · 本段原话**：But it's just could be flesh. But Okay, next. Uh Yeah, he had the asteroid and then Mindani he's saying he's going to tax the rich. Okay, rare asteroid will soon be visible to the naked eye in a rare celestial event, according to astronomers. What do they see coming?
 
 ### 完整英文 Transcript
 
@@ -385,7 +403,14 @@
 <a id="section-02"></a>
 ## 02. 14:00–27:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、经济、银行与市场。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:39](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=939s) · 本段原话**：NASA program targets a 2027 moon landing at the lunar South Pole, aim to build a base, use resources like ice for fuel and water, and pave the way for future missions to Mars.
+- **[19:40](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=1180s) · 他描述所见**：They did not want crypto to have clarity. And I saw a turbulence outside the banks. And and and and Chase Manhattan Bank had a hold of it with a rock a rocket. He They were holding the rocket down and they had a lasso around it with three other banks. Bank of America, Wells Fargo, and Chase Bank.
+- **[23:11](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=1391s) · 他描述所见**：About sports, who I see winning games, championships, things like that, because I didn't realize how many of you all would try to gamble and do things that you do. And you tell me, I did this, I did I'm like, my god, what why would you do that?
+- **[26:30](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=1590s) · 他描述所见**：That's all I'm going to say. I saw uh uh um Vice President J.D. Vance become president. I saw uh Rubio become vice president.
 
 ### 完整英文 Transcript
 
@@ -756,7 +781,14 @@
 <a id="section-03"></a>
 ## 03. 28:00–41:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：Texas、Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:57](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=1737s) · 他描述所见**：I have nothing to hide from nobody. I tell you and I tell the Lord, I said, "I'm bold as a lion. I'll say exactly what I see and I'll tell you what's coming next in the vision." I saw uh patriots that were like militia and they took over the Mississippi River with airboats.
+- **[31:59](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=1919s) · 他描述所见**：You show them? Okay, I'm moving on. And I saw checkpoints. I saw uh it was it was it was like a police state, but it was not police state. It was the local law enforcement sheriffs department who had jurisdiction over the whole area were co-ing and and were working beside military op people
+- **[35:40](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=2140s) · 他描述所见**：I believe we can protect President Trump. I believe the Lord said to carry him across the finish line, but I see some kind of an event from another country.
+- **[37:53](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=2273s) · 他描述所见**：Because it's literal hell on Earth. So, the things I see, I try to pinpoint is this something we can stop? Is this something that is is bound to happen?
 
 ### 完整英文 Transcript
 
@@ -1117,7 +1149,14 @@
 <a id="section-04"></a>
 ## 04. 42:00–55:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：California。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:08](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=2708s) · 他描述所见**：You spoke you you anti-Semitic non-Christian man, you. I said, "I love the Jews more than you ever know. It had nothing to do with it. I ain't talking trash about in nobody bad. I'm trying to warn you what I'm hearing in the spirit that Bibi is that I saw him be taken out
+- **[49:49](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=2989s) · 他描述所见**：I saw shaking. And we all said, "Pray for Pray for President Trump. Pray for his kids. Pray for his family."
+- **[51:36](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=3096s) · 本段原话**：they're wanting to give you a $10,000 fine, and Elon Musk is talking about it cuz Nick Searcy's trying his best to expose it. I said, "Why is the Republicans not doing this?" Cuz there's corruption on the Republicans. There's corrupt Republicans on the on the blue on the Democrats. They're both bad.
+- **[54:27](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=3267s) · 他描述所见**：I He allowed me to watch it. I saw them with the cat of nine tails ripping his flesh off his body, and I saw the the agony on his face as it was being just ripped off of him. I could see his bones. I could see it. And he allowed me to watch the whole thing.
 
 ### 完整英文 Transcript
 
@@ -1466,7 +1505,14 @@
 <a id="section-05"></a>
 ## 05. 56:00–69:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[56:01](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=3361s) · 本段原话**：The wages of sin is death. It leads you to hell. But Jesus paid the price for you to walk in victory over death, hell, and the grave. He whipped it all once and for all. I I It is finished. I took your sickness. I took your disease. I took your infirmities. I took poverty. He
+- **[59:10](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=3550s) · 本段原话**：But we don't ever question I'm saved. I'm going to heaven. If I die tonight, even if I drop a bad word when I get off this broadcast and you I'M STILL SAVED, BUT SIN IS THE but sin separates, you understand? But it's only by him. He saved it all.
+- **[63:58](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=3838s) · 本段原话**：I'll agree with you. But if that's if I'm talking to you right now, I want you to put in the comment section, "Brandon, that's me. I want to be saved." And I'm just going to say a simple prayer for you right now, and then after that we're going to get right into taking communion and praying,
+- **[68:06](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=4086s) · 他转述所听到的话**：Yep, Braden keeps tally. So, we're believing with all our heart that it will go into the tens of thousands here pretty quick. When major prophetic events will start to take place and the Lord said that that that this will be a place of an oasis for people to come and drink in the days
 
 ### 完整英文 Transcript
 
@@ -1843,7 +1889,14 @@
 <a id="section-06"></a>
 ## 06. 70:00–83:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、特朗普与白宫。 提到的地点：France、Canada、Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[70:17](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=4217s) · 他表达判断**：disease or Alzheimer's, dementia, uh blood diseases, whatever it may be. I believe that there's an expiration date tonight, starting tonight, of this is the turnaround for what you've been believing for. I believe that tonight is the night of for your breakthrough. I speak healing and wholeness and wellness. We pray healing and wholeness
+- **[73:01](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=4381s) · 本段原话**：That his uh his eyes are lifted towards you, and they're not looking toward himself. That Father, that he takes no counsel from the ungodly. That he has a road to Damascus experience, and the body of Christ does not idolize any man.
+- **[75:50](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=4550s) · 他进行祷告**：And that, Father, that there will be good, godly people rise up in position like we pray for Mark Mike Lindell. We pray for Mike Lindell to win by a landslide. I thank you, Father, that Mike Lindell is blessed. That he will win Minnesota and we have other people that are running for office that are
+- **[80:34](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=4834s) · 他进行祷告**：I I don't want to call them ladies and and Gabriel or whatever. I I I can I She I just felt in my heart to pray over France election. I know it's in 2027. Is it her? Uh-huh.
 
 ### 完整英文 Transcript
 
@@ -2188,7 +2241,14 @@
 <a id="section-07"></a>
 ## 07. 84:00–97:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[84:48](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=5088s) · 本段原话**：will not touch it. You you will we will not have plots and plan every plot, every plan that is across this land to kill, steal, and destroy from Coachella to uh high school shooting like we had it there that was disrupted. We thank you, Lord, that the every plot, every plan, every pursue across this land is brought to
+- **[87:22](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=5242s) · 他表达判断**：We pray for every person that's here tonight. Father, for everything they're believing for in their finances, for jobs and better jobs. It's like one man said, [clears throat] "Brother, I'm believing for a new job." I believe, Father, for supernatural jobs, favor to get those jobs.
+- **[94:34](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=5674s) · 他描述所见**：But I see you're so hesitant. And you're at that water's edge.
+- **[97:01](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=5821s) · 本段原话**：He And And that's not with the way I I remember it. He restoreth my soul when I was weary. He giveth me strength day by day. He leads me beside the still waters. He guards me each step of the way.
 
 ### 完整英文 Transcript
 
@@ -2459,7 +2519,14 @@
 <a id="section-08"></a>
 ## 08. 98:00–111:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 提到的地点：Canada、Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[99:21](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=5961s) · 他描述所见**：I'm not going to be all elegant in it. When I see that, I'm not tiptoeing in.
+- **[101:33](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=6093s) · 本段原话**：On a rope swing. What however it has to be. I'm going on a rope swing. I'm going to do whatever I can to get in the middle of that river. Whatever it takes, I want to flow with the river of the Holy Ghost.
+- **[107:27](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=6447s) · 本段原话**：All our transit in the subway system, we call it come against the attacks against our transit systems, against our oil wells, against our infrastructure, against mass shootings. We come against it in the name of Jesus. All kinds of massive mass attacks, we say in the name of Jesus, "The thief, you've been found.
+- **[110:29](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=6629s) · 本段原话**：Only believe. Only believe, huh? Isn't that amazing to think that? I Jesus said to her, I am the resurrection and life. He that believeth in me, though he were dead, yet shall he live. And whosoever lives and believes in me shall never die.
 
 ### 完整英文 Transcript
 
@@ -2753,7 +2820,14 @@
 <a id="section-09"></a>
 ## 09. 112:00–125:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[112:43](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=6763s) · 本段原话**：And the Lord wants you to have be flowing. What good is a good constipated Christian that's full of just dryness, and you and you can't have no They They can't even find your vein at the doctor's office cuz you're so dehydrated. You're at the Holy Ghost doctor, and he's saying, "You need a drink."
+- **[114:54](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=6894s) · 他表达判断**：Drink from the well. You got to do it by faith. I receive spiritual hydration tonight. How? Jesus said unto her, "I am the resurrection and the life. He that believes in me, though he were dead, spiritually, physically, it don't matter, yet shall he live. I believe.
+- **[120:02](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=7202s) · 他描述所见**：Trump, I see the decisions, major decision concerning Cuba. I see these I see these May I should I say uh I I must I see people at a table.
+- **[122:28](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=7348s) · 他描述所见**：They look like um they look like thick bronze this like almost like rock, but it's a bronze color. And I see a man in the center of a hand with a suit on with black hair.
 
 ### 完整英文 Transcript
 
@@ -2958,7 +3032,14 @@
 <a id="section-10"></a>
 ## 10. 126:00–139:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：Russia、Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[127:47](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=7667s) · 他描述所见**：a day a day a day a Buddha cube Cuba able to see Nerdus cube my Cuba baby see I'm ghost Then I'm ghost the panda and ghost the panda a panda me GHOST ME GHOST PANDA LA LA LA LA LA PANDA GHOST Ooh ooh Buddha I see the it's cold war Mhm
+- **[133:02](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=7982s) · 他描述所见**：They're sniffing it. I hear that I I see a big nose.
+- **[134:53](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=8093s) · 他描述所见**：[sighs] There's there's canisters. I see these canisters with uh chemical warfare. It's like a It's It's lab.
+- **[137:32](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=8252s) · 他描述所见**：They'll find it nowhere. And as I see it go like like a mushroom cloud.
 
 ### 完整英文 Transcript
 
@@ -3173,7 +3254,14 @@
 <a id="section-11"></a>
 ## 11. 140:00–153:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[141:30](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=8490s) · 他描述所见**：I see Miami. Yesta. Ondada. Through mules. Mules. Mister sure sure para. That's what that container remember the the the dragon?
+- **[144:07](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=8647s) · 他描述所见**：And I see we have a like a radar on it. And they have a radar on this boat that sonar it's like a it's like a a thing turning and they're they're and it's it's trolling all on our water's edge all going down all the way through the islands all through Key West and I see a
+- **[150:39](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=9039s) · 本段原话**：e pa e papa e papa manes manes pa potupis e paputa pafatupis e sossa sissa sissa nene e sossa sissa sissa nene papa rane parane parane parane o remiss the old remiss paranica popo vonamente paranica popo papa rane por renica stay
+- **[152:31](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=9151s) · 他描述所见**：It's caused these boils. And I see what they this this this bio like this like biological it's like a it causes boils and there's there's there's a center of it that looks like a like when you like a matchstick when you get um uh uh an infect like almost like smallpox like um
 
 ### 完整英文 Transcript
 
@@ -3460,7 +3548,14 @@
 <a id="section-12"></a>
 ## 12. 154:00–163:25 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、特朗普与白宫。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[155:19](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=9319s) · 他进行祷告**：Mhm. It's so it's so I I we pray for our teams. We pray for our military. We pray for our men and women. We thank you, Lord, for giving President Trump the right right intel.
+- **[158:59](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=9539s) · 他描述所见**：Many many 9/11s. I see a I see a I see this something trying happen.
+- **[159:59](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=9599s) · 他描述所见**：I see I see sniffers there, too. Sniffers. But it's different. It's like it's on the poles.
+- **[161:14](https://www.youtube.com/watch?v=Xst5KJVjDeY&t=9674s) · 他描述所见**：Do you remember I told you what they looked like before? I saw a woman and I saw I saw them two men.
 
 ### 完整英文 Transcript
 

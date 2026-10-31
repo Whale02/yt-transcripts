@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 606；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
 - [07. 24:00–27:02 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=0s) · 本段原话**：well I had something else I wanted to tell you all um you know I I've been praying about I told you all about two or three videos ago that I was trying to do the AI to uh translate the language to go and and do videos uh for uh other other countries you know like Russia and
+- **[05:17](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=317s) · 他描述所见**：vision I believe it was a vision um this was one of the most serious Visions I'd had uh in that I ever remember you know I'm just saying and back then whenever I gave the word it it seems so out there like how is this going to take place this was nine months ago it's like last summer like
+- **[08:02](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=482s) · 他描述所见**：switched over to Children vomiting profusely and they were all very sick and I could see them uh uh like the span of time I could see the mothers were trying to comfort the children and they were bent over throwing up also and I saw the fathers try was was com consuling the mother and he was vomiting
+- **[16:23](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=983s) · 他进行祷告**：look at where the state of America is with all the things that are transpiring right now I just want people to be guarded and and and listen to the voice of the Lord pray without ceasing seek his face daily like I said and if you feel in your heart to go and buy water for your family then
+- **[20:19](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=1219s) · 他表达判断**：of God we serve that you protect our our our our coming and our going our everything you've got it your angels bear us up in their hands lest we Dash our foot against the stone and I believe with all my heart father that you said in your word that we have authority and
+- **[24:42](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=1482s) · 他进行祷告**：not matter how big they think it may be or how small it is Jesus Paid the price for them to walk in Victory and I thank you Lord for your healing over their bodies I call them healed and whole and well and creative Miracles even if they need new body parts like Joyce is always
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=0s) · 本段原话**：well I had something else I wanted to tell you all um you know I I've been praying about I told you all about two or three videos ago that I was trying to do the AI to uh translate the language to go and and do videos uh for uh other other countries you know like Russia and
+- **[01:27](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=87s) · 他表达判断**：one and everything and it and so long story short you know uh we're going to start out with um the Russian Channel first and it's I think it's like going to be about five grand to do the Russian Channel and then we're going to do another the the Spanish Channel and it's another five grand so you know as the
+- **[02:38](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=158s) · 本段原话**：so if we can reach them through a short or if we could reach them through a YouTube video and they give their heart to Jesus then we did our job I want I want he said if you preach the gospel throughout the whole world and then the end will come telling them the truth we
+- **[03:33](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=213s) · 本段原话**：make money off of me and I and I just don't I don't trust it I just felt a caution a lot talking to and and I appreciate you know and it's not saying every one of you that's reached out to me had an bad bad motive but there was a I had a lot of emails and so just
 
 ### 完整英文 Transcript
 
@@ -130,7 +148,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:17](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=317s) · 他描述所见**：vision I believe it was a vision um this was one of the most serious Visions I'd had uh in that I ever remember you know I'm just saying and back then whenever I gave the word it it seems so out there like how is this going to take place this was nine months ago it's like last summer like
+- **[06:05](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=365s) · 他描述所见**：first big warning visions that I came on here and warned you all about so this was I saw uh men that were Middle Eastern they look like Al-Qaeda they had Al-Qaeda outfit like white um things on their head with these you know cuz alqaeda always had white outfits on Isis had black and so uh and so that's
+- **[06:52](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=412s) · 他描述所见**：so they came across the border and I I seen them come up to a water facility and they had a vial of this stuff in their hand and I saw them take out that vial and they had a measuring thing and they measured it and they poured it into the drinking water and I remember there
+- **[07:16](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=436s) · 他描述所见**：was a massive fence it looked like a chain link fence that was that had Bob wire all at the top and it had right like warnings on the uh gate not to enter in this is private property you know you're not able to go in there and I saw these men break into this facility
 
 ### 完整英文 Transcript
 
@@ -220,7 +245,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 物资、能源与供应链、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:02](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=482s) · 他描述所见**：switched over to Children vomiting profusely and they were all very sick and I could see them uh uh like the span of time I could see the mothers were trying to comfort the children and they were bent over throwing up also and I saw the fathers try was was com consuling the mother and he was vomiting
+- **[08:32](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=512s) · 他描述所见**：the children passed away first then the mothers and then the fathers the bigger you were it seemed like it didn't um it didn't affect you as quickly as it did the children does that me okay and so then I was shown a uh a map I saw Atlanta Georgia I saw Alabama then I saw
+- **[09:00](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=540s) · 他描述所见**：Mississippi and then I saw uh uh uh Louisiana and then it went down to Houston area and all of this area was was everybody was freaking out because the people I don't know and like I said this is this is this is like four or 500 miles worth of of land here more or more
+- **[11:19](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=679s) · 本段原话**：understand why people were dying of thirsts I'm be real with you all now whenever I'm thinking about it because they could have maybe gotten the car and drove somewhere away way way away to get some water but they were they weren't in the in the the thing the Lord showed me people homeless people people like that
 
 ### 完整英文 Transcript
 
@@ -312,7 +344,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=721s) · 他描述所见**：well was was okay but the people who had had City water was in trouble and so and there was not enough water so people were bringing in water from everywhere I could see it okay so uh then there were so many people that had perished and went home uh that I saw white bags that
+- **[12:23](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=743s) · 他描述所见**：look like massive trash bags and they were zipping the bags up of course I saw it was like they had they had hazmat suits on these people were that were working I probably was FEMA or somebody I don't know zipping the people up and putting them inside the the bags and and they
+- **[13:49](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=829s) · 他描述所见**：marble it was beautiful Eagle looking thing with and it had uh the uh Memorial writing it had like a huge plaque and you could I could see it in the vision but I could see you know they made it into a memorial area and and I believe this was in um I want to say it was in Alabama but
+- **[15:37](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=937s) · 本段原话**：New Madrid fault and the things that I've seen the EMP attack if anybody hasn't seen that video I I made about an EMP attack you know I I'm able to talk a lot better now that I that I'm getting used to talking to the camera when I first started it was really hard for me
 
 ### 完整英文 Transcript
 
@@ -408,7 +447,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:23](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=983s) · 他进行祷告**：look at where the state of America is with all the things that are transpiring right now I just want people to be guarded and and and listen to the voice of the Lord pray without ceasing seek his face daily like I said and if you feel in your heart to go and buy water for your family then
+- **[17:22](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=1042s) · 他描述所见**：the Lord told me said pray over this this is a plot from the enemy and I told you about the the George Soros and these people over there I saw bad men over in Europe having a meeting with the devil and I I try to I I see this stuff y'all and I'm telling you I see I see a lot of
+- **[17:39](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=1059s) · 他表达判断**：stuff the Lord warn me and and tell me we can stop this stuff through prayer that but I but I'm bringing up a prayer force that I that I believe I have a lot of intercessory prayer people that follow me and listen to this channel that know how to pray that know how to
+- **[19:07](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=1147s) · 他表达判断**：but to be be be vigilant for we know the adversary the adversary roams the Earth like a roaring lion seeking whom he may devour and I believe he's not going to devour us we we we're not going to allow him to devour devour our families because we are uh King's kids and Jesus lives on the
 
 ### 完整英文 Transcript
 
@@ -513,7 +559,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:19](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=1219s) · 他表达判断**：of God we serve that you protect our our our our coming and our going our everything you've got it your angels bear us up in their hands lest we Dash our foot against the stone and I believe with all my heart father that you said in your word that we have authority and
+- **[21:47](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=1307s) · 本段原话**：be in fear we're not going to be in worry we're not going to be all stressed out and oh no what do we got to do now no no no no no we're at peace because you said you have perfect perfect peace whose mind is stayed on thee because we trusteth in you father we trust you we
+- **[22:27](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=1347s) · 本段原话**：concerning us father we just give you praise and glory and honor for that father that just takes a load off our shoulders knowing that you've got every bill paid you've got our car payments paid you got our water our electric you've got our house you've got it all you have a cattle on a
+- **[23:30](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=1410s) · 他进行祷告**：in hell that's tried to block that person from getting born again you are bound in the name of Jesus now you get out of there and leave them alone we call their children saved they we call their children filled with the Holy Ghost their spouses filled the Holy Ghost and we thank you Lord we thank you
 
 ### 完整英文 Transcript
 
@@ -614,7 +667,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:02 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:42](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=1482s) · 他进行祷告**：not matter how big they think it may be or how small it is Jesus Paid the price for them to walk in Victory and I thank you Lord for your healing over their bodies I call them healed and whole and well and creative Miracles even if they need new body parts like Joyce is always
+- **[26:12](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=1572s) · 本段原话**：I did that thing about the temple and I was telling everybody that and then YouTube didn't like what I said and they muted me when I was talking so I had to end it so that was very annoying I I shouldn't have brought up the plague it was my it was my should have done all a
+- **[26:29](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=1589s) · 本段原话**：live thing it was my deal I I should have thought that through but this only second time I've ever been live before but I was like whatever you know the world but um hopefully that video blessed you I'm sorry I cut it short but uh I just want to say thank you all God
+- **[26:45](https://www.youtube.com/watch?v=Krc12KEHNKQ&t=1605s) · 本段原话**：bless you all and I hope this video blessed you all today uh kind of prepare you to to to look be on Lookout of things but put a smile on your face and a song in your heart Jesus love loves you so much and we love you God bless you all and we'll see you next time have
 
 ### 完整英文 Transcript
 

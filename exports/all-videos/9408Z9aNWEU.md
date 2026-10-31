@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1130；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 50:00–54:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 55:00–56:10 · 教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=9408Z9aNWEU&t=0s) · 本段原话**：hey good morning family well praise the Lord I I have some things on my heart but I you know I want to talk about what I what I because the video I talked about it and then I started praying and the Lord showed me the attacks on those uh three cities and when I kept praying
+- **[10:01](https://www.youtube.com/watch?v=9408Z9aNWEU&t=601s) · 本段原话**：but it takes people being a Watchman on the wall just like I just read you to stand in the gap for the land and say Satan thus far and no further you are not going to keep R running through here and causing Havoc anymore that we have authority over you over all your devices
+- **[20:55](https://www.youtube.com/watch?v=9408Z9aNWEU&t=1255s) · 本段原话**：Calvary and you shed that blood for us for our sins sin and I cover our sins in the blood and I thank you Father you said it in your word father and if we confess our sins you're faithful and Justus forgive us of our sins and cleanse us from all unrighteousness so I
+- **[35:27](https://www.youtube.com/watch?v=9408Z9aNWEU&t=2127s) · 本段原话**：everything everybody everyone that's believing father we're all believing God there's so many of us that are believing you father and we're not begging we're not going oh God please oh God please we we're saying God we thank you we believe father we receive We believe We call those things that be not as though they
+- **[45:04](https://www.youtube.com/watch?v=9408Z9aNWEU&t=2704s) · 他进行祷告**：the father that we rise up on that Watchman on the wall and you found people that will stand with you today Lord we take our seats in our rightful place of authority and we thank you Lord that the devil is under our feet in the name of Jesus and we thank you for sweet restful rest and
+- **[55:00](https://www.youtube.com/watch?v=9408Z9aNWEU&t=3300s) · 本段原话**：that is to the kingdom of darkness you imagine a million people praying every day together just like bam it's like knocking him in the teeth man that is it's funny I was like you didn't want to do that did you Dev he was like you he's like get out of here it's like as he flees in
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、物资、能源与供应链。 提到的地点：New Orleans、Las Vegas。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=9408Z9aNWEU&t=0s) · 本段原话**：hey good morning family well praise the Lord I I have some things on my heart but I you know I want to talk about what I what I because the video I talked about it and then I started praying and the Lord showed me the attacks on those uh three cities and when I kept praying
+- **[00:18](https://www.youtube.com/watch?v=9408Z9aNWEU&t=18s) · 他描述所见**：over he said there is more but I will reveal this to you uh as you pray and as we pray together so he gave me a little piece of a puzzle yesterday and so I um this is serious you know and a lot of people I saw that people clicked out at 11 minutes you didn't even hear where
+- **[01:31](https://www.youtube.com/watch?v=9408Z9aNWEU&t=91s) · 他描述所见**：something there and then I saw a a major event taking place in Nashville then I saw in Las Vegas and what I thought was really interesting was it was all um uh Middle Eastern men Middle Eastern men uh like uh terrorist Al-Qaeda stuff you know like what do it be Isis there that's who it was but like those kind of
+- **[03:30](https://www.youtube.com/watch?v=9408Z9aNWEU&t=210s) · 他描述所见**：the Visions was like those bar lights you know like on the signs and the windows so I in in the vision people were uh being hurt in those Visions from Mash po house um in those areas um because of the bars and I was like seeing honky talk dancing and stuff and then I seen people in Las Vegas on the
 
 ### 完整英文 Transcript
 
@@ -147,7 +165,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:00](https://www.youtube.com/watch?v=9408Z9aNWEU&t=300s) · 本段原话**：this and he showed me the people behind the tables filling in the things and and being promised to have um they said I'll give you syum and so syum is is uh the definition of it is basically saying that they be Sovereign uh citizens of the United States of America we I give
+- **[05:55](https://www.youtube.com/watch?v=9408Z9aNWEU&t=355s) · 他表达判断**：committed robbery they have wronged the poor and the the needy and they have oppressed The Stranger without Justice I searched this is what I think is interesting this is verse 30 I have searched for a man among them who would build up the wall a Watchman on the wall so you're looking at a Watchman all like
+- **[07:56](https://www.youtube.com/watch?v=9408Z9aNWEU&t=476s) · 本段原话**：Mexico and wrapping around this nation and P p and tight trying to suffocate it he asked that when that Antichrist Spirit was coming from the East and it was coming to try to take over the land with that great storm that I have seen coming who will intercede just like here wow thank God for Ezekiel 20
+- **[09:18](https://www.youtube.com/watch?v=9408Z9aNWEU&t=558s) · 他进行祷告**：intercede for the the the the lost to intercede for the people who are going to get hurt that don't hear him to pray it's like he said the oppressed and all the people but I I was going to judge the city but I was looking for somebody that would he didn't want to he was
 
 ### 完整英文 Transcript
 
@@ -268,7 +293,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:01](https://www.youtube.com/watch?v=9408Z9aNWEU&t=601s) · 本段原话**：but it takes people being a Watchman on the wall just like I just read you to stand in the gap for the land and say Satan thus far and no further you are not going to keep R running through here and causing Havoc anymore that we have authority over you over all your devices
+- **[11:55](https://www.youtube.com/watch?v=9408Z9aNWEU&t=715s) · 本段原话**：us that there will be one last call one one last push and a one last Harvest a major Harvest of Souls and I've told you all what what I seen coming the storms and we can't stop some of this stuff folks there's going to be some things happening you say well like I said
+- **[13:32](https://www.youtube.com/watch?v=9408Z9aNWEU&t=812s) · 他表达判断**：raised up and they're going to in and they're in heaven but I believe it's that's not God's per purpose is what this is not God this is the devil this is a demonic attack this is demonic and we will not have those laws laws that people and our government would rise up and do Godly things that's why we need
+- **[14:32](https://www.youtube.com/watch?v=9408Z9aNWEU&t=872s) · 本段原话**：Lord freedom of religion CU if they can oppress one thing they'll start to oppress the other it's not them folks it's the Devils behind them we wrestle not against flesh and blood but we wrestle against principalities and powers and what the Bible says in Ephesians all spiritual wickedness in high places rulers over
 
 ### 完整英文 Transcript
 
@@ -394,7 +426,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:01](https://www.youtube.com/watch?v=9408Z9aNWEU&t=901s) · 本段原话**：we're wrestling against what they yield to and they yield to demonic spirits because the devil promises just like he came to me and he said if you bow your knee to me and you serve me Brandon I'll give you anything you've ever one he painted me painted all the wealth of the world before me if he said if I
+- **[16:35](https://www.youtube.com/watch?v=9408Z9aNWEU&t=995s) · 他描述所见**：uh somehow I don't know how it all happens but I I've seen it maybe I shouldn't say some things I see but um but I want to say this he knows the devil knows and you don't think he goes and tries to tell those politician those politicians take the bait some of them and he makes them have
+- **[17:59](https://www.youtube.com/watch?v=9408Z9aNWEU&t=1079s) · 本段原话**：power and the wealth now they have to perform kill babies do the things I have to tell you to do make bad laws do the things I and they and they're they're bound they need Jesus they need set free what boy this turned this turned deep fast well I'm going to just go
+- **[19:05](https://www.youtube.com/watch?v=9408Z9aNWEU&t=1145s) · 他进行祷告**：it's that because a lot of times in my mind when I'm trying to pray in English I don't know even how to pray for certain things but my spirit speaks forth a perfect prayer before the father and and and my spirit knows what to pray so I'm going to go and that's what we're
 
 ### 完整英文 Transcript
 
@@ -525,7 +564,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:55](https://www.youtube.com/watch?v=9408Z9aNWEU&t=1255s) · 本段原话**：Calvary and you shed that blood for us for our sins sin and I cover our sins in the blood and I thank you Father you said it in your word father and if we confess our sins you're faithful and Justus forgive us of our sins and cleanse us from all unrighteousness so I
+- **[23:05](https://www.youtube.com/watch?v=9408Z9aNWEU&t=1385s) · 他进行祷告**：come to you next time I say one more time but Lord I Thank you I need your help Lord if there's anything the devil has plotted or planned expose it right now and show us how to what we should do what you want us to pray to come against it I thank you Father there's a Mighty
+- **[23:58](https://www.youtube.com/watch?v=9408Z9aNWEU&t=1438s) · 他描述所见**：you I saw a big Harvest of you will come out of Asia s Korea I saw a great Army coming out of Soul Korea to pray a great harvest of people not that they're they need to get B no I'm talking about people who will intercede and stand in the gap for the
+- **[24:36](https://www.youtube.com/watch?v=9408Z9aNWEU&t=1476s) · 本段原话**：to intercede and there's going to be a turnaround in China there's going to be a turnaround in Asia there's going to be a turnaround in so in South Korea there will be a turnaround in Japan and Vietnam and the Philippines there will be a turnaround in this areas and a great harvest is coming to your
 
 ### 完整英文 Transcript
 
@@ -641,7 +687,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:02](https://www.youtube.com/watch?v=9408Z9aNWEU&t=1502s) · 本段原话**：Asian people and we will see these great men and women of God come to the saving knowledge of the Lord Jesus Christ these people are coming home they've been bound by so many foreign Bad Religion from Buddha to all these things false religions and we will see them as as Born Again Believers in Jesus
+- **[25:28](https://www.youtube.com/watch?v=9408Z9aNWEU&t=1528s) · 本段原话**：Jesus name Satan has taking his hands off of them and we will have that ra that that race of people we will have it in Africa we will have this in Europe we will have this in the Middle East and there will be a move of God like this world has never seen before all for the
+- **[27:52](https://www.youtube.com/watch?v=9408Z9aNWEU&t=1672s) · 他进行祷告**：little cells of people and apartments or wherever father I thank you Lord that they are exposed in Jesus name that law enforcement will find them the law enforcement father would catch a lead that somebody would snitch somebody would say something a neighbor somebody would catch something and they would say there's unusual activity
+- **[29:26](https://www.youtube.com/watch?v=9408Z9aNWEU&t=1766s) · 他进行祷告**：la [Music] we pray over Ted Cruz we pray over this uh Senate race we say in the name of Jesus there is a turnaround there's a turnaround there's a turnaround a turnaround right now in the name of Jesus concerning this Republican race we say it will not go blue but it will go
 
 ### 完整英文 Transcript
 
@@ -716,7 +769,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:23](https://www.youtube.com/watch?v=9408Z9aNWEU&t=1823s) · 他进行祷告**：people have a heart towards The Unborn that they would have a heart toward toward the Lost father that you would raise up people and you would show them that it's called they're called to the kingdom for such a time as this to take the voting serious Lord father I thank you Lord that all
+- **[31:05](https://www.youtube.com/watch?v=9408Z9aNWEU&t=1865s) · 他进行祷告**：Washington and father we thank you Lord for Idaho and and father Montana all the the the mountain states father we call forth a great great turnaround even over Alaska father we thank you Lord that there will not be any corruption even in Alaska father on the bordering states father we thank you Lord Lord we thank you Father
+- **[31:50](https://www.youtube.com/watch?v=9408Z9aNWEU&t=1910s) · 本段原话**：to change we're calling in change right now in the name of Jesus even concerning Minnesota we say Minnesota you will rise up and the Believers will rise up and we will have a blue uh crushing and a red wave We Believe father in the name of Jesus there will be a Blue Wave that's
+- **[33:41](https://www.youtube.com/watch?v=9408Z9aNWEU&t=2021s) · 本段原话**：of the ungodliness enough of the unrighteousness enough enough is enough enough is enough even with the incompetence that we've had but Godly or not godly father in the incompetence has been horrendous even with the Afghanistan debacco and all the things that we have seen in the last four years all these horrendous things father even
 
 ### 完整英文 Transcript
 
@@ -834,7 +894,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:27](https://www.youtube.com/watch?v=9408Z9aNWEU&t=2127s) · 本段原话**：everything everybody everyone that's believing father we're all believing God there's so many of us that are believing you father and we're not begging we're not going oh God please oh God please we we're saying God we thank you we believe father we receive We believe We call those things that be not as though they
+- **[36:08](https://www.youtube.com/watch?v=9408Z9aNWEU&t=2168s) · 他进行祷告**：pray father for the for the righteous to rise up and that father that we have more than enough that father that we're not going to be the the a light in the in the darkness unless we have the salt and we and we to put on the the garments of of what you've told us to do in your
+- **[36:47](https://www.youtube.com/watch?v=9408Z9aNWEU&t=2207s) · 本段原话**：Revival in schools father in the colleges and in the in in the high schools around the middle schools father there would be a major move of your presence and fire in the altars back in America again with the churches that people would preach repentance and Holiness and they would get away from a Seeker lukewarm gospel
+- **[39:00](https://www.youtube.com/watch?v=9408Z9aNWEU&t=2340s) · 他进行祷告**：this when you show me they will go to the World Series clear back at the first of the year he said this we have to pray over the Yankees and tomorrow is the game tomorrow Tuesday and Wednesday we pray protection over the Yankee Stadium serious time Monday Tuesday Wednesday we pray over the Yankee Stadium
 
 ### 完整英文 Transcript
 
@@ -953,7 +1020,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:01](https://www.youtube.com/watch?v=9408Z9aNWEU&t=2401s) · 本段原话**：you Father the law enforcement and the people would be ready and that they would be watchful because it's even a high-profile game that there will be no terrorist activity about the terrorist about uh Yankees I thank you Father that you protect every player that you protect every person bystandard in the in the
+- **[41:53](https://www.youtube.com/watch?v=9408Z9aNWEU&t=2513s) · 他进行祷告**：Korea to be blessed and filled with controlled by the holy spirit for a great harvest of your presence will happen over South Korea father I pray over every single one of them Father they would have a fresh touch of the anointing on their lives father that they would be able to be that light in
+- **[42:10](https://www.youtube.com/watch?v=9408Z9aNWEU&t=2530s) · 他进行祷告**：the darkness Lord that you they're hungry they're so hungry father in Asia we pray forth a mighty Harvest of a of the glory the major move of your presence father that when they lay hands on the sick they will recover in the name of Jesus and that people father that are wward would come
+- **[43:06](https://www.youtube.com/watch?v=9408Z9aNWEU&t=2586s) · 他进行祷告**：Christians would rise up and do what they're called to do father I thank you Lord that the persecution comes from your word's sake but God I thank you that you protect our brothers and sisters over there father that you give them wisdom on a better way to witness a better way to rise up and be more like
 
 ### 完整英文 Transcript
 
@@ -1056,7 +1130,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:04](https://www.youtube.com/watch?v=9408Z9aNWEU&t=2704s) · 他进行祷告**：the father that we rise up on that Watchman on the wall and you found people that will stand with you today Lord we take our seats in our rightful place of authority and we thank you Lord that the devil is under our feet in the name of Jesus and we thank you for sweet restful rest and
+- **[45:47](https://www.youtube.com/watch?v=9408Z9aNWEU&t=2747s) · 他进行祷告**：whatever until the year is over and father I thank you Lord we're almost there and that we finish 2024 strong father we take the land even more in 2024 we're almost there 2024 is almost over and father we finish 2024 With Victory not shrinking back but pressing forward to what God has for us pressing
+- **[46:16](https://www.youtube.com/watch?v=9408Z9aNWEU&t=2776s) · 他进行祷告**：onward and forward in the name of Jesus believing for more in 2024 We Believe for more in 2024 and I thank you Father we thank you we're expecting this is this is we still have time we they have time they have days left basically a month and a week father we thank you Lord I mean two
+- **[47:36](https://www.youtube.com/watch?v=9408Z9aNWEU&t=2856s) · 本段原话**：have these places we call forth peace over so Korea father thank you Father out
 
 ### 完整英文 Transcript
 
@@ -1125,7 +1206,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–54:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[51:05](https://www.youtube.com/watch?v=9408Z9aNWEU&t=3065s) · 他表达判断**：amen well I appreciate y'all praying with me today if you're here I believe that Jesus the Healer he's the same yesterday today and forever and he's the Healer like he was 2,000 years ago just right today if you just believe it and I believe that he is coming back again very soon for us but if you've you're
+- **[52:08](https://www.youtube.com/watch?v=9408Z9aNWEU&t=3128s) · 本段原话**：phone numbers out I don't give my personal phone number out ever to nobody on here never so do not fall victim to that somebody private messaging you saying hey call me oh whatever I'm never going to call you okay just know that not even by the if the Lord Lord would have to I mean seriously tell me that
+- **[52:28](https://www.youtube.com/watch?v=9408Z9aNWEU&t=3148s) · 本段原话**：but but the Lord's not going to tell me that that's why I'm trying to tell youall okay don't don't I'm not going to call you on the phone and give you a prophetic word so this guy's lying to you it's not me is what I'm trying to tell y'all and because they're trying to
+- **[54:11](https://www.youtube.com/watch?v=9408Z9aNWEU&t=3251s) · 他进行祷告**：we pray Dian and I pray for you and she when we're reading and I pray for you we intercede for your finances for all of y'all for God to do something big in your life because I want to hear it testimonies that hey I've been watching you and the Lord did this you've helped
 
 ### 完整英文 Transcript
 
@@ -1239,7 +1327,14 @@
 <a id="section-12"></a>
 ## 12. 55:00–56:10 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[55:00](https://www.youtube.com/watch?v=9408Z9aNWEU&t=3300s) · 本段原话**：that is to the kingdom of darkness you imagine a million people praying every day together just like bam it's like knocking him in the teeth man that is it's funny I was like you didn't want to do that did you Dev he was like you he's like get out of here it's like as he flees in
+- **[55:22](https://www.youtube.com/watch?v=9408Z9aNWEU&t=3322s) · 本段原话**：Terror submit their self For unto God resist the devil and he will flee as in Terror yeah wouldn't that be cool that's cool well we're still doing it even with with 40 40 50,000 30 I don't know whatever uh it it's still a lot and it's and I'm sure he still gets scared he's
+- **[55:42](https://www.youtube.com/watch?v=9408Z9aNWEU&t=3342s) · 本段原话**：is he's trembling in his old uh boots whatever he has I don't know stupid shoes nothing I I can't stand him he is a loser but uh but so we just put a smile on your face and a song your heart I get on these rabbit TR I say put a smile on your face
+- **[56:03](https://www.youtube.com/watch?v=9408Z9aNWEU&t=3363s) · 本段原话**：and a song in your heart Jesus loves you so much and we love you God bless you all and we will see you all tomorrow byebye
 
 ### 完整英文 Transcript
 

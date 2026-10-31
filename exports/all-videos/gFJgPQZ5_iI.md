@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 861；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 - [09. 32:00–35:38 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=0s) · 本段原话**：hey good morning family how are y'all doing today well as you can see I'm overcoming a little bit but I feel a lot better than I did last night um I I did the video last night and I had to do it over today because it was so bad so um I I told the Lord I said I'm I need to
+- **[08:02](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=482s) · 他进行祷告**：commander and chief of all things my Lord and Savior Jesus Christ has told me that my job is to pray with you for for extended period of time I may not hit every day but I will do my best to do it every single day I can't promise you that that it will be but I'm telling you
+- **[12:01](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=721s) · 他表达判断**：higher stopping our our our stupid little uh little um theology differences coming up higher with the fire that we are W in as the body of Christ and and we may not agree on everything ladies and gentlemen you won't probably agree with everything I say on this channel is that funny but I'm going to tell you I
+- **[20:00](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1200s) · 他进行祷告**：day-to-day mundane CU if you don't pray who are you anyway yep if you don't pray who are you anyway that's exactly right if you don't pray who are you anyway it's a relationship with the father praying and seeking him praying and seeking him finding a relationship with the Lord Jesus Christ on a deeper
+- **[24:36](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1476s) · 本段原话**：now apply the blood over my finances that no devil can attack the finances I lift up the finances father for you said in Malachi that you would rebuke the devour for my sake and I thank you Father that you're rebuking the devour for me today I thank you Father that I don't have to have bondage in poverty
+- **[32:00](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1920s) · 本段原话**：whisper it can be a whisper for if you're walking in the authority of the believer you don't have to yell at the Devil you can just whisper and he has to obey there's more Authority it seemed like in a whisper Lord doesn't it because you're not in the flesh I just say in the name of Jesus I bind
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、美国选举与投票。 提到的地点：Texas。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=0s) · 本段原话**：hey good morning family how are y'all doing today well as you can see I'm overcoming a little bit but I feel a lot better than I did last night um I I did the video last night and I had to do it over today because it was so bad so um I I told the Lord I said I'm I need to
+- **[01:00](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=60s) · 本段原话**：house by uh majority which I'm not I'm not real educated when it comes to politics and stuff what that means but I'm just telling you the words that he used and he said you will have the house by majority okay you will have the presidency but but the battle in the spirit realm my son is the senate for
+- **[02:50](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=170s) · 他描述所见**：then he said um that that that that these other two states were uh which was Nevada and Arizona was also in Jeopardy right and so I saw blue lines going through them and red lines and it was trying to flip either way that means it was very very close races the Lord was
+- **[03:30](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=210s) · 他描述所见**：blue and the Lord said you must intercede for Ted okay then I saw in the spirit Pennsylvania and it was trying to turn blue blue blue it was bold blue not divided but it was going to try to turn blue the Lord said you must pray for this now I don't know why he didn't say
 
 ### 完整英文 Transcript
 
@@ -119,7 +137,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:23](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=263s) · 他描述所见**：hundreds of thousands of people because it's um it's it's it's wisdom but I heard the word in this room Asylum Promises of Asylum for doing a certain task lots of people that were coming over the Border were promised a certain thing if they were uh to do something to help them and I saw tables white tables
+- **[04:50](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=290s) · 他描述所见**：and I saw Hispanic women Behind These tables and you can just think about what they're doing so I saw these white tables with metal chairs behind these white tables and I saw many uh Hispanic women Behind These tables and I saw a metal building it was like a uh container building and I saw these
+- **[05:11](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=311s) · 他转述所听到的话**：container buildings and there was like pods and there were these people inside of these pods and I was told the word Asylum okay I'm not going to say what they were doing but I will tell you you must pray for corruption you must pray for corruption okay and so um because of Asylum and then I heard for for for this
+- **[06:56](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=416s) · 本段原话**：have all branches of the government of of of the legis like uh Senate house and presidency for what I have planned for this nation to turn things around he said for it will be delayed if it if you do not it will be delayed and he said there is a war a battle a battle to be
 
 ### 完整英文 Transcript
 
@@ -211,7 +236,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:02](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=482s) · 他进行祷告**：commander and chief of all things my Lord and Savior Jesus Christ has told me that my job is to pray with you for for extended period of time I may not hit every day but I will do my best to do it every single day I can't promise you that that it will be but I'm telling you
+- **[10:05](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=605s) · 本段原话**：do is step in the river God didn't make it hard ladies and gentlemen for us to get on fire for him and get excited about what he's doing in this these last days but you can't just sit on your couch and watch watch friends and sit there and go well I'm going to grow up
+- **[10:36](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=636s) · 本段原话**：those days we're ready and pressing on to the next days and I'm going to do whatever I take if I have to travel across the country to find the meetings to Fan my flame how desperate how hungry are you and I'm that's where I'm at it's like man you get in this place of just
+- **[11:13](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=673s) · 他描述所见**：the holy ghost that I see and move of God in the service we see we see signs and wonders and f that follow them that believe people getting saved and baptized in the Holy Ghost and Fire new people and converts coming in in in like I do on this channel I my job is to tell
 
 ### 完整英文 Transcript
 
@@ -320,7 +352,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=721s) · 他表达判断**：higher stopping our our our stupid little uh little um theology differences coming up higher with the fire that we are W in as the body of Christ and and we may not agree on everything ladies and gentlemen you won't probably agree with everything I say on this channel is that funny but I'm going to tell you I
+- **[13:39](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=819s) · 他描述所见**：two years I saw an increase of being faithful with little and making me ruler over much it's taking years to get where I am today years of sewing years of giving years of of giving into right soil the Bible specifically says ladies and gentlemen there's some 30 some 60 and some 100 fold ground you have to
+- **[14:36](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=876s) · 本段原话**：because the Lord's told you because your flesh is given there be be directed by the Lord in your given be directed by him he will speak to you about all things and some people say well it's all supposed to go strictly to the church it's all supposed to be there now listen I've heard other minister say that you
+- **[15:39](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=939s) · 本段原话**：then there then those Ministries that are feeding me are going to go under because it takes money to get the gospel out ladies and gentlemen it takes money for TV time it takes money for for jet fuel they may have a private jet and they going around but they're able to go even more than what the pastor is
 
 ### 完整英文 Transcript
 
@@ -439,7 +478,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=960s) · 本段原话**：throughout the world if I could give the shirt off my back to Billy Burt he changed he the holy spirit inside of him change my life so that's where I sew my my my time and my seed it's is somebody who's imparted into me and taken the time to love on me and say listen
+- **[17:45](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1065s) · 本段原话**：time in the natural I don't have time in the natural to waste my time sewing into background do you understand I have to have 100 vold I have to have the 60 fold so so I hope that I just felt like I needed to say that today because there's some people watch my channel and
+- **[18:04](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1084s) · 本段原话**：they need to hear my heart and so um I'm into the Overflow I'm into the Overflow and abundance to the extreme to it overflows and that's what we believe with all our hearts mind soul and strength in this house that's how we've gotten where we are and so instead of getting mad check
+- **[18:44](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1124s) · 他进行祷告**：then put it on a shelf but um I'm going to pray now for this uh Senate thing and I'm going to pray for the uh for the house and we're going to pray for this and we're going to turn this around there's a mighty Army here I started looking at how many 35,00 people was and
 
 ### 完整英文 Transcript
 
@@ -552,7 +598,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1200s) · 他进行祷告**：day-to-day mundane CU if you don't pray who are you anyway yep if you don't pray who are you anyway that's exactly right if you don't pray who are you anyway it's a relationship with the father praying and seeking him praying and seeking him finding a relationship with the Lord Jesus Christ on a deeper
+- **[21:15](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1275s) · 他进行祷告**：getting if they're taking care of the Widow if they're taking care of the orphan if they're taking care of the praying for the Jews father you said that you would bless those that pray for the Jews so father we pray peace over Jerusalem today we pray peace over over over Israel and over this war in
+- **[21:32](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1292s) · 他进行祷告**：Palestine father that the Palestinians the the children and the and the the people that are innocent innocent bystander father I call forth peace and and safety over them that father that you that you're not a god of of death and destruction you're a God of life and life more abundantly and we pray over
+- **[23:11](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1391s) · 本段原话**：I'm telling you there's there's power in communion as you take it daily you become real become real with God we take the blood and we apply it my wife and I take it we we just thank him thank him for all he's done in your life be thankful for much Lord now we all take a time to thank him
 
 ### 完整英文 Transcript
 
@@ -657,7 +710,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、政党与政治人物。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:36](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1476s) · 本段原话**：now apply the blood over my finances that no devil can attack the finances I lift up the finances father for you said in Malachi that you would rebuke the devour for my sake and I thank you Father that you're rebuking the devour for me today I thank you Father that I don't have to have bondage in poverty
+- **[25:18](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1518s) · 本段原话**：be a cheerful giver but you need to be a cheerful cheerful receiver also that you receive What the Lord Has for you because he wants you to live in abundance to the full to it overflows in every area of your life every area of your life physically spiritually mentally emotionally financially all every all of it okay so
+- **[26:38](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1598s) · 他进行祷告**：you've provided for us we cover this land we cover this home in the blood of Jesus and we thank you Lord that we cover Donald Trump today I know you've appointed him for such a time as this and we cover him in the blood we cover his vice the pr vice president and ahead of time Lord we thank you Lord
+- **[27:43](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1663s) · 他进行祷告**：going to be there you know the ones that are going to be in position father we thank you Lord that Camala Harris will just go on back to San Francisco where she came from father I thank you Lord that it's time for her to retire and go on home we pray over Joe Biden father
 
 ### 完整英文 Transcript
 
@@ -764,7 +824,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:16](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1696s) · 本段原话**：the all the destruction and the the the the the the all the all the evil that they've done to this nation in the last four years that father they'll be replaced because you're going to replace them anybody body that stands against Jesus Christ father father I thank you that you remove them I thank you Father
+- **[28:33](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1713s) · 本段原话**：that you're removing the evil out of power in the name of Jesus and we're raising up Godly leaders over this nation I thank you Father that you move the corruption from America we move the corruption from Justin Trudeau and and over Canada father that there will be a Revival again in Canada father we speak
+- **[29:15](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1755s) · 他进行祷告**：father that there will be a turn as we pray and we believe we receive what you have for us as a nation We Believe father that there The Best Is Yet To Come father of Revival that we will have a a great Revival upon America and Upon This Nation father in the name of Jesus
+- **[30:21](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1821s) · 他进行祷告**：Bible father I thank you Lord for for for taking us to a different level in these last days as the Body of Christ and the preachers would preach that Jesus is coming the preachers would preach uh the repentance and not a lukewarm gospel I thank you Father that you're stirring in the hearts of the
 
 ### 完整英文 Transcript
 
@@ -868,7 +935,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:38 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:00](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=1920s) · 本段原话**：whisper it can be a whisper for if you're walking in the authority of the believer you don't have to yell at the Devil you can just whisper and he has to obey there's more Authority it seemed like in a whisper Lord doesn't it because you're not in the flesh I just say in the name of Jesus I bind
+- **[34:12](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=2052s) · 他进行祷告**：I just want to say thank you for joining me today I hope this video blessed you I know I didn't pray a long time but I'm praying my voice is getting stronger and stronger tomorrow is going to be even better and um I appreciate your prayers I really do um if you haven't sub
+- **[34:44](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=2084s) · 本段原话**：subscribes and comments down below they don't promote the video it's like a little community so I appreciate everybody being kind and um uh click the notification Bell and um and just blessing blessing by that I really appreciate y'all's help uh remember Jesus Is A Healer He Is A Healer the he's the same yesterday today and
+- **[35:21](https://www.youtube.com/watch?v=gFJgPQZ5_iI&t=2121s) · 本段原话**：God is a good god and the devil's a bad devil and he wants you to have victory in every area of your life spirit so and body and so I just want to tell you all put a smile on your face and a song in your heart Jesus loves you so much and
 
 ### 完整英文 Transcript
 

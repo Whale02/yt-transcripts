@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1210；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 50:00–52:04 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:22](https://www.youtube.com/watch?v=DJLG44SW3P8&t=22s) · 本段原话**：terrorist attacks praying over what I what the Lord showed me and I'm going to go over some of these things the Lord has showed me about terrorist attacks because a lot of you are new here a lot of you uh have not watched those old videos because I know cuz they haven't went up in view count and there's
+- **[10:01](https://www.youtube.com/watch?v=DJLG44SW3P8&t=601s) · 他描述所见**：to the mother to this I don't know that's just the way it showed I don't know why why but I'm just assuming okay so I don't want to add to or take away from anything of a vision but I'm just saying this is me looking into a vision okay so that's what I'm trying to I'm
+- **[20:01](https://www.youtube.com/watch?v=DJLG44SW3P8&t=1201s) · 他表达判断**：frame that I believe it was in the fall it was during the Harvest Time okay cuz they were getting grains oats they were filling their their their um their uh container up with some kind of grains so it was Harvest Time so then the Lord showed me that the leaves were still on the sycamores
+- **[30:00](https://www.youtube.com/watch?v=DJLG44SW3P8&t=1800s) · 本段原话**：these hidden things will be re uh revealed exposed um and that these these organizations that are in America will not uh be able to do this because I'm telling you I feel it in my heart they're going to try to do something especially when Trump's in office they're going to try to to combat his uh
+- **[40:42](https://www.youtube.com/watch?v=DJLG44SW3P8&t=2442s) · 本段原话**：that that that anointing father to keep them separate and that there will be no Wicked one touch them they will always be separate unto you father giving themselves over to you and to the Holy Spirit that the evil man's hand the evil woman's hand will not harm them or hurt them and they will not be around uh
+- **[50:02](https://www.youtube.com/watch?v=DJLG44SW3P8&t=3002s) · 本段原话**：I'm excited about my new Korea channel it's glow I have over almost six 7,000 subscribers over there welcome Korea I'm so excited you're here and then Vietnam and I have China is over a thousand subscribers now welcome all y'all in China praise the Lord China and and Korea and I mean Philippines Philippines
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:22](https://www.youtube.com/watch?v=DJLG44SW3P8&t=22s) · 本段原话**：terrorist attacks praying over what I what the Lord showed me and I'm going to go over some of these things the Lord has showed me about terrorist attacks because a lot of you are new here a lot of you uh have not watched those old videos because I know cuz they haven't went up in view count and there's
+- **[02:06](https://www.youtube.com/watch?v=DJLG44SW3P8&t=126s) · 本段原话**：enemy's trying to to plot and to scheme up and do his job is to destroy to and to wipe out lots of people but the Bible says that we have a power and authority over the devil so I'm going to put that out there first before I tell you about what I have seen coming again and the
+- **[03:15](https://www.youtube.com/watch?v=DJLG44SW3P8&t=195s) · 他表达判断**：healed whenever you start playing your your instrument just like David played for Saul and caused the demons to go worship causes demons to flee so as you worship on that violin and you start playing play with the Holy Spirit young man play with the Holy Spirit and I believe with all my heart that God's
+- **[04:30](https://www.youtube.com/watch?v=DJLG44SW3P8&t=270s) · 他描述所见**：quote out your mouth Psalms 91 and Psalms 23 that in these last days we will see dark and dark dark dark days but the light has come on you so that all being said let me tell you what I saw and what I what the Lord has warned me again that's coming the Lord showed me three
 
 ### 完整英文 Transcript
 
@@ -153,7 +171,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、物资、能源与供应链。 提到的地点：Florida。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:01](https://www.youtube.com/watch?v=DJLG44SW3P8&t=301s) · 本段原话**：they are very high ranking in the al-Qaeda uh organization I don't know what You' call them an army or uh terrorist group so the Lord showed me these three men um crossing the border secretly it was in a it looked like mountains in the The Horizon like you I could see it and it looked deserty and
+- **[06:09](https://www.youtube.com/watch?v=DJLG44SW3P8&t=369s) · 他描述所见**：come up and when the time's been told for them to do whatever they're going to do they're going to come up out of the ground like ants okay so they're underr they're hidden somehow okay and when it's time I saw them coming up like red ants all out of a ant in and they
+- **[07:16](https://www.youtube.com/watch?v=DJLG44SW3P8&t=436s) · 他描述所见**：then I saw men with vials in their hands like this that had biological stuff inside of these these tubes test tubes I the I know it they weren't wearing these garments for real okay but the Lord was showing me they were in white turban hats like white outfits and the Lord said they are
+- **[09:28](https://www.youtube.com/watch?v=DJLG44SW3P8&t=568s) · 他描述所见**：they did did not know that they were poisoned I saw children because they were smaller get sick first they started bending over and they died right there then the mothers were trying to comfort their Childs and they were weeping and they passed on the fathers passed on and so everybody in the family showed me it
 
 ### 完整英文 Transcript
 
@@ -265,7 +290,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 物资、能源与供应链、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、预言、梦境与异象、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:01](https://www.youtube.com/watch?v=DJLG44SW3P8&t=601s) · 他描述所见**：to the mother to this I don't know that's just the way it showed I don't know why why but I'm just assuming okay so I don't want to add to or take away from anything of a vision but I'm just saying this is me looking into a vision okay so that's what I'm trying to I'm
+- **[11:06](https://www.youtube.com/watch?v=DJLG44SW3P8&t=666s) · 他描述所见**：there was too many people does that make sense so there wasn't enough water to service all the people and so the people were perishing from dehydration and it was um attack so all the people who who passed away they had to put them in bags so I saw Mass Graves that were the
+- **[12:16](https://www.youtube.com/watch?v=DJLG44SW3P8&t=736s) · 他描述所见**：granite uh Monument talking about what had happened to these people and it was giving them Tri honor and tribute to the to to the Fallen okay to the people who perished and it had a it had all the stuff and I saw the United States all the writing on it and I saw this massive Eagle in this
+- **[14:20](https://www.youtube.com/watch?v=DJLG44SW3P8&t=860s) · 他描述所见**：oil substance inside of this shipping container which caused this thing to be a it was it was it was a catastrophic thing okay and I saw that they went in and it was like a dirty thing it was a dirty device and it caused radiation and everything all over that area I saw this
 
 ### 完整英文 Transcript
 
@@ -376,7 +408,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:18](https://www.youtube.com/watch?v=DJLG44SW3P8&t=918s) · 他描述所见**：looking and it was had black on the top and it was like like paint jaw black and then it was like Rusty looking at the bottom and so the Lord showed me that so then I've seen um an attack on the Golden Gate Bridge I saw during this that this would be I saw
+- **[15:41](https://www.youtube.com/watch?v=DJLG44SW3P8&t=941s) · 他描述所见**：Asian men on the Golden Gate Bridge putting devices on this thing acting like they were construction workers and these men This Plane when I saw them get in there they went across and they went over towards the China area and these men had hard hats on they look like they were they were made to
+- **[17:58](https://www.youtube.com/watch?v=DJLG44SW3P8&t=1078s) · 本段原话**：Pennsylvania but I kept hearing in the spirit realm it's not getting high enough and whenever it didn't get too high it it it it detonated over a lower part and it sent an EMP blast all over that area but it did not get high enough to affect more than what they wanted because the
+- **[18:59](https://www.youtube.com/watch?v=DJLG44SW3P8&t=1139s) · 他描述所见**：could talk in like Oklahoma and Texas Kansas parts of Arkansas because the further you went West the more uh more everything was okay but the further you went East it was not okay and the further you went South parts of pay and handle Florida in this Vision um and and like Miami and all they W
 
 ### 完整英文 Transcript
 
@@ -491,7 +530,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=DJLG44SW3P8&t=1201s) · 他表达判断**：frame that I believe it was in the fall it was during the Harvest Time okay cuz they were getting grains oats they were filling their their their um their uh container up with some kind of grains so it was Harvest Time so then the Lord showed me that the leaves were still on the sycamores
+- **[21:03](https://www.youtube.com/watch?v=DJLG44SW3P8&t=1263s) · 他描述所见**：still uh is that still active praying over uh Rocking New Year's Eve praying over these events that I believe major crowds uh for uh I told you I saw uh them planning this is a serious one and I have to be careful how I say this because last time they flagged my video I saw people aside Ed to mega
+- **[21:58](https://www.youtube.com/watch?v=DJLG44SW3P8&t=1318s) · 他描述所见**：went he passed away he he's a very known well well-known preacher um and so uh I saw all these so I've prayed over him and his wife that there would be Supernatural covering over them and so I don't say all this to scare everybody I say this because I see it coming and I have to pray and the
+- **[23:46](https://www.youtube.com/watch?v=DJLG44SW3P8&t=1426s) · 他表达判断**：nothing happens that's when I've seen malls praying over malls and I believe we've we have prayed over malls we have stopped a lot we haven't seen any drama in the malls glory to God we haven't seen any person going and driving cars into crowds in America at the parade we didn't see anything like that glory to
 
 ### 完整英文 Transcript
 
@@ -618,7 +664,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 教会、复兴与信仰、治安、袭击与安全
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、治安、袭击与安全、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、治安、袭击与安全展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:01](https://www.youtube.com/watch?v=DJLG44SW3P8&t=1501s) · 本段原话**：right he's going to use those kind of people that are already tormented so cuz they're not they're not uh they've opened theirself up for demonic attack anyway is what I'm trying to say so here they are that's the people he uses so he because he has no way to get it done in
+- **[27:08](https://www.youtube.com/watch?v=DJLG44SW3P8&t=1628s) · 他表达判断**：your congregation so that's just me I believe in the Second Amendment and I believe in the right to bear harms and I believe it's our job to protect our loved ones and so even I believe in the power of prayer and I believe in Psalms 91 but I also believe in the Second
+- **[28:20](https://www.youtube.com/watch?v=DJLG44SW3P8&t=1700s) · 他描述所见**：uh terrorist attack happening at the Opera House in Sydney a major explosion took place in that opera house I don't know why but it was like it was trying to strike fear in the Australian people so I saw uh outside of this was people with armed things taking people out in in in in and hurting them outside the
+- **[29:38](https://www.youtube.com/watch?v=DJLG44SW3P8&t=1778s) · 他讨论新闻或报道**：stuff like this I told you all what the Lord showed me about the virus and it and it and it's happening folks you can see it on the news Look at California state of emergency bird flu I I'll leave that to another day because now I've already 31 minutes into this one so let
 
 ### 完整英文 Transcript
 
@@ -758,7 +811,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:00](https://www.youtube.com/watch?v=DJLG44SW3P8&t=1800s) · 本段原话**：these hidden things will be re uh revealed exposed um and that these these organizations that are in America will not uh be able to do this because I'm telling you I feel it in my heart they're going to try to do something especially when Trump's in office they're going to try to to combat his uh
+- **[30:59](https://www.youtube.com/watch?v=DJLG44SW3P8&t=1859s) · 本段原话**：and against his marriage and this is all demonic by Design but we even for uh the vice president and for the for the cabinet praying for uh Supernatural protection even over our Supreme Court praying over our Supreme Court that there's a supernatural protection that our FBI our homeland security our CIA whoever the good guys not the corrupt
+- **[32:25](https://www.youtube.com/watch?v=DJLG44SW3P8&t=1945s) · 他表达判断**：in a in in a 31 minute video cutting it short but father I told them again warning them what what I've seen and I know father that you you don't just you don't just talk to hear yourself talk you talk to make real things happen in a real world and I believe with all my heart
+- **[34:23](https://www.youtube.com/watch?v=DJLG44SW3P8&t=2063s) · 他进行祷告**：just be SEC secret friendlies it doesn't have to just be lukewarm it could just be churches in general okay and every every tent every tribe every tongue it don't matter they're the body of Christ and we pray over every single one of them that they're protected that no weapon formed against these churches
 
 ### 完整英文 Transcript
 
@@ -886,7 +946,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:22](https://www.youtube.com/watch?v=DJLG44SW3P8&t=2182s) · 本段原话**：families that father there's no bickering and strife with the kids 18 years old and and all you know the when kids get to thinking they know it all I thank you Father that father there's there there is wisdom on them and the Bible says we train up a child and the way they should go and when they get
+- **[36:40](https://www.youtube.com/watch?v=DJLG44SW3P8&t=2200s) · 本段原话**：over they they'll not depart from it and I thank you the seeds of the word that's inside of the children's heart father that when they grow older they get older they'll always go back to it they'll always come back to the word they'll always come back to the first fruits of their life knowing that my mom and dad
+- **[37:38](https://www.youtube.com/watch?v=DJLG44SW3P8&t=2258s) · 本段原话**：something that they've never seen before because they're thirsty and they're hungry and they want to get high on drugs but they'll get high on Jesus they want to get drunk on alcohol but they get drunk in the Holy Ghost and I thank you Father there's a stirring in the Youth of this generation a stirring up
+- **[39:17](https://www.youtube.com/watch?v=DJLG44SW3P8&t=2357s) · 本段原话**：that we don't want to go to party we want to go follow how did you get so uh happy or whatever I thank you Father they would be the popular ones father because the blessing and the favor of the Lord is resting on our young people I thank you Father that the I know through all the perversion on the
 
 ### 完整英文 Transcript
 
@@ -1027,7 +1094,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Las Vegas、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:42](https://www.youtube.com/watch?v=DJLG44SW3P8&t=2442s) · 本段原话**：that that that anointing father to keep them separate and that there will be no Wicked one touch them they will always be separate unto you father giving themselves over to you and to the Holy Spirit that the evil man's hand the evil woman's hand will not harm them or hurt them and they will not be around uh
+- **[41:53](https://www.youtube.com/watch?v=DJLG44SW3P8&t=2513s) · 他表达判断**：you give them dreams and you show them what is going to happen before it happens and where to find the bad guys I believe that father you are going to to expose the plans of the wicked way before they even have opportunity to do it the father they'll know where they're living they'll know their address they
+- **[42:20](https://www.youtube.com/watch?v=DJLG44SW3P8&t=2540s) · 本段原话**：know exactly the apartment or our town wherever they are you expose the darkness let the terrorist organizations trip up and expose thems because the Demonic is going to mess up so bad because the glory is going to start showing up and showing off and they're going to expose and do something stupid and and expose
+- **[43:35](https://www.youtube.com/watch?v=DJLG44SW3P8&t=2615s) · 他描述所见**：you Father the ones that are cross the border illegally that are that are meant to come to kill steal and destroy I thank you Father that you're exposing this right now you're exposing this right now and even in Las Vegas you're exposing the darkness that I saw with the people trying hurt people with uh with cars and
 
 ### 完整英文 Transcript
 
@@ -1152,7 +1226,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:00](https://www.youtube.com/watch?v=DJLG44SW3P8&t=2700s) · 他进行祷告**：darkness in Syria that I've seen with the brute the the the the explosive devices and over biological weapons and I thank you Father that no weapon formed against the innocent will prosper I pray over the families and over the people that they're always in the right place at the right time that's that's bottom
+- **[46:42](https://www.youtube.com/watch?v=DJLG44SW3P8&t=2802s) · 本段原话**：you said where there's Strife there's confusion and every evil work and I thank you God that there's peace and there's traveling mercies that people are going to and from with no bad flat tires no car troubles no nothing no car accidents they're protected there and they're protected back go with with Angelic host they're watching over them
+- **[47:40](https://www.youtube.com/watch?v=DJLG44SW3P8&t=2860s) · 他进行祷告**：favor of the Lord we'll be favored of the Lord this holiday season we're favor to the Lord all the time in this 2025 thank you Father we thank you Lord for healing over their bodies we thank you Lord that they walk in Divine Health there's no colds no virus es no snotty notes no
+- **[49:09](https://www.youtube.com/watch?v=DJLG44SW3P8&t=2949s) · 本段原话**：have no Asian flu I'm not going to have no whatever I'm not having it we will have Divine protection in the name of Jesus do you believe that that's for everybody all around the world you have to say that out of your mouth we are protected by the blood of Jesus Take your communion every day and believe
 
 ### 完整英文 Transcript
 
@@ -1285,7 +1366,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–52:04 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:02](https://www.youtube.com/watch?v=DJLG44SW3P8&t=3002s) · 本段原话**：I'm excited about my new Korea channel it's glow I have over almost six 7,000 subscribers over there welcome Korea I'm so excited you're here and then Vietnam and I have China is over a thousand subscribers now welcome all y'all in China praise the Lord China and and Korea and I mean Philippines Philippines
+- **[50:42](https://www.youtube.com/watch?v=DJLG44SW3P8&t=3042s) · 本段原话**：of Asia need to have a hope and know that I have a plan for their life and there's a lot of you in Asia I don't believe you're being taught this from your churches but I'm going to come on here and teach you all how to live by faith on your channel so I'll do
+- **[50:56](https://www.youtube.com/watch?v=DJLG44SW3P8&t=3056s) · 他表达判断**：separate videos for you on your channel in in those areas uh teaching you about more faith stuff so I believe with all my heart this is going to bless you because Jesus the word is alive folks and and it don't grow old the same uh word that delivered people 2000 years ago is delivering people today and it's
+- **[51:55](https://www.youtube.com/watch?v=DJLG44SW3P8&t=3115s) · 本段原话**：a song in your heart Jesus loves you so much and we love you God bless you all and you all have a Merry Christmas and happy New Year here we are it's hereo it's awesome praise the Lord byebye
 
 ### 完整英文 Transcript
 

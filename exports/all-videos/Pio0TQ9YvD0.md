@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 785；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 - [08. 28:00–31:16 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:59](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=59s) · 本段原话**：um system is gonna start to come and manifest okay but that's whenever he told me who will stand in a gap for America who will intercede for America and I told you all about that word I didn't really know what uh was going to happen on the 24th all I knew is it
+- **[05:11](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=311s) · 他讨论新闻或报道**：there's no such thing as aliens they are demonic spirits that are they're going to and what's fixing to happen is uh yeah we're talking about it and we're seeing it in the news but this is just the beginning this is just the beginning wait until you start seeing the manifestations there I really believe
+- **[12:17](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=737s) · 本段原话**：are not able to be trusted with finances because he's not going to let you go to hell for that for money he cares about your soul so you have to be able to be trusted with what's going to happen so this is where I'm at with it if you can't believe for five dollars
+- **[16:49](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1009s) · 本段原话**：you the warnings from the Holy Ghost if you jump in our River you I'm with my river and you start falling you're going to hear some things and it's not about fear it's about warning Joseph was warned and he told Pharaoh you need to store up seven years of food you need to
+- **[24:19](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1459s) · 本段原话**：the birthing of of us leaving in the Rapture of the church some of you all don't believe the rapture we don't believe in it that's fine I do but we are going to see some things the the weather's going to start getting even more crazier the heat waves the rain the droughts you're you name it I really believe with
+- **[28:35](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1715s) · 本段原话**：in the.com area that don't get anything they're they're going to be people that stay broke the Jesus even told us the poorer will have with you always he warned everybody he told him there's some people just won't get it and that's fine I'm not trying to condemn anybody I'm trying to say I don't want to be one
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:59](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=59s) · 本段原话**：um system is gonna start to come and manifest okay but that's whenever he told me who will stand in a gap for America who will intercede for America and I told you all about that word I didn't really know what uh was going to happen on the 24th all I knew is it
+- **[02:50](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=170s) · 本段原话**：Nations and I told you the the the Chinese flag went over I thought it was going to be later on how that all happened whenever it went over Africa and it went out and it touched down Argentina was invited yesterday and so I was just like wow this is being sped up big time and and so you all I hope you
+- **[03:09](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=189s) · 本段原话**：all realize how fast everything is coming at us it is Jesus Christ is coming and yeah um I I never want to quote a time frame of saying when is Jesus coming that everybody asks me in the comment section do you believe it's this year in 2023 2024 or later on you know I always want
+- **[03:30](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=210s) · 他表达判断**：to to keep an urgency that everybody is looking for him tomorrow today now you know don't I know I don't want to ever say well you know it's gonna I believe it to be in 2032 you know or 2030 which I have my beliefs in my opinions but that really doesn't matter all we need
 
 ### 完整英文 Transcript
 
@@ -123,7 +141,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:11](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=311s) · 他讨论新闻或报道**：there's no such thing as aliens they are demonic spirits that are they're going to and what's fixing to happen is uh yeah we're talking about it and we're seeing it in the news but this is just the beginning this is just the beginning wait until you start seeing the manifestations there I really believe
+- **[06:25](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=385s) · 本段原话**：in in the near future and so whenever Jesus told me when I went to tribulation with him he said one of the major signs before I come back son will be major talk about aliens on the television it's going to be become really big and so this was back in like I told you all
+- **[07:20](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=440s) · 本段原话**：that's going to be I don't know but I'm telling you I have it in my spirit that something big is going to happen like this okay number two so Saudi Arabia is going for what I've understood and what I read the articles they are going to join the brakes Nation on January the
+- **[07:36](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=456s) · 本段原话**：1st of 2024. so that means we have five months left before they jump ship with and go on with Argentina Egypt was one of them UAE 80 of the world's oil wealth is all on that is joining that do you understand this is a huge huge huge deal with all the people from Russia and all
 
 ### 完整英文 Transcript
 
@@ -230,7 +255,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:20](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=500s) · 本段原话**：Japan starts dumping their water out of Fukushima that power plant it's been stagnant in there all these years they said they're going to start releasing that toxic um water out of that power plant into the Pacific Ocean and so then China goes and they ban the the export of seafood coming out of Japan because of what
+- **[09:22](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=562s) · 他描述所见**：major event take place concerning the earthquake is what I believe we're about to see that major Madrid fault when I saw the python coming out of the water and wrapping around America and squeezing time I believe that's one of the major events that we're about to see take place next and then I believe we're
+- **[10:30](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=630s) · 他表达判断**：kind of like how Ford and and uh Nixon did you know I believe that's right and how he ran it until the election I believe I had to be so careful we will see some change take place in the fall there's going to be some changing taking place there's going to be a shifting more shifting I've seen it
+- **[11:34](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=694s) · 本段原话**：own kind you have to sow and to be able to reap if you are not a tither if you're not a giver if you're not actively sowing the Lords are going to tell you creative ideas to get wealth you're fooling yourself because he can't trust you if he can't trust you with little he's not going to make you ruler
 
 ### 完整英文 Transcript
 
@@ -332,7 +364,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、经济、银行与市场
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、经济、银行与市场、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、经济、银行与市场展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:17](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=737s) · 本段原话**：are not able to be trusted with finances because he's not going to let you go to hell for that for money he cares about your soul so you have to be able to be trusted with what's going to happen so this is where I'm at with it if you can't believe for five dollars
+- **[13:11](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=791s) · 本段原话**：fired and so I was like you know that was a long time ago I mean that's going on over 20 some years now I've been tithing faithfully and giving my 10 and my offerings believing God for increase and so that's what that's the just that's the way we did it we believe by faith for everything we have whether
+- **[13:31](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=811s) · 本段原话**：it's five dollars ten dollars whatever you've got to believe God and start saying Lord and you know what a lot of times you think well how's it going to happen how is God going to bring the increase in my house I start I I don't limit myself to a job I start God give
+- **[15:45](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=945s) · 本段原话**：a business mindset as a Christian now there's a lot of people in the comments section that doesn't believe that with them why do I need to be blessed because you're being selfish bottom line if you don't want to be blessed you're being selfish because the kingdom of God needs you and help and you need help them this
 
 ### 完整英文 Transcript
 
@@ -449,7 +488,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:49](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1009s) · 本段原话**：you the warnings from the Holy Ghost if you jump in our River you I'm with my river and you start falling you're going to hear some things and it's not about fear it's about warning Joseph was warned and he told Pharaoh you need to store up seven years of food you need to
+- **[17:23](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1043s) · 本段原话**：hundred years ago my granny tells me all kinds of stories from she was 106 years old talking about just saving foil she wouldn't even throw foil away she was so scared to throw a foil away I thinking that there was another depression coming in her lifetime she didn't even Trust Banks she was scared
+- **[17:54](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1074s) · 他表达判断**：didn't even know I mean that's the kind of stuff they lived and and that was a terrible time in the 1930s I believe is when it was that wasn't that long ago and but we have such an entitlement right now as a culture because we've had everything we've had air conditioning we've had all the stuff
+- **[18:45](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1125s) · 本段原话**：live off anything she'd go those are those are poke greens those are that and he those are dandelion quartz she would go out there and just start digging in the yard because they lived off of her 10 years that's how they lived they starved almost a lot of times and the farmers would all go together she would
 
 ### 完整英文 Transcript
 
@@ -569,7 +615,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:24](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1224s) · 本段原话**：on the building they borrowed seven million dollars for that a seven million dollar a month payment on seven percent interest uh over 30 years that's a big note I mean seriously that comes every month and there's a lot of churches in America you you got to think all these mega churches around here you know in these
+- **[21:19](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1279s) · 本段原话**：Coleman and all them it's going to be major 10 revivals again r.w shambach we're gonna see this again and I and I hope you all understand I I never want to preach fear but I need you to understand that you have to sow a seed you sow a seed to reap a harvest
+- **[22:19](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1339s) · 本段原话**：might be good at making pies you might be the best pie maker there ever was make pies start selling them at a bakery or something thinner or online or create an idea maybe you might be good at sewing a little knickknacks or or something God whatever you put your hands to will prosper he told us this in Deuteronomy
+- **[23:35](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1415s) · 他描述所见**：pains it says as labor pains come upon a woman so will it be okay right so Jesus warned us the birthing pains birthing pains so birthing Pains start out small and as I have three children they go you know with my wife I saw what happened they get more and more and more and more and more until
 
 ### 完整英文 Transcript
 
@@ -677,7 +730,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:19](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1459s) · 本段原话**：the birthing of of us leaving in the Rapture of the church some of you all don't believe the rapture we don't believe in it that's fine I do but we are going to see some things the the weather's going to start getting even more crazier the heat waves the rain the droughts you're you name it I really believe with
+- **[25:18](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1518s) · 他描述所见**：toilet paper okay so if there's no food on the shelf and I warned you all there was cobwebs in the corners of the shelf of the supermarkets in some places not saying that's in every place and major populated areas I saw this even worse if they're willing to hurt you for a roll of toilet paper how much more are
+- **[26:12](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1572s) · 他表达判断**：drink I'm believing God for the Iraqi dinar I'm believing for these things with with all with the Lord showed me Babylon Rising again you know you know we see that Babylon was was the was the breadbasket of the world at one time uh and I believe it will be part of the Bread Basket of the world again I
+- **[27:29](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1649s) · 本段原话**：language that you don't have to let the devil hear you when you're praying walking in the authority and walking in the Holy Ghost is what you're going to have to do in these last days knowing the name of Jesus understanding your Covenant and having a a a a a fire inside of you the blood of Jesus Christ
 
 ### 完整英文 Transcript
 
@@ -787,7 +847,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:16 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:35](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1715s) · 本段原话**：in the.com area that don't get anything they're they're going to be people that stay broke the Jesus even told us the poorer will have with you always he warned everybody he told him there's some people just won't get it and that's fine I'm not trying to condemn anybody I'm trying to say I don't want to be one
+- **[29:09](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1749s) · 本段原话**：groceries are expensive right now to go to Sam's or go to Costco and buy a bulk of everything it takes thousands of dollars to do that kind of stuff and you can't do that if you're broke and so you know and so people go well I'm living on a fixed income God will even take care of the Widow God
+- **[30:02](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1802s) · 本段原话**：every every day and God would provide with George Mueller I I I watched it on Veggie Tales of my kids but I started studying that out and I went there this man really existed there was somebody really out there that it lived This Way live by faith you're going to have to learn to live by faith Now quickly do a
+- **[30:57](https://www.youtube.com/watch?v=Pio0TQ9YvD0&t=1857s) · 本段原话**：out there on your YouTube channel or on your whatever okay you can share it on your Facebook that's what I mean when I'm saying the shares share it on Facebook or on on Instagram or whatever or Twitter okay all right well we thank you for so much for your support put a smile on your face and a song on your
 
 ### 完整英文 Transcript
 

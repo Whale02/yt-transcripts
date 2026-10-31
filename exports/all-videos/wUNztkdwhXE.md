@@ -5,17 +5,31 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 110；**章节数**: 2；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
 - [01. 00:00–03:59 · 经济、银行与市场、祷告、敬拜与现场互动](#section-01)
 - [02. 04:00–04:43 · 祷告、敬拜与现场互动](#section-02)
 
+## 全片概述与 Key Points
+
+全片共 2 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=wUNztkdwhXE&t=0s) · 本段原话**：the Lord showed me an American flag and the American flag was transformed into a hundred dollar bill and the hundred dollar bill was waving in the wind and all of a sudden it was it started to transform into some kind of digital uh code like almost like crypto code and the crypto it was all it
+- **[04:00](https://www.youtube.com/watch?v=wUNztkdwhXE&t=240s) · 他描述所见**：through the pandemic nothing and so I thought man I really had missed this this is really flaky you know I felt bad I had to apologize to my wife and I said I'm sorry honey I missed it I I bought all those chickens and I saw it and the Lord showed to me I guess that was
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 经济、银行与市场、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：经济、银行与市场、祷告、敬拜与现场互动、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕经济、银行与市场、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=wUNztkdwhXE&t=0s) · 本段原话**：the Lord showed me an American flag and the American flag was transformed into a hundred dollar bill and the hundred dollar bill was waving in the wind and all of a sudden it was it started to transform into some kind of digital uh code like almost like crypto code and the crypto it was all it
+- **[00:58](https://www.youtube.com/watch?v=wUNztkdwhXE&t=58s) · 他描述所见**：or if you were poor whatever was in the banks They seized it all the money was now property of the bank somehow I don't know how they did it but but all the loans that you have on your house and all the on your cars and everything I saw that all of it they would call it a
+- **[01:17](https://www.youtube.com/watch?v=wUNztkdwhXE&t=77s) · 本段原话**：debt Jubilee and and because they couldn't foreclose and take everybody's houses and to everybody's cars because of the dollar crashing they um they just wiped it out and they created a new platform they created a new digital dollar with this and then the Lord showed me lines for people standing at Target stores
+- **[03:04](https://www.youtube.com/watch?v=wUNztkdwhXE&t=184s) · 本段原话**：there's like a depth perception and so sometimes it comes really quick and sometimes he's showing me years in advance and I I'm really not I don't know so I just have to keep praying over it it's like this in 2018 he showed me that there was something going to happen with the chickens and so
 
 ### 完整英文 Transcript
 
@@ -117,7 +131,13 @@
 <a id="section-02"></a>
 ## 02. 04:00–04:43 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=wUNztkdwhXE&t=240s) · 他描述所见**：through the pandemic nothing and so I thought man I really had missed this this is really flaky you know I felt bad I had to apologize to my wife and I said I'm sorry honey I missed it I I bought all those chickens and I saw it and the Lord showed to me I guess that was
+- **[04:14](https://www.youtube.com/watch?v=wUNztkdwhXE&t=254s) · 他表达判断**：averted we prayed it away or something and then here it is 2023 and all the stuff about chickens and I believe we're just at the beginning of that I believe there'll be more to it maybe uh with with the chickens and so um whatever the Lord shows me things like I said sometimes at four or five years
+- **[04:36](https://www.youtube.com/watch?v=wUNztkdwhXE&t=276s) · 本段原话**：before it manifests so that being said I just wanted to let you all know that so thank you
 
 ### 完整英文 Transcript
 

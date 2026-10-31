@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1605；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 60:00–65:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
 - [12. 66:00–71:31 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[02:39](https://www.youtube.com/watch?v=U2zTp6gX81I&t=159s) · 他进行祷告**：Well, good evening family. Thank you for joining me again tonight. We're going to pray. Uh there's a lot that's happened today. And so, uh if you go back to the things the Lord showed us last night, um it [clears throat] it's it's amazing what's what we're seeing in the news today and what we're seeing concerning
+- **[12:23](https://www.youtube.com/watch?v=U2zTp6gX81I&t=743s) · 他描述所见**：And so will we see that whole thing come to pass? I don't know. I seen it and I warned you about it. And so I see part, like I say, I see in part, I hear in part, but will the full manifestation of it come? I don't know. People say, "Brendon, are you prophetic?" I never
+- **[24:36](https://www.youtube.com/watch?v=U2zTp6gX81I&t=1476s) · 他描述所见**：And I saw the people of uh Cuba be liberated in the days ahead. And the Lord said, "I'm setting the people of Cuba free from a bloodline of uh uh uh of terrorism concerning the Cast Castro."
+- **[43:06](https://www.youtube.com/watch?v=U2zTp6gX81I&t=2586s) · 他描述所见**：[clears throat] [snorts] I saw major city. Do you have that? [snorts] [clears throat] He knows how to pull it all up. I'm so proud of him. He He keeps track of all this. This is June 25th, 2025. Is this something? I believe so.
+- **[54:00](https://www.youtube.com/watch?v=U2zTp6gX81I&t=3240s) · 他描述所见**：little boy. It was like that. And so I know this was symbolic in the spirit realm last night concerning how they are communicating because I saw they were communicating in a way that was not able to be detected because and the Lord brought up uh carrier pigeons.
+- **[67:40](https://www.youtube.com/watch?v=U2zTp6gX81I&t=4060s) · 他表达判断**：And I believe there's escape from the wrath to come the second time. He said he wouldn't destroy it by water again, but by fire.
+
 <a id="section-01"></a>
 ## 01. 00:00–05:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[02:39](https://www.youtube.com/watch?v=U2zTp6gX81I&t=159s) · 他进行祷告**：Well, good evening family. Thank you for joining me again tonight. We're going to pray. Uh there's a lot that's happened today. And so, uh if you go back to the things the Lord showed us last night, um it [clears throat] it's it's amazing what's what we're seeing in the news today and what we're seeing concerning
+- **[03:32](https://www.youtube.com/watch?v=U2zTp6gX81I&t=212s) · 本段原话**：you're going to watch this and I give all the glory to God. I have a treasure in an earthn vessel that the excellency of the power is known of him and not of me. And so I I I always want to to to let you know I don't control any of this. The Lord shows me what he wants me
+- **[03:51](https://www.youtube.com/watch?v=U2zTp6gX81I&t=231s) · 他描述所见**：to see. I see in part, hear in part. And I truly believe the Lord said, "Brendon, we're go. I'm raising you up for this end times that you'll bring forth a million men and women prayer army on YouTube to pray for the nations, to pray for the wars, to pray for the things
+- **[05:03](https://www.youtube.com/watch?v=U2zTp6gX81I&t=303s) · 他表达判断**：You can get it free on on uh uh YouTube. There's people that have audio. They've they've they they push the button. You can just let it read to you. Take probably about 30 minutes. You can learn all you can about tongues in that 30 minutes from Brother Hagen. their sermons um and stuff he'll preach on it. And so
 
 ### 完整英文 Transcript
 
@@ -128,7 +146,14 @@
 <a id="section-02"></a>
 ## 02. 06:00–11:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、物资、能源与供应链。 提到的地点：Israel、Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[07:59](https://www.youtube.com/watch?v=U2zTp6gX81I&t=479s) · 他描述所见**：I was waiting on it because I saw it over a year ago before they even had a war. And I said, "This is what's going to happen." And I said, "At anti-semitism will come at an all-time high in the days ahead because of what's about to happen." But I said, "They will blow up their oil refineries
+- **[10:01](https://www.youtube.com/watch?v=U2zTp6gX81I&t=601s) · 他描述所见**：the days ahead. And I told you back in January that I saw American missile striking a mountain that was an underground city and Iran set all kinds of deterrence trying to stop this missile. It was a very powerful one.
+- **[11:08](https://www.youtube.com/watch?v=U2zTp6gX81I&t=668s) · 他描述所见**：And it would happen for a season for a window. I don't know how long for a window. And I saw drill, baby drill. I saw pipelines being opened up, being worked out, making big agreements for pipelines. The Nordstream pipeline, I believe, is what it's called. I saw it being re read re talked about, opened
+- **[11:26](https://www.youtube.com/watch?v=U2zTp6gX81I&t=686s) · 他描述所见**：up, working on it, like like trying to get this pipe deal going, doing major oil big deals ahead, stimulating America's economy. But when this happens, I saw great anti-semitism because of uh people being mad at Israel about what they're about to do. Remember this. I saw them wanting to retaliate with war. Russia, Syria, Turkey. I saw
 
 ### 完整英文 Transcript
 
@@ -270,7 +295,14 @@
 <a id="section-03"></a>
 ## 03. 12:00–17:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Cuba、Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:23](https://www.youtube.com/watch?v=U2zTp6gX81I&t=743s) · 他描述所见**：And so will we see that whole thing come to pass? I don't know. I seen it and I warned you about it. And so I see part, like I say, I see in part, I hear in part, but will the full manifestation of it come? I don't know. People say, "Brendon, are you prophetic?" I never
+- **[15:01](https://www.youtube.com/watch?v=U2zTp6gX81I&t=901s) · 本段原话**：And if I if I fail to tell you anything, [clears throat] if I don't tell you about my friend Jesus, all this other stuff is is just going to be is is water under the bridge. It'll be in the in the bottom of the bird cage in a couple of days.
+- **[17:05](https://www.youtube.com/watch?v=U2zTp6gX81I&t=1025s) · 本段原话**：Go. What is the second phase of Operation Epic Fury? It starts with a B2 stealth bomber dropping a massive bunker buster bomb on a target nestled in the Alwars mountains surrounding Tran. The target was chosen for a specific reason. Buried deep beneath the mountains, Iran has constructed a labyrinth of multi-layered underground tunnels. They built this
+- **[17:24](https://www.youtube.com/watch?v=U2zTp6gX81I&t=1044s) · 本段原话**：vast network to hide their crown jewel and massive arsenal of ballistic missiles. Their strategy is simple but deadly. Emerge from these hidden bunkers to ambush American jets when they least expect it. So, how do you counter a threat buried that deep? You use a highly surgical weapon designed to pierce straight through thick layers of
 
 ### 完整英文 Transcript
 
@@ -433,7 +465,14 @@
 <a id="section-04"></a>
 ## 04. 18:00–23:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、预言、梦境与异象。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:33](https://www.youtube.com/watch?v=U2zTp6gX81I&t=1113s) · 本段原话**：Because while Iran main network is shattered, isolated surfaceto-air batteries like the S300 are still hiding in the shadows. For an F-15 Easter, the legendary bomb truck of the Air Force, one lucky radar lock from a rogue missile is a death sentence. And in a highstakes conflict, losing a crew and a multi-million dollar jet to a surviving
+- **[19:42](https://www.youtube.com/watch?v=U2zTp6gX81I&t=1182s) · 本段原话**：Where did this long range mission originate? The operation began thousands of miles away at Whiteitman Air Force Base in Missouri. 4 B2 Spirit stealth bombers took off for a direct roundtrip mission, relying on a fleet of aerial refueling tankers over the Atlantic Ocean and the Mediterranean Sea to complete the 6,000 plus nautical mile
+- **[23:00](https://www.youtube.com/watch?v=U2zTp6gX81I&t=1380s) · 他描述所见**：I saw him be strategically picked to run the nation. And when this took place, I saw him speaking to the Iranian people and an assassin took him out. And the Lord said, "Then they will bring in another uh leader that will be even uh dark again." And this is where Ezekiel 38 and 39 will start to spring forth.
+- **[23:26](https://www.youtube.com/watch?v=U2zTp6gX81I&t=1406s) · 他描述所见**：[snorts] It's leading up to it. Praying over this time frame. [snorts] I saw this man with the gray hair at the bald head rise up and try to be this leader. They picked him just like the Lord said they would. And they're saying he's going to help bring in they can the Iranian people can vote. They want to
 
 ### 完整英文 Transcript
 
@@ -585,7 +624,14 @@
 <a id="section-05"></a>
 ## 05. 24:00–29:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:36](https://www.youtube.com/watch?v=U2zTp6gX81I&t=1476s) · 他描述所见**：And I saw the people of uh Cuba be liberated in the days ahead. And the Lord said, "I'm setting the people of Cuba free from a bloodline of uh uh uh of terrorism concerning the Cast Castro."
+- **[26:22](https://www.youtube.com/watch?v=U2zTp6gX81I&t=1582s) · 他描述所见**：spring forth of growth coming out of it. with great fruit. Then I saw F-150 trucks, Ford, Chrysler, uh, Americanmade cars, nice American car were starting to be imported to Cuba.
+- **[26:48](https://www.youtube.com/watch?v=U2zTp6gX81I&t=1608s) · 他描述所见**：Uh, GMC. I saw F-150 trucks driving around on Cuban streets, brand new ones, used ones, nice trucks from where they are. I saw a darkness over this the country and all of A SUDDEN A LIGHT started to spring forth out of Cuba with an internet cable that went over into
+- **[28:16](https://www.youtube.com/watch?v=U2zTp6gX81I&t=1696s) · 他描述所见**：Especially men, they were smoking them. I thought it was interesting. Don't know what that's about, but I saw it. Okay, that's what I saw last night. And it was a gold band around this Cuban cigar, this this thing, this this tobacco product. [snorts] And it had to do with trade.
 
 ### 完整英文 Transcript
 
@@ -714,7 +760,14 @@
 <a id="section-06"></a>
 ## 06. 30:00–35:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：New York、Florida、Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:22](https://www.youtube.com/watch?v=U2zTp6gX81I&t=1822s) · 他描述所见**：taken out three major cartel. And I saw turf wars coming, major turf wars in Mexico CONCERNING THIS CARTEL AND THIS CARTEL. THEY WERE THEY WERE FIGHTING EACH OTHER WITH TURF WAR. WHO'S GOING TO BE THE BOSS?
+- **[32:03](https://www.youtube.com/watch?v=U2zTp6gX81I&t=1923s) · 他描述所见**：Phase two will happen in darkness. Remember this shinooks. Remember, I saw a a a liberation coming in darkness and it was so heavy on me last night. I said it would I wouldn't be like it was whenever it happened with Iraqi with Iran.
+- **[33:52](https://www.youtube.com/watch?v=U2zTp6gX81I&t=2032s) · 本段原话**：praying over the coastline, Florida, Georgia, Al, Alabama, and Mississippi, and then Louisiana, praying over this area for attack against our water supply and our our our infrastructure for water, our water purification plants, praying over this this this tyrant.
+- **[34:50](https://www.youtube.com/watch?v=U2zTp6gX81I&t=2090s) · 他描述所见**：BAT BEHIND BEHIND him and you don't realize it. And that's what I saw us as being I don't want to say we're the bully, but we're the big guy that you look at and you go, "Ah, he's the jock you don't want to mess with at school."
 
 ### 完整英文 Transcript
 
@@ -862,7 +915,14 @@
 <a id="section-07"></a>
 ## 07. 36:00–41:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:00](https://www.youtube.com/watch?v=U2zTp6gX81I&t=2160s) · 本段原话**：I don't talk about it. They had a black cloud over the nation and it started TO BE LIFTED BECAUSE THE POWER OF THE GOSPEL WAS BEING PREACHED WITH UNINTERRUPTED AND HINDERED BY ANY SATANIC OR DEMONIC FORCE BECAUSE MISSIONARIES started flying in there even greater AND IT STARTED FLOWING THROUGH uh through these nations and
+- **[36:57](https://www.youtube.com/watch?v=U2zTp6gX81I&t=2217s) · 他描述所见**：He'll try to use a nuke. He ain't right. It's totally different whenever uh little Kim has all these nukes. You understand? So I saw the Lord dealing with Kim Jong-un in the days ahead like Pharaoh.
+- **[39:34](https://www.youtube.com/watch?v=U2zTp6gX81I&t=2374s) · 他表达判断**：After many, many years. We've had a lot of years of dealing with Cuba. I've been hearing about Cuba since I'm a little boy, but they're in big trouble and uh we could very well something could I think very positive for the people that were expelled or worse from Cuba that live here.
+- **[40:40](https://www.youtube.com/watch?v=U2zTp6gX81I&t=2440s) · 他进行祷告**：Marco over there and we'll see how that works but we're really focused on this one now meaning Iran he's got plenty of time on Cuba Johnson I love Benny bringing that for what the stuff he did hey I I just want to tell you all it's it's important when we pray and we see things to give God glory for
 
 ### 完整英文 Transcript
 
@@ -1025,7 +1085,14 @@
 <a id="section-08"></a>
 ## 08. 42:00–47:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、治安、袭击与安全。 提到的地点：Cuba、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[43:06](https://www.youtube.com/watch?v=U2zTp6gX81I&t=2586s) · 他描述所见**：[clears throat] [snorts] I saw major city. Do you have that? [snorts] [clears throat] He knows how to pull it all up. I'm so proud of him. He He keeps track of all this. This is June 25th, 2025. Is this something? I believe so.
+- **[44:31](https://www.youtube.com/watch?v=U2zTp6gX81I&t=2671s) · 他描述所见**：He just found that and but this is what I'm trying to being accurate when I tell you I see something and I'm telling you what I'm seeing, but I'm praying. And June 25th of 2025, seven months ago, what plus?
+- **[46:09](https://www.youtube.com/watch?v=U2zTp6gX81I&t=2769s) · 他描述所见**：Here it is. [snorts] Russia, old alliances. old friendships. I see a darkness on Cuba. It's dated already, so it's not hard for the infrastructure of their of their grid.
+- **[47:22](https://www.youtube.com/watch?v=U2zTp6gX81I&t=2842s) · 他描述所见**：Cuba and they traffic the people through these tunnels and they and the drugs come up through their tunnels. Great corruption in the Hispanic government is Claudia. Remember this though, Venezuela will be like an Iraq if it keeps going this way. I'm going to Venezuela and I see Venezuela being promised things. Oh, and I'm now in Cuba and I see Cuba being
 
 ### 完整英文 Transcript
 
@@ -1178,7 +1245,14 @@
 <a id="section-09"></a>
 ## 09. 48:00–53:59 · 战争与国际事务、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：战争与国际事务、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[48:30](https://www.youtube.com/watch?v=U2zTp6gX81I&t=2910s) · 他进行祷告**：And I brought up Taiwan and I said you must pray over Taiwan. And if we stand in the gap concerning Taiwan, we can stop with uh the the Ping to push him back, hold him back, cuz I kept seeing uh China trying to have a coup in their nation to rise up and try to bring
+- **[50:53](https://www.youtube.com/watch?v=U2zTp6gX81I&t=3053s) · 他描述所见**：But it looked like a candy cane and it was taken up on the side with China and it was being brought up as a shield and brought over Taiwan in the vision last night. And I saw a blanket going over Taiwan as we were praying that was being extended from the water toward China that was bringing about
+- **[52:15](https://www.youtube.com/watch?v=U2zTp6gX81I&t=3135s) · 他进行祷告**：Our brothers and sister sisters in South Korea pray. They are praying people more so than any other culture I I've come across that is real. I'm talking about just they you talk about just and our Asian channel. I love that South Korean channel. Love it. They are some good people.
+- **[53:10](https://www.youtube.com/watch?v=U2zTp6gX81I&t=3190s) · 他描述所见**：Oh, okay. I saw this last night going across America. I saw a black cord that looked like a fiber optic cable. Okay. And it was strung across America that had little cords similar. Do you have this in the shot?
 
 ### 完整英文 Transcript
 
@@ -1313,7 +1387,14 @@
 <a id="section-10"></a>
 ## 10. 54:00–59:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[54:00](https://www.youtube.com/watch?v=U2zTp6gX81I&t=3240s) · 他描述所见**：little boy. It was like that. And so I know this was symbolic in the spirit realm last night concerning how they are communicating because I saw they were communicating in a way that was not able to be detected because and the Lord brought up uh carrier pigeons.
+- **[55:12](https://www.youtube.com/watch?v=U2zTp6gX81I&t=3312s) · 他描述所见**：10 different cities and I saw all this and I saw the barrels and he said, "Timothy McVey, don't forget Timothy McVey, don't forget the strategic attacks THAT HAVE COME AC UPON YOUR NATION IN THE PAST.
+- **[57:09](https://www.youtube.com/watch?v=U2zTp6gX81I&t=3429s) · 他描述所见**：I saw Cuba talking to the man talking to Iran's people to the Middle East and it was like telephone to telephone in a way that they would try to without having chatter trying to communicate without chatter underneath the radar. So how do you deliver this message to this one to this one? So that it's not like internet
+- **[58:34](https://www.youtube.com/watch?v=U2zTp6gX81I&t=3514s) · 他描述所见**：I saw praying over John Hegy's church. And I'm not trying to bring fear into John Hegy's church. I'm telling you to pray over John Hegy's church. He stands with Israel.
 
 ### 完整英文 Transcript
 
@@ -1460,7 +1541,14 @@
 <a id="section-11"></a>
 ## 11. 60:00–65:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[60:06](https://www.youtube.com/watch?v=U2zTp6gX81I&t=3606s) · 他描述所见**：I EXPECT THE ANGELS TO PROTECT US. I EXPECT THE THE THE THE THE ANOINTING OF THE HOLY GHOST TO FLOW OUT OF US. WHEN I TOLD YOU I SAW THE THE THE THE the dead being raised, HE SAID, "HOW HOW DEAD IS DEAD, BRANDON?
+- **[61:01](https://www.youtube.com/watch?v=U2zTp6gX81I&t=3661s) · 本段原话**：GOD'S GOING TO DO THINGS THAT ARE GOING TO BE MINDBLOWING IN THESE LAST DAYS FOR EXCEEDINGLY abundantly above all that we dare ask or think. AND HE HE BROUGHT UP THE SCRIPTURE THAT THE DEAD IN CHRIST WILL RISE FIRST. He said, "Brandon, I'm going to bring people back as a witness to the ONES COUSIN COUSIN JOE'S BACK."
+- **[61:20](https://www.youtube.com/watch?v=U2zTp6gX81I&t=3680s) · 本段原话**：MY GOODNESS, LOOK AT HIM. HE'S BEEN GONE FOR HOW MANY YEARS? HEY, I WANT TO TELL YOU THERE'S A HEAVEN TO GAIN AND A HELL TO SHUN. DO YOU UNDERSTAND? How many of those unbelievers are going to come being believers immediately because they see Uncle Joe that died a couple years ago come back and tell them that Jesus
+- **[62:54](https://www.youtube.com/watch?v=U2zTp6gX81I&t=3774s) · 他描述所见**：I choose to believe. And that's why I said even last when I I saw that dead getting raised and I and I saw those bones coming back to life. I said, "Lord, I believe help my unbelief." Cuz in my mind, I'm thinking somebody's dead for a couple hours. It's going to be okay. We can raise that one. But when I
 
 ### 完整英文 Transcript
 
@@ -1615,7 +1703,14 @@
 <a id="section-12"></a>
 ## 12. 66:00–71:31 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[67:40](https://www.youtube.com/watch?v=U2zTp6gX81I&t=4060s) · 他表达判断**：And I believe there's escape from the wrath to come the second time. He said he wouldn't destroy it by water again, but by fire.
+- **[69:02](https://www.youtube.com/watch?v=U2zTp6gX81I&t=4142s) · 本段原话**：you forgive me of my sins. [clears throat] Thank you, Lord. The blood covers us. Thank you, Lord, that the blood covers this atmosphere. I plead the blood over me, in my mind, over any visions that you may show me tonight. If not, it's okay.
+- **[70:46](https://www.youtube.com/watch?v=U2zTp6gX81I&t=4246s) · 本段原话**：I I I I talked for a long time, but I'm going to tell you this. Bottom line is if you're watching this and you tell me, Brandon, I've never accepted Jesus Christ as my Lord and personal Savior.
+- **[71:10](https://www.youtube.com/watch?v=U2zTp6gX81I&t=4270s) · 本段原话**：If you were to die tonight, where would you spend eternity? The most important thing I can ever tell you OUT OF ANY BROADCAST I EVER DO is you must be born again. Unless a man is born again, he cannot enter into the kingdom of God.
 
 ### 完整英文 Transcript
 

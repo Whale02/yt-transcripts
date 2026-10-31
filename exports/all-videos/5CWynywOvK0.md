@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 670；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 - [08. 28:00–28:19 · 现场讲话（无可靠自动分类）](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=5CWynywOvK0&t=0s) · 他表达判断**：hey good morning family I'm excited to be with you again today I think this is like the third video in a row uh well this video is pretty serious um the Lord has put on my heart you know I'm gonna tell you the things I've been praying about um I've been praying over Italy and and the
+- **[04:02](https://www.youtube.com/watch?v=5CWynywOvK0&t=242s) · 本段原话**：onto those homes and they were and then all of a sudden each Angel was going to and there was like this going all over the place and they were on a mission but they were moving that like like the speed of light boom boom boom boom boom and they were moving down and they all
+- **[12:02](https://www.youtube.com/watch?v=5CWynywOvK0&t=722s) · 他描述所见**：the number three week for over three weeks I saw like a calendar and I could see the calendar and I could see the days go by with people being without power and so the Lord was warning me about these major cities and about this a plot against America and about the power grid now I don't know a time frame
+- **[16:19](https://www.youtube.com/watch?v=5CWynywOvK0&t=979s) · 他表达判断**：Parker's not going to go down for the whole country okay for for three weeks I don't believe that I believe that certain areas just like I'm trying to tell you about my story about Dallas and what the Lord was showing me here I thought you know I live in the state of Oklahoma
+- **[24:27](https://www.youtube.com/watch?v=5CWynywOvK0&t=1467s) · 本段原话**：name of Jesus strongholds to be broken off of their lives we call bondage and strongholds to be broken by the power of the Lord we call the blood of Jesus over this right now we plead the blood of Jesus over this we thank you from the north to Southeast the West we call angels to minister us
+- **[28:05](https://www.youtube.com/watch?v=5CWynywOvK0&t=1685s) · 本段原话**：well y'all put a smile on your face and a song in your heart Jesus loves you so much and I'm so thankful that you watch my video today y'all have a blessed day and we'll see you next time bye bye
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=5CWynywOvK0&t=0s) · 他表达判断**：hey good morning family I'm excited to be with you again today I think this is like the third video in a row uh well this video is pretty serious um the Lord has put on my heart you know I'm gonna tell you the things I've been praying about um I've been praying over Italy and and the
+- **[00:19](https://www.youtube.com/watch?v=5CWynywOvK0&t=19s) · 他描述所见**：the all the little Tremors and the volcano uh and everything like that okay and so I'm gonna tell you what I saw I was caught up in the spirit I was just like like I was just praying in the spirit I was worshiping and all of a sudden I was shot up in this like I was
+- **[01:43](https://www.youtube.com/watch?v=5CWynywOvK0&t=103s) · 本段原话**：and um above the Lord pointed my attention attention to a massive Circle a humongous portal that was over the country of Italy and it was in the in the over where the the uh where I told you all uh that where the earthquake happened last night where I told you the volcano's at by uh Pompeii
+- **[03:14](https://www.youtube.com/watch?v=5CWynywOvK0&t=194s) · 他表达判断**：turning it was swirling it was alive okay and the clouds were coming out of the portal humongous beautiful pink fluffy it was blue I could see blue I could see pink I could see purples I could see all kinds of beautiful colors in those clouds the colors coming out of this portal it was I believe Heaven I don't
 
 ### 完整英文 Transcript
 
@@ -120,7 +138,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:02](https://www.youtube.com/watch?v=5CWynywOvK0&t=242s) · 本段原话**：onto those homes and they were and then all of a sudden each Angel was going to and there was like this going all over the place and they were on a mission but they were moving that like like the speed of light boom boom boom boom boom and they were moving down and they all
+- **[04:34](https://www.youtube.com/watch?v=5CWynywOvK0&t=274s) · 本段原话**：amazing you know of course I'm trying so hard to explain everything I the Lord showed me you know uh in detail giving you all detail um and so I'm gonna take a side note here because I was asking Lord what is all that black smog what is all that that is and he he was showing me that there was
+- **[05:49](https://www.youtube.com/watch?v=5CWynywOvK0&t=349s) · 他表达判断**：waving the people to come on and so they did this for probably you know several men for several minutes you know when you're in the spirit you couldn't really tell a time frame you could just sense an urgency on their faces I could see their faces and it felt it's such an urgency of a warning telling the people
+- **[07:32](https://www.youtube.com/watch?v=5CWynywOvK0&t=452s) · 他描述所见**：into that portal and and it was over of that and then the Lord took me um to uh another another part of the vision here and I he said I want you to focus on the canary a canary Brennan what is the meaning of a canary in a coal mine study this out
 
 ### 完整英文 Transcript
 
@@ -226,7 +251,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 物资、能源与供应链、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:55](https://www.youtube.com/watch?v=5CWynywOvK0&t=535s) · 他描述所见**：cage it was just dead it was lifeless it's completely gone and I was I was I was like wow you know it happened so quickly but the gases came up and it it took the canary out and so uh this is a part of the Vision the Lord showed me about and the angels come in and so the
+- **[09:31](https://www.youtube.com/watch?v=5CWynywOvK0&t=571s) · 他描述所见**：I saw a massive wave coming I saw the Lord said pay attention to the water I saw the earthquakes in the water and the people weren't paying attention to the water the water was what the Lord kept putting my attention to in the past Visions look at the water look at the Cove the water in the coves and look at
+- **[10:05](https://www.youtube.com/watch?v=5CWynywOvK0&t=605s) · 他描述所见**：um this is just the things that the Lord's showing me I know like I said a mat a major 4.4 I believe happened last night and I saw all the rocks and the devastation the people and the sirens going off and a video on from my wife gave me um and then ice it was for somebody from
+- **[11:04](https://www.youtube.com/watch?v=5CWynywOvK0&t=664s) · 他描述所见**：America telling me pray over the electric grid this is very serious I saw a like a Cyber attack or it was a false flag Tech I I was trying to I like I said I'm not going to just flat out and just say it was it was Russia or whoever I'm telling you I saw something go on
 
 ### 完整英文 Transcript
 
@@ -332,7 +364,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 物资、能源与供应链、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Texas、New York、Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:02](https://www.youtube.com/watch?v=5CWynywOvK0&t=722s) · 他描述所见**：the number three week for over three weeks I saw like a calendar and I could see the calendar and I could see the days go by with people being without power and so the Lord was warning me about these major cities and about this a plot against America and about the power grid now I don't know a time frame
+- **[13:40](https://www.youtube.com/watch?v=5CWynywOvK0&t=820s) · 他表达判断**：water something was wrong with the water and I believe it was about three years now that they had a major cold front a major arctic front came down out of uh the Arctic and came down through Canada of course and um and and really made everything really cold in Texas and they could not handle the the the
+- **[14:42](https://www.youtube.com/watch?v=5CWynywOvK0&t=882s) · 本段原话**：and told them you need to get at least 12 cases of water big things of water so I took it on myself because I'm seeing in the spirit not knowing where really you know is this going to affect me so I went out and bought all the water too because of what I'm seeing the
+- **[15:50](https://www.youtube.com/watch?v=5CWynywOvK0&t=950s) · 他描述所见**：believe it was New York but um I don't want to assume so it could be Chicago but I saw a lot of big buildings so I want to warn you all to pray about the
 
 ### 完整英文 Transcript
 
@@ -438,7 +477,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 提到的地点：Texas、Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:19](https://www.youtube.com/watch?v=5CWynywOvK0&t=979s) · 他表达判断**：Parker's not going to go down for the whole country okay for for three weeks I don't believe that I believe that certain areas just like I'm trying to tell you about my story about Dallas and what the Lord was showing me here I thought you know I live in the state of Oklahoma
+- **[16:48](https://www.youtube.com/watch?v=5CWynywOvK0&t=1008s) · 他表达判断**：to obey quick debate whenever he tells me something and so and this was a strict wall a word for Texas and it affected a lot of people in Texas uh hundreds of thousands of people in Texas and they were out with power for I think I think it was like two weeks or more I
+- **[17:36](https://www.youtube.com/watch?v=5CWynywOvK0&t=1056s) · 他表达判断**：the Lord has given me in prayer and I try to keep you all updated as I go so um you know so there you go so let's pray I believe uh we can we can intercede right now and just pray for some things just pray for the first pray for some of this stuff let's pray for the people of
+- **[19:10](https://www.youtube.com/watch?v=5CWynywOvK0&t=1150s) · 他进行祷告**：led by emotion we would be led by the Holy Ghost I pray for every single person watching this video that that father that they would they would learn to to to meditate on your word and and and and yield their self to the spirit of God in a way that they're not familiar with and that they
 
 ### 完整英文 Transcript
 
@@ -551,7 +597,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=5CWynywOvK0&t=1201s) · 本段原话**：Jesus concerning their lives Clarity in the spirit like turning in a radio station from from uh a static channel to a Clear Channel moving the bunny ears right where it's supposed to be to move the antenna to go God I'm gonna I'm gonna put myself at your feet and I will be at the spout where the
+- **[20:24](https://www.youtube.com/watch?v=5CWynywOvK0&t=1224s) · 他描述所见**：glory comes out and I am not going to be in fear about what the devil's doing but I have authority over the devil and I'm gonna have wisdom concerning this and I'm not going to be moved by what I see or what I feel I move by what the word of God says and we're going to hear your
+- **[21:23](https://www.youtube.com/watch?v=5CWynywOvK0&t=1283s) · 本段原话**：the warnings that you're giving me right now I thank you Father that this will not happen we take authority over this cyber attacks we take authority over false flag events and we say in the name of Jesus you will not do this in the name of Jesus we plead the blood of Jesus
+- **[22:23](https://www.youtube.com/watch?v=5CWynywOvK0&t=1343s) · 他表达判断**：the Corps of Engineers all the people thought I think you were that you give wisdom Revelation knowledge over these people have kind of block attacks from foreign adversaries and if it is a false flag or whatever father we ask you God to to expose all Wicked plots and plans from the from the wicked
 
 ### 完整英文 Transcript
 
@@ -656,7 +709,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:27](https://www.youtube.com/watch?v=5CWynywOvK0&t=1467s) · 本段原话**：name of Jesus strongholds to be broken off of their lives we call bondage and strongholds to be broken by the power of the Lord we call the blood of Jesus over this right now we plead the blood of Jesus over this we thank you from the north to Southeast the West we call angels to minister us
+- **[25:25](https://www.youtube.com/watch?v=5CWynywOvK0&t=1525s) · 他进行祷告**：Over this nation we call abundance of rain to come down right now in the name of Jesus we call your outpouring of the spirit Lord bring us a great outpouring a great outflow of a Great River a tidal wave of your presence Upon This Nation we pray over the leaders over the people
+- **[27:16](https://www.youtube.com/watch?v=5CWynywOvK0&t=1636s) · 本段原话**：amen well okay um I thank you all for joining me today I really do I hope I hope this uh has blessed you all um I really appreciate you taking the time to to uh watch my videos you know uh it means a lot to me you know I I'm I'm new at this I'm I'm I'm just uh I'm
+- **[27:42](https://www.youtube.com/watch?v=5CWynywOvK0&t=1662s) · 他描述所见**：learning like you all every day every day we learn and we when we follow after the voice of the Lord and he said he's faithful he's faithful to us um the present Lord really said settled in on me right there when I was praying I saw some things I'd have to pray about
 
 ### 完整英文 Transcript
 
@@ -754,7 +814,11 @@
 <a id="section-08"></a>
 ## 08. 28:00–28:19 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:05](https://www.youtube.com/watch?v=5CWynywOvK0&t=1685s) · 本段原话**：well y'all put a smile on your face and a song in your heart Jesus loves you so much and I'm so thankful that you watch my video today y'all have a blessed day and we'll see you next time bye bye
 
 ### 完整英文 Transcript
 

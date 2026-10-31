@@ -5,7 +5,7 @@
 **上传日期**: 20260830
 **源字幕行数**: 2142；**章节数**: 12；**明确省略行数**: 1
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 100:00–109:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 110:00–117:19 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:31](https://www.youtube.com/watch?v=JP--134vRTw&t=91s) · 他描述所见**：And they were bringing up demonic worship, demonic Satanism through George, a man named George and um another another other dark other people that were dark. They had a cloak on and they were trying to bring England, uh France, Germany, Italy, and bringing forth a a great war. And I saw Turkey shutting down uh the straight going into
+- **[20:00](https://www.youtube.com/watch?v=JP--134vRTw&t=1200s) · 他描述所见**：It was a World War II but bigger weapons. much nastier. Yeah. Because I see England trying to take their boats and their stuff in the Black Sea to come get this. They're trying to to come against it. Uhhuh. And they were and then Turkey blocked them. Uh a major deal with American oil and Venezuela,
+- **[41:19](https://www.youtube.com/watch?v=JP--134vRTw&t=2479s) · 本段原话**：There he is. The vampire in Syria. I say he will come to him in aid as a wounded brother. Watch what happens as Israel strikes Damascus in the days ahead. I said, "Because they will use biological weapons, like chemical weapons, out of Damascus and spray Israel with something worse than October 7th in the days
+- **[70:00](https://www.youtube.com/watch?v=JP--134vRTw&t=4200s) · 他进行祷告**：Thank you, Father. As we pray over President Trump with long life, you will satisfy him and show you show him your salvation. Father, over our pipelines, over Tuttle, Oklahoma, over uh over Houston and over our uh over um Louisiana.
+- **[90:03](https://www.youtube.com/watch?v=JP--134vRTw&t=5403s) · 他描述所见**：own tail. I see it's it's going around in a circle. going around in a circle and it's eating its own tail as it try and it's getting smaller and smaller. It's eating its own tail and the snake is latched on and he don't realize that he's think he's eating the enemy but he's eating his own tail.
+- **[110:01](https://www.youtube.com/watch?v=JP--134vRTw&t=6601s) · 他进行祷告**：your name. We plead the blood. We plead the blood. We plead the blood. Every plot, every plan, every pursuit across this land, Father, from sea to shining sea, from the Gulf all the way. Father, I pray over his kids. I pray over Don Jr., Eric, Tiffany, Baron. We thank you, Lord, in the name of Jesus. There's
+
 <a id="section-01"></a>
 ## 01. 00:00–09:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：Europe、China、Canada、France。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:31](https://www.youtube.com/watch?v=JP--134vRTw&t=91s) · 他描述所见**：And they were bringing up demonic worship, demonic Satanism through George, a man named George and um another another other dark other people that were dark. They had a cloak on and they were trying to bring England, uh France, Germany, Italy, and bringing forth a a great war. And I saw Turkey shutting down uh the straight going into
+- **[03:57](https://www.youtube.com/watch?v=JP--134vRTw&t=237s) · 他描述所见**：waiting like he was about to step over and to take the helm with Rubio and I could see them like he was in a waiting room. As I was praying for this I saw I saw two ways. One way went to World War III and a great war and the other word way was lavender fields with Russia.
+- **[06:20](https://www.youtube.com/watch?v=JP--134vRTw&t=380s) · 他描述所见**：dealing with uh Alapoco. And he said, "There's going to be a major earthquake in this and San Francisco and Portland and all these areas." And he said, "Watch the ring of fire." And I saw the water beginning to boil in certain lakes because of the fact that the there was lava coming up and it was causing the
+- **[09:03](https://www.youtube.com/watch?v=JP--134vRTw&t=543s) · 他描述所见**：Okay. You saw I see Claudia. I see overthrowing of things. I see civil unrest. I see riots in the streets. I see people pillaging. A great shaking in Canada. A shaking in Canada. Uh he's going to deal with the epidemic of cancer.
 
 ### 完整英文 Transcript
 
@@ -267,7 +285,14 @@
 <a id="section-02"></a>
 ## 02. 10:00–19:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：Iran、Europe、Canada、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[13:05](https://www.youtube.com/watch?v=JP--134vRTw&t=785s) · 他描述所见**：Motor City. So something's going to happen with the auto industry. Yeah. One more round of shaking. I saw Iran's leadership going down and I saw uh that there would be a rec a reclusiveness of the parents of Persia for a season. It would be a short window. The Lord said, "I'm giving the people of Iran a window
+- **[13:44](https://www.youtube.com/watch?v=JP--134vRTw&t=824s) · 他描述所见**：in Europe. I mean in in in in the Middle East, but I saw a season of hot spots of fire of revival breaking out in Iran, Pakistan in these areas. He said a reclus there will be a reclusiveness for revival springs forth. But it will be hot spots. It won't be everywhere. It
+- **[16:18](https://www.youtube.com/watch?v=JP--134vRTw&t=978s) · 他描述所见**：That was interesting, huh? Oh, I saw that the connection with the the Ursula lady and the pope, they were together and that there was a connection with her and the pope concerning bringing forth the Madi and and satanic stuff.
+- **[17:33](https://www.youtube.com/watch?v=JP--134vRTw&t=1053s) · 他描述所见**：concerning World War II and um having a a a lavender and I saw uh Trump was in the base of this with his life and he's at the point where it was at you could either fall, you know, when you're on a highline wire, you can fall either right or left. It was that that's how that's
 
 ### 完整英文 Transcript
 
@@ -519,7 +544,14 @@
 <a id="section-03"></a>
 ## 03. 20:00–29:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：Russia、China、Cuba、Ukraine。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=JP--134vRTw&t=1200s) · 他描述所见**：It was a World War II but bigger weapons. much nastier. Yeah. Because I see England trying to take their boats and their stuff in the Black Sea to come get this. They're trying to to come against it. Uhhuh. And they were and then Turkey blocked them. Uh a major deal with American oil and Venezuela,
+- **[21:58](https://www.youtube.com/watch?v=JP--134vRTw&t=1318s) · 他描述所见**："This woman is a Satanist." And uh she is uh I saw George uh and uh other European leaders that were very wealthy and influential that were part of the banking, major banking. All right, so let's go ahead and look at what's in the news today. And so, uh, I pray that I I gave
+- **[23:42](https://www.youtube.com/watch?v=JP--134vRTw&t=1422s) · 他转述所听到的话**：It's all happening just like the Lord said. Just in, Trump announces US has secured a$65 billion dollar barrel of Venezuela oil. That's amazing, son. So it has more oil than Iran. Three.
+- **[24:57](https://www.youtube.com/watch?v=JP--134vRTw&t=1497s) · 本段原话**：The Lord showed us cyber attacks. The Lord showed us all kinds of craziness going on. I mean, you know, every single time we do these videos, I'm amazed what the Lord downloads us to warn us of that which is to come. I'm so thankful for the Holy Spirit. Russia warns it could target UK in response to Kiev firing
 
 ### 完整英文 Transcript
 
@@ -743,7 +775,14 @@
 <a id="section-04"></a>
 ## 04. 30:00–39:59 · 战争与国际事务、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：战争与国际事务、物资、能源与供应链、预言、梦境与异象。 提到的地点：Russia、Ukraine、France。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、物资、能源与供应链展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[31:22](https://www.youtube.com/watch?v=JP--134vRTw&t=1882s) · 本段原话**：Okay. The gas lines in Russia are are are uh Russia is facing a second wave of fuel shortages after a record number of Ukrainians strike on oil refineries. So the Russians are running, they're out of oil, they're out of gas, so they're lining up down the road. Russians gasoline output drops to 70% of domestic
+- **[32:51](https://www.youtube.com/watch?v=JP--134vRTw&t=1971s) · 本段原话**：President uh Zalinski called for Ukraine to increase the frequency of its long range drone strikes against Russia on August the 28th, setting a goal of launching a thousand drones a day.
+- **[34:08](https://www.youtube.com/watch?v=JP--134vRTw&t=2048s) · 他描述所见**：Zalinsky will he will become even more emboldened. He's about to receive weapons of longer reach. It's with I see with Ukra UK, UK and France. Weapons of longer reach. That's what they're discussing. Weapons of long reach. There were also reports from our military regarding Novarosis. Our result is already being achieved where no vessel
+- **[37:46](https://www.youtube.com/watch?v=JP--134vRTw&t=2266s) · 本段原话**：They just ran out of gas on the side of the road. The second day of the fuel crisis in Dagasan has forced all drivers to park their cars and September 1st is coming soon. Schools, universities, it's unclear how children will get to their studies.
 
 ### 完整英文 Transcript
 
@@ -966,7 +1005,14 @@
 <a id="section-05"></a>
 ## 05. 40:00–49:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、物资、能源与供应链。 提到的地点：California、Israel、Russia、Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[41:19](https://www.youtube.com/watch?v=JP--134vRTw&t=2479s) · 本段原话**：There he is. The vampire in Syria. I say he will come to him in aid as a wounded brother. Watch what happens as Israel strikes Damascus in the days ahead. I said, "Because they will use biological weapons, like chemical weapons, out of Damascus and spray Israel with something worse than October 7th in the days
+- **[43:22](https://www.youtube.com/watch?v=JP--134vRTw&t=2602s) · 他转述所听到的话**：um you know and and and the Lord said cold alliances, cold war alliances. So we're we should be at a heightened alert like never before as the body of Christ praying for our president praying for our nation. Okay, we had a 5.0 hit outside of uh where California California but where at how where what
+- **[44:38](https://www.youtube.com/watch?v=JP--134vRTw&t=2678s) · 本段原话**：Yeah, it's absolutely absurd and you can't even make it up. Literally two weeks ago, a paper was published in the journal Science. The main author on that study was funded by Bill Gates and his foundation and they created the first ever AImade viruses 16 of them functional bacteria phages. So they were able to replicate in bacteria kill the
+- **[47:38](https://www.youtube.com/watch?v=JP--134vRTw&t=2858s) · 本段原话**：Well, I learned that people don't know as much as they think they know, but the biggest thing you'll learn is that the pandemic was bound to occur. And this isn't the worst one. that's imaginable at all. Society has a terrible time preparing for things that are remote but are possible and will occur sooner or later. There'll be
 
 ### 完整英文 Transcript
 
@@ -1228,7 +1274,14 @@
 <a id="section-06"></a>
 ## 06. 50:00–59:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、祷告、敬拜与现场互动。 提到的地点：Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:02](https://www.youtube.com/watch?v=JP--134vRTw&t=3002s) · 本段原话**：Branson a lot, you know, because you're up here closer to the, uh, the, uh, Ozarks, and so the water is is the is been major major flash drought and the leaves are just falling like crazy. So, um, it's it's amazing. But the Lord showed natural springs in the Ozarks, things like that. Water coming out of
+- **[52:00](https://www.youtube.com/watch?v=JP--134vRTw&t=3120s) · 他描述所见**：But I'm praying I I I see we keep the House and we don't lose the Senate. I mean, we lose the Senate, but we don't we keep thou. Thank you, Braden, for all your hard work, for all the stuff you brought us today. I look forward to your news briefings, son. I I think they're
+- **[57:23](https://www.youtube.com/watch?v=JP--134vRTw&t=3443s) · 他描述所见**：me all these oil derks and the Lord said it's not all about drugs 10% but 90 is about the oil and bricks and I saw a Kaddafi I saw a Saddam like man want this man in the days ahead becoming overthrown. I said it will be about stabilizing the dollar and the new energy will come out
+- **[59:19](https://www.youtube.com/watch?v=JP--134vRTw&t=3559s) · 他描述所见**：I saw a blue I saw new jet engines. I saw new car engines that were not housed by uh metal but by plexiglass like a thick see-through thing that was hydrogen waterbased energy.
 
 ### 完整英文 Transcript
 
@@ -1461,7 +1514,14 @@
 <a id="section-07"></a>
 ## 07. 60:00–69:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[60:02](https://www.youtube.com/watch?v=JP--134vRTw&t=3602s) · 本段原话**：not sun, not uh solar. I'm talking about a a power source that never loses its power because a glass of water, this is water because it's going to mess up because of my my my green screen, but this glass of water has more energy in it than than than a a a nuclear reactor. Does that
+- **[61:24](https://www.youtube.com/watch?v=JP--134vRTw&t=3684s) · 他表达判断**：Things that would that's top secret, I believe. And the Lord showed me things in in military bases and the Lord showed me deep things. So that was the uh video that the Lord showed us clear back uh 2024 I believe is when it was when we first ca when the Lord first showed us
+- **[62:59](https://www.youtube.com/watch?v=JP--134vRTw&t=3779s) · 本段原话**：protected, for a from attacks from uh Cuba, from a pet attacks from um all this that's going on, you know, that um that uh they will finish what they're doing in Iran, that it will be okay, and that we can move on to Cuba before uh Trump's term's over to liberate the people of Cuba. And so, Father, we just
+- **[65:16](https://www.youtube.com/watch?v=JP--134vRTw&t=3916s) · 他描述所见**：over America. Over America, Father, I see that again. I thank you, Lord, that there as we see the things accelerate with wars and rumors of wars, with the digital golden age and the things that you've showed me, Father, that's coming.
 
 ### 完整英文 Transcript
 
@@ -1672,7 +1732,14 @@
 <a id="section-08"></a>
 ## 08. 70:00–79:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[70:00](https://www.youtube.com/watch?v=JP--134vRTw&t=4200s) · 他进行祷告**：Thank you, Father. As we pray over President Trump with long life, you will satisfy him and show you show him your salvation. Father, over our pipelines, over Tuttle, Oklahoma, over uh over Houston and over our uh over um Louisiana.
+- **[70:30](https://www.youtube.com/watch?v=JP--134vRTw&t=4230s) · 本段原话**：Father, all our major oil places, refineries, we call protection, every sabotage, all the sabotage over things that would try to kill, steal, and destroy this nation from sea to signing sea.
+- **[74:41](https://www.youtube.com/watch?v=JP--134vRTw&t=4481s) · 他表达判断**：I believe it today. No other power can heal Lord but thine Holy Spirit.
+- **[79:48](https://www.youtube.com/watch?v=JP--134vRTw&t=4788s) · 本段原话**：advancements that you don't not you have not seen. Russia is about to use technical uh tech technological
 
 ### 完整英文 Transcript
 
@@ -1826,7 +1893,14 @@
 <a id="section-09"></a>
 ## 09. 80:00–89:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、经济、银行与市场。 提到的地点：Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[81:22](https://www.youtube.com/watch?v=JP--134vRTw&t=4882s) · 本段原话**：and to a defensive posture like you've never seen before. To save mother Russia is what they say. To save mother Russia, they say we must save Mother Russia.
+- **[83:13](https://www.youtube.com/watch?v=JP--134vRTw&t=4993s) · 他描述所见**：That's how that's how scary this is. I see them with with the things in their eyes. It's a reflection off their eyes.
+- **[84:36](https://www.youtube.com/watch?v=JP--134vRTw&t=5076s) · 本段原话**：We're willing to die for other Russia today." Huh? It's the top brass. It's the top generals of the Russian army of the top
+- **[89:55](https://www.youtube.com/watch?v=JP--134vRTw&t=5395s) · 他描述所见**：It's it I see this uh rubble. I see a a a a snake eating its
 
 ### 完整英文 Transcript
 
@@ -1942,7 +2016,14 @@
 <a id="section-10"></a>
 ## 10. 90:00–99:59 · 战争与国际事务、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：战争与国际事务、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、教会、复兴与信仰展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[90:03](https://www.youtube.com/watch?v=JP--134vRTw&t=5403s) · 他描述所见**：own tail. I see it's it's going around in a circle. going around in a circle and it's eating its own tail as it try and it's getting smaller and smaller. It's eating its own tail and the snake is latched on and he don't realize that he's think he's eating the enemy but he's eating his own tail.
+- **[93:10](https://www.youtube.com/watch?v=JP--134vRTw&t=5590s) · 本段原话**：We do not want to see this Iran and and all that's going on and then this say war is good for the economy.
+- **[94:54](https://www.youtube.com/watch?v=JP--134vRTw&t=5694s) · 本段原话**：It will happen rapidly. Everything that you've ever known will happen rapidly. A change.
+- **[95:58](https://www.youtube.com/watch?v=JP--134vRTw&t=5758s) · 他描述所见**：thy works thy hands have made. I see the stars. I hear the rolling thunder.
 
 ### 完整英文 Transcript
 
@@ -2054,7 +2135,14 @@
 <a id="section-11"></a>
 ## 11. 100:00–109:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[101:01](https://www.youtube.com/watch?v=JP--134vRTw&t=6061s) · 本段原话**：metamorphosis, a major metamorphosis, a shifting, a shifting, a shifting, an acceleration in the month of September.
+- **[102:13](https://www.youtube.com/watch?v=JP--134vRTw&t=6133s) · 本段原话**：Oh father, we thank you. Mistes predes Hold fast church. Hold fast my little
+- **[105:07](https://www.youtube.com/watch?v=JP--134vRTw&t=6307s) · 本段原话**：York. A shaking in New York. A shaking. These are distractions. Distractions.
+- **[108:13](https://www.youtube.com/watch?v=JP--134vRTw&t=6493s) · 本段原话**：Everything. Even the lady that has the horses. We thank you, Lord. Thank you, Lord. Did you bless the doctor? You bless the horse. Father, I thank you, Lord.
 
 ### 完整英文 Transcript
 
@@ -2151,7 +2239,14 @@
 <a id="section-12"></a>
 ## 12. 110:00–117:19 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[110:01](https://www.youtube.com/watch?v=JP--134vRTw&t=6601s) · 他进行祷告**：your name. We plead the blood. We plead the blood. We plead the blood. Every plot, every plan, every pursuit across this land, Father, from sea to shining sea, from the Gulf all the way. Father, I pray over his kids. I pray over Don Jr., Eric, Tiffany, Baron. We thank you, Lord, in the name of Jesus. There's
+- **[113:28](https://www.youtube.com/watch?v=JP--134vRTw&t=6808s) · 他描述所见**：No missing, no hindrances. The two votes that I see, I call it done in the name of Jesus. As we go into September, as we go into September, we call it done in Jesus name. Nothing hindrancing, nothing hinderancing it, hindering it.
+- **[114:37](https://www.youtube.com/watch?v=JP--134vRTw&t=6877s) · 本段原话**：over Iran with tailiv for a major shaking to awaken for the body of Christ in Iran.
+- **[115:35](https://www.youtube.com/watch?v=JP--134vRTw&t=6935s) · 本段原话**：Call it in. Call those things that be not as though they were." We call those things. We're blessed in the city and the field coming in and going out. We believe, Father, that the wealth transfer is is is is more than just financial. It's it's a it's a Holy Ghost revival.
 
 ### 完整英文 Transcript
 

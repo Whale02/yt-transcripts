@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1236；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 50:00–53:34 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=AEeRd06pWWU&t=0s) · 本段原话**：hey good morning family praise the Lord or good afternoon or wherever you're at hello welcome welcome thank you for joining us well it's 2025 we're we're at the we're right now we're at New Year's Eve we're doing this video and um I've been interceding for this uh New Year all the last several days we've had such
+- **[10:50](https://www.youtube.com/watch?v=AEeRd06pWWU&t=650s) · 他描述所见**：France there will be Revival in France there will be Revival in Europe and there's a cracking of the whip with Donald Trump watch putting these people in check putting the people in these people in check dealing with Putin the bear putting these people in check causing Revival M causing Revival so I saw him
+- **[20:01](https://www.youtube.com/watch?v=AEeRd06pWWU&t=1201s) · 他描述所见**：yes a freedom and liberty that will flow in this time frame in North Korea and it will even go throughout uh China I saw Great Wave and Revival even going through China so as we see Donald Trump come on the scene I saw a cracking of the whip this year I saw um you like you would
+- **[30:22](https://www.youtube.com/watch?v=AEeRd06pWWU&t=1822s) · 本段原话**：have been ungodly with our with with all kinds of parties Republican and Democrat it's not all the Democrats faults it's been Republican too over the course of decades several hundred years of faulty uh leadership but it's but it had threads barely holding it and as we blessed Israel When Donald Trump blessed Israel
+- **[40:19](https://www.youtube.com/watch?v=AEeRd06pWWU&t=2419s) · 本段原话**：God for in 2025 and make a list about it and then find scriptures that pertain to what you're believing for like he healing Prosperity whatever you're believing for find scriptures and write those on there too cuz those are the scriptures that you're standing by so it said if ye abide to me and my words
+- **[50:17](https://www.youtube.com/watch?v=AEeRd06pWWU&t=3017s) · 他表达判断**：will not touch America anymore the father that we have that season as he's cracking his whip father you through him as we cry out out for you that the economy will not fall they he'll have Supernatural wisdom on how to restore it all I believe father this is a time of great acceleration for the body of
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=AEeRd06pWWU&t=0s) · 本段原话**：hey good morning family praise the Lord or good afternoon or wherever you're at hello welcome welcome thank you for joining us well it's 2025 we're we're at the we're right now we're at New Year's Eve we're doing this video and um I've been interceding for this uh New Year all the last several days we've had such
+- **[03:43](https://www.youtube.com/watch?v=AEeRd06pWWU&t=223s) · 他描述所见**：exchange of of romance is what I would consider it I it's beautiful the way he showed it to me in the spirit realm toward his church to the to the remnant to the ones that are are awake unto him and I saw an impartation [Music] of angelic visitations and manifestations of the glory healings and
+- **[04:30](https://www.youtube.com/watch?v=AEeRd06pWWU&t=270s) · 本段原话**：for the for the bride and the and the groom it's it's a it's a uniting it's it's a it's amazing is it Diana the way he described it and he was telling me all this stuff is going to start taking place with uh a great acceleration of change he said 2025 will be a year of
+- **[04:49](https://www.youtube.com/watch?v=AEeRd06pWWU&t=289s) · 他转述所听到的话**：great great change and then I heard the war war war war war will be will be talked about on the news a great accelerations of War of be like rumors
 
 ### 完整英文 Transcript
 
@@ -140,7 +158,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：China、Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:02](https://www.youtube.com/watch?v=AEeRd06pWWU&t=302s) · 他描述所见**：of war and War be talked about it's going to be a big thing 2025 will be known as War a lot of it I saw very a conflict with America and China on the Panama Canal and I saw a red dragon flapping its wings on the Panama Canal and I heard the spirit of the Lord say
+- **[05:24](https://www.youtube.com/watch?v=AEeRd06pWWU&t=324s) · 他描述所见**：what did he say the Panama Canal for there's great corruption great corruption great corruption but as Donald Trump cracks his whip he will tame the dragon and then you saw Donald Trump trump and him cracking his whip I saw Donald Trump he was standing there in a um it looked like a um like a a circus
+- **[07:18](https://www.youtube.com/watch?v=AEeRd06pWWU&t=438s) · 他描述所见**：were one was a smaller dragon and a and a larger dragon and the Lord said this was a representation of Communism communism and he said that and I saw it was like an extension that went across the sea trying to come into Washington DC from China and the Lord said this is a demonic principality that
+- **[09:18](https://www.youtube.com/watch?v=AEeRd06pWWU&t=558s) · 他描述所见**：over Europe and I saw Emanuel mccrone was like the leader over this and the Lord told me he said there will be a window there will be a a a this in this season of great Revival yeah he said the people of Canada have cried out to me and I will deliver thee
 
 ### 完整英文 Transcript
 
@@ -259,7 +284,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 提到的地点：Canada、Europe、France。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:50](https://www.youtube.com/watch?v=AEeRd06pWWU&t=650s) · 他描述所见**：France there will be Revival in France there will be Revival in Europe and there's a cracking of the whip with Donald Trump watch putting these people in check putting the people in these people in check dealing with Putin the bear putting these people in check causing Revival M causing Revival so I saw him
+- **[12:59](https://www.youtube.com/watch?v=AEeRd06pWWU&t=779s) · 他描述所见**：happen with China and then I saw uh uh to go back to Taiwan the Lord showed me the AR Rising Sun over Taiwan and I saw a great gold I saw the people praying in Taiwan I saw intercessory prayers going forth in Taiwan The Remnant the church in Taiwan interceding and I saw a rising
+- **[13:46](https://www.youtube.com/watch?v=AEeRd06pWWU&t=826s) · 他描述所见**：I called you to do this channel to pray pray pray for Donald Trump yeah he said brandan and then I saw Donald Trump there standing by himself and he was cracking the whip trying to do everything by himself and he was looking exhausted because of the pressure of the world on his shoulders trying to to make things
+- **[14:03](https://www.youtube.com/watch?v=AEeRd06pWWU&t=843s) · 他转述所听到的话**：that b because the Lord said I'm using him for this season to bring forth my Revival this is a small window folks four years is a small window if their plague tries to take place which I've seen that would make the window even smaller and the Lord said he cannot do this alone that's why I've called this
 
 ### 完整英文 Transcript
 
@@ -391,7 +423,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:01](https://www.youtube.com/watch?v=AEeRd06pWWU&t=901s) · 他描述所见**：one of you saw then I saw Kim Jong-un and he said Pillsbury Doughboy is what the Lord called him he was very it sounds I'm telling yall the Lord was very angry about Kim Jong and I heard him say he was going to Humble him in a day and then he said he he he's what
+- **[16:12](https://www.youtube.com/watch?v=AEeRd06pWWU&t=972s) · 他描述所见**：for she is a just as much as a tyrant she's just as much as a tyrant as Kim jung-un is what the Lord said and there will be a crumbling of the infrastructure within and you will see great chaos in the you'll see great chaos in North Korea yeah I see because because the buildings will fall and I
+- **[17:29](https://www.youtube.com/watch?v=AEeRd06pWWU&t=1049s) · 他描述所见**：you and so this is what he's talking about for Kim Jong-un he's getting ready to remove him and there will be a great harvest of souls in all throughout North Korea I saw the missionaries having a window and the and the ones from South Korea was going over the border and grabbing a hold and spiritually of the
+- **[19:06](https://www.youtube.com/watch?v=AEeRd06pWWU&t=1146s) · 他描述所见**：going to allow this and so I saw them reaching out to China and China coming to their uh Aid to help bring stability back in TR find another leader yeah trying to find another leader and it was very serious but the Lord said to me he said he was giving a window he's going
 
 ### 完整英文 Transcript
 
@@ -522,7 +561,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、祷告、敬拜与现场互动。 提到的地点：Canada、China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:01](https://www.youtube.com/watch?v=AEeRd06pWWU&t=1201s) · 他描述所见**：yes a freedom and liberty that will flow in this time frame in North Korea and it will even go throughout uh China I saw Great Wave and Revival even going through China so as we see Donald Trump come on the scene I saw a cracking of the whip this year I saw um you like you would
+- **[21:43](https://www.youtube.com/watch?v=AEeRd06pWWU&t=1303s) · 他描述所见**：for the American people celebrating on the 20th a a a popping of a cork but I saw acceleration of of of of of the agenda with crypto and things like that taking off like a rocket ship all through the first quarter going through and you all remember I told you he would I said this before a second ago but he
+- **[22:56](https://www.youtube.com/watch?v=AEeRd06pWWU&t=1376s) · 他描述所见**：saw and the Lord showed me that Darkness giving up for a season being lifted above the trees it did not totally go away but then I warned you all that I saw Donald Trump going and trying to cause Canada to be part of America it's happening it's happening right now he's talking about making them
+- **[24:06](https://www.youtube.com/watch?v=AEeRd06pWWU&t=1446s) · 他描述所见**：things if they join us well I saw Canada and America and Mexico which would be clear down the Panama Canal and all that becoming a a one Central dollar with no Financial borders there was still borders for for like the wall being built I saw that but there was no Financial borders we all became one
 
 ### 完整英文 Transcript
 
@@ -644,7 +690,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 预言、梦境与异象、特朗普与白宫
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、特朗普与白宫、祷告、敬拜与现场互动。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、特朗普与白宫展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:01](https://www.youtube.com/watch?v=AEeRd06pWWU&t=1501s) · 他表达判断**：currency and it was called Amo is what I believe I heard the Lord say now it wasn't you Mary it was aaro wasn't it son because I because I I I I hear these words and they're so foreign to my brain because I y'all I'm telling you I barely have a high school education and I and I
+- **[26:20](https://www.youtube.com/watch?v=AEeRd06pWWU&t=1580s) · 他描述所见**：function and I saw him take One Wing over here and make this and I thought I looked at that plane in the spirit realm and I saw how he was building and it was shining it had USA on it and he and and I thought there's no way that plane's going to fly but lo and behold I saw Donald Trump
+- **[28:40](https://www.youtube.com/watch?v=AEeRd06pWWU&t=1720s) · 他描述所见**：contract because we did not hold up our end of the agreement but the father's side it split down the middle was completely strong and I saw this go to the founding fathers and there was little Twigs just barely holding on and I saw as Donald Trump now listen to me I saw as Donald Trump made an alliance
+- **[29:33](https://www.youtube.com/watch?v=AEeRd06pWWU&t=1773s) · 他描述所见**：but God who is rich in Mercy with where his with his great love wherewith he loved us he held strong to his side of the Covenant and whenever Donald Trump comes in I saw him bridge the gap of the Covenant of our founding fathers to make it strong by blessing Israel which had an extension from America to
 
 ### 完整英文 Transcript
 
@@ -766,7 +819,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、教会、复兴与信仰。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:22](https://www.youtube.com/watch?v=AEeRd06pWWU&t=1822s) · 本段原话**：have been ungodly with our with with all kinds of parties Republican and Democrat it's not all the Democrats faults it's been Republican too over the course of decades several hundred years of faulty uh leadership but it's but it had threads barely holding it and as we blessed Israel When Donald Trump blessed Israel
+- **[31:30](https://www.youtube.com/watch?v=AEeRd06pWWU&t=1890s) · 他描述所见**：it was a golden glowing thread as we bless Israel that made us have a Lifeline Over America so I I pray this makes sense what I'm trying to say because what I'm I'm saying it with the my natural mount mount trying to tell you what I see in the spirit what happened and when this happens because
+- **[32:10](https://www.youtube.com/watch?v=AEeRd06pWWU&t=1930s) · 他描述所见**：curse you I curse but this is going to be a different relationship than we've ever seen before between Benjamin Netanyahu and and Donald Trump and it brings great blessing and favor and I saw I've told you great wealth in the Mediterranean right off the coast where where all the wars been I saw
+- **[34:04](https://www.youtube.com/watch?v=AEeRd06pWWU&t=2044s) · 他描述所见**：Lord showed me he said I'm going to really show up and show off now you're going to see that in 2025 it's going to be a and you're going to see all that dust it's like dust scattering but at the same time it's a great glory is going to hit Israel and I saw a harvest I saw
 
 ### 完整英文 Transcript
 
@@ -895,7 +955,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 预言、梦境与异象、治安、袭击与安全
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、治安、袭击与安全、教会、复兴与信仰。 提到的地点：Europe、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、治安、袭击与安全展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:00](https://www.youtube.com/watch?v=AEeRd06pWWU&t=2100s) · 他描述所见**：them but it was a few and I saw Great Mighty uh things taking place and they were celebrating in the streets in Israel I don't know why they celebrate in the streets but there will be there will be something soon that you'll see lots of Jewish people celebrating in the streets and I saw like I said I saw
+- **[36:28](https://www.youtube.com/watch?v=AEeRd06pWWU&t=2188s) · 他描述所见**：and it was the ones that ran to the Lord for Refuge were safe and the ones that stood back here were gobbled up by the by the earthquake like in the movie they all fell in there and the lightning was striking because they were celebrating and they were worshiping that that cow that's the way I saw it
+- **[38:46](https://www.youtube.com/watch?v=AEeRd06pWWU&t=2326s) · 他描述所见**：you're going to see he even kept saying war war war war I kept hearing that in the spirit but um uh when all these T things start taking place and you see the people that are asleep that start getting awake I saw the the catchers Miss and we were catching and bringing those people in
+- **[39:06](https://www.youtube.com/watch?v=AEeRd06pWWU&t=2346s) · 本段原话**：Jesus um we have such a job to do ladies and gentlemen Jesus is coming he's standing at the door and I'm excited what God has in store for us for 2025 Diane and I talk about it all the time uh he's given us a lot of personal words of getting us ready and getting uh
 
 ### 完整英文 Transcript
 
@@ -1024,7 +1091,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:19](https://www.youtube.com/watch?v=AEeRd06pWWU&t=2419s) · 本段原话**：God for in 2025 and make a list about it and then find scriptures that pertain to what you're believing for like he healing Prosperity whatever you're believing for find scriptures and write those on there too cuz those are the scriptures that you're standing by so it said if ye abide to me and my words
+- **[42:41](https://www.youtube.com/watch?v=AEeRd06pWWU&t=2561s) · 他表达判断**：believe it God you're going to do it I believe like a child that you are able to do what you said You' do and in 2025 we will Thrive and it will be I you know I don't want to do all the Christian Ling go all the time you know like the people say 2024 we'll soar and all the
+- **[43:59](https://www.youtube.com/watch?v=AEeRd06pWWU&t=2639s) · 本段原话**：know God is able to do so that's what we want to do and we're going to take communion with you right now we're going to take communion as we close out this year we're into this new year and we're so thankful for what he's done for 2024 and we give God praise for all that you've provided for
+- **[44:18](https://www.youtube.com/watch?v=AEeRd06pWWU&t=2658s) · 他进行祷告**：every person that's on here helping us they watch these videos we bless you in the name of Jesus and thank you for your support coming on these videos every day and watching them we pray we we have we have we we've been a place of Oasis for you to get refreshed in 2024 and we've
 
 ### 完整英文 Transcript
 
@@ -1158,7 +1232,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:02](https://www.youtube.com/watch?v=AEeRd06pWWU&t=2702s) · 本段原话**：2024 that we are leaving it right now and we'll have be completely healed of whatever we need in 2025 we've got it and we believe it we receive it that we won't go through 2025 sick with disease uh with any kind of mental torments or disorders of the mind that father that they're not tormented
+- **[46:08](https://www.youtube.com/watch?v=AEeRd06pWWU&t=2768s) · 本段原话**：blood and the Covenant before you God you said that our sins are far as the East is from the west and we we start this year off under that blood we start out we're going to stay there we take the Covenant we lift up the co the Covenant before you father we thank you
+- **[47:32](https://www.youtube.com/watch?v=AEeRd06pWWU&t=2852s) · 本段原话**：everything you stole I call forth a restoration a restitution of everything the devil stole in 2024 we call it back in 2025 peace Joy all the things that we we were missing that nothing missing nothing broken will happen in 2025 for us we call it right now as of this moment we're not believing for it in
+- **[48:37](https://www.youtube.com/watch?v=AEeRd06pWWU&t=2917s) · 本段原话**：favor of the Lord and there's no luck about it you don't have luck when you're a Christian you walk in the favor and the blessing for I bless you coming in and I'll bless you going out and as we take this communion it it shows that we're serious we're all in we're all in
 
 ### 完整英文 Transcript
 
@@ -1278,7 +1359,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–53:34 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:17](https://www.youtube.com/watch?v=AEeRd06pWWU&t=3017s) · 他表达判断**：will not touch America anymore the father that we have that season as he's cracking his whip father you through him as we cry out out for you that the economy will not fall they he'll have Supernatural wisdom on how to restore it all I believe father this is a time of great acceleration for the body of
+- **[51:45](https://www.youtube.com/watch?v=AEeRd06pWWU&t=3105s) · 他表达判断**：me the other day come to the fountain that never shall run [Music] dry there is is a river I believe that's the way the words go let it flow deep [Music] inside y'all great days are ahead for the body of
+- **[52:17](https://www.youtube.com/watch?v=AEeRd06pWWU&t=3137s) · 本段原话**：Christ he's coming he's coming and we're at the ground finale we're at the Tipping Point the point of no return and in this generation whether how long that lasts a point of no return whether it's 5 years 10 years whatever I don't know all I know is that we're in The Final Countdown we're in The Final Countdown
+- **[53:02](https://www.youtube.com/watch?v=AEeRd06pWWU&t=3182s) · 本段原话**：thrive praise God praise God well if you're new here and you've never been to our videos please like subscribe click the notification Bell we appreciate all your support over 2024 and we look forward to a greater year with yall in 2025 we'll put a smile on your face and a song in your heart Jesus loves you and
 
 ### 完整英文 Transcript
 

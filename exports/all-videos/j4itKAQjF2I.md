@@ -5,7 +5,7 @@
 **上传日期**: 20260920
 **源字幕行数**: 2627；**章节数**: 12；**明确省略行数**: 2
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 130:00–142:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-11)
 - [12. 143:00–147:44 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[04:25](https://www.youtube.com/watch?v=j4itKAQjF2I&t=265s) · 他描述所见**：war. and uh wanting retaliation, trying to hit him where it hurts. And so uh you know, business business is a big deal to President Trump. He's a businessman. And so I saw praying over Chicago specifically, praying over Chicago, praying over uh where he has his major buildings, new uh uh Las Vegas strip, praying over
+- **[26:19](https://www.youtube.com/watch?v=j4itKAQjF2I&t=1579s) · 本段原话**：Prices hitting another record on Friday, soaring past $6 a gallon due to the war with Iran. Farmers feeling the pain in the heart of harvest season. The machine behind me uses 200 gallons a day. We have to harvest. We have to run the machines. We have to use the diesel. So bottom line is it cuts into our bottom
+- **[52:47](https://www.youtube.com/watch?v=j4itKAQjF2I&t=3167s) · 他描述所见**：the to the uh Democratic party during the election times and it was in strategic accounts and they would call upon that money and I saw money flooding into the uh um into certain people's accounts and it was it was out of of of war money that's disappeared.
+- **[91:00](https://www.youtube.com/watch?v=j4itKAQjF2I&t=5460s) · 他描述所见**：Guatemala Panama? Huh? All in that that corner all the neck. There's a shaking going all the way into Colombia. There's a shaking. There's a shaking. Do you remember? Do you remember the persecution? And I said there they're in the trees. I saw the trees the the trees in the church and the missionaries.
+- **[117:47](https://www.youtube.com/watch?v=j4itKAQjF2I&t=7067s) · 本段原话**：It's interesting. There's so many people standing on the water's edge, but they're dressed in long clothes like sweaters, red red sweaters, black pants, red sweaters with black pants. And they're at the w the edge of the water and they're looking over into this big sister of water.
+- **[143:21](https://www.youtube.com/watch?v=j4itKAQjF2I&t=8601s) · 本段原话**：Concerning our nation, concerning our nation. Father, I thank you, Lord, that every plot, every plan will come, will not happen. They will, it will fall. And father, I thank you, Lord, that the the the destruction that would come against this land, Father, the FBI, Homeland Security, our Secret Service, uh the local law, sheriff's
+
 <a id="section-01"></a>
 ## 01. 00:00–12:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Oklahoma、Las Vegas。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:25](https://www.youtube.com/watch?v=j4itKAQjF2I&t=265s) · 他描述所见**：war. and uh wanting retaliation, trying to hit him where it hurts. And so uh you know, business business is a big deal to President Trump. He's a businessman. And so I saw praying over Chicago specifically, praying over Chicago, praying over uh where he has his major buildings, new uh uh Las Vegas strip, praying over
+- **[05:29](https://www.youtube.com/watch?v=j4itKAQjF2I&t=329s) · 他描述所见**：trains um the the subway cars being derailed and they were filled with water. And so it was very uh a wellthoughtout plan. And then I saw the 911 systems uh making it where you couldn't call in with cyber attacks, some kind of blockage. And so they weren't they were making it uh where uh
+- **[10:14](https://www.youtube.com/watch?v=j4itKAQjF2I&t=614s) · 他描述所见**：agree and we bind and we lose our angels and we and we come against the plans and the plots and the and the and the attack of the enemy on our nation. And we pray for President Trump's mind that he doesn't take counsel from the ungodly concerning foreign events, concerning domestic, concerning finances. I saw a hex and a vex coming
+- **[11:20](https://www.youtube.com/watch?v=j4itKAQjF2I&t=680s) · 他描述所见**：I'm holding the church accountable. If you remember what the Lord showed me back in um was it January? And I saw a a major attack coming against him. He's getting off the plane and they were trying to snipe him from over a mile away with a 50 caliber weapon. And the Lord said it was when Usha w uh was
 
 ### 完整英文 Transcript
 
@@ -317,7 +335,14 @@
 <a id="section-02"></a>
 ## 02. 13:00–25:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、地震、风暴与灾害。 提到的地点：Oklahoma、New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:48](https://www.youtube.com/watch?v=j4itKAQjF2I&t=948s) · 本段原话**：Yes. See, uh, they're showing all the President Trump and other dignitaries, including the president of Iran and the Israeli Prime Minister Benjamin Netanyahu, will be coming here to New York. We asked, how do they secure an event like this? And they told us by boat. The UN is right behind me up there. And you can see here, this is the
+- **[20:01](https://www.youtube.com/watch?v=j4itKAQjF2I&t=1201s) · 本段原话**：explosive or energetic materials are detected. There's only about 3,000 [music] bomb techs in the entire United States. My team are the only ones that are really certified to handle anything dealing with explosives within the city.
+- **[22:02](https://www.youtube.com/watch?v=j4itKAQjF2I&t=1322s) · 他描述所见**：Yeah. Which one go first? April, the newest one. This is April the 16th of 2026. So, this is spring. Early spring. Early spring. The Lord's speaking to us. And this is what the Lord said about what summer would look like for this year. And I saw a dust bowl. I saw farmers leaving their
+- **[25:13](https://www.youtube.com/watch?v=j4itKAQjF2I&t=1513s) · 他描述所见**：So, it's interesting, huh? Because the Lord said it it'd be unusual hot and we're the third hottest summer uh in record. So, the word came to pass. The part I think is interesting about the animals, I say it was all in the same vision. I saw the animals acting weird.
 
 ### 完整英文 Transcript
 
@@ -649,7 +674,14 @@
 <a id="section-03"></a>
 ## 03. 26:00–38:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、祷告、敬拜与现场互动。 提到的地点：Florida、France、Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[26:19](https://www.youtube.com/watch?v=j4itKAQjF2I&t=1579s) · 本段原话**：Prices hitting another record on Friday, soaring past $6 a gallon due to the war with Iran. Farmers feeling the pain in the heart of harvest season. The machine behind me uses 200 gallons a day. We have to harvest. We have to run the machines. We have to use the diesel. So bottom line is it cuts into our bottom
+- **[27:24](https://www.youtube.com/watch?v=j4itKAQjF2I&t=1644s) · 本段原话**：Everything that we touch has gone up. Matt Bell relies on diesel fuel to farm corn, soy, wheat, and cattle in Kings Mountain, North Carolina. But with diesel at an all-time high of 640 a gallon, it's costing twice as much to run the machines. Bell, who voted for Trump, says he and fellow farmers plan
+- **[30:10](https://www.youtube.com/watch?v=j4itKAQjF2I&t=1810s) · 本段原话**：drive around your house, and call forth the rain." And we we had only one major tornado that hit really hard that the Lord showed us exactly where it was going to go in Enid and Woodward and and it was a a even the weatherman told us what it would be and it was exactly like
+- **[36:37](https://www.youtube.com/watch?v=j4itKAQjF2I&t=2197s) · 他描述所见**：And I saw the glory on them. And there was glory on there. And I saw one man, he had hair on the sides and he had bowing in the center center and gray hair and he had uh suspenders on with a white shirt and black pants. And he had a he had a belly had a big belly like
 
 ### 完整英文 Transcript
 
@@ -973,7 +1005,14 @@
 <a id="section-04"></a>
 ## 04. 39:00–51:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：Canada、China、Russia、Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[41:23](https://www.youtube.com/watch?v=j4itKAQjF2I&t=2483s) · 他描述所见**：Yes. We're already 41 minutes. I'm sorry. We're we're taking Okay. So basically bottom line is everything the Lord showed us about this right here back when I saw the eye of the storm and I saw Rashishana coming and he said there would be an escalation of things on August the 21st is manifesting today in the news and he
+- **[44:42](https://www.youtube.com/watch?v=j4itKAQjF2I&t=2682s) · 他讨论新闻或报道**：that, let's bring in Fox Business contributor and Baron's Investor Circle newsletter editor Josh Schaefer. Josh, this is really fascinating news and uh obviously it looks like this deal is going to get done and signed at the UN General Assembly. The Prime Minister saying that she supports this, everybody's on board. What does this
+- **[46:49](https://www.youtube.com/watch?v=j4itKAQjF2I&t=2809s) · 他描述所见**：So go it parrots. Yeah. Go. No. Me. Now at the very end I say he they it's for storing the it the Lord said it was for storing the energy. They wanted major battery. I saw tower battery towers in your house to store for power outages for uh Elon Musk had they were
+- **[51:07](https://www.youtube.com/watch?v=j4itKAQjF2I&t=3067s) · 他描述所见**：It's about the electric grid, the oil. Remember the oil, the electric g grid, our infrastructure through black on events, these these attacks pray against is to take I see Trump taking great steps forward and them trying to knock him back.
 
 ### 完整英文 Transcript
 
@@ -1261,7 +1300,14 @@
 <a id="section-05"></a>
 ## 05. 52:00–64:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、特朗普与白宫。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[52:47](https://www.youtube.com/watch?v=j4itKAQjF2I&t=3167s) · 他描述所见**：the to the uh Democratic party during the election times and it was in strategic accounts and they would call upon that money and I saw money flooding into the uh um into certain people's accounts and it was it was out of of of war money that's disappeared.
+- **[56:11](https://www.youtube.com/watch?v=j4itKAQjF2I&t=3371s) · 他描述所见**：[laughter] It's But it's important and what we what we're praying and we it's it's happening. This is on April the 5th uh right after March just happened and we were just in the beginning of spring and the Lord was telling us what was coming uh black swan events he and in Carney and I saw uh many many 911s but I
+- **[59:16](https://www.youtube.com/watch?v=j4itKAQjF2I&t=3556s) · 他描述所见**：And so the Lord was showing me, he said, "We must pray into this." Praying over the hearts of these judges. Remember I warned you all that I saw three more judges going into President Trump's term going into the next three more year, three or so years. I saw other judges trying to be a um a hindrance and the
+- **[63:25](https://www.youtube.com/watch?v=j4itKAQjF2I&t=3805s) · 他描述所见**：And he said, "It will be substantial rain in certain areas to the point where they'll complain about the rain and the moisture coming from the from the uh it it looked like a cycle of rain rain in certain areas. It would flood and it was cold and I saw major ice storms. And I saw ash. I saw the power
 
 ### 完整英文 Transcript
 
@@ -1575,7 +1621,14 @@
 <a id="section-06"></a>
 ## 06. 65:00–77:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[65:53](https://www.youtube.com/watch?v=j4itKAQjF2I&t=3953s) · 他描述所见**：of joy, days of fun have just begun. days of great fun. And as I was we were talking about it today, there'll be crews there'll be crews that follow uh healing evangelists around because social media is so uh easy access now. And I saw in the days ahead there'll be crews like you'll have a uh a filming crew and
+- **[67:37](https://www.youtube.com/watch?v=j4itKAQjF2I&t=4057s) · 他描述所见**：He's calling us. But when we see the supernatural manifest on the natural, I saw people coming to the to to the saving knowledge of the Lord Jesus Christ that I'm talking like moths to a light.
+- **[69:39](https://www.youtube.com/watch?v=j4itKAQjF2I&t=4179s) · 他转述所听到的话**：And people say, "What? You just say that?" No, it's the truth. You've seen it whenever it's flatline like it was even last night. You just pray into something for over an hour and I just pray. Lord said you don't see nothing. You see little glimpses and he tells you keep on quue.
+- **[76:02](https://www.youtube.com/watch?v=j4itKAQjF2I&t=4562s) · 他描述所见**：Yeah, I saw it [laughter] when I saw when I was looking into Branson again and I I had a flash and I can see the and it will come to pass. He said, "Yeah, what I show you, it will come to pass.
 
 ### 完整英文 Transcript
 
@@ -1844,7 +1897,14 @@
 <a id="section-07"></a>
 ## 07. 78:00–90:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[78:45](https://www.youtube.com/watch?v=j4itKAQjF2I&t=4725s) · 他描述所见**：And I see the the Holy Ghost flow of worship worship. And we speak to the dry bones. We speak to the valley of the dry bones concerning Australia.
+- **[82:53](https://www.youtube.com/watch?v=j4itKAQjF2I&t=4973s) · 他描述所见**：I sing praises to your name, oh Lord. Praisees to your name, oh Lord, [singing] for your name is great. I I see services. I see the glory so strong in these services. I see the presence and the weightiness of the glory. it. This is a tangible manifestation of the glory
+- **[88:15](https://www.youtube.com/watch?v=j4itKAQjF2I&t=5295s) · 他描述所见**：ranto. to and there's a storm. There's a rain there's a rain cloud with a with the thunder and the lightning and I hear the sound of the rain and I see the rain above this this area. There's a rain it is for it started [screaming] out the size of a man's hand and it will grow and it
+- **[90:26](https://www.youtube.com/watch?v=j4itKAQjF2I&t=5426s) · 他描述所见**：And I see them conjuring up. I see the I see the the these the there's a group there's a group of these people dark dark witch that down there and and and they're trying and trying to come up with purple but the glory the glory [screaming] I told you all in through Panama all
 
 ### 完整英文 Transcript
 
@@ -2022,7 +2082,14 @@
 <a id="section-08"></a>
 ## 08. 91:00–103:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[91:00](https://www.youtube.com/watch?v=j4itKAQjF2I&t=5460s) · 他描述所见**：Guatemala Panama? Huh? All in that that corner all the neck. There's a shaking going all the way into Colombia. There's a shaking. There's a shaking. Do you remember? Do you remember the persecution? And I said there they're in the trees. I saw the trees the the trees in the church and the missionaries.
+- **[95:28](https://www.youtube.com/watch?v=j4itKAQjF2I&t=5728s) · 他描述所见**：I want I It's like when you get a hold of something like a real good piece of steak. Some of you vegans, you like a tofu. But I'm telling you this one right here. I see it in the spirit.
+- **[101:10](https://www.youtube.com/watch?v=j4itKAQjF2I&t=6070s) · 本段原话**：I sing praises to your name. There it is. And God said, "Behold, I have given you every herb bearing seed which is upon the face of of all the earth, and every tree in in the which is the fruit of the tree yields seed to you, and it shall be your meat." I know,
+- **[103:05](https://www.youtube.com/watch?v=j4itKAQjF2I&t=6185s) · 他描述所见**：The Canadian leaf. I see that that that leaf. foreign bear day.
 
 ### 完整英文 Transcript
 
@@ -2205,7 +2272,14 @@
 <a id="section-09"></a>
 ## 09. 104:00–116:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[107:22](https://www.youtube.com/watch?v=j4itKAQjF2I&t=6442s) · 他描述所见**：me. We're put I'm getting it. I'm getting over there and I can see it, but it's concerning Canada, but it's concerning British Columbia. And I see logs. And I can see the logs, but but but but then I see the leaves on on that red I see the Canadian leaf on the on
+- **[109:37](https://www.youtube.com/watch?v=j4itKAQjF2I&t=6577s) · 他描述所见**：Okay. I see school buses. I see school buses. I see a You are holy, holy are you, Lord God [screaming] Almighty.
+- **[111:28](https://www.youtube.com/watch?v=j4itKAQjF2I&t=6688s) · 他描述所见**：I see a satellite, [clears throat] a school bus, a rocket, but this rocket is not as big as what I saw taking off down at the other first rocket. This rocket's smaller, a school bus, but what's interesting is it's the short bus. It's not the big long school bus.
+- **[115:53](https://www.youtube.com/watch?v=j4itKAQjF2I&t=6953s) · 他描述所见**：I see a vast hole. And it's dark all the way down. But it's full of water. This water's deep.
 
 ### 完整英文 Transcript
 
@@ -2347,7 +2421,14 @@
 <a id="section-10"></a>
 ## 10. 117:00–129:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、物资、能源与供应链。 提到的地点：Canada、Vatican。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[117:47](https://www.youtube.com/watch?v=j4itKAQjF2I&t=7067s) · 本段原话**：It's interesting. There's so many people standing on the water's edge, but they're dressed in long clothes like sweaters, red red sweaters, black pants, red sweaters with black pants. And they're at the w the edge of the water and they're looking over into this big sister of water.
+- **[120:58](https://www.youtube.com/watch?v=j4itKAQjF2I&t=7258s) · 他描述所见**：saw school bus and I saw a short school bus. And then I saw a rocket taking off, but it was only two engines.
+- **[123:07](https://www.youtube.com/watch?v=j4itKAQjF2I&t=7387s) · 他描述所见**：I see their their little the thing with the what they had the maple leaf. Huh.
+- **[125:31](https://www.youtube.com/watch?v=j4itKAQjF2I&t=7531s) · 他描述所见**：this because right whenever I went over there and I yelled in I and I can see I went over there and I could see the green train again. I see a green train concerning Europe, concerning France. A green train.
 
 ### 完整英文 Transcript
 
@@ -2485,7 +2566,14 @@
 <a id="section-11"></a>
 ## 11. 130:00–142:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[131:18](https://www.youtube.com/watch?v=j4itKAQjF2I&t=7878s) · 他描述所见**：it and I can see the I can see little things but it all don't make sense in the natural and and that's why I'm saying it's very this is very different but as I said I I can jump and I can see it and I see gold and I see the green trains and the
+- **[137:42](https://www.youtube.com/watch?v=j4itKAQjF2I&t=8262s) · 本段原话**：But you get above all that that static and you push above it and there's just nothing like it and you don't and and until the until that you get above it, you don't even realize you're there. A lot of times sometimes I it I push and push and you get above it and you and you go even
+- **[139:43](https://www.youtube.com/watch?v=j4itKAQjF2I&t=8383s) · 他描述所见**：that he gets refreshed. He sleeps well. I see all that around him tonight. Lord, there's so much.
+- **[141:41](https://www.youtube.com/watch?v=j4itKAQjF2I&t=8501s) · 他描述所见**：I see Dawn Jr. as they go low in the days ahead, he'll go high.
 
 ### 完整英文 Transcript
 
@@ -2645,7 +2733,14 @@
 <a id="section-12"></a>
 ## 12. 143:00–147:44 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 提到的地点：Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[143:21](https://www.youtube.com/watch?v=j4itKAQjF2I&t=8601s) · 本段原话**：Concerning our nation, concerning our nation. Father, I thank you, Lord, that every plot, every plan will come, will not happen. They will, it will fall. And father, I thank you, Lord, that the the the destruction that would come against this land, Father, the FBI, Homeland Security, our Secret Service, uh the local law, sheriff's
+- **[144:16](https://www.youtube.com/watch?v=j4itKAQjF2I&t=8656s) · 他进行祷告**：Well, I appreciate every single one of you. I know it's going on 11 o'clock and and I'm so thankful for every one of you that came out tonight and pray with me two hours and a half. I appreciate every one of you. I really truly do. Many hands make light work and not every time
+- **[145:48](https://www.youtube.com/watch?v=j4itKAQjF2I&t=8748s) · 本段原话**：So you're not you're not led by your emotion in your flesh. No matter what your flesh tried to tell you, well that don't make sense. It don't matter what it may for for the natural man perceiveth not the things of God. Shut up flesh. You don't you're not going to understand it. I have to catch this by
+- **[146:36](https://www.youtube.com/watch?v=j4itKAQjF2I&t=8796s) · 本段原话**：So you'll learn. I'm learning still. And so you just keep pushing in the river and he'll take you where you need to go concerning Canada, concerning uh South America at the beginning and praying for all the things I was seeing about the whirlwind and uh uh praying for the rain, calling in the rain, calling in
 
 ### 完整英文 Transcript
 

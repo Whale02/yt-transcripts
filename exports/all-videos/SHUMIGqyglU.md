@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 342；**章节数**: 4；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -14,10 +14,26 @@
 - [03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-03)
 - [04. 12:00–13:44 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-04)
 
+## 全片概述与 Key Points
+
+全片共 4 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=SHUMIGqyglU&t=0s) · 本段原话**：hey good morning family I'm going to do backtack videos today but I just want to tell you all another thing that was on my heart you know I I told you all I was I went and I had a a meeting with Pastor Steve uh calani and I and I and I want
+- **[04:01](https://www.youtube.com/watch?v=SHUMIGqyglU&t=241s) · 本段原话**：live prayer thing and so he's asking me to do some of them and so I'm asking Lord I I'm busy a lot but I'm going to do as many as I can you know at least once a week try to maybe once every other week I'm not I can't just because of how much how busy I am but I but I
+- **[08:01](https://www.youtube.com/watch?v=SHUMIGqyglU&t=481s) · 本段原话**：know I just felt you know I just want to tell you all it's it's important to be a part of something you know and um whether it's online like I'm talking about Pastor Steve or online for somebody else but don't be out by yourself find you a good place to be a part of tithe give help the body out
+- **[12:01](https://www.youtube.com/watch?v=SHUMIGqyglU&t=721s) · 本段原话**：single person that is represented here today we call them delivered from sickness and disease from the top of their head to the soles of their feet delivered from acid reflux gird whatever it may be it doesn't matter Jesus Paid the price for you to walk in Divine health over thyroid disorders and over
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=SHUMIGqyglU&t=0s) · 本段原话**：hey good morning family I'm going to do backtack videos today but I just want to tell you all another thing that was on my heart you know I I told you all I was I went and I had a a meeting with Pastor Steve uh calani and I and I and I want
+- **[02:19](https://www.youtube.com/watch?v=SHUMIGqyglU&t=139s) · 本段原话**：leadership where you're giving comes down upon the people if the Pastors in sin you start seeing manifestations of sin in the staff then it starts coming down on sin on the on on the congregation because it starts with the head and it comes down okay because it's like a covenant and I don't
+- **[03:17](https://www.youtube.com/watch?v=SHUMIGqyglU&t=197s) · 他进行祷告**：trying to say when you come underneath a covering that's Godly that is uh that prays for his people intercedes or uh or or prays for you when you're sick or whatever or uh that believes in ancest prayer like Pastor Steve they have prayer every single night they pray at at a corporate thing and he asked me to start being a
+- **[03:40](https://www.youtube.com/watch?v=SHUMIGqyglU&t=220s) · 本段原话**：part of that and leading some of it so you know and I'm praying about I I feel in my heart I'm supposed to help out with this you know and so I encourage youall if you want to come to live prayer you can come over there to his thing I'm going to start doing live
 
 ### 完整英文 Transcript
 
@@ -123,7 +139,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=SHUMIGqyglU&t=241s) · 本段原话**：live prayer thing and so he's asking me to do some of them and so I'm asking Lord I I'm busy a lot but I'm going to do as many as I can you know at least once a week try to maybe once every other week I'm not I can't just because of how much how busy I am but I but I
+- **[04:54](https://www.youtube.com/watch?v=SHUMIGqyglU&t=294s) · 他表达判断**：tithing is for today I tithe I give I sow and I and I believe the Bible says in Malachi that he rebukes the devour for your sake and just go on and on and on read that that whole passage there I still believe that for me today that those things the windows of Heaven are open
+- **[05:14](https://www.youtube.com/watch?v=SHUMIGqyglU&t=314s) · 他表达判断**：and he pours us out a blessing that we don't have room enough to receive it all I believe with all my heart there's still a covenant exchange with finances and um with the Lord with the with the pasture the covering oh and so like I was telling you all just a minute ago
+- **[07:32](https://www.youtube.com/watch?v=SHUMIGqyglU&t=452s) · 本段原话**：all to understand how much of importance it is to have a covering a spiritual covering over your home and so Pastor Steve is amazing covering I'm I'm excited to be there I'm excited to be a part of his uh his his little church there and we're and and so you know I whenever he gets a phys physical
 
 ### 完整英文 Transcript
 
@@ -233,7 +256,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=SHUMIGqyglU&t=481s) · 本段原话**：know I just felt you know I just want to tell you all it's it's important to be a part of something you know and um whether it's online like I'm talking about Pastor Steve or online for somebody else but don't be out by yourself find you a good place to be a part of tithe give help the body out
+- **[09:09](https://www.youtube.com/watch?v=SHUMIGqyglU&t=549s) · 本段原话**：Bill Alabama I'd go to his church on Sundays I'd help Pastor Steve still but I'm just telling you all if you have if pastor Pastor John Kilpatrick is amazing and so uh there's just P there's certain pastors that I just I really I really feel good about and they really really stand out to me I walk in the prophetic
+- **[09:45](https://www.youtube.com/watch?v=SHUMIGqyglU&t=585s) · 他进行祷告**：about Jesus coming and um know that we are living in the last of the last days so let me pray for you all today I hope was this good I hope it blessed you all I I mean I it was just on my heart it's some conversation that I had with Pastor Steve and he thought I should talk about
+- **[10:39](https://www.youtube.com/watch?v=SHUMIGqyglU&t=639s) · 本段原话**：they've been hurt if they've been grieved if they've been burdened down by people hurting them at a church I thank you Father that they forgive them and they realize that people are just people people are human and that we we forgive those that persecute us or hurt us or say something bad to us or whatever and
 
 ### 完整英文 Transcript
 
@@ -346,7 +376,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–13:44 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=SHUMIGqyglU&t=721s) · 本段原话**：single person that is represented here today we call them delivered from sickness and disease from the top of their head to the soles of their feet delivered from acid reflux gird whatever it may be it doesn't matter Jesus Paid the price for you to walk in Divine health over thyroid disorders and over
+- **[12:21](https://www.youtube.com/watch?v=SHUMIGqyglU&t=741s) · 他进行祷告**：over eating disorders and anorexia and all kinds of things God has paid the price for you to be free from it and I thank you Lord that you took you took it all on the cross for them I thank you Father that you bore it on the you're bore it in your body that we need need
+- **[12:54](https://www.youtube.com/watch?v=SHUMIGqyglU&t=774s) · 他进行祷告**：on their house blessing on their family blessing on their minds and increase on them in jesus' name that they are the head and not the tail above and not beneath and they will go through and not go under they they are more than conquerors through him who who are in Christ Jesus we thank you Lord for them
+- **[13:31](https://www.youtube.com/watch?v=SHUMIGqyglU&t=811s) · 本段原话**：it's fine don't worry about them put a smile on your face and a song in your heart Jesus loves you so much and we love you and we will see you very soon you all have a blessed day and we'll see you later byebye
 
 ### 完整英文 Transcript
 

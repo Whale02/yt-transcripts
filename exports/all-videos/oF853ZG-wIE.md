@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1064；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 40:00–43:33 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=oF853ZG-wIE&t=0s) · 本段原话**：hey good morning family thank you for joining me today well praise the Lord you know I I've been getting all your letters and all year I got these pictures from from a a 15-year-old kid a girl at praying for her brother to come home to Jesus he's been Wayward and he's not home and and and when I'm
+- **[08:02](https://www.youtube.com/watch?v=oF853ZG-wIE&t=482s) · 他表达判断**：God showed him showed up and showed off in his life and set him around I believe that there's no one too far gone for Jesus to save they may be the biggest murderer the biggest biggest idolater they may be the biggest whatever God can take them out of that pit of despair and turn their life
+- **[16:40](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1000s) · 本段原话**：do exceedingly abundantly above all that I dare ask or think do you believe it today are you a believing believer are you able to say well you say I don't know I've never had a break but today your day do you do you have to believe it with your heart and confess in your
+- **[24:00](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1440s) · 本段原话**：me and I choose to live that way I choose to believe in the power and the authority of the blood of Jesus that I can apply it over my kids when they go to sleep and no sickness no disease comes nice no plague comes nice we going to plead the blood over our sleep we're
+- **[32:38](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1958s) · 本段原话**：with my eyes and I'm not going to look at that filth anymore I plead the blood over my eyes I plead the blood over the inside of me I refuse to submit myself to the devil I submit myself to God and I'm not going to look at filth on the internet there's too much of it some of these people say
+- **[40:01](https://www.youtube.com/watch?v=oF853ZG-wIE&t=2401s) · 本段原话**：truth we will not have a spirit of rebellion in my house you got to take authority over it but with a parent you take authority over with the switch that's what the Lord spare the rod bow the child not abuse it doesn't no there's no abuse in in in correction now people get carried
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=oF853ZG-wIE&t=0s) · 本段原话**：hey good morning family thank you for joining me today well praise the Lord you know I I've been getting all your letters and all year I got these pictures from from a a 15-year-old kid a girl at praying for her brother to come home to Jesus he's been Wayward and he's not home and and and when I'm
+- **[01:31](https://www.youtube.com/watch?v=oF853ZG-wIE&t=91s) · 本段原话**：inside of your heart I've seen people get many miracles they get delivered from demonic spirits and they'll get delivered and they'll be delivered for a little season but the Bible says the enemy comes back with seven more of his friends worse than what he was if they don't get the word if they find the
+- **[01:55](https://www.youtube.com/watch?v=oF853ZG-wIE&t=115s) · 他进行祷告**：house that is empty no matter how many times I pray for every single one of you and intercede the buck stops with you ultimately you will have to learn how to stand by faith and believe for your own stuff the Bible says that you should know the truth and the truth will set
+- **[02:57](https://www.youtube.com/watch?v=oF853ZG-wIE&t=177s) · 本段原话**：will and it shall be done period perod so we're going to get the word down inside our hearts and we're going to get the word for every single person every person that I have here all these prayer requests all these people wayward children people saying that they're battling with sexual perversions and homosexuality and and wanting to be free
 
 ### 完整英文 Transcript
 
@@ -124,7 +142,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:19](https://www.youtube.com/watch?v=oF853ZG-wIE&t=259s) · 本段原话**：they're bound out by by all kinds of demonic spirits the the devil's been defeated and the the the Lord is not going to do anything else about the devil he defeated him he triumphed over him above all principalities and powers of Might he defeated the devil once and for all and he's not going to go back and
+- **[06:24](https://www.youtube.com/watch?v=oF853ZG-wIE&t=384s) · 他进行祷告**：my bed my husband my wife and we're going to pray over our marriage we're going to stand on the word and we're not going to allow the devil to come in like a roaring lion seeking whom he may devour he's seeking that means he can't devour everybody the ones he can't devour are the ones that have the blood
+- **[06:41](https://www.youtube.com/watch?v=oF853ZG-wIE&t=401s) · 他表达判断**：appli applied upon their house the ones that have the blood applied upon them he cannot devour a Blood Washed born again Christian I believe with all my heart there's a power and authority in the name of Jesus and the blood of Jesus so you must understand your Covenant and play plead the blood over your unsaved
+- **[07:06](https://www.youtube.com/watch?v=oF853ZG-wIE&t=426s) · 本段原话**：loved ones and say Satan take because the Bible says that that that Satan has blinded the eyes of the unbeliever and there there there unbelievers there's a lot of unbelievers here that are believing for salvation so this is what I'm going to tell you to do say according to Ephesians 1:18 the eyes
 
 ### 完整英文 Transcript
 
@@ -229,7 +254,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:02](https://www.youtube.com/watch?v=oF853ZG-wIE&t=482s) · 他表达判断**：God showed him showed up and showed off in his life and set him around I believe that there's no one too far gone for Jesus to save they may be the biggest murderer the biggest biggest idolater they may be the biggest whatever God can take them out of that pit of despair and turn their life
+- **[09:03](https://www.youtube.com/watch?v=oF853ZG-wIE&t=543s) · 他描述所见**：loved ones are from the Lord it only takes one second I've seen the worst of the worst Sinners when I work for Victory Church in in Oklahoma City I saw some of the the people that you would think man there is no hope turn around within just a couple of days within just
+- **[10:32](https://www.youtube.com/watch?v=oF853ZG-wIE&t=632s) · 本段原话**：them because you're not getting a lot of it from your churches and I and I and the pastors are they're teaching you a lukewarm word a lot of people are getting a lukewarm word they're getting a uh a 30 minute little sermon a sermonette please give please tithe do all this you may get a a
+- **[11:12](https://www.youtube.com/watch?v=oF853ZG-wIE&t=672s) · 本段原话**：diagnosis from the doctor what about my marriage that's falling apart I got something that kind of give me a feel good a little bit but I'm still overcoming I'm still broken I'm still like lost but I'm telling you how you're going to do it when the rubber meets the road how you how else to do is stand and stand
 
 ### 完整英文 Transcript
 
@@ -335,7 +367,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、疾病、医疗与药品、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、疾病、医疗与药品展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:21](https://www.youtube.com/watch?v=oF853ZG-wIE&t=741s) · 他描述所见**：he's never going to change oh she's never going to change I have the worst wife ever I have the worst husband ever and you say those things out of your mouth all the time gu what you're living that exactly what you said but you start saying I'm not moved by what I see I'm
+- **[14:42](https://www.youtube.com/watch?v=oF853ZG-wIE&t=882s) · 本段原话**：law Galatians 3:13 says Christ has redeemed me from the curse of the law and that's all part of the curse generational curses are a curse and I'm not under the curse and a curse Without a Cause cannot stand and I'm not going to allow curses on my home we're going to allow the blessing in and I anoint
+- **[15:00](https://www.youtube.com/watch?v=oF853ZG-wIE&t=900s) · 他描述所见**：myself oil and I believe in my Covenant regardless of what I see and I tithe and I give and I sow and I believe and I sow and I give and I said God you're going to get me out of this because you've already said you paid for the price for it so I yield to the the process of
+- **[15:15](https://www.youtube.com/watch?v=oF853ZG-wIE&t=915s) · 本段原话**：change I yield to this father you said by your stripes I am healed regardless of what my flesh is trying to say to me well I got that that Creek over there and you know the grandma said you had kind of some arthritis no I'm redeemed from the curse of law I'm not going to
 
 ### 完整英文 Transcript
 
@@ -448,7 +487,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:40](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1000s) · 本段原话**：do exceedingly abundantly above all that I dare ask or think do you believe it today are you a believing believer are you able to say well you say I don't know I've never had a break but today your day do you do you have to believe it with your heart and confess in your
+- **[17:00](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1020s) · 他表达判断**：mouth that Jesus Christ is Lord that's how you got saved and it's the same way I believe for everything else I believe with my heart and I confess with my mouth Jesus is my deliverer Jesus is my is my redeemer Jesus set me free today I'm free today I'm I'm delivered and I will not be bound by any
+- **[17:45](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1065s) · 本段原话**：stripes we are healed Galatians 3:13 Christ is redeeming from the curs of Law and then it says in 2 Timothy 1:7 God has not given me a spirit of fear but of power power and of love and of a well balanced mind I refuse not to have a I have a balanced mind why because he's already
+- **[19:37](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1177s) · 本段原话**：circumstances to change there's no shortcuts there's no shortcuts we all have 24 hours in a day we all have seven days a week it's like you can go to the gym and look amazing and work out every day or you can eat and and be heavy like me I mean just being real of y'all I choose to to go
 
 ### 完整英文 Transcript
 
@@ -546,7 +592,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:59](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1259s) · 本段原话**：speed spoon feed you and he'll get you through when you're a baby babies need a little milk and pacifier spoon feed but when you become a spiritual adult and the more you grow up it's like that little Eagle that kicks her her chicklets out of the out of the nest it's time for you to Flap your wings and
+- **[21:16](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1276s) · 本段原话**：fly buddy you better get your wings out there and fly or you're going to die do you understand there's no more of this uh pacifier Christianity stuff we got to we got to put on our armor and say thus far Satan and no further either you put on the armor or he's going to devour you and you'll make
+- **[21:56](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1316s) · 他转述所听到的话**：else on me I'm not going to be afflicted by anything you're not going to do that to me I'll say this in close and I'll pray I heard one man said there's a bully in school and he was going around and and he was writing all the names of the people he thought he could whip this is
+- **[23:08](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1388s) · 本段原话**：going to come after you and I'm going to take everything back Sevenfold what you stole you'll become too expensive for the devil to mess with if you start claiming everything he stole from you you say I'm not going to allow you to you're not going to write my name down there you're not big enough to whip me
 
 ### 完整英文 Transcript
 
@@ -661,7 +714,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1440s) · 本段原话**：me and I choose to live that way I choose to believe in the power and the authority of the blood of Jesus that I can apply it over my kids when they go to sleep and no sickness no disease comes nice no plague comes nice we going to plead the blood over our sleep we're
+- **[24:49](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1489s) · 他表达判断**：believe you've Set Me Free and I take this body and I lifted up before you and I thank you Father that you were wounded for us you were you were bruised for our iniquities the chastisement of our peace was upon you and with your stripes I am healed I am healed I believe it I believe it today
+- **[25:52](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1552s) · 本段原话**：bid in your mind it's taken over your mind you think about it all the time I'm free I'm free find scriptures that that pertain to what you're believing God for what are you beli God find a scripture this stand Google it if you can't if you I don't have time to read for that Google
+- **[26:35](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1595s) · 他表达判断**：night and and find scriptures and pray over your sleep does that make sense I'm just trying to tell you the word will work if you work it there's no shortcuts the word will work if you work it so father right now in the name of Jesus I believe every single photo all these beautiful people that you've sent
 
 ### 完整英文 Transcript
 
@@ -767,7 +827,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:00](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1680s) · 他表达判断**：freely and make a choice for themselves without demonic hindrance we believe that father that every single person here that are believing for their miracles God I believe with them that father that the that their marriages are strong and her hair stops falling out Lord that the marriage is strong and father the the
+- **[30:12](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1812s) · 本段原话**：these people have lost their children to the DHS system that they would get their that they would get their lives right father they would get right and they' be strong and be good parents father they'd be good parents that father they just made some bad choices and they changed their reprobate Minds by the word of God
+- **[30:31](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1831s) · 本段原话**：and it's the only thing will ever set you completely free you'll never stay free without the word of God you'll always keep going around that mountain with drug addictions with all kinds of perversion you'll keep going around that mountain because the Devil comes immediately to challenge the word you understand he knows your weak spots
+- **[31:10](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1870s) · 本段原话**：children be taken away like that you understand you can say I'm done with this I'm not living that way anymore and he going to come back and tempt you he's going to come whisper in here hey remember that oh high you used to get off of that remember that old drunk you used to get up that was fun wasn't it no
 
 ### 完整英文 Transcript
 
@@ -879,7 +946,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、地震、风暴与灾害、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、地震、风暴与灾害展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:38](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1958s) · 本段原话**：with my eyes and I'm not going to look at that filth anymore I plead the blood over my eyes I plead the blood over the inside of me I refuse to submit myself to the devil I submit myself to God and I'm not going to look at filth on the internet there's too much of it some of these people say
+- **[32:57](https://www.youtube.com/watch?v=oF853ZG-wIE&t=1977s) · 他进行祷告**：I that this one got lost to homosexuality this one got L I'm I'm they're by the hundreds now but you've got to say enough's enough and I'm going to pray for these we just say they're delivered they're going to come to thems and be delivered now we don't hate homosexuality we don't hate people we
+- **[33:42](https://www.youtube.com/watch?v=oF853ZG-wIE&t=2022s) · 本段原话**：people and we love on them we love on them and we tell them the truth because I'm telling you all you're one there's many of you you're one breath away from spending eternity in hell and you don't even realize it one breath away one breath away and you you don't realize how close it's that the spirit
+- **[35:00](https://www.youtube.com/watch?v=oF853ZG-wIE&t=2100s) · 本段原话**：fire and the only way I know how to do it father is to keep seeking you with all my heart with all my soul with all my strength with all I've got I'm going to seek you and you said those that seek me will find me those that knock the door will be opened and I refuse to keep
 
 ### 完整英文 Transcript
 
@@ -982,7 +1056,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:58](https://www.youtube.com/watch?v=oF853ZG-wIE&t=2218s) · 他表达判断**：always going to have a home that's on fire for Jesus regardless if your husband's born again or your wife's born again or not I believe that things are going to turn around do you believe that you've got to believe it nobody else lives in your house other than you and your and who
+- **[37:42](https://www.youtube.com/watch?v=oF853ZG-wIE&t=2262s) · 他转述所听到的话**：then you have to take authority I heard the Holy Spirit say take authority I bind the spirit that's maneuvering in that individual right now I bind the spirit that's moving in my husband right now that's causing stri I bind that in the name of Jesus and I say you I you I I resist you I cast you out you'll not
+- **[38:12](https://www.youtube.com/watch?v=oF853ZG-wIE&t=2292s) · 本段原话**：name you do that you may have to go into the laundry room shut the door see underneath your breath you might have to CU your house might be small but you got to do it I bind the spirit of lust I bind pornography out of my house I bind anger I bind abuse I bind these things
+- **[39:32](https://www.youtube.com/watch?v=oF853ZG-wIE&t=2372s) · 本段原话**：trash where' you find that oh it came up my recommended no you ain't watching that trash no those kids are Rebellion those Spirits are going to try to rub rub up on you we're not doing that because what you feed on you'll become what you're reading what you're watching what you're doing that's what
 
 ### 完整英文 Transcript
 
@@ -1100,7 +1181,14 @@
 <a id="section-11"></a>
 ## 11. 40:00–43:33 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:01](https://www.youtube.com/watch?v=oF853ZG-wIE&t=2401s) · 本段原话**：truth we will not have a spirit of rebellion in my house you got to take authority over it but with a parent you take authority over with the switch that's what the Lord spare the rod bow the child not abuse it doesn't no there's no abuse in in in correction now people get carried
+- **[40:58](https://www.youtube.com/watch?v=oF853ZG-wIE&t=2458s) · 本段原话**：that God's going to correct you if you're off and he he he'll spank you spanks me all the time it seemed like I told I got another spanking today well he's one behind the camera that's why I brought his name up do y all understand God corrects those he loves so father we thank you
+- **[41:35](https://www.youtube.com/watch?v=oF853ZG-wIE&t=2495s) · 他表达判断**：abundance to the fool to it overflows and that's why I want to live on the victory side I want to live on the victory side and I probably say all that I've said again again and again and again because Faith cometh by hearing and hearing by the word of God and the only way you're going to get it is by
+- **[42:12](https://www.youtube.com/watch?v=oF853ZG-wIE&t=2532s) · 本段原话**：to do it is by the word y'all that's the only way and that's the way it's going to be so if you like this video and it it ministered to you please like subscribe click the notification Bell do all the things it helps uh us to do to get us in the algorithm now if you didn't like the
 
 ### 完整英文 Transcript
 

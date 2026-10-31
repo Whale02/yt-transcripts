@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 436；**章节数**: 5；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -15,10 +15,27 @@
 - [04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-04)
 - [05. 16:00–18:32 · 预言、梦境与异象、教会、复兴与信仰](#section-05)
 
+## 全片概述与 Key Points
+
+全片共 5 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:06](https://www.youtube.com/watch?v=DsQ91ct1riM&t=6s) · 本段原话**：They were trying to create superhumans. It was a race from China and other countries which do not mention the other country. They were taking DNA from an animal using AI. How does a to a tortoise a a turtle live so long? So they were taking that DNA and they were trying to take it with AI and splice it
+- **[04:14](https://www.youtube.com/watch?v=DsQ91ct1riM&t=254s) · 他描述所见**：what I saw. And it was it was it was a race from China and other countries which the Lord said do not mention the other country. There was a a race trying to perfect it to who had who it was like a a new the new industrial revolution with the crypto trying to create a new
+- **[08:01](https://www.youtube.com/watch?v=DsQ91ct1riM&t=481s) · 他描述所见**：cross of trying to bring back prehistoric animals." And he said, "It will become a place where you go to a zoo to see them. You can see, you'll be able to see a woolly mammoth and a saber-tooth tiger." And I saw them trying to find DNA like Jurassic Park, which is nuts, to create
+- **[12:04](https://www.youtube.com/watch?v=DsQ91ct1riM&t=724s) · 他转述所听到的话**：It was very weird stuff that I was seeing. And then I was seeing them trying to create a superfood that was cheap out of uh like a soybean that was full of protein, but the Lord told me this has no nutrition in it at all. It's genetically modified crap that they're going to try to give people.
+- **[16:21](https://www.youtube.com/watch?v=DsQ91ct1riM&t=981s) · 他描述所见**：creation of what these what he originally intended just like it was with the Nephilim and I think it's interesting I really do whenever I see what I saw um he was he was ticked off about it needless to say what I was seeing he was he was ticked off about it he was not
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、AI、科技与监控
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、AI、科技与监控、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、AI、科技与监控展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:06](https://www.youtube.com/watch?v=DsQ91ct1riM&t=6s) · 本段原话**：They were trying to create superhumans. It was a race from China and other countries which do not mention the other country. They were taking DNA from an animal using AI. How does a to a tortoise a a turtle live so long? So they were taking that DNA and they were trying to take it with AI and splice it
+- **[01:10](https://www.youtube.com/watch?v=DsQ91ct1riM&t=70s) · 他描述所见**：Right? So we have the Nephilim. The Nephilim. I hope I don't butcher that again. The Nephilim. So, what I saw happening in labs in certain cities, I saw they look like it it was the creepiest thing I've ever seen. They were trying to create superhumans.
+- **[02:28](https://www.youtube.com/watch?v=DsQ91ct1riM&t=148s) · 本段原话**：And the Lord showed me, he said, as in the days of Noah, Brandon, look what they're going to do again. They're trying to to recreate the human the way we are, right? By by being blasphemous.
+- **[03:08](https://www.youtube.com/watch?v=DsQ91ct1riM&t=188s) · 他描述所见**：And I when I'm looking into the vision, this is what the Lord shows me. He says to me, he says, "Brandon, they're they're they're they're playing around with fire. They're playing around with things that they don't know if these people are evil. They have a reprobate mind." And I saw them adding to the DNA
 
 ### 完整英文 Transcript
 
@@ -116,7 +133,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:14](https://www.youtube.com/watch?v=DsQ91ct1riM&t=254s) · 他描述所见**：what I saw. And it was it was it was a race from China and other countries which the Lord said do not mention the other country. There was a a race trying to perfect it to who had who it was like a a new the new industrial revolution with the crypto trying to create a new
+- **[04:44](https://www.youtube.com/watch?v=DsQ91ct1riM&t=284s) · 他描述所见**：And then I saw babies in labs in embryotic fluid with bubbling with a light behind it. It looked like a hot light keeping this baby warm. It looked like something in a sci-fi movie that was being created and not a fully formed baby, but a baby that was actually being created. And what you could see it
+- **[05:42](https://www.youtube.com/watch?v=DsQ91ct1riM&t=342s) · 他描述所见**：see the fluids and it looked like the ambriotic fluid looked a yellow tint color. It looked like almost like a a shade of urine. I don't know. Like like that's what I'm saying. It looked like that. It looked like a like a like a but it looked thick like jelly. And I saw it
+- **[07:34](https://www.youtube.com/watch?v=DsQ91ct1riM&t=454s) · 他描述所见**：something that's coming in the future or they're going to try to do this or whatever, but this is what they're going to try to do is what I'm trying to tell y'all. I saw they wanted to harvest their organs, their livers, their kidneys, their whatever they had because they had no soul. They look like monsters. This is
 
 ### 完整英文 Transcript
 
@@ -219,7 +243,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · AI、科技与监控、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：AI、科技与监控、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕AI、科技与监控、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=DsQ91ct1riM&t=481s) · 他描述所见**：cross of trying to bring back prehistoric animals." And he said, "It will become a place where you go to a zoo to see them. You can see, you'll be able to see a woolly mammoth and a saber-tooth tiger." And I saw them trying to find DNA like Jurassic Park, which is nuts, to create
+- **[08:23](https://www.youtube.com/watch?v=DsQ91ct1riM&t=503s) · 他描述所见**：ancient dinosaurs, lizards. Uh, I saw, like I said, them creating super stuff and human beings and just very demonic activity with AI technology, with this new industrial revolution. And it was a it was a race like a space race, like the space age race. Everybody's wanted to get to the moon first. This was an AI race.
+- **[09:07](https://www.youtube.com/watch?v=DsQ91ct1riM&t=547s) · 本段原话**：splicing and making a better better human. The Lord showed me it was like the tow tower of Babel. that there that as AI came and and was really being developed that there was nothing that humans couldn't achieve with technology. The veil that has blocked things in the past is being lifted through technological advance
+- **[11:33](https://www.youtube.com/watch?v=DsQ91ct1riM&t=693s) · 他描述所见**：to create this what they're doing, they're trying to to to bypass seed time and harvest. They're trying to bypass it. There's a there's a time to live and there's a time to die. I saw them taking genetics from a starfish and worms trying to figure out how to splice that and make things that grow arms grow back
 
 ### 完整英文 Transcript
 
@@ -323,7 +354,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:04](https://www.youtube.com/watch?v=DsQ91ct1riM&t=724s) · 他转述所听到的话**：It was very weird stuff that I was seeing. And then I was seeing them trying to create a superfood that was cheap out of uh like a soybean that was full of protein, but the Lord told me this has no nutrition in it at all. It's genetically modified crap that they're going to try to give people.
+- **[13:12](https://www.youtube.com/watch?v=DsQ91ct1riM&t=792s) · 本段原话**：do, it just kind of it throws you. It goes, "Wow." You go, "Wow, how much darker can people really get?" You know, there's a level that you think you won't cross with people. Are you are you all really going to go there trying to create things like that and make s Well, there's there's no moral balance.
+- **[14:42](https://www.youtube.com/watch?v=DsQ91ct1riM&t=882s) · 本段原话**：on another level and everybody's like what is happening up in here. God had to wipe out a whole generation all those people because of how corrupt the bloodline was. And I don't know if Noah and his sons were the only ones that weren't corrupt but I'm going to tell you very serious times.
+- **[15:20](https://www.youtube.com/watch?v=DsQ91ct1riM&t=920s) · 本段原话**：praying over and and I know that there's a lot of this we can't stop because Bible says as in the days of Noah. So, it's going to happen. So, when will we see this in the public eye? I don't know. when you start seeing about woolly mammoths and you start seeing about saber-tooth tigers and dinosaurs trying
 
 ### 完整英文 Transcript
 
@@ -434,7 +472,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–18:32 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:21](https://www.youtube.com/watch?v=DsQ91ct1riM&t=981s) · 他描述所见**：creation of what these what he originally intended just like it was with the Nephilim and I think it's interesting I really do whenever I see what I saw um he was he was ticked off about it needless to say what I was seeing he was he was ticked off about it he was not
+- **[17:02](https://www.youtube.com/watch?v=DsQ91ct1riM&t=1022s) · 本段原话**：technological advancements are trying to uh distort even the human body and I was like I get it I can see it I can see did. So he said he keeps talking to me. He said, "Brandon, people do not realize how truly bad tribulation is going to be.
+- **[17:23](https://www.youtube.com/watch?v=DsQ91ct1riM&t=1043s) · 本段原话**：It's it's going to be hell on earth, folks." And I'm telling you, as you watch this video, you may say, "Brandon, all that seems so so sci-fi, so out there. You are on some bad stuff. What are you talking about?" All I'm here to tell you is is I seeing I'm seeing what's coming in the future. I'm
+- **[18:08](https://www.youtube.com/watch?v=DsQ91ct1riM&t=1088s) · 本段原话**：You're going to see things in the near in the days ahead that you never dreamed you would ever see with earthquakes and all kinds of things. We're in the beginning of sorrows. I want you to understand this is not tribulation. This is the beginning of sorrows. The last of the major birthing pains before the
 
 ### 完整英文 Transcript
 

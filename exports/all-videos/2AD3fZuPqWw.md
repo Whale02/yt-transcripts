@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 913；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 - [10. 36:00–38:11 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:02](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=62s) · 本段原话**：going to be a major storm come and uh basically the beginning of uh all heck breaking loose upon the world uh with the schme a cycle with the you know and and then like I told you all RAB Rabbi Jonathan Khan wrote the book the um the harbinger and he came out and there was so many prophetic
+- **[08:01](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=481s) · 本段原话**：beautiful angel who proceed proceeded prided over the courtroom named justice stood up she seemed to Tower over us and was about 20 ft tall then Angels appeared with long Trumpets on either side of the courtroom and sounded a Fanfare that ended with a blast the angel Justice then shouted with a very loud but soprano voice all rise The
+- **[16:41](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1001s) · 本段原话**：handsome man lawyer was busy reading the scroll feverishly to see if there was truly enough intercession to stop his immediate seizing of the earth and for the tribulation to begin he was Consulting his other diabolical lawyers about it foul language was coming out of his mouth along with they hissing and accusing his right-hand man saying you
+- **[20:21](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1221s) · 本段原话**：here nevertheless the birthing pains and judgments on the earth will not be stopped mhm H Satan has the authority to rule over the tears of the Earth the wicked in darkness by their willing consent according to the tenants of Free Will given to Adam's race at the beginning of creation both the tears and the wheat
+- **[28:19](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1699s) · 他表达判断**：pray and Obey and believe and I believe with all my heart we can change the outcome of a lot of things we have power and Authority like over the weather over the things that I'm trying to warn you all about about uh catastrophic events trying to push back War remember one of my one of
+- **[36:02](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=2162s) · 本段原话**：Christ in us would shine out of us and and the people would see the love and the light of God in our eyes and our face and our in our hands and our emotions that Jesus would be um Illuminating out of us on a day-to-day basis that we have a more assured faith
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:02](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=62s) · 本段原话**：going to be a major storm come and uh basically the beginning of uh all heck breaking loose upon the world uh with the schme a cycle with the you know and and then like I told you all RAB Rabbi Jonathan Khan wrote the book the um the harbinger and he came out and there was so many prophetic
+- **[02:00](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=120s) · 本段原话**：what's the now word he said Brandon I'm giving Grace and I'm going to give a a more time and I and so you know that was back in August of 201 uh 15 whoever this was that sent this to me you know I won't say their name but I'm just going to say
+- **[03:26](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=206s) · 他描述所见**：before I'm Brandon's wife and um it's so good to be on here and thank you guys just wanted to take a quick second to say how much we love and appreciate you all um and now I will just go ahead and read this visit vision from uh that this person had Emil yeah from the email I
+- **[03:41](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=221s) · 他描述所见**：had a vision prophetic experience as I was eating lunch recently suddenly a portal opened in the spirit realm and my angel said to me you are summoned to come to the courtroom of Heaven you are to record the case being tried now so that God's people will know the lateness of the hour you must warn them so that
 
 ### 完整英文 Transcript
 
@@ -131,7 +149,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=241s) · 本段原话**：the bride May awaken and take heed the time is short I was escorted by two angels to a seat on the left side down front of the Supreme courtroom there were many hundreds of angels and Saints already seated before the bench I was surprised how much it looked like our Supreme courtroom in America except it
+- **[05:38](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=338s) · 他描述所见**：whatever I thought of in perfect calligraphy script as fast as I thought it the nib seemed to fly over the parchment with ease in my hand it would write whatever the angel put in my into my mind from what I saw and heard to record and then would describe perfectly any other information the Holy Spirit
+- **[06:17](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=377s) · 他描述所见**：knew know the language at all but somehow I understood and thought it influent Hebrew during the vision I cannot offer any explanation for this at all the angel said you are one of five profit recorders that have been summoned from the Earth to Chronicle and witness this trial soon to begin just let the
+- **[07:13](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=433s) · 他表达判断**：love of God we were dressed in black robes with red border sash sashes on the sides and the sleeves the other Prophet recorder was a lady from Africa who had a headdress that wrapped around her head which flashed rays of light whenever she moved she spoke in wrote in French I believe the fifth was a man from America
 
 ### 完整英文 Transcript
 
@@ -236,7 +261,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=481s) · 本段原话**：beautiful angel who proceed proceeded prided over the courtroom named justice stood up she seemed to Tower over us and was about 20 ft tall then Angels appeared with long Trumpets on either side of the courtroom and sounded a Fanfare that ended with a blast the angel Justice then shouted with a very loud but soprano voice all rise The
+- **[08:24](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=504s) · 他表达判断**：Honorable Ancient of Days the judge of all creation the king of the ages the most high Lord Almighty is present and priding or proceeding I don't know I think it says priding we all stood up exactly at the same time in unison then the most awesome sound of praise and worship filled the atmosphere
+- **[09:56](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=596s) · 本段原话**：of it if he moved even slight lightly lightning bolts would fly all over the room out of his head his hands and his feet the other judges to the father's right hand were Enoch Father Abraham Moses the lawgiver David the king Elijah the prophet and Daniel on the father's left hand were John the Baptist Peter
+- **[10:56](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=656s) · 他描述所见**：given one glimpse of him when he first came into the courtroom there was a rainbow that would appear that encircled him above and below that I saw a few times during this Vision I could not endure looking at him for more than a split second before I had to avert my eyes for the white blazing brightness
 
 ### 完整英文 Transcript
 
@@ -343,7 +375,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:02](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=722s) · 本段原话**：Jesus the Messiah the Lamb of God at this Yeshua himself stood up at the defense table as The Advocate General of the Bride of Messiah on Earth he was representing the holy saints of God still alive in their bodies on earth when he stood up at the left table everyone bowed and worshiped except
+- **[13:07](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=787s) · 本段原话**：although there was no Heavenly light in him or around him the prosecution May proceed Lady Justice proclaimed at that this man stood up he was robed in a black suit that had a long cape of crimson red that followed behind him he had gold epulet on his shoulders that were built into his cape he was very
+- **[13:51](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=831s) · 本段原话**：man he seemed to know the Bible very well starting from Adam and Eve he began accusing God of failing Mankind in every generation he started with the stipulation Adam was given exactly 6,000 years to rule the Earth he gave that lease to me and I own it I have a right to rule over every man woman and child
+- **[14:32](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=872s) · 本段原话**：then he sat down again for about a minute or so there was complete silence Lady Justice then spoke again the defense May proceed yua then arose from the defense table he wore a white robe with blue trim and red sleeves with a bottom border and neck border of red he wore a small diadem of solid diamonds as
 
 ### 完整英文 Transcript
 
@@ -444,7 +483,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、美国选举与投票
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、美国选举与投票、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、美国选举与投票展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:41](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1001s) · 本段原话**：handsome man lawyer was busy reading the scroll feverishly to see if there was truly enough intercession to stop his immediate seizing of the earth and for the tribulation to begin he was Consulting his other diabolical lawyers about it foul language was coming out of his mouth along with they hissing and accusing his right-hand man saying you
+- **[17:01](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1021s) · 本段原话**：told me that we had destroyed the prayers of the church the Great Awakening had th had been thwarted and then he was saying bad words yua continued as you can see my faithful bride Remnant has kept the faith enduring the evil and continue to overcome the blood of the martyrs has proven their faithfulness look at China
+- **[18:28](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1108s) · 本段原话**：information can also be found in the scroll given by my hands to the court for Eternal record the evidence written in this scroll fly fully confirms and documents our holy and righteous claim though Millions shall come to me and be saved in the tribulation to come my holy bride must all be prepared
+- **[19:27](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1167s) · 本段原话**：again after some deliberation there was a vote every vote every judge voted in favor of the Saints to extend another time period of Grace I cannot disclose how long it is at this time finally the Father the great judge of all the Earth spoke he said on the basis of the evidence presented by the defense I
 
 ### 完整英文 Transcript
 
@@ -548,7 +594,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:21](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1221s) · 本段原话**：here nevertheless the birthing pains and judgments on the earth will not be stopped mhm H Satan has the authority to rule over the tears of the Earth the wicked in darkness by their willing consent according to the tenants of Free Will given to Adam's race at the beginning of creation both the tears and the wheat
+- **[21:48](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1308s) · 本段原话**：wrath is soon to engulf the Earth but in it I will remember Mercy many millions of souls shall be saved and come to the knowledge of the truth then the angel Lady Justice came forward and was blindfolded she raised a large oldfashioned scale in her hands above her head and to one of the bowls a
+- **[22:29](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1349s) · 本段原话**：angel dressed in a golden robe po poured a white sand like powder from a porcelain white ear that represented the prayers and intercession and Obedience of the overcoming Church in Generations past as well as the bridal company of Our Generation this is what allows for evil to be restrained I was really alarmed because it looked so small at
+- **[23:11](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1391s) · 本段原话**：victory in the courtroom then the father raised his golden scepter in his left hand and slammed his gavel down accompanied by thunderclaps and lightning flashing everywhere with burst of rainbow colors shooting through the courtroom and said the time time of grace shall be extended and petitioned by the Bride of me Messiah for a little longer blank more
 
 ### 完整英文 Transcript
 
@@ -653,7 +706,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1440s) · 他描述所见**：when you arrive there unless granted by the Lord through Revelation by the holy spirit amen then I was told to sign the recording scroll I had written the four other Prophet recorders also signed their Scrolls I noticed that their Scrolls were written in different Earthly languages the most visible was Chinese then the vision ended and I
+- **[24:19](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1459s) · 他描述所见**：immediately went to my computer and typed what I saw and heard dearly beloved bride of Messiah we must labor now while it is light soon it will be night where we cannot labor in the Harvest fields of the earth any longer people get ready Jesus is coming thank you all for listening um I'm a little
+- **[25:11](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1511s) · 他描述所见**：some of the trim but I didn't see black clothes uh ever so you know I I know it was a courtroom setting and so this is what I thought was interesting you know um whenever I told you all that I was taken in the spirit and I saw Satan being an accuser of the breth he was
+- **[26:45](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1605s) · 他描述所见**：single one of us he's at the father making intercession for us and it's and it's amazing to me that somebody else had more detail than what I saw I I I had a glimpse and I could see what was going on I could hear the courtroom I could hear the voices but this was so
 
 ### 完整英文 Transcript
 
@@ -760,7 +820,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:19](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1699s) · 他表达判断**：pray and Obey and believe and I believe with all my heart we can change the outcome of a lot of things we have power and Authority like over the weather over the things that I'm trying to warn you all about about uh catastrophic events trying to push back War remember one of my one of
+- **[28:38](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1718s) · 他描述所见**：my Visions I told you all this is my prayer prayer thing I pray with this you know my my toit is what I believe it's called when Jesus said who will stand in the gap for America who will intercede for America because I saw the Antichrist agenda trying to come full force uh and
+- **[29:32](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1772s) · 他描述所见**：up with a lot of what some of this stuff was was said he said I'm in control of time when did I ever design the armor for you to retreat you have Escape mentality remember that one I told you I went to the throne and I I saw the glory and I saw the fire and
+- **[31:24](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1884s) · 他表达判断**：billion Soul Harvest believe in him for for the supernatural like we've never seen before in this earth I believe we're going to see this and I believe that's why we've not been taken out I believe with all my heart I've seen dates I've seen things and people go will you missed it no he delays things
 
 ### 完整英文 Transcript
 
@@ -867,7 +934,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:18](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1938s) · 本段原话**：us he's our God he loves us so if he wants to give a good gift to you he don't want you to burn in hell forever ladies and gentlemen Jesus Christ is coming and he's coming back for a spotless bride he's coming back for a glorious Church Without spot or wrinkle he's coming back for you and he's coming back
+- **[32:57](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=1977s) · 本段原话**：always hits me start crying um telling them that they're going to burn telling them that they have a choice choose life so I just want to say God bless you guys if you could like my my pillow my like pillow like this video right now please my wife D me that and then subscribe our subscribe pillow
+- **[33:22](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=2002s) · 本段原话**：please subscribe to our Channel it really would bless us and then please if you could go even further and click the notification Bell it would be a huge blessing to us I just want to let you all know every time you do that you help the algorithm out with uh YouTube and you're getting the gospel uh
+- **[34:31](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=2071s) · 本段原话**：timid and walk away from people when the Lord puts it on your heart to witness in these last days to lay hands on the sick and see him recover to to cast out Devils to do whatever he's called you to do the Great Commission that you to raise the dead whatever it may be that
 
 ### 完整英文 Transcript
 
@@ -974,7 +1048,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–38:11 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:02](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=2162s) · 本段原话**：Christ in us would shine out of us and and the people would see the love and the light of God in our eyes and our face and our in our hands and our emotions that Jesus would be um Illuminating out of us on a day-to-day basis that we have a more assured faith
+- **[36:42](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=2202s) · 他进行祷告**：never be seen before ideas it doesn't have to be TV or social media but father it could be a creative idea to get a soul saved I thank you Lord that you help us you give us wisdom Holy Spirit lead us and guide us into all truth into all things that we need to know show us
+- **[36:59](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=2219s) · 他进行祷告**：the things to come and what we can avert through prayer to stop to stop the plans of the wicked that we're not behind trying to put out the fires we stop the fires before they start that we're hearing you before the enemy tries to do something that we're not always trying to pray over a war we're trying to do
+- **[37:55](https://www.youtube.com/watch?v=2AD3fZuPqWw&t=2275s) · 本段原话**：and everybody say say amen I just want to say thank you like I said well put a smile on your face uh and a song in your heart Jesus love you so much and we love you and we will see you next time y'all have a wonderful day bless you guys bye-bye
 
 ### 完整英文 Transcript
 

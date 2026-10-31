@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 389；**章节数**: 5；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -15,10 +15,27 @@
 - [04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-04)
 - [05. 16:00–16:51 · 现场讲话（无可靠自动分类）](#section-05)
 
+## 全片概述与 Key Points
+
+全片共 5 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:25](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=25s) · 本段原话**：that that that that the dream was about Trump and Trump was at a some kind of rally and it was at a hockey rink and he was fatally shot from the audience and it was live on TV and so um she didn't know that he was going to do this rally in the next couple of days in
+- **[04:18](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=258s) · 本段原话**：have been a lot worse of course as we all know but you know what this time nothing is going to happen nothing do you see because now we're going to bring up a prayer Army and we're we're this is what we're called to do this is why this channel exists it's for calls like this
+- **[08:01](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=481s) · 他进行祷告**：In The Name of Jesus so we pray over that Coliseum and we say where he's going is protected with the blood of Jesus and even during the inauguration when he's being sworn in all around the capital protection from any kind of blast or any kind of Calamity of any kind the angels of the Lord are camped
+- **[12:40](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=760s) · 本段原话**：power and a love and of a well balanced mind and we thank you Father that you're bringing that to pass in the name of Jesus Amen and amen well I appreciate you all praying with me we believe that President Trump is protected now we don't have to be yelling at the Devil the Lord showed me one day I was
+- **[16:00](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=960s) · 他表达判断**：I appreciate y'all every single one of you please like the video if you haven't already like the video subscribe if you haven't subscribe click the notification Bell remember all our other channels we have a China Channel we have South Korea so many I think we have 11 of them now but they made us take down the um Arabic
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、特朗普与白宫
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、特朗普与白宫、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、特朗普与白宫展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:25](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=25s) · 本段原话**：that that that that the dream was about Trump and Trump was at a some kind of rally and it was at a hockey rink and he was fatally shot from the audience and it was live on TV and so um she didn't know that he was going to do this rally in the next couple of days in
+- **[01:14](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=74s) · 他进行祷告**：fellow Watchman is seeing another warning warning the people to pray that there is going to be an attempt on President Trump's life on the 19th is what is what they're thinking so sister Billy asked me to have you all pray and intercede for president Trump for um uh protection for his wife for his kids all
+- **[02:25](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=145s) · 本段原话**：we know we have power and authority over the devil and nothing shall by enemies hurt us we but we have to take our Authority we have to take our seat and our place and we have to do it daily we're seated with him in the heavenlies far above all principalities and powers and might according to Ephesians read
+- **[03:26](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=206s) · 他进行祷告**：serious we need to take it serious that this is something that is really uh uh stirred in her to to call and say Hey listen we need to have a prayer Army over this so I really want you all to take this time right now we're going to pray for president Trump we're going to
 
 ### 完整英文 Transcript
 
@@ -110,7 +127,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:18](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=258s) · 本段原话**：have been a lot worse of course as we all know but you know what this time nothing is going to happen nothing do you see because now we're going to bring up a prayer Army and we're we're this is what we're called to do this is why this channel exists it's for calls like this
+- **[04:34](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=274s) · 他进行祷告**：to come on here and bring up the troops and say listen guys let's pray listen ladies and Gentlemen let's pray let's bring forth and and and and and operate like that Mighty moving Force so father we just lift up president Trump before you father right now we come against the satanic attack that we've heard
+- **[05:14](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=314s) · 本段原话**：exposing any kind of hidden guns they're exposing any kind of hidden bombs they're exposing any kind of any kind of attempt or plot or plan of the wicked and I thank you Father that you said in your word that that we have authority over the devil we take our Authority right now in the name of Jesus and we
+- **[07:38](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=458s) · 本段原话**：that we're always in the right place at the right time and that's even moving bodies a certain way even moving bodies a certain way we're always in the right place at the right time in the right position at the right time even when we don't even realize it re realize it we are filled with it controlled by the
 
 ### 完整英文 Transcript
 
@@ -216,7 +240,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:01](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=481s) · 他进行祷告**：In The Name of Jesus so we pray over that Coliseum and we say where he's going is protected with the blood of Jesus and even during the inauguration when he's being sworn in all around the capital protection from any kind of blast or any kind of Calamity of any kind the angels of the Lord are camped
+- **[08:43](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=523s) · 本段原话**：of souls with the anointing of the Holy Spirit like we've never seen it before father for people who have been called for such a time as this raising up a new generation of David's father and and and that we would be what you've called us to be with great great Victory we will
+- **[09:23](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=563s) · 他进行祷告**：and our little families and our little church no bigger we're going to think bigger bigger than anything we can comprehend in Jesus name We Believe father we receive this father I thank you Lord for every single person who's who's on this uh video right now and they're watching I plead the blood of Jesus over them Father I
+- **[10:24](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=624s) · 本段原话**：that they take captive of their thoughts and they bring it under into submission of the word and they say I refuse to fear I refuse to let this torment bother me I am bigger than this because perfect love casteth out all fear and God is love and God dwells in me and I dwell
 
 ### 完整英文 Transcript
 
@@ -314,7 +345,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:40](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=760s) · 本段原话**：power and a love and of a well balanced mind and we thank you Father that you're bringing that to pass in the name of Jesus Amen and amen well I appreciate you all praying with me we believe that President Trump is protected now we don't have to be yelling at the Devil the Lord showed me one day I was
+- **[14:17](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=857s) · 本段原话**：instantaneously will happen and that's what it is with the Lord and you instantaneously we speak we don't have to yell we we have Jesus on the inside of us we're his ambassadors Satan get out of here now in the name of Jesus do you have to draw have a drawn out long prayer over some certain things so well
+- **[14:36](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=876s) · 他进行祷告**：I I call angels to protect Trump and I just am confident enough that God is going to do what he said he would do he's going to watch over him did we pray enough did you intercede enough I have confidence to know it's like I told di we we talk about all the time I'm more
+- **[15:35](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=935s) · 他表达判断**：advance folks I believe he's going to he'll tell me CU he's not going to let me be caught off guard and say well that was that was that was a blind side tell me ahead of time I'm just going to be that in sync with him be that in sync with him being vertical with him I'm
 
 ### 完整英文 Transcript
 
@@ -425,7 +463,13 @@
 <a id="section-05"></a>
 ## 05. 16:00–16:51 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=960s) · 他表达判断**：I appreciate y'all every single one of you please like the video if you haven't already like the video subscribe if you haven't subscribe click the notification Bell remember all our other channels we have a China Channel we have South Korea so many I think we have 11 of them now but they made us take down the um Arabic
+- **[16:19](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=979s) · 本段原话**：Arabic channel they they they YouTube did not like the Arabic channel they did not want me talking to the Muslims so they said no they told me they gave me any email and they said we're not going to allow you to do this so um I I I don't understand that but but
+- **[16:36](https://www.youtube.com/watch?v=PLhKXiZPCKk&t=996s) · 本段原话**：okay it's their platform so I we honor what they say but yeah well thank you all for joining me today remember put a smile on your face and a song on your heart Jesus loves you so much and we love you and we will see you again soon y'all have a blessed day bye-bye
 
 ### 完整英文 Transcript
 

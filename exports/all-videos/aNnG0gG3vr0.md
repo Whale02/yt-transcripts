@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 666；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 36:00–39:59 · 教会、复兴与信仰](#section-10)
 - [11. 40:00–42:18 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:06](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=6s) · 他进行祷告**：There's a lot of people here tonight, but I thought it might be fun for you to come along with us. I um won't be here very long. I just wanted to show you this and then we'll go home and pray in a little while.
+- **[08:02](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=482s) · 本段原话**：They they didn't say hi, but they they knew I was fun to say hi back, but I Paisley said, "Need an arc? I know a guy." [laughter] That's a good joke.
+- **[16:05](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=965s) · 他表达判断**：I like the white ones. Those are very bright. So, I think I can flip the camera.
+- **[24:19](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1459s) · 本段原话**：Yeah, we came from behind. Savior Michael, stop where you are and wait for us.
+- **[32:03](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1923s) · 本段原话**：little the little duck trying to cross the road. Quack quack. I wonder what these little buildings are, you know?
+- **[40:18](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=2418s) · 他进行祷告**：How many people watched? Uh, 1400. That's cool. 1,400. They want to go tubing. That's what's wrong. So, let's go pray. See what Jesus shows us. Maybe he will, maybe he won't.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:06](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=6s) · 他进行祷告**：There's a lot of people here tonight, but I thought it might be fun for you to come along with us. I um won't be here very long. I just wanted to show you this and then we'll go home and pray in a little while.
+- **[00:40](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=40s) · 本段原话**：Yeah. I know. Have you been to Dolly? Dollywood so far. They can see all the lights. This is Rama Bible College where brother Hagen uh when he was here he this was where he was in Paty and all of them.
+- **[01:29](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=89s) · 他表达判断**：Merry Christmas. It's his birthday. Happy birthday, Jesus. I think they see it good.
+- **[03:35](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=215s) · 本段原话**：Yeah, they do. It takes a long time to do that. So, it's raining.
 
 ### 完整英文 Transcript
 
@@ -96,7 +114,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:42](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=282s) · 他表达判断**：Or do we? I think either way we can the tunnel. All right, guys. Have fun. We're going to move. What do you think?
+- **[06:32](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=392s) · 本段原话**：It's the the Rama Rama Bible College or the Brother Hagen. Brother Kennethy Hagen.
+- **[06:52](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=412s) · 本段原话**：You tell tell everybody hi. Megan. Megan. Megan. Tell them again. You going to say hi.
+- **[07:32](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=452s) · 本段原话**：right there is what they always talk about. He talked about it in some of his his videos before that.
 
 ### 完整英文 Transcript
 
@@ -163,7 +188,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:02](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=482s) · 本段原话**：They they didn't say hi, but they they knew I was fun to say hi back, but I Paisley said, "Need an arc? I know a guy." [laughter] That's a good joke.
+- **[10:02](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=602s) · 他表达判断**：Say hi to everybody. Hi. Doesn't he look good in blue? I think both of my guys look good in blue cuz they have blue eyes. He's wearing blue today, though. It makes your eyes pop.
+- **[10:35](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=635s) · 本段原话**：You may. She's saying good night. It is night. Are you talking about the pink tree?
+- **[11:38](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=698s) · 本段原话**：The popcorn smells really good. You It It goes You can smell it a long ways away.
 
 ### 完整英文 Transcript
 
@@ -242,7 +274,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:04](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=724s) · 本段原话**：We're live right now. How are you? Nice to meet you. Elsa something. Oh, look. I like the white and white.
+- **[13:00](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=780s) · 本段原话**：Mary and Joseph and Jesus. Jesus is the reason for the season.
+- **[14:19](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=859s) · 本段原话**：We filmed it last year. Yeah, we didn't do it live though. We did a just a normal video last year.
+- **[15:19](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=919s) · 他表达判断**：Yeah. I think it's beautiful. Uhhuh. I love looking at all that.
 
 ### 完整英文 Transcript
 
@@ -304,7 +343,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:05](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=965s) · 他表达判断**：I like the white ones. Those are very bright. So, I think I can flip the camera.
+- **[17:06](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1026s) · 他表达判断**：There you go. Pretty cool. Pretty cool. Yeah. I don't know. I think is doing a live on one of these is kind of different.
+- **[18:29](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1109s) · 本段原话**：Well, that was traumatizing. Yeah. Take a special prayer. All right. Hey, I spent like 30 minutes off the seat.
+- **[18:51](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1131s) · 他表达判断**：[snorts] They pink house over there. Yeah. Water bottle. I think it's good exercise. You get a walk.
 
 ### 完整英文 Transcript
 
@@ -373,7 +419,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:18](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1218s) · 本段原话**：Now that's kind of a cool view, isn't it? Yeah, it is.
+- **[21:24](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1284s) · 本段原话**：Merry Christmas. Merry Christmas. Yeah. [laughter] You stand over here and tell him to say, "All I want for Christmas.
+- **[22:21](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1341s) · 本段原话**：The people uh people the people in South Korea, they always tell you to come over there. And they they say I I try to learn their c I try to learn what they uh uh like cuz they have like TV shows and stuff like that and they always comment about it. I don't I don't I
+- **[23:09](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1389s) · 本段原话**：And so then I took the boys last season was like 2020 and I'll be like I love you.
 
 ### 完整英文 Transcript
 
@@ -443,7 +496,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 现场讲话（无可靠自动分类）
 
-**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕现场讲话（无可靠自动分类）展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:19](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1459s) · 本段原话**：Yeah, we came from behind. Savior Michael, stop where you are and wait for us.
+- **[25:38](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1538s) · 本段原话**：It's pretty incredible though, isn't it? Yes. It is pretty amazing. It's Thursday, right?
+- **[25:47](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1547s) · 他表达判断**：Yeah. Thursday. [music] Well, it's not as cold, so [music] that's probably what it is, right? A major cold front come through and it's going to get really, really cold.
+- **[27:13](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1633s) · 本段原话**：[laughter] We're going to tell you the fact you're going the wrong way. Tell you to go this way. Yeah. Go this way. You're going the wrong way.
 
 ### 完整英文 Transcript
 
@@ -502,7 +562,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:01](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1801s) · 他进行祷告**：Well, we'll go home and pray now. So, if y'all want to join us here in a little while, we we're going to come back on and pray. I don't even know what time it is. Do you It This is 30 minutes live stream.
+- **[30:41](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1841s) · 他表达判断**：Yeah, I know. I think they all had the same idea. And I I told I told Paisley, I said, "I take you to the to the She's been asking Yeah, she's been asking.
+- **[31:03](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1863s) · 本段原话**：It's going to taste like water instead of milk. Look at that.
+- **[31:31](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1891s) · 本段原话**：I have to tell you, learning prayer from uh Terry and them and then the word from Brother Hagen and being part of the Word of Faith and listening to Brother Hagen, it was something I'll I'll never ever ever let forget. Megan's ready to go. She says she's when she says I done, she's done.
 
 ### 完整英文 Transcript
 
@@ -583,7 +650,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:03](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1923s) · 本段原话**：little the little duck trying to cross the road. Quack quack. I wonder what these little buildings are, you know?
+- **[32:39](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1959s) · 本段原话**：Megan didn't want to walk over there. All is merry Christmas. I would have loved to have been here in the glory days, you know, when when uh Brother Hagen was teaching and, you know, Sister Billy Brim was doing the book editing and and doing the secretarial stuff. You you that was back in the 80s and 90s. And just think about
+- **[33:18](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=1998s) · 本段原话**：They're waiting on us on the other side. They're over there saying, "Hey, we're rooting for you. You can do this. Look at that. Look at that over here. I'll let her. The main church is over there and it's ginormous.
+- **[34:36](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=2076s) · 本段原话**：with all of us on Earth. [laughter] Get a flat. It's that family back there that caused that flat. [laughter] What? What happened to eat too much Cajun food?
 
 ### 完整英文 Transcript
 
@@ -665,7 +739,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:22](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=2182s) · 本段原话**：That's kind of neat for anybody who's in another country and they want to look.
+- **[37:52](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=2272s) · 他转述所听到的话**：It was big bucks to replace that. I heard from another pastor that was not a cheap fix, but it was destroyed and they had to refix it all.
+- **[38:14](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=2294s) · 本段原话**：Yes, you can see it. It's pretty sweet, huh? He got the city of faith. We should go. I wonder if uh or Roberts have I haven't been over there in a couple days.
+- **[39:32](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=2372s) · 本段原话**：Okay, let's go. All right. Well, that was kind that was fun. We'll go right now. We'll get right there real quick.
 
 ### 完整英文 Transcript
 
@@ -735,7 +816,14 @@
 <a id="section-11"></a>
 ## 11. 40:00–42:18 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:18](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=2418s) · 他进行祷告**：How many people watched? Uh, 1400. That's cool. 1,400. They want to go tubing. That's what's wrong. So, let's go pray. See what Jesus shows us. Maybe he will, maybe he won't.
+- **[41:12](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=2472s) · 本段原话**：I wonder when when Pastor Chip gives those stories about him weed eating and stuff. I wonder where where he weeded and cleaned the flower beds and did things for brother Hagen.
+- **[41:40](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=2500s) · 本段原话**：There's a lot of people that are from all around the world that watch us and so they want to know what it's like to be on Rama and the things around Tulsa, all the wonderful places we have to worship. So, I just wanted to tell you all merry Christmas and thank you for
+- **[42:09](https://www.youtube.com/watch?v=aNnG0gG3vr0&t=2529s) · 本段原话**：Remember, put a smile on your face and a song in your heart. Jesus loves you so much and we love you. God bless you and we'll see you in a little bit. We'll do another prayer video with y'all.
 
 ### 完整英文 Transcript
 

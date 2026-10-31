@@ -5,17 +5,31 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 148；**章节数**: 2；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
 - [01. 00:00–03:59 · 预言、梦境与异象、物资、能源与供应链](#section-01)
 - [02. 04:00–06:22 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-02)
 
+## 全片概述与 Key Points
+
+全片共 2 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=9LbOC7UXbc0&t=0s) · 他描述所见**：in this dream the Lord showed me um and a massive earthquake that was going to happen in America and it was the Madrid fault and it was it this was literally it went it was the largest earthquake that ever had happened on the earth and so whenever I saw it in my dream the uh it happened right by the
+- **[04:01](https://www.youtube.com/watch?v=9LbOC7UXbc0&t=241s) · 他描述所见**：dream I could see the streets of New York and they were completely like I could see tumbleweeds which was weird because I know there's no tumbleweeds in um New York but I saw tumbleweeds going down the street and it was like desolate there was nobody moving around it was completely completely blank like the
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=9LbOC7UXbc0&t=0s) · 他描述所见**：in this dream the Lord showed me um and a massive earthquake that was going to happen in America and it was the Madrid fault and it was it this was literally it went it was the largest earthquake that ever had happened on the earth and so whenever I saw it in my dream the uh it happened right by the
+- **[00:25](https://www.youtube.com/watch?v=9LbOC7UXbc0&t=25s) · 本段原话**：Mississippi River and it's it it's like it split the Mississippi River and it made it bigger and um all the bridges that were on the Mississippi River collapsed and they were all down and I and the Lord showed me things were on fire it was it was this total devastation where this was
+- **[01:43](https://www.youtube.com/watch?v=9LbOC7UXbc0&t=103s) · 本段原话**：all the cities still in America this was another dream and then the Lord showed me massive helicopters and their the Chinook helicopters and they were flying from the west and and I stood on the back porch in my dream and I could see and you could visibly smell uh fire in the air and it was so strong the the it
+- **[03:22](https://www.youtube.com/watch?v=9LbOC7UXbc0&t=202s) · 他描述所见**：this line it was a stone lion and I was like what is that you know because I'm asking but I see the stone lion face and um all of a sudden in the dream he said look at the uh the stock exchange the New York Stock Exchange because I didn't know where this lion
 
 ### 完整英文 Transcript
 
@@ -115,7 +129,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–06:22 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=9LbOC7UXbc0&t=241s) · 他描述所见**：dream I could see the streets of New York and they were completely like I could see tumbleweeds which was weird because I know there's no tumbleweeds in um New York but I saw tumbleweeds going down the street and it was like desolate there was nobody moving around it was completely completely blank like the
+- **[04:40](https://www.youtube.com/watch?v=9LbOC7UXbc0&t=280s) · 他表达判断**：were going towards the Mississippi area and then the Lord showed me another earthquake it was like a it was like a an Aftershock that happened by Texarkana uh area and it went clear up to Tulsa Oklahoma and I could see that it was like a it was a it was like probably like a 6.0 or bigger but the one that
+- **[05:02](https://www.youtube.com/watch?v=9LbOC7UXbc0&t=302s) · 本段原话**：hit the Mississippi Valley area was like a 10.0 and so it was so I I could see that all the houses that were built on cinder blocks you know the block house is not on a flat uh slab they were completely destroyed and in this there was 1800 people that died and the Lord
+- **[05:23](https://www.youtube.com/watch?v=9LbOC7UXbc0&t=323s) · 他描述所见**：was showing me the people that had perished in the dream of all of the houses that were completely leveled and flattened from this massive earthquake and so um I don't know why it happens I don't know when it happens all I know is is that I saw this and I have prayed over this and
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 479；**章节数**: 5；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -15,10 +15,27 @@
 - [04. 12:00–15:59 · 经济、银行与市场、预言、梦境与异象](#section-04)
 - [05. 16:00–19:58 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
 
+## 全片概述与 Key Points
+
+全片共 5 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:23](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=23s) · 他描述所见**：uh crashing, but he he warned me again that that there's going to be a major global shaking of finances again, bringing forth digital platforms. And this is what he told me the about a year ago. I was praying and I saw a flag pole and I saw a $100 bill on a a flag pole
+- **[04:19](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=259s) · 他描述所见**：of oak trees, which each oak tree represented, I believe, a year. Now, some people say it's a season because of what I saw, and some people say is a, you know, whatever. It's your interpretation. I just told you all to pray about it and see what the Holy Spirit tells you concerning um these the
+- **[08:00](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=480s) · 他描述所见**：were was owed. And then they brought in the National Guard and they put na they put the National Guard Hummers. The Lord showed me all this in a vision. showed me Hummers and chain bobbire fence through major cities with checkpoints and put in martial law because of the people rioting in New York and Chicago
+- **[12:53](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=773s) · 本段原话**：world economy for I don't know hundred years now. Uh, and so the dollar standard and all that and so that's all about to be done with. And so we're going to see a digital currency. It'll be like crypto and we're going to see uh this happen very soon. I really believe that we're
+- **[16:43](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=1003s) · 本段原话**：warning me about and to prepare my family. So, I I'm excited about the revival, but I know there's a great shaking coming and it's going to shake America uh for for the upcoming revival.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 经济、银行与市场、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：经济、银行与市场、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕经济、银行与市场、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:23](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=23s) · 他描述所见**：uh crashing, but he he warned me again that that there's going to be a major global shaking of finances again, bringing forth digital platforms. And this is what he told me the about a year ago. I was praying and I saw a flag pole and I saw a $100 bill on a a flag pole
+- **[01:30](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=90s) · 本段原话**：purchasing power of 50 cents to a dollar and because of inflation because of the inflation the things happening with America and the economy and I could see the the it was it was it what was going to happen was then he showed me uh the the banking sector all the banks major Chase Bank
+- **[02:44](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=164s) · 他描述所见**：the notes on the homes, the homes, the car loans, everything because people couldn't make their payments anymore because the dollar had collapsed. So, I saw uh people's car notes, car loans, they all that was wiped out kind of like it was with uh they didn't make you make payments for forever with the uh student
+- **[03:51](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=231s) · 本段原话**：that. That's what I'm trying to say. I don't want to add anything to or take anyway take anything from this prophetic word. I just want to tell you what the Lord showed me. And I then the Lord
 
 ### 完整英文 Transcript
 
@@ -116,7 +133,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、战争与国际事务。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:19](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=259s) · 他描述所见**：of oak trees, which each oak tree represented, I believe, a year. Now, some people say it's a season because of what I saw, and some people say is a, you know, whatever. It's your interpretation. I just told you all to pray about it and see what the Holy Spirit tells you concerning um these the
+- **[04:46](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=286s) · 他描述所见**：But if the Lord's telling me to tell you all something, I want you to pray about it, you know, and see what he's telling you. So I saw people in nice clothes because it happened just like I told you. It happened like the winter came onto the trees. They lost all their leaves and everything happened suddenly.
+- **[06:01](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=361s) · 本段原话**：to get into one local into that store. And he told me the euro would be in trouble because of what was going on with Europe and this war. That was one of the first signs that this was all going to happen like dominoes. And so, you know, I it's interesting because as I go along with my with my giftings and
+- **[07:00](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=420s) · 他描述所见**：the puzzles together, one piece at a time. He shows me these things. And so, I saw the digital dollar. I saw the crashing of the economy. I saw the oak trees. And then remember I also I told you about all the people uh rioting after the dollar crashes that that the government was not able to give them uh
 
 ### 完整英文 Transcript
 
@@ -221,7 +245,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=480s) · 他描述所见**：were was owed. And then they brought in the National Guard and they put na they put the National Guard Hummers. The Lord showed me all this in a vision. showed me Hummers and chain bobbire fence through major cities with checkpoints and put in martial law because of the people rioting in New York and Chicago
+- **[08:20](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=500s) · 本段原话**：and all up north and just basically everywhere people were, you know, I'm not going to just say it was up northeast. It was it was everywhere in America. People were acting a fool because they couldn't get their free handouts for food and whatever. And so, um, that was part of part of this when the dollar crashes.
+- **[09:53](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=593s) · 本段原话**：real Christians from the people who are just uh uh lip service from the real true hearts. There is a purification coming. There is a uh a refiner's fire coming to the body of Christ and there will be a shakening coming. A shaking. I got corrected on my grammar. Uh guys, there's no shakening. There's so
+- **[11:41](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=701s) · 他描述所见**：You know, people say, "When when is this going to happen?" You're going to have to ask the Lord about about that yourself. I have my I have my uh thinks and I believe 2025 is going to be a a a a dark year because of the dam that I saw with Joe
 
 ### 完整英文 Transcript
 
@@ -328,7 +359,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 经济、银行与市场、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：经济、银行与市场、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕经济、银行与市场、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:53](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=773s) · 本段原话**：world economy for I don't know hundred years now. Uh, and so the dollar standard and all that and so that's all about to be done with. And so we're going to see a digital currency. It'll be like crypto and we're going to see uh this happen very soon. I really believe that we're
+- **[13:51](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=831s) · 他描述所见**：I've seen uh, so many different things about dollar. Oh, and and you know, like I said, not financial advice, but he showed me gold things happening with gold and silver and about um you know, not telling you to invest in it. You pray about it yourself. But I'm just saying I saw things happening with uh
+- **[14:08](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=848s) · 他表达判断**：precious metals and about things happening like that, you know, uh that there would be things shifting with that when all this stuff takes place. So, um you know, I just think it's interesting. I think it's interesting because the Lord, you know, whenever he gives me these cues and he has me praying, y'all, he it's important. He's
+- **[15:30](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=930s) · 他进行祷告**：told you. Pray about what I've already said to you and take it serious. For the hour is short. You don't need a new word of the day. seek him for what I've already told you. And he said, "Brandon, they're getting something new all the time on these other channels that are false words. They're false prophetic words, a
 
 ### 完整英文 Transcript
 
@@ -442,7 +480,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:58 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:43](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=1003s) · 本段原话**：warning me about and to prepare my family. So, I I'm excited about the revival, but I know there's a great shaking coming and it's going to shake America uh for for the upcoming revival.
+- **[17:47](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=1067s) · 本段原话**：YouTube channel that is a bornagain believer has the ability to hear the voice of the Lord by reading their Bible and praying, seeking you daily and not just uh just on Sundays or Wednesday night church. they can have a relationship with you now. Father, I thank you that you become real to them,
+- **[18:22](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=1102s) · 本段原话**：That they hear you, God. Father, that you're passionate about them and they be passionate about you. I thank you, Lord, that they're healed and whole and well from the top of their head to the soles of their feet. They're delivered from satanic bondages of all kinds. I thank you, Lord, that their minds are being
+- **[19:49](https://www.youtube.com/watch?v=6cQeEjQZPrY&t=1189s) · 本段原话**：Well, put a smile on your face and a song in your heart. Jesus loves you so much. And we love you. God bless you all. You all have a wonderful day.
 
 ### 完整英文 Transcript
 

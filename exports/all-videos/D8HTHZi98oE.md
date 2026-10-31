@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 246；**章节数**: 3；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -13,10 +13,25 @@
 - [02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-02)
 - [03. 08:00–09:59 · 教会、复兴与信仰](#section-03)
 
+## 全片概述与 Key Points
+
+全片共 3 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:04](https://www.youtube.com/watch?v=D8HTHZi98oE&t=4s) · 他描述所见**：Well, the pope has died. And everybody's like, "Well, Brandon, is this the pope that you saw standing next to the Antichrist?" Folks, I saw a pope standing next to the Antichrist. The Pope that I saw was a white man. He had he was not heavy set like the pope that I saw. And that's what was always
+- **[04:00](https://www.youtube.com/watch?v=D8HTHZi98oE&t=240s) · 他描述所见**：to what I said at the beginning of the year that the Lord said I was he was cleaning house that judgment begin in the house of the Lord first and that you would see people in great positions of authority in the church pass away and go on. Did I see the pope going? No, I did
+- **[08:00](https://www.youtube.com/watch?v=D8HTHZi98oE&t=480s) · 他表达判断**：type technology. Guess who is is part of uh one of the major companies? George Basos and Bill Gates are funding the whole Synchron I believe is who's running uh of that chip company is Bill Gates and um George Basos. So very interesting. They're trying to compete with Neuralink and they say they're going to be able to do all this stuff.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:04](https://www.youtube.com/watch?v=D8HTHZi98oE&t=4s) · 他描述所见**：Well, the pope has died. And everybody's like, "Well, Brandon, is this the pope that you saw standing next to the Antichrist?" Folks, I saw a pope standing next to the Antichrist. The Pope that I saw was a white man. He had he was not heavy set like the pope that I saw. And that's what was always
+- **[01:04](https://www.youtube.com/watch?v=D8HTHZi98oE&t=64s) · 他描述所见**：have more time. In my opinion, by what I saw in the dream, July the 6th of 2014, and I saw everything as clear as what I could tell you. Did I see their faces up close? No. I was standing down below at at the abomination of desolation when I saw the pope and uh
+- **[02:50](https://www.youtube.com/watch?v=D8HTHZi98oE&t=170s) · 他描述所见**：If if I'm wrong, I'm going to always address it. And you know what? I I do my best. I truly do. I'm a work in progress just like anybody else. But I'm not here to make excuses and sit here and say this is what I saw. This is what I didn't see. I saw a pope standing behind
+- **[03:27](https://www.youtube.com/watch?v=D8HTHZi98oE&t=207s) · 他描述所见**：side of him, I believe I saw the Pope. Okay, please don't throw egg at me. I'm just telling you what I felt like I saw.
 
 ### 完整英文 Transcript
 
@@ -128,7 +143,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=D8HTHZi98oE&t=240s) · 他描述所见**：to what I said at the beginning of the year that the Lord said I was he was cleaning house that judgment begin in the house of the Lord first and that you would see people in great positions of authority in the church pass away and go on. Did I see the pope going? No, I did
+- **[04:18](https://www.youtube.com/watch?v=D8HTHZi98oE&t=258s) · 他描述所见**：not. I saw key figures. The Lord just said as the body of Christ goes, it would be a major cleansing of the house of big key leaders and that God was going to raise up new leaders in the church. So when I saw Satan, when I told you all I saw the devil, when I told you
+- **[06:45](https://www.youtube.com/watch?v=D8HTHZi98oE&t=405s) · 他描述所见**：Whatever. Bye. I'm going to keep praying. I'm going to keep doing this channel and seeing what the Lord has to say. I believe and my family believes we I heard the Lord and I saw what I saw and and you see the chips. We see the drones. Like I said, in 2014, we don't
+- **[06:59](https://www.youtube.com/watch?v=D8HTHZi98oE&t=419s) · 他进行祷告**：see any of that stuff. We see the the stuff going on with the economy right now. We see what President Trump's saying on on the news. There's a lot of good track record. But yeah, if you want to say it was the Pope Francis that gone home, I'm disappointed because I really pray that we're that close. So,
 
 ### 完整英文 Transcript
 
@@ -237,7 +259,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–09:59 · 教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=D8HTHZi98oE&t=480s) · 他表达判断**：type technology. Guess who is is part of uh one of the major companies? George Basos and Bill Gates are funding the whole Synchron I believe is who's running uh of that chip company is Bill Gates and um George Basos. So very interesting. They're trying to compete with Neuralink and they say they're going to be able to do all this stuff.
+- **[08:28](https://www.youtube.com/watch?v=D8HTHZi98oE&t=508s) · 本段原话**：So, two people that I do not trust at all, especially Bill Gates is running a chip company. And I know inside of myself, I'm going to be that bold about it, is that this will be the beginning of the beast, mark of the beast system with uh the brain alterization. And so, we have another company, two more
+- **[08:52](https://www.youtube.com/watch?v=D8HTHZi98oE&t=532s) · 本段原话**：companies. They have been approved by the FDA to start doing human trials and stuff as for what I understand. And when I found out they have two more companies that are joining up trying to compete with Neuralink with Elon Musk, I went, "Oh my goodness." So, we see the ball is rolling. It's not rolling as fast as
+- **[09:14](https://www.youtube.com/watch?v=D8HTHZi98oE&t=554s) · 本段原话**：what some of us would like, but the ball is rolling. Some of us wish Jesus Christ would come back like I'm saying today. I want him so bad to come back for us. But at least we're seeing progression. And as the years go by, the time is getting shorter and shorter. Jesus is coming,
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 960；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 40:00–41:57 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=0s) · 本段原话**：hey everybody I'm just going to get right to it I have a little 11 minute clip here of everything that I've prophesied about Israel and the acceleration of the Jonathan and the David relationship and the Lord pointed me to the week of the Super Bowl and he said watch the week of the Super Bowl
+- **[09:02](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=542s) · 他描述所见**：Netanyahu and and Donald Trump and the moment Trump is inaugurated on the 20th I saw him come out like a lion and I saw strategic plans of taking out key select Targets in the Middle East I'm talking within a matter of just time I'm talking about a small span of time I'm talking
+- **[17:35](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1055s) · 他描述所见**：this gets me ahead and I'm going to have a overflow or whatever but I saw a win forall for a lot of families things that you've been believing for will be an in suddenly and when this in suddenly happens it will happen overnight in a 24-hour period like I've told you I keep getting this 24-hour
+- **[24:51](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1491s) · 本段原话**：got a million in one ways to get the blessing to you but all you're thinking is that little bitty box so we got to take God out of that little bitty box because he's a big big God and he ain't in any kind of box and there ain't no man that's going to block him from the
+- **[32:17](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1937s) · 本段原话**：over those teeth that where the teeth are falling out you're growing new ones you say well that's impossible all things are possible to him who believe he'll grow where teeth where there were no teeth he'll give new teeth where there you say well I've already had a centi no he'll give new ones father we thank you
+- **[40:01](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=2401s) · 他进行祷告**：but lift up your countenance before him father is faithful he's able to deliver you thank you Father for all that You' done and all that you're going to do and everybody say amen and amen well we pray this video blessed you all today I know it's kind of a different one but the
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、预言、梦境与异象。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=0s) · 本段原话**：hey everybody I'm just going to get right to it I have a little 11 minute clip here of everything that I've prophesied about Israel and the acceleration of the Jonathan and the David relationship and the Lord pointed me to the week of the Super Bowl and he said watch the week of the Super Bowl
+- **[01:16](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=76s) · 他描述所见**：partnership you know kind of like a friendship like I'm talking about like this Jonathan and David type of a relationship and when this happened I saw a three strained cord that is not easily broken broken I saw covenants being made and as we bless the land of Israel I saw great financial prosperity
+- **[02:18](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=138s) · 本段原话**：Protecting President Trump protecting his family and now he says he's going to the Super Bowl and I told everybody watch the Super Bowl I've had a check about the Super Bowl but it hasn't been very intense as of the last couple like the last two days it was it was intense about a week ago and and and I was
+- **[03:36](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=216s) · 本段原话**：and the uh praying over uh the straight there there's a passageway where all the uh oil tankers come through I'm praying over that uh and and and praying over uh strategic strikes against Iran uh to to um to make them where they don't have nuclear C capabilities so all right thank you for for watching this this is
 
 ### 完整英文 Transcript
 
@@ -135,7 +153,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、教会、复兴与信仰。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=241s) · 他描述所见**：all about the dinar and what the Lord has showed me I saw in the land of Israel and all in that sea where Israel owns a massive Barrel like a big G like a big bowl of of oil and natural gas that will be tapped into and it will be it's worth billions billions and billions over the
+- **[04:28](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=268s) · 他描述所见**：next four years great financial wealth will flow through Israel I saw their agriculture I saw fruit the size of hu like ginormous I don't know if they're oranges I don't even know if they grow oranges folks but I saw fruit that was ginormous fruit vegetables that were beautiful and healthy and the Lord said it's the
+- **[06:37](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=397s) · 他描述所见**：side it split down the middle was completely strong and I saw this go to the founding fathers and there was little Twigs just barely holding on and I saw as Donald Trump now listen to me I saw as Donald Trump made an alliance with Israel it saved the contract because it blessed Israel so as the
+- **[07:24](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=444s) · 他描述所见**：his great love wherewith he loved us he held strong to his side of the Covenant and whenever Donald Trump comes in I saw him bridge the gap of the Covenant of our founding fathers to make it strong by blessing Israel which had an extension from America to them and it made that Covenant uh over here that was
 
 ### 完整英文 Transcript
 
@@ -230,7 +255,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、政党与政治人物。 提到的地点：Iran、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[09:02](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=542s) · 他描述所见**：Netanyahu and and Donald Trump and the moment Trump is inaugurated on the 20th I saw him come out like a lion and I saw strategic plans of taking out key select Targets in the Middle East I'm talking within a matter of just time I'm talking about a small span of time I'm talking
+- **[09:27](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=567s) · 他描述所见**：using the military like a like a chest game and I saw Iran crippled financially a great disruption a great delay a great setback is coming to Iran financially with their nuclear capabilities of what they think with any kind of Technology I'm talking a great setback is coming to Iran I saw weapons that the United
+- **[10:45](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=645s) · 他描述所见**：foreign adversaries over the last four years we have been the laughing stock of the world and when he comes in I saw um respect restored back to America like like you wouldn't believe it this is going to be I saw again in the spirit a a a a type and Shadow of a Ronald
+- **[11:31](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=691s) · 他描述所见**：I'm talking a major Bulldog is coming on the scene and you will see him even more aggressive than he was his first first four years I saw him hitting strategic Targets in Iran and in Syria I'm talking it's going to look like shock and awe for what I have seen coming folks and it
 
 ### 完整英文 Transcript
 
@@ -320,7 +352,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=720s) · 他描述所见**：long the bullying and all this stuff and I'm telling you I saw a cracking of a whip over uh the Middle East like you wouldn't believe and I saw uh strategic alliances and and people going hey we're it's almost like you go hey we've been out of business we're back in business and you've got the sign open in your
+- **[12:37](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=757s) · 本段原话**：doing pipelines and doing things that were basically all those people were laid off and that that big pipeline I'm talking major stuff is going to start to to happen again I'm talking jobs jobs jobs putting America First basically a patriotism come back on the people when I was praying the Lord showed me that
+- **[12:58](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=778s) · 本段原话**：the temple the Third Temple is about to be built and the Lord showed me that Trump will have a major part in bringing forth the peace Accord with Saudi Arabia and these other nations and that we will see the Third Temple be built in in in a short amount of time but I'm telling you
+- **[14:32](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=872s) · 他描述所见**：of uh what they're the fee of what they're going to charge you they're going to rip try to rip you off I saw a rate that was a lot smaller than what people were going to be happy with because you've been told big rates like the old Iraqi dinar rate back at $3 and
 
 ### 完整英文 Transcript
 
@@ -418,7 +457,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[17:35](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1055s) · 他描述所见**：this gets me ahead and I'm going to have a overflow or whatever but I saw a win forall for a lot of families things that you've been believing for will be an in suddenly and when this in suddenly happens it will happen overnight in a 24-hour period like I've told you I keep getting this 24-hour
+- **[18:21](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1101s) · 他描述所见**：you because you've had this this this vision of grander like this hundreds of millions or whatever is I don't know I just saw numbers that people were very disappointed about like you say well I was expecting $10 million I was expecting that's what I'm talking about some people are going I'm expecting $20
+- **[18:58](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1138s) · 他转述所听到的话**：have the grand idea I've heard that you say well I'm believeing for 20 $30 million and it's going to change generational the Lord showed me what they're going to try to do is not give you as much as what you're believing for and the Lord said to me if you look at it and just be
+- **[19:40](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1180s) · 他描述所见**：sucker rate that you can just wait and become richer down the road but I saw it was a trap now you do with that what you want to you pray about it for what you're supposed to do with that I don't know what that totally means I'm telling you all I'm a student of
 
 ### 完整英文 Transcript
 
@@ -516,7 +562,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:18](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1218s) · 本段原话**：Diana study I don't want to be dumb you know what is the computer technology behind this what is this who's who's involved in this like who's the boss of this and what are they invested in and who are they Brad Greenhouse or whatever his name is Bradley greenh who is this what what is
+- **[21:42](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1302s) · 本段原话**：cause of this for the Iraqi people to have stability to to rid the ma weapons of mass destruction there was a lot of men in women that went home sadly needlessly but always look at the sacrifice of why you of why you were able to have it in the first place is what I'm trying to tell y'all do not
+- **[23:07](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1387s) · 本段原话**：thank you thank you for your hard work thank you for your diligence and your dedication to to to to continue to serve and protect our our great nation you know so if this don't witness with you and you're you're hey I'm going to have $100 million off this then then God bless you but don't say I didn't tell
+- **[23:27](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1407s) · 他进行祷告**：you so if it doesn't happen the way you think so you know I did my part that's all I can say and I and I pray for it I do not put my eggs and all in one basket I I I diversify for what God has told me is coming so that I'm not disappointed
 
 ### 完整英文 Transcript
 
@@ -615,7 +668,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:51](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1491s) · 本段原话**：got a million in one ways to get the blessing to you but all you're thinking is that little bitty box so we got to take God out of that little bitty box because he's a big big God and he ain't in any kind of box and there ain't no man that's going to block him from the
+- **[25:20](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1520s) · 本段原话**：disappointed or if they're excited or whatever I'm going to do exactly what you said to do Lord and I'm going to give you all the glory honor and praise for whatever I get when I get it and father I'm not going to have lust in my heart like be all all weird about it but
+- **[25:54](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1554s) · 本段原话**：Porsche I mean seriously you know I'm trying to it's the same thing well I wanted a million doll house and I got a $100,000 house I mean we're grateful we're grateful you're good father and we're thankful for all that you've given us and all that you've done for us regardless of what we think we need
+- **[26:59](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1619s) · 他进行祷告**：father for great acceleration over this nation we pray over president Trump and over over over over all the decisions that he's making for this nation with the tariffs and all the things that he's doing that father that you're leading him with a supernatural Solomon type of anointing the father that you've called him into the kingdom for such a time as
 
 ### 完整英文 Transcript
 
@@ -728,7 +788,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[29:29](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1769s) · 他表达判断**：Lord first and you told me father that you're cleaning house and father you're shaken to awaken the people I believe father that we will have a great shaken to awaken father breaking making people get out of the Slumber and the Sleep father waken them up father for one last call one last push a harvest of
+- **[30:34](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1834s) · 他描述所见**：considered with the body we call over dementia and Alzheimer's and over autism we call healing and wholeness and wellness over in Jesus name we thank you Lord that your healing power flows from the top of their head to the soles of their feet we thank you Lord that that I see intestinal cancer to be healed in Jesus
+- **[30:57](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1857s) · 本段原话**：name name we speak to glaucoma we speak to cataracts we say the eyes to line up in the name of Jesus to be thou healed and whole and well from these from these uh things elments I call ears to pop open I speak to eard drums and over the ear follicles to be healed and whole and
+- **[31:43](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1903s) · 他描述所见**：power that flows over their gums for ginger Vitas to be healed for the I see like infection around the tooth that's causing the tooth to want to fall out that the teeth are like the the gums are
 
 ### 完整英文 Transcript
 
@@ -829,7 +896,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:17](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=1937s) · 本段原话**：over those teeth that where the teeth are falling out you're growing new ones you say well that's impossible all things are possible to him who believe he'll grow where teeth where there were no teeth he'll give new teeth where there you say well I've already had a centi no he'll give new ones father we thank you
+- **[34:16](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=2056s) · 本段原话**：from the Yoke of bondage of poverty in the name of Jesus for poverty is a curse and we're not under the curse we're underneath the blessing we take authority over poverty we take authority over lack not enough and barely getting by we say in the name of Jesus we have overflow we call those things that be
+- **[34:57](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=2097s) · 他描述所见**：according to your riches and Glory by Christ Jesus thank you Lord right now I call the flu healed and whole and well the flu I see many of you are overcoming the flu I call strength in your bodies I say strength in your in your blood right now in the name of Jesus delivered from the
+- **[35:17](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=2117s) · 本段原话**：flu I command flu to go now in the name of Jesus bird flu swine flu whatever flew it don't matter the healing power of God flow on the inside of you delivering you from the top of your head to the soles of your feet from all kinds of flu symptoms be healed in the name of Jesus
 
 ### 完整英文 Transcript
 
@@ -933,7 +1007,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:03](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=2163s) · 他描述所见**：refreshing over the home refreshing over that Mama that she's been taking care of those children I see it you're tired you've been taking care of sick babies father I call refreshing over that mother right now in the name of Jesus a refreshing over that mother right now and over that father we call refreshing
+- **[36:41](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=2201s) · 本段原话**：house a Holy Ghost infilling of your presence just there as she's just cooking dinner or folding laundry bringing a a holy ghost blessing to her in the name of Jesus to lift up her head and to lift up her countenance to tell her everything is going to be all right honey everything is going to be all
+- **[38:43](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=2323s) · 本段原话**：I'll take the job and I'll do it I encourage the grandparents today and say you have what it takes to raise children you raised some already and you're doing it again and God's going to give you Grace to finish it thank you Father for that thank you for every single one of them we bless them in the name of Jesus
+- **[39:43](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=2383s) · 本段原话**：you rest take his yoke upon you remember his his yoke is easy and his burden is light remember this do not be downcast
 
 ### 完整英文 Transcript
 
@@ -1036,7 +1117,14 @@
 <a id="section-11"></a>
 ## 11. 40:00–41:57 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:01](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=2401s) · 他进行祷告**：but lift up your countenance before him father is faithful he's able to deliver you thank you Father for all that You' done and all that you're going to do and everybody say amen and amen well we pray this video blessed you all today I know it's kind of a different one but the
+- **[41:06](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=2466s) · 本段原话**：that clear but click the likes click the notification button click the thumbs up all that you can do comment something nice down below we really appreciate your your um uh your support your love we appreciate all of it we thank you for for being a part of our YouTube channel we're growing to over 500,000 now and we
+- **[41:27](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=2487s) · 本段原话**：look at what Jesus has done and it's amazing on all the other channels all around the world thank you for being a part of those twoo there we have every channel from everywhere it seems like and we just want to say thank you uh for for supporting us God bless you all well
+- **[41:47](https://www.youtube.com/watch?v=SrLXLpmsP-k&t=2507s) · 本段原话**：we just always want to close out our broadcast every day to tell you all to put a smile on your face and a song in your heart Jesus loves you so much and we love you God bless bless you all and we will see you soon byebye
 
 ### 完整英文 Transcript
 

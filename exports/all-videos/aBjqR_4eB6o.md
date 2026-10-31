@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 770；**章节数**: 9；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -19,10 +19,28 @@
 - [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
 - [09. 32:00–33:57 · 教会、复兴与信仰、战争与国际事务](#section-09)
 
+## 全片概述与 Key Points
+
+全片共 9 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=0s) · 本段原话**：hey good morning family praise the Lord da 63 right wow 62 62 i i i i i warped ahead one well thank you for joining us y'all we're excited you're here we have some things on our heart to tell you you know uh Billy brim gave a prophetic word uh was it on the 11th of December yes okay
+- **[08:00](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=480s) · 他转述所听到的话**：there will be people who are walking that had just you know a little bit of wealth start walking in decamillionaire that means multiple of over 10 that is that that is a supernatural abundance of wealth coming to people the Lord said it would happen in a 24-hour period the Lord warned me and he said Brandon this wealth transfer
+- **[12:00](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=720s) · 他描述所见**：things behold I'm going to do a new thing and there's going to be and the Lord told me remember I told you all when I was driving by or Roberts University and the Lord showed me a great Revival that's about to take place at or Roberts University with the kids and everybody on that campus and I saw
+- **[20:25](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1225s) · 他表达判断**：will be a an average it will have be an everyday thing I believe in the days ahead to raise the dead I believe that that it will not be something you go well I heard about it once back in the 1900 you know back you know how many hundreds of years ago or 100 years ago
+- **[24:01](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1441s) · 他进行祷告**：YouTube channel and we're believing for a million prayer Army to come and pray with us on a day-to-day basis we lay hands on the sick and we lay together we pray over over the people and we call those things that be not as though they were we say you're healed we agree that
+- **[32:17](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1937s) · 本段原话**：Lord's blessed us so we're thankful we started a China Channel and we started a Philippines China and the Philippines and Korea and the Russian we have a Russian Channel we have a Korean Channel Channel we have a Philippines Channel and a Chinese channel right yeah so that's five channels right yeah and we'll put the links to the in the
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=0s) · 本段原话**：hey good morning family praise the Lord da 63 right wow 62 62 i i i i i warped ahead one well thank you for joining us y'all we're excited you're here we have some things on our heart to tell you you know uh Billy brim gave a prophetic word uh was it on the 11th of December yes okay
+- **[00:48](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=48s) · 他表达判断**：strange July hypnotic hypnotic November and then oh what a Christmas and then oh what a Christmas and so uh I believe we had that strange July strange July very strange July of course with President Trump being almost assassinated then we had the hypnotic November which was a very strange November the way how
+- **[01:38](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=98s) · 本段原话**：Billy what the Lord showed sister Billy so this was December 11th 2024 prophetic word through Billy burm regarding Christmas December 25th Christmas it shall begin on that date that the gifts that I have given to you the ministry gifts the nine Holy Spirit gifts too will begin to operate on a greater level
+- **[03:41](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=221s) · 本段原话**：of a discernment or any kind of spiritual anything at all you can feel the signs of the times like the anticipation in the heavenlies for the Breakthrough for the body it's like it's like I tried to tell somebody on the phone yesterday it's like we're 9 months pregnant like when you're 9 months
 
 ### 完整英文 Transcript
 
@@ -119,7 +137,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 经济、银行与市场、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：经济、银行与市场、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕经济、银行与市场、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:02](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=242s) · 本段原话**：so ready for this baby to come oh my goodness Brandon I am so ready and is all she thinks about you know any woman that's 9 months pregnant that's all they're anticipating the birthing of the baby and it's it's on your mind 24/7 cuz you're miserable the baby's kicking you it's hard to sleep you've got all you
+- **[05:02](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=302s) · 本段原话**：like in the spirit realm I feel like we're on the the verge of something huge and that's why you know I told you all uh that they would try that black rock and these these these this these companies would try to derail what he's going to try to do Trump his agenda with
+- **[06:27](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=387s) · 本段原话**：the interest rates it's going to be about the interest rates and the banks loaning for car loans and loaning for houses and credit card notes and church mortgages and major debt crisis and so Trump trying to turn it around with crypto and gold and silver whatever his plan is and then the Lord's showing Kim
+- **[07:40](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=460s) · 本段原话**：financial blessing that is so over the top that the world's going to stand by and go I mean I'm talking I'm talking it's not going to be just a couple thousand dollars I'm not talking a couple hundred, I told you decamillionaires
 
 ### 完整英文 Transcript
 
@@ -215,7 +240,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=480s) · 他转述所听到的话**：there will be people who are walking that had just you know a little bit of wealth start walking in decamillionaire that means multiple of over 10 that is that that is a supernatural abundance of wealth coming to people the Lord said it would happen in a 24-hour period the Lord warned me and he said Brandon this wealth transfer
+- **[09:03](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=543s) · 他描述所见**：heaven and I saw the tsunami wave and there was this massive Holy Ghost water outpouring that was at a Breaking Point and this was clear back in 2014 and you know there's no there's no time and distance and space like that you I mean and there's no time and distance in the spirit realm
+- **[10:20](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=620s) · 本段原话**：and giftings that the world has never seen before for behold I'm going to do a new thing in this last generation in this last outpouring I'm going to do something Beyond Your Wildest expectation okay so we have these packages with big bows on them and I've wondered if they've been delivered and then we have sister Billy have this word
+- **[11:29](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=689s) · 他转述所听到的话**：somebody like a Billy Graham preaching the gospel and bringing in the souls the Harvest all throughout the world again we need somebody like that again and the Lord said Brandon that's that's that's for that generation I'm going to do something new with you I'm going to do something new with your viewers we don't need the
 
 ### 完整英文 Transcript
 
@@ -315,7 +347,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=720s) · 他描述所见**：things behold I'm going to do a new thing and there's going to be and the Lord told me remember I told you all when I was driving by or Roberts University and the Lord showed me a great Revival that's about to take place at or Roberts University with the kids and everybody on that campus and I saw
+- **[12:58](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=778s) · 他描述所见**：and healings and demonstrations they were just barely taking a I saw those men come up to that well and they got a cup like a chalice in their hand and they dipped out of that well off off the surface of it and it was a big Stone looking like like you know like an old
+- **[14:07](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=847s) · 他描述所见**：I saw that wave at its break and and the Lord the Lord told me he said do you see that wave and I said yeah he said that wave is at its breaking point and it's about to flood the Earth One Last Time One Last Revival will take place upon the Earth and I saw lights upon the
+- **[15:25](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=925s) · 本段原话**：those are the underground churches in in uh Asia Brandon and he said my gospel cost them something and it was precious to him for what was about to take place in Asia because of the persecution of the Saints so strong in China because there's not a freedom of religion and the Lord showed me a mighty
 
 ### 完整英文 Transcript
 
@@ -420,7 +459,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:41](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1001s) · 他表达判断**：we have an ending of a shmita cycle in 20128 so I believe we have a window of time a major window a harvest of souls a great Revival and yes we will see birthing pains and and earthquakes and diverse places and things that we that are Beyond human comprehension are about to happen y'all but the Glorious Church
+- **[17:31](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1051s) · 他表达判断**：generation I am totally conin you couldn't you can't convince me of it to say oh you'll not you're going to you're not going to get old and and and you're going to go by the graves you know what I'm saying we will not taste death I believe with all my heart that Jesus is
+- **[17:48](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1068s) · 本段原话**：coming in our lifetime and we're going to see that Harvest we're going to see it he came to me remember I told you he said I am the lord of the Harvest will you help me and he held out his hands with massive holes H these massive massive holes you could see through all the way to the other side
+- **[19:01](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1141s) · 他进行祷告**：reserves were coming the Army Heaven reserves are coming folks and they're going to war on our behalf but it's our job to pray and intercede on this channel on a day-to-day basis and and and believe for turnaround not letting go of the rope and going well God it's your problem no it's our job to pray
 
 ### 完整英文 Transcript
 
@@ -520,7 +566,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:25](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1225s) · 他表达判断**：will be a an average it will have be an everyday thing I believe in the days ahead to raise the dead I believe that that it will not be something you go well I heard about it once back in the 1900 you know back you know how many hundreds of years ago or 100 years ago
+- **[21:04](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1264s) · 本段原话**：me up I just go my goodness you all Braden's excited my little girl's excited Megan's anticipating you know anticipation brings the manifestation of what we've been believing for you have to anticipate that God is going to move in our behalf if you're just always looking for oh in the Sweet By and By
+- **[21:25](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1285s) · 本段原话**：when I go home to beat Lord I'm going to be healed when I go to heaven no I'm anticipating that I walk in the fullness of what God has for me on this Earth beloved I wish above all things that you prosper and be in health even as your soul prospers and then he says that you
+- **[22:49](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1369s) · 本段原话**：Bible says to do and we're and our shadow is going to touch the sick in hospitals we're going to see great Great and Mighty things and I just want to encourage you today do not be depressed do not have anxiety do not feel discouraged or downcast it's time to lift up your head for our Redemption is
 
 ### 完整英文 Transcript
 
@@ -618,7 +671,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:01](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1441s) · 他进行祷告**：YouTube channel and we're believing for a million prayer Army to come and pray with us on a day-to-day basis we lay hands on the sick and we lay together we pray over over the people and we call those things that be not as though they were we say you're healed we agree that
+- **[25:05](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1505s) · 本段原话**：top of your head to the souls of your feet there's not a devil in hell no matter who it is no matter what kind of devil that can stand against the power of Jesus so we say in the name of Jesus you are delivered from satanic bondage and you are set free by the blood of the
+- **[26:08](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1568s) · 他表达判断**：they walk in Victory concerning their sleep yes you said father in your word that you give your beloved restful sleep and I believe for every single one of them that they will have restful peaceful sleep no demonic spirit is going to bother your sleep tonight we take authority over your epinephrine over your cortisol levels and over your
+- **[27:36](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1656s) · 本段原话**：all understanding is over you today we believe that this that that the best is yet to come for you we believe in in our hearts that you are the healed that you're the delivered that you're prosperous that 2025 will be a year of great overflow closing even out 2024 that this will be a great overflow year
 
 ### 完整英文 Transcript
 
@@ -713,7 +773,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:20](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1700s) · 他进行祷告**：with it sewing and and believing for Supernatural Harvest back again because the Harvesters and the seers are going to go hand in hand it's time for a supernatural acceleration of seed time and harvest and we believe that with you and we pray that for you in the name of Jesus that the seeds you sowed in 24
+- **[29:18](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1758s) · 本段原话**：you're the lord of the Harvest for Supernatural that we call those seeds in and it will be a supernatural we say where did this come from and and the Lord say your great grand Grand Paul swed this to the church back 100 years ago and you never he never reaped it but I'm going to give that Harvest to you to
+- **[30:19](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1819s) · 本段原话**：one of your family's members born again be a light in the darkness this Christmas season to the unsaved let them see Jesus on you when your family comes across your path they're all drinking and boozing it up may maybe you go around their household and you go man I'm around as a bunch of Alcoholics ex
+- **[31:28](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1888s) · 他表达判断**：so well praise I think I've been so excited about Christmas since even when I was a kid yeah time for time for Christmas so well praise the lord well if you could like our video subscribe if you haven't subscribed click the notification Bell uh we we are uh spreading this gospel y'all and every
 
 ### 完整英文 Transcript
 
@@ -822,7 +889,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–33:57 · 教会、复兴与信仰、战争与国际事务
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、战争与国际事务、AI、科技与监控。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、战争与国际事务展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:17](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1937s) · 本段原话**：Lord's blessed us so we're thankful we started a China Channel and we started a Philippines China and the Philippines and Korea and the Russian we have a Russian Channel we have a Korean Channel Channel we have a Philippines Channel and a Chinese channel right yeah so that's five channels right yeah and we'll put the links to the in the
+- **[32:35](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1955s) · 本段原话**：description for those that are interested in looking at those channels yeah and more and more growth in 2025 I the Lord has told me I want you on every available voice throughout the world as much as you can I want you to do this and spread my gospel because the time is running out time is running out
+- **[32:57](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=1977s) · 本段原话**：so so Diane and I and Braden we're all working as hard and fast as we can to get this gospel spread throughout the whole world and then the end will come we believe that Jesus Christ is coming folks and we we want to be a light and and as bright as we can because I'm
+- **[33:31](https://www.youtube.com/watch?v=aBjqR_4eB6o&t=2011s) · 本段原话**：everything that he's given me say listen let's go out with with with great Victory so we appreciate your support God bless you all well we always close our broadcast and we always want to say this put a smile on your face and a song in your heart just like this Jesus loves you so much and we love you God bless
 
 ### 完整英文 Transcript
 

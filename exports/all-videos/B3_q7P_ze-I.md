@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 215；**章节数**: 3；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -13,10 +13,25 @@
 - [02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-02)
 - [03. 08:00–09:48 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-03)
 
+## 全片概述与 Key Points
+
+全片共 3 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:17](https://www.youtube.com/watch?v=B3_q7P_ze-I&t=17s) · 他描述所见**：um uh different than than I've ever prayed before then the Lord started to speak to me and I seen a vision of North Korea and the Lord told me he said I'm Brandon I'm a I'm going to he said I've heard the prayers of my people in in Asia I have heard the underground
+- **[04:00](https://www.youtube.com/watch?v=B3_q7P_ze-I&t=240s) · 本段原话**：shake the world it would shake the nation it would Shake all of the of your the Philippines all of it it's going to get radically shaken by the power of God Vietnam all of it there there there's a wave of the glory of God that's going to touch the people I could see a glorious
+- **[08:00](https://www.youtube.com/watch?v=B3_q7P_ze-I&t=480s) · 本段原话**：they will not understand what's going on and you'll explain to them this is a manifestation of the presence of God on this Earth showing his love and his compassion towards his people tell them God's a god of love you'll be able to tell them and people are going to get saved at Walmart they're going to get
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:17](https://www.youtube.com/watch?v=B3_q7P_ze-I&t=17s) · 他描述所见**：um uh different than than I've ever prayed before then the Lord started to speak to me and I seen a vision of North Korea and the Lord told me he said I'm Brandon I'm a I'm going to he said I've heard the prayers of my people in in Asia I have heard the underground
+- **[00:58](https://www.youtube.com/watch?v=B3_q7P_ze-I&t=58s) · 本段原话**：them suppressing things he said but I'm going to bring a holy Terror on um Kim Jong and the family and the and the bad people in regime and he said I'm going to shake that nation and they will have a Liberation like the children of Israel did he said it would be a great shaking
+- **[02:23](https://www.youtube.com/watch?v=B3_q7P_ze-I&t=143s) · 他描述所见**：showed me a great Mighty move of God coming upon those people I saw I saw a move of God oh I saw the people China that have have stood for the Lord to do something huge with their
+- **[03:23](https://www.youtube.com/watch?v=B3_q7P_ze-I&t=203s) · 他描述所见**：I've not forgotten you he said I not forgotten you that's what he told me he told me he said I'm not forgotten I've heard all their prayers the people North Korea I saw him being tortured he showed me that the glory of the Lord would be so much that they wouldn't be able to
 
 ### 完整英文 Transcript
 
@@ -108,7 +123,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=B3_q7P_ze-I&t=240s) · 本段原话**：shake the world it would shake the nation it would Shake all of the of your the Philippines all of it it's going to get radically shaken by the power of God Vietnam all of it there there there's a wave of the glory of God that's going to touch the people I could see a glorious
+- **[05:16](https://www.youtube.com/watch?v=B3_q7P_ze-I&t=316s) · 本段原话**：it was transparent like honey and I could hear the sounds of Revival breaking out in Africa I could hear the sounds of the people crying out for God to touch them I hope youall have a wonderful day our God is going to do some amazing amazing things in these last days you all people have wondered is there a
+- **[05:42](https://www.youtube.com/watch?v=B3_q7P_ze-I&t=342s) · 本段原话**：Revival before Jesus comes and I have to tell you yes it's not what you think it doesn't last for as long as what everybody thinks oh this is going to be it's going to delay is coming and oh it's going to last for years and all this stuff no it is a quick work it
+- **[07:20](https://www.youtube.com/watch?v=B3_q7P_ze-I&t=440s) · 本段原话**：Atlanta there's something happening in in North Carolina there's something happening over here and you'll go wow what's going on but it will be in the unexpected places they'll it to be at the Walmart stores they'll be in parking lots with people just being obedient to what the spirit of God is telling them
 
 ### 完整英文 Transcript
 
@@ -206,7 +228,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–09:48 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=B3_q7P_ze-I&t=480s) · 本段原话**：they will not understand what's going on and you'll explain to them this is a manifestation of the presence of God on this Earth showing his love and his compassion towards his people tell them God's a god of love you'll be able to tell them and people are going to get saved at Walmart they're going to get
+- **[08:20](https://www.youtube.com/watch?v=B3_q7P_ze-I&t=500s) · 本段原话**：saved all over the place just by being obedient will the Revival be in buildings yes but it's going to be different than what you've ever never expected get ready for this it's fixing to happen there'll be a major event take place right before the manifestations of this outpouring you'll start to see it
+- **[08:42](https://www.youtube.com/watch?v=B3_q7P_ze-I&t=522s) · 他表达判断**：just like ad Asbury I believe it was you it started to happen up there and it's kind of it's kind of kind of died off on the news nobody really talks about it anymore I don't know if it's even happening anymore I don't know but this is going to be very similar there'll be
+- **[08:57](https://www.youtube.com/watch?v=B3_q7P_ze-I&t=537s) · 他转述所听到的话**：events boop boop boop boop boop and it's going to going to pick up speed because the Lord said Brenan I'm going to draw the people in the loved ones that the mothers have been praying for the children the believe that you you may have these children that are astray and they're they're lost God's going to
 
 ### 完整英文 Transcript
 

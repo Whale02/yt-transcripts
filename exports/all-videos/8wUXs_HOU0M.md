@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 883；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 - [10. 36:00–39:04 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:07](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=7s) · 本段原话**：And, um, I'm just going to get right to it. Uh, you know, you know, I was asking the Lord, I said, "Lord, do you have anything for the people?" And I've been asking this for, you know, I haven't given a fresh word like this for a while. And um, asking him direction for this channel.
+- **[08:12](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=492s) · 他描述所见**：I saw um ants, okay, hidden within cells. I I'll say it like that. Sales of people who came across the southern border over the last several years.
+- **[16:01](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=961s) · 本段原话**：ministers. It starts with the head and it goes down through the body. And I'm telling you, there's great corruption in homes with perversions with sexual perversions that are very bad. And I'm telling you, there will be an exposing of this. And the Lord is the Lord is going to clean house. He's going to
+- **[20:00](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1200s) · 他描述所见**：about the Vlad Putin? Did I skip too much? So, um so no. So, this is back to it. I want you to to know that war is coming. A major world war is coming. I warned you about the biological weapons that I saw coming up out of Iran going into Syria to try to to to strike
+- **[28:32](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1712s) · 他转述所听到的话**：That's the Bible. And and the Lord told us that we have authority over those demonic spirits. And I'm telling you all, if you would use it on a day-to-day basis over your area, we would cause a lot of havoc in the kingdom of darkness and be able to delay things and push things back to give God more time to
+- **[36:01](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=2161s) · 本段原话**：lost to become to the kingdom of God. We thank you, Father, that the Father, all our unsaved loved ones, we petition you, Father, that the Holy Spirit, you would convict the hearts of men. Father, that they would realize that they um that they are wrong and practicing the wages of sin is death. But Father, I thank
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:07](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=7s) · 本段原话**：And, um, I'm just going to get right to it. Uh, you know, you know, I was asking the Lord, I said, "Lord, do you have anything for the people?" And I've been asking this for, you know, I haven't given a fresh word like this for a while. And um, asking him direction for this channel.
+- **[00:31](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=31s) · 他进行祷告**：Make prayer on this channel a staple." That's what that's the go-to. Always teach the people to pray and teach them to jump in the rivers. And um it's priority priority number one. And I haven't been faithful enough with doing that and I'm going to do it more and more and more. Um, number two, he said
+- **[01:14](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=74s) · 本段原话**：going to the psychic hot lines. How many different ones do we hear? who's right, who you know you and and and because you're not hearing him for yourself. And that's the way I have to I'm just trying to be real with y'all. It's not hearing him from yourself, seeking him and find him. You go to the the nearest YouTube
+- **[02:46](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=166s) · 他进行祷告**：supposed to change and help edify you and up and show you what's to come, to show you how to pray, to prepare and to get ready for what's coming. Um, a lot of you are not um are are u it's falling on deaf ears, itching ears, and you just go, "Well, I you didn't agree with it.
 
 ### 完整英文 Transcript
 
@@ -132,7 +150,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 战争与国际事务、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：战争与国际事务、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:16](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=256s) · 他描述所见**：Vladimir Putin. And then I saw um a provoking from Poland uh concerning Ukraine and that he that the that Russia would strike you you uh uh Poland and that it would be something that we've never seen before. Well, I've been praying over this and the and I'm and I and I'll repost the words that I've
+- **[06:05](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=365s) · 他描述所见**：hearing God. I'm telling y'all, I saw in the spirit when I was praying men and women being drafted and going overseas for a major war. Major war. Can I even say that word anymore? Because they're flagging my videos.
+- **[06:25](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=385s) · 他描述所见**：I could probably say war, right? You can say war. Okay. Um uh I saw a draft young men and women both going in a a line because of a a patriot a this was a um you you all and I'll tell you all like like I've seen in the spirit when n and the lord showed me again when 911
+- **[07:26](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=446s) · 本段原话**：Okay, I've seen it again and I have to be very watchful what I'm saying on this channel. Now, an event is going to happen that is going to cause I want you to hear me and follow me that's going to cause a great patriotism to happen with certain people where they will want to
 
 ### 完整英文 Transcript
 
@@ -230,7 +255,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:12](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=492s) · 他描述所见**：I saw um ants, okay, hidden within cells. I I'll say it like that. Sales of people who came across the southern border over the last several years.
+- **[09:55](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=595s) · 本段原话**：And I asked the Lord, he said, Brandon, before any major uh nation declares a major major war and retaliates for what what what that devil that spinning devil went inside him to retaliate of what's going to happen, you have to have alli allies.
+- **[10:45](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=645s) · 他描述所见**：Arabia because they broke the petro dollar deal. I told you all it was coming. I warned you all that this was coming. I told you I saw uh the prince MBS put his foot said I'm going to put it on there. They were looking for a stronger backbone of leadership in America and I
+- **[11:02](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=662s) · 他描述所见**：saw the antichrist agenda trying to come on and I I told you all about that, right? and um they were going to create a new global system with China, Russia, Saudi Arabia and then I saw it spreading from there going throughout uh the uh OPEC nations I believe uh Iran, Iraq, uh all of them. Okay. All of the major
 
 ### 完整英文 Transcript
 
@@ -323,7 +355,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:03](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=723s) · 本段原话**：major war is about to take place. It's not just a well, this nation's fighting against nation. It's going to be like World War II, but but very very nasty.
+- **[13:34](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=814s) · 本段原话**：the days ahead there will be an exposing of corrupt ministers. People who are in sexual perversion will be exposed and brought to light. Things that are hidden will be exposed. We've seen this now twice uh that I know of in the last couple of uh um uh months whenever I gave this word
+- **[15:11](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=911s) · 本段原话**：to stumble because much is given. Where much is given, much is required. And I'm telling you, there's going to be a held accountability for for for what what's about to be exposed in the body of Christ. Judgment begins in the house of the Lord first. And I'm telling you, we're seeing just the blade, then the
+- **[15:44](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=944s) · 本段原话**：Wow." Because of all of the stuff that's been going on behind closed doors with compromise and sin in the church, and you're going to see it. God's cleaning some diapers right now, some dirty diapers. And people are not going to like it. But it's not just about the
 
 ### 完整英文 Transcript
 
@@ -421,7 +460,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=961s) · 本段原话**：ministers. It starts with the head and it goes down through the body. And I'm telling you, there's great corruption in homes with perversions with sexual perversions that are very bad. And I'm telling you, there will be an exposing of this. And the Lord is the Lord is going to clean house. He's going to
+- **[17:13](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1033s) · 他表达判断**：Okay? from how intense it could be versus uh it could be like, you know, some wounds can be fatal, some wounds can be a scratch. That's probably, you know, a good way to say it. But the Lord showed me, he said, the more you intercede as the body of Christ, the more the volume
+- **[18:52](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1132s) · 本段原话**：I've told you all about that in the videos down below. You'll see that um about losing weight and taking care of our bodies. And I'm gonna get into more about that on another video about h how I've lost my weight, how I keep trying trying. I I'm telling you, I'm a work in
+- **[19:08](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1148s) · 本段原话**：progress. I I am I am I am determined to eat healthy and to find a new niche from where I was eating like uh uh bad, you know, eating whole foods, eating vegetables, you know, uh growing your own vegetables, garden vegetables, squash, zucchini, uh um tomatoes, not store-bought GMOs. I'm talking about good stuff from your own garden. Maybe
 
 ### 完整英文 Transcript
 
@@ -516,7 +562,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1200s) · 他描述所见**：about the Vlad Putin? Did I skip too much? So, um so no. So, this is back to it. I want you to to know that war is coming. A major world war is coming. I warned you about the biological weapons that I saw coming up out of Iran going into Syria to try to to to strike
+- **[20:22](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1222s) · 他进行祷告**：Israel. We must pray the pro for protection over the Israeli people because another plot, another heavy uh retaliation is coming. We have to pray for America for the Fourth of July weekend, for the Fourth of July time frame. We have to pray for that. We have to pray for the elections and and and
+- **[21:35](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1295s) · 本段原话**：October is a very serious month that through the summer months. I told you all I told you to watch what would happen with Donald Trump going into the summer. I told you a year ago, this time last year, that he would have trials go clear up until late summer of 2024 and that it would be a distraction. And then
+- **[23:11](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1391s) · 本段原话**：It's a good video. Yeah. Great. 23 minutes. Yeah. So, um, so I just want to let you all know, uh, the plans that the enemy is is going, uh, like with Putin and with all the money, it's happening. It's happening just like I gave the word about. It's happening right before your all's face. Some of you all don't see
 
 ### 完整英文 Transcript
 
@@ -612,7 +665,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 祷告、敬拜与现场互动、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、地震、风暴与灾害、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、地震、风暴与灾害展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:46](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1486s) · 他进行祷告**：There is great weather manipulation going on right now through uh scientific stuff, war things. And some people say, "Well, that's conspiracy." No, no, no, no, no, no. You'll know that it's it's real. It's real. And I'm telling you all, we have to pray for the weather. We have to pray God. It's God's it's God's
+- **[26:22](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1582s) · 他进行祷告**：Calling it in over your area. If you're in Africa or whatever, speak to your weather. And so um but also pray for for peace over the area that you'll be that there won't be any uh terrorist activities that you'll be in the right place at the right time that they'll be exposed that the the the
+- **[27:21](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1641s) · 他描述所见**：And so I saw, like I said, I want to say this. I saw again the West Coast being struck with war. And people say, "What did you see about the Big Island, Hawaii?" I saw a surprise attack similar to Pearl Harbor happening again. And it was bad. And people were running trying to get away. And I saw a fires. I saw uh
+- **[27:46](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1666s) · 他描述所见**：uh jets and things happening within a major attack on the military bases in Hawaii. I saw this and the Lord warned me about it uh to pray for the people, you know, a lot and some people goes,
 
 ### 完整英文 Transcript
 
@@ -712,7 +772,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:32](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1712s) · 他转述所听到的话**：That's the Bible. And and the Lord told us that we have authority over those demonic spirits. And I'm telling you all, if you would use it on a day-to-day basis over your area, we would cause a lot of havoc in the kingdom of darkness and be able to delay things and push things back to give God more time to
+- **[29:33](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1773s) · 他表达判断**：People would get healed. people will get delivered and and and then we'll be caught up and God will we'll get out of here. I believe with all my heart we're we want a great harvest of souls of a billion soul harvest and the Lord will bring these people in and we're going to
+- **[30:48](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1848s) · 他进行祷告**：Is that okay? So let me let me pray for y'all today. That's what I'm going to give you today. This video's gone on long enough. Uh but it's it's some of the things I'm trying to tell y'all that war is coming on a greater a greater scale. Um okay. So, Father, I thank you
+- **[31:27](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1887s) · 本段原话**：And we thank you, Lord, that you have protection over every single household that is represented here today. We call, we plead the blood from the top of their head to the soles of their feet all the way around them. That there will not be a weapon formed against them that will prosper. That their angels would bear us
 
 ### 完整英文 Transcript
 
@@ -819,7 +886,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:01](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1921s) · 本段原话**：there to keep calamity from happening to us. And I thank you, Father, that there's ministering spirits of prosperity. We call forth finances from the east, from the north, the south, the east, the west. Father, I thank you, Lord, that you said, "Give, and it shall be given unto us. Good measure pressed down, shaking together, and running over
+- **[33:04](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=1984s) · 本段原话**：Lord that their marriages are restored. Father, I call for restoration of households in Jesus' name. I'm calling their marriages whole and healed and well in Jesus' name. Delivered from all kinds of perversions and things that that have been uh the all the hidden things be uncovered and un revealed in Jesus' name. Father, adultery that they
+- **[34:17](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=2057s) · 本段原话**：what they're doing. I thank you, Lord, that you you will you will you will convict the the men, convict the women, convict these people of what they're doing, and that they would do stop doing it. I thank you father that there is a there's a hedge of of judgment father you said judgment comes in the house of
+- **[35:23](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=2123s) · 他进行祷告**：right before you. That we are always right before you by the blood of your son. Thank you, Lord, for this blood of Jesus. Thank you, Lord, for the power and the authority of the believer. Thank you, Lord, that we we pray over our leadership. We pray protection over Donald Trump as the uh Father, I thank
 
 ### 完整英文 Transcript
 
@@ -924,7 +998,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:04 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:01](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=2161s) · 本段原话**：lost to become to the kingdom of God. We thank you, Father, that the Father, all our unsaved loved ones, we petition you, Father, that the Holy Spirit, you would convict the hearts of men. Father, that they would realize that they um that they are wrong and practicing the wages of sin is death. But Father, I thank
+- **[37:46](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=2266s) · 本段原话**：for all things are possible to him who believes. We believe it. We believe in this household. I want you to believe it in yours. Well, if you could do me a favor today, subscribe if you're not subscribed. If you're still watching this video, click the notification bell, click that thumbs up on the video, not
+- **[38:05](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=2285s) · 本段原话**：down, up, I would appreciate it. you. Every single time you all do that, if you comment down below, the the algorithm of how YouTube works is by how many the clicks, the subscribes, the notification bells, all of it helps to get the gospel out throughout the whole world so that all men will hear and
+- **[38:27](https://www.youtube.com/watch?v=8wUXs_HOU0M&t=2307s) · 本段原话**：repent and know that Jesus Christ is coming. You're a part of that and you're helping get the gospel out every single time you do that. So, I just want to say thank you for supporting me. Thank you for helping me out and being a friend to us. I we we just want to say thank you.
 
 ### 完整英文 Transcript
 

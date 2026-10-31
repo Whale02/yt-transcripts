@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 676；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-06)
 - [07. 24:00–26:02 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=0s) · 本段原话**：good morning family um I'm going to do a video right now that's a little different than what I I I usually do um I've I've everybody's been telling me about this uh earthquake and all the stuff that's going on in Italy you know back on July 5th I did a video about a a
+- **[04:01](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=241s) · 他描述所见**：to the next thing the Lord had me like I told you all I was interceding for uh uh the elections for 2024 and the Lord had me and he and I and I saw uh Michelle Obama and I saw Gavin and nothing was in the news back whenever this was going on this was this time last year I started
+- **[08:18](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=498s) · 他描述所见**：$78 a gallon and and and and so I saw uh in California they're already charging that so I don't know I believe this is a nationwide average is coming it' be six seven eight bucks a gallon of of gas and so here we are already seeing $150 projected so we're $50 away from even
+- **[16:00](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=960s) · 本段原话**：honeydew list for you to do you're going to take out the trash walk the dog pick up the poo in the yard whatever it is from the dog and mow the grass pull the weeds whatever they have to do for you and they're always barking those orders and they don't want to have a
+- **[20:02](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=1202s) · 本段原话**：things I'm talking about a perilous time's coming God's got us and he said he never seen the righteous forsaken nor a seed beging bread if he take care of the lily of the field and the birds of the air he's going to take care of you he loves you just as much as as as the
+- **[24:16](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=1456s) · 他进行祷告**：and commissions uh bonuses uh everything inheritances rebates and returns checks in the mail gifts and surprises finding money bills paid off bills decrease blessing increase and I thank you Lord that you're meeting all their financial needs that they have more than enough to give to the kingdom of God and promote the Gospel of Jesus Christ throughout
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 地震、风暴与灾害、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：地震、风暴与灾害、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕地震、风暴与灾害、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=0s) · 本段原话**：good morning family um I'm going to do a video right now that's a little different than what I I I usually do um I've I've everybody's been telling me about this uh earthquake and all the stuff that's going on in Italy you know back on July 5th I did a video about a a
+- **[01:13](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=73s) · 他描述所见**：so if you zoom out I'll show you there's a there's a massive volcano one of the largest is down here it's way down here and so whenever I saw uh this massive volcano going off out of the water uh it caused a massive tsunami wave and it it exploded and it from the earthquake in
+- **[02:06](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=126s) · 本段原话**：traffic around that area was completely shut down the Lord showed me that it would it cost hundreds of thousands of deaths when this happened and he said one of the major signs to watch out for was uh earthquakes and trimmers and he said back in July I don't believe there was any trimmers there wasn't any
+- **[02:44](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=164s) · 他进行祷告**：more there's been hundreds of little bitty earthquakes that they've they've picked up around that area that I'm talking about and so it's going with what the Lord showed me would happen back in July to start praying and it would be a serious event that would take place out in the water and he kept telling me to pray over the
 
 ### 完整英文 Transcript
 
@@ -129,7 +147,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=241s) · 他描述所见**：to the next thing the Lord had me like I told you all I was interceding for uh uh the elections for 2024 and the Lord had me and he and I and I saw uh Michelle Obama and I saw Gavin and nothing was in the news back whenever this was going on this was this time last year I started
+- **[05:18](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=318s) · 他描述所见**：happen by people in political positions in the no are starting to start to Echo it so it's starting to happen in the natural I saw another article uh on 60 Minutes with Gavin uh not denying that he wanted to maybe run for president but um it was not ruling out the possibility of it now in
+- **[05:57](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=357s) · 他描述所见**：believe it's uh de Dementia or something and so the Lord was having was warning me about this I saw him being pulled out not even finished CA Harris would start running things and I saw a woman her face was was uh shaded out it was like it was blurry in the vision and I could
+- **[07:17](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=437s) · 本段原话**：with uh Russia and with China and joining the bricks Nations well we saw that happen on August the 24th he's they're joining the brics Nations they want to join up with them on January 1st and um all those major places the Lord showed me the six different uh countries Venezuela and Egypt and all those places
 
 ### 完整英文 Transcript
 
@@ -236,7 +261,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：Israel、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:18](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=498s) · 他描述所见**：$78 a gallon and and and and so I saw uh in California they're already charging that so I don't know I believe this is a nationwide average is coming it' be six seven eight bucks a gallon of of gas and so here we are already seeing $150 projected so we're $50 away from even
+- **[09:49](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=589s) · 他描述所见**：this this war escalating with Russia I saw Russia going after Poland and bombing Poland with this some kind of super bomb it wasn't nuclear but it was something huge and the Lord warned me about this to pray over that and for the people it was I believe it was around Warsaw area and um bellarus area and so
+- **[11:02](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=662s) · 他描述所见**：three days after they uh divide the land of Israel we will see one of the greatest earthquakes we've ever had in America dur on the new midd Vault going up America I've seen it and I've told you all that there's another video down there I showed you about the the tumble weeds and the stock I saw the shelves
+- **[11:21](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=681s) · 他描述所见**：being empty on the grocery store I saw uh uh 1,800 people from Texar to Tulsa all with a cinder block house there was over a 6.0 uh earthquake go from there because it causes a a train train reaction over the the area it's just not about that earthquake it it sets off other fault lines all throughout America
 
 ### 完整英文 Transcript
 
@@ -348,7 +380,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Europe、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:21](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=741s) · 他描述所见**：to watch the Euro it's a very significant Domino that the Euro would be in trouble I saw a a thing some sent me something on Tik Tok on my YouTube channel I mean not on YouTube it was my Facebook and they told me he said on I want you to watch this video and they
+- **[13:15](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=795s) · 本段原话**：alert on our phones and the people are freaking out about that and then we have Russia now saying they're going to do some kind of event on the third so we have the third Russia is going to do something for nuclear stuff and then we have the fourth we have the American people talking about something so the
+- **[14:22](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=862s) · 本段原话**：trying to tell you is is you just you need to seek him every day not just on Sunday every day you need to have a relationship with Jesus don't just do it on a 30 minute service on Sunday mornings you need to go and have a relationship Monday through Friday Saturday Sunday all the time sitting at
+- **[15:18](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=918s) · 本段原话**：spiritually it's time to come up in another level in our walk with Jesus Christ instead of just coming to him with our needs and going God I need healing in this I need healing in that not not the that's that's wrong but it should be more than that it's being intimate with him if all I did was come
 
 ### 完整英文 Transcript
 
@@ -466,7 +505,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=960s) · 本段原话**：honeydew list for you to do you're going to take out the trash walk the dog pick up the poo in the yard whatever it is from the dog and mow the grass pull the weeds whatever they have to do for you and they're always barking those orders and they don't want to have a
+- **[17:09](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=1029s) · 本段原话**：your heart for me today if you start doing that daily and asking him what's on his heart every single day he's going to start pouring himself into you and saying hey I I've missed you how was your day today just it's a it's a it's a conversation just like you have with your spouse hey babe how how was your
+- **[19:12](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=1152s) · 他表达判断**：and visited Abraham he' come visit Brandon he can come visit whoever Bobby or whoever on the on the other end of this camera I believe with all my heart God has a plan for your life God loves you and he wants the best for you he wants to tell you of things to come he
+- **[19:46](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=1186s) · 他进行祷告**：I want to pray for you right now and I want to I want to lift you up in prayer I want to give you some encouragement that God's not not not falling off the throne there's no fear here perfect love casteth out all fear everything's okay God's got us and and and with all these
 
 ### 完整英文 Transcript
 
@@ -590,7 +636,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:02](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=1202s) · 本段原话**：things I'm talking about a perilous time's coming God's got us and he said he never seen the righteous forsaken nor a seed beging bread if he take care of the lily of the field and the birds of the air he's going to take care of you he loves you just as much as as as the
+- **[20:51](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=1251s) · 他描述所见**：name of Jesus healing flow over them I see PTSD right now somebody from is dealing with PTSD I take authority over PTSD in the name of Jesus post- trumatic stress disorder I bind you and I cast you out I command you to go right now in the name of Jesus I command freedom in
+- **[21:13](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=1273s) · 本段原话**：their thoughts I command freedom in their minds I command healing over their brain waves right now in the name of Jesus healing power flow over their minds right now in the name of Jesus traumatic in uh accounts of that keep coming back reoccurring and going over their minds from war or whatever it
+- **[23:43](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=1423s) · 他进行祷告**：when we pray believe that we receive them and we shall have them and if we shout not doubt in our heart we shall have whatsoever things we say I thank you for Mark 11:23 ver4 Faith calls those things to be not as though they were and I call you healed I call you well I call you
 
 ### 完整英文 Transcript
 
@@ -697,7 +750,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–26:02 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:16](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=1456s) · 他进行祷告**：and commissions uh bonuses uh everything inheritances rebates and returns checks in the mail gifts and surprises finding money bills paid off bills decrease blessing increase and I thank you Lord that you're meeting all their financial needs that they have more than enough to give to the kingdom of God and promote the Gospel of Jesus Christ throughout
+- **[24:34](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=1474s) · 本段原话**：the world in the name of Jesus we believe that that you are blessing the city in the field coming in going out there is more than enough coming over your household a cattle on a thousand Hill my Lord he said he had father there's an overflow abundant Harvest over their finances in the name of Jesus
+- **[25:41](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=1541s) · 他表达判断**：the right Road here I believe we are for some of these articles that I've been reading and so I just pray a heads of protection over you don't be afraid but if the Lord tells you to get out in the middle of the night flee fast okay so thank you for joining us today put a
+- **[25:54](https://www.youtube.com/watch?v=iVIxnrS3CmE&t=1554s) · 本段原话**：smile on your face and a song in your heart Jesus loves you so much and we love you and we thank you for watching our video and we'll see you next time bye-bye
 
 ### 完整英文 Transcript
 

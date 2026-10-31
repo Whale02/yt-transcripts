@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1434；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 50:00–54:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
 - [12. 55:00–55:42 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:29](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=29s) · 他转述所听到的话**：I'm glad to be a part." Yep. So, but we're here today and we have a word from the Lord um that is very uh uh about 2026 and and the rest of 2025. And I'm going to tell you all what I when we prayed for President Trump yesterday, the Lord said to me, he said, "Brennan," he came
+- **[10:08](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=608s) · 他描述所见**：And that's the way it was. And I had these big over these pants on. They had huge pockets. And I was scooping up the gold and I was putting it in my pockets in the vision. And the Lord said, "Line your pockets full of gold for the season will not last very long. The wave will
+- **[20:00](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=1200s) · 本段原话**：You are to be the salt and the light of all the darkness and all the shaking to awaken and all the stuff that I've seen about the plague and the pestilence and and and and and the financial crisis and and all the the the tribulation stuff that I've seen coming earthquakes and diverse places. Ladies and gentlemen,
+- **[35:40](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=2140s) · 他表达判断**：Well, today's your day. I believe you didn't just click this video by by accident. I believe you came on here and you thought, "Man, I want to I'm curious about what they're talking about." But today, you feel that itching on the inside of you. And that's not called coincidence. That's called divine destiny. And he has a plan for your
+- **[45:12](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=2712s) · 本段原话**：So, a rapture of the church either would take place in 2028 at the beginning of the Shmita cycle to start Jacob trouble for a 7-year tribulation with a 3 and 1/2 year great tribulation in the middle or it will start seven years after that concerning a schmita cycle because the Lord is not going to come back in the
+- **[55:00](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=3300s) · 他表达判断**：about what I believe. Uh, subscribe if you haven't subscribed. Click the notification bell. Click the like button. Click the thumbs up. Do all the things you can to do to help us pray more. That's what we're going to stick to. But I just want to tell y'all we love you. Thank you for being here. I
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:29](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=29s) · 他转述所听到的话**：I'm glad to be a part." Yep. So, but we're here today and we have a word from the Lord um that is very uh uh about 2026 and and the rest of 2025. And I'm going to tell you all what I when we prayed for President Trump yesterday, the Lord said to me, he said, "Brennan," he came
+- **[01:32](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=92s) · 本段原话**：For those that bless Israel, I will bless and those that curse Israel, I will curse." And he said, "You'll see in the days ahead the true blessing and the true cursing for the seed time and harvest is accelerating. And you will see and you will see those that stand with Israel. The Abrahamic covenant will
+- **[02:11](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=131s) · 本段原话**：people of Israel. And I don't believe in replacement theology and obviously the father doesn't either. But I just want to tell you all I know a lot of people got upset about the rapture of the church saying what's going to happen in September. But what's going to come in September is a time to remember for it will be in a
+- **[03:31](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=211s) · 他讨论新闻或报道**：Regardless of whoever prophet so and so that's telling you he's coming on the 23rd. I don't want to be the bearer of bad news and the bubble buster here, but I'm trying to tell you it's time to draw near. It's not trying to escape. It's time to draw near. We're going to see
 
 ### 完整英文 Transcript
 
@@ -166,7 +184,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、物资、能源与供应链。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:00](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=300s) · 他描述所见**：frame. Now, what I did see concerning 2026, 2025, the Lord showed me the beginning of a great financial outpouring, as we lined up with Israel, the blessing of this was evident. You could see the people that were blessed. Remember I saw a two-stranded cord that it was whenever Trump lined up with Israel. This
+- **[06:21](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=381s) · 本段原话**：were saying as the storm was moving it was saying words. I could hear it inside this storm right the hurricane Canada was in trouble parts of Europe is in trouble. I'm telling you all even when it come to the Lord showed me uh Trump and his health and I don't know if he
+- **[07:40](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=460s) · 他描述所见**：Scroll. Mhm. But he had a quill pen golden with a feather. And he took that quill pen. and he started writing new legislation on this concerning the United States of America and a digital platforms and things ahead for money and all of a sudden I saw oil Derek's pumping and I heard him you know how he always says
+- **[08:45](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=525s) · 他描述所见**：Okay. So, I don't want to add to or take away from anything, but I'm just telling you what I see. May came and I saw a difference in the economy concerning May, June, July, going into the elections of 2026, concerning the Senate and the House and the governors trying to pump the economy to make it
 
 ### 完整英文 Transcript
 
@@ -292,7 +317,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:08](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=608s) · 他描述所见**：And that's the way it was. And I had these big over these pants on. They had huge pockets. And I was scooping up the gold and I was putting it in my pockets in the vision. And the Lord said, "Line your pockets full of gold for the season will not last very long. The wave will
+- **[11:18](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=678s) · 他描述所见**：That's what I was seeing, trying to boost it for this. But as it went, I saw blue blue up north blue up north and I saw the Senate go blue. Democrat and I saw it barely stayed in the House. Now, we can pray into this. I believe we can change things. This is why we have such
+- **[12:21](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=741s) · 他描述所见**：The rest of the two years 2028, I mean 2027, 2028. I saw a stalemate presidency like not getting anything past the Senate. And the Lord said, "You must pray for the governor's seats." This is very important. This is what I try to tell y'all about Oklahoma divided and all these things trying to go blue
+- **[13:49](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=829s) · 他描述所见**：me. And it's been very very important uh what the Lord said to pray as I saw Russia and I saw Venezuela again. I saw battleships all around Venezuela and the Lord said this is more than drug trafficking. He's trying to cause a front to cause a pause in the bricks system. So the the bricks like I told
 
 ### 完整英文 Transcript
 
@@ -423,7 +455,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、经济、银行与市场。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:44](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=1004s) · 他描述所见**：So going back to the vision and so I saw this is whenever the Lord showed me about remember I told you he was praying in the White House in the first about the Trump's ear. He was interceding the the the darkness that was coming on America lifted above the trees. This was the plague but he was skinnier in that
+- **[16:59](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=1019s) · 他描述所见**：vision. And I thought that was kind of interesting because he saw showing me this that he was losing weight in these visions. And I thought, well, praise God our prayers are working. Maybe he's not eating Big Macs anymore. You know, like I have I'm just saying in the vision, he he looked like he wasn't drinking Coke.
+- **[17:54](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=1074s) · 他描述所见**：interesting. I I see these uh these events and and the Lord showed me even with a British Columbia again, I saw a major earthquake again in British Columbia and that's why I kept seeing this and the Lord told me this is going to happen. These major shakings are going to happen. Oh, and and he
+- **[18:46](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=1126s) · 他描述所见**：have today. Okay. Well, I'm appreciative." But either way, Lord, we're we're going to keep praying this out. We're going to see what you have for us each and every single day. But as we pray into this, I saw, like I said, the Ronald Reagan face on Trump. I saw him uh excited about the golden street
 
 ### 完整英文 Transcript
 
@@ -572,7 +611,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=1200s) · 本段原话**：You are to be the salt and the light of all the darkness and all the shaking to awaken and all the stuff that I've seen about the plague and the pestilence and and and and and the financial crisis and and all the the the tribulation stuff that I've seen coming earthquakes and diverse places. Ladies and gentlemen,
+- **[22:32](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=1352s) · 他表达判断**：I'm too busy occupying. I'm too busy trying to take the land for Jesus. I'm not worried about the rapture. Can you know why? Cuz I know I I I believe I qualify. My lamp's full of oil.
+- **[23:35](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=1415s) · 本段原话**：My heart's longing for him. I've been on the other side. I've seen what he has for us. I've had amazing visitations of heaven. But I'm telling you, it's not my focus. My focus is the job at hand to bring in the lost as quickly as I can because they're going to burn in hell.
+- **[24:34](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=1474s) · 本段原话**：Do you understand? All the other stuff is not important. The most important thing is is that we all know that he is coming. We can agree on that but on timing we might differ on things and we can say is there a reverse rapture and all this? I I never even heard where it is. I I don't know about
 
 ### 完整英文 Transcript
 
@@ -718,7 +764,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:33](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=1533s) · 本段原话**：by his word and not get off in La La Land. Stay grounded in these last days because you're going to get swayed by a lot of voices. Well, this prophet said there's no more financial blessing and if you invest in this, you're going to lose everything. I don't care what they say.
+- **[25:55](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=1555s) · 他进行祷告**：Well, let's pray some more until until we get until we know that we're hearing because you don't get off in law when especially when you have a spirit. We we pray. Pray as a family. We take communion. We believe God that he's going to teach us and guide us into all things. And if we miss it and you fall
+- **[26:58](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=1618s) · 他转述所听到的话**：pray in the spirit together." So, I grabbed her hand and we was praying and and and and she goes, "What do you hear?" And I told her what I heard. And she I said, "What do you hear?" She goes like this. I said I said it's not what I wanted to hear and it's not what I
+- **[28:43](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=1723s) · 本段原话**：22 years in a shotgun house with 800 square feet barely and with with holes in the floor with with a leaky roof, pouring in water when it rains, mold growing. It was terrible.
 
 ### 完整英文 Transcript
 
@@ -878,7 +931,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:38](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=1838s) · 本段原话**：He couldn't look at him because it was that dirty. It was that bad. Cuz he took everything, sickness, everything. He became obedient unto death. He didn't know death. He had to receive it by faith because he didn't even know. He knew how to walk in healing. He knew how to walk in prosperity. He knew how to do
+- **[32:33](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=1953s) · 他转述所听到的话**：Nevertheless, I but Christ in me the hope of glory. Being a Christian, you need to become a bornagain Christian today. And I want you to really search your heart. Do you know Jesus Christ as your Lord and personal Savior? And does he know you? Well, I heard about him.
+- **[32:54](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=1974s) · 本段原话**：You know, I went to Bible school a couple times from my grandma and and I went to Sunday school at the Baptist church and got to got to go over there and they gave me some crackers and I got some little of those little goldfish crackers thing and you know, that was really fun and heard a couple times
+- **[33:51](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=2031s) · 他转述所听到的话**：I heard one person say there was this there's this one famous guy said, "I know where I'm going to go. I'm going to hell and I and I can't wait to get there." And I said, "Look, I said that that that guy's a fool. He don't even know what he's saying. the torment that
 
 ### 完整英文 Transcript
 
@@ -1019,7 +1079,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:40](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=2140s) · 他表达判断**：Well, today's your day. I believe you didn't just click this video by by accident. I believe you came on here and you thought, "Man, I want to I'm curious about what they're talking about." But today, you feel that itching on the inside of you. And that's not called coincidence. That's called divine destiny. And he has a plan for your
+- **[36:12](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=2172s) · 本段原话**：There's a heaven to gain and a hell to shun. Will you serve Jesus Christ today for eternity or will you burn in hell for eternity? But you don't know. It's appointed unto man once to die and after that the judgment. You may not make it home from your job today. You You may
+- **[37:48](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=2268s) · 他表达判断**：I believe you died for me and you rose again on the third day and you're seated at the right hand of the father making intercession for me.
+- **[39:42](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=2382s) · 本段原话**：turned the back on the devil. And guess what? He accept you with arms wide open today. As you open that door, you say, "Come on, Jesus. I need you." And he's in there saying, "All right, I'll clean you up. I'll cleanse you and make you right." And he's up there and he's giving that spirit. He's giving that
 
 ### 完整英文 Transcript
 
@@ -1158,7 +1225,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:28](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=2428s) · 本段原话**：Find a church, a non-denominational church that will help do that. And then get plugged in there. Go to church on Wednesdays. Go church on Sunday. Bible study. Whatever they have. Get plugged in there and and learn about this new life. Learning about what you got today on in salvation. Go there and learn and
+- **[42:58](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=2578s) · 本段原话**：And I still do after all these years of being I got born again when I was 11 years old. It's amazing. I've fallen down and I skin my knee a lot. But I'm going to tell you, backsliding doing things, but but I've always had that inside of me to say, "I need Jesus."
+- **[44:02](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=2642s) · 本段原话**：That's what I'm trying to tell you all. You say, "Well, you're saying it's going to the rapture of the church." It listen, the schmita cycle. You need I you It's like Sister Billy always teaches us the beginning of tribulation starts with a 7year schmita cycle. Think about that. So everybody who's saying that the rapture of the church is taking
+- **[44:27](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=2667s) · 本段原话**：place this year doesn't even line up with a schmita cycle. A schmita cycle is a seven-year period of time. And the beginning of Jacob's trouble is a 7-year schmita cycle. But a schmita cycle doesn't start over until the 20 28 2029 2028 2029 that time frame. Right? So I don't I've I' I've always as like what
 
 ### 完整英文 Transcript
 
@@ -1292,7 +1366,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 教会、复兴与信仰、战争与国际事务
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、战争与国际事务展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:12](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=2712s) · 本段原话**：So, a rapture of the church either would take place in 2028 at the beginning of the Shmita cycle to start Jacob trouble for a 7-year tribulation with a 3 and 1/2 year great tribulation in the middle or it will start seven years after that concerning a schmita cycle because the Lord is not going to come back in the
+- **[47:18](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=2838s) · 本段原话**：years seven years seven years seven years it's been going on since that time frame so that's what we're counting off of 1948 I hope y'all are following me so that because I'm trying to tell y'all So we're getting ready to get another schmita cycle from that is is 2028.
+- **[48:07](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=2887s) · 本段原话**：Does that make sense? And there's blood moons and all these things that we've been looking at. But if you say 2025 is the year of the rapture, it doesn't even line up with the the schmita cycle coming from 1948 in the generation. It doesn't line up with anything. It's just like it's a it's like squirrel. Oh,
+- **[48:49](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=2929s) · 他描述所见**：There's a lot of people that do not believe that the body of Christ goes through any of the tribulation but there's a lot of people who believe we go through half of the tribulation. So, we were studying Tom Horn's vision of him saying that he believes the rapture of the church happens in 2025
 
 ### 完整英文 Transcript
 
@@ -1416,7 +1497,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–54:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:00](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=3000s) · 本段原话**：it's be April would be halfway point. So what is a 3 and 1/2 year window from uh uh October during the the the the feast of trumpets during this time frame. So he believes that we are midway through tribulation by by 2029 which would be what revel revelation 19 is what he said would be when the
+- **[51:10](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=3070s) · 本段原话**：thing is is that that when you when you go through the you try to rightly divide the word, I just go by what the schmita cycles say and the schmita cycles are ending in 2028. So if that was the case and the rapture took place in 2028, that means we would miss aus and it would be at the
+- **[52:54](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=3174s) · 本段原话**：whenever I don't even know when uh Rashashana is in uh 2028 because that would be the beginning of a Jewish new in Russia 2028 and that would be the fulfillment of a a seven-year process would be Rashana of to start a new seven years which would be the beginning of the tribulation. So
+- **[54:05](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=3245s) · 本段原话**：saying all this, but I just keep going with what I feel that the Lord's told me. We have a three and a half year window revival. It's on down to 3 years and 4 months now. 3 years and four months for a revival to go into 2028 and we're out of here. That's what I just
 
 ### 完整英文 Transcript
 
@@ -1548,7 +1636,13 @@
 <a id="section-12"></a>
 ## 12. 55:00–55:42 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[55:00](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=3300s) · 他表达判断**：about what I believe. Uh, subscribe if you haven't subscribed. Click the notification bell. Click the like button. Click the thumbs up. Do all the things you can to do to help us pray more. That's what we're going to stick to. But I just want to tell y'all we love you. Thank you for being here. I
+- **[55:19](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=3319s) · 本段原话**：just believe the best is yet to come for the body of Christ. And we lay hands on the sick and see him recover. for every single one of us. There's good days ahead for the miracle, creative miracle working power of God to flow in our lives. So, we love you. We appreciate you. Remember, put a smile on your face
+- **[55:37](https://www.youtube.com/watch?v=oBpaSk7EJGE&t=3337s) · 本段原话**：and a song in your heart. Jesus loves you so much and we love you. God bless you all and we'll see you again.
 
 ### 完整英文 Transcript
 

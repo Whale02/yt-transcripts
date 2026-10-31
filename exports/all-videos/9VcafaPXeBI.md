@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 2805；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 110:00–120:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-11)
 - [12. 121:00–127:07 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:53](https://www.youtube.com/watch?v=9VcafaPXeBI&t=113s) · 本段原话**：Well, it looks like it's going to pass. But it gives them access for without any explanation at all or any kind of a warrant or anything, they can turn off your cell phone, they can turn off your computer, your internet of your house, all kinds of uh basically overreaching into your personal life, not allowing you to be
+- **[22:58](https://www.youtube.com/watch?v=9VcafaPXeBI&t=1378s) · 本段原话**：You're disturbing the peace. People can't sleep. Are you kidding me? Does anybody bellered about that? I don't know cuz I'm going to tell you what that weird me out if I lived in that town.
+- **[45:24](https://www.youtube.com/watch?v=9VcafaPXeBI&t=2724s) · 他表达判断**：[clears throat] I believe there's power in the blood of Jesus. I believe there's power in the blood of Jesus and where this represents the blood. This represents the body. AND HE WAS WOUNDED FOR MY TRANSGRESSIONS. HE WAS BRUISED FOR MY INIQUITIES. The chastisement of my PEACE IS UPON HIM AND WITH HIS STRIPES I AM HEALED.
+- **[78:25](https://www.youtube.com/watch?v=9VcafaPXeBI&t=4705s) · 本段原话**：And over Africa. And all over over There's too many nations to to even represent. They'd take all night. But over the continent of Africa, ALL OVER AFRICA, ALL OVER ASIA, ALL OVER EUROPE, AND OVER SOUTH AMERICA, AND OVER AUSTRALIA, AND OVER OVER ALL THESE AREAS, FATHER, WE'RE CALLING FORTH REVIVAL. [screaming] THAT YOU WOULD VISIT OUR
+- **[99:01](https://www.youtube.com/watch?v=9VcafaPXeBI&t=5941s) · 他描述所见**：I see into it. And this is um like the Nephilim the the you know what I'm talking about, the fallen angel stuff.
+- **[121:13](https://www.youtube.com/watch?v=9VcafaPXeBI&t=7273s) · 他描述所见**：Great deception's coming. Now I know that sounds probably way out there what I'm seeing tonight, folks, but I'm but I'm just telling you what I see.
+
 <a id="section-01"></a>
 ## 01. 00:00–10:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：Canada、Cuba、Russia、Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:53](https://www.youtube.com/watch?v=9VcafaPXeBI&t=113s) · 本段原话**：Well, it looks like it's going to pass. But it gives them access for without any explanation at all or any kind of a warrant or anything, they can turn off your cell phone, they can turn off your computer, your internet of your house, all kinds of uh basically overreaching into your personal life, not allowing you to be
+- **[04:09](https://www.youtube.com/watch?v=9VcafaPXeBI&t=249s) · 他描述所见**：So, here's a here's a stage of it. And I told you, remember when I told you I saw the King of England stretching forth a scorpion tail [snorts] You You might have to go get me some hot tea so I can finish this. I'm sorry.
+- **[07:15](https://www.youtube.com/watch?v=9VcafaPXeBI&t=435s) · 他描述所见**：Whenever the Bing Crosby singing White Christmas in the movie scene with World War II and the bombs going in the background. And this is the type and shadows of the things that I saw of escalation of war.
+- **[08:58](https://www.youtube.com/watch?v=9VcafaPXeBI&t=538s) · 他描述所见**：This is what I warned you was coming. AND I SAW IN the middle of the night, I saw Russian subs going into Cuba and they were develop they were going to establish a headquarters there in a great front for the Cuban missile crisis again.
 
 ### 完整英文 Transcript
 
@@ -308,7 +326,14 @@
 <a id="section-02"></a>
 ## 02. 11:00–21:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[13:08](https://www.youtube.com/watch?v=9VcafaPXeBI&t=788s) · 他描述所见**：this, we will bring you out of the Western uh boot." Bringing them into a new uh era of financing trying to pres position them telling them everything's going to be okay if you join up with the BRICS. So then I saw Cuba and it was highlighted and the water around Cuba was crystal clear blue.
+- **[14:59](https://www.youtube.com/watch?v=9VcafaPXeBI&t=899s) · 他转述所听到的话**：The other part was I heard General Flynn on Alex Jones um warning about a a black swan events and major events taking place in America with the exact same things I've told you. Now, I thought it was very interesting because uh you know, Alex Jones is pretty right on about you know, some of his intel and
+- **[17:09](https://www.youtube.com/watch?v=9VcafaPXeBI&t=1029s) · 他描述所见**：[cough] It happened. [clears throat] This is what I saw. STUFF LIKE THIS TRYING TO TAKE PLACE TO bring civil unrest even in a IN A FUN TIME IN COLLEGE GAMES.
+- **[18:08](https://www.youtube.com/watch?v=9VcafaPXeBI&t=1088s) · 他描述所见**：THIS IS FUNDED BY I TOLD YOU. REMEMBER HOW MANY TIMES I TOLD YOU? THIS isn't just anything that's normal. THIS IS FUNDED BY BIG MONEY. EVERY TIME I SAW IT, I SAW IT BEING FUNDED BY BY CRYPTO IN ALL KINDS OF DIFFERENT VEINS.
 
 ### 完整英文 Transcript
 
@@ -592,7 +617,14 @@
 <a id="section-03"></a>
 ## 03. 22:00–32:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[22:58](https://www.youtube.com/watch?v=9VcafaPXeBI&t=1378s) · 本段原话**：You're disturbing the peace. People can't sleep. Are you kidding me? Does anybody bellered about that? I don't know cuz I'm going to tell you what that weird me out if I lived in that town.
+- **[25:05](https://www.youtube.com/watch?v=9VcafaPXeBI&t=1505s) · 本段原话**：To help reinforce illegal activity with MS-13 and all these gangs to try to to bring a deflation and and bring and and and corral these evildoers out of our nation. And you have judges saying, "We're going to block this. WE DON'T WANT YOU." SEATTLE, "WE DON'T WANT YOU IN HERE. YOU CAN'T HELP US. WE WE'RE we
+- **[28:50](https://www.youtube.com/watch?v=9VcafaPXeBI&t=1730s) · 他描述所见**：I EVEN SAW in the vision that there'll be an alien deity like a alien form being interviewed on the TV.
+- **[30:59](https://www.youtube.com/watch?v=9VcafaPXeBI&t=1859s) · 他描述所见**：He warned us about this. I thought it was from volcanic ash cuz I see in part here in part. I don't always get the whole thing. SO I THOUGHT, WHAT IS GOING TO CAUSE THIS?
 
 ### 完整英文 Transcript
 
@@ -884,7 +916,14 @@
 <a id="section-04"></a>
 ## 04. 33:00–43:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[33:01](https://www.youtube.com/watch?v=9VcafaPXeBI&t=1981s) · 本段原话**：challenged in Hollywood because the Holy Ghost and fire IS GOING TO SHOW UP IN THOSE AREAS and you're going to see people that were in the that kind OF INDUSTRY GET RADICALLY BORN AGAIN and they won't have nobody.
+- **[34:01](https://www.youtube.com/watch?v=9VcafaPXeBI&t=2041s) · 本段原话**：You believe God for protection for your kids as they go to these college football games and high school football games. And you grandmas and grandpas and and and grannies and your mamas AND DADDIES GO AROUND PRAYING AND PLEADING THE BLOOD OF JESUS OVER YOUR AREAS THAT THIS STUFF LIKE THIS DOESN'T HAPPEN AGAIN in Alabama.
+- **[39:13](https://www.youtube.com/watch?v=9VcafaPXeBI&t=2353s) · 本段原话**：Father has no ability to hurt my family in any way. I thank you, Father, that we're always in that shelter of the Most High. As I keep reading Psalms 91.
+- **[42:02](https://www.youtube.com/watch?v=9VcafaPXeBI&t=2522s) · 本段原话**：You're inaccessible from any kind of mass shootings. From any kind of bomb plot any kind of rail railroad any kind of subway any kind of bus any kind of mass transit any kind of any kind of whatever that plane train automobiles. I don't care what it is. You are inaccessible in the secret
 
 ### 完整英文 Transcript
 
@@ -1160,7 +1199,14 @@
 <a id="section-05"></a>
 ## 05. 44:00–54:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:24](https://www.youtube.com/watch?v=9VcafaPXeBI&t=2724s) · 他表达判断**：[clears throat] I believe there's power in the blood of Jesus. I believe there's power in the blood of Jesus and where this represents the blood. This represents the body. AND HE WAS WOUNDED FOR MY TRANSGRESSIONS. HE WAS BRUISED FOR MY INIQUITIES. The chastisement of my PEACE IS UPON HIM AND WITH HIS STRIPES I AM HEALED.
+- **[47:40](https://www.youtube.com/watch?v=9VcafaPXeBI&t=2860s) · 本段原话**：To get you to get in fear over your life circumstances. Well, Johnny's going to go to the football game and he won't make it home tonight. You better keep him home.
+- **[50:30](https://www.youtube.com/watch?v=9VcafaPXeBI&t=3030s) · 本段原话**：You Oh, I got to Google it and you got a rap sheet of everything Google's trying to tell you and you you've diagnosed yourself with some incurable diseases you're going to die from in the next couple weeks and you don't even have it because you allow Google and your mind to go nuts with it. And you're Googling
+- **[53:34](https://www.youtube.com/watch?v=9VcafaPXeBI&t=3214s) · 本段原话**：If you're just a porridge you're on there, don't allow me coming on here and telling you what I'm seeing about Canada and all THESE THINGS. OH GOD, [laughter] OH GOD, I CAN'T LIVE A NORMAL LIFE ANYMORE. HE SAID, "I want the beloved I wish above all things that you prosper and be in health even as your soul
 
 ### 完整英文 Transcript
 
@@ -1470,7 +1516,14 @@
 <a id="section-06"></a>
 ## 06. 55:00–65:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[56:40](https://www.youtube.com/watch?v=9VcafaPXeBI&t=3400s) · 他描述所见**：And this is what I stand on by even all the things that I see.
+- **[60:06](https://www.youtube.com/watch?v=9VcafaPXeBI&t=3606s) · 他描述所见**：Do you understand what I'm telling you adults? This is very serious what I see coming.
+- **[62:38](https://www.youtube.com/watch?v=9VcafaPXeBI&t=3758s) · 本段原话**：Her little prayer book about your authority of the believer. And read Sister Billy Sister Billy Branham's prayer book on the authority of the believer. And take your seat and your rightful place seated with him in the heavenlies. And you say, "Satan, YOU WILL NOT TOUCH BRADEN, MEGAN, PAISLEY, DIANA, or I in any way with any
+- **[63:48](https://www.youtube.com/watch?v=9VcafaPXeBI&t=3828s) · 本段原话**：THAT'S IN ANY area of our life. Physically, mentally, emotionally, FINANCIALLY, WE ARE COVERED BY THE BLOOD OF JESUS. AND WE TAKE THIS BODY IN THE NAME OF JESUS. And we thank you, Lord, that no weapon formed against us will prosper and we're healed by your stripes in Jesus' name.
 
 ### 完整英文 Transcript
 
@@ -1756,7 +1809,14 @@
 <a id="section-07"></a>
 ## 07. 66:00–76:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[67:25](https://www.youtube.com/watch?v=9VcafaPXeBI&t=4045s) · 他表达判断**：Rachel Tim Boone is what I believe was her name was. And she was a woman that went through the Holocaust the whole time and she had her Bible and she would read her word and she would and the Lord protected her the whole time she went through those They the Nazis would never see her.
+- **[69:39](https://www.youtube.com/watch?v=9VcafaPXeBI&t=4179s) · 他表达判断**：Psalms 91. I believe, Father, that the blood covers me and my wife and my children tonight.
+- **[73:47](https://www.youtube.com/watch?v=9VcafaPXeBI&t=4427s) · 本段原话**：YOU HARASSING DEVIL FROM HELL, YOU CEASE AND DESIST IN YOUR MANEUVERING AGAINST US IN THE NAME OF JESUS. WE BIND YOUR MANEUVERING, AND WE RENDER YOU COMPLETELY HELPLESS BY THE POWER OF THE BLOOD OF JESUS. YOU CEASE AND DESIST IN YOUR MANEUVERING. YOU'RE YOU'RE YOU'VE BEEN HARASSING. YOU'VE BEEN HARASSING, AND YOU'VE BEEN HARASSING. CEASE AND
+- **[76:14](https://www.youtube.com/watch?v=9VcafaPXeBI&t=4574s) · 本段原话**：IF YOU PROVIDED FOR THE CHILDREN OF ISRAEL, LORD, and their shoes didn't get old and their robes and their sandals and they never had a feeble among the never had any feeble among them.
 
 ### 完整英文 Transcript
 
@@ -2004,7 +2064,14 @@
 <a id="section-08"></a>
 ## 08. 77:00–87:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[78:25](https://www.youtube.com/watch?v=9VcafaPXeBI&t=4705s) · 本段原话**：And over Africa. And all over over There's too many nations to to even represent. They'd take all night. But over the continent of Africa, ALL OVER AFRICA, ALL OVER ASIA, ALL OVER EUROPE, AND OVER SOUTH AMERICA, AND OVER AUSTRALIA, AND OVER OVER ALL THESE AREAS, FATHER, WE'RE CALLING FORTH REVIVAL. [screaming] THAT YOU WOULD VISIT OUR
+- **[81:28](https://www.youtube.com/watch?v=9VcafaPXeBI&t=4888s) · 他表达判断**：From Joseph Prince to to to I don't know in Asia there's any more I there's only one in I think of the people that are representing Father, that they would preach repentance and to turn away from not sloppy grace that you can live how you want to live and and everything's going to be okay.
+- **[83:46](https://www.youtube.com/watch?v=9VcafaPXeBI&t=5026s) · 本段原话**：Just attack it like this. Just softly. And he [clears throat] said, don't raise your strange your voice strain your voice, Brennan, and make it hoarse again.
+- **[84:47](https://www.youtube.com/watch?v=9VcafaPXeBI&t=5087s) · 他描述所见**：You pardon me name on the book of Shana. Right now, I'm having a vision of Nigeria.
 
 ### 完整英文 Transcript
 
@@ -2216,7 +2283,14 @@
 <a id="section-09"></a>
 ## 09. 88:00–98:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[90:13](https://www.youtube.com/watch?v=9VcafaPXeBI&t=5413s) · 他描述所见**：A great revival is coming and I see a revival. I see the light shining on the people. I see a revival for the the enemy has tried to silence the church.
+- **[93:33](https://www.youtube.com/watch?v=9VcafaPXeBI&t=5613s) · 他描述所见**：I see people as as the persecution comes, I'm I'm seeing you will walk in a divine healings and divine manifestations of the glory like you've never seen before.
+- **[95:43](https://www.youtube.com/watch?v=9VcafaPXeBI&t=5743s) · 他描述所见**：I see This is what's interesting. I see a devil that looks Okay, it's behind your mark.
+- **[98:24](https://www.youtube.com/watch?v=9VcafaPXeBI&t=5904s) · 他描述所见**：It's it's a different bloodline. Lord, I hear it. I see it so clear.
 
 ### 完整英文 Transcript
 
@@ -2387,7 +2461,14 @@
 <a id="section-10"></a>
 ## 10. 99:00–109:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[99:01](https://www.youtube.com/watch?v=9VcafaPXeBI&t=5941s) · 他描述所见**：I see into it. And this is um like the Nephilim the the you know what I'm talking about, the fallen angel stuff.
+- **[101:12](https://www.youtube.com/watch?v=9VcafaPXeBI&t=6072s) · 他描述所见**：He said go back to Canada. I said he said don't cuz I get I did I when I'm trying to pause the vision, I'm trying to look into all this.
+- **[105:58](https://www.youtube.com/watch?v=9VcafaPXeBI&t=6358s) · 他描述所见**：But it's live. And the Lord allows me to see it live, I'll talk about it if any more. If I see it off camera, I will not talk about it.
+- **[109:30](https://www.youtube.com/watch?v=9VcafaPXeBI&t=6570s) · 本段原话**：Great deceptions you're going to see, ladies and gentlemen. As in the days of Noah, he said, "There's more wrapped into this verse than what you realize."
 
 ### 完整英文 Transcript
 
@@ -2588,7 +2669,14 @@
 <a id="section-11"></a>
 ## 11. 110:00–120:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 提到的地点：Europe、Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[111:36](https://www.youtube.com/watch?v=9VcafaPXeBI&t=6696s) · 他描述所见**：I see human sacrifice. I see um I'm seeing things that are very very very nasty that are dealing with the the with these uh Mayans and the the the the all down there and the and it transfer and it goes all into so much human sacrifice, so much darkness all upon these areas.
+- **[113:02](https://www.youtube.com/watch?v=9VcafaPXeBI&t=6782s) · 他描述所见**：They look like scaly I see like scaly like lizard people, but they're golden. They look they're not green. They look golden like they have a golden color to them.
+- **[116:52](https://www.youtube.com/watch?v=9VcafaPXeBI&t=7012s) · 他描述所见**：Coming to deceive the masses. Coming to deceive the masses. You say, "How is this be? How would I'm telling you only what I hear and what I see.
+- **[119:08](https://www.youtube.com/watch?v=9VcafaPXeBI&t=7148s) · 他描述所见**：They were trying to say something in that movie. Do you Now I see this, the lizard man in Spider-Man looks like this like this.
 
 ### 完整英文 Transcript
 
@@ -2787,7 +2875,14 @@
 <a id="section-12"></a>
 ## 12. 121:00–127:07 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[121:13](https://www.youtube.com/watch?v=9VcafaPXeBI&t=7273s) · 他描述所见**：Great deception's coming. Now I know that sounds probably way out there what I'm seeing tonight, folks, but I'm but I'm just telling you what I see.
+- **[123:21](https://www.youtube.com/watch?v=9VcafaPXeBI&t=7401s) · 本段原话**：Lord, you gave us a little bit of more something tonight. Lord, I know what there's something that's going to paint into a huge picture whatever it's all said and done.
+- **[125:41](https://www.youtube.com/watch?v=9VcafaPXeBI&t=7541s) · 本段原话**：What is about Mark going into the Royals? That's interesting for the people of Canada. That was like, "What are you showing about Mark, Lord? Is Mark not human?" I mean, I don't know. I don't want to say that, but I'm just going to leave that there.
+- **[126:50](https://www.youtube.com/watch?v=9VcafaPXeBI&t=7610s) · 本段原话**：Um we really appreciate every single one of you staying so long and praying with us. God bless you. Put a smile on your face and a song in your heart. Jesus loves you so much and we love you. God bless you all and thank you for your prayers. Thank you for your prayers for
 
 ### 完整英文 Transcript
 

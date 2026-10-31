@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 348；**章节数**: 4；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -14,10 +14,26 @@
 - [03. 08:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-03)
 - [04. 12:00–15:12 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-04)
 
+## 全片概述与 Key Points
+
+全片共 4 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:22](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=22s) · 本段原话**：the storm on the east coast and the storm it was getting closer and closer and closer but this time when I was praying the Lord showed me uh our American soldiers all in a in a single file line and like a big line doing like this and they were headed towards the European area
+- **[04:49](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=289s) · 他描述所见**：the Lord said this is what's going to happen during the Ezekiel 38 and 38 and 39 War people have always wondered where's the United States in this we don't do anything we don't help them we are like well you know we just kind of watch Ivy stand by and just watch that's what I saw
+- **[08:02](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=482s) · 他描述所见**：thing with the with the that but I I don't believe it is that I believe it's something else I don't know I don't want to assume I just see and and I don't want to add anything to it I tell you exactly what I saw instead of going well I assume this or whatever because you
+- **[12:01](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=721s) · 他描述所见**：to put food into those empty pots and I saw there was all kinds of like the soups and stuff that he provided supernaturally just coming into those pots and filling them up every time they just gathered around and gave him praise at the dinner table because the Bible says I never seen the
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:22](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=22s) · 本段原话**：the storm on the east coast and the storm it was getting closer and closer and closer but this time when I was praying the Lord showed me uh our American soldiers all in a in a single file line and like a big line doing like this and they were headed towards the European area
+- **[01:46](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=106s) · 本段原话**：this fur this this with this like a leather sachet across his his his chest and he had this this fur it's like a white looking fur polar bear looking outfit like a Vikings outfit and um he started spinning and he went over and he went inside of Vladimir Putin and he's his whole countenance changed he
+- **[02:13](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=133s) · 他描述所见**：became energized like he was uh he was he he was like he was he lost his mind almost it was it was weird when the way the Lord showed me and all of a sudden I want to show you I see I took it on a picture here uh so I could um show you where I see the a rocket do
+- **[02:53](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=173s) · 他描述所见**：attacking this area right here with with a massive bomb but it was not a um anything that I've ever ever been used before because whenever I saw it happen I said oh no he's using nuclear weapons and the Lord said no he is not this is something that has never been used before on the earth he said this is a
 
 ### 完整英文 Transcript
 
@@ -111,7 +127,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Israel、China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:49](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=289s) · 他描述所见**：the Lord said this is what's going to happen during the Ezekiel 38 and 38 and 39 War people have always wondered where's the United States in this we don't do anything we don't help them we are like well you know we just kind of watch Ivy stand by and just watch that's what I saw
+- **[05:09](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=309s) · 他描述所见**：and so then I see because we betrayed uh Israel we open an attack for China to come in and get us and so I saw China getting us and I saw but it came as this this whatever this was the surprise attack came as a dragon and it looked like a it looked like a red streaking dragon
+- **[05:39](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=339s) · 本段原话**：and so then the Lord showed me and he said watch Hawaii and I could see Hawaii and all these F-16 looking fighter planes coming in and they were just shooting missiles and going nuts on Honolulu and all these areas and I could see the main city there the Honolulu Hawaii and it was just getting it was
+- **[07:23](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=443s) · 本段原话**：the this virus pulls back it starts to recede another massive wave of a wake-up call will hit the earth it's not about in America this is the earth it was about the world and he said and so he said there will be another wake-up call there'll be another wake up uh with a
 
 ### 完整英文 Transcript
 
@@ -213,7 +236,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:02](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=482s) · 他描述所见**：thing with the with the that but I I don't believe it is that I believe it's something else I don't know I don't want to assume I just see and and I don't want to add anything to it I tell you exactly what I saw instead of going well I assume this or whatever because you
+- **[09:58](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=598s) · 本段原话**：finances he showed me a group a small number of people if you're praying and you're listening and you're keeping a fast in life and you're listening you're keeping keeping your eye your ear towards towards towards him and you're just listening for his every word he said I'm going to show there was going to be an outpouring a supernatural
+- **[11:24](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=684s) · 他描述所见**：their Elite group that will walk in in a financial outpouring that will bring in the money and help help people and they'll be like a man with the picture in the hand helping and helping out these Ministries and doing stuff and so I saw people because there was there was such a lack of food and such a lack of
+- **[11:46](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=706s) · 他转述所听到的话**：uh uh stuff the grocery stores or whatever because of whatever happens that they will be at their dinner tables with empty pots and the Lord showed me they will pray as a family around those empty pots and the Lord said I'm going
 
 ### 完整英文 Transcript
 
@@ -320,7 +350,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:12 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=721s) · 他描述所见**：to put food into those empty pots and I saw there was all kinds of like the soups and stuff that he provided supernaturally just coming into those pots and filling them up every time they just gathered around and gave him praise at the dinner table because the Bible says I never seen the
+- **[12:22](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=742s) · 他表达判断**：righteous forsaken or a seed begging bread and I believe with all my heart that even during all the drama that's going to take place before we go home the birthing pains that are manifested on this Earth we will see a supernatural provision just like the children of Israel had in the desert whenever he
+- **[13:20](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=800s) · 本段原话**：compromise and sin so you got to live in a in a relationship with hey I'm on fire for God and we're all preaching the gospel and I'm telling you he's going to take care of you the Lord showed me I want to get this documented because we're we're almost there the things because I how what time is it now I
+- **[14:52](https://www.youtube.com/watch?v=2MOBOMGnCdE&t=892s) · 他描述所见**：time I'm pushing this back I'm gonna give the people more time I think I'll end it there so I I I have another video you keep watching I felt I just saw something else whenever you saw me show me in a vision right then and I just saw something so I'm I'm going to
 
 ### 完整英文 Transcript
 

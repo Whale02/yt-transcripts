@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 988；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 32:00–35:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-09)
 - [10. 36:00–38:45 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:09](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=9s) · 本段原话**：We're going to interview him about some of the things that are happening and in and tribulation and things that are happening in the world right now with with the Israeli war. And we're going to just ask him some questions, the hard stuff. You know, he has a lot of wisdom on Bible prophecy and end time events.
+- **[08:52](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=532s) · 本段原话**：Brazil and whoever else is going to join this brick system. So, they're kind of losing grip of Argentina if the election, you know, goes through the way that the people want to vote. They want a populist man who's an economist, very well read. He totally dislikes communism. He says he won't even trade
+- **[16:19](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=979s) · 本段原话**：blessedness is going to dry up. And that's what I'm I I fear for America is we're like spoiled children who have wasted our inheritance so much that we didn't get the gospel out to the world the way we should have and we just spent and consumed and lived in luxury and I can see why a lot of people say America
+- **[20:19](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1219s) · 他表达判断**：Freemason by the way that painting is a recent painting he's not a Freemason he was invited like any president any uh important person I think to go to a Mason meeting or something like that he went sometime and he said, "No, I'm not a Mason." He believes Jesus. He believes the Bible. Well, he was given prophecies
+- **[28:09](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1689s) · 本段原话**：Descended from the heavens attended by legions of white spirits. These immediately joined the inhabitants of America who I perceive were well nigh overcome but who immediately taking courage again closed up their broken ranks and renewed the battle. That's what we're here for. We're here to renew the spirit of courage. It's enough to be
+- **[36:16](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=2176s) · 本段原话**：Be sure that sins will find you out. So, surrender. Surrender early. Don't prolong the fight. Don't prolong the battle. You know, don't stay in pride and say, "I'll put it off. I'll do it another day. I'm going to have some more fun." I'm telling you, life can change so fast. It can flip. It can flip on a
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:09](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=9s) · 本段原话**：We're going to interview him about some of the things that are happening and in and tribulation and things that are happening in the world right now with with the Israeli war. And we're going to just ask him some questions, the hard stuff. You know, he has a lot of wisdom on Bible prophecy and end time events.
+- **[01:30](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=90s) · 本段原话**：prophet. So, how does a prophet operate? Is it just people think it's kind of airy fairy like we're we're praying and then suddenly we're going to be dropped a date, you know, or a timeline. And sometimes you get that. I mean, it's very rare. And Daniel chapter 9 actually is one of those rare moments where you
+- **[02:44](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=164s) · 本段原话**：starts off with him studying books and he means of course Bible books and he doesn't explain all the books because he said plural but he says specifically Jeremiah said we're going to be held captive deported and then held captive in Babylon for 70 years. So I got that now and I'm going to act on that by
+- **[03:39](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=219s) · 本段原话**：Revelation 6 representing the seals are not tribulation seals. That doesn't mean the tribulation has started. It doesn't mean we missed the rapture. It means they're pre-tribulation. And God emphasized this so much. Mhm. So the first horse is the white horse. It's Gallup. We can now pinpoint, you know, exactly from January 2000 to June 2023
 
 ### 完整英文 Transcript
 
@@ -135,7 +153,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 战争与国际事务、经济、银行与市场
 
-**中文章节摘要**：本段涉及：战争与国际事务、经济、银行与市场、物资、能源与供应链。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、经济、银行与市场展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:19](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=259s) · 本段原话**：that's very exact. Three and a half years. Mhm. So, we're going to ask the question, how long do we have in this next war? I would say whether it's this war, escalation of this war, a a you know, a spreading of the war, or some kind of war, it's going to last three
+- **[05:30](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=330s) · 本段原话**：Horse. A great sword. Oh, wow. Back then they don't have um direct energy weapons. They wouldn't have such things like EMPs, right? Electromagnetic pulse bomb. So all John could say was there was a great sword. Wow. We are exactly in the timeline and then we come to October 7 and we have this thing that
+- **[06:44](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=404s) · 他表达判断**：to happen. It would be like a like I I guess the word would be anti-semitic, anti-semitism, you know, like against against the Jewish people." And so they were like blaming them because of what happens because I guess it's a retaliation from Israel doing something to uh another country in the Middle East. And I believe it be um uh Iran and
+- **[07:07](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=427s) · 他表达判断**：Saudi Arabia and these people because I remember and even in this the Lord showed me that uh that the prince of Saudi Arabia was going to join forces with China and Russia and make secret deals. And um so I believe I believe all this is just going to keep escalating, you know. Yeah. Well, there's news
 
 ### 完整英文 Transcript
 
@@ -243,7 +268,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 物资、能源与供应链、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：物资、能源与供应链、教会、复兴与信仰、经济、银行与市场。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕物资、能源与供应链、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:52](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=532s) · 本段原话**：Brazil and whoever else is going to join this brick system. So, they're kind of losing grip of Argentina if the election, you know, goes through the way that the people want to vote. They want a populist man who's an economist, very well read. He totally dislikes communism. He says he won't even trade
+- **[09:10](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=550s) · 本段原话**：with China and Brazil because they're communist. Wow. So we're we're actually winning in many many fronts. We Christians are praying the now the right prayer. We're not just saying slap us one way, kill our baby, kill another baby. We're saying enough is enough. But we have authority on the earth to exert Jesus's standards and his righteousness
+- **[10:01](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=601s) · 本段原话**：Saudi Arabia obviously wants to change the system. They're not gonna have oil forever. They want to make profitable alliances with China. They're only thinking about money. They're not thinking about morality and pro and prophecy. But all of it is going to end up fulfilling prophecy according to my timeline and my inter interpretation.
+- **[10:43](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=643s) · 他表达判断**：happen to oil and it lines up with what God has shown you, Brandon. Wow. That Saudi Arabia is trying to disrupt or or threaten America when it's weak. And I think it can do it when Biden is in. I don't think it can do it when Trump's in. So, the process may start, but I
 
 ### 完整英文 Transcript
 
@@ -354,7 +386,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、疾病、医疗与药品、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、疾病、医疗与药品展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=721s) · 本段原话**：on to live. And Trump understood that. So that's why Trump said, I'm not going to deal with every industry. I can't do that as a one man, but I'm going to deal with OPEC. I'm going to deal with Saudi Arabia. I'm going to make sure that they produce enough oil and we are going to
+- **[13:25](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=805s) · 本段原话**：But the fulfillment is very clear that plagues are going on all the time in epidemics all over the world. But corona virus was the fulfillment of a global pandemic with a corona which is the crown that was given in Latin. The crown that was given to the white horse is called corona. Wow. Isn't it amazing?
+- **[15:02](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=902s) · 他表达判断**：I think the ideal window is the anniversary of Jesus's resurrection because it's the type, right? It he's resurrected. 2,000 years later, we're resurrected. The dead in Christ are resurrected. And we we who are alive and remain get raptured. It would be a perfect fulfillment. But God doesn't always have to keep our calendar. He's
+- **[15:22](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=922s) · 他表达判断**：got his own calendar. We we could have, you know, slight miscalculations, but we're really not far off. I think that we have a good 10 years to get our lives right. Stop sinning. Start giving. Start going. Go on missions. Americans are the the most blessed Christians in the world and yet the most spoiled Christians. If
 
 ### 完整英文 Transcript
 
@@ -475,7 +514,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、战争与国际事务
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、战争与国际事务、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、战争与国际事务展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:19](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=979s) · 本段原话**：blessedness is going to dry up. And that's what I'm I I fear for America is we're like spoiled children who have wasted our inheritance so much that we didn't get the gospel out to the world the way we should have and we just spent and consumed and lived in luxury and I can see why a lot of people say America
+- **[18:05](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1085s) · 本段原话**：That's Genesis 6:1. Wow. That's describing October 7, 2023. And that was written 4,000 years ago. And and the event was 5,000 years ago just before Noah's flood. So what did Jesus say? As it was in the days of Noah. How was it in the days of Noah? It was filled with kamas.
+- **[18:45](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1125s) · 他表达判断**：Well, America has such a special place, right? America's um a nation that was founded on religious freedom and I don't think God's going to give up on that and we must not give up on America. In fact, I believe that God uh sends me to America and I'm going, you know, from church to church. I've started doing it.
+- **[19:21](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1161s) · 他表达判断**：here uh coming to the United States just to tickle some ears. No, there's a massive movement. I think we are winning. Just like I said, you know, Argentina's is turning over conservative. If they don't rig and and and steal the election, uh we're winning in that front. Roie Wade has been overturned. We're winning on that front.
 
 ### 完整英文 Transcript
 
@@ -588,7 +634,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:19](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1219s) · 他表达判断**：Freemason by the way that painting is a recent painting he's not a Freemason he was invited like any president any uh important person I think to go to a Mason meeting or something like that he went sometime and he said, "No, I'm not a Mason." He believes Jesus. He believes the Bible. Well, he was given prophecies
+- **[21:05](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1265s) · 本段原话**：So he was told this. I'm going to read this. Okay. Okay. Go ahead. This is uh a prophecy from George President George Washington about this nation. Americans need to know about this. It's called the third peril. The scene instantly began to fade and dissolve. He's speaking.
+- **[22:01](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1321s) · 本段原话**：interpreted. Three great perils will come upon the republic. The most fearful is the third passing which the whole world united shall not prevail against her. So the whole world will hate America and unite against America but will not prevail against her. Wow. Let every child of the republican learn to live for his God,
+- **[23:25](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1405s) · 他转述所听到的话**：None of the prophets believed in that. Some of them served in the highest political offices of their land. You can think of Joseph. You can think of Daniel and this is our destiny. He said, "Again, I heard the mysteries, the mysterious voice saying, son of of the republic, look and learn."
 
 ### 完整英文 Transcript
 
@@ -695,7 +748,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 预言、梦境与异象、经济、银行与市场
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、教会、复兴与信仰。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、经济、银行与市场展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:40](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1480s) · 本段原话**：Asia will grab it. Asians love anything European, anything American. They just go for it. And Africa's last. Africa will be the last to develop and become bond servants against slaves. They're going under slavery again to the IMF, World Bank, American institutions, European institutions. You know, they're the ones, the Americans, the Europeans are the ones that are saying, "You have
+- **[25:44](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1544s) · 他描述所见**：Is that like the red horse? Wow. By which I saw hordes of armed men. So this is Islamic now, isn't it? The hordes of our men who moving with the cloud marched by land and sailed by sea to America. Wow. That's the southern border.
+- **[26:47](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1607s) · 本段原话**：know, Black Lives Matter, Antifa, they were doing that while we were supposed to be locked down. So that's going to happen as my ears listen to the thundering of the cannon, clashing of the swords, and the shouts and cries of millions in Mortal Kombat. Millions in Mortal Kombat. That's why we have the
+- **[27:34](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1654s) · 他转述所听到的话**：Again, I heard the mysterious voice saying, "Son of the Republic, look and learn." When the voice had ceased, the dark shadowy angel placed his trumpet once more to his mouth and blew a long, fearful blast. Instantly a light as of a thousand suns shone down from above me and pierced and broke into fragments the
 
 ### 完整英文 Transcript
 
@@ -808,7 +868,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:09](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1689s) · 本段原话**：Descended from the heavens attended by legions of white spirits. These immediately joined the inhabitants of America who I perceive were well nigh overcome but who immediately taking courage again closed up their broken ranks and renewed the battle. That's what we're here for. We're here to renew the spirit of courage. It's enough to be
+- **[29:24](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1764s) · 他转述所听到的话**：He says again, amid the fearful noise of the conflict, I heard the mysterious voice saying, "Son of the Republic, look and learn."
+- **[29:31](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1771s) · 本段原话**：As the voice ceased, the shadowy angel for the last time dipped water from the ocean, sprinkled it upon America, and instantly the dark cloud rolled back together with the armies it had brought, leaving the inhabitants of the land victorious. M then once more I beheld the villages and towns and cities springing up where I had last seen
+- **[31:22](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1882s) · 本段原话**：Americans are the only nation really on earth, and I guess the Americas that have been so secularized that we believe in this idea that God can be God in our personal life, but he's divorced and he's irrelevant to the rest of our lives. No, this is what we get when a nation decays and corroes because we
 
 ### 完整英文 Transcript
 
@@ -922,7 +989,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:01](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1921s) · 他描述所见**：visitation. And I was praying one night for America and I was interceding really and and I had an openeyed vision and the Lord showed me uh the the pilgrims at Plymouth Rock and they were they were gathered around this massive rock there and they were taking communion and they were calling the nation for the Lord and
+- **[33:18](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=1998s) · 他描述所见**：And he said I will honor that. And he said my this land will not become a goat nation. it will be a sheep nation. And that's what he warned me about. And he told me all these these things that, you know, I see these things coming, but it's not the end. It's just to wake
+- **[34:13](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=2053s) · 他进行祷告**：word and and stand for our covenant rights and say enough's enough. You're not taking our rights and privileges away from us. We will pray in public. We will pray in in in our elections and we're going to elect a godly person. It is so important this election coming in 2024. You don't realize this is a make
+- **[35:13](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=2113s) · 他表达判断**：Teach your children. Be a good example. None of these things are hard, but it's almost like we're not hearing it anymore. Well, you you they get lazy, you know? I think it's a lot of they get spiritually dry. They're not being taught how the the word that you're teaching at your church to to to live by
 
 ### 完整英文 Transcript
 
@@ -1034,7 +1108,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–38:45 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:16](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=2176s) · 本段原话**：Be sure that sins will find you out. So, surrender. Surrender early. Don't prolong the fight. Don't prolong the battle. You know, don't stay in pride and say, "I'll put it off. I'll do it another day. I'm going to have some more fun." I'm telling you, life can change so fast. It can flip. It can flip on a
+- **[36:37](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=2197s) · 他讨论新闻或报道**：doctor's report. it can flip with Hamas coming and invading your your southern border um like they did in Israel. So things change fast. So if you're going through some troubled times, surrender to Jesus. What did he do for you? He came as a sinless baby. Lived a sinless life. Died sinless on your behalf to
+- **[37:07](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=2227s) · 他进行祷告**：You need to take part. You need to decide to receive that. It's a gift that he's given you. So pray this with me if you've been listening and you want Jesus. Just say, don't need to understand anything else. Just say, I want Jesus. Pray this and say, "Dear heavenly father, I repent of my sins.
+- **[38:32](https://www.youtube.com/watch?v=wtPa21KV2Iw&t=2312s) · 本段原话**：section. So, I just want to say put a smile on your face and a song in your heart. Jesus loves you so much and we love you and we just thank you for joining us today. You all have a blessed one and we'll see you next time.
 
 ### 完整英文 Transcript
 

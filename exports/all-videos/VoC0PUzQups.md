@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1904；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 70:00–76:59 · 教会、复兴与信仰、地震、风暴与灾害](#section-11)
 - [12. 77:00–80:36 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:57](https://www.youtube.com/watch?v=VoC0PUzQups&t=57s) · 他描述所见**：here I'm going to show you that basically the lord gave him a warning also telling him about a major earthquakes major uh uh volcanoes things like that that were going to start to take place now I believe what he was seeing was for the United States and I'm telling you all I saw a major event
+- **[14:00](https://www.youtube.com/watch?v=VoC0PUzQups&t=840s) · 本段原话**：respectable and honorable uncle uncle Abraham but a narcissist wants what's best for them could I say this before I go any further that's what's wrong today with leadership in America just about every one of them is narcissist could I say that one more time what's wrong today is the people that's on subcommittees they're more interested in
+- **[30:39](https://www.youtube.com/watch?v=VoC0PUzQups&t=1839s) · 他表达判断**：die I think if I'd been that angel I'd get a swift kicking his rear end I think I'd have kicked him so hard I would have knocked him past the Milky Way I can't L some wild animal kills me you know why the angel should have said oh you're going to die we can arrange
+- **[49:36](https://www.youtube.com/watch?v=VoC0PUzQups&t=2976s) · 本段原话**：kill 400 false prophets himself and then Elijah said something interesting ah after he killed the 400 false prophet and after the children of Israel repented and said the Lord is God look what he said Elijah said go up now and eat eat and drink for now there's a sound of rain rain's coming as soon as that idolatry was
+- **[63:20](https://www.youtube.com/watch?v=VoC0PUzQups&t=3800s) · 本段原话**：had no knowledge of the one true God yes the pilgrims arriving in Massachusetts stated the same thing in 1620 they proclaimed having undertaken a voyage for the glory of God in the advancement of the Christian faith yes John Winthrop said in leading 700 Puritans to Massachusetts in 1631 others may come to the new world
+- **[77:02](https://www.youtube.com/watch?v=VoC0PUzQups&t=4622s) · 他描述所见**：a coastline but it's it's on the water and there's a massive volcano there and he told me he said this is going to happen and he said there will be signs right before there's a massive explosion I saw it I saw this thing explode huge and he kept having me prey over the
+
 <a id="section-01"></a>
 ## 01. 00:00–06:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:57](https://www.youtube.com/watch?v=VoC0PUzQups&t=57s) · 他描述所见**：here I'm going to show you that basically the lord gave him a warning also telling him about a major earthquakes major uh uh volcanoes things like that that were going to start to take place now I believe what he was seeing was for the United States and I'm telling you all I saw a major event
+- **[02:19](https://www.youtube.com/watch?v=VoC0PUzQups&t=139s) · 本段原话**：you need to get born again turn and and and repent of your sins for Jesus Christ is coming you all and I just want to encourage you all please watch this whole thing it will bless you this sermon is amazing so um I hope I hope this blesses you knowing this first there shall come in the last days
+- **[04:00](https://www.youtube.com/watch?v=VoC0PUzQups&t=240s) · 他描述所见**：penetrate them won't think on it won't tell their children won't discuss it with their wife or their husband pastors won't preach it to their congregations willingly stick their head in the sand or put a blindfold on and say nah it's it's it's nothing important I saw preachers standing behind the pulpit and they had oil this smooth
+- **[06:40](https://www.youtube.com/watch?v=VoC0PUzQups&t=400s) · 本段原话**：intent to destroy our country and to destroy our way of life and I want to show you a scripture I'll have it on the screen it's found in naom chapter 3:3 I'm going to read it in the King James first and then I'm going to read it in the NIV and the New Living
 
 ### 完整英文 Transcript
 
@@ -191,7 +209,14 @@
 <a id="section-02"></a>
 ## 02. 07:00–13:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[07:45](https://www.youtube.com/watch?v=VoC0PUzQups&t=465s) · 本段原话**：candidate said I'm going to build a wall and we're going to keep them out another president gets elected and he opens them up and anybody can come it's sicking it is sickening it's like there's no care anymore we don't care who comes in we don't care care if they got bombs we don't care if a hundred of them comes in
+- **[09:49](https://www.youtube.com/watch?v=VoC0PUzQups&t=589s) · 他描述所见**：Secretary of Defense to the Secretary of State to the president himself weak weak weak weak and America is in peril and unless something happens pretty quick America is going to be in great Peril I saw tens of millions of people coming from the Mexico border the southern border trying to invade America over the
+- **[11:37](https://www.youtube.com/watch?v=VoC0PUzQups&t=697s) · 本段原话**：and we need to get on fire for the Lord and you start being the salt of the earth and teaching people the word of God and that's what's going to change a nation not politics politicians are just human Jesus said this he said in Luke 17 as it was in the days of
+- **[12:43](https://www.youtube.com/watch?v=VoC0PUzQups&t=763s) · 他描述所见**：the son of man is revealed Jesus said this now this came out of the mouth of Jesus this is why they didn't like Jesus because Jesus was a truth teller he wasn't trying to make nobody mad he was just saying I'm a Watchman on the wall and I see something I think you need to
 
 ### 完整英文 Transcript
 
@@ -368,7 +393,14 @@
 <a id="section-03"></a>
 ## 03. 14:00–20:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[14:00](https://www.youtube.com/watch?v=VoC0PUzQups&t=840s) · 本段原话**：respectable and honorable uncle uncle Abraham but a narcissist wants what's best for them could I say this before I go any further that's what's wrong today with leadership in America just about every one of them is narcissist could I say that one more time what's wrong today is the people that's on subcommittees they're more interested in
+- **[15:45](https://www.youtube.com/watch?v=VoC0PUzQups&t=945s) · 本段原话**：chapter 19: 1-4 I'm going to read this I I can read it better the word says it better than I can preach it there came two angels to Sodom at evening and lot sat at at the gates of Sodom and lot saw these angels rose up to meet him and he bowed himself with
+- **[17:41](https://www.youtube.com/watch?v=VoC0PUzQups&t=1061s) · 本段原话**：devil's table the devil's negotiating table you're not going to get away until you give something up and notice what he said he called him Brethren he said Brethren don't do so wickedly what did you call them Brethren lot do you know who you are do you know that your uncle is Abraham have you forgot that your uncle
+- **[19:33](https://www.youtube.com/watch?v=VoC0PUzQups&t=1173s) · 本段原话**：mean what does that mean first of all the Angels is well able to take care of themselves amen they're well able to take care of themselves as a matter of fact they're going to see within 24 hours he'll take care of everybody in that whole double Twin City Sodom and gomorra but he offered his daughters
 
 ### 完整英文 Transcript
 
@@ -537,7 +569,14 @@
 <a id="section-04"></a>
 ## 04. 21:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[21:40](https://www.youtube.com/watch?v=VoC0PUzQups&t=1300s) · 他描述所见**：interested in and I saw that they had the power to like that I just said I'm going to the house I I don't want nothing to do with that I don't want nothing to do with that but they had the power to blind those men the Bible said there's a bunch of them they surrounded the house
+- **[23:03](https://www.youtube.com/watch?v=VoC0PUzQups&t=1383s) · 本段原话**：us to destroy it God didn't destroy Sodom and Gomorrah the Angels had been authorized delegated authority to destroy Sodom and Gomorrah the Angels did two angels and so the Bible said lot went out and spake to his sons in-law that married his daughter and said up let's get out of here God is going to destroy this city
+- **[24:13](https://www.youtube.com/watch?v=VoC0PUzQups&t=1453s) · 他表达判断**：little church but they don't want to hear what the Watchman on the wall has to say anymore are you listening to me I think most of my Ministry is behind me I've been in this thing 53 years so I've got nothing to prove if you're thinking that I'm going to get worried that you're not going to like me
+- **[26:27](https://www.youtube.com/watch?v=VoC0PUzQups&t=1587s) · 本段原话**：going to come in America before Jesus comes that cities are going to become so Lawless and you're going to have such district attorneys that won't prosecute felons and there going to be lawlessness on every hand robbery murder all these things and people are still living there with blindfolds on but there's preachers like me that God's raising up and others
 
 ### 完整英文 Transcript
 
@@ -711,7 +750,14 @@
 <a id="section-05"></a>
 ## 05. 28:00–34:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:39](https://www.youtube.com/watch?v=VoC0PUzQups&t=1839s) · 他表达判断**：die I think if I'd been that angel I'd get a swift kicking his rear end I think I'd have kicked him so hard I would have knocked him past the Milky Way I can't L some wild animal kills me you know why the angel should have said oh you're going to die we can arrange
+- **[31:02](https://www.youtube.com/watch?v=VoC0PUzQups&t=1862s) · 本段原话**：that if you just stay here in the plains you're going to die but I'm telling you go to the mountains that's the safest route how many of you knows if an angel's talking to me I'm going where the angel tells me to go but he became willfully ignorant willfully ignorant he heard it
+- **[32:16](https://www.youtube.com/watch?v=VoC0PUzQups&t=1936s) · 本段原话**：that are really strong in that City it affects people's thinking and there's no doubt in my mind but what's going on in America today there's such abominable sins that's taking place that it's even affecting the logic and the reasoning of many normal people they're not even thinking normal anymore they're not thinking about how
+- **[34:19](https://www.youtube.com/watch?v=VoC0PUzQups&t=2059s) · 本段原话**：Sodom and Gomorrah but now if you ever thought about this that city was so wicked that Abraham stopped interceding with 10 and he said surely he won't do it because there's surely 10 righteous there well lot was in righteous lot escaped by the skin of his teeth only because of his uncle Abraham that culture of Sodom and
 
 ### 完整英文 Transcript
 
@@ -874,7 +920,14 @@
 <a id="section-06"></a>
 ## 06. 35:00–41:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:02](https://www.youtube.com/watch?v=VoC0PUzQups&t=2102s) · 本段原话**：souls that when the angel said don't turn and look back Lot's wife turned like this and look back her feet was facing zor but her head was facing Sodom and she froze and became a pillar of salt and God rained down fire and brimstone on Sodom and Gomorrah and the land was burned to a crisp and to this
+- **[37:02](https://www.youtube.com/watch?v=VoC0PUzQups&t=2222s) · 他描述所见**：winter and about the blue States it wasn't more about the red States and I saw more of a of people moving and and and relocating Lord warning them to relocate and to start moving and doing things over 2024 going into 2020 before 2025 uh those angels were coming down and they were going to these homes
+- **[39:22](https://www.youtube.com/watch?v=VoC0PUzQups&t=2362s) · 本段原话**：earthquakes volcanoes the weather and many other things things is something that you need to be aware of it's going to start happening rapidly and quickly can't tell exactly when but it's coming the Holy Spirit spoke to me early in the morning and he said I want you to warn the people this is coming they need to
+- **[41:29](https://www.youtube.com/watch?v=VoC0PUzQups&t=2489s) · 他进行祷告**：pray and seek my face and turn from their Wicked Ways then I will hear from Heaven I will forgive their sin and look at this unusual wording I will heal their land in other words you'll be incomplete if I just forgive your sins and I don't heal the land the land and man needs that
 
 ### 完整英文 Transcript
 
@@ -1047,7 +1100,14 @@
 <a id="section-07"></a>
 ## 07. 42:00–48:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:26](https://www.youtube.com/watch?v=VoC0PUzQups&t=2546s) · 本段原话**：gathered like bats and they came against that man on the middle cross let me tell you something friend there's never been a hero like Jesus Christ nobody but notice what happened when Jesus hung on the on the cross the Bible said there was a great earthquake Now isn't that strange what a time for an
+- **[45:42](https://www.youtube.com/watch?v=VoC0PUzQups&t=2742s) · 本段原话**：Days of Elijah the nation of Israel had backslid Jezebel now and her husband Ahab was on the throne leading Israel idolatrous worship was going on under Jezebel and Baal and it was worship called Baal worship and it was during the time of Elijah the prophet and the Bible says in Deuteronomy 28 I want to read you what
+- **[47:06](https://www.youtube.com/watch?v=VoC0PUzQups&t=2826s) · 本段原话**：under your feet will become iron and the Lord will change the rain of your land to powder and dust if you don't obey the Lord and you don't serve him and you don't give him honor for creating you and giving you a chance to live on the earth but you're going to turn after some other God some
+- **[48:14](https://www.youtube.com/watch?v=VoC0PUzQups&t=2894s) · 本段原话**：Lord God of Israel lives before whom I stand Elijah prophesied and he said there will be no rain for three years these years except it comes out of my mouth you have turned to baale you have turned away from the Lord and now the heavens will withhold the rain until I say so and you remember when Elijah built
 
 ### 完整英文 Transcript
 
@@ -1225,7 +1285,14 @@
 <a id="section-08"></a>
 ## 08. 49:00–55:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[49:36](https://www.youtube.com/watch?v=VoC0PUzQups&t=2976s) · 本段原话**：kill 400 false prophets himself and then Elijah said something interesting ah after he killed the 400 false prophet and after the children of Israel repented and said the Lord is God look what he said Elijah said go up now and eat eat and drink for now there's a sound of rain rain's coming as soon as that idolatry was
+- **[51:48](https://www.youtube.com/watch?v=VoC0PUzQups&t=3108s) · 他转述所听到的话**：never seen and they're going to say what does this mean I don't even know what it means cuz I haven't seen it either but the Lord said it will be on people's lips wonder what this means but you're going to see it and you're going to remember this message Jeremiah chapter 23 said the land is
+- **[53:15](https://www.youtube.com/watch?v=VoC0PUzQups&t=3195s) · 本段原话**：Union it was nephilim's the sons of God were copulating and having relations with the daughters of men and It produced a hybrid race that disgusted God and God said I can't permit this I'm going to destroy the Earth and all of mankind and he found Noah and if you don't think God will
+- **[54:28](https://www.youtube.com/watch?v=VoC0PUzQups&t=3268s) · 本段原话**：to fall and I'm talking about training storms for 40 days and 40 nights and it flooded the Earth and killed all of mankind with the exception of Noah and his family and the animals so it said in the 600th year of Noah's life in the second month the 17th day of the month All The Fountains of the great
 
 ### 完整英文 Transcript
 
@@ -1400,7 +1467,14 @@
 <a id="section-09"></a>
 ## 09. 56:00–62:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Texas、California、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[56:42](https://www.youtube.com/watch?v=VoC0PUzQups&t=3402s) · 本段原话**：America marching with the Palestinians and Marching for Hamas and they're protesting against Israel you see that happening that same thing that same Same Spirit is loose in America where people are protesting for the rights of homosexuals and transgenders and it defies everything that has to do with God and His Holiness and if you ever fall in that
+- **[58:02](https://www.youtube.com/watch?v=VoC0PUzQups&t=3482s) · 本段原话**：except by the blood of the one who shed it in other words they'll have to pay the cost of it do not defile the land where you live where I dwell for I the Lord dwell among the Israel Israelites I want to show you something about C Cain and Abel I'd never seen
+- **[60:16](https://www.youtube.com/watch?v=VoC0PUzQups&t=3616s) · 他描述所见**：no place to go A desperate feeling of not belonging anywhere not being able to be employed no chance to have Vision or good outlook good outlook for your future listen to me the largest city in America is New York City on the east coast and the Earth is vomiting out people out of New
+- **[62:21](https://www.youtube.com/watch?v=VoC0PUzQups&t=3741s) · 本段原话**：defiled by its people they have disobeyed the laws violated the statutes and broken the Everlasting Covenant therefore a curse consumes the Earth people must bear their guilt for breaking Covenant therefore Earth's inhabitants are burned up and very few are left God looks at covenant as sacred these are Oaths that must not be
 
 ### 完整英文 Transcript
 
@@ -1585,7 +1659,14 @@
 <a id="section-10"></a>
 ## 10. 63:00–69:59 · 教会、复兴与信仰、战争与国际事务
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Israel、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、战争与国际事务展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[63:20](https://www.youtube.com/watch?v=VoC0PUzQups&t=3800s) · 本段原话**：had no knowledge of the one true God yes the pilgrims arriving in Massachusetts stated the same thing in 1620 they proclaimed having undertaken a voyage for the glory of God in the advancement of the Christian faith yes John Winthrop said in leading 700 Puritans to Massachusetts in 1631 others may come to the new world
+- **[65:20](https://www.youtube.com/watch?v=VoC0PUzQups&t=3920s) · 他表达判断**：River that's land they haven't gotten back yet somebody says do you think this Psalms 83 is the war that's happening there right now I think it very well could be I think it's still developing I think it's still simmering on the stove I think it's possible so the Bible said the same day the Lord made a
+- **[66:44](https://www.youtube.com/watch?v=VoC0PUzQups&t=4004s) · 本段原话**：7th innocent blood I'm saying this in context what I'm preaching this morning innocent blood cutting baby B's heads off killing little children's parents before their very eyes and kids hiding out in the cabinet for 16 hours before their rescued taking hostages shooting people raping women such Unthinkable behavior and that happened right there
+- **[68:20](https://www.youtube.com/watch?v=VoC0PUzQups&t=4100s) · 本段原话**：certain way he watches over it when Russia comes against Israel in Ezekiel 38-39 which is called the war of Gog and Magog when Russia comes with a coalition of Nations one of the first ones mentioned that comes with Russia against Israel is Iran Persia and there's other nations it's a coalition of Nations that comes with
 
 ### 完整英文 Transcript
 
@@ -1763,7 +1844,14 @@
 <a id="section-11"></a>
 ## 11. 70:00–76:59 · 教会、复兴与信仰、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、地震、风暴与灾害、祷告、敬拜与现场互动。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、地震、风暴与灾害展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[70:47](https://www.youtube.com/watch?v=VoC0PUzQups&t=4247s) · 本段原话**：kabut and the killing and the capture and the hostages and the way that's being handled 13 a day for four days and only God knows what's going to how long are they going to keep the other ones it's just insult and God sees it let me read to you this from The Book
+- **[74:03](https://www.youtube.com/watch?v=VoC0PUzQups&t=4443s) · 本段原话**：down the Earth is clean dissolved the Earth is moved exceedingly it sets 23 point something off of perpendicular to give us the seasons but the Bible says when this earth earthquake takes place that the Earth is completely broken down and completely dissolved the cities are collapsed the islands have fled away the mountains have collapsed you say I don't
+- **[75:23](https://www.youtube.com/watch?v=VoC0PUzQups&t=4523s) · 他转述所听到的话**：there'll be a new heavens and a new Earth so I'm going to remind you one more time and I'm going to let you go you will remember this message because I'm telling you I heard from the Lord and the Lord said to tell them that there's things coming upon the Earth that they need to be aware of that
+- **[76:30](https://www.youtube.com/watch?v=VoC0PUzQups&t=4590s) · 他进行祷告**：bold nakedness Abominations perversion it becomes more bold innocent blood being shed persecution of Christians as you see all this stuff the Earth is just going to go into convulsions so be ready for it I was praying and the Lord showed me he said I need you to pray for Italy and I said
 
 ### 完整英文 Transcript
 
@@ -1951,7 +2039,14 @@
 <a id="section-12"></a>
 ## 12. 77:00–80:36 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[77:02](https://www.youtube.com/watch?v=VoC0PUzQups&t=4622s) · 他描述所见**：a coastline but it's it's on the water and there's a massive volcano there and he told me he said this is going to happen and he said there will be signs right before there's a massive explosion I saw it I saw this thing explode huge and he kept having me prey over the
+- **[77:22](https://www.youtube.com/watch?v=VoC0PUzQups&t=4642s) · 本段原话**：ocean the water there's something about the water the ocean around Italy that is there's something very dangerous there's like a volcano in that water and this is going to shoot off and it's going to cause major major uh Devastation it's going to be very serious well if you're still watching I hope you still are I
+- **[78:18](https://www.youtube.com/watch?v=VoC0PUzQups&t=4698s) · 他进行祷告**：and grumd drops but it's sometimes we're going to have to hear the hard things and that was a hard time where word and and it's it's a wakeup call and so I want to pray for you all right now father I just thank you Father for every single person that is is watching this
+- **[80:08](https://www.youtube.com/watch?v=VoC0PUzQups&t=4808s) · 本段原话**：I want to tell you also is uh Merry Christmas Merry Christmas and this is going to be an amazing year 2024 2024 you soar 2024 we're going to soar like the W on wings of eagles big big things are coming in 2024 for the body of Christ and so I just want to say put a
 
 ### 完整英文 Transcript
 

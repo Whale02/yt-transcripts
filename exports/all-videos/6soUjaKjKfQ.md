@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 815；**章节数**: 10；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -20,10 +20,28 @@
 - [09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
 - [10. 36:00–36:36 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-10)
 
+## 全片概述与 Key Points
+
+全片共 10 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:31](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=31s) · 他表达判断**：plague another wave another massive wave the first wave was covid and that was clear back in 2020 up into 2022 I believe it ended and and it kind of receded and they stopped talking about it on the news as much but now he said there will be a day I don't I'm not
+- **[08:26](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=506s) · 本段原话**：fill it to the point where you will be there'll be a whole hush a holy hush upon the congregation to the point where you do not want to move because the fear of the Lord is tangible in that building because you feel I feel like I'm going to melt like Wax BEC I I don't know if
+- **[16:00](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=960s) · 他描述所见**：turkey with these massive war these drums humongous drums and they started beating these old ancient drums that that I've never seen used before and they were like and they were all lined up all on the water of turkey and and I saw turkey join in with Russia and support Russia and start funding them
+- **[20:00](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1200s) · 他描述所见**：that happen and then Vladimir Putin said if they do this if they do this this will be the beginning of World War II folks we're seeing it then it's like I said I saw Israel going and escalating against Iran this was two years ago none of that was happening the war that was happening
+- **[28:19](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1699s) · 本段原话**：worked for mega churches and I know what it takes to for the lecture bill and the water bill and the and this paying for the staff and the preachers and the and and the supplies and everything it is expensive and so you know what it is what it is and God's going to provide
+- **[36:01](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=2161s) · 本段原话**：and I just believe that for every single one of you that God has a plan for you in these last days well I just want to say thank you for joining me today if you could please subscribe please subscribe to my channel if you haven't already like the video comment down below something nice not mean and rude
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 疾病、医疗与药品、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：疾病、医疗与药品、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕疾病、医疗与药品、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:31](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=31s) · 他表达判断**：plague another wave another massive wave the first wave was covid and that was clear back in 2020 up into 2022 I believe it ended and and it kind of receded and they stopped talking about it on the news as much but now he said there will be a day I don't I'm not
+- **[01:09](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=69s) · 本段原话**：said I want you to tell my people that it's time for them to take their health more serious they need to start exercising going on walks if you can walk if you can whatever I don't know what your health conditions are but I'm just saying exercise is going to be it's important getting your blood flowing
+- **[01:31](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=91s) · 他转述所听到的话**：taking care of your bodies I'm not saying it's always easy but I'm going to tell you this it needs to become a lifestyle like habit like every day you brush your teeth every day you take a bath every day you put on your clothes every day you need to to exercise and the Lord said you know it doesn't have
+- **[02:30](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=150s) · 本段原话**：go on a Whole Foods diet taking care of yourself with this beef chicken fish uh vegetables fruit and eggs stuff like that you know he said if you read the back of of something at the market and you can't pronounce half the stuff on there and you don't know what it is Brandon do not put it in your body he
 
 ### 完整英文 Transcript
 
@@ -121,7 +139,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:19](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=259s) · 他表达判断**：healthy for you so and that's what he so told me so I'm not really a real a person who goes and studies every company but my wife does she's very educated and she she likes after I told her this she's looking up the companies that are are are pro probably people that you can trust but I realized there
+- **[05:36](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=336s) · 本段原话**：bad and and and because I've got all kinds of different opinions from all over the world so you just have to follow the holy spirit for your life bottom line and so that's what I'm doing and you know people want to say well how many calories you you know I I really believe you keep it underneath 1,500
+- **[05:54](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=354s) · 本段原话**：calories and um you you'll drop your weight you exercise you take care of yourself you don't have to engorge I'm learning the the longer I do this the more my body doesn't need what I used to have anymore and my body is starting to be my stomach's gotten smaller obviously and you don't have to go and just snack
+- **[07:00](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=420s) · 本段原话**：I'm going to I'm going to give a supernatural move of my spirit on the youth and he said there's been a lot of uh charismatic flakiness a lot of courtesy fallen in church people laying hands on people they roll around and and it's on it's a lot of Flesh you know and I and and I'm not picking a people I'm
 
 ### 完整英文 Transcript
 
@@ -230,7 +255,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:26](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=506s) · 本段原话**：fill it to the point where you will be there'll be a whole hush a holy hush upon the congregation to the point where you do not want to move because the fear of the Lord is tangible in that building because you feel I feel like I'm going to melt like Wax BEC I I don't know if
+- **[09:42](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=582s) · 本段原话**：this generation I will have uh the the harvest of souls like this world has never seen before and they're all being lost to drugs and to perversion to sexual sins and and and Witchcraft and all kinds of things they're searching for a move of something they're searching their depression and anxiety and it's ate up in this world with this
+- **[10:46](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=646s) · 他描述所见**：it and but I I had this this Vision I believe it's been almost two years ago and I saw um uh the Lord like I do when I'm praying I saw a soldiers and a single file line going towards Europe and in the um the it was a major draft there were people
+- **[11:12](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=672s) · 他描述所见**：going towards Europe men and women it was like a draft and all these people were being called up to go fight uh uh Europe because the Lord showed me that the war had escalated into a World War II scenario and then I saw um I heard when I was praying the great apolon is
 
 ### 完整英文 Transcript
 
@@ -321,7 +353,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:00](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=720s) · 他转述所听到的话**：ocean with two other Angelic beings beside him now I don't know what those were but I heard the great apolon now I've studied a little bit but I didn't go into depth about it about the great apolon so if you want to study it and you want to comment down below of what
+- **[14:01](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=841s) · 他描述所见**：going to say it's like he went inside Vladimir Putin but it's like he became possessed with this demonic entity and he all of a sudden I saw him um strike Poland because Poland got uh missiles from other countries something happened and they were Pro Poland was provoking uh Russia okay and uh because
+- **[14:30](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=870s) · 他描述所见**：of War stuff and helping out with Ukraine but there was something more to this so all of a sudden about Warsaw Warsaw Poland I believe is where by bellaro area I saw a a a a humongous mushroom cloud kind of an explosion and I said during this visitation when I'm seeing all this in
+- **[15:44](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=944s) · 他描述所见**：even more like I told you was coming and so everybody was getting involved then when this happened like all of Europe was getting involved in this because of the weapon that Russia used then I saw
 
 ### 完整英文 Transcript
 
@@ -410,7 +449,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：Israel、Russia、China、Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:00](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=960s) · 他描述所见**：turkey with these massive war these drums humongous drums and they started beating these old ancient drums that that I've never seen used before and they were like and they were all lined up all on the water of turkey and and I saw turkey join in with Russia and support Russia and start funding them
+- **[16:51](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1011s) · 他描述所见**：told me this is the beginning of Ezekiel 3839 War I believe it was Gog and Magog is what I believe is what this is but it's Ezekiel 3839 war and I saw that it escalate but the United States did not uh participate in this at all we were busy with Europe okay but we did not help out with this
+- **[18:18](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1098s) · 他描述所见**：years ago when I saw this okay so I saw this red dragon going across America and then the Lord showed me Hawaii and I saw Honolulu and the big island and all those islands on at war with China with a surprise attack similar to Pearl Harbor again with them bringing f-16s and they were bombing the people and
+- **[19:21](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1161s) · 本段原话**：this stuff was happening two years ago we just barely started the Ukraine war things were just starting to happen okay now we have uh the F prime minister of uh France um talking about supplying Poland and 30 other na nations with I mean no 30 30 nuclear bombs throughout NATO okay that's what I
 
 ### 完整英文 Transcript
 
@@ -502,7 +548,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 战争与国际事务、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：战争与国际事务、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Israel、Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、教会、复兴与信仰展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1200s) · 他描述所见**：that happen and then Vladimir Putin said if they do this if they do this this will be the beginning of World War II folks we're seeing it then it's like I said I saw Israel going and escalating against Iran this was two years ago none of that was happening the war that was happening
+- **[21:59](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1319s) · 他描述所见**：whatever he said 569 days so it happened in that time frame of what I saw in my dream when the angel spoke to me about it and it happened in October and I warned everybody that there was going to be an October surprise and I warned everybody to watch August the 24th of
+- **[22:21](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1341s) · 本段原话**：2023 that it was a very significant day well it was it was when Saudi Arabia and all these other people join the bricks Nations and they were going to join it the beginning of this year of 2024 now I don't know if a lot of that has went in effect but it was a day they all had the
+- **[23:37](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1417s) · 本段原话**：of oil go over $200 a barrel so basically what I'm just trying to tell you all I just want you to be prepared he brought up the dollar again to me last night and he told me Brandon I told you the dollar would be the buying the purchasing power he used these words too I thought this was
 
 ### 完整英文 Transcript
 
@@ -600,7 +653,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:18](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1458s) · 本段原话**：worse and worse he said the the power the purchasing power of the dollar is is is crumbling as we speak day by day by day and he said there will be a major event that causes it to be a significant stock market crash that will send it into a 1930 stiped crash and it's coming there
+- **[25:47](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1547s) · 他描述所见**：what I'm trying to tell y'all and so um I pray this does not happen I pray we don't have an escalation in World War II and and all the things that I saw with Israel but we know that has to happen because it's biblical there will be Ezekiel 3839 War there will be uh Gog
+- **[26:03](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1563s) · 他进行祷告**：and Magog there will be this stuff because the Bible said it would and we can't pray that away we just know it's going to happen and so um you know it's just part of the end times but as far as the plague goes and the pale fa the green chlorofil horse all that stuff it's going to happen it's
+- **[26:39](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1599s) · 他描述所见**：and you know back in that last Vision they had I had that back in 2020 way back around covid time when it first came out so that's four years ago but I brought the word out because of how powerful it was the visitation I had with the Lord at the throne room you
 
 ### 完整英文 Transcript
 
@@ -712,7 +772,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:19](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1699s) · 本段原话**：worked for mega churches and I know what it takes to for the lecture bill and the water bill and the and this paying for the staff and the preachers and the and and the supplies and everything it is expensive and so you know what it is what it is and God's going to provide
+- **[28:33](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1713s) · 他进行祷告**：for his people I'm telling you a super natural event is about to take place with finances like we've never seen before the wealth of the sinner is going to be laid up for the just so I want to pray for you all today I want to intercede and we're going to believe God
+- **[31:06](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1866s) · 本段原话**：before a boldness to set the captives free we call those things that be not as though they were and we say we don't have a youth a Generation X that's going to hell our youth that doesn't know Jesus that father this will be the greatest Generation that this world is is ever known father all on fire for you
+- **[31:32](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1892s) · 本段原话**：touching the lost getting people saved no fear an authentic move of God greater than the hippie movement the the love movement and all the stuff that happened father greater than a movement of Woodstock and all the things that father in the 70s that this would be a great Revival greater than even the tent Revival that
 
 ### 完整英文 Transcript
 
@@ -810,7 +877,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:25](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1945s) · 他进行祷告**：manifestations of the glory of God like this world is never seen the former and the latter rain together pouring all at once father I thank you Lord for marriages being restored right now for financial Harvest over jobs and better jobs raises and bonuses benefits sales and commissions growth in business Estates and inherit rebates and returns
+- **[33:09](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=1989s) · 本段原话**：Lord and to support our families and to do Great Mighty works for you father we call healing and wholeness and wellness over every person that's watching father if they have a bondage of of weight addiction and they're obese or they've got issues with high blood sugar or diabetes father we call them healed and
+- **[34:11](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=2051s) · 他进行祷告**：go you can't stay they're child of the king healed and whole and well we call new gallbladders in we call Healing over livers and gallbladders over somic viruses and and over esophagus issues and over over thyroid issues and over everything I don't know Lord everything we just Cal healed and whole and well thank you Lord
+- **[35:33](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=2133s) · 他表达判断**：financially mentally emotionally God I bless them in jesus' name and we thank you Lord for for this transitions of life that's getting better and better for every single one of us we're going from glory to glory to glory in the mighty name of Jesus and everybody say amen and amen I believe it and I believe
 
 ### 完整英文 Transcript
 
@@ -912,7 +986,12 @@
 <a id="section-10"></a>
 ## 10. 36:00–36:36 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:01](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=2161s) · 本段原话**：and I just believe that for every single one of you that God has a plan for you in these last days well I just want to say thank you for joining me today if you could please subscribe please subscribe to my channel if you haven't already like the video comment down below something nice not mean and rude
+- **[36:20](https://www.youtube.com/watch?v=6soUjaKjKfQ&t=2180s) · 本段原话**：and I just want to say thank you all for that thank you for supporting us God bless you all we'll put a smile on your face and a song on your heart Jesus loves you so much and we love you and we will see you all again next time God bless you all have a wonderful day
 
 ### 完整英文 Transcript
 

@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1011；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 36:00–39:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-10)
 - [11. 40:00–43:50 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=0s) · 本段原话**：well good morning family thank you for joining me today well Braden and I are driving around Diana had some things she had to do and I said well let's make a video for the family while we're sitting here and uh I I thought this was a cool backdrop with this uh Route 66 uh
+- **[08:00](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=480s) · 本段原话**：Endtime uh currency the digital platform we're seeing the digital platform un being unfolded right in front of our face but he said what the devil is going to use for bad in the future I will do for good right now and he said Brandon Brandon there's great days of harvest ahead even last night in my
+- **[16:01](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=961s) · 他描述所见**：the co thing was bad where they were rioting and and breaking windows and stealing from those department stores was bad I saw that on steroids because it wasn't just a couple cities was all around the United States people saying we want our entitlements because the government cut off Government funding for a while because because of how bad
+- **[24:01](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=1441s) · 本段原话**：man demonically some of it to try to manipulate other countries some of it to man to manipulate the people to doing what they want them to do in certain areas folks we're so close to Jesus's return we're right at the door but people think oh we're so far away even if it's 20 years people get mad at that
+- **[32:02](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=1922s) · 本段原话**：got millions in the bank everything's great for me I'm walking on the sunny side of the street like Rockefeller I've got my my gold dust at my feet oh oh you are so mistaken for what I have seen coming you not you must remain filled with controlled by the holy spirit in these last days following him listening
+- **[40:02](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=2402s) · 本段原话**：you're the god that will restore what the cankerworm ate we stagger not at the promise of God through unbelief but we're strong in faith giving glory to God being fully persuaded that what God has promised He's Able also to perform it so we believe we receive today in the name of Jesus everything that we have need of it
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · AI、科技与监控、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：AI、科技与监控、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕AI、科技与监控、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=0s) · 本段原话**：well good morning family thank you for joining me today well Braden and I are driving around Diana had some things she had to do and I said well let's make a video for the family while we're sitting here and uh I I thought this was a cool backdrop with this uh Route 66 uh
+- **[01:27](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=87s) · 本段原话**：is somehow put this in your your brain and it causes your brain to be rewired so that you think different and it's designed to rehabilitate prisoners instead of putting you in prison they will for 10 years 20 years whatever it may be that you're convicted of of your felon on how severe the punishment is of
+- **[02:38](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=158s) · 本段原话**：I told Diana I said study this we've got to know is this legit and it's legit there's video he has his own YouTube channel this man has his own YouTube channel and Braden and we were all like oh my God because folks this is exactly what the Lord showed me that they will
+- **[03:34](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=214s) · 本段原话**：what was coming so you know 2014 none of this stuff was really going on I'm sure people were thinking about it but now we're seeing a Muslim man say that it's reprogramming people's minds and they send these radio these these AI technology waves into your brain to make you think differently and so that you don't have
 
 ### 完整英文 Transcript
 
@@ -125,7 +143,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、战争与国际事务
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、战争与国际事务、预言、梦境与异象。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、战争与国际事务展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:21](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=261s) · 本段原话**：allows inmates to serve years of their sentence in just a matter of minutes so the criminals is going to have a choice to spend 10 tens of years behind bars or they can make the choice to get the artificial memory implanted into their brain so this process is called cognify and the intent of it is to treat the
+- **[05:27](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=327s) · 本段原话**：for Health Care education also they feel that it will be so many reformed people that doesn't commit crimes do y'all think this actually going to work or do y'all think that they're creating something that they don't even know that they're creating I tried to tell you all when Jesus said I'm standing at the door and I'm coming
+- **[06:26](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=386s) · 本段原话**：laxidasical and how we've stood with what we what with our covenant we've made with the Lord as a nation that making a strong tie to Israel would bring a blessing on America that it would bring a season of blessing and the Lord warned me about four years he said a 4-year window for a major Harvest a
+- **[07:32](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=452s) · 他转述所听到的话**：finances are going to take place first and people argue say Where's that out in the Bible it takes finances to produce the gospel it's not free so we see President Trump when I told you all I warned you all what the Lord said said to me when I was traveling down the road and and and
 
 ### 完整英文 Transcript
 
@@ -230,7 +255,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=480s) · 本段原话**：Endtime uh currency the digital platform we're seeing the digital platform un being unfolded right in front of our face but he said what the devil is going to use for bad in the future I will do for good right now and he said Brandon Brandon there's great days of harvest ahead even last night in my
+- **[09:05](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=545s) · 他进行祷告**：out of high school and I got my GED I I clean bathrooms because I had so many learning problems and I'm not a person who is real educated about the financial markets all I know is is I pray and the Lord will speak to me and he'll tell me what's coming and so people go well man
+- **[10:34](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=634s) · 本段原话**：so people people around here they they want to shoot you for some toilet paper during during the co the morals have declined do you understand people kill you for nothing so if if you see what I have seen coming with great trade Wars great things with China holding back prescription medicine holding back
+- **[11:39](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=699s) · 本段原话**：surprise about what's about to take place for a great shaking is going to take place for an Awakening but you as the bride are not to are not to be shaken to awaken cuz you're already awake you're the virgins with their lamps full of oil like it talks about out keeping your lamps full
 
 ### 完整英文 Transcript
 
@@ -332,7 +364,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Florida。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:20](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=740s) · 本段原话**：and watch that video I told you all he said one last call One Last Call I'm calling for the sheep in the backfield how are we going to wake them up he said to keep doing the same thing and expecting different results as Insanity so we're going to have to do something drastic to get the ones that
+- **[13:30](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=810s) · 本段原话**：I realize today how many truly are still asleep as I traveled over all that area I mean we traveled thousands of miles literally thousands sitting in the car just driving around praying looking at it cuz we' never seen things and when you have a child with overcoming special needs you don't get out and walk a lot
+- **[15:22](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=922s) · 他转述所听到的话**：tariffs I warned you about the trade Wars that were about to take place but the Lord said Brandon I'm going to give you a window of opportunity to bring in money for your family in this time frame get a place to have a garden get a place for a well find a place with the money that I provide for
+- **[15:43](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=943s) · 他描述所见**：you for a place in the country for there will be days when people are alluding and rioting in major cities I saw them with signs saying we want our entitlements they had they had signs and they if you thought during the the the
 
 ### 完整英文 Transcript
 
@@ -437,7 +476,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=961s) · 他描述所见**：the co thing was bad where they were rioting and and breaking windows and stealing from those department stores was bad I saw that on steroids because it wasn't just a couple cities was all around the United States people saying we want our entitlements because the government cut off Government funding for a while because because of how bad
+- **[16:21](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=981s) · 他描述所见**：the seasons were I told you I saw a plague coming I've told you I saw these chicken shortages is coming it I like I said I always believe it's right in front of my face like it's coming tomorrow but there's sometimes its years and whenever I told you about the trade Wars coming that was over that
+- **[17:58](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=1078s) · 他描述所见**：heaven and I will heal your land so the people interceded and he said because of the the the intercessions of the righteous I've granted you more time for a great financial collapse was coming and I saw the damn I warned you all I saw a dam of sludge all behind it and I
+- **[18:57](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=1137s) · 他描述所见**：rewarder of those that ently seek him so then I told you to watch zalinski and and and uh macron I saw them too devising a plan to try to keep this war stirred up I warned you that there would be major war in Europe and I saw uh Putin striking Warsaw Poland that area with a bomb that
 
 ### 完整英文 Transcript
 
@@ -538,7 +584,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 预言、梦境与异象、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、地震、风暴与灾害。 提到的地点：Iran、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、物资、能源与供应链展开，包含异象或所见、个人判断。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[21:07](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=1267s) · 他描述所见**：coming but we would see an ishmail with Emanuel macron in the days ahead and I believe we will see Emanuel macron uh take more of a dictator type role in the EU more than what we ever have in the days ahead I'm telling you all what I've seen it's just the beginning but I saw a
+- **[21:34](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=1294s) · 他描述所见**：rising up even with uh Israel strike in Iran I saw major strikes against Iran coming against their oil refineries against all this and I saw oil being uh in the Mediterranean coming forth major gas and oil deposits coming for Israel coming for United States of America I saw the pipeline the major nor
+- **[22:29](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=1349s) · 他描述所见**：taking off because of the fact that Iran was was crippled for a season if you remember I saw gas lines for blocks long of people lining up for gas like it was in the 1970s and I warned everybody that there would be a time of gas shortages for some reason I don't know why but then I
+- **[22:49](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=1369s) · 他描述所见**：told everybody I saw tractors in fields not moving I saw no water no water no water and I've warned you you all of great manipulation of the weather weather Warfare is coming Beyond anybody's comprehension they will manipulate the weather through certain avenues that they will make it we to be like a to be used against uh
 
 ### 完整英文 Transcript
 
@@ -628,7 +681,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 战争与国际事务、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：战争与国际事务、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:01](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=1441s) · 本段原话**：man demonically some of it to try to manipulate other countries some of it to man to manipulate the people to doing what they want them to do in certain areas folks we're so close to Jesus's return we're right at the door but people think oh we're so far away even if it's 20 years people get mad at that
+- **[25:05](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=1505s) · 他表达判断**：urgency I'm standing at the door son and then I want to remind you all that on on March the 14th we have a blood red moon this is a significant sign there this is a significant sign in the heavens again I believe concerning War I believe concerning War an escalation of War Kim Clement I said this last time
+- **[25:47](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=1547s) · 他描述所见**：you with wars and rumors of wars with plagues with pestilences with earthquakes in diverse places we're seeing the Bible come alive and wow what a time I told you I saw the black horse riding and he had the scales in his hands and he was riding throughout the land but he wasn't just like at a fast pace he was running
+- **[27:26](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=1646s) · 他描述所见**：and I said the Five Pillars have extensions that go off of them xlm cardono and he brought that one up he brought up uh those are the only ones he talked about but isn't that amazing Al Grand things like that I told you all I warned you all about the Five Pillars and I said that and then I saw
 
 ### 完整英文 Transcript
 
@@ -729,7 +789,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:01](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=1681s) · 他转述所听到的话**：Market because it's too volatile and the Lord said there will be great volatility and there will be great shakeouts if you're a bandwagon person that did not hear this for yourself there'll be days of there'll be days of great ShakeOut because you didn't hear God all you did was follow another person on the YouTube and the Lord said
+- **[29:31](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=1771s) · 本段原话**：money and God will use you greatly and make billionaires there will be multi-billionaires for the kingdom of God multi-billionaires that rise up in these last days that will bring forth the wealth to bring forth the the harvest there'll be 1% of you now I just heard it but there will be a lot of you that
+- **[30:42](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=1842s) · 本段原话**：put it in this I'll put it in that I told you there's plans about taxes you know how many people got upset about that word about the taxes when I told you pay your taxes well I Trump's going to do away with taxes the enemy has a plan to snare all of you
+- **[31:17](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=1877s) · 本段原话**：to this I'll listen to that they say the taxes are going away they're going to do this I stop listening to conspiracy theories listen to the voice of the spirit of the Lord follow him and he will lead you and guide you into all truth and the Bible said to give to Caesar what a
 
 ### 完整英文 Transcript
 
@@ -831,7 +898,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:02](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=1922s) · 本段原话**：got millions in the bank everything's great for me I'm walking on the sunny side of the street like Rockefeller I've got my my gold dust at my feet oh oh you are so mistaken for what I have seen coming you not you must remain filled with controlled by the holy spirit in these last days following him listening
+- **[33:16](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=1996s) · 本段原话**：led by the spirit of the Lord for yourself and follow him with all your heart I warn you out of compassion to tell you that we're all human we're all saved by grace we all we all make our mistakes but I'm going to tell you this it's the ones that seek him that will find
+- **[33:35](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=2015s) · 他进行祷告**：him and I'm nobody special other than just a person who is an act sinner that's saved by grace I'm just like you all but I I I'm hungry and I'm thirsty and I seek him so if you're watching this video right now let's pray together and you say Brandon I'm not going to be
+- **[34:11](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=2051s) · 他转述所听到的话**：every person that's represented here today we believe with them that they are going to be that 1% that you just talked about it used to be two you said but now it's one men's hearts are full of lust God will not compete with your flesh I heard him say that God just said
 
 ### 完整英文 Transcript
 
@@ -924,7 +998,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:33](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=2193s) · 本段原话**：second for your life to never be the same sitting at his throne you think well I've going to have to do all this all the no it's just a yielded surrender it costs a lot because your flesh wants to go all these other directions but you have to be yielded to him and listening to his
+- **[37:36](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=2256s) · 本段原话**：Jesus from every virus every plague every pestilence everything that's trying to hold you back you're delivered from it in the name of Jesus the Bible says that For Whom the son has set free is free indeed so you be free today in the name of Jesus I call you healed and whole and well in the name of Jesus and
+- **[38:47](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=2327s) · 本段原话**：again I call the blinders to come off of their eyes in the name of Jesus and that the eyes of their understanding would be enlightened according to Ephesians 1:18 I speak to their eyes to open in the name of Jesus and I say father that they're coming to the saving knowledge of the Lord Jesus Christ today they will
+- **[39:24](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=2364s) · 本段原话**：get born again now they're coming home they're calling their faith family now and saying I've been Wayward I'm Coming Home Father I call restoration of all homes I call restoration of marriages I call restoration of Health father that what the devil meant for bad you're going to turn it around for good in
 
 ### 完整英文 Transcript
 
@@ -1035,7 +1116,14 @@
 <a id="section-11"></a>
 ## 11. 40:00–43:50 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:02](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=2402s) · 本段原话**：you're the god that will restore what the cankerworm ate we stagger not at the promise of God through unbelief but we're strong in faith giving glory to God being fully persuaded that what God has promised He's Able also to perform it so we believe we receive today in the name of Jesus everything that we have need of it
+- **[41:06](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=2466s) · 他讨论新闻或报道**：social media platform we will not ask you for crypto money or nothing to donate to an orphanage or anything please do not fall for the scammers freely we've been given freely we give it out and that's the way our our heart is always to be about always remember that God is faithful and he's a rewarder
+- **[42:29](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=2549s) · 本段原话**：uh unsaved loved one or whoever you're bleeding for for healing or whatever but it's but I thought you know what an idea to have a point of contact to be able to look and say that's who we're praying for that's who we're bleeding for it's kind of different when you get an email
+- **[43:26](https://www.youtube.com/watch?v=4eieXdIrDIQ&t=2606s) · 他进行祷告**：us that and we'll pray for your family uh we won't use the photo for nothing else but I just thought what a it's a point of contact so at least I know who I'm praying for and what they're overcoming or whatever Wayward or whatever so so God bless you all we hope this video blessed you all put a smile
 
 ### 完整英文 Transcript
 

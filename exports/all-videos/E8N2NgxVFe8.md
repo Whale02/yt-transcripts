@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 559；**章节数**: 6；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -16,10 +16,28 @@
 - [05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-05)
 - [06. 20:00–21:18 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
 
+## 全片概述与 Key Points
+
+全片共 6 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:41](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=41s) · 本段原话**：time stuff all what's going to happen and what what we're fixing to head into so yeah but yeah but this is my little friend right here he's my he's my son I'm really proud of him he works really hard he's really smart and does really good at school and he loves Jesus with
+- **[04:00](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=240s) · 本段原话**：peace and you're not walking in peace you're Barefoot and and the rest of your armor is messed up because you have to have good shoes on to to walk the walk on on the serpents of the Scorpions with the shield of Faith you've got to have all those things the quench all the
+- **[08:00](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=480s) · 本段原话**：I you have to get there you you have to train yourself to step into that Glory River and the more you do it the easier and the faster you get there it's like like I told you it's like a uh um a muscle you keep lifting those spiritual weights you keep working out and you'll
+- **[12:01](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=721s) · 本段原话**：bite some lettuce if you're a vegan okay or whatever that's your problem it's my problem whatever you know let's just flow y'all let's not get off on this petty stuff but I'm going to tell you this we can go into those rivers and and I'll be and like I said I told you you I
+- **[16:37](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=997s) · 他描述所见**：at that time and I was I was I felt like I was bound and I saw and Jesus said Brandon there's no lid on the box you're set free all you've got to do is get out of the box that you're thinking your thoughts are why you're in the box is what you're
+- **[20:02](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=1202s) · 本段原话**：today I thank you wherever they are that there's a Garment of Praise we we give you that praise because you're worthy we give you the honor and Glory because you deserve every bit of it Lord You've you've clenched us from all unrighteousness you've taken us all the sin from our lives you took the sickness
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:41](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=41s) · 本段原话**：time stuff all what's going to happen and what what we're fixing to head into so yeah but yeah but this is my little friend right here he's my he's my son I'm really proud of him he works really hard he's really smart and does really good at school and he loves Jesus with
+- **[01:48](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=108s) · 本段原话**：my wife's behind the camera right now it's me today she's holding the camera by accident if you haven't seen that video we'll link it yeah in the description God raised that dog from the dead yeah it was special ever since he was a little little baby boy in diapers I've been teaching them just praying that he's
+- **[02:06](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=126s) · 他表达判断**：been baptized in the Holy Ghost and speaking in tongues since he's been five years old so he's he sees in the spirit too and the Lord shows him things and dreams and things like that and so the same with my daughter and so you'll meet her probably next video our youngest daughter yeah our youngest our youngest
+- **[03:39](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=219s) · 本段原话**：gentleness self-control you need to understand that when you're not walking in that Joy when you're not walking in the fruits of the spirit there's something wrong we're to walk in the fruits of the spirit we have to have the preparation of the gospel of peace on our feet if your shoes are not on your
 
 ### 完整英文 Transcript
 
@@ -135,7 +153,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:00](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=240s) · 本段原话**：peace and you're not walking in peace you're Barefoot and and the rest of your armor is messed up because you have to have good shoes on to to walk the walk on on the serpents of the Scorpions with the shield of Faith you've got to have all those things the quench all the
+- **[05:07](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=307s) · 本段原话**：heaviness it must be and when and when the Lord showed me this and he said Brandon this is a spirit that's up forebodings that's bothering you all the time this isn't a spirit of intercession you need us you need to be able to learn the discernment of learning how to to divide it Brandon so I started taking
+- **[05:41](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=341s) · 他进行祷告**：Ghost and I will pray in the Holy Ghost right now and I bind any Spirit you're not going to torment me because I'm not going to walk in torment fear has torment but perfect love casteth out all fear you can't allow that to happen because I'm telling you you'll start crawling underneath that rock every day
+- **[07:19](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=439s) · 本段原话**：singing the song like I'm telling y'all I worship Him and in his presence there's fullness of joy I'm telling you this is what I started doing I said worship him and I start singing songs and I get into his presence enter his into his chords for Thanksgiving I will enter in his courts with praise oh
 
 ### 完整英文 Transcript
 
@@ -254,7 +279,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=480s) · 本段原话**：I you have to get there you you have to train yourself to step into that Glory River and the more you do it the easier and the faster you get there it's like like I told you it's like a uh um a muscle you keep lifting those spiritual weights you keep working out and you'll
+- **[09:00](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=540s) · 他表达判断**：and I'll start interceding about things and and I'll hear what's really cool okay I I hope this is this is kind of Deep but but you all need a little bit of deep today I think okay I can hear the prayers of the intercessors out out outside okay A lot of times I'll go into Spirit okay and I
+- **[10:12](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=612s) · 他进行祷告**：and they'll go but inside me and we'll pray and we'll bounce on the spirit in the spirit room with them I can I can feel it and we go like we go it's like a symphony it's a beautiful music it's a symphony but we're praying and we're bringing down the strongholds and bringing it in in and setting people
+- **[11:44](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=704s) · 本段原话**：up and start eating the meat it's time for you to stop drinking the milk you've been on on the on the Milk of the word too long and we've got to come up higher we've got to come up and start grabbing hold of that T-bone steaks or whatever you may be vegan and that's your problem
 
 ### 完整英文 Transcript
 
@@ -367,7 +399,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=721s) · 本段原话**：bite some lettuce if you're a vegan okay or whatever that's your problem it's my problem whatever you know let's just flow y'all let's not get off on this petty stuff but I'm going to tell you this we can go into those rivers and and I'll be and like I said I told you you I
+- **[13:13](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=793s) · 本段原话**：portal it was purple and it was pink and it was it was all kinds of beautiful colors but it looked kind of like cotton candy okay that's the way it was it was like a like the Holy Ghost fog like a it was beautiful and Jesus walks in with these angels these massive warring
+- **[13:53](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=833s) · 他描述所见**：see gowns I could see the robes again what I told you about what I saw in heaven about the robes and the gowns and I asked Jesus at this time I said what are all the feet and he said that is part of the Great cloud of witnesses and they've come to watch the service what's
+- **[15:31](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=931s) · 本段原话**：collapsed but I stood like this in the spirit room and I could see over in the spirit and Jesus told me he said he said my my yoke is easy and my burden is light Brandon you're thinking way too much you think way too much you're meditating on the wrong thoughts way too much is
 
 ### 完整英文 Transcript
 
@@ -478,7 +517,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:37](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=997s) · 他描述所见**：at that time and I was I was I felt like I was bound and I saw and Jesus said Brandon there's no lid on the box you're set free all you've got to do is get out of the box that you're thinking your thoughts are why you're in the box is what you're
+- **[17:53](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=1073s) · 本段原话**：and he I had he said I had black smudges on my clothes and on me from all of the all of the the the the the the the Demonic pressure that I was allowing in my life by my thought life so so I'm not going to tell you anything else he said because it's private but he
+- **[18:28](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=1108s) · 他表达判断**：when I was visiting my mom and dad's church the power of God was so that it Set Me Free and I've never been the same ever since because of the the presence of the Lord was even more just these Encounters this these visitations I believe they're for somebody everything has always been in order of everything
+- **[19:21](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=1161s) · 本段原话**：you so much and he doesn't want you walking in that and there's a great cloud of witnesses that are watching us and they're and they're smiling and they're cheering us on and they're getting ready for us to come home and and know that one day we're all going to be there in heaven and it's and and
 
 ### 完整英文 Transcript
 
@@ -596,7 +642,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–21:18 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:02](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=1202s) · 本段原话**：today I thank you wherever they are that there's a Garment of Praise we we give you that praise because you're worthy we give you the honor and Glory because you deserve every bit of it Lord You've you've clenched us from all unrighteousness you've taken us all the sin from our lives you took the sickness
+- **[20:21](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=1221s) · 本段原话**：and disease on your body you took poverty for us father I thank you mental torment you took it you when they put that crown of thorns on your head you took that on you father you said that you took all those things you became those things that we don't have to go through it and what Jesus bore in his
+- **[20:41](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=1241s) · 本段原话**：body I need not bear in mind and I thank you Father that you've Set Me Free by the blood blood of the lamb and by the word of my testimony and my testimony is great Jesus Christ is my Lord and Savior and I thank I thank you all for joining me today I thank you all for for being a part of
+- **[21:01](https://www.youtube.com/watch?v=E8N2NgxVFe8&t=1261s) · 本段原话**：this this little Community my family here I thank you please put like my videos and share them it really helps me with the algorithm put a smile on your face and a song in your heart Jesus loves you so much and we thank you for being a part of this family God bless
 
 ### 完整英文 Transcript
 

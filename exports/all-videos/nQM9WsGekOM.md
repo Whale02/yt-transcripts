@@ -5,7 +5,7 @@
 **上传日期**: 20261005
 **源字幕行数**: 2176；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 90:00–98:59 · 教会、复兴与信仰、预言、梦境与异象](#section-11)
 - [12. 99:00–99:48 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[03:11](https://www.youtube.com/watch?v=nQM9WsGekOM&t=191s) · 他描述所见**：are shutting down all air traffic control all air traffic going from overseas but not only are we going to stop we're going to stop all domestic flights also to stop the spread and I said I see a bill and in this they it was too late because it spread throughout uh Europe like like a house
+- **[20:30](https://www.youtube.com/watch?v=nQM9WsGekOM&t=1230s) · 他描述所见**：the United States government and I see the president but in this in in in this dream it's President Trump again and President Trump is holding a a podium with the presidential seal on this podium and he starts talking and he has he has a blue suit on with a white shirt and a red tie again just like he always
+- **[36:19](https://www.youtube.com/watch?v=nQM9WsGekOM&t=2179s) · 他描述所见**：Mhm. I saw rats in in boxes, three to be particular, just three in a plexiglass looking box that had sides with little holes on the side of it. And they had rats in these boxes. And they were testing a little thing in a in a little vial that looked like this. And it was yellow, but it looked thick like
+- **[63:11](https://www.youtube.com/watch?v=nQM9WsGekOM&t=3791s) · 本段原话**：So if you're here tonight and you say, Brandon, I don't know where I'll spend eternity if I die tonight. I don't know what's going to happen with my life.
+- **[83:44](https://www.youtube.com/watch?v=nQM9WsGekOM&t=5024s) · 本段原话**：We refuse to fear death. We refuse to fear the torment of something. We refuse to fear this. Why? because we know you you're ever present helping a time and need. You've got your angels that bear us up in their hands. And father, we have to sound the alarm like you warn me. But the people I understand,
+- **[99:00](https://www.youtube.com/watch?v=nQM9WsGekOM&t=5940s) · 他进行祷告**：if you're going to Tennessee because I I've seen it. It would increase increase three times over the next month. And so we pray for his protection and his covering and his, you know, sweet sleep, everything that he sleep, his wife sweeps good, sleeps good, and that they all have they get up refreshed like
+
 <a id="section-01"></a>
 ## 01. 00:00–08:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、特朗普与白宫。 提到的地点：Europe、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[03:11](https://www.youtube.com/watch?v=nQM9WsGekOM&t=191s) · 他描述所见**：are shutting down all air traffic control all air traffic going from overseas but not only are we going to stop we're going to stop all domestic flights also to stop the spread and I said I see a bill and in this they it was too late because it spread throughout uh Europe like like a house
+- **[04:42](https://www.youtube.com/watch?v=nQM9WsGekOM&t=282s) · 他描述所见**：I'm I'm trying to warn you. You know, I see in part here in part and I'm pushing and pushing and I thought 2027. I've told you I thought it was 2027, but I originally I always felt inside it would happen by election time. I said this is about elections. This is about things that are that that are happening.
+- **[05:58](https://www.youtube.com/watch?v=nQM9WsGekOM&t=358s) · 他描述所见**：looking down this time and I said and I saw digital platform. But if you remember what I saw the original vision that that everybody start following me about Trump's ear. I said he will be praying in the White House for a a there was a black haze upon the land.
+- **[07:59](https://www.youtube.com/watch?v=nQM9WsGekOM&t=479s) · 他描述所见**：counted it backwards and he fanned his hand like this and I saw it go from uh June, July, August, and he showed me going backwards and it went uh it went uh June, May, April, March, and went backwards like that. And it showed me going backwards instead of going the way the the calendar usually goes, January,
 
 ### 完整英文 Transcript
 
@@ -250,7 +268,14 @@
 <a id="section-02"></a>
 ## 02. 09:00–17:59 · 预言、梦境与异象、疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、疾病、医疗与药品、祷告、敬拜与现场互动。 提到的地点：Russia、Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、疾病、医疗与药品展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[09:16](https://www.youtube.com/watch?v=nQM9WsGekOM&t=556s) · 他描述所见**：I believe. But uh I want you to see uh what what what's being said here because he did this report and we had it sent it to us by viewers and this is serious because if this is what I saw this this this is a a major alarm, okay? Because I'm telling you I have many visions over
+- **[10:13](https://www.youtube.com/watch?v=nQM9WsGekOM&t=613s) · 本段原话**：Russia. It's already killed lab workers and forced 200 people into isolation and Putin's being accused of covering it up. Researcher at Russian Plague Laboratory dies after she mishandled a a plague strand vial that broke and now she's dead and now they've locked down an entire city.
+- **[12:19](https://www.youtube.com/watch?v=nQM9WsGekOM&t=739s) · 本段原话**：relatively uh populated area. So this did not this is not taking place in some isolated hillside uh you know in a mountain side somewhere deep underground. No, this is taking place on the border of Mongolia and therefore China.
+- **[16:30](https://www.youtube.com/watch?v=nQM9WsGekOM&t=990s) · 他表达判断**：I I I I thought it was 2027. I'm I'm be real with you. I could have missed the timing of the year. We're in 2026 and it's it's it's in the news now, October, just like the Lord said. So throw rocks, whatever you want to do, but I I think you should pay attention.
 
 ### 完整英文 Transcript
 
@@ -481,7 +506,14 @@
 <a id="section-03"></a>
 ## 03. 18:00–26:59 · 预言、梦境与异象、疾病、医疗与药品
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、疾病、医疗与药品、特朗普与白宫。 提到的地点：Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、疾病、医疗与药品展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:30](https://www.youtube.com/watch?v=nQM9WsGekOM&t=1230s) · 他描述所见**：the United States government and I see the president but in this in in in this dream it's President Trump again and President Trump is holding a a podium with the presidential seal on this podium and he starts talking and he has he has a blue suit on with a white shirt and a red tie again just like he always
+- **[24:32](https://www.youtube.com/watch?v=nQM9WsGekOM&t=1472s) · 本段原话**：They're not just dead space. This is a new virus. This is a new pandemic and uh it it is it it dwarfs uh CO and they kept saying that in their speech. this the death toll ratio is going to dwarf uh co and basically that was the dream but I just remember feeling uneasy
+- **[25:39](https://www.youtube.com/watch?v=nQM9WsGekOM&t=1539s) · 他描述所见**：million. Okay, so this is the Trump prophecy. But when I didn't go on Steve Czechalani's channel, I went on Discover Ministries and I told about the ear. He was the only one that had the original copy of that. I never made it public on my channel because I was scared because of uh who what I saw. And so I was bold
+- **[26:42](https://www.youtube.com/watch?v=nQM9WsGekOM&t=1602s) · 他描述所见**：Trump and I saw the I saw a a red wave coming out of um Michigan. And then I saw Oklahoma and there was embers of people and they were all on um these these they had torches all throughout Oklahoma and they were raising up these torches that looked like fire and they were bringing forth a new patriotism
 
 ### 完整英文 Transcript
 
@@ -700,7 +732,14 @@
 <a id="section-04"></a>
 ## 04. 27:00–35:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[27:00](https://www.youtube.com/watch?v=nQM9WsGekOM&t=1620s) · 他描述所见**：upon the nation and it was coming it was being birthed and it just kept spreading like fire all throughout America all throughout. And I saw Trump rising up and then I saw an attempt on his life uh that this bullet flew by. I I want to just talk about when he's praying in we
+- **[29:14](https://www.youtube.com/watch?v=nQM9WsGekOM&t=1754s) · 他描述所见**：I I saw this December 28th of 2023. President Trump wasn't even president at his head like this. And he was crying crying. But he was not he was crying and asking for mercy. He was crying out for mercy concerning America and he was interceding, but it was a different type of Trump. He was skinnier for one and he
+- **[31:31](https://www.youtube.com/watch?v=nQM9WsGekOM&t=1891s) · 他描述所见**：This is your first one. Okay. Boy, I got a lot of hate on that one. I remember so many emails where people were you're so much full of fear. I'll never forget that I saw he told me it was the same uh it would be a type and shadow of the black death in the 1300s.
+- **[33:36](https://www.youtube.com/watch?v=nQM9WsGekOM&t=2016s) · 他描述所见**：I saw um uh mega churches completely shut down. A complete melt melting of a financial structure beyond anybody's comprehension that we've never seen before.
 
 ### 完整英文 Transcript
 
@@ -915,7 +954,14 @@
 <a id="section-05"></a>
 ## 05. 36:00–44:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、物资、能源与供应链。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:19](https://www.youtube.com/watch?v=nQM9WsGekOM&t=2179s) · 他描述所见**：Mhm. I saw rats in in boxes, three to be particular, just three in a plexiglass looking box that had sides with little holes on the side of it. And they had rats in these boxes. And they were testing a little thing in a in a little vial that looked like this. And it was yellow, but it looked thick like
+- **[39:03](https://www.youtube.com/watch?v=nQM9WsGekOM&t=2343s) · 他描述所见**：I've told you all I saw President Trump standing behind a podium saying we're blocking all international travel from coming from overseas and inner flights inside the United States. We're not allowing flights going inside the United States. So all air travel for a period of time is going to be suspended from border to border trying to stop this
+- **[41:12](https://www.youtube.com/watch?v=nQM9WsGekOM&t=2472s) · 他描述所见**：So it was in phases. people trying to fight to come back to work because they were familiar with what happened with CO saying we're not we're not shutting down. So I see the people going from house to house with with semi-automatic weapons trying to raid other homes who had something. I saw wells
+- **[44:13](https://www.youtube.com/watch?v=nQM9WsGekOM&t=2653s) · 他描述所见**：Any of the road the parking lots were barren. It didn't in the vision. There was nobody driving around. The line goes all the way down in front of this Lowe's all the way to the to the street corner, which you'll see that in just a second. I know it's kind of bad because all this traffic
 
 ### 完整英文 Transcript
 
@@ -1148,7 +1194,14 @@
 <a id="section-06"></a>
 ## 06. 45:00–53:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:00](https://www.youtube.com/watch?v=nQM9WsGekOM&t=2700s) · 他描述所见**：in the vision what I was seeing even with uh this last one about the plague and how people were trying to get sack food. They were trying to get their food rations there. Now, I'm going to take you to the sprouts that I saw the tent for quick and I don't want to have it
+- **[47:00](https://www.youtube.com/watch?v=nQM9WsGekOM&t=2820s) · 他描述所见**：Cuz when I'm driving and I'm and I'm looking at this church and I'm at this stoplight and I see the makeshift those tents, those military tents, that yellow tree and this this right here, that was all in the vision. And that's whenever I was and then as I kept driving in the vision, I could see this Target coming
+- **[49:57](https://www.youtube.com/watch?v=nQM9WsGekOM&t=2997s) · 他描述所见**：to me. I I I saw I believe 2027. But if this is the trial run to the trial run, I do not know. All I know is if if this is it, buckle up. This is why the Lord said to use Psalms 91 and Psalms 23. I've tried to tell you over and over and over and over. Uh because
+- **[53:33](https://www.youtube.com/watch?v=nQM9WsGekOM&t=3213s) · 本段原话**：Go ahead. On behalf of the citizens. Yes. So, a pandemic, there's a lot uh that we should be doing that um hopefully we'll get our act together before the next one comes. you know overall the innovation in health both in the developing countries the rich world you know I I I love being part of that
 
 ### 完整英文 Transcript
 
@@ -1379,7 +1432,14 @@
 <a id="section-07"></a>
 ## 07. 54:00–62:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[54:37](https://www.youtube.com/watch?v=nQM9WsGekOM&t=3277s) · 他描述所见**：And so as I saw it uh wipe out the two rats first and then they saw that didn't mess with the one rat and they made it where it would sustain it and that one rat was able to run. And I say it's interesting. So this was a vial in a in in our lab just like I told you in that
+- **[55:54](https://www.youtube.com/watch?v=nQM9WsGekOM&t=3354s) · 本段原话**：But it it it it it doesn't seem like it's coincidence it's the month of October and I um that's what bothered me the most because I was like whoa. So here's uh the White House on high alert assisting options as plague breaks out in Russia with hundreds put into quarantine hospitals.
+- **[59:04](https://www.youtube.com/watch?v=nQM9WsGekOM&t=3544s) · 他描述所见**：me to do from doing so. We love you and we pray for every single one of you. And the Lord said, "I've called you to pray." And so I uh I see these things and uh about the all the what's the riots in France right now. It all part of it. It's to bring forth the
+- **[62:31](https://www.youtube.com/watch?v=nQM9WsGekOM&t=3751s) · 本段原话**：Write my name in the Lamb's Book. Oh, Father, I'm going to dust off that Bible that's been on been on the shelf for the last 6 months and I can write my name in it because the dust has gotten so thick because I never pick it up.
 
 ### 完整英文 Transcript
 
@@ -1599,7 +1659,14 @@
 <a id="section-08"></a>
 ## 08. 63:00–71:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[63:11](https://www.youtube.com/watch?v=nQM9WsGekOM&t=3791s) · 本段原话**：So if you're here tonight and you say, Brandon, I don't know where I'll spend eternity if I die tonight. I don't know what's going to happen with my life.
+- **[65:21](https://www.youtube.com/watch?v=nQM9WsGekOM&t=3921s) · 他表达判断**：Speak in tongues. I believe the baptism of the Holy Spirit's for you. If you want to know more about the baptism of the Holy Spirit, you can get the book Why Tongues on Amazon or you can find it free on YouTube. There's a lady reading it and it's a short little read, but you
+- **[67:12](https://www.youtube.com/watch?v=nQM9WsGekOM&t=4032s) · 本段原话**：God in these last days. We saw [clears throat] amazing miracles and you followed tonight. And we were so excited to be a part of it. And there were so many of you that traveled from Texas and all over to come to the meetings. It was a packed house. And so it was wonderful.
+- **[69:04](https://www.youtube.com/watch?v=nQM9WsGekOM&t=4144s) · 本段原话**：church. We cover it in the blood in the name of Jesus. And no weapon formed against me is going to prosper. A THOUSAND SHALL fall at my side and 10,000 at my right hand, but it shall not come nigh me. You believe that?
 
 ### 完整英文 Transcript
 
@@ -1809,7 +1876,14 @@
 <a id="section-09"></a>
 ## 09. 72:00–80:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[72:40](https://www.youtube.com/watch?v=nQM9WsGekOM&t=4360s) · 他进行祷告**：Pray. I sing praises to your name, oh Lord. Praisees to your name, oh Lord, for your name is great and greatly to be praised.
+- **[77:09](https://www.youtube.com/watch?v=nQM9WsGekOM&t=4629s) · 本段原话**：Oh, precious is the flow that makes me white as snow. No other found I know. Nothing but the blood of Jesus.
+- **[78:31](https://www.youtube.com/watch?v=nQM9WsGekOM&t=4711s) · 本段原话**：I yield to the prophetic. I yield to the anointing of the watchman. I yield to what you've called me to do. I yield.
+- **[80:10](https://www.youtube.com/watch?v=nQM9WsGekOM&t=4810s) · 本段原话**：Come home. He who are we come home. Soly, tenderly, Jesus is calling.
 
 ### 完整英文 Transcript
 
@@ -1918,7 +1992,14 @@
 <a id="section-10"></a>
 ## 10. 81:00–89:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[83:44](https://www.youtube.com/watch?v=nQM9WsGekOM&t=5024s) · 本段原话**：We refuse to fear death. We refuse to fear the torment of something. We refuse to fear this. Why? because we know you you're ever present helping a time and need. You've got your angels that bear us up in their hands. And father, we have to sound the alarm like you warn me. But the people I understand,
+- **[86:57](https://www.youtube.com/watch?v=nQM9WsGekOM&t=5217s) · 他描述所见**：Today's my my time I take off to fill up but um I felt an urgency like I said uh when I saw that I was bothered because of the month other than that I would have just went whatever it's just because I because I saw it in the month of October and um yeah so we
+- **[88:44](https://www.youtube.com/watch?v=nQM9WsGekOM&t=5324s) · 本段原话**：God bless you all. Uh please uh like, subscribe, click the notification bell, be a part of our YouTube community here, and we'll be back again. I don't know. I I I like I said, I was going to take more time to get filled up, but if the Lord calls me, I'm called. And so that's
+- **[89:42](https://www.youtube.com/watch?v=nQM9WsGekOM&t=5382s) · 他描述所见**：I see even minister's wife and he said Brandon the reason why they don't like you is because you put you you I just heard him. He said the reason they don't like you Brandon is because you because you check them because they don't want to be allin.
 
 ### 完整英文 Transcript
 
@@ -2068,7 +2149,14 @@
 <a id="section-11"></a>
 ## 11. 90:00–98:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[92:09](https://www.youtube.com/watch?v=nQM9WsGekOM&t=5529s) · 他描述所见**：He just walked by." And the lady on the ground said, "I felt the Lord touch my face and squish my cheeks together." The And she said, "It was Jesus." I said, "No, it wasn't Jesus. It was the Holy Spirit." I saw him do it. He went down and he touched her at the exact same
+- **[93:22](https://www.youtube.com/watch?v=nQM9WsGekOM&t=5602s) · 他表达判断**：So, I try to encourage you to get places that when you know somebody's authentic and they're not flaky, get there. He'll be in Tennessee and uh the end of October. If you live in the Tennessee area and you can go to Harvest Church International, I believe he'll be there uh 18th, 19th, 20 21st. Go get a fresh
+- **[97:15](https://www.youtube.com/watch?v=nQM9WsGekOM&t=5835s) · 他描述所见**：Check your thermostat. Where are you right now? It's time for the thirsty to become more thirsty. If you're hungry, it's time to be even more hungrier. It's time to dip in the river in these last days. People are waiting for you. They need your help. Pray for the people around you. I saw there's these young girls and they
+- **[98:10](https://www.youtube.com/watch?v=nQM9WsGekOM&t=5890s) · 他表达判断**：on the ground and and uh I believe she's getting healed. I don't know. I It was amazing. Of course, I do know God's a healer, and I I believe that she will be healed. That's what I'm saying. But it was amazing to see that as these young 14-year-old girl said, "I brought the
 
 ### 完整英文 Transcript
 
@@ -2290,7 +2378,14 @@
 <a id="section-12"></a>
 ## 12. 99:00–99:48 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[99:00](https://www.youtube.com/watch?v=nQM9WsGekOM&t=5940s) · 他进行祷告**：if you're going to Tennessee because I I've seen it. It would increase increase three times over the next month. And so we pray for his protection and his covering and his, you know, sweet sleep, everything that he sleep, his wife sweeps good, sleeps good, and that they all have they get up refreshed like
+- **[99:19](https://www.youtube.com/watch?v=nQM9WsGekOM&t=5959s) · 本段原话**：they've uh like they're 20 years old again, you know, ready to run a race.
+- **[99:24](https://www.youtube.com/watch?v=nQM9WsGekOM&t=5964s) · 本段原话**：So, all right. Well, we're we're excited uh you came on tonight with us and prayed with us. We we lift up the name of Jesus and we uh we we don't end with uh fear. We end with with prayer and thanksgiving and God's good and his mercy endures forever. Remember y'all, put a smile on your face and a song in
+- **[99:43](https://www.youtube.com/watch?v=nQM9WsGekOM&t=5983s) · 本段原话**：your heart. Jesus loves you so much and we love you. God bless y'all and we'll see you again. Bye-bye.
 
 ### 完整英文 Transcript
 

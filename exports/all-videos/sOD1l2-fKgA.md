@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1967；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 100:00–109:59 · 战争与国际事务、祷告、敬拜与现场互动](#section-11)
 - [12. 110:00–119:17 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:52](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=52s) · 他描述所见**：river and pray for what's coming for World War II and what I see coming concerning all this. This is a very detailed openeyed vision of what you're about to watch and um and pray. Do not just be a spectator. Be a participator in prayer today. Okay? Don't just sit and just watch it. pray. Add your
+- **[24:37](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=1477s) · 他描述所见**：parts that I can. But there were but I saw I saw the glory. I saw the glory as the land be a shaking a a shaking a coldness was on the land. A shaking from east to west is coming. A major shaking is coming. But there were the elders were preserved. They were taken care of.
+- **[40:14](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=2414s) · 他表达判断**：and the gates of hell will not prevail against her. I believe with all my heart, yeah, there's some things that are off. Yes, there's some things that need corrected, but but who am I to do it? It the Lord may use me to say some things, but it's not to harp and to be a
+- **[71:50](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=4310s) · 他描述所见**：Oh. I see Trump's plan. I see Trump's plan. What he want? He wants peace upon the land. He wants the lavender.
+- **[90:01](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=5401s) · 本段原话**：Europe. major war, world war, a great war. And she's the head of the snake concerning the snake, concerning concerning uh the king, concerning uh the pope, concerning the uh all these nations, but the continent as a whole.
+- **[113:41](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=6821s) · 本段原话**：I don't want to have nothing to do with Satan. I don't want to have nothing to do with false gods, Buddha, Muhammad, or any other false god. I don't I there will be no other gods before me. I make you my Lord and personal Savior.
+
 <a id="section-01"></a>
 ## 01. 00:00–09:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:52](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=52s) · 他描述所见**：river and pray for what's coming for World War II and what I see coming concerning all this. This is a very detailed openeyed vision of what you're about to watch and um and pray. Do not just be a spectator. Be a participator in prayer today. Okay? Don't just sit and just watch it. pray. Add your
+- **[05:18](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=318s) · 他描述所见**：Civil unrest. I see civil unrest coming to Mexico. I see people fleeing to the border of America for aid for an uprising is coming in Mexico. I see with a drug cartel.
+- **[06:56](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=416s) · 本段原话**：SHAKE THE witchcraft from THE FALSE RELIGION FOR THEY HAVE TRIED TO INTIMIDATE MY PEOPLE AND THE GLORY AND THE MANIFESTATION OF MY PRESENCE IS COMING ON THIS N ON THESE nations on this continent. You would say oh neighbor and it will flood all throughout Africa AND IT WILL START ON THE WEST COAST OF AFRICA AND FLOOD TO
+- **[09:47](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=587s) · 他描述所见**：I All I see is water on the shoreline. I see it being so hot it would be burn it to hurt to touch it.
 
 ### 完整英文 Transcript
 
@@ -188,7 +206,14 @@
 <a id="section-02"></a>
 ## 02. 10:00–19:59 · 预言、梦境与异象、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、物资、能源与供应链。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、地震、风暴与灾害展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[11:42](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=702s) · 他描述所见**：I see Claudia. I see a overthrowing of things. I see civil unrest. I see riots in the streets. I see people pillaging.
+- **[13:29](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=809s) · 他描述所见**：what that for what has spread like an epidemic. A and I see cancer being dealt with out of the land of what's being shaken and humbled even out of San Francisco.
+- **[14:31](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=871s) · 他描述所见**：as Trump tries to gain forth steam. Pray for him to finish his race. This this what I've called this right here. I see it for breakthrough. Breakthrough breakthrough. Breakthrough.
+- **[17:36](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=1056s) · 他描述所见**：What? What? What's in the auto industry, Braden? And is it still in Detroit? I see I see the guy at the the face. I see the guy with the face with the beard.
 
 ### 完整英文 Transcript
 
@@ -333,7 +358,14 @@
 <a id="section-03"></a>
 ## 03. 20:00–29:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:37](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=1477s) · 他描述所见**：parts that I can. But there were but I saw I saw the glory. I saw the glory as the land be a shaking a a shaking a coldness was on the land. A shaking from east to west is coming. A major shaking is coming. But there were the elders were preserved. They were taken care of.
+- **[26:19](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=1579s) · 他描述所见**：The water was turbulent. BUT HE SAID, "IT'S TIME TO COME ABOVE THE WATER. It's time TO COME AND SOAR WITH ME ABOVE this turbulence." And as I saw this turbulence all around, there was a vast turbulence all around that looked like uh it looked like pig pin, you know, off the uh Charlie Brown. It was but it was
+- **[28:09](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=1689s) · 他描述所见**：But there's a place of provision. There's water underneath the soil. There's water underneath that ice. and it will shake and break forth the ice, the coldness, for there's a water down in the deep. And I saw the water on the I saw the water splitting. I saw what was it seemed to be cold as ice, a fresh
+- **[29:32](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=1772s) · 他描述所见**：It was a a like a copper looking color flannel shirt and he was in there and they were all laughing and I saw an elderly woman with an old a long dress and it looked like a Pentecostal dress like real long to the floor and and and she was and she was they were all
 
 ### 完整英文 Transcript
 
@@ -570,7 +602,14 @@
 <a id="section-04"></a>
 ## 04. 30:00–39:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:21](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=1821s) · 本段原话**：And I we all of a sudden we turn into like an eagle. We are flying above with him. And I seen and the storm was down below. But the glory of the Lord, the glory of the Lord is coming on the church. He said, "Oh my remnant, for I have preserved you. You are the apple of
+- **[33:59](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=2039s) · 本段原话**：Have no fear. Have no fear. I have brought you near. He's taking care of you. He will provide. as they were as they were laughing and they were leaping and they were praising God in in the in this in what the Lord I I have no fear my little lamb you're the apple of my eye I'm going to
+- **[37:10](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=2230s) · 本段原话**：He even even corrected me. that I I I have been very critical and I apologize even to you of of prosperity, you know, the way that people talk about things and about the jets, the planes, trains, and automobiles. And he said to me, "Stop attacking your brothers and sisters, especially on this platform. Your words
+- **[37:37](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=2257s) · 本段原话**：And he said, "Brandon, it's an all hands on deck experience right now. I am leaving the 99 to go after the one. The harvest is plentiful and the labors are few. We must come together like a family. And he goes, "You may not agree with what they're doing and they might may not agree with what you're doing,
 
 ### 完整英文 Transcript
 
@@ -762,7 +801,14 @@
 <a id="section-05"></a>
 ## 05. 40:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:14](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=2414s) · 他表达判断**：and the gates of hell will not prevail against her. I believe with all my heart, yeah, there's some things that are off. Yes, there's some things that need corrected, but but who am I to do it? It the Lord may use me to say some things, but it's not to harp and to be a
+- **[42:52](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=2572s) · 本段原话**：ALL THINGS ARE POSSIBLE TO HIM who believed. The Lord showed me. Do you understand that your walls in your life, the things that seem TO BE IMPOSSIBLE, THESE WALLS ARE SO BIG and so vast, there's no way that we'll ever be able to conquer this area. But the Lord says as you bring forth a new shout of
+- **[45:59](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=2759s) · 本段原话**：We're laughing at the face of sickness and disease. We're laughing at the face of poverty. LAUGH. HAHA. DEVIL, YOU THOUGHT YOU HAD WON. BUT GREATER IS HE that is in me than he that is in THE WORLD. NO WEAPON FORMED AGAINST ME IS GOING TO PROSPER. EVERY TONGUE THAT RISES AGAINST ME, YOU condemn it. I
+- **[47:56](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=2876s) · 本段原话**：He's bringing deliverance to the captive. He's bringing sight to the blind and those that are lame will leap. I'm telling you, the ears will open up. The blinded eyes will see. Oh, the dead will be raised from the dead.
 
 ### 完整英文 Transcript
 
@@ -962,7 +1008,14 @@
 <a id="section-06"></a>
 ## 06. 50:00–59:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[51:24](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=3084s) · 本段原话**：I I understood more and more this last week when when when Katherryn Coleman always would say, "Take not thy spirit from me as as you try and you can't get nothing done without him." How much how much we are dependent on him. You you think you're able to do certain things without him. There's nothing you can do without
+- **[51:50](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=3110s) · 本段原话**：him. apart from him, you can do nothing. But when the anointing Have you you've been in services before and there's no anointing on what the preacher is saying and you go, man, this is the driest I've ever heard anybody preach before.
+- **[54:45](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=3285s) · 本段原话**：The priests who sing your praise. I hunger and thirst for righteousness, but it's only found one place.
+- **[59:30](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=3570s) · 本段原话**：Prince of Peace. Troubles vanish. Hearts are mended in the presence of the king.
 
 ### 完整英文 Transcript
 
@@ -1084,7 +1137,14 @@
 <a id="section-07"></a>
 ## 07. 60:00–69:59 · 教会、复兴与信仰、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、地震、风暴与灾害、战争与国际事务。 提到的地点：Iran、Oklahoma、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、地震、风暴与灾害展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[66:52](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=4012s) · 本段原话**：Major event. A major event. A major event. We call the alatah even in now that be to be dealt with the new leaders of Iran to be dealt with and a shrinking back a shrinking back with that with that that that that principality over that area
+- **[68:26](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=4106s) · 他描述所见**：Glory to God over the Middle East. I I see. I I'm telling you, he's being dealt with. He's being dealt. The Lord said, "I'm dealing with this. It's being dealt with. A shaking over Iran. One more round. One more round over the infrastructure of their of the of the corruption and the Iran leadership.
+- **[69:12](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=4152s) · 他描述所见**：I see Russia being a part of this. There's something with Russia being a part of this, an extension into this.
+- **[69:25](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=4165s) · 他描述所见**：That don't know. I I'm telling you I'm telling you there's a shaking coming to Iran. But I see I see uh uh Putin dressed in all black. He has he's as he's as he's as
 
 ### 完整英文 Transcript
 
@@ -1213,7 +1273,14 @@
 <a id="section-08"></a>
 ## 08. 70:00–79:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、特朗普与白宫。 提到的地点：Europe、Ukraine、Cuba、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[71:50](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=4310s) · 他描述所见**：Oh. I see Trump's plan. I see Trump's plan. What he want? He wants peace upon the land. He wants the lavender.
+- **[73:26](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=4406s) · 他描述所见**：pro-Russia pro- Ukraine with a gayheaded man. A gayheaded man. I told you there's much corruption with Zalinsky and the money. I see money
+- **[75:08](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=4508s) · 他描述所见**：They try to acid wash the file, but they but it's too hard to cover. It's the ones from Europe. It's the one There's C accounts, big money in these accounts. I even see cash $100 bills again on pallets in a jet and he's going to try to flee. heals the whole thing. If it gets it, I see I see
+- **[78:50](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=4730s) · 他描述所见**：Puppet. The marionette. The puppet. Who's controlling is the is witchcraft. Who's controlling Zalinsky is witchcraft. It's the higher of the people over here. I see them. But they have black capes on. They have black capes with no face. These men are black capes with no face. And they're witchcraft.
 
 ### 完整英文 Transcript
 
@@ -1377,7 +1444,14 @@
 <a id="section-09"></a>
 ## 09. 80:00–89:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Europe、Vatican、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[82:03](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=4923s) · 他描述所见**：I see Satan Mahes. But I see the light above of her as a halo. It's like a is a demonic star over Ursula with these with these chains, these ropes that go to each nation. Every nation has a a has a chain that goes to it that has it's a demonic glow and and
+- **[88:22](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=5302s) · 他描述所见**：are linked to her. And then she has this crown around her head and and she's be she's being lifted up with a star above her and and I see this and and this chain, but they're trying to bring forth great war. And Trump is a is a lion tamer. And I see him cracking the whip
+- **[88:41](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=5321s) · 他描述所见**：because he wants to diffuse it to bring purple over uh Russia. And the Lord said, "Praying over Trump and and the decision he makes in the days ahead, how he handles Zillinsky and how he handles this to to to to uh pull, you know, when you you when I said I saw the balloon
+- **[89:30](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=5370s) · 他描述所见**：Mega is on its last breath. And I see the Lord say, I want to blow into this to give it a little bit more concerning giving time for Europe. And and I see uh that purple lavender trying to come on Russia and dealing with Zilinska. And they will get half of Kiev to bring
 
 ### 完整英文 Transcript
 
@@ -1528,7 +1602,14 @@
 <a id="section-10"></a>
 ## 10. 90:00–99:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Berlin、Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[90:01](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=5401s) · 本段原话**：Europe. major war, world war, a great war. And she's the head of the snake concerning the snake, concerning concerning uh the king, concerning uh the pope, concerning the uh all these nations, but the continent as a whole.
+- **[93:46](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=5626s) · 他描述所见**：mingling mingly. And I see I see the PR MBS MBS. Watch what he does to to to connect uh this to the Middle East.
+- **[95:10](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=5710s) · 他描述所见**：I I'm telling you I see I see I'm I'm seeing World War II like it was World War II but I see the Hitler spirit. It's a Hitler. I see it coming up out of that swata again being summoned over Europe.
+- **[96:15](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=5775s) · 他描述所见**：It's satanic. And I see these high priestess people. And they're doing satanic things. And they want to entangle Benjamin with Israel to to to the MBS to to Saudi Arabia to raise forth the Madi with war, a great war.
 
 ### 完整英文 Transcript
 
@@ -1671,7 +1752,14 @@
 <a id="section-11"></a>
 ## 11. 100:00–109:59 · 战争与国际事务、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：战争与国际事务、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Russia、Iran、China、France。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[102:10](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=6130s) · 他描述所见**：Ukraine and it will be a front and then in England he's a coward with with France and he's a coward and it will come from even Carney sending troops I see uh I see trying to wrap this thing into a major world war Italy major war maramita okay and Turkey will turn off the black sea
+- **[104:38](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=6278s) · 他描述所见**：They want to take their boats and come up in there and they're going to they're going to block it and say no h in the Black Sea. I see their their water passages and Turkeykey's going to be a a buffer for Russia and it'll be like dominoes.
+- **[105:38](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=6338s) · 他描述所见**：Where is But I see Venezuela. I see a Venezuela and American oil uh stabling the dollar. Huh? Big money flowing with oil. I told you a new oil well boom. New oil boom with with America, Venezuela. Money, money, money in the Gulf, trying to uh stabilize America to give you a second wind like a like a like a
+- **[107:54](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=6474s) · 他描述所见**：What they're doing is is strategic. They're watching the Europeans fight it out and what they're waiting for world war great war they're using the pawn the social paria of Kim Jong-un and I see they have this plan it's chess with him with X I sing praises to your name,
 
 ### 完整英文 Transcript
 
@@ -1857,7 +1945,14 @@
 <a id="section-12"></a>
 ## 12. 110:00–119:17 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[113:41](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=6821s) · 本段原话**：I don't want to have nothing to do with Satan. I don't want to have nothing to do with false gods, Buddha, Muhammad, or any other false god. I don't I there will be no other gods before me. I make you my Lord and personal Savior.
+- **[116:25](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=6985s) · 他表达判断**：Remember, when you pray and you add your hands to this, your voice to this, when you're praying, many hands make light work. And I believe you say, "Well, I don't have a a big part in this end time movie." You're bigger than more important than you could ever imagine because when you come and pray with us
+- **[117:50](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=7070s) · 他描述所见**：your prayer requests. We're praying over them. We're so excited for every single Tell us if you get a breakthrough. Email us and say, "Listen, I saw change as you prayed for me." And we pray for us as a family and we get our prayer request.
+- **[119:01](https://www.youtube.com/watch?v=sOD1l2-fKgA&t=7141s) · 本段原话**：He said, "Fear not, my little lamb. He is with you. He'll never leave you and he'll never forsake you. Lo, until the end of the earth, he'll be with you always." And remember that. Put a smile on your face and a song in your heart.
 
 ### 完整英文 Transcript
 

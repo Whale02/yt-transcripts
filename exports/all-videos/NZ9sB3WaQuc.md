@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1128；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 50:00–53:49 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=0s) · 本段原话**：Hey, good morning family. Praise the Lord. Easter weekend, my favorite time of the year. Well, praise the Lord. I'm excited. It's time to be grateful. It's time to be thankful for all that Jesus has done for every single one of us. Um it's a time to reflect is is every I always just sit and watch uh uh my kids
+- **[10:22](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=622s) · 本段原话**：your faith that you are. You have no way of believing other than by what you've heard the me say, the preacher say that you are saved by grace through faith. and you believed and you received it and you just latched on to it, but you're convinced no matter if you sin or whatever that you believe
+- **[20:00](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=1200s) · 他表达判断**：away behold I have made all things new that's what the Bible says as you confess it now this is all you have to say Jesus I believe you're the son of God I believe that you died on the cross and you rose again on the third way. I believe that you did all that for
+- **[30:02](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=1802s) · 本段原话**：all. And we thank you, Lord, that today is our day for our deliverance. In every area of our life, every area of our life, Jesus Christ paid the price for me. Thank you, Lord. Thank you, Lord. We worship you, Father. All his glory. Thank you, Lord.
+- **[40:21](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=2421s) · 本段原话**：unpardable sin. I don't believe that. I don't believe that. Jesus paid the price once and for all for all your sin. And I need you to understand that Jesus is not up there with a big old bat ready to beat you up. He's up there waiting with a fatty calf in that robe ready to bless
+- **[50:54](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=3054s) · 本段原话**：They're going to get up. They're going to be more refreshed and more more uh uh mental alert and all of it than they've ever been. None of this old forgetful stuff. No, we got the mind of Christ.
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=0s) · 本段原话**：Hey, good morning family. Praise the Lord. Easter weekend, my favorite time of the year. Well, praise the Lord. I'm excited. It's time to be grateful. It's time to be thankful for all that Jesus has done for every single one of us. Um it's a time to reflect is is every I always just sit and watch uh uh my kids
+- **[01:28](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=88s) · 本段原话**：and I was asking the Lord because one of the people of the church called and said, "Brandon, I've been suffering for with arthritis for years. My hands are crippled up. I can't move my hands. I've been in so much pain. How come you think I've been a preacher?" He told me all the things that he had done, you know,
+- **[01:46](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=106s) · 本段原话**：and and and and how he's still suffering. And so I thought I said, you know, I don't know. I'm overcoming stuff myself. my daughter's overcoming and and I've been standing in faith and and and I told them all my sobab story, you know, after you kind you know all you tell your all sobab stories of
+- **[03:28](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=208s) · 本段原话**：He was he was had his shirt off. His his skin was dirty looking. He looked like he had dirt on him and he was being led to the whipping post. And he they took his hands, ladies and gentlemen, and they put them in shackles and they tied him to a whipping post in front of my face. And I could
 
 ### 完整英文 Transcript
 
@@ -149,7 +167,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:00](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=300s) · 他描述所见**：saw the one man take Well, first I saw them pull his beard. I saw them rip out his beard. They were punching him and punching Jesus in the face. I could see Jesus's head bounce around as they were just beating him in the face and punching him. They were ripping his beard out of his face. They were pushing
+- **[05:59](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=359s) · 本段原话**：fight. and had lost and just totally purple from his body being beaten through his skin that was olive. And you could see the glistening on his back that looked like oil from the sweat from how hot it was outside. It was about like I said 80 85 degrees, but it was he was he already had you could see the
+- **[07:09](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=429s) · 他描述所见**：As I stood there with Jesus on this side in his glorified body, I could see him and he was watching on and we were looking at him uh being crucified, being whipped. And I saw the one man in the black outfit take that cat of Ninetails and he went and he whipped his hand. And
+- **[07:34](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=454s) · 他描述所见**：whenever he did, I saw flesh script off of his body like it was like it was just big chunks. It was not just like a little bitty scratch. Ladies and gentlemen, what I saw before me was horrific. And all that come off of his body and it just scratched him deep to the
 
 ### 完整英文 Transcript
 
@@ -265,7 +290,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:22](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=622s) · 本段原话**：your faith that you are. You have no way of believing other than by what you've heard the me say, the preacher say that you are saved by grace through faith. and you believed and you received it and you just latched on to it, but you're convinced no matter if you sin or whatever that you believe
+- **[12:38](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=758s) · 本段原话**：sickness, disease, poverty, lack, mental anguish from the crown of thorns, the what he went through in the garden of Gethsemane praying at the at the at the the the blood was coming from him from the pressure of of what he was about to do. He sweat great drops of blood out of his skin because of the
+- **[13:09](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=789s) · 他描述所见**：Jesus paid the ultimate price today on this beautiful Easter Sunday. Never take it for granted what Jesus did for you. I saw his pain. I saw his suffering and it was more than what anybody can comprehend.
+- **[13:49](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=829s) · 他描述所见**：When I saw the pain that he went through, just that part of it, not that not even them taking him out and making him carry his cross with all his flesh hanging off his body and all the loss of blood and then drive those huge nails in his hands and his feet, then shoving
 
 ### 完整英文 Transcript
 
@@ -380,7 +412,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:15](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=915s) · 本段原话**：It's about what he paid the price for. Yes, we celebrate it and we're thankful, but it's really t a time of inward reflection to say, "Is my all on the altar? Have I truly made Jesus Christ the Lord and my personal savior? Am I sold out? Do I realize that he's coming back again?
+- **[15:44](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=944s) · 他表达判断**：Am I suffering with something that I don't need to have in my body anymore? Am I dealing with some kind of perversion in my life that that I think that I have to whenever Jesus paid the price? In Galatians 3:13, it says, "Christ has redeemed me from the curse of the law." Jesus paid the price for
+- **[17:58](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=1078s) · 本段原话**：I want to lead you in a prayer. And that we're going to take communion as believers today. And we're going to believe that today's your day. That you don't have to go through sickness and disease anymore. You don't have to go through poverty anymore. And that those stripes, that suffering, everything he did on that cross 2,000 years plus ago
+- **[19:30](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=1170s) · 本段原话**：This is all you got to say. Doesn't have to be religious. Doesn't have to be far out there. It just has to be a simple little prayer that you believe in your heart. The Bible says, "If you confess my your sins, he is faithful and just to forgive you of your sins and cleanse you
 
 ### 完整英文 Transcript
 
@@ -499,7 +538,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:00](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=1200s) · 他表达判断**：away behold I have made all things new that's what the Bible says as you confess it now this is all you have to say Jesus I believe you're the son of God I believe that you died on the cross and you rose again on the third way. I believe that you did all that for
+- **[21:56](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=1316s) · 本段原话**：Go to a good church that teaches the word of God. Get baptized in water. Go to the pastor or whoever's there. Say, "I need to be baptized with water." Get baptized. Volunteer at the church. Get plugged in there. go to some small groups or whatever you can do to get your faith stirred up and to realize who
+- **[22:54](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=1374s) · 本段原话**：So, we're just going to rejoice with you. We want to be we're excited for you. We're going to send you a Bible. We want to if we if there's any kind of prayer request, you tell us in the email or whatever and we're going to agree with you by faith that everything is
+- **[24:23](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=1463s) · 本段原话**：Let's take communion together. It's it's it's our God-given right. This is what we have right here. We can take this body and remember what he did for us on that cross. And we're going to take that right now. And we're going to believe for your deliverance. We're going to believe that this is the mill that heals
 
 ### 完整英文 Transcript
 
@@ -629,7 +675,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:02](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=1502s) · 本段原话**：were wounded for our transgressions. You were bruised for our iniquities. The chastisement of our peace was upon you and with your stripes we are healed. And Jesus we thank you for all you did for us. And we receive right now in the name of Jesus. We receive right now in the name of Jesus our healing, our
+- **[26:27](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=1587s) · 本段原话**：Father. This is the sign of your covenant that I take this over all everything that I ever need. Father, mental anguish, Father, you took those crown of thorns on our your head from for depression, for anxieties, for fears, for PTSDs, for mental anything, strongholds, bipolar, schizophrenia, all of it. Jesus paid the price for
+- **[27:44](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=1664s) · 本段原话**：And the blood makes much of us today. And we plead the blood over our marriages, over our finances, over all of it. The blood covers it all. The blood covers it all. Ladies and gentlemen, his blood is sufficient for us. It is more than enough. His blood is more than enough. Do you understand? And
+- **[29:03](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=1743s) · 他表达判断**：All kinds of cancers are dying right now in Jesus' name. Where I'm not just saying this, they're not just things I just flippidly say. It's stuff I'm coming out. is coming out of my spirit to tell you to latch on by faith and say I believe I receive. It's not a spiritual lottery that somebody calls
 
 ### 完整英文 Transcript
 
@@ -750,7 +803,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:02](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=1802s) · 本段原话**：all. And we thank you, Lord, that today is our day for our deliverance. In every area of our life, every area of our life, Jesus Christ paid the price for me. Thank you, Lord. Thank you, Lord. We worship you, Father. All his glory. Thank you, Lord.
+- **[31:12](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=1872s) · 他表达判断**：I'm praying in the spirit. That's Acts chapter 2. I believe that everybody has the ability to be baptized in the Holy Ghost. And if you want to receive the baptism of the Holy Spirit, Holy Ghost, and fire, today's your day. I believe that he'll touch you right in your living room, right in your car, right in
+- **[32:15](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=1935s) · 本段原话**：you're going to do is you're going to walk on the water. You're going to do it by faith. You're going to do you're going to start speaking it out of your mouth. You start letting your tongue, you let it bubble up out of your spirit and you just and whatever comes out of
+- **[33:40](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=2020s) · 本段原话**：And it bypasses the intellect. It takes the fool. He God will take the foolish things of the world to confound the wise. Watch. Watch what he does. You have to You have to get out of the your intellect. You say, "Well, that sounds foolish." You keep going. Move on them right now, Holy
 
 ### 完整英文 Transcript
 
@@ -847,7 +907,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:01](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=2101s) · 他表达判断**：[Music] I believe. I receive. I believe. I receive the baptism of the Holy Ghost and fire. You got to say it. You got to put your boat into motion. You got to step on that water. Be like Peter right now.
+- **[38:03](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=2283s) · 本段原话**：Read Acts chapter 2 over and over about the Holy Ghost coming on them with a mighty rushing wind. And if you want to know more about it, find the book Why Tongues by Brother Kenneth E. Hagen. It will really help you out in this in uh flowing in the tonesues and understanding why you do it
+- **[38:22](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=2302s) · 他进行祷告**：and why we pray in tonesues and and and and understanding the gift why tonesues by Kennethy Hagen. You can get it on Amazon and uh it'll really bless you. So then sings my soul, my Savior God to thee, how great thou art, how great thou art. Then sings my soul, my Savior God to
+- **[39:16](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=2356s) · 本段原话**：Yeah, you. You, the one sitting there in the chair watching this video, you you you've you've been so far away from him and you think that you can't come back because you've done so much bad. But he's ra waiting there like the prodal son. He's waiting there ready to kill the fatted calf for you. He's waiting
 
 ### 完整英文 Transcript
 
@@ -930,7 +997,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:21](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=2421s) · 本段原话**：unpardable sin. I don't believe that. I don't believe that. Jesus paid the price once and for all for all your sin. And I need you to understand that Jesus is not up there with a big old bat ready to beat you up. He's up there waiting with a fatty calf in that robe ready to bless
+- **[41:35](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=2495s) · 本段原话**：battling with with the depression of this. You've been beaten up because you hear the Christians are being mean to you. You think, "Well, everybody's so mad at me because they're so against abortion." Yeah, we don't stand for abortion. But I'm going to tell you this, that there is no one that can cast
+- **[42:30](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=2550s) · 本段原话**：so many people that want to pick the log out the the the speck out of your eye, but they won't get the the log out of their own. We're not here to condemn you on this channel. We're not here to pick you. Well, I've been homosexual. I've been all this stuff. I God's not going
+- **[43:40](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=2620s) · 他表达判断**：It's all washed in the blood right now. The moment you say, "Father, I messed up. I messed up. I'm hurting so bad. I need to forgive myself. You need to forgive yourself. That that baby is waiting for you whenever you get up there, honey. It it didn't go into nothingness. It's a child. It's it it had a so and I believe
 
 ### 完整英文 Transcript
 
@@ -1052,7 +1126,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:00](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=2700s) · 本段原话**：the devil comes by and whisper, "But you did that. Remember? You remember that? You killed that. You did that all the time. He comes to torment. He c he he he he tempts you and he accuses you up there and he's up there going, "Haha, I caused her to fall." All you say is, "Haha, devil.
+- **[46:52](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=2812s) · 本段原话**：I feel such a sweet presence of the Lord here today. I feel such a sweet presence of the Lord. Holy Spirit, is there anything else? We just worship you. We just praise you. We magnify your name. We glorify your name. We exalt you. We extol you. Your glorious Father. We sing to you a new song.
+- **[47:26](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=2846s) · 他描述所见**：We sing to you a new song. Oh Lord, you're [Music] beautiful. Your face is all I see.
+- **[49:08](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=2948s) · 他表达判断**：the rapture of the church is right at hand soon. And we'll be caught up soon. And then we're coming back for seven year after the seven-year tribulation. And we're going to have a thousand-y year reign with him. It's going to be glorious. I believe that's coming soon. A lot of people you can see all
 
 ### 完整英文 Transcript
 
@@ -1164,7 +1245,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–53:49 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:54](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=3054s) · 本段原话**：They're going to get up. They're going to be more refreshed and more more uh uh mental alert and all of it than they've ever been. None of this old forgetful stuff. No, we got the mind of Christ.
+- **[51:06](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=3066s) · 本段原话**：According to second Timothy 1:7, they've not given God has not given you a spirit of fear, but a power love and a sound mind. Today, you have a sound mind and you're going to live long, finish strong. And that's what we agree with you today about. And we and that's what Diana and I Braden behind the camera,
+- **[52:04](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=3124s) · 本段原话**：that you would call me your friend. Humbled that you would want to be a part of our YouTube channel. It's such a blessing that you would be here every single day and that you would want to watch our videos and want to watch me for even for 30 minutes, 10 minutes.
+- **[53:21](https://www.youtube.com/watch?v=NZ9sB3WaQuc&t=3201s) · 他进行祷告**：you. We're grateful. We're so grateful for every single one of you. God bless you all. And I pray you had an Easter Sunday that was something miraculous in your household today. I pray this video did something for y'all. That it stirred you up. Let you realize what he did for you. Well, we always say put a smile on
 
 ### 完整英文 Transcript
 

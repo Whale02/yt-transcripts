@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 2181；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 90:00–99:59 · 预言、梦境与异象、战争与国际事务](#section-10)
 - [11. 100:00–109:41 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[02:02](https://www.youtube.com/watch?v=DNbjAj9RilM&t=122s) · 他描述所见**：I told everybody, I said they will call this the great betrayal because I saw America standing by. Now, are we in that time frame? No. I do not believe we're in Ezekiel 38 and39 as of yet. I believe it's coming. I believe the hook and the jaw is coming. I believe there's escalations. Now, I I was hearing this
+- **[21:39](https://www.youtube.com/watch?v=DNbjAj9RilM&t=1299s) · 他描述所见**：collateral damage both in Israel and America. We will be shaken to the core in the west both economically and spiritually. God must allow this to awaken the church and bring about national repentance in both America and Israel. Oh prayer warriors, pray for protection of Israel, especially Tel Aviv. I saw an attempted chemical attack
+- **[42:40](https://www.youtube.com/watch?v=DNbjAj9RilM&t=2560s) · 本段原话**：Come and sit on my lap today. I'll be your father." the abandonment of so many people that are fatherless this that that have been so broken by a bad earthly father relationship. You're our heavenly father and you said you would never leave us and you will never forsake us. Blow into the end of the earth you said you'd be
+- **[60:58](https://www.youtube.com/watch?v=DNbjAj9RilM&t=3658s) · 他描述所见**：Hey, I see it. He said a birthing pain upon birthing pain. The contractions will be upon contractions. Whatever that means, you hear me? There's no break in between contraction. I hear the spirit of the Lord say, you will see birthing pains double now. They'll triple and there'll be a contraction upon a contractions with very few breaks in
+- **[80:34](https://www.youtube.com/watch?v=DNbjAj9RilM&t=4834s) · 本段原话**：it's going to happen this stuff's going to happen man that's good stuff that he's saying today folks it's it's correction for me but it's it's beautiful it's we've got the victory we're on the victory side what's coming next. He's saying you should be asking me what's coming next.
+- **[102:28](https://www.youtube.com/watch?v=DNbjAj9RilM&t=6148s) · 他描述所见**：You know, what does the Lord say? I'm on the Lord's side. All this other stuff is stupid. We've got to come up more higher. And I'm telling you, the enemy is distracting people and and they're and and I what I'm seeing I see is just a frustration is saying, "Listen, you're missing it."
+
 <a id="section-01"></a>
 ## 01. 00:00–09:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Israel、China、Oklahoma、Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[02:02](https://www.youtube.com/watch?v=DNbjAj9RilM&t=122s) · 他描述所见**：I told everybody, I said they will call this the great betrayal because I saw America standing by. Now, are we in that time frame? No. I do not believe we're in Ezekiel 38 and39 as of yet. I believe it's coming. I believe the hook and the jaw is coming. I believe there's escalations. Now, I I was hearing this
+- **[04:35](https://www.youtube.com/watch?v=DNbjAj9RilM&t=275s) · 他描述所见**：is not even Israel, but about America and what has crossed the border over the last four years past going on four and a half years before Trump put a stop to it. What came across our border? And many people say, "Well, Brandon, hopefully we've got these guys. We're they're hiding out." And I saw funneling
+- **[06:05](https://www.youtube.com/watch?v=DNbjAj9RilM&t=365s) · 他描述所见**：He said, watch for that. Remember when I told you all I heard China say we must create a Pearl Harbor event and I saw them talking to North Korea and North Korea was was was a social pariah that's why they they they asked him to do it cuz Kim Jong-un is not respected
+- **[09:19](https://www.youtube.com/watch?v=DNbjAj9RilM&t=559s) · 他描述所见**：And I saw trucks full of this biological weapon. And the Lord said, "You must pray in behalf of this because they will try to use biological weapons in the days ahead on Israel." And it was like a mustard looking yellow looking gas when they were spraying it on the people. They tried to do like crop dusters and stuff.
 
 ### 完整英文 Transcript
 
@@ -275,7 +293,14 @@
 <a id="section-02"></a>
 ## 02. 10:00–19:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：Cuba、China、Iran、Florida。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:21](https://www.youtube.com/watch?v=DNbjAj9RilM&t=621s) · 他描述所见**：And you know it it's amazing because the Lord said Damascus and Assyria will become a ruinous heap in the word. Well, I believe we're about to see that. I believe we're we could be days, weeks, whatever away from uh seeing Damascus become what the Bible said it would become. Then I saw Turkey
+- **[11:27](https://www.youtube.com/watch?v=DNbjAj9RilM&t=687s) · 他描述所见**：ahead and and America I said where is America at to defend Taiwan in this? But they were preoccupied with something else and I saw gray upon the soil. I saw gray. It looked like ash. It looked like something bad from Louisiana to Canada all upon the eastern seabboard.
+- **[13:36](https://www.youtube.com/watch?v=DNbjAj9RilM&t=816s) · 他描述所见**：Then I saw that the uh that the feet, the claws were dark purple as it come up out of the water with a purple purple dark purple tail. And I think that's very interesting. I've never seen a purple dragon because usually they're red and stuff in in in China. But um so okay, so after I
+- **[15:17](https://www.youtube.com/watch?v=DNbjAj9RilM&t=917s) · 他描述所见**：Everything you know will change within a 24 hours. Life as you know it and how you live right now, Brandon, will change within a 24 hours. A great acceleration of things is going to about to take place. A wealth of the sinners laid up for the righteous. We're going to see that. I saw uh oil in the Mediterranean.
 
 ### 完整英文 Transcript
 
@@ -535,7 +560,14 @@
 <a id="section-03"></a>
 ## 03. 20:00–29:59 · 战争与国际事务、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：战争与国际事务、祷告、敬拜与现场互动、教会、复兴与信仰。 提到的地点：Israel、Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[21:39](https://www.youtube.com/watch?v=DNbjAj9RilM&t=1299s) · 他描述所见**：collateral damage both in Israel and America. We will be shaken to the core in the west both economically and spiritually. God must allow this to awaken the church and bring about national repentance in both America and Israel. Oh prayer warriors, pray for protection of Israel, especially Tel Aviv. I saw an attempted chemical attack
+- **[22:38](https://www.youtube.com/watch?v=DNbjAj9RilM&t=1358s) · 他描述所见**：very soon. Okay. Well, here's part two of this. Okay. Okay. This was I believe it's 2019. Mhm. Couple years later from that one. He said, "I had a night vision dream last night. I was observing a meeting of military leaders with the Supreme Leader of the Iran regime. They were seated at a very large
+- **[26:09](https://www.youtube.com/watch?v=DNbjAj9RilM&t=1569s) · 本段原话**：know Israel struck them but we see them doing what he's talking about. And I knew in my spirit the Lord showed me there's much more. He even talked about the biological weapons, folks, that they had them deep within this mountain. We're here's another part of it we're going to read. Okay, our battery died on our laptop. We had to
+- **[28:43](https://www.youtube.com/watch?v=DNbjAj9RilM&t=1723s) · 他描述所见**：You know, it was a tragic accident that that that person they I saw a child pass away and the mother was uh they caused a divorce in that family. You know, the Lord shows that because he cares. I got an email today about somebody saying that thank you for praying for them really because it was she believed it
 
 ### 完整英文 Transcript
 
@@ -764,7 +796,14 @@
 <a id="section-04"></a>
 ## 04. 30:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:01](https://www.youtube.com/watch?v=DNbjAj9RilM&t=1801s) · 他进行祷告**：greatest weapons to get you to get down on yourself, get down on life. And I wish I could change things. And we can't change our past. It's done. But it but but what the devil meant for bad, God's going to turn around for good. And we always need to pray that we're in the
+- **[31:49](https://www.youtube.com/watch?v=DNbjAj9RilM&t=1909s) · 他表达判断**：Never in the history of Oklahoma and in Dallas Fort Worth, I believe, have we all been without drought in this time of year. No, nobody's in drought around here. We've had such a surplus of rain that the that that the people are complaining on the news. Yeah. And I'm like, "Shut up. It's a blessing. Just
+- **[33:52](https://www.youtube.com/watch?v=DNbjAj9RilM&t=2032s) · 他描述所见**：somebody or somebody emailed it to me or I saw it online. Yeah, I saw that. You show me. And then we love to listen to his music. It's beginning to rain. Rain.
+- **[37:20](https://www.youtube.com/watch?v=DNbjAj9RilM&t=2240s) · 本段原话**：She tries cuz the anointing is on the also I all these people always trying to get a double award or get some kind of multi-million dollar platinum contract there there's usually it's because it's all about money to them there ain't no glory on it. Sometimes there is but but I'm telling you 99% of the chance it
 
 ### 完整英文 Transcript
 
@@ -971,7 +1010,14 @@
 <a id="section-05"></a>
 ## 05. 40:00–49:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:40](https://www.youtube.com/watch?v=DNbjAj9RilM&t=2560s) · 本段原话**：Come and sit on my lap today. I'll be your father." the abandonment of so many people that are fatherless this that that have been so broken by a bad earthly father relationship. You're our heavenly father and you said you would never leave us and you will never forsake us. Blow into the end of the earth you said you'd be
+- **[45:20](https://www.youtube.com/watch?v=DNbjAj9RilM&t=2720s) · 本段原话**：as we lose sight of oursel today and we tug at that that that hymn of your garment and say Jesus we love you Jesus we give you all the glory we give you all the honor and we give you all the praise and that we're not paring what other people say but it
+- **[48:14](https://www.youtube.com/watch?v=DNbjAj9RilM&t=2894s) · 本段原话**：We thank you, Lord, that it does not bear fruit on any one of us. No matter word, curses, witchcraft, whatever it may be, it falls to our feet and does not bear fruit on any one of us because we are underneath that shelter of the most high. We're underneath the shadow of the almighty and we are seated with
+- **[49:20](https://www.youtube.com/watch?v=DNbjAj9RilM&t=2960s) · 本段原话**：I thank you, Father, that you see every flaw, everything about me, and there's nothing that I can hide from you. You examine the depths of who I am from the past, my present, and my future.
 
 ### 完整英文 Transcript
 
@@ -1167,7 +1213,14 @@
 <a id="section-06"></a>
 ## 06. 50:00–59:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:46](https://www.youtube.com/watch?v=DNbjAj9RilM&t=3046s) · 本段原话**：Nothing else matters. We give you all the glory today, Father. We plead the blood over our family. From the top of our head, from the top of our heads to the soles of our feet, my wife and I are covered. My children are covered. I thank you, Father. No weapon formed against us will prosper. Every
+- **[54:59](https://www.youtube.com/watch?v=DNbjAj9RilM&t=3299s) · 他描述所见**：I'm seeing it right now. And whenever he's talking, I see what he's saying.
+- **[56:08](https://www.youtube.com/watch?v=DNbjAj9RilM&t=3368s) · 他描述所见**：Covenant. I see it almost as almost like like every single day they will try to bring fear something new.
+- **[58:32](https://www.youtube.com/watch?v=DNbjAj9RilM&t=3512s) · 他描述所见**：It's an all hands on deck. I see cars. I see houses. I see. I see a red cars. I see red car. I see houses.
 
 ### 完整英文 Transcript
 
@@ -1321,7 +1374,14 @@
 <a id="section-07"></a>
 ## 07. 60:00–69:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Canada、Ukraine、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[60:58](https://www.youtube.com/watch?v=DNbjAj9RilM&t=3658s) · 他描述所见**：Hey, I see it. He said a birthing pain upon birthing pain. The contractions will be upon contractions. Whatever that means, you hear me? There's no break in between contraction. I hear the spirit of the Lord say, you will see birthing pains double now. They'll triple and there'll be a contraction upon a contractions with very few breaks in
+- **[63:43](https://www.youtube.com/watch?v=DNbjAj9RilM&t=3823s) · 他描述所见**：Praise God. That's what he just said to me. I I saw I saw I saw the nurse. I saw a spiritual room, like a hospital room. And and the thing the doctor come in and say, "You're the the lady. I I want to go back. I don't like I want I I need help
+- **[65:52](https://www.youtube.com/watch?v=DNbjAj9RilM&t=3952s) · 他描述所见**：They will surround them on our side. It will not just be like this. It will escalate. I see a troop invasions. I see actual men. I see tanks. I see tanks. I see men. That's Ezekiel 38:39. I see them on all. I saw I see tanks. I see I see uh foot soldiers.
+- **[68:43](https://www.youtube.com/watch?v=DNbjAj9RilM&t=4123s) · 他描述所见**：He looks like a mole and he's running around on his belly. And I see him his his belly is actually rubbing on the ground, whatever that means. I see it in the vision. And he's and he and as this thing is going on with Israel, it's a distraction. And Donald Trump's trying to it's focused over here and this is
 
 ### 完整英文 Transcript
 
@@ -1512,7 +1572,14 @@
 <a id="section-08"></a>
 ## 08. 70:00–79:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 提到的地点：Cuba、Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[71:35](https://www.youtube.com/watch?v=DNbjAj9RilM&t=4295s) · 本段原话**：won't talk about that. The wealth of the sinners laid up for the righteous arising in the Middle East is still to come. Watch these places. Watch these places there. It's a all in play.
+- **[73:39](https://www.youtube.com/watch?v=DNbjAj9RilM&t=4419s) · 他描述所见**：What you're seeing is surface. What the vision there's deeper things that are going on than this. This is surface. He said when I just prayed that out right there, he said this is surface. You're you're you're looking too much in the natural. There's some there's deeper than this. It's deeper than this.
+- **[76:47](https://www.youtube.com/watch?v=DNbjAj9RilM&t=4607s) · 他进行祷告**：chickens. You got to pray up like the eagles cuz the eagles see it coming before what's in store. For the for for for the birthing pains are going to be upon each other now. And you must come up higher.
+- **[79:30](https://www.youtube.com/watch?v=DNbjAj9RilM&t=4770s) · 他讨论新闻或报道**：That's why he corrected me because I'm like, "Hey, the rat in the news, the rat the White House to tell you all the Asian man in China guys over here." And he's like, "This is old news. Once it hits the media, it's you're behind.
 
 ### 完整英文 Transcript
 
@@ -1695,7 +1762,14 @@
 <a id="section-09"></a>
 ## 09. 80:00–89:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[80:34](https://www.youtube.com/watch?v=DNbjAj9RilM&t=4834s) · 本段原话**：it's going to happen this stuff's going to happen man that's good stuff that he's saying today folks it's it's correction for me but it's it's beautiful it's we've got the victory we're on the victory side what's coming next. He's saying you should be asking me what's coming next.
+- **[84:28](https://www.youtube.com/watch?v=DNbjAj9RilM&t=5068s) · 他转述所听到的话**：I I heard it right then. He said, "I told you a new industrial revolution is coming with AI and this will involve crypto.
+- **[87:36](https://www.youtube.com/watch?v=DNbjAj9RilM&t=5256s) · 他描述所见**：and this over here. And I I see real estate. I see real estate. I see the car markets in trouble. I see a bailings of things. I see money flowing. This is going to be a flow of money, a ball of money, turning of money, a major transfer of wealth is happening as this
+- **[88:42](https://www.youtube.com/watch?v=DNbjAj9RilM&t=5322s) · 他讨论新闻或报道**：fast. Then we'll see volcanoes going off at the same time and people are going to go, "Oh my god." Seriously, volcanoes, war at the same time, earthquakes, and you're going to be going like the news is going to be the most entertaining you've ever seen in your life. But if you're praying from a place
 
 ### 完整英文 Transcript
 
@@ -1888,7 +1962,14 @@
 <a id="section-10"></a>
 ## 10. 90:00–99:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：China、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[90:38](https://www.youtube.com/watch?v=DNbjAj9RilM&t=5438s) · 他描述所见**：I see major sporting events. I see lots of finances, Diana, with this AI stuff. I'm talking mega mega money.
+- **[92:09](https://www.youtube.com/watch?v=DNbjAj9RilM&t=5529s) · 他进行祷告**：We come against, Father, the the trains, the the the box trucks, the the the uh the vans full of fertilizer. We come against drone attacks. We come against uh w lone wolf uh shooters and snipers and and and all kinds of shooting and bombs and whatever it may be. We pray a hedge of blood over this beautiful
+- **[96:20](https://www.youtube.com/watch?v=DNbjAj9RilM&t=5780s) · 他描述所见**：planes, for getting things done. I see jets. I see jets, brand new jets. I'm talking nice jets traveling and preaching overflow good. I'm talking nice aircrafts. Nice aircraft. Ministries were believing for them. Big decillionaires.
+- **[97:58](https://www.youtube.com/watch?v=DNbjAj9RilM&t=5878s) · 他描述所见**：if you're listening to him. All right. So, I'm talking about the vision to my family and we're coming back. I had to discuss some things with them. So, you're you're hearing this part. Emanuel Mcronone was was had a a a a white looking nose with a black tip on his nose and the rest of his head was white
 
 ### 完整英文 Transcript
 
@@ -2075,7 +2156,14 @@
 <a id="section-11"></a>
 ## 11. 100:00–109:41 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[102:28](https://www.youtube.com/watch?v=DNbjAj9RilM&t=6148s) · 他描述所见**：You know, what does the Lord say? I'm on the Lord's side. All this other stuff is stupid. We've got to come up more higher. And I'm telling you, the enemy is distracting people and and they're and and I what I'm seeing I see is just a frustration is saying, "Listen, you're missing it."
+- **[104:21](https://www.youtube.com/watch?v=DNbjAj9RilM&t=6261s) · 本段原话**：Wow. It's all generations of a thousands of years have led up to this during the schmita cycle. It's coming to and then the roasha of the of the uh when he told me he said the Adam's lease is coming up. This time last year he started talking about Adam's lease coming up. He said Adam's
+- **[106:54](https://www.youtube.com/watch?v=DNbjAj9RilM&t=6414s) · 本段原话**：Labor pain pause. He said they're on top of each other now. And he said it's going to intensify from from do you put that little lady in there from Roash Rosha. who it is from from that time to the other time it's going to keep increasing from there you go from that time
+- **[108:50](https://www.youtube.com/watch?v=DNbjAj9RilM&t=6530s) · 他讨论新闻或报道**：Well, God bless you all. Uh we'll be back again soon. Hopefully tomorrow. I don't know. We'll see what happens in the next 24 hours with all this. But like I said, we don't chase the news cuz it's behind. It's yesterday. It's fixing to be trash. Once it hits the news, it's over. It's like wait, you're chasing the
 
 ### 完整英文 Transcript
 

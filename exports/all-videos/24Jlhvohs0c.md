@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 442；**章节数**: 7；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -17,10 +17,28 @@
 - [06. 20:00–23:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-06)
 - [07. 24:00–26:16 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-07)
 
+## 全片概述与 Key Points
+
+全片共 7 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:12](https://www.youtube.com/watch?v=24Jlhvohs0c&t=12s) · 他描述所见**：We call that turnaround on Friday. I see it. It's a It's a small little window, but we'll take it. It's a small little window by few votes. Do you hear me?
+- **[04:01](https://www.youtube.com/watch?v=24Jlhvohs0c&t=241s) · 他描述所见**：I see fires. [clears throat] We pray over the few. WE PRAY OVER THE FEW.
+- **[09:56](https://www.youtube.com/watch?v=24Jlhvohs0c&t=596s) · 他描述所见**：and immediately. IMMEDIATELY TURN. IMMEDIATELY TURN AND IMMEDIATELY TURN. [snorts] It's it's it is I see even concerning Ukraine.
+- **[17:15](https://www.youtube.com/watch?v=24Jlhvohs0c&t=1035s) · 他描述所见**：[snorts] And as I see it, that's all I can see. The light in it.
+- **[20:14](https://www.youtube.com/watch?v=24Jlhvohs0c&t=1214s) · 他描述所见**：I was in it very very strong. I see this and then it it went away and he didn't want me to see anything else. [snorts] I'm sure he'll let me lay. He don't want me to talk about it publicly.
+- **[24:02](https://www.youtube.com/watch?v=24Jlhvohs0c&t=1442s) · 本段原话**：man's worthy a woman, a man, a woman is worthy of a hire. And and and if they work for it, they we need to pay them as a nation. Huh? That's what the bottom line is. Paying people what they've earned and they work for.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、美国选举与投票
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、美国选举与投票、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、美国选举与投票展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:12](https://www.youtube.com/watch?v=24Jlhvohs0c&t=12s) · 他描述所见**：We call that turnaround on Friday. I see it. It's a It's a small little window, but we'll take it. It's a small little window by few votes. Do you hear me?
+- **[00:42](https://www.youtube.com/watch?v=24Jlhvohs0c&t=42s) · 他描述所见**：By a fraction of a hair. I see fear in their heart. You hear me? I'm seeing it prophetically.
+- **[01:30](https://www.youtube.com/watch?v=24Jlhvohs0c&t=90s) · 他描述所见**：YOU PRAY OVER THOSE. JUST RIGHT THERE." HE SAID, "YOU SEE THAT GROUP RIGHT THERE? I SEE THEM. They're just It's a huddle. It's just a few." Koma. How many? One, two, three. I'm counting their faces. Four, five, six, seven.
+- **[02:23](https://www.youtube.com/watch?v=24Jlhvohs0c&t=143s) · 他描述所见**：conviction ON THOSE HEARTS. I SEE IT. [screaming] ROLL. THEY'RE not I see their minds. It's on their minds. It's on their minds. I see on the mindso.
 
 ### 完整英文 Transcript
 
@@ -86,7 +104,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:01](https://www.youtube.com/watch?v=24Jlhvohs0c&t=241s) · 他描述所见**：I see fires. [clears throat] We pray over the few. WE PRAY OVER THE FEW.
+- **[05:27](https://www.youtube.com/watch?v=24Jlhvohs0c&t=327s) · 他描述所见**：ROCCO. I see it on THE if we can just get them to flip right there, it will be over. I see these these people's heart. They're not too
+- **[06:25](https://www.youtube.com/watch?v=24Jlhvohs0c&t=385s) · 本段原话**：They're so close. I'm talking it's it's by a hair like this. It just we just got to push it over by the spirit right now. We call it in as they're sleeping. AS THEY'RE WORKING ON THEIR HEARTS AS THEY'RE SLEEPING. It's the middle of THE NIGHT.
+- **[07:31](https://www.youtube.com/watch?v=24Jlhvohs0c&t=451s) · 本段原话**：THEY'LL NOT HAVE THIS THIS ALL THIS CHAOS. WE CALL PEACE OVER THIS NATION IN THE NAME OF JESUS. WE'LL HAVE PEACE OVER THIS NATION, OVER EVERY STATE, OVER EVERY OVER ARKANSAS, OVER OKLAHOMA, OVER TEXAS, OVER ILLINOIS, OVER CALIFORNIA. WE'LL NOT HAVE IT. WE'LL NOT HAVE IT IN THE NAME OF JESUS.
 
 ### 完整英文 Transcript
 
@@ -153,7 +178,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务。 提到的地点：Ukraine。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[09:56](https://www.youtube.com/watch?v=24Jlhvohs0c&t=596s) · 他描述所见**：and immediately. IMMEDIATELY TURN. IMMEDIATELY TURN AND IMMEDIATELY TURN. [snorts] It's it's it is I see even concerning Ukraine.
+- **[10:28](https://www.youtube.com/watch?v=24Jlhvohs0c&t=628s) · 他描述所见**：This money is to influence into Ukraine. I see. Should I say that out loud? The arrow goes from Washington DC into Ukraine to KV for special interest. There's there's they're they're trying to protect this,
+- **[11:19](https://www.youtube.com/watch?v=24Jlhvohs0c&t=679s) · 本段原话**：And you draw your own conclusion. It's 15 15 billion. Is that 15 million? It's a big number.
+- **[11:43](https://www.youtube.com/watch?v=24Jlhvohs0c&t=703s) · 他描述所见**：Darkness. Darkness in the corners. I see labs. I see medical like labs. I see science projects. It's like they look like like bolabs.
 
 ### 完整英文 Transcript
 
@@ -205,7 +237,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:01](https://www.youtube.com/watch?v=24Jlhvohs0c&t=721s) · 他描述所见**：They have white outfits on and I see white counters. Same thing with white fushi. Why are they raising so hard? I see it's touching special interest.
+- **[12:47](https://www.youtube.com/watch?v=24Jlhvohs0c&t=767s) · 本段原话**：America looks so different. 2026. 2026. There's so much expectation for the beginning of the new race.
+- **[13:01](https://www.youtube.com/watch?v=24Jlhvohs0c&t=781s) · 本段原话**：There's, you know, you know, when you have that expectation for 2026, every year the op you're optimistic. What does this year hold? You know, you can feel that that charge in the atmosphere. I feel it. But it's everybody wants blessing. They want to the New Year's resolution. They're expecting. I I'm in the time square. I can see it. It's so
+- **[14:08](https://www.youtube.com/watch?v=24Jlhvohs0c&t=848s) · 他描述所见**：Oh, I just saw a flash. I saw a flash. I can see the building.
 
 ### 完整英文 Transcript
 
@@ -281,7 +320,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务。 提到的地点：Ukraine。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[17:15](https://www.youtube.com/watch?v=24Jlhvohs0c&t=1035s) · 他描述所见**：[snorts] And as I see it, that's all I can see. The light in it.
+- **[18:16](https://www.youtube.com/watch?v=24Jlhvohs0c&t=1096s) · 他描述所见**：It disappeared. The vision went away. But I could see it. And it was just a flash.
+- **[18:57](https://www.youtube.com/watch?v=24Jlhvohs0c&t=1137s) · 他描述所见**：I told you exactly what I see right there. I don't know what that is. I don't know what year. I don't know. I don't know. I know it's a dur I know them two them them two men are on CNN on on New Year's Eve and I hear it and I could [snorts] hear the music but I knew
+- **[19:21](https://www.youtube.com/watch?v=24Jlhvohs0c&t=1161s) · 他描述所见**：Huh? 2026. People are excited about the year, excited about the change, but there's fear in the atmosphere. There's there's sadness for some reason. I see that man's face that is uh running for the mayor.
 
 ### 完整英文 Transcript
 
@@ -371,7 +417,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:14](https://www.youtube.com/watch?v=24Jlhvohs0c&t=1214s) · 他描述所见**：I was in it very very strong. I see this and then it it went away and he didn't want me to see anything else. [snorts] I'm sure he'll let me lay. He don't want me to talk about it publicly.
+- **[20:41](https://www.youtube.com/watch?v=24Jlhvohs0c&t=1241s) · 他进行祷告**：Aren't you excited? It's never a dull moment. The Lord always keeps us on track of things of these people and their plots and their plans and and their pursuits. But I pray over our government to stay open this week and we'll continue to pray over this as we um are in this together. And
+- **[22:18](https://www.youtube.com/watch?v=24Jlhvohs0c&t=1338s) · 本段原话**：you you bite you take a bite of you eat a whole elephant one bite at a time it's really big all these things don't get overwhelmed you take the care out of your prayer it's because I'm get it makes you get in the flesh and that's why I can't get there what I'm seeing is
+- **[23:33](https://www.youtube.com/watch?v=24Jlhvohs0c&t=1413s) · 本段原话**：line. It's on a thin line, but we need the we have the victory. A budget that is sensible, a budget that is that is that is not crazy. [snorts] And to pay our people what they deserve, they they've earned all that other stuff is it's it it it's honorable. A man's worthy of his hire. A
 
 ### 完整英文 Transcript
 
@@ -467,7 +520,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–26:16 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:02](https://www.youtube.com/watch?v=24Jlhvohs0c&t=1442s) · 本段原话**：man's worthy a woman, a man, a woman is worthy of a hire. And and and if they work for it, they we need to pay them as a nation. Huh? That's what the bottom line is. Paying people what they've earned and they work for.
+- **[25:08](https://www.youtube.com/watch?v=24Jlhvohs0c&t=1508s) · 他描述所见**：WORK WITH. AND I SAW this group of people. They're leaning toward vote the right way. And he said they're HAVING GREAT INFLUENCE AND PRESSURE from these others. You do this and we're going to make sure you don't get reelected.
+- **[25:24](https://www.youtube.com/watch?v=24Jlhvohs0c&t=1524s) · 本段原话**：blackmail, pressure, outside pressure about money funding their campaigns. They should flip parties anyway. Say, "We're done with y'all. We're done." But they stand for what they stand for. But they know what's right. And paying people their wages is right. They have a conscience partially.
+- **[26:11](https://www.youtube.com/watch?v=24Jlhvohs0c&t=1571s) · 他描述所见**：I'm trying to count every one of them. There was one behind. But I said praying over these people to change. I saw men and women
 
 ### 完整英文 Transcript
 

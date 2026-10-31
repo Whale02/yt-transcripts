@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 660；**章节数**: 8；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -18,10 +18,28 @@
 - [07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-07)
 - [08. 28:00–30:47 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-08)
 
+## 全片概述与 Key Points
+
+全片共 8 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:24](https://www.youtube.com/watch?v=s4UEgURH21o&t=24s) · 本段原话**：Nobody knows how to flow with the gifts and and and do what we are commissioned to do to be able to bring in the fire and get people free. A lot of people are so bound because of lack of knowledge.
+- **[04:30](https://www.youtube.com/watch?v=s4UEgURH21o&t=270s) · 他表达判断**：beautiful vase. And that's the way we are in the spirit realm, y'all. If we're not ready, the Lord just puts us back on the potter's wheel. And this is the way it is a lot of times. I believe when you see people in the Bible, Moses took 80 years on the potter's will
+- **[12:04](https://www.youtube.com/watch?v=s4UEgURH21o&t=724s) · 本段原话**：pressed through. He pressed through the refiner's fire. He pressed through the racial tension and all the stupidness of that. press through it and and and refuse to let color of skin, refuse to let all the pressure from all of the drama from one eye or anything stop him in allowing him to be used by God.
+- **[16:29](https://www.youtube.com/watch?v=s4UEgURH21o&t=989s) · 本段原话**：You've showed me this great revival even today. You told me about the tents. You told me about the people. You told me about the manifestations and the glory of God coming in a wave like we've never seen before. But I thank you, Father, for the refiner's fire. Make me better.
+- **[24:00](https://www.youtube.com/watch?v=s4UEgURH21o&t=1440s) · 本段原话**：Spirit's going to dwell in you. I sing sing songs to him. Holy Spirit, you are welcome in this place.
+- **[28:22](https://www.youtube.com/watch?v=s4UEgURH21o&t=1702s) · 本段原话**：Holy Spirit you are welcome [Music] in this place and father of mercy and grace thou are welcome in this place.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:24](https://www.youtube.com/watch?v=s4UEgURH21o&t=24s) · 本段原话**：Nobody knows how to flow with the gifts and and and do what we are commissioned to do to be able to bring in the fire and get people free. A lot of people are so bound because of lack of knowledge.
+- **[00:38](https://www.youtube.com/watch?v=s4UEgURH21o&t=38s) · 本段原话**：It says in the Bible, "My people perish for a lack of knowledge." And I feel like God has commissioned me to and put me on this platform to tell you what the Holy Spirit has told me and all the knowledge that I've received over the years from some big ministries. Just dumping into me,
+- **[01:21](https://www.youtube.com/watch?v=s4UEgURH21o&t=81s) · 他表达判断**：beautiful Ferrari because I love Ferraris and I think they're really amazing car. And so he gave me this amazing Ferrari. This is the way the Lord showed me in the in the spirit whenever I pray over it.
+- **[03:11](https://www.youtube.com/watch?v=s4UEgURH21o&t=191s) · 本段原话**：Can you handle this? Can your character handle this this gift? If it can't, he doesn't say, "I'm done with you and I'm not going to use you anymore." Because the gifts and the callings of God are without repentance. They're on you regardless. But he wants to see, can your your character handle that pressure
 
 ### 完整英文 Transcript
 
@@ -127,7 +145,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:30](https://www.youtube.com/watch?v=s4UEgURH21o&t=270s) · 他表达判断**：beautiful vase. And that's the way we are in the spirit realm, y'all. If we're not ready, the Lord just puts us back on the potter's wheel. And this is the way it is a lot of times. I believe when you see people in the Bible, Moses took 80 years on the potter's will
+- **[05:48](https://www.youtube.com/watch?v=s4UEgURH21o&t=348s) · 本段原话**：As long as you stay on that potter's wheel, um, as long as you stay on that potter's wheel, God's going to keep using you and until the day he calls you on, there's nothing too big for God to work out in your flesh because the steps of the righteous are order of the Lord. And
+- **[06:12](https://www.youtube.com/watch?v=s4UEgURH21o&t=372s) · 本段原话**：that's what I'm trying to tell you is it took Paul, it took some of the men and the the disciples three years walking with Jesus and they started walking fully in their their their giftings and their call. But if you start saying, "I have this treasure in an earthn vessel that the excellency of the power may be
+- **[07:43](https://www.youtube.com/watch?v=s4UEgURH21o&t=463s) · 本段原话**：to wherever to go to Bible school." No. A person who's selling insurance will relocate and go and and be a part of of a new state, a new town. People are moving from California to go live by Elon Musk in his new factory. They're
 
 ### 完整英文 Transcript
 
@@ -225,7 +250,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:07](https://www.youtube.com/watch?v=s4UEgURH21o&t=487s) · 本段原话**：It's dying to self. It's not my will, but yours be done. When you get in that that dying to self, not my will, but yours be done every single day. That's what does it. The Apostle Paul says, "I die daily to myself that Christ may live in me." Christ needs to live in you. You
+- **[09:17](https://www.youtube.com/watch?v=s4UEgURH21o&t=557s) · 本段原话**：Jesus had to go through refiners potter's pro process anointed with to the fool had had the holy spirit without measure went through a process of 30 years before even he said before Mary it's not my time he even went through a process whenever he was turning the water into wine his first miracle look at
+- **[09:41](https://www.youtube.com/watch?v=s4UEgURH21o&t=581s) · 本段原话**：everything he went through we don't have an account in the gospels really of everything that he went through for those 30 years. But you know, it was something that he was in me memorizing uh the the the the the Bible verses, the the Torah, things like that, getting the word down inside of him. You there it was a
+- **[11:07](https://www.youtube.com/watch?v=s4UEgURH21o&t=667s) · 本段原话**：He He keeps me in a place of desperation on him, stripping back all the flesh. Over the years, I've learned so much so to to lean on him to seek him and I'll find him instead of trying to pero perform because of something that I feel that I have the ability to drive that Ferrari and
 
 ### 完整英文 Transcript
 
@@ -323,7 +355,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:04](https://www.youtube.com/watch?v=s4UEgURH21o&t=724s) · 本段原话**：pressed through. He pressed through the refiner's fire. He pressed through the racial tension and all the stupidness of that. press through it and and and refuse to let color of skin, refuse to let all the pressure from all of the drama from one eye or anything stop him in allowing him to be used by God.
+- **[13:27](https://www.youtube.com/watch?v=s4UEgURH21o&t=807s) · 本段原话**：If you touched him, the glory would flow out of him. But that came with the price is what I'm trying to tell you. It was a dying to self. Just like I'm trying to tell you what happens to me. It's a dying to self. Having a child with special needs going and the Lord tells you go and I
+- **[13:54](https://www.youtube.com/watch?v=s4UEgURH21o&t=834s) · 他进行祷告**：and being obedient, God uses me and he touches people and they're healed. It's not me. If I I could tell you, if I could turn on that switch for myself, y'all, I would I would be able to to to pray for my little girl and man instant instantaneously manifest. I would go into these places into hospitals and
+- **[14:29](https://www.youtube.com/watch?v=s4UEgURH21o&t=869s) · 本段原话**：in those meetings. And he would do that every single service. Sometimes it was five minutes, they say, and sometimes it was several hours, but he would just sit in there and they would sing songs. As crazy as that may sound, it's it's a humbling process. It's the Lord's showing you this is not your Ferrari. You're just
 
 ### 完整英文 Transcript
 
@@ -423,7 +462,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:29](https://www.youtube.com/watch?v=s4UEgURH21o&t=989s) · 本段原话**：You've showed me this great revival even today. You told me about the tents. You told me about the people. You told me about the manifestations and the glory of God coming in a wave like we've never seen before. But I thank you, Father, for the refiner's fire. Make me better.
+- **[16:49](https://www.youtube.com/watch?v=s4UEgURH21o&t=1009s) · 本段原话**：Make me pure. By the fire that does refine where the breath of God is sweeter, there his brightest glory shines. Lift us high up to the mountain into fellowship with you. And in that light, I'll see the fountain of his blood that cleanses you. Father, I thank you for the refining fire today.
+- **[18:13](https://www.youtube.com/watch?v=s4UEgURH21o&t=1093s) · 本段原话**：I call healing over their bodies right now in the name of Jesus. from the top of their head to the soles of their feet. We decree and declare the healing power of God to flow on the inside of them right now. We take authority over sickness and disease.
+- **[18:31](https://www.youtube.com/watch?v=s4UEgURH21o&t=1111s) · 本段原话**：We take authority over over diabetes. We take authority over heart disease. We take authority over liver cancers and and and and fatty livers. We take authority over brain tumors and over over all kinds of uh brain disorders, Alzheimer's, dementia. We plead the blood of Jesus over their sick over the sickness right now. We take authority
 
 ### 完整英文 Transcript
 
@@ -516,7 +562,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:46](https://www.youtube.com/watch?v=s4UEgURH21o&t=1246s) · 本段原话**：create in us a clean heart, Lord. Father, I thank you, Lord, for the end time outpouring, for creative miracles, for blinded eyes will see, deaf ears will hear, dead will rise again.
+- **[22:35](https://www.youtube.com/watch?v=s4UEgURH21o&t=1355s) · 本段原话**：Father, I give you glory and honor and praise for everybody on this this this um that you're going to use that there's going to be a major outpouring of your spirit on these people. That's what I'm trying to say.
+- **[22:59](https://www.youtube.com/watch?v=s4UEgURH21o&t=1379s) · 本段原话**：It's about the It's about the last harvest of souls that you tell me you desire so so much that you said that I wish that all man would come into me and and that John 3:16 for God so loved the world that he gave his one and only begotten son that who should ever believe in him
+- **[23:55](https://www.youtube.com/watch?v=s4UEgURH21o&t=1435s) · 本段原话**：He's going to come and he's going to set the captives free through you. And that's the great Holy Spirit. The Holy
 
 ### 完整英文 Transcript
 
@@ -609,7 +662,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:00](https://www.youtube.com/watch?v=s4UEgURH21o&t=1440s) · 本段原话**：Spirit's going to dwell in you. I sing sing songs to him. Holy Spirit, you are welcome in this place.
+- **[25:45](https://www.youtube.com/watch?v=s4UEgURH21o&t=1545s) · 本段原话**：Fill all thy hungry that are empty within. Restore us, oh father, revive us again.
+- **[27:10](https://www.youtube.com/watch?v=s4UEgURH21o&t=1630s) · 本段原话**：Holy Spirit, you are welcome in this place. Holy Spirit, you are welcome in this place. Lord, in thy presence there's healing divine.
+- **[27:35](https://www.youtube.com/watch?v=s4UEgURH21o&t=1655s) · 本段原话**：No other power can save Lord but thine [Music] and fill all thy hungry and enter divine.
 
 ### 完整英文 Transcript
 
@@ -692,7 +752,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–30:47 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:22](https://www.youtube.com/watch?v=s4UEgURH21o&t=1702s) · 本段原话**：Holy Spirit you are welcome [Music] in this place and father of mercy and grace thou are welcome in this place.
+- **[29:25](https://www.youtube.com/watch?v=s4UEgURH21o&t=1765s) · 他描述所见**：If you need peace, if you need joy in your life, you found you're down, you're depressed, you're having anxiety attacks, I see those in the comments.
+- **[29:44](https://www.youtube.com/watch?v=s4UEgURH21o&t=1784s) · 本段原话**：We take authority over every demonic spirit that is attached to these brothers and sisters right now in the name of Jesus. No matter what it is, we command you to release them right now in the name of Jesus. You are free for whom the son has set free is free indeed. And you are free from demonic strongholds in
+- **[30:31](https://www.youtube.com/watch?v=s4UEgURH21o&t=1831s) · 本段原话**：you've supported my channel. I'm so thankful for for you being a part of our family. Remember, put a smile on your face and a song in your heart. Jesus loves you so much and we love you and we thank you for being our part of our family. Have a blessed day everybody.
 
 ### 完整英文 Transcript
 

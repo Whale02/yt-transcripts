@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 191；**章节数**: 3；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -13,10 +13,25 @@
 - [02. 04:00–07:59 · AI、科技与监控、预言、梦境与异象](#section-02)
 - [03. 08:00–08:31 · 预言、梦境与异象](#section-03)
 
+## 全片概述与 Key Points
+
+全片共 3 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:24](https://www.youtube.com/watch?v=fr4svRfBvYI&t=84s) · 他描述所见**：industrial revolution. And this new weapons, new things that we've never seen before that will become public that they've been working on behind closed doors for probably decades. Who knows? I saw new military technology. I saw military technology that doesn't exist yet to the public.
+- **[04:36](https://www.youtube.com/watch?v=fr4svRfBvYI&t=276s) · 他描述所见**：That's so demonic. Yeah. Do you see it? That's the way the shield looked on this drone. Now take it off. I don't want to look at it. I saw I keep seeing these rooms with computers with superco computers major computers that the Lord said the information is coming to them so quickly through AI that they can't even
+- **[08:00](https://www.youtube.com/watch?v=fr4svRfBvYI&t=480s) · 本段原话**：And I don't know what this was, but it looked like some kind of demonic portal that they had created with the heen collider. And they were getting information from that black portal. And it was very dark and demonic because it was like a black hole. You could stick your hand in it and and and
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、AI、科技与监控。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:24](https://www.youtube.com/watch?v=fr4svRfBvYI&t=84s) · 他描述所见**：industrial revolution. And this new weapons, new things that we've never seen before that will become public that they've been working on behind closed doors for probably decades. Who knows? I saw new military technology. I saw military technology that doesn't exist yet to the public.
+- **[02:17](https://www.youtube.com/watch?v=fr4svRfBvYI&t=137s) · 他描述所见**：I told my son I said we I'll do my best to draw you a picture of what I saw but the only thing I can tell you is Stargate the movie. It was some of the stuff I was looking at and I thought when is this happening? How did this happen? Is this further in the future? I mean that
+- **[02:34](https://www.youtube.com/watch?v=fr4svRfBvYI&t=154s) · 他描述所见**：I don't know. I I know. Is this something that's actually happening right now? So all of a sudden about Warsaw, Warsaw, Poland I believe is where by Bellarus area, I saw a a a a humongous mushroom cloud kind of an explosion. And I said during this visitation when I'm seeing all this in the spirit, I said
+- **[03:26](https://www.youtube.com/watch?v=fr4svRfBvYI&t=206s) · 他描述所见**：like it it just it just like everything disintegrated, but it didn't destroy the buildings. Okay. It just like it and it's everybody just it was it was a wicked wicked weapon. Oh, I saw AI race and the Lord said because of the Biden administration, you're you're behind China. And I saw China making new kind of drones. But
 
 ### 完整英文 Transcript
 
@@ -112,7 +127,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · AI、科技与监控、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：AI、科技与监控、预言、梦境与异象、祷告、敬拜与现场互动。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕AI、科技与监控、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:36](https://www.youtube.com/watch?v=fr4svRfBvYI&t=276s) · 他描述所见**：That's so demonic. Yeah. Do you see it? That's the way the shield looked on this drone. Now take it off. I don't want to look at it. I saw I keep seeing these rooms with computers with superco computers major computers that the Lord said the information is coming to them so quickly through AI that they can't even
+- **[06:25](https://www.youtube.com/watch?v=fr4svRfBvYI&t=385s) · 他描述所见**：writing and the demon was taking over the AI with the digital code moving. It had horns on its head and I saw it. It was embedded into this mainframe of a major computer, but it was a dimension all in itself. AI is a dimension all in itself when it comes to the level of
+- **[06:43](https://www.youtube.com/watch?v=fr4svRfBvYI&t=403s) · 他转述所听到的话**：technologial uh advancement that it is. It's endless. And the Lord showed me people putting in these codes through CERN and this demonic portals and this you're talking to demonic spirit. And that's why I try to warn you all. Should you use AI, the Lord said harness it, Brandon, don't embrace it. You'll not be able to get
+- **[07:22](https://www.youtube.com/watch?v=fr4svRfBvYI&t=442s) · 他描述所见**：They were doing a massive one in China and I saw one in America. I saw them trying to be built. But when they do this, there's actual something that happens. I saw it was like a black portal that was created like Stargate.
 
 ### 完整英文 Transcript
 
@@ -212,7 +234,12 @@
 <a id="section-03"></a>
 ## 03. 08:00–08:31 · 预言、梦境与异象
 
-**中文章节摘要**：本段涉及：预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:00](https://www.youtube.com/watch?v=fr4svRfBvYI&t=480s) · 本段原话**：And I don't know what this was, but it looked like some kind of demonic portal that they had created with the heen collider. And they were getting information from that black portal. And it was very dark and demonic because it was like a black hole. You could stick your hand in it and and and
+- **[08:19](https://www.youtube.com/watch?v=fr4svRfBvYI&t=499s) · 他描述所见**：there was you could go to the other side and it was it was an open portal by this. And I like I said, I don't know how I don't understand all of it, but this I'm telling you what I saw in this.
 
 ### 完整英文 Transcript
 

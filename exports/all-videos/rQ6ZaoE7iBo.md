@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 362；**章节数**: 5；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -15,10 +15,27 @@
 - [04. 12:00–15:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-04)
 - [05. 16:00–17:09 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-05)
 
+## 全片概述与 Key Points
+
+全片共 5 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=0s) · 他描述所见**：I still I see in Iran in the mountains. I see in Iran in the mountains again. I see nuclear. I see facilities in the mountains. It's in it's like in a ridge.
+- **[04:30](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=270s) · 他进行祷告**：weapon formed against them would prosper. Every tongue that rises against them, we condemn it. We command it in the name of Jesus to bow its knee. We pray a hedge of blood around and about the Iraq. We pray a hedge of blood around Iraq. We pray for wisdom for Trump making these decisions ahead. It's
+- **[08:02](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=482s) · 本段原话**：This is the only leverage they have anymore. They can't give away all their card. They can't reveal all their guard.
+- **[12:13](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=733s) · 本段原话**：See, but but Trump put a kink in the hose. See, they're trying to figure out how to maneuver around it because they know he don't bluff around things. If Camila Harris would have won, it would have been a very bad situation.
+- **[16:16](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=976s) · 他描述所见**：for great decisions will be in the balance for acceleration because the coming against these judges and there's there's two more judges rising up. I saw these people bad people but they're being influenced by satanic funding and agenda by the Democratic party dark judges.
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 提到的地点：Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=0s) · 他描述所见**：I still I see in Iran in the mountains. I see in Iran in the mountains again. I see nuclear. I see facilities in the mountains. It's in it's like in a ridge.
+- **[01:47](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=107s) · 本段原话**：call we call divine hedge of protection that what the devil means for bad you're going to turn it around for good father for they're on both sides. They're upon both sides. They're on both sides.
+- **[01:59](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=119s) · 他描述所见**：But there's a but there's a mole within. There's a mole again. I see a mole in our own facility and a mole in our own uh our own our own government. It's one person. I see one person. I see one person. And in this person, they are trying to do this secretly. They try to
+- **[03:27](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=207s) · 他描述所见**：then another. It goes deeper. It's a deep ra. It's a deep trail. It's not directly to them. It goes from here to here to here. No, no, no, no. It's twice. One and then there. One and then there. I see it. This is well thought out. This is well This is thought out.
 
 ### 完整英文 Transcript
 
@@ -114,7 +131,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:30](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=270s) · 他进行祷告**：weapon formed against them would prosper. Every tongue that rises against them, we condemn it. We command it in the name of Jesus to bow its knee. We pray a hedge of blood around and about the Iraq. We pray a hedge of blood around Iraq. We pray for wisdom for Trump making these decisions ahead. It's
+- **[05:41](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=341s) · 他描述所见**：before he needs to move it what will this this do if you make this one so that you're always ahead it's not just playing one position at a time. It's playing five positions at a time. I see him. He needs to make strategic plans.
+- **[07:03](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=423s) · 他描述所见**：to do. I see it. They try to stir it up over here. They try to stir it up over here. Slide of hand, folks. It's slide of hand. I see it. I see it. They want to stir it up over here to keep you occupied over here. It's what they're hiding in the mountains. It's what
+- **[07:19](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=439s) · 本段原话**：they're hiding in the mountains. We call those hostages released. We call the rest of the hostages released. We call the rest of the hostages re released. If there's any more alive, if there's any more alive, we call the hostages released. We take authority over this demonic spirit that tries to rule over this area that tried to kill these
 
 ### 完整英文 Transcript
 
@@ -213,7 +237,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 战争与国际事务、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：战争与国际事务、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Russia、Ukraine、Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:02](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=482s) · 本段原话**：This is the only leverage they have anymore. They can't give away all their card. They can't reveal all their guard.
+- **[09:11](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=551s) · 他描述所见**：old land back. We want it all back. Even if it takes year like 20 years, 30 years. I see I see a long drawn out plan.
+- **[10:15](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=615s) · 他描述所见**：It's with the bricks. It's with the bricks. It's with bricks. It's interesting to me, Diana, that that Iran is still out over here. I see Iran is not like like it's like like a stepchild like over here more than what they want to do with North Korea. There's more about North Korea and it's because they
+- **[10:53](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=653s) · 他描述所见**：I see something that they're offering them something greater by North Korea has. You've got to come up higher. I hear him say it again. There's many prophets that are prophesying down on this level, but you must come up higher and prophesy in the throne from the throne room. The higher the level, the
 
 ### 完整英文 Transcript
 
@@ -313,7 +344,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:13](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=733s) · 本段原话**：See, but but Trump put a kink in the hose. See, they're trying to figure out how to maneuver around it because they know he don't bluff around things. If Camila Harris would have won, it would have been a very bad situation.
+- **[13:57](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=837s) · 他描述所见**：This is a this is demonic. I see it. I see it. This demonic influence behind this and it's on a greater scale than what people realize because it's being funded by very dark people. I told you these dark people are funding it now. There's this judge that's in the way. This judge that's in
+- **[15:16](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=916s) · 他描述所见**：We call her turning right. It's influence. There's demonic influence. I see them messing with her. We got to pray for our judges. We got to pray for these judges. They're under great pressure.
+- **[15:33](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=933s) · 他进行祷告**：It's demonic pressure. We pray a hedge around and about them that the angels of the Lord will camp around and about them and war in their behalf right now in the name of Jesus. Father, that they would war in our behalf. It's the decision factor. It's a deciding factor. She's the deciding factor. Big decisions with
 
 ### 完整英文 Transcript
 
@@ -395,7 +433,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–17:09 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:16](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=976s) · 他描述所见**：for great decisions will be in the balance for acceleration because the coming against these judges and there's there's two more judges rising up. I saw these people bad people but they're being influenced by satanic funding and agenda by the Democratic party dark judges.
+- **[16:45](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=1005s) · 他进行祷告**：Do you see how it all kind of just it keeps building? And as I pray, the Lord will keeps giving me more and he'll show me things and and he'll show me what's going on in America, but he's showing me what's over here and he shows me and he keeps and that's how it goes. And he'll
+- **[17:01](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=1021s) · 本段原话**：just keep giving me pieces of the puzzle and he says, "Look, I want you to look."
+- **[17:05](https://www.youtube.com/watch?v=rQ6ZaoE7iBo&t=1025s) · 他进行祷告**：So now I'm showing you all. So, there's many of you all that can take a piece of it and help pray over
 
 ### 完整英文 Transcript
 

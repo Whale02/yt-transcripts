@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1088；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 50:00–53:15 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=iAY5u-4enWM&t=0s) · 他表达判断**：Hey, good morning family. Praise the Lord or afternoon like it is here. Uh I had a video that I had made you all about the pope and and and my response to it or all the things that I believe I've seen. But I've recorded that video I think four times now. And every single time I get
+- **[10:01](https://www.youtube.com/watch?v=iAY5u-4enWM&t=601s) · 他描述所见**：prayer. Is based out of prayer. The five-fold ministry is all based out of pastor, prophet, it it's all based out of prayer. But the way a prophet proclaims and decrees a thing for the Lord is like a pillar. A a watchman changes things and things can change. I see on the edge of horizon of time show
+- **[20:18](https://www.youtube.com/watch?v=iAY5u-4enWM&t=1218s) · 本段原话**：them is going to prosper. Every tongue that rises against them, they condemn it. Father, I cover us in the blood. I cover our families in the blood. And I say, Satan, thus far and no further, we take authority over you. We bow, you bow your knee. You'll not hinder, harm us, or hurt us in any way.
+- **[31:05](https://www.youtube.com/watch?v=iAY5u-4enWM&t=1865s) · 本段原话**：and think higher. Oh, the difference between the the true prophetic and the watchmen. Both are called to always in prayer. Both are called always in prayer. Prayer is a foundation of every gift. Fair prayer. Prayer is the foundation of every gift. But ones are called an assignment to prayer. And the prophetic decrees of
+- **[40:31](https://www.youtube.com/watch?v=iAY5u-4enWM&t=2431s) · 他描述所见**：You see, you see, it's not it's not confusing. It's understanding who you are and teaching it from the pulpit. I got something today. I don't know if you did, but I saw some things.
+- **[50:42](https://www.youtube.com/watch?v=iAY5u-4enWM&t=3042s) · 本段原话**：battle even whenever you don't understand. You you you you sometimes you do it blindly. You just do it with all you've got because you know it's right. And the word doesn't change. The word doesn't change. It stays a pillar in the midst of the storm. I knew we touched a nerve. I don't go into all the depth of
+
 <a id="section-01"></a>
 ## 01. 00:00–04:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=iAY5u-4enWM&t=0s) · 他表达判断**：Hey, good morning family. Praise the Lord or afternoon like it is here. Uh I had a video that I had made you all about the pope and and and my response to it or all the things that I believe I've seen. But I've recorded that video I think four times now. And every single time I get
+- **[02:43](https://www.youtube.com/watch?v=iAY5u-4enWM&t=163s) · 他描述所见**：tribulation. And that's why it was so hard for me when I grabbed my head and I said I bind any demonic spirits trying to influence this this uh vision right now in the name of Jesus. So I come against it instantaneously because I did I saw the white man that had the the
+- **[03:50](https://www.youtube.com/watch?v=iAY5u-4enWM&t=230s) · 他描述所见**：Forgive me." All the things that you want. So, out of the all the other four videos that I've made, every single one of them has been apologetic, telling you that I'm sorry for uh missing it, you know, and not not wanting to lead the body of Christ wrong. But I know I saw
+- **[04:07](https://www.youtube.com/watch?v=iAY5u-4enWM&t=247s) · 他描述所见**：what I saw. And that's the part that I struggle with, not out of pride, but out of accuracy. What did I see? What was it about the Asian man in a white outfit rising up and trying to cause revival in the Philippines and in all the islands for the Catholic Church like a pope?
 
 ### 完整英文 Transcript
 
@@ -150,7 +168,14 @@
 <a id="section-02"></a>
 ## 02. 05:00–09:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:53](https://www.youtube.com/watch?v=iAY5u-4enWM&t=353s) · 他描述所见**：And this is something that I'm having to really weigh out because I know I saw it was so clear. Everything I saw about uh the calendar flip in front of my face, the the storm, all of it, the root coming down, it was so clear. And I go, Lord, what is this? And I, like I said,
+- **[07:45](https://www.youtube.com/watch?v=iAY5u-4enWM&t=465s) · 本段原话**：That's it. It's just black and white to me. And so that's why I've been so um not reluctant to make a video, but reluctant to be quick about making a video. What is it, Lord, that you're trying to say? Is there something to this? Because I will not come across as saying Trump's going to be president in
+- **[08:07](https://www.youtube.com/watch?v=iAY5u-4enWM&t=487s) · 本段原话**：2020 and and keep saying it and saying it, saying it clear up until a year and oh no, they're going to remove him. This is going to happen. I'm not going to be that person. That's ultimately what it's all about to me as Jesus Christ coming soon. And I know the other things that I
+- **[09:50](https://www.youtube.com/watch?v=iAY5u-4enWM&t=590s) · 他描述所见**：one is a left eye. They're both seeing the vision of what's coming, but they proclaim things different. And how you pray for things. Everything in Christianity is based out of
 
 ### 完整英文 Transcript
 
@@ -289,7 +314,14 @@
 <a id="section-03"></a>
 ## 03. 10:00–14:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:01](https://www.youtube.com/watch?v=iAY5u-4enWM&t=601s) · 他描述所见**：prayer. Is based out of prayer. The five-fold ministry is all based out of pastor, prophet, it it's all based out of prayer. But the way a prophet proclaims and decrees a thing for the Lord is like a pillar. A a watchman changes things and things can change. I see on the edge of horizon of time show
+- **[12:13](https://www.youtube.com/watch?v=iAY5u-4enWM&t=733s) · 他描述所见**：And I'm like, "But that's not what the Holy Spirit has told me." And I but he's told me I'm a healing evangelist. I'm supposed to pray for the sick and I know that's coming one day. I haven't seen the full manifestation of that. I see I see sprigs of it, but I haven't seen the
+- **[13:29](https://www.youtube.com/watch?v=iAY5u-4enWM&t=809s) · 本段原话**：And I don't want my clothes to be a distraction. So, I've been wearing black t-shirts and stuff because if I wear polo, people freak out. Oh my god. And I'm going, I'm trying to give you a word and tell you Jesus is coming. You're freaking out about clothes. I'm heavy.
+- **[14:49](https://www.youtube.com/watch?v=iAY5u-4enWM&t=889s) · 他描述所见**：Shouldn't have should have cut it out and you would have never have known. I would never be making this video right now. There's a lot of things that I see that I don't bring public and I just go whatever. You know, you live and you
 
 ### 完整英文 Transcript
 
@@ -441,7 +473,14 @@
 <a id="section-04"></a>
 ## 04. 15:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:00](https://www.youtube.com/watch?v=iAY5u-4enWM&t=900s) · 本段原话**：learn, you know, but it's like it's either it's the same thing about Trump's ear. I didn't want to make it public and I did that on Pastor Steve Czechalani's channel. I was not going to make that public, but that was what made the platform what it is today. There's so many of you all that came over here
+- **[15:24](https://www.youtube.com/watch?v=iAY5u-4enWM&t=924s) · 他描述所见**：I hinted around at it, but I was too scared to put it on my platform. And it's funny, we all laugh about it still today that it all went viral when I was at somebody else's channel because I got boulder over there. So I thought, man, if I see this about this age, man, what
+- **[15:38](https://www.youtube.com/watch?v=iAY5u-4enWM&t=938s) · 他描述所见**：is this? Who knows what it's still about? I I stand by what I said I saw. I stand by it. So we play pray this video bless you. Now let's go to our prayer session. Bye-bye. So let's pray today.
+- **[17:20](https://www.youtube.com/watch?v=iAY5u-4enWM&t=1040s) · 本段原话**：those people that there's danger to warn of what's coming. Father, that we are not caught off guard, that we see what's coming ahead of time way before it's supposed to happen. way before, even in decades before, whatever it may be, just like you did in the Bible. Jesus Christ is the same today, yesterday, today, and
 
 ### 完整英文 Transcript
 
@@ -579,7 +618,14 @@
 <a id="section-05"></a>
 ## 05. 20:00–24:59 · 地震、风暴与灾害、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：地震、风暴与灾害、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕地震、风暴与灾害、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:18](https://www.youtube.com/watch?v=iAY5u-4enWM&t=1218s) · 本段原话**：them is going to prosper. Every tongue that rises against them, they condemn it. Father, I cover us in the blood. I cover our families in the blood. And I say, Satan, thus far and no further, we take authority over you. We bow, you bow your knee. You'll not hinder, harm us, or hurt us in any way.
+- **[21:11](https://www.youtube.com/watch?v=iAY5u-4enWM&t=1271s) · 他描述所见**：There's storms coming. Some people say, "Yes, of course it's spring." No, these two storms. I see two tornadoes. Two major tornadoes. Two major tornadoes up by Nebraska.
+- **[22:13](https://www.youtube.com/watch?v=iAY5u-4enWM&t=1333s) · 他进行祷告**：EF3. So, what we do to pray against those, not that he's showing it to us to to let it happen, but we pray a hedge of covering around the believers that there's no tornado activity that comes forth and destroys any homes in Jesus' name, businesses, lives. He don't show us the things to give us for for for
+- **[24:39](https://www.youtube.com/watch?v=iAY5u-4enWM&t=1479s) · 本段原话**：is the day the Lord has made and let us rejoice and be glad in it. We be glad in it for he has made a good day. This is a good day father. We worship you. We give you praise and glory and honor. Thank you, Father, for you are good and your mercy endures forever. For you are good
 
 ### 完整英文 Transcript
 
@@ -664,7 +710,14 @@
 <a id="section-06"></a>
 ## 06. 25:00–29:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[26:06](https://www.youtube.com/watch?v=iAY5u-4enWM&t=1566s) · 本段原话**：We receive what you're saying today. We receive it, Father. We receive it, Father.
+- **[27:07](https://www.youtube.com/watch?v=iAY5u-4enWM&t=1627s) · 他描述所见**：higher. Prophetic accuracy. We thank you, Lord. We thank you, Lord. You got to pro pro I see it. You got to come up higher and prophesy in the throne room.
+- **[29:08](https://www.youtube.com/watch?v=iAY5u-4enWM&t=1748s) · 本段原话**：You don't know what you've done. The the prayer of the righteous availth much. What is it availing into? What is avail to? To change things. To change things. Having have pinpoint accuracy that you change things. Changing things through the spirit. changing things
+- **[29:40](https://www.youtube.com/watch?v=iAY5u-4enWM&t=1780s) · 他进行祷告**：through the in the natural. For what you pray in the spirit will happen in the natural. The very plan of the enemy is to try to kill, steal, and destroy. But I have come that you might have life and life more abundantly. But you fight and you
 
 ### 完整英文 Transcript
 
@@ -738,7 +791,14 @@
 <a id="section-07"></a>
 ## 07. 30:00–34:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[31:05](https://www.youtube.com/watch?v=iAY5u-4enWM&t=1865s) · 本段原话**：and think higher. Oh, the difference between the the true prophetic and the watchmen. Both are called to always in prayer. Both are called always in prayer. Prayer is a foundation of every gift. Fair prayer. Prayer is the foundation of every gift. But ones are called an assignment to prayer. And the prophetic decrees of
+- **[32:19](https://www.youtube.com/watch?v=iAY5u-4enWM&t=1939s) · 本段原话**：[Applause] It's like word words that are seen like this are altered. You can change it through prayer. You can change it through prayer. Prophetic is it's like it's a per firm pillar like it's like this. But this is watching is changed through prayer. It the assignment is prayer. Watching and seeing and praying
+- **[33:20](https://www.youtube.com/watch?v=iAY5u-4enWM&t=2000s) · 他描述所见**：right. I see it. It's right. It's not taught in the church. He says it's not taught in the church. So therefore, it brings confusion for it's not been taught in the church. Two different standard. Two different two different but functions similar to the same.
+- **[34:30](https://www.youtube.com/watch?v=iAY5u-4enWM&t=2070s) · 他描述所见**：see. It's all in how you relay what I tell you to [Music] say. I see it. I see it for the first time ever. I see it for the first time ever. I see it, son. I see it.
 
 ### 完整英文 Transcript
 
@@ -837,7 +897,14 @@
 <a id="section-08"></a>
 ## 08. 35:00–39:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:06](https://www.youtube.com/watch?v=iAY5u-4enWM&t=2106s) · 本段原话**：me and that's why they they link them so close together because one is seeing like this to change things and one is seeing and decreeing things and they they flow together like harmony. They flow together like harmony. of the world confuses it and one one thinks he's prophetic and he's a watcher and the one
+- **[35:46](https://www.youtube.com/watch?v=iAY5u-4enWM&t=2146s) · 本段原话**：apostles they all are based out of prayer. The foundation of every ministry gift, the foundation is prayer. And the word backs it. The word backs it. I've called intercessors. I've called people to be intercessors. I've been writing what I've said. Prayer changes things. He says, "Averting what the enemy has in
+- **[37:41](https://www.youtube.com/watch?v=iAY5u-4enWM&t=2261s) · 本段原话**：[Music] [Applause] [Music] crowd your job is to avert these things. I say it's a prayer fail. It's a prayer fail. Many prayer fails. Many prayer fails. Understanding your gift, understanding your place of authority, understanding what I've called you to
+- **[39:33](https://www.youtube.com/watch?v=iAY5u-4enWM&t=2373s) · 他描述所见**：They're called to pray. They're seeing in the future. They're seeing and they use the prophetic eye. They use the prophetic eye to change things." I see faces of big ministers right now. Kim Clement was a true prophet. He says, I don't want to say I don't I shouldn't say that. I don't think about
 
 ### 完整英文 Transcript
 
@@ -950,7 +1017,14 @@
 <a id="section-09"></a>
 ## 09. 40:00–44:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:31](https://www.youtube.com/watch?v=iAY5u-4enWM&t=2431s) · 他描述所见**：You see, you see, it's not it's not confusing. It's understanding who you are and teaching it from the pulpit. I got something today. I don't know if you did, but I saw some things.
+- **[40:44](https://www.youtube.com/watch?v=iAY5u-4enWM&t=2444s) · 他描述所见**：I saw some things that brought some clarity for me I needed.
+- **[41:27](https://www.youtube.com/watch?v=iAY5u-4enWM&t=2487s) · 他描述所见**：they're not taught. They function very similar. He said it's very interesting the way I saw it. It was almost they both see out through the eyes. I could see them through seeing through the eyes on the wall but I could see it but one was seen so far and they saw more detail and this
+- **[43:12](https://www.youtube.com/watch?v=iAY5u-4enWM&t=2592s) · 他表达判断**：Lord, for the clarity of things that he's showing us that we're they are there to this channel is there to change things. And maybe they like I was saying, maybe it's the Asian guy they were he didn't want in. Maybe he was to pray that away. I don't know. I think I got a
 
 ### 完整英文 Transcript
 
@@ -1064,7 +1138,14 @@
 <a id="section-10"></a>
 ## 10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:03](https://www.youtube.com/watch?v=iAY5u-4enWM&t=2703s) · 本段原话**：up. We magnify. We glorify our God. We worship you, Father. We worship you. We know you're coming so soon. And Lord, we fear you. All the flesh gets in the way. Our flesh gets in the way, Father. We thank you, Lord, that we're die to self.
+- **[48:02](https://www.youtube.com/watch?v=iAY5u-4enWM&t=2882s) · 他表达判断**：Thank you, Lord. I'm thankful for him, Braden, that he would talk about it. I learned so much right then. That was good. I think it's interesting what he says. Prayer changes things. I needed a hug today. You know, if Not anything else. It was for me. Let us go. Ah,
+- **[49:01](https://www.youtube.com/watch?v=iAY5u-4enWM&t=2941s) · 他表达判断**：when I deal with so much persecution and it's so interesting the way he comes and just comforts me as a friend. I know many of you probably can't feel what what that but it's precious to me.
+- **[49:22](https://www.youtube.com/watch?v=iAY5u-4enWM&t=2962s) · 本段原话**：It's It's been a really rough couple of weeks and I've um I'm so grateful whenever you're just so you're you're just pushing as hard as I can to get through the spiritual aspect of this and the and the enemy does not like what I'm doing. I just don't get into all of the attacks. I don't talk about stuff.
 
 ### 完整英文 Transcript
 
@@ -1151,7 +1232,14 @@
 <a id="section-11"></a>
 ## 11. 50:00–53:15 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:42](https://www.youtube.com/watch?v=iAY5u-4enWM&t=3042s) · 本段原话**：battle even whenever you don't understand. You you you you sometimes you do it blindly. You just do it with all you've got because you know it's right. And the word doesn't change. The word doesn't change. It stays a pillar in the midst of the storm. I knew we touched a nerve. I don't go into all the depth of
+- **[52:10](https://www.youtube.com/watch?v=iAY5u-4enWM&t=3130s) · 本段原话**：Okay? Doesn't mean you don't hear the thunder. Don't mean you hear the roar. The the the the the devil comes like a roaring lion seeking whom he may devour. Doesn't mean you don't hear the roar. Doesn't mean you don't see the teeth. Doesn't mean the teeth can't bite you.
+- **[52:27](https://www.youtube.com/watch?v=iAY5u-4enWM&t=3147s) · 本段原话**：Huh? It's still roaring. And the roar is kind of intimidating sometimes, don't you think? When you hear a lion roar, it's intimidating. It makes you go, "Oo, that's that's intimidating." But he's a toothless lion. Lions roar loud and they they can hear from miles around. What in the world is that? You know, loud r lion roar. He He He is a
+- **[52:49](https://www.youtube.com/watch?v=iAY5u-4enWM&t=3169s) · 他表达判断**：toothless lion that roars loud. He does not have the power to touch me. A curse without a cause cannot stand. I believe it. Glory to God. Glory to God. Well, I pray again this video blessed you all today. I I I thank you for being here.
 
 ### 完整英文 Transcript
 

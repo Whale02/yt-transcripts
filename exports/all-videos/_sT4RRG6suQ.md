@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1320；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 54:00–59:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-10)
 - [11. 60:00–63:13 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:46](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=46s) · 他描述所见**：the job and they're sitting back with their thumb in their nose and they're and they're being lazy and the women want to take the Paton and say hey I know that God has called me for such a time as this to lead the people to help bring prayer in that's where I'm at and if I see the
+- **[12:25](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=745s) · 本段原话**：become cold to the father and the Lord showed me and he showed my wife Diana he said Brandon I'll use whoever I want to just because you have the anointing and just because you flow under the anointing doesn't mean that I know you I will use whoever I want the anointing is not about
+- **[24:22](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=1462s) · 本段原话**：wall come unto me and I will give you rest take my yoke upon you you that's what he's trying to tell you today he wants you to come unto him all ye that are heavy heavy laden all this this burdens all the stuff that's on you take his yoke upon you and and and lean into him okay so
+- **[36:35](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=2195s) · 本段原话**：[Music] all your name is like honey on my lips your spirits like water to my soul your word is a lamp unto my feet Jesus I love you yes I love
+- **[48:25](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=2905s) · 本段原话**：we call the angels to go from the north the South the East the West Prosperity angels to go right now in the name of Jesus and bring our harvest in good measure press down shaking together and running over will men give unto us we believe father that your word is true and we believe father that good
+- **[60:01](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=3601s) · 他讨论新闻或报道**：it I'm not moved by the report of the doctor he says I'm they say oh you're going to die they're you're going to do no no no no no I will live a long life and I will declare the works of the Lord with long life he said he' satisfy me with long life he said he would
+
 <a id="section-01"></a>
 ## 01. 00:00–05:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:46](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=46s) · 他描述所见**：the job and they're sitting back with their thumb in their nose and they're and they're being lazy and the women want to take the Paton and say hey I know that God has called me for such a time as this to lead the people to help bring prayer in that's where I'm at and if I see the
+- **[01:06](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=66s) · 他描述所见**：anointing and I see the presence of God on male or female I'm going to follow and listen to what they have to say just because of what Joel chapter 2 said Joel chap 2: 28 and it shall come to pass afterward that I will pour out my spirit upon All Flesh your sons and your sons
+- **[03:08](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=188s) · 本段原话**：ladies and gentlemen it's all hands on deck we have a lot of men that do not have a backbone like a crowbar that are are are are being limp wristed skinny jeans fog machines wanting to follow the crowd kind of men that don't even know they're metosexual that don't even know who they are I identify myself as a uh
+- **[05:18](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=318s) · 他表达判断**：own he said I've called her to walk beside you not behind you Brandon so there's people that get all upset about that and say well women shouldn't do that but I'm here to tell you you're wrong because I believe with all my heart it's all hands on deck we to war that in scripture right here Joel
 
 ### 完整英文 Transcript
 
@@ -174,7 +192,14 @@
 <a id="section-02"></a>
 ## 02. 06:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[06:01](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=361s) · 本段原话**：was that was 2,000 years ago so here is here we are right now in present day and the Lord tells us Brandon I'm going to do one last call one major push for a harvest of souls will you be a part of it I'm just looking for someone some being somebody that will just say yes son who will help
+- **[07:23](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=443s) · 本段原话**：to let the Rocks do my job I will praise him today because he is worthy to be praised last night at Wednesday night church the glory came down and the presence of the Lord was so strong you could feel and people didn't you know whenever you go into a church maybe you've never experienced one of
+- **[09:33](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=573s) · 本段原话**：else that you think you're going to be well it's because I gave this amount of money well it was because I did this because no how did you walk in love towards your brethren Love Takes no account of a suffered wrong ladies and gentlemen in the comment section Love Takes no account of a suffered wrong to a
+- **[11:36](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=696s) · 他转述所听到的话**：you and whenever I heard Benny Hinn say he was on the table and he was had that heart attack and he was in line to go before and the organ the lady was playing the instrument and Jesus was standing there greeting the people to come in and then she would play a certain sound and the
 
 ### 完整英文 Transcript
 
@@ -311,7 +336,14 @@
 <a id="section-03"></a>
 ## 03. 12:00–17:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:25](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=745s) · 本段原话**：become cold to the father and the Lord showed me and he showed my wife Diana he said Brandon I'll use whoever I want to just because you have the anointing and just because you flow under the anointing doesn't mean that I know you I will use whoever I want the anointing is not about
+- **[13:35](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=815s) · 本段原话**：that's where we are right now in these end times is it's all hands on deck but it just because you have some some anointing on you and you have that doesn't mean that he that he's intimate with you intimacy is sitting at his feet on a daily basis hello father how are you don't Lose Yourself
+- **[14:47](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=887s) · 本段原话**：the Lord either I'm sitting there with him and he says Brandon I knew you or you did a lot on the Earth but I never had relationship with you Diana is going to read the this to you because it's very important that you that you understand oh I'm just not making this up oh it's just about Grace brother
+- **[16:30](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=990s) · 本段原话**：it baby Matthew 7:21 721 Matthew 7:21 not everyone that saith unto me Lord Lord shall enter into the Kingdom of Heaven that he that doeth the will of My Father which is in heaven many will say to me in that day Lord Lord have we not prophesied in your name and in thy
 
 ### 完整英文 Transcript
 
@@ -453,7 +485,14 @@
 <a id="section-04"></a>
 ## 04. 18:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[18:00](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=1080s) · 他进行祷告**：the Lord are running to and fro throughout the whole earth looking for a heart who's perfect toward him I say it a thousand times over all the time I pray father if your eyes are are roaming right now looking for for somebody whose heart is perfect toward help my heart to be what pleases you
+- **[18:58](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=1138s) · 本段原话**：of iced tea with with Brandon cuz I feel comfortable being in his house because he makes a house that is is is a place of worship for me that's what I'm talking about a friend I knew you ladies and gentlemen make a place practice his presence father I I I don't want anything to come through these eyes gate
+- **[21:33](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=1293s) · 本段原话**：and burdened and I will give you rest take my yoke upon you and learn from me for I am gentle and humble in heart and you will find rest for your souls for my yoke is easy and my burden is light and that's the NIV yes for his yoke is easy and his burden is light come unto him he
+- **[22:43](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=1363s) · 本段原话**：that you've you've delivered me from all this you taken it all and I and I may mess up and I say God forgive me I run to you the sin issue is all already taken care of he said he took it all but he said if you confess your sins he is faithful and just to forgive you of you
 
 ### 完整英文 Transcript
 
@@ -599,7 +638,14 @@
 <a id="section-05"></a>
 ## 05. 24:00–29:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:22](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=1462s) · 本段原话**：wall come unto me and I will give you rest take my yoke upon you you that's what he's trying to tell you today he wants you to come unto him all ye that are heavy heavy laden all this this burdens all the stuff that's on you take his yoke upon you and and and lean into him okay so
+- **[26:39](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=1599s) · 他描述所见**：refuse I'm not moved by what I see I'm not moved by what I what I hear I'm only moved by what the word of God says I am leaning on I'm relying on and I'm confident that he's going to do what he said he would do Jesus Christ the same yesterday today and forever the
+- **[27:03](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=1623s) · 本段原话**：Bible says and if he did it back then 2,000 years ago he's still doing it today he's still healing he's still delivering he's still casting out devil we he gave us the authority to cast out Devils he gave us the authority to lay hands on the sick he gave us the authority to to to call those things
+- **[29:08](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=1748s) · 本段原话**：to I want him to my heart is for him thank you Father search me and know me today created in me a clean heart oh God whatever it takes father You Are The Potter I Am The Clay mold me and make me today help us not to get so stuck on these things they're so religious I
 
 ### 完整英文 Transcript
 
@@ -735,7 +781,14 @@
 <a id="section-06"></a>
 ## 06. 30:00–35:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[30:02](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=1802s) · 他进行祷告**：father we thank you that we don't have to be broke busted and disgusted anymore you took everything we ever need on that cross we're healed by your stripes today and we thank you Father we thank you Lord we take this by faith and we are fully persuaded that Jesus Christ is our healer Jesus Christ is our deliverer
+- **[30:58](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=1858s) · 本段原话**：father and the blood will make much of us forgive us father of our sins we enter in by the blood of the Lamb we enter into your throne father we enter it with because father it's because of what you did for us and we lift up the blood before you father and we plead the blood of Jesus
+- **[31:53](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=1913s) · 本段原话**：Valley father we take this Blood right now in the name of Jesus and we thank you Father we apply it to our home father I ple the blood thank you for the blood Lord Lord You're beautiful your face is all I seek
+- **[34:12](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=2052s) · 本段原话**：are you are so gentle so pure and so kind you shine like a Bright Morning Star [Music] Jus What a Wonder you are
 
 ### 完整英文 Transcript
 
@@ -840,7 +893,14 @@
 <a id="section-07"></a>
 ## 07. 36:00–41:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:35](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=2195s) · 本段原话**：[Music] all your name is like honey on my lips your spirits like water to my soul your word is a lamp unto my feet Jesus I love you yes I love
+- **[37:45](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=2265s) · 本段原话**：hosts who was and is and is to come holy holy holy is the Lord of hosts who was and is and is to come you lose yourself in him today lose yourself in him sit it at his feet all this other stuff all the other everything that's bothering you weighing you
+- **[40:00](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=2400s) · 本段原话**：Jesus we are thirsty we need more fill our cup Lord we lift it up Lord come and quench this thirsting of our soul bre head of Heaven feus till we want no
+- **[41:41](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=2501s) · 本段原话**：Jesus we call them healed and whole and well in the name of Jesus from the top of their head to the SES of their feet father We Believe father according to your word that you're the same yesterday today and forever and you're still healing the sick today just like like you did 2,000
 
 ### 完整英文 Transcript
 
@@ -944,7 +1004,14 @@
 <a id="section-08"></a>
 ## 08. 42:00–47:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:25](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=2545s) · 他表达判断**：single person who's represented here today believing for a healing and I believe with you that you are healed and whole and well in the name of Jesus delivered from all sickness and disease delivered from bondage from from the Yoke of Life all the bondage of sickness and disease that it tries to bring the
+- **[42:49](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=2569s) · 他表达判断**：the helplessness the hopelessness father we cast our care over onto you and we lean confidently in you that you said that you would bring it to pass your word is a is alive and it's a lamp into my feet and it's a light unto my path father I believe father and you said that was your words
+- **[46:15](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=2775s) · 本段原话**：their children father We Believe father that their marriages are whole their children walk upright before you father and that they they will be uh saved that father every one of them will be saved we call forth their children to be saved right now in the name of Jesus wayward children are coming home Satan
+- **[47:46](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=2866s) · 他表达判断**：it in every area of our life it may seem that you're so in debt the mountain of debt so on top of you you'll never get out but I believe God's a way maker and he's a Jehovah Gyra he will provide and we believe father that everything we put
 
 ### 完整英文 Transcript
 
@@ -1086,7 +1153,14 @@
 <a id="section-09"></a>
 ## 09. 48:00–53:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[48:25](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=2905s) · 本段原话**：we call the angels to go from the north the South the East the West Prosperity angels to go right now in the name of Jesus and bring our harvest in good measure press down shaking together and running over will men give unto us we believe father that your word is true and we believe father that good
+- **[51:45](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=3105s) · 本段原话**：will do what God's called us to do and not do it barely half cocked but go with big with just like Vengeance and say we're taking back what the devil stole we're not going to allow the enemy to keep robbing us from from generation to gener that that poverty stops with me poverty stops you'll not go on
+- **[52:54](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=3174s) · 本段原话**：steal and destroy anything poverty is a kill still and destroy you can't do anything you're starving you don't have enough to eat true poverty America does not know true poverty go to Haiti there's true poverty in Haiti when they're living in tin Shack and they don't have no food and they're digging in a ditch trying to find
+- **[53:38](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=3218s) · 本段原话**：there they don't have food stamps in Haiti like that right for what I understand they don't have government handouts to go say hey let's go get go get our our our our groceries our $800 worth of groceries that the government is going to provide for you that's not poverty poverty is not having anything
 
 ### 完整英文 Transcript
 
@@ -1231,7 +1305,14 @@
 <a id="section-10"></a>
 ## 10. 54:00–59:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[54:02](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=3242s) · 本段原话**：clean water down you because you're drinking uh sewage water or whatever that's poverty and it's a curse and the body of Christ has to come out of stupid thinking well God doesn't want us to be blessed you're you're ignorant God wants you to have exceedingly abundantly above all that you dare ask or
+- **[57:11](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=3431s) · 本段原话**：you glory and honor and praise father that you've given us power and authority glory to God glory to God folks that's what you got to you've got to be like that Bulldog on a bone you are not not going to steal from me anymore devil I refuse to allow you to steal from my home financially
+- **[58:37](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=3517s) · 他描述所见**：him I'm not moved by this anymore he's in trouble again with the law no my child's turning around I call him saved I call him delivered I call him on fire for Jesus I refuse to be moved by what I see I be refused to move by what the circumstances my circumstances are going to change
+- **[58:59](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=3539s) · 他描述所见**：because Jesus said I call those things that be not as though they were today my daughter is overcoming oh I believe she's healed and whole and well by the stripes of Jesus oh I just got a bad report from the doctor oh I I'm not moved by what I see when the doctor says that the Bible
 
 ### 完整英文 Transcript
 
@@ -1372,7 +1453,14 @@
 <a id="section-11"></a>
 ## 11. 60:00–63:13 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[60:01](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=3601s) · 他讨论新闻或报道**：it I'm not moved by the report of the doctor he says I'm they say oh you're going to die they're you're going to do no no no no no I will live a long life and I will declare the works of the Lord with long life he said he' satisfy me with long life he said he would
+- **[61:44](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=3704s) · 本段原话**：feel I'm going to do more prayer videos I'm going to keep I give you these little things and tell you so what's not what's not think so small let's be what's think bigger that God wants to use everybody and he's and we're in the end of the end here and he's called you into the
+- **[62:02](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=3722s) · 本段原话**：kingdom for such a time as this every single one of you well if you're new here and you haven't subscribed subscribe click the notification Bell click the like button comment something nice down below it helps with the algorithm we're excited every single one of you are here we thank you for sticking around like you have um it's a
+- **[62:44](https://www.youtube.com/watch?v=_sT4RRG6suQ&t=3764s) · 本段原话**：well the fountain the wells of the the the wealth from the deep that they'll be great wealth come now for the body of Christ for the wealth of the Sinners laid up for the righteous and everybody say amen and amen well we always want to close our broadcast our little YouTube thing by
 
 ### 完整英文 Transcript
 

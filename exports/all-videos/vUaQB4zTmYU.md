@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 340；**章节数**: 4；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -14,10 +14,26 @@
 - [03. 08:00–11:59 · 预言、梦境与异象、战争与国际事务](#section-03)
 - [04. 12:00–15:53 · 战争与国际事务、预言、梦境与异象](#section-04)
 
+## 全片概述与 Key Points
+
+全片共 4 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:20](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=20s) · 他描述所见**：you all to watch Cuba. I told you all there'll be there's there's alliances there going to become even stronger with Putin and Cuba and the Havana area. I see Cuba again. I see stationed in Cuba, secret things in Cuba with Russia.
+- **[04:29](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=269s) · 他描述所见**：Russia, old alliances, old friendships. I see a darkness on Cuba. It's dated already, so it's not hard for the infrastructure of their of their grid.
+- **[08:45](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=525s) · 他描述所见**：There's red like something very serious. And I saw Cuba and I saw Cuba involved in this. And there was a a tie of the Cold War alliances KGB spirit that was over Russia that was over Putin and that it would rise up in the days ahead. I saw a purple dragon coming up out of the
+- **[12:24](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=744s) · 本段原话**：This is them providing the extension to Cuba with that growth coming up out of the land for financial freedom from America to get out from underneath the western boot. They're still devising a plan, but this is secretive. They even have some underground facility there on that island that goes clear back to the Cuban War. They have like some
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Cuba、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:20](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=20s) · 他描述所见**：you all to watch Cuba. I told you all there'll be there's there's alliances there going to become even stronger with Putin and Cuba and the Havana area. I see Cuba again. I see stationed in Cuba, secret things in Cuba with Russia.
+- **[01:00](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=60s) · 本段原话**：Remember the Cuban missile crisis. Watch Russia in Cuba." Remember this. Behind closed doors, there's things that you do not know. A red dawn experience is coming. The enemy within a Trojan horse.
+- **[01:31](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=91s) · 他描述所见**：That they are here and you'll remember this in the days ahead. I've never been to Cuba, but I could see like the electricity grid was not very good. I could see there wasn't a lot of lights on, but across the ocean it looked completely black outside and people were moving at night and there was I saw a
+- **[03:31](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=211s) · 他描述所见**：concerning a darkness upon Cuba. I see problems with the infrastructure and the electric grid by design. Cyber attacks because they're getting out of line. Cracking of a whip. But the traffickers and the MS13, there's gang lords. I see these gang lords in this. And there's Santa Maria. There's great witchcraft wrapped into this. I see it with the candles
 
 ### 完整英文 Transcript
 
@@ -111,7 +127,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、物资、能源与供应链。 提到的地点：Cuba、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:29](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=269s) · 他描述所见**：Russia, old alliances, old friendships. I see a darkness on Cuba. It's dated already, so it's not hard for the infrastructure of their of their grid.
+- **[05:37](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=337s) · 他描述所见**：Cuba and they traffic the people through these tunnels and they and the drugs come up through their tunnels. Great corruption in the Hispanic government is Claudia. Remember this though, Venezuela will be like an Iraq if it keeps going this way. I'm going to Venezuela and I see Venezuela being promised things. Oh, and I'm now in Cuba and I see Cuba being
+- **[06:00](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=360s) · 他描述所见**：promised things and I see alliances of Cuba, Venezuela, and the the countries that have been like outcast. That's very that's very very like Cuba lining up with Russia coming underneath that those trying to bring them out of that. But it would be a base clear down there so strong being so close to America. That's
+- **[07:19](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=439s) · 他描述所见**：It's a Russian submarine. I don't know how big these get, but like it's a big submarine. It's big. It's long. I saw the Cuban missile crisis. Lord said, "Pay attention to Cuba." And I could see Cuba again. And I could see missiles and I could see things pointed at the United States of America. And the Lord showed
 
 ### 完整英文 Transcript
 
@@ -203,7 +226,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 预言、梦境与异象、战争与国际事务
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Cuba、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、战争与国际事务展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:45](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=525s) · 他描述所见**：There's red like something very serious. And I saw Cuba and I saw Cuba involved in this. And there was a a tie of the Cold War alliances KGB spirit that was over Russia that was over Putin and that it would rise up in the days ahead. I saw a purple dragon coming up out of the
+- **[09:43](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=583s) · 他描述所见**：That's what I saw. He came up, went out, and when he came up, it looked like part of his tail was still in the water. And he went down like this, and it went up, and it was like an M. It was like following him like this for mules that with the cartel. Watch the cartel. We're
+- **[10:01](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=601s) · 他描述所见**：talking big money is being transferred right here. I see it. Pray for the border control. Pray for them to find these tunnels for there's many more of these tunnels. There's tunnels, tunnels, tunnels, tunnels all throughout the border of this distress from Texas all the way to California. There's tunnels, tunnels, tunnels, tunnels, tunnels. Many
+- **[10:36](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=636s) · 他描述所见**：But then they it had a line and Cuba started to glow and it started to become alive and I saw a spring of growth again coming up out of Cuba with leaves coming onto Cuba and it was growing. But there was an extension and I could see it had a a line going from Cuba like like you
 
 ### 完整英文 Transcript
 
@@ -303,7 +333,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:53 · 战争与国际事务、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、物资、能源与供应链。 提到的地点：Cuba、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、预言、梦境与异象展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:24](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=744s) · 本段原话**：This is them providing the extension to Cuba with that growth coming up out of the land for financial freedom from America to get out from underneath the western boot. They're still devising a plan, but this is secretive. They even have some underground facility there on that island that goes clear back to the Cuban War. They have like some
+- **[14:09](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=849s) · 他描述所见**：That's all they need is one. We just want you to store it there. I see these islands, but but this is like mainland and and they're all highlighted with red. This is concerning Cuba. Okay. And I see them islands and they're red and it's about England. But I'm seeing Russia is involved in this and
+- **[15:07](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=907s) · 他描述所见**：because I saw attacks coming against America. I saw old Cuban war alliances trying to bring back old ties, trying to bring forth a third world war greater than what we've ever seen before with conventional weapons beyond what they ever had in World War II and World War I. Missiles that will destroy mass
+- **[15:34](https://www.youtube.com/watch?v=vUaQB4zTmYU&t=934s) · 本段原话**：amount of people. Not just like heima, we're talking bombs that are crazy compared to what they had in World War II. Folks, our technology now is scary with biological and all the stuff we have. And when they try to do all this, it will be very, very ugly.
 
 ### 完整英文 Transcript
 

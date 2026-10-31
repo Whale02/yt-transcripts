@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 242；**章节数**: 3；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -13,10 +13,25 @@
 - [02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-02)
 - [03. 08:00–10:58 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-03)
 
+## 全片概述与 Key Points
+
+全片共 3 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:00](https://www.youtube.com/watch?v=XEFuig5m2Rs&t=0s) · 他描述所见**：good morning family I'm excited to be with y'all I just did a prayer video uh pray with me and um this came out of that prayer time I saw a church when I was praying in the prayer Pray With Me video and it was it was black the the the church was an old country looking uh
+- **[04:20](https://www.youtube.com/watch?v=XEFuig5m2Rs&t=260s) · 他转述所听到的话**：and mocking you're a fool it's never going to happen but as in the days no I'm telling you that boat that door is going to shut and the Lord said this was the last call this was the last call and he's given one more call and the church bells are ringing right now are you
+- **[08:21](https://www.youtube.com/watch?v=XEFuig5m2Rs&t=501s) · 他进行祷告**：Father for finances father if they're believing for finances we call them blessed in the city in the field coming in and going out and we thank you Lord that you're giving them jobs and better jobs today raises and bonus bonuses father that they don't have to be part of the world's economy we're part of
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:00](https://www.youtube.com/watch?v=XEFuig5m2Rs&t=0s) · 他描述所见**：good morning family I'm excited to be with y'all I just did a prayer video uh pray with me and um this came out of that prayer time I saw a church when I was praying in the prayer Pray With Me video and it was it was black the the the church was an old country looking uh
+- **[00:42](https://www.youtube.com/watch?v=XEFuig5m2Rs&t=42s) · 他描述所见**：was a shininess all over these bells and I heard the Lord say I'm going to do one more push one more chance of a wake up and I saw the bells ringing and he said I'm I'm going to wake up the church church and I'm going to wait and give there's one more call that it's and I
+- **[01:48](https://www.youtube.com/watch?v=XEFuig5m2Rs&t=108s) · 本段原话**：felt I just I I want to weep about it because I'm telling you there's there's no time left Jesus is coming and and it's like and whenever I'm hearing him say that you know there's a lot of times it could be years it could be days it could be this year you know I told
+- **[03:15](https://www.youtube.com/watch?v=XEFuig5m2Rs&t=195s) · 他进行祷告**：back and get us I know that people are are are asleep there's a lot of people that need that that shake to say get up Jesus is coming and I pray that this this video uh is is an urgency wakeup call to you all to hear that Jesus is coming the bells the bells are going to
 
 ### 完整英文 Transcript
 
@@ -108,7 +123,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:20](https://www.youtube.com/watch?v=XEFuig5m2Rs&t=260s) · 他转述所听到的话**：and mocking you're a fool it's never going to happen but as in the days no I'm telling you that boat that door is going to shut and the Lord said this was the last call this was the last call and he's given one more call and the church bells are ringing right now are you
+- **[04:57](https://www.youtube.com/watch?v=XEFuig5m2Rs&t=297s) · 他表达判断**：a wife beater we're fixing to go home in the capture the church and and and and the Great Tribulation is going to start I believe with all my heart and um I I I I pray you're part of it I do father I so I just want to pray for you all let
+- **[05:31](https://www.youtube.com/watch?v=XEFuig5m2Rs&t=331s) · 本段原话**：people are believing uh for people that that they know is going to go to hell Jesus comes right now there's a lot of people going to hell but let's believe for one last push one great shaking just like he's saying the bells are ringing and are you awake are you awake that's what it's amazing what I mean what he
+- **[07:23](https://www.youtube.com/watch?v=XEFuig5m2Rs&t=443s) · 他表达判断**：your hand off of these people right now we call them born again we call them repented and saved and on the boat before it's too late I thank you Father for the greatest Harvest of souls a great shaking is about to take place and I believe we're going to see a manifestation of God's
 
 ### 完整英文 Transcript
 
@@ -206,7 +228,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–10:58 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:21](https://www.youtube.com/watch?v=XEFuig5m2Rs&t=501s) · 他进行祷告**：Father for finances father if they're believing for finances we call them blessed in the city in the field coming in and going out and we thank you Lord that you're giving them jobs and better jobs today raises and bonus bonuses father that they don't have to be part of the world's economy we're part of
+- **[08:40](https://www.youtube.com/watch?v=XEFuig5m2Rs&t=520s) · 他进行祷告**：God's economy and you said you would supply all our needs according to your riches and Glory by Christ Jesus and I pray for every single person's finances right now that they have more than enough to give to the kingdom of God and promote the gospel throughout the world not just to pay all their bills but to
+- **[09:35](https://www.youtube.com/watch?v=XEFuig5m2Rs&t=575s) · 本段原话**：people healed whole and well in the name of Jesus and we thank you Father for it deliverances from tobacco deliverance from pornography deliverances from from drug addictions deliverances from all things the devil's try to throw on them and bondage they For Whom the son has set free is free indeed and they are
+- **[10:35](https://www.youtube.com/watch?v=XEFuig5m2Rs&t=635s) · 本段原话**：the Bell the bells are ringing and Jesus is coming and there's one last push for for for them to get on the boat I hope you're on the boat today well God bless you all put a smile on your face and a song in your heart Jesus loves you so much and we love you and we will see you
 
 ### 完整英文 Transcript
 

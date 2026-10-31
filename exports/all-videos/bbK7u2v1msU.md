@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 1395；**章节数**: 12；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 70:00–76:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 77:00–80:32 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:19](https://www.youtube.com/watch?v=bbK7u2v1msU&t=19s) · 本段原话**：on with Israel. There is a lot of prayer needs right now, you know, and um my wife tells me all the time, there's people that need prayer, Brandon, in the comments and the emails that we get and all, you know, in the comment section, all kinds of stuff. So, I I'm going to
+- **[14:33](https://www.youtube.com/watch?v=bbK7u2v1msU&t=873s) · 本段原话**：demonstrations and the manifestations of your glory, the demonstrations of your power like we've never seen before in this hour. Father, we call on forth an outpouring of the the of the wells, the deep wells, calling them forth the bubbling, bubbling, bubbling to come up out of the belly shall flow rivers, rivers, rivers of living water. We thank
+- **[29:00](https://www.youtube.com/watch?v=bbK7u2v1msU&t=1740s) · 他描述所见**：I see Georgia. Georgia. You will sway over this way. You will come.
+- **[49:15](https://www.youtube.com/watch?v=bbK7u2v1msU&t=2955s) · 本段原话**：Let it go. You don't want it in there. You're free right now. It may come out with a yawn. It may come out with some kind of gurgle. I've seen it come out a lot of different ways, but you're free.
+- **[63:33](https://www.youtube.com/watch?v=bbK7u2v1msU&t=3813s) · 他描述所见**：You're faithful. Father, we give you praise and glory and we're calling it in right now. Oh, I see cataracts being healed. Somebody's believing for cataracts and and glycom that stuff with your eyes. We call your eyes clear and healed and whole right now in the name of Jesus. We speak to that. We say go in
+- **[77:18](https://www.youtube.com/watch?v=bbK7u2v1msU&t=4638s) · 他描述所见**：didn't sit at his feet today. So hopefully this video blessed you today. I I felt in my heart. I felt the Holy Spirit move on those those healings and for these deliverances and these people. You're set free. I saw people get set free. I saw you get set free. I don't know who exactly you are, but I
+
 <a id="section-01"></a>
 ## 01. 00:00–06:59 · 祷告、敬拜与现场互动、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、地震、风暴与灾害、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、地震、风暴与灾害展开，包含具体发言。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:19](https://www.youtube.com/watch?v=bbK7u2v1msU&t=19s) · 本段原话**：on with Israel. There is a lot of prayer needs right now, you know, and um my wife tells me all the time, there's people that need prayer, Brandon, in the comments and the emails that we get and all, you know, in the comment section, all kinds of stuff. So, I I'm going to
+- **[00:34](https://www.youtube.com/watch?v=bbK7u2v1msU&t=34s) · 本段原话**：dedicate I'm going to try. Now, there's a lot of things going on this month um with the prayer conference and um Nancy Drain's here uh at church this week and uh Billy Burks uh and Eupfalla in the next couple of days. There's a lot of really cool events going on for healing and and things like that. So, I'm going
+- **[02:34](https://www.youtube.com/watch?v=bbK7u2v1msU&t=154s) · 本段原话**：days. The election was on is going to be on the 5th and today is the 7th. So, um I hope this blesses you. So, I'm just going to jump right into it. You know, I usually try to sing a song or whatever, but um because I'm going to be doing this so much, I'm going to just get
+- **[06:15](https://www.youtube.com/watch?v=bbK7u2v1msU&t=375s) · 本段原话**：losing strength right now. We're calling you to dissipate. I don't care how hot the go Gulf of Mexico is, the warm waters are. Father, you're able to to poke that hurricane's eye out. Cause disruption in the eye, causing it to weak, not keep getting stronger and stronger. I thank you, Father, for it. I
 
 ### 完整英文 Transcript
 
@@ -200,7 +218,14 @@
 <a id="section-02"></a>
 ## 02. 07:00–13:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 提到的地点：Texas。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[07:27](https://www.youtube.com/watch?v=bbK7u2v1msU&t=447s) · 他转述所听到的话**：did. I thank you, Father, for supernatural increase over their home. Lord, I thank you for this for this area, Lord. We need rain now. Lord, they we haven't had rain in a long a while. And I know what you said about Texas in the Lach area, Lord. When you told me I I heard no water, no
+- **[09:23](https://www.youtube.com/watch?v=bbK7u2v1msU&t=563s) · 本段原话**：And that's what you do. You speak to the weather. You speak to the systems and you call them in. You have authority over the weather. Just like how Jesus spoke off the boat and he said, "Peace be still to the storm." You're able to speak to the storm.
+- **[12:12](https://www.youtube.com/watch?v=bbK7u2v1msU&t=732s) · 本段原话**：I call the blinders to come off the people's eyes concerning the darkness on way to vote. We speak and we say light flood their eyes. They have been blinded by the devil. We speak to the eyes to open right now in Jesus' name. That they would have an eyes of their understanding in Ephesians 1:18 that
+- **[13:21](https://www.youtube.com/watch?v=bbK7u2v1msU&t=801s) · 他进行祷告**：Joe Biden, we pray for protection and Father, even in his mind, Father, that he would lead his country up until it's time to leave in January and do it in a godly way.
 
 ### 完整英文 Transcript
 
@@ -378,7 +403,14 @@
 <a id="section-03"></a>
 ## 03. 14:00–20:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[14:33](https://www.youtube.com/watch?v=bbK7u2v1msU&t=873s) · 本段原话**：demonstrations and the manifestations of your glory, the demonstrations of your power like we've never seen before in this hour. Father, we call on forth an outpouring of the the of the wells, the deep wells, calling them forth the bubbling, bubbling, bubbling to come up out of the belly shall flow rivers, rivers, rivers of living water. We thank
+- **[16:18](https://www.youtube.com/watch?v=bbK7u2v1msU&t=978s) · 本段原话**：Father, I thank you, Lord, for the Holy Spirit. We thank you that you're doing mighty works in these last days for mighty mighty move of your grace and your power one last time upon this nation upon the nations of the world upon Australia and Africa and Asia and China area and over Russia and over over
+- **[17:57](https://www.youtube.com/watch?v=bbK7u2v1msU&t=1077s) · 他进行祷告**：Lord, we give you praise and glory. Father, we pray over the peace of Jerusalem and over the over the chemical weapons and the biological weapons that you've showed me in the past. We call forth an uncovering of hidden attacks no more, Father. And I thank you, Lord, that there is a supernatural wisdom on
+- **[19:14](https://www.youtube.com/watch?v=bbK7u2v1msU&t=1154s) · 他进行祷告**：English for the for the for the uh majority of the people who don't pray in the spirit, but I'm going to pray now in the spirit. and I'm going to go into the deeper river with him and I'm going to figure what he uh that he more of what he wants to show me. So you can stay
 
 ### 完整英文 Transcript
 
@@ -513,7 +545,14 @@
 <a id="section-04"></a>
 ## 04. 21:00–27:59 · 美国选举与投票、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：美国选举与投票、物资、能源与供应链、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕美国选举与投票、物资、能源与供应链展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:45](https://www.youtube.com/watch?v=bbK7u2v1msU&t=1545s) · 本段原话**：top the days after the election Tuesday, Wednesday, Thursday, Friday overwhelming decisions.
+- **[26:42](https://www.youtube.com/watch?v=bbK7u2v1msU&t=1602s) · 本段原话**：it up. So much so they can't cover it up. The vote had spoken.
+- **[26:53](https://www.youtube.com/watch?v=bbK7u2v1msU&t=1613s) · 他描述所见**：Overwhelming over. Not even close. [Music] The trucks. These trucks. These trucks with these ballots. I see.
+- **[27:38](https://www.youtube.com/watch?v=bbK7u2v1msU&t=1658s) · 他进行祷告**：Oh, we pray over Georgia, Atlanta right now. praying over over Georgia. Georgia
 
 ### 完整英文 Transcript
 
@@ -570,7 +609,14 @@
 <a id="section-05"></a>
 ## 05. 28:00–34:59 · 地震、风暴与灾害、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：地震、风暴与灾害、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕地震、风暴与灾害、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[29:00](https://www.youtube.com/watch?v=bbK7u2v1msU&t=1740s) · 他描述所见**：I see Georgia. Georgia. You will sway over this way. You will come.
+- **[30:14](https://www.youtube.com/watch?v=bbK7u2v1msU&t=1814s) · 他描述所见**：I'm in Denver. I see it up in the air. predominantly blue again.
+- **[32:10](https://www.youtube.com/watch?v=bbK7u2v1msU&t=1930s) · 他进行祷告**：overwhelming the the the red wave. An overwhelming red wave. Now we pray over the protection over Trump. We pray over protection. No more tempts that all hidden things be revealed. We call a hedge. We call him
+- **[34:51](https://www.youtube.com/watch?v=bbK7u2v1msU&t=2091s) · 本段原话**：Show the true heart of America. Show the true heart of America. Even in in the dark the darkest places. Show
 
 ### 完整英文 Transcript
 
@@ -645,7 +691,14 @@
 <a id="section-06"></a>
 ## 06. 35:00–41:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:24](https://www.youtube.com/watch?v=bbK7u2v1msU&t=2124s) · 本段原话**：It's an awakening unto God. It's an awakening into the fire of God. It's an awakening and revival, a one last push of revival. For Father, I thank you that even whenever if he wins and gets over there, Father, it's going to take the Holy Spirit to keep him there.
+- **[37:07](https://www.youtube.com/watch?v=bbK7u2v1msU&t=2227s) · 本段原话**：an uncovering of an attack. An uncovering of an attack. Oh no.
+- **[38:48](https://www.youtube.com/watch?v=bbK7u2v1msU&t=2328s) · 本段原话**：Father, we call forth abundance to the fool to it overflows, over their households right now that they have more than enough. More than enough. That the spirit of lack, the spirit of not enough is broken off of their lives.
+- **[41:36](https://www.youtube.com/watch?v=bbK7u2v1msU&t=2496s) · 他描述所见**：dam on it, trying to block it up with debris and and and stuff. And it went through a small pipe. And I see this small pipe and it looks like a drainage pipe. And he's tried to clog that up so the Holy Spirit can't flow through your through your vessel, but and and the sticks have eyes. And as
 
 ### 完整英文 Transcript
 
@@ -736,7 +789,14 @@
 <a id="section-07"></a>
 ## 07. 42:00–48:59 · 教会、复兴与信仰、地震、风暴与灾害
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、地震、风暴与灾害、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、地震、风暴与灾害展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[42:01](https://www.youtube.com/watch?v=bbK7u2v1msU&t=2521s) · 本段原话**：bank in the spirit and I'm looking at the stream and the stream is trying to flow. The Holy Spirit wants to flow, but there's there's stuff that you've brought into your life that is that that has blocked the flow.
+- **[44:40](https://www.youtube.com/watch?v=bbK7u2v1msU&t=2680s) · 本段原话**：The breaking the breaking the breaking of the dams of the of the of the the hindrances the hindrances that would hinder. We call forth the hindrances to be no more hindrance. We call them Freely, freely, freely, freely, freely,
+- **[47:03](https://www.youtube.com/watch?v=bbK7u2v1msU&t=2823s) · 本段原话**：You say, "I've been bound for I you don't know how long. It's been a long time."
+- **[48:10](https://www.youtube.com/watch?v=bbK7u2v1msU&t=2890s) · 他表达判断**：No more demonic strongholds be gone in Jesus' name. We call healing over their bodies right now in Jesus' name. Everything they need from the top of their head to the soles of their feet, we call you healed and whole and well. Believe with I believe with you right now. You just believe with me that
 
 ### 完整英文 Transcript
 
@@ -842,7 +902,14 @@
 <a id="section-08"></a>
 ## 08. 49:00–55:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[49:15](https://www.youtube.com/watch?v=bbK7u2v1msU&t=2955s) · 本段原话**：Let it go. You don't want it in there. You're free right now. It may come out with a yawn. It may come out with some kind of gurgle. I've seen it come out a lot of different ways, but you're free.
+- **[53:03](https://www.youtube.com/watch?v=bbK7u2v1msU&t=3183s) · 本段原话**：Expose that. You got to get that that that that out of your house, off your phone, whatever. Tell your wife, tell your husband, tell tell somebody that you need help to have somebody to be accountable to. You don't want to keep open the door for the devil once you get free. You don't want to come let that
+- **[54:11](https://www.youtube.com/watch?v=bbK7u2v1msU&t=3251s) · 本段原话**：And have an account accountability a part partner and get your device. If you can't handle having a device, a private phone or something, get rid of it for for a while until you're able to get some freedom in that with that. But but because you got to put steps to it. You can't go, "Well,
+- **[55:53](https://www.youtube.com/watch?v=bbK7u2v1msU&t=3353s) · 本段原话**：Don't give him any more access in your life. Don't let him have any more foothold in your life. Jesus is coming. You may not
 
 ### 完整英文 Transcript
 
@@ -1014,7 +1081,14 @@
 <a id="section-09"></a>
 ## 09. 56:00–62:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[56:01](https://www.youtube.com/watch?v=bbK7u2v1msU&t=3361s) · 本段原话**：have tomorrow. Jesus is coming. Thank you, Father. Thank you, Father, for setting these people free. Thank you, Father, for delivering them from the demonic spirits that hold them down and that that river can flow and those twigs, those demonic twigs are pulled out of there. The angels of the Lord remove those twigs
+- **[57:26](https://www.youtube.com/watch?v=bbK7u2v1msU&t=3446s) · 本段原话**：You you say I be be be not afraid. Be not dismayed. For I the Lord your God am with you wherever you go. No matter how bad things look in the world, no matter how many hurricane, no matter how many earthquakes, no matter how many war problems, I refuse to fear.
+- **[58:43](https://www.youtube.com/watch?v=bbK7u2v1msU&t=3523s) · 他进行祷告**：You and your husband are going to conceive a child. We pray over that womb right now in the name of Jesus that you will have a baby, beautiful baby, nothing missing, nothing broken, and your vine will not cast fruit before it's time. And I stand in agreement that the womb of your uh that your womb is
+- **[60:56](https://www.youtube.com/watch?v=bbK7u2v1msU&t=3656s) · 本段原话**：takes time to recover. So, Father, we thank you, Lord, that everything the devil meant for bad, you're going to turn it for good right now. that they start their family. Father, I thank you, Lord, that they train up a child when in the way they should go when they get older than not depart from it. Teach
 
 ### 完整英文 Transcript
 
@@ -1177,7 +1251,14 @@
 <a id="section-10"></a>
 ## 10. 63:00–69:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[63:33](https://www.youtube.com/watch?v=bbK7u2v1msU&t=3813s) · 他描述所见**：You're faithful. Father, we give you praise and glory and we're calling it in right now. Oh, I see cataracts being healed. Somebody's believing for cataracts and and glycom that stuff with your eyes. We call your eyes clear and healed and whole right now in the name of Jesus. We speak to that. We say go in
+- **[64:58](https://www.youtube.com/watch?v=bbK7u2v1msU&t=3898s) · 本段原话**：I'm telling you, the spirit of the Lord is coming through that camera and he's setting setting the captives free. He's setting the captives free right now. If you've received a healing of some kind and you feel the presence of the Lord going through your body, say something.
+- **[65:59](https://www.youtube.com/watch?v=bbK7u2v1msU&t=3959s) · 本段原话**：You got to get underneath the fresh touch of the master's hand, a fresh touch of the Holy Spirit, a fresh drink of the living water to drink the living water, a fresh touch from Jesus.
+- **[67:51](https://www.youtube.com/watch?v=bbK7u2v1msU&t=4071s) · 本段原话**：Shining in the light of your glory. Pour out your power and love.
 
 ### 完整英文 Transcript
 
@@ -1310,7 +1391,14 @@
 <a id="section-11"></a>
 ## 11. 70:00–76:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[70:25](https://www.youtube.com/watch?v=bbK7u2v1msU&t=4225s) · 本段原话**：Lord, we lift our hands in worship as we bless your holy name. For you deserve the gloryy [Music] and the honor.
+- **[73:29](https://www.youtube.com/watch?v=bbK7u2v1msU&t=4409s) · 他进行祷告**：because his presence shows up and I look for his presence all day and it's just being obedient to what he asks you to do. I want you to do something for me. Do the prayer video and pray for my people. Okay. And then I get distracted. I'm doing stuff with work and doing things. I need you to do
+- **[74:34](https://www.youtube.com/watch?v=bbK7u2v1msU&t=4474s) · 本段原话**：You look for the peace that passes all understanding in every area of your life. It's what brings peace in your marriage. It brings peace in your children. makes it where you can flow uh and ha have harmony in your home.
+- **[76:40](https://www.youtube.com/watch?v=bbK7u2v1msU&t=4600s) · 他表达判断**：start flying better again. It's just following him and and the flesh he tries to r up rare up all the time. That's why you got to I crucify myself daily. The Bible say I think it's apostle said I crucify myself daily. Not just not just every once in a
 
 ### 完整英文 Transcript
 
@@ -1444,7 +1532,14 @@
 <a id="section-12"></a>
 ## 12. 77:00–80:32 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[77:18](https://www.youtube.com/watch?v=bbK7u2v1msU&t=4638s) · 他描述所见**：didn't sit at his feet today. So hopefully this video blessed you today. I I felt in my heart. I felt the Holy Spirit move on those those healings and for these deliverances and these people. You're set free. I saw people get set free. I saw you get set free. I don't know who exactly you are, but I
+- **[77:56](https://www.youtube.com/watch?v=bbK7u2v1msU&t=4676s) · 本段原话**：It's going to be exciting. Tell us about it. I said, I'm I'm happy for you. Um but I'm believe you all kinds of manif demonstration manifestations. Like I said, it ain't the Holy Ghost lottery. I don't have to call out your healing for you to just receive underneath that anointing. All you to do is just just
+- **[78:58](https://www.youtube.com/watch?v=bbK7u2v1msU&t=4738s) · 他表达判断**：here and you've never prayed with me, uh like my video, please, if you could subscribe if you haven't subscribed click the notification bell. It helps with the algorithm. The channel's really taking off, y'all. I think I'm almost to 400,000 subscribers. all for the glory of God. It's not about me at all. It's
+- **[79:57](https://www.youtube.com/watch?v=bbK7u2v1msU&t=4797s) · 本段原话**：Thank you for your support for my family. You've made a dream come true to be able to minister Jesus throughout the whole world. Well, I just want to say put a smile on your face and a song in your heart.
 
 ### 完整英文 Transcript
 

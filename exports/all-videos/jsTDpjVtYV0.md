@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 972；**章节数**: 11；**明确省略行数**: 0
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -21,10 +21,28 @@
 - [10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
 - [11. 40:00–42:14 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:50](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=50s) · 他转述所听到的话**：this back in March and started doing this YouTube channel and the Lord told me he said there's going to be an acceleration of all things there's acceler cation of of of the economy acceleration in politics acceleration in um spiritual things like in the signs in the heavens we are going to see some
+- **[08:02](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=482s) · 本段原话**：little bit of extra in your house so and and you can have an urgency like I'm talking about you know whenever I was whenever I was in the spirit and the Lord showed me a massive storm coming on the East Coast it was massive dark dark dark purple all inside of the uh storm
+- **[16:01](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=961s) · 本段原话**：so the prodical are coming home and the weak anemic selfish Christians that want the church to Pat them on the back are about to get an Awakening startled sprinkled by the power of God you mark my words The Remnant church is going to become the place to be and they are coming from the north
+- **[25:03](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1503s) · 本段原话**：we have nothing to worry about because Jesus Christ dwells on the inside of us and all Heaven is back in us we have all the Angels the military we have all of the Treasury Department cattle and a thousand hills everything of the Lord is his in the fullness thereof it's all the Lord's everything we need is in that
+- **[32:00](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1920s) · 本段原话**：the inside of you in these last days that's going to get you free you should know the truth and the truth will set you free it's the truth of God's word it's truth of understanding who he is and what he done for you and if you just were to read Ephesians and read
+- **[40:02](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=2402s) · 本段原话**：for the for the the The Sparrows he knows when a sparrow Falls he knows whenever I have needs he knows when you have needs nothing's too big for God nothing's too big for him he is L yon the most high he is Jehovah Gyra he is I am that I am and the same Jes Jesus that dwell 2,000
+
 <a id="section-01"></a>
 ## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:50](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=50s) · 他转述所听到的话**：this back in March and started doing this YouTube channel and the Lord told me he said there's going to be an acceleration of all things there's acceler cation of of of the economy acceleration in politics acceleration in um spiritual things like in the signs in the heavens we are going to see some
+- **[02:47](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=167s) · 他转述所听到的话**：going to show you on this video and his name is Pastor Tracy Harris and he has a church in uh Texar canana so the Lord told me to follow his his ministry you know about the end times and so then you go back to what Pastor Stephen uh calani said and he talked about the pel the
+- **[03:05](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=185s) · 他描述所见**：green coril horse the warhorse would come and then the and then the the the the P plague would come after well I don't know like I said we we prophesy in part we hear in part I see these things coming and I don't really know the dates I what I I feel in my spirit and and
+- **[03:41](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=221s) · 本段原话**：one that we'll hear is about um a plague coming uh greater than coid so uh and then we have I didn't put it on here just for time sake but Pastor John Kilpatrick had a visitation in the Midnight Hour uh from the Lord warning him about a storm coming and so so
 
 ### 完整英文 Transcript
 
@@ -137,7 +155,14 @@
 <a id="section-02"></a>
 ## 02. 04:00–07:59 · 地震、风暴与灾害、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：地震、风暴与灾害、物资、能源与供应链、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕地震、风暴与灾害、物资、能源与供应链展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[04:20](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=260s) · 本段原话**：there'll be a calm after it and uh there's going to be judgments now um you can sense some things okay and um we're not talking the Great Tribulation you will not even be here but here in the Ozarks Shelly and I I how many years ago was that son the ice storm you know what year that
+- **[04:52](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=292s) · 本段原话**：was knocked out electric for electricity for two weeks trees broke everywhere how many how many of you around here you remember that I do I remember it happened here in Oklahoma 13 years ago and shell and I I had sold my house and I'm living in a double wide with shell out at per mountain till I could find
+- **[06:02](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=362s) · 本段原话**：a Survivor I can tell you right now for a while they had a generator and I said there is something wrong with this picture but nonetheless it was three weeks two weeks son how long how long two weeks and it was below zero every night you remember that if you lived around
+- **[07:00](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=420s) · 本段原话**：have a couple of cans extra have plenty of water have food that doesn't require but you need to have some food and and I'm not a scare tactic person yeah me either I don't want you in fear no but it doesn't hurt you uh to have some um peanut butter and tuna fish and salmon
 
 ### 完整英文 Transcript
 
@@ -237,7 +262,14 @@
 <a id="section-03"></a>
 ## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[08:02](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=482s) · 本段原话**：little bit of extra in your house so and and you can have an urgency like I'm talking about you know whenever I was whenever I was in the spirit and the Lord showed me a massive storm coming on the East Coast it was massive dark dark dark purple all inside of the uh storm
+- **[08:18](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=498s) · 他描述所见**：and it was coming and it was it was a little ways off at the time whenever I saw this and every once in a while when I'm praying in the spirit the Lord will show it's gotten closer and closer and the last time I saw it it was on our Shores and so um he showed me a wall a
+- **[09:15](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=555s) · 本段原话**：is Psalms Psalms 91 and there was a there was a a table that was all fussed out whatever with dishes and everything on it and bread and there was all kinds of beautiful uh stuff there prepared for us as Believers and there was a stream of quiet Brook right next to the table there was just green Lush
+- **[11:28](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=688s) · 本段原话**：mountain your Mountain needs to hear your voice you have to speak to your circumstances and that's what I'm talking about having the authority of the believer and in in and having a revelation of the name of Jesus no understanding who we are in Christ seed with him in the heavenlies far above all
 
 ### 完整英文 Transcript
 
@@ -343,7 +375,14 @@
 <a id="section-04"></a>
 ## 04. 12:00–15:59 · 预言、梦境与异象、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、祷告、敬拜与现场互动展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:50](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=770s) · 他描述所见**：come on and that's whenever you speak that word out of your mouth and the devil James 4:17 submit yourself unto God resist the devil and he will flee from you and so um I'm going to go to this next prophetic word and this kind of go this is the men that I saw in the
+- **[13:08](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=788s) · 他转述所听到的话**：throne room with the Lord praying for the Nations asking the Lord for a fresh visitation from him uh concerning uh souls and outpouring I I heard his prayers and that's what he was praying for in the Midnight Hour is in the middle of the night and so we're gonna this is a warning okay so what's amazing
+- **[14:14](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=854s) · 本段原话**：your faith before I started talking to you you can't get caught up in the things I'm going to say because if you're natural you're natural minded you're going to worry about what is it what's the Lord saying what's coming on the earth that's not the point it's not the point the point is stay on
+- **[15:14](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=914s) · 本段原话**：shift churches right now that are absolutely going and blowing and you think oh wow they're doing great and in a short time if they will not take hold of the Full Gospel and operate in the authority of this name they're literally going to look like somebody drove a truck through there and I mean it's
 
 ### 完整英文 Transcript
 
@@ -446,7 +485,14 @@
 <a id="section-05"></a>
 ## 05. 16:00–19:59 · 教会、复兴与信仰、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、物资、能源与供应链、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、物资、能源与供应链展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[16:01](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=961s) · 本段原话**：so the prodical are coming home and the weak anemic selfish Christians that want the church to Pat them on the back are about to get an Awakening startled sprinkled by the power of God you mark my words The Remnant church is going to become the place to be and they are coming from the north
+- **[17:01](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1021s) · 本段原话**：understand who they are in country because churches are the bullseye of the Target right is raising up a church a nation within a nation and it's raising up some voices young and old a lot that are going to run together I'm telling
+- **[18:29](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1109s) · 本段原话**：the authority of the name of Jes Jesus exactly when God is saying prepare he's not talking about buying your 177 7777 good luck dried food package where you can your family can eat for five years in a cave if he speaks to you you're going to know it he can wake you up in the middle of
+- **[19:27](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1167s) · 本段原话**：three weeks past the pro come on now this will be the most important survival skill bar none in the end times the revelation of the power and the authority of the mighty name that's above every name where we can handle life that will bring fish water bread in the desert where there's no
 
 ### 完整英文 Transcript
 
@@ -541,7 +587,14 @@
 <a id="section-06"></a>
 ## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:02](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1202s) · 本段原话**：is not going to have a problem getting your stuff to you I don't care what kind of pandemic is going on right we're not going to run out of trees so you're going to have heat go cut you some trees and have a fire you're not going to it amazed me a why2k
+- **[21:04](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1264s) · 本段原话**：all over the world because if it doesn't the Holy Ghost can't come finish this Harvest there's going to be a massive Harvest i w be the only one preaching it but he told me and and matter of fact I would be one of the tips of the spirit so I'm getting after it sir I'm about to
+- **[22:14](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1334s) · 他讨论新闻或报道**：of a demon-possessed person as long as I know when the devil manifests I've got that name to use there'll be no Bankers statement No doctor's report no lawyer's plea or suit no law government transaction no threatening letter from the IRS there'll never be anything that we have to draw back from
+- **[23:16](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1396s) · 本段原话**：a portal we just we literally just went through a shift we we just stepped somewhere today this the ninth month of the year this thing's coming to pass for us so I so here we are here here we are he's warning about what he saw coming and it and and it's like he like he said
 
 ### 完整英文 Transcript
 
@@ -632,7 +685,14 @@
 <a id="section-07"></a>
 ## 07. 24:00–27:59 · 教会、复兴与信仰、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[25:03](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1503s) · 本段原话**：we have nothing to worry about because Jesus Christ dwells on the inside of us and all Heaven is back in us we have all the Angels the military we have all of the Treasury Department cattle and a thousand hills everything of the Lord is his in the fullness thereof it's all the Lord's everything we need is in that
+- **[26:40](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1600s) · 他表达判断**：coming you can hear God for yourself you can get in the word you can fast you can pray and yeah he speaks to his prophetic voices I believe that for these end times but but you there's a lot of people that are like desperate they're all they email me hey what can I do to
+- **[26:56](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1616s) · 本段原话**：invest what can I do do where should I be moving where should I be living where should I be going with my kids and my family and everything we're desperate we don't hear the lord well I'm going to tell you the Bible says that a sheep knows his voice and a stranger's voice
+- **[27:44](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1664s) · 本段原话**：wife if you if you only talk to her once a week you're you're not going to have a good relationship if you only talk to her twice a week you're only going to have a a a semi okay relationship but the more you spend time with her the more you you you have fellowship with
 
 ### 完整英文 Transcript
 
@@ -736,7 +796,14 @@
 <a id="section-08"></a>
 ## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[28:15](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1695s) · 本段原话**：of your of your you know that you're married to it builds a relationship and over the course of years I look even back I've been married 23 years and the relationship that I have with my wife today after almost 23 years of marriage um is nothing comp back like even when we first got
+- **[29:44](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1784s) · 本段原话**：business he tempted you he got he he causes us to stumble and fall the Bible says that he's the great tempter and he's the accuser of the Brethren but I'm telling you when you run to the blood and you run to the name of Jesus and you say father I need you I'm desperate I
+- **[31:11](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1871s) · 本段原话**：and and and and I'm telling you it renew your mind it renews your it renews your thinking it anoints you it it appoints you for such a time as this I'm telling you it's the word of God that will set you free and you've got to get that word I'm not going to start crying
+- **[31:28](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1888s) · 本段原话**：woohoo you've got to get that word on the inside of you because if you don't the Bible says the the enemy comes like a roaring lion seeking whom he may devour and the ones that can he's able to devour is the ones that don't know the word and don't have a revelation of
 
 ### 完整英文 Transcript
 
@@ -847,7 +914,14 @@
 <a id="section-09"></a>
 ## 09. 32:00–35:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[32:00](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1920s) · 本段原话**：the inside of you in these last days that's going to get you free you should know the truth and the truth will set you free it's the truth of God's word it's truth of understanding who he is and what he done for you and if you just were to read Ephesians and read
+- **[32:59](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=1979s) · 他表达判断**：you I think about I think about all the words that he all the scriptures and all the things that he's given us to give us power and authority over the devil and so I'm just I'm just trying to encourage you all try to tell you that Jesus loves you so much he has a plan
+- **[34:10](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=2050s) · 本段原话**：go to Target because it's a there's fish I want to go in there and and and touch the souls for Jesus there's people that are desperate and what a better place to go where there's all these people that are they desperately just need Jesus they just desperately need Jesus they're lost and I'm telling you I
+- **[35:23](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=2123s) · 本段原话**：they're they're they're like a chicken with his head cut off they don't know where to turn they don't hear your voice Lord but I know that your word says they shall hear your voice and a stranger's voice they won't follow concerning the end times and I plead the blood of Jesus Christ over every single person that is
 
 ### 完整英文 Transcript
 
@@ -949,7 +1023,14 @@
 <a id="section-10"></a>
 ## 10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[36:21](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=2181s) · 本段原话**：known the word but father we call wayward children home we call them home in the name of Jesus we call Angels out there right now to go from the north the South the east to west calling all those unsaved loved ones to come in right now in the name of Jesus we call you
+- **[38:09](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=2289s) · 本段原话**：we're not bound by the devil anymore for Galatians 313 says Christ has redeemed us from the curse of the law you don't have to be under the curse no more you don't have to be under the curse no more Jesus Paid the price for you he paid the price for you to walk in
+- **[38:52](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=2332s) · 本段原话**：these people today no matter what storm no matter what earthquake no matter what pestilence to be absent from the body is to be present with you death is is lost its victory over us death is no longer lorded over us we don't have fear over death because when we die we go to be with him so we're not
+- **[39:25](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=2365s) · 本段原话**：going to be afraid of pestilence we're not going to be afraid of of of plagues we're not going to be afraid of Terror attacks we're not going to be afraid of earthquakes we're not going to be afraid of all this fear has lost its victory over me perfect love casteth out all fear for
 
 ### 完整英文 Transcript
 
@@ -1047,7 +1128,14 @@
 <a id="section-11"></a>
 ## 11. 40:00–42:14 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:02](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=2402s) · 本段原话**：for the for the the The Sparrows he knows when a sparrow Falls he knows whenever I have needs he knows when you have needs nothing's too big for God nothing's too big for him he is L yon the most high he is Jehovah Gyra he is I am that I am and the same Jes Jesus that dwell 2,000
+- **[40:28](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=2428s) · 他进行祷告**：years ago it said Jesus Christ the same yesterday today and forever and Faith calls those things that be not as though they were you got to call your circum you got to speak to your circumstances calling those things that be not as though they were I hope this this video blessed you today I pray for you father I thank you
+- **[40:53](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=2453s) · 他进行祷告**：Lord for Fresh Fire on these folks I thank you for for Fresh Fire a fresh anointing a fresh presence on your their life to give them give them encouragement I pray encouragement over them I pray a fresh anointing on them Father that they will realize how much you love them and that father that you
+- **[41:55](https://www.youtube.com/watch?v=jsTDpjVtYV0&t=2515s) · 本段原话**：now in the name name of Jesus and we give you all the glory honor and Praise Jesus we love you well put a smile on your face and a song in your heart Jesus loves you so much and we love you and we thank you for watching this video God bless you all have a great day byebye
 
 ### 完整英文 Transcript
 

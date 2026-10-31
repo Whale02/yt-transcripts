@@ -5,7 +5,7 @@
 **上传日期**: 原始 manifest 未提供
 **源字幕行数**: 2636；**章节数**: 12；**明确省略行数**: 1
 
-**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
 
 ## 章节目录
 
@@ -22,10 +22,28 @@
 - [11. 120:00–131:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
 - [12. 132:00–138:39 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
 
+## 全片概述与 Key Points
+
+全片共 12 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[01:44](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=104s) · 他描述所见**：going to continue to stand and stand for our nation, praying over what the Lord has uh told us to pray over concerning by Byron and and and um the election fraud and and and too big to rig things that we're praying over to expose darkness. And the Lord said in the days ahead cuz I saw the bridge coming out of
+- **[24:06](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=1446s) · 本段原话**：This document shows that the election workers simply circle a number of the vouches. [music] There's no other identifying information. And Scott Pressler from the organization Early Vote action says there is no list of these vouchi voters anywhere when he requested them from areas like Duth, St. Paul, [music] Minneapolis, and St. Cloud, Minnesota.
+- **[50:40](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=3040s) · 他描述所见**：Don't offend the people. Oh, you got to do this. You got to do that. No, we're going to love on you and Jesus is going to clean you up. Watch what God I saw transgenders. I saw people that had long pink hair that were men taking off their false eyelashes, taking their hair off
+- **[84:28](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=5068s) · 他描述所见**：It's flatline. And all of a sudden when it comes to what I'm looking at right now, I see a flatline AC. It's on the surface and it's black there. it. You can actually see I don't know how else to say it. The head at the head of the flatline. It looks like a little ball where you would
+- **[109:26](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=6566s) · 本段原话**：It's symbolic rain. Let the rain of the Holy Ghost, let the rain of the Holy Ghost, let the rain of his presence, we take authority over the high pressure system and you shrink.
+- **[132:55](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=7975s) · 本段原话**：I thank you, Father, that there's governors and mayors and senators that that will win with a landslide. And we we thank you for the uncovering as we contend for the victory. We contend in these last days. And we will not allow the enemy to take take the land. We will stand up and fight.
+
 <a id="section-01"></a>
 ## 01. 00:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、物资、能源与供应链。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[01:44](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=104s) · 他描述所见**：going to continue to stand and stand for our nation, praying over what the Lord has uh told us to pray over concerning by Byron and and and um the election fraud and and and too big to rig things that we're praying over to expose darkness. And the Lord said in the days ahead cuz I saw the bridge coming out of
+- **[03:39](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=219s) · 他描述所见**：are influencing us uh and and influencing the earth and the north poles and and the the way that the moon helps our tides and all the things that are the signs of the times. The Lord was showing me that the tides were going to come in further than they've ever come in before, flooding into see I saw major
+- **[06:08](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=368s) · 他描述所见**：you say things that kind of scare us. Well, if you're not prepared and you're not have your have your lamp full of oil, if your lamp is empty, yeah, it's scary. But when you're filled with controlled by the Holy Ghost in these last days, I I'm not moved by what I see. I'm not moved by what I feel. I'm
+- **[11:01](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=661s) · 他表达判断**：have tried to do something and that have we've stopped it by prayer." I believe the prayer of the righteous is is carrying him across the finish line like the Lord told us. And it will and he is in the valley of decision concerning how he handles Israel and how he handles the nations in the days ahead uh as our
 
 ### 完整英文 Transcript
 
@@ -330,7 +348,14 @@
 <a id="section-02"></a>
 ## 02. 12:00–23:59 · 战争与国际事务、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：战争与国际事务、祷告、敬拜与现场互动、美国选举与投票。 提到的地点：Russia、Ukraine。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕战争与国际事务、祷告、敬拜与现场互动展开，包含个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[12:29](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=749s) · 他表达判断**：So they took such drastic measures because of whatever they heard, I believe, by the leading of the Lord that nothing happened. And even with the mountains in the distance and all the things the Lord shown, he said on top of a rooftop, it was a way far away, like a mile, like a long ways away. It was with
+- **[15:25](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=925s) · 他表达判断**：Did anybody know about that? I know probably some of you didn't. And then um this is Russia trying to shoot drones out of the sky and they're using they're using pretty big uh probably 50 caliber weapons there. It looks like a machine gun. They're just trying to shoot drones sky. It looks like fireworks.
+- **[18:49](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=1129s) · 本段原话**：And groups from outside our community may come to the Dearborn City Council meeting on Tuesday, August 18th. We've been monitoring the situation closely and coordinating with our state and federal partners. We have a plan in place and you'll see an enhanced presence of police officers, but here's my direct ask of our residents. Please
+- **[22:18](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=1338s) · 本段原话**：Okay. That's that's a good thing. We go back and we get and uh Muhammad. In Minnesota, you can show up on election day and vouch for up to eight unregistered voters. Members of the Justice League dress up in traditional Muslim attire and put this vouching law to an extreme test on primary day, August 11th. The vouching
 
 ### 完整英文 Transcript
 
@@ -650,7 +675,14 @@
 <a id="section-03"></a>
 ## 03. 24:00–35:59 · 预言、梦境与异象、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 提到的地点：Texas、Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕预言、梦境与异象、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[24:06](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=1446s) · 本段原话**：This document shows that the election workers simply circle a number of the vouches. [music] There's no other identifying information. And Scott Pressler from the organization Early Vote action says there is no list of these vouchi voters anywhere when he requested them from areas like Duth, St. Paul, [music] Minneapolis, and St. Cloud, Minnesota.
+- **[28:39](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=1719s) · 他描述所见**：The people at the bottom, they might be feel is innocent. And they're they're just blinded to what's happening at the top. And the Lord said, "There's great darkness in this." And I saw it at the top. And there was certain things that some people get really mad about it, but you're going to have to get over it.
+- **[30:51](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=1851s) · 他描述所见**：And they were they were they look like militant. And I saw a a major divide when it comes to this nation with a shaking on our own soil concerning what what they were saying. We're not going to have this. and Texas put up lines and they try to secede from America in the days ahead. I saw all this stuff,
+- **[32:43](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=1963s) · 他表达判断**：I said what's coming is worse than CO. There's a major virus that's worse than CO. Brandon, are we going to stop it? I don't believe we will. I believe we can lessen some things, but I that's what I'm trying to tell you. If you don't know Psalms 23 and Psalms 91 and the
 
 ### 完整英文 Transcript
 
@@ -935,7 +967,14 @@
 <a id="section-04"></a>
 ## 04. 36:00–47:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[39:20](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=2360s) · 本段原话**：Oil and water will not mix. And the and and people go, why is the greater glory not come? If God showed up in the greater form of the glory, uh there'll be a lot of you fall dead in the middle of the service.
+- **[42:23](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=2543s) · 本段原话**：You don't have access to it. Kill it. Well, that's easier said than done. And [clears throat] then and then listen and fill yourself up. Get in the word. You've got to find I do not depend I again I say it again I do not depend on people to feed me spiritually whether that's my pastors or or any kind of
+- **[44:37](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=2677s) · 本段原话**：It's like what Billy Billy Burke says, go to the old wells. He goes to the old wells. Dian has been going to the old wells, finding things and and listening to it and and so all right. So So I hope that part blessed you. Was there anything else you want to show me, son?
+- **[46:48](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=2808s) · 他描述所见**：pastor out in Amarella, Brian, and and it oil will come from their hands and gold gold dust as a sign like it did with AA Allen in certain ministers. And I know there's hokey stuff and people have made fun made made this stuff up, but there is an authentic thing that I saw tangible with my own eyes even on
 
 ### 完整英文 Transcript
 
@@ -1230,7 +1269,14 @@
 <a id="section-05"></a>
 ## 05. 48:00–59:59 · 祷告、敬拜与现场互动、预言、梦境与异象
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Cuba、Texas、Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含异象或所见、个人判断、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:40](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=3040s) · 他描述所见**：Don't offend the people. Oh, you got to do this. You got to do that. No, we're going to love on you and Jesus is going to clean you up. Watch what God I saw transgenders. I saw people that had long pink hair that were men taking off their false eyelashes, taking their hair off
+- **[52:02](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=3122s) · 他描述所见**：Watch what God's about to do. But I'm not, he said, I'm not going to share my glory with any of you. But it was when that visitation I had it and I saw the porch and I saw the person on the porch and I saw the old plantation home and I saw and and there was and they said and
+- **[54:33](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=3273s) · 他表达判断**：Why Tongues by Kenneth Hagen and learn more. It's a short little read. And um and then your authority of the believer by Billy Brim. You need to understand your authority. You can get this on her website. It's $3, but um my little girl, like I said, is memorizing this. And I I only give you literature that I believe
+- **[59:37](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=3577s) · 他表达判断**：I think I I'm I'm confident that Cuba by the time you know this administration's over before this administration ends will be on an irreversible path towards a much different future. Obviously like anything else especially something like this I always tell people like you can't have something in place for 70 years it grows roots and then think overnight
 
 ### 完整英文 Transcript
 
@@ -1543,7 +1589,14 @@
 <a id="section-06"></a>
 ## 06. 60:00–71:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Cuba、Europe、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、个人判断、引用或评论。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[60:53](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=3653s) · 他表达判断**：Uh like I like I've said before and I think you've seen what happened in other cases. all options are on the table uh to include military options and I think Cuba would be wise to pay attention to uh the willingness of President Trump to assert uh American strategic prerogatives uh and they're certainly no
+- **[62:48](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=3768s) · 本段原话**：Are we paying attention? Are we looking? Oh, it's just another eclipse. Brendon doesn't mean nothing. Your head is in the sand. You are so naive. I'm sorry to say, but as somebody said there's a solar flare when it was happening on a solar flare, too [laughter] Wow.
+- **[65:58](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=3958s) · 他描述所见**：Yeah, there's a lot of dead fish. Pretty gross. That's going to stink after a while. Oh yeah. Remember you said you sme Yeah. I could smell it in the spirit. I see all the dead fish and I could smell them on the the banks of the shore and I could smell it in the spirit. I was over
+- **[69:34](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=4174s) · 本段原话**：Those are beautiful scriptures, but Father, I thank you that we're not parrots, that we're not echoes, that it's real, that it is that it is a voice. We are yielded. that voice yelling of a of a voice that's crying out in the in the wilderness on the tops of mountains in the lowest valleys yelling and telling
 
 ### 完整英文 Transcript
 
@@ -1817,7 +1870,14 @@
 <a id="section-07"></a>
 ## 07. 72:00–83:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[74:17](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=4457s) · 他描述所见**：And I see the churches praying over praying over the churches praying over the lake the st like the ushers the the the parking lot workers getting ready for what's about to happen the children's church workers
+- **[78:13](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=4693s) · 本段原话**：No, I'm talking about what you have inside of you. Help your pastor, of course. But you bring your what what what is needed in these last days that I don't have. You could reach somebody that I may never be able to reach.
+- **[79:10](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=4750s) · 本段原话**：never going to step foot back into a church again. But when they come back to church, the pastors are able not to to to be uh to handle it that they don't scare him away.
+- **[81:18](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=4878s) · 本段原话**：We speak to the dry bones. We speak to the dry bones across America, across Europe, across Asia, B, the whole planet Africa. Can these bones live? South America, Australia. Can these bones live?
 
 ### 完整英文 Transcript
 
@@ -1953,7 +2013,14 @@
 <a id="section-08"></a>
 ## 08. 84:00–95:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[84:28](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=5068s) · 他描述所见**：It's flatline. And all of a sudden when it comes to what I'm looking at right now, I see a flatline AC. It's on the surface and it's black there. it. You can actually see I don't know how else to say it. The head at the head of the flatline. It looks like a little ball where you would
+- **[85:23](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=5123s) · 他描述所见**：But as I'm looking into this, I see shock paddles and they're and they're two thin metal plates with with and all of a sudden I see it shocking the land, shocking the church.
+- **[91:20](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=5480s) · 本段原话**：We got the we're wall to wall, Holy Ghost. But I'm asking, Father, for an exp this an experience in the church, to shake the bride, to bring her to your side, to wake up the weward, to wake up the weary and welloing, to wake up the lost, to bring in a harvest of souls.
+- **[95:16](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=5716s) · 他描述所见**：I've never seen anything like that before. I see an eagle's face, but it's it it was faded and it's starting to come back to life.
 
 ### 完整英文 Transcript
 
@@ -2145,7 +2212,14 @@
 <a id="section-09"></a>
 ## 09. 96:00–107:59 · 教会、复兴与信仰、物资、能源与供应链
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、物资、能源与供应链、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、物资、能源与供应链展开，包含异象或所见。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[96:10](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=5770s) · 他描述所见**：drink Drink from that well. I see a a water fountain [clears throat] and I It's like a modern-day water fountain and the and the supply is always there.
+- **[97:18](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=5838s) · 本段原话**：John 4:14. The water I give them will become in them a spring of water welling up to eternal life.
+- **[99:26](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=5966s) · 本段原话**：And as you're pushing into this, it's almost like you have cotton in your mouth because you're experiencing this in the spirit and you're stirring up those wells. You're stirring up revival of of of of the phies, the the the old revival that used to be back when America's uh foundation was back back then.
+- **[102:15](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=6135s) · 本段原话**：We wake up from our sleep. We wake up, oh slugard, we wake up, church, we wake up. We call stirring in Minnesota. We call stirring in Oklahoma. We call stirring in Branson, Missouri. We call stirring in Tampa. We call stirring in these elections that we'll not lose America to this Sharia law. We will not
 
 ### 完整英文 Transcript
 
@@ -2264,7 +2338,14 @@
 <a id="section-10"></a>
 ## 10. 108:00–119:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
 
-**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[109:26](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=6566s) · 本段原话**：It's symbolic rain. Let the rain of the Holy Ghost, let the rain of the Holy Ghost, let the rain of his presence, we take authority over the high pressure system and you shrink.
+- **[115:18](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=6918s) · 本段原话**：We speak to the droughts all over over Asia. We speak to the spiritual droughts to be broken over uh over Colombia, over Cuba, over Venezuela, over Brazil. We speak to the spiritual droughts to be broken in the name of Jesus. And we call in the river all over Africa, all over over over of
+- **[117:36](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=7056s) · 本段原话**：I'm on fire. I We're excited. We're having anticipation. We are full of the of the lifegiving Holy Ghost. He's in us. Christ in me.
+- **[118:43](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=7123s) · 他转述所听到的话**：And this is what the sovereign Lord said to these bones. I will make breath enter you and you will come to life. I will attach tendons to you and make flesh come upon you and cover you with skin. I will put breath in you and you will come to life. Then you will know that I am
 
 ### 完整英文 Transcript
 
@@ -2428,7 +2509,14 @@
 <a id="section-11"></a>
 ## 11. 120:00–131:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[122:57](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=7377s) · 他进行祷告**：Is that for 2 Coronicles? 2 Chronicles 4 7:14. That's what if my people who are called by my name will humble themselves and pray and seek my face. That's what part I left out. Seek my face. That's what I'm talking about. Seek his face, not his hand. Seek his face and turn from
+- **[127:42](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=7662s) · 他描述所见**：is released and the water starts to flow and you can hear it coming from a distance and you can actually see the debris moving with it because it was so dry for so long. That's what I see right then. I see a dam breaking and in this from from bank to bank a a flood state. It's
+- **[128:01](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=7681s) · 他描述所见**：coming to flood stage. Suddenly it will come to flood state suddenly and I see logs and and debris floating in the beginning stages of this for it was dry and all of a sudden the water will begin to flow as the dam breaks the water will flow and what was and logs and debris and tire of things
+- **[131:36](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=7896s) · 他进行祷告**：I pray a hedge of protection around and about them. Father, that no weapon formed against that family would prosper. Every plot, every plan, every pursuit to kill, steal, and destroy on their lives, even First Lady and President Trump and JD Vance. We pray over Marco Rubio. We pray over our Supreme Court judges. We cover them in
 
 ### 完整英文 Transcript
 
@@ -2618,7 +2706,14 @@
 <a id="section-12"></a>
 ## 12. 132:00–138:39 · 祷告、敬拜与现场互动、教会、复兴与信仰
 
-**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[132:55](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=7975s) · 本段原话**：I thank you, Father, that there's governors and mayors and senators that that will win with a landslide. And we we thank you for the uncovering as we contend for the victory. We contend in these last days. And we will not allow the enemy to take take the land. We will stand up and fight.
+- **[134:51](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=8091s) · 他进行祷告**：I thank you, Father. From Red Dawn experiences to to all kinds of things, the ICE agents, we pray for ICE agents. We pray for our homeland security. We pray for the FBI, our local law enforcements, our sheriff's department, and even the highway patrol.
+- **[136:20](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=8180s) · 他表达判断**：Do y'all believe that tonight? Do you all believe that tonight? I appreciate every single one of you coming out and praying with me, praying for the stirring of our churches, praying for revival. And we believe that we're going to start to see the abundance of rain falling on our foreheads. And I believe
+- **[138:29](https://www.youtube.com/watch?v=QT_oRgu3nfA&t=8309s) · 他进行祷告**：We'll be back again. We'll pray again. Until then, put a smile on your face and a song in your heart. Jesus loves you so much and we love you. God bless you and we'll see you again. Bye-bye.
 
 ### 完整英文 Transcript
 
