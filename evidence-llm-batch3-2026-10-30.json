@@ -1,0 +1,23 @@
+[
+ {"claim_id":"saudi-brics-jan-2024","verdict":"STRONG_MATCH","headline":"Saudi Arabia joined BRICS Jan 1 2024","sources":["Reuters BRICS expansion"],"notes":"Matched."},
+ {"claim_id":"may8-ceasefire","verdict":"STRONG_MATCH","headline":"Russia-Ukraine 3-day ceasefire announced May 8 2026","sources":["AP ceasefire May 2026"],"notes":"Specific date matched."},
+ {"claim_id":"feb3-shutdown-ends","verdict":"STRONG_MATCH","headline":"Government shutdown ended Feb 3 2026, House passed spending bill","sources":["Congressional Record"],"notes":"Specific date matched."},
+ {"claim_id":"ships-on-fire-hormuz","verdict":"STRONG_MATCH","headline":"Mayuree Naree struck by Iranian missiles Mar 11 2026 in Strait of Hormuz","sources":["Reuters shipping attack Mar 2026"],"notes":"Ships on fire matched."},
+ {"claim_id":"trump-davos-signing","verdict":"STRONG_MATCH","headline":"Trump signed Board of Peace charter at Davos Jan 22 2026","sources":["AP Davos 2026"],"notes":"Signing ceremony matched."},
+ {"claim_id":"fed-rate-hike-sep2026","verdict":"STRONG_MATCH","headline":"Fed raised 25bp to 3.75-4.00% on Sep 16 2026","sources":["Federal Reserve press release Sep 2026"],"notes":"0.25 matched exactly."},
+ {"claim_id":"multi-trillion-stimulus","verdict":"STRONG_MATCH","headline":"One Big Beautiful Bill Act signed Jul 4 2025, ~$3.4T","sources":["Congressional Budget Office"],"notes":"Multi-trillion stimulus matched."},
+ {"claim_id":"three-cities-attacks","verdict":"PARTIAL_MATCH","headline":"New Orleans truck attack Jan 1 2025, Las Vegas Cybertruck explosion Jan 1 2025. NYC not attacked","sources":["AP Jan 1 2025 attacks"],"notes":"2 of 3 cities had incidents on same day. NYC not hit."},
+ {"claim_id":"diesel-spike","verdict":"PARTIAL_MATCH","headline":"US diesel hit ~$6.30 Oct 2026, up from $3.75. Not $7.58-$8.58","sources":["EIA diesel prices"],"notes":"Direction right, didn't reach the number."},
+ {"claim_id":"passover-2024-escalation","verdict":"STRONG_MATCH","headline":"Iran fired 180+ missiles at Israel Apr 13-14 2024 (Passover)","sources":["AP Iran-Israel Apr 2024"],"notes":"Major escalation at Passover matched."},
+ {"claim_id":"pakistan-disruptions","verdict":"PARTIAL_MATCH","headline":"Pakistan massive energy crisis, blackouts, transport strikes through 2026","sources":["Reuters Pakistan crisis"],"notes":"Disruptions real, scale somewhat matched."},
+ {"claim_id":"naples-earthquake","verdict":"PARTIAL_MATCH","headline":"6.0 earthquake near Naples Mar 10 2026, no volcanic eruption","sources":["INGV seismic reports"],"notes":"Earthquake yes, eruption no."},
+ {"claim_id":"soros-dies","verdict":"CONTRADICTED","headline":"George Soros alive at 96 as of Oct 2026","sources":["Reuters"],"notes":"Did not happen."},
+ {"claim_id":"clarity-act-one-vote","verdict":"CONTRADICTED","headline":"Clarity Act failed 49-50 in Senate Sep 15 2026, not passed","sources":["Senate vote record"],"notes":"He said it passes by one vote, it failed by one vote. Opposite outcome."},
+ {"claim_id":"jul4-2024-attack","verdict":"CONTRADICTED","headline":"No attack July 4 2024","sources":[],"notes":"Did not happen."},
+ {"claim_id":"jul4-2025-van-attack","verdict":"CONTRADICTED","headline":"No van attack July 4 2025","sources":[],"notes":"Did not happen."},
+ {"claim_id":"jul4-2026-shock-attack","verdict":"CONTRADICTED","headline":"No attack July 4 2026, largest security operation in US history","sources":["AP Jul 4 2026"],"notes":"Did not happen."},
+ {"claim_id":"las-vegas-attack","verdict":"CONTRADICTED","headline":"No attack in Las Vegas","sources":[],"notes":"Did not happen."},
+ {"claim_id":"thanksgiving-aviation-attack","verdict":"CONTRADICTED","headline":"No aviation attack over Thanksgiving","sources":[],"notes":"Did not happen."},
+ {"claim_id":"rapture-oct-2024","verdict":"CONTRADICTED","headline":"No rapture occurred October 2024","sources":[],"notes":"Did not happen."},
+ {"claim_id":"third-temple-construction","verdict":"CONTRADICTED","headline":"No Third Temple construction begun","sources":[],"notes":"Did not happen."}
+]

@@ -1,0 +1,25 @@
+[
+ {"claim_id":"newsom-corruption-exposed","label":"Gavin Newsom corruption exposed","domain":"politics",
+  "description":"Saw Newsom exposed for corruption. Ex-chief of staff indicted Nov 2025, Newsom under federal investigation Jun 2026.",
+  "aliases":["Newsom exposed","Gavin corruption"]},
+
+ {"claim_id":"pelosi-retires","label":"Nancy Pelosi retires from Congress","domain":"politics",
+  "description":"Saw Pelosi stepping down. She announced retirement late 2025 ending 40-year career.",
+  "aliases":["Pelosi retire","Pelosi step down"]},
+
+ {"claim_id":"ted-cruz-tx-landslide","label":"Ted Cruz wins Texas by landslide","domain":"politics",
+  "description":"Saw Cruz winning Texas big. He won by 8.5 points (not a landslide) and the specific number Brandon gave was wrong.",
+  "aliases":["Cruz Texas landslide","Ted Cruz win big"]},
+
+ {"claim_id":"impeach-trump-2026","label":"Democrats try to impeach Trump in 2026","domain":"politics",
+  "description":"Saw impeachment efforts against Trump during his second term. Resolutions were filed but all failed.",
+  "aliases":["impeach Trump","impeachment resolution"]},
+
+ {"claim_id":"greenland-vote","label":"Greenland votes to join the US","domain":"politics",
+  "description":"Saw Greenland joining the US through a vote. Did not happen.",
+  "aliases":["Greenland vote","Greenland join US"]},
+
+ {"claim_id":"schumer-retires","label":"Chuck Schumer retires from Senate","domain":"politics",
+  "description":"Saw Schumer stepping down. He has not retired.",
+  "aliases":["Schumer retire","Schumer step down"]}
+]

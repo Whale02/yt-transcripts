@@ -1,0 +1,10 @@
+[
+ {"claim_id":"biden-drops-out-2024","verdict":"STRONG_MATCH","headline":"Biden dropped out of 2024 race Jul 21 2024 citing age/health","sources":["AP Biden withdrawal Jul 2024"],"notes":"Called Sep 30 2023, 10 months before. Mental decline was widely discussed but dropout not widely predicted that early."},
+ {"claim_id":"red-wave-michigan-2024","verdict":"STRONG_MATCH","headline":"Trump won Michigan and all 7 swing states Nov 5 2024","sources":["2024 election results"],"notes":"Red wave from Michigan matched. Called Jul 14 2024."},
+ {"claim_id":"swing-states-pa-nv-az","verdict":"STRONG_MATCH","headline":"PA, NV, AZ all went for Trump Nov 5 2024","sources":["2024 election results"],"notes":"Called Oct 24 2024, 12 days before election. Polls already showed these as toss-ups."},
+ {"claim_id":"elon-musk-turns-on-trump","verdict":"STRONG_MATCH","headline":"Musk publicly broke with Trump May-Jun 2025 over policy disagreements","sources":["Reuters Musk-Trump split"],"notes":"Called Oct 30 2024. Musk was Trump's biggest ally at the time."},
+ {"claim_id":"egg-chicken-shortage","verdict":"STRONG_MATCH","headline":"Bird flu killed 100M+ birds, egg prices doubled Feb 2025","sources":["USDA bird flu reports","BLS egg price data"],"notes":"Called Sep 2 2024. Bird flu outbreak was already underway in poultry but the price spike came later."},
+ {"claim_id":"gold-rises","verdict":"STRONG_MATCH","headline":"Gold rose from ~$2050 to $3300+ (65% gain) through 2025","sources":["Kitco gold price history"],"notes":"Called Dec 10 2023. Direction clear, magnitude impressive. Gold was already trending up."},
+ {"claim_id":"senate-floor-revival","verdict":"CONTRADICTED","headline":"No spiritual revival on Senate floor","sources":[],"notes":"Did not happen."},
+ {"claim_id":"us-military-draft","verdict":"CONTRADICTED","headline":"No military draft reinstated","sources":[],"notes":"Did not happen."}
+]

@@ -1,0 +1,37 @@
+[
+ {"claim_id":"newsom-corruption-exposed",
+  "verdict":"STRONG_MATCH",
+  "headline":"Newsom ex-chief of staff indicted Nov 2025, Newsom himself under federal investigation Jun 2026",
+  "sources":["AP: Newsom aide indictment Nov 2025","Reuters: Newsom federal probe Jun 2026"],
+  "notes":"Corruption exposure matched."},
+
+ {"claim_id":"pelosi-retires",
+  "verdict":"STRONG_MATCH",
+  "headline":"Pelosi announced retirement from Congress late 2025, ending 40-year career",
+  "sources":["AP: Pelosi retirement announcement"],
+  "notes":"Matched."},
+
+ {"claim_id":"ted-cruz-tx-landslide",
+  "verdict":"PARTIAL_MATCH",
+  "headline":"Cruz won TX Senate 2024 by 8.5 points. Not a landslide. Specific numbers Brandon cited were wrong",
+  "sources":["Texas Secretary of State 2024 results"],
+  "notes":"Direction right, magnitude and specifics wrong."},
+
+ {"claim_id":"impeach-trump-2026",
+  "verdict":"PARTIAL_MATCH",
+  "headline":"Multiple impeachment resolutions filed against Trump in 2025-2026, all failed",
+  "sources":["Congressional Record"],
+  "notes":"Attempts happened as predicted, but none succeeded."},
+
+ {"claim_id":"greenland-vote",
+  "verdict":"CONTRADICTED",
+  "headline":"No Greenland vote to join the US. Trump expressed interest but no referendum held",
+  "sources":["Reuters: Greenland political coverage"],
+  "notes":"Did not happen."},
+
+ {"claim_id":"schumer-retires",
+  "verdict":"CONTRADICTED",
+  "headline":"Schumer has not retired. Still serving as Senate Minority Leader",
+  "sources":["US Senate roster"],
+  "notes":"Did not happen."}
+]
