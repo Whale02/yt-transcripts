@@ -6,6 +6,7 @@ on:
     branches: [master]
     paths:
       - "scripts/section_all_transcripts.py"
+      - "scripts/transcript_keypoints.py"
       - "corpus/**"
       - "corpus-streams/**"
       - ".github/workflows/section-all-transcripts.yml"
