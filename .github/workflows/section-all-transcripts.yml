@@ -1,0 +1,41 @@
+name: Build all sectioned Biggs transcripts
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - "scripts/section_all_transcripts.py"
+      - "corpus/**"
+      - "corpus-streams/**"
+      - ".github/workflows/section-all-transcripts.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: section-all-transcripts
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Generate transcripts and index from full corpus
+        run: python3 scripts/section_all_transcripts.py
+      - name: Commit generated transcripts
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add exports/all-videos/
+          if ! git diff --cached --quiet; then
+            git commit -m "Generate sectioned transcript index and all video files"
+            git push origin HEAD:master
+          else
+            echo "All generated transcripts are already up to date."
+          fi
