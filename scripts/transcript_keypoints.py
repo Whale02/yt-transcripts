@@ -80,7 +80,10 @@ def selected_passages(lines, n=4):
         candidates=[]
         for score,i in scores:
             if i in chosen: continue
-            overlap=max((len(wordsets[i]&wordsets[k])/max(1,len(wordsets[i]|wordsets[k])) for k in chosen) if chosen else 0
+            overlap=0.0
+            for k in chosen:
+                union=len(wordsets[i] | wordsets[k])
+                overlap=max(overlap,len(wordsets[i] & wordsets[k]) / max(1,union))
             time_gap=min(abs(clips[i][0]-clips[k][0]) for k in chosen) if chosen else 10**9
             proximity=1.8 if time_gap<55 else (0.7 if time_gap<110 else 0)
             candidates.append((score-3*overlap-proximity,i))
