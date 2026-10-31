@@ -1,0 +1,49 @@
+[
+  {"video_id": "wLI8D3SDe3E", "start_s": 2267, "claim_id": "global-riots-worse-than-blm",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Looked like when COVID was going on gives a comparison rather than a threshold, and no city or scale is named."},
+
+  {"video_id": "wLI8D3SDe3E", "start_s": 2314, "claim_id": "country-looks-different-by-november",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "Counting the weeks to a scheduled election. Nothing forecast; the date comes from the electoral calendar."},
+
+  {"video_id": "wLI8D3SDe3E", "start_s": 5058, "claim_id": "year-of-rain-2027",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Obstacles and burdens are not specified, so no outcome could match or fail to match."},
+
+  {"video_id": "wLI8D3SDe3E", "start_s": 5799, "claim_id": "glory-is-here",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "Worship, with nothing stated. Recorded because the passage is separately indexed."},
+
+  {"video_id": "a4uOSv4NVrE", "start_s": 37, "claim_id": "camp-meetings-separation",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "Someone else's published meeting schedule. Nothing claimed."},
+
+  {"video_id": "a4uOSv4NVrE", "start_s": 311, "claim_id": "movie-2026-evangelism",
+   "same_event": "unsure", "delta_type": "timing_update",
+   "note": "The year moves from 2026 to next year. He marks it as believing rather than seeing, and the release date is a scheduled public fact rather than something shown to him. Great harvest carries no number."},
+
+  {"video_id": "a4uOSv4NVrE", "start_s": 2666, "claim_id": "sun-seasons-shift",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Unusually testable for this corpus. Bird breeding seasons are recorded systematically, so an August shift would either show in the data or not. Named as the best empirical target in the batch."},
+
+  {"video_id": "a4uOSv4NVrE", "start_s": 2788, "claim_id": "april-1-signs-in-heavens",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The one I saw is bigger is the move to watch: a real event of the named kind arrives, is ruled too small to count, and the claim is held open for a larger one. Same structure as the red tip missiles, and it never expires."},
+
+  {"video_id": "a4uOSv4NVrE", "start_s": 2863, "claim_id": "attack-worse-than-october-7",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The trip is a real, dated, verifiable thing, so whether the stated reason for sending them was given in advance is checkable against this corpus. No attack occurred during it."},
+
+  {"video_id": "a4uOSv4NVrE", "start_s": 3047, "claim_id": "zelensky-taken-out-ukraine-split",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "He says outright that the assassination was successful, which is unusually unhedged here and leaves no room for a prayer-averted reading afterwards. Kyiv divided into two is a hard, observable outcome."},
+
+  {"video_id": "a4uOSv4NVrE", "start_s": 3588, "claim_id": "musk-suppression-europe",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Excluding Facebook is a real narrowing and makes the claim harder rather than easier, which is worth noting against the general pattern of widening."},
+
+  {"video_id": "a4uOSv4NVrE", "start_s": 3825, "claim_id": "artificial-womb-hollywood",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Well over a year ago is vague at the origin end, which is the end that matters for a priority claim. Embryo screening had been publicly discussed for years before the stated date."}
+]

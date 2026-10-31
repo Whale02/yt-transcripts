@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "1f7ffe41eb30c684",
+"claim_id": "cuban-leader-underground-in-a-cliff",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Adds a mountain to the cliff. Recorded in his favour that he offers the metaphor reading himself, saying if he is missing it it could be a metaphor and he does not know."
+},
+{
+"mention_id": "a0092e6671f3e4bc",
+"claim_id": "young-people-retaliate-for-maduro",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "Nowhere near over, young people rising to retaliate for the removal. A named country, a named trigger and a named group, which is more specific than most unrest claims in the corpus."
+},
+{
+"mention_id": "d2f9eaeb3569657e",
+"claim_id": "boots-on-the-ground-taking-out-drug-plants",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Adds American drones and stationed military to the ground operation, and the judgement that a major army would be needed."
+},
+{
+"mention_id": "7fb02dafd81f4a18",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "Thanksgiving followed by tongues with no interpretation."
+},
+{
+"mention_id": "116772a7532ab48a",
+"claim_id": "china-attacks-hawaii",
+"same_event": "unsure",
+"delta_type": "restatement",
+"confidence": 0.5,
+"note": "Prayer over Honolulu, the bases and the families with no event named. Marked unsure because the only link to the claim is the location; a caution with nothing attached cannot fail."
+},
+{
+"mention_id": "85381bec72452303",
+"claim_id": "russian-troops-into-venezuela-keeping-peace",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.7,
+"note": "Adds a consequence in the other theatre: an uprising and an upticking in the Ukraine war because Russia is annoyed about Venezuela."
+},
+{
+"mention_id": "2c728ddeca0f2be9",
+"claim_id": "cuban-leader-underground-in-a-cliff",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.65,
+"note": "Adds the men around him and that he faces America. The location is pinned against a map pulled up on air rather than named in advance, which weakens it considerably."
+},
+{
+"mention_id": "1e71b06f4955fc85",
+"claim_id": "greenland-twenty-thousand-per-citizen",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Adds the generational split behind the fifty fifty vote, elders against and young people for, and the EU telling the president it would not allow it."
+},
+{
+"mention_id": "3a7454b36f5674c5",
+"claim_id": "greenland-acquisition",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.7,
+"note": "Adds the battery minerals, the dump trucks and the fish. Critical minerals are the openly stated reason for American interest, so this restates public knowledge rather than adding to it."
+},
+{
+"mention_id": "0fe26d6d1fcee9ac",
+"claim_id": "greenland-acquisition",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.6,
+"note": "Speculation about American commercial integration, which he marks as his own guess by saying I do not know before naming the chains."
+},
+{
+"mention_id": "908db46efd8407e6",
+"claim_id": "greenland-twenty-thousand-per-citizen",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "At 9 January 2026 this predates the current first mention of 13 January 2026. The strongest form of the claim: he sets his own figure of over twenty five thousand against the hundred thousand being reported, which makes it scoreable either way."
+},
+{
+"mention_id": "2e39e0009fa08f6c",
+"claim_id": "warned-eighty-times-about-cuba",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "The count given in the middle of the Cuba material. This claim is unusual in being checkable against the archive itself rather than against the world."
+},
+{
+"mention_id": "c106569c817d3dc1",
+"claim_id": "seattle-another-major-attack",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "Kept separate from pacific-nw-quake: he says attack, then moves to the earthquake and Yellowstone as a different subject in the next breath."
+},
+{
+"mention_id": "fc5f58c9f997c3a0",
+"claim_id": "iran-revival",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Adds the window of opportunity framing and the uprising alongside it, with prayer for their safety."
+},
+{
+"mention_id": "065277c85b06b4e1",
+"claim_id": "american-base-and-proxy-government-in-venezuela",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Adds the layers like an onion and the judgement that a successor will be the same because it is levels of government rather than one man."
+},
+{
+"mention_id": "4bd2c85e21024204",
+"claim_id": "certain-crypto-goes-to-five-dollars",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.75,
+"note": "Adds really quickly and quickly to the five dollar call, which is the only timing attached to it anywhere. He still does not name the coin."
+},
+{
+"mention_id": "a1d0a45b8e93a8f5",
+"claim_id": "sooners-asia-first-on-crypto",
+"same_event": "unsure",
+"delta_type": "new_detail",
+"confidence": 0.55,
+"note": "Japan at the forefront with South Korea behind, given in tongues. What they are at the forefront of is not stated here, so the link to the crypto claim rests on the pattern rather than on this passage."
+},
+{
+"mention_id": "bc8723b49eb49693",
+"claim_id": "banks-adopt-crypto-lending",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.7,
+"note": "Puts the named bank in Manhattan with glass fronts. He asks what it is about to do rather than saying, and works the name out aloud on air."
+},
+{
+"mention_id": "fd84e6ceb69ee053",
+"claim_id": "banks-adopt-crypto-lending",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Adds an order to the adoption: the first signs, the second right behind almost touching, the third out on a wagon."
+},
+{
+"mention_id": "2a8a9ee461889771",
+"claim_id": "banks-white-water-rapids-turbulence",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "Bumpy and turbulent around the two named banks. Nothing here is scoreable without a measure of what would count as turbulent."
+},
+{
+"mention_id": "bcc21a71dcd8edce",
+"claim_id": "blackrock-warning",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.7,
+"note": "Puts the king, Canada, Toronto, the Canadian prime minister and the French president around the firm, which is more content than the standing warning usually carries. Darkness swelling is not a claim that can fail."
+},
+{
+"mention_id": "cb89546adbabc333",
+"claim_id": "gaza-oil-development",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Adds great wealth coming to Israel and hotels alongside the coastal rebuild."
+},
+{
+"mention_id": "9723704bc402adaf",
+"claim_id": "trump-golf-course-in-gaza",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Adds resorts alongside the golf courses and names the American president as having his hand in it, set against the poverty it replaces."
+},
+{
+"mention_id": "2ed6e8cd880f9300",
+"claim_id": "mbs-two-state-with-jared",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.7,
+"note": "Adds a dominant figure standing beside the crown prince whom he says he has never seen before, which is an unnamed placeholder rather than an identification."
+},
+{
+"mention_id": "b2aca7b1062d178b",
+"claim_id": "third-temple-build",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Places the construction in the war torn area alongside oil deals and old style derricks, which ties it to the Gaza development material."
+},
+{
+"mention_id": "1a8bd42f407dce0b",
+"claim_id": "gaza-oil-development",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Adds shopping malls, restaurants and a tourist industry, and he marks it as the Lord saying it is coming rather than as his own reading."
+},
+{
+"mention_id": "8ebaf0388d83fe78",
+"claim_id": "trump-golf-course-in-gaza",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "The flag again with the wording read out. He asks whether this is years or months and gets no answer, so still no window attaches to the claim."
+},
+{
+"mention_id": "22eaf484e338b653",
+"claim_id": "rubio-cracks-the-whip-revalue",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.75,
+"note": "A named official forcing a revaluation, described by him as a strong arm, which sits against the standing instruction elsewhere in the corpus not to strong-arm."
+},
+{
+"mention_id": "e45f7f2875bd82e2",
+"claim_id": "banks-white-water-rapids-turbulence",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Adds that the asset manager stands by itself for Europe while the other banks are together in the rapids."
+},
+{
+"mention_id": "6cc236647e1483e3",
+"claim_id": "european-royals-new-world-order",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.7,
+"note": "Adds the asset manager as the thing the named figures are trying to be part of, and a digital age and digital frontier. Somehow is doing the work in the connection."
+},
+{
+"mention_id": "2c2bc2d37e935558",
+"claim_id": "third-temple-build",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Adds Saudi money and men behind the construction, with businessmen in aviator glasses."
+},
+{
+"mention_id": "ec517c1bd6751159",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "The opening of the programme and a remark about the viewer count."
+},
+{
+"mention_id": "21f135a24d50f6c0",
+"claim_id": "warned-eighty-times-about-cuba",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "At 8 January 2026 this is the earliest telling of the count, a day before the fuller version. He volunteers that he was shocked by the number himself, which suggests it was counted rather than felt."
+},
+{
+"mention_id": "45b8fc91c596fe1e",
+"claim_id": "thin-layer-of-gold-fill-your-pockets",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "A shallow wave laying a thin layer of gold across the country with the instruction to fill his pockets. Shallow and thin are not scoreable without a measure."
+},
+{
+"mention_id": "a40f50ff74df27f7",
+"claim_id": "wealth-comes-from-zion",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.75,
+"note": "Recorded in his favour: he marks the quotation itself as uncertain, saying he does not want to misquote and only believes that is what was said."
+},
+{
+"mention_id": "2b3c9deb2bf760fd",
+"claim_id": "wwiii-draft-europe",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Places the draft inside the current term and gives the European war as the cause. Try to be a major draft leaves room for a conscription bill that is proposed and fails, which is a softer form than the claim usually carries."
+},
+{
+"mention_id": "04eed29cec2726cb",
+"claim_id": "wwiii-draft-europe",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.7,
+"note": "Adds Middle Eastern alliances surrounding the European war and Americans in a single file line."
+},
+{
+"mention_id": "77516af0277b8dce",
+"claim_id": "corruption-out-of-california",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "Great corruption out of California, given the same day as the glory and purification word to which he ties it."
+},
+{
+"mention_id": "f4a81d7c2db9ee3c",
+"claim_id": "pacific-nw-quake",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "The San Francisco to British Columbia line again. Worth noting that his co-host looks things up for them in the search engine, which is how several confirmations in this corpus are produced."
+},
+{
+"mention_id": "d8235d27a00544b3",
+"claim_id": "italy-volcano",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.7,
+"note": "Adds the Italian coastline alongside the Californian one. The important part is the structure he attaches: they have not seen it in the natural as in the spirit, so maybe prayer is stopping it. That makes both outcomes confirmations and neither a miss."
+},
+{
+"mention_id": "e15210bc56605062",
+"claim_id": "minnesota-corruption-uncovered",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Adds an attempt to wipe the evidence, other states knowing, and sheriffs coming."
+},
+{
+"mention_id": "20255d0d4f8eaee0",
+"claim_id": "ukraine-war-money-laundering",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.7,
+"note": "Adds the arrows out of corruption into Ukraine. The trillion and a half fraud figure is sourced to a named businessman rather than seen, which he says himself."
+},
+{
+"mention_id": "a94dcc8fdaacbd51",
+"claim_id": "ukraine-war-money-laundering",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Adds the government vault and arrows to secret accounts across Europe, Africa and the Middle East."
+},
+{
+"mention_id": "4bc54cd1c447710e",
+"claim_id": "ukraine-war-money-laundering",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.7,
+"note": "Adds fifteen million dollar labs and a hundred million in cash. He interrupts himself to say I say a lot, don't I, which is worth recording."
+},
+{
+"mention_id": "2c46ad927bef6c4f",
+"claim_id": "ukraine-war-money-laundering",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Names the person and the sum, which makes this the most scoreable form of the claim rather than the usual open-ended corruption language."
+},
+{
+"mention_id": "e47036744e3ffca9",
+"claim_id": "certain-crypto-goes-to-five-dollars",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "At 8 January 2026 this predates the current earliest row of 15 January 2026. Five dollars per coin called in prayer, with certain ones never resolved to a ticker."
+},
+{
+"mention_id": "23bdc9bd3973b175",
+"claim_id": "silver-175-an-ounce",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "He gives the number as over one hundred and seventy here against the hundred and seventy five the claim carries, and says outright that he does not know when, so no window attaches."
+},
+{
+"mention_id": "e4f80bb0214e000c",
+"claim_id": "silver-175-an-ounce",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.6,
+"note": "A prayer to double and then triple the current price, with the acknowledgement from his co-host that it went down that day."
+},
+{
+"mention_id": "1dfec1b6e66a7346",
+"claim_id": "silver-175-an-ounce",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.7,
+"note": "He declares pullbacks and dips irrelevant in advance, which means no fall in the price can count against the call. Recorded as the escape structure it is, alongside the twelve dollar stage the claim already carries."
+},
+{
+"mention_id": "dd3a20cb2419ffc3",
+"claim_id": "gold-10k",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "He gives the current price as four thousand four hundred and thirty eight dollars an ounce on 8 January 2026, which is checkable against the market record, and repeats the ten thousand target as a word rather than a forecast."
+},
+{
+"mention_id": "28b458e28744e754",
+"claim_id": "financial-harvest-will-disappoint-many",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "A downward revision of his own wealth transfer teaching, and rare in this corpus: he tells an audience expecting hundreds of millions that the numbers he saw disappointed people."
+},
+{
+"mention_id": "fcb4605a8e3856b4",
+"claim_id": "financial-harvest-will-disappoint-many",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Puts numbers on both sides: not to be discouraged by a million against the twenty or thirty million many are believing for."
+},
+{
+"mention_id": "7d45145ddc1630a5",
+"claim_id": "wealth-of-the-sinner",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Adds past seeds coming to harvest at last and a financial harvest beyond imagining, and the aside that it is not about the bad seeds the wicked have sown."
+},
+{
+"mention_id": "828a22731db956cb",
+"claim_id": "wealth-of-the-sinner",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.7,
+"note": "A caveat against reading a windfall as the promised transfer, with a cautionary tale about a woman who spent money deposited in error. Worth recording because it is a limit he puts on his own teaching."
+},
+{
+"mention_id": "b61622be95dcbcc3",
+"claim_id": "if-i-dont-see-it-it-aint-there",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "A stated refusal to fill gaps: if he does not see it, it is not there and it is fake. He adds that he is only passing on what he saw driving around that day and that if nothing more comes he is at peace."
+}
+]
+}

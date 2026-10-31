@@ -1,0 +1,120 @@
+[
+  {"video_id": "0jRKxZJW2x4", "start_s": 383, "claim_id": "times-square-new-years-eve",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "A read-aloud news report saying there is no credible threat. Nothing claimed; attached to the Times Square thread it belongs to."},
+
+  {"video_id": "0jRKxZJW2x4", "start_s": 464, "claim_id": "mamdani-underground-swearing-in",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Also a news read, but kept as its own claim because underground is a word he has been using prophetically since the capital-plot material in November, and here a real event supplies it."},
+
+  {"video_id": "0jRKxZJW2x4", "start_s": 904, "claim_id": "plague-calendar-fall-to-spring",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "The plague now sits in 2026 as well. Across five weeks it has been placed in fall 2027, in November or December of an unspecified year, in 2027 and 2028, and now in 2026. All the tellings stay."},
+
+  {"video_id": "0jRKxZJW2x4", "start_s": 1304, "claim_id": "red-dawn-experiences",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The definition finally arrives. Red dawn is China moving on Taiwan while America is absorbed in its own crisis, which also names the film the phrase comes from. Recorded as an elaboration on the claim seeded empty in batch 33."},
+
+  {"video_id": "0jRKxZJW2x4", "start_s": 1357, "claim_id": "taiwan-two-day-fall",
+   "same_event": "yes", "delta_type": "contradiction",
+   "note": "Three days here against two in the existing claim. Small, but it is a magnitude disagreement in the one part of the claim that is precise, so it goes in as a contradiction rather than an elaboration."},
+
+  {"video_id": "0jRKxZJW2x4", "start_s": 3293, "claim_id": "shaking-to-the-waking",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A neat piece of construction: the shaking is the mechanism of the waking, so hardship is confirmation and calm is the waking already arrived."},
+
+  {"video_id": "0jRKxZJW2x4", "start_s": 4067, "claim_id": "america-will-remain",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "As near unlosable as anything in the corpus, and worth having on record precisely for that."},
+
+  {"video_id": "0jRKxZJW2x4", "start_s": 6123, "claim_id": "no-sickness-into-2026",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "calling-things-that-be-not applied to health across a whole audience. No outcome is measurable and any illness lands on the individual, not the prayer."},
+
+  {"video_id": "e8RJHBLAGf4", "start_s": 81, "claim_id": "minnesota-corruption-uncovered",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Dated to 11 December, which is inside this corpus. The original telling can be read against this recall when the sweep reaches that date."},
+
+  {"video_id": "e8RJHBLAGf4", "start_s": 197, "claim_id": "minnesota-corruption-uncovered",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The bumblebees, and an unidentified woman he cannot place. He says he does not know why he is seeing it, so nothing is scored from the image."},
+
+  {"video_id": "e8RJHBLAGf4", "start_s": 311, "claim_id": "prophetic-accuracy-2025",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "A self-attested hit with both halves checkable: the 11 December video is in this corpus, and the December Minnesota news is a matter of record. Flagged for the evidence pass."},
+
+  {"video_id": "e8RJHBLAGf4", "start_s": 633, "claim_id": "minnesota-corruption-uncovered",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "Someone else's words played as supporting evidence. Not his claim, so nothing is scored."},
+
+  {"video_id": "e8RJHBLAGf4", "start_s": 669, "claim_id": "stay-vertical-2026-media-distraction",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Two halves of very different quality. Legacy network decline is a decade-old trend and cannot miss; the instruction to disregard the news is unfalsifiable by design."},
+
+  {"video_id": "e8RJHBLAGf4", "start_s": 802, "claim_id": "speech-crackdown-midterms",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Extends the speech claim from the midterms out to 2028, with 2026 as the trial run. Who they are is never specified."},
+
+  {"video_id": "e8RJHBLAGf4", "start_s": 1485, "claim_id": "new-york-weighed-and-lacking",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He stops to ask for help not misquoting it, which is worth noting: the care is about the wording, not about what follows from it. The Daniel 5 phrase implies judgment and he leaves the judgment unstated."},
+
+  {"video_id": "e8RJHBLAGf4", "start_s": 1752, "claim_id": "dark-figure-black-cloak-seven",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Set in stone is the strongest certainty language in the corpus and it is attached here to the least specific content: an unnamed figure, a cloak, a number and a year."},
+
+  {"video_id": "e8RJHBLAGf4", "start_s": 3628, "claim_id": "brush-arbor-revivals",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Names Jack Coe and the tent meetings explicitly, which the claim did not have. Still no date."},
+
+  {"video_id": "e8RJHBLAGf4", "start_s": 4718, "claim_id": "times-square-new-years-eve",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The 3 November hedge becomes the theme of the night eight weeks later. Same target, now with the whole audience praying over it."},
+
+  {"video_id": "e8RJHBLAGf4", "start_s": 4763, "claim_id": "queensland-highlighted",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Same shape as atlanta-airport-hedge: a named place, no act, no date, prayed as a hedge."},
+
+  {"video_id": "e8RJHBLAGf4", "start_s": 6528, "claim_id": "more-than-a-conqueror-overflow",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The scriptural warrant under the prosperity declarations, from Psalm 35."},
+
+  {"video_id": "e8RJHBLAGf4", "start_s": 8028, "claim_id": "do-you-know-him-personally",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The altar call that closes most of these sessions. Recorded once as its own claim so the repetitions have somewhere to go."},
+
+  {"video_id": "N2MEJej9ziY", "start_s": 271, "claim_id": "israel-night-attack",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "Third telling since 22 November and still no date. The escalation in the region is offered as the reason for repeating it."},
+
+  {"video_id": "N2MEJej9ziY", "start_s": 1438, "claim_id": "number-seven-little-boy",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The pattern this claim exists to record: a number arrives without a referent and the referent is found afterwards. He says plainly that he did not know what the seven meant at the time."},
+
+  {"video_id": "N2MEJej9ziY", "start_s": 3021, "claim_id": "supernatural-increase-2026",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "N2MEJej9ziY", "start_s": 3066, "claim_id": "metals-and-crypto-2026",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The most measurable claim in the batch. Record highs in metals and a sharp crypto rally inside 2026 can be checked to the dollar, unlike almost everything around it. It also overlaps gold-10k and silver-75, which carry numbers; linked by system edges."},
+
+  {"video_id": "N2MEJej9ziY", "start_s": 7738, "claim_id": "economy-is-a-catfish",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Sits against metals-and-crypto-2026 and supernatural-increase-2026 from the same session: the economy is in trouble and there is also a windfall. Both stay; a system edge notes the tension."},
+
+  {"video_id": "ULb5iK3ua_c", "start_s": 2092, "claim_id": "held-until-the-27th",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Internal to the ministry and unverifiable from outside, but it is part of the account of how release timing is decided."},
+
+  {"video_id": "ULb5iK3ua_c", "start_s": 2697, "claim_id": "where-prophets-go-to-die",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A reason given for declining particular platforms. Which platform is not named, and the effect is that the claims stay where they are not cross-examined."},
+
+  {"video_id": "YVw8Z6XsQVg", "start_s": 3153, "claim_id": "acceleration-of-all-things",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "The 2023 word again, now attached to 2026."},
+
+  {"video_id": "YVw8Z6XsQVg", "start_s": 3887, "claim_id": "lion-in-england-oxford",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He is asking what it means, not saying. Recorded as an image with no interpretation, so that if a reading is supplied later it can be compared with this."}
+]

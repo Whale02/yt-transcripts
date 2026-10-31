@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "2e0c4aa87b5fc28a",
+"claim_id": "rfk-exposes-fda-food-corruption",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the hedge that not everything about the man is good is his own"
+},
+{
+"mention_id": "aefc479445a73bab",
+"claim_id": "withheld-cures-released",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "no disease and no cure named, so only a general release would count"
+},
+{
+"mention_id": "bf8d9116b34c3dde",
+"claim_id": "goshen-light-egypt-darkness",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the two-sided coin, blessing and torment at once"
+},
+{
+"mention_id": "378e11ff7d929c22",
+"claim_id": "east-coast-storm-newyork-to-miami",
+"same_event": "unsure",
+"delta_type": "restatement",
+"confidence": 0.5,
+"note": "a storm on the East Coast said to have been seen many times; whether it is the Manhattan to Miami one is not stated"
+},
+{
+"mention_id": "253fb48bf94c521a",
+"claim_id": "oval-office-prayer-glory",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "prayer services in the Oval Office set beside brush arbor churches"
+},
+{
+"mention_id": "6b708c2781aa27bb",
+"claim_id": "macron-rises-like-hitler",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "a principality working through the personality"
+},
+{
+"mention_id": "f295eebf6363d1da",
+"claim_id": "reprieve-four-years",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the four years given, told 1 December 2024, before the 2025 framing"
+},
+{
+"mention_id": "825378c3fe5c79e5",
+"claim_id": "poland-war-spread",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the spirit of war entering Putin, with Poland provoking over Ukraine"
+},
+{
+"mention_id": "dbf50bbf5b26386c",
+"claim_id": "war-on-american-soil-patriotism",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the September 11th analogy given for the patriotism"
+},
+{
+"mention_id": "6a3f8ec4b3ee076b",
+"claim_id": "hidden-cells-america",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the cells traced to the southern border over several years"
+},
+{
+"mention_id": "15d8a49b13cf7840",
+"claim_id": "saudi-brics",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the coalition framed as sanctions evasion after the petrodollar break"
+},
+{
+"mention_id": "ab63a2fc60cce7e4",
+"claim_id": "saudi-brics",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "OPEC, then Africa, then South America"
+},
+{
+"mention_id": "80321937b712071f",
+"claim_id": "great-humbling-of-america",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "given as the mechanism for the revival he keeps asking about"
+},
+{
+"mention_id": "60586581a9e03a8f",
+"claim_id": "ministry-scandals",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "sexual perversion named as the content of the cleaning out"
+},
+{
+"mention_id": "c7b9e8b8a4d9a6d6",
+"claim_id": "next-virus-engineered-in-a-lab",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the laboratory origin restated beside the 350 million"
+},
+{
+"mention_id": "44992a98f48635c3",
+"claim_id": "china-attacks-hawaii",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "answering a question about the Big Island with the Pearl Harbor comparison"
+},
+{
+"mention_id": "caeb2d394e4dd018",
+"claim_id": "china-attacks-hawaii",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the military bases named as the target"
+},
+{
+"mention_id": "c5dbcc13d6db4a06",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "an endorsement of another minister's meetings"
+},
+{
+"mention_id": "2095d40013351d08",
+"claim_id": "mark-world-currency",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the screens, the named venues and the flag added to the Friday worship"
+},
+{
+"mention_id": "f9c630f80aa47f94",
+"claim_id": "christians-taken-blamed-on-aliens",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "post-rapture scenery, so nothing here could come out either way before the fact"
+},
+{
+"mention_id": "5522dc7937edaece",
+"claim_id": "unconventional-weapons",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "prayed against by name: hypersonic, nuclear, and weapons not seen before"
+},
+{
+"mention_id": "64e9d59b8a7de6c2",
+"claim_id": "italy-shaken-europe-revival",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "a major revival in Europe prayed for; whether it is the same word as the Italy one is not stated"
+},
+{
+"mention_id": "9e9de317348d5523",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "an exhortation about Thanksgiving"
+},
+{
+"mention_id": "7c0ee65e24f31662",
+"claim_id": "warsaw-ww3-trigger",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the fifty mile radius, with the radius pre-emptively disclaimed"
+},
+{
+"mention_id": "58d0e53e90d2dfcd",
+"claim_id": "unconventional-weapons",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "vaporises people, leaves buildings, and explicitly not nuclear"
+},
+{
+"mention_id": "0ef6c0813a62d6bf",
+"claim_id": "cuba-cold-war",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the missile crisis named as the pattern"
+},
+{
+"mention_id": "e1c5e6e4fde7cf65",
+"claim_id": "gas-eight-dollars-nationwide",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "the Iranian refineries given as the cause, with the city queues"
+},
+{
+"mention_id": "21f13f9069a846c1",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a prayer for provision"
+},
+{
+"mention_id": "8399a34f944337e5",
+"claim_id": "russia-nk-bridge",
+"same_event": "unsure",
+"delta_type": "restatement",
+"confidence": 0.45,
+"note": "prayed that North Korea not join Russia; troops were already being reported at the time, so the prayer runs behind the news"
+},
+{
+"mention_id": "3333094028f5151d",
+"claim_id": "xrp-10000",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the two letters and the ten thousand figure, November 2024"
+},
+{
+"mention_id": "ec929397900dd794",
+"claim_id": "solomon-anointing-rebuild",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "tied to the term and made conditional on blessing Israel"
+},
+{
+"mention_id": "21346ae57f28e80e",
+"claim_id": "greatest-harvest-of-souls",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the former and latter rain together"
+},
+{
+"mention_id": "6ba3adaaadecf7ee",
+"claim_id": "asia-revival",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the Chinese underground churches named"
+},
+{
+"mention_id": "9334843201835783",
+"claim_id": "major-prayer-gathering-coming",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "America praying again and spreading worldwide; no gathering is named here"
+},
+{
+"mention_id": "19b96b77952c1250",
+"claim_id": "three-city-attacks-ranked",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.9,
+"note": "the three named again with more cities withheld; New Orleans and Las Vegas were both hit on 1 January 2025"
+},
+{
+"mention_id": "faab68b38a6b0807",
+"claim_id": "prayer-can-stop-it",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "delay called for rather than prevention, which cannot be checked either way"
+},
+{
+"mention_id": "7fd0e08d85eee200",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a testimony about the past"
+},
+{
+"mention_id": "674b909cdc901472",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "a prayer with no named act"
+},
+{
+"mention_id": "ec7d93704005697f",
+"claim_id": "putin-comes-to-god",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "a change of government and a conversion, both prayed rather than predicted"
+},
+{
+"mention_id": "82cc4de4a1db4fe0",
+"claim_id": "england-new-year-darkness",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the uncovering over England attached to the countdown"
+},
+{
+"mention_id": "9a00eb72e369a16d",
+"claim_id": "gas-eight-dollars-nationwide",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "prayed against; the June 2025 strikes left US prices near three dollars"
+},
+{
+"mention_id": "1d4ea3b496937428",
+"claim_id": "global-revival-continents",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Asia, Russia, Europe and Africa called out together"
+},
+{
+"mention_id": "9aba65f8f87249ac",
+"claim_id": "global-revival-continents",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "South America, Australia, Queensland and the islands added"
+},
+{
+"mention_id": "51e6664aea24e777",
+"claim_id": "glory-is-here",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "creative miracles expected, said while endorsing another minister"
+},
+{
+"mention_id": "4fd1fd90a4e2631f",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "itinerary and conference notices"
+},
+{
+"mention_id": "9c172168146be2f6",
+"claim_id": "president-will-be-radical-for-jesus",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "a stirring inside him, offered as confirmation of the earlier word"
+},
+{
+"mention_id": "514132584971e995",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "a clip of another man speaking, played on the channel"
+},
+{
+"mention_id": "3010586665b740d9",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "the same clip continuing"
+},
+{
+"mention_id": "2a97c3d3956af7d8",
+"claim_id": "asia-revival",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "the islands added beside the Koreas and China"
+},
+{
+"mention_id": "de62b13de08e3b12",
+"claim_id": "president-will-be-radical-for-jesus",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "glowing with the glory, a different person"
+},
+{
+"mention_id": "f49723cecc138d33",
+"claim_id": "dome-over-america-blessing-israel",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "conditional on the alignment with Israel, which is a field rather than an escape"
+},
+{
+"mention_id": "67eee3111bff3a2e",
+"claim_id": "national-debt-turned-around",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the debt figure is the one checkable thing in the passage"
+},
+{
+"mention_id": "b48c76dab28f5aae",
+"claim_id": "russia-fifty-year-empire-plan",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the four years of alliance building set against Macron's competing agenda"
+},
+{
+"mention_id": "8d9ccc1efb99f1d8",
+"claim_id": "brics-digital-platform-off-dollar",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Venezuela and Egypt added, with Taiwan given as China's price"
+},
+{
+"mention_id": "57bbebdb32aa4cec",
+"claim_id": "england-new-year-darkness",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the earliest telling, 10 November 2024, with the named figures around it"
+}
+]
+}

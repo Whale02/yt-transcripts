@@ -1,0 +1,22 @@
+[
+ {"claim_id": "japan-crypto-national-reserve",
+  "label": "Japan holds a digital coin as a national reserve standard",
+  "domain": "finance",
+  "description": "Seen 5 November 2025 as a tilled field with a corn-like stalk growing out of it and a coin at the top, interpreted as a future reserve: Japan will hold this as its standard the way America is said to be backed by gold. He adds that a country in South America will do the same and that it will be pronounced soon, and says he sees two.",
+  "aliases": ["a future reserve", "at the top of it is a coin", "Japan will have"]},
+ {"claim_id": "three-men-central-bank-iraq",
+  "label": "Three men at the Central Bank of Iraq standing in the way",
+  "domain": "finance",
+  "description": "Given amid repeated calls of oil and natural resources and an instruction to watch Iraq: three men at the Central Bank are still standing in the way. The count of three is the checkable element; no names are given.",
+  "aliases": ["three men at the Central Bank", "watch Iraq", "still standing in the way"]},
+ {"claim_id": "ukraine-to-new-york-harbour-bomb",
+  "label": "A device routed from Ukraine to New York harbour",
+  "domain": "security",
+  "description": "Seen 5 November 2025: a line running from Ukraine to New York harbour and from there to a bomb, with a specific building in view that he says he will try to identify afterwards by searching for it.",
+  "aliases": ["From Ukraine to New York harbor", "that bomb", "I see the building"]},
+ {"claim_id": "newyork-grid-goes-dark",
+  "label": "The New York power grid goes down and parts of the city go dark",
+  "domain": "security",
+  "description": "Seen 4 November 2025: the power grid going down again, complete darkness in parts of New York, and buildings lit from outside by generators and spotlights, followed by people leaving the city in droves.",
+  "aliases": ["power grid going down", "complete darkness in parts", "lit up by generators"]}
+]

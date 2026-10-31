@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "b5eb090bd7ea874a",
+"claim_id": "meteor-seen-over-new-york",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Mass and speed figures read off a report, with a claim that he had said it could not be intercepted. Meteors are not intercepted because they are not treated as threats."
+},
+{
+"mention_id": "65ff3e5809056a08",
+"claim_id": "malibu-earthquake",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He says he did not know where Malibu was and had to be shown on a map. Worth recording alongside the Hollywood passage where he says the same about the geography."
+},
+{
+"mention_id": "6920dc7d24f06bdf",
+"claim_id": "black-swan-events-in-europe",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "He claims a two year lag from word to fulfilment. Only the general fact of burning matches, which is common to most civil unrest."
+},
+{
+"mention_id": "2921320ecf3d66dc",
+"claim_id": "meteor-seen-over-new-york",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "The object heard loudly over Boston, which is the nearest thing to a location match on this claim so far."
+},
+{
+"mention_id": "19d402f75798005a",
+"claim_id": "naples-volcano-tsunami",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The three hundred thousand figure restated off a 6.2 offshore Italy."
+},
+{
+"mention_id": "3409d4e86ea2fc50",
+"claim_id": "multiple-volcanoes-at-once",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Forty eight eruptions cited as record breaking, with an explicit disclaimer that he is not trying to bring fear."
+},
+{
+"mention_id": "5abc0d3cc58a11f9",
+"claim_id": "mexico-found-it-not-america",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He does not say what was found, which removes the checkable part."
+},
+{
+"mention_id": "087280e9a5b97e4f",
+"claim_id": "california-secession-red-wave",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Names Los Angeles specifically and ties the political result to a revival following it."
+},
+{
+"mention_id": "782b9e0bfa77acc4",
+"claim_id": "australia-digital-id-2027",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds social credit scoring alongside the identity scheme, which is the harder half of the claim."
+},
+{
+"mention_id": "9ef30e2d42822949",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "A presidential clip played without comment."
+},
+{
+"mention_id": "c4ed231c45c6a15f",
+"claim_id": "antisemitism-peak",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Conditions the antisemitism rise on Israel striking first, which makes the sequence checkable rather than the level alone."
+},
+{
+"mention_id": "3b4b649d7cb7c364",
+"claim_id": "the-c-word-death",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He names nobody, so almost any prominent cancer death in the following year could be claimed."
+},
+{
+"mention_id": "5519114a3bb6cb7b",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "He asks what he is praying over and offers no reading."
+},
+{
+"mention_id": "1e1f7c00b39e0d56",
+"claim_id": "thunder-lose-game-seven",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. The result is stated as already known, so the prayer concerns the crowd rather than the game."
+},
+{
+"mention_id": "6e295580500c6932",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "An exhortation to the audience. No forward content."
+},
+{
+"mention_id": "38644e15f25698a6",
+"claim_id": "red-dawn-experiences",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the Trojan within framing and the reason: they could not attack from outside so they came in."
+},
+{
+"mention_id": "77afa44f98692c15",
+"claim_id": "clarity-act-one-vote",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "A presidential post the day after their prayer treated as the answer, which is a one day turnaround on an ongoing policy fight."
+},
+{
+"mention_id": "4aa8b9caaa78ac62",
+"claim_id": "ai-industrial-revolution-crypto-behind",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Ties the new frontier language to the black line image he says was given earlier."
+},
+{
+"mention_id": "b6d121b442e3fd8a",
+"claim_id": "cuba-revival-rubio-tens-of-thousands",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The greatest revival Cuba has seen, given off a national security designation."
+},
+{
+"mention_id": "c4c489957981e334",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "Speculation about New York after Ramadan and a claim about a former president's health, neither developed."
+},
+{
+"mention_id": "cf0716fc558e1ffb",
+"claim_id": "cartel-leaders-taken-turf-war",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "A report of war on the cartels, noted on what he calls a slow news day."
+},
+{
+"mention_id": "b6bd0e654fb23cd8",
+"claim_id": "latino-revival-horns",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Names a Miami ministry and a Brazilian harvest and calls for the largest turnout it has had."
+},
+{
+"mention_id": "65782fefa440f488",
+"claim_id": "tribulation-starbucks",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Empty coffee shops and downtown, with the president and secretary of state seen alongside."
+},
+{
+"mention_id": "f238996280dd7c31",
+"claim_id": "july4-250th-parades",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Signs on poles reading 250 America and a major Washington parade. The parade was already announced by this date."
+},
+{
+"mention_id": "cb39d7ea72480da2",
+"claim_id": "king-charles-scorpion-strike",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds two figures either side of the man and names the pressure as coming from the king and Europe. He says he does not know who the man is."
+},
+{
+"mention_id": "41258fbc6e8917dc",
+"claim_id": "social-credit-ai",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "Extends the social credit claim to New Zealand alongside Australia."
+},
+{
+"mention_id": "7aaad1640f985cc1",
+"claim_id": "global-revival-continents",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds Thailand to Cuba, Venezuela and Brazil as places to be taken."
+},
+{
+"mention_id": "d76a6baa432cb303",
+"claim_id": "examining-my-troops-some-wont-make-it",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Nobody is named, so any ministry failure would be claimed and none would count against it."
+},
+{
+"mention_id": "e9fa1ebe6a1384c1",
+"claim_id": "great-humbling-of-america",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Rome as the comparison, with the humbling paired to a window of opportunity."
+},
+{
+"mention_id": "61be0a2bb49e216b",
+"claim_id": "england-school-agenda-comes-to-america",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, taken from a same day English news item rather than a vision."
+},
+{
+"mention_id": "1d452ae2070e8003",
+"claim_id": "death-to-america-marchers",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He says he does not understand why the crowds are still hostile after the campaign, which is worth recording against his own iran-revival claim."
+},
+{
+"mention_id": "8d83bfc90903a366",
+"claim_id": "modi-war-crimes-vote",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.6,
+"note": "He describes the mechanism as a still small voice while pulling weeds that then gets loud."
+},
+{
+"mention_id": "debf15ec12c60379",
+"claim_id": "island-engulfed-in-fire-for-the-oil",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 27 May 2026, a week before the 3 June version this claim was seeded from. Adds satellite fire data as the check."
+},
+{
+"mention_id": "a3f3ae433715dd97",
+"claim_id": "island-engulfed-in-fire-for-the-oil",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He states the gap himself: it is happening a little but not to the extreme he saw. Refusing to bank the partial as the fulfilment is worth crediting."
+},
+{
+"mention_id": "34f18bb4dc643a22",
+"claim_id": "prophetic-accuracy-2025",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Scattershot versus bullseye again, the second time he names his own failure mode in this way."
+},
+{
+"mention_id": "29973c0f7544953f",
+"claim_id": "sept11-2026-groundzero",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "A fallen building with the flag on it and a new ground zero."
+},
+{
+"mention_id": "db3f31bd3bfdbb09",
+"claim_id": "sept11-2026-groundzero",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Smoke, rubble, harbingers and the time is up, repeated with no date attached."
+},
+{
+"mention_id": "efe206c3401b7903",
+"claim_id": "golden-circle-floors-rising",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. No reading is offered beyond that it is what he is praying into."
+},
+{
+"mention_id": "be66a5d322cdf260",
+"claim_id": "eight-thousand-is-enough",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. It sets the audience rather than the events as the variable, which is a recurring structure here."
+},
+{
+"mention_id": "2cb77fa5ca061ea4",
+"claim_id": "glory-spots-named-ministers",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds a faucet and an open heaven over the named church, and he says there is something there he has not got yet."
+},
+{
+"mention_id": "bce4aeca123e3728",
+"claim_id": "sept11-2026-groundzero",
+"same_event": "yes",
+"delta_type": "exact_repeat",
+"confidence": 0.8,
+"note": "Third telling of the ground zero material in the same broadcast."
+},
+{
+"mention_id": "e8786bf77ae8df13",
+"claim_id": "this-is-the-finale",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Finale language has no defined end, so it cannot expire."
+},
+{
+"mention_id": "fcc5747d4400f169",
+"claim_id": "cuba-cold-war",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Kennedy, the Kennedy curse and the missile crisis, with an instruction to pay attention to Cuba."
+},
+{
+"mention_id": "644262db9dd3c4ca",
+"claim_id": "emp-ship-in-the-gulf",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds Mar-a-Lago as the direction and he raises the radar objection himself, saying it would be almost impossible."
+},
+{
+"mention_id": "eee85734a7011216",
+"claim_id": "cartel-mafia-turf-wars",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that the just business line was cover and the real motive was personal dislike of the new city administration."
+},
+{
+"mention_id": "3040f7fd18f69b21",
+"claim_id": "new-trump-tower-and-barron",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the glass tower shooting up and the man holding the storm in his hand without moving off the steps."
+},
+{
+"mention_id": "c6556687abdb40f2",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "A transition into a news item on Iranian flights."
+},
+{
+"mention_id": "d87624664f5bb478",
+"claim_id": "financial-seed-kills-poverty",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "The thirty, sixty and hundredfold multiplier framed as a bank balance to be checked."
+},
+{
+"mention_id": "a3b4669ebef622bb",
+"claim_id": "revival-in-our-own-area",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Names five cities whose churches he says are desperate for a touch."
+},
+{
+"mention_id": "44b3e34a8a694179",
+"claim_id": "israel-night-attack",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Names Syria as the origin and infiltration from within as the method."
+},
+{
+"mention_id": "b21c5079cc30eadc",
+"claim_id": "retaliation-attack-within",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "An Iranian surprise attack with a warning not to underestimate them, and a named carrier prayed over."
+},
+{
+"mention_id": "21d825178c12bd45",
+"claim_id": "us-weapons-never-used-in-battle",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "Protective prayer over ships, battleships and Gulf bases."
+},
+{
+"mention_id": "cbafe2bfd3099350",
+"claim_id": "sonar-code-to-south-america",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. A specific mechanism, a coded acoustic signal to South America, which would be checkable if anything of the kind were ever found."
+},
+{
+"mention_id": "129d3cfef20f3af5",
+"claim_id": "california-big-one",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "California, San Francisco and Italy shaken together with volcanoes erupting."
+},
+{
+"mention_id": "98fb711fdede464c",
+"claim_id": "megachurch-attack-targets",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds Houston and Texas and threats against lives at named megachurches."
+}
+]
+}

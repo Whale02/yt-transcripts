@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "b6c36d6de6633d72",
+"claim_id": "america-turned-back-remnant",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the covenant with the settlers honoured"
+},
+{
+"mention_id": "a95fe223dbba56a0",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a prayer citing scripture"
+},
+{
+"mention_id": "7f15b16b7b790ef4",
+"claim_id": "america-rebirthing-baby",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "a coming patriotism like the one after September 11th, two years before the rebirthing word"
+},
+{
+"mention_id": "802bbf289cc739d9",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a preamble"
+},
+{
+"mention_id": "1405b1bcc3e60102",
+"claim_id": "syria-red-soldiers",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the single file line out of Syria, announced in the news"
+},
+{
+"mention_id": "67556283d60f698d",
+"claim_id": "fearful-signs-heavens",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "a visible demonstration over Israel, with the form unspecified"
+},
+{
+"mention_id": "8fdf6bcb812b5091",
+"claim_id": "tribulation-birthing-pains",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the birth pangs framing, in October 2023"
+},
+{
+"mention_id": "51debb1a0b401b26",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a scriptural instruction"
+},
+{
+"mention_id": "df0ef1808c667b47",
+"claim_id": "china-attacks-hawaii",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the betrayal of Israel given as the opening for China"
+},
+{
+"mention_id": "37e6d3b30cff89c5",
+"claim_id": "china-attacks-hawaii",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "Honolulu named and the attack described"
+},
+{
+"mention_id": "27f5d25337d0bdb4",
+"claim_id": "syria-red-soldiers",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Iran supplying Syria secretly"
+},
+{
+"mention_id": "9c5623655891c9f1",
+"claim_id": "syria-red-soldiers",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "the ants image and the single file lines"
+},
+{
+"mention_id": "9f5c5055c6060178",
+"claim_id": "syria-red-soldiers",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the scale asserted as all-out war"
+},
+{
+"mention_id": "b090cb486cdc954d",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a prayer for protection"
+},
+{
+"mention_id": "693409ec2af759da",
+"claim_id": "naples-volcano-tsunami",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.45,
+"note": "the coves he is pointed to, with no location given; the Naples link is inference from the later material"
+},
+{
+"mention_id": "4d1fdd09a8a49f9f",
+"claim_id": "grid-cyberattack",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the grid word repeated three times in a week, October 2023"
+},
+{
+"mention_id": "4dd44f0962166c6c",
+"claim_id": "grid-cyberattack",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "major cities and a plot, with the timing explicitly unknown"
+},
+{
+"mention_id": "65b3f88ea850e820",
+"claim_id": "grid-cyberattack",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "the extent given as coast to coast"
+},
+{
+"mention_id": "ddd0cca1bf0a0999",
+"claim_id": "grid-cyberattack",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "his first reading was Oklahoma, with the water going bad too"
+},
+{
+"mention_id": "e92b92de5535529e",
+"claim_id": "gas-eight-dollars-nationwide",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the price range named"
+},
+{
+"mention_id": "abacbdbabfbbd0ca",
+"claim_id": "mideast-us-draft",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the draft warning, September 2023"
+},
+{
+"mention_id": "83fa174968a3634d",
+"claim_id": "warsaw-ww3-trigger",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "Warsaw and Belarus named"
+},
+{
+"mention_id": "e6e708bc8d29bab6",
+"claim_id": "land-of-israel-warning",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the curse attached to dividing Jerusalem"
+},
+{
+"mention_id": "51664d1c98d784be",
+"claim_id": "new-madrid-quake",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "1,800 people on the Texarkana to Tulsa line, with empty shelves"
+},
+{
+"mention_id": "6126afa9c9661203",
+"claim_id": "euro-trouble",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the euro called a significant domino"
+},
+{
+"mention_id": "23fbc5c9af927e95",
+"claim_id": "divine-protection-trump",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "a prayer for the president in September 2023, when the sitting president was not the one he later prays for"
+},
+{
+"mention_id": "15276c7df3347839",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a pause in a prayer meeting"
+},
+{
+"mention_id": "c0e61da14189de57",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "an audience note"
+},
+{
+"mention_id": "4899618b0b859ecc",
+"claim_id": "plague-350m",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "the figure clarified as worldwide"
+},
+{
+"mention_id": "98077e897112b3cb",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a doctrinal statement"
+},
+{
+"mention_id": "7e8ac0891ebf5a72",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a judgment about culture"
+},
+{
+"mention_id": "30d20784708795fc",
+"claim_id": "plague-350m",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "adds the 30 million American figure"
+},
+{
+"mention_id": "9353403a92f48436",
+"claim_id": "cashless-rollout",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "an Australian viewer's report of cash access closing"
+},
+{
+"mention_id": "21c803f064a7be94",
+"claim_id": "good-year-2024",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the earliest form of the not-a-bad-year word, with rates rising"
+},
+{
+"mention_id": "de4ddf22f35e47fd",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "an absence of impression about Taiwan, worth reading beside the later Taiwan material"
+},
+{
+"mention_id": "952668abcf459992",
+"claim_id": "city-exodus",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "relocation into the central states because of revival"
+},
+{
+"mention_id": "a35a2ee6d98f59f0",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "an instruction"
+},
+{
+"mention_id": "c657d88a07e7d2c3",
+"claim_id": "fishes-and-loaves-creative-ideas",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "a seed given with a request for a creative idea"
+},
+{
+"mention_id": "635e3b046fb1911f",
+"claim_id": "plague-350m",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "he rules out the current scare and puts it years out"
+},
+{
+"mention_id": "ec4e70100d79f8d3",
+"claim_id": "city-exodus",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the timing given as a couple of years out"
+},
+{
+"mention_id": "aeaca89fb9d64aa7",
+"claim_id": "city-exodus",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "blue states to the central states and Florida"
+},
+{
+"mention_id": "008e35a6e4304e95",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "giving advice"
+},
+{
+"mention_id": "445025d490dcbfe5",
+"claim_id": "land-of-israel-warning",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the blessing applied to giving"
+},
+{
+"mention_id": "48dcf92e20bed764",
+"claim_id": "august-24-significant",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "the date called the first domino"
+},
+{
+"mention_id": "6bc9dffdc28d5d3e",
+"claim_id": "saudi-brics",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the boot down on America line attributed to the crown prince"
+},
+{
+"mention_id": "0e289fcc03bf9b26",
+"claim_id": "revival-not-trump-saves-america",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the earliest form, August 2023"
+},
+{
+"mention_id": "b06c5b043f7f31f1",
+"claim_id": "three-wealthy-influencers",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Asia and South America named, three months before the England and China telling"
+},
+{
+"mention_id": "b5697cbba2146a9e",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "another person's account"
+},
+{
+"mention_id": "95e0a7917449b1c3",
+"claim_id": "dont-be-stingy-multiplied",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the watch he was told to give away"
+},
+{
+"mention_id": "a02ff9eebcd3a2ec",
+"claim_id": "greatest-harvest-of-souls",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "the southern border, Texas and Mexico named"
+},
+{
+"mention_id": "de91067956239c3c",
+"claim_id": "grace-wave-2024",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "the grace explosion, five months before the 2024 wave word"
+},
+{
+"mention_id": "08cbc3f1c3a01163",
+"claim_id": "land-of-israel-warning",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "his own position on the blessing side"
+},
+{
+"mention_id": "4cd721152d254acb",
+"claim_id": "wealth-of-the-sinner",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the Egypt comparison, July 2023"
+},
+{
+"mention_id": "61f8afd7d27e523d",
+"claim_id": "gold-10k",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "gold rising as the dollar weakens, with the timing withheld"
+},
+{
+"mention_id": "ca573afb5349a690",
+"claim_id": "saudi-brics-oil-200",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the earliest telling, July 2023, with Russia named"
+}
+]
+}

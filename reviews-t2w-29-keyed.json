@@ -1,0 +1,148 @@
+{
+"reviews": [
+{
+"mention_id": "ed1bacada344ee6e",
+"claim_id": "million-prayer-army",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the network said to change governments"
+},
+{
+"mention_id": "420134d6e9c2f429",
+"claim_id": "divine-protection-trump",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "an attempt from the air at a golf course, which is where the September 2024 attempt happened"
+},
+{
+"mention_id": "2881808bafd7537c",
+"claim_id": "goshen-light-egypt-darkness",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the light given as what draws people in"
+},
+{
+"mention_id": "04e0fc1624b3b31b",
+"claim_id": "divine-protection-trump",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "an angelic host warring on his behalf"
+},
+{
+"mention_id": "7c7267260ebd3606",
+"claim_id": "three-judges-roadblocks",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "a judge up north in New York, unnamed; whether this is one of the three judges is not stated"
+},
+{
+"mention_id": "4ffd1fd8f59951e1",
+"claim_id": "london-bridge-is-falling-down",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "given in tongues and interpretation; the words are a nursery rhyme, which makes the reading loose"
+},
+{
+"mention_id": "861d86261bbf1e85",
+"claim_id": "capital-plot-underground-chatter",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the Capitol and Washington landmarks named, with lone wolves distinguished from the organised group"
+},
+{
+"mention_id": "75a80f53b50ee147",
+"claim_id": "fertilizer-vans-trump-towers",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "parking garages given as the concealment"
+},
+{
+"mention_id": "44bc6462eba9cc22",
+"claim_id": "soleimani-retaliation-thousand-men",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "a specific motive and a specific number, which makes this checkable"
+},
+{
+"mention_id": "f5c8a512561e072f",
+"claim_id": "ten-cities-cells-army",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "the arithmetic given: a thousand men, ten cities, a hundred each; and he calls it an act of war rather than terrorism"
+},
+{
+"mention_id": "269f7807e65f96cb",
+"claim_id": "fertilizer-vans-trump-towers",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "Trump hotels and locations, and Europe, taken from chatter"
+},
+{
+"mention_id": "d46e8341346e605b",
+"claim_id": "new-orleans-nashville-vegas-ranked",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the one man in New Orleans matches what happened there on 1 January; the ranking putting Nashville and Las Vegas higher does not"
+},
+{
+"mention_id": "2665c253c6f14f52",
+"claim_id": "new-orleans-nashville-vegas-ranked",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "he says plainly New Orleans was the less intense of the impressions, which is the opposite of how it turned out"
+},
+{
+"mention_id": "2724298300cf3183",
+"claim_id": "three-city-attacks-ranked",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "Bourbon Street named specifically, and Islamic State; the New Orleans attack there was claimed for Islamic State"
+},
+{
+"mention_id": "792f9ad903c856e0",
+"claim_id": "toronto-cells-northern-border",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "Toronto given as the origin, with Pennsylvania and New York as destinations"
+},
+{
+"mention_id": "88492ddf1ac8cd4f",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a petition"
+},
+{
+"mention_id": "1d4131da420c3292",
+"claim_id": "pergamon-altar-berlin",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Berlin named again as where the Antichrist goes, alongside revival called over Germany"
+},
+{
+"mention_id": "db7fb94985114737",
+"claim_id": "global-revival-continents",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "the country list is read from viewer comments rather than seen, and he says so by praying for the whole world at once"
+}
+]
+}

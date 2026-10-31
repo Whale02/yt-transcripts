@@ -1,0 +1,23 @@
+[
+ {
+  "claim_id": "government-issued-tents-migration",
+  "label": "Millions in identical government issued tents in the central states",
+  "domain": "america",
+  "description": "After a great shaking, millions moving into the central part of America along the I-35 corridor for the revival, with no houses to rent and not enough hotels, living in tents that are all the same, which he reads as government issued.",
+  "aliases": ["there's no houses to rent", "some kind of government issued tent", "millions of people coming to the central"]
+ },
+ {
+  "claim_id": "red-dragon-crosses-america",
+  "label": "A red dragon face crossing over America",
+  "domain": "china",
+  "description": "Something with the face of a red dragon seen going across America, which he says he cannot identify as a missile or a cyber attack, seen twice over two years and given immediately before the Hawaii attack in the same vision.",
+  "aliases": ["a red dragon face but it went over America", "I saw this red dragon going across America"]
+ },
+ {
+  "claim_id": "things-only-get-worse",
+  "label": "Anyone saying things will get better is not reading their Bible",
+  "domain": "endtimes",
+  "description": "A flat statement that the labour pains do not go away, that things get worse and worse, and that anyone telling people America or the world will improve is not reading their Bible. He says he does not anticipate things ever getting better. This sits against his own words elsewhere about a good year, a turnaround and four years in which things can be turned.",
+  "aliases": ["they ain't reading their Bible", "it's going to get worse and worse", "the labor doesn't go away"]
+ }
+]

@@ -1,0 +1,9 @@
+{
+ "_note": "Two workers on the same database seeded the same two claims out of the 27 and 28 April 2026 sessions within minutes of each other. Both pairs were read side by side before folding: same scene, same wording in the transcript. The surviving id in each case is the one already carrying live assignments, so the merge redirects rather than drops. The other worker folded three of my duplicates the same way last cycle.",
+ "merges": [
+  {"keep": "green-acid-economy", "drop": "boats-dissolving-in-acid",
+   "note": "same green acid with the trade ships rusting and dissolving and crypto and dollar signs floating in it; kept the id whose description also carries the needle and the red, black and white ship"},
+  {"keep": "stimulus-2500-under-150k", "drop": "stimulus-2500-per-person",
+   "note": "same $2,500 figure from the same session; kept the id that also carries the $150,000 income threshold, which is the second number and the checkable part"}
+ ]
+}

@@ -1,0 +1,24 @@
+{"relationships": [
+  {"from_claim": "coup-25th-amendment", "to_claim": "booker-licking-the-ground-2028",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "zp4ImjufUuU", "evidence_start_s": 1066,
+   "note": "He names the ring leader and Booker together as the poster boys the other side wants for 2028, joining the removal push to the succession."},
+
+  {"from_claim": "vance-2028-realignment", "to_claim": "rubio-2028",
+   "rel_type": "contradicts", "asserted_by": "brandon",
+   "evidence_video": "7I5xdRDaayo", "evidence_start_s": 982,
+   "note": "He states the choice himself: God's hand is on Marco Rubio and not on JD Vance. That cuts against the earlier telling in which Vance and Rubio run together."},
+
+  {"from_claim": "sooners-asia-first-on-crypto", "to_claim": "clarity-act-one-vote",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "LlRONx0fV0A", "evidence_start_s": 158,
+   "note": "He sets the Japanese act against the American one in the same passage, presenting Asia moving first as the reason to keep praying the domestic act through."},
+
+  {"from_claim": "taiwan-two-day-fall", "to_claim": "church-cleansing",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Both are given prayer as the lever that changes the timing within the same broadcast. No link asserted on air."},
+
+  {"from_claim": "drones-given-by-iran", "to_claim": "drone-attacks-holiday-crowds",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Two separate drone claims in the corpus, one about supply and one about use. He does not join them."}
+]}

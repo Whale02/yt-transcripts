@@ -1,0 +1,29 @@
+[
+ {"claim_id":"bitcoin-100k","label":"Bitcoin breaks $100K","domain":"economics",
+  "description":"Prayed over Bitcoin breaking the barrier. Bitcoin crossed $100K Dec 5 2024.",
+  "aliases":["Bitcoin barrier","Bitcoin 100"]},
+
+ {"claim_id":"stock-crash-1929","label":"1929-style stock market crash","domain":"economics",
+  "description":"Saw house of cards fall, major stock market crash similar to 1920s-1930s. Repeated 49+ times.",
+  "aliases":["house of cards","stock market crash","1929"]},
+
+ {"claim_id":"bank-failures-mass","label":"Mass bank failures, banks close","domain":"economics",
+  "description":"Banks closed, foreclosed on mega churches. Jul 2024 onward.",
+  "aliases":["banks close","bank failures","foreclosed"]},
+
+ {"claim_id":"housing-crash-1929","label":"Worst housing market since 1929","domain":"economics",
+  "description":"Aug 2026: worst housing market since the 1929 style crash.",
+  "aliases":["housing market crash","housing 1929"]},
+
+ {"claim_id":"england-christian-persecution","label":"Great persecution of Christians in UK","domain":"politics",
+  "description":"Persecution, arrests for praying, prison for 2 years, dark ages for church in UK.",
+  "aliases":["UK persecution","England church","arrested for praying"]},
+
+ {"claim_id":"macron-removed","label":"Macron resigns or is removed","domain":"politics",
+  "description":"Predicted Macron leaving office.",
+  "aliases":["Macron resign","Macron removed"]},
+
+ {"claim_id":"wwiii-europe","label":"World War III begins in Europe","domain":"politics",
+  "description":"WWIII starting with Russia-Poland-NATO escalation.",
+  "aliases":["World War III","WW3","WWIII"]}
+]

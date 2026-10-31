@@ -1,0 +1,17 @@
+[
+ {"claim_id": "jesus-walking-through-europe",
+  "label": "Jesus walking through the villages of Europe, knocking",
+  "domain": "religion",
+  "description": "Seen 19 November 2025: Jesus moving through European villages and knocking on the doors of unbelievers' hearts, with a lengthening line following him, past cottages whose hinges are broken and roofs are missing shingles, among people in lederhosen, with flowers turning and bowing as he passes. The same movement then goes through South America and to Australia, with the words the time is late repeated.",
+  "aliases": ["moving throughout the villages", "knocking on the door of the hearts", "the time is late"]},
+ {"claim_id": "east-coast-storm-newyork-to-miami",
+  "label": "A lightning storm in Manhattan running down to Miami",
+  "domain": "weather",
+  "description": "A day of sternness and shaking in which everything changes within 24 hours, with a storm and a lightning bolt inside Manhattan and a great storm running the east coast from New York down to Miami, with a glorious light over it. Storm is left between weather and metaphor.",
+  "aliases": ["lightning in New York", "storm inside of Manhattan", "storm on the east coast"]},
+ {"claim_id": "mexico-president-paid-by-cartels",
+  "label": "Mexico's president paid off by the cartels from Venezuela",
+  "domain": "politics",
+  "description": "Prayer that a godly leader be put into Mexico, given with the assertion that he saw the cartels paying the serving president off from Venezuela, alongside MS-13 and the wider corruption. A corruption allegation against a named serving head of state offered on the strength of the vision alone.",
+  "aliases": ["cartels paying this woman off", "from Venezuela", "MS-13"]}
+]

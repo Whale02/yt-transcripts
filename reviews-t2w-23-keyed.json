@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "f4a5b24930e2330b",
+"claim_id": "oval-office-prayer-glory",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "widened from the Oval Office to state legislatures, governors and mayors"
+},
+{
+"mention_id": "4c387f62d8bb4b00",
+"claim_id": "lending-freeze",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "cars above fifty thousand named"
+},
+{
+"mention_id": "734dd50da392bcf8",
+"claim_id": "back-to-family-roots",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "given as the fruit of the humbling"
+},
+{
+"mention_id": "bc6fb9ef54e0115d",
+"claim_id": "south-korea-revival-hub",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the earliest telling, November 2024"
+},
+{
+"mention_id": "9aa7b859cdbe29de",
+"claim_id": "religious-freedom-restored",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "liberty running hand in hand with the revival"
+},
+{
+"mention_id": "a07361801e661a1d",
+"claim_id": "landslide-quick-result",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "given four days before the vote; the race was called inside a day"
+},
+{
+"mention_id": "842ee5fe81f38d04",
+"claim_id": "asia-revival",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "South Korean viewers and the Chinese underground churches"
+},
+{
+"mention_id": "7ba2bbdada0267e1",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "encouragement"
+},
+{
+"mention_id": "aeabb4caa1135847",
+"claim_id": "asia-revival",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "Singapore and Vietnam added"
+},
+{
+"mention_id": "67fa8833c16c0fdb",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "a sign-off"
+},
+{
+"mention_id": "0286c0ccab4f9c6b",
+"claim_id": "ted-cruz-senate",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "a blue wave of corruption in Texas rather than a genuine one, which is a hedge built in"
+},
+{
+"mention_id": "ab2f8f5cdfae5338",
+"claim_id": "ted-cruz-senate",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "Pennsylvania added; he names only the two closest races and says no others were given"
+},
+{
+"mention_id": "9926f0ef52779ad2",
+"claim_id": "million-prayer-army",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the troops called together, with angels working"
+},
+{
+"mention_id": "f2d80605f3e6c6eb",
+"claim_id": "canada-turnaround",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "corruption removed from Trudeau and revival called over Canada"
+},
+{
+"mention_id": "ddf06bbb2523fa06",
+"claim_id": "godly-leaders-economy",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "governments becoming godly as they pray; godly is not defined"
+},
+{
+"mention_id": "6332b2495bc19fa2",
+"claim_id": "greatest-harvest-of-souls",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "four regions named, the same wording as the February 2025 telling"
+},
+{
+"mention_id": "9393cf0bd5d8a190",
+"claim_id": "divine-protection-trump",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Vance and the cabinet added; the shoo-in claim is broad enough that counterexamples are easy"
+},
+{
+"mention_id": "4d7cc0de029d533f",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "an account of a meeting and a personal commitment"
+},
+{
+"mention_id": "334514290580cfd4",
+"claim_id": "landslide-quick-result",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "a God-fearing president and a fair vote, two weeks before"
+},
+{
+"mention_id": "a3c35c0c6e79e3a0",
+"claim_id": "reprieve-four-years",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "prayer to continue right through the four years"
+},
+{
+"mention_id": "51c792457f311093",
+"claim_id": "dollar-is-done-no-saving-it",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the thirty five trillion figure, with delay rather than prevention offered"
+},
+{
+"mention_id": "56ae1b6be5c70678",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "teaching on the centurion"
+},
+{
+"mention_id": "f2fd0f6718e15d72",
+"claim_id": "covenant-with-founding-fathers-restored",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "Plymouth Rock named, three months before the fuller telling"
+},
+{
+"mention_id": "e0d5f2a11d47d4b6",
+"claim_id": "great-betrayal-of-israel",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "answered by declaring the opposite; the article he cites is the thing he prays against"
+},
+{
+"mention_id": "bcd5aefca2ffc9dc",
+"claim_id": "global-revival-continents",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "Australia's government named"
+},
+{
+"mention_id": "54392d5149febe73",
+"claim_id": "coachella-major-events-watched",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "said to have been warned a year earlier"
+},
+{
+"mention_id": "6a32d52a5083a5b0",
+"claim_id": "coachella-major-events-watched",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the arrest did happen on 12 October 2024, at a rally rather than at the festival"
+},
+{
+"mention_id": "ea236d1ba1440021",
+"claim_id": "bank-failure-seizure",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "one of five warnings listed in a breath, which makes a partial hit easy"
+},
+{
+"mention_id": "b26997fe98568cf4",
+"claim_id": "gas-eight-dollars-nationwide",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "ten dollars added to the range"
+},
+{
+"mention_id": "ed158dec312642bd",
+"claim_id": "megan-healing",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "his daughter testifying on the channel, with no date"
+},
+{
+"mention_id": "3c5792dad30fd1bd",
+"claim_id": "president-will-be-radical-for-jesus",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "he sets it against preachers saying Trump saves America, which is his own position elsewhere"
+},
+{
+"mention_id": "c204200a7ff7f87c",
+"claim_id": "oval-office-prayer-glory",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the darkness lifting only partly, which lets a weak outcome count"
+},
+{
+"mention_id": "bd33c48d6b8ffece",
+"claim_id": "shaking-to-the-waking",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "on the 2 Chronicles condition"
+},
+{
+"mention_id": "b6dd87ae53a778c8",
+"claim_id": "landslide-quick-result",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "a fair clean election prayed for"
+},
+{
+"mention_id": "a1f8e87013853236",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a statement about stewardship"
+},
+{
+"mention_id": "62d41b5574449fe9",
+"claim_id": "million-prayer-army",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "the thirty plus day campaign"
+},
+{
+"mention_id": "98666adbb442f38a",
+"claim_id": "greatest-harvest-of-souls",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "set against the lukewarm seeker-friendly gospel"
+},
+{
+"mention_id": "00a6beb82f2a0b26",
+"claim_id": "global-revival-continents",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "the Antarctic included, and dictators removed in North Korea"
+},
+{
+"mention_id": "c86f2af385a5c06e",
+"claim_id": "dividing-line-shaking-2025-2028",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "the line in the sand and America's last call; free will means either branch can be claimed"
+},
+{
+"mention_id": "360e3cc4c7cf1293",
+"claim_id": "public-events-warning",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "New York playoff stadiums named, with the drone warning recalled"
+},
+{
+"mention_id": "adc0afd6a9cb63bd",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a petition"
+},
+{
+"mention_id": "237d9e82cfc065e5",
+"claim_id": "seven-deadly-pillars-2026",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the earliest telling, July 2024, with the Roman five"
+},
+{
+"mention_id": "d0e1c003eb4679c7",
+"claim_id": "plague-350m",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "no antidote, no movement of humanity, and paper currency finished alongside"
+},
+{
+"mention_id": "f5336c6b1c73171b",
+"claim_id": "saudi-brics",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "June 2024, five months earlier than the telling logged in batch w15"
+},
+{
+"mention_id": "084bba20db742bac",
+"claim_id": "iran-cave-bioweapon",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "set inside a major world war"
+},
+{
+"mention_id": "07f4d5c108dcd892",
+"claim_id": "iran-cave-bioweapon",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the earliest telling of the fifty gallon drums, June 2024"
+},
+{
+"mention_id": "11ee281cb996608e",
+"claim_id": "plots-against-churches",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Sunday services named, by the border cells; he says he does not know when"
+},
+{
+"mention_id": "4954ce91a930ee70",
+"claim_id": "sydney-harbour-attack",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the opera house named"
+},
+{
+"mention_id": "ff4c698d6ef8a119",
+"claim_id": "green-train-germany-paris",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "a month earlier than the July telling logged in batch w14, so this is the earliest; he hedges it as possibly symbolic"
+},
+{
+"mention_id": "1463aa01c103bb93",
+"claim_id": "iran-refineries-struck",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the earliest telling, June 2024, with the 24 hour oil spike attached"
+},
+{
+"mention_id": "a39fe509ccddd53e",
+"claim_id": "gas-eight-dollars-nationwide",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "California and Oregon named, and he dates the original vision two years earlier"
+},
+{
+"mention_id": "260f306857fbea87",
+"claim_id": "naples-volcano-tsunami",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.45,
+"note": "a cove area shown on a map rather than named; whether this is the Naples word is not stated"
+},
+{
+"mention_id": "47ee2e39b114dac9",
+"claim_id": "antisemitism-peak",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "fuel prices given as the cause, which is not what drove the rise that followed"
+},
+{
+"mention_id": "344d01ef07a1c18d",
+"claim_id": "east-coast-storm-newyork-to-miami",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the corridor and the black haze; Hurricane Helene reached Tennessee three months later, but the terrorism link he attaches did not follow"
+},
+{
+"mention_id": "626977ffcf6286a4",
+"claim_id": "crash-1930s",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the lessening clause means a mild outcome still counts as the word standing"
+}
+]
+}

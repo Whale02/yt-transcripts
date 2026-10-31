@@ -1,0 +1,11 @@
+{
+ "_note": "Clarity Act Senate cloture vote, checked 30 October 2026 against live sources.",
+ "evidence": [
+  {"claim_id": "clarity-act-one-vote",
+   "observed_on": "2026-09-15",
+   "source_url": "https://www.fintechweekly.com/news/what-is-the-clarity-act-digital-asset-market-structure-explained-2026",
+   "summary": "On 15 September 2026 the Senate cloture vote on the Digital Asset Market CLARITY Act failed 49 to 50, short of the 60 needed to open debate. Democrats voted as a bloc against, joined by Republicans Collins, Hawley and Moran; Tillis switched to no and entered a motion to reconsider. Lummis called the bill dead; it is stalled, with a lame-duck revival rated unlikely. CNBC reported the same failure the same day.",
+   "state": "NOT_YET_DUE",
+   "rationale": "He named September 2026 or January 2027 for passage by a single vote. The September branch failed: the vote was decided by one vote, but against the bill, and it was a procedural cloture vote, not passage. The single-vote margin landing on the wrong side is a coincidence, not a match, since a 60-vote threshold made passage by one vote impossible on that motion. January 2027 is still open, so the claim stays NOT_YET_DUE; if January passes without enactment it is EXPIRED_WITHOUT_MATCH."}
+ ]
+}

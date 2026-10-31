@@ -1,0 +1,117 @@
+[
+  {"video_id": "gT0WiYgbPOc", "start_s": 708, "claim_id": "countdown-reprieve-shrinking",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A countdown restated from the present each time it is given never runs out. Kept separate from reprieve-window-2026 because that one has a fixed end and this one moves with the telling; a system edge links them."},
+
+  {"video_id": "gT0WiYgbPOc", "start_s": 1072, "claim_id": "magic-kingdom-infiltration",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Fifth named venue in six weeks with no act and no date, after Atlanta Airport, Queensland, Times Square and Disneyland. The Disneyland target is five days later and is the same kind of place; a system edge links them."},
+
+  {"video_id": "gT0WiYgbPOc", "start_s": 1507, "claim_id": "stay-vertical-2026-media-distraction",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Adds the plan concerning 2026 and 2028. The plan is never described, so almost any coverage decision could later be read as it."},
+
+  {"video_id": "gT0WiYgbPOc", "start_s": 1789, "claim_id": "don-jr-2028",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Marked as what he is believing for rather than what he saw, which matters because vance-2028-realignment is stated as a sight. Two different 2028 preferences, told as different kinds of claim."},
+
+  {"video_id": "gT0WiYgbPOc", "start_s": 2311, "claim_id": "attack-worse-than-october-7",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "Fourth telling in three weeks. Names the Islamic Brotherhood and Iran, still with no date."},
+
+  {"video_id": "gT0WiYgbPOc", "start_s": 4026, "claim_id": "teach-them-to-hear-me",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Belongs with everybody-hears-not-everybody-sees: hearing is available to all, and the churches are the reason they do not."},
+
+  {"video_id": "gT0WiYgbPOc", "start_s": 6210, "claim_id": "church-cleansing",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Who they are looking at is never said, so the revealing cannot be checked against anyone."},
+
+  {"video_id": "gT0WiYgbPOc", "start_s": 6936, "claim_id": "church-cleansing",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Widens the target from the charismatics and seeker friendlies to the whole bride and every denomination, which makes a match easier rather than harder."},
+
+  {"video_id": "gnjfH_Wc1t4", "start_s": 222, "claim_id": "february-3-budget",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Fifth telling attached to February 3rd and still no content: he says he saw a lot in the spirit concerning the date and does not say what."},
+
+  {"video_id": "gnjfH_Wc1t4", "start_s": 278, "claim_id": "purple-three-mountain",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The same three coming down the mountain, now as an alpine skier. He says himself that he knows it is symbolic and does not say of what, which is worth crediting."},
+
+  {"video_id": "gnjfH_Wc1t4", "start_s": 328, "claim_id": "drawing-the-bride-closer",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Joins the shaking to the drawing: the 2026 shaking is what brings the bride close. Same construction as shaking-to-the-waking, so hardship is the confirmation."},
+
+  {"video_id": "gnjfH_Wc1t4", "start_s": 473, "claim_id": "monaco-trafficking",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "An unevidenced criminal accusation against a named place, and he is unsure of the name as he says it. Recorded because he said it, with the uncertainty in the mention rather than tidied away."},
+
+  {"video_id": "gnjfH_Wc1t4", "start_s": 793, "claim_id": "prophetic-method-in-part",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The plainest statement of the in-part clause in the corpus: it is all a puzzle to him and he does not claim to understand his own material. That is candid, and it also means nothing said here can be held to a meaning."},
+
+  {"video_id": "gnjfH_Wc1t4", "start_s": 831, "claim_id": "refining-by-the-sixes",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Sets up 2026 as the next six year, which is the point of the pattern. Only he can attest the past instances."},
+
+  {"video_id": "gnjfH_Wc1t4", "start_s": 914, "claim_id": "refiners-fire-healers",
+   "same_event": "yes", "delta_type": "elaboration"},
+
+  {"video_id": "gnjfH_Wc1t4", "start_s": 955, "claim_id": "gold-glory-girls-not-2026",
+   "same_event": "unsure", "delta_type": "contradiction",
+   "note": "Eight days later, at LmS3IDri3Ok@5084, the gold, the girls and the glory are given as exactly the reason ministers lose their life or platform in 2026. Here he says 2026 will not be about them. Filed as a contradiction against church-cleansing rather than reconciled."},
+
+  {"video_id": "gnjfH_Wc1t4", "start_s": 1112, "claim_id": "lamps-full-of-oil-2026",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "2026 recast as the preparation rather than the event, which moves the revival out again without saying so."},
+
+  {"video_id": "otQep0gAmZs", "start_s": 261, "claim_id": "shredding-evidence-whitewash",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Nobody named, no institution identified. Sits beside january6-evidence-destroyed, linked by a system edge."},
+
+  {"video_id": "otQep0gAmZs", "start_s": 1366, "claim_id": "america-turned-back-remnant",
+   "same_event": "yes", "delta_type": "restatement"},
+
+  {"video_id": "6FuJNWZeXj8", "start_s": 5481, "claim_id": "speech-crackdown-midterms",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Names Facebook. Platform moderation changes constantly, so this is close to unmissable."},
+
+  {"video_id": "6FuJNWZeXj8", "start_s": 5599, "claim_id": "watergate-2028",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Adds the networks and Elon as the mechanism and stretches it across both election cycles. New Watergate is never defined."},
+
+  {"video_id": "6FuJNWZeXj8", "start_s": 6533, "claim_id": "europe-drama-serious",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Drama is not defined, and the counterfactual about a different president cannot be tested either way."},
+
+  {"video_id": "AavhsLoMcgQ", "start_s": 888, "claim_id": "everything-changes-24-hours",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Worth flagging. A period of twenty four hours in which everything changes is now described as already under way and ongoing, which converts a sharp claim into an open-ended one."},
+
+  {"video_id": "aiP1Op78hE8", "start_s": 612, "claim_id": "potters-wheel-molded",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "aiP1Op78hE8", "start_s": 660, "claim_id": "aliens-normalized",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Attributed to Jesus during the heaven visit. The condition, that they will talk about aliens a lot right before the return, was arguably already satisfied before the prediction was made."},
+
+  {"video_id": "aiP1Op78hE8", "start_s": 1390, "claim_id": "venezuela-like-iraq",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Commentary on reported meetings rather than a sight, and the mention says so."},
+
+  {"video_id": "aiP1Op78hE8", "start_s": 1437, "claim_id": "powell-out-in-january",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "One of the cleanest testable claims in the corpus. Powell's term as chair runs to May 2026, which is public, so January is a real commitment against a known date. He marks the whole thing as his opinion, and that marking is preserved. Note it sits against watch-may-interest-rates from four days earlier, which points at May instead."},
+
+  {"video_id": "aiP1Op78hE8", "start_s": 2219, "claim_id": "three-weeks-make-the-change",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "aiP1Op78hE8", "start_s": 2330, "claim_id": "motherboard-getting-hot",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He supplies the reading himself and narrows it: heat, not fire. That is a restraint worth recording."},
+
+  {"video_id": "UnQMJN0Ia7g", "start_s": 804, "claim_id": "watch-may-interest-rates",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "May 2026 is when Powell's term as chair ends, which is public and is the obvious anchor. Four days later he puts the departure in January instead; a contradiction edge holds both."}
+]

@@ -1,0 +1,12 @@
+{"reviews": [
+ {"video_id":"sOD1l2-fKgA","start_s":269,"claim_id":"mexico-shaking","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"sOD1l2-fKgA","start_s":689,"claim_id":"mexico-shaking","same_event":"yes","delta_type":"elaboration",
+  "note":"Names the president and the cartels, and adds the overthrow and riots."},
+ {"video_id":"sOD1l2-fKgA","start_s":476,"claim_id":"mexico-shaking","same_event":"yes","delta_type":"new_detail",
+  "note":"Couples the Acapulco shaking to San Francisco, which links this thread to the Pacific Northwest quake claim."},
+ {"video_id":"sOD1l2-fKgA","start_s":553,"claim_id":"ocean-boiling-magma","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"sOD1l2-fKgA","start_s":605,"claim_id":"ocean-boiling-magma","same_event":"yes","delta_type":"elaboration"},
+ {"video_id":"sOD1l2-fKgA","start_s":422,"claim_id":"africa-revival","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"sOD1l2-fKgA","start_s":772,"claim_id":"canada-crisis","same_event":"yes","delta_type":"elaboration",
+  "note":"Adds a religious framing to the Canada thread: the shaking is attributed to national pride."}
+]}

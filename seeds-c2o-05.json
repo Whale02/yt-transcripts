@@ -1,0 +1,17 @@
+[
+ {"claim_id": "three-city-attacks-ranked",
+  "label": "Attacks seen in three cities, ranked by strength",
+  "domain": "security",
+  "description": "Attacks seen in late October 2024 in three named cities, ranked twice on air by how strong the impression was: Nashville strongest and carrying what he calls a Holy Spirit check, Las Vegas next, New Orleans weakest and described as one rather than many. On 1 January 2025 the deadly attack came in New Orleans, the city he ranked lowest, and the Las Vegas incident that day killed only its driver.",
+  "aliases": ["nashville tennessee", "three state attacks", "not as strong in new orleans"]},
+ {"claim_id": "tent-revival-1950s-return",
+  "label": "The 1950s tent revival returns, plugged into a 220 outlet",
+  "domain": "religion",
+  "description": "A speaker rising out of the ground and evangelism coming out of the oak tree, with an old 1950s tent revival microphone plugged into a 220 outlet and the movement going through America.",
+  "aliases": ["tent revival", "220 outlet", "old 50s movement"]},
+ {"claim_id": "brics-digital-platform-off-dollar",
+  "label": "A BRICS digital platform to split away from the dollar",
+  "domain": "finance",
+  "description": "A private meeting seen in which a digital platform is brought up with the BRICS nations so members can stop pegging to the American dollar, with a BRICS currency as the global currency, alongside Saudi Arabia and the crown prince.",
+  "aliases": ["digital platform with the bricks", "bricks dollar", "not being pegged to the dollar"]}
+]

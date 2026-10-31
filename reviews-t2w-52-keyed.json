@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "fcef6c4de189df8e",
+"claim_id": "attack-worse-than-october-7",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "A surprise attack on Israel seen alongside skyscraper fires, with a circle he does not interpret."
+},
+{
+"mention_id": "59686a78ddaa40c0",
+"claim_id": "ukraine-to-new-york-harbour-bomb",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds barges in the rivers as the method and puts Israel and America on the same D-Day timing."
+},
+{
+"mention_id": "13424e7934e82e03",
+"claim_id": "drone-swarm-cuba-to-miami",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds Key West and drones launched from boats, and he raises the suicide objection himself."
+},
+{
+"mention_id": "8ad23f5a9d3d81e7",
+"claim_id": "honolulu-three-men",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The three men in Honolulu again, now tied to the 250th anniversary period."
+},
+{
+"mention_id": "1aae77d121157d55",
+"claim_id": "boston-knicks-teams-watched",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "A Boston ballpark and the banks named in a passage largely in tongues."
+},
+{
+"mention_id": "5b249c668e036914",
+"claim_id": "watch-the-jet-streams",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Given with a plan to control Europe and Italy attached, and no mechanism stated for how jet streams relate to volcanoes."
+},
+{
+"mention_id": "6f9865ca51380ded",
+"claim_id": "toronto-cells-northern-border",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Moves the Toronto cells onto churches as the target."
+},
+{
+"mention_id": "5ec8faa3b6324d48",
+"claim_id": "churches-burned-giant-rises",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Names Muslim men as the arsonists in Toronto Catholic churches. Canadian church fires since 2021 have mostly been linked to residential school anger rather than Islamist actors, which is the part that can fail."
+},
+{
+"mention_id": "58d9fe913f3ac9f4",
+"claim_id": "france-cathedrals-burn",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 8 June 2026, a month before the 10 July version this claim was seeded from. Here the Notre Dame comparison is already attached."
+},
+{
+"mention_id": "d347e5adb57bc5bc",
+"claim_id": "national-monuments-burned-england",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Distinct from the church fires by naming secular monuments and treasures."
+},
+{
+"mention_id": "e891a243ea089ba7",
+"claim_id": "churches-burned-giant-rises",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He declares the churches will not burn in the same passage in which he says they will. Both directions covered."
+},
+{
+"mention_id": "c736fc01462fa6a2",
+"claim_id": "fair-election-2026",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Names California and Minnesota and a candidate, with a declaration that the election cannot be rigged."
+},
+{
+"mention_id": "22c2326a94280e43",
+"claim_id": "latino-revival-horns",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "Colombian and Brazilian elections added to the prayer list."
+},
+{
+"mention_id": "1f4ff69dfd9cf9e2",
+"claim_id": "churches-burned-giant-rises",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Fires across the country and in Europe, given as what the Lord said."
+},
+{
+"mention_id": "73a460b015b81173",
+"claim_id": "newyork-uprising-buildings-burn",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the comparison to Paris, which sets a measurable bar."
+},
+{
+"mention_id": "9f3e2a21f7c32aa6",
+"claim_id": "meteor-seen-over-new-york",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Bright bolides are seen over populated areas several times a year worldwide, so the bar for a match should be an event that draws national coverage."
+},
+{
+"mention_id": "93a557f8babfc7ad",
+"claim_id": "california-revival",
+"same_event": "yes",
+"delta_type": "severity_update",
+"confidence": 0.85,
+"note": "He lowers the bar himself: the Californian shaking is explicitly not the devastating earthquake he saw at the false temples. Recorded because it moves the claim in the harder to score direction."
+},
+{
+"mention_id": "5a31bd97a9d1ad6e",
+"claim_id": "fig-tree-ripe-ezekiel-at-the-door",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "The figs grow again, from double size in the earlier telling to the size of avocados or mangoes here."
+},
+{
+"mention_id": "b04ce1a1587d214b",
+"claim_id": "greatest-harvest-of-souls",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The great awakening and the greatest harvest, with the labourers few."
+},
+{
+"mention_id": "e60a604c56294510",
+"claim_id": "hollywood-revival",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He says outright that he does not know how far Hollywood is from Malibu and is not familiar with it, while giving both as sites of the same word."
+},
+{
+"mention_id": "a096def55296aa4f",
+"claim_id": "california-revival",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He asks the audience to attach their faith to it, which makes the outcome partly their responsibility."
+},
+{
+"mention_id": "c57d799d847646ab",
+"claim_id": "las-vegas-quake-juan-de-fuca-line",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and the framing about a moving line of activity is from the post he is reading rather than from him."
+},
+{
+"mention_id": "8b0669be5f6ae005",
+"claim_id": "virus-smuggled-into-detroit",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He and his co-host cannot agree whether it is Ebola or mpox, and the reported case may be a customs matter rather than an attack."
+},
+{
+"mention_id": "cd47c47a9b8e1c86",
+"claim_id": "withheld-israel-iran-targets",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He begins on a depopulation claim and is told he has said enough today. The withheld content cannot be checked either way."
+},
+{
+"mention_id": "38e2c145ca89c0e5",
+"claim_id": "screwworm-in-south-texas",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, taken entirely from a headline. Screwworm had been moving north through Central America for two years before this, so a Texas detection was anticipated by the agriculture department."
+},
+{
+"mention_id": "331a2bf7a2d92c96",
+"claim_id": "cuba-liberation-by-surprise",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds an invasion and a commercial opening with rich Cuban business people rising, alongside an attack on the oil refineries."
+},
+{
+"mention_id": "8bc6536d10e51eed",
+"claim_id": "black-swan-event",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Ties a black swan to a deliberate destabilisation in Cuba and France in order to introduce digital identity."
+},
+{
+"mention_id": "759f5a0e7f7f5725",
+"claim_id": "acceleration-of-all-things",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Times accelerating offered as the reason for the volume of material."
+},
+{
+"mention_id": "d6d8a8f1bcd365e7",
+"claim_id": "byron-florida-governor",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "A Florida landslide and a Minnesota win called in prayer, with three more states named."
+},
+{
+"mention_id": "fc55b80b6548e3c4",
+"claim_id": "uk-riots-spread-from-france",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 5 June 2026, five days before the 10 June version this claim was seeded from. Here it is still France with voter ID and transport disruption attached."
+},
+{
+"mention_id": "d3efa44a84f7ef1b",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "A prosperity declaration with no forward content."
+},
+{
+"mention_id": "067ef9f9ee80bed3",
+"claim_id": "summer-2025-uncovering",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "Everything will be uncovered, with no person or plan named."
+},
+{
+"mention_id": "7d64cee80ca2b0a4",
+"claim_id": "multi-city-simultaneous",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Names four cities and puts hundreds of millions of dollars behind the organisation, which is checkable if funding is ever traced."
+},
+{
+"mention_id": "2c0597caba40ad4a",
+"claim_id": "revival-corrupted-by-money-laundering",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 5 June 2026, seventeen days before the 22 June version this claim was seeded from. Adds the fifty fifty framing, which means either outcome fits."
+},
+{
+"mention_id": "b10148318629ad4b",
+"claim_id": "valley-of-decisions-make-or-break",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "The valley of decision moved onto Israel and the war, with a warning about pride."
+},
+{
+"mention_id": "1ba1e74fe96dcbc7",
+"claim_id": "france-voter-fraud-revolution",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He corrects his own earlier reading that the event was the Olympics, and says adding to what he sees is bad. That is a self correction on the record."
+},
+{
+"mention_id": "6a10db4bb26ac679",
+"claim_id": "italy-shaken-europe-revival",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "A major European revival and shaking about to take place."
+},
+{
+"mention_id": "63fb850c2e7b5a6e",
+"claim_id": "global-riots-worse-than-blm",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Ties the worldwide unrest to the protests on the fourteenth."
+},
+{
+"mention_id": "0283b579fdb8c973",
+"claim_id": "drones-given-by-iran",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "An Iranian drone at a Kuwaiti airport. He assumed Iran was out of materiel and says he was wrong, which is recorded."
+},
+{
+"mention_id": "f52ce769da149214",
+"claim_id": "red-wave-2026",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds shock and awe as the character of the result and a blanket over Minnesota."
+},
+{
+"mention_id": "ab2c9890deb9e64c",
+"claim_id": "newsom-ambitions",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He is corrected that the reports say governor rather than president and accepts it, then keeps the White House framing."
+},
+{
+"mention_id": "c3f1b911ebb0b52c",
+"claim_id": "zelensky-taken-out-ukraine-split",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Names an assassin as the means, which is more specific than the earlier tellings."
+},
+{
+"mention_id": "fb11377ec0c6fdb9",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "Prayer over a named group travelling to Israel. No forward content."
+},
+{
+"mention_id": "02bbb7145b46d673",
+"claim_id": "israel-night-attack",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "A surprise night attack with a prayer covering over it, so a non event is credited to intercession."
+},
+{
+"mention_id": "34bbf7ee3448e780",
+"claim_id": "fig-tree-ripe-ezekiel-at-the-door",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 4 June 2026, four weeks before the 3 July version this claim was seeded from."
+},
+{
+"mention_id": "c8cc473f43b7d7cf",
+"claim_id": "malibu-earthquake",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 4 June 2026, six weeks before the 19 July version this claim was seeded from, and here it is explicitly a sign of change rather than a disaster."
+},
+{
+"mention_id": "a5adfb329624e4d8",
+"claim_id": "malibu-earthquake",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the changing tide and new water imagery and links it to a Californian revival."
+},
+{
+"mention_id": "602c78bd7c16918c",
+"claim_id": "temple-quakes",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "False temples to the ground as the sign of shaking false religion, the church, Israel and America."
+},
+{
+"mention_id": "639f23458dbcfff7",
+"claim_id": "island-engulfed-in-fire-for-the-oil",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He asks whether the reported American strikes are it rather than asserting it, which is the right form."
+},
+{
+"mention_id": "dc1d0d543207ee06",
+"claim_id": "withheld-israel-iran-targets",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Certain things he keeps his mouth shut about. Second withheld passage in this batch and neither can be checked."
+},
+{
+"mention_id": "fd5a839d97f73f78",
+"claim_id": "cuba-revival-rubio-tens-of-thousands",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Puts a number on it: three major wells of revival out of Cuba, with the David and Saul comparison."
+},
+{
+"mention_id": "9e348f136b8ec96d",
+"claim_id": "robot-soldiers-replace-troops",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "Robotics footage he cannot place, identified by his co-host."
+},
+{
+"mention_id": "2e15bc82fae52522",
+"claim_id": "santa-fe-railroad-bomb",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds trains of chemicals out of Mississippi and Alabama."
+},
+{
+"mention_id": "ea79108735e1056e",
+"claim_id": "santa-fe-railroad-bomb",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds an explosive device on the track timed to the passing train and propane style tanks moving around."
+},
+{
+"mention_id": "47764d257c22cbe0",
+"claim_id": "men-emerging-from-new-york-sewers",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, taken from a headline and joked about rather than given as a word."
+}
+]
+}

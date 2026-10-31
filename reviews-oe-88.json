@@ -1,0 +1,49 @@
+[
+  {"video_id": "7CtKI-6263c", "start_s": 1306, "claim_id": "great-war-escalation",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "A precise origin date, 1 July 2023, which predates this corpus and would have to be checked against the channel's own back catalogue. Worth pinning because the whole claim is one of priority."},
+
+  {"video_id": "7CtKI-6263c", "start_s": 1558, "claim_id": "kim-jong-un-role",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "He points to the video himself, which is the right way to make the claim, and it is checkable inside this corpus. Breaking dirt and planting trees is a ceremonial photo opportunity, so what is confirmed is that a meeting happened, not what was agreed at it."},
+
+  {"video_id": "7CtKI-6263c", "start_s": 1668, "claim_id": "china-attacks-hawaii",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "He states plainly that he did not remember the word until his son played it back to him. That is worth recording about how this archive is used: the recording supplies the memory, not the other way round."},
+
+  {"video_id": "KvS6uzzLK6c", "start_s": 376, "claim_id": "battleground-senate-2026",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The most scoreable political claim in the corpus: a number, a direction and a fixed date, with the House held and the Senate lost by exactly three. Note the escape written into the same sentence, that he is praying those three seats will not flip, so a hold can be credited to prayer."},
+
+  {"video_id": "KvS6uzzLK6c", "start_s": 2128, "claim_id": "attack-worse-than-october-7",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The admission is his own and it matters: every single vision he has had is that it happens. That says prayer has averted none of them, which cuts against the conditionality attached to almost every claim here."},
+
+  {"video_id": "KvS6uzzLK6c", "start_s": 2171, "claim_id": "only-a-spectator-psalm91",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Some things are stopped and some are not, stated as doctrine rather than left implicit. Set beside the admission forty seconds earlier that every vision he has had came to pass, the two do not sit easily together, and both are left standing."},
+
+  {"video_id": "KvS6uzzLK6c", "start_s": 2622, "claim_id": "storm-worse-than-covid",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "A named season and year with a stated policy consequence, forced vaccination, which makes it scoreable. It sits against the plague timings already on file running from late 2027 through 2030."},
+
+  {"video_id": "KvS6uzzLK6c", "start_s": 3973, "claim_id": "storm-worse-than-covid",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He says he can see all that is going on in the June 2028 news and then reports none of it. The date narrows and the content stays empty."},
+
+  {"video_id": "KvS6uzzLK6c", "start_s": 4293, "claim_id": "presidency-comes-to-nothing",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Restates the legacy and ballroom material without adding a test, but confirms the June 2028 horizon he keeps returning to across this session."},
+
+  {"video_id": "KvS6uzzLK6c", "start_s": 4516, "claim_id": "world-cup-2026-prayer-targets",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Nothing is forecast here: the dates are read straight off the published fixture list, not seen. Recorded precisely because any later claim of foreknowledge about one of these dates would rest on this passage, and this passage shows where the dates came from."},
+
+  {"video_id": "KvS6uzzLK6c", "start_s": 6490, "claim_id": "plague-2027-china-rats-europe",
+   "same_event": "unsure", "delta_type": "timing_update",
+   "note": "The identification arrives: the darkness on the buildings, previously unexplained, is now named as the black death. That moves the plague to June 2028, against the fall 2027 and 350 million telling recorded from 2 July. Both left visible."},
+
+  {"video_id": "wLI8D3SDe3E", "start_s": 1298, "claim_id": "israel-revival",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "Nothing claimed. Recorded because the passage is separately indexed."}
+]

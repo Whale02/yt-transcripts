@@ -1,0 +1,671 @@
+{
+ "_note": "Adjudication of the 73 assignments an extractor flagged same_event=unsure, excluding the 30 parked as contradiction or branch, which the design keeps unresolved on purpose. Each was read beside its candidate claim. Where the link could not be stated in one sentence the mention is left unassigned rather than forced onto a thread. News playback and studio chatter resolve to no_claim: a clip he plays is not a claim he makes, and the fulfilment pass already holds the ones that assert a word landed.",
+ "reviews": [
+  {
+   "video_id": "__45FoTY6rQ",
+   "start_s": 8822,
+   "claim_id": "acceleration-seven-years",
+   "same_event": "yes",
+   "delta_type": "elaboration",
+   "confidence": 0.6,
+   "note": "the sliver of time is the span he claims sight into"
+  },
+  {
+   "video_id": "Pio0TQ9YvD0",
+   "start_s": 183,
+   "claim_id": "acceleration-undated",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.8,
+   "note": "2023, and he refuses a time frame, so it cannot be the September 2026 acceleration claim it was put on",
+   "mention_id": "710c2a7a0ad11599"
+  },
+  {
+   "video_id": "0iOZJHUwyjQ",
+   "start_s": 2533,
+   "claim_id": "apollyon-war-2025",
+   "same_event": "yes",
+   "delta_type": "timing_update",
+   "confidence": 0.75,
+   "note": "same Apollyon vision, now pointed at Poland and at 2027 and 2030 rather than 2025"
+  },
+  {
+   "video_id": "_co9BHhQB5k",
+   "start_s": 791,
+   "claim_id": "apophis-2029-impact",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.85
+  },
+  {
+   "video_id": "_co9BHhQB5k",
+   "start_s": 828,
+   "claim_id": "apophis-2029-impact",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "April placement, attributed to someone since died"
+  },
+  {
+   "video_id": "GvCEdjOOuxU",
+   "start_s": 1976,
+   "claim_id": "april-2025-open-doors",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.8,
+   "note": "narrows April to Easter"
+  },
+  {
+   "video_id": "GvCEdjOOuxU",
+   "start_s": 2471,
+   "claim_id": "april-2025-open-doors",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.7,
+   "note": "he ties the Sooners imagery back to April himself"
+  },
+  {
+   "video_id": "4WhvlFBHVyM",
+   "start_s": 1043,
+   "claim_id": "asteroid-2026-hz4",
+   "same_event": "yes",
+   "delta_type": "timing_update",
+   "confidence": 0.75,
+   "note": "he links the DART target to his own rock and moves it from a close approach to a 2027 impact"
+  },
+  {
+   "video_id": "OYjIqPs-2-A",
+   "start_s": 43,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.9,
+   "note": "he reads a Senate vote off the news"
+  },
+  {
+   "video_id": "Bv_BgO_L8lk",
+   "start_s": 1248,
+   "claim_id": "candace-owens-charisma",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9
+  },
+  {
+   "video_id": "GJwNDkJKR1w",
+   "start_s": 5672,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.9,
+   "note": "presidential address played as a clip; if it bears on the capital plot it belongs in evidence, not in his thread"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 1161,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.9,
+   "note": "clip playback and a reporter question"
+  },
+  {
+   "video_id": "Duk8c34FPC4",
+   "start_s": 1570,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.9,
+   "note": "clip playback"
+  },
+  {
+   "video_id": "FHxJpX0PLPI",
+   "start_s": 287,
+   "claim_id": "church-cleansing",
+   "same_event": "yes",
+   "delta_type": "timing_update",
+   "confidence": 0.85,
+   "note": "July to 1 January named"
+  },
+  {
+   "video_id": "Nbb5gUwTSE0",
+   "start_s": 914,
+   "claim_id": "church-cleansing",
+   "same_event": "yes",
+   "delta_type": "timing_update",
+   "confidence": 0.85,
+   "note": "extends the shaking across 2026 to 2029"
+  },
+  {
+   "video_id": "Nbb5gUwTSE0",
+   "start_s": 3049,
+   "claim_id": "church-cleansing",
+   "same_event": "yes",
+   "delta_type": "timing_update",
+   "confidence": 0.85,
+   "note": "July to December named"
+  },
+  {
+   "video_id": "4GiaXApc3SQ",
+   "start_s": 1141,
+   "claim_id": "church-cleansing",
+   "same_event": "yes",
+   "delta_type": "timing_update",
+   "confidence": 0.8
+  },
+  {
+   "video_id": "7I5xdRDaayo",
+   "start_s": 4968,
+   "claim_id": "church-cleansing",
+   "same_event": "yes",
+   "delta_type": "timing_update",
+   "confidence": 0.8,
+   "note": "moves it to now"
+  },
+  {
+   "video_id": "8NT0fll0Jbg",
+   "start_s": 2279,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.85,
+   "note": "the co-host on prediction markets, not a word"
+  },
+  {
+   "video_id": "gGCKex1IOtE",
+   "start_s": 1487,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.8,
+   "note": "a news segment on the bill slipping to 2027; real evidence against the clarity claim, but it is the news speaking, so it belongs in validation_evidence",
+   "mention_id": "d17132fade833f32"
+  },
+  {
+   "video_id": "H-ryTOTWSk0",
+   "start_s": 681,
+   "claim_id": "crash-1930s",
+   "same_event": "yes",
+   "delta_type": "timing_update",
+   "confidence": 0.85,
+   "note": "winter 2024 into 2025, the earliest dated telling of the crash"
+  },
+  {
+   "video_id": "MQymfED5c7w",
+   "start_s": 203,
+   "claim_id": "crash-1930s",
+   "same_event": "yes",
+   "delta_type": "delay_claim",
+   "confidence": 0.8,
+   "claim_text": "Asked whether the crash he saw can be averted he says he has no idea",
+   "note": "a covering seen over it; this is the aversion move, recorded as his, not as an outcome"
+  },
+  {
+   "video_id": "8RydcMuYFcI",
+   "start_s": 8920,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.9,
+   "note": "studio chatter about distances to Jamaica"
+  },
+  {
+   "video_id": "V3w8-580i2s",
+   "start_s": 7637,
+   "claim_id": "cuba-liberation-day-2027",
+   "same_event": "yes",
+   "delta_type": "timing_update",
+   "confidence": 0.75,
+   "note": "pulls the parting forward to before November"
+  },
+  {
+   "video_id": "yPdEFEDVsic",
+   "start_s": 1884,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.85,
+   "note": "commentary on a 2024 court memo"
+  },
+  {
+   "video_id": "SCXTYJcPb7o",
+   "start_s": 282,
+   "claim_id": "dem-shakeup-2024",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.6,
+   "note": "August 2023, ahead of the ticket change he claims to have seen",
+   "mention_id": "dc44f523226f826e"
+  },
+  {
+   "video_id": "x89DNpfd8jI",
+   "start_s": 162,
+   "claim_id": "digital-dollar-transition",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.75,
+   "note": "adds that no opt-out is left"
+  },
+  {
+   "video_id": "8RydcMuYFcI",
+   "start_s": 1724,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.8,
+   "note": "working out the end of Ramadan on a calendar"
+  },
+  {
+   "video_id": "9epckXNXLN0",
+   "start_s": 1104,
+   "claim_id": "ezekiel-38-turkey",
+   "same_event": "yes",
+   "delta_type": "timing_update",
+   "confidence": 0.85,
+   "note": "he rules out that this is Ezekiel 38 yet and calls it the beginning stages, which pushes the claim out"
+  },
+  {
+   "video_id": "65FUsMLWJT4",
+   "start_s": 7244,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.75,
+   "note": "prayer over primaries, no prediction attached"
+  },
+  {
+   "video_id": "DqpUUdLf2sQ",
+   "start_s": 2082,
+   "claim_id": "three-year-window",
+   "same_event": "yes",
+   "delta_type": "elaboration",
+   "confidence": 0.6,
+   "note": "harvest of souls inside a window; greatest-harvest-of-souls is the alternative home if the window later proves to be a different one"
+  },
+  {
+   "video_id": "1I4ETKrehPc",
+   "start_s": 1638,
+   "claim_id": "two-state-inevitable",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.8,
+   "note": "undated, so not the Gaza disarmament agreement it was put on"
+  },
+  {
+   "video_id": "Ux9iGMe2HSo",
+   "start_s": 121,
+   "claim_id": "hagin-authority-teachings",
+   "same_event": "yes",
+   "delta_type": "elaboration",
+   "confidence": 0.7
+  },
+  {
+   "video_id": "MQymfED5c7w",
+   "start_s": 203,
+   "claim_id": "house-of-cards",
+   "same_event": "yes",
+   "delta_type": "delay_claim",
+   "confidence": 0.7,
+   "claim_text": "Asked about the crash he says he did see one",
+   "note": "the same answer read against the undated house of cards"
+  },
+  {
+   "video_id": "v3A9UyHZAhw",
+   "start_s": 4000,
+   "claim_id": "january-17-word-fulfilling",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.85
+  },
+  {
+   "video_id": "nmPlz2p1b7s",
+   "start_s": 450,
+   "claim_id": "mass-shooting-2a-campaign",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.8,
+   "note": "adds the motive: keeping people away from revival meetings"
+  },
+  {
+   "video_id": "Ux9iGMe2HSo",
+   "start_s": 714,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.75,
+   "note": "general remarks on special needs, no declaration over Megan"
+  },
+  {
+   "video_id": "zp4ImjufUuU",
+   "start_s": 2708,
+   "claim_id": "miami-hurricane-katrina-scale",
+   "same_event": "yes",
+   "delta_type": "elaboration",
+   "confidence": 0.8
+  },
+  {
+   "video_id": "a4uOSv4NVrE",
+   "start_s": 311,
+   "claim_id": "movie-2026-evangelism",
+   "same_event": "yes",
+   "delta_type": "elaboration",
+   "confidence": 0.65,
+   "note": "names the film maker; the shaking language is carried alongside, not as a new date"
+  },
+  {
+   "video_id": "jx6fBGkMNTI",
+   "start_s": 619,
+   "claim_id": "new-madrid-quake",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.7,
+   "note": "ties the eclipse path over the fault to the two-state push",
+   "mention_id": "ec0c3fa787873100"
+  },
+  {
+   "video_id": "Ywv1xy-ko9U",
+   "start_s": 3097,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.85,
+   "note": "an aside about a viewer leaving"
+  },
+  {
+   "video_id": "IImgvkZzmiU",
+   "start_s": 1370,
+   "claim_id": "october-2024-storm-warning",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.8,
+   "note": "August 2024, so it is not the October 2023 word it was put on, and he never names the 3rd"
+  },
+  {
+   "video_id": "_NvKMga-o2I",
+   "start_s": 862,
+   "claim_id": "october-grace-window",
+   "same_event": "yes",
+   "delta_type": "delay_claim",
+   "confidence": 0.7,
+   "note": "thirty days of prayer over the economy offered as why October passed"
+  },
+  {
+   "video_id": "-Z-oPJQyOeU",
+   "start_s": 2591,
+   "claim_id": "oil-boom-2027",
+   "same_event": "yes",
+   "delta_type": "elaboration",
+   "confidence": 0.6,
+   "note": "office expansion in May 2027, the same window as the boom and told in the same breath"
+  },
+  {
+   "video_id": "btBCeTHs7Qg",
+   "start_s": 5786,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.9,
+   "note": "history of the Oklahoma land run"
+  },
+  {
+   "video_id": "KvS6uzzLK6c",
+   "start_s": 6490,
+   "claim_id": "plague-2027-china-rats-europe",
+   "same_event": "yes",
+   "delta_type": "timing_update",
+   "confidence": 0.8
+  },
+  {
+   "video_id": "FHxJpX0PLPI",
+   "start_s": 860,
+   "claim_id": "plague-2027-china-rats-europe",
+   "same_event": "yes",
+   "delta_type": "timing_update",
+   "confidence": 0.8,
+   "note": "runs it out into 2028 and 2029"
+  },
+  {
+   "video_id": "5zzNSGo9zXk",
+   "start_s": 363,
+   "claim_id": "plague-350m",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.7,
+   "note": "dates the original word to before covid"
+  },
+  {
+   "video_id": "c8OVgrtlcaY",
+   "start_s": 515,
+   "claim_id": "plague-350m",
+   "same_event": "yes",
+   "delta_type": "timing_update",
+   "confidence": 0.8
+  },
+  {
+   "video_id": "2JeWign9G7Y",
+   "start_s": 1325,
+   "claim_id": "plague-350m",
+   "same_event": "yes",
+   "delta_type": "timing_update",
+   "confidence": 0.8,
+   "note": "reasons about a one to three year wait rather than reporting a word"
+  },
+  {
+   "video_id": "FHxJpX0PLPI",
+   "start_s": 844,
+   "claim_id": "plague-350m",
+   "same_event": "yes",
+   "delta_type": "timing_update",
+   "confidence": 0.7
+  },
+  {
+   "video_id": "tKNBjoymWHM",
+   "start_s": 2168,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.85,
+   "note": "deciding what to play on air"
+  },
+  {
+   "video_id": "v3A9UyHZAhw",
+   "start_s": 1320,
+   "claim_id": "preparedness-instructions",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.7,
+   "note": "self defence added to the instruction set"
+  },
+  {
+   "video_id": "LmS3IDri3Ok",
+   "start_s": 6968,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.95,
+   "note": "sign off"
+  },
+  {
+   "video_id": "UzueHsrDGNM",
+   "start_s": 562,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.9,
+   "note": "production talk about which upload to use"
+  },
+  {
+   "video_id": "XxwF--X7PLo",
+   "start_s": 2616,
+   "claim_id": "rapture-hope-2028",
+   "same_event": "yes",
+   "delta_type": "elaboration",
+   "confidence": 0.7,
+   "note": "keeps the no one knows the day or hour caveat attached",
+   "mention_id": "ea893878a6b3fe13"
+  },
+  {
+   "video_id": "jlQZ9XjWWus",
+   "start_s": 762,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.8,
+   "note": "footage of windmills discussed after the fact; the fulfilment pass holds the wind claim"
+  },
+  {
+   "video_id": "F-CNFR1LQQI",
+   "start_s": 2109,
+   "claim_id": "resource-grabs-fiscal",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.6,
+   "note": "he dates the original word to 21 July 2025",
+   "mention_id": "2e1089212f6d930c"
+  },
+  {
+   "video_id": "LmS3IDri3Ok",
+   "start_s": 4691,
+   "claim_id": "rick-renner-cited",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9
+  },
+  {
+   "video_id": "0ptC-1kOXpQ",
+   "start_s": 2395,
+   "claim_id": "second-virus-lockdown",
+   "same_event": "yes",
+   "delta_type": "elaboration",
+   "confidence": 0.65,
+   "note": "the package offered again is the shot"
+  },
+  {
+   "video_id": "u_fT7KW6hXA",
+   "start_s": 2842,
+   "claim_id": "snake-figure-by-2028",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.85
+  },
+  {
+   "video_id": "dBStuxYtyFM",
+   "start_s": 523,
+   "claim_id": "social-credit-ai",
+   "same_event": "yes",
+   "delta_type": "elaboration",
+   "confidence": 0.7
+  },
+  {
+   "video_id": "6XXc1-oeNWw",
+   "start_s": 2741,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "first_mention",
+   "confidence": 0.5,
+   "note": "a long table and the number 25, with nothing attaching it to the five trillion stimulus; left unassigned rather than forced"
+  },
+  {
+   "video_id": "4fTnqDOIePk",
+   "start_s": 1908,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.9,
+   "note": "a light bulb went out"
+  },
+  {
+   "video_id": "Nbb5gUwTSE0",
+   "start_s": 2701,
+   "claim_id": "temple-quakes",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.7,
+   "note": "adds Hong Kong as the next place to watch"
+  },
+  {
+   "video_id": "GLZhDGRuMCY",
+   "start_s": 4970,
+   "claim_id": "three-year-window",
+   "same_event": "yes",
+   "delta_type": "timing_update",
+   "confidence": 0.8,
+   "note": "asks whether the window runs to 2028 or 2029"
+  },
+  {
+   "video_id": "2jhb5cXzw5A",
+   "start_s": 32,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.75,
+   "note": "a claim that eight earlier words are landing, which the fulfilment table already holds as fa 19522"
+  },
+  {
+   "video_id": "NliWml7zW00",
+   "start_s": 430,
+   "claim_id": "track-record-always-right",
+   "same_event": "yes",
+   "delta_type": "elaboration",
+   "confidence": 0.6
+  },
+  {
+   "video_id": "gGCKex1IOtE",
+   "start_s": 884,
+   "claim_id": "virus-q4-2026",
+   "same_event": "yes",
+   "delta_type": "elaboration",
+   "confidence": 0.75
+  },
+  {
+   "video_id": "FCeX9hLlWEk",
+   "start_s": 1080,
+   "claim_id": "wealth-transfer-window",
+   "same_event": "yes",
+   "delta_type": "elaboration",
+   "confidence": 0.75
+  },
+  {
+   "video_id": "SDUTBdo_u6k",
+   "start_s": 0,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.95,
+   "note": "greeting"
+  },
+  {
+   "video_id": "1Bd3ILxtC40",
+   "start_s": 4110,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.85,
+   "note": "scheduling chat about tomorrow night"
+  },
+  {
+   "video_id": "7FG6qD91nZo",
+   "start_s": 49,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.95,
+   "note": "greeting"
+  },
+  {
+   "mention_id": "8c2b2c62656a50c7",
+   "video_id": "Pio0TQ9YvD0",
+   "start_s": 183,
+   "duplicate_of": "710c2a7a0ad11599",
+   "confidence": 0.9,
+   "note": "a second run's wording of the same sentence; kept, but not counted twice on acceleration-undated"
+  },
+  {
+   "mention_id": "e8893da002c35d7d",
+   "video_id": "gGCKex1IOtE",
+   "start_s": 1487,
+   "duplicate_of": "d17132fade833f32",
+   "confidence": 0.9,
+   "note": "the same news segment, paraphrased as though he said it; the claim thread must not carry a bulletin as a timing update"
+  }
+ ]
+}

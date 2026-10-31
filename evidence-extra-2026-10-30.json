@@ -1,0 +1,43 @@
+[
+ {"claim_id":"bitcoin-100k",
+  "verdict":"STRONG_MATCH",
+  "headline":"Bitcoin crossed $100K on Dec 5 2024, peaked ~$126K Oct 2025",
+  "sources":["CoinGecko BTC price history"],
+  "notes":"Widely predicted target by late 2024. Correct but high base-rate call."},
+
+ {"claim_id":"stock-crash-1929",
+  "verdict":"CONTRADICTED",
+  "headline":"No 1929-scale crash. Markets volatile but functioning through 2026",
+  "sources":["S&P 500 performance data"],
+  "notes":"49+ references across corpus. No crash remotely comparable to 1929."},
+
+ {"claim_id":"bank-failures-mass",
+  "verdict":"CONTRADICTED",
+  "headline":"No widespread bank failures since SVB (Mar 2023, pre-corpus). Banking system stable",
+  "sources":["FDIC failed bank list"],
+  "notes":"SVB was pre-corpus. No mass bank failures materialized."},
+
+ {"claim_id":"housing-crash-1929",
+  "verdict":"PARTIAL_MATCH",
+  "headline":"Housing market severely stressed in 2026, headlines compared to 1929, but not a full collapse",
+  "sources":["Reuters housing market coverage Aug 2026"],
+  "notes":"Direction correct, apocalyptic framing overstated."},
+
+ {"claim_id":"england-christian-persecution",
+  "verdict":"PARTIAL_MATCH",
+  "headline":"Multiple UK street preachers arrested 2024-2026. Prayer restrictions real. Apocalyptic scale not materialized",
+  "sources":["BBC: Steve Maile arrest Apr 2026","AP: UK prayer zone restrictions"],
+  "notes":"Direction correct (arrests happening), scale wildly overstated (no dark ages, no Sharia law)."},
+
+ {"claim_id":"macron-removed",
+  "verdict":"EXPIRED_WITHOUT_MATCH",
+  "headline":"Macron remains president of France. Next election 2027",
+  "sources":["Reuters France political coverage"],
+  "notes":"Macron still in office as of Oct 2026."},
+
+ {"claim_id":"wwiii-europe",
+  "verdict":"EXPIRED_WITHOUT_MATCH",
+  "headline":"No World War III. NATO-Russia tensions high but no direct military conflict",
+  "sources":["NATO situation reports"],
+  "notes":"Russia-Ukraine war continues but has not expanded to direct NATO-Russia conflict."}
+]

@@ -1,0 +1,17 @@
+[
+ {"claim_id": "acceleration-undated",
+  "label": "Everything is speeding up, with no time frame given",
+  "domain": "religion",
+  "description": "A standing statement that events are being sped up and that Jesus is coming, with an explicit refusal to name a time frame. Kept apart from the dated acceleration claims so that an unfalsifiable general statement is never scored as if it carried their dates.",
+  "aliases": ["speeding up", "coming fast", "never quotes a time frame"]},
+ {"claim_id": "two-state-inevitable",
+  "label": "Every road paves toward a two-state solution",
+  "domain": "politics",
+  "description": "His reading that every development points toward a two-state solution, given without a date and cited alongside a Kim Clement word of 1 November 2014. Distinct from the dated two-state claims, which name a year.",
+  "aliases": ["every road paves", "two state solution"]},
+ {"claim_id": "october-2024-storm-warning",
+  "label": "Pray about October 2024, a great storm is coming",
+  "domain": "events",
+  "description": "A call in August 2024 to pray about October, with more voices warning by the Spirit and a great storm said to be coming. Held separate from the October 2023 word and from the 3 October 2024 tipping point, neither of which he names here.",
+  "aliases": ["pray about october", "great storm is coming"]}
+]

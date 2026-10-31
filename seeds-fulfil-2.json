@@ -1,0 +1,12 @@
+[
+ {"claim_id": "trudeau-two-faced",
+  "label": "Trudeau playing both sides between Trump and Macron",
+  "domain": "politics",
+  "description": "Seen in prayer on 10 November 2024: the Canadian prime minister described as two-faced, publicly presenting himself as an ally of the United States and a friend of Trump while actually serving Macron's agenda and a European coalition.",
+  "aliases": ["justin trudeau", "two faced", "trudeau"]},
+ {"claim_id": "honey-glow-white-suits",
+  "label": "The honey glow and white suits in the tents",
+  "domain": "religion",
+  "description": "A recurring image of tent meetings in which those ministering wear white suits, white shoes and white ties and carry a honey glow, offered later as protection against bird flu, swine flu and other illness.",
+  "aliases": ["honey glow", "white suits", "in the tents"]}
+]

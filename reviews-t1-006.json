@@ -1,0 +1,30 @@
+{
+  "_note": "Adjudications for tier-1 sweep batch 006. Model claude-opus-5, prompt v1.",
+  "reviews": [
+    {"video_id": "RiSqvsbEUSE", "start_s": 81, "claim_id": "translation-miracles", "same_event": "yes", "delta_type": "first_mention", "note": "No date; the checkable part is bodily translation."},
+    {"video_id": "RiSqvsbEUSE", "start_s": 541, "claim_id": "praise-instruction", "same_event": "yes", "delta_type": "first_mention", "note": "Instruction only."},
+    {"video_id": "5CWynywOvK0", "start_s": 1274, "claim_id": "grid-cyberattack", "same_event": "yes", "delta_type": "new_detail", "note": "Names five cities and, unusually, prays the warning away in the same breath. That makes a miss self-explaining, so the conditionality field carries the weight."},
+    {"video_id": "iVIxnrS3CmE", "start_s": 0, "claim_id": "italy-volcano", "same_event": "yes", "delta_type": "first_mention", "note": "Dates the original word to 5 July 2023."},
+    {"video_id": "iVIxnrS3CmE", "start_s": 110, "claim_id": "italy-volcano", "same_event": "yes", "delta_type": "elaboration", "note": "Adds the submarine origin, the flooding and the airspace closure."},
+    {"video_id": "iVIxnrS3CmE", "start_s": 145, "claim_id": "italy-volcano", "same_event": "yes", "delta_type": "new_detail", "note": "He offers the M4.2 as the word landing. It is a quake swarm, not an eruption, so partial at best."},
+    {"video_id": "iVIxnrS3CmE", "start_s": 247, "claim_id": "michelle-gavin-2024", "same_event": "yes", "delta_type": "first_mention", "note": "Claims a September 2022 origin, a year before any such reporting."},
+    {"video_id": "iVIxnrS3CmE", "start_s": 285, "claim_id": "michelle-gavin-2024", "same_event": "yes", "delta_type": "elaboration", "note": "Cites two public voices in one week as confirmation."},
+    {"video_id": "iVIxnrS3CmE", "start_s": 424, "claim_id": "saudi-brics-oil-200", "same_event": "yes", "delta_type": "first_mention", "note": "Two halves with very different odds: BRICS accession happened, $200 oil has not."},
+    {"video_id": "iVIxnrS3CmE", "start_s": 774, "claim_id": "october-4-alert", "same_event": "yes", "delta_type": "first_mention", "note": "A dated, near-term claim with a hard deadline."},
+    {"video_id": "OtfM_l7fMfI", "start_s": 2510, "claim_id": "godly-leaders-economy", "same_event": "yes", "delta_type": "first_mention", "note": "Intercession, not prediction."},
+    {"video_id": "zFl169zNzhI", "start_s": 817, "claim_id": "refiners-fire-healers", "same_event": "yes", "delta_type": "first_mention", "note": "No date."},
+    {"video_id": "XxwF--X7PLo", "start_s": 1008, "claim_id": "saudi-brics-oil-200", "same_event": "yes", "delta_type": "restatement", "note": "Repeats the $200 figure without new timing."},
+    {"video_id": "XxwF--X7PLo", "start_s": 1043, "claim_id": "prophetic-method-in-part", "same_event": "yes", "delta_type": "first_mention", "note": "Method statement. Worth keeping: it is the standing explanation for why details shift between tellings."},
+    {"video_id": "XxwF--X7PLo", "start_s": 1102, "claim_id": "saudi-brics-oil-200", "same_event": "yes", "delta_type": "new_detail", "note": "The 24 August date, claimed to have been given about fifteen months in advance without content."},
+    {"video_id": "XxwF--X7PLo", "start_s": 1200, "claim_id": "season-window-1-2-years", "same_event": "yes", "delta_type": "first_mention", "note": "He marks it himself as a feeling rather than a prophetic word; certainty recorded as speculative."},
+    {"video_id": "XxwF--X7PLo", "start_s": 1235, "claim_id": "season-window-1-2-years", "same_event": "yes", "delta_type": "elaboration", "note": "Anchors the year feast to feast rather than to the calendar."},
+    {"video_id": "XxwF--X7PLo", "start_s": 1593, "claim_id": "judgment-569-days", "same_event": "yes", "delta_type": "elaboration", "note": "Gives the arithmetic landing on 2 October."},
+    {"video_id": "XxwF--X7PLo", "start_s": 1628, "claim_id": "judgment-569-days", "same_event": "yes", "delta_type": "new_detail", "note": "States why the claim has no content: the angel would not say, and it comes in pieces."},
+    {"video_id": "XxwF--X7PLo", "start_s": 1941, "claim_id": "saudi-brics-oil-200", "same_event": "yes", "delta_type": "elaboration", "note": "Adds UAE and Egypt and the dollar-fade consequence, which he does state himself."},
+    {"video_id": "XxwF--X7PLo", "start_s": 2000, "claim_id": "digital-dollar-transition", "same_event": "yes", "delta_type": "timing_update", "note": "The earliest dated version of the digital dollar thread: beginning visible in 2023."},
+    {"video_id": "XxwF--X7PLo", "start_s": 2151, "claim_id": "trump-indictments-summer", "same_event": "yes", "delta_type": "first_mention", "note": "Ambiguous year: said in September 2023, most naturally read as summer 2024."},
+    {"video_id": "XxwF--X7PLo", "start_s": 2185, "claim_id": "held-back-released-2025", "same_event": "yes", "delta_type": "first_mention", "note": "Given in 2023 with a 2025 date, so it had a long fuse."},
+    {"video_id": "XxwF--X7PLo", "start_s": 2576, "claim_id": "two-state-solution-2024", "same_event": "yes", "delta_type": "first_mention", "note": "Explicitly his opinion, not a word. Certainty tentative."},
+    {"video_id": "XxwF--X7PLo", "start_s": 2616, "claim_id": "rapture-hope-2028", "same_event": "unsure", "delta_type": "elaboration", "note": "A return-any-moment aside, hedged with no man knows the day. Linked loosely to the rapture thread."}
+  ]
+}

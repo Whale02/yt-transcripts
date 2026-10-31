@@ -1,0 +1,951 @@
+[
+ {
+  "video_id": "tn5Qj0ChagE",
+  "start_s": 7704,
+  "claim_text": "A vote and a disarmament move against Israel over what was done to Iran, with allegations of war crimes coming out of China against Israel and America, and an uprising of anti-Israel voices.",
+  "quote": "They were crying out war crimes against Israel",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "israel",
+   "united nations",
+   "china"
+  ],
+  "locations": [
+   "China",
+   "United Nations",
+   "Israel"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A formal war crimes process against Israel driven from China at the UN.",
+  "falsify_miss": "China issues statements but no process follows. He says himself he is not educated enough to know what such a vote could do."
+ },
+ {
+  "video_id": "tn5Qj0ChagE",
+  "start_s": 7745,
+  "claim_text": "Blessing on the sheep nations and cursing on the goats, then many earthquakes, major earthquakes in Japan, major volcanoes, and British Columbia as the main epicentre with major buildings falling.",
+  "quote": "main focus epicenter was British Columbia",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "earthquake",
+   "israel"
+  ],
+  "locations": [
+   "British Columbia",
+   "Japan"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A British Columbia earthquake bringing down major buildings.",
+  "falsify_miss": "No such earthquake. The epicentre is named consistently across tellings, which makes the location stable."
+ },
+ {
+  "video_id": "tn5Qj0ChagE",
+  "start_s": 7785,
+  "claim_text": "The shaking runs from British Columbia clear down through Oakland and San Francisco to Los Angeles and across central California, with big suspended highway bridges falling in sections.",
+  "quote": "Oakland. Oakland. Oakland. I saw um I I heard that name",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "earthquake",
+   "california"
+  ],
+  "locations": [
+   "Oakland",
+   "San Francisco",
+   "Los Angeles",
+   "British Columbia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A rupture affecting the whole Pacific coast from BC to Los Angeles with elevated highway collapses.",
+  "falsify_miss": "No such event. Oakland is a new name here; the Cypress Street viaduct collapse there in 1989 is the known precedent for the bridge image."
+ },
+ {
+  "video_id": "tn5Qj0ChagE",
+  "start_s": 7821,
+  "claim_text": "Sections of suspended highway bridges falling to the ground rather than whole spans, and houses shaken, with the shaking described as running from sea to sea.",
+  "quote": "Sections of it in the air were falling on the ground",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "earthquake"
+  ],
+  "locations": [
+   "California"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Partial collapse of elevated highway sections in a Californian earthquake.",
+  "falsify_miss": "No such collapse. Partial rather than total failure is what actually happened in 1989 and 1994, so the detail matches the historical pattern."
+ },
+ {
+  "video_id": "tn5Qj0ChagE",
+  "start_s": 7893,
+  "claim_text": "Tremors starting on the New Madrid by the Mississippi in Missouri, fours and fives rather than anything big, a fault line waking up, while the Californian one is around 9.0 and the British Columbia one involves the volcanoes and something in the water.",
+  "quote": "the one out in California was was bad like 9.0",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "earthquake",
+   "california"
+  ],
+  "locations": [
+   "California",
+   "New Madrid",
+   "Missouri",
+   "British Columbia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A magnitude 9 earthquake in California.",
+  "falsify_miss": "No such earthquake. The San Andreas cannot physically produce a 9.0; its maximum is estimated near 8.3, which makes this number wrong for the fault he names. The New Madrid half, small tremors on a waking fault, is already true and continuous."
+ },
+ {
+  "video_id": "tn5Qj0ChagE",
+  "start_s": 7979,
+  "claim_text": "Mount Fuji coming alive at the top, explosions and flares on the sun, fearful sights in the heavens, and disruptions at the strait by Iran across the coming Monday to Thursday driving oil prices up.",
+  "quote": "I kept seeing the Mount Fuji again",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "volcano",
+   "sun",
+   "oil"
+  ],
+  "locations": [
+   "Japan",
+   "Strait of Hormuz"
+  ],
+  "time_phrase": "Monday, Tuesday, Wednesday, Thursday",
+  "time_precision": "day",
+  "falsify_match": "Disruption at the Strait of Hormuz during 23 to 26 June 2025 with oil prices rising.",
+  "falsify_miss": "Oil fell sharply that week after the Iranian response was limited and telegraphed, which is the opposite of what he names. The days are given, which makes this scoreable."
+ },
+ {
+  "video_id": "tn5Qj0ChagE",
+  "start_s": 8104,
+  "claim_text": "Lone wolf attacks coming to Australia with Queensland and the opera house highlighted, and Germany connected to Russia with its chancellor voting against Israel, and repeated instruction to pray over Berlin with something involving Ukraine there.",
+  "quote": "I saw uh attacks, lone wolf attacks coming to Australia",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "attack",
+   "australia",
+   "germany"
+  ],
+  "locations": [
+   "Australia",
+   "Queensland",
+   "Berlin",
+   "Germany"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A lone wolf attack in Australia at or near the Opera House.",
+  "falsify_miss": "No such attack. The Opera House is in Sydney, not Queensland, so the two location details he gives do not fit together."
+ },
+ {
+  "video_id": "tn5Qj0ChagE",
+  "start_s": 8146,
+  "claim_text": "Prayer over Orlando and Disney, and over the staff of the park who he says may not go through security checks, with a well thought out plan in Anaheim.",
+  "quote": "a wellthoughtout plan in Anaheim",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "attack",
+   "disney"
+  ],
+  "locations": [
+   "Orlando",
+   "Anaheim"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An insider attack plot at a Disney park.",
+  "falsify_miss": "No such plot. Naming staff as the vector is the specific part, since park attacks are usually imagined from outside."
+ },
+ {
+  "video_id": "tn5Qj0ChagE",
+  "start_s": 9324,
+  "claim_text": "September seen highlighted on a large paper calendar of the kind sold in an office supply store, with the month picked out.",
+  "quote": "I saw it highlighted. Okay. So, the the the the the whole",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "september"
+  ],
+  "locations": [],
+  "time_phrase": "September",
+  "time_precision": "month",
+  "falsify_match": "A significant event in September of the year meant.",
+  "falsify_miss": "September passes ordinarily. No year is given, and the highlighted-September image recurs across at least three years in this corpus."
+ },
+ {
+  "video_id": "tn5Qj0ChagE",
+  "start_s": 9490,
+  "claim_text": "He is told to watch when no one is watching, with Timothy McVeigh recalled again, and told to look at the smaller cities like Omaha and Oklahoma City rather than the major ten, because the lone wolf attacks come in the small places.",
+  "quote": "watch the smaller ones like Omaha, Nebraska",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "attack"
+  ],
+  "locations": [
+   "Omaha",
+   "Oklahoma City"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A significant attack in Omaha or a comparably sized American city.",
+  "falsify_miss": "No such attack. Naming small cities makes the target set larger rather than smaller, since there are hundreds of them."
+ },
+ {
+  "video_id": "tn5Qj0ChagE",
+  "start_s": 9612,
+  "claim_text": "Box cars, trains, vans and trucks carrying massive amounts of fertiliser seen again, with prayer over ships, and a warning that the attack comes when the country has relaxed rather than while it is on alert.",
+  "quote": "the trucks with that massive amounts of fertilizer",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "attack"
+  ],
+  "locations": [
+   "America"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A fertiliser-based attack using a truck or rail car.",
+  "falsify_miss": "No such attack. The method has now been named across several sessions, which makes it one of the more consistent details on file."
+ },
+ {
+  "video_id": "FUjrrRVRt5M",
+  "start_s": 0,
+  "claim_text": "He says the Lord told him Saturday three times and that he saw America striking Iran on the Saturday in the middle of the night, and that the reason given was that it would not happen while the stock market was open, which he says he did not relay publicly at the time.",
+  "quote": "the Lord said Saturday, Saturday, Saturday",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "iran",
+   "priority"
+  ],
+  "locations": [
+   "America",
+   "Iran"
+  ],
+  "time_phrase": "Saturday",
+  "time_precision": "day",
+  "falsify_match": "A recording before 21 June 2025 in which he names Saturday and an American strike on Iran together.",
+  "falsify_miss": "No such recording, or one that names Saturday without the strike. He states in the same breath that he never relayed the reason publicly, so the specific version he is claiming credit for was by his own account not said in advance."
+ },
+ {
+  "video_id": "FUjrrRVRt5M",
+  "start_s": 33,
+  "claim_text": "He describes being caught up into a boardroom the night before and seeing the president speaking with a screen behind him, and says the decision to strike came from the Holy Spirit because of the prayers, alongside Putin saying Ukraine is rightfully Russia's and threatening nuclear use.",
+  "quote": "I was caught up in a boardroom and I saw Trump talking",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "iran",
+   "russia"
+  ],
+  "locations": [
+   "America",
+   "Ukraine",
+   "Russia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Not checkable: the boardroom is described after the televised address it resembles.",
+  "falsify_miss": "Not checkable. He asks on camera whether the clip he is describing was live, which places the vision and the broadcast in the same moment."
+ },
+ {
+  "video_id": "FUjrrRVRt5M",
+  "start_s": 227,
+  "claim_text": "Ten major cities named as harbouring cells: Houston, Dallas Fort Worth, Chicago, Los Angeles, Seattle, New York, Miami, Boston, Atlanta and Phoenix, with Oklahoma City added, and an uprising of ants within after the Iran strike, arriving as a Pearl Harbor event when guard is down.",
+  "quote": "I saw ants within and it would be a Pearl Harbor type event",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "attack",
+   "sleeper cells"
+  ],
+  "locations": [
+   "Houston",
+   "Dallas",
+   "Chicago",
+   "Los Angeles",
+   "Seattle",
+   "New York",
+   "Miami",
+   "Boston",
+   "Atlanta",
+   "Phoenix"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Coordinated attacks across several of the named cities.",
+  "falsify_miss": "No coordinated attack. The list is the ten largest American metropolitan areas, so it names the country rather than a target."
+ },
+ {
+  "video_id": "FUjrrRVRt5M",
+  "start_s": 274,
+  "claim_text": "Drones flying in over certain places to hurt the president while he is playing golf, which he says he cannot explain given radar and the Secret Service, and guesses were stealth or very high.",
+  "quote": "Drones on golf courses. He was playing golf",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "attack",
+   "trump"
+  ],
+  "locations": [
+   "America"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A drone incident at a presidential golf course.",
+  "falsify_miss": "No such incident. He raises the radar and Secret Service objection himself and leaves it unanswered."
+ },
+ {
+  "video_id": "FUjrrRVRt5M",
+  "start_s": 339,
+  "claim_text": "The Kennedy curse raised again with instruction to pray over the president's grandchildren, and biological weapons coming out of the Syrian mountains to strike Israel with something like mustard gas, followed by escalation with Turkey and Syria and foot troops marching.",
+  "quote": "I saw uh biological weapons trying to come to Syria",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "syria",
+   "weapons"
+  ],
+  "locations": [
+   "Syria",
+   "Israel",
+   "Turkey"
+  ],
+  "time_phrase": "the days ahead",
+  "time_precision": "none",
+  "falsify_match": "A chemical attack on Israel originating in Syria.",
+  "falsify_miss": "No such attack. He adds that if the strike eliminated it, prayer changed things, which converts a null result into a confirmed one."
+ },
+ {
+  "video_id": "FUjrrRVRt5M",
+  "start_s": 451,
+  "claim_text": "He points to the strike as his word coming to pass that day and shows the clip, says the prayers of the righteous in America bought a window against the beast system, and highlights a 48 hour window over Saturday for protection against retaliation.",
+  "quote": "this world came to pass today, Saturday. I said it",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "priority"
+  ],
+  "locations": [
+   "America"
+  ],
+  "time_phrase": "48 hours",
+  "time_precision": "day",
+  "falsify_match": "The clip he shows containing the specific claim before the event.",
+  "falsify_miss": "The clip contains only the word Saturday without the strike. He also says in the same session that he filtered the content out of the live stream, which is the point at issue."
+ },
+ {
+  "video_id": "FUjrrRVRt5M",
+  "start_s": 1358,
+  "claim_text": "He describes wanting to travel to a healing meeting in Alaska at his own cost, framed as the effort God is looking at, in the context of believing for his daughter's healing.",
+  "quote": "He's holding a meeting in Alaska",
+  "source_mode": "TEACHING",
+  "certainty": "definite",
+  "conditionality": "unclear",
+  "topics": [
+   "healing"
+  ],
+  "locations": [
+   "Alaska"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Not applicable; a personal account.",
+  "falsify_miss": "Not applicable, though it ties the cost-something principle to his own family."
+ },
+ {
+  "video_id": "FUjrrRVRt5M",
+  "start_s": 1816,
+  "claim_text": "Europe to be watched because of the decisions made that day, with an escalation of a greater war attempted, and prayer over the American bases in Iraq and across the Middle East against retaliation.",
+  "quote": "Watch Europe because of the decisions that was made today",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "war",
+   "europe"
+  ],
+  "locations": [
+   "Europe",
+   "Iraq",
+   "Middle East"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "European escalation of the war following the American strike.",
+  "falsify_miss": "Europe did not escalate. Iran struck the Al Udeid base in Qatar two days later with advance notice, which is the retaliation that came."
+ },
+ {
+  "video_id": "FUjrrRVRt5M",
+  "start_s": 1925,
+  "claim_text": "Iran tries to control the strait in a greater way to flex, but it will be short lived because the Navy blows them out of the water, and an economic setback like nothing seen before comes to Iran and is here now.",
+  "quote": "An economic setback like you've never seen before is coming to Iran",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "iran",
+   "oil"
+  ],
+  "locations": [
+   "Strait of Hormuz",
+   "Iran"
+  ],
+  "time_phrase": "the days ahead",
+  "time_precision": "none",
+  "falsify_match": "An Iranian attempt to close the strait met by American naval force.",
+  "falsify_miss": "The strait stayed open and no naval engagement followed. Iran's parliament voted to close it on 22 June but the council never acted, which is the nearest approach."
+ },
+ {
+  "video_id": "FUjrrRVRt5M",
+  "start_s": 2008,
+  "claim_text": "Cuba seen again and the word mules repeated, inside a passage of tongues.",
+  "quote": "I see Cuba again",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An event in Cuba tied to smuggling.",
+  "falsify_miss": "Nothing occurs. Mules and Cuba are repeated without content here."
+ },
+ {
+  "video_id": "FUjrrRVRt5M",
+  "start_s": 2061,
+  "claim_text": "The mules are with the Mexican cartel and big money is being transferred, with many more tunnels along the whole border from Texas to California to be found, and eyes opened so people inform on them.",
+  "quote": "with the Mexican cartel. With the with the cartel",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "border",
+   "cartel"
+  ],
+  "locations": [
+   "Texas",
+   "California",
+   "Mexico"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A run of new border tunnel discoveries with cartel money seizures.",
+  "falsify_miss": "Tunnel discoveries continue at the usual rate. Border tunnels are found several times a year and have been for two decades."
+ },
+ {
+  "video_id": "FUjrrRVRt5M",
+  "start_s": 2109,
+  "claim_text": "Protection prayed over the southern and the northern border, with the greater corruption on the southern border in human trafficking and drugs, and Cuba highlighted again.",
+  "quote": "even the northern border, the northern border. Canada",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "unclear",
+  "topics": [
+   "border"
+  ],
+  "locations": [
+   "Canada",
+   "Mexico",
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Not applicable; a petition.",
+  "falsify_miss": "Not applicable, though naming the northern border is unusual for him."
+ },
+ {
+  "video_id": "FUjrrRVRt5M",
+  "start_s": 2624,
+  "claim_text": "The horse and rider seen on the east coast with shaking, then Macron again with a great influence coming on him, becoming a mouthpiece in Europe soon and in a greater way, which he ties back to his Hitler comparison.",
+  "quote": "He'll be a mouthpiece in Europe soon",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "macron",
+   "europe"
+  ],
+  "locations": [
+   "Europe",
+   "France",
+   "east coast"
+  ],
+  "time_phrase": "soon",
+  "time_precision": "none",
+  "falsify_match": "Macron becoming the dominant public voice of Europe.",
+  "falsify_miss": "He remains one leader among several and faces domestic constraint. Soon carries no date."
+ },
+ {
+  "video_id": "FUjrrRVRt5M",
+  "start_s": 2883,
+  "claim_text": "Explosions on the sun and something different in its cycle, and thousands of dead fish floating on the surface along the west coast by California, which he says points to volcanic eruptions about to take place under the water.",
+  "quote": "There is volcanic eruptions about to take place",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "sun",
+   "fish",
+   "volcano"
+  ],
+  "locations": [
+   "California",
+   "west coast"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A mass fish die-off on the Californian coast traced to submarine volcanic activity.",
+  "falsify_miss": "Die-offs occur from algal blooms and hypoxia with no volcanic cause. He supplies the mechanism himself rather than being given it."
+ },
+ {
+  "video_id": "FUjrrRVRt5M",
+  "start_s": 3175,
+  "claim_text": "Prayer that any dirty bomb be uncovered, over the vans and big trucks again, and over Trump Towers in Chicago and New York, which he says are glass buildings that explode from the inside out with the glass blown outward, and that Trump himself is not there because it is what the building represents.",
+  "quote": "I see explosion from the inside out",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "attack",
+   "trump"
+  ],
+  "locations": [
+   "Chicago",
+   "New York"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An internal explosion at the Chicago or New York Trump tower.",
+  "falsify_miss": "No such incident. He states here that the president is not in the building, which narrows what the vision claims."
+ },
+ {
+  "video_id": "Q5gEmETa1sY",
+  "start_s": 498,
+  "claim_text": "As with Israel leaving Egypt there will be no feeble one among the bride leaving this earth, no sick people at all in the last generation, to the point that a person would have to resist being healed.",
+  "quote": "there will be no feeble among you",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "if_x",
+  "topics": [
+   "healing",
+   "revival"
+  ],
+  "locations": [
+   "worldwide"
+  ],
+  "time_phrase": "this last generation",
+  "time_precision": "none",
+  "falsify_match": "Verified healings at a rate that removes illness from a definable Christian population.",
+  "falsify_miss": "Illness among believers continues at the population rate. The if you just believe me for it clause places any failure on the person rather than on the word."
+ },
+ {
+  "video_id": "Q5gEmETa1sY",
+  "start_s": 740,
+  "claim_text": "Raising the dead becomes the status quo rather than the exception, along with arms and legs growing out and eyes coming back where there were none.",
+  "quote": "Why can't it be the the norm to raise the dead?",
+  "source_mode": "TEACHING",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "healing",
+   "miracles"
+  ],
+  "locations": [
+   "America"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Documented limb regeneration or resurrection under medical observation.",
+  "falsify_miss": "No such documentation. He notes himself that these are reported overseas and not in America, which is the pattern that would need to change."
+ },
+ {
+  "video_id": "Q5gEmETa1sY",
+  "start_s": 1076,
+  "claim_text": "Reading an older prophecy aloud about angels giving direction in finances and ministry, and about believers maturing virtually overnight and learning spiritual things far faster than in previous generations because time is short.",
+  "quote": "they just virtually matured overnight",
+  "source_mode": "SCRIPTURE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "revival"
+  ],
+  "locations": [],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "New believers demonstrably operating at long-experience level within weeks.",
+  "falsify_miss": "Not measurable. This is a text he is reading rather than a word he received, which he marks by pausing to comment on it."
+ },
+ {
+  "video_id": "Q5gEmETa1sY",
+  "start_s": 1764,
+  "claim_text": "An earthquake shaking Tel Aviv in the middle of the war with missiles falling read as a sign of the fig tree, and the labour described as full contractions rather than early pains, against people who say the end is two hundred years away.",
+  "quote": "an earthquake in the middle of the war, shaking Tel Aviv",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "israel",
+   "end times"
+  ],
+  "locations": [
+   "Tel Aviv",
+   "Israel"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Not applicable as prediction; he is reading current news as a sign.",
+  "falsify_miss": "Not applicable. The small Israeli tremor he refers to had just been reported when this was recorded."
+ },
+ {
+  "video_id": "Q5gEmETa1sY",
+  "start_s": 2301,
+  "claim_text": "Prayer calling Kim Jong-un and his sister removed on the ground that he was told it would happen, with a move of God called over North Korea, South Korea, Venezuela and China.",
+  "quote": "You're removing his sister. You told me you would",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "unclear",
+  "topics": [
+   "north korea"
+  ],
+  "locations": [
+   "North Korea",
+   "South Korea",
+   "Venezuela",
+   "China"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Both Kims removed from power.",
+  "falsify_miss": "They remain. Framed as a prayer resting on an earlier word, so a null result reads as prayer not yet answered rather than as a miss."
+ },
+ {
+  "video_id": "-cgLSUAayx4",
+  "start_s": 392,
+  "claim_text": "He recalls the EMP vision of a white and black rocket marked USSR with Asian men on a barge fired above America, says the Golden Dome is needed immediately, and describes stationed green laser weapons in strategic corners of the country which he suspects already exist secretly.",
+  "quote": "stationed electric uh lasers in all kinds of corners",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "emp",
+   "defence"
+  ],
+  "locations": [
+   "America"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Deployment of directed energy interceptors across the United States.",
+  "falsify_miss": "No such deployment. The Golden Dome programme had been announced publicly a month earlier, so the name is taken from the news."
+ },
+ {
+  "video_id": "-cgLSUAayx4",
+  "start_s": 2869,
+  "claim_text": "Strategic Iranian leaders fleeing north toward Moscow and others toward Iraq, abandoning ship and afraid for their lives because of the people dying, with Cuba named again.",
+  "quote": "I see strategic leaders trying to flee Iran right now",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "iran"
+  ],
+  "locations": [
+   "Iran",
+   "Moscow",
+   "Iraq",
+   "Cuba"
+  ],
+  "time_phrase": "right now",
+  "time_precision": "day",
+  "falsify_match": "Senior Iranian figures relocating to Russia during the strikes.",
+  "falsify_miss": "No such departures reported. Given in the present tense during the war, which makes it checkable against reporting from that week."
+ },
+ {
+  "video_id": "-cgLSUAayx4",
+  "start_s": 3568,
+  "claim_text": "Prayer that the sniper on the building in the Denver area be exposed and taken down and that it be reported in the news as visible fruit of the prayer, and that Iran not use a mega bomb on Tel Aviv.",
+  "quote": "a man in Colorado was taken down in Denver area",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "unclear",
+  "topics": [
+   "attack",
+   "denver"
+  ],
+  "locations": [
+   "Denver",
+   "Colorado",
+   "Tel Aviv"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A sniper arrest in the Denver area reported in the news.",
+  "falsify_miss": "No such arrest. He explicitly asks for it to be visible so the prayers can be seen to work, which is a request for confirmation rather than a prediction."
+ },
+ {
+  "video_id": "ygBayT9gQFk",
+  "start_s": 39,
+  "claim_text": "Secret meetings with Kim Jong-un, Russia and other major powers devising a plan to counter-strike in response to what Israel had just done, given the night of the Israeli strikes on Iran.",
+  "quote": "they were devising a plan in the days ahead to come and co",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "war",
+   "north korea"
+  ],
+  "locations": [
+   "North Korea",
+   "Russia",
+   "Israel",
+   "Iran"
+  ],
+  "time_phrase": "the days ahead",
+  "time_precision": "none",
+  "falsify_match": "A coordinated counter-strike by Russia and North Korea over the Israeli campaign.",
+  "falsify_miss": "Neither intervened. He filters what he will say about the meeting, which removes the checkable content."
+ },
+ {
+  "video_id": "ygBayT9gQFk",
+  "start_s": 80,
+  "claim_text": "Israel holding hidden technological advancements nobody else in the world has, which he says the American government did not know about under the previous administration and which Trump barely knows about, with the pager operation cited as an example and Ezekiel 38 and 39 said to be at the door.",
+  "quote": "The United States of America doesn't even know what they have",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "israel",
+   "technology"
+  ],
+  "locations": [
+   "Israel",
+   "America"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Disclosure of an Israeli capability unknown to its main ally.",
+  "falsify_miss": "No such disclosure. He immediately hedges the Ezekiel timing to anywhere between tomorrow and six months or more."
+ },
+ {
+  "video_id": "ygBayT9gQFk",
+  "start_s": 164,
+  "claim_text": "Turkey, Pakistan and Afghanistan seen upset about the strikes, which he is careful to say does not mean they are part of Ezekiel 38 and 39, and Apollyon out of the pit spinning like a dust devil around Putin.",
+  "quote": "I'm not saying they're a part of Ezekiel 38:39",
+  "source_mode": "VISION",
+  "certainty": "hedged",
+  "conditionality": "unconditional",
+  "topics": [
+   "war"
+  ],
+  "locations": [
+   "Turkey",
+   "Pakistan",
+   "Afghanistan",
+   "Russia"
+  ],
+  "time_phrase": "the days ahead",
+  "time_precision": "none",
+  "falsify_match": "Turkey, Pakistan and Afghanistan acting together against Israel.",
+  "falsify_miss": "They issue statements only. He marks the limit of his own claim here, which is worth recording."
+ },
+ {
+  "video_id": "ygBayT9gQFk",
+  "start_s": 376,
+  "claim_text": "Great and very bad anti-semitism coming, with Trump diplomatic while Netanyahu pushes the button, and Cuba and the mules recalled with strategic things he says he does not feel peace about saying on a live stream.",
+  "quote": "I saw great anti-semitism coming in the days ahead",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "antisemitism",
+   "israel"
+  ],
+  "locations": [
+   "America",
+   "Cuba",
+   "Israel"
+  ],
+  "time_phrase": "the days ahead",
+  "time_precision": "none",
+  "falsify_match": "A measurable surge in antisemitic incidents beyond the post-2023 level.",
+  "falsify_miss": "Incidents stay at or below the level already recorded since October 2023, which was already historically high when this was said."
+ },
+ {
+  "video_id": "ygBayT9gQFk",
+  "start_s": 415,
+  "claim_text": "What came across the border over four years was not terrorist activity but a whole army from another country, with men rising up in cells across ten major cities and things on fire, and he recalls giving the vans and trucks back in January.",
+  "quote": "a whole bunch of people from another country that was an army",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "attack",
+   "border"
+  ],
+  "locations": [
+   "America"
+  ],
+  "time_phrase": "the summer months",
+  "time_precision": "season",
+  "falsify_match": "Coordinated attacks by an organised foreign group across multiple American cities.",
+  "falsify_miss": "No such attacks in the summer of 2025. He gives a season here, which is more than most of the cell material carries."
+ },
+ {
+  "video_id": "ygBayT9gQFk",
+  "start_s": 1038,
+  "claim_text": "Prayer asked again for Mel Gibson, who he says will be used greatly in the last push, with a movie coming.",
+  "quote": "I'm going to use him greatly in the days ahead",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "film"
+  ],
+  "locations": [],
+  "time_phrase": "the days ahead",
+  "time_precision": "none",
+  "falsify_match": "A Gibson film with an outsized religious effect.",
+  "falsify_miss": "No such effect. This is six weeks before the fifty million figure appears, and here he gives no number."
+ },
+ {
+  "video_id": "ygBayT9gQFk",
+  "start_s": 1127,
+  "claim_text": "Intercede for the film for fifty million, and seed time and harvest shortens into seed harvest, with preachers going home in the pulpit in the middle of the manifestation like Ananias and Sapphira as compromise is cleared out of the church.",
+  "quote": "they'll go home right there because it's like Anan",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "church",
+   "judgment",
+   "film"
+  ],
+  "locations": [
+   "America"
+  ],
+  "time_phrase": "the days ahead",
+  "time_precision": "none",
+  "falsify_match": "A preacher dying in the pulpit during a service in a way read as judgment.",
+  "falsify_miss": "No such death. This is the earliest telling of the fifty million figure for the Gibson film, six weeks before the August version."
+ },
+ {
+  "video_id": "ygBayT9gQFk",
+  "start_s": 3796,
+  "claim_text": "Something running through Syria and Damascus and into an underground city in a mountain cave in Iran, connected with Hamas, with a call for all hidden things to be revealed.",
+  "quote": "In the underground city. In the underground cities",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "iran",
+   "syria"
+  ],
+  "locations": [
+   "Syria",
+   "Damascus",
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Discovery of a hidden Iranian underground facility linked to Hamas via Syria.",
+  "falsify_miss": "No such discovery. Iranian underground enrichment sites were already public knowledge and under strike when this was said."
+ },
+ {
+  "video_id": "ygBayT9gQFk",
+  "start_s": 3999,
+  "claim_text": "Something tied to Russia around the American troops, and then Australia seen, which he says he finds interesting and cannot explain.",
+  "quote": "These are from Russia. There's something to tie to Russia",
+  "source_mode": "VISION",
+  "certainty": "hedged",
+  "conditionality": "unconditional",
+  "topics": [
+   "war",
+   "australia"
+  ],
+  "locations": [
+   "Russia",
+   "Australia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A Russian-supplied weapon used against American forces, and an Australian connection.",
+  "falsify_miss": "Neither. He asks aloud what Australia has to do with it, which shows no interpretation was given."
+ },
+ {
+  "video_id": "ygBayT9gQFk",
+  "start_s": 4134,
+  "claim_text": "A great shaking coming to Canada and British Columbia on the fault lines with buildings moving, which he says is literal, adding that some things are set to happen on purpose because scripture says there will be earthquakes in diverse places.",
+  "quote": "There's great shaking coming. This is a literal",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "earthquake",
+   "canada"
+  ],
+  "locations": [
+   "British Columbia",
+   "Canada"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A major British Columbia earthquake.",
+  "falsify_miss": "No such earthquake. He adds here that some shakings are meant to happen, which removes prayer as a way of preventing them and is a change from his usual framing."
+ },
+ {
+  "video_id": "ygBayT9gQFk",
+  "start_s": 4367,
+  "claim_text": "Prayer over the fifty gallon drums and over Israel eliminating the Iranian nuclear capability, with a setting back seen, and he hears that there is more to come and this is just the beginning, with a retaliation coming.",
+  "quote": "There's more to come. This is just the",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "iran",
+   "war"
+  ],
+  "locations": [
+   "Iran",
+   "Israel"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Further major strikes on Iran after the June 2025 campaign.",
+  "falsify_miss": "The campaign ends with the ceasefire. More to come with no content is his standard way of keeping a thread open."
+ }
+]

@@ -1,0 +1,22 @@
+{"reviews": [
+ {"video_id": "hbyGnC7qt4I", "start_s": 1606, "claim_id": "great-betrayal-of-israel", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "America turning its back on Israel, which opens an attack"},
+ {"video_id": "hbyGnC7qt4I", "start_s": 1655, "claim_id": "great-betrayal-of-israel", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "the name people will use, and prayer offered as the stop"},
+ {"video_id": "hbyGnC7qt4I", "start_s": 1923, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "declarative intercession over America with no event attached"},
+ {"video_id": "hbyGnC7qt4I", "start_s": 3007, "claim_id": "tribulation-birthing-pains", "same_event": "unsure", "delta_type": "elaboration", "confidence": 0.65, "note": "Jacob's trouble said to be at hand; unsure because the existing claim is about birth pains rather than the tribulation opening"},
+ {"video_id": "hbyGnC7qt4I", "start_s": 3077, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "a petition for revival, asking for as little as a couple of weeks"},
+ {"video_id": "zXkss9pDyCs", "start_s": 80, "claim_id": "second-virus-lockdown", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the dream announcement of a virus far worse than covid"},
+ {"video_id": "zXkss9pDyCs", "start_s": 133, "claim_id": "second-virus-lockdown", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "the major lockdown and the halt to international flights"},
+ {"video_id": "8RE7avjJd1k", "start_s": 323, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.95, "note": "recommending another minister's material"},
+ {"video_id": "8RE7avjJd1k", "start_s": 472, "claim_id": "another-911-event-planned", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the bearded man and the planned 9/11-type event"},
+ {"video_id": "8RE7avjJd1k", "start_s": 913, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "endorsing another man's dream; a dream someone else had is not a word he gives"},
+ {"video_id": "8RE7avjJd1k", "start_s": 950, "claim_id": "greatest-harvest-of-souls", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.8, "note": "an outpouring of grace greater than has ever been seen"},
+ {"video_id": "qCWodRZNFaw", "start_s": 34, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.95, "note": "session framing with named prayer partners"},
+ {"video_id": "qCWodRZNFaw", "start_s": 71, "claim_id": "unconventional-weapons", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "the weapon against Poland explicitly excluded from being nuclear, which narrows the claim"},
+ {"video_id": "qCWodRZNFaw", "start_s": 599, "claim_id": "rapture-any-time", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.8, "note": "coming very soon, against those who say years away"},
+ {"video_id": "qCWodRZNFaw", "start_s": 637, "claim_id": "ezekiel-38-turkey", "same_event": "unsure", "delta_type": "elaboration", "confidence": 0.65, "note": "the hook in the jaw pulling Russia down, read as happening now; unsure because the existing claim centres on Turkey"},
+ {"video_id": "qCWodRZNFaw", "start_s": 1476, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "worship and declaration segment, largely applause"},
+ {"video_id": "l-qkCKHzgkE", "start_s": 87, "claim_id": "northeast-record-heat-summer-2024", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.85, "note": "pay attention to the East, Chicago and Philadelphia in headlines through the summer"},
+ {"video_id": "l-qkCKHzgkE", "start_s": 181, "claim_id": "northeast-record-heat-summer-2024", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "record temperatures over Philadelphia and New York, and record wind gusts"},
+ {"video_id": "l-qkCKHzgkE", "start_s": 497, "claim_id": "mass-shooting-gatherings", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.85, "note": "worldwide rather than American, with malls, gatherings and soccer named"},
+ {"video_id": "FToQQnm1Esc", "start_s": 0, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.95, "note": "session framing for the prayer videos"}
+]}

@@ -1,0 +1,25 @@
+{"relationships": [
+  {"from_claim": "storm-worse-than-covid", "to_claim": "plague-2027-china-rats-europe",
+   "rel_type": "same_event_as", "asserted_by": "brandon",
+   "evidence_video": "KvS6uzzLK6c", "evidence_start_s": 6490,
+   "note": "He identifies them himself: the storm, the black on the buildings and the plague are one thing, named here as the black death and placed in June 2028."},
+
+  {"from_claim": "world-cup-2026-prayer-targets", "to_claim": "green-white-jerseys-riot",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Both attach to the same tournament, one to the fixture list and one to a match that produced rioting."},
+
+  {"from_claim": "only-a-spectator-psalm91", "to_claim": "attack-worse-than-october-7",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "KvS6uzzLK6c", "evidence_start_s": 2171,
+   "note": "He gives October 7th as the case in point: they prayed over it for months and it happened anyway, which is his own example of what prayer does not stop."},
+
+  {"from_claim": "china-attacks-hawaii", "to_claim": "dday-pearl-harbor",
+   "rel_type": "same_event_as", "asserted_by": "brandon",
+   "evidence_video": "7CtKI-6263c", "evidence_start_s": 1668,
+   "note": "He names it a secret Pearl Harbor attack against Hawaii, joining the two claims in one phrase."},
+
+  {"from_claim": "battleground-senate-2026", "to_claim": "stalemate-government-2026",
+   "rel_type": "elaborates", "asserted_by": "brandon",
+   "evidence_video": "KvS6uzzLK6c", "evidence_start_s": 376,
+   "note": "He states the consequence: if they do not maintain the House and the Senate, he is in trouble, and the Lord said it."}
+]}

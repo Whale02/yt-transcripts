@@ -1,0 +1,102 @@
+{
+"reviews": [
+{
+"mention_id": "2d52436cfc26f4bd",
+"duplicate_of": "53abeca257eaa1fe",
+"note": "same passage extracted twice on 30 August 2026 by two workers on one database; this is the later row and carries no claim"
+},
+{
+"mention_id": "20407aaaa21be4de",
+"duplicate_of": "e186a3fe46a907c0",
+"note": "same passage extracted twice on 30 August 2026 by two workers on one database; this is the later row and carries no claim"
+},
+{
+"mention_id": "043ef290dab11831",
+"duplicate_of": "3052ec9bc828068a",
+"note": "same passage extracted twice on 30 August 2026 by two workers on one database; this is the later row and carries no claim"
+},
+{
+"mention_id": "4f39ec5c4c2dd133",
+"duplicate_of": "0978fc18bce2106f",
+"note": "same passage extracted twice on 30 August 2026 by two workers on one database; this is the later row and carries no claim"
+},
+{
+"mention_id": "b56775dce81085ff",
+"duplicate_of": "36d7e3b02c696ff9",
+"note": "same passage extracted twice on 30 August 2026 by two workers on one database; this is the later row and carries no claim"
+},
+{
+"mention_id": "febcc715df85edda",
+"duplicate_of": "618b8d09de363a3a",
+"note": "same passage extracted twice on 30 August 2026 by two workers on one database; this is the later row and carries no claim"
+},
+{
+"mention_id": "aaf3eb9231acefb9",
+"duplicate_of": "29b801b3f3e1199d",
+"note": "same passage extracted twice on 30 August 2026 by two workers on one database; this is the later row and carries no claim"
+},
+{
+"mention_id": "01ba9ba3e6e3fb2a",
+"duplicate_of": "1e16a2bc0f026bc2",
+"note": "same passage extracted twice on 30 August 2026 by two workers on one database; this is the later row and carries no claim"
+},
+{
+"mention_id": "c4b2f24cbb5e3cb2",
+"duplicate_of": "e47861954db32a8a",
+"note": "same passage extracted twice on 30 August 2026 by two workers on one database; this is the later row and carries no claim"
+},
+{
+"mention_id": "7469cbda7dcead3d",
+"duplicate_of": "988332a2bf91ad15",
+"note": "same passage extracted twice on 30 August 2026 by two workers on one database; this is the later row and carries no claim"
+},
+{
+"mention_id": "483a4ef79f6c8e4d",
+"duplicate_of": "2794e4ba9690a438",
+"note": "same passage extracted twice on 30 August 2026 by two workers on one database; this is the later row and carries no claim"
+},
+{
+"mention_id": "3c56a1a79c7803b9",
+"duplicate_of": "0fd0475a3d382094",
+"note": "same passage extracted twice on 30 August 2026 by two workers on one database; this is the later row and carries no claim"
+},
+{
+"mention_id": "73c817f955729773",
+"duplicate_of": "d7f47754c0da72fc",
+"note": "same passage extracted twice on 30 August 2026 by two workers on one database; this is the later row and carries no claim"
+},
+{
+"mention_id": "2fce7d64e583d2c7",
+"duplicate_of": "e558e55c04545d28",
+"note": "same passage extracted twice on 30 August 2026 by two workers on one database; this is the later row and carries no claim"
+},
+{
+"mention_id": "1c630b7af00c2020",
+"duplicate_of": "9b3f4cb01ac7a337",
+"note": "same passage extracted twice on 30 August 2026 by two workers on one database; this is the later row and carries no claim"
+},
+{
+"mention_id": "3a93212c9249484d",
+"duplicate_of": "4e16a53c415e444c",
+"note": "same passage extracted twice on 30 August 2026 by two workers on one database; this is the later row and carries no claim"
+},
+{
+"mention_id": "a2231cc829fa787f",
+"duplicate_of": "4d2ae6047f30cf3e",
+"note": "same passage extracted twice on 30 August 2026 by two workers on one database; this is the later row and carries no claim"
+},
+{
+"mention_id": "c0b6bfe3317bf40c",
+"duplicate_of": "c19a6a751e75b0f3",
+"note": "same passage extracted twice on 30 August 2026 by two workers on one database; this is the later row and carries no claim"
+},
+{
+"mention_id": "8b32baf650c88855",
+"claim_id": "pergamon-altar-berlin",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "a place in Europe marked for what they summon, without naming it (re-pointed after the other worker folded berlin-pergamon-antichrist-seat into pergamon-altar-berlin)"
+}
+]
+}

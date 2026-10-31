@@ -1,0 +1,31 @@
+[
+ {"claim_id":"electric-cars-made-desirable",
+  "label":"People will be made to want electric cars",
+  "domain":"economics",
+  "description":"An earlier word he recalls on 30 August 2026 that they will make people want electric cars in the days ahead. He leaves open whether it applies to America or to Russia, and raises it while discussing strikes on Russian fuel supply.",
+  "aliases":["make people want the electric cars","having an electric car"]},
+
+ {"claim_id":"dirty-device-northeast-yellow-fog",
+  "label":"A dirty device in a building in the northeast, releasing a yellow fog",
+  "domain":"terrorism",
+  "description":"Something he calls a dirty thing seen up in the northeast, very serious, a yellow fog released inside a building, described as tactical, and prayed against alongside hidden cells in the nation. Given 30 August 2026.",
+  "aliases":["dirty thing up northeast","yellow fog","tactical thing in a building"]},
+
+ {"claim_id":"glorious-church-rises-bold",
+  "label":"The glorious church rises up bold and does not shrink back",
+  "domain":"church",
+  "description":"A prayer declaration that the glorious church will rise up, be bold as a lion, have a backbone and not shrink back or be cowards in this hour, set against wars and rumours of wars and the digital golden age. Given 30 August 2026.",
+  "aliases":["glorious church rise up","bold as a lion","will not shrink back"]},
+
+ {"claim_id":"russia-doomsday-weapon",
+  "label":"A Russian doomsday weapon of vast magnitude",
+  "domain":"war",
+  "description":"Spoken over footage of men he calls top brass from the KGB: a doomsday weapon is coming, something of vast magnitude, held to protect the Russian homeland. Given 30 August 2026.",
+  "aliases":["you will see a doomsday weapon","form of a doomsday weapon","protect the homeland of mother russia"]},
+
+ {"claim_id":"europe-looks-to-america-under-nato",
+  "label":"Europe turns to America to defend it under NATO",
+  "domain":"war",
+  "description":"After the European attack he has been describing, the European nations look toward America and ask whether it will come in and defend them because of NATO. Given 30 August 2026.",
+  "aliases":["defend us because of NATO","looking towards America now after this happens"]}
+]

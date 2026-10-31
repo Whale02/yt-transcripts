@@ -1,0 +1,46 @@
+{
+ "_note": "Job A batch 2, 30 August 2026. Sharply checkable dated claims. Reality only; base rates named.",
+ "evidence": [
+  {"claim_id": "candidate-outdoor-attack",
+   "observed_on": "2024-07-13",
+   "source_url": "https://www.fbi.gov/news/press-releases/update-on-the-fbi-investigation-of-the-attempted-assassination-of-former-president-donald-trump",
+   "summary": "On 13 July 2024 a 20-year-old gunman fired eight rounds into the crowd at an outdoor Trump campaign rally at the Butler Farm Show grounds in Butler, Pennsylvania. Trump was wounded in the ear, rally attendee Corey Comperatore was killed, two others were critically injured, and the gunman was shot dead. The FBI investigated it as an attempted assassination and as potential domestic terrorism. A second attempt followed at a West Palm Beach golf course on 15 September 2024.",
+   "state": "STRONG_MATCH",
+   "rationale": "This is the best-supported item scored so far. The call is on video dated 28 December 2023, six and a half months before Butler, and it names the setting, not just the subject: a presidential candidate outdoors, before a big crowd. The base rate is genuinely low. The last shooting of a US presidential candidate was George Wallace in 1972, and of a sitting president Reagan in 1981, so this is not something that happens in every cycle. Three honest discounts, none of which sink it. It is framed as a call to prayer rather than a forecast, which is his standard mode and which would have let a non-event pass as answered prayer. One of the three visual details is wrong: he saw mountains behind the crowd, and the Butler Farm Show grounds are rolling Pennsylvania farmland. And protecting a candidate is a common theme in this kind of ministry during an election year, so the subject alone would carry little information. The setting and the outcome are what lift it."},
+
+  {"claim_id": "powell-out-in-january",
+   "observed_on": "2026-05-22",
+   "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm",
+   "summary": "Jerome Powell's term as chair of the Federal Reserve ran to 15 May 2026, after which the Board named him chair pro tempore until a successor was sworn in. Kevin Warsh, nominated by Trump in January 2026, was sworn in as the 17th chair on 22 May 2026. Powell did not leave the Federal Reserve: his separate 14-year term as a board member runs to January 2028, and he said he would stay until satisfied the bank had seen off attacks on its independence.",
+   "state": "CONTRADICTED",
+   "rationale": "He said on 4 December 2025 that Powell would be out in January. Powell was still chair through 15 May 2026 and is still on the board today. The one January event was the nomination of Warsh, which is not the claim. Two things make this a clean miss rather than a near one. Powell's term end was public information when he spoke, printed on the Federal Reserve's own site, so January was a departure from the published schedule and not an inference from it, which is exactly what makes it checkable. And his 13 May 2026 correction is also wrong on the record: he says Powell is jobless and looking for a new job, when Powell kept his board seat by his own announced choice. To his credit he marked the whole thing as his opinion and said so explicitly in the same breath, which is recorded here as the hedge it is."},
+
+  {"claim_id": "landslide-quick-result",
+   "observed_on": "2024-11-06",
+   "source_url": "https://www.archives.gov/electoral-college/2024",
+   "summary": "Trump won the 2024 presidential election with 312 electoral votes to Harris's 226, taking all seven swing states and flipping Arizona, Georgia, Michigan, Nevada, Pennsylvania and Wisconsin. He took the popular vote 77,302,416 to 75,012,178, a margin of 1.5 percentage points at 49.8 percent, falling just short of a majority. The Associated Press called the race on 6 November, the day after polling day.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "The half that could have failed did not: the result was known the next day rather than in weeks, where 2020 took four days and 2000 took thirty-six, and the corpus carries this from 15 October, three weeks ahead. The rest is thinner than it sounds. Every telling before the election is in the grammar of petition, thanking God that Trump will win by a landslide, which is a request rather than a forecast and would have been read as unanswered rather than wrong. A two-candidate race gives a fifty percent prior on the winner. And 1.5 points of popular vote with no outright majority is not a landslide by any standard measure, even though 312 electoral votes is the widest margin since 2012. His 10 January 2026 telling, that he said Trump would win Michigan and all these states, is a fulfilment assertion made fourteen months after the fact and belongs in that table, not here."},
+
+  {"claim_id": "yankees-world-series",
+   "observed_on": "2024-10-30",
+   "source_url": "https://www.mlb.com/postseason",
+   "summary": "The 2024 World Series was the New York Yankees against the Los Angeles Dodgers, and the Dodgers won it in five games, closing on 30 October 2024 at Yankee Stadium. No attempted attack on Yankee Stadium was reported during the series or the 2024 postseason.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "The matchup is a fact, and it is the half he gets credit for in the telling. The corpus does not support the way he tells it. He says on 4 November 2024 that he saw it back in May, but a full-text search of the corpus finds no Yankees passage before 9 October 2024, and that one is a prayer over a playoff game rather than a call on who reaches the World Series. Every Yankees passage in October is protection prayer over games already scheduled. The World Series matchup claim itself first appears on 4 November, five days after the series ended, which makes it a retrodiction with no earlier record to check it against. Base rate is also unhelpful to him: the Yankees and the Dodgers are the two largest-market clubs in baseball and both were among the favourites all season. The only forward-looking, falsifiable element, an attempted attack at Yankee Stadium, did not occur."},
+
+  {"claim_id": "trump-inauguration-button",
+   "observed_on": "2025-12-31",
+   "source_url": "https://www.brookings.edu/articles/four-reasons-trumps-economic-agenda-hasnt-tanked-the-economy/",
+   "summary": "In Trump's first year back in office the S&P 500 rose more than 16 percent. Real GDP fell at an annualised 0.6 percent in Q1 2025, then grew 3.8 percent in Q2 and about 4.3 percent in Q3, but full-year 2025 growth came in around 1.5 to 2.0 percent, down from 2.5 to 3.0 percent in 2024. The average tariff rate rose from 2.4 percent on inauguration day to a peak of 28.0 percent in April, raising roughly 200 billion dollars of federal revenue. Inflation eased from 3 percent in January to about 2.4 percent.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "A change of party at an inauguration produces a visible policy turn every time it happens, so the base rate on the headline claim is close to one and it carries almost no information. Beneath it the record is mixed rather than a turnaround: the market rose 16 percent and inflation eased, while growth slowed against 2024 and the first quarter contracted. The two distinctive images have no referent that can be checked. A new economy is not defined, and the dam of sludge held back from the American people names no document, agency or release date, so no disclosure in 2025 can either satisfy it or fail it. Held at partial on the strength of the market and tariff turn alone, with the point that the button metaphor is his own hedge: he says the button waiting to be pushed is probably the inauguration, which is a guess he flags as a guess."},
+
+  {"claim_id": "inauguration-transition-protection",
+   "observed_on": "2025-01-20",
+   "source_url": "https://www.archives.gov/electoral-college/2024",
+   "summary": "The 2024 electoral votes were counted in a joint session of Congress on 6 January 2025 without incident, and Trump was sworn in on 20 January 2025. No attempt to disrupt the transfer of power was reported in the 59 days between the prayer and the inauguration.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "This is a petition that nothing happen, and nothing happened. There is no forecast in it at either end: he does not say a plot will be attempted, he asks that any plot be bound, so a quiet transition reads as answered prayer and a disrupted one would have read as a warning given. Prayer conditionality is recorded as a field here, not accepted as a reason to score a non-event as a match. The outcome asked for is also the base case. Peaceful certification and inauguration is what has happened at every transition in American history bar one, and the exception, 6 January 2021, is the event he is explicitly praying it will not resemble. Recorded unfalsifiable with the outcome stated rather than left unchecked."}
+ ]
+}

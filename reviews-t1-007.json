@@ -1,0 +1,30 @@
+{
+  "_note": "Adjudications for tier-1 sweep batch 007. Model claude-opus-5, prompt v1.",
+  "reviews": [
+    {"video_id": "XxwF--X7PLo", "start_s": 2684, "claim_id": "tribulation-shmita", "same_event": "yes", "delta_type": "first_mention", "note": "Framework claim, not an event. It is what dates the later 2028-29 material."},
+    {"video_id": "jx6fBGkMNTI", "start_s": 619, "claim_id": "eclipse-new-madrid", "same_event": "yes", "delta_type": "first_mention", "note": "The eclipse-over-fault marker, given eight months before the April 2024 eclipse."},
+    {"video_id": "jx6fBGkMNTI", "start_s": 658, "claim_id": "two-state-solution-2024", "same_event": "yes", "delta_type": "timing_update", "note": "Tightens the window to March and adds the Third Temple element. Sourced to an article rather than a word."},
+    {"video_id": "jx6fBGkMNTI", "start_s": 696, "claim_id": "saudi-holy-sites", "same_event": "yes", "delta_type": "first_mention", "note": "Distinct from the BRICS thread: this is custodianship of the holy sites."},
+    {"video_id": "jx6fBGkMNTI", "start_s": 1792, "claim_id": "refuse-to-participate", "same_event": "yes", "delta_type": "first_mention", "note": "Important for scoring: he concedes famine and crash may happen around the hearer, which softens the crash claims elsewhere."},
+    {"video_id": "jx6fBGkMNTI", "start_s": 1828, "claim_id": "believe-impossible", "same_event": "yes", "delta_type": "first_mention", "note": "Instruction."},
+    {"video_id": "Pio0TQ9YvD0", "start_s": 183, "claim_id": "acceleration-window", "same_event": "unsure", "delta_type": "elaboration", "note": "Same acceleration language as the 2026 material but three years earlier, so the link is loose."},
+    {"video_id": "Pio0TQ9YvD0", "start_s": 404, "claim_id": "visitation-2014", "same_event": "yes", "delta_type": "first_mention", "note": "Rare self-audit: he notes his own 2014 expectation of imminence was ten years early."},
+    {"video_id": "Pio0TQ9YvD0", "start_s": 440, "claim_id": "saudi-brics-oil-200", "same_event": "yes", "delta_type": "timing_update", "note": "Gives 1 January 2024 for the accession, against 24 August 2023 elsewhere. Both kept; he is reading news, not a word."},
+    {"video_id": "Pio0TQ9YvD0", "start_s": 522, "claim_id": "japan-radioactive-ocean", "same_event": "yes", "delta_type": "first_mention", "note": "Reported as already happening, with the Trump booking on the same date."},
+    {"video_id": "Pio0TQ9YvD0", "start_s": 604, "claim_id": "brown-haired-woman-november", "same_event": "yes", "delta_type": "first_mention", "note": "Contentless as given: a description and a month, no act named. Recorded because it is dated."},
+    {"video_id": "SCXTYJcPb7o", "start_s": 282, "claim_id": "good-year-2024", "same_event": "yes", "delta_type": "first_mention", "note": "Earliest dated version of the good-2024 thread, from August 2023."},
+    {"video_id": "SCXTYJcPb7o", "start_s": 320, "claim_id": "stimulus-adrenaline", "same_event": "yes", "delta_type": "elaboration", "note": "Ties the soaring 2024 explicitly to money being pumped in to make things look good, which is the mechanism the later crash claims depend on."},
+    {"video_id": "SCXTYJcPb7o", "start_s": 464, "claim_id": "crypto-new-era-wave", "same_event": "yes", "delta_type": "first_mention", "note": "Undated, but the dot-com comparison sets a scale."},
+    {"video_id": "SCXTYJcPb7o", "start_s": 498, "claim_id": "saudi-brics-oil-200", "same_event": "yes", "delta_type": "restatement", "note": "The 24 August marker again, with his own caveat about hating dates."},
+    {"video_id": "tF2mSIr1Pm8", "start_s": 549, "claim_id": "praise-instruction", "same_event": "yes", "delta_type": "elaboration", "note": "Praises up, blessings down."},
+    {"video_id": "tF2mSIr1Pm8", "start_s": 864, "claim_id": "financial-harvest-dominoes", "same_event": "yes", "delta_type": "first_mention", "note": "The dominoes image, which recurs later as sequencing language."},
+    {"video_id": "tF2mSIr1Pm8", "start_s": 900, "claim_id": "good-year-2024", "same_event": "yes", "delta_type": "elaboration", "note": "The coin with two sides, which is how he keeps a good year and a bad year compatible."},
+    {"video_id": "tF2mSIr1Pm8", "start_s": 1183, "claim_id": "megan-healing", "same_event": "yes", "delta_type": "first_mention", "note": "Private outcome; not independently scoreable."},
+    {"video_id": "tF2mSIr1Pm8", "start_s": 1296, "claim_id": "speak-life-instruction", "same_event": "yes", "delta_type": "first_mention", "note": "Instruction with a built-in delay clause."},
+    {"video_id": "tF2mSIr1Pm8", "start_s": 1980, "claim_id": "provision-declaration", "same_event": "yes", "delta_type": "elaboration", "note": "Past testimony offered as evidence for the provision claim."},
+    {"video_id": "dvqTha9uG8Q", "start_s": 1503, "claim_id": "youtube-assignment", "same_event": "yes", "delta_type": "first_mention", "note": "Useful as a corpus baseline: 50,000 subscribers in August 2023."},
+    {"video_id": "EJ3Rtm3uJQw", "start_s": 1491, "claim_id": "provision-declaration", "same_event": "yes", "delta_type": "first_mention", "note": "The bird and worms image."},
+    {"video_id": "kIXRUu8-f-c", "start_s": 278, "claim_id": "provision-declaration", "same_event": "yes", "delta_type": "elaboration", "note": "Adds the standing-and-not-giving-up condition."},
+    {"video_id": "kIXRUu8-f-c", "start_s": 576, "claim_id": "mass-shooting-gatherings", "same_event": "yes", "delta_type": "first_mention", "note": "Framed as an assignment to pray against, so a miss is pre-explained. Conditionality carries it."}
+  ]
+}

@@ -1,0 +1,586 @@
+<title>Biggs Forecast Ledger</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+  :root {
+    --paper:   #F0F1F4;
+    --surface: #FFFFFF;
+    --ink:     #161A21;
+    --muted:   #5D6775;
+    --faint:   #8A93A0;
+    --rule:    #D7DBE2;
+    --accent:  #33417A;
+    --testable:#0E6B66;
+    --cond:    #8A5F13;
+    --shadow:  0 1px 2px rgba(22,26,33,.06), 0 8px 24px rgba(22,26,33,.05);
+  }
+  :root:not([data-theme="light"]) {
+    color-scheme: light dark;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper:   #12151A;
+      --surface: #191D24;
+      --ink:     #E3E6EC;
+      --muted:   #99A2AE;
+      --faint:   #6E7885;
+      --rule:    #282E38;
+      --accent:  #97A5DE;
+      --testable:#57BAB2;
+      --cond:    #D7A64A;
+      --shadow:  0 1px 2px rgba(0,0,0,.4), 0 10px 28px rgba(0,0,0,.32);
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper:   #12151A;
+    --surface: #191D24;
+    --ink:     #E3E6EC;
+    --muted:   #99A2AE;
+    --faint:   #6E7885;
+    --rule:    #282E38;
+    --accent:  #97A5DE;
+    --testable:#57BAB2;
+    --cond:    #D7A64A;
+    --shadow:  0 1px 2px rgba(0,0,0,.4), 0 10px 28px rgba(0,0,0,.32);
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 15.5px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 0 24px 96px; }
+
+  /* ---------- masthead ---------- */
+  header.top {
+    border-bottom: 1px solid var(--rule);
+    padding: 56px 0 28px;
+    margin-bottom: 40px;
+  }
+  .eyebrow {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 11.5px;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--faint);
+  }
+  h1 {
+    font-family: Newsreader, Georgia, "Times New Roman", serif;
+    font-weight: 500;
+    font-size: clamp(34px, 5.4vw, 52px);
+    line-height: 1.08;
+    letter-spacing: -.015em;
+    margin: 12px 0 14px;
+    text-wrap: balance;
+  }
+  .standfirst {
+    font-family: Newsreader, Georgia, serif;
+    font-size: 19px;
+    line-height: 1.5;
+    color: var(--muted);
+    max-width: 62ch;
+    margin: 0 0 26px;
+  }
+  .meta-strip {
+    display: flex; flex-wrap: wrap; gap: 0 32px;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 12px;
+    color: var(--faint);
+  }
+  .meta-strip b { color: var(--ink); font-weight: 500; }
+
+  /* ---------- sections ---------- */
+  section { margin: 0 0 56px; scroll-margin-top: 24px; }
+  h2 {
+    font-family: Newsreader, Georgia, serif;
+    font-weight: 500;
+    font-size: 27px;
+    letter-spacing: -.01em;
+    margin: 0 0 6px;
+  }
+  .sub {
+    color: var(--muted);
+    max-width: 68ch;
+    margin: 0 0 22px;
+  }
+  h3 {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 11.5px;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--faint);
+    font-weight: 500;
+    margin: 32px 0 12px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid var(--rule);
+  }
+  p { max-width: 68ch; }
+
+  /* ---------- stage sequence ---------- */
+  .stages { display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(168px, 1fr)); }
+  .stage {
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-top: 2px solid var(--accent);
+    border-radius: 2px;
+    padding: 14px 15px 16px;
+    box-shadow: var(--shadow);
+  }
+  .stage .n {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 11px; color: var(--faint); letter-spacing: .1em;
+  }
+  .stage .t { font-weight: 600; margin: 4px 0 5px; font-size: 15px; }
+  .stage .d { color: var(--muted); font-size: 13.5px; line-height: 1.45; }
+
+  /* ---------- year spine ---------- */
+  .spine { display: grid; gap: 0; }
+  .yr {
+    display: grid;
+    grid-template-columns: 88px 1fr;
+    gap: 20px;
+    padding: 16px 0;
+    border-top: 1px solid var(--rule);
+  }
+  .yr:last-child { border-bottom: 1px solid var(--rule); }
+  .yr .y {
+    font-family: "IBM Plex Mono", monospace;
+    font-variant-numeric: tabular-nums;
+    font-size: 21px;
+    color: var(--accent);
+  }
+  .yr ul { margin: 0; padding-left: 18px; }
+  .yr li { margin-bottom: 5px; }
+  .yr li:last-child { margin-bottom: 0; }
+
+  /* ---------- claim tables ---------- */
+  .tw { overflow-x: auto; border: 1px solid var(--rule); border-radius: 2px; background: var(--surface); box-shadow: var(--shadow); }
+  table { border-collapse: collapse; width: 100%; min-width: 640px; font-size: 14.5px; }
+  th {
+    text-align: left;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 10.5px;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    color: var(--faint);
+    font-weight: 500;
+    padding: 11px 14px;
+    border-bottom: 1px solid var(--rule);
+    white-space: nowrap;
+  }
+  td { padding: 12px 14px; border-bottom: 1px solid var(--rule); vertical-align: top; }
+  tr:last-child td { border-bottom: none; }
+  td.when, td.src {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 12.5px;
+    font-variant-numeric: tabular-nums;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+  a { color: var(--accent); text-decoration: none; border-bottom: 1px solid color-mix(in srgb, var(--accent) 35%, transparent); }
+  a:hover { border-bottom-color: var(--accent); }
+  a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 1px; }
+
+  .chip {
+    display: inline-block;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 10px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    padding: 2px 6px;
+    border-radius: 2px;
+    border: 1px solid currentColor;
+    white-space: nowrap;
+  }
+  .chip.dated { color: var(--accent); }
+  .chip.test  { color: var(--testable); }
+  .chip.cond  { color: var(--cond); }
+  .chip.open  { color: var(--faint); }
+
+  /* ---------- callout ---------- */
+  .note {
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--cond);
+    border-radius: 2px;
+    padding: 16px 18px;
+    box-shadow: var(--shadow);
+  }
+  .note p { margin: 0 0 10px; }
+  .note p:last-child { margin: 0; }
+  .quote {
+    font-family: Newsreader, Georgia, serif;
+    font-size: 17px;
+    color: var(--ink);
+  }
+
+  ul.plain { list-style: none; padding: 0; margin: 0; }
+  ul.plain li {
+    padding: 10px 0;
+    border-bottom: 1px solid var(--rule);
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 16px;
+    align-items: baseline;
+  }
+  ul.plain li:last-child { border-bottom: none; }
+  .k { font-family: "IBM Plex Mono", monospace; font-size: 12px; color: var(--faint); white-space: nowrap; }
+
+  footer {
+    border-top: 1px solid var(--rule);
+    margin-top: 64px;
+    padding-top: 20px;
+    color: var(--faint);
+    font-size: 13px;
+  }
+  @media (max-width: 620px) {
+    .yr { grid-template-columns: 1fr; gap: 6px; }
+    ul.plain li { grid-template-columns: 1fr; gap: 4px; }
+  }
+</style>
+
+<div class="wrap">
+
+<header class="top">
+  <div class="eyebrow">Source brief · prophetic forecasts as an input, not an authority</div>
+  <h1>Biggs Forecast Ledger</h1>
+  <p class="standfirst">Every forward-looking claim Brandon Biggs makes across ten videos on the Last Days channel, sorted by domain, dated where he dates it, and linked to the second it was said.</p>
+  <div class="meta-strip">
+    <span><b>10</b> videos</span>
+    <span><b>8.7</b> hours of transcript</span>
+    <span>published <b>Jun 2023 – Jun 2026</b></span>
+    <span>compiled <b>29 Aug 2026</b></span>
+  </div>
+</header>
+
+<section>
+  <h2>The shape of the model</h2>
+  <p class="sub">Across three years of videos his account stays structurally consistent: a short profitable window now, a monetary break, a plague, then a period of political and information control running to 2030. The stages are his, in his sequence.</p>
+  <div class="stages">
+    <div class="stage">
+      <div class="n">STAGE 1</div>
+      <div class="t">The window</div>
+      <div class="d">A short-lived "wealth transfer" wave he says is already one year in. Told to fill pockets before the storm.</div>
+    </div>
+    <div class="stage">
+      <div class="n">STAGE 2</div>
+      <div class="t">The break</div>
+      <div class="d">A 1930s-scale crash, banks failing, the dollar halved and made digital, debts wiped in a jubilee.</div>
+    </div>
+    <div class="stage">
+      <div class="n">STAGE 3</div>
+      <div class="t">The plague</div>
+      <div class="d">An airborne pestilence he compares to the Black Death. 350 million dead worldwide, 30 million in the US.</div>
+    </div>
+    <div class="stage">
+      <div class="n">STAGE 4</div>
+      <div class="t">The clamp</div>
+      <div class="d">Socialist control of the internet, speech regulated, live streaming dead in Europe by 2030.</div>
+    </div>
+    <div class="stage">
+      <div class="n">STAGE 5</div>
+      <div class="t">The beast system</div>
+      <div class="d">One-world currency, a required mark, enforced worship under a Mahdi figure. Tribulation proper.</div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Year by year</h2>
+  <p class="sub">Only years he names out loud. He said in June 2026 that he had never been able to see past 2028 before and could now see to 2030, so anything beyond that is not in his account at all.</p>
+  <div class="spine">
+    <div class="yr">
+      <div class="y">2026</div>
+      <ul>
+        <li>Corruption in the church exposed; established mega-ministries dwindle and fade.</li>
+        <li>An acceleration of that shaking from July through 1 December.</li>
+      </ul>
+    </div>
+    <div class="yr">
+      <div class="y">2027</div>
+      <ul>
+        <li>"Prosperity on 2027" — the one year he tags positively.</li>
+        <li>Something dark begins in the last part of the year and carries forward.</li>
+      </ul>
+    </div>
+    <div class="yr">
+      <div class="y">2028</div>
+      <ul>
+        <li>The dark thing "shoots off" — he believes it is a plague.</li>
+        <li>A new Watergate-scale scandal in the news.</li>
+        <li>Trump's term read as a stalemate; midterms fall short; legacy reduced to "the ballroom".</li>
+      </ul>
+    </div>
+    <div class="yr">
+      <div class="y">2029</div>
+      <ul>
+        <li>2028 conditions carry into 2029 "so strong"; he calls it very bad going into 2030.</li>
+        <li>Speech on the internet tightening hard.</li>
+      </ul>
+    </div>
+    <div class="yr">
+      <div class="y">2030</div>
+      <ul>
+        <li>Socialistic control over the internet complete in Europe, Australia, Canada, Asia; America split 50/50.</li>
+        <li>Agenda 2030 framed as monetary as much as political.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Money and markets</h2>
+  <p class="sub">The part with the most decision content, and the part he most often prefixes with "I am not a financial advisor, I can miss it."</p>
+
+  <h3>Monetary system</h3>
+  <div class="tw">
+    <table>
+      <thead><tr><th>Claim</th><th>Type</th><th>When he says</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>The dollar turns into a digital dollar and is worth half of its current value: a hundred-dollar bill buys fifty.</td>
+          <td><span class="chip open">Undated</span></td>
+          <td class="when">—</td>
+          <td class="src"><a href="https://youtu.be/wUNztkdwhXE?t=35">Jun 2023 · 0:35</a></td>
+        </tr>
+        <tr>
+          <td>Banks go bankrupt. Deposits are seized and become property of the bank, for rich and poor alike.</td>
+          <td><span class="chip open">Undated</span></td>
+          <td class="when">—</td>
+          <td class="src"><a href="https://youtu.be/wUNztkdwhXE?t=48">Jun 2023 · 0:48</a></td>
+        </tr>
+        <tr>
+          <td>A "debt jubilee": mortgages and car loans wiped, because foreclosure at scale is impossible once the dollar breaks. A new digital platform replaces it.</td>
+          <td><span class="chip open">Undated</span></td>
+          <td class="when">—</td>
+          <td class="src"><a href="https://youtu.be/wUNztkdwhXE?t=77">Jun 2023 · 1:17</a></td>
+        </tr>
+        <tr>
+          <td>Paper cash is abandoned during the plague because people fear touching it, which is what actually pushes the digital system through.</td>
+          <td><span class="chip open">Undated</span></td>
+          <td class="when">—</td>
+          <td class="src"><a href="https://youtu.be/ahtOXFdUWsc?t=569">Jul 2024 · 9:29</a></td>
+        </tr>
+        <tr>
+          <td>Financial crash, plague and worldwide economic turmoil arrive as one package, ending in a new digital dollar.</td>
+          <td><span class="chip open">Undated</span></td>
+          <td class="when">—</td>
+          <td class="src"><a href="https://youtu.be/ahtOXFdUWsc?t=724">Jul 2024 · 12:04</a></td>
+        </tr>
+        <tr>
+          <td>Eventually a single world currency tied to a required mark, in the tribulation period.</td>
+          <td><span class="chip open">Undated</span></td>
+          <td class="when">tribulation</td>
+          <td class="src"><a href="https://youtu.be/wP9qZYC_Cv4?t=1842">Nov 2025 · 30:42</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3>The crash, and what it is conditional on</h3>
+  <div class="tw">
+    <table>
+      <thead><tr><th>Claim</th><th>Type</th><th>When he says</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>If the tariff case is not upheld by the Supreme Court "in the next couple of days", a 1930-style crash follows. This is the sharpest conditional he has ever put on the crash.</td>
+          <td><span class="chip cond">Conditional</span> <span class="chip test">Testable</span></td>
+          <td class="when">days from 7 Nov 2025</td>
+          <td class="src"><a href="https://youtu.be/wP9qZYC_Cv4?t=847">Nov 2025 · 14:07</a></td>
+        </tr>
+        <tr>
+          <td>What is coming is "worse than the 1930s on steroids", because this generation cannot garden, hunt or fish.</td>
+          <td><span class="chip open">Undated</span></td>
+          <td class="when">—</td>
+          <td class="src"><a href="https://youtu.be/wP9qZYC_Cv4?t=882">Nov 2025 · 14:42</a></td>
+        </tr>
+        <tr>
+          <td>Riots, pillaging of the rich and middle class, tent cities, people unable to afford prescriptions, farmers shooting to defend property.</td>
+          <td><span class="chip open">Undated</span></td>
+          <td class="when">with the crash</td>
+          <td class="src"><a href="https://youtu.be/wP9qZYC_Cv4?t=930">Nov 2025 · 15:30</a></td>
+        </tr>
+        <tr>
+          <td>The trillion-dollar market losses of that week were "false labor pains" — deliberately managed, with the real labor still ahead.</td>
+          <td><span class="chip open">Undated</span></td>
+          <td class="when">—</td>
+          <td class="src"><a href="https://youtu.be/oTgkGV03Ct4?t=1120">Aug 2024 · 18:40</a></td>
+        </tr>
+        <tr>
+          <td>Social Security and food-stamp funding cut off for a period; protests over entitlements.</td>
+          <td><span class="chip open">Undated</span></td>
+          <td class="when">with the crash</td>
+          <td class="src"><a href="https://youtu.be/oTgkGV03Ct4?t=492">Aug 2024 · 8:12</a></td>
+        </tr>
+        <tr>
+          <td>People cannot afford tickets to stadium sport; discretionary spending gone.</td>
+          <td><span class="chip open">Undated</span></td>
+          <td class="when">—</td>
+          <td class="src"><a href="https://youtu.be/ahtOXFdUWsc?t=720">Jul 2024 · 12:00</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3>Named asset views</h3>
+  <p class="sub">The only places he attaches numbers or specific instruments. He frames every one of these as prayer, not advice.</p>
+  <div class="tw">
+    <table>
+      <thead><tr><th>Asset</th><th>His view</th><th>Type</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td>Silver</td><td>Hits $75/oz "quickly". He notes a media claim of $75–140 by spring on a supply shortfall and says his own vision matched the $75 figure.</td><td><span class="chip test">Testable</span></td><td class="src"><a href="https://youtu.be/wP9qZYC_Cv4?t=2173">Nov 2025 · 36:13</a></td></tr>
+        <tr><td>Gold</td><td>Over $10,000 eventually. No date attached.</td><td><span class="chip open">Undated</span></td><td class="src"><a href="https://youtu.be/wP9qZYC_Cv4?t=2201">Nov 2025 · 36:41</a></td></tr>
+        <tr><td>Metals, cryptos, foreign currencies</td><td>A financial outpouring concentrated in "certain metals, certain cryptos, certain foreign currencies" — never named individually.</td><td><span class="chip open">Undated</span></td><td class="src"><a href="https://youtu.be/wP9qZYC_Cv4?t=528">Nov 2025 · 8:48</a></td></tr>
+        <tr><td>Specific cryptocurrencies</td><td>Some rise in value through the dollar transition. Again unnamed.</td><td><span class="chip open">Undated</span></td><td class="src"><a href="https://youtu.be/wUNztkdwhXE?t=134">Jun 2023 · 2:14</a></td></tr>
+        <tr><td>Euro</td><td>In trouble because of the European war. Said while praying about 2023.</td><td><span class="chip dated">2023</span></td><td class="src"><a href="https://youtu.be/wUNztkdwhXE?t=145">Jun 2023 · 2:25</a></td></tr>
+        <tr><td>Physical over paper</td><td>Actual gold, actual silver, actual cash in hand, on the argument that a bank or grid failure makes the paper claim useless.</td><td><span class="chip open">Instruction</span></td><td class="src"><a href="https://youtu.be/ahtOXFdUWsc?t=1757">Jul 2024 · 29:17</a></td></tr>
+        <tr><td>Debt</td><td>He reports being told God wants the church to pay off houses and possessions before the break.</td><td><span class="chip open">Instruction</span></td><td class="src"><a href="https://youtu.be/wP9qZYC_Cv4?t=2271">Nov 2025 · 37:51</a></td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section>
+  <h2>Everything else, by domain</h2>
+
+  <h3>War and geopolitics</h3>
+  <div class="tw">
+    <table>
+      <thead><tr><th>Claim</th><th>Where</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td>A massive military draft; American soldiers moved toward Europe.</td><td>US → Europe</td><td class="src"><a href="https://youtu.be/2MOBOMGnCdE?t=43">Jul 2023 · 0:43</a></td></tr>
+        <tr><td>A Russian strike on the Ukraine border region using a weapon never used before — explicitly not nuclear, no radiation, vaporizing.</td><td>Ukraine</td><td class="src"><a href="https://youtu.be/2MOBOMGnCdE?t=157">Jul 2023 · 2:37</a></td></tr>
+        <tr><td>Turkey ties itself financially to Russia and helps fund the fight, escalating it.</td><td>Turkey</td><td class="src"><a href="https://youtu.be/2MOBOMGnCdE?t=246">Jul 2023 · 4:06</a></td></tr>
+        <tr><td>Nations move against Israel and the United States does nothing — his reading of where America sits in the Ezekiel 38–39 war.</td><td>Israel</td><td class="src"><a href="https://youtu.be/2MOBOMGnCdE?t=292">Jul 2023 · 4:52</a></td></tr>
+        <tr><td>Because of that betrayal, China attacks the US by surprise. "Watch Hawaii" — missiles on Honolulu, air-raid sirens, no escape from an island.</td><td>Hawaii</td><td class="src"><a href="https://youtu.be/2MOBOMGnCdE?t=341">Jul 2023 · 5:41</a></td></tr>
+        <tr><td>Kiev splits; a proxy government installed; the current leadership "dealt with publicly".</td><td>Ukraine</td><td class="src"><a href="https://youtu.be/FHxJpX0PLPI?t=2079">Jun 2026 · 34:39</a></td></tr>
+        <tr><td>Trade war with China over Taiwan causes prescription medication shortages in the US.</td><td>US / China</td><td class="src"><a href="https://youtu.be/oTgkGV03Ct4?t=360">Aug 2024 · 6:00</a></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3>Plague and health</h3>
+  <div class="tw">
+    <table>
+      <thead><tr><th>Claim</th><th>Scale</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td>An airborne pestilence, a type and shadow of the Black Death of the 1300s. Nothing treats it; anyone who contracts it dies.</td><td>global</td><td class="src"><a href="https://youtu.be/ahtOXFdUWsc?t=480">Jul 2024 · 8:00</a></td></tr>
+        <tr><td>350 million dead worldwide, 30 million in the United States.</td><td>350M / 30M</td><td class="src"><a href="https://youtu.be/ahtOXFdUWsc?t=543">Jul 2024 · 9:03</a></td></tr>
+        <tr><td>Cots in grocery-store car parks, hospitals full, military medical camps around cities, staff only able to comfort the dying.</td><td>US cities</td><td class="src"><a href="https://youtu.be/ahtOXFdUWsc?t=314">Jul 2024 · 5:14</a></td></tr>
+        <tr><td>A shutdown beyond 2020: factories closed, no work, no income, grocery stores essential-only.</td><td>worldwide</td><td class="src"><a href="https://youtu.be/ahtOXFdUWsc?t=431">Jul 2024 · 7:11</a></td></tr>
+        <tr><td>A dream of a second virus announced from the White House, starting in Europe rather than Asia, in spring, with flights and even state-to-state travel locked down.</td><td>Europe → US</td><td class="src"><a href="https://youtu.be/JY_DA12qbzs?t=43">Nov 2024 · 0:43</a></td></tr>
+        <tr><td>An attempt to spread a virus on a cruise ship leaving the Cape Canaveral area.</td><td>Florida</td><td class="src"><a href="https://youtu.be/FHxJpX0PLPI?t=2247">Jun 2026 · 37:27</a></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3>Natural disaster</h3>
+  <div class="tw">
+    <table>
+      <thead><tr><th>Claim</th><th>Where</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td>A major fault line gives: Seattle, Portland, down to San Francisco, up to British Columbia. Catastrophic, seen worldwide.</td><td>Pacific Northwest</td><td class="src"><a href="https://youtu.be/FHxJpX0PLPI?t=2109">Jun 2026 · 35:09</a></td></tr>
+        <tr><td>30,000+ dead in British Columbia.</td><td>Canada</td><td class="src"><a href="https://youtu.be/FHxJpX0PLPI?t=2196">Jun 2026 · 36:36</a></td></tr>
+        <tr><td>He says that quake triggers a reaction at Yellowstone.</td><td>Wyoming</td><td class="src"><a href="https://youtu.be/FHxJpX0PLPI?t=2184">Jun 2026 · 36:24</a></td></tr>
+        <tr><td>Ground fire running from British Columbia to Alaska, described as the earth breathing gas.</td><td>BC → Alaska</td><td class="src"><a href="https://youtu.be/FHxJpX0PLPI?t=2143">Jun 2026 · 35:43</a></td></tr>
+        <tr><td>Nationwide crop failure: fields bare from west to east, tractors idle, "there's no water" repeated three times. Drought across Texas and the Plains.</td><td>United States</td><td class="src"><a href="https://youtu.be/oTgkGV03Ct4?t=973">Aug 2024 · 16:13</a></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3>Technology, speech and control</h3>
+  <div class="tw">
+    <table>
+      <thead><tr><th>Claim</th><th>When he says</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td>A demonic entity behind AI merges with the internet, spreading like black tentacles over Europe, Australia, Canada.</td><td class="when">2028–2030</td><td class="src"><a href="https://youtu.be/FHxJpX0PLPI?t=903">Jun 2026 · 15:03</a></td></tr>
+        <tr><td>Socialistic control of the internet; live streaming becomes dead in Europe; "work while it is day".</td><td class="when">2028, 2030</td><td class="src"><a href="https://youtu.be/FHxJpX0PLPI?t=1010">Jun 2026 · 16:50</a></td></tr>
+        <tr><td>Internet highly regulated; television and satellite become the free outlets; large in-person camp meetings return because online speech is not free.</td><td class="when">2029–2030</td><td class="src"><a href="https://youtu.be/FHxJpX0PLPI?t=1130">Jun 2026 · 18:50</a></td></tr>
+        <tr><td>Socialism very strong in Europe by 2030; America split 50/50 on it.</td><td class="when">by 2030</td><td class="src"><a href="https://youtu.be/FHxJpX0PLPI?t=1287">Jun 2026 · 21:27</a></td></tr>
+        <tr><td>Digital IDs as the mechanism, with speech prosecutions already cited in England as the pattern.</td><td class="when">—</td><td class="src"><a href="https://youtu.be/wP9qZYC_Cv4?t=2088">Nov 2025 · 34:48</a></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3>US politics</h3>
+  <div class="tw">
+    <table>
+      <thead><tr><th>Claim</th><th>When he says</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td>A vision of Trump at a ballroom party, focused on the cup in his hand, followed by a massive heart attack. He refuses to interpret it as poisoning and says only: pray over his food and drink.</td><td class="when">—</td><td class="src"><a href="https://youtu.be/wP9qZYC_Cv4?t=1252">Nov 2025 · 20:52</a></td></tr>
+        <tr><td>Don Jr. shot in the chest at an event; the father incapacitated by grief for the rest of the term.</td><td class="when">—</td><td class="src"><a href="https://youtu.be/wP9qZYC_Cv4?t=1344">Nov 2025 · 22:24</a></td></tr>
+        <tr><td>A stalemate presidency: Senate trouble, midterms falling short, the term remembered only for "the ballroom".</td><td class="when">2028 midterms</td><td class="src"><a href="https://youtu.be/FHxJpX0PLPI?t=647">Jun 2026 · 10:47</a></td></tr>
+        <tr><td>A new Watergate-scale scandal named in the news.</td><td class="when">2028</td><td class="src"><a href="https://youtu.be/FHxJpX0PLPI?t=2776">Jun 2026 · 46:16</a></td></tr>
+        <tr><td>An attack on aviation security around the Thanksgiving travel rush, tied to understaffed bag screening.</td><td class="when">holiday season</td><td class="src"><a href="https://youtu.be/wP9qZYC_Cv4?t=1571">Nov 2025 · 26:11</a></td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section>
+  <h2>What he tells people to actually do</h2>
+  <p class="sub">His instruction set is narrower and more concrete than his forecasts, and he repeats it across years. It is also the part that costs money, so it is worth separating from the predictions.</p>
+  <ul class="plain">
+    <li><span>Cash in hand, outside the bank, on the argument that a closure or grid failure locks the account.</span><span class="k">Aug 2024 · 2:44</span></li>
+    <li><span>Two weeks or more of food, rotated and eaten rather than hoarded, plus several weeks of bottled water.</span><span class="k">Aug 2024 · 2:44</span></li>
+    <li><span>Water first: storage, filtration, something to water a garden with. "Three days without water and you're gone."</span><span class="k">Jul 2024 · 32:29</span></li>
+    <li><span>Tradable goods rather than only currency — his example is an ounce of silver for a neighbour's chicken.</span><span class="k">Aug 2024 · 4:00</span></li>
+    <li><span>A car that does 30–40 mpg. He is explicitly against EVs on charge time and cold-weather range.</span><span class="k">Aug 2024 · 4:25</span></li>
+    <li><span>A one to two week buffer of any medication you cannot live without, ahead of the China trade-war shortage.</span><span class="k">Aug 2024 · 6:00</span></li>
+    <li><span>A garden, however small. In the vision every house has one because agriculture at scale has stopped.</span><span class="k">Aug 2024 · 17:25</span></li>
+    <li><span>Get out of debt; pay the house off while the window is open.</span><span class="k">Nov 2025 · 37:51</span></li>
+    <li><span>Leave large cities if you are able. He describes migrations out of cities and towns into "places of refuge".</span><span class="k">Aug 2024 · 24:36</span></li>
+    <li><span>Physical security at home — he mentions long screws in door frames to slow forced entry.</span><span class="k">Aug 2024 · 7:45</span></li>
+  </ul>
+</section>
+
+<section>
+  <h2>Calibration</h2>
+  <p class="sub">If you are going to weight any of this in a financial decision, these are the facts about the source that matter most. All of them come from his own mouth, not from critics.</p>
+
+  <div class="note">
+    <p class="quote">"Sometimes it comes really quick and sometimes he's showing me years in advance and I don't know."</p>
+    <p>He describes his own timing as a depth-perception problem and gives a worked example: in 2018 he was shown chickens becoming expensive and eggs hard to get, bought twenty chickens on it, watched three years pass with nothing, apologised to his wife for missing it, and then saw egg prices spike in 2023. A five-year lag on a hit he had already written off as a miss. <a href="https://youtu.be/wUNztkdwhXE?t=175">Jun 2023 · 2:55</a></p>
+  </div>
+
+  <h3>Things worth holding in view</h3>
+  <ul class="plain">
+    <li><span><b>A dated judgment already moved once.</b> A 2022 dream gave "great judgment in 569 days", which he counted to 2 October. As the date approached he reported being told the timeframe was extended for more repentance. A date that slips by revelation cannot be falsified by the date passing.</span><span class="k">Jul 2023 · 14:02</span></li>
+    <li><span><b>The crash is conditional, twice over.</b> On a Supreme Court tariff ruling, and on whether the church prays hard enough. He says outright there is no plan B and that the outcome rests on intercession, which means a non-event is attributable to prayer rather than to the forecast.</span><span class="k">Nov 2025 · 14:07</span></li>
+    <li><span><b>He disclaims advice every time money comes up.</b> "I'm not a financial advisor… I can miss it just like anybody else can. I'm human." The named numbers, silver at $75 and gold over $10,000, arrive wrapped in that.</span><span class="k">Nov 2025 · 8:48</span></li>
+    <li><span><b>One of his headline market figures is downstream of media.</b> He cites an Alex Jones segment on a silver delivery shortfall predicting $75–140, then says his own vision matched $75. Treat that as one claim, not two independent ones.</span><span class="k">Nov 2025 · 36:13</span></li>
+    <li><span><b>The horizon is soft.</b> On the rapture he says plainly it may be twenty years out, that he has dates he prays about, and asks what if those dates come and go and we are still here.</span><span class="k">Nov 2025 · 34:04</span></li>
+    <li><span><b>Vision date versus publication date.</b> Several videos re-tell a July 2014 visitation. When you score a claim, score it from when it was first said, not from when the clip resurfaced.</span><span class="k">2014 / 2023</span></li>
+  </ul>
+</section>
+
+<section>
+  <h2>Using this for an economic decision</h2>
+  <p>Three of these claims are falsifiable on a normal investing horizon, and they are the ones to score first, because they tell you what the rest of the ledger is worth: silver reaching $75 an ounce, gold clearing $10,000, and the tariff-contingent crash he tied to a Supreme Court ruling in November 2025. Each has a number, an instrument and a window. Check them against the market yourself rather than against a later video, since a forecast re-told after the fact tends to acquire the outcome.</p>
+  <p>Note also where the forecasts and the instructions come apart. His instruction set — no debt, cash and food buffer, a fuel-efficient car, medication on hand, a garden — is roughly what a conventional adviser would call resilience, and it costs you little if none of the visions land. The asset calls are the opposite: they only pay if the specific vision is right and the timing is close, and his own worked example puts the timing error at five years.</p>
+</section>
+
+<section>
+  <h2>Sources</h2>
+  <ul class="plain">
+    <li><span><a href="https://youtu.be/wUNztkdwhXE">The dollar crash and banking crash, and a new digital platform</a></span><span class="k">30 Jun 2023 · 4:45</span></li>
+    <li><span><a href="https://youtu.be/RlS3QooVBxg">Jesus took me to the Tribulation — the 2014 visitation</a></span><span class="k">29 Jun 2023 · 1:11:37</span></li>
+    <li><span><a href="https://youtu.be/2MOBOMGnCdE">What the Lord showed me about World War III</a></span><span class="k">01 Jul 2023 · 15:15</span></li>
+    <li><span><a href="https://youtu.be/ahtOXFdUWsc">A plague coming and 350 million people would perish</a></span><span class="k">04 Jul 2024 · 41:49</span></li>
+    <li><span><a href="https://youtu.be/6T-CK9YC030">One last call — visitation from Jesus</a></span><span class="k">06 Aug 2024 · 24:06</span></li>
+    <li><span><a href="https://youtu.be/oTgkGV03Ct4">One hour vision, part two: the financial crash</a></span><span class="k">10 Aug 2024 · 36:46</span></li>
+    <li><span><a href="https://youtu.be/JY_DA12qbzs">A dream about another virus coming</a></span><span class="k">09 Nov 2024 · 12:02</span></li>
+    <li><span><a href="https://youtu.be/KWXipg48SMQ">What the Lord showed me in tribulation</a></span><span class="k">16 Apr 2025 · 56:02</span></li>
+    <li><span><a href="https://youtu.be/wP9qZYC_Cv4">The Lord showed me 2027 and 2028</a></span><span class="k">07 Nov 2025 · 2:42:27</span></li>
+    <li><span><a href="https://youtu.be/FHxJpX0PLPI">What the Lord showed me clear into 2030</a></span><span class="k">27 Jun 2026 · 2:35:36</span></li>
+  </ul>
+</section>
+
+<footer>
+  Compiled from auto-generated captions with yt-dlp, cleaned and passage-indexed locally, then read and sorted claim by claim. Timestamps link to the moment each claim is spoken, so every line here can be checked against the source. Claims are summarised in neutral wording; where a phrase is his, it is quoted.
+</footer>
+
+</div>

@@ -1,0 +1,8 @@
+{
+  "_note": "Not a merge. Both threads describe an attack on Israel exceeding October 7th, but one adds night timing and chemical weapons while the other adds the motive and the plotting groups. Folding them would invent a single telling he never gave, so the link is recorded as ours, not his.",
+  "relationships": [
+    {"from_claim": "israel-night-attack", "to_claim": "attack-worse-than-october-7",
+     "rel_type": "same_event_as", "asserted_by": "system",
+     "note": "our inference from label overlap: both are an attack on Israel worse than October 7th. He never states they are the same telling, and the details differ (night and chemical weapons on one side, regrouped groups and motive on the other), so the threads stay separate."}
+  ]
+}

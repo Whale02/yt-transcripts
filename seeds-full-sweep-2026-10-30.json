@@ -1,0 +1,133 @@
+[
+ {"claim_id":"trump-wins-2024","label":"Trump wins the 2024 presidential election","domain":"politics",
+  "description":"Direct call stated as seen: Trump will be in the White House. Made Apr 2024 and repeated Nov 1 2024.",
+  "aliases":["president Trump wins","he's going to be in the white house"]},
+
+ {"claim_id":"trump-assassination-attempt-2024","label":"Assassination attempt on Trump at rally","domain":"politics",
+  "description":"Saw Trump on his knee at a rally. On Jul 13 2024 he said the Lord warned him the night before. The specific ear/bullet detail was given on Elijah Streams (not in this corpus) reportedly in late May or early June 2024.",
+  "aliases":["bullet by his ear","fell to his knees","busted his eardrum"]},
+
+ {"claim_id":"canada-conservative-majority-2025","label":"Canadian Conservatives win majority in 2025 election","domain":"politics",
+  "description":"Jan 7 2025 vision: conservatives would get the majority, glorious outpouring from sea to sea. Repeated as landslide through Apr 2025.",
+  "aliases":["conservatives would get the majority","too big to rig Canada"]},
+
+ {"claim_id":"iran-ayatollah-removed","label":"Ayatollah Khamenei removed from power","domain":"politics",
+  "description":"Repeatedly predicted the Ayatollah would be removed. Also predicted Iran would flip back to a hardliner after a window.",
+  "aliases":["Ayatollah removed","Iran flip back"]},
+
+ {"claim_id":"lindell-wins-minnesota","label":"Mike Lindell wins Minnesota governor race","domain":"politics",
+  "description":"Repeatedly said Lindell would win by a landslide. Made from late 2025 through Aug 2026.",
+  "aliases":["Mike Lindell win","pillow man wins Minnesota"]},
+
+ {"claim_id":"omar-removed","label":"Ilhan Omar removed from office","domain":"politics",
+  "description":"Predicted Omar would be replaced, saw bees swarming her head. Made multiple times 2025-2026.",
+  "aliases":["Omar replaced","bees swarming her head"]},
+
+ {"claim_id":"byron-florida-governor","label":"Byron Donalds wins Florida governor","domain":"politics",
+  "description":"Saw Byron winning Florida. Made multiple times 2026. Primary verified Aug 18 2026.",
+  "aliases":["Byron winning","anointing on him to lead Florida"]},
+
+ {"claim_id":"brazil-election-fraud-2026","label":"Brazil October 2026 election is rigged","domain":"politics",
+  "description":"Saw rigging and corruption before the 25 Oct runoff.",
+  "aliases":["try to rig the election in Brazil","gunny sacks of ballots"]},
+
+ {"claim_id":"brazil-change-conservative-2026","label":"Change comes to Brazil, conservative wins","domain":"politics",
+  "description":"Declared in prayer before the runoff.",
+  "aliases":["change is coming to Brazil"]},
+
+ {"claim_id":"colombia-conservative-landslide-2026","label":"Conservative wins Colombia by landslide","domain":"politics",
+  "description":"Prayer in June 2026.",
+  "aliases":["win by a landslide in Colombia"]},
+
+ {"claim_id":"israel-election-autumn","label":"Israel election black swan and Netanyahu taken out","domain":"politics",
+  "description":"Oct 4 2026: black swan event concerning Israel election, Mossad, the 28th. Dec 2025: Netanyahu taken out.",
+  "aliases":["black swan Israel election","Mossad","taken out"]},
+
+ {"claim_id":"great-depression-2025","label":"Great Depression-level crash winter 2024 into 2025","domain":"economics",
+  "description":"Dec 14 2023 vision: great economic crash in winter 2024 going into 2025, worse than 1930s. Repeated many times through 2025.",
+  "aliases":["Great Depression","1930s depression","economic crash winter"]},
+
+ {"claim_id":"oil-200-barrel","label":"Oil reaches $200 per barrel","domain":"economics",
+  "description":"Jul 2023: warned about $200 a barrel of oil. Repeated Sep 2023.",
+  "aliases":["$200 barrel of oil"]},
+
+ {"claim_id":"xrp-price-surge","label":"XRP reaches $10-$150","domain":"economics",
+  "description":"Mar 2025: saw XRP at $10, $25, $50, $150.",
+  "aliases":["XRP $10","decamillionaires"]},
+
+ {"claim_id":"trade-wars-china","label":"Major trade wars with China escalate out of control","domain":"economics",
+  "description":"Saw in 2023, repeated 2025: trade wars with China and America would escalate.",
+  "aliases":["trade wars China","tariffs"]},
+
+ {"claim_id":"plague-worse-than-covid","label":"Plague worse than COVID kills hundreds of millions","domain":"health",
+  "description":"Nov 2024: saw 350+ million perish, 30+ million in US. Summer 2026 timing given Dec 2024.",
+  "aliases":["plague worse than COVID","350 million","on steroids"]},
+
+ {"claim_id":"italy-volcano-eruption","label":"Devastating volcano eruption in Italy","domain":"disasters",
+  "description":"Jul 2023: volcano in the water near Italy, hundreds of thousands of deaths, air traffic shut down.",
+  "aliases":["volcano Italy","Campi Flegrei"]},
+
+ {"claim_id":"oct7-israel-surprise","label":"Surprise attack on Israel from the north","domain":"politics",
+  "description":"Before Oct 7 2023: men with red hats marching from Syria against Israel, surprise attack. Geography was Syria not Gaza.",
+  "aliases":["red hats marching","surprise attack Israel"]},
+
+ {"claim_id":"paris-olympics-attack","label":"Attack during 2024 Paris Olympics","domain":"politics",
+  "description":"Apr-Jun 2024: saw fires in Paris, terrorist issues, attack during the Olympics.",
+  "aliases":["Olympics attack","fires Paris","terrorist"]},
+
+ {"claim_id":"michelle-obama-runs","label":"Michelle Obama tries to take the White House","domain":"politics",
+  "description":"Jan 2024: secret plan for Michelle Obama to rise up and take the White House.",
+  "aliases":["Michelle Obama","secret plan"]},
+
+ {"claim_id":"oklahoma-flips-blue","label":"Oklahoma could flip blue, state divided","domain":"politics",
+  "description":"Multiple times: Oklahoma has opportunity to flip blue, conservative Democrat, state divided.",
+  "aliases":["Oklahoma flip blue","state divided","conservative Democrat"]},
+
+ {"claim_id":"minnesota-flips-red","label":"Minnesota flips red in 2026","domain":"politics",
+  "description":"Repeatedly said Minnesota would flip red, great victory.",
+  "aliases":["Minnesota flip red","great victory Minnesota"]},
+
+ {"claim_id":"california-red-wave","label":"California turns red, Republican governor","domain":"politics",
+  "description":"Apr 2026: red wave across California, flipping governor to Republican.",
+  "aliases":["red across California","flipping governor Republican"]},
+
+ {"claim_id":"mexico-claudia-removed","label":"Claudia Sheinbaum removed, conservative replaces her","domain":"politics",
+  "description":"Repeatedly 2025-2026: Claudia days are numbered, Antonio Banderas conservative man replaces her.",
+  "aliases":["Claudia removed","Antonio Banderas","conservative Mexico"]},
+
+ {"claim_id":"cuba-regime-change","label":"Cuba Castro regime removed, liberation","domain":"politics",
+  "description":"Repeatedly: Castros removed, liberation of Cuba, revival.",
+  "aliases":["Castros removed","liberation Cuba"]},
+
+ {"claim_id":"france-le-pen-wins","label":"Le Pen fights to lead France, voter fraud in French election","domain":"politics",
+  "description":"Aug 2026: Le Pen fighting, voter fraud worse than America, Macron not done yet.",
+  "aliases":["Le Pen","voter fraud France"]},
+
+ {"claim_id":"kim-jong-un-removed","label":"Kim Jong-un removed, dealt with like Pharaoh","domain":"politics",
+  "description":"Repeatedly: Kim removed, sister removed, revival in North Korea after.",
+  "aliases":["Kim Jong-un removed","Pillsbury dough boy","dealt with like Pharaoh"]},
+
+ {"claim_id":"south-korea-communism","label":"Communistic spirit tries to take South Korea","domain":"politics",
+  "description":"Repeatedly: communistic spirit trying to come over South Korea, if they dont stand they lose their nation.",
+  "aliases":["communistic spirit South Korea"]},
+
+ {"claim_id":"senate-goes-blue-2026","label":"Democrats take the Senate in 2026 midterms","domain":"politics",
+  "description":"Repeatedly from Nov 2025: we lose the Senate, Dems take it by 2 initially, later by 4-5.",
+  "aliases":["lose the Senate","Senate goes blue"]},
+
+ {"claim_id":"house-stays-red-2026","label":"Republicans keep the House in 2026 midterms","domain":"politics",
+  "description":"Repeatedly: we win the House.",
+  "aliases":["win the House"]},
+
+ {"claim_id":"russia-strikes-poland","label":"Russia strikes Poland/Warsaw","domain":"politics",
+  "description":"Multiple times 2024-2026: Russia will strike Poland, strike Warsaw.",
+  "aliases":["strike Poland","strike Warsaw"]},
+
+ {"claim_id":"turkey-attacks-israel","label":"Turkey attacks Israel with Syria","domain":"politics",
+  "description":"Aug 2026: Turkey will attack Israel, join with Russia.",
+  "aliases":["Turkey attack Israel","Turkey join Russia"]},
+
+ {"claim_id":"digital-dollar","label":"Digital dollar implemented in US","domain":"economics",
+  "description":"Jan 2024: banks seize money, digital dollar coming soon. Sep 2023: beginning of digital dollar in 2023.",
+  "aliases":["digital dollar","banks seize money"]}
+]

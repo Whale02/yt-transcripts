@@ -1,0 +1,37 @@
+[
+ {
+  "claim_id": "trump-tames-the-dragon",
+  "label": "Trump cracks a whip and tames the dragon over the Panama Canal",
+  "domain": "china",
+  "description": "A red dragon flapping its wings over the Panama Canal amid great corruption there, tamed and made to retreat by the American president cracking a whip. Two dragons are seen, a larger for China and a smaller for North Korea, named as a representation of communism, with an extension reaching across the sea toward Washington through the Democratic party. The communistic spirit over America is said to be broken for a season.",
+  "aliases": ["as Donald Trump cracks his whip he will tame the dragon", "a red dragon flapping its wings on the Panama Canal", "the communistic agenda broken"]
+ },
+ {
+  "claim_id": "golden-gate-bridge-attack",
+  "label": "The Golden Gate Bridge taken out by men posing as utility workers",
+  "domain": "terrorism",
+  "description": "Men in hard hats made to look like construction or utility workers checking on the bridge, who take out the whole of the Golden Gate Bridge in San Francisco, seen arriving by plane from the direction of China.",
+  "aliases": ["the major golden great Golden Gate Bridge in San Francisco", "they took the whole thing out", "made to look like they were construction workers"]
+ },
+ {
+  "claim_id": "north-korean-troops-to-russia",
+  "label": "Thousands of North Korean soldiers moved to Russia in boxcars",
+  "domain": "north korea",
+  "description": "Thousands of North Korean men seen in train cars being taken from North Korea to Russia for the war, rejoicing to be leaving the regime, and then perishing on the battlefield because they are not trained enough. Given 28 and 29 December 2024.",
+  "aliases": ["thousands of North Korean men in train cars", "box Cars full of soldiers from North Korea", "perishing on the battlefield"]
+ },
+ {
+  "claim_id": "ukraine-files-burned",
+  "label": "Files and computers burned in Ukraine before the handover",
+  "domain": "corruption",
+  "description": "Documents and files burned and computers destroyed in Ukraine before the incoming administration arrives, to cover up what was done behind closed doors. Repeated across December 2024.",
+  "aliases": ["I saw them burning files in Ukraine", "I saw computers being destroyed", "burning everything that they could"]
+ },
+ {
+  "claim_id": "robot-soldiers-replace-troops",
+  "label": "Robots fight the battles instead of soldiers",
+  "domain": "war",
+  "description": "Drone use becoming mainstream and then robots fighting battles like the Terminator, with soldiers no longer put on the field. Given 18 December 2024.",
+  "aliases": ["they'll have robots out fighting battles", "like the Terminator", "they won't even put soldiers on the field"]
+ }
+]

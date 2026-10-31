@@ -1,0 +1,5 @@
+{"reviews": [
+ {"video_id": "__45FoTY6rQ", "start_s": 3523, "claim_id": "hack-911-system", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the 911 hack word, recalled as coming to pass and framed as practice for a larger event"},
+ {"video_id": "taEANymN-Fo", "start_s": 2195, "claim_id": "bible-burning-stadium", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "Bibles burned five storeys high in the football stadium, given on location"},
+ {"video_id": "ruV85YYcW1o", "start_s": 87, "claim_id": "graham-death-after-russia-trip", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.85, "note": "the heart attack the night after the return, with the conspiracy reading raised and disclaimed"}
+]}

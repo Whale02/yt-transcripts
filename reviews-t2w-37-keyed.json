@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "cb62ad74e5258ad8",
+"claim_id": "north-korean-troops-to-russia",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Claimed fulfilment. North Korean deployments to Russia have been publicly reported since late 2024, so the base rate for this being news by Aug 2026 is high."
+},
+{
+"mention_id": "fd5d2955f2883c29",
+"claim_id": "cuba-moles-lying-to-rubio",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Names Rubio as the deceived party."
+},
+{
+"mention_id": "ec46deb6cfe128b3",
+"claim_id": "cuba-cold-war",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.6,
+"note": "Reads a Camp David post as coded confirmation. Interpretation of a public post, not a forward claim."
+},
+{
+"mention_id": "f3fea8fb20f86aa6",
+"claim_id": "lead-encased-bunker-sniffers",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Identifies the lead-encased object as drones and a dirty Russian item from Castro's era, and says it is alive. Sits alongside cold-war-briefcase-in-cuban-bunker, which called the same object a briefcase; the two descriptions do not agree."
+},
+{
+"mention_id": "a8513c32cb71f091",
+"claim_id": "mount-fuji-explodes",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.9,
+"note": "Fuji named with mass casualties, plus Japan split down the middle."
+},
+{
+"mention_id": "3ee978164274bdd7",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "News commentary on a Russian strike on Kyiv. No target was named in advance; nightly strikes on Kyiv are routine by this date."
+},
+{
+"mention_id": "29756f89c5fc5749",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.7,
+"note": "Banter about Russia hitting delivery infrastructure. No dated or falsifiable content."
+},
+{
+"mention_id": "582e16c6435ac53d",
+"claim_id": "black-sea-strait-closed",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Turkey takes the strait and comes out as a vampire, given off Black Sea port strike reporting."
+},
+{
+"mention_id": "3403115dbbbf3686",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "A clip of a woman objecting to a mosque in Japan, played for laughs. Not a claim he makes."
+},
+{
+"mention_id": "4b2f28c77b78cf32",
+"claim_id": "reprobate-counselors",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.7,
+"note": "Prayer form. Asks that the president be surrounded by spirit-led rather than reprobate people."
+},
+{
+"mention_id": "78aa257639d594ab",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.6,
+"note": "A declaration calling for an uncovering. No named plot, place or date, so nothing here can fail."
+},
+{
+"mention_id": "e5f986f20d1a5771",
+"claim_id": "israel-new-david-warrior",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Given in prayer form but stated as something he has seen."
+},
+{
+"mention_id": "d196cda58718581d",
+"claim_id": "israel-new-david-warrior",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Repeats it twice in the same prayer, with Netanyahu left in place until his time is done. The escape hatch is explicit: no date on when that time ends."
+},
+{
+"mention_id": "47101342dde4e8c5",
+"claim_id": "acorn-planted-at-ground-zero",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He asks what it means rather than interpreting, so nothing is committed."
+},
+{
+"mention_id": "d5ac4fb8d6f74f0d",
+"claim_id": "newyork-41st-floor-fire",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He reassigns 41 from a storey to the forty first president in the same breath, which loosens the only specific detail in it."
+},
+{
+"mention_id": "b611c76eae6bedab",
+"claim_id": "newyork-tsunami-floods-inland",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Distinct from northeast-storm-tidal, which is a storm, and from east-coast-storm-newyork-to-miami; this one is named as a tsunami wave."
+},
+{
+"mention_id": "3ababbe40385c782",
+"claim_id": "another-911-event-planned",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.6,
+"note": "Recalls the September 2001 empty sky as the feeling America is about to have again. Implied rather than stated."
+},
+{
+"mention_id": "1edc01407da82ac6",
+"claim_id": "cities-open-door-burning",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "Fires and uncertainty alongside an ordinary sports season. Loose enough that an average American year would satisfy it."
+},
+{
+"mention_id": "ad41b996420e564f",
+"claim_id": "packed-out-when-it-comes",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Churches without room, people in the foyer, tied to a shaking across four continents."
+},
+{
+"mention_id": "da726fcfbd0bf7d4",
+"claim_id": "mexico-move-of-god",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "New claim. Watch what God is about to do in Mexico, distinct from mexico-shaking."
+},
+{
+"mention_id": "691f6b528737b0f1",
+"claim_id": "islam-growing-in-america",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "Clips of candidates calling for a free Palestine. Commentary on footage, not his own word."
+},
+{
+"mention_id": "61aa4463dc7c3b55",
+"claim_id": "battleground-senate-2026",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.7,
+"note": "Adds Texas to the battleground list and treats a socialist leading there as the shaking he was shown. Cuts against ted-cruz-senate, which had the Texas seat going red."
+},
+{
+"mention_id": "2638ece9a113ac78",
+"claim_id": "lindell-wins-minnesota-landslide",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Lindell resigns as chief executive to run full time. A step toward the claim, not the claim landing."
+},
+{
+"mention_id": "93d8939bb03be1da",
+"claim_id": "kim-jong-un-role",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.7,
+"note": "Kim comes out of the bunker as a social pariah. Kim has appeared publicly abroad repeatedly since 2024, so the bar is low."
+},
+{
+"mention_id": "da31ec11314f9199",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.7,
+"note": "Headlines about Russian strikes on Kyiv logistics sites, read as confirmation without an advance specific."
+},
+{
+"mention_id": "22b72f1dfeacfc7f",
+"claim_id": "turkey-vampire-dracula-cape",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.9,
+"note": "Vampire, war drums and the strait closing, restated off a Ukrainian strike on a Turkish vessel."
+},
+{
+"mention_id": "8ad5b2e3eb7214e5",
+"claim_id": "shakings-mississippi-and-named-states",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Oklahoma alone records thousands of small quakes a year, so a felt shaking there is close to certain regardless."
+},
+{
+"mention_id": "48f6ff800a3a02e0",
+"claim_id": "zelensky-fire-around-him",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Same fire image he has used of Macron, given without an interpretation."
+},
+{
+"mention_id": "1357f514d7a9246d",
+"claim_id": "banks-embarrassing-days",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Same four banks plus BlackRock off to the side, matching the Clarity Act table a day earlier."
+},
+{
+"mention_id": "a15d381f2833a826",
+"claim_id": "red-tulip-japan-digital",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Third tulip image in the corpus, after tulip-youtube-money-transfer and alongside sushiswap-bridges-asia from the same week."
+},
+{
+"mention_id": "553878ba92edfe97",
+"claim_id": "red-tulip-japan-digital",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "The codes and Chrome repeated. No referent given, so nothing here can be checked."
+},
+{
+"mention_id": "9ed455dfa1d59196",
+"claim_id": "crypto-tech-companies-merging",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "New claim. Crypto and tech consolidation is already the sector's default direction, which makes this hard to score as a hit."
+},
+{
+"mention_id": "751c856f2434f889",
+"claim_id": "fall-harvest-out-of-season",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "Moves the out-of-season autumn wheat harvest onto Israel."
+},
+{
+"mention_id": "3675d40d459c42d8",
+"claim_id": "face-scanning-required-for-entry",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Walmart and Target named, with refusal of entry. Distinct from screening-everywhere, which is airport-style pat downs."
+},
+{
+"mention_id": "e9fbb917269c89f2",
+"claim_id": "face-scanning-required-for-entry",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "Extends it to megachurches scanning congregations during worship, tied to address and social security number."
+},
+{
+"mention_id": "aad2350a3cb935f6",
+"claim_id": "ebola-into-middle-east",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He corrects himself mid-sentence from Europe to Middle East. Directly against ebola-contained-not-egypt given three days earlier, which rules the Middle East out."
+},
+{
+"mention_id": "a15c7150c0c4e3bc",
+"claim_id": "san-francisco-perversion-repents",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He states the meaning himself rather than leaving the image open."
+},
+{
+"mention_id": "9513cf8ff2a971da",
+"claim_id": "california-revival",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.6,
+"note": "A brown bear seen over California, matched afterwards to the state flag by his son. The match was found after the fact, not called in advance."
+},
+{
+"mention_id": "eeededb004ee1190",
+"claim_id": "not-enough-urgency",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "Prayer for prophetic accuracy rather than flakiness. Notable as self-directed, but nothing falsifiable."
+},
+{
+"mention_id": "68d9c88492127db8",
+"claim_id": "waking-up-my-bride-boom",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "Midnight hour urgency called over several continents. Prayer, not a dated claim."
+},
+{
+"mention_id": "d724bf0c93a9144b",
+"claim_id": "ebola-contained-not-egypt",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Declares the outbreak will go away faster than it came. Prayer-conditional, and outbreaks of this kind usually do burn out, so containment on its own would not be a strong match."
+},
+{
+"mention_id": "2a9919c42f88d0b6",
+"claim_id": "sharia-law-uptick-america",
+"same_event": "unsure",
+"delta_type": "location_update",
+"confidence": 0.6,
+"note": "Moves the Sharia warning onto Europe and Italy. Conditional on migration continuing."
+},
+{
+"mention_id": "a99b8190cb01a3ff",
+"claim_id": "byron-promoted-beyond-florida",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Extends byron-florida-governor, but with maybe not this time, maybe next time attached, which removes any deadline."
+},
+{
+"mention_id": "604078523239b210",
+"claim_id": "reprieve-window-2026",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.75,
+"note": "The reprieve restated as a question about what is done with the time, alongside Oklahoma and Texas as battlegrounds."
+},
+{
+"mention_id": "b67d49d1e7158142",
+"claim_id": "harris-2028-rebrand",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Rebrand with no traction. He is calling a widely held read of her position rather than something contrarian."
+},
+{
+"mention_id": "ea7eaaabe0685c66",
+"claim_id": "syria-escalation-iran-turkey",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.4,
+"note": "Reads a headline about an Iran to Turkey call and says he wonders what comes of it. Explicitly not a claim."
+},
+{
+"mention_id": "b01118088b32746d",
+"claim_id": "france-long-range-missiles-to-ukraine",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Long range missile transfers to Ukraine have been debated publicly for two years, so this is close to the standing news position."
+},
+{
+"mention_id": "02f26a517fbcad5f",
+"claim_id": "drones-given-by-iran",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.6,
+"note": "Iranian drones over Kuwait shot down. Commentary on live footage."
+},
+{
+"mention_id": "757e424f5c712a75",
+"claim_id": "emp-used-on-iran",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Specific weapon type and a ground invasion debate, which makes it unusually checkable for this corpus."
+},
+{
+"mention_id": "f9e23c7f68e3c4e8",
+"claim_id": "israel-new-david-warrior",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.7,
+"note": "The new Israeli leader restated, with something wrong about the children that he says he will not touch."
+},
+{
+"mention_id": "2768891bda0d6026",
+"claim_id": "sharia-law-uptick-america",
+"same_event": "yes",
+"delta_type": "contradiction",
+"confidence": 0.7,
+"note": "Declares there will be no Sharia law in America, Canada, Australia or Europe, against his own standing claim of an uptick coming to America. Both branches are covered: if it comes he called it, if it does not the prayer stopped it."
+},
+{
+"mention_id": "6fc8271627b571cc",
+"claim_id": "grid-cyberattack",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.7,
+"note": "Prayer form, asking that no grid or water cyber attack come near. Turns the standing claim into something that cannot fail either way."
+},
+{
+"mention_id": "c4001b6713ca69a4",
+"claim_id": "azusa-strong-points-named-churches",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Same named places, Branson, Collinsville, Fort Worth, California and Tennessee, now called permanent hot spots of the glory."
+},
+{
+"mention_id": "758ac52467ca8f11",
+"claim_id": "ebola-contained-not-egypt",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and the earlier of the two tellings. Rules out Egypt and the Middle East explicitly, three days before he says Ebola takes hold of the Middle East."
+},
+{
+"mention_id": "0294b3b28772a478",
+"claim_id": "california-revival",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.6,
+"note": "A translation experience from Africa to the California coast. Testimony of the vision rather than added forward content."
+}
+]
+}

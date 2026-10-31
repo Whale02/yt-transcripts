@@ -1,0 +1,30 @@
+{"relationships": [
+  {"from_claim": "church-held-accountable-for-window", "to_claim": "presidency-comes-to-nothing",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "ruV85YYcW1o", "evidence_start_s": 3423,
+   "note": "He puts them together himself: he prayed more hours over the term than anything, it came to nothing, and the answer given is that the church is held accountable for the window."},
+
+  {"from_claim": "presidency-comes-to-nothing", "to_claim": "revival-not-trump-saves-america",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "ruV85YYcW1o", "evidence_start_s": 3187,
+   "note": "The nothing burger passage runs straight into Trump will not save America, which he says he has repeated since 2024. The second absorbs the first."},
+
+  {"from_claim": "presidency-comes-to-nothing", "to_claim": "stalemate-government-2026",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "ruV85YYcW1o", "evidence_start_s": 3423,
+   "note": "He gives the mechanism: once the Senate or House goes, nothing more can pass and the term is over as a legislative matter."},
+
+  {"from_claim": "save-america-act-support-structure", "to_claim": "presidency-comes-to-nothing",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "ruV85YYcW1o", "evidence_start_s": 2949,
+   "note": "The void around the act and the disappointed figure on the ballroom steps are given in one continuous passage, the second following directly from the first."},
+
+  {"from_claim": "drone-attack-derail-elections", "to_claim": "drones-given-by-iran",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "ruV85YYcW1o", "evidence_start_s": 1422,
+   "note": "He names the Iranian origin and the planned attack in the same breath, making the supply claim the basis of the attack claim."},
+
+  {"from_claim": "asteroid-2026-hz4", "to_claim": "wormwood-asteroid-2029",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Two impact claims with different years on file. He does not say whether they are the same object, and he withholds the name that would settle it."}
+]}

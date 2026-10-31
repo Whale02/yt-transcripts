@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "814c7168a1d3dff3",
+"claim_id": "panorama-of-history-shown",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the Great Wall and the emperors"
+},
+{
+"mention_id": "e0f10a56a719618b",
+"claim_id": "panorama-of-history-shown",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "Columbus and the world wars, ending at the present"
+},
+{
+"mention_id": "7653b0bf441c4a41",
+"claim_id": "adams-lease-expires",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Satan knows the date and he does not, which puts the claim beyond checking"
+},
+{
+"mention_id": "7885d5ea5bb3de80",
+"claim_id": "devil-petitions-adams-lease",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the petition retold six months on, with MBS named as who he believes the Antichrist is"
+},
+{
+"mention_id": "233d3c11319ba6d4",
+"claim_id": "easter-service-plots",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "biological and chemical named, with Iran as the source"
+},
+{
+"mention_id": "154e15fb66571069",
+"claim_id": "global-revival-continents",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "Australia, the Philippines and Russia named"
+},
+{
+"mention_id": "60ac30fcdbee7db6",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a testimony about the past"
+},
+{
+"mention_id": "5b0df8ca32ec2506",
+"claim_id": "canada-election-april-2025",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "too big to rig, extended to Australia and Zimbabwe"
+},
+{
+"mention_id": "33375bf1369d9163",
+"claim_id": "medication-shortage",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "medicine given as the point of the trade war"
+},
+{
+"mention_id": "c86584cfa26a8d9e",
+"claim_id": "kim-jong-un-removed",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "confirmed under questioning and reframed as an opportunity for the gospel"
+},
+{
+"mention_id": "f82bf149d80d8a6d",
+"claim_id": "great-humbling-of-america",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the pocketbook named as the mechanism"
+},
+{
+"mention_id": "598c3c3bdd487731",
+"claim_id": "trade-wars-china-called-2023",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "prayed against, with anesthesia named"
+},
+{
+"mention_id": "816019caab356cbd",
+"claim_id": "korea-border-explosion-war",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the bomb on the border recalled; he says plainly he does not know when"
+},
+{
+"mention_id": "24b76698b29cd69f",
+"claim_id": "canada-election-april-2025",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "a landslide called for"
+},
+{
+"mention_id": "f4bc2f94374ae976",
+"claim_id": "digital-dollar-transition",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "the flagpole and the living digital code"
+},
+{
+"mention_id": "54fa2884f494d949",
+"claim_id": "bank-failure-seizure",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Chase and Wells Fargo named, and the mechanism called a bail in"
+},
+{
+"mention_id": "c61aab25d28a11fc",
+"claim_id": "grocery-shortage",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the mile long queue, with the euro given as the first domino"
+},
+{
+"mention_id": "a42d539617c56cce",
+"claim_id": "trade-wars-china-called-2023",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "the ships stopping, tied to Taiwan"
+},
+{
+"mention_id": "bc1e174fd8dff238",
+"claim_id": "martial-law-cities",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "Hummers, barbed wire and checkpoints, with New York and Chicago named"
+},
+{
+"mention_id": "2a3fac6fd9b4f3c2",
+"claim_id": "lion-on-the-stock-exchange",
+"same_event": "unsure",
+"delta_type": "first_mention",
+"confidence": 0.5,
+"note": "the tumbleweeds on the exchange, seven months before the lion telling; whether they are one sighting he does not say"
+},
+{
+"mention_id": "6d0f21f3a6f84c18",
+"claim_id": "depression-1930s-debt-crisis",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "the drain, and defaults on cars and houses named"
+},
+{
+"mention_id": "d2fdf5581b9775a0",
+"claim_id": "debt-jubilee",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the seizure and the digital dollar given as what produces the jubilee"
+},
+{
+"mention_id": "9564ae207e7c98ce",
+"claim_id": "hundreds-of-false-prophets",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Jeremiah 23 cited against those saying America has fifty good years; his own short horizon is the mirror of it"
+},
+{
+"mention_id": "b24599d6e7160555",
+"claim_id": "red-dragon-flames-south-korea",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "he removes the timing himself"
+},
+{
+"mention_id": "263ef8ff0bdc3ce2",
+"claim_id": "kim-jong-un-role",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "promises made in secret meetings that make them confident"
+},
+{
+"mention_id": "b434beb466037a4c",
+"claim_id": "axis-covenant-nk-china-russia-iran",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Venezuela, Cuba and Afghanistan drawn in, Afghanistan for minerals"
+},
+{
+"mention_id": "7cc226d70223454a",
+"claim_id": "china-economy-shakes-then-taiwan",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "South Korea paired with Taiwan as what China wants"
+},
+{
+"mention_id": "7345b132b4192ba6",
+"claim_id": "cuba-russian-base",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "compared to Greenland as a strategic risk, with the red horse over it"
+},
+{
+"mention_id": "01573c1a2e05de78",
+"claim_id": "japan-major-volcano",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the earliest telling, April 2025, with the country hedged"
+},
+{
+"mention_id": "ee72f0ec4a58ce8a",
+"claim_id": "scorpion-tail-commonwealth-persecution",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the line traced Canada, England, Australia, Ireland"
+},
+{
+"mention_id": "d79ce361d03a5abd",
+"claim_id": "king-charles-scorpion-strike",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the scorpion tail attached to the monarch"
+},
+{
+"mention_id": "6a3163287c88bf64",
+"claim_id": "war-on-american-soil-patriotism",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "coast to coast war with Hawaii wiped out; he places it in the tribulation himself, which is a different frame from the earlier tellings"
+},
+{
+"mention_id": "11411925336c6996",
+"claim_id": "horsemen-riding-abreast",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "all three riding together"
+},
+{
+"mention_id": "fe6029c85c652be2",
+"claim_id": "japan-major-volcano",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the Pompeii comparison; Yosemite is heard rather than seen and he says so"
+},
+{
+"mention_id": "bfc7a569d4bc7f84",
+"claim_id": "italy-volcano",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.9,
+"note": "he rules out Iceland, Alaska and Hawaii as not what he meant, which narrows his own claim rather than widening it"
+},
+{
+"mention_id": "e6134cf6e4ee2c6e",
+"claim_id": "hidden-cells-america",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Iran named rather than China, with three generals said to be still here"
+},
+{
+"mention_id": "46ef4bd5ed1271d2",
+"claim_id": "hundreds-of-false-prophets",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "the watchman framing set against prophets who said there were fifty years"
+},
+{
+"mention_id": "9b304c23f1713d2b",
+"claim_id": "pretrib-rapture",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the Antichrist held back until the church is gone, which makes the identification unfalsifiable from this side"
+},
+{
+"mention_id": "087e9d6dc7baa64e",
+"claim_id": "oval-office-prayer-glory",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "first time ever, and extended to the Senate and House floors"
+},
+{
+"mention_id": "772f186eab997b4a",
+"claim_id": "drones-given-by-iran",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the Iraq base named; the article he cites reports a threat rather than an attack"
+},
+{
+"mention_id": "bdd527693f5548db",
+"claim_id": "long-track-tornadoes-norm",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "tornadoes in the four states where he lives, which is tornado alley; the base rate makes this hard to score"
+},
+{
+"mention_id": "2d584cd738412571",
+"claim_id": "timothy-mcveigh-method",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the fertiliser vans and trucks seen again that day"
+},
+{
+"mention_id": "58b08ed8cd50e020",
+"claim_id": "ten-cities-cells-army",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "a strike on Iran given as the trigger; America struck in June 2025 and nothing followed"
+},
+{
+"mention_id": "0603080c1dc3c0b6",
+"claim_id": "hidden-cells-america",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the roundup prayed for"
+},
+{
+"mention_id": "6d8036d8bc4a4a26",
+"claim_id": "canada-election-april-2025",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "the sharpest form of it: a Conservative landslide, the greatest victory in Canadian history"
+},
+{
+"mention_id": "e70ecf22a360cf24",
+"claim_id": "canada-election-april-2025",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.9,
+"note": "the thirty day window named"
+},
+{
+"mention_id": "6d260f7f4b09526f",
+"claim_id": "biggest-red-wave-2026",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "given in April 2025, nineteen months ahead"
+},
+{
+"mention_id": "f6ce23981a9b6cb5",
+"claim_id": "canada-persecution",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the dark triangle over Toronto and the curtain coming down"
+},
+{
+"mention_id": "6fec2855089d1875",
+"claim_id": "canada-sector-crash-emigration",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "made conditional on the leftists winning, which they then did"
+},
+{
+"mention_id": "369b5d11991a189c",
+"claim_id": "canada-sector-crash-emigration",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "1929 given as the scale, with the switchboard cords into Europe"
+},
+{
+"mention_id": "47e5d0135117363f",
+"claim_id": "canada-iron-curtain-freedoms",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.45,
+"note": "the whiskey barrels breaking at the border; he says twice he does not understand the image, so the link is mine and weak"
+},
+{
+"mention_id": "a42be5eaa6e2f0f8",
+"claim_id": "great-war-escalation",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "France, England and Germany named as the ones not to join"
+},
+{
+"mention_id": "119516e0cfe5409f",
+"claim_id": "world-will-know-end-times",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "no measure of when the world knows, so nothing here could come out either way"
+},
+{
+"mention_id": "360e068e30268a37",
+"claim_id": "japan-earthquake-splits-land",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the earliest telling, March 2025, with the gap given as hundreds of yards rather than miles"
+},
+{
+"mention_id": "451d4ecc3b7d7cdc",
+"claim_id": "japan-earthquake-splits-land",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the 8.7 figure and the tsunami, seen a third time"
+}
+]
+}

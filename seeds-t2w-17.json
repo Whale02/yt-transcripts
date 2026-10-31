@@ -1,0 +1,51 @@
+[
+ {
+  "claim_id": "panorama-of-history-shown",
+  "label": "A fast forward through history shown to him",
+  "domain": "vision",
+  "description": "History run past him at speed: emperors, the Great Wall of China being built and stretching, a bloody battle of spears on horseback, Christopher Columbus at the back of his ship with long hair, then the First and Second World Wars and the acceleration of war, ending at the present moment. Given 14 April 2025 as the frame for the Adam's lease word.",
+  "aliases": ["the great wall of China being built", "Christopher Columbus sailing on the ocean", "it was being fast forwarded"]
+ },
+ {
+  "claim_id": "kim-jong-un-removed",
+  "label": "Kim Jong-un is removed",
+  "domain": "north korea",
+  "description": "Asked about an earlier word that North Korea's leader would be removed, he confirms it and frames it as God giving the North Korean people an opportunity to hear the gospel rather than as a political event.",
+  "aliases": ["kim jong-un be removed", "he would be removed"]
+ },
+ {
+  "claim_id": "red-dragon-flames-south-korea",
+  "label": "A red dragon rises out of a volcano breathing fire toward South Korea",
+  "domain": "china",
+  "description": "China seen rising like a great red dragon out of a volcano in the days ahead, with fire coming from its mouth flaming toward South Korea. He states explicitly that he is not saying when. Given 7 April 2025.",
+  "aliases": ["a red dragon coming up out of", "flaming toward South Korea"]
+ },
+ {
+  "claim_id": "axis-covenant-nk-china-russia-iran",
+  "label": "North Korea, China, Russia and Iran become one, like a covenant",
+  "domain": "war",
+  "description": "The four seen thinking as one in something he calls a covenant, with Venezuela, Cuba and Afghanistan promised things and drawn in as outcast states, and secret meetings behind it. Afghanistan is named for its minerals.",
+  "aliases": ["North Korea and China and Russia becoming one", "like a covenant", "alliance of these countries"]
+ },
+ {
+  "claim_id": "horsemen-riding-abreast",
+  "label": "The horses of war, death and famine riding back to back",
+  "domain": "endtimes",
+  "description": "The rider on the horse of war, the pale horse and the black horse seen riding back to back, all three at once, with the tribulation about to kick off and said to look close enough to be tomorrow.",
+  "aliases": ["the pale horse", "the black horse riding", "they were back to back with each other all three"]
+ },
+ {
+  "claim_id": "biggest-red-wave-2026",
+  "label": "The biggest red wave the nation has seen, at the midterms",
+  "domain": "politics",
+  "description": "A declared expectation that the midterms bring the biggest red wave the country has ever seen, prayed rather than only predicted. Given 2 April 2025.",
+  "aliases": ["the biggest red wave we've ever seen"]
+ },
+ {
+  "claim_id": "world-will-know-end-times",
+  "label": "The world, not just the church, will know these are the end times",
+  "domain": "endtimes",
+  "description": "That what is coming will be tangible enough that nobody will question whether these are the last days, and that the point of it is for the world rather than the body to know.",
+  "aliases": ["you will not question whether or not we're in the end times", "the world is going to know"]
+ }
+]

@@ -1,0 +1,24 @@
+{"relationships": [
+  {"from_claim": "april-1-signs-in-heavens", "to_claim": "passover-april-1-acceleration",
+   "rel_type": "same_event_as", "asserted_by": "brandon",
+   "evidence_video": "gklesf_Fdg8", "evidence_start_s": 894,
+   "note": "He gives them as one word: the April 1st start, the Passover time frame and the acceleration of signs are the same thing in a continuous passage."},
+
+  {"from_claim": "expect-the-unexpected", "to_claim": "church-held-accountable-for-window",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "He names the failure mode of date-setting accurately using 1988 and 2000, and the corpus carries a great deal of dated material of its own. The two claims sit either side of that gap."},
+
+  {"from_claim": "vance-succession-pregnancy", "to_claim": "trump-assassination-attempt",
+   "rel_type": "elaborates", "asserted_by": "brandon",
+   "evidence_video": "gklesf_Fdg8", "evidence_start_s": 7108,
+   "note": "He ties the pregnancy timing to the warning about the president being taken out, naming this as the time he warned them about."},
+
+  {"from_claim": "controlled-beef-supply", "to_claim": "poultry-cattle-planned-shortage",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Two claims about a deliberate squeeze on the meat supply. He does not join them in this passage."},
+
+  {"from_claim": "lone-wolf-sympathizers", "to_claim": "lone-wolf-not-the-main-show",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "gklesf_Fdg8", "evidence_start_s": 6517,
+   "note": "He says outright it is not an organised event but a lone wolf, which is the same distinction he draws elsewhere between the lone wolves and the main show."}
+]}

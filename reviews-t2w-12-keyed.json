@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "12fa650572e66fa9",
+"claim_id": "damascus-ruinous-heap",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "the Damascus material named beside the Iran war"
+},
+{
+"mention_id": "9cd15a85b973eda4",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "another person's account read aloud"
+},
+{
+"mention_id": "12da6374d2eb6b6f",
+"claim_id": "diet-instruction",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "the calorie instruction, earlier than the Mediterranean keto telling"
+},
+{
+"mention_id": "cc43c8957c8b4e7c",
+"claim_id": "cuba-cold-war",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Havana named with a Russian report matching an earlier word"
+},
+{
+"mention_id": "c5c12b55a9616a9f",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "an Iranian statement read aloud"
+},
+{
+"mention_id": "af6316cee1be77d8",
+"claim_id": "visitation-2014",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.45,
+"note": "walking with Jesus through America; whether this belongs to the 2014 visitation is not stated"
+},
+{
+"mention_id": "17ed16fc612828c0",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a prayer"
+},
+{
+"mention_id": "84a7a9ec6a4640c3",
+"claim_id": "iran-cave-bioweapon",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the caves and caverns with something hidden, in February 2024"
+},
+{
+"mention_id": "6b61facb079723f3",
+"claim_id": "death-to-america-marchers",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the marchers with headbands and rifles, placed into the summer"
+},
+{
+"mention_id": "f0514507d817f554",
+"claim_id": "pieces-at-a-time",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the puzzle pieces framing, with others holding pieces"
+},
+{
+"mention_id": "5e8d84dd55d69c26",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "another person's dream read aloud"
+},
+{
+"mention_id": "9cdb00ef953f06b5",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "another person's dream read aloud"
+},
+{
+"mention_id": "afbfe0c8d0b09852",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "another person's dream read aloud"
+},
+{
+"mention_id": "eaa39aedb0eb99b5",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "another person's dream read aloud"
+},
+{
+"mention_id": "934444f9546bdc82",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "another person's dream read aloud"
+},
+{
+"mention_id": "5249daa5a2a3cfc5",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a California earthquake inside another person's dream; not his telling, so it is not added to california-big-one"
+},
+{
+"mention_id": "986ddb7180121e1f",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "another person's dream read aloud"
+},
+{
+"mention_id": "fa0afe77c5aa7102",
+"claim_id": "tribulation-birthing-pains",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "his own comment on the labour pains, in January 2024"
+},
+{
+"mention_id": "2a72a8c6232375db",
+"claim_id": "lamps-full-of-oil-2026",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "the lamps instruction, given two years before the 2026 framing"
+},
+{
+"mention_id": "7dbc94cecc4a6d16",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "teaching on praying in the spirit"
+},
+{
+"mention_id": "fe78c49d092af9c9",
+"claim_id": "prayer-can-stop-it",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.9,
+"note": "the outcome can be changed, including the weather"
+},
+{
+"mention_id": "1873f1fa6cae2450",
+"claim_id": "emp-ship-in-the-gulf",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the device, the route and the grain cover story"
+},
+{
+"mention_id": "0fc1b6e02c5c6760",
+"claim_id": "emp-ship-in-the-gulf",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the people on the boat associated with China"
+},
+{
+"mention_id": "62441a980cbdef98",
+"claim_id": "peace-and-safety-agreements",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the two-state solution called peace and safety"
+},
+{
+"mention_id": "c7bf078d810cf37f",
+"claim_id": "apollyon-war-2025",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the angel released from the pit, in January 2024, seventeen months before the 2025 telling"
+},
+{
+"mention_id": "1c832caefb7f2d11",
+"claim_id": "turkey-red-hat-soldiers",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the red hats marching toward Israel"
+},
+{
+"mention_id": "870cf52faf96ac79",
+"claim_id": "dday-pearl-harbor",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "Hawaii named for the surprise attack"
+},
+{
+"mention_id": "8a5b15e3ea884961",
+"claim_id": "new-madrid-quake",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "a 6.5 on the Texarkana to Tulsa line, against the 10.0 given in November 2025"
+},
+{
+"mention_id": "3ec397436b8b819a",
+"claim_id": "signs-follow-ordinary-believers",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the street encounter described"
+},
+{
+"mention_id": "b9256e5436eec47a",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "an instruction"
+},
+{
+"mention_id": "6a5633c47eb2ac31",
+"claim_id": "branson-migration",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "a continuous revival at Branson with healings"
+},
+{
+"mention_id": "053f708323d27510",
+"claim_id": "hundreds-of-false-prophets",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "familiar spirits operating under a Christian cover"
+},
+{
+"mention_id": "db83b872aa36016e",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "a sign-off"
+},
+{
+"mention_id": "bc92a5a1e423a26b",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a book discussed on air"
+},
+{
+"mention_id": "eefd8cf24322a0eb",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "an instruction about method"
+},
+{
+"mention_id": "0a5e40e2cf6ad0bb",
+"claim_id": "greatest-harvest-of-souls",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the sea of people too deep to count"
+},
+{
+"mention_id": "da4ea731f0a1339a",
+"claim_id": "lose-midterm-without-prayer",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "interceding for the church to vote"
+},
+{
+"mention_id": "b665ff5f0cc9e7de",
+"claim_id": "ice-storm-november-11-word",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "an inch of ice across the central states, given January 2024"
+},
+{
+"mention_id": "889b9f60e6bed5e8",
+"claim_id": "three-wealthy-influencers",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "three regions named with influence over judges"
+},
+{
+"mention_id": "a0fc8df15d84d941",
+"claim_id": "drone-attacks-holiday-crowds",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "the holiday season warning, given November 2023, two years before the drone form of it"
+},
+{
+"mention_id": "96e3bc23fe0a1e63",
+"claim_id": "dem-shakeup-2024",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "seen several times, with the timing hedged"
+},
+{
+"mention_id": "3fee71ddd2184318",
+"claim_id": "rituals-attached-figures",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "three men plus one in Brazil, one over a pharmaceutical company"
+},
+{
+"mention_id": "f906108f98a9bd97",
+"claim_id": "rituals-attached-figures",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the demons assigned and the meeting in Europe"
+},
+{
+"mention_id": "3223c27942c93f33",
+"claim_id": "maine-shooting-demonic-voices",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the voices before the incident in Maine"
+},
+{
+"mention_id": "66f1cfd0850f80d8",
+"claim_id": "oil-200-barrel",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the oil warning recalled from the day before"
+},
+{
+"mention_id": "269409b37858719f",
+"claim_id": "plague-350m",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.9,
+"note": "the 350 million figure, given October 2023"
+},
+{
+"mention_id": "956b10d9824ceb89",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a guest's argument"
+},
+{
+"mention_id": "6c6e8a03a6789ee2",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a guest's statement"
+},
+{
+"mention_id": "41998cb5777a4b9c",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a guest's statement"
+},
+{
+"mention_id": "b6b334f3d11e3b3a",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a guest's exegesis"
+},
+{
+"mention_id": "9b0873061e713af7",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a guest's plan"
+},
+{
+"mention_id": "2e82a3f1d7e6a520",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a historical text read by a guest"
+},
+{
+"mention_id": "537d8523302bca3b",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a guest's claim"
+},
+{
+"mention_id": "7347fbdbae4ef193",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a historical text read by a guest"
+},
+{
+"mention_id": "fb4d9770b6db5ea4",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a historical claim in an interview"
+}
+]
+}

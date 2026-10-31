@@ -1,0 +1,10 @@
+{"reviews": [
+ {"video_id":"hL9Trl2qb9k","start_s":1058,"claim_id":"taiwan-two-day-fall","same_event":"yes","delta_type":"first_mention",
+  "note":"Unusually specific for a war claim: a duration, a mechanism and a comparison case."},
+ {"video_id":"EuT30KAAFvY","start_s":7779,"claim_id":"israel-election-autumn","same_event":"yes","delta_type":"first_mention",
+  "note":"Due 30 November 2026, so it becomes scoreable within three months."},
+ {"video_id":"rRe0E21ryu0","start_s":1990,"claim_id":"social-credit-ai","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"vsqXfAy4rxk","start_s":5413,"claim_id":"sun-seasons-shift","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"mdXXTm-aWEU","start_s":1752,"claim_id":"jetfuel-shortage","same_event":"yes","delta_type":"first_mention",
+  "note":"A fulfilment assertion built on a news headline rather than a prior specific claim of his own."}
+]}

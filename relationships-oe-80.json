@@ -1,0 +1,23 @@
+{"relationships": [
+  {"from_claim": "chips-back-from-taiwan-two-years", "to_claim": "taiwan-two-day-fall",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Removing American dependence on Taiwanese chips within two years changes what an invasion would cost the world. He does not draw the link, and the two claims sit in different broadcasts."},
+
+  {"from_claim": "watergate-2028", "to_claim": "rubio-2028",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "4GiaXApc3SQ", "evidence_start_s": 2511,
+   "note": "He names Rubio and Byron Donalds as the ones who would have to act once the scandal keeps Vance out."},
+
+  {"from_claim": "watergate-2028", "to_claim": "coup-25th-amendment",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "CoXY2EJ5oDA", "evidence_start_s": 2073,
+   "note": "The impeach chant and the scandal are given together as the mechanism for keeping the man out of the presidency in 2028."},
+
+  {"from_claim": "trump-wealth-doubling", "to_claim": "wealth-transfer-window",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "One names a specific person's fortune and the other a general transfer to listeners. He does not join them here."},
+
+  {"from_claim": "satellite-earthquake-weapons", "to_claim": "novel-weapon-catastrophic",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Another weapon never used before, this one orbital. No link asserted on air."}
+]}

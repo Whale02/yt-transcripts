@@ -1,0 +1,96 @@
+[
+  {"video_id": "yPdEFEDVsic", "start_s": 791, "claim_id": "trojan-boat-attacks",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Dated to November 2023, which puts the original in this corpus. He notes himself that he wondered how it would ever come about, which is worth keeping: two and a half years on, nothing."},
+
+  {"video_id": "yPdEFEDVsic", "start_s": 1227, "claim_id": "we-are-the-news",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The central claim of the whole corpus, stated plainly for once: that what he shows precedes the news rather than following it. Everything in this database bears on whether that holds."},
+
+  {"video_id": "yPdEFEDVsic", "start_s": 1554, "claim_id": "helping-them-make-missiles",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Neither party is named in the passage, so there is nothing to match it to."},
+
+  {"video_id": "yPdEFEDVsic", "start_s": 1884, "claim_id": "darkness-around-2028",
+   "same_event": "unsure", "delta_type": "no_claim",
+   "note": "A read-aloud news report about a past decision, attached to the Supreme Court thread. Nothing claimed."},
+
+  {"video_id": "yPdEFEDVsic", "start_s": 2776, "claim_id": "do-you-know-him-personally",
+   "same_event": "yes", "delta_type": "restatement"},
+
+  {"video_id": "yPdEFEDVsic", "start_s": 5966, "claim_id": "kentucky-heart-of-deep-state",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A named state with a characterisation and no event attached. He says outright that Kentucky was all the Lord gave him, and supplies the rest himself."},
+
+  {"video_id": "Zw7-D11KBIU", "start_s": 242, "claim_id": "ride-the-wave",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Heavier hedging than usual on the investment material: the Lord may not instruct anything at all, and he says he does not know."},
+
+  {"video_id": "Zw7-D11KBIU", "start_s": 2733, "claim_id": "beast-system-foundation",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The same technology is the answered prayer in one telling and the foundation of the beast system in another. A settled pattern by now rather than a slip."},
+
+  {"video_id": "Zw7-D11KBIU", "start_s": 2807, "claim_id": "prophetic-accuracy-2025",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Dated to 21 May 2025, which is inside this corpus, so the recall can be read against the original."},
+
+  {"video_id": "Zw7-D11KBIU", "start_s": 3014, "claim_id": "underground-arks",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Describes something already documented rather than something coming, and the mention says so."},
+
+  {"video_id": "Zw7-D11KBIU", "start_s": 3167, "claim_id": "lab-grown-organs-china",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Another claimed hit dated to a telling inside this corpus, July 2025. Goes to the evidence pass with the news item and the original both checkable."},
+
+  {"video_id": "Zw7-D11KBIU", "start_s": 7631, "claim_id": "a-girl-in-may-2026",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A fifty fifty call with a named month. Testable in principle, though only the family can report it."},
+
+  {"video_id": "Z4Dzphusf-U", "start_s": 200, "claim_id": "congress-stalls-in-election-year",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Ordinary political commentary rather than a sighting, and recorded as such."},
+
+  {"video_id": "Z4Dzphusf-U", "start_s": 399, "claim_id": "april-1-signs-in-heavens",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The confirming item was sent in by a viewer and found afterwards, which is the order worth noting."},
+
+  {"video_id": "Z4Dzphusf-U", "start_s": 969, "claim_id": "the-corn-april-12",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Dated to 12 April with the content left unstated. Filed empty so that if the corn is ever specified, this version is on file first."},
+
+  {"video_id": "Z4Dzphusf-U", "start_s": 4243, "claim_id": "wealth-of-the-sinner",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Now attached to a specific bill passing, which gives the transfer claim a concrete referent for once."},
+
+  {"video_id": "Z4Dzphusf-U", "start_s": 5250, "claim_id": "clarity-act-one-vote",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "A real deadline on a real bill: before June 2026. One of the cleaner tests in the corpus, and it can fail on 1 June."},
+
+  {"video_id": "Z4Dzphusf-U", "start_s": 8075, "claim_id": "european-royals-new-world-order",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Named living people cast as authors of a new world order, with nothing they could do or fail to do specified. Nothing here can resolve either way."},
+
+  {"video_id": "Xst5KJVjDeY", "start_s": 678, "claim_id": "carmax-in-trouble",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A named public company that reports quarterly. Fully checkable, which is rare, and it can fail cleanly."},
+
+  {"video_id": "Xst5KJVjDeY", "start_s": 765, "claim_id": "visions-while-driving",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The hedge is real and rare and belongs on the record: he allows that what he hears while driving could be his own flesh."},
+
+  {"video_id": "Xst5KJVjDeY", "start_s": 817, "claim_id": "wormwood-april-13-2029",
+   "same_event": "yes", "delta_type": "severity_update",
+   "note": "The hardest claim in the entire corpus. In March the 2029 date was taken from published astronomy and offered conditionally. Here he says flatly that it will not pass, that it is going to hit. A named object, a fixed date, and a direct contradiction of an observed orbit. It cannot be hedged and it cannot be reinterpreted."},
+
+  {"video_id": "Xst5KJVjDeY", "start_s": 1324, "claim_id": "help-wanted-job-over-may",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The sign is read as the message, which is how several of these images are reached. Who is meant is not stated."},
+
+  {"video_id": "Xst5KJVjDeY", "start_s": 3116, "claim_id": "man-shot-life-ended",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Seen more than once now, with a motive attached. He is not named in speech here either, so the video is what would settle who."},
+
+  {"video_id": "Xst5KJVjDeY", "start_s": 3222, "claim_id": "saw-the-crucifixion",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Used to answer a claim of suffering made about a public figure, which is what the passage is doing rather than making a forecast."}
+]

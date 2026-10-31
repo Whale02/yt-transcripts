@@ -1,0 +1,20 @@
+{
+ "reviews": [
+  {
+   "mention_id": "4905f529f1c65d8a",
+   "claim_id": "green-acid-economy",
+   "same_event": "yes",
+   "delta_type": "elaboration",
+   "confidence": 0.85,
+   "note": "re-pointed after the other reader folded my seed into theirs; theirs was first"
+  },
+  {
+   "mention_id": "c5b51a2cbc982ff5",
+   "claim_id": "stimulus-2500-under-150k",
+   "same_event": "yes",
+   "delta_type": "elaboration",
+   "confidence": 0.85,
+   "note": "re-pointed after the fold; their id carries the income threshold detail"
+  }
+ ]
+}

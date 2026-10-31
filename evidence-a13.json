@@ -1,0 +1,12 @@
+[
+ {"claim_id":"israel-acts-alone-on-iran-oil","observed_on":"2026-06-14",
+  "source_url":"https://www.aljazeera.com/news/2026/6/8/israel-and-iran-exchange-attacks-as-ceasefire-falters",
+  "summary":"Israel and Iran halted mutual missile and drone attacks around 7 to 8 June 2026, with Netanyahu saying Israel would hold off on further strikes and Iran suspending operations, and on 14 June mediators announced a memorandum of understanding intended to end the conflict within sixty days.",
+  "state":"EXPIRED_WITHOUT_MATCH",
+  "rationale":"Scored only against the twenty four hour window he gave on 11 June 2026 at 7CtKI-6263c@6619, where he said what was about to happen was over the next twenty four hours and named ministers being in Israel as the reason. No unilateral Israeli strike on Iran occurred on 12 or 13 June. The direction of travel over those days was the opposite: both sides were holding fire and a memorandum was announced on the 14th. This closes the tight window only. The same claim carries wider windows out to June 2027 from the 16 June tellings, and those remain open."},
+ {"claim_id":"israel-acts-alone-on-iran-oil","observed_on":"2026-06-19",
+  "source_url":"https://www.britannica.com/event/2026-Iran-war",
+  "summary":"Reference account of the 2026 Iran war records American participation in the strikes on Iran and a negotiated ceasefire, rather than an Israeli campaign conducted alone.",
+  "state":"CONTRADICTED",
+  "rationale":"The core of the claim is that what would be seen is not the United States doing it and that Israel would strike Iran alone. The record of the 2026 campaign has the United States striking Iran directly and then brokering the halt. He gave the alone framing repeatedly and it is the part that did not hold. Recorded as contradicted on that element while the oil wells and antisemitism elements stay unresolved inside the longer window."}
+]

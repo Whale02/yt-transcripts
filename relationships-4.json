@@ -1,0 +1,9 @@
+{"relationships": [
+ {"from_claim":"pacific-nw-quake","to_claim":"bc-secession","rel_type":"causes","asserted_by":"brandon",
+  "evidence_video":"UAPYhpm_sX0","evidence_start_s":2686,
+  "note":"He states the BC earthquake is what leads to secession talk and the economic shaking."},
+ {"from_claim":"canada-crisis","to_claim":"canada-persecution","rel_type":"co_occurs_with","asserted_by":"system",
+  "note":"Our grouping of two Canada claims he makes separately."},
+ {"from_claim":"crash-1930s","to_claim":"megachurch-closures","rel_type":"causes","asserted_by":"system",
+  "note":"Our inference: church insolvency would follow an economic break. He states the closures without naming the cause."}
+]}

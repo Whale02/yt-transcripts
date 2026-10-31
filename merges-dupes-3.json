@@ -1,0 +1,7 @@
+{
+ "_note": "Both ids describe the same scene: a January, a parchment resembling the Declaration of Independence, a golden quill. They were seeded from two tellings by two workers. Both threads were read before merging; neither contains a detail the other contradicts, the surviving description carries the founding-document weight and the dropped one carries the autumn, digital money and oil context, which is preserved in the note.",
+ "merges": [
+  {"keep": "trump-january-scroll", "drop": "january-parchment-signing",
+   "note": "same January signing scene; the dropped thread adds that it follows a changing autumn and sits alongside the digital money and oil push"}
+ ]
+}

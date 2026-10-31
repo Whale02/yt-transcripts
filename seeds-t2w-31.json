@@ -1,0 +1,30 @@
+[
+ {
+  "claim_id": "xrp-price-ladder",
+  "label": "A price ladder of ten, twenty five, fifty and a hundred and fifty",
+  "domain": "crypto",
+  "description": "Strategic price ranges seen for the asset he identifies as XRP: ten dollars, then twenty five, fifty and a hundred and fifty, with people becoming decamillionaires off it. Solana and Cardano named alongside as part of what he calls the world reserve technology. Given the week the president posted about XRP. These figures sit below his own ten thousand dollar claim and the two are kept apart.",
+  "aliases": ["I saw $10 I saw people becoming decamillionaires", "I saw $25 I saw $50 I saw $150", "strategic price ranges"]
+ },
+ {
+  "claim_id": "lend-to-nations",
+  "label": "Believers become lenders to nations",
+  "domain": "wealth",
+  "description": "A declaration of being the lender and not the borrower and being able to lend to nations, with the observation that this requires hundreds of millions in the bank rather than a thousand dollars.",
+  "aliases": ["I will be able to lend the Nations", "the lender and not the borrower"]
+ },
+ {
+  "claim_id": "nordstream-reopened",
+  "label": "The Nord Stream pipeline renegotiated and reopened",
+  "domain": "europe",
+  "description": "The Nord Stream pipeline being renegotiated and opened again, given alongside American drilling and a rise in oil revenue.",
+  "aliases": ["nordstream pipeline being renegotiated", "trying to be opened"]
+ },
+ {
+  "claim_id": "no-more-war-for-america",
+  "label": "No more war, declared for America rather than for the world",
+  "domain": "war",
+  "description": "He reports being told that the president's no more war declaration applies to American involvement rather than to whether wars happen, so that wars continue but America stays out of them. Given while noting Hezbollah activity.",
+  "aliases": ["there will be no more war", "doesn't mean Brandon that there won't be Wars", "he's declaring that for America"]
+ }
+]

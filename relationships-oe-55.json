@@ -1,0 +1,11 @@
+{"relationships":[
+{"from_claim":"squeeze-on-fake-media","to_claim":"speech-crackdown-midterms","rel_type":"related_to","asserted_by":"system",
+ "note":"The same kind of pressure on the press, welcomed when applied by his own side and warned against when applied by the other."},
+{"from_claim":"booker-licking-the-ground-2028","to_claim":"snake-figure-by-2028","rel_type":"related_to","asserted_by":"system",
+ "note":"Both describe a man slithering toward the White House. Neither names him, so they stay separate."},
+{"from_claim":"attack-worse-than-october-7","to_claim":"telaviv-chemical-attack","rel_type":"related_to","asserted_by":"system",
+ "note":"The March telling supplies a biological agent delivered by crop duster from Damascus, which is the first mechanism the claim has carried and overlaps the older chemical attack claim."},
+{"from_claim":"man-shot-life-ended","to_claim":"prophetic-accuracy-2025","rel_type":"related_to","asserted_by":"brandon",
+ "evidence_video":"8RydcMuYFcI","evidence_start_s":1547,
+ "note":"He offers the man's disappearance as confirmation of a 3 January word, dating it himself."}
+]}

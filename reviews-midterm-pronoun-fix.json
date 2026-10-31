@@ -1,0 +1,11 @@
+{
+  "_note": "30 Oct 2026 re-read of zp4ImjufUuU (18 Jul 2026). 'They' in this passage is the Democrats, which the first run read as Republicans.",
+  "reviews": [
+    {"video_id": "zp4ImjufUuU", "start_s": 1144, "claim_id": "battleground-senate-2026", "same_event": "yes",
+     "delta_type": "restatement",
+     "note": "Not a contradiction. Read with 968s in the same video ('the blue win the Senate by three'), 'pray they don't win the Senate' and 'I keep seeing it bold that they'll win the Senate' mean the Democrats win it. The House is kept 'by not as much as what we have'. Consistent with the lose-Senate, keep-House line."},
+    {"video_id": "zp4ImjufUuU", "start_s": 1181, "claim_id": "election-2026-outcome-seen", "same_event": "yes",
+     "delta_type": "restatement",
+     "note": "'I keep seeing they'll get the Senate' refers to the Democrats, continuing 1144s. 'They'll get both' is ambiguous and is not scored. The 'seven more seats' are what Republicans would have needed to pass the Save America Act, not a projection."}
+  ]
+}

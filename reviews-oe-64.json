@@ -1,0 +1,80 @@
+[
+  {"video_id": "zaCMLnzdWHQ", "start_s": 2869, "claim_id": "iran-bridges-power-plants-demolished",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Relayed military talk rather than his own word, so nothing is scored to him. Recorded because it sets the scale the surrounding Iran material assumes."},
+
+  {"video_id": "zaCMLnzdWHQ", "start_s": 3653, "claim_id": "leak-put-them-at-risk",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Commentary on a reported leak. Nothing forecast."},
+
+  {"video_id": "zaCMLnzdWHQ", "start_s": 3685, "claim_id": "leak-put-them-at-risk",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He offers a real leak story as the thing the earlier base prayers were for, which is the retrospective join this corpus is full of."},
+
+  {"video_id": "zaCMLnzdWHQ", "start_s": 3727, "claim_id": "watchmen-see-in-the-future",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The watchman claim stated as a job description, and dated to March 2025, which is inside this corpus. Whether a March 2025 telling names the Middle East bases is checkable."},
+
+  {"video_id": "zaCMLnzdWHQ", "start_s": 7738, "claim_id": "no-plan-b-supreme-court",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "A significant gloss: the whole programme is described as an attempt to extend the time rather than to reverse anything. That is the same delay logic as extended-time-grant, now applied to policy."},
+
+  {"video_id": "zaCMLnzdWHQ", "start_s": 8765, "claim_id": "year-2027-highlighted",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Fire around it and red lights is the first content the 2027 sighting has carried since January."},
+
+  {"video_id": "QsNuNKQL80E", "start_s": 242, "claim_id": "pressure-of-the-presidency",
+   "same_event": "yes", "delta_type": "elaboration"},
+
+  {"video_id": "QsNuNKQL80E", "start_s": 501, "claim_id": "first-corinthians-5-5-2026",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Four months into the year he named, he is asking what the rest of it looks like rather than saying. Worth recording as the state of the claim at that point."},
+
+  {"video_id": "QsNuNKQL80E", "start_s": 991, "claim_id": "prophetic-chatter-about-2028-is-false",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Second direct swipe at other prophetic voices after the March call, now aimed at those promising good days."},
+
+  {"video_id": "QsNuNKQL80E", "start_s": 4312, "claim_id": "new-jet-in-may",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Specific and visible if it happens: aircraft liveries are photographed constantly, so this can be settled."},
+
+  {"video_id": "QsNuNKQL80E", "start_s": 4883, "claim_id": "taiwan-two-day-fall",
+   "same_event": "unsure", "delta_type": "contradiction",
+   "note": "They ain't going points the other way from the invasion claim he has held since 2023. Recorded as a contradiction because the passage is fragmentary and he does not reconcile it."},
+
+  {"video_id": "QsNuNKQL80E", "start_s": 6736, "claim_id": "cankerworm-restoration",
+   "same_event": "yes", "delta_type": "restatement"},
+
+  {"video_id": "QsNuNKQL80E", "start_s": 8020, "claim_id": "blessed-in-city-and-field",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "UMqHeHjGuMI", "start_s": 237, "claim_id": "visions-while-driving",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "A drive-thru this time. The material continues to arrive during ordinary errands."},
+
+  {"video_id": "UMqHeHjGuMI", "start_s": 853, "claim_id": "if-you-heard-what-i-heard",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Unfalsifiable by construction: the material that would supposedly cause the reaction is not disclosed, and he says it never will be."},
+
+  {"video_id": "UMqHeHjGuMI", "start_s": 1324, "claim_id": "twenty-three-nations-crusades",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A hard number on a public activity within a stated year. One of the few claims here that can be counted from outside."},
+
+  {"video_id": "UMqHeHjGuMI", "start_s": 1395, "claim_id": "california-146-billion-fraud",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "UMqHeHjGuMI", "start_s": 1473, "claim_id": "major-prayer-gathering-coming",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A large gathering would be publicly visible, so this is checkable in principle. No date is the limit."},
+
+  {"video_id": "UMqHeHjGuMI", "start_s": 1761, "claim_id": "california-146-billion-fraud",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The January claim that California is next, now with a figure attached. Whether the number and the comparison hold is checkable."},
+
+  {"video_id": "ABqn0lFIbqk", "start_s": 1431, "claim_id": "intimate-relationship-2026",
+   "same_event": "yes", "delta_type": "elaboration"},
+
+  {"video_id": "ABqn0lFIbqk", "start_s": 3262, "claim_id": "argentina-outpouring-april",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A named country and a named month, which makes it one of the more testable revival claims in the corpus. It also ties the outpouring to the start of the wealth transfer, so both can be checked against the same window."}
+]

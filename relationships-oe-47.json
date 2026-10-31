@@ -1,0 +1,12 @@
+{"relationships":[
+{"from_claim":"not-a-misword-keep-believing","to_claim":"watch-australia","rel_type":"contradicts","asserted_by":"system",
+ "note":"Five days apart he applies two incompatible standards to his own record. On the Australia drought: if it is not happening, call it an off-word. On the decamillionaire word: the objection that it was a misword is raised by him and refused. Which standard applies appears to track the subject matter."},
+{"from_claim":"cuba-liberation-day-2027","to_claim":"cuba-completely-dark","rel_type":"related_to","asserted_by":"system",
+ "note":"Same country a month apart with opposite tone: much darkness in December, a liberation day in January. He does not join them."},
+{"from_claim":"closer-than-you-think-return","to_claim":"we-have-a-work-to-do-window","rel_type":"contradicts","asserted_by":"system",
+ "note":"Within three weeks the return is both nearer than anyone realises and further out than the audience hopes, with a work to be done first."},
+{"from_claim":"no-ministry-of-hints","to_claim":"days-of-heaven-on-earth","rel_type":"related_to","asserted_by":"system",
+ "note":"He rejects hinting for support on 5 January and addresses the promised return to those who sowed sacrificially on 8 January."},
+{"from_claim":"find-a-bible-church","to_claim":"turn-youtube-off-find-god","rel_type":"related_to","asserted_by":"system",
+ "note":"Two places where he directs the audience away from himself, to a local church and off the platform."}
+]}

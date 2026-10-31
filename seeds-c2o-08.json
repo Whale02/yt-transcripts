@@ -1,0 +1,12 @@
+[
+ {"claim_id": "antisemitic-uprising-america",
+  "label": "An antisemitic uprising in America beyond the current protests",
+  "domain": "politics",
+  "description": "Given 15 March 2025: antisemitism rising against Israel inside America beyond what is visible in the Palestinian protests, alongside his statement that the thing he has been praying over is fixed and will come to pass and everyone will be startled. Notable because saying a thing is fixed removes the prayer condition he normally attaches.",
+  "aliases": ["anti-semitism against israel", "uprising in America", "is fixed and come to pass"]},
+ {"claim_id": "withheld-israel-iran-targets",
+  "label": "Specific Israel and Iran targets shown but withheld",
+  "domain": "war",
+  "description": "He says the Lord showed him specific targets and specific things being planned in strategic meetings between Israel and America, and that he cannot go into detail about any of them. Recorded because withheld specifics are the one form of detail that can never be checked in either direction.",
+  "aliases": ["specific targets", "cannot go into detail", "rice paper thin"]}
+]

@@ -1,0 +1,42 @@
+{
+  "_note": "Oldest-end sweep batch 48: 3 January 2026. Completes January 2026. Model claude-opus-5, prompt v1.",
+  "mentions": [
+    {"video_id": "L9GIjgo0Kok", "start_s": 1412,
+     "claim_text": "He describes a black thing in sackcloth moving across when he saw it three or four days ago, says he saw the plague coming, and says he warned them of a major plague coming that will be AI generated and that they will release.",
+     "quote": "a major plague that's coming that will be AI generated",
+     "source_mode": "VISION", "certainty": "definite", "conditionality": "prayer_may_delay",
+     "topics": ["health", "technology"], "locations": [],
+     "time_phrase": "seen three or four days ago", "time_precision": "relative",
+     "origin_date": "2025-12-30",
+     "falsify_match": "An engineered epidemic traced to a deliberate release.",
+     "falsify_miss": "None. AI generated is stated twice now across two weeks and never explained."},
+
+    {"video_id": "L9GIjgo0Kok", "start_s": 1933,
+     "claim_text": "He says they have seen quite a bit and the Lord has been good to the channel in showing them what is to come, and that the next thing he believes will be another attack on Israel worse than October 7th, recalling that he saw Benjamin.",
+     "quote": "another attack that will be worse than October 7th on Israel",
+     "source_mode": "VISION", "certainty": "definite", "conditionality": "prayer_may_prevent",
+     "topics": ["war", "terrorism"], "locations": ["Israel"],
+     "time_phrase": "next", "time_precision": "relative",
+     "falsify_match": "An attack on Israel exceeding 7 October 2023.",
+     "falsify_miss": "None. Fifth telling since 22 November, and the first to call it the next thing, which is closer to a timing commitment than the others."},
+
+    {"video_id": "L9GIjgo0Kok", "start_s": 2163,
+     "claim_text": "He prays to be kept as the apple of God's eye and hidden under the shadow of his wings, and says that is where he has been concerning 2026 and what really matters.",
+     "quote": "that's where I have been concerning 2026",
+     "content_type": "framing", "source_mode": "PRAYER_DECLARATION", "certainty": "definite",
+     "conditionality": "unclear", "topics": ["religion"], "locations": [],
+     "time_phrase": "2026", "window_start": "2026-01-01", "window_end": "2026-12-31",
+     "time_precision": "year", "due_at": "2026-12-31",
+     "falsify_match": "unfalsifiable: a posture of protection for the year, from Psalm 17.",
+     "falsify_miss": "n/a"},
+
+    {"video_id": "L9GIjgo0Kok", "start_s": 3969,
+     "claim_text": "He says they need to pray over the mega churches, naming Joel Osteen's church and some of the others, praying protection over them and over their churches, and that it is not just about charismatic churches.",
+     "quote": "You need to pray over Joel Osteen's church",
+     "source_mode": "PRAYER_DECLARATION", "certainty": "definite", "conditionality": "prayer_may_prevent",
+     "topics": ["terrorism", "religion"], "locations": ["America"],
+     "time_phrase": "", "time_precision": "none",
+     "falsify_match": "An attack on a named megachurch.",
+     "falsify_miss": "None, credited to the prayer. First time a specific church is named in this thread."}
+  ]
+}

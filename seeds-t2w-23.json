@@ -1,0 +1,23 @@
+[
+ {
+  "claim_id": "lending-freeze",
+  "label": "A lending freeze across American banks",
+  "domain": "economy",
+  "description": "Banks across the United States stop lending, so that people cannot get loans for cars, houses or apartments, with cars above fifty thousand dollars named and interest rates and prices falling at the same time. Given 1 November 2024.",
+  "aliases": ["there was a lending freeze in the banks", "people were not able to get loans"]
+ },
+ {
+  "claim_id": "back-to-family-roots",
+  "label": "Families go back to the table and to core values",
+  "domain": "america",
+  "description": "After the humbling, people returning to their roots and to core family values, eating at home around the dinner table rather than at fast food chains, in homes he compares to Leave it to Beaver.",
+  "aliases": ["going back to their roots", "Leave it to Beaver style homes", "eating at home"]
+ },
+ {
+  "claim_id": "sydney-harbour-attack",
+  "label": "An attack at Sydney Harbour and the Opera House",
+  "domain": "terrorism",
+  "description": "An attack seen on Sydney Harbour at the opera house, warned about and prayed against at a named meeting. Given 15 June 2024.",
+  "aliases": ["an attack on Sydney Harbor", "the big opera house"]
+ }
+]

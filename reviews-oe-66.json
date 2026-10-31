@@ -1,0 +1,93 @@
+[
+  {"video_id": "0LcmZ81vn0I", "start_s": 217, "claim_id": "church-of-his-presence-september",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A named church and a named month, publicly advertised, so it can be checked. He says twice that he does not know why he is seeing it, which is preserved in the certainty field."},
+
+  {"video_id": "0LcmZ81vn0I", "start_s": 509, "claim_id": "prophetic-method-in-part",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Explains why so many images in this corpus are never resolved: he has to pray them out, and often the subject changes before they are."},
+
+  {"video_id": "0LcmZ81vn0I", "start_s": 1551, "claim_id": "javelins-at-young-anointing",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The Saul and David idiom for a third time, with nobody named."},
+
+  {"video_id": "0LcmZ81vn0I", "start_s": 6402, "claim_id": "cuba-liberation-day-2027",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "The 2027 date from January has now dropped away entirely, leaving a bare declaration. Brazil is added alongside."},
+
+  {"video_id": "0LcmZ81vn0I", "start_s": 7954, "claim_id": "australia-digital-id-2027",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A named country, a named policy and a two year window. More specific than most of the surveillance material and checkable against legislation."},
+
+  {"video_id": "G7T_Ugj_wn4", "start_s": 1980, "claim_id": "speech-crackdown-midterms",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Moves the speech crackdown to 2028 and adds the spider web image. Challenged greatly has no threshold, but the year is fixed."},
+
+  {"video_id": "G7T_Ugj_wn4", "start_s": 3166, "claim_id": "unqualified-candidates-anointed",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Lack of experience treated as no obstacle, with anointing offered in its place. Worth recording as stated."},
+
+  {"video_id": "G7T_Ugj_wn4", "start_s": 5182, "claim_id": "cahn-kilpatrick-september",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Among the most checkable claims in the corpus: three living people, a named church and a named month, all publicly advertised. It can fail cleanly."},
+
+  {"video_id": "G7T_Ugj_wn4", "start_s": 5890, "claim_id": "two-year-window-2027-2028",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The window is stated and the content is not, which is the recurring shape."},
+
+  {"video_id": "G7T_Ugj_wn4", "start_s": 6066, "claim_id": "two-year-window-2027-2028",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Moed is the Hebrew for a feast or appointed time, and every year contains them, so the term adds weight rather than precision."},
+
+  {"video_id": "G7T_Ugj_wn4", "start_s": 6912, "claim_id": "two-year-window-2027-2028",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He works through the pronunciation several times and attributes the term to another teacher he has heard use it, which is worth having on the record."},
+
+  {"video_id": "G7T_Ugj_wn4", "start_s": 8535, "claim_id": "hagin-revival-lasts-two-years",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The word comes from a minister who died in 2003, delivered in a visitation to heaven. That puts it beyond any check except his own account, and it is the source of the two year revival window."},
+
+  {"video_id": "G7T_Ugj_wn4", "start_s": 8841, "claim_id": "church-of-his-presence-september",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Adds a possible further book from the named author. Both that and the church appearance are publicly checkable."},
+
+  {"video_id": "dbSI0MLNI9k", "start_s": 47, "claim_id": "retaliation-against-trump-children",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "One of the stronger fulfilment claims in the corpus. The video reports a plot against a family member, and he says he called retaliation against the children and named Don Jr in advance. Both his earlier tellings and the reported plot are checkable. Flagged for the evidence pass."},
+
+  {"video_id": "dbSI0MLNI9k", "start_s": 731, "claim_id": "retaliation-against-trump-children",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He puts the accuracy question directly to the audience, which is exactly what this database is set up to answer."},
+
+  {"video_id": "dbSI0MLNI9k", "start_s": 1007, "claim_id": "prophetic-accuracy-2025",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Eleventh on-air replay, dated to 6 April and inside this corpus."},
+
+  {"video_id": "dbSI0MLNI9k", "start_s": 5072, "claim_id": "attack-worse-than-october-7",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Eighth telling, and the target moves: the worse-than-October attack is now inside the United States by people already infiltrated, where every prior telling had it against Israel."},
+
+  {"video_id": "QesBBHtuWPs", "start_s": 2313, "claim_id": "israel-new-device-glowing-mountain",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He marks the glowing mountain as metaphor himself rather than pressing it as literal. That instinct is worth crediting and is rare in this material."},
+
+  {"video_id": "QesBBHtuWPs", "start_s": 2804, "claim_id": "moon-base-word",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "A real dated announcement offered as fulfilment of the December word. Both the announcement and the original telling are in reach, so this is checkable at both ends. Flagged for the evidence pass."},
+
+  {"video_id": "QesBBHtuWPs", "start_s": 2888, "claim_id": "moon-base-word",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The claimed hit here rests partly on a thumbnail placement decision rather than on a word, and the mention says so."},
+
+  {"video_id": "QesBBHtuWPs", "start_s": 4371, "claim_id": "something-major-earthquake-aliens",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Something major with two candidate forms and no date, so almost any event satisfies it."},
+
+  {"video_id": "QesBBHtuWPs", "start_s": 4410, "claim_id": "hagin-revival-lasts-two-years",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Gives the two year revival a start window it did not have: this summer. That makes it due from August."},
+
+  {"video_id": "QesBBHtuWPs", "start_s": 5168, "claim_id": "year-2028-wall",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The wall again, now in a domestic conversation with his wife. An absence of sight rather than a claim about the world, as in February."}
+]

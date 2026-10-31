@@ -1,0 +1,25 @@
+{
+ "_note": "Second batch of 30 August 2026. Same rule: reality only, base rates named where the outcome was likely regardless.",
+ "evidence": [
+  {"claim_id": "trump-january-scroll",
+   "observed_on": "2026-01-22",
+   "source_url": "https://www.whitehouse.gov/releases/2026/01/president-trump-ratifies-board-of-peace-in-historic-ceremony-opening-path-to-hope-and-dignity-for-gazans/",
+   "summary": "On 22 January 2026 at Davos, Trump hosted and signed the founding charter of the Board of Peace, joined onstage by more than twenty world leaders, with 25 countries accepting the invitation. The White House release and the news coverage describe a founding charter concerning Gaza; none describes a parchment scroll, a golden quill, or any digital or American legislative content. No other January 2026 signing matches the description.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "He gave this in September 2025, four months ahead: Trump reaching January and signing a document of founding-document weight. A founding charter signing did happen in January 2026, which is the part that could have failed and did not. Everything distinctive missed: the subject was Gaza rather than America, it was a charter rather than legislation, there is no digital element, and no source describes parchment or a golden quill. Note for the record that he has since re-pointed the same vision at the coming January, so the claim is being carried forward rather than scored by him."},
+
+  {"claim_id": "olympics-opening-ceremony-watch",
+   "observed_on": "2026-02-06",
+   "source_url": "https://www.foxnews.com/sports/fireworks-fly-hooded-protesters-clash-police-after-olympics-opening-milan.amp",
+   "summary": "The Milano Cortina Winter Olympics opened on 6 February 2026. The ceremony itself went ahead without incident. Hooded protesters clashed with police near the Santagiulia ice hockey arena after the opening; police used water cannon and tear gas, and five or six people were arrested. The demonstrations were organised over the environmental and social impact of the games and the presence of US immigration agents in Italy.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "His stated criterion was an incident at or around the games, and there was one. It is weak evidence: protest clashes at an Olympics are close to routine, the ceremony he specifically wondered about passed without incident, and the date he told people to pray over, 3 February, was three days before the games began and produced nothing. He said repeatedly that he did not know what the Olympics meant, which is honest of him and also what makes this unscoreable above partial."},
+
+  {"claim_id": "good-year-2025",
+   "observed_on": "2025-12-31",
+   "source_url": "https://www.ftportfolios.com/Commentary/EconomicResearch/2026/1/8/the-sp-500-index-2025-recap",
+   "summary": "The S&P 500 returned 17.9 percent in 2025 against 25.0 percent in 2024 and 26.3 percent in 2023, a third consecutive strong year but the weakest of the three. The path was volatile: the index fell into an April low on tariffs, then rose nearly 39 percent on a total-return basis from that low to year end. No widely reported outpouring of healings or recognised revival occurred in 2025.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "Sixteen of the eighteen tellings have no criterion that could come out either way, and the extractor recorded them as unfalsifiable at the time: overflow, prosperity and turnaround for an unnamed audience cannot fail. Two elements were checkable. The comparative one, 2025 better than 2024, failed on the obvious proxy: 17.9 percent against 25.0. The revival one failed too. What is true is the weaker half of his framing, that 2025 was a good year rather than a terrible one, which was also the consensus expectation in December 2024. Scored partial for that half only, and the rationale should be read as saying this claim is mostly unscoreable by construction."}
+ ]
+}

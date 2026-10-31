@@ -1,0 +1,18 @@
+{
+ "_note": "Job A addendum for claims seeded during tier 2 extraction that already have outcomes on the record.",
+ "evidence": [
+  {"claim_id": "three-city-attacks-ranked",
+   "observed_on": "2025-01-22",
+   "source_url": "https://en.wikipedia.org/wiki/2025_Antioch_High_School_shooting",
+   "summary": "All three cities he named saw an attack within three weeks. On 1 January 2025 a man drove a truck into the crowd on Bourbon Street in New Orleans, killing 14 and injuring dozens. The same day in Las Vegas an Army soldier shot himself inside a rented Tesla Cybertruck that then exploded outside the Trump International Hotel, killing only himself and injuring seven. On 22 January 2025 a 17-year-old opened fire in the cafeteria at Antioch High School in Nashville, killing one student and wounding another before killing himself.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "The set of cities is the striking part and the ranking is the failure, and both belong on the record. On 27 and 28 October 2024, about two months ahead, he named Nashville, Las Vegas and New Orleans as the three places he saw attacks, and all three had one inside four weeks of the new year. He also ranked them twice, unprompted, and got the order exactly backwards: Nashville strongest with what he called a Holy Spirit check, Las Vegas next, New Orleans weakest and described as one rather than many. New Orleans killed fourteen, Las Vegas killed only its own driver, and Nashville killed one student. Ranking is the part of a claim that carries information, because it is the part that can be wrong while the list stays right, and here it was wrong in the direction that mattered most."},
+
+  {"claim_id": "northeast-record-heat-summer-2024",
+   "observed_on": "2024-07-05",
+   "source_url": "https://whyy.org/articles/philadelphia-2024-warm-year-climate-change/",
+   "summary": "A heat dome over the eastern United States around the 2024 Independence Day weekend set at least 148 daily high-temperature records between 30 June and 5 July. Philadelphia recorded three consecutive days above 101 degrees for the first time in its history, Atlantic City tied its all-time high of 106, Newark reached 105 for the first time since 2001 and LaGuardia hit 102, breaking a 1966 record. Philadelphia's 2024 was its warmest year in 151 years of records, tied with 2012. A June heat wave had already threatened Philadelphia records.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "The call is better than most in this corpus and still cannot clear the base rate. He gave it on 22 February 2024, four months ahead, naming the Philadelphia and New York area and the Northeast, naming the season, and saying it might last a week or a month; the heat dome ran about a week. Philadelphia's three straight days above 101 is a first in 151 years, which is more than an ordinary summer delivers. Against that, record-breaking temperatures somewhere in the Northeast during a summer is close to an annual event in a warming climate, and daily records fall in the region every year, so the claim as worded could have been satisfied by far less than what happened. Held at partial, with the all-time Philadelphia mark noted as the part that exceeded the base rate."}
+ ]
+}

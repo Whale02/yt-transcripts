@@ -1,0 +1,24 @@
+{"relationships": [
+  {"from_claim": "wings-clipped-january", "to_claim": "stalemate-government-2026",
+   "rel_type": "elaborates", "asserted_by": "brandon",
+   "evidence_video": "i9gn298oFBM", "evidence_start_s": 2320,
+   "note": "The blue pulse out of the Senate and the clipped wings are the mechanism of the stalemate he describes elsewhere."},
+
+  {"from_claim": "wings-clipped-january", "to_claim": "three-judges-roadblocks",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "i9gn298oFBM", "evidence_start_s": 2320,
+   "note": "He names the Supreme Court judges in the same vision, as reds who are cowards with no pulse standing idly by."},
+
+  {"from_claim": "disney-cruise-virus-plot", "to_claim": "virus-q4-2026",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Two virus claims for the same period, one a named vector and one a season. He does not join them."},
+
+  {"from_claim": "disney-cruise-virus-plot", "to_claim": "magic-kingdom-infiltration",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Both put a plot against a Florida Disney property. He does not connect them in this passage."},
+
+  {"from_claim": "only-a-spectator-psalm91", "to_claim": "church-held-accountable-for-window",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "i9gn298oFBM", "evidence_start_s": 2113,
+   "note": "You can lessen it but you will not stop it does both jobs at once: prayer is worth doing, and the outcome is guaranteed regardless, so neither can be scored against him."}
+]}

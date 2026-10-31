@@ -1,0 +1,49 @@
+[
+  {"video_id": "ruV85YYcW1o", "start_s": 1422, "claim_id": "drone-attacks-holiday-crowds",
+   "same_event": "unsure", "delta_type": "contradiction",
+   "note": "Directly reverses the earlier telling. There the drones were bought online; here he says outright they are not the kind you buy off Amazon but military drones smuggled from Iran. Both left visible."},
+
+  {"video_id": "ruV85YYcW1o", "start_s": 1464, "claim_id": "drone-attack-derail-elections",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Two election cycles named, which gives a two year window in which any drone incident near a vote would qualify. Martyr is left undefined."},
+
+  {"video_id": "ruV85YYcW1o", "start_s": 2129, "claim_id": "iraq-economic-boom",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The fullest telling of the Iraq vision, with the hedges stated inside it: a majority of areas rather than the nation, and much corruption remaining. Partial outcomes therefore read as hits."},
+
+  {"video_id": "ruV85YYcW1o", "start_s": 2949, "claim_id": "save-america-act-support-structure",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He says plainly that he does not know what the three parts are. That leaves nothing to check in advance, though a count of three is specific enough to score once anything splits off."},
+
+  {"video_id": "ruV85YYcW1o", "start_s": 3114, "claim_id": "presidency-comes-to-nothing",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Notable against the rest of the corpus, where the same presidency carries the golden age and the turnaround. The 2027 date is his own question rather than something he was shown."},
+
+  {"video_id": "ruV85YYcW1o", "start_s": 3187, "claim_id": "revival-not-trump-saves-america",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Consistent with the record since 2024, and it is the line that lets a disappointing presidency sit beside the claims made for it without either being withdrawn."},
+
+  {"video_id": "ruV85YYcW1o", "start_s": 3423, "claim_id": "church-held-accountable-for-window",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The load-bearing move of the whole corpus stated outright. Responsibility for the outcome is transferred to the audience before the outcome is known, so a failed forecast becomes a failure to pray. Recorded whole for that reason."},
+
+  {"video_id": "ruV85YYcW1o", "start_s": 5276, "claim_id": "calling-things-that-be-not",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "One of the few declarations with a physical object attached. Buses with air conditioning can be checked against the ministry's own assets, unlike most of what is called in."},
+
+  {"video_id": "4WhvlFBHVyM", "start_s": 34, "claim_id": "new-york-weighed-and-lacking",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "Nothing claimed, but the dating is what any later fulfilment assertion about this word rests on, and 28-29 December 2025 is checkable inside this corpus. Recorded for that reason."},
+
+  {"video_id": "4WhvlFBHVyM", "start_s": 196, "claim_id": "new-york-weighed-and-lacking",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The five Italian mafia families are added, and a news story about neighbourhood groups objecting to immigration policy is offered as the beginning of it. The distance between those two is the whole of the fulfilment claim."},
+
+  {"video_id": "4WhvlFBHVyM", "start_s": 1012, "claim_id": "asteroid-2026-hz4",
+   "same_event": "unsure", "delta_type": "contradiction",
+   "note": "Magnitude disagrees with the earlier telling: a close approach there, penetrating and hitting the earth here. He also says God gave him the actual name and then withholds it, which removes the one detail that would settle which object is meant."},
+
+  {"video_id": "4WhvlFBHVyM", "start_s": 1043, "claim_id": "asteroid-2026-hz4",
+   "same_event": "unsure", "delta_type": "timing_update",
+   "note": "The 2027 date does not come from the vision. He reads it off a news item about a scheduled deflection test and attaches his rock to it, marked probably. A test being scheduled is not an object being on course."}
+]

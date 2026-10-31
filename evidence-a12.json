@@ -1,0 +1,12 @@
+[
+ {"claim_id":"trump-three-days-in-france","observed_on":"2026-06-17",
+  "source_url":"https://www.france24.com/en/france/20260617-macron-invites-trump-to-versailles-dinner-as-g7-summit-wraps-up",
+  "summary":"The 52nd G7 summit ran 15 to 17 June 2026 at Evian-les-Bains in the French Alps, and Macron invited Trump to dinner at the Palace of Versailles as the summit wrapped up on the Wednesday afternoon.",
+  "state":"PARTIAL_MATCH",
+  "rationale":"The itinerary half is exactly right: three days Monday to Wednesday in France with a dinner with Macron. But he says in the passage that he is hearing the announcement for the first time from the news, so this is a report rather than a call, and the schedule was already public. The half that was his own, the reaction of oh no and the prayer for divine delays against the trip, did not land."},
+ {"claim_id":"trump-three-days-in-france","observed_on":"2026-06-18",
+  "source_url":"https://www.chathamhouse.org/2026/06/macrons-evian-summit-shows-limits-trump-places-g7",
+  "summary":"Analysis of the Evian summit records that Trump did not leave early and that there were none of the public spats that marred previous G7 meetings.",
+  "state":"EXPIRED_WITHOUT_MATCH",
+  "rationale":"Scored against the part of the claim that was his rather than the newsreader's. He prayed for divine delays so the trip would not happen and warned of an antichrist spirit working on the president's mind abroad. The trip went ahead in full, ended without incident and was less confrontational than the previous year's. Nothing he warned of occurred inside the stated window."}
+]

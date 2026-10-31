@@ -1,0 +1,26 @@
+{"relationships": [
+  {"from_claim": "cancers-thing-of-the-past", "to_claim": "internet-socialist-control",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "4WhvlFBHVyM", "evidence_start_s": 1303,
+   "note": "He moves from the healing wave straight to the demon on the internet waves, presenting the good development and the coming control as one sequence."},
+
+  {"from_claim": "europe-scans-private-messages", "to_claim": "internet-socialist-control",
+   "rel_type": "evidence_for", "asserted_by": "brandon",
+   "evidence_video": "4WhvlFBHVyM", "evidence_start_s": 1517,
+   "note": "He offers the European vote as the word coming to pass, which makes it his own nominated evidence for the wider internet control claim."},
+
+  {"from_claim": "churches-burned-giant-rises", "to_claim": "megachurch-conversions",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "0iOZJHUwyjQ", "evidence_start_s": 425,
+   "note": "He names the Islamic Brotherhood as the agent of the burnings, the same group named in the megachurch purchase claim."},
+
+  {"from_claim": "poland-war-spread", "to_claim": "warsaw-ww3-trigger",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "0iOZJHUwyjQ", "evidence_start_s": 1761,
+   "note": "He treats the Poland word and the Warsaw word as one thing when saying Poland is now happening."},
+
+  {"from_claim": "pieces-of-what-i-saw", "to_claim": "mantles-of-glory",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "0iOZJHUwyjQ", "evidence_start_s": 388,
+   "note": "Both give reasons why the record is incomplete: what he withholds by choice, and what he does not receive when he has not spent the time."}
+]}

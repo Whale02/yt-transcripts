@@ -1,0 +1,25 @@
+{"relationships": [
+  {"from_claim": "banks-rocket-clarity", "to_claim": "clarity-act-one-vote",
+   "rel_type": "contradicts", "asserted_by": "brandon",
+   "evidence_video": "jlQZ9XjWWus", "evidence_start_s": 210,
+   "note": "He says in one breath that the bill may not pass until 2027 because of the delay, which cuts against the earlier claim that it passes by a single vote."},
+
+  {"from_claim": "significant-artifact-found", "to_claim": "israel-revival",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "CoXY2EJ5oDA", "evidence_start_s": 3410,
+   "note": "He gives the artifact's purpose as conversion, saying the find will bring many Muslims to Jesus."},
+
+  {"from_claim": "israel-election-autumn", "to_claim": "two-state-third-temple",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "jlQZ9XjWWus", "evidence_start_s": 1066,
+   "note": "He names the trigger: the leader is taken out when he rejects a two-state solution, which ties the assassination to the two-state material."},
+
+  {"from_claim": "harris-2028-rebrand", "to_claim": "internet-socialist-control",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "jlQZ9XjWWus", "evidence_start_s": 1495,
+   "note": "The rebrand and the socialist push over the internet are given as one movement in the same broadcast, with the New York socialists as the connection."},
+
+  {"from_claim": "plague-2027-china-rats-europe", "to_claim": "only-a-spectator-psalm91",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "The 350 million figure and the exemption promised to the audience belong together: the toll is costless to hear because those listening are told it cannot touch them."}
+]}

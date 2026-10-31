@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "4d9d66f6bfa81c01",
+"claim_id": "trump-tames-the-dragon",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the Panama Canal named as where the dragon sits"
+},
+{
+"mention_id": "3e7d005617f434d7",
+"claim_id": "trump-tames-the-dragon",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "the communistic agenda broken for a season"
+},
+{
+"mention_id": "f6bce26b1e56ddca",
+"claim_id": "trump-tames-the-dragon",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "two dragons, the smaller North Korea, with an extension reaching Washington"
+},
+{
+"mention_id": "b196553b2e6f27e3",
+"claim_id": "trudeau-two-faced",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "the removal seen 1 January 2025, five days before the resignation was announced, which is the tightest version of this claim in the archive"
+},
+{
+"mention_id": "6ab716237889d031",
+"claim_id": "macron-schwab-removed-soon",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "Trudeau and Macron paired three weeks before the January telling; Trudeau went, Macron did not"
+},
+{
+"mention_id": "26f933bd9f499546",
+"claim_id": "canada-turnaround",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "deliverance promised and revival shore to shore"
+},
+{
+"mention_id": "a2b5295b4de70e50",
+"claim_id": "trudeau-two-faced",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "said to happen overnight"
+},
+{
+"mention_id": "166877fca87a297a",
+"claim_id": "italy-shaken-europe-revival",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "revival in France and Europe; whether this is the Italy word is not stated"
+},
+{
+"mention_id": "4dca8b0f835413c2",
+"claim_id": "global-revival-continents",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "Russia and Taiwan added, with the rising sun over Taiwan"
+},
+{
+"mention_id": "a1ebc0f70766e37d",
+"claim_id": "north-korea-liberation",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.9,
+"note": "the wall broken and the gospel spreading"
+},
+{
+"mention_id": "733b66870d352b6f",
+"claim_id": "kim-jong-un-removed",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "1 January 2025, three months earlier than the telling I had logged as the first"
+},
+{
+"mention_id": "00ffd77dd05b3616",
+"claim_id": "kim-jong-un-removed",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "China finding the successor, with angelic visitations following"
+},
+{
+"mention_id": "997d08f7e6405dc9",
+"claim_id": "china-gospel-window",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "freedom and liberty flowing through North Korea and into China"
+},
+{
+"mention_id": "b6b773068528e020",
+"claim_id": "amero-north-american-currency",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "he rules out the 51st state explicitly, which narrows the claim against the headline of the week"
+},
+{
+"mention_id": "771a9f355591af3d",
+"claim_id": "amero-north-american-currency",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the tax break and tariff plan given as the mechanism"
+},
+{
+"mention_id": "822f05a6cc867627",
+"claim_id": "amero-north-american-currency",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "the name Amero given, with Canadian oil and Mexican agriculture as the backing"
+},
+{
+"mention_id": "05dc2f0797e2246d",
+"claim_id": "amero-north-american-currency",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "he dates the original word over a year earlier; the April 2024 telling in this archive supports him"
+},
+{
+"mention_id": "ebbddc284293dc33",
+"claim_id": "crash-1930s",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the rocket plane rebuilt but not better, which lets a weak recovery count"
+},
+{
+"mention_id": "71b6535dc60c14b6",
+"claim_id": "great-humbling-of-america",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "set beside the founding fathers covenant"
+},
+{
+"mention_id": "048e08a86c6db5c3",
+"claim_id": "covenant-with-founding-fathers-restored",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the twigs and the breach; this 1 January telling precedes the February one"
+},
+{
+"mention_id": "08d3b0abe27a601b",
+"claim_id": "covenant-with-founding-fathers-restored",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the gap bridged by blessing Israel"
+},
+{
+"mention_id": "4fff8c6e619b9187",
+"claim_id": "covenant-with-founding-fathers-restored",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the three stranded cord and Jonathan and David"
+},
+{
+"mention_id": "6f72f93b48246446",
+"claim_id": "israel-revival",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "the rabbis recanting their teaching, which is the sharpest form of this claim"
+},
+{
+"mention_id": "490069eaa0e4dd16",
+"claim_id": "israel-deliverer-victory-celebration",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "he says again he does not know why they celebrate"
+},
+{
+"mention_id": "7059758164fee06d",
+"claim_id": "goshen-light-egypt-darkness",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the dividing line said to be going up now"
+},
+{
+"mention_id": "5c0ffbf7c36a7342",
+"claim_id": "terror-attacks-europe",
+"same_event": "unsure",
+"delta_type": "first_mention",
+"confidence": 0.5,
+"note": "attacks starting to try to take place in Europe; Europe sees attempted attacks most years, which is the base rate problem"
+},
+{
+"mention_id": "1a2c955e9bfdc2b4",
+"claim_id": "reprieve-four-years",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "no war before the inauguration and the economy held; prayed rather than seen"
+},
+{
+"mention_id": "1c7742c993992777",
+"claim_id": "north-korean-troops-to-russia",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the deployment was already being reported when he described it"
+},
+{
+"mention_id": "d542e5948bee9f87",
+"claim_id": "second-virus-lockdown",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Europe first is his; the fifty percent kill rate comes from the clip he is playing"
+},
+{
+"mention_id": "ca8b7a122092afb7",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a clip played on the channel"
+},
+{
+"mention_id": "18b555b7630d2a7f",
+"claim_id": "ukraine-files-burned",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "recounted as something he had already told them"
+},
+{
+"mention_id": "7c9f24ddc7fd467e",
+"claim_id": "grocery-shortage",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "FEMA food sacks, with a Chinese export strike as the cause"
+},
+{
+"mention_id": "87454ae4f6566898",
+"claim_id": "solomon-anointing-rebuild",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "28 December 2024, six weeks before the February telling"
+},
+{
+"mention_id": "4947fc5ffd4fa4ec",
+"claim_id": "megachurch-closures",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "mortgage notes given as the cause, eight months before the August telling"
+},
+{
+"mention_id": "62b4ecfacb7b847b",
+"claim_id": "north-korean-troops-to-russia",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "the men rejoicing to leave, and dying untrained"
+},
+{
+"mention_id": "5bb08494b70886d4",
+"claim_id": "hidden-cells-america",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "thousands, plotting now, to come up out of the ground when told"
+},
+{
+"mention_id": "7496911b9fb8c8a5",
+"claim_id": "golden-gate-bridge-attack",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the utility worker cover is the specific detail"
+},
+{
+"mention_id": "682ca5941109f44c",
+"claim_id": "virus-plot-defused-2024",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "he points at the California bird flu emergency as the virus arriving; it did not become one"
+},
+{
+"mention_id": "193c7e3c06794a82",
+"claim_id": "dome-over-america-blessing-israel",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the blessing tied to the incoming administration"
+},
+{
+"mention_id": "662fe91ce8a7a111",
+"claim_id": "greatest-harvest-of-souls",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the wave at its breaking point, one last time"
+},
+{
+"mention_id": "67a9b7effa7fc5e4",
+"claim_id": "greatest-harvest-of-souls",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "America full of wheat, the harvest at the last of the last"
+},
+{
+"mention_id": "4b3924611f5c2f85",
+"claim_id": "asia-revival",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the gold veins read as the underground churches"
+},
+{
+"mention_id": "760444257e30e6ec",
+"claim_id": "financial-harvest-before-souls",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the bread basket line, with missions funding as the purpose"
+},
+{
+"mention_id": "7cf68b6276c2543e",
+"claim_id": "dome-over-america-blessing-israel",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "declared over America"
+},
+{
+"mention_id": "b5165743eb856490",
+"claim_id": "ukraine-files-burned",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "repeated a week before the December telling, with the handover window named"
+},
+{
+"mention_id": "74a4a8b3eff86ca1",
+"claim_id": "extended-time-grant",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the turn for the remnant as the new government comes in"
+},
+{
+"mention_id": "ced1e9e51358f281",
+"claim_id": "asia-revival",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the language channels given as the assignment"
+},
+{
+"mention_id": "1efe587718a9c974",
+"claim_id": "million-prayer-army",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.9,
+"note": "the million figure stated plainly"
+},
+{
+"mention_id": "4ac247c04be4995e",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "channel housekeeping; the growth claim is about his own channel and self-reported"
+},
+{
+"mention_id": "c03082d0514660f6",
+"claim_id": "unconventional-weapons",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "technology used on disobedient crowds so they fall like flies; not clearly the same weapon as the Poland one"
+},
+{
+"mention_id": "e53cc31c02930f50",
+"claim_id": "robot-soldiers-replace-troops",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "drones alone would not meet it; he says robots replacing infantry"
+},
+{
+"mention_id": "3da19ef45965bc75",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "an analogy from the early internet"
+},
+{
+"mention_id": "a46dcda13c827b81",
+"claim_id": "beast-system-foundation",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "18 December 2024, two months before the February telling that was standing as the first"
+},
+{
+"mention_id": "4f9120a5e6bba82f",
+"claim_id": "lending-freeze",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "seven weeks after the November telling, with soon attached"
+},
+{
+"mention_id": "b1f5be87f8b3cf25",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "channel housekeeping"
+}
+]
+}

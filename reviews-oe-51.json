@@ -1,0 +1,107 @@
+[
+  {"video_id": "kcyoauFFjD0", "start_s": 1389, "claim_id": "congress-recess-new-york",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A published calendar read out. Nothing claimed."},
+
+  {"video_id": "kcyoauFFjD0", "start_s": 1609, "claim_id": "teach-them-to-hear-me",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The complaint about the pulpits again, now as what they should be preaching rather than what they are not."},
+
+  {"video_id": "kcyoauFFjD0", "start_s": 2575, "claim_id": "dont-want-to-become-what-i-see",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The most direct thing he has said about what the platform has shown him of other ministries. It belongs with mega-minister-conversation and not-mega-but-like-jesus."},
+
+  {"video_id": "kcyoauFFjD0", "start_s": 3596, "claim_id": "will-not-complain",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Worth noting the effect rather than the intent: it discourages the audience from voicing dissatisfaction with what arrives, including with what was promised and did not."},
+
+  {"video_id": "YCq4oFKaqL4", "start_s": 1035, "claim_id": "church-cleansing",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Describes a present state rather than forecasting one, which is how the cleansing claim keeps confirming itself."},
+
+  {"video_id": "YCq4oFKaqL4", "start_s": 1111, "claim_id": "red-dawn-experiences",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The move to watch: \"We're here.\" A forecast becomes a description of the present, so the arrival no longer has to be demonstrated."},
+
+  {"video_id": "YCq4oFKaqL4", "start_s": 1279, "claim_id": "closer-than-you-think-return",
+   "same_event": "yes", "delta_type": "restatement"},
+
+  {"video_id": "YCq4oFKaqL4", "start_s": 2828, "claim_id": "agenda-2030",
+   "same_event": "yes", "delta_type": "elaboration"},
+
+  {"video_id": "YCq4oFKaqL4", "start_s": 2975, "claim_id": "blood-wave-not-political",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Significant for the election thread. The red wave is here reinterpreted from an electoral result into a spiritual one, which would let a lost midterm still count as the wave arriving. Filed as its own claim and edge-linked to red-wave-2026 so the reinterpretation is visible."},
+
+  {"video_id": "YCq4oFKaqL4", "start_s": 3207, "claim_id": "street-address-vs-sentences",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The clearest statement anywhere of what he claims accuracy for: the sentences, not the street address. It licenses every wrong date and wrong place in the corpus while preserving the claim to accuracy."},
+
+  {"video_id": "OmFxbr3D8Gk", "start_s": 1101, "claim_id": "february-3-budget",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Told a week after 3 February had passed, still with no content attached to the number three."},
+
+  {"video_id": "OmFxbr3D8Gk", "start_s": 3935, "claim_id": "do-you-know-him-personally",
+   "same_event": "yes", "delta_type": "restatement"},
+
+  {"video_id": "OmFxbr3D8Gk", "start_s": 4447, "claim_id": "national-day-of-prayer-may",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A fixed calendar date with a condition attached, so any absence is read as insufficient humbling."},
+
+  {"video_id": "3-PvLM6tblM", "start_s": 3127, "claim_id": "sheep-goat-nations-un",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The sorting is at the judgment rather than in history, so nothing here resolves within any timeframe."},
+
+  {"video_id": "3-PvLM6tblM", "start_s": 4435, "claim_id": "contend-2026",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Contend and do not be lazy put any failure on the audience, which is now a settled pattern across the prayer claims."},
+
+  {"video_id": "3-PvLM6tblM", "start_s": 4600, "claim_id": "agenda-2030",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The most consequential line in the batch. He says prayer \"only delays the inevitable\" and that Agenda 2030 will come to full fruition. That concedes the intercession cannot prevent the outcome he asks them to pray against, which cuts against vision-is-a-prayer-target. Recorded as stated."},
+
+  {"video_id": "3-PvLM6tblM", "start_s": 4665, "claim_id": "one-more-round-of-increase",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Same structure as a-window-not-a-door: the good period is finite and unrepeatable, so a missed blessing is the listener's loss rather than a failed word."},
+
+  {"video_id": "3-PvLM6tblM", "start_s": 4995, "claim_id": "demonic-assignments-fall",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "3-PvLM6tblM", "start_s": 5257, "claim_id": "ceremonies-illuminati-olympics",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The claim is about meaning rather than occurrence: symbolism read into ceremonies that will take place regardless. Nothing has to happen for it to be counted."},
+
+  {"video_id": "3-PvLM6tblM", "start_s": 5663, "claim_id": "pockets-of-turbulence",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Rapids adds an image to turbulence without adding a threshold, and locates it in front of the banks."},
+
+  {"video_id": "3-PvLM6tblM", "start_s": 5753, "claim_id": "one-man-brings-agreement-kushner",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He hedges the identification with looked like rather than asserting it, which is the honest version and is preserved in the certainty field."},
+
+  {"video_id": "3-PvLM6tblM", "start_s": 6025, "claim_id": "outshine-the-bunny",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Both halves are countable, the channel's growth and the brand's decline, though who the bunny is is gestured at rather than said."},
+
+  {"video_id": "3-PvLM6tblM", "start_s": 6226, "claim_id": "ministers-no-backbone",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The crowbar image again, now as a declaration over the righteous rather than a rebuke of ministers."},
+
+  {"video_id": "P8iv0CFojcg", "start_s": 561, "claim_id": "purple-three-mountain",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The purple three finally gets a location: a mountaintop, with Italy named alongside. Worth crediting the discipline here, he separates what was in the word from what was not and says the volcano was not in this one."},
+
+  {"video_id": "P8iv0CFojcg", "start_s": 652, "claim_id": "minnesota-corruption-uncovered",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "Seventh telling. The squad narrows it to a handful of people and he still does not name her."},
+
+  {"video_id": "P8iv0CFojcg", "start_s": 690, "claim_id": "minnesota-corruption-uncovered",
+   "same_event": "yes", "delta_type": "elaboration"},
+
+  {"video_id": "P8iv0CFojcg", "start_s": 727, "claim_id": "seat-of-authority-november",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "P8iv0CFojcg", "start_s": 806, "claim_id": "february-3-budget",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Said the day after the date passed, and he still says he does not understand what he was seeing. The stench concerning decisions is the closest the thread ever came to content, and it arrived too late to be a forecast."}
+]

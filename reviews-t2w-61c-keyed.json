@@ -1,0 +1,20 @@
+{
+"reviews": [
+{
+"mention_id": "bff19ebeea94190a",
+"claim_id": "short-window-for-major-revival",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "The strongest form of the claim and the earliest: a three-year window given as the Lord speaking. No start date is attached, so the three years cannot be timed."
+},
+{
+"mention_id": "09946f2d46dd9b8b",
+"claim_id": "short-window-for-major-revival",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.75,
+"note": "Three and a half years rather than three, and recorded in his favour that he downgrades it to his own prayer rather than a word and disclaims knowing the day or the hour."
+}
+]
+}

@@ -1,0 +1,111 @@
+[
+  {"video_id": "mdXXTm-aWEU", "start_s": 38, "claim_id": "vision-is-a-prayer-target",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "The standing frame again: coming together tonight changes things."},
+
+  {"video_id": "mdXXTm-aWEU", "start_s": 1605, "claim_id": "crypto-five-pillars",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "The original telling naming the five is in this corpus, so the performance claim is checkable at both ends."},
+
+  {"video_id": "mdXXTm-aWEU", "start_s": 3422, "claim_id": "bleeding-of-our-tax",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "M5FxVJVwU2s", "start_s": 967, "claim_id": "thousand-of-them-detailed",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The claimed hit rests on detail in an earlier telling, including what they were wearing. That earlier telling is in this corpus, so whether it carries the detail he claims can be checked. Flagged for the evidence pass."},
+
+  {"video_id": "M5FxVJVwU2s", "start_s": 2779, "claim_id": "prayer-meetings-without-praying",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A criticism aimed at exactly the practice his own channel is built on, which is worth having in his own words."},
+
+  {"video_id": "M5FxVJVwU2s", "start_s": 3174, "claim_id": "passover-april-1-acceleration",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Acceleration has no threshold anywhere in the corpus, but the start date here is specific, which is unusual for that word."},
+
+  {"video_id": "M5FxVJVwU2s", "start_s": 3226, "claim_id": "tribulation-shmita",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He supplies the escape himself: it could be the next seven year cycle instead, which moves it a further seven years out without withdrawing anything."},
+
+  {"video_id": "M5FxVJVwU2s", "start_s": 3837, "claim_id": "canada-persecution",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Fifth on-air replay of an original recording, with the date pinned from the archive rather than from memory."},
+
+  {"video_id": "M5FxVJVwU2s", "start_s": 3931, "claim_id": "olive-press-fresh-oil",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Now explicitly glossed: pressure and persecution are what produce the oil, so hardship is the confirmation. Same structure as shaking-to-the-waking."},
+
+  {"video_id": "M5FxVJVwU2s", "start_s": 4380, "claim_id": "watch-carney",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A named head of government called a devil, with no act attached and nothing that could disconfirm it. Recorded as stated."},
+
+  {"video_id": "1L7tKIvSMyY", "start_s": 310, "claim_id": "visions-while-driving",
+   "same_event": "yes", "delta_type": "restatement"},
+
+  {"video_id": "1L7tKIvSMyY", "start_s": 918, "claim_id": "april-1-signs-in-heavens",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Meteors enter the atmosphere continuously, so the signs half is close to unmissable. The April start date is the only firm part."},
+
+  {"video_id": "1L7tKIvSMyY", "start_s": 1934, "claim_id": "banks-lights-off-strategic",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He rules out the armed robbery reading and supplies no alternative, so the claim has a scene and no content."},
+
+  {"video_id": "1L7tKIvSMyY", "start_s": 2181, "claim_id": "retaliation-attack-within",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The hidden cells claim again in a different form, still with no date. Linked to hidden-cells-america."},
+
+  {"video_id": "1L7tKIvSMyY", "start_s": 2558, "claim_id": "heart-beating-for-america",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "By his own colour key from January, black means darkness, so this is a picture of a nation mostly dark with a sliver of life."},
+
+  {"video_id": "1L7tKIvSMyY", "start_s": 3351, "claim_id": "good-report-at-the-doctor",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Any large audience produces both good and bad reports, and only the good ones return as testimony."},
+
+  {"video_id": "e9umIfTFnMM", "start_s": 1748, "claim_id": "prophetic-method-in-part",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The clearest admission of the limit: he does not claim to know when. Worth setting beside the dated claims made in the same session."},
+
+  {"video_id": "e9umIfTFnMM", "start_s": 1801, "claim_id": "clock-face-months-2027",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Fourth distinct account of how dates arrive, after the camera lens, the zooming and the clock face: a tear-off calendar fanned in front of him."},
+
+  {"video_id": "e9umIfTFnMM", "start_s": 1836, "claim_id": "wormwood-april-13-2029",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The most checkable date in the batch and the least prophetic. 13 April 2029 is the published close approach of the asteroid Apophis and it is a Friday, so the date is taken from astronomy rather than seen. He frames it as if that is true, which is the honest marker. Linked to wormwood-poison-water and to april-13-holocaust-remembrance, the other April 13."},
+
+  {"video_id": "e9umIfTFnMM", "start_s": 2175, "claim_id": "shake-the-nations-three-years",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Narrows a three year span to a single day, 1 April. That is a real tightening and it can fail on the day."},
+
+  {"video_id": "e9umIfTFnMM", "start_s": 2263, "claim_id": "engines-run-on-water",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He anticipates disbelief and offers it anyway, which is worth recording as told."},
+
+  {"video_id": "e9umIfTFnMM", "start_s": 2309, "claim_id": "passover-april-1-acceleration",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Double is a quantity word attached to something that was never measured, so it adds emphasis rather than precision."},
+
+  {"video_id": "e9umIfTFnMM", "start_s": 3307, "claim_id": "mass-shooting-gatherings",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "A one week window over places of worship and celebration. The word successful does the work: a foiled plot counts as the prayer working, and no plot at all counts the same way."},
+
+  {"video_id": "e9umIfTFnMM", "start_s": 4308, "claim_id": "sept11-2026-groundzero",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Ties the September 11th date to Rosh Hashanah and the harvest."},
+
+  {"video_id": "e9umIfTFnMM", "start_s": 4367, "claim_id": "clock-face-months-2027",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Months seen in sequence with no content attached, arrived at by reading forward."},
+
+  {"video_id": "e9umIfTFnMM", "start_s": 5567, "claim_id": "sept11-2026-groundzero",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Adds the barge on the Mississippi to the September thread."},
+
+  {"video_id": "e9umIfTFnMM", "start_s": 6547, "claim_id": "prophetic-chatter-about-2028-is-false",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A direct call against other prophetic voices, which is rare and can fail. It also puts him on record before the fact rather than after."},
+
+  {"video_id": "e9umIfTFnMM", "start_s": 6599, "claim_id": "darkness-around-2028",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Sits directly against the optimistic 2028 chatter he calls false in the same session, which is the point: he is staking out the opposite position. Darkness is still undefined."}
+]

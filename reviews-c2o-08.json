@@ -1,0 +1,19 @@
+{"reviews": [
+ {"video_id": "yD10bf59reQ", "start_s": 38, "claim_id": "red-dawn-experiences", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "where the Red Dawn phrase came from, alongside BRICS breaking with the West"},
+ {"video_id": "yD10bf59reQ", "start_s": 82, "claim_id": "great-war-escalation", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.8, "note": "the KGB spirit over Putin and the peace and safety line from 1 Thessalonians"},
+ {"video_id": "yD10bf59reQ", "start_s": 132, "claim_id": "syria-peace-agreement", "same_event": "unsure", "delta_type": "new_detail", "confidence": 0.6, "note": "an unnamed party coming to Syria's defence against Israeli strikes; unsure because the existing claim is about an agreement rather than a defender"},
+ {"video_id": "yD10bf59reQ", "start_s": 172, "claim_id": "saudi-brics", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.8, "note": "Putin, Xi and North Korea named together against the dollar"},
+ {"video_id": "yD10bf59reQ", "start_s": 218, "claim_id": "amero-north-american-currency", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.8, "note": "the 51st state remark quoted from that day's news"},
+ {"video_id": "yD10bf59reQ", "start_s": 298, "claim_id": "withheld-israel-iran-targets", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "specific targets shown and withheld entirely"},
+ {"video_id": "yD10bf59reQ", "start_s": 350, "claim_id": "antisemitic-uprising-america", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the uprising said to be fixed rather than conditional"},
+ {"video_id": "yD10bf59reQ", "start_s": 829, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "a petition over America and Canada"},
+ {"video_id": "yD10bf59reQ", "start_s": 867, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.8, "note": "a petition over Latin America, carrying an unsupported allegation about a named leader"},
+ {"video_id": "yD10bf59reQ", "start_s": 990, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "a petition over Asia, India and Pakistan"},
+ {"video_id": "yD10bf59reQ", "start_s": 2384, "claim_id": "trump-lion-tamer-lavender", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.8, "note": "the earliest whip image in the corpus, seventeen months before the lion tamer telling"},
+ {"video_id": "R25p0fPXgc4", "start_s": 494, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "a reaction to the March 2025 Syrian coastal massacres, already reported"},
+ {"video_id": "R25p0fPXgc4", "start_s": 566, "claim_id": "shaking-to-the-waking", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.8, "note": "a window now, before the great shaking, with no stated end"},
+ {"video_id": "R25p0fPXgc4", "start_s": 875, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "a call to prayer over Israel and Iran"},
+ {"video_id": "R25p0fPXgc4", "start_s": 1620, "claim_id": "weather-warfare-drought", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "a published National Weather Service forecast read out and interpreted as weather manipulation"},
+ {"video_id": "H_nU1IqavLA", "start_s": 238, "claim_id": "trudeau-two-faced", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "the replacement seen; Carney had been sworn in the day before and he says he does not know whether it has happened"},
+ {"video_id": "dUKzH6EBUbY", "start_s": 1052, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "declarative intercession over continents"}
+]}

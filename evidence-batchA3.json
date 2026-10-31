@@ -1,0 +1,46 @@
+{
+ "_note": "Job A batch 3, 30 August 2026. Dated single-event claims. Reality only; base rates named.",
+ "evidence": [
+  {"claim_id": "easter-service-plots",
+   "observed_on": "2026-04-05",
+   "source_url": "https://www.france24.com/en/africa/20260406-nigeria-troops-rescue-easter-worshippers-after-deadly-church-attack-christians",
+   "summary": "Gunmen raided a Catholic and an evangelical church in Ariko village, Kachia local government area of Kaduna State, Nigeria during Easter services on 5 April 2026, killing at least five and seizing 31 worshippers, all of whom troops later rescued. Coordinated Easter weekend attacks across Benue, Kaduna and Nasarawa states killed dozens, including at least 17 Christians at Mbalom in Benue on Easter Sunday morning. No attack on a United States church was reported at Easter 2026.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "Two elements landed and both are heavily discounted by base rate. He said on 19 February, six weeks ahead, that he saw plots against Easter services, and on 23 March he added that it was not just here because he saw Africa highlighted. Churches in Nigeria were attacked at Easter, in Africa. But reporting on the incident notes explicitly that this is consistent with a pattern of violence during major Christian holidays in Nigeria's Middle Belt and north over the past five years, so an Easter attack on a Nigerian church is close to an annual expectation rather than a surprise. Worse for the call, the story was already national news when he gave the word: in January 2026, before his 19 February telling, bandits took more than 170 worshippers from three churches during mass in Kaduna. His own primary framing was American, praying over their churches and the White House Easter egg hunts, and nothing happened to a US church. The detail he added on 23 March, attacks on the Muslim side, does not describe what occurred, which was gunmen attacking Christians."},
+
+  {"claim_id": "sugar-bowl-new-orleans",
+   "observed_on": "2026-01-01",
+   "source_url": "https://geauxguard.la.gov/?p=40212",
+   "summary": "The 92nd Sugar Bowl was played in New Orleans on 1 January 2026 without incident. Louisiana National Guard soldiers under Task Force Defender supported the State Police and the Department of Wildlife and Fisheries in the French Quarter from 29 December 2025 to 1 January 2026 for New Year celebrations and the game. The day marked the first anniversary of the 1 January 2025 Bourbon Street truck attack, which killed 14 and forced a 24-hour postponement of that year's Sugar Bowl; the 2026 fireworks included a heart-shaped tribute to the 14 victims.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "Nothing happened at the game or in the city. The priority problem is severe and it is the reason this one is worth recording rather than passing over. He named New Orleans and the Sugar Bowl on 18 and 20 December 2025, which is twelve months after a mass-casualty attack at exactly that place, on exactly that date, tied to exactly that game, and three months before the anniversary was already driving a Guard deployment and saturation news coverage. Naming that date and place in December 2025 required no vision. The telling is also unstable inside itself: on 18 December he says this is when it is going to be, immediately corrects to expect the unexpected, moves the target off New Year's Eve and onto the football, and has to ask when the Sugar Bowl is played before settling on 1 January."},
+
+  {"claim_id": "times-square-new-years-eve",
+   "observed_on": "2026-01-02",
+   "source_url": "https://www.justice.gov/opa/pr/fbi-disrupts-alleged-new-years-eve-attack-man-charged-attempting-provide-material-support",
+   "summary": "The Times Square New Year's Eve celebration on 31 December 2025 passed without incident. The NYPD reported no specific credible threats and flew six drones over Times Square, up from four the previous year. Separately, the FBI disrupted an ISIS-inspired New Year's Eve plot in Mint Hill, North Carolina, near Charlotte: Christian Sturdivant, 18, was charged with attempting to provide material support to a foreign terrorist organisation over a plan to stab civilians at a grocery store and a fast food restaurant. The complaint was filed on 31 December 2025 and unsealed on 2 January 2026.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "He withdraws it himself in the same sentence he raises it: asked whether something is coming this 31 December, he says he is not saying that, that he sees in part and hears in part, and turns it into a prayer target. A question hedged that way cannot fail, and nothing happened. Two things worth recording against the later handling. On 12 May 2026 he says he saw major disruption coming for New Year's Eve specifically against New York Times Square, that here is one that was completely stopped, and that they did not announce it to the people until now. The only disrupted New Year's Eve plot on the public record is the North Carolina one, roughly 600 miles from Times Square, targeting a grocery store, and the Justice Department announced it on 2 January 2026, four months before he said it had been withheld. That is a fulfilment assertion contradicted on both the place and the concealment, and it belongs in the fulfilment table as well as here."},
+
+  {"claim_id": "adams-lease-expires",
+   "observed_on": "2026-08-30",
+   "source_url": "https://www.hebcal.com/holidays/rosh-hashana-2025",
+   "summary": "Rosh Hashanah 5786 fell on 22-24 September 2025. No transition of the kind described began at or after it. Eleven months on, no event has been identified by him or by any source as the expiry of Adam's lease.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "The window he named, from Rosh Hashanah in September 2025, has passed with nothing, and on 30 August 2025 he narrowed it further to that month. The claim rests on a six-thousand-year lease scheme that is a reading rather than an observation, so its expiry has no public marker, and he supplies none afterwards. His own falsifier already names the escape route, and it is the important part of this record: the four-year reprieve claim, given in December 2024, explains a non-event in advance, so this window could be missed without cost before it opened. Recorded as expired rather than unfalsifiable because he did attach it to a specific dated feast rather than leaving it open."},
+
+  {"claim_id": "alien-ship-november-2025",
+   "observed_on": "2025-12-19",
+   "source_url": "https://www.pbs.org/newshour/science/interstellar-comet-3i-atlas-will-make-closest-approach-to-earth-on-friday",
+   "summary": "3I/ATLAS, the third confirmed interstellar object, was discovered on 1 July 2025. It reached perihelion on 29 October 2025 and made its closest approach to Earth on 19 December 2025 at about 167 million miles, on the far side of the Sun. ESA's JUICE observed it between 2 and 25 November 2025 and Japan's XRISM in late November. It is classified as a comet. No institution, Harvard included, has stated that it is a spacecraft; that reading comes from an individual Harvard astrophysicist's speculation, not an institutional position.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "There was a real object and a real date near the ones repeated to him, and perihelion on 29 October matches the 29 and 31 October he mentions on 27 October. That is where the credit stops. This is not his claim and he says so: he reports that after he gave his UFO word, people started telling him Harvard had announced something. Under the rule that only what he states is recorded, what he states is that viewers told him this. The content of what they told him is wrong in two ways that can be checked. The arrival was not November, it was 19 December for Earth approach and 29 October for perihelion, both published months in advance from the orbit. And Harvard announced no alien ship. Recorded partial for the object, with the attribution error noted, rather than scored as either a hit or a miss on his own account."},
+
+  {"claim_id": "april-13-holocaust-remembrance",
+   "observed_on": "2026-04-13",
+   "source_url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-the-days-of-remembrance-of-victims-of-the-holocaust/",
+   "summary": "Yom HaShoah was observed from the evening of Monday 13 April to Tuesday 14 April 2026, marked by the usual commemorations and a presidential message. Nothing beyond the annual observance occurred on the date.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "The date passed with only the observance that the date exists to hold. The more useful observation is that there was never any content to fail. He says outright that he does not understand it and that it does not matter, only that it is to be prayed out, so no outcome on 13 April could have contradicted him. The date itself is not a finding either: he describes working out that the circled day is 13 April, Holocaust Remembrance Day, from a calendar, and Yom HaShoah 5786 was fixed and published years ahead by the Hebrew calendar. What remains is a date derived from a public source with no stated event attached to it."}
+ ]
+}

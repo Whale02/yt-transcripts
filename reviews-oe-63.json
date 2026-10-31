@@ -1,0 +1,91 @@
+[
+  {"video_id": "aYNy8bxXKrs", "start_s": 1921, "claim_id": "antichrist-seen-2014",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He says himself he has been trying to find the man time and time again for twelve years without success. That is the honest state of the claim and it belongs in the record."},
+
+  {"video_id": "aYNy8bxXKrs", "start_s": 2387, "claim_id": "he-wont-make-it-without-prayer",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The starkest version yet of the survival material: he will not make it unless they pray. Completion of the term is then credited to the prayer, so neither outcome can count against it."},
+
+  {"video_id": "aYNy8bxXKrs", "start_s": 3064, "claim_id": "not-ready-for-what-you-ask",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Doubles as an explanation for why a promised increase has not arrived: you were not ready for it."},
+
+  {"video_id": "aYNy8bxXKrs", "start_s": 4833, "claim_id": "robbery-starting-in-may",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Fifth thing hung on May, and no place is named."},
+
+  {"video_id": "4EEOGvIPfFM", "start_s": 1093, "claim_id": "a-girl-in-may-2026",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Adds no miscarriages and a healthy term. Only the family can report either way, and only good outcomes tend to come back as testimony."},
+
+  {"video_id": "4EEOGvIPfFM", "start_s": 1210, "claim_id": "trailblazer-not-tailwind",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "4EEOGvIPfFM", "start_s": 1494, "claim_id": "trailblazer-not-tailwind",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Inoculates against rejection by anyone in a position to assess the claim: being told there is no call on your life is recast as evidence you have one."},
+
+  {"video_id": "4EEOGvIPfFM", "start_s": 2176, "claim_id": "april-19-may-1-occult-window",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The Boston Marathon is picked because it falls inside the anniversary window rather than from anything shown, and it has its own history that supplies the association."},
+
+  {"video_id": "4EEOGvIPfFM", "start_s": 4145, "claim_id": "confirmation-by-witness",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The confirmation standard in this material: agreement between two people who already agree, with formal training explicitly not required."},
+
+  {"video_id": "4EEOGvIPfFM", "start_s": 5296, "claim_id": "javelins-at-young-anointing",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The Saul and David image again, with the older generation cast as the threat to the younger."},
+
+  {"video_id": "4EEOGvIPfFM", "start_s": 5481, "claim_id": "javelins-at-young-anointing",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "A judgment about other ministers' motives, attributed to the Lord."},
+
+  {"video_id": "4fTnqDOIePk", "start_s": 1529, "claim_id": "another-one-in-2027",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "What another one refers to is never stated. Filed empty so a later specification can be attached to it."},
+
+  {"video_id": "4fTnqDOIePk", "start_s": 1576, "claim_id": "water-supply-attack-gulf-states",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "A real dated federal warning about Iranian hackers and critical water and energy systems, offered as fulfilment. His March telling did name water infrastructure, so this one is checkable at both ends and is among the stronger fulfilment claims in the corpus. Flagged for the evidence pass."},
+
+  {"video_id": "4fTnqDOIePk", "start_s": 1908, "claim_id": "support-jews-not-government",
+   "same_event": "unsure", "delta_type": "no_claim",
+   "note": "An aside about a figure and a light failing mid-broadcast. Nothing claimed."},
+
+  {"video_id": "4fTnqDOIePk", "start_s": 7313, "claim_id": "do-you-know-him-personally",
+   "same_event": "yes", "delta_type": "restatement"},
+
+  {"video_id": "4fTnqDOIePk", "start_s": 8159, "claim_id": "coachella-major-events-watched",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A named event with no act attached, the same shape as the airport, stadium and parade prayers."},
+
+  {"video_id": "sNsgdTx5NPM", "start_s": 44, "claim_id": "valley-of-decisions-make-or-break",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Describes the method plainly and without embarrassment: the separate pieces from months of sessions are assembled afterwards into a single picture."},
+
+  {"video_id": "sNsgdTx5NPM", "start_s": 528, "claim_id": "we-are-the-news",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The accuracy claim in its testable form, and stated as an instruction he was given: say it with accuracy and boldness and you will see it in the news."},
+
+  {"video_id": "jonj7Nq5hG8", "start_s": 780, "claim_id": "greater-flow-to-the-sold-out",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The condition means a missing restoration shows insufficient devotion rather than a failed word."},
+
+  {"video_id": "sNsgdTx5NPM", "start_s": 892, "claim_id": "no-plan-b-supreme-court",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The strongest fulfilment claim in the batch. He says a February telling linked an adverse tariff ruling to plan B and to war, and that both have now happened, including a strike on Iran. The February telling is inside this corpus and the events are matters of record, so both halves can be checked. Top of the evidence-pass list alongside the Naples quake."},
+
+  {"video_id": "sNsgdTx5NPM", "start_s": 1403, "claim_id": "oil-rain-in-russia",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "A dated news event read out and then attached to the agenda claim, which is the recurring join."},
+
+  {"video_id": "sNsgdTx5NPM", "start_s": 1693, "claim_id": "agenda-2030",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "A real headline read as evidence of a coordinated programme. The headline is real; the reading of it is the claim, and the mention keeps them apart."},
+
+  {"video_id": "zaCMLnzdWHQ", "start_s": 1761, "claim_id": "battleground-senate-2026",
+   "same_event": "unsure", "delta_type": "contradiction",
+   "note": "Five tellings since January said the Senate flips blue. Here the Lord says you can win the Senate. That is a reversal of the settled call, recorded as a contradiction rather than smoothed into it."}
+]

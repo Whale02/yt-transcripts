@@ -1,0 +1,14 @@
+[
+ {"claim_id":"trump-approval-25-percent","label":"The president's approval falls to 25 per cent","domain":"politics",
+  "description":"A figure of twenty five per cent seen on the president's approval rating, with a stalemate presidency, given alongside the claim that the real danger is to his children rather than to him.",
+  "aliases":["his approval rating will go down to 25%","he'll have a stalemate presidency"]},
+ {"claim_id":"riots-blamed-on-red-hats","label":"Rioting in New York staged and blamed on the far right","domain":"unrest",
+  "description":"Great rioting in New York in the days ahead, staged so that it is blamed on the far right by the red hats, when he says it was not them but the people organising it.",
+  "aliases":["target to cause great rioting in New York in the days ahead","they would blame it upon their far right with mega hats","it was not. It was them"]},
+ {"claim_id":"france-cathedrals-burn","label":"Thousand year old French cathedrals burned and destroyed","domain":"religion",
+  "description":"The Islamic Brotherhood rising huge in France, with cathedrals over a thousand years old burning there and Notre Dame burning again, this time seen completely destroyed rather than damaged.",
+  "aliases":["the Islamic Brotherhood will rise up huge in France","cathedrals that are over a thousand years old burning in France","I saw them completely destroyed"]},
+ {"claim_id":"ministry-surplus-20-million","label":"A twenty million surplus and the church note paid off","domain":"ministry",
+  "description":"The number twenty million called in as a surplus, from two million to twenty million, alongside a declaration that the church note is paid off in full, given as jet fuel for what is coming.",
+  "aliases":["I see the number 20 million. A surplus","the two million to the 20 million","the church note paid off in full"]}
+]

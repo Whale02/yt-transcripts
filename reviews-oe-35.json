@@ -1,0 +1,103 @@
+[
+  {"video_id": "wP9qZYC_Cv4", "start_s": 248, "claim_id": "worship-clip-glory",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Someone else's material, with the content explicitly unheard. Nothing to score."},
+
+  {"video_id": "wP9qZYC_Cv4", "start_s": 295, "claim_id": "worship-clip-glory",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He rules out the clip being about 2028, which is worth keeping because the video is titled for 2027 and 2028."},
+
+  {"video_id": "wP9qZYC_Cv4", "start_s": 830, "claim_id": "spiritual-stretch-marks",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "wP9qZYC_Cv4", "start_s": 871, "claim_id": "extended-time-grant",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The extension mechanism in full: prayer earned more time, so the unfulfilled collapse is deferred rather than wrong. Adds the 1930s on steroids benchmark and the cracking dam. System edges to crash-1930s and economy-dam-cracks."},
+
+  {"video_id": "wP9qZYC_Cv4", "start_s": 2035, "claim_id": "rapture-any-time",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Flatly contradicts rapture-by-2028 and rapture-hope-2028: here it may be twenty years away and nobody knows. Marked as a contradiction edge rather than reconciled, since he holds both without noting the conflict."},
+
+  {"video_id": "wP9qZYC_Cv4", "start_s": 6826, "claim_id": "atlanta-airport-hedge",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A named airport with no act and no date, prayed as a hedge. An incident confirms the warning, no incident confirms the hedge."},
+
+  {"video_id": "wP9qZYC_Cv4", "start_s": 9589, "claim_id": "weekly-services-january",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Checkable from inside the corpus against the upload record, like year-mapped-each-december."},
+
+  {"video_id": "UfXV5KCRNn0", "start_s": 143, "claim_id": "city-exodus",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Puts a window on it, the next year or two, which the claim lacked. Domestic migration out of large cities is already a long-running trend, so a match here carries little information."},
+
+  {"video_id": "UfXV5KCRNn0", "start_s": 991, "claim_id": "four-more-sim-card-sites",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A rare countable claim: four other sites. It can be checked and it can fail. Distinct from hidden-cells-america, which is about people rather than infrastructure."},
+
+  {"video_id": "UfXV5KCRNn0", "start_s": 1034, "claim_id": "four-more-sim-card-sites",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Anchors it to the real September seizure before the UN meetings. The prediction is an extrapolation forward from a widely covered news event, which is the honest way to describe it."},
+
+  {"video_id": "UfXV5KCRNn0", "start_s": 1821, "claim_id": "holy-spirit-teaches-all-things",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "UfXV5KCRNn0", "start_s": 4630, "claim_id": "place-called-there",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Relocation advice delivered as a question, which keeps it from being a directive anyone could be held to."},
+
+  {"video_id": "UfXV5KCRNn0", "start_s": 5021, "claim_id": "water-in-little-bottles",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Belongs with water-shortage-relocation and racial-riots-food-water; linked by a system edge rather than merged, since no place is named here."},
+
+  {"video_id": "UfXV5KCRNn0", "start_s": 6565, "claim_id": "looking-beyond-2028",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Who they are is never said. States are always planning past the next election, so this cannot miss."},
+
+  {"video_id": "UfXV5KCRNn0", "start_s": 6635, "claim_id": "fall-2027-circled",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Ping is left as a bare name. The obvious referent is not confirmed by him and I have not filled it in, though the China topic tag follows from the surrounding passage. Sits next to plague-2027-china-rats-europe, linked by a system edge."},
+
+  {"video_id": "UfXV5KCRNn0", "start_s": 6854, "claim_id": "year-2032-highlighted",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A number with no content, and he says so: he does not know why he is seeing it."},
+
+  {"video_id": "UfXV5KCRNn0", "start_s": 6892, "claim_id": "year-2032-highlighted",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The skip from 2028 to 2032 with the intervening years unseen. A gap in what he saw is not a claim about the world, and the falsify fields say so."},
+
+  {"video_id": "UfXV5KCRNn0", "start_s": 6938, "claim_id": "year-2032-highlighted",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "2028 clouded. Recorded as hedged: he says he does not know what he is seeing."},
+
+  {"video_id": "UfXV5KCRNn0", "start_s": 7007, "claim_id": "kim-jong-un-role",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Puts the Kim vision in 2027 and 2028, which the claim did not have. The content of that vision is not restated here, so the window sharpens without the substance doing so."},
+
+  {"video_id": "UfXV5KCRNn0", "start_s": 7395, "claim_id": "storm-worse-than-covid",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Glossolalia with the storm surfacing in English. No propositional content, but it is where the storm thread starts in this session, so it anchors the claim."},
+
+  {"video_id": "UfXV5KCRNn0", "start_s": 7870, "claim_id": "football-stadium-tornado",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Worth flagging alongside harvard-bricks-vision: he declines the interpretation that would make the claim bigger, saying he saw nothing indicating the Super Bowl or the NFL. That restraint is real and belongs on the record."},
+
+  {"video_id": "UfXV5KCRNn0", "start_s": 8086, "claim_id": "storm-worse-than-covid",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Adds the mechanism, going to the future in the spirit, and stops the sight at Ping."},
+
+  {"video_id": "UfXV5KCRNn0", "start_s": 8137, "claim_id": "storm-worse-than-covid",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The largest claim in the batch and one of the largest in the corpus: something in 2027 or 2028 that exceeds COVID. Unlike most of the big ones it carries a window, so it can come due."},
+
+  {"video_id": "UfXV5KCRNn0", "start_s": 8170, "claim_id": "year-2032-highlighted",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The black line and the clouds after a storm. The content of those years is exactly what he says he could not see, so nothing here can be scored."},
+
+  {"video_id": "UfXV5KCRNn0", "start_s": 8996, "claim_id": "wilkerson-new-york-fires",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The move worth naming: an older prophecy that has not landed in fifty years is taken up and the gap attributed to delay rather than failure. Same structure as extended-time-grant, applied to somebody else's word. Linked to newyork-shaking-2027 by a system edge."},
+
+  {"video_id": "btBCeTHs7Qg", "start_s": 40, "claim_id": "election-2026-outcome-seen",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He says he saw the outcome and then does not say what it was, conditioning it on the church rising. Recorded that way rather than filled in from red-wave-2026, which would be putting an answer in his mouth."}
+]

@@ -1,0 +1,60 @@
+{
+ "_note": "Job A batch 4, 30 August 2026. Dated geopolitical and read-aloud claims. Reality only; priority and base rates named.",
+ "evidence": [
+  {"claim_id": "tariff-war-predicted",
+   "observed_on": "2025-04-02",
+   "source_url": "https://www.brookings.edu/articles/four-reasons-trumps-economic-agenda-hasnt-tanked-the-economy/",
+   "summary": "Trump announced the 2 April 2025 tariffs publicly in advance and posted about the implementation date on Truth Social. The average US tariff rate rose from 2.4 percent on inauguration day to a peak of 28.0 percent in April 2025. A full-text search of this corpus finds exactly one tariff passage before the January 2025 inauguration, on 6 December 2024, and in it he is recounting Trump's own published threat to put a 100 percent tariff on countries joining BRICS, a threat Trump made publicly on 30 November 2024.",
+   "state": "CONTRADICTED",
+   "rationale": "The claim on the record is not that tariffs would come but that he called them in advance, and that is the part this corpus can settle against itself. There is no tariff word before the policy. The single pre-inauguration passage repeats a public Trump statement made six days earlier, and he attaches the phrase that he has seen all this in the spirit before to a policy Trump had already announced. His own 2 April telling makes the point for him, because what he offers as confirmation is Trump posting the implementation date on Truth Social. The 7 April vision of a massive drain comes five days after Liberation Day, when the market fall was the only story in the news. Scored as contradicted on the priority claim, which is the claim he actually makes, not on whether tariffs happened."},
+
+  {"claim_id": "canada-election-april-2025",
+   "observed_on": "2025-04-28",
+   "source_url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10244/",
+   "summary": "In the Canadian federal election of 28 April 2025 the Liberal Party under Mark Carney won 169 seats on 43.8 percent of the vote, three short of the 172 needed for a majority, and formed a minority government. The Conservatives took 144 seats on 41.3 percent, the Bloc Quebecois 22 and the NDP 7. The campaign was dominated by affordability, tariffs and annexation threats from the United States.",
+   "state": "CONTRADICTED",
+   "rationale": "He opened a thirty-day intercession window to the date on 31 March, asking that the righteous rise up and vote and that the result be too big to rig. The outcome went the other way and it was not decisive either: the incumbent Liberals held power three seats short of a majority, on a 2.5 point margin, in a race the Conservatives had led by double digits earlier in the year. Two notes for the record. Prayer conditionality is a field here, not an exemption, so an unanswered petition is scored as the outcome it asked against. And his 30 April telling, that he had seen in a vision Canada was going to go the way it did, is made two days after the count and has no earlier record in this corpus; it is a delay claim, not a call."},
+
+  {"claim_id": "march-hot-greenland-valentine",
+   "observed_on": "2026-03-31",
+   "source_url": "https://en.wikipedia.org/wiki/Greenland_crisis",
+   "summary": "No distinct Greenland event occurred in March 2026 or in the sixty to ninety days after 10 January 2026. The salient Greenland events of the period sit before and around the word rather than after it: the Hands off Greenland protests of 17 January 2026, the largest in Greenland's history with a quarter of Nuuk mobilised, and a continuous run of coverage on US annexation pressure through December 2025 and January 2026. Greenland's general election and its prime minister's rejection of US acquisition date from March 2025, a year earlier.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "March 2026 came and went with nothing in Greenland, and the sixty to ninety day window after 10 January closed in April with nothing either. How he arrives at the word is the part worth keeping, and his own falsifier already flags it: on 8 January he works outward aloud from green, through dangling and leaning, to reach Greenland, rather than being given the name. He does that in the week Greenland was the leading international story, with US annexation pressure and Danish rejections running daily. A word derived that way, from a name already saturating the news, needs a hit in the named month to count for anything, and there was none."},
+
+  {"claim_id": "taiwan-two-day-fall",
+   "observed_on": "2026-08-14",
+   "source_url": "https://www.aei.org/commentary/china-taiwan-update-august-14-2026/",
+   "summary": "There has been no Chinese invasion of Taiwan. As of August 2026 the picture is coercion and rehearsal: Taiwan ran its first joint coast guard and navy anti-blockade drill on 12 August 2026, deployed electronic warfare vehicles at the mouth of the Tamsui River on 5 August, and stood up a new Littoral Combat Command. Analysts attribute a pushed-back timetable partly to Xi's purge of senior military officers, judging Beijing more likely to intensify blockade rehearsals than to attempt an invasion.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "The one window with a date attached, the 6 April telling that it must go to May, expired on 31 May 2026 with no move on Taiwan. The rest of the thread carries no date at all, which is what makes it worth recording rather than leaving open. It also contradicts itself on the only number it offers: two days on 13 January, three days on 31 December, 17 March and 25 March, then on 17 July both at once, fight for one and into two and fold by the end of the second. And on 17 July he closes the exit: because the people kept praying in January and again in July, the Lord will not allow Taiwan to be taken until the tribulation. Prayer conditionality is recorded as a field, but that move converts a dated forecast into one that cannot fail, and it is the structure rather than the content that should be scored here."},
+
+  {"claim_id": "naples-volcano-tsunami",
+   "observed_on": "2026-03-10",
+   "source_url": "https://www.volcanodiscovery.com/earthquakes/quake-info/22791555/mag6quake-Mar-9-2026-Italy-Tyrrhenian-Sea.html",
+   "summary": "A magnitude 6.0 earthquake struck 36 km southwest of Naples at 00:03 local time on 10 March 2026, at a depth of 373 km within the subducting African plate. Seismologists judge it unlikely to be related to volcanic activity at Campi Flegrei or Vesuvius. INGV classifies Campi Flegrei as in a phase of accelerating unrest with no eruption imminent, and Italian Civil Protection holds it at yellow alert. No eruption and no tsunami has occurred at Naples.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "The seismicity is real and it is where he says it is, and the Campi Flegrei unrest is genuine and on the record with INGV, so the general picture he points at is not invented. Three things hold it well down. Both dated tellings are read-aloud news: on 13 March he reads a report of a quake that had already happened three days earlier, and on 2 August he reads a report of 194 quakes since 31 July. Reading the news back is not a forecast. The 6.0 he presents as the sign is a 373 km deep slab event that seismologists say is unlikely to be connected to either volcano, so the sign he identifies is not a sign of the thing he says it precedes. And the forward claim, an eruption sending a tsunami inland to flood the Naples coastline, carries no date at all, so it can be carried indefinitely. Recorded partial with the eruption element still open."},
+
+  {"claim_id": "mamdani-underground-swearing-in",
+   "observed_on": "2026-01-01",
+   "source_url": "https://www.npr.org/2026/01/01/nx-s1-5663372/zohran-mamdani-sworn-in-as-new-york-city-mayor-capping-historic-rise",
+   "summary": "Zohran Mamdani was sworn in as the 112th mayor of New York City just after midnight on 1 January 2026 by Attorney General Letitia James, in the disused City Hall subway station, a 1904 landmark decommissioned in 1945, reached by riding a southbound 6 train with family and supporters.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "He reads this out on 31 December 2025 from a news report about a ceremony already scheduled and publicised, so there is nothing here that could have come out either way. Recorded rather than skipped because of what the extractor flagged: underground is a word he has been using prophetically for months, and this is the passage where a literal, scheduled, reported underground event enters the corpus alongside it. That makes it a priority marker for any later telling in which the underground word is said to have landed, and it belongs in the fulfilment table if he makes that move."},
+
+  {"claim_id": "three-day-ceasefire-may-8",
+   "observed_on": "2026-05-08",
+   "source_url": "https://www.npr.org/2026/05/09/nx-s1-5816478/trump-russia-ukraine-ceasefire",
+   "summary": "On 8 May 2026 Trump announced that Russia and Ukraine had agreed to a three-day ceasefire for Victory Day, running from 9 to 11 May, with 1,000 prisoners released by each side. Zelenskyy confirmed the truce as part of US efforts to end the war.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "The event is real and the date is right, but he reads it out on 12 May from a report four days old, so nothing in this passage is forward-looking. The only thing he adds is that he had seen the number four, and the mention already records the problem with that: a three-day ceasefire is not a four. Nor does the corpus offer any record of the number four attached to Russia or Ukraine before 8 May. What is left is a number without a referent matched to a headline after the fact, which cannot fail and should not be counted."},
+
+  {"claim_id": "japan-stablecoins-june-1",
+   "observed_on": "2026-06-01",
+   "source_url": "https://coincentral.com/japan-fsa-clears-legal-path-for-foreign-stablecoins-starting-june-2026/",
+   "summary": "Japan's Financial Services Agency published revised rules on 19 May 2026, effective 1 June 2026, qualifying foreign-issued trust-type stablecoins as electronic payment instruments under the Payment Services Act, subject to licensing, collateral and audit requirements.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "He read this on 20 May 2026, the day after the FSA published it, and offers it as confirmation of his crypto material. A policy already gazetted cannot fail, so there is no forecast to score. Recorded rather than skipped because the move itself is the finding: a dated, published regulatory change is being folded into a prophetic thread as though it confirmed it, which is the pattern the fulfilment table exists to separate out. The claim he attaches it to, that he saw South Korea and Japan, has no date and no content that this announcement could have contradicted."}
+ ]
+}

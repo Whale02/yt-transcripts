@@ -1,0 +1,37 @@
+[
+ {
+  "claim_id": "superhuman-ai-race",
+  "label": "A race between nations to make the first genetically altered superhuman",
+  "domain": "technology",
+  "description": "A race he compares to the space race, between China, America, Europe and one country he says he is not permitted to name, to harness artificial intelligence and to be first to produce a genetically altered superhuman: splicing human and animal DNA, cloning, and creating and sustaining human life in a laboratory without a woman. He calls it greed and says it is work that should be illegal.",
+  "aliases": ["a new superhuman", "splicing humans, splicing animals", "Who's the world leader in AI", "it's a race like the space race"]
+ },
+ {
+  "claim_id": "cern-copies-and-accident",
+  "label": "More colliders built to copy CERN, and an accident",
+  "domain": "technology",
+  "description": "Hydrogen colliders being built around the world to copy the one in Switzerland, with a massive one in China said to be larger than the European original and one in America, built to find new dimensions and open a door. He states there is going to be an accident, comparing it to creating a black hole.",
+  "aliases": ["there's more than one CERN", "another hydrogen collider", "There's going to be an accident"]
+ },
+ {
+  "claim_id": "underground-arks",
+  "label": "Underground cities being built and called arks",
+  "domain": "endtimes",
+  "description": "Underground cities seen again, one in China, which he says the Lord calls arks, like Noah's ark. Those building them know something is coming and are not telling the public at any level around the world because it would cause mass chaos.",
+  "aliases": ["I see an underground city in China", "They're calling it an ark", "they're not allowing the public to know"]
+ },
+ {
+  "claim_id": "woolly-mammoth-returns",
+  "label": "A cloned woolly mammoth brought back soon",
+  "domain": "technology",
+  "description": "DNA manipulated on animals so that prehistoric species return, with a cloned hybrid woolly mammoth named specifically and said to be coming back soon, and dinosaur-like animals attempted in the Jurassic Park manner.",
+  "aliases": ["A woolly mammoth is going to come back soon", "a clone, a hybrid wooll"]
+ },
+ {
+  "claim_id": "russia-street-revival",
+  "label": "Revival in the streets of Russia",
+  "domain": "revival",
+  "description": "Russia highlighted with a great harvest of souls coming, Putin highlighted, and people in blue jeans, a blue jacket and a white t-shirt running toward a church and bowing to worship in the streets.",
+  "aliases": ["a great harvest of souls is coming into Russia", "I saw revival. I saw it happening in the streets in Russia"]
+ }
+]

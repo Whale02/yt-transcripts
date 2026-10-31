@@ -1,0 +1,11 @@
+{"relationships":[
+{"from_claim":"watch-may-interest-rates","to_claim":"powell-out-in-january","rel_type":"contradicts","asserted_by":"system",
+ "note":"Two December words on the same subject. Watch May concerning interest rates lands on the published end of term; Powell out in January does not."},
+{"from_claim":"times-square-new-years-eve","to_claim":"four-plots-stopped-december","rel_type":"related_to","asserted_by":"brandon",
+ "evidence_video":"2PoQzF7OhXc","evidence_start_s":1496,
+ "note":"He offers a disrupted Times Square plot, reported months later, as fulfilment of the New Year's Eve prayers over that exact target."},
+{"from_claim":"jesus-stood-in-my-house-january","to_claim":"visitation-2014","rel_type":"related_to","asserted_by":"system",
+ "note":"Two bodily appearance claims, twelve years apart, both outside anything that can be checked except his own account."},
+{"from_claim":"virus-more-contagious-trial-run","to_claim":"plague-calendar-fall-to-spring","rel_type":"related_to","asserted_by":"system",
+ "note":"A present outbreak read as a trial run keeps the plague claim alive without discharging it."}
+]}

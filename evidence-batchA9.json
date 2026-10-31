@@ -1,0 +1,60 @@
+{
+ "_note": "Job A batch 9, 30 August 2026. The May 2026 cluster plus the McVeigh method thread.",
+ "evidence": [
+  {"claim_id": "robbery-starting-in-may",
+   "observed_on": "2026-06-30",
+   "source_url": "https://counciloncj.org/crime-trends-in-u-s-cities-mid-year-2026-update/",
+   "summary": "Robbery in the United States fell 19.6 percent in the first half of 2026 against the same period of 2025, and was 41 percent below the first half of 2019. Robbery had already fallen an estimated 18.5 percent in 2025, to 49.4 per 100,000, the lowest rate in twenty years. FBI data for 2025 showed the largest drop in violent crime in ninety years.",
+   "state": "CONTRADICTED",
+   "rationale": "He said on 13 April 2026 that robbery starts this May, and robbery fell sharply through exactly that period, on a series that was already at a twenty-year low when he spoke. This is one of the few claims in the corpus that names a category with a published national statistic attached, which is what makes it scoreable at all, and the statistic moved hard in the opposite direction. Two weaknesses in the claim itself are worth recording even though they do not change the verdict: no place is named, and this is the fifth separate thing hung on May 2026 in this corpus, which is a pattern the extractor flagged at the time."},
+
+  {"claim_id": "new-jet-in-may",
+   "observed_on": "2026-05-04",
+   "source_url": "https://www.defensenews.com/air-warfare/2026/05/04/former-qatari-aircraft-on-track-for-summer-air-force-one-delivery/",
+   "summary": "In early May 2026 the Air Force confirmed that the Boeing 747-8i gifted by Qatar in May 2025 had completed L3Harris modifications and flight testing and was on track for summer delivery as an interim Air Force One. The aircraft appeared in a new red, white, gold and dark blue livery with United States of America in capitals on the fuselage, and flew to Joint Base Andrews for final work by mid-June 2026. The modification programme was costed at about 400 million dollars in June 2025.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "A new presidential aircraft with fresh paint on the side did become news in May 2026, and he named May a month ahead on 6 April, so the timing is real. Everything around it cuts the value down. The Qatari jet had been a running story for a year, since the gift in May 2025, with the summer 2026 delivery target already public when he spoke, so the month was available to anyone following it. And his one distinguishing detail is wrong in the most checkable way: he says it is no longer a great big one but a fast one, and the aircraft is a Boeing 747-8, the largest passenger jet Boeing builds and slower than the VC-25A it replaces."},
+
+  {"claim_id": "rededicate-america-sunday",
+   "observed_on": "2026-05-17",
+   "source_url": "https://www.ewtnnews.com/world/us/trump-prayer-breakfast-2026",
+   "summary": "Trump announced at the National Prayer Breakfast on 5 February 2026 that an event called Rededicate 250 would be held on the National Mall on Sunday 17 May 2026 to rededicate the United States as one nation under God, as a central piece of the Freedom 250 semiquincentennial programme.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "The event was announced publicly on 5 February 2026 and he spoke on 12 May, three months later and five days before the date. A scheduled national event named from the news cannot fail, so there is nothing here to score, and it is recorded the same way as the other read-aloud rows rather than counted as a hit on a named act on a named day. The passage matters for the fulfilment pass: it sits inside a run of talk about drama in the media and political theatre, so the rededication arrives dressed as something seen rather than something read, which is the exact move the separate tables exist to expose."},
+
+  {"claim_id": "may-24-pentecost",
+   "observed_on": "2026-05-24",
+   "source_url": "https://www.hebcal.com/",
+   "summary": "Easter Sunday 2026 fell on 5 April, which places Pentecost Sunday on 24 May 2026. The date is fixed by the church calendar and computable years in advance. In the passage he and his co-host work toward the end of May and settle on the 24th after identifying it as Pentecost Sunday.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "A fixed liturgical date arrived at on air from the calendar is not a claim, and nothing is attached to it beyond a plan to hold something. Recorded rather than skipped because the provenance is the point: this is the third date in the corpus reached by looking one up rather than receiving one, alongside the NASA eclipse path and the congressional recess, and having all three on file makes the pattern visible if any of them is later presented as given."},
+
+  {"claim_id": "national-day-of-prayer-may",
+   "observed_on": "2026-05-07",
+   "source_url": "https://www.nationaldayofprayer.org/",
+   "summary": "The National Day of Prayer is fixed by statute as the first Thursday in May and fell on 7 May 2026. No outpouring or unusual event was reported at it.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "This is a petition, not a forecast, and it is expressly conditional: he prays for a sound of a mighty rushing wind if his people humble themselves and turn from their wicked ways. That structure has no failure mode, because an absence is read as insufficient humbling rather than as a miss, and his own falsifier records it. The date is statutory rather than shown. Prayer conditionality is logged as a field here and is not treated as converting the quiet day into either a hit or a refutation."},
+
+  {"claim_id": "three-day-healing-window",
+   "observed_on": "2026-05-03",
+   "source_url": "https://www.niams.nih.gov/health-topics/gout",
+   "summary": "An untreated acute gout flare typically resolves on its own within three to ten days, and treated flares often improve within a day or two. No report exists on the individual described, who is never named or identified.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "The form is unusually good for a healing word, one person, one condition and a three day window, and he protects it himself by saying it may not be for everybody. It is still not checkable, for two reasons. The person is never identified, so only they could report, and nobody has. And the base rate defeats it even if they did: an acute gout flare commonly settles within three to ten days by itself, and faster on treatment, so resolution inside three days is the ordinary course rather than a sign. Recorded unfalsifiable with the base rate stated."},
+
+  {"claim_id": "may-10-something",
+   "observed_on": "2026-05-10",
+   "source_url": "https://en.wikipedia.org/wiki/Portal:Current_events/May_2026",
+   "summary": "Nothing is identifiable on or near 10 May 2026 matching the passage, which names no event, no place and no person beyond a remark that the man discussed was not pro crypto.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "He says on air that he is guessing: maybe May 10th or something like that, some time in May. A date offered as a guess, with nothing attached to it, cannot succeed or fail, and it should not be counted in either direction. Recorded so that the guess is on file with its own wording, because dates that enter the corpus as hedges are the ones most likely to be recalled later without the hedge."},
+
+  {"claim_id": "timothy-mcveigh-method",
+   "observed_on": "2026-08-30",
+   "source_url": "https://www.fbi.gov/investigate/terrorism",
+   "summary": "No fertiliser truck bombing or comparable vehicle-borne improvised explosive attack has occurred in the United States since these tellings began in June 2025. No date, place or target is named in any of them.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "Nothing here carries a date, so nothing can expire, and the claim is that a method is worth watching rather than that an attack will occur. Recorded rather than left open because of what the thread does structurally: naming a method, fertiliser vans, box trucks and trains, means any future vehicle attack anywhere in the United States can be claimed as the thing seen, while no period of quiet can count against it. To his credit the material is specific about means and is prayed against rather than announced, and the 1 October 2025 telling makes the reason explicit, that attention should not go only to the big ones."}
+ ]
+}

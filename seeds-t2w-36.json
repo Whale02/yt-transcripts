@@ -1,0 +1,44 @@
+[
+ {
+  "claim_id": "brazil-shaken",
+  "label": "A major shaking comes to Brazil",
+  "domain": "disaster",
+  "description": "Given after earthquakes in Venezuela and Colombia: a major shaking will come to Brazil, which he says he warned of beforehand, with the Colombian coffee industry devastated alongside.",
+  "aliases": ["Brazil will be shaken", "a major shaking will come to Brazil"]
+ },
+ {
+  "claim_id": "turkey-vampire-dracula-cape",
+  "label": "Turkey becomes a vampire and its leader puts on a Dracula cape",
+  "domain": "war",
+  "description": "Turkey seen becoming a vampire, very angry, closing the strait into the Black Sea and beating massive war drums, with the Turkish president putting on a Count Dracula cape as he does it.",
+  "aliases": ["Turkey will become a vampire", "he put on a Count Dracula cape", "beat their war drums"]
+ },
+ {
+  "claim_id": "banks-embarrassing-days",
+  "label": "Embarrassing days ahead for certain banks",
+  "domain": "economy",
+  "description": "A warning that certain named banks face embarrassing days ahead, given alongside the Clarity Act table where Bank of America, Chase, Wells Fargo, JP Morgan and BlackRock are seen arguing.",
+  "aliases": ["it will be embarrassing days ahead for certain banks", "Embarrassing days"]
+ },
+ {
+  "claim_id": "sushiswap-bridges-asia",
+  "label": "Bridges running from Japan across Asia to America, with a named protocol",
+  "domain": "crypto",
+  "description": "A logo he identifies as Sushi Swap seen in Japan, with bridges running from Japan to America and from Japan to South Korea, Taiwan, Hong Kong and other parts of Asia, and something he calls Alrand in the middle of the ocean. He says he does not know what he was seeing.",
+  "aliases": ["I saw Sushi Swap", "a bridge that went from Japan to South Korea to Taiwan", "I don't know what I was seeing"]
+ },
+ {
+  "claim_id": "tv-announces-crash",
+  "label": "A woman on a screen announcing that America's economy has crashed",
+  "domain": "economy",
+  "description": "A large screen with a woman on it saying twice that America's economy has crashed, with people standing on a thick Persian rug in front of it.",
+  "aliases": ["America's economy has crashed", "standing on the Persian rug"]
+ },
+ {
+  "claim_id": "oil-infrastructure-sabotage",
+  "label": "Sabotage attempted on American oil wells and railroads",
+  "domain": "terrorism",
+  "description": "An instruction to pray over the oil wells at Total, in Texas, Louisiana and Oklahoma, and over the railroads, because they were named as targets for attempted sabotage.",
+  "aliases": ["pray over our oil wells in total, Texas", "they will try to bring sabotage", "and railroads"]
+ }
+]

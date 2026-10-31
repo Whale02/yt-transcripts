@@ -1,0 +1,12 @@
+{"reviews":[
+{"video_id":"65FUsMLWJT4","start_s":8160,"claim_id":"france-election-2027","same_event":"yes","delta_type":"first_mention",
+ "note":"Moved off israel-election-autumn, which keeps three other mentions. The passage names France's election explicitly and that claim had no home."},
+{"video_id":"3lPkmPBUCBQ","start_s":442,"claim_id":"hoover-dam-2025","same_event":"yes","delta_type":"first_mention",
+ "note":"This is the Hoover Dam sized wall going into 2025, which is what hoover-dam-2025 describes. candidate-outdoor-attack keeps its other mentions. Note hoover-dam-2025 and dam-wall-ireland-2025 are duplicate slugs for one image, recorded as a same_event_as edge."},
+{"video_id":"wP9qZYC_Cv4","start_s":2044,"claim_id":"rapture-catching-away","same_event":"yes","delta_type":"first_mention",
+ "note":"The mention had no live assignment at all. It is the frankest rapture passage in the corpus: the rapture may be twenty years away, and he holds dates he prays about while allowing they may pass."},
+{"video_id":"jx6fBGkMNTI","start_s":658,"claim_id":"third-temple-build","same_event":"yes","delta_type":"first_mention",
+ "note":"Carries the temple construction timetable specifically. two-state-third-temple and two-state-solution-2024 both keep other mentions."},
+{"video_id":"2MOBOMGnCdE","start_s":246,"claim_id":"turkey-turns-back","same_event":"yes","delta_type":"first_mention",
+ "note":"Turkey funding the war through financial agreements with Russia. wwiii-draft-europe keeps six other mentions."}
+]}

@@ -1,0 +1,938 @@
+[
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 86,
+  "claim_text": "He plays forty seconds of people queueing for petrol in China and says it fulfils the prophecy that they would line up, though it is not quite a mile of cars.",
+  "quote": "that fulfills the prophecy that I told you they would line up",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "oil",
+   "china"
+  ],
+  "locations": [
+   "China"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The earlier recordings describe queues before these appeared.",
+  "falsify_miss": "They do not. He measures the fulfilment against his own mile-long image and concedes it falls short."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 140,
+  "claim_text": "It looks like the 1970s gas wars under Carter, he saw it coming in America too, and the president has released a hundred and seventy five million barrels from the strategic reserves to hold the price down, with smoke over the strait blocking the sky.",
+  "quote": "It looked like the 1970s gas wars back whenever uh it happened with Carter",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "oil",
+   "reserves"
+  ],
+  "locations": [
+   "United States",
+   "Strait of Hormuz"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Fuel queues in America on the 1970s pattern.",
+  "falsify_miss": "None. The reserve release is a news fact he is reading, not something he saw."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 362,
+  "claim_text": "Reading that the Cuban government has begun negotiations with the president, he says he keeps seeing Cuba free with resorts, blessing and increase all around the island for the first time in years, and oceanfront property being built on.",
+  "quote": "I keep seeing Cuba have resorts and blessing and increase",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba",
+   "economy"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Foreign resort development along the Cuban coast.",
+  "falsify_miss": "None. Spanish and Canadian chains have run Cuban beach resorts for thirty years, which is the weaker version already true."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 409,
+  "claim_text": "He says he does not know how good Cuba is and never looks at pictures of the island but is sure it is not well kept up, and that it will be, then turns to a report of cadets disarming a shooter at a university.",
+  "quote": "I don't never look at pictures or whatever what how the island is",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "hedged",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing on its own.",
+  "falsify_miss": "Nothing. Worth recording that he says he has never looked at pictures of the island he describes."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 453,
+  "claim_text": "He recalls the words about old technology hidden because it was not internet, a wire that went across America working telephone to telephone.",
+  "quote": "this wire that went across America, but it was like telephone to telephone",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "intelligence",
+   "communications"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A disclosed covert network using legacy telephone infrastructure.",
+  "falsify_miss": "None disclosed. He says a video he has just seen is the confirmation."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 535,
+  "claim_text": "He recalls seeing an individual high up in government who was a rat, talking to somebody in Europe about Iran, using a decoder key where the numbers written down were a perfect sequence.",
+  "quote": "I saw an individual that was high up in that was a rat",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "intelligence",
+   "leak"
+  ],
+  "locations": [
+   "United States",
+   "Europe",
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A senior American official charged with passing information to Europe.",
+  "falsify_miss": "None charged. He says he has to be very careful, which limits what is on the record."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 614,
+  "claim_text": "A three-way relay through Europe activating the cells for a D-Day on a specific day, not strike for strike but a fatal blow to wound the eagle on its own soil so that they can finally finish off Israel.",
+  "quote": "they're activating the cells for a D-Day on a specific day",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "cells",
+   "israel"
+  ],
+  "locations": [
+   "United States",
+   "Israel"
+  ],
+  "time_phrase": "a specific day",
+  "time_precision": "day",
+  "falsify_match": "A coordinated multi-site attack inside America.",
+  "falsify_miss": "None. He never gives the specific day, which removes the only dateable part."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 661,
+  "claim_text": "The codes went over the internet but on old technology rather than cell phones, telephone to telephone, and he says they found it but cannot tell what the code is, as he said they could not decipher it.",
+  "quote": "I said you can't tell the decipher",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "intelligence"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An undeciphered covert channel disclosed publicly.",
+  "falsify_miss": "None. He is matching his word to a video he says is not his and cannot keep up long."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 868,
+  "claim_text": "A deciphered message taken out of the Pentagon and given to somebody in Europe who passed it to another person elsewhere, a three-way tie delivering secret information, a rat within, which he says the Lord told them.",
+  "quote": "delivering secret information out of the Pentagon into other countries",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "intelligence",
+   "pentagon"
+  ],
+  "locations": [
+   "United States",
+   "Europe"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A Pentagon leak case involving a European intermediary.",
+  "falsify_miss": "None. He adds that publishing this was probably not wise, which is the closest he comes to withdrawing it."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 1764,
+  "claim_text": "Russia is building back every block that was taken and wants all its old land back on a decade-long plan, twenty or thirty years, thinking in chess moves rather than a short window.",
+  "quote": "This is like a decade plan",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "russia",
+   "empire"
+  ],
+  "locations": [
+   "Russia"
+  ],
+  "time_phrase": "20 years, 30 years",
+  "time_precision": "year",
+  "falsify_match": "Russian recovery of former Soviet territory over decades.",
+  "falsify_miss": "None. A twenty to thirty year horizon puts it beyond any near-term test."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 2921,
+  "claim_text": "A great shaking is coming to the nation and to New York City with smoke and fire, uncomfortable for those who are not prepared, coming from sea to sea, and he says he has warned and warned.",
+  "quote": "A great shaking is coming to New York City",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "new york",
+   "shaking"
+  ],
+  "locations": [
+   "New York",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Fire and disorder in New York on a visible scale.",
+  "falsify_miss": "None. Shaking has no threshold, though the smoke and fire do."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 3032,
+  "claim_text": "People will call it a storm but it is a shaking to awaken, not Ichabod, coming to America's shore, to Europe and to the lands of the earth through signs in the heavens, with shakings in politics, war and finances.",
+  "quote": "you will say it's a storm. But it is not a storm",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "shaking",
+   "storm"
+  ],
+  "locations": [
+   "United States",
+   "Europe"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Simultaneous political, military and financial upheaval.",
+  "falsify_miss": "None. Naming four domains at once means almost any bad news counts."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 3522,
+  "claim_text": "He sees New York again and says it is in the warm months.",
+  "quote": "I see New York. And I see it's in the warm months",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "new york"
+  ],
+  "locations": [
+   "New York"
+  ],
+  "time_phrase": "the warm months",
+  "time_precision": "season",
+  "falsify_match": "The New York event occurring in summer 2026.",
+  "falsify_miss": "Nothing happens in those months. The season is the only bound he puts on it."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 5012,
+  "claim_text": "The antichrist agenda rises on another scale because they know the time is short, with religious suppression and pressure on freedom of speech in Europe and Canada over social media, and more persecution coming on the church.",
+  "quote": "you'll see the antichrist agenda on another scale in the days ahead",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "persecution",
+   "speech"
+  ],
+  "locations": [
+   "Europe",
+   "Canada"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "New restrictions on religious speech in Europe and Canada.",
+  "falsify_miss": "None. Both already had online speech legislation in force when this was said."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 5105,
+  "claim_text": "The church holds up its hands like a traffic officer saying not yet because it has authority, while the war escalates at a greater level in the Middle East and Europe, tied to the portals of CERN.",
+  "quote": "portals of CERN",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "cern",
+   "war"
+  ],
+  "locations": [
+   "Europe",
+   "Middle East"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing observable from the portals; the escalation would be visible.",
+  "falsify_miss": "No escalation. The not yet framing means a delay is read as the church holding it back."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 6304,
+  "claim_text": "Shown a headline that Iran's new leader is obsessed with end times and believes himself a prophesied figure paving the way for the Mahdi, he asks whether that is the man he saw in the cave asking whether to push the button on the one untested device meant to annihilate Israel.",
+  "quote": "Is that the man I saw in the cave?",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "iran",
+   "mahdi",
+   "nuclear"
+  ],
+  "locations": [
+   "Iran",
+   "Israel"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The earlier recordings describe that man before the reporting.",
+  "falsify_miss": "They do not. He identifies the figure only after the headline appears, which is the priority question."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 6334,
+  "claim_text": "The same passage in the overlapping window, with the exchange about whether the untested device will work.",
+  "quote": "It has not been tested, but we believe that we have one working bomb",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "iran",
+   "nuclear"
+  ],
+  "locations": [
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Same as the preceding row.",
+  "falsify_miss": "Same as the preceding row."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 6371,
+  "claim_text": "He was told it must be accurate where they put it, and saw a plan to hit Israel with it on a big rocket while they waited for the right moment because they knew it would bring forth the Mahdi, with men in a white beard and a white trench underground.",
+  "quote": "I saw a plan to hit Israel with this on a big rocket",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "iran",
+   "israel",
+   "nuclear"
+  ],
+  "locations": [
+   "Iran",
+   "Israel"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A nuclear-armed missile launched at Israel from Iran.",
+  "falsify_miss": "None launched. Waiting for the right moment means any delay is consistent with the claim."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 6452,
+  "claim_text": "The man gathers courage and says it is time to activate the hidden cells in America, and the word given that night is of a day of sternness and shaking that will shake the world.",
+  "quote": "It's time to activate the hidden cells in America",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "cells",
+   "iran"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A coordinated attack inside America by Iranian-directed operatives.",
+  "falsify_miss": "None. Activation is claimed as already ordered, which makes the absence of any attack the test."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 7300,
+  "claim_text": "If they get the opportunity they will take the Ukrainian president out, and he saw a figure like Jason Bourne go in and do it at a party where the man was taking cocaine.",
+  "quote": "they're going to take that man out",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "ukraine",
+   "assassination"
+  ],
+  "locations": [
+   "Ukraine"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An assassination of the Ukrainian president.",
+  "falsify_miss": "He survives. The cocaine detail repeats a long-running claim about him that has never been evidenced."
+ },
+ {
+  "video_id": "6wtLDJxg4sw",
+  "start_s": 7356,
+  "claim_text": "He reads that Iran has said it will erase the infrastructure linked to America if its oil and economic infrastructure is attacked, and puzzles over what the phrase means, calling it a riddle.",
+  "quote": "We will erase the infrastructure linked to America",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "iran",
+   "retaliation"
+  ],
+  "locations": [
+   "Iran",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Not his claim. He is reading a statement and asking what it means.",
+  "falsify_miss": "Not his claim. Recorded so the quoted threat is not counted as a word."
+ },
+ {
+  "video_id": "Mzw5rRiDwA0",
+  "start_s": 830,
+  "claim_text": "He must hire full-time armed security at over a hundred thousand dollars a year with a guard at his home and travelling with him, because the Lord said he would make him a household name known around the world, as a named healing evangelist needed security around the clock.",
+  "quote": "I'm going to make you a household name",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "ministry",
+   "security"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The security arrangement and a rise to national recognition.",
+  "falsify_miss": "Neither. It is a claim about his own circumstances, so it can be checked directly."
+ },
+ {
+  "video_id": "Mzw5rRiDwA0",
+  "start_s": 1218,
+  "claim_text": "He reads that the FBI has warned California police Iran wants to retaliate with drones against the West Coast, and says this is exactly what he saw, drones with explosive devices ignited at baseball stadiums, though the ones he saw were from Amazon.",
+  "quote": "This is exactly what I saw, drones",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "drones",
+   "stadiums"
+  ],
+  "locations": [
+   "California",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A drone attack on an American stadium or the West Coast.",
+  "falsify_miss": "None. A warning is not an attack, and he treats the alert itself as the fulfilment."
+ },
+ {
+  "video_id": "Mzw5rRiDwA0",
+  "start_s": 1404,
+  "claim_text": "Oil teetered close to two hundred dollars without breaking it, but the Lord said it does not last very long, only a window, and then the president will announce his plan and say drill baby drill, with oil in the Mediterranean outside Gaza.",
+  "quote": "It doesn't last very long. It only lasts for a window",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "oil",
+   "gaza"
+  ],
+  "locations": [
+   "Gaza",
+   "Mediterranean"
+  ],
+  "time_phrase": "a window",
+  "time_precision": "none",
+  "falsify_match": "Oil spiking then falling back quickly, followed by Gaza development.",
+  "falsify_miss": "A sustained high price, or no Gaza drilling. He gives no length for the window."
+ },
+ {
+  "video_id": "Mzw5rRiDwA0",
+  "start_s": 1444,
+  "claim_text": "Israel starts to drill oil off Gaza from a pocket he says was strategically placed there by the Lord, bringing in a lot of money, and petrol goes well over eight dollars a gallon, shooting up like a rocket.",
+  "quote": "I saw eight dollars a gallon",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "gas price",
+   "gaza"
+  ],
+  "locations": [
+   "Gaza",
+   "Israel",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Average American petrol above eight dollars a gallon.",
+  "falsify_miss": "It stays below. The American average has never exceeded about five dollars, so this is a clean threshold."
+ },
+ {
+  "video_id": "Mzw5rRiDwA0",
+  "start_s": 1548,
+  "claim_text": "They want two hundred dollars a barrel, and he saw Israel attacking all of Iran's oil wells causing great havoc in the strait, with tankers struck that day and shipments halted because the insurers take fright.",
+  "quote": "I saw Israel attacking all of their uh oil wells",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "israel",
+   "oil",
+   "shipping"
+  ],
+  "locations": [
+   "Iran",
+   "Strait of Hormuz"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Israeli strikes on Iranian oil production and a shipping halt.",
+  "falsify_miss": "Neither. Insurance withdrawal is the specific mechanism he names, which is checkable."
+ },
+ {
+  "video_id": "Mzw5rRiDwA0",
+  "start_s": 1644,
+  "claim_text": "He was told to pray over the oil and gas factories, and reads that the president has announced a three hundred billion dollar deal opening the first American oil refinery in fifty years, which he says is the drill baby drill the Lord gave.",
+  "quote": "This is what the Lord said. Drill, baby, drill",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "oil",
+   "refinery"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "today",
+  "time_precision": "day",
+  "falsify_match": "A new American refinery actually built.",
+  "falsify_miss": "The announcement does not proceed. No greenfield American refinery has been completed since 1977, which is why the announcement is notable."
+ },
+ {
+  "video_id": "Mzw5rRiDwA0",
+  "start_s": 1689,
+  "claim_text": "Great wealth comes out of this concerning Venezuela and other nations, and he says it will be in Brownsville, Texas, alongside the earlier instruction to pray over Tuttle and Louisiana where he saw seven men perish.",
+  "quote": "It will be in Brownsville, Texas",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "refineries",
+   "casualties"
+  ],
+  "locations": [
+   "Brownsville",
+   "Texas",
+   "Tuttle",
+   "Louisiana"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An incident at Brownsville killing about seven.",
+  "falsify_miss": "None. Naming the town turns the seven men claim into something with a place attached."
+ },
+ {
+  "video_id": "ji5iFzKemg4",
+  "start_s": 1708,
+  "claim_text": "They blew up boats and oil tankers that day, and he says they are determined to get two hundred dollars a barrel while the president releases a hundred and seventy five million barrels from the reserves to suppress the price, and he prays they can be refilled.",
+  "quote": "I said they're determined to get that $200 a barrel",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "oil",
+   "reserves"
+  ],
+  "locations": [
+   "United States",
+   "Strait of Hormuz"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Oil reaching two hundred dollars a barrel.",
+  "falsify_miss": "It does not. The record high is about a hundred and forty seven dollars, in 2008."
+ },
+ {
+  "video_id": "Mzw5rRiDwA0",
+  "start_s": 1781,
+  "claim_text": "He wonders what eight dollars a gallon would be like in Oklahoma or Texas and says people would be upset, that California is used to it, and that people would drive less and want electric cars.",
+  "quote": "That's a lot of money for a gallon of gas in California. Eight bucks",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "gas price"
+  ],
+  "locations": [
+   "Oklahoma",
+   "Texas",
+   "California"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Eight dollar petrol in the central states.",
+  "falsify_miss": "It stays far below. California's record is about six dollars forty, which is the nearest any state has come."
+ },
+ {
+  "video_id": "Mzw5rRiDwA0",
+  "start_s": 1914,
+  "claim_text": "Playing a clip about Iranian sleeper cells being watched, he argues that they do not know where they all are, and that if they knew someone was going to attack they would already be in handcuffs.",
+  "quote": "No, they don't know where they are. Not all of them",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cells",
+   "iran"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Arrests showing the cells were known and unmonitored.",
+  "falsify_miss": "Arrests showing they were tracked. This is his commentary rather than a word."
+ },
+ {
+  "video_id": "ji5iFzKemg4",
+  "start_s": 4363,
+  "claim_text": "Darkness engulfing the senior adviser's chin in a whirlwind around him, with Europe and Ukraine seen, an attempt to negotiate peace between Ukraine and Putin, and an antichrist influence rising through it.",
+  "quote": "it's a whirlwind around Jared",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "kushner",
+   "ukraine",
+   "antichrist"
+  ],
+  "locations": [
+   "Ukraine",
+   "Europe"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "That adviser brokering a Ukraine settlement.",
+  "falsify_miss": "He does not. The antichrist reading is attached to whatever role he takes."
+ },
+ {
+  "video_id": "ji5iFzKemg4",
+  "start_s": 4422,
+  "claim_text": "Another ambassador branches off for the Middle East and Europe because the Secretary of State will be tied up with Cuba, Venezuela and Mexico, almost like having two Secretaries of State and two voices.",
+  "quote": "it's almost like two Secretary of State. Two",
+  "source_mode": "VISION",
+  "certainty": "hedged",
+  "conditionality": "unconditional",
+  "topics": [
+   "politics",
+   "diplomacy"
+  ],
+  "locations": [
+   "United States",
+   "Middle East",
+   "Europe"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "A second senior envoy appointed with that portfolio.",
+  "falsify_miss": "None appointed. Special envoys already exist, so what would count is a formal parallel appointment."
+ },
+ {
+  "video_id": "ji5iFzKemg4",
+  "start_s": 4508,
+  "claim_text": "A great shaking in the Vatican that will bring them to their knees, a great shaking in Rome, Italy, the great 8.2 earthquake that will shake them.",
+  "quote": "I see a great shaking happening in Rome, Italy. This great 8.2",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "earthquake",
+   "vatican"
+  ],
+  "locations": [
+   "Rome",
+   "Italy",
+   "Vatican"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An 8.2 at Rome.",
+  "falsify_miss": "None. Italy has never recorded above about 7.4 and its faults cannot produce an 8.2."
+ },
+ {
+  "video_id": "Mzw5rRiDwA0",
+  "start_s": 4591,
+  "claim_text": "A prayer that the nation not be divided against itself, that there be no strife in Homeland Security and the departments, and peace over the president and the council advising him on Iran.",
+  "quote": "We call peace over our our over the president and his council",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "unity"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing. A petition with no event named.",
+  "falsify_miss": "Nothing forward-looking is claimed."
+ },
+ {
+  "video_id": "Mzw5rRiDwA0",
+  "start_s": 4631,
+  "claim_text": "He will finish what he set out to do and liberate the people of Iran, and it will not be a ground invasion because they will not have to.",
+  "quote": "it will not be a ground invasion. They will not have to",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "iran",
+   "ground troops"
+  ],
+  "locations": [
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Iran changed without American troops on the ground.",
+  "falsify_miss": "Ground troops go in. Four days later he says it will take a ground troop invasion, which is the opposite."
+ },
+ {
+  "video_id": "ji5iFzKemg4",
+  "start_s": 4663,
+  "claim_text": "Everything he is seeing now is about a shaking, with the Vatican and the major earthquake, and portals opening concerning CERN, demonic portals over Europe tied to the Hitler type spirit and the pulling of the second world war spirit on a greater scale.",
+  "quote": "I see portals opening up concerning CERN",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cern",
+   "europe"
+  ],
+  "locations": [
+   "Europe",
+   "Vatican"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing observable from the portals.",
+  "falsify_miss": "Nothing observable. The CERN material never attaches to an event that could fail."
+ },
+ {
+  "video_id": "Mzw5rRiDwA0",
+  "start_s": 4704,
+  "claim_text": "Protection called over special operations troops, Navy SEALs, Green Berets, spies and anyone infiltrating the enemy camp on both the Israeli and American side, and he sees Great Britain getting ready to get involved.",
+  "quote": "I see Great Britain getting ready to get involved",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "iran",
+   "britain"
+  ],
+  "locations": [
+   "United Kingdom",
+   "Iran",
+   "Israel"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "British forces committed to the Iran campaign.",
+  "falsify_miss": "They are not. This is the earliest telling of British involvement, four days before the two soldiers."
+ },
+ {
+  "video_id": "ji5iFzKemg4",
+  "start_s": 4763,
+  "claim_text": "Tsunami warnings come to Hawaii because the ring of fire is so active, with sirens blowing in the air like air raid sirens, because a major earthquake is about to take place in Japan.",
+  "quote": "I see great tsunami warnings coming to Hawaii",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "tsunami",
+   "japan",
+   "hawaii"
+  ],
+  "locations": [
+   "Hawaii",
+   "Japan"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A Japanese quake triggering Hawaiian tsunami sirens.",
+  "falsify_miss": "None. Hawaii has issued tsunami advisories after several Pacific quakes in recent years, which is the base rate."
+ },
+ {
+  "video_id": "Mzw5rRiDwA0",
+  "start_s": 4767,
+  "claim_text": "There are not very many of them compared to our number, and he sees three against Israel and America who are like brothers.",
+  "quote": "Israel, America, like a brothers, versus three",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "alliances"
+  ],
+  "locations": [
+   "Israel",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Three states aligned against Israel and America.",
+  "falsify_miss": "A different count. He gives four elsewhere in the covenant material, so the number moves."
+ },
+ {
+  "video_id": "Mzw5rRiDwA0",
+  "start_s": 6046,
+  "claim_text": "Art festivals in the spring with makeshift booths, statues and food vendors are seen as a straight target for attacks, located in parts of the United States.",
+  "quote": "I see art festival and this this it's I see a straight target",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "terror",
+   "festivals"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "spring",
+  "time_precision": "season",
+  "falsify_match": "An attack at an outdoor arts event in America.",
+  "falsify_miss": "None. No city is named and the spring is the only bound."
+ },
+ {
+  "video_id": "Mzw5rRiDwA0",
+  "start_s": 6270,
+  "claim_text": "In Italy he sees an epicentre with red target circles around the Vatican and Rome, an 8.2 whose epicentre is just outside the city on the side closest to the water.",
+  "quote": "I see 8.2 earthquake Rome and it's epicenter",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "earthquake",
+   "rome"
+  ],
+  "locations": [
+   "Rome",
+   "Vatican"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An 8.2 with an epicentre west of Rome.",
+  "falsify_miss": "None. Placing the epicentre toward the coast is the most specific he has been about it."
+ },
+ {
+  "video_id": "Mzw5rRiDwA0",
+  "start_s": 6598,
+  "claim_text": "Activated terrorist cells in Europe and specifically in England, with one man in a long green military-looking coat, a black scarf and a flannel shirt, bald and skinny.",
+  "quote": "I see activated terrorist cells in Europe. This is in England",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "terror",
+   "england"
+  ],
+  "locations": [
+   "England"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An arrest in England matching that description.",
+  "falsify_miss": "None. The description is detailed enough to be recognisable, which is what makes it checkable."
+ },
+ {
+  "video_id": "Mzw5rRiDwA0",
+  "start_s": 7054,
+  "claim_text": "Havoc and great distraction are created in the nation concerning the midterms, with China involved and interfering in the political process, the communist party seen big, bright and bold.",
+  "quote": "China will try to interfere interfere in the political process",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "elections",
+   "china"
+  ],
+  "locations": [
+   "United States",
+   "China"
+  ],
+  "time_phrase": "midterms",
+  "time_precision": "month",
+  "falsify_match": "Documented Chinese interference in the 2026 midterms.",
+  "falsify_miss": "None documented. Interference claims are made about every American election, which sets the base rate."
+ },
+ {
+  "video_id": "Mzw5rRiDwA0",
+  "start_s": 7178,
+  "claim_text": "He sees Chinese interference in Australia's election too, trying to influence their freedom and mess with things, though he says he is not saying it is this year.",
+  "quote": "I see interference from China concerning Australia's even Australia's election",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "australia",
+   "china",
+   "elections"
+  ],
+  "locations": [
+   "Australia",
+   "China"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Documented Chinese interference in an Australian election.",
+  "falsify_miss": "None documented. He removes the date himself, and Australia's next federal election is not due until 2028."
+ }
+]

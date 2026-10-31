@@ -1,0 +1,20 @@
+{
+"reviews": [
+{
+"mention_id": "2ce196823dcb2cc5",
+"claim_id": "great-shaking-to-the-catholic-church",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "The fullest form of the words, given twice with the Pope highlighted alongside. Extracted separately because the neighbouring passage at 3127 lost a race to a second extraction and carries no live assignment on this claim."
+},
+{
+"mention_id": "c6e3dd9da189b7d3",
+"claim_id": "great-shaking-to-the-catholic-church",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Five months later, with the Vatican named alongside the Catholic Church. Kept distinct from vatican-earthquake, which is a physical earthquake rather than an institutional shaking."
+}
+]
+}

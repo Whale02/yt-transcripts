@@ -1,0 +1,90 @@
+{
+  "_note": "Adjudications for oldest-end batch 06, November 2024. Model claude-opus-5, prompt v1.",
+  "reviews": [
+    {"video_id": "MQymfED5c7w", "start_s": 40, "claim_id": "four-oak-trees", "same_event": "yes", "delta_type": "first_mention",
+     "note": "Kept because of the disclaimer attached: he offers four years and immediately says not to assume. That hedge recurs across the reprieve material."},
+    {"video_id": "MQymfED5c7w", "start_s": 203, "claim_id": "house-of-cards", "same_event": "unsure", "delta_type": "delay_claim",
+     "note": "He confirms he saw a crash and then says he has no idea whether it can be averted, adding that a covering now sits over it. Left unsure: this is the crash claim being softened rather than restated."},
+
+    {"video_id": "hDXJXTzfwUs", "start_s": 0, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "hDXJXTzfwUs", "start_s": 40, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "hDXJXTzfwUs", "start_s": 1034, "claim_id": null, "same_event": "no", "delta_type": "no_claim",
+     "note": "Prayer that angels steer investigators unknowingly. Structurally unfalsifiable: a thwarted plot and no plot are indistinguishable."},
+
+    {"video_id": "lhDhrbj_kBY", "start_s": 33, "claim_id": null, "same_event": "no", "delta_type": "no_claim",
+     "note": "Conception anecdotes with no denominator."},
+    {"video_id": "lhDhrbj_kBY", "start_s": 161, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "lhDhrbj_kBY", "start_s": 293, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "lhDhrbj_kBY", "start_s": 368, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "lhDhrbj_kBY", "start_s": 398, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "lhDhrbj_kBY", "start_s": 504, "claim_id": "isaacs-coming", "same_event": "yes", "delta_type": "first_mention",
+     "note": "The due-season frame. Its function in the corpus is to keep a late promise alive without dating it."},
+    {"video_id": "lhDhrbj_kBY", "start_s": 678, "claim_id": "isaacs-coming", "same_event": "yes", "delta_type": "elaboration",
+     "note": "Widens it from babies to jobs, promotions and increase."},
+
+    {"video_id": "pqMVu-2rj9g", "start_s": 1598, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "pqMVu-2rj9g", "start_s": 1713, "claim_id": "no-doom-for-the-church", "same_event": "yes",
+     "delta_type": "first_mention",
+     "note": "The split that makes the good-year claims unscoreable: the church wins regardless while the world looks like doom, so no state of the world tests either."},
+    {"video_id": "pqMVu-2rj9g", "start_s": 2407, "claim_id": "public-events-warning", "same_event": "yes",
+     "delta_type": "new_detail",
+     "note": "Given 17 November, eleven days before the parade, and reported as something he just saw. Sharper than the of03u_Si6d0 telling."},
+
+    {"video_id": "B86nuksyMLU", "start_s": 1684, "claim_id": null, "same_event": "no", "delta_type": "no_claim",
+     "note": "Seed-for-a-blessed-year teaching. Recorded as no_claim but the if_x on giving is captured on the mention."},
+    {"video_id": "B86nuksyMLU", "start_s": 1770, "claim_id": "good-year-2025", "same_event": "yes", "delta_type": "restatement"},
+    {"video_id": "B86nuksyMLU", "start_s": 2099, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "B86nuksyMLU", "start_s": 2222, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "B86nuksyMLU", "start_s": 2300, "claim_id": "words-of-knowledge-healing", "same_event": "yes",
+     "delta_type": "first_mention",
+     "note": "Worth counting as a class: conditions common enough that any large audience supplies a match. Base rate matters here."},
+    {"video_id": "B86nuksyMLU", "start_s": 2542, "claim_id": "glory-cloud-healings", "same_event": "yes",
+     "delta_type": "first_mention",
+     "note": "The limb restoration detail is the one genuinely falsifiable healing claim in the corpus, so it is kept separate from the words of knowledge."},
+
+    {"video_id": "WQCtH3CHZ1A", "start_s": 70, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "WQCtH3CHZ1A", "start_s": 289, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "WQCtH3CHZ1A", "start_s": 1646, "claim_id": null, "same_event": "no", "delta_type": "no_claim",
+     "note": "Faith-against-the-report teaching, with the usual clause making a bad outcome the hearer's."},
+    {"video_id": "WQCtH3CHZ1A", "start_s": 3135, "claim_id": "words-of-knowledge-healing", "same_event": "yes",
+     "delta_type": "elaboration"},
+
+    {"video_id": "GCEbkWK3pho", "start_s": 2455, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "GCEbkWK3pho", "start_s": 2975, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+
+    {"video_id": "8BLqLpWThhw", "start_s": 315, "claim_id": "million-prayer-army", "same_event": "yes",
+     "delta_type": "first_mention",
+     "note": "One of the few claims about his own ministry with a number and a date, so it can actually be checked against channel figures."},
+    {"video_id": "8BLqLpWThhw", "start_s": 1482, "claim_id": "no-plague-no-dollar-collapse-prayer", "same_event": "yes",
+     "delta_type": "first_mention",
+     "note": "This is the important one. He prays that there be no major virus in 2025, 2026, 2027 or 2028 and that the dollar plan is averted, over exactly the years plague-350m, drought-plague-summer-2026 and digital-dollar-transition cover. Whichever way those resolve, one side of his own record is contradicted. Filed as its own claim, deliberately not merged."},
+
+    {"video_id": "tFFlHZ2MSR4", "start_s": 1013, "claim_id": "extended-time-grant", "same_event": "yes",
+     "delta_type": "elaboration",
+     "note": "He is visibly working out what the extension is for, and lands on a laziness clause that would explain an absent revival."},
+    {"video_id": "tFFlHZ2MSR4", "start_s": 2656, "claim_id": "shmita-2028-window", "same_event": "yes", "delta_type": "first_mention"},
+
+    {"video_id": "CNHi4c83DB4", "start_s": 221, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+
+    {"video_id": "0nRUpPKJMN8", "start_s": 1730, "claim_id": "red-wave-2024", "same_event": "yes", "delta_type": "first_mention",
+     "note": "A self-scored hit made the day after the election. The prior-statement half is checkable against the November 2023 videos in this corpus."},
+    {"video_id": "0nRUpPKJMN8", "start_s": 1980, "claim_id": "house-of-cards", "same_event": "yes", "delta_type": "first_mention",
+     "note": "The clearest statement of the crash image, and he leaves the timing open in the same sentence."},
+
+    {"video_id": "h_dZ9EnFJho", "start_s": 3499, "claim_id": "shmita-2028-window", "same_event": "yes", "delta_type": "restatement"},
+
+    {"video_id": "_NvKMga-o2I", "start_s": 186, "claim_id": "october-grace-window", "same_event": "yes",
+     "delta_type": "first_mention",
+     "note": "Earliest telling of the October mechanism, and it is vaguer here than it becomes later: a small window, possibly only to the first of the year. By December it has become four years."},
+    {"video_id": "_NvKMga-o2I", "start_s": 254, "claim_id": "yankees-world-series", "same_event": "yes",
+     "delta_type": "first_mention",
+     "note": "Two halves with different evidential value. The matchup half is a real prior call and the 2024 World Series was indeed Yankees against Dodgers. The attack half is prayed against and did not happen."},
+    {"video_id": "_NvKMga-o2I", "start_s": 330, "claim_id": "yankees-world-series", "same_event": "yes", "delta_type": "new_detail",
+     "note": "Adds that he saw them going but not winning, which matches the outcome. Also that he saw Los Angeles."},
+    {"video_id": "_NvKMga-o2I", "start_s": 755, "claim_id": "superbowl-winner-private", "same_event": "yes",
+     "delta_type": "first_mention",
+     "note": "Filed because it is the sharpest methodological fact in the corpus: he says he receives cleanly scoreable predictions and deliberately does not publish them."},
+    {"video_id": "_NvKMga-o2I", "start_s": 788, "claim_id": null, "same_event": "no", "delta_type": "no_claim",
+     "note": "Sets up an answer to the crash objection; the answer itself falls outside this passage."}
+  ]
+}

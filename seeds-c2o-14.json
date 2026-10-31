@@ -1,0 +1,22 @@
+[
+ {"claim_id": "newsom-removed-early",
+  "label": "The California governor removed before his term ends",
+  "domain": "politics",
+  "description": "Given 29 October 2025: the California governor's days are numbered, with removal explicitly meant rather than death, and him seen fading away concerning California. He rejects the reading that this means political violence. His term ends in January 2027.",
+  "aliases": ["Gavin's days are numbered", "I'm talking about removal", "fading away concerning California"]},
+ {"claim_id": "ukraine-money-unaccounted",
+  "label": "An arrow of unaccounted money from Washington into Kyiv",
+  "domain": "politics",
+  "description": "A slush fund seen in government with money going to Ukraine and to pet projects, an arrow running from Washington DC into Kyiv for special interests, and the assertion that the money is not accounted for and has no accountability over it, compared to what went on with Fauci and the laboratories.",
+  "aliases": ["arrow goes from Washington", "not accounted for", "slush fund"]},
+ {"claim_id": "dollar-is-done-no-saving-it",
+  "label": "The dollar is done and there is no saving it",
+  "domain": "finance",
+  "description": "Given 29 October 2025 in the most absolute form the dollar claim takes anywhere in the corpus: the Titanic is going down, the dollar is done, there is no saving it, America is not coming back and what is coming back is Jesus. Stated without the prayer condition he normally attaches, and with an acknowledgement that people are angry with him for saying it.",
+  "aliases": ["the dollar is done", "no saving it", "America is not coming back"]},
+ {"claim_id": "organised-looting-of-stores",
+  "label": "Organised looting of stores at a set time",
+  "domain": "security",
+  "description": "People heard organising to take food from a named retailer and pillage at a set hour on a Saturday, given as preparation rather than to frighten. No date is attached to the Saturday.",
+  "aliases": ["taking food from Walmart", "we're going to pillage"]}
+]

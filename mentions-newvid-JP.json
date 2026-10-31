@@ -1,0 +1,181 @@
+{
+ "_note": "The one video published since the corpus was closed: JP--134vRTw, 'Will the EU push Putin too far?', uploaded 30 August 2026. Its eight tier-1 passages. Two are news read off the screen and carry no claim of his; the rest are recorded here. Falsifiers written 31 August 2026, before any of the named windows closed. Model claude-opus-5, prompt v1.",
+ "mentions": [
+  {
+   "video_id": "JP--134vRTw",
+   "start_s": 1877,
+   "claim_text": "Reading headlines about Russian fuel shortages after Ukrainian strikes on refineries, he says he felt witchcraft on the picture the moment he saw it.",
+   "quote": "Right when I saw that picture, I felt witchcraft",
+   "source_mode": "PERSONAL_INFERENCE",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "war",
+    "religion"
+   ],
+   "locations": [
+    "Russia",
+    "Ukraine"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Unfalsifiable as stated: a felt impression about a photograph, with no outcome attached.",
+   "falsify_miss": "Cannot fail as stated."
+  },
+  {
+   "video_id": "JP--134vRTw",
+   "start_s": 2461,
+   "claim_text": "Israel strikes Damascus in the days ahead and chemical or biological weapons are released out of Damascus against Israel, described as something worse than October 7th, with Turkey coming to Syria's aid as a wounded brother.",
+   "quote": "they will use biological weapons, like chemical weapons, out of Damascus",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "war",
+    "terrorism"
+   ],
+   "locations": [
+    "Damascus",
+    "Syria",
+    "Israel",
+    "Turkey"
+   ],
+   "entities": [
+    "Erdogan"
+   ],
+   "time_phrase": "in the days ahead",
+   "window_start": "2026-08-30",
+   "window_end": "2026-11-30",
+   "time_precision": "relative",
+   "due_at": "2026-11-30",
+   "falsify_match": "An Israeli strike on Damascus followed by a chemical or biological attack on Israel originating from Syria, with Turkey militarily backing Syria.",
+   "falsify_miss": "No chemical or biological attack on Israel out of Syria in the months following."
+  },
+  {
+   "video_id": "JP--134vRTw",
+   "start_s": 2720,
+   "claim_text": "Playing a clip on AI models becoming capable enough to pose a bioterrorism risk, he says this is what he meant in 2023 about people holding meetings with the devil, and repeats seeing men and women in black capes who hide at night.",
+   "quote": "people having a meeting with the devil? Did you ever wonder who",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "technology",
+    "religion",
+    "health"
+   ],
+   "time_phrase": "back in 2023, in the days ahead",
+   "time_precision": "relative",
+   "falsify_match": "An identifiable group shown to be deliberately developing a biological weapon with AI assistance.",
+   "falsify_miss": "The black-caped meetings have no identifiable referent; the AI bioterrorism risk stays a stated capability rather than a used one."
+  },
+  {
+   "video_id": "JP--134vRTw",
+   "start_s": 3678,
+   "claim_text": "A new kind of water energy more powerful than nuclear is coming and America leads it, seen alongside military technology not yet public, in a word he dates to 2024.",
+   "quote": "a new kind of water energy that would be more powerful than nuclear",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "technology",
+    "economics"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "in the days ahead, shown in 2024",
+   "time_precision": "relative",
+   "falsify_match": "A water-based energy technology, hydrogen or fusion of a water-derived fuel, publicly demonstrated at a power exceeding fission, led by the United States.",
+   "falsify_miss": "No such technology emerges, or it emerges elsewhere, or it does not exceed nuclear output."
+  },
+  {
+   "video_id": "JP--134vRTw",
+   "start_s": 3720,
+   "claim_text": "Asking whether the Clarity Act passes next month, he says he saw it pass by one vote and also saw a fading two-vote margin, and wonders aloud whether it passes by more than one.",
+   "quote": "I saw it by one vote that we're praying for one vote",
+   "source_mode": "VISION",
+   "certainty": "tentative",
+   "conditionality": "unconditional",
+   "topics": [
+    "crypto",
+    "politics"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "this next month, September",
+   "window_start": "2026-09-01",
+   "window_end": "2026-09-30",
+   "time_precision": "range",
+   "due_at": "2026-09-30",
+   "falsify_match": "Crypto market structure legislation passes the Senate in September 2026 by a one or two vote margin.",
+   "falsify_miss": "It fails, is delayed past September, or passes by a comfortable margin."
+  },
+  {
+   "video_id": "JP--134vRTw",
+   "start_s": 3722,
+   "claim_text": "America and nations in Africa hold a Bitcoin reserve.",
+   "quote": "America and other nations in Africa will have a Bitcoin reserve",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "crypto",
+    "economics"
+   ],
+   "locations": [
+    "America",
+    "Africa"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "One or more African states establish a sovereign Bitcoin reserve alongside the United States.",
+   "falsify_miss": "No African state holds Bitcoin as a declared sovereign reserve."
+  },
+  {
+   "video_id": "JP--134vRTw",
+   "start_s": 3758,
+   "claim_text": "Praying over the president, he anticipates the Iran business being finished and attention moving to Cuba, and asks protection against attacks from Cuba.",
+   "quote": "they will finish what they're doing in Iran",
+   "source_mode": "PRAYER_DECREE",
+   "certainty": "tentative",
+   "conditionality": "unconditional",
+   "topics": [
+    "war",
+    "politics"
+   ],
+   "locations": [
+    "Iran",
+    "Cuba",
+    "America"
+   ],
+   "entities": [
+    "Trump"
+   ],
+   "time_phrase": "before",
+   "time_precision": "relative",
+   "falsify_match": "US military or diplomatic focus shifts from Iran to Cuba as the next theatre.",
+   "falsify_miss": "The Iran engagement continues without a Cuba turn, or Cuba never becomes the next focus."
+  },
+  {
+   "video_id": "JP--134vRTw",
+   "start_s": 5847,
+   "claim_text": "He sees the month of September with more people going home, meaning more deaths.",
+   "quote": "I see the month of September. Somebody going home. More going home",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "time_phrase": "September",
+   "window_start": "2026-09-01",
+   "window_end": "2026-09-30",
+   "time_precision": "range",
+   "due_at": "2026-09-30",
+   "falsify_match": "A notable cluster of deaths among recognised church leaders during September 2026, beyond the ordinary rate.",
+   "falsify_miss": "September 2026 passes with no unusual number of prominent church deaths. Note that this claim is close to unfalsifiable by construction, since people die every month and no threshold is given."
+  }
+ ]
+}

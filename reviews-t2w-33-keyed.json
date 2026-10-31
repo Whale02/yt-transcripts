@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "8111b5a18b2636d3",
+"claim_id": "pacific-nw-quake",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "Portland named, with tsunamis at Japan and Alaska alongside"
+},
+{
+"mention_id": "682e77f4259ed644",
+"claim_id": "pacific-nw-quake",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "a hazard study taken as confirmation; he says himself he is curious when it will manifest"
+},
+{
+"mention_id": "d6156411b13f3848",
+"claim_id": "california-big-one",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "he stops praying it off and asks for it, naming Malibu; that reverses his usual position"
+},
+{
+"mention_id": "52b17a3b61470dc9",
+"claim_id": "retaliation-against-trump-children",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "six family members named, with the New York buildings"
+},
+{
+"mention_id": "d0e93509eeb81654",
+"claim_id": "acid-rain-red-cloud-europe",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the red horse inside the acid cloud, black horse behind"
+},
+{
+"mention_id": "a74552b1832decc5",
+"claim_id": "acid-rain-red-cloud-europe",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "the black horse scuffing one hoof at a distance"
+},
+{
+"mention_id": "fe3f8170d70da0d4",
+"claim_id": "blood-moon-shakings",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "an almanac fact rather than a claim; the reading of it is what carries any weight"
+},
+{
+"mention_id": "04a379eddfab5b18",
+"claim_id": "blood-moon-shakings",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "the map read as saying something about America"
+},
+{
+"mention_id": "5e61c199bdd14826",
+"claim_id": "canada-crisis",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Toronto, a British Columbia earthquake and a secession vote given as a sequence"
+},
+{
+"mention_id": "1f3d52e0a521bdbd",
+"claim_id": "dday-pearl-harbor",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the D-Day phrase matched to a sanctions headline about Iran, which is not the attack he means"
+},
+{
+"mention_id": "63a470e9a0e6620a",
+"claim_id": "rat-within-america",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the Red Dawn word attached to the D-Day phrasing"
+},
+{
+"mention_id": "361238bfc98f838e",
+"claim_id": "gas-lines-mile-long",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the queues placed in Russia rather than America, which is where he originally saw them"
+},
+{
+"mention_id": "64f9fb98ace70ab9",
+"claim_id": "global-debt-reset",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "news talk of depression offered as fulfilment; talk of one is not one"
+},
+{
+"mention_id": "baa325aaa37ca26c",
+"claim_id": "medication-shortage",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "heart medicine named, with Kim looking to the EU"
+},
+{
+"mention_id": "65397d22d68ba57f",
+"claim_id": "europe-financial-alliance",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "the Canada EU talks announcement played as confirmation"
+},
+{
+"mention_id": "0d719ed6d3b76782",
+"claim_id": "canada-iron-curtain-freedoms",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the whiskey barrels again, rolling into America and breaking"
+},
+{
+"mention_id": "cf9d5bade317857a",
+"claim_id": "canada-persecution",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "rioting and burning by Canadian citizens"
+},
+{
+"mention_id": "842d933aad5de4a9",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a statement read from elsewhere"
+},
+{
+"mention_id": "b2bd6d335c2f51aa",
+"claim_id": "europe-wants-war-for-economies",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the puppet framing and the provoking to bring more in"
+},
+{
+"mention_id": "381be7da1b956aec",
+"claim_id": "unconventional-weapons",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "no more cat and mouse, with North Korea involved"
+},
+{
+"mention_id": "4e7c527028a6fdc9",
+"claim_id": "mercury-on-troubled-waters",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the Black Sea and Turkey named with it"
+},
+{
+"mention_id": "6c49e80b8240a2f8",
+"claim_id": "midterms-more-important-2026",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "the mail voting order taken as favourable"
+},
+{
+"mention_id": "2de891c9e9863b93",
+"claim_id": "dustbowl-famine",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "a Colorado River allocation clip taken as the drought word; the dispute predates the word"
+},
+{
+"mention_id": "0a4dc2770be27ee1",
+"claim_id": "trump-son-shot",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "he distinguishes the two sons and says the bounty on the younger is a distraction"
+},
+{
+"mention_id": "6bd38afd74beed35",
+"claim_id": "trump-son-shot",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the steps, the tuxedo and the flashing lights"
+},
+{
+"mention_id": "56d133225d187f6b",
+"claim_id": "israel-figure-taken-out",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the balcony named"
+},
+{
+"mention_id": "d3bc463ba568490f",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "an aside about wealth"
+},
+{
+"mention_id": "c228c8ffe73096e8",
+"claim_id": "drone-swarms-worldwide",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Starlink named as the control and the sound compared to bees"
+},
+{
+"mention_id": "3335a228315b8c27",
+"claim_id": "saudi-brics",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the table with the BRICS and Kim recalled beside the ferry attack"
+},
+{
+"mention_id": "4806b6b52e1740a8",
+"claim_id": "black-sea-strait-closed",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "reported rather than seen; he asks whether Ukraine did it"
+},
+{
+"mention_id": "76336c42ab6b81b6",
+"claim_id": "acid-rain-red-cloud-europe",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the black horse now running rather than standing"
+},
+{
+"mention_id": "3ea61652338617ed",
+"claim_id": "must-learn-church",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "the money sickness in the church, with his own practice offered as the contrast"
+},
+{
+"mention_id": "faecb5fd4563481a",
+"claim_id": "iran-fizzles-europe-is-bigger",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "soon attached, which gives it some edge"
+},
+{
+"mention_id": "192c605b9a389a73",
+"claim_id": "canada-crisis",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "fifty percent tariffs named"
+},
+{
+"mention_id": "3e9441a78e15bc47",
+"claim_id": "canada-crisis",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "a shifting said to be manifesting, undefined"
+},
+{
+"mention_id": "b9ad886479c6eb9b",
+"claim_id": "albino-boa-new-york",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "given in tongues and interpretation, uninterpreted afterwards"
+},
+{
+"mention_id": "c1cf1675a6130ed5",
+"claim_id": "israel-election-autumn",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "a leadership decision alongside deflating the Iran war"
+},
+{
+"mention_id": "deb0c4ea0521180e",
+"claim_id": "europe-winter-fuel-crisis",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "England singled out and Russia's supply named"
+},
+{
+"mention_id": "3baa686a18295837",
+"claim_id": "mercury-on-troubled-waters",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "pray for Monday morning, which makes one part of this datable"
+},
+{
+"mention_id": "bafb085c32cd8f90",
+"claim_id": "europe-drama-serious",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "a powder keg, with an American distraction alongside"
+},
+{
+"mention_id": "d8ab786f893b8d79",
+"claim_id": "mercury-on-troubled-waters",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "he says plainly he does not know what the mercury means"
+},
+{
+"mention_id": "69d9e89b32da5dd3",
+"claim_id": "depression-1930s-debt-crisis",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the forty trillion figure and the canoe going over the edge"
+},
+{
+"mention_id": "d04df8ca0f227918",
+"claim_id": "dustbowl-famine",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "desalination in California and land with springs becoming valuable"
+},
+{
+"mention_id": "44712fd437504770",
+"claim_id": "brush-arbor-revivals",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "an assembly ban given as what drives church into the woods"
+},
+{
+"mention_id": "36ef28571c126d76",
+"claim_id": "oklahoma-schools-blessing",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "teacher pay and recruitment make this checkable"
+},
+{
+"mention_id": "ac21aabe7cf4614a",
+"claim_id": "new-madrid-quake",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "the line extended to Kansas City, with natural gas pockets shaken loose"
+},
+{
+"mention_id": "f0fef4f47a90f49c",
+"claim_id": "europe-winter-fuel-crisis",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the Jack Frost wind, with the boom called a distraction"
+},
+{
+"mention_id": "73da32e51828e36c",
+"claim_id": "canada-crisis",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the Illuminati eye over Toronto and a new ground zero"
+},
+{
+"mention_id": "96190c0b41b191bf",
+"claim_id": "france-voter-fraud-revolution",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "worse than America, aimed at socialistic control"
+},
+{
+"mention_id": "a586aa6d0af1ce36",
+"claim_id": "france-voter-fraud-revolution",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "the woman fighting through the crowd, and a revolution heard"
+},
+{
+"mention_id": "9a21b346c70a19d2",
+"claim_id": "white-house-ballroom-storm",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the Supreme Court ruling and the ballroom getting built, which is checkable"
+},
+{
+"mention_id": "120ca074623f6608",
+"claim_id": "clean-energy-storage-boom",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "lithium and storage centres named, with Musk"
+},
+{
+"mention_id": "89b2c16f4c299227",
+"claim_id": "bc-secession",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "a province seceding to America, with barbed wire out of the northeast"
+},
+{
+"mention_id": "52bb50593a3746d3",
+"claim_id": "china-owns-american-farmland",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "Vance rather than Trump named, with a Supreme Court ruling and forfeiture"
+},
+{
+"mention_id": "08d597227ed7c1a3",
+"claim_id": "chip-factories-texas-oklahoma",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "two named states and a named industry"
+}
+]
+}

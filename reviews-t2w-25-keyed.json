@@ -1,0 +1,308 @@
+{
+"reviews": [
+{
+"mention_id": "7f6d4587fa3a0f39",
+"claim_id": "guthrie-antichrist-temple",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "identified on site as a Freemason temple at Oklahoma's original capital"
+},
+{
+"mention_id": "4f2e3bc2f9151c98",
+"claim_id": "plague-hits-the-unhealthy",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "COVID already showed that mortality pattern, which weakens the specificity"
+},
+{
+"mention_id": "13b4d7991f035bfe",
+"claim_id": "rosh-2024-acceleration",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "April 2024; three broad categories make a partial hit near certain"
+},
+{
+"mention_id": "92bbe0b7390c800f",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a description of his prayer clock"
+},
+{
+"mention_id": "fbd789c3970130f3",
+"claim_id": "grid-cyberattack",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "China named as the actor, a month before the May telling"
+},
+{
+"mention_id": "5121230c2c92bad6",
+"claim_id": "saudi-brics",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "covenants signed on paper, with the UAE and Iraq added"
+},
+{
+"mention_id": "ba772f941e969663",
+"claim_id": "grocery-shortage",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the four chains named, with certain stores closed as retaliation"
+},
+{
+"mention_id": "2d6b86dc61872c95",
+"claim_id": "martial-law-cities",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "April 2024, which matches the date the later tellings point back to; Philadelphia, Chicago and New York named"
+},
+{
+"mention_id": "173a72e255a8444b",
+"claim_id": "city-exodus",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the rich pawning luxury goods, and Oklahoma and Kansas as the destination"
+},
+{
+"mention_id": "78504649c5d2d575",
+"claim_id": "mahdi-antichrist",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the black thread winding up the Saudi figure"
+},
+{
+"mention_id": "aab07061ffbd9123",
+"claim_id": "middle-east-superpowers-of-the-earth",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "April 2024, thirteen months earlier than the telling I had logged; China named second in command"
+},
+{
+"mention_id": "b9de44e4bd88df0a",
+"claim_id": "great-humbling-of-america",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "offered as his own reading rather than as the word, and he says so"
+},
+{
+"mention_id": "1c837971e4f37574",
+"claim_id": "shake-america-beyond-comprehension",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "nothing seen in over a hundred years, given around the eclipse"
+},
+{
+"mention_id": "dbaf45a70e125137",
+"claim_id": "new-york-is-mystery-babylon",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "4 April 2024, fifteen months earlier than the telling already in the database"
+},
+{
+"mention_id": "3bbc870ef8eb31ac",
+"claim_id": "apollyon-war-2025",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "1 July 2023, the earliest telling of the chained spirit of war in the pit"
+},
+{
+"mention_id": "4a45b7e60c91befe",
+"claim_id": "warsaw-ww3-trigger",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the earliest telling, shown on a map rather than named"
+},
+{
+"mention_id": "7738cb087b5c83c6",
+"claim_id": "novel-weapon-catastrophic",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "July 2023; he assumed nuclear and was corrected, which is his own narrowing"
+},
+{
+"mention_id": "0bf23cd25547f211",
+"claim_id": "arab-ground-war-against-israel",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the Turkish drums, earliest telling"
+},
+{
+"mention_id": "4391d2d0182dce6b",
+"claim_id": "great-betrayal-of-israel",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "1 July 2023, the earliest telling in the archive"
+},
+{
+"mention_id": "8e354298a3320cee",
+"claim_id": "red-dragon-crosses-america",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "July 2023, ten months before the May 2024 telling; the betrayal is given as the cause"
+},
+{
+"mention_id": "4968b131e36d5334",
+"claim_id": "second-wave-double",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the wake-up call framed as worldwide rather than American"
+},
+{
+"mention_id": "41f0eba01fef51bb",
+"claim_id": "preachers-drop-dead-in-pulpits",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the earliest telling of the Ananias and Sapphira word; this also gives the other reader's claim its first assignment"
+},
+{
+"mention_id": "14f634af68e0ea7c",
+"claim_id": "provision-declaration",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "manna, quail and the loaves given as the pattern during the birthing pains"
+},
+{
+"mention_id": "c36410748b2e8dc3",
+"claim_id": "euro-trouble",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "30 June 2023, with the year named; the euro held through 2023"
+},
+{
+"mention_id": "2742f9026fafc7a2",
+"claim_id": "east-coast-storm-newyork-to-miami",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "29 June 2023 is now the earliest east coast storm telling, ten months before the April 2024 one"
+},
+{
+"mention_id": "f11ba1dce278e834",
+"claim_id": "new-madrid-quake",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the earliest telling; the airlift is what marks the east-west severance"
+},
+{
+"mention_id": "17a039be5e5fd19b",
+"claim_id": "caribbean-islands-covered",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "June 2023, with Miami named as the main area and the wave reaching Africa"
+},
+{
+"mention_id": "506ba933396f9dc2",
+"claim_id": "new-madrid-quake",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the helicopter formations and the 9/11 comparison"
+},
+{
+"mention_id": "1b89454a77e96e65",
+"claim_id": "lion-on-the-stock-exchange",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "29 June 2023, two and a half years before the November 2025 telling that was standing as the first"
+},
+{
+"mention_id": "5982cdd323ce6f00",
+"claim_id": "lion-on-the-stock-exchange",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "the tumbleweeds and the desolate streets, in the same dream"
+},
+{
+"mention_id": "73f4fb6d70e6f78a",
+"claim_id": "new-madrid-quake",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the Texarkana to Tulsa aftershock at six or bigger, with the Mississippi quake larger"
+},
+{
+"mention_id": "7974000592026221",
+"claim_id": "pergamon-altar-berlin",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the round table at Berlin, earliest telling"
+},
+{
+"mention_id": "6b6ef16b566322e4",
+"claim_id": "christians-taken-blamed-on-aliens",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the explanation given on television; the alien version comes seventeen months later"
+},
+{
+"mention_id": "075835b90ce3f4a8",
+"claim_id": "mark-world-currency",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the white robes, the lines and the screens, earliest telling"
+},
+{
+"mention_id": "106577084348f45a",
+"claim_id": "heat-sensing-drones-hunt",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "belongs to the tribulation frame, so nothing here can be checked beforehand"
+},
+{
+"mention_id": "96317247fea8a50c",
+"claim_id": "third-temple-build",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the columns and the raised hill, with the abomination named"
+},
+{
+"mention_id": "41fb443f21ee1b08",
+"claim_id": "asia-revival",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "June 2023; the gospel cost them something, said of China, eleven months before the May 2024 repeat"
+},
+{
+"mention_id": "c80f6835121960be",
+"claim_id": "revival-hotspots-oklahoma-texas",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the I-35 corridor from Texas to Oklahoma, earliest telling"
+}
+]
+}

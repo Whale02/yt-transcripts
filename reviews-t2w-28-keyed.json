@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "725826302eddf837",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "channel housekeeping"
+},
+{
+"mention_id": "90255b1ddc2fd847",
+"claim_id": "weather-cues-prayed-results",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "rain spoken over Houston and claimed as answered; rain after a dry spell in Texas is not unusual"
+},
+{
+"mention_id": "933c8266c2b8354b",
+"claim_id": "prayer-can-stop-it",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the ten righteous text used as the warrant, which lets any escaped disaster be credited to prayer"
+},
+{
+"mention_id": "72040bf1e0cafb5e",
+"claim_id": "virus-plot-defused-2024",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the bird flu said to be increasing into something significant"
+},
+{
+"mention_id": "94a901a94d33c30e",
+"claim_id": "oil-boom-2027",
+"same_event": "unsure",
+"delta_type": "first_mention",
+"confidence": 0.5,
+"note": "strikes on Iran producing an oil boom; whether this is the 2027 boom word is not stated"
+},
+{
+"mention_id": "129caf627741e9a4",
+"claim_id": "asteroid-split-by-lasers",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the entry itself"
+},
+{
+"mention_id": "b1ca9f751273a9ce",
+"claim_id": "asteroid-split-by-lasers",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "the laser intercept, which no existing system could do"
+},
+{
+"mention_id": "9b4f38a590c46b19",
+"claim_id": "asteroid-split-by-lasers",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the inundation reaching Europe and Africa with more warning time"
+},
+{
+"mention_id": "e1eef3e7be0b9e39",
+"claim_id": "peace-and-safety-agreements",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the sudden destruction clause attached to the chemical drums"
+},
+{
+"mention_id": "c779a7622f1765a2",
+"claim_id": "syria-struck-arabs-unite",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the Muslim Brotherhood named as what Turkey defends"
+},
+{
+"mention_id": "52bdeab2f5cda736",
+"claim_id": "peace-and-safety-agreements",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.8,
+"note": "peace and safety given as a season rather than a settlement"
+},
+{
+"mention_id": "e25fb807940daf0c",
+"claim_id": "trump-tames-the-dragon",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "the qualifier that matters: the whip only stuns, the animal stays an animal, so neither outcome falsifies the taming word"
+},
+{
+"mention_id": "0a13489c13a926a4",
+"claim_id": "macron-rises-like-hitler",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the Hitler spirit described as a familiar spirit still roaming"
+},
+{
+"mention_id": "f04196855e1c969f",
+"claim_id": "mahdi-antichrist",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the red and gold curtain, and demonic powers doing the grooming"
+},
+{
+"mention_id": "7b831bd5e9fd53bf",
+"claim_id": "land-for-third-temple-accord",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "five months earlier than the July telling; Gaza given as the bargaining chip and MBS named as his own opinion"
+},
+{
+"mention_id": "b23c6a5fcac4a2a8",
+"claim_id": "superbowl-2025-acceleration",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the week called strategic in retrospect, with a strike on Iran soon"
+},
+{
+"mention_id": "390c5a6cfd7a83dd",
+"claim_id": "us-crop-failure",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "Altus named, with no diesel for the tractors"
+},
+{
+"mention_id": "fa25e602c71f5c83",
+"claim_id": "asteroid-split-by-lasers",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "it sneaks past the radars, which pre-empts the absence of any tracked object"
+},
+{
+"mention_id": "6362726891309733",
+"claim_id": "global-shakings-awakening",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "framed as worldwide rather than American"
+},
+{
+"mention_id": "171e203d043e4474",
+"claim_id": "divine-protection-trump",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "with a prayer that no civilians be hurt in strikes on Iran"
+},
+{
+"mention_id": "f2d7cdc25ba91095",
+"claim_id": "saudi-brics",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the plan attributed to the crown prince and aimed at the dollar"
+},
+{
+"mention_id": "aa9476c2d04c3a89",
+"claim_id": "europe-financial-alliance",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "a German figure courting France, and France declining"
+},
+{
+"mention_id": "f78fc9c24437fb0e",
+"claim_id": "venezuela-retaliation-act-of-war",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "the Venezuelan leader described physically and named as working to take America down"
+},
+{
+"mention_id": "d0169712c67bf1b8",
+"claim_id": "mexico-president-paid-by-cartels",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "Mexico described as having no backbone and following the money; the cartel payment claim is not made here"
+},
+{
+"mention_id": "c3f0d26ff2f06e1e",
+"claim_id": "mark-world-currency",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the superpower in the way given as what must be removed first"
+},
+{
+"mention_id": "92530e610e87b96c",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a petition over Israel"
+},
+{
+"mention_id": "3d34c6e6432b90be",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a petition binding the principality over Iran"
+},
+{
+"mention_id": "5fc14cb8731697a5",
+"claim_id": "hollywood-revival",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "given during the January 2025 Los Angeles fires, with Azusa Street as the pattern"
+},
+{
+"mention_id": "eb582c63344a1423",
+"claim_id": "california-revival",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "both coastlines, with celebrities converting"
+},
+{
+"mention_id": "a6c553c2851b329f",
+"claim_id": "hollywood-revival",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "the professional sports leagues added"
+},
+{
+"mention_id": "ed4dc2fecacd5d65",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "channel announcements"
+},
+{
+"mention_id": "09a325d95e3b5776",
+"claim_id": "iran-strikes-economy-crippled",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the same recording as the 6 February telling, republished; the lion and the small span of time"
+},
+{
+"mention_id": "1abe0b8b7f2eeef3",
+"claim_id": "iran-strikes-economy-crippled",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the nuclear and financial setback"
+},
+{
+"mention_id": "c30c3cc0472beb9e",
+"claim_id": "us-weapons-never-used-in-battle",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "hypersonic named and a picture of the missile held up"
+},
+{
+"mention_id": "4c428b603debe5ca",
+"claim_id": "us-weapons-never-used-in-battle",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the Mediterranean carrier presence"
+},
+{
+"mention_id": "3b11bec93047d1aa",
+"claim_id": "respect-restored-to-america",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the Reagan comparison in the same recording"
+},
+{
+"mention_id": "77a167d53c9cd0aa",
+"claim_id": "iran-strikes-economy-crippled",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "he dates the vision eight years earlier here, against four plus in other tellings"
+},
+{
+"mention_id": "f7d35c7a5fc605fe",
+"claim_id": "war-on-american-soil-patriotism",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "patriotism returning with adversaries frightened; no strike is named as the cause here"
+},
+{
+"mention_id": "7aaea7d297b4e242",
+"claim_id": "california-corruption-next",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "pornography, trafficking and witchcraft named as the open door"
+},
+{
+"mention_id": "1fdfcb326f27ef42",
+"claim_id": "revival-not-trump-saves-america",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the point of no return sits against the rocket ship in the same passage, and both are in the mention"
+},
+{
+"mention_id": "d2f23529faf6c43d",
+"claim_id": "president-will-be-radical-for-jesus",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "still believing for it, on a greater level"
+},
+{
+"mention_id": "49f3258caf5d34fa",
+"claim_id": "city-exodus",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "favour on red states and mass migration out of the northeast"
+},
+{
+"mention_id": "355e917bba4ba3c4",
+"claim_id": "revival-hotspots-oklahoma-texas",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the seeker friendly gospel said to be going away"
+},
+{
+"mention_id": "84c0d46adc05a7dc",
+"claim_id": "solomon-anointing-rebuild",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the water reserve given as an example of design over reprobate thinking"
+},
+{
+"mention_id": "aca7ac9de5f1075c",
+"claim_id": "global-shakings-awakening",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "placed inside the next four years, which gives it a real window"
+},
+{
+"mention_id": "7622838d947b6b36",
+"claim_id": "government-issued-tents-migration",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "both coasts emptying into the centre, with tent cities"
+},
+{
+"mention_id": "8b50669c0801ca85",
+"claim_id": "global-revival-continents",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "six regions named"
+},
+{
+"mention_id": "3a2dfdca899033ba",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "channel housekeeping"
+},
+{
+"mention_id": "747e3bc978b904df",
+"claim_id": "london-bridge-attack",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "his wife's correction about which bridge is in the record too"
+},
+{
+"mention_id": "10eb2f508d41b805",
+"claim_id": "canada-election-april-2025",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "a Conservative majority named; the Liberals won a minority on 28 April 2025"
+},
+{
+"mention_id": "b0480e777952ecb3",
+"claim_id": "trudeau-two-faced",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "viewers reporting the word coming to pass, with an instruction not to let up"
+},
+{
+"mention_id": "cf9a7754e9d6364e",
+"claim_id": "extended-time-grant",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "a fraction of a second stretched to hold a revival, which makes any delay a confirmation"
+},
+{
+"mention_id": "1c0ad586ca118828",
+"claim_id": "million-prayer-army",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the instruction to build a prayer channel and be known for prayer on the internet"
+},
+{
+"mention_id": "422096c0251067c6",
+"claim_id": "kim-jong-un-removed",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the dynasty calling to China for help"
+},
+{
+"mention_id": "6e00a8906fda0757",
+"claim_id": "leviathan-out-of-the-gulf",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "a spiritual image with nothing observable attached"
+}
+]
+}

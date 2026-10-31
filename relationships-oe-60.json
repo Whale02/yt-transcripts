@@ -1,0 +1,10 @@
+{"relationships":[
+{"from_claim":"getting-in-the-river","to_claim":"prophetic-method-in-part","rel_type":"related_to","asserted_by":"system",
+ "note":"Much of the material is sought live on air rather than brought to the broadcast already received, which bears on how the partial-sight clause is read."},
+{"from_claim":"major-storm-clear-vision-quick","to_claim":"vibrant-colors-mean-hot","rel_type":"related_to","asserted_by":"system",
+ "note":"Two interpretive rules he supplies himself: brightness means urgency, clarity means nearness. Both are testable across the corpus."},
+{"from_claim":"come-before-2028-election","to_claim":"rapture-by-2028","rel_type":"related_to","asserted_by":"system",
+ "note":"The same 2028 boundary, asked for as a prayer here and stated as a sight in the older claim."},
+{"from_claim":"uterus-2030-green-sludge","to_claim":"agenda-2030","rel_type":"related_to","asserted_by":"system",
+ "note":"2030 is the agenda number he has used since January, here written on an organ with no interpretation offered."}
+]}

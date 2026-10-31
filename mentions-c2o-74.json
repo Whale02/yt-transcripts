@@ -1,0 +1,956 @@
+[
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 1602,
+  "claim_text": "The Jews in New York and around Europe uprooted and going back to Israel, and the Lord saying the Golan Heights is his and Gaza is his and belongs to Israel, and in the days ahead it will belong to his people because he is taking back his land, with building on it, which he says will upset people.",
+  "quote": "the Golden Heights is mine. Gaza is mine and it belongs to Israel",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "israel",
+   "gaza",
+   "golan"
+  ],
+  "locations": [
+   "Israel",
+   "Gaza",
+   "Golan Heights"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "Israeli sovereignty extended over Gaza with building on it.",
+  "falsify_miss": "It is not. This is the earliest telling, and it adds the Golan Heights."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 1755,
+  "claim_text": "The two-in-one storm that goes up like a spaceship, the economy of Mexico under the new president, a shaking in Cuba and in all those areas, with the drug trafficking.",
+  "quote": "the two-in-one storm",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "storm",
+   "mexico",
+   "cuba"
+  ],
+  "locations": [
+   "Mexico",
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Two storms merging, or two simultaneous crises.",
+  "falsify_miss": "Neither. The two-in-one image recurs without a fixed referent."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 1790,
+  "claim_text": "The Lord bringing up the five families of the mafia, who will rise up over New York because they did not want it changed the way the new mayor wanted, and he saw that they would actually look like heroes.",
+  "quote": "I saw that they would actually look like heroes",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "mafia",
+   "new york"
+  ],
+  "locations": [
+   "New York"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Organised crime figures publicly cast as heroes against the New York mayor.",
+  "falsify_miss": "None. This is the earliest telling, and he says himself he does not know how they would ever look like heroes."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 1828,
+  "claim_text": "Strong mafia ties coming against the change in New York, with New York on fire again, great protesting, buildings burning, the forty first floor of a building burning, the subways burning and people rioting, which he calls godlessness and an act of terrorism, some of it paid for.",
+  "quote": "I saw the 41st floor burning of a building",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "new york",
+   "riots"
+  ],
+  "locations": [
+   "New York"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Fires and rioting in New York with a named floor burning.",
+  "falsify_miss": "None. The forty first floor recurs across the tellings and is the most specific detail."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 2057,
+  "claim_text": "A name he kept hearing which he had his wife write down and which they found was a terrorist group, and Putin rising up and using those weapons, with the Lord telling him to pray over Kosovo though he does not understand why.",
+  "quote": "the Lord said, Praying over Kosovo. And I don't know why Kosovo",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "kosovo",
+   "russia"
+  ],
+  "locations": [
+   "Kosovo",
+   "Russia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A crisis in Kosovo.",
+  "falsify_miss": "None. He says himself he does not understand why the place was given."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 2095,
+  "claim_text": "He prayed over Kosovo for a long time that day and over Ukraine, and saw a major war across Europe that was a third world war, very bad and unlike anything seen before, with weapons that have never been used.",
+  "quote": "I saw a major war across Europe that was World War III",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "europe",
+   "war"
+  ],
+  "locations": [
+   "Europe",
+   "Ukraine",
+   "Kosovo"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A general European war using novel weapons.",
+  "falsify_miss": "None. Weapons never used before is not defined, which is what keeps it from failing."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 2823,
+  "claim_text": "He would not be surprised if they strike Iran again that night, and saw oil wells burning, the Ayatollah fleeing and leaving, and major Iranian dignitaries fleeing to Iraq dressed in different clothes so they could not be caught, scattering like cockroaches when the light comes on.",
+  "quote": "I saw major dignitaries of Iran fleeing to Iraq",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "iran",
+   "leadership"
+  ],
+  "locations": [
+   "Iran",
+   "Iraq"
+  ],
+  "time_phrase": "tonight",
+  "time_precision": "day",
+  "falsify_match": "Iranian leaders fleeing to Iraq in disguise.",
+  "falsify_miss": "They stay. Fleeing to Iraq in disguise is specific enough to fail cleanly."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 3004,
+  "claim_text": "A warning against pride and bitterness, that he is only successful like David's mighty men because the hand of the Lord is on him, and that liberating Venezuela was not the greatness of the military but God's hand of protection and the prayers of the people.",
+  "quote": "Liberating Venezuela was not you",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "trump",
+   "venezuela"
+  ],
+  "locations": [
+   "Venezuela",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing observable. An attribution rather than a forecast.",
+  "falsify_miss": "Nothing observable, though the pride warning is what he says would forfeit it."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 3050,
+  "claim_text": "God wants revival in Venezuela and will use whoever he chooses, as he used David, a man of war who will bring peace, and right now it is about making America strong, and asked whether he said British Columbia joining America rather than Ontario, he says he has seen all of it.",
+  "quote": "I've seen all of it",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "canada",
+   "venezuela"
+  ],
+  "locations": [
+   "British Columbia",
+   "Ontario",
+   "Venezuela"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A Canadian province joining the United States.",
+  "falsify_miss": "None does. Saying he has seen all of it widens the claim rather than pinning it."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 3091,
+  "claim_text": "The whole country joins up with America in the future on the dollar rather than the borders, because Canada's economy is in trouble, and Mexico's economy will join up too once the new man is in and the current president is out of the way, with a businessman proposing a financial partnership.",
+  "quote": "The whole country at one in the future joins up with America. Dollar wise",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "canada",
+   "mexico",
+   "currency"
+  ],
+  "locations": [
+   "Canada",
+   "Mexico"
+  ],
+  "time_phrase": "in the future",
+  "time_precision": "none",
+  "falsify_match": "A currency union between America, Canada and Mexico.",
+  "falsify_miss": "None forms. He distinguishes dollar union from border union, which is the specific part."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 6002,
+  "claim_text": "A prayer that the nation be one nation again under God despite all the division and strife.",
+  "quote": "That we'll keep that. God bless America",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "america"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing. A petition.",
+  "falsify_miss": "Nothing. No event is named."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 6410,
+  "claim_text": "Prayer will bring it out of the media even as the named networks try to bury it, because this is the political theatre upon the land, and the exposing of the darkness will help them win the red wave they are looking for, with major corruption in Pennsylvania, California, Michigan, Boston and Las Vegas.",
+  "quote": "will help you to win the red wave that you're looking for",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "if_x",
+  "topics": [
+   "media",
+   "corruption",
+   "elections"
+  ],
+  "locations": [
+   "Pennsylvania",
+   "California",
+   "Michigan",
+   "Boston",
+   "Las Vegas"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Corruption exposures in those states followed by Republican gains.",
+  "falsify_miss": "Neither. The red wave is made conditional on the exposing, which is an escape either way."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 7297,
+  "claim_text": "A major revival over Iran with the Ayatollah and the dictator removed, and he says the only one he has never had a go on is Greenland, that he cannot see past it, because he does not see corruption in Greenland as he does in Mexico, Cuba and Iran.",
+  "quote": "The only one that I've never had a go on is Greenland",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "greenland",
+   "iran"
+  ],
+  "locations": [
+   "Greenland",
+   "Iran",
+   "Cuba",
+   "Mexico"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An American move on Greenland going badly.",
+  "falsify_miss": "It goes well, or does not happen. This is the earliest telling of the Greenland caution and it gives his reason."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 7399,
+  "claim_text": "Let it be a vote and be strategic rather than strong-arming it, be cautious concerning the EU, but on Iran he feels go and kept hearing push the button, and on the Mexican president there is corruption and something very dark, with a man rising in her position who would be a good businessman for the Mexican people and not swayed by cartel money.",
+  "quote": "Let it be a vote. Let it be strategic. Don't be strong-arming this",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "greenland",
+   "mexico"
+  ],
+  "locations": [
+   "Greenland",
+   "Mexico"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A Greenland referendum, and a businessman replacing the Mexican president.",
+  "falsify_miss": "Neither. A vote rather than a seizure is the specific instruction."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 7443,
+  "claim_text": "He feels go in his spirit to pray for liberation for the Cubans, but when he gets to Greenland he feels caution and hits a wall in the spirit telling him not to do it, though he does not know why.",
+  "quote": "I get to that wall in the spirit and I go Don't do that",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "greenland",
+   "cuba"
+  ],
+  "locations": [
+   "Greenland",
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing directly. A description of his own sense.",
+  "falsify_miss": "Nothing directly, though it is the clearest statement of how he distinguishes a go from a caution."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 7483,
+  "claim_text": "Be diplomatic and not the bully in the schoolyard, walk lightly with Europe because they need strategic allies up there who are their friends for what is coming, and they do not want to burn bridges, though it is going to burn some.",
+  "quote": "You don't want to burn bridges. It's going to burn some bridges",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "if_x",
+  "topics": [
+   "greenland",
+   "europe"
+  ],
+  "locations": [
+   "Europe",
+   "Greenland"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A rupture with European allies over Greenland.",
+  "falsify_miss": "None. He says both that they must not burn bridges and that bridges will burn."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 7567,
+  "claim_text": "It will anger Russia but they are too weak to defend it, depleted from Ukraine, and Putin has a big voice but it is a demonic spirit speaking through him, and it is about the BRICS backing their agenda with the Chinese and North Korean leaders.",
+  "quote": "Russia is too weak to They're depleted from Ukraine",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "russia",
+   "brics"
+  ],
+  "locations": [
+   "Russia",
+   "Ukraine"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Russia unable to respond to an American move.",
+  "falsify_miss": "It responds forcefully. This sits against his own word that a strong Russia is needed for the hook in the jaw."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 7645,
+  "claim_text": "He says this is only what he feels when he weighs it out in his spirit and people may say he is wrong, but he goes with the peace he feels, and he sees new leaders rise up in Mexico, Cuba and Venezuela because God wants liberation and revival there.",
+  "quote": "You say, Well, Brandon, you're wrong",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "hedged",
+  "conditionality": "unconditional",
+  "topics": [
+   "method",
+   "latin america"
+  ],
+  "locations": [
+   "Mexico",
+   "Cuba",
+   "Venezuela"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "New leaders in all three.",
+  "falsify_miss": "None change. He hedges the whole passage as his own weighing rather than a word."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 7727,
+  "claim_text": "Revival wanted in Europe and South Korea, with the Chinese leader trying to bring an accord into South Korea to lure and trap them, though it is not the man but the spirit of communism behind him, and the Lord was disgusted with the man in New York who opened a massive door, with a shaking coming there and people fleeing like rats.",
+  "quote": "Ping is trying to bring a accord into South Korea to lure them in",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "south korea",
+   "new york"
+  ],
+  "locations": [
+   "South Korea",
+   "New York"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A Chinese agreement drawing South Korea in.",
+  "falsify_miss": "None. Fleeing like rats from New York is the checkable half."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 7854,
+  "claim_text": "He thanks the eleven thousand who came and prayed for the country, Iran and the valley of decision, and says it felt like a lot of push and the Lord said they could do it.",
+  "quote": "I felt a lot of push. Did you?",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "ministry"
+  ],
+  "locations": [],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing. A sign-off.",
+  "falsify_miss": "Nothing. No event is named."
+ },
+ {
+  "video_id": "LmxIp6r1zmw",
+  "start_s": 7977,
+  "claim_text": "That he sleeps unhindered by any satanic or demonic force, and that certain cryptocurrencies flourish and go to five dollars now, called in and blessed, with the banking deals signed and made unhindered, and the finances called forth for the kingdom.",
+  "quote": "GO TO $5 NOW IN JESUS NAME",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "crypto"
+  ],
+  "locations": [],
+  "time_phrase": "now",
+  "time_precision": "day",
+  "falsify_match": "A named coin reaching five dollars.",
+  "falsify_miss": "It does not. He does not name the coin here, which is the gap in an otherwise precise claim."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 44,
+  "claim_text": "Over the next two weeks major decisions will be made concerning Iran and concerning Pakistan, with major disruptions about to erupt in Pakistan which he saw very clearly, though he says he does not know when.",
+  "quote": "Major disruptions are about to erupt in Pakistan",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "pakistan",
+   "iran"
+  ],
+  "locations": [
+   "Pakistan",
+   "Iran"
+  ],
+  "time_phrase": "the next two weeks",
+  "time_precision": "week",
+  "falsify_match": "Major upheaval in Pakistan inside that fortnight.",
+  "falsify_miss": "Nothing in it. This is the earliest telling of the Pakistan material, and the window closed in late January 2026."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 87,
+  "claim_text": "As the major thing happens in Iran, antisemitism will be at an all-time high in the days ahead, with the Jewish community in New York City and in other American cities and other nations under great persecution and great protest, some of them in danger.",
+  "quote": "anti-semitism will be at an all-time high in the days ahead",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "antisemitism"
+  ],
+  "locations": [
+   "New York",
+   "United States"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "A record level of antisemitic incidents.",
+  "falsify_miss": "A fall. Incidents were already at record highs when he said this, which is the priority problem."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 143,
+  "claim_text": "People fleeing to Israel, uprooting their families from those major cities and saying they have had enough, gathering their things and moving, and he had his wife look up whether what he was seeing was biblical, finding scriptures about the people being scattered and then gathered in the end times.",
+  "quote": "They were uprooting their families in these locations",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "israel",
+   "aliyah"
+  ],
+  "locations": [
+   "Israel",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A surge in emigration to Israel from American cities.",
+  "falsify_miss": "None. He looks up the scriptural framing after the vision rather than before."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 185,
+  "claim_text": "He is bringing the Jewish people home, with the Jews going to Israel in mass numbers because of the persecution that will arise, all coming back to Jerusalem on a greater scale in the days ahead.",
+  "quote": "I saw the Jews going to Israel by mass numbers",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "israel",
+   "aliyah"
+  ],
+  "locations": [
+   "Israel",
+   "Jerusalem"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "Record immigration to Israel.",
+  "falsify_miss": "None. Aliyah figures are published annually and would settle it."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 235,
+  "claim_text": "Fires all over with great protest in New York City, the forty first floor of a major building on fire again, fires in buildings and rioting coming to New York in the days ahead, which he says the Lord keeps showing him over and over, and the Lord was upset again about the new mayor and the decisions already being made.",
+  "quote": "I saw again the 41st floor of a major building in New York",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "new york",
+   "riots"
+  ],
+  "locations": [
+   "New York"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "Rioting and building fires in New York.",
+  "falsify_miss": "None. This is the earliest telling in this window, and the floor number is the most specific detail."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 283,
+  "claim_text": "Young men paid off by the drug cartel in Venezuela trying to raise an army against the American troops on the ground there, toward Brazil, with Cuba devising a plan to create civil unrest in Venezuela and Colombia, and huge cocaine distribution plants full of people who looked strung out and broken.",
+  "quote": "I saw Cuba devising a plan of how to create civil unrest",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "venezuela",
+   "cartel"
+  ],
+  "locations": [
+   "Venezuela",
+   "Brazil",
+   "Colombia",
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An irregular force raised against American troops in Venezuela.",
+  "falsify_miss": "None. This is the earliest telling of the guerrilla warfare claim."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 386,
+  "claim_text": "Cocaine and drugs manufactured in Colombia on the border with major trafficking, and highways like veins spreading all over Europe, Africa, America and Asia, with the Panama Canal used to distribute the drugs into Asia.",
+  "quote": "I saw the Panama Canal and they were taking the drugs",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cartel",
+   "panama"
+  ],
+  "locations": [
+   "Colombia",
+   "Panama",
+   "Asia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A trafficking route disclosed running through the canal into Asia.",
+  "falsify_miss": "None disclosed. Cocaine flows to Asia are documented but not primarily through the canal."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 431,
+  "claim_text": "Cuba at high alert under great pressure, with their president inside a mountain in a bunker hiding out, afraid of an American invasion like the one in Venezuela, lying low in the ground as Saddam did, but trying to be cocky because he thinks he is protected.",
+  "quote": "He was in a bunker in the mountain, hiding out",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba",
+   "bunker"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The Cuban leader found sheltering in a mountain bunker.",
+  "falsify_miss": "None. The Saddam comparison sets what a match would look like."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 519,
+  "claim_text": "It was not over with Venezuela, with the question of how to bring civil unrest and destroy the oil wells being sought, and big white containers built to hold oil being targeted, some near the water and some inland, with drones flying and marines protecting the sites with heavy artillery.",
+  "quote": "these uh white containers that were made to hold oil",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "venezuela",
+   "oil",
+   "drones"
+  ],
+  "locations": [
+   "Venezuela"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "Drone attacks on Venezuelan oil storage.",
+  "falsify_miss": "None. The white storage tanks are the identifying detail and recur later in the corpus."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 602,
+  "claim_text": "Men with longer hair who looked as though they were being forced to fight, handed a gun and going in like jungle warfare, many familiar with the terrain and especially from Cuba, over ten thousand trying to infiltrate to take the land and cause havoc for America, and also concerning Colombia, with the Mexican president pacing back and forth in a room.",
+  "quote": "I saw over 10,000 people trying to infiltrate to take the land",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "venezuela",
+   "infiltration"
+  ],
+  "locations": [
+   "Venezuela",
+   "Cuba",
+   "Colombia"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "A force of that size moving against American positions.",
+  "falsify_miss": "None. Ten thousand men could not move unnoticed, which is what makes the number useful."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 697,
+  "claim_text": "The Mexican president acting frightened because of the storm coming, with a major revival about to hit Mexico and liberation coming for the Mexican people, Colombia, Venezuela and Cuba, and a major revival across South America which he believes is already taking place in Brazil.",
+  "quote": "I told you a major revival is about to hit Mexico",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "mexico",
+   "revival"
+  ],
+  "locations": [
+   "Mexico",
+   "Colombia",
+   "Venezuela",
+   "Brazil"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "Measurable church growth across those countries.",
+  "falsify_miss": "None. Brazilian evangelical growth has run for decades, which is the base rate he is reading."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 746,
+  "claim_text": "With the head of state cut, the drug distribution and oil revenue are about major business concerning backing the dollar and sustaining America, and the Italian prime minister does not like it about Greenland, standing with the Canadian, English, French, German and Finnish leaders.",
+  "quote": "the prime minister of Italy the woman she does not like it about Greenland",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "greenland",
+   "europe"
+  ],
+  "locations": [
+   "Italy",
+   "Greenland",
+   "Canada",
+   "Finland"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A European bloc forming against the American position on Greenland.",
+  "falsify_miss": "None. Naming six leaders makes the alignment checkable."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 798,
+  "claim_text": "A major business deal offering each citizen of Greenland over twenty thousand dollars, with a vote coming that is fifty fifty divided, the young excited and the elders not, something about the fishing industry, the elders wanting to keep living as they always have, and the object being the minerals, while the president says he will strong-arm them, at which point the vision stopped.",
+  "quote": "It was over $20,000 per citizen. It was 5050 divided",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "greenland",
+   "vote"
+  ],
+  "locations": [
+   "Greenland"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A payment offer and a referendum in Greenland.",
+  "falsify_miss": "Neither. The dollar figure and the fifty fifty split are the checkable parts."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 843,
+  "claim_text": "He says he did not see them become part of America and will not add to it because the vision stopped, but he saw a shaking coming to Canada with British Columbia shaking and seceding from Canada in the days ahead to become part of America because of the financial trouble coming, and China's generals devising a plan to take Taiwan.",
+  "quote": "I saw they would succeed secede from Canada in the days ahead",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "canada",
+   "secession"
+  ],
+  "locations": [
+   "British Columbia",
+   "Canada",
+   "Taiwan"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "British Columbia seceding and joining the United States.",
+  "falsify_miss": "It does not. This is the earliest telling, and he refuses to extend the Greenland half beyond what he saw."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 898,
+  "claim_text": "A dome of prayer with the Lord saying you can delay the inevitable through prayer, and a golden dome coming up over Taiwan on all sides, while the Lord says they have not taken their freedom from the communist regime seriously over the years and have taken their freedoms for granted without praying enough.",
+  "quote": "You can delay the inevitable",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "taiwan",
+   "prayer"
+  ],
+  "locations": [
+   "Taiwan"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Taiwan remaining free longer than expected.",
+  "falsify_miss": "It falls. Delaying the inevitable means the fall is still expected, which is the honest form of the claim."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 950,
+  "claim_text": "South Korea will be challenged and a communist dragon will try to grab hold of it, but because there is more prayer root there it will be held back as long as the people intercede and humble themselves, with a hedge of protection over South Korea, and a Chinese snake or dragon coming out of China into North Korea trying to come over.",
+  "quote": "a communist uh dragon will try to grab on to South Korea",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "south korea",
+   "china"
+  ],
+  "locations": [
+   "South Korea",
+   "North Korea",
+   "China"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Chinese pressure drawing South Korea toward communism.",
+  "falsify_miss": "None. The prayer condition means an absence is read as the answer."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 1111,
+  "claim_text": "Cover them in prayer with a dome of glory around them, because you can hold it and delay the inevitable of what will come in the days ahead, and then he plays a clip of the president saying he considers Taiwan to be a part of China.",
+  "quote": "you can hold it and delay it. delay the inevitable",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "taiwan"
+  ],
+  "locations": [
+   "Taiwan",
+   "China"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "A delay rather than a prevention of the fall.",
+  "falsify_miss": "It never comes at all. Delay rather than prevent is the frame he sets."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 1273,
+  "claim_text": "Praying over the government coming in, with Russia coming in and taking out the Ukrainian president and their government, and everything escalating in Europe, alongside the shorts his son has been making in the style of magazine covers without explanation.",
+  "quote": "I saw uh Russia come in and just take out uh Zalinski",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "ukraine",
+   "russia"
+  ],
+  "locations": [
+   "Ukraine",
+   "Russia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The Ukrainian president removed by Russian action.",
+  "falsify_miss": "He remains. Taking out the government as well as the man is the strong form."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 1673,
+  "claim_text": "They want to get rid of the president so they must pray for his protection to live long and finish strong, which he says is why the channel exists, and he points to Turkey warning the Western world to keep out of Iran and blaming Israel for fuelling the protesters, which he ties to seeing Turkey joining up and becoming really strong.",
+  "quote": "I saw Turkey joining up and they became really strong",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "turkey",
+   "iran"
+  ],
+  "locations": [
+   "Turkey",
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Turkey emerging as a major power in the region.",
+  "falsify_miss": "It does not. He offers a same-day statement as the confirmation."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 1745,
+  "claim_text": "A major event is about to take place which is why there will be so much antisemitism, and he recalls seeing a blow against the oil wells in Iran, then reasons aloud that having taken Venezuela's oil they are telling Russia and China they cannot have it and threatening their boats.",
+  "quote": "there would be a blow against the oil wells in uh Iran",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "iran",
+   "oil"
+  ],
+  "locations": [
+   "Iran",
+   "Venezuela",
+   "Russia",
+   "China"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Strikes on Iranian oil production.",
+  "falsify_miss": "None. He marks this section as just him talking rather than a word."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 1795,
+  "claim_text": "In the days ahead Iran's oil fields would be on fire, which he thought would have happened last summer and asked his son where they were, with the price of oil going over a hundred dollars a barrel, and he wonders whether that would be strategic if Israel attacked.",
+  "quote": "I thought it would be back last summer",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "oil",
+   "iran"
+  ],
+  "locations": [
+   "Iran"
+  ],
+  "time_phrase": "last summer",
+  "time_precision": "season",
+  "falsify_match": "Iranian oil fields burning with oil above a hundred dollars.",
+  "falsify_miss": "It did not happen when he expected. He concedes here that his own timing was wrong by at least half a year."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 1889,
+  "claim_text": "He reasons that with America controlling Venezuela's oil and its own, and Saudi oil already with them, it favours the petrodollar, and says he saw the oil fields burning in Iran and then a retaliation trying to blow up Venezuela's oil wells, asking whether the burning oil is symbolic.",
+  "quote": "I saw a retaliation of them trying to blow up Venezuela's oil wells",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "venezuela",
+   "oil",
+   "petrodollar"
+  ],
+  "locations": [
+   "Venezuela",
+   "Iran",
+   "Saudi Arabia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Attacks on Venezuelan oil in retaliation for Iran.",
+  "falsify_miss": "None. He asks himself whether the image is symbolic, which loosens what would count."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 2089,
+  "claim_text": "There is no snow in Venezuela so he does not know what the purple three coming down a snowbank meant, and he asks why the purple dragon came up out of the water on the Atlantic side by Miami three times, wondering whether it means the third day, since the Venezuelan leader fell.",
+  "quote": "Why did the purple dragon come up out of the water",
+  "source_mode": "VISION",
+  "certainty": "hedged",
+  "conditionality": "unconditional",
+  "topics": [
+   "symbols",
+   "venezuela"
+  ],
+  "locations": [
+   "Venezuela",
+   "Miami"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing. He is working out what his own images meant.",
+  "falsify_miss": "Nothing. Recorded because it shows the numbers being fitted to events after the fact."
+ },
+ {
+  "video_id": "hL9Trl2qb9k",
+  "start_s": 2661,
+  "claim_text": "Asked how that would make fossil fuels rise he says he does not know, but he saw Iraq coming up out of the ashes into a great new economy while Persia loses its hold and the prince of Persia loses his grip, with Iran in trouble and a major revival coming, and new kinds of energy coming out of AI.",
+  "quote": "I saw Iraq coming up out of the ashes",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "iraq",
+   "iran",
+   "energy"
+  ],
+  "locations": [
+   "Iraq",
+   "Iran"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "An Iraqi economic boom as Iranian influence recedes.",
+  "falsify_miss": "Neither. He says himself he does not know the mechanism."
+ }
+]

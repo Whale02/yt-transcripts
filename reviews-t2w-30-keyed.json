@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "f7d364ca8fc0ff92",
+"claim_id": "aliens-normalized",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "Miami and New York named; the sightings were already routine news when he said this"
+},
+{
+"mention_id": "2fcb651731ddc372",
+"claim_id": "canada-election-april-2025",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "too big to rig and a landslide, both of which failed on 28 April"
+},
+{
+"mention_id": "508b5e6f7b066271",
+"claim_id": "korea-border-explosion-war",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "declared against a communist takeover of the south"
+},
+{
+"mention_id": "0e26779e2025300d",
+"claim_id": "greatest-harvest-of-souls",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "waters covering the sea"
+},
+{
+"mention_id": "2f6488e29d47bfb6",
+"claim_id": "injection-removes-free-will",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "belongs to the tribulation frame, so nothing here can be checked beforehand"
+},
+{
+"mention_id": "80510ac6bff1d2ec",
+"claim_id": "pope-with-antichrist",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "he hedges the pope identification himself and says so on air"
+},
+{
+"mention_id": "13a2f81a777b0b73",
+"claim_id": "pope-with-antichrist",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the figure professing to be God, with the revival shown immediately after"
+},
+{
+"mention_id": "8d6efd521a1a99f2",
+"claim_id": "canada-turnaround",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the government turning its back, with black on the backside"
+},
+{
+"mention_id": "17c2355c13d1c7b4",
+"claim_id": "canada-turnaround",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "so easily taken care of in the spirit; the condition means failure is attributed to the church not praying"
+},
+{
+"mention_id": "44fe68d54e87a7eb",
+"claim_id": "canada-turnaround",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "restoration made conditional on the church rather than the government"
+},
+{
+"mention_id": "f2e63f9b88c670b5",
+"claim_id": "must-learn-church",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "not a government problem but a church problem, from Maine down"
+},
+{
+"mention_id": "4e75aa068e979b89",
+"claim_id": "revival-hotspots-oklahoma-texas",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the I-35 corridor from the Gulf upward, with a say yes condition"
+},
+{
+"mention_id": "98df3249def75b18",
+"claim_id": "global-revival-continents",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "five regions named, conditioned on saying yes"
+},
+{
+"mention_id": "9d6a86cd3d11cc49",
+"claim_id": "million-prayer-army",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "the million applied to Canada as well"
+},
+{
+"mention_id": "9b8cd37113d75521",
+"claim_id": "global-quake-swarm",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the instruction not to look horizontally given as the reason not to fear it"
+},
+{
+"mention_id": "60da3d767978baa7",
+"claim_id": "italy-volcano",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "an Italian earthquake with a tsunami rather than only an eruption"
+},
+{
+"mention_id": "56266ddfa15a09f0",
+"claim_id": "antisemitism-peak",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "American and Israeli strikes on Iran given as the cause, and the Houthis called a distraction"
+},
+{
+"mention_id": "abcbdb0bce50692e",
+"claim_id": "syria-struck-arabs-unite",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "Turkey as big brother more than ever before"
+},
+{
+"mention_id": "bdd9d6b3e29ca092",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "teaching on tongues with a book recommendation"
+},
+{
+"mention_id": "95a5f124462f61b3",
+"claim_id": "canada-election-april-2025",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "he states plainly he is not familiar with Canadian politics, which is worth keeping beside the confident claims about it"
+},
+{
+"mention_id": "6189ecf512dd9d34",
+"claim_id": "canada-turnaround",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "changing the politics as they say they did in America"
+},
+{
+"mention_id": "0d2fbf505396a000",
+"claim_id": "trudeau-two-faced",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "credit claimed for the resignation, and the successor called another one"
+},
+{
+"mention_id": "f4c29ff11960722b",
+"claim_id": "watch-carney",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "the new leader said to need saving"
+},
+{
+"mention_id": "25590a7e19634267",
+"claim_id": "canada-iron-curtain-freedoms",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "the whiskey barrels again, this time on the economy; he says he does not know what they mean"
+},
+{
+"mention_id": "29e348668e2bbe20",
+"claim_id": "canada-sector-crash-emigration",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "the economy seen as darkness, uninterpreted"
+},
+{
+"mention_id": "6cd959d8e2c1ad50",
+"claim_id": "bc-secession",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "Vancouver lit, wanting to separate and align with America"
+},
+{
+"mention_id": "aeba35746bbb8a76",
+"claim_id": "canada-persecution",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the pyramid centred on Toronto in Ontario, with Quebec less affected"
+},
+{
+"mention_id": "b711dec433273857",
+"claim_id": "canada-persecution",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the black molasses spreading down, with Vancouver resisting"
+},
+{
+"mention_id": "7dff176fd6fce554",
+"claim_id": "bc-secession",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "its own economy to save Canada's, under an Illuminati style pyramid"
+},
+{
+"mention_id": "963d020b4ae14c47",
+"claim_id": "japan-earthquake-splits-land",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "8.0, 8.8 and 8.7 offered in one breath, which widens the target"
+},
+{
+"mention_id": "6661b1471218790f",
+"claim_id": "japan-earthquake-splits-land",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "further inland than the one that damaged the power plant"
+},
+{
+"mention_id": "7b1577062bcd24d1",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "a petition over unnamed legislators"
+},
+{
+"mention_id": "d076c31b44dfde37",
+"claim_id": "iran-nuclear-raid",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "breaking the secrets in the mountains and getting past the defences; the June 2025 strike did reach hardened sites"
+},
+{
+"mention_id": "17df161f610624e7",
+"claim_id": "sooners-asia-first-on-crypto",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "April named as the month, which makes this scoreable"
+},
+{
+"mention_id": "4d1f6d73e1769ba1",
+"claim_id": "bc-secession",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the Pacific city wanting to jump in as Canada gets into financial trouble"
+},
+{
+"mention_id": "6ee0d1e40cd13981",
+"claim_id": "east-coast-storm-newyork-to-miami",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "extended to the west coast and Canada"
+},
+{
+"mention_id": "4171e4ff1e0b21c6",
+"claim_id": "drones-given-by-iran",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the Iraq base named again with the Houthis and rebels"
+},
+{
+"mention_id": "a4e422f359dd37d6",
+"claim_id": "war-on-two-fronts-then-three",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "given in tongues and interpretation, with the third area added mid-sentence"
+},
+{
+"mention_id": "1d32e8fa01fc8a07",
+"claim_id": "iran-underground-city-missile",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "the same ridge description as the June telling"
+},
+{
+"mention_id": "967c57b73c3f37c0",
+"claim_id": "north-korea-secret-weapons",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the same stepchild framing as the June telling"
+},
+{
+"mention_id": "51011ebfc6a033bf",
+"claim_id": "prosperity-2027-stalemate",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "prayed against rather than seen; stalemate is not defined"
+},
+{
+"mention_id": "aa53bd919696dcf6",
+"claim_id": "newsom-trafficking-blind-eye",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "his face at the border and over Hollywood"
+},
+{
+"mention_id": "0e8587cb8d843fdc",
+"claim_id": "newsom-trafficking-blind-eye",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "the corridor up into Oregon and Seattle, called a highway"
+},
+{
+"mention_id": "5a13527623a8636b",
+"claim_id": "newsom-trafficking-blind-eye",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Los Angeles given as the focus; he withholds what he saw through San Diego"
+},
+{
+"mention_id": "c2af44584abc011f",
+"claim_id": "newsom-trafficking-blind-eye",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the governor described as turning his eyes from it, with politicians involved"
+},
+{
+"mention_id": "a9cba50464e655c6",
+"claim_id": "fentanyl-and-organ-harvest-exposed",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the sudden exposure reaching Europe and Toronto"
+},
+{
+"mention_id": "08e539e708a670b6",
+"claim_id": "fentanyl-and-organ-harvest-exposed",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "organ harvesting and fentanyl from Asia named together"
+},
+{
+"mention_id": "4b9331f0c8459057",
+"claim_id": "weather-warfare-drought",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "he is citing a document release rather than a vision, and the mention says so"
+},
+{
+"mention_id": "e425935c8997102f",
+"claim_id": "heart-beating-for-america",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "all the hearts on the land becoming one heart, with the humbling stated as certain regardless of the plague"
+},
+{
+"mention_id": "c33494178cdf8048",
+"claim_id": "reprieve-four-years",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "he questions his own reading of the four year window here, which is worth keeping"
+},
+{
+"mention_id": "63ecdd3c6926007f",
+"claim_id": "rat-within-america",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "another major attack and the Red Dawn ants rising"
+},
+{
+"mention_id": "0a12108c202c330c",
+"claim_id": "syria-struck-arabs-unite",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "rice paper thin, with strikes now visible"
+},
+{
+"mention_id": "1b44e49ee7660767",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "a declaration of protection over listeners"
+},
+{
+"mention_id": "c8bc8a050f6e0ec6",
+"claim_id": "prayer-can-stop-it",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "what he has seen may run clear into the tribulation, which removes any deadline from all of it"
+},
+{
+"mention_id": "4c82afae221d266a",
+"claim_id": "next-virus-engineered-in-a-lab",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "a laboratory uncovered offered as evidence; what was found is not specified"
+}
+]
+}

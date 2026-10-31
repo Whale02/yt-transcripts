@@ -1,0 +1,7 @@
+[
+ {"claim_id":"oil-200-barrel",
+  "verdict":"PARTIAL_MATCH",
+  "headline":"Dubai crude topped $166/barrel Mar 2026 during Strait of Hormuz crisis. Never reached $200, but direction and scale closer than initially scored",
+  "sources":["EIA crude oil spot prices","Reuters Hormuz crisis Mar 2026"],
+  "notes":"$166 vs $200 target. Direction right, Saudi-Russia OPEC+ cooperation real. Scored partial, not contradicted."}
+]

@@ -1,0 +1,24 @@
+{"relationships": [
+  {"from_claim": "watergate-2028", "to_claim": "young-senator-will-come-out",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "Nbb5gUwTSE0", "evidence_start_s": 1702,
+   "note": "He names JD Vance in both the Watergate telling and the will-come-out telling in the same session, joining them himself."},
+
+  {"from_claim": "pig-with-makeup", "to_claim": "golden-age-2027",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "Nbb5gUwTSE0", "evidence_start_s": 2030,
+   "note": "He moves straight from the economy being a pig with lipstick to the new golden age and a new economic shift, presenting the collapse and the boom as one sequence."},
+
+  {"from_claim": "church-cleansing", "to_claim": "ministries-that-think-theyre-alive",
+   "rel_type": "elaborates", "asserted_by": "system",
+   "note": "Dying ministries that think they are alive is the same cleansing seen from inside a ministry. He does not state the link in these words."},
+
+  {"from_claim": "plague-2027-china-rats-europe", "to_claim": "black-tentacles-livestreams",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Both place the coming trouble in Europe within the same session. No link asserted on air."},
+
+  {"from_claim": "pieces-of-what-i-saw", "to_claim": "july-seventh-month-word",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "FHxJpX0PLPI", "evidence_start_s": 36,
+   "note": "He frames the July word as one of the pieces he is releasing, holding the rest back."}
+]}

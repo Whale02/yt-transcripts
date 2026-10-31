@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "71173fc9fa2ef303",
+"claim_id": "syria-red-soldiers",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "Battalions concerning Syria, with the size worked out on air. No direction of movement given."
+},
+{
+"mention_id": "7045fe9abaadfa56",
+"claim_id": "trump-wartime-president",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "The ballroom legacy with him standing on its steps. Sits against presidency-comes-to-nothing, which he also holds."
+},
+{
+"mention_id": "6af2a6b9d5b9297f",
+"claim_id": "save-america-act-support-structure",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling found of the void and the steel beams, 13 July 2026, a week before the 20 July version."
+},
+{
+"mention_id": "5f5d3ded08ccbffa",
+"claim_id": "vance-2028-realignment",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "The vice president at the president's right hand looking out at the lawn, described in clothing detail without an interpretation."
+},
+{
+"mention_id": "b773133960dcaeb9",
+"claim_id": "trump-approval-25-percent",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and unusually numeric. Presidential approval has not gone below twenty five per cent since Truman, so this is a genuinely hard call rather than a safe one."
+},
+{
+"mention_id": "88c476fd976ff121",
+"claim_id": "retaliation-against-trump-children",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds a plan against the judges, the Supreme Court and certain senators alongside the children."
+},
+{
+"mention_id": "2eb3b2831f316faa",
+"claim_id": "valley-of-decisions-make-or-break",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "Argues the domestic agenda has been displaced by foreign policy. Commentary rather than a word."
+},
+{
+"mention_id": "5a02e59bb00f3992",
+"claim_id": "newsom-ambitions",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.7,
+"note": "A coming term for the California governor given as the darkness on the land, conditioned on turnout in two years."
+},
+{
+"mention_id": "600a33f222e3c742",
+"claim_id": "katrina-scale-disaster",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Earliest telling of the Mar-a-Lago detail, 13 July 2026, before the 29 July version that added it. Names West Palm Beach and conditions it on the two-state solution."
+},
+{
+"mention_id": "9d81d68f30521589",
+"claim_id": "ministry-surplus-20-million",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. A number against his own organisation, which is checkable in principle from public filings."
+},
+{
+"mention_id": "709190b024727d2a",
+"claim_id": "ministry-surplus-20-million",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the church note paid off in full to the same declaration."
+},
+{
+"mention_id": "18a7e1ecc1ec5093",
+"claim_id": "oru-wells-of-revival-reopen",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "A historical anecdote about a three million dollar gift, told from memory. Not a forward claim."
+},
+{
+"mention_id": "80d2aa86cb7821d3",
+"claim_id": "dome-of-the-rock-decimated",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 13 July 2026, a week before the 20 July version this claim was seeded from. Adds false temples and a Buddha temple shaken to uninhabitable."
+},
+{
+"mention_id": "4ee637f1d6e80b70",
+"claim_id": "world-cup-2026-prayer-targets",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "Adds the Yankees and Red Sox stadiums, and links the Cuban drones to the stadium targets."
+},
+{
+"mention_id": "794e2f9ccb3174e3",
+"claim_id": "cartel-mafia-turf-wars",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "This is just business, heard behind tables. Points back to a word given before New Year's Eve."
+},
+{
+"mention_id": "5d017721cd8a7d4a",
+"claim_id": "cartel-mafia-turf-wars",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the motive, resistance to Sharia law, and Sicily heard repeatedly."
+},
+{
+"mention_id": "f3bd2083838085c0",
+"claim_id": "newyork-shaking-2027",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Five families extended out of Chicago and Boston."
+},
+{
+"mention_id": "38bff9b60b5cb243",
+"claim_id": "sharia-law-uptick-america",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "He replays his own recording from the 28th as the pre-commitment."
+},
+{
+"mention_id": "11a56e9b3002a4de",
+"claim_id": "cartel-mafia-turf-wars",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "A major turf war coming in which the crime families look like the heroes."
+},
+{
+"mention_id": "86ebd3db73d53748",
+"claim_id": "cartel-mafia-turf-wars",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He is explicit that they only look like the good guys and that it is territory, not principle."
+},
+{
+"mention_id": "4e7271bd6d8df3a9",
+"claim_id": "cartel-mafia-turf-wars",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Little Italy named, with the refusal to let New York be taken over quoted directly."
+},
+{
+"mention_id": "bfcde9526c025b9b",
+"claim_id": "mahdi-antichrist",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "Moves the Mahdi from a global figure to something rooting in America now."
+},
+{
+"mention_id": "bf72c4ac4fa99af6",
+"claim_id": "riots-blamed-on-red-hats",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. It is structured so that rioting attributed to the right confirms it and rioting attributed elsewhere does not disconfirm it."
+},
+{
+"mention_id": "eefdaf0f7ec4946a",
+"claim_id": "civil-war-and-the-bikers",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "A civil war trying to break forth, with the see in part and hear in part qualifier attached."
+},
+{
+"mention_id": "adc91e20c04a7f4d",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "Replaying a clip and commenting on another broadcaster's reaction. No forward content."
+},
+{
+"mention_id": "b6be538a983cbdf8",
+"claim_id": "asteroid-meeting-china-rocket",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "A Chinese asteroid warning system reported and read as confirmation. Planetary defence programmes are routine and predate this."
+},
+{
+"mention_id": "65d4e0541b67d3c5",
+"claim_id": "sooners-asia-first-on-crypto",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Bitcoin backed credit products in Asia, plus a remark about China and Starlink."
+},
+{
+"mention_id": "e38901b6c14c6ffb",
+"claim_id": "sooners-asia-first-on-crypto",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.75,
+"note": "He names Japan, is corrected to Taiwan, and accepts it. The word specified Japan and South Korea, so Taiwan moving first is not the call landing."
+},
+{
+"mention_id": "376550a817dd04b1",
+"claim_id": "black-widow-wrapping-first-amendment",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the spread through Canada and Europe and the effect on live streams specifically."
+},
+{
+"mention_id": "b86fe29aebbd1ebf",
+"claim_id": "europe-scans-private-messages",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "He checks his understanding of the measure with his co-host rather than asserting it."
+},
+{
+"mention_id": "3f2c4c64ca1d4c11",
+"claim_id": "internet-shutdown-soon",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Great darkness over the internet with a different AI, and an answer to the charge that he is speaking fear."
+},
+{
+"mention_id": "61ba80cf7a7df103",
+"claim_id": "churches-burned-giant-rises",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Puts ages on it: thousand year old in Europe, hundred year old in America, and names Chicago."
+},
+{
+"mention_id": "39a7e5188496dcca",
+"claim_id": "chemical-spray-behind-barrage",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds that it happens in the middle of the night."
+},
+{
+"mention_id": "d8060690fc5afc75",
+"claim_id": "retaliation-against-trump-children",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "It is the children rather than the president, seen again that day."
+},
+{
+"mention_id": "74b6da95b369505a",
+"claim_id": "azusa-pillars-worldwide",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Azusa Streets all over America, with the original made to look small."
+},
+{
+"mention_id": "eafe3dcbdfb9ccf3",
+"claim_id": "save-america-act-support-structure",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that bills outside the membrane would be just as significant, which broadens what would count as a match."
+},
+{
+"mention_id": "39587d2b0a5404be",
+"claim_id": "pressure-to-flip-votes",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Republicans he calls rhinos with blue backbones, named as the block to flip."
+},
+{
+"mention_id": "5bedf35886b00643",
+"claim_id": "prophetic-accuracy-2025",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He names the failure mode himself: you can scattershot something and think you know. Worth having on record given how much of this batch is scattershot."
+},
+{
+"mention_id": "fca398c4563e7142",
+"claim_id": "retaliation-against-trump-children",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "The Iranian pressure on the president called only surface, with the son as the real target."
+},
+{
+"mention_id": "46925d1282e7acfc",
+"claim_id": "save-america-act-support-structure",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "The membrane described again in prayer, alongside the Clarity Act and ministry finances."
+},
+{
+"mention_id": "5b7b13ecfdaf925a",
+"claim_id": "save-america-act-support-structure",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "The support systems explained as wheel chocks."
+},
+{
+"mention_id": "55eb03cea1d942b7",
+"claim_id": "save-america-act-bull-triangle",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Names lobbyists and corruption as the mechanism holding the act up, which matches the standing funding claim."
+},
+{
+"mention_id": "585480fc6e8fd58d",
+"claim_id": "iraq-mirrors-saudi-arabia",
+"same_event": "yes",
+"delta_type": "exact_repeat",
+"confidence": 0.8,
+"note": "Word for word the same passage he gives on 16 July, including the same self correction from Saudi to Iraq. Recorded as an exact repeat rather than a fresh word."
+},
+{
+"mention_id": "8d9ab6fe07da86ed",
+"claim_id": "iraq-economic-boom",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that Iraq rises as Iran crumbles and the prince loses its grip."
+},
+{
+"mention_id": "b420e51916c79158",
+"claim_id": "iran-infrastructure-set-back-decades",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Same wording as 16 July, with the qualifier not all of it attached here."
+},
+{
+"mention_id": "eaee52c41e75423e",
+"claim_id": "iraq-syria-pipeline-bypasses-hormuz",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 12 July 2026, four days before the 16 July version this claim was seeded from. Names Kuwait as the place once Iran is dealt with."
+},
+{
+"mention_id": "123d9084db23a831",
+"claim_id": "iran-infrastructure-set-back-decades",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Stone age narrowed to some areas, and Iran seeking regional help."
+},
+{
+"mention_id": "28c7c5bb152dad7f",
+"claim_id": "turkey-syria-brotherhood-alliance",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.6,
+"note": "Iran seeking Turkish and Syrian help, framed as the art of the deal with oil. A different alignment from the brotherhood claim, recorded rather than merged."
+},
+{
+"mention_id": "da985232123ac3ff",
+"claim_id": "iran-cuts-undersea-cables",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 12 July 2026, and the better one: he says outright that Iran does not have the equipment and it is a lot of threat. The 16 July version drops that qualifier, which makes the later telling stronger than the original."
+},
+{
+"mention_id": "75e71167cc8268a1",
+"claim_id": "jihad-and-mahdi-instability",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "The Mahdi desperation passage, word for word the same as 16 July."
+},
+{
+"mention_id": "4a2276b983070648",
+"claim_id": "arab-coalition-boots-on-ground-iran",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "NATO in la la land and Jordan asked to help, repeated from the same script."
+},
+{
+"mention_id": "146b6543d64d4649",
+"claim_id": "fair-election-2026",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "An exhortation to vote in every local election down to small Oklahoma towns."
+},
+{
+"mention_id": "c6002e17cfb7b56c",
+"claim_id": "churches-burned-giant-rises",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the northeast then the south sequence and old historic buildings alongside churches."
+},
+{
+"mention_id": "e50954a8b36f129a",
+"claim_id": "churches-burned-giant-rises",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "A single molotov attack on a New York church claimed as confirmation. American church arson runs to dozens of incidents a year, so one more is a weak match, and he says in the same breath that they do not want to be flaky."
+},
+{
+"mention_id": "b258a18bd35f0662",
+"claim_id": "france-cathedrals-burn",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He raises his own bar here: not damaged like last time but completely destroyed, which makes it harder to claim on a partial fire."
+}
+]
+}

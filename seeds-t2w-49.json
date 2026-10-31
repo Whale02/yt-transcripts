@@ -1,0 +1,17 @@
+[
+ {"claim_id":"movie-theatre-revival","label":"Revival breaks out in cinemas after a film","domain":"revival",
+  "description":"People weeping at the end of a film, tracts handed out in the aisles, and revival with healings and conversions in movie theatres across America and the world wherever the film is shown, with an instruction to watch this movie.",
+  "aliases":["people were having revival and being healed and born again in movie theaters","I said, Watch this movie"]},
+ {"claim_id":"women-with-flag-sparkles-in-cities","label":"Women in flag-decorated clothing in named cities","domain":"terrorism",
+  "description":"New Orleans, Houston, San Francisco, Dallas and New York seen together, with women in provocative clothing wearing American flags on their arms and patriotic red, white and sparkled decoration, one of them a black woman.",
+  "aliases":["provocative clothes, but American flag on their arms","patriotic white stripe red"]},
+ {"claim_id":"successful-attempt-on-his-life","label":"An attempt on his life that will succeed","domain":"terrorism",
+  "description":"A man coming down steps in a vision, with the Lord saying he must intercede for his life because there will be an attempt that will be successful, given alongside the statement that the man was holding the church accountable for how they pray.",
+  "aliases":["you must intercede for his life","there will be an attempt that will be successful"]},
+ {"claim_id":"erica-and-seven-blacked-oaks","label":"A widow consoling America, and seven blackened oak trees","domain":"symbolic",
+  "description":"A visitation in which a woman named Erica sits on a couch in the White House talking about losing her husband and trying to console America and the president, with seven blackened oak trees seen alongside. Sits beside four-oak-trees, where four oaks were read tentatively as four years.",
+  "aliases":["Erica was there. I could see Erica sitting on the couch","I saw a seven oak trees that were blacked"]},
+ {"claim_id":"trump-three-days-in-france","label":"Three days in France with a dinner with Macron","domain":"politics",
+  "description":"A presidential trip to France for three days, Monday to Wednesday, with a dinner with the French president, announced publicly and heard by him for the first time. He reacts with dismay and ties it to what he had already seen.",
+  "aliases":["I'm going to France. And I went, oh no","For three days, Monday, Tuesday, Wednesday","he's supposed to have dinner with Emanuel Macron"]}
+]

@@ -1,0 +1,10 @@
+{"reviews": [
+ {"video_id": "JP--134vRTw", "start_s": 1877, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.8, "note": "headlines read off the screen plus a felt impression, with no outcome attached"},
+ {"video_id": "JP--134vRTw", "start_s": 2461, "claim_id": "damascus-chemical-strike-on-israel", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.85, "note": "distinct from damascus-ruinous-heap: this names the weapon, the direction and Turkey's role"},
+ {"video_id": "JP--134vRTw", "start_s": 2720, "claim_id": "devil-instructing-businessmen", "same_event": "unsure", "delta_type": "elaboration", "confidence": 0.55, "note": "he attaches the 2023 meetings-with-the-devil word to AI bioterrorism capability; the identification is his, the fit to this thread is ours"},
+ {"video_id": "JP--134vRTw", "start_s": 3678, "claim_id": "water-energy-beats-nuclear", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9},
+ {"video_id": "JP--134vRTw", "start_s": 3720, "claim_id": "clarity-act-one-vote", "same_event": "yes", "delta_type": "timing_update", "confidence": 0.9, "note": "narrows to September 2026 and adds a fading two-vote margin beside the one-vote sight"},
+ {"video_id": "JP--134vRTw", "start_s": 3722, "claim_id": "bitcoin-national-reserves", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.8, "note": "adds African states to the reserve claim"},
+ {"video_id": "JP--134vRTw", "start_s": 3758, "claim_id": "flipping-of-the-script-to-homeland-cuba", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.7, "note": "Iran finished first, then Cuba"},
+ {"video_id": "JP--134vRTw", "start_s": 5847, "claim_id": "september-2026-going-home", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9}
+]}

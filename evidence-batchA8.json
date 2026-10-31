@@ -1,0 +1,60 @@
+{
+ "_note": "Job A batch 8, 30 August 2026. Budget, Olympics, Russia and housing windows. Reality only; base rates named.",
+ "evidence": [
+  {"claim_id": "budget-fixed-january-2026",
+   "observed_on": "2026-01-31",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_federal_government_shutdowns",
+   "summary": "Government funding expired on 30 January 2026. Congress missed the deadline and a partial shutdown ran from 31 January to 3 February 2026, closing about half of federal departments, the first of the 2026 shutdowns. Six of the twelve FY2026 appropriations bills had been enacted by late January: three in the November 2025 continuing resolution and three signed on 23 January 2026 covering Commerce-Justice-Science, Energy and Water, and Interior and Environment.",
+   "state": "CONTRADICTED",
+   "rationale": "He used the strongest form available to him, that it is already done and simply has not been announced yet, and it was not done. January ended in a missed deadline and a four-day shutdown. Half the appropriations bills did pass, three of them on 23 January, which is why this is scored as contradicted on the claim rather than on the subject: soon and quickly, with the outcome already settled behind the scenes, is precisely what did not happen. The claim deserves the check because that phrasing removes every hedge he normally uses, so there was nothing to fall back on."},
+
+  {"claim_id": "war-season-2025-russia",
+   "observed_on": "2025-12-31",
+   "source_url": "https://www.russiamatters.org/news/russia-review/russia-review-dec-12-19-2025",
+   "summary": "No new war involving Russia began in 2025. The Russo-Ukrainian war, already in its third year when he spoke in December 2024, continued through the year and ended it in negotiation: by late December 2025 Ukraine and the United States were close to a 20-point security framework with Zelenskyy reporting about 90 percent agreement, while Russia rejected a Christmas truce. The nearest thing to a new escalation was the unexplained drone incursions over European airports and military sites from 22 September 2025, assessed by the IISS in June 2026 as highly likely a Russian campaign.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "He said on 4 December 2024 that a major season of war with Russia was still to come in 2025, which only means anything if it means something beyond the war already running, and nothing beyond it came. The year moved the other way, toward a negotiated framework. The drone campaign against European infrastructure is recorded as the nearest candidate and it is not a season of war. Note the built-in exit, which his own falsifier flags: he says in the same breath that he is praying against it, so the non-event was already assigned to prayer before the year began."},
+
+  {"claim_id": "white-christmas-war",
+   "observed_on": "2025-12-25",
+   "source_url": "https://www.cnn.com/2025/12/25/europe/ukrainian-us-negotiators-discuss-peace-deal-on-christmas-day-latam-intl",
+   "summary": "Russia declined a Christmas truce in Ukraine, the Kremlin saying it would let Ukrainian forces regroup, and both sides exchanged drone and missile strikes on Christmas Eve 2025. On Christmas Day Ukrainian and US negotiators were discussing the 20-point peace framework. No new escalation of the war occurred around Christmas 2025.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "Christmas 2025 brought the war's ordinary tempo and a negotiation, not a great escalation. Strikes over the Christmas period are the pattern of this war every year since 2022, and Russia has declined a Christmas truce every year it has been proposed, so exchanges on Christmas Eve carry no information. The other half of the passage, dreaming of a white Christmas, is a song title with nothing attached: no place, no snow measurement and no stated connection to the war it is set beside."},
+
+  {"claim_id": "olympics-january-yachts",
+   "observed_on": "2026-02-07",
+   "source_url": "https://www.washingtonpost.com/sports/olympics/2026/02/07/protests-winter-olympics-italy/",
+   "summary": "On 7 February 2026, the day after the Milano Cortina opening ceremony, an anti-Olympics march of several thousand organised by the Unsustainable Olympics Committee turned violent near Milan's Santagiulia ice hockey arena. Hooded protesters threw fireworks at police, who used tear gas and water cannon and detained at least seven people. Italy separately opened an investigation into suspected railway sabotage. Nothing involving yachts occurred in January 2026.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "There was an incident at the Games, and he said on 6 October 2025 to watch the Olympics, four months ahead. That is the whole of the credit. Watch the Olympics is not a claim, it is an instruction with no content, and violent anti-Olympics protest is close to a fixture of the modern Games, which have drawn cost-and-displacement demonstrations at Rio, Tokyo and Paris in turn. The one concrete image he offered, super yachts and boats, produced nothing in January or at any point since, and there is no natural connection between yachts and a winter games in the Alps."},
+
+  {"claim_id": "pope-leo-olympics-window",
+   "observed_on": "2026-02-01",
+   "source_url": "https://www.vaticannews.va/en/pope/news/2026-02/pope-leo-xiv-angelus-appeal-winter-olympic-truce.html",
+   "summary": "Pope Leo XIV sent greetings for the Milano Cortina Games in a telegram dated 29 January 2026, signed by Cardinal Parolin and addressed to Archbishop Delpini of Milan for the reception of the Olympic Cross at San Babila, and appealed for an Olympic truce at the Angelus on 1 February 2026. The Games opened on 6 February 2026, not 3 February.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "Something involving the pope and the Olympics did occur inside the window, so the falsifier as written is satisfied, and it is satisfied by the least informative route available. A papal message and an appeal for the Olympic truce before a Games is a standing convention observed by successive popes for decades, so the base rate here is essentially one and nothing could have made it fail. The date he built the three-month window on is also wrong: he says the Olympics start on 3 February and gives that as the reason today is exactly three months out, and the Games opened on the 6th, which means the window's endpoint was arrived at from an error rather than from the calendar."},
+
+  {"claim_id": "housing-market-november",
+   "observed_on": "2026-01-26",
+   "source_url": "https://www.redfin.com/news/home-price-index-november-2025/",
+   "summary": "US home prices rose about 0.2 percent in November 2025, with a median of about 385,000 dollars, up roughly 9,120 dollars on November 2024, while existing-home sales fell 1.0 percent year on year and 2025 sales overall sat at a 30-year low. The 2026 tax filing season opened on 26 January 2026 with larger refunds flowing from the tax cuts in the One Big Beautiful Bill Act, which was signed in July 2025, a month before he spoke.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "Both halves are technically present and both are hollow. Prices did tick up into November, by two tenths of a percent, on sales volumes at a thirty-year low, which is not a housing market going up in any sense a listener would have taken from the words. And the tax cut he places in January was already law when he gave the word on 10 August 2025; what January produced was the filing season for cuts enacted the previous July, which is a calendar event, not an announcement. The connective imagery, the market looking transparent and the man walking the pig, has no referent that any source could check."},
+
+  {"claim_id": "congress-recess-new-york",
+   "observed_on": "2026-02-23",
+   "source_url": "https://www.congress.gov/days-in-session",
+   "summary": "The congressional calendar for 2026, published in advance, had Congress in recess through the week of 17 February and returning on 23 February. In the passage he asks what is happening in New York and is told the recess date by a co-host reading the calendar.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "A published congressional schedule read aloud is not a claim. Nothing here could have come out either way, and he is not the one who supplies the date; a co-host looks it up and he works out with them that it means next week. Recorded rather than skipped so that the date has a provenance on file, because dates that enter the corpus this way are the ones most likely to reappear later as though they had been given."},
+
+  {"claim_id": "blood-moon-planets-align",
+   "observed_on": "2026-03-03",
+   "source_url": "https://earthsky.org/astronomy-essentials/total-lunar-eclipse-march-2-3-2026/",
+   "summary": "A total lunar eclipse occurred on 2-3 March 2026, visible from the Pacific, western North America, Australia, New Zealand and eastern Asia, with totality lasting about 56 minutes and greatest eclipse at 11:33 UTC. It was the last total lunar eclipse for nearly three years, the next falling on New Year's Eve 2028. The date and path were published decades in advance.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "A scheduled astronomical event named a week ahead off a public calendar cannot fail. This one is recorded with a note in his favour rather than against him: he treats it as something to enjoy, saying it will be fun and that they will be out there watching, and does not read it as a sign of anything. That is the opposite of what he does with the 14 March 2025 blood moon, which he presents as a sign concerning war, and having both on file makes the difference between the two visible."}
+ ]
+}

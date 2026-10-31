@@ -1,0 +1,79 @@
+[
+  {"video_id": "2PoQzF7OhXc", "start_s": 4096, "claim_id": "vatican-earthquake",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Cracked walls at the Vatican would be reported immediately, so the claim is concrete. No date attached, which is the limit."},
+
+  {"video_id": "2PoQzF7OhXc", "start_s": 4139, "claim_id": "i-gave-a-vision-not-a-prophecy",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The single most important framing statement in the corpus after vision-is-a-prayer-target. He answers the false prophecy charge by reclassifying the material: not a prophecy but a vision, so the test does not apply, and impatience is the listener's fault. Everything filed in this database sits under that move."},
+
+  {"video_id": "2PoQzF7OhXc", "start_s": 4281, "claim_id": "the-chart-of-words",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "They keep their own index of the words so they can be pulled up later, which is the same undertaking as an outside audit and makes the record they rely on checkable."},
+
+  {"video_id": "2PoQzF7OhXc", "start_s": 4339, "claim_id": "release-then-money-is-bad",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The 2020 comparison supplies the template rather than a date, so nothing here can come due."},
+
+  {"video_id": "2PoQzF7OhXc", "start_s": 4590, "claim_id": "moon-base-word",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Adds a space race and an April 4th date, but stated conditionally as if they did that, which softens it. The May NASA announcement is what he later offers as the fulfilment."},
+
+  {"video_id": "2PoQzF7OhXc", "start_s": 10004, "claim_id": "find-a-bible-church",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Points them toward a local congregation and volunteering rather than the channel, which belongs with turn-youtube-off-find-god."},
+
+  {"video_id": "fgeWM9FVuqA", "start_s": 908, "claim_id": "first-corinthians-5-5-2026",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "Five months into the year he named, the claim is still being restated rather than pointed at anything specific."},
+
+  {"video_id": "fgeWM9FVuqA", "start_s": 1148, "claim_id": "shaking-to-the-waking",
+   "same_event": "yes", "delta_type": "restatement"},
+
+  {"video_id": "fgeWM9FVuqA", "start_s": 1383, "claim_id": "anonymous-man-february-1",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "He points at things already unfolding as the fulfilment, which is the retrospective join this corpus is full of."},
+
+  {"video_id": "fgeWM9FVuqA", "start_s": 1439, "claim_id": "judgment-house-of-the-lord",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "Something is exposed every year, so ordinary news satisfies this."},
+
+  {"video_id": "fgeWM9FVuqA", "start_s": 1959, "claim_id": "first-corinthians-5-5-2026",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Dates the origin of the verse claim to Christmas 2025 and plays the original. That recording is in this corpus, so the recall can be read against it."},
+
+  {"video_id": "fgeWM9FVuqA", "start_s": 2807, "claim_id": "church-cleansing",
+   "same_event": "yes", "delta_type": "restatement"},
+
+  {"video_id": "fgeWM9FVuqA", "start_s": 3928, "claim_id": "dead-raised-testify",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "A verified resurrection would be extraordinary evidence, and none has been produced. The tongues section is described rather than transcribed."},
+
+  {"video_id": "tKNBjoymWHM", "start_s": 990, "claim_id": "controlled-beef-supply",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Dated to 27 June 2025, which is inside this corpus, so the original can be read against the recall."},
+
+  {"video_id": "tKNBjoymWHM", "start_s": 1444, "claim_id": "controlled-beef-supply",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "Someone else's interview played as confirmation. He says he has not seen any of it before, which is worth having."},
+
+  {"video_id": "tKNBjoymWHM", "start_s": 1507, "claim_id": "controlled-beef-supply",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "Still the played interview rather than his words. Nothing scored to him."},
+
+  {"video_id": "tKNBjoymWHM", "start_s": 2168, "claim_id": "plague-calendar-fall-to-spring",
+   "same_event": "unsure", "delta_type": "no_claim",
+   "note": "Running order. Nothing claimed."},
+
+  {"video_id": "tKNBjoymWHM", "start_s": 2744, "claim_id": "stopping-the-spread-from-the-podium",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The checkable part is the claim to have seen it under the previous administration and named the successor in advance. That telling should be in this corpus."},
+
+  {"video_id": "tKNBjoymWHM", "start_s": 3202, "claim_id": "virus-more-contagious-trial-run",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The most consequential line in the batch for the prayer framework: the Lord is quoted saying you will not stop it, you can only lessen it. That removes the usual escape clause and leaves the claim standing on timing alone."},
+
+  {"video_id": "tKNBjoymWHM", "start_s": 3248, "claim_id": "virus-more-contagious-trial-run",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Always seen is not accurate to the record. The plague window has moved through 2026, 2027 and 2028 across at least seven tellings since November, and the mention says so."}
+]

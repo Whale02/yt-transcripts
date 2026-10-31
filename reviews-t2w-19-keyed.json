@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "e1bb5e8444062d2d",
+"claim_id": "iran-underground-city-missile",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "the facility placed on the right hand side of a ridge, with the Houthis called a distraction"
+},
+{
+"mention_id": "34332faabfc88535",
+"claim_id": "north-korea-secret-weapons",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "nothing in it is specific enough to check, and the claim description says so"
+},
+{
+"mention_id": "46f28dc73f2606cc",
+"claim_id": "never-quote-dates-again",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.45,
+"note": "do not pray the news; a method instruction, though not the same one as the dates word"
+},
+{
+"mention_id": "1dc45f6b656fcd0e",
+"claim_id": "devil-instructing-businessmen",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "a battle plan for rioting in America, given to European money"
+},
+{
+"mention_id": "0c1849cc545e67b4",
+"claim_id": "iran-strikes-economy-crippled",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.8,
+"note": "a forty eight hour window, with the content withheld because he is live"
+},
+{
+"mention_id": "f1d467961a0721ae",
+"claim_id": "rat-within-america",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "Red Dawn accelerating, Cuba and Russia named, moles inside"
+},
+{
+"mention_id": "5b2daa8c3f309e4d",
+"claim_id": "iran-strikes-economy-crippled",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "Saturday named the day before; the American strike on Iran came on Saturday 21 June 2025"
+},
+{
+"mention_id": "e3191629a8135d17",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "an argument about aid policy"
+},
+{
+"mention_id": "f2e2e40d7e2b84d2",
+"claim_id": "antisemitism-peak",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "on a different level, with the reasoning that Israel knows things others do not"
+},
+{
+"mention_id": "9b007109cfe5aec2",
+"claim_id": "taiwan-two-day-fall",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "Taiwan named as what to pray while attention is elsewhere; no mechanism given here"
+},
+{
+"mention_id": "2c4f7c57e38aea6a",
+"claim_id": "grey-ash-louisiana-to-canada",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "uninterpreted by him; volcanic ash offered only as a guess"
+},
+{
+"mention_id": "ebd63c06482167a2",
+"claim_id": "oregon-coast-volcano",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "a mile wide, with Seattle and tsunamis added"
+},
+{
+"mention_id": "00353b21a60a824e",
+"claim_id": "taiwan-two-day-fall",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "a ring around Taiwan seen live; PLA encirclement drills are routine, which weakens it"
+},
+{
+"mention_id": "39faecb2bd9c754e",
+"claim_id": "church-corruption-2026",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "financial corruption exposed worldwide and inside the church"
+},
+{
+"mention_id": "0480c7d9a0c15591",
+"claim_id": "iran-revival",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the iron curtain lifting, women in gowns born again"
+},
+{
+"mention_id": "7381f5baadf62cf9",
+"claim_id": "global-revival-continents",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "an awakening called over seven regions"
+},
+{
+"mention_id": "1c31d687ddc99f41",
+"claim_id": "dead-raised-testify",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the AI objection pre-empted, which insulates whatever is claimed later"
+},
+{
+"mention_id": "ecffcc714d492537",
+"claim_id": "st-louis-street-revival",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "downtown rather than in a church, with the wheelchair as the trigger"
+},
+{
+"mention_id": "9ed919265be172ce",
+"claim_id": "branson-migration",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "all the hotels full, with two ministries named"
+},
+{
+"mention_id": "aae6f10fad1d84d8",
+"claim_id": "iran-revival",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "Pakistan added; the two sided coin framing means either outcome can be claimed"
+},
+{
+"mention_id": "6240b39d981f674b",
+"claim_id": "ezekiel-38-turkey",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.8,
+"note": "very soon, withdrawn in the next breath with I don't know when"
+},
+{
+"mention_id": "8ad805a453e4c612",
+"claim_id": "wealth-transfer-blockage",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the blockage framing means the transfer not arriving is already accounted for"
+},
+{
+"mention_id": "ffb2292339ef0741",
+"claim_id": "megaton-bomb-tel-aviv",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "recalled, with the admission that Iran has nothing of that size"
+},
+{
+"mention_id": "46d930d9df90d77b",
+"claim_id": "megaton-bomb-tel-aviv",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "China supplied as the answer to where it comes from"
+},
+{
+"mention_id": "1f16631dc4caf546",
+"claim_id": "great-betrayal-of-israel",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "he says plainly this is not yet Ezekiel 38 and 39; America struck Iran four days later"
+},
+{
+"mention_id": "a81319f6a2acbd99",
+"claim_id": "hidden-cells-america",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the four and a half years of border crossings named as the greater concern"
+},
+{
+"mention_id": "8131737c2db99c08",
+"claim_id": "watch-omaha",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.9,
+"note": "Oklahoma City and Little Rock added, mid-sized cities rather than New York or Los Angeles"
+},
+{
+"mention_id": "ab6fae83a9158604",
+"claim_id": "china-economy-shakes-then-taiwan",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the samurai and honour reasoning, with North Korea used as the pariah proxy"
+},
+{
+"mention_id": "18d1f1d994a2228c",
+"claim_id": "israel-missile-usa",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the arrowhead shape matched to a news clip; the bunker buster was used four days later"
+},
+{
+"mention_id": "ca4d0bdbb17e18da",
+"claim_id": "biological-attack-mountains",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "trucks, crop dusting and a mustard yellow gas"
+},
+{
+"mention_id": "7790317d5b79edcc",
+"claim_id": "damascus-ruinous-heap",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "days or weeks away, given 17 June 2025; Damascus stands"
+},
+{
+"mention_id": "a1c41fdee79f038d",
+"claim_id": "grey-ash-louisiana-to-canada",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the grey given as what preoccupies America while Taiwan is taken"
+},
+{
+"mention_id": "7d7f751cbdbdfc05",
+"claim_id": "cuba-russian-base",
+"same_event": "unsure",
+"delta_type": "new_detail",
+"confidence": 0.5,
+"note": "a parade dragon out of the water at Cuba, which points at China rather than Russia"
+},
+{
+"mention_id": "86e31bd0e8df9bf0",
+"claim_id": "taiwan-two-day-fall",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the strike given as what the whole sequence was about"
+},
+{
+"mention_id": "5329529062edb3d0",
+"claim_id": "israel-deliverer-victory-celebration",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the deliverer line again, nine months after the first telling"
+},
+{
+"mention_id": "f6402348280c42a4",
+"claim_id": "gas-lines-mile-long",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "California named; prices fell rather than rose after the strikes"
+},
+{
+"mention_id": "3856920b2feae689",
+"claim_id": "gas-eight-dollars-nationwide",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.9,
+"note": "eight dollars given as an average, which he says he wrote down"
+},
+{
+"mention_id": "3971644b8b6b7f7d",
+"claim_id": "prayer-can-stop-it",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the scoring rule he proposes for himself: under it no miss can count"
+},
+{
+"mention_id": "7f2fb73eecaed98e",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "filler before a reading"
+},
+{
+"mention_id": "a0bf7ad525897b48",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "another writer's word read aloud"
+},
+{
+"mention_id": "890ccdb6b4856873",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "the same reading continuing"
+},
+{
+"mention_id": "63b1f8f643df86d2",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "the same reading continuing; the Tel Aviv chemical vision is that writer's, not his"
+},
+{
+"mention_id": "07d5095f4b187418",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "the same 2019 word he read out in August 2024, read again"
+},
+{
+"mention_id": "ee2a2df6d93ee6b7",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "a concession that the read word did not happen as written, then a partial rescue of it; no forward claim of his own"
+},
+{
+"mention_id": "d90b99ef07aa8f20",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "the same reading continuing"
+},
+{
+"mention_id": "1b82b0808d08fd7e",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "an instruction and a prayer; the war is treated as fixed rather than forecast"
+},
+{
+"mention_id": "3aa3c83981ad6de3",
+"claim_id": "trudeau-two-faced",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "the grey haired two faced man in Canada seen again; Trudeau had left office in March 2025, so who he means is not certain"
+},
+{
+"mention_id": "f1ba4afbd3ebea3a",
+"claim_id": "macron-rises-like-hitler",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "the mole dragging its belly; he says himself he does not know what it means"
+},
+{
+"mention_id": "eb2e01e69de821da",
+"claim_id": "great-war-escalation",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "a war on all fronts, with Israel called the distraction"
+},
+{
+"mention_id": "9041010127b2a48a",
+"claim_id": "cuba-russian-base",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "watch Cuba, watch Putin, as Putin goes quiet"
+},
+{
+"mention_id": "0778fd3b443e4de1",
+"claim_id": "new-industrial-revolution-foundation",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "AI and crypto named as its content, with the Middle East called sleight of hand"
+},
+{
+"mention_id": "a121852545436065",
+"claim_id": "five-major-shakings",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "volcanoes, quakes and war together; the magnitudes are illustration rather than claim"
+},
+{
+"mention_id": "aecab1d477a05202",
+"claim_id": "crypto-new-era-wave",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.45,
+"note": "a crypto at five dollars with no asset named, so nothing here can be checked"
+},
+{
+"mention_id": "f8335753ff612f9f",
+"claim_id": "sooners-asia-first-on-crypto",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the Sooners named again with Japan and South Korea"
+},
+{
+"mention_id": "fa637552925c9fa3",
+"claim_id": "mega-preacher-shot-on-stage",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "prayed against, with the California exposing alongside"
+}
+]
+}

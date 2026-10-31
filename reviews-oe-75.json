@@ -1,0 +1,49 @@
+[
+  {"video_id": "bTI89Td5Xc4", "start_s": 9187, "claim_id": "un-september-2026",
+   "same_event": "yes", "delta_type": "exact_repeat",
+   "note": "Restates the general assembly attack a minute after giving it, with the 22-26 window dropped and a subscription pitch attached. No new content."},
+
+  {"video_id": "zp4ImjufUuU", "start_s": 1066, "claim_id": "coup-25th-amendment",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Impeachment through the Senate is added alongside the amendment, and the Supreme Court is brought in. Worth marking that the 25th Amendment line comes from the critic's clip he is reacting to, so this follows the public statement rather than preceding it."},
+
+  {"video_id": "zp4ImjufUuU", "start_s": 1144, "claim_id": "battleground-senate-2026",
+   "same_event": "unsure", "delta_type": "contradiction",
+   "note": "Three incompatible outcomes inside one minute: we still win, they take the Senate while we keep the House, and they get both. Left as a contradiction because no single reading survives the passage."},
+
+  {"video_id": "zp4ImjufUuU", "start_s": 2708, "claim_id": "miami-hurricane-katrina-scale",
+   "same_event": "unsure", "delta_type": "elaboration",
+   "note": "Atlantic side of Florida rather than Miami specifically, and no date at all this time. Marked unsure because the coast named is wider than the earlier telling."},
+
+  {"video_id": "7I5xdRDaayo", "start_s": 395, "claim_id": "drones-given-by-iran",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A fulfilment assertion resting on the president saying he will look into the drones. That is a statement of intent, not a finding of Iranian origin, so the claim is not yet met by what he cites."},
+
+  {"video_id": "7I5xdRDaayo", "start_s": 534, "claim_id": "taiwan-two-day-fall",
+   "same_event": "unsure", "delta_type": "contradiction",
+   "note": "The passage disagrees with itself as well as with the file: fall within three days, then fighting for one, into two, and folding by the end of the second day. Both tellings left visible."},
+
+  {"video_id": "7I5xdRDaayo", "start_s": 853, "claim_id": "taiwan-two-day-fall",
+   "same_event": "unsure", "delta_type": "branch",
+   "note": "A different outcome entirely: prayer has bought a reprieve until the tribulation, and the fall happens then. Filed as a branch rather than an update because it does not replace the three-day collapse, it sits beside it."},
+
+  {"video_id": "7I5xdRDaayo", "start_s": 982, "claim_id": "vance-2028-realignment",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "A date is attached at last, by midterms into 2027, and the Epstein list is named as the wedge. He also counts viewers tagging him about a news story as the thing already happening, which is a far lower bar than the break he described."},
+
+  {"video_id": "7I5xdRDaayo", "start_s": 4968, "claim_id": "church-cleansing",
+   "same_event": "unsure", "delta_type": "timing_update",
+   "note": "Fourth timing in a month: July through to the first of the year, with October and November named. The evidence offered is news and social media coverage, which is continuously available, so the window cannot fail."},
+
+  {"video_id": "7I5xdRDaayo", "start_s": 5163, "claim_id": "church-cleansing",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "No church named, no wrong specified, no time given. Records the cleansing as already underway, which converts the forecast into a description of the present."},
+
+  {"video_id": "7I5xdRDaayo", "start_s": 5243, "claim_id": "fall-harvest-out-of-season",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "October attached to the harvest imagery, running straight into a declaration calling the Save America Act and the Clarity Act into effect. The image is never interpreted, so what would count as tractors in October is left open."},
+
+  {"video_id": "LlRONx0fV0A", "start_s": 158, "claim_id": "sooners-asia-first-on-crypto",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The one claim in this batch with a clean test available: the original watch the Sooners statement should be datable inside this corpus and can be set against the date of the Japanese vote. Until that is done it is an assertion, not a hit."}
+]

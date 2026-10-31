@@ -1,0 +1,11 @@
+{"relationships":[
+{"from_claim":"it-is-a-spirit-connected","to_claim":"hitler-figure-rising","rel_type":"related_to","asserted_by":"brandon",
+ "evidence_video":"ZvDla0vHYoY","evidence_start_s":7736,
+ "note":"He states the organising assumption himself: the separate things are connected because one spirit is behind them, and then ties the Hitler image to Oklahoma City on that basis."},
+{"from_claim":"april-19-may-1-occult-window","to_claim":"timothy-mcveigh-method","rel_type":"related_to","asserted_by":"system",
+ "note":"The 19 April window is built on the Oklahoma City anniversary, and McVeigh is named in the same session."},
+{"from_claim":"if-you-wont-pray-why-are-you-here","to_claim":"no-prophetic-confusion","rel_type":"contradicts","asserted_by":"system",
+ "note":"His stated standard is clarity and avoiding confusion; here disagreement is treated as trolling rather than as an objection to answer."},
+{"from_claim":"seeing-into-tribulation","to_claim":"street-address-vs-sentences","rel_type":"related_to","asserted_by":"system",
+ "note":"Two concessions that bound the whole corpus: he does not know what year he is seeing, and he claims the sentences rather than the street address."}
+]}

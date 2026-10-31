@@ -1,0 +1,14 @@
+[
+  {"video_id": "8czXf1gl9bM", "start_s": 6660, "claim_id": "word-for-a-single-mother",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Fragmentary. What is promised is not stated in the passage, so nothing can be checked against it."},
+  {"video_id": "lDyDFQRE3UY", "start_s": 8458, "claim_id": "coup-25th-amendment",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Third telling of the coup claim in a single week, now set against an attempt to lift the polls by focusing on the economy."},
+  {"video_id": "lDyDFQRE3UY", "start_s": 8698, "claim_id": "gypsy-cart-times-square",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He says to remember an earlier telling, so that original should be in this corpus and the recall can be read against it. Adds a European connection."},
+  {"video_id": "lDyDFQRE3UY", "start_s": 8771, "claim_id": "may-is-a-pivotal-month",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "May now carries at least seven separate claims across the corpus: interest rates, the Fed chair, the Clarity Act, a Cuba decision, robbery, a new jet and a birth. Pivotal is undefined."}
+]

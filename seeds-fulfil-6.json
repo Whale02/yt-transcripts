@@ -1,0 +1,17 @@
+[
+ {"claim_id": "hack-911-system",
+  "label": "They hack the 911 emergency system as a distraction",
+  "domain": "security",
+  "description": "A word that in the days ahead the emergency call system would be hacked and interfered with, given as practice for a larger event: when the major event comes they hack the 911 database so the distraction covers it.",
+  "aliases": ["911 system", "hack the 911", "911 database"]},
+ {"claim_id": "bible-burning-stadium",
+  "label": "Bibles burned in a heap in a football stadium",
+  "domain": "religion",
+  "description": "Seen: Bibles gathered into a mound five storeys high in a football stadium and burned, compared by him to the book burning scenes in an Indiana Jones film. Shown on location against a field several hundred years old.",
+  "aliases": ["burn the bibles", "football stadium", "burn them all"]},
+ {"claim_id": "graham-death-after-russia-trip",
+  "label": "A leader dies of a heart attack days after returning from Russia",
+  "domain": "politics",
+  "description": "He says he had been praying over this for several weeks and that the Lord warned about it: US Senator Lindsey Graham died of a heart attack at home in the night on 13 July 2026, within about a day of returning from a trip abroad, with Iranian accounts celebrating and saying he had been marked. He states repeatedly that he is not calling it a poisoning. The antecedent word is not located in this corpus.",
+  "aliases": ["lindsey graham", "came back from russia", "massive heart attack"]}
+]

@@ -1,0 +1,1043 @@
+{
+ "_note": "Tier 2 batch w13, July to October 2023: the earliest material in the corpus.",
+ "mentions": [
+  {
+   "video_id": "wtPa21KV2Iw",
+   "start_s": 1952,
+   "claim_text": "He reports being told that the covenant made with the settlers who came for religious freedom is honoured, and to look at judgment.",
+   "quote": "I honor the covenant that I made with th with those settlers",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "America spared in a judgment that falls elsewhere.",
+   "falsify_miss": "unfalsifiable in practice: no threshold given."
+  },
+  {
+   "video_id": "WiYWjMpx3eE",
+   "start_s": 2603,
+   "claim_text": "Prayer recalling the singers going out before the armies, with God said to be obligated to keep his covenants.",
+   "quote": "the singers went forth in front of the armies",
+   "source_mode": "PRAYER",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Israel"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a prayer citing scripture.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "RiSqvsbEUSE",
+   "start_s": 1547,
+   "claim_text": "A camaraderie and patriotism over America like the one after September 11th, which he believes is coming again.",
+   "quote": "there was a real camarad a a patriotism that happened over America",
+   "source_mode": "IMPRESSION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "politics"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A surge of national unity of that kind.",
+   "falsify_miss": "No such surge."
+  },
+  {
+   "video_id": "s4UcCd6CgiU",
+   "start_s": 0,
+   "claim_text": "He says it is heavy on his heart to pray for Israel at war and that he will bring some of his older words.",
+   "quote": "it's heavy on my heart to pray for Israel",
+   "source_mode": "OTHER",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "method"
+   ],
+   "locations": [
+    "Israel"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a preamble.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "s4UcCd6CgiU",
+   "start_s": 33,
+   "claim_text": "An announcement the day before that a body of men would come out of Syria in a single file line.",
+   "quote": "a bunch of men are going to come out of Syria",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "war"
+   ],
+   "locations": [
+    "Syria"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A force moving out of Syria against Israel.",
+   "falsify_miss": "No such movement."
+  },
+  {
+   "video_id": "s4UcCd6CgiU",
+   "start_s": 80,
+   "claim_text": "It will be seen everywhere and there will be no doubt that there is a God over Israel.",
+   "quote": "there will be no doubt that there is a God that is over Israel",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Israel"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A publicly visible event read worldwide as divine intervention for Israel.",
+   "falsify_miss": "No such event."
+  },
+  {
+   "video_id": "s4UcCd6CgiU",
+   "start_s": 345,
+   "claim_text": "The birthing pains keep getting darker and stronger in these last days, and they are being seen now.",
+   "quote": "the birthing ples are going to come High stronger and stronger",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: intensification with no measure.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "s4UcCd6CgiU",
+   "start_s": 383,
+   "claim_text": "He cites the instruction to watch the fig tree in the last days before playing a video.",
+   "quote": "the Bible says watch the fig tree in these last days",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Israel"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a scriptural instruction.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "s4UcCd6CgiU",
+   "start_s": 431,
+   "claim_text": "Because America betrayed Israel and stood by, an opening was made for China to come and get us.",
+   "quote": "we betrayed R uh uh Israel we opened an attack for China",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "war"
+   ],
+   "locations": [
+    "China",
+    "United States",
+    "Israel"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A Chinese attack on the United States.",
+   "falsify_miss": "No such attack."
+  },
+  {
+   "video_id": "s4UcCd6CgiU",
+   "start_s": 473,
+   "claim_text": "Honolulu annihilated with missiles, buildings on fire and things being shot down.",
+   "quote": "the Honolulu Hawaii and it was just being annihilate",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "war"
+   ],
+   "locations": [
+    "Honolulu",
+    "Hawaii"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A missile attack on Hawaii.",
+   "falsify_miss": "No such attack."
+  },
+  {
+   "video_id": "s4UcCd6CgiU",
+   "start_s": 510,
+   "claim_text": "Iran devising a plan in communication with Syria and sending things there secretly, with men coming out of Syria.",
+   "quote": "Iran devising a plan and they were communicating with Syria",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "war"
+   ],
+   "locations": [
+    "Iran",
+    "Syria"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Iranian materiel routed through Syria against Israel.",
+   "falsify_miss": "No such routing."
+  },
+  {
+   "video_id": "s4UcCd6CgiU",
+   "start_s": 550,
+   "claim_text": "Men out of Syria like ants in single file lines all going at Israel, with a great war breaking out.",
+   "quote": "men coming out of Syria that look like ants",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "war"
+   ],
+   "locations": [
+    "Syria",
+    "Israel"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A ground invasion of Israel from Syria.",
+   "falsify_miss": "No such invasion."
+  },
+  {
+   "video_id": "s4UcCd6CgiU",
+   "start_s": 586,
+   "claim_text": "This is a major ordeal rather than a few rockets, becoming an all-out war, with them marching out of Syria.",
+   "quote": "this isn't just a couple Rockets shooting in",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "war"
+   ],
+   "locations": [
+    "Syria",
+    "Israel"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A general war on the northern front.",
+   "falsify_miss": "The conflict stays limited."
+  },
+  {
+   "video_id": "s4UcCd6CgiU",
+   "start_s": 795,
+   "claim_text": "Prayer for divine protection over their land, binding the enemy and commanding it to cease and desist.",
+   "quote": "we command you to cease and desist",
+   "source_mode": "PRAYER",
+   "certainty": "definite",
+   "conditionality": "prayer_may_avert",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Israel"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a prayer for protection.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "5CWynywOvK0",
+   "start_s": 583,
+   "claim_text": "His attention is drawn repeatedly to the water and to the coves in past visions.",
+   "quote": "look at the water look at the Cove",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "natural_disaster"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "An event at a named cove.",
+   "falsify_miss": "unfalsifiable in practice: no cove is named here."
+  },
+  {
+   "video_id": "5CWynywOvK0",
+   "start_s": 651,
+   "claim_text": "Three times in a week the Lord spoke to him about the American electric grid and told him to pray over it.",
+   "quote": "for three times now the Lord has spoken to me about the the electric grid",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "prayer_may_avert",
+   "topics": [
+    "infrastructure"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "An attack on the American grid.",
+   "falsify_miss": "No such attack."
+  },
+  {
+   "video_id": "5CWynywOvK0",
+   "start_s": 733,
+   "claim_text": "A plot against America involving major cities and the power grid, with no timeframe given.",
+   "quote": "a plot against America and about the power grid",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "infrastructure"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A coordinated attack on the grid in several cities.",
+   "falsify_miss": "No such attack."
+  },
+  {
+   "video_id": "5CWynywOvK0",
+   "start_s": 922,
+   "claim_text": "The area covered runs from Canada to Mexico and from the Atlantic to the Pacific, which he says he does not want to overstate.",
+   "quote": "way up to Canada to Mexico from from the Atlantic to the Pacific",
+   "source_mode": "VISION",
+   "certainty": "hedged",
+   "conditionality": "unconditional",
+   "topics": [
+    "infrastructure"
+   ],
+   "locations": [
+    "Canada",
+    "Mexico"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A continental outage.",
+   "falsify_miss": "No such outage."
+  },
+  {
+   "video_id": "5CWynywOvK0",
+   "start_s": 988,
+   "claim_text": "He assumed it concerned Oklahoma, with all the power going out and the water going bad.",
+   "quote": "all the power is going to go out and the water",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "infrastructure"
+   ],
+   "locations": [
+    "Oklahoma"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A combined power and water failure in Oklahoma.",
+   "falsify_miss": "No such failure."
+  },
+  {
+   "video_id": "iVIxnrS3CmE",
+   "start_s": 498,
+   "claim_text": "Petrol at seven or eight dollars a gallon as a nationwide average, with California already charging that.",
+   "quote": "it' be six seven eight bucks a gallon",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "energy"
+   ],
+   "locations": [
+    "United States",
+    "California"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A national average petrol price of seven to eight dollars.",
+   "falsify_miss": "It stays well below that."
+  },
+  {
+   "video_id": "iVIxnrS3CmE",
+   "start_s": 570,
+   "claim_text": "Great things starting to happen on the war front, with a major draft coming as he was warned.",
+   "quote": "a major draft coming",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "war"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Conscription reintroduced.",
+   "falsify_miss": "It is not."
+  },
+  {
+   "video_id": "iVIxnrS3CmE",
+   "start_s": 602,
+   "claim_text": "The area around Warsaw and Belarus named, with the president saying they wanted to lend support.",
+   "quote": "I believe it was around Warsaw area and um bellarus area",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "war"
+   ],
+   "locations": [
+    "Warsaw",
+    "Belarus"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "The war reaching Poland and Belarus.",
+   "falsify_miss": "It does not."
+  },
+  {
+   "video_id": "iVIxnrS3CmE",
+   "start_s": 641,
+   "claim_text": "If America goes along with dividing Jerusalem it brings a curse, because those who bless Israel are blessed.",
+   "quote": "we divide Jerusalem that he would div the which would cause a curse",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "geopolitics",
+    "religion"
+   ],
+   "locations": [
+    "Jerusalem",
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "America backing a partition and suffering for it.",
+   "falsify_miss": "America backs one with no consequence."
+  },
+  {
+   "video_id": "iVIxnrS3CmE",
+   "start_s": 675,
+   "claim_text": "Tumbleweeds and the stock market, empty grocery shelves, and 1,800 people from Texarkana to Tulsa.",
+   "quote": "I saw the shelves being empty on the grocery store",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "natural_disaster",
+    "food_supply"
+   ],
+   "locations": [
+    "Texarkana",
+    "Tulsa"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A disaster on that line with casualties of about that number.",
+   "falsify_miss": "No such disaster."
+  },
+  {
+   "video_id": "iVIxnrS3CmE",
+   "start_s": 741,
+   "claim_text": "Watch the euro, which he calls a very significant domino, with trouble coming for it.",
+   "quote": "watch the Euro it's a very significant Domino",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "banking_currency"
+   ],
+   "locations": [
+    "Europe"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A euro crisis.",
+   "falsify_miss": "No such crisis."
+  },
+  {
+   "video_id": "OtfM_l7fMfI",
+   "start_s": 2614,
+   "claim_text": "Prayer with a guest that the president's eyes be sound and strong and that he stand against the enemy's forces.",
+   "quote": "eyes that they give the president shall be sound and strong",
+   "source_mode": "PRAYER",
+   "certainty": "definite",
+   "conditionality": "prayer_may_avert",
+   "topics": [
+    "politics"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a prayer for a leader.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "i7C31SlYRq8",
+   "start_s": 4269,
+   "claim_text": "They wait to see how the Lord will move and say it is good simply to seek him.",
+   "quote": "we're waiting to see how the Lord is going to move us",
+   "source_mode": "OTHER",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a pause in a prayer meeting.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "zFl169zNzhI",
+   "start_s": 80,
+   "claim_text": "He notes thousands of viewers in Africa, Europe and Asia, and that the instruction differs for everybody.",
+   "quote": "I have thousands of people in Africa thousands of people in Europe",
+   "source_mode": "OTHER",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "ministry"
+   ],
+   "locations": [
+    "Africa",
+    "Europe",
+    "Asia"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: an audience note.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "zFl169zNzhI",
+   "start_s": 362,
+   "claim_text": "He answers the objection that 350 million is the whole US population by saying the figure is worldwide.",
+   "quote": "I talked to you about the 350 million worldwide",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "health"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A worldwide death toll approaching that number.",
+   "falsify_miss": "No such toll."
+  },
+  {
+   "video_id": "XxwF--X7PLo",
+   "start_s": 1432,
+   "claim_text": "God is not angry and not beating people about the head, and he says people will call this a great something.",
+   "quote": "God is not mad at us",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a doctrinal statement.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "zFl169zNzhI",
+   "start_s": 1035,
+   "claim_text": "The culture of America and of the world has decayed and become a godless people.",
+   "quote": "the decay of the culture of America has happened",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "United States",
+    "Europe"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a judgment about culture.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "zFl169zNzhI",
+   "start_s": 1481,
+   "claim_text": "The 350 million is worldwide and separately 30 million over the United States, which he calls catastrophic.",
+   "quote": "he showed me the 30 30 million over the United States",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "health"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "An American death toll near 30 million.",
+   "falsify_miss": "No such toll."
+  },
+  {
+   "video_id": "XxwF--X7PLo",
+   "start_s": 1910,
+   "claim_text": "A viewer in Australia reports banks refusing cash withdrawals, branches closing and rural ATMs disappearing.",
+   "quote": "banks aren't allowing people to get it cash out",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "banking_currency"
+   ],
+   "locations": [
+    "Australia"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Cash access withdrawn across Australian banking.",
+   "falsify_miss": "It is not."
+  },
+  {
+   "video_id": "XxwF--X7PLo",
+   "start_s": 2034,
+   "claim_text": "He was told this would not be a bad year, that interest rates would go up, and about the war in Ukraine.",
+   "quote": "this is not going to be a bad year",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "economics"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A year widely read as good, with rates rising.",
+   "falsify_miss": "A bad year, or rates falling."
+  },
+  {
+   "video_id": "XxwF--X7PLo",
+   "start_s": 2246,
+   "claim_text": "He says he does not feel anything about Taiwan, though he prays and intercedes over it.",
+   "quote": "people ask me about Taiwan and all that, I don't feel anything",
+   "source_mode": "OPINION",
+   "certainty": "hedged",
+   "conditionality": "unconditional",
+   "topics": [
+    "geopolitics"
+   ],
+   "locations": [
+    "Taiwan"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: an absence of impression, though worth keeping beside the later Taiwan material.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "XxwF--X7PLo",
+   "start_s": 3295,
+   "claim_text": "Great numbers of people coming to the central parts of America because of revival, desperate at what is coming.",
+   "quote": "They come to the central parts of America",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "migration"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Mass relocation into the central states.",
+   "falsify_miss": "No such relocation."
+  },
+  {
+   "video_id": "XxwF--X7PLo",
+   "start_s": 3569,
+   "claim_text": "If he tells you to help the homeless, do it with all your might, following the voice of the Lord for yourself.",
+   "quote": "then do it with all your might",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: an instruction.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "XxwF--X7PLo",
+   "start_s": 4632,
+   "claim_text": "A ten dollar seed given with a request for a creative idea, on the Deuteronomy 28 promise.",
+   "quote": "give me a creat",
+   "source_mode": "TESTIMONY",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "economics"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a private outcome.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "jx6fBGkMNTI",
+   "start_s": 214,
+   "claim_text": "Asked whether a current scare is the 350 million he saw, he says no and puts it years down the road.",
+   "quote": "is this the 350 million that I saw no",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "health"
+   ],
+   "locations": [],
+   "time_phrase": "years down the road",
+   "time_precision": "none",
+   "falsify_match": "The event arriving years later rather than then.",
+   "falsify_miss": "It arrives immediately or not at all."
+  },
+  {
+   "video_id": "jx6fBGkMNTI",
+   "start_s": 339,
+   "claim_text": "Relocation is uncomfortable and takes pressure, and it is for what is coming a couple of years from now.",
+   "quote": "in this relocating it's uncomfortable",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "migration"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "a couple of years from now",
+   "time_precision": "none",
+   "falsify_match": "A crisis prompting relocation within a few years.",
+   "falsify_miss": "No such crisis."
+  },
+  {
+   "video_id": "jx6fBGkMNTI",
+   "start_s": 457,
+   "claim_text": "People in the blue states will relocate to the central part of America and to Florida, into the red states.",
+   "quote": "they will move to the central part of America and to Florida",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "migration"
+   ],
+   "locations": [
+    "Florida",
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Net migration from blue to red states accelerating.",
+   "falsify_miss": "It does not."
+  },
+  {
+   "video_id": "jx6fBGkMNTI",
+   "start_s": 1139,
+   "claim_text": "He tells listeners to look at where a ministry is helping and how blessed it is before giving.",
+   "quote": "where are they helping and how blessed are they",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "ministry"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: giving advice.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "jx6fBGkMNTI",
+   "start_s": 1170,
+   "claim_text": "Sowing into a ministry that serves Jewish people brings the blessing, because those who curse Israel are cursed.",
+   "quote": "curse Israel will be cursed the Bible says that",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Israel"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: private outcomes from giving.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "Pio0TQ9YvD0",
+   "start_s": 36,
+   "claim_text": "He has known about the 24th for a while and was told it would be part of the first domino when it came.",
+   "quote": "it would be part of the first Domino when the 24th came",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "geopolitics"
+   ],
+   "locations": [],
+   "time_phrase": "the 24th",
+   "time_precision": "none",
+   "falsify_match": "An event of lasting significance dated to 24 August 2023.",
+   "falsify_miss": "Nothing of consequence on that date."
+  },
+  {
+   "video_id": "Pio0TQ9YvD0",
+   "start_s": 148,
+   "claim_text": "Nations announced their accession and the Saudi crown prince said he would put his boot down on America.",
+   "quote": "I'm gonna put my boot down on America",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "geopolitics"
+   ],
+   "locations": [
+    "Saudi Arabia",
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Saudi acting against American interests in the bloc.",
+   "falsify_miss": "It does not."
+  },
+  {
+   "video_id": "SCXTYJcPb7o",
+   "start_s": 570,
+   "claim_text": "The only thing that will save America is an awakening and a mighty move of the Spirit.",
+   "quote": "the only thing that's ever going to save America is an Awakening",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a doctrinal statement.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "SCXTYJcPb7o",
+   "start_s": 677,
+   "claim_text": "A well known old man, a man in Asia and a man in South America, all of whom he says talk directly to Satan.",
+   "quote": "there's a man in Asia and I saw a man down in in South America",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "occult"
+   ],
+   "locations": [
+    "Asia",
+    "South America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a spiritual characterisation of unnamed people.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "tF2mSIr1Pm8",
+   "start_s": 157,
+   "claim_text": "A woman pulled up with a mower on a trailer and told him the Lord had spoken to her in her yard the night before.",
+   "quote": "the Lord spoke to me in my yard uh last night",
+   "source_mode": "TESTIMONY",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: another person's account.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "tF2mSIr1Pm8",
+   "start_s": 1518,
+   "claim_text": "He describes being told to give away a watch he did not want to part with.",
+   "quote": "I want you to give a watch away",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a private instruction.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "Dmt3mhQFnis",
+   "start_s": 270,
+   "claim_text": "A great move of God about to pour out on the southern border, through Texas and through Mexico.",
+   "quote": "a great move of God is about to pour out even on the southern border",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Texas",
+    "Mexico"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A reported revival along the southern border.",
+   "falsify_miss": "No such revival."
+  },
+  {
+   "video_id": "Q4Q2FlgoQe0",
+   "start_s": 236,
+   "claim_text": "A grace explosion about to happen, with two men seen standing in the back row because of the revivals coming.",
+   "quote": "it will be a Grace explosion",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A revival wave of the kind described.",
+   "falsify_miss": "unfalsifiable in practice: no threshold for grace."
+  },
+  {
+   "video_id": "EJ3Rtm3uJQw",
+   "start_s": 523,
+   "claim_text": "He says he will be on the side of blessing Israel, citing the promise of blessing and cursing.",
+   "quote": "I'm going to be on the side of the blessing",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Israel"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a statement of his own position.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "Q4Q2FlgoQe0",
+   "start_s": 537,
+   "claim_text": "A financial push like a tidal wave of blessing, compared to Israel taking the gold and silver out of Egypt.",
+   "quote": "a financial push of a tidal wave of blessing",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "economics"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A visible transfer of wealth to the church.",
+   "falsify_miss": "No such transfer."
+  },
+  {
+   "video_id": "Q4Q2FlgoQe0",
+   "start_s": 720,
+   "claim_text": "Gold going up in value as the dollar weakens, with the timing deliberately withheld.",
+   "quote": "I saw gold going up in value when the dollar is weakened",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "markets"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Gold rising sharply against a weakening dollar.",
+   "falsify_miss": "It does not."
+  },
+  {
+   "video_id": "P7viEh9luCE",
+   "start_s": 38,
+   "claim_text": "Saudi Arabia goes against the United States, pumping oil to cause a shortage, working with Russia.",
+   "quote": "Arabia is going to go against the United States",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "energy",
+    "geopolitics"
+   ],
+   "locations": [
+    "Saudi Arabia",
+    "Russia",
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Saudi and Russian action producing an oil shortage against American interests.",
+   "falsify_miss": "No such action."
+  }
+ ]
+}

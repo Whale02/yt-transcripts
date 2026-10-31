@@ -1,0 +1,510 @@
+{
+ "reviews": [
+  {
+   "video_id": "1O_dIFD7yoA",
+   "start_s": 947,
+   "claim_id": "christians-taken-blamed-on-aliens",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "only testable after the rapture, which places it beyond checking by design",
+   "mention_id": "5573774edc40410f"
+  },
+  {
+   "video_id": "L4ZWhGpfo7E",
+   "start_s": 2487,
+   "claim_id": "canada-election-april-2025",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.95,
+   "note": "a landslide the other way on the named date; the Liberals won a fourth term on 28 April 2025",
+   "mention_id": "ef17f4c129e3ff28"
+  },
+  {
+   "video_id": "L4ZWhGpfo7E",
+   "start_s": 2606,
+   "claim_id": "south-korea-communist-takeover-risk",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "prayed against his own South Korea vision",
+   "mention_id": "f5a243ce3a0f99ef"
+  },
+  {
+   "video_id": "L4ZWhGpfo7E",
+   "start_s": 2720,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.9,
+   "note": "he states plainly that he is praying against what he has seen, which is the pattern that makes the war material unfalsifiable",
+   "mention_id": "9f2a91bde187eb69"
+  },
+  {
+   "video_id": "KWXipg48SMQ",
+   "start_s": 2322,
+   "claim_id": "third-temple-build",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "the temple seen already built, with the aged beard used as his own dating device",
+   "mention_id": "cd53a8ca132cf32b"
+  },
+  {
+   "video_id": "KWXipg48SMQ",
+   "start_s": 2406,
+   "claim_id": "pope-with-antichrist",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "he hedges the pope identification and cannot place the third figure's name",
+   "mention_id": "5b5bc58425ad9e57"
+  },
+  {
+   "video_id": "KWXipg48SMQ",
+   "start_s": 2484,
+   "claim_id": "global-revival-continents",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "rivers of light in Asia rather than scattered points, which puts Asia ahead of America",
+   "mention_id": "db705f5a724c0826"
+  },
+  {
+   "video_id": "qk7dhAYCkBs",
+   "start_s": 1729,
+   "claim_id": "canada-crisis",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "the government turning its back, with black on the backside",
+   "mention_id": "1a1e144cbf12a331"
+  },
+  {
+   "video_id": "qk7dhAYCkBs",
+   "start_s": 2061,
+   "claim_id": "milk-gospel-cockroach-preachers",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "stale cold bread rather than honey and cockroaches, and the outcome placed on whether the church acts",
+   "mention_id": "cd42407a7e235a0e"
+  },
+  {
+   "video_id": "qk7dhAYCkBs",
+   "start_s": 2117,
+   "claim_id": "canada-turnaround",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "a changing of the guard, conditional so that failure is attributed to the church",
+   "mention_id": "dec716fc29206487"
+  },
+  {
+   "video_id": "qk7dhAYCkBs",
+   "start_s": 2195,
+   "claim_id": "milk-gospel-cockroach-preachers",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "it is a church problem not a government problem, the standing diagnosis",
+   "mention_id": "18bddc697fb1f1ae"
+  },
+  {
+   "video_id": "qk7dhAYCkBs",
+   "start_s": 2294,
+   "claim_id": "revival-minnesota-to-the-gulf",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "the fountain running from the Gulf up the I-35 corridor, which passes through his own state",
+   "mention_id": "1000292531d3d211"
+  },
+  {
+   "video_id": "qk7dhAYCkBs",
+   "start_s": 2324,
+   "claim_id": "global-revival-continents",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "the yielded yes condition means absence is attributed to people not saying yes",
+   "mention_id": "f8666eaa558f807d"
+  },
+  {
+   "video_id": "qk7dhAYCkBs",
+   "start_s": 4114,
+   "claim_id": "million-prayer-army",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "one of the few numbers about his own operation that could be checked",
+   "mention_id": "6356dbed721b8a17"
+  },
+  {
+   "video_id": "U91HRVT2aFs",
+   "start_s": 71,
+   "claim_id": "dead-fish-everywhere",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the earliest statement of the fish-as-sign mechanism; the folklore link to earthquakes has been studied and not supported",
+   "mention_id": "887f3fc4cce6a994"
+  },
+  {
+   "video_id": "U91HRVT2aFs",
+   "start_s": 153,
+   "claim_id": "italy-volcano",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "he separates this from the man-made material, a distinction he does not usually draw",
+   "mention_id": "831eccb93a41de04"
+  },
+  {
+   "video_id": "U91HRVT2aFs",
+   "start_s": 384,
+   "claim_id": "called-saturday-strike-on-iran",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.95,
+   "note": "the earliest telling on file of both countries striking Iran, eleven weeks before Israel did and twelve before America did, with no date given",
+   "mention_id": "906c66511deade2c"
+  },
+  {
+   "video_id": "FUjrrRVRt5M",
+   "start_s": 0,
+   "claim_id": "called-saturday-strike-on-iran",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.95,
+   "note": "supersedes the first_mention on this row: the 30 March telling comes first. This one adds the Saturday and the stock market reason, and says he never relayed either publicly"
+  },
+  {
+   "video_id": "U91HRVT2aFs",
+   "start_s": 431,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.85,
+   "note": "places responsibility for surviving the coming events on the listener's attentiveness",
+   "mention_id": "130f4a905b7aac97"
+  },
+  {
+   "video_id": "U91HRVT2aFs",
+   "start_s": 1654,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.9,
+   "note": "teaching on tongues",
+   "mention_id": "3bf7189b83c5f186"
+  },
+  {
+   "video_id": "U91HRVT2aFs",
+   "start_s": 3599,
+   "claim_id": "canada-election-april-2025",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "he admits he is not familiar with the Canadian political system, which is worth recording alongside the confident claims",
+   "mention_id": "07d3cf88420f106d"
+  },
+  {
+   "video_id": "U91HRVT2aFs",
+   "start_s": 3734,
+   "claim_id": "canada-turnaround",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "Trudeau said to have been prayed out; he resigned under caucus pressure, which is the ordinary explanation available",
+   "mention_id": "e9d030db02c11422"
+  },
+  {
+   "video_id": "U91HRVT2aFs",
+   "start_s": 3778,
+   "claim_id": "canada-turnaround",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "a Holy Ghost time rather than a World War time, prayed away in the same breath as being seen",
+   "mention_id": "8208b25c10b5aeb6"
+  },
+  {
+   "video_id": "U91HRVT2aFs",
+   "start_s": 3809,
+   "claim_id": "god-dealing-with-england-australia",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the earliest telling of the three-country framing, two months before the flags version",
+   "mention_id": "ef11cb6373760673"
+  },
+  {
+   "video_id": "eYlbwnkmyvg",
+   "start_s": 5093,
+   "claim_id": "god-dealing-with-england-australia",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "supersedes the first_mention on this row: the 30 March telling comes first, and this one adds Australia and the shared flag colours"
+  },
+  {
+   "video_id": "U91HRVT2aFs",
+   "start_s": 3984,
+   "claim_id": "canada-crisis",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "the whiskey barrels, which he says here he cannot interpret",
+   "mention_id": "9505492f6ef9c20b"
+  },
+  {
+   "video_id": "U91HRVT2aFs",
+   "start_s": 4013,
+   "claim_id": "canada-crisis",
+   "same_event": "yes",
+   "delta_type": "restatement",
+   "confidence": 0.85,
+   "note": "darkness over an economy is not a measurable state",
+   "mention_id": "837ab2cf54ed7c9f"
+  },
+  {
+   "video_id": "U91HRVT2aFs",
+   "start_s": 4133,
+   "claim_id": "bc-secession",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the earliest telling; the motive here is finance and leadership rather than the earthquake or the digital platform given later",
+   "mention_id": "4c3590e9774d14d7"
+  },
+  {
+   "video_id": "U91HRVT2aFs",
+   "start_s": 4209,
+   "claim_id": "toronto-pyramid-of-darkness",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "he corrects himself from Quebec to Ontario on air, which shows the identification being assembled",
+   "mention_id": "9dbb7ab4cc32b562"
+  },
+  {
+   "video_id": "U91HRVT2aFs",
+   "start_s": 4257,
+   "claim_id": "canada-election-fraud-exposed",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "given four weeks before the vote; no fraud was established and the result was not contested on those grounds",
+   "mention_id": "f69c83b8fb619e13"
+  },
+  {
+   "video_id": "U91HRVT2aFs",
+   "start_s": 4467,
+   "claim_id": "toronto-pyramid-of-darkness",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "the Illuminati pyramid named",
+   "mention_id": "b5fdb45d711d40f9"
+  },
+  {
+   "video_id": "U91HRVT2aFs",
+   "start_s": 4819,
+   "claim_id": "japan-earthquake-splits-land",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "three magnitudes given in sequence, the most numerically specific earthquake telling in the corpus",
+   "mention_id": "1f6ad3256371eb94"
+  },
+  {
+   "video_id": "U91HRVT2aFs",
+   "start_s": 5040,
+   "claim_id": "japan-earthquake-splits-land",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "inland rather than offshore, which is the opposite of where Japan's largest events occur",
+   "mention_id": "18e5964db4d0ac3d"
+  },
+  {
+   "mention_id": "08eff57e93bf90e1",
+   "video_id": "YAacmBr8JyY",
+   "start_s": 339,
+   "claim_id": "japan-earthquake-splits-land",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "correcting the flag: this December 2024 telling is the earliest assigned to the claim"
+  },
+  {
+   "mention_id": "360e068e30268a37",
+   "video_id": "qk7dhAYCkBs",
+   "start_s": 1014,
+   "claim_id": "japan-earthquake-splits-land",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "supersedes the first_mention on this row: the December 2024 telling comes first"
+  },
+  {
+   "video_id": "GvCEdjOOuxU",
+   "start_s": 747,
+   "claim_id": "three-judges-roadblocks",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "placed on the Supreme Court here, with two in the balance and three obstructing; the numbers are the checkable part",
+   "mention_id": "dda363407e20f620"
+  },
+  {
+   "video_id": "GvCEdjOOuxU",
+   "start_s": 1338,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.85,
+   "note": "a petition given nearly three months before the June strikes",
+   "mention_id": "f42f5866a152d59d"
+  },
+  {
+   "video_id": "GvCEdjOOuxU",
+   "start_s": 2385,
+   "claim_id": "sooners-asia-first-on-crypto",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the earliest telling of the Asian financial adoption, before the Sooners wording was attached",
+   "mention_id": "aa9d212f4f6800cb"
+  },
+  {
+   "video_id": "GvCEdjOOuxU",
+   "start_s": 2808,
+   "claim_id": "bc-secession",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.8,
+   "note": "the Pacific city unnamed here and identified as Vancouver elsewhere in the same session",
+   "mention_id": "19fed4cc1154c537"
+  },
+  {
+   "video_id": "YdurXtq8kSg",
+   "start_s": 346,
+   "claim_id": "millions-flee-to-i35-corridor",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "places of refuge from storms on both coasts; the stated policy of not quoting time frames is the most important methodological line in the corpus",
+   "mention_id": "75f7dcb9ae4054bf"
+  },
+  {
+   "video_id": "YdurXtq8kSg",
+   "start_s": 1796,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.8,
+   "note": "nothing specific given here to check",
+   "mention_id": "8dd68f8a415ce395"
+  },
+  {
+   "video_id": "YdurXtq8kSg",
+   "start_s": 1955,
+   "claim_id": "three-fronts-war",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the number is counted up on air, which makes it his rather than given",
+   "mention_id": "38185efc5822223f"
+  },
+  {
+   "video_id": "YdurXtq8kSg",
+   "start_s": 2091,
+   "claim_id": "fifty-gallon-drums-from-iran-mountain",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the earliest mountain telling, a month before the article he later treats as confirmation; Fordow is under a mountain and has been publicly reported since 2009",
+   "mention_id": "9cb0a63332fd3ea8"
+  },
+  {
+   "video_id": "XkrRHjsi68k",
+   "start_s": 227,
+   "claim_id": "fifty-gallon-drums-from-iran-mountain",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "supersedes the first_mention on this row: the 24 March telling comes first, and this one adds the drums and the route through Iraq to Damascus"
+  },
+  {
+   "video_id": "YdurXtq8kSg",
+   "start_s": 3107,
+   "claim_id": "north-korea-secret-weapons",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "he does not say what it is, which removes the checkable part",
+   "mention_id": "93b3834b0bff2e4a"
+  },
+  {
+   "video_id": "YdurXtq8kSg",
+   "start_s": 3636,
+   "claim_id": "putin-wants-ukraine-and-poland",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "the plan placed outside the presidential term, so it cannot be scored before 2029, which he says explicitly",
+   "mention_id": "58505113ddad41fa"
+  },
+  {
+   "video_id": "rPggL-xbrtg",
+   "start_s": 1048,
+   "claim_id": "newsom-trafficking-blind-eye",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the earliest telling on file, five months before the fuller version",
+   "mention_id": "37782be00c78e76a"
+  },
+  {
+   "video_id": "0qDOz_f0xhk",
+   "start_s": 544,
+   "claim_id": "newsom-trafficking-blind-eye",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "supersedes the first_mention on this row: the 22 March telling comes first"
+  },
+  {
+   "video_id": "rPggL-xbrtg",
+   "start_s": 1079,
+   "claim_id": "newsom-trafficking-blind-eye",
+   "same_event": "yes",
+   "delta_type": "restatement",
+   "confidence": 0.85,
+   "note": "repetition with Hollywood named",
+   "mention_id": "b408dbcc94abbdd2"
+  },
+  {
+   "video_id": "rPggL-xbrtg",
+   "start_s": 1191,
+   "claim_id": "los-angeles-trafficking-focus",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "Japan appearing alongside Los Angeles is the unusual pairing",
+   "mention_id": "2ff083b04decb4c8"
+  },
+  {
+   "video_id": "rPggL-xbrtg",
+   "start_s": 2191,
+   "claim_id": "los-angeles-trafficking-focus",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "he says there are darker things he cannot say on the channel, the same withholding pattern",
+   "mention_id": "cf40fb3624a47f44"
+  }
+ ]
+}

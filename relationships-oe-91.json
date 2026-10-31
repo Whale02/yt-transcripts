@@ -1,0 +1,24 @@
+{"relationships": [
+  {"from_claim": "trump-wartime-president", "to_claim": "presidency-comes-to-nothing",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Two accounts of how the term is remembered, one as a wartime presidency and one as a nothing burger known only for the ballroom. He does not reconcile them."},
+
+  {"from_claim": "israel-new-device-glowing-mountain", "to_claim": "attack-worse-than-october-7",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "tEQc2bHEE4Y", "evidence_start_s": 1574,
+   "note": "He gives the Israeli strike and the retaliatory night attack as one sequence in a single passage, the second following from the first."},
+
+  {"from_claim": "dispensation-ending", "to_claim": "acceleration-window",
+   "rel_type": "elaborates", "asserted_by": "brandon",
+   "evidence_video": "Tme-Su9LtHo", "evidence_start_s": 5506,
+   "note": "He calls it the point of no return for an acceleration, joining the ending dispensation to the September acceleration window."},
+
+  {"from_claim": "headlines-nation-in-turmoil", "to_claim": "great-darkness-2026-exposing",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Both describe a nation in visible crisis without naming an event. No link asserted on air."},
+
+  {"from_claim": "beast-system-foundation", "to_claim": "banks-rocket-clarity",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "tEQc2bHEE4Y", "evidence_start_s": 1856,
+   "note": "He names the same bill as both the crypto legislation they are praying to pass and the undercurrent carrying the end-times banking system."}
+]}

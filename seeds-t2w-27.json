@@ -1,0 +1,30 @@
+[
+ {
+  "claim_id": "silver-175-an-ounce",
+  "label": "Silver at $175 an ounce, after $40 and a crash to $12",
+  "domain": "economy",
+  "description": "A staged path for silver he dates to a word given around 2014 or 2015: up to about forty dollars an ounce, a crash back to about twelve, which he calls the time to buy, and eventually one hundred and seventy five dollars an ounce, with no date and the acknowledgement that such words can take ten or twenty years. It is described as steady rather than volatile, for people who do not like risk. This sits against his own silver-75 claim, and the two are kept apart.",
+  "aliases": ["silver at $175 an ounce", "$175 an ounce", "silver go up to about $40 an ounce"]
+ },
+ {
+  "claim_id": "pelosi-schumer-removed",
+  "label": "Pelosi and Schumer removed from Congress soon",
+  "domain": "politics",
+  "description": "A declaration that the days of the named congressional leaders are numbered and that they will be removed from the House and the Senate soon, with godly men and women raised in their place. Given 6 December 2024.",
+  "aliases": ["from Nancy Pelosi to Schumer", "their days are numbered", "they will be removed from the house in the Senate"]
+ },
+ {
+  "claim_id": "hostages-released",
+  "label": "The hostages are released",
+  "domain": "israel",
+  "description": "A declaration that justice will be brought concerning the hostages and that the children, women and men held will be released, with prayer for a covering over them meanwhile. Given 6 December 2024.",
+  "aliases": ["they will be released in the name of Jesus", "concerning the hostages"]
+ },
+ {
+  "claim_id": "america-weighed-and-found-lacking",
+  "label": "America weighed in the balances and found lacking",
+  "domain": "america",
+  "description": "A vain blonde woman combing her hair in a mirror, described as a prostitute, with the word that America has been weighed in the balances and found lacking. Given 7 December 2024 alongside the Yellowstone covering.",
+  "aliases": ["I've weighed you in the balances America", "I have found you lacking", "she was combing her hair in the mirror"]
+ }
+]

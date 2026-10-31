@@ -1,0 +1,7 @@
+{"relationships": [
+ {"from_claim":"sept11-2026-groundzero","to_claim":"revival-window-2026-2028","rel_type":"precedes","asserted_by":"brandon",
+  "evidence_video":"0LcmZ81vn0I","evidence_start_s":553,
+  "note":"He dates the two-year revival window from the same 11 September point as the ground zero event."},
+ {"from_claim":"speech-crackdown-midterms","to_claim":"internet-socialist-control","rel_type":"precedes","asserted_by":"system",
+  "note":"Our inference: a midterms-era speech crackdown would be the near-term stage of the socialistic internet control he dates to 2028-2030. He does not link them."}
+]}

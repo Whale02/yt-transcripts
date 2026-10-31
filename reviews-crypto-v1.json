@@ -1,0 +1,10 @@
+{"reviews": [
+ {"video_id":"gGCKex1IOtE","start_s":1417,"claim_id":"clarity-act-one-vote","same_event":"yes","delta_type":"first_mention",
+  "note":"Among the most falsifiable claims in the database: a named bill, a one-vote margin, a mechanism and a window closing 31 Jan 2027."},
+ {"video_id":"gGCKex1IOtE","start_s":1383,"claim_id":"bitcoin-top-withheld","same_event":"yes","delta_type":"new_detail",
+  "note":"Second withheld Bitcoin figure. The pattern matters: a number revealed only after the event cannot be scored, and should be treated as unfalsifiable by construction."},
+ {"video_id":"gGCKex1IOtE","start_s":1913,"claim_id":"amendment-challenges","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"gGCKex1IOtE","start_s":457,"claim_id":"resource-grabs-fiscal","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"PhrYNHTuAww","start_s":587,"claim_id":"temple-quakes","same_event":"no","delta_type":"new_event",
+  "note":"Yellowstone imagery belongs with the Pacific Northwest quake thread, where he states the quake triggers a Yellowstone reaction, not with the Asian temple quakes."}
+]}

@@ -1,0 +1,88 @@
+[
+  {"video_id": "QesBBHtuWPs", "start_s": 5293, "claim_id": "september-9-2029-maybe",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Hedged three times in one sentence, and he notes he has not checked it with the teacher he takes the framework from. Recorded so it is never later read as a firm date."},
+
+  {"video_id": "IArOJFkoBFY", "start_s": 1091, "claim_id": "japan-stablecoins-june-1",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A real dated policy change read out and offered as confirmation. The announcement was already public when he read it."},
+
+  {"video_id": "IArOJFkoBFY", "start_s": 1528, "claim_id": "attack-worse-than-october-7",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Ninth telling and the agent has shifted again: biological in March, chemical here. Damascus stays constant across both."},
+
+  {"video_id": "IArOJFkoBFY", "start_s": 7063, "claim_id": "god-particles-discovery",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He is not named in the passage, and God particle is a press term rather than a physics one, so there is nothing definite to match."},
+
+  {"video_id": "IArOJFkoBFY", "start_s": 7287, "claim_id": "celebrities-saved-for-glory",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Moves from a conversion claim to a funding one. Film financing is publicly tracked, so this half is checkable."},
+
+  {"video_id": "ylrbNngiG14", "start_s": 652, "claim_id": "getting-in-the-river",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The prayer list is assembled from the previous session rather than brought in fresh."},
+
+  {"video_id": "ylrbNngiG14", "start_s": 694, "claim_id": "darkness-around-2028",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "We have some time is the recurring move: the threat is affirmed and simultaneously placed far enough out that nothing comes due."},
+
+  {"video_id": "ylrbNngiG14", "start_s": 1387, "claim_id": "alien-technology-scanning",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A news item offered as confirmation of an earlier sighting, with lasers supplied as a guess rather than as part of what was seen."},
+
+  {"video_id": "ylrbNngiG14", "start_s": 1850, "claim_id": "darkness-around-2028",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Darkness remains undefined across every telling of this claim."},
+
+  {"video_id": "ylrbNngiG14", "start_s": 5524, "claim_id": "cruise-ship-revival",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Another date reconstructed on air: he says this year, is corrected, and settles on well over a year ago."},
+
+  {"video_id": "ylrbNngiG14", "start_s": 5642, "claim_id": "cruise-ship-revival",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "They settle it as 9 December 2025, which is inside this corpus and can be read directly."},
+
+  {"video_id": "ylrbNngiG14", "start_s": 5693, "claim_id": "cruise-ship-revival",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Three separate sightings, dated 1 October, 6 December and 9 December, assembled into a single claim on air. All three tellings are in this corpus."},
+
+  {"video_id": "ylrbNngiG14", "start_s": 7688, "claim_id": "red-wave-2026",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "The red wave declared again across four levels of office, after five tellings that the Senate goes blue. The contradiction edge to battleground-senate-2026 already exists."},
+
+  {"video_id": "9wgEbD964mI", "start_s": 669, "claim_id": "not-racism-may-butcher-words",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "An advance defence against being quoted on his wording, which is worth having on file given how much of this corpus turns on exact phrasing."},
+
+  {"video_id": "9wgEbD964mI", "start_s": 5113, "claim_id": "coup-25th-amendment",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Naming the constitutional mechanism makes this more specific than the earlier coup material, and it can fail cleanly."},
+
+  {"video_id": "9wgEbD964mI", "start_s": 6109, "claim_id": "work-while-it-is-day",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Light and darkness asserted together, which between them cover any year."},
+
+  {"video_id": "9wgEbD964mI", "start_s": 6208, "claim_id": "work-while-it-is-day",
+   "same_event": "yes", "delta_type": "elaboration"},
+
+  {"video_id": "9wgEbD964mI", "start_s": 6349, "claim_id": "hagin-revival-lasts-two-years",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Starts this summer is now stated flatly rather than conditionally, so the two year revival becomes due from August 2026."},
+
+  {"video_id": "9wgEbD964mI", "start_s": 6394, "claim_id": "year-2028-wall",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Worth recording precisely: he asks whether the date of Rosh Hashanah 2028 has been announced yet. The Hebrew calendar is fixed and published decades ahead, so there is nothing to announce."},
+
+  {"video_id": "9wgEbD964mI", "start_s": 6456, "claim_id": "olympics-2028-darkness",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The dates are read off the published schedule rather than seen. The window is fixed and public, which makes the claim checkable even though darkness is undefined."},
+
+  {"video_id": "P5YAnc70THI", "start_s": 2138, "claim_id": "asteroid-2026-hz4",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He says he does not know whether it is an asteroid or a meteor, which is preserved in the certainty field."},
+
+  {"video_id": "P5YAnc70THI", "start_s": 2183, "claim_id": "asteroid-2026-hz4",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "A second real close approach offered as confirmation within a month of the first. Newly discovered near-Earth objects pass regularly and are catalogued as routine, which the passage does not mention."}
+]

@@ -1,0 +1,53 @@
+[
+  {"video_id": "Tme-Su9LtHo", "start_s": 1818, "claim_id": "trump-wartime-president",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The contrast he draws is the strength of it: the subject said the opposite at the time, wanting to be a man of peace and to win the Nobel. A call made against the stated intention rather than with it, and the origin recording should be datable."},
+
+  {"video_id": "Tme-Su9LtHo", "start_s": 5354, "claim_id": "cahn-kilpatrick-september",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He breaks off before saying what he saw, ending on whether the man is going to do something. A named church is the only fixed element and no event is stated."},
+
+  {"video_id": "Tme-Su9LtHo", "start_s": 5506, "claim_id": "dispensation-ending",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "A point of no return cannot be observed to have been passed or not passed, and the dispensation of grace ending has no test attached. The words are another man's, quoted from 23 September."},
+
+  {"video_id": "Tme-Su9LtHo", "start_s": 6277, "claim_id": "acceleration-window",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Acceleration of time has no baseline and no unit, so nothing across the two years could count against it."},
+
+  {"video_id": "EIT61ZA5ExU", "start_s": 317, "claim_id": "fully-persuaded-provider",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The aside is worth keeping: he says himself that he brings some very hard things. An accurate description of the material and an unprompted one."},
+
+  {"video_id": "tEQc2bHEE4Y", "start_s": 206, "claim_id": "april-1-signs-in-heavens",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "A loud daylight fireball over two states is a real reported event, but the American Meteor Society logs thousands of fireball reports a year. The rate is the question, not the occurrence, and that is how this should be scored."},
+
+  {"video_id": "tEQc2bHEE4Y", "start_s": 255, "claim_id": "passover-april-1-acceleration",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "A five-month window over events that occur continuously, with greater acceleration carrying no baseline. The 11 September peak is the only fixed point."},
+
+  {"video_id": "tEQc2bHEE4Y", "start_s": 409, "claim_id": "banks-rocket-clarity",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The strongest hedge in the corpus and it is unprompted: all in my opinion, not a financial adviser, just what he sees in vision, and he can miss it. Recorded in full because that qualification is absent from almost everything else on file."},
+
+  {"video_id": "tEQc2bHEE4Y", "start_s": 1574, "claim_id": "israel-new-device-glowing-mountain",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "A real either-or with two named actors, and it picks one: Israel strikes, America stands down. That is more than most claims here do. The mountain glowing is what would distinguish a nuclear reading from a conventional one."},
+
+  {"video_id": "tEQc2bHEE4Y", "start_s": 1622, "claim_id": "attack-worse-than-october-7",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Yellow on the rockets is a specific and checkable detail if such an attack ever occurs, which is more than this claim usually carries. He fumbles the count of years and is corrected on air."},
+
+  {"video_id": "tEQc2bHEE4Y", "start_s": 1856, "claim_id": "beast-system-foundation",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "An undercurrent in a bill is not a provision of it, so no reading of the text could settle it either way. The film release is a scheduled public event, not something seen."},
+
+  {"video_id": "tEQc2bHEE4Y", "start_s": 6713, "claim_id": "headlines-nation-in-turmoil",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Terror in the heartland is a headline phrase rather than an event, with no place, date or scale, and heartland is not a defined region."},
+
+  {"video_id": "tEQc2bHEE4Y", "start_s": 6784, "claim_id": "headlines-nation-in-turmoil",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Nation in turmoil is a phrase available to any newspaper in any troubled week, and no publication, date or event is named. The 4 May origin is datable inside this corpus."}
+]

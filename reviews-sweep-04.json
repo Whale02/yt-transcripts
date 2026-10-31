@@ -1,0 +1,61 @@
+{
+  "_note": "Adjudications for sweep batch 04 (2026-07-24 to 2026-08-01). Model claude-opus-5, prompt v1.",
+  "reviews": [
+    {"video_id": "1I4ETKrehPc", "start_s": 7420, "claim_id": "august-2026-turnaround", "same_event": "yes", "delta_type": "new_detail", "note": "Puts a five-month window on the turnaround and moves it from finances to marriages and children."},
+    {"video_id": "1I4ETKrehPc", "start_s": 8720, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Seasonal banter in prayer."},
+    {"video_id": "1I4ETKrehPc", "start_s": 8841, "claim_id": "preparedness-instructions", "same_event": "yes", "delta_type": "elaboration", "note": "Anointing children for the school year."},
+
+    {"video_id": "oolVr6LLlDM", "start_s": 198, "claim_id": "gaza-agreement", "same_event": "yes", "delta_type": "elaboration", "note": "Claims a January origin and treats the Kushner reporting a fortnight later as confirmation."},
+    {"video_id": "oolVr6LLlDM", "start_s": 705, "claim_id": "gaza-oil-development", "same_event": "yes", "delta_type": "new_detail", "note": "Adds the Trump flag and dates the vision to 9 or 30 January; he corrects himself on the date mid-sentence, so treat 30 January as the firmer one."},
+    {"video_id": "oolVr6LLlDM", "start_s": 1097, "claim_id": "katrina-scale-disaster", "same_event": "yes", "delta_type": "first_mention", "note": "He asserts the causal link himself, disaster following a Holy Land deal, so it is recorded as his causation rather than inferred."},
+    {"video_id": "oolVr6LLlDM", "start_s": 1762, "claim_id": "southern-border-2028", "same_event": "yes", "delta_type": "first_mention"},
+    {"video_id": "oolVr6LLlDM", "start_s": 8158, "claim_id": "byron-florida-governor", "same_event": "yes", "delta_type": "restatement", "note": "Also the only place he numbers the Senate exposure: three seats they are trying to flip."},
+
+    {"video_id": "DjQUqGl8Xwg", "start_s": 3113, "claim_id": "temple-quakes", "same_event": "yes", "delta_type": "elaboration", "note": "Japan aftershocks and temple rubble offered as running fulfilment; the UK antisemitism figure belongs with antisemitism-peak."},
+    {"video_id": "DjQUqGl8Xwg", "start_s": 3261, "claim_id": "battleground-senate-2026", "same_event": "yes", "delta_type": "new_detail", "note": "The hardest version of this claim: organised election interference run through Detroit mosques in November. Scoreable 30 Nov 2026."},
+    {"video_id": "DjQUqGl8Xwg", "start_s": 3483, "claim_id": "harris-2028-rebrand", "same_event": "yes", "delta_type": "first_mention", "note": "England drought sits in the same passage and belongs with england-drought if it recurs."},
+    {"video_id": "DjQUqGl8Xwg", "start_s": 6865, "claim_id": "plots-against-churches", "same_event": "yes", "delta_type": "first_mention"},
+    {"video_id": "DjQUqGl8Xwg", "start_s": 6912, "claim_id": "roshhashanah-acceleration-2026", "same_event": "yes", "delta_type": "elaboration", "note": "Generalises the rule: birthing pains step up at every fall feast, not just this one."},
+
+    {"video_id": "taEANymN-Fo", "start_s": 160, "claim_id": "faa-cyberattack", "same_event": "yes", "delta_type": "elaboration", "note": "An IT outage is not a cyber attack; he treats the ground stop as fulfilment of the 25 June word, which overstates the match."},
+    {"video_id": "taEANymN-Fo", "start_s": 483, "claim_id": "faa-cyberattack", "same_event": "yes", "delta_type": "restatement", "note": "Explicit accuracy claim attached to the same event."},
+    {"video_id": "taEANymN-Fo", "start_s": 824, "claim_id": "temple-quakes", "same_event": "yes", "delta_type": "new_detail", "note": "States the mechanism as judgment on false religion and makes the temple collapses a deliberate sign."},
+    {"video_id": "taEANymN-Fo", "start_s": 1141, "claim_id": "coup-against-trump", "same_event": "yes", "delta_type": "timing_update", "note": "Puts a six to seven month bound on the 25th amendment risk, expiring end of February 2027."},
+    {"video_id": "taEANymN-Fo", "start_s": 1678, "claim_id": "mahdi-antichrist", "same_event": "yes", "delta_type": "first_mention"},
+    {"video_id": "taEANymN-Fo", "start_s": 1715, "claim_id": "mahdi-antichrist", "same_event": "yes", "delta_type": "new_detail", "note": "Names a living person as the Antichrist, which is the most specific and most consequential identification in the corpus."},
+    {"video_id": "taEANymN-Fo", "start_s": 2159, "claim_id": "reprieve-window-2026", "same_event": "yes", "delta_type": "elaboration", "note": "Frames the reprieve as a test put to the church rather than a promise, which makes a bad outcome attributable to them."},
+    {"video_id": "taEANymN-Fo", "start_s": 2463, "claim_id": "internet-socialist-control", "same_event": "yes", "delta_type": "restatement", "note": "Keeps the 2030 horizon and adds a three-year watch window."},
+    {"video_id": "taEANymN-Fo", "start_s": 2724, "claim_id": "judas-betrayal-trump", "same_event": "yes", "delta_type": "first_mention"},
+    {"video_id": "taEANymN-Fo", "start_s": 2760, "claim_id": "midterms-more-important-2026", "same_event": "yes", "delta_type": "first_mention", "note": "Also records a prior prayer target he counts as met, that Trump outlast Usha Vance's pregnancy."},
+    {"video_id": "taEANymN-Fo", "start_s": 3053, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "A claimed hit on a new prime minister, but he never names the country and the clip is not transcribed. Unattachable."},
+    {"video_id": "taEANymN-Fo", "start_s": 3231, "claim_id": "iraq-economic-boom", "same_event": "yes", "delta_type": "elaboration", "note": "Turkey-Iraq energy alliance as fulfilment, plus the five o'clock shadow identification he says predates the man's election."},
+    {"video_id": "taEANymN-Fo", "start_s": 5117, "claim_id": "preparedness-instructions", "same_event": "yes", "delta_type": "new_detail", "note": "The fifty-yard Jericho march is a new, specific practice."},
+
+    {"video_id": "VwWt7-MQ0HU", "start_s": 73, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Timing aside with no stated subject."},
+    {"video_id": "VwWt7-MQ0HU", "start_s": 494, "claim_id": "shmita-cycle-2029", "same_event": "yes", "delta_type": "first_mention"},
+    {"video_id": "VwWt7-MQ0HU", "start_s": 1141, "claim_id": "iran-nuclear-raid", "same_event": "yes", "delta_type": "first_mention", "note": "Visual detail given before the reporting: fence, stealth helicopter, groups of men. Worth checking the February clip against the record."},
+    {"video_id": "VwWt7-MQ0HU", "start_s": 1300, "claim_id": "iran-bomb-israel", "same_event": "yes", "delta_type": "first_mention", "note": "He flags himself that it sounds like science fiction, which is a rare self-hedge on a war claim."},
+    {"video_id": "VwWt7-MQ0HU", "start_s": 1475, "claim_id": "gaza-oil-development", "same_event": "yes", "delta_type": "restatement", "note": "Fixes the golf course vision to 30 January."},
+    {"video_id": "VwWt7-MQ0HU", "start_s": 2156, "claim_id": "kim-jong-un-role", "same_event": "yes", "delta_type": "elaboration"},
+    {"video_id": "VwWt7-MQ0HU", "start_s": 2412, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Played Trump clip on the ballroom."},
+    {"video_id": "VwWt7-MQ0HU", "start_s": 6256, "claim_id": "military-aid-request", "same_event": "yes", "delta_type": "first_mention", "note": "One-week horizon, already past due as of 29 Aug 2026. Needs evidence."},
+
+    {"video_id": "x9732-uLl6k", "start_s": 471, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "A self-scored miss on the 17 July weather word. Kept unattached on purpose: it is evidence about his hit rate, not a claim."},
+    {"video_id": "x9732-uLl6k", "start_s": 700, "claim_id": "earth-facing-solar-event", "same_event": "yes", "delta_type": "first_mention", "note": "Dated to 28 July 2026 and past due."},
+    {"video_id": "x9732-uLl6k", "start_s": 1245, "claim_id": "mideast-us-draft", "same_event": "yes", "delta_type": "elaboration", "note": "A Selective Service mobilisation exercise is the closest thing to concrete draft evidence in the corpus."},
+    {"video_id": "x9732-uLl6k", "start_s": 1603, "claim_id": "byron-florida-governor", "same_event": "yes", "delta_type": "restatement", "note": "Narrows to one or two weeks out."},
+    {"video_id": "x9732-uLl6k", "start_s": 1776, "claim_id": "trump-assassination-attempt", "same_event": "unsure", "delta_type": "elaboration", "note": "Assassination line and a European October 7th plot are bundled with a Saudi deployment; unclear which subject the assassination refers to."},
+    {"video_id": "x9732-uLl6k", "start_s": 2661, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Devotional prayer."},
+
+    {"video_id": "sV1rn2FVee8", "start_s": 1048, "claim_id": "human-cloning-labs", "same_event": "yes", "delta_type": "first_mention"},
+    {"video_id": "sV1rn2FVee8", "start_s": 1360, "claim_id": "human-cloning-labs", "same_event": "yes", "delta_type": "new_detail", "note": "Adds organ harvesting and, unusually, an explicit refusal to date it, so it cannot expire."},
+    {"video_id": "sV1rn2FVee8", "start_s": 1547, "claim_id": "human-cloning-labs", "same_event": "yes", "delta_type": "new_detail", "note": "Adds animal DNA hybrids and locates the labs in America, Japan and Asia."},
+    {"video_id": "sV1rn2FVee8", "start_s": 1659, "claim_id": "megachurch-conversions", "same_event": "yes", "delta_type": "elaboration", "note": "Moves the conversion claim from American megachurches to English parish churches, with a 2026 map."},
+    {"video_id": "sV1rn2FVee8", "start_s": 2227, "claim_id": "ai-race-summit", "same_event": "yes", "delta_type": "first_mention", "note": "Exact date given, 24 September 2026, so it is cheap to score."},
+    {"video_id": "sV1rn2FVee8", "start_s": 2414, "claim_id": "iran-nuclear-raid", "same_event": "yes", "delta_type": "elaboration", "note": "Dates the underlying word to February and adds the three-site detail."},
+    {"video_id": "sV1rn2FVee8", "start_s": 5713, "claim_id": "midterms-more-important-2026", "same_event": "yes", "delta_type": "new_detail", "note": "Sets a hard read-out date: the first week of November."},
+    {"video_id": "sV1rn2FVee8", "start_s": 5768, "claim_id": "red-wave-doubt", "same_event": "yes", "delta_type": "first_mention", "note": "Runs against fair-election-2026 and the Byron landslide. He offers his own disqualification test if a big red wave lands, so both branches are on the record."},
+    {"video_id": "sV1rn2FVee8", "start_s": 7660, "claim_id": "year-of-rain-2027", "same_event": "unsure", "delta_type": "elaboration", "note": "Remnant prospers while the shaking runs; close to the revival claim but framed as personal exemption rather than national revival."},
+    {"video_id": "sV1rn2FVee8", "start_s": 7701, "claim_id": "crash-1930s", "same_event": "unsure", "delta_type": "elaboration", "note": "A crash is assumed rather than predicted here; the content is his posture toward it."}
+  ]
+}

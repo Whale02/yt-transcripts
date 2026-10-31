@@ -1,0 +1,11 @@
+{
+ "_note": "Two workers on the same database seeded the same three claims out of the 29 August 2026 prayer session within minutes of each other. Each pair was read side by side: same person, same scene, same wording in the transcript. The surviving id in each case is the one already carrying the mention and the assignment; the dropped ids were orphaned, so nothing is lost and no judgment is rewritten.",
+ "merges": [
+  {"keep": "democratic-mole-leaks-to-zelensky", "drop": "democrat-mole-leaking-zelensky",
+   "note": "same Democratic leader passing Trump's plans to Kyiv; kept the id whose description also carries the Pentagon moles"},
+  {"keep": "ursula-head-of-the-snake", "drop": "ursula-head-of-witches",
+   "note": "same named person, same head of the witches and head of the snake wording"},
+  {"keep": "pergamon-altar-berlin", "drop": "berlin-pergamon-antichrist-seat",
+   "note": "same CERN, Berlin and Pergamon altar passage"}
+ ]
+}

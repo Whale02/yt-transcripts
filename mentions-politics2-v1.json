@@ -1,0 +1,40 @@
+{
+  "_note": "Israel, Gaza and antisemitism claims from July 2026. Model claude-opus-5, prompt v1.",
+  "mentions": [
+    {"video_id": "oolVr6LLlDM", "start_s": 925,
+     "claim_text": "He says a Gaza agreement he was shown on 9 January arrives as predicted, with a disarmament deal reached and building work to follow.",
+     "quote": "I saw that on January the 9th... and the Lord said this was coming",
+     "source_mode": "INTERPRETATION", "certainty": "definite", "conditionality": "unconditional",
+     "topics": ["geopolitics"], "locations": ["Gaza", "Israel"],
+     "origin_date": "2026-01-09", "time_phrase": "already happening", "time_precision": "none",
+     "falsify_match": "A Gaza disarmament agreement and reconstruction programme in 2026.",
+     "falsify_miss": "No agreement materialises."},
+
+    {"video_id": "oolVr6LLlDM", "start_s": 1230,
+     "claim_text": "Antisemitism reaches an all-time high in the days ahead, at a level not seen before.",
+     "quote": "anti-semitism is going to be at an all-time high in the days ahead",
+     "source_mode": "LORD_SAID", "certainty": "definite", "conditionality": "unconditional",
+     "topics": ["social_trends", "religion", "civil_unrest"], "locations": ["worldwide"],
+     "time_phrase": "in the days ahead", "time_precision": "relative",
+     "falsify_match": "Recorded antisemitic incidents reach record levels.",
+     "falsify_miss": "Incident counts stay below prior peaks."},
+
+    {"video_id": "oolVr6LLlDM", "start_s": 1013,
+     "claim_text": "War spreads with Poland involved, an entity out of the pit influencing Putin, and a two-state solution being attempted, which he ties back to the fig tree and Israel.",
+     "quote": "Watch a two-state solution try to come forth",
+     "source_mode": "VISION", "certainty": "definite", "conditionality": "unconditional",
+     "topics": ["war", "geopolitics", "religion"], "locations": ["Poland", "Russia", "Israel"],
+     "time_phrase": "", "time_precision": "none",
+     "falsify_match": "Poland drawn into the war and a formal two-state push.",
+     "falsify_miss": "Neither occurs."},
+
+    {"video_id": "oolVr6LLlDM", "start_s": 1269,
+     "claim_text": "He draws a pattern between US pressure on Israeli land and disasters at home, citing 2005 as the precedent and asking whether the current administration has repeated it.",
+     "quote": "Did Trump just do a George Bush Jr.",
+     "source_mode": "PERSONAL_INFERENCE", "certainty": "tentative", "conditionality": "unclear",
+     "topics": ["geopolitics", "natural_disaster", "religion"], "locations": ["America", "Israel"],
+     "time_phrase": "", "time_precision": "none",
+     "falsify_match": "A major US disaster shortly after a US-backed division of Israeli land.",
+     "falsify_miss": "No disaster follows such a move."}
+  ]
+}

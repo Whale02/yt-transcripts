@@ -1,0 +1,28 @@
+{"mentions": [
+ {"video_id": "__45FoTY6rQ", "start_s": 3523,
+  "claim_text": "He recalls a word that they would hack into the emergency call system and interfere with it, says a reported hack is that word coming to pass, and adds that this is practice: when the major event he saw takes place they will hack the 911 database as the distraction.",
+  "quote": "they will hack into the 911 system and they will mess with it",
+  "source_mode": "LORD_SAID", "certainty": "definite", "conditionality": "unconditional",
+  "topics": ["security"], "locations": ["United States"],
+  "time_phrase": "the days ahead", "time_precision": "none",
+  "falsify_match": "A significant hack or outage of the US 911 emergency system, followed by a larger attack it covers.",
+  "falsify_miss": "No such hack, or a hack with no following event. Note 911 outages have multiple ordinary causes and occur regularly, which lowers the bar."},
+
+ {"video_id": "taEANymN-Fo", "start_s": 2195,
+  "claim_text": "Standing on location by a field he says is several hundred years old, he recalls telling them that Bibles would be burned there, and describes a mound of Bibles five storeys high piled in the football stadium and set alight, comparing it to the book burning in an Indiana Jones film.",
+  "quote": "they're going to burn the Bibles in the in the football stadium",
+  "source_mode": "VISION", "certainty": "definite", "conditionality": "prayer_may_prevent",
+  "topics": ["religion", "persecution"], "locations": ["United States"],
+  "time_phrase": "", "time_precision": "none",
+  "falsify_match": "A mass burning of Bibles at a named stadium.",
+  "falsify_miss": "No such burning. Undated, so it cannot expire, but the location and the scale are specific enough to check."},
+
+ {"video_id": "ruV85YYcW1o", "start_s": 87,
+  "claim_text": "He says he had been praying over this for several weeks, and reports that Lindsey Graham suffered a massive heart attack at home in the middle of the night having just come back from abroad, calling the timing odd while stating he is not saying it was a conspiracy.",
+  "quote": "he had a massive heart attack in his house in the middle of the night",
+  "source_mode": "PERSONAL_INFERENCE", "certainty": "definite", "conditionality": "unconditional",
+  "topics": ["politics"], "locations": ["United States", "Russia", "Ukraine"],
+  "time_phrase": "today", "time_precision": "day",
+  "falsify_match": "An autopsy or investigation showing the death was not natural.",
+  "falsify_miss": "A natural cause is confirmed. He hedges both ways in the same breath, and the antecedent word he points back to is not located in this corpus."}
+]}

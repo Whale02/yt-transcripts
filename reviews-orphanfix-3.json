@@ -1,0 +1,23 @@
+{"reviews": [
+ {"video_id": "H-ryTOTWSk0", "start_s": 0, "mention_id": "44a4a58b548f38bd",
+  "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.95,
+  "note": "session framing about his role as intercessor; the falsifier already says not scoreable, so it carries no claim"},
+ {"video_id": "F-CNFR1LQQI", "start_s": 1432, "mention_id": "a5bb1757516c13b3",
+  "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9,
+  "note": "he reads a news report on Starlink and the Russia-North Korea bridge; news he relays is not a claim he makes"},
+ {"video_id": "1I4ETKrehPc", "start_s": 3569, "mention_id": "c8713bd698d37202",
+  "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9,
+  "note": "a Trump clip played on air; the words are Trump's, not his"},
+ {"video_id": "UAPYhpm_sX0", "start_s": 5627, "mention_id": "088b21fa6afae411",
+  "claim_id": "rapture-hope-2028", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9,
+  "note": "he allows the rapture could come by 2028 and hopes the church is gone before what he saw"},
+ {"video_id": "kVVIsIOdYvg", "start_s": 8431, "mention_id": "8ea180946a8a7633",
+  "claim_id": "blue-stealth-december-january", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9,
+  "note": "the blue, blue stealth and mango imagery placed at end of January, December and 2027"},
+ {"video_id": "kVVIsIOdYvg", "start_s": 8468, "mention_id": "17a9a1e21cf509c0",
+  "claim_id": "blue-stealth-december-january", "same_event": "yes", "delta_type": "restatement", "confidence": 0.9,
+  "note": "baby blue repeated and placed in January"},
+ {"video_id": "kVVIsIOdYvg", "start_s": 8516, "mention_id": "b0dc7b568ab52075",
+  "claim_id": "blue-stealth-december-january", "same_event": "yes", "delta_type": "restatement", "confidence": 0.85,
+  "note": "the same sequence extended into the second week and into February"}
+]}

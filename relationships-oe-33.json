@@ -1,0 +1,9 @@
+{"relationships":[
+{"from_claim":"canopy-restored","to_claim":"dispensation-ending","rel_type":"evidence_for","asserted_by":"brandon",
+ "evidence_video":"3-UAs7VAr4Y","evidence_start_s":1929,
+ "note":"He offers the canopy's return as the sign that the dispensation of grace is closing and the tribulation is about to begin."},
+{"from_claim":"cold-war-gets-colder","to_claim":"kim-jong-un-role","rel_type":"related_to","asserted_by":"system",
+ "note":"Kim appears in the same breath as the colder cold war, but he does not say the cold war is the Korean one. Linked, not merged."},
+{"from_claim":"prayer-turns-the-ship","to_claim":"vision-is-a-prayer-target","rel_type":"related_to","asserted_by":"system",
+ "note":"Two halves of the same defence: a vision is given to be prayed against, and the turning is slow enough that no absent result counts against it."}
+]}

@@ -1,0 +1,956 @@
+[
+ {
+  "video_id": "OVKr-hVqdI4",
+  "start_s": 2726,
+  "claim_text": "Churches spring up all over Cuba beyond capacity, makeshift metal-front buildings full of Cuban people with flag twirlers at the front.",
+  "quote": "I see buildings that are just like makeshift buildings, not like big churches",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba",
+   "revival"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A visible surge of new congregations across Cuba.",
+  "falsify_miss": "No surge. Makeshift buildings describe most existing Cuban house churches, so the image matches the present state."
+ },
+ {
+  "video_id": "OVKr-hVqdI4",
+  "start_s": 2772,
+  "claim_text": "Women in white dresses twirling flags, a fire, and the glory cloud coming into Cuba with signs and wonders and an altar full of people getting saved.",
+  "quote": "I SEE THE GLORY cloud coming into Cuba",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba",
+   "glory cloud"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A visible phenomenon reported at Cuban meetings.",
+  "falsify_miss": "None reported. The glory cloud is described in his own meetings without independent confirmation."
+ },
+ {
+  "video_id": "OVKr-hVqdI4",
+  "start_s": 2818,
+  "claim_text": "A great acceleration of ministry in Cuba with a great door about to open, Spanish-speaking missionaries told to be ready, and deliverance with arms and legs growing out, eyes restored and the dead raised.",
+  "quote": "Be ready for the door. For a great door is about to open",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba",
+   "missions",
+   "miracles"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Cuba opens to foreign missionary work and documented healings follow.",
+  "falsify_miss": "It stays closed. Limb regrowth and resurrection are the claims that could be checked if any occurred."
+ },
+ {
+  "video_id": "OVKr-hVqdI4",
+  "start_s": 2938,
+  "claim_text": "He counts one, two, three springing forth out of the land, with fibre optic internet coming and Cuba changing from what it is now to something like America, with big business and a changed financial and spiritual culture.",
+  "quote": "I SEE ONE, TWO, THREE. AND THEY'RE SPRINGING FORTH OUT OF THE LAND",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba",
+   "revival",
+   "economy"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Three distinct centres of growth plus a Cuban telecoms and business opening.",
+  "falsify_miss": "Neither. Cuba already has fibre and mobile internet, so that part describes the present."
+ },
+ {
+  "video_id": "OVKr-hVqdI4",
+  "start_s": 3606,
+  "claim_text": "A call for hidden things to be revealed about where the weapons of mass destruction are being found and the capability to produce more, with intel from Israel, the United States and some from Saudi Arabia, and certain other nations involved.",
+  "quote": "Concerning where they're finding these weapons of mass destruction",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "unclear",
+  "topics": [
+   "iran",
+   "weapons",
+   "intelligence"
+  ],
+  "locations": [
+   "Iran",
+   "Israel",
+   "Saudi Arabia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Disclosure of Iranian weapons sites naming third-country involvement.",
+  "falsify_miss": "No disclosure. He asks for it rather than stating it will happen, which is the weaker form."
+ },
+ {
+  "video_id": "OVKr-hVqdI4",
+  "start_s": 4399,
+  "claim_text": "Something Iran has kept will be looked through and will back biblical understanding, and prayer is needed that corrupt men who receive it into museums do not bury it.",
+  "quote": "It'll back biblical understanding",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "artifacts",
+   "iran"
+  ],
+  "locations": [
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An artifact out of Iran published as confirming a biblical account.",
+  "falsify_miss": "None published. The burial clause explains any absence in advance."
+ },
+ {
+  "video_id": "OVKr-hVqdI4",
+  "start_s": 5569,
+  "claim_text": "No destructive tornadoes over Oklahoma, five inches of rain called in, low pressure systems stalling over the United States, and the drought broken, without floods like the ones in Texas.",
+  "quote": "We call in 5 in of rain in Jesus' name",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "weather",
+   "drought"
+  ],
+  "locations": [
+   "Oklahoma",
+   "United States",
+   "Texas"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Five inches of rain over the area without tornado damage.",
+  "falsify_miss": "Drought persists or destructive tornadoes hit. Both halves are measurable, which is unusual for the weather material."
+ },
+ {
+  "video_id": "OVKr-hVqdI4",
+  "start_s": 6042,
+  "claim_text": "He says the Cuba word was very strong, rolled out of him, and that people can write it down because God is going to shake Cuba, including the economy.",
+  "quote": "You can write it down. God is going to shake Cuba",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Political or economic upheaval in Cuba.",
+  "falsify_miss": "Cuba continues as it is. Shake is undefined, so almost any disturbance would qualify."
+ },
+ {
+  "video_id": "OVKr-hVqdI4",
+  "start_s": 6588,
+  "claim_text": "In the labs he saw a race between China and another country he is told not to name, trying to perfect a new species of genetically altered human being, tied to a new industrial revolution with crypto.",
+  "quote": "a race trying to perfect it to who had who it was",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "genetics",
+   "china",
+   "ai"
+  ],
+  "locations": [
+   "China"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A disclosed programme to engineer heritable human enhancement.",
+  "falsify_miss": "None disclosed. He withholds the second country, which removes the checkable half."
+ },
+ {
+  "video_id": "OVKr-hVqdI4",
+  "start_s": 6987,
+  "claim_text": "Seven hundred and thirty thousand barrels of oil have arrived in Cuba, which he reads as the 1960s alliances coming back out, enough only to get them by, and he saw a great shaking of their nation again.",
+  "quote": "they're carrying 730 thousand barrels of oil has arrived",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba",
+   "russia",
+   "oil"
+  ],
+  "locations": [
+   "Cuba",
+   "Russia"
+  ],
+  "time_phrase": "tonight",
+  "time_precision": "day",
+  "falsify_match": "Continued Russian energy support to Cuba alongside internal upheaval.",
+  "falsify_miss": "Support stops without upheaval. The cargo figure is read off the news, not seen."
+ },
+ {
+  "video_id": "mdXXTm-aWEU",
+  "start_s": 3,
+  "claim_text": "He says he will pray over the troops because Iran is saying it will burn them alive if there is a ground invasion, and declares it will not be allowed.",
+  "quote": "we're going to burn them alive and the things that they're saying",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "iran",
+   "troops"
+  ],
+  "locations": [
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing. He is repeating Iranian statements and declaring against them.",
+  "falsify_miss": "Nothing forward-looking of his own is claimed."
+ },
+ {
+  "video_id": "mdXXTm-aWEU",
+  "start_s": 1812,
+  "claim_text": "He recalls warning that American oil wells and facilities would be targeted in retaliation for Iran's economy, that it would last a window of time, and says that after six months to a year of praying it they are now seeing it in the news.",
+  "quote": "I saw them being a target to try to",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "oil",
+   "retaliation"
+  ],
+  "locations": [
+   "United States",
+   "Iran"
+  ],
+  "time_phrase": "over six months now",
+  "time_precision": "month",
+  "falsify_match": "Attacks on American energy infrastructure attributed to Iranian retaliation.",
+  "falsify_miss": "None. He does not say which news item he means, so the fulfilment cannot be pinned to an event."
+ },
+ {
+  "video_id": "mdXXTm-aWEU",
+  "start_s": 1979,
+  "claim_text": "A massive toad covered in warts comes out of the Atlantic and jumps up in Washington, with something to do with Kentucky.",
+  "quote": "I saw a massive frog and this frog had warts all over it",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "corruption",
+   "washington"
+  ],
+  "locations": [
+   "Washington DC",
+   "Kentucky",
+   "Atlantic Ocean"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A Washington corruption scandal with a Kentucky connection.",
+  "falsify_miss": "None. The toad is an image without a named person or office."
+ },
+ {
+  "video_id": "mdXXTm-aWEU",
+  "start_s": 2022,
+  "claim_text": "He reads the toad as corruption tied to Nixon and Watergate because he saw Nixon's face, connected to Kentucky, and says the Lord told him the toad is on land again.",
+  "quote": "the toad came up out of the water and he's on land again",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "corruption",
+   "watergate"
+  ],
+  "locations": [
+   "Washington DC",
+   "Kentucky"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A scandal of Watergate scale breaking in Washington.",
+  "falsify_miss": "None breaks. He has given the Watergate comparison before without a person attached."
+ },
+ {
+  "video_id": "mdXXTm-aWEU",
+  "start_s": 2114,
+  "claim_text": "A crushed body in a yellow firefighter's hat holding an umbrella as a major storm brews, with rain he says is not good rain, alongside talk of boats of oil brought to America from Iran as a gift.",
+  "quote": "I could hear the sound of rain, but this was not good rain",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unclear",
+  "topics": [
+   "storm"
+  ],
+  "locations": [
+   "Washington DC",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A disaster involving emergency responders in a storm.",
+  "falsify_miss": "None. The image carries no place or date, and the black and red boat he ties it to is also undated."
+ },
+ {
+  "video_id": "mdXXTm-aWEU",
+  "start_s": 2553,
+  "claim_text": "A prayer that any dirty bomb be uncovered, over the vans and big trucks, and over the Trump towers in Chicago and New York, which he says he saw explode, with the glass buildings named.",
+  "quote": "Remember I said they go they they explode these",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "terror",
+   "trump towers"
+  ],
+  "locations": [
+   "Chicago",
+   "New York"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An attempted vehicle bombing at a Trump property.",
+  "falsify_miss": "None attempted. The prayer condition means an absence is read as an answer."
+ },
+ {
+  "video_id": "mdXXTm-aWEU",
+  "start_s": 4316,
+  "claim_text": "Liberation over Cuba with the Castros done, and all ten million people born again with churches popping up everywhere and the economy turning around.",
+  "quote": "All 10 million people will be born again",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "cuba",
+   "revival"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Mass conversion across Cuba after a change of government.",
+  "falsify_miss": "It does not happen. Ten million is the whole population, which no country has ever converted."
+ },
+ {
+  "video_id": "mdXXTm-aWEU",
+  "start_s": 4365,
+  "claim_text": "Judgment comes on the Canadian bills that would stop Christians quoting the Bible, they will not stand, and the government will not get involved, though some of it happens because people are asleep.",
+  "quote": "make it where Christians can't quote the Bible",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "canada",
+   "legislation"
+  ],
+  "locations": [
+   "Canada"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The legislation is struck down or fails.",
+  "falsify_miss": "It stands. Some of it is going to happen because people are asleep gives an exit either way."
+ },
+ {
+  "video_id": "mdXXTm-aWEU",
+  "start_s": 4466,
+  "claim_text": "He does not see it happening to America yet but says soon if the church does not wake up, that it will happen in Australia, and that he saw Canada first, then France, Germany, Italy and England, spreading through Europe.",
+  "quote": "I saw Canada happening first and then France and Germany and Italy",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "if_x",
+  "topics": [
+   "persecution",
+   "europe",
+   "australia"
+  ],
+  "locations": [
+   "Canada",
+   "France",
+   "Germany",
+   "Italy",
+   "England",
+   "Australia"
+  ],
+  "time_phrase": "soon",
+  "time_precision": "none",
+  "falsify_match": "Speech restrictions on religious expression following that order.",
+  "falsify_miss": "They do not. The order given here puts England last, where the night before he put England next."
+ },
+ {
+  "video_id": "mdXXTm-aWEU",
+  "start_s": 6606,
+  "claim_text": "A major drought over America, Australia and Canada, with ranchers unable to afford feed and going bankrupt as the grass dies, and rain called in against it.",
+  "quote": "I saw great drought all around America and Australia and Canada",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "drought",
+   "cattle"
+  ],
+  "locations": [
+   "United States",
+   "Australia",
+   "Canada"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Herd liquidation driven by feed costs across those countries.",
+  "falsify_miss": "No such liquidation. American herds were already at multi-decade lows before this."
+ },
+ {
+  "video_id": "mdXXTm-aWEU",
+  "start_s": 6659,
+  "claim_text": "Five inches of rain called in from the Gulf to Canada, with a low pressure system stalling and dumping rain over the plains states, naming thirteen states and Mexico.",
+  "quote": "We call in five inches of rain to start off with",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "rain",
+   "drought"
+  ],
+  "locations": [
+   "Oklahoma",
+   "Texas",
+   "Kansas",
+   "Nebraska",
+   "Missouri",
+   "Colorado"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Widespread five inch rainfall across those states.",
+  "falsify_miss": "It stays dry. Naming this many states makes a partial hit almost certain somewhere in the list."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 208,
+  "claim_text": "Great persecution passed in the Canadian legislature taking freedom of speech from Canadian ministers, an olive press that grows in intensity, and eventually their charitable tax status is taken away.",
+  "quote": "eventually they'll take away your 501c3",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "canada",
+   "persecution",
+   "tax"
+  ],
+  "locations": [
+   "Canada"
+  ],
+  "time_phrase": "eventually",
+  "time_precision": "none",
+  "falsify_match": "Canadian churches losing charitable status over speech.",
+  "falsify_miss": "They do not. Eventually carries no date, so this cannot expire."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 339,
+  "claim_text": "Cuba and Russia bring back the 1960s alliances, with Russia giving Cuba military assistance in the middle of the night to come against American troops, and the Castro family like a dog in a corner.",
+  "quote": "I saw Russia in the middle of the night giving uh Cuba military assistance",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba",
+   "russia",
+   "military"
+  ],
+  "locations": [
+   "Cuba",
+   "Russia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Russian military supply to Cuba used against American forces.",
+  "falsify_miss": "None. Russian oil shipments to Cuba are documented; military assistance against American troops is not."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 385,
+  "claim_text": "A photograph of the president on an altar in Cuba with chickens killed and their blood drained into bowls, and a figure with deer horns wrapped around his head, working against the president's mind.",
+  "quote": "he was doing blood sacrifices with chickens",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "cuba",
+   "witchcraft",
+   "trump"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing observable unless the president's mental state is the test.",
+  "falsify_miss": "Nothing observable. The instruction to pray for his mind is what it resolves into."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 418,
+  "claim_text": "The Lord said Cuba is next and the president is now saying the same, that the Castro family bloodline will be eliminated from leading the nation, with great prosperity following and the Secretary of State helping, and Claudia removed after that.",
+  "quote": "I'm going to eliminate the Castro family bloodline",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba",
+   "mexico",
+   "regime change"
+  ],
+  "locations": [
+   "Cuba",
+   "Mexico"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The Castro family removed from power and the Mexican president leaving office early.",
+  "falsify_miss": "Neither. Raul Castro left the party leadership in 2021, so part of this has already happened."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 499,
+  "claim_text": "He plays a presidential clip saying Cuba is a failing country that will be next and will fail within a short period, offered as confirmation of the word.",
+  "quote": "Cuba is going to be next",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "within a short period of time",
+  "time_precision": "none",
+  "falsify_match": "Not his claim. It is a recording he plays.",
+  "falsify_miss": "Not his claim. Recorded so the clip is not counted as a word."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 531,
+  "claim_text": "The same clip in the overlapping window, including the question about letting a Russian tanker into Cuba.",
+  "quote": "It's a failing country and they're going to be next",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba",
+   "russia"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Same as the preceding row.",
+  "falsify_miss": "Same as the preceding row."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 636,
+  "claim_text": "Russia rises with a relationship like the 1960s missile crisis, and the man he has been shown, marked at the side of his neck, is taken out in the days ahead by the old regime.",
+  "quote": "I saw this man being taken out in the day",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unclear",
+  "topics": [
+   "iran",
+   "assassination"
+  ],
+  "locations": [
+   "Iran",
+   "Cuba",
+   "Russia"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "The new Iranian leader is assassinated by regime remnants.",
+  "falsify_miss": "He is not. In the days ahead carries no date."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 718,
+  "claim_text": "He plays a clip of the man speaking at Grapevine, Texas about making Iran great again, and says the Lord warned it was a short window before the people come under oppression again from a new dictator as evil as the Ayatollah.",
+  "quote": "It was a short window",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "iran",
+   "leadership"
+  ],
+  "locations": [
+   "Iran",
+   "Texas"
+  ],
+  "time_phrase": "a short window",
+  "time_precision": "none",
+  "falsify_match": "A brief liberalisation in Iran followed by a new repressive government.",
+  "falsify_miss": "The opening lasts, or never happens. Short window is not given a length."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 767,
+  "claim_text": "The man came on the scene running Iran but not for long, and standing behind a podium with microphones in front of him a projectile came from the side through his throat, and the Lord said they would be successful.",
+  "quote": "I saw how the projectile went through his throat",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "iran",
+   "assassination"
+  ],
+  "locations": [
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "That man is shot in the throat at a podium.",
+  "falsify_miss": "He is not. The method and setting are specific enough to fail cleanly, though he adds that he prays it can be stopped."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 840,
+  "claim_text": "Up to a thousand Iranian sleeper agents are reported embedded in Canadian government, matching what he says he was told about praying over Canada from Toronto to British Columbia, with terrorist attacks around Easter, Rosh Hashanah and September 11th.",
+  "quote": "I saw major uh um terrorist attacks in the days ahead",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "sleeper cells",
+   "canada",
+   "terror"
+  ],
+  "locations": [
+   "Canada",
+   "Toronto",
+   "British Columbia"
+  ],
+  "time_phrase": "Easter, Rosh Hashanah",
+  "time_precision": "season",
+  "falsify_match": "Attacks in Canada around those dates by Iranian-linked operatives.",
+  "falsify_miss": "None. Naming three widely spaced religious dates covers most of the year."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 893,
+  "claim_text": "He points to a newspaper confirming a thousand Iranian sleeper agents in America and says he told them they come from Canada, crossing by Michigan as special operations troops rather than over the southern border.",
+  "quote": "I can even tell you where they come across by Michigan",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "sleeper cells",
+   "canada",
+   "michigan"
+  ],
+  "locations": [
+   "Canada",
+   "Michigan",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The earlier recordings name Michigan and the northern border before the report.",
+  "falsify_miss": "They do not, or the report does not say what he says it says."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 1024,
+  "claim_text": "A great antisemitism rises worldwide over gas shortages, with people ready to retaliate against Jews in their communities, and as the persecution comes he saw people fleeing back to Israel.",
+  "quote": "A great anti-Semitism will rise up all over the world",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "antisemitism",
+   "israel"
+  ],
+  "locations": [
+   "Israel"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Antisemitic violence tied to energy prices and a surge in emigration to Israel.",
+  "falsify_miss": "No such link. Antisemitic incidents have risen since 2023 for reasons unconnected to gas."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 1199,
+  "claim_text": "He says he saw a tomb next to water, possibly the Euphrates, with the contents preserved in a hill, and that in the days ahead they will find a library full of scrolls and tablets.",
+  "quote": "they will find a library full of scrolls and tablets",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "artifacts",
+   "archaeology"
+  ],
+  "locations": [
+   "Egypt",
+   "Iraq"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "A cache of scrolls or tablets found by water in the region.",
+  "falsify_miss": "None found. He attaches it to a same-day report of a scan under the Sphinx, which is in Egypt rather than by the Euphrates."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 1231,
+  "claim_text": "Reading a report of an attempted bombing outside a bank in Paris, he says the Lord told them major attacks would rise up in Europe and to pray over the Vatican, England, Big Ben and Buckingham Palace, with a shaking coming to the royals.",
+  "quote": "I saw shaking coming to the royals",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "europe",
+   "terror",
+   "royals"
+  ],
+  "locations": [
+   "Paris",
+   "London",
+   "Vatican"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An attack at one of the named landmarks, or a crisis in the British royal family.",
+  "falsify_miss": "Neither. The Paris arrests are same-day news, and shaking is undefined."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 2453,
+  "claim_text": "He is told this is his doorway and portal and that he will start to use it a lot, and sees the twelve tribes of Israel on a chart with stones in green, sapphire, red pinks and purple.",
+  "quote": "This is your doorway. This is your portal",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unclear",
+  "topics": [
+   "spiritual",
+   "israel"
+  ],
+  "locations": [
+   "Israel"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Frequent later use of the imagery in his own ministry.",
+  "falsify_miss": "It does not recur. Nothing outside his ministry is claimed."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 3096,
+  "claim_text": "The emerald colour of the new fire relates to the twelve tribes, each with a stone, and he was told what each colour represents, with sapphire being a healing ministry.",
+  "quote": "he said sapphire's healing ministry",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unclear",
+  "topics": [
+   "spiritual"
+  ],
+  "locations": [],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing observable.",
+  "falsify_miss": "Nothing observable. An interpretation rather than a forecast."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 3265,
+  "claim_text": "An escalation of war with liberation and a major revival coming, great pressure on Canada, and he says they have now seen them pass the bills as the Lord said they would, with everything lining up for a beast system.",
+  "quote": "you see them pass the bills like the Lord said they would",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "topics": [
+   "canada",
+   "persecution"
+  ],
+  "locations": [
+   "Canada"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The earlier recordings name the bills before they passed.",
+  "falsify_miss": "They do not, or the bill was already public when he spoke. He also says elsewhere it will not pass, which is the opposite claim.",
+  "conditionality": "unconditional"
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 3883,
+  "claim_text": "The freedom to say what you want, including the First Amendment, is challenged in the days ahead on social media platforms, mainly in Australia and Canada, seen as an olive press tightening.",
+  "quote": "the right to a freedom of speech being challenged in the days ahead",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "speech",
+   "canada",
+   "australia"
+  ],
+  "locations": [
+   "Canada",
+   "Australia",
+   "United States"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "New restrictions on religious speech online in those countries.",
+  "falsify_miss": "None. Australia and Canada both already had online safety legislation in force when this was said."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 4040,
+  "claim_text": "Great pressure comes on the citizens of Canada in the days ahead, with persecution meaning being dragged to death or losing your head, and the church going through a metamorphosis of spiritual growth as freedoms are tested.",
+  "quote": "I saw great pressure coming from Canada upon the the citizens",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "canada",
+   "persecution",
+   "church"
+  ],
+  "locations": [
+   "Canada"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "Prosecutions of Canadian believers, followed by church growth there.",
+  "falsify_miss": "Neither. He sets the bar at martyrdom and then applies it to speech law."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 4088,
+  "claim_text": "Persecution comes upon the church in Europe because people are lukewarm, and either you stand for something with a backbone like a crowbar or you lose it.",
+  "quote": "the Lord showed me persecution coming upon the church in Europe",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "if_x",
+  "topics": [
+   "europe",
+   "persecution"
+  ],
+  "locations": [
+   "Europe"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Legal restriction of churches across European states.",
+  "falsify_miss": "None. Blaming lukewarmness means an absence can be read as the church having stood."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 4282,
+  "claim_text": "Tent meetings come back, and what he saw coming in Canada was dark but great light sprang out of it because the church was no longer lukewarm once believers realised they could be fined or jailed for saying certain things.",
+  "quote": "they weren't allowed to say certain things or they would be thrown in jail",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "canada",
+   "persecution",
+   "revival"
+  ],
+  "locations": [
+   "Canada"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Canadians jailed over religious speech, followed by church growth.",
+  "falsify_miss": "None jailed. Fines and jail are different thresholds and he uses both here."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 4334,
+  "claim_text": "The Canadian House of Commons has voted for a bill allowing citizens to be convicted over certain Bible verses as hate speech, and the Lord said it will not rest there but will go after tax exempt status, and will be tried in America after Canada and Europe.",
+  "quote": "They'll come after your 5013 status for tax exempt",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "canada",
+   "legislation",
+   "tax"
+  ],
+  "locations": [
+   "Canada",
+   "Europe",
+   "United States"
+  ],
+  "time_phrase": "eventually",
+  "time_precision": "none",
+  "falsify_match": "Charitable status challenged over religious speech in Canada, then America.",
+  "falsify_miss": "It is not. He states the House has voted, which is a fact from the news rather than a word."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 4981,
+  "claim_text": "An Acts chapter two church comes forth in greater works where great persecution comes, with a greater level of glory on the church in the Middle East and the underground church in Iran and Iraq.",
+  "quote": "An Acts chapter 2 church is coming forth in a greater greater work",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "revival",
+   "persecution"
+  ],
+  "locations": [
+   "Iran",
+   "Iraq",
+   "Middle East"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Documented growth of the church in Iran and Iraq.",
+  "falsify_miss": "No growth. Iranian house church growth has been reported for two decades, which sets the base rate."
+ },
+ {
+  "video_id": "M5FxVJVwU2s",
+  "start_s": 5721,
+  "claim_text": "Quoting Romans 8:18 he says present suffering is not worth comparing with the glory about to be seen in the persecuted church in North Korea and the underground churches in Iran and China.",
+  "quote": "the glory which shall be revealed in us",
+  "source_mode": "SCRIPTURE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "revival",
+   "persecution"
+  ],
+  "locations": [
+   "North Korea",
+   "Iran",
+   "China"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Visible church growth in those three countries.",
+  "falsify_miss": "None. Growth under persecution in each is the long-running pattern rather than a new event."
+ }
+]

@@ -1,0 +1,94 @@
+[
+  {"video_id": "U2zTp6gX81I", "start_s": 599, "claim_id": "iran-underground-city-missile",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Dated to January, which puts the original telling in this corpus and makes the recall checkable against it."},
+
+  {"video_id": "U2zTp6gX81I", "start_s": 2035, "claim_id": "water-supply-attack-gulf-states",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Four named states with no date and no act, which is the recurring shape of the venue prayers."},
+
+  {"video_id": "U2zTp6gX81I", "start_s": 2502, "claim_id": "pitch-black-no-lights",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Worth recording precisely: he says he did not know the area was dark and had it looked up afterwards. The corroborating detail arrived after the sight, not before."},
+
+  {"video_id": "U2zTp6gX81I", "start_s": 2578, "claim_id": "grid-cyberattack",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Up to three weeks sets a ceiling rather than a floor, so any outage of any length satisfies it. Adds Cuba as a location."},
+
+  {"video_id": "U2zTp6gX81I", "start_s": 2676, "claim_id": "cuba-completely-dark",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He says outright he does not know why Cuba keeps appearing, and dates an earlier telling to 25 June 2025, which is in this corpus."},
+
+  {"video_id": "EPIsbBYnCw0", "start_s": 4140, "claim_id": "attack-worse-than-october-7",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "Seventh telling since November, still with no date."},
+
+  {"video_id": "bHVnPIa0Cn4", "start_s": 290, "claim_id": "are-we-ready-for-2026",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A question about readiness rather than a claim about events, which is how a good deal of the 2026 material is framed."},
+
+  {"video_id": "Tw9xqU-vn2k", "start_s": 352, "claim_id": "radical-conversion-prayer",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "bHVnPIa0Cn4", "start_s": 1054, "claim_id": "dry-bones-prophesy-to-the-wind",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The scriptural basis for the dead-raised material, read out rather than seen."},
+
+  {"video_id": "bHVnPIa0Cn4", "start_s": 1257, "claim_id": "frog-in-the-pot",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Seventh on-air replay of an original recording, this one from 3 March, which is inside this corpus."},
+
+  {"video_id": "bHVnPIa0Cn4", "start_s": 1901, "claim_id": "fish-put-back-in-the-water",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The order matters here: a news item is produced and then read as the match, rather than the sight being described first."},
+
+  {"video_id": "Tw9xqU-vn2k", "start_s": 4710, "claim_id": "good-report-at-the-doctor",
+   "same_event": "yes", "delta_type": "elaboration"},
+
+  {"video_id": "Cys6GFXLPNs", "start_s": 936, "claim_id": "greatest-harvest-of-souls",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Dated to July 2023, near the start of this corpus, and still carrying no date for the revival itself nearly three years on."},
+
+  {"video_id": "Cys6GFXLPNs", "start_s": 2363, "claim_id": "st-patricks-parade-chicago",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A named city, a named event and a fixed date, which is tighter than most of the venue prayers."},
+
+  {"video_id": "Cys6GFXLPNs", "start_s": 2485, "claim_id": "drone-attacks-holiday-crowds",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Extends the November drone claim from European holiday crowds to American open stadiums, and asks for jammers rather than only prayer."},
+
+  {"video_id": "Cys6GFXLPNs", "start_s": 3764, "claim_id": "valley-of-decisions-make-or-break",
+   "same_event": "yes", "delta_type": "severity_update",
+   "note": "A serious escalation and the sharpest thing in the batch: goes home now means dies, on a three week clock. The January telling had make or break meaning only his political standing."},
+
+  {"video_id": "Cys6GFXLPNs", "start_s": 3804, "claim_id": "july4-250th-parades",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He ruled the obvious 4 July date out in November as too expected, and here prays over it anyway. Both are on file."},
+
+  {"video_id": "Cys6GFXLPNs", "start_s": 4057, "claim_id": "plague-2027-china-rats-europe",
+   "same_event": "yes", "delta_type": "severity_update",
+   "note": "A hundred percent fatality would be unprecedented for any pathogen, and it sits against plague-350m, where a fixed death toll implies survivors."},
+
+  {"video_id": "Cys6GFXLPNs", "start_s": 8084, "claim_id": "do-you-know-him-personally",
+   "same_event": "yes", "delta_type": "restatement"},
+
+  {"video_id": "Cys6GFXLPNs", "start_s": 8717, "claim_id": "anoint-them-while-sleeping",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Recorded as given: it advises doing it without the person's knowledge or consent."},
+
+  {"video_id": "6YMi3ZJxq8M", "start_s": 1944, "claim_id": "iran-underground-city-missile",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Adds the outcome the January telling did not carry: Iran set back financially and nuclearly."},
+
+  {"video_id": "6YMi3ZJxq8M", "start_s": 6642, "claim_id": "packed-out-when-it-comes",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Overflow attendance would be visible, so this is checkable in principle. No date is the limit."},
+
+  {"video_id": "fjuTrDgdUgA", "start_s": 45, "claim_id": "only-a-spectator-psalm91",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The sight and the exemption held together in one sentence: he knows what he has seen, and knows the word promises protection from it."},
+
+  {"video_id": "fjuTrDgdUgA", "start_s": 1300, "claim_id": "lone-wolf-not-the-main-show",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Not the main show defers the claim indefinitely: any attack that does occur becomes a preliminary rather than the fulfilment."}
+]

@@ -1,0 +1,17 @@
+[
+ {"claim_id": "netanyahu-assassination-attempt",
+  "label": "An attempt on the Israeli prime minister, seen out of Germany",
+  "domain": "security",
+  "description": "Given 16 September 2025: while watching out of Germany he saw an attempt on the Israeli prime minister in the days ahead. A named individual and a named act, which makes it one of the more checkable security claims in the corpus.",
+  "aliases": ["an attempt on Ben", "watching out of Germany", "attempt on the prime minister"]},
+ {"claim_id": "canada-oil-press-squeeze",
+  "label": "An oil press squeeze on Canada, and a stronger church out of it",
+  "domain": "religion",
+  "description": "Dark days for the land and light days for the church in Canada, with an oil press coming bringing darkness and financial trouble, and the body of Christ there coming out better and stronger than ever. He acknowledges it is not a word people want to hear. Both halves lack a measure, so either outcome reads as confirmation.",
+  "aliases": ["oil press coming", "dark days for the land", "better and stronger than ever"]},
+ {"claim_id": "bc-ocean-volcano-dead-fish",
+  "label": "A volcano erupting in the ocean off British Columbia",
+  "domain": "geology",
+  "description": "Seen 23 September 2025 as something of biblical proportions: a volcano out in the ocean exploding off British Columbia with dead fish everywhere, which he specifies is literal rather than symbolic, and an event reaching into Anchorage that he says is not a normal earthquake.",
+  "aliases": ["volcano out in the ocean explode", "dead fish everywhere", "not just a normal earthquake"]}
+]

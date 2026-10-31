@@ -1,0 +1,111 @@
+[
+  {"video_id": "utf0ZMPboz4", "start_s": 5962, "claim_id": "not-mega-but-like-jesus",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The same standard he applied to the mega minister in December, now applied to himself. Linked to mega-minister-conversation."},
+
+  {"video_id": "utf0ZMPboz4", "start_s": 7235, "claim_id": "do-you-know-him-personally",
+   "same_event": "yes", "delta_type": "restatement"},
+
+  {"video_id": "IDqls4w0LXc", "start_s": 65, "claim_id": "ice-storm-november-11-word",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Dated to 11 November 2025, which is inside this corpus, so the original telling can be read against this recall at the evidence pass."},
+
+  {"video_id": "IDqls4w0LXc", "start_s": 184, "claim_id": "ice-storm-november-11-word",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He plays the original recording on air rather than paraphrasing it, which is the strongest form of self-check in the corpus and should be credited as such."},
+
+  {"video_id": "IDqls4w0LXc", "start_s": 381, "claim_id": "caution-after-one-year",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A caution with no content attached. Nothing here can be scored either way."},
+
+  {"video_id": "IDqls4w0LXc", "start_s": 547, "claim_id": "intimate-relationship-2026",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "CBpKNYPCKgA", "start_s": 113, "claim_id": "valley-of-decisions-make-or-break",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Make or break covers both outcomes and the decisions themselves are never specified, so nothing here can miss."},
+
+  {"video_id": "CBpKNYPCKgA", "start_s": 674, "claim_id": "two-faced-big-headed-warning",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The disclaimer about not judging character arrives immediately after the character judgment. Likely the same unnamed man as snake-figure-by-2028 and scandal-lanced-2028-run; a system edge links them without merging."},
+
+  {"video_id": "CBpKNYPCKgA", "start_s": 786, "claim_id": "tariff-war-predicted",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Gives a date, 20 January, and says he believes it will prove accurate. The weakness is that what was shown is not restated here, so a match can be claimed against almost any tariff decision."},
+
+  {"video_id": "CBpKNYPCKgA", "start_s": 2032, "claim_id": "shake-the-nations-three-years",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Ties the verse claim to a three year span. Shaking is undefined everywhere in the corpus, so the span is the only checkable part and it does not resolve until 2028."},
+
+  {"video_id": "CBpKNYPCKgA", "start_s": 2226, "claim_id": "ai-real-versus-fake",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Already broadly true when he says it, so the claim sits behind the technology rather than ahead of it."},
+
+  {"video_id": "CBpKNYPCKgA", "start_s": 3354, "claim_id": "more-angels-than-armies",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "SZttUyrnsRQ", "start_s": 198, "claim_id": "battleground-senate-2026",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "His audience's expectation quoted so he can disagree with it, which is the same move as rapture-not-2026 and microwave-jesus-2028. Three weeks before the specific House and Senate call."},
+
+  {"video_id": "SZttUyrnsRQ", "start_s": 2655, "claim_id": "not-for-goosebumps-last-harvest",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "SZttUyrnsRQ", "start_s": 3392, "claim_id": "add-your-supply-tongues",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "SZttUyrnsRQ", "start_s": 5545, "claim_id": "hagin-authority-teachings",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Useful for placing the rest: it names the tradition the authority and declaration teaching comes out of. Linked to believers-have-authority and calling-things-that-be-not."},
+
+  {"video_id": "SZttUyrnsRQ", "start_s": 5883, "claim_id": "seven-year-tribulation-math",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Worth recording how it is arrived at: worked out loud from the change of administrations rather than received. He lands on 2027, which sits against tribulation-2029."},
+
+  {"video_id": "LmxIp6r1zmw", "start_s": 1478, "claim_id": "february-3-budget",
+   "same_event": "unsure", "delta_type": "contradiction",
+   "note": "The State of the Union is here put on 25 February. Five days later, at meR7v1cmzBI@453, the same speech is on 3 February. Both stay; the third of February is the date the whole thread is built on, so a wrong anchor matters."},
+
+  {"video_id": "LmxIp6r1zmw", "start_s": 2650, "claim_id": "eyes-of-understanding-not-enlightened",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Rules out disagreement in advance: those who do not see are described as constitutionally unable to. Belongs with symptoms-do-not-count and feelings-not-required as pre-emptive answers to the obvious objection."},
+
+  {"video_id": "LmxIp6r1zmw", "start_s": 5026, "claim_id": "angels-protect-truth-tellers",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "LmxIp6r1zmw", "start_s": 6351, "claim_id": "minnesota-corruption-uncovered",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "He corrects red states to a blue state mid-sentence and the correction is kept in the mention. Adds the vote as the subject of the exposing, which the claim did not have."},
+
+  {"video_id": "hL9Trl2qb9k", "start_s": 1000, "claim_id": "china-infiltration-through-leaders",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Which country's leaders are being infiltrated is not clear from the passage, so the claim is recorded without one."},
+
+  {"video_id": "hL9Trl2qb9k", "start_s": 1161, "claim_id": "caution-after-one-year",
+   "same_event": "unsure", "delta_type": "no_claim",
+   "note": "A played press exchange, not his words. Attached to the nearest presidential thread; nothing scored."},
+
+  {"video_id": "hL9Trl2qb9k", "start_s": 1967, "claim_id": "february-3-budget",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Seventh thing on the third of February, and the rhyme is the only content: the third will smell like a turd."},
+
+  {"video_id": "hL9Trl2qb9k", "start_s": 1997, "claim_id": "black-swan-event",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Puts a black swan at the Olympic opening and gives the games' correct start date, the 6th. A black swan by definition cannot be specified, so praying over a named one is a category the claim absorbs either way."},
+
+  {"video_id": "hL9Trl2qb9k", "start_s": 2056, "claim_id": "maduro-captured-on-the-third",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A claimed hit that can actually be checked at both ends. The capture date is a matter of record and the prior tellings are in this corpus. The complication he half-notices himself: the earlier tellings pointed at February the third, not January the third. Flagged for the evidence pass."},
+
+  {"video_id": "hL9Trl2qb9k", "start_s": 2261, "claim_id": "volume-turned-down-technology",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Dated to 6 July 2014, which is outside this corpus and cannot be checked here. Note 6 July is also the date he gave for the Pope and Ukraine word, in a different year."},
+
+  {"video_id": "hL9Trl2qb9k", "start_s": 3213, "claim_id": "five-major-shakings",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Names all five domains: earth, politics, the heavens, the church and finances. Between them they cover everything that could happen, so the count adds precision without adding risk."},
+
+  {"video_id": "hL9Trl2qb9k", "start_s": 3266, "claim_id": "turn-youtube-off-find-god",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Cuts against his own interest, telling the audience to turn off the platform and stop consuming prophetic chatter. Recorded because a fair account has to include it."}
+]

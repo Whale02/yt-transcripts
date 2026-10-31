@@ -1,0 +1,964 @@
+[
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 7582,
+  "claim_text": "Praying over churches, cities and schools and over Australia, New Zealand, South Korea, Germany, England, Italy and Rome, he says it is about a shaking of the land and sees major earthquakes.",
+  "quote": "I see earthquakes. Earthquakes. I see earthquakes, major earthquakes",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unclear",
+  "topics": [
+   "earthquake"
+  ],
+  "locations": [
+   "Rome",
+   "Italy",
+   "England",
+   "Germany",
+   "Australia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Major earthquakes in the countries named.",
+  "falsify_miss": "None. Major earthquakes occur somewhere every year, so an unplaced one cannot fail."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 7771,
+  "claim_text": "A cloud the size of a man's hand and the sound of abundance of rain, with rain called in over the Texas Panhandle, Lubbock, El Paso, Mexico, Missouri, Arkansas, Louisiana, Dallas, Oklahoma City, Kansas City and Nebraska.",
+  "quote": "I see the cloud the size of a man's hand",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "rain",
+   "drought"
+  ],
+  "locations": [
+   "Texas",
+   "Missouri",
+   "Oklahoma",
+   "Nebraska",
+   "Kansas"
+  ],
+  "time_phrase": "now",
+  "time_precision": "day",
+  "falsify_match": "Drought-breaking rain across those states.",
+  "falsify_miss": "It stays dry. Naming eleven places makes a partial hit almost certain somewhere."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 33,
+  "claim_text": "The president is in the valley of decision over Cuba, and God gave America the greatest military force in the world on purpose to liberate Iran, Cuba and Venezuela and take away those dictators.",
+  "quote": "I gave the United States of America the greatest military force in the world",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba",
+   "iran",
+   "venezuela"
+  ],
+  "locations": [
+   "Cuba",
+   "Iran",
+   "Venezuela",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "American action removing those governments.",
+  "falsify_miss": "None removed. Three regime changes are claimed together, which raises the bar."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 124,
+  "claim_text": "A great shaking to awaken is coming in America and with the midterms, and he repeats the visions of strategic attacks on gas and petrol plants naming Tuttle, Louisiana and Houston.",
+  "quote": "I saw strategic attacks coming",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "refineries",
+   "midterms"
+  ],
+  "locations": [
+   "Tuttle",
+   "Louisiana",
+   "Houston"
+  ],
+  "time_phrase": "midterms",
+  "time_precision": "month",
+  "falsify_match": "Attacks on American refineries before the November elections.",
+  "falsify_miss": "None. He adds that this is not financial advice, which is unusual framing for a word."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 175,
+  "claim_text": "Sabotage at an oil facility where seven people were completely vaporised and twenty five more left in critical condition nearby, in retaliation for what is happening in Iran.",
+  "quote": "I saw people completely vaporized, seven of them in particular",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "refineries",
+   "casualties"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An American plant explosion killing about seven with about twenty five critical.",
+  "falsify_miss": "No such incident. This is the earliest telling of the exact counts."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 478,
+  "claim_text": "Iran hit a plant holding a third of the world's helium, which affects MRI machines and chips, feeding trade wars over medical supplies where only selective surgeries can be done and patients cannot be put under anaesthesia.",
+  "quote": "That you won't be able to have surgeries. Selective surgeries only",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "helium",
+   "medicine",
+   "surgery"
+  ],
+  "locations": [
+   "Iran",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Elective surgery suspended over anaesthetic or helium supply.",
+  "falsify_miss": "No suspension. He says himself he does not know what would cause the anaesthesia shortage."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 603,
+  "claim_text": "A shortage of medicines concerning certain things that come from China, which he offers as something to pray about while noting similar things in the news.",
+  "quote": "there was a shortage of medicines for some reason",
+  "source_mode": "VISION",
+  "certainty": "hedged",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "medicine",
+   "china"
+  ],
+  "locations": [
+   "China",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Shortages of Chinese-sourced drugs in America.",
+  "falsify_miss": "None. He hedges with for some reason and see in part."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 802,
+  "claim_text": "In the given time frame they will talk about aliens all the time and people will start to see them in the sky as a false flag, and this is how they will explain away the rapture of the church.",
+  "quote": "This is where they're going to explain away the rapture of the church",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "aliens",
+   "rapture"
+  ],
+  "locations": [],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An official non-human explanation offered for mass disappearances.",
+  "falsify_miss": "No disappearances to explain. The claim depends on a prior event that has not occurred."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 845,
+  "claim_text": "He says none of this was happening in 2014 but Jesus told him they would worship on Fridays, points to a New York gathering with the mayor, and says they will all have to wear white clothes and worship Allah and the Mahdi on Fridays.",
+  "quote": "they'll all have to wear white white clothes",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "islam",
+   "tribulation",
+   "new york"
+  ],
+  "locations": [
+   "New York",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Compulsory Friday observance in white in American cities.",
+  "falsify_miss": "None. What he shows is ordinary public prayer, so compulsion and the white clothing are the distinguishing parts."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 893,
+  "claim_text": "He describes the visitation in which Jesus took him out of his body year by year through the tribulation and showed him the Christians who were left, lukewarm and preaching a compromised gospel, and says people told him it would never happen in America.",
+  "quote": "I went from year to year in tribulation",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "tribulation",
+   "visitation"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing directly. It is the provenance he gives for the tribulation material.",
+  "falsify_miss": "Nothing directly. Recorded because it is the source claim behind the Friday worship material."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 983,
+  "claim_text": "He says his first video, now with over a million views, warned of this, and that Jesus said a major revival is about to break forth with one last push, one last call and a harvest of souls.",
+  "quote": "there's a major revival that's about to break forth. One last push",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "revival"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A national religious revival on a visible scale.",
+  "falsify_miss": "None. One last call has been said repeatedly since 2023 without a date."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 1133,
+  "claim_text": "He plays a clip of an official saying the strait is being handled well but it would be good if the countries that use it got involved, since China draws ninety per cent of its energy through it and Japan ninety five.",
+  "quote": "China uses it 90% of their energy",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "hormuz",
+   "china",
+   "japan"
+  ],
+  "locations": [
+   "Strait of Hormuz",
+   "China",
+   "Japan"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Not his claim. A recording he plays.",
+  "falsify_miss": "Not his claim, though he offers it as the news catching up to the Japan word."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 1173,
+  "claim_text": "He points to reports that the explosion when Israel hit the side of the mountain in Iran looks like biological weapons going up in flames, red and orange, and says he told them they had them and had received them from Saddam.",
+  "quote": "Cuz I told you they had them",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "chemical weapons",
+   "iran",
+   "israel"
+  ],
+  "locations": [
+   "Iran",
+   "Israel"
+  ],
+  "time_phrase": "today",
+  "time_precision": "day",
+  "falsify_match": "Confirmation that a chemical or biological stockpile was destroyed there.",
+  "falsify_miss": "The report is retracted or the material is something else. He is reading a possibility as a confirmation."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 1234,
+  "claim_text": "The agent was mustard and a red chemical so deadly it melts the skin and convulses you until your back breaks, held in the middle of a mountain, which they would try to use out of Damascus on Israel in the days ahead.",
+  "quote": "that would cause your skin to melt off and you to convulse",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "chemical weapons",
+   "damascus",
+   "israel"
+  ],
+  "locations": [
+   "Damascus",
+   "Israel",
+   "Iran"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "A chemical attack on Israel originating from Syria.",
+  "falsify_miss": "None. He offers the day's strike as possibly the answer to the prayer, which closes the claim early either way."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 1316,
+  "claim_text": "He reads that the Arab countries met and have officially threatened to join the United States and Israel in the war against Iran.",
+  "quote": "The Arab countries have officially threatened to join",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "arab states",
+   "iran"
+  ],
+  "locations": [
+   "United Arab Emirates",
+   "Iran",
+   "Israel"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Arab states joining the campaign against Iran.",
+  "falsify_miss": "They do not. He notes the meeting was reported as unofficial and not confirmed."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 1358,
+  "claim_text": "The Lord repeatedly told them to watch Cuba, that there would be an attack in the night from there to hit Florida as the dog is backed into a corner, and that it would involve Russia.",
+  "quote": "there would be an attack in the night from them to hit uh Florida",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "cuba",
+   "florida",
+   "russia"
+  ],
+  "locations": [
+   "Cuba",
+   "Florida",
+   "Russia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An attack on Florida launched from Cuba.",
+  "falsify_miss": "None. Cuba has not attacked American territory in its history, which sets the base rate."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 1400,
+  "claim_text": "The Cuban Missile Crisis alliances are being rekindled with a new Cuba and Russia alliance, with submarines and supplies going to Cuba to stop America liberating them, a purple dragon rising three times out of the water and a cylinder marked with a biohazard symbol.",
+  "quote": "I saw submarines. I saw things going to Cuba to aid them",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "cuba",
+   "russia",
+   "submarines"
+  ],
+  "locations": [
+   "Cuba",
+   "Russia"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "Russian naval deployments to Cuba alongside a biological or nuclear component.",
+  "falsify_miss": "None. Russian warships have made port calls in Havana since 2024, which is the weaker version already true."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 1450,
+  "claim_text": "Cuba is tied to the cartel and to Venezuela in a triangle running from Venezuela to Colombia to the Mexican president, and it is a trafficking circle.",
+  "quote": "it was a triangle coming out of it from Venezuela to uh uh Colombia",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cartel",
+   "trafficking"
+  ],
+  "locations": [
+   "Cuba",
+   "Venezuela",
+   "Colombia",
+   "Mexico"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A trafficking network linking those four named states and the Mexican president.",
+  "falsify_miss": "None established. Naming a serving head of state is the checkable part."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 2080,
+  "claim_text": "He says this is the third time the Lord has raised it, that he was told to pray over it again because it is on his heart, and that every time he sees something it means it is getting closer.",
+  "quote": "Every time I see it, it means it's getting closer",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "method"
+  ],
+  "locations": [],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing. A rule about how he reads repetition.",
+  "falsify_miss": "Nothing. Recorded because it means repetition is read as imminence rather than as a word not landing."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 2114,
+  "claim_text": "A major discovery of underground artifacts comes out of earthquakes, and asteroids come in like rockets, everywhere, with one over Europe so loud it burst all the glass out of houses for thousands of miles like a sonic boom.",
+  "quote": "It busted all the glass out of people's houses",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "asteroids",
+   "artifacts"
+  ],
+  "locations": [
+   "Europe",
+   "Utah"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An airburst over Europe breaking windows across a wide area.",
+  "falsify_miss": "None. Chelyabinsk in 2013 did exactly this over Russia, which is the precedent the image draws on."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 2156,
+  "claim_text": "All the glass in the homes and buildings destroyed by the noise, then the same happening more over America and all over Asia, which the Lord says are the signs of a shaking in the heavens.",
+  "quote": "A shaking in the heavens is coming",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "asteroids",
+   "signs"
+  ],
+  "locations": [
+   "United States",
+   "Asia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Repeated damaging airbursts over America and Asia.",
+  "falsify_miss": "None. One damaging airburst per decade worldwide is the historical rate."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 2334,
+  "claim_text": "Water boiling and bubbling all around where the rock hit in the Atlantic with the fish dying as if cooked, and then a major event concerning the sun similar to but not a full eclipse.",
+  "quote": "there was water boiling all around where this rock had hit",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "wormwood",
+   "asteroid",
+   "sun"
+  ],
+  "locations": [
+   "Atlantic Ocean"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An Atlantic impact with mass marine death.",
+  "falsify_miss": "No impact. He says himself he does not know why the water boils."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 3054,
+  "claim_text": "He says he is not a conspiracy theorist but reports seeing Nephilim bloodline lizard people among the royals, and seven different lizard lineages.",
+  "quote": "I said I saw seven different lizard lineages",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "royals",
+   "bloodlines"
+  ],
+  "locations": [
+   "United Kingdom"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing observable.",
+  "falsify_miss": "Nothing observable. He has elsewhere said chameleon rather than reptilian, which is the opposite framing."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 3100,
+  "claim_text": "The seven lineages are in America, the Middle East, Asia and South America, some looking weirder than others, with reptilian bloodlines preserved and chameleon skin worn to hide themselves.",
+  "quote": "they would be able to have a chameleon skin",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "bloodlines"
+  ],
+  "locations": [
+   "United States",
+   "Middle East",
+   "Asia",
+   "South America"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing observable.",
+  "falsify_miss": "Nothing observable. He asks himself whether it is flaky and answers that he says what he sees."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 6237,
+  "claim_text": "A major oil refinery in Israel seen glowing, with tubes and what looks like a storage facility, and lights shining on it.",
+  "quote": "I see a major oil refinery in Israel",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unclear",
+  "topics": [
+   "israel",
+   "refinery"
+  ],
+  "locations": [
+   "Israel"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A strike or fire at an Israeli refinery.",
+  "falsify_miss": "None. Israel has two refineries, at Haifa and Ashdod, so the target set is small enough to check."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 6480,
+  "claim_text": "A strategic move against Venezuela's oil refineries involving Cuba, with targets chosen to retaliate against America, and a dragon with red eyes there.",
+  "quote": "I see a strategic thing against Venezuela's oil",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "venezuela",
+   "oil",
+   "cuba"
+  ],
+  "locations": [
+   "Venezuela",
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Attacks on Venezuelan oil infrastructure.",
+  "falsify_miss": "None. He gives no actor beyond Cuba and the cartel."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 6605,
+  "claim_text": "Strategic drone warfare on the Venezuelan oil facilities by the cartel with Cuba involved, and strategic drone targets in America to come after its oil, similar to what he said about the stadiums.",
+  "quote": "I saw strategic drone warfare on the Venezuelan oil",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "drones",
+   "oil",
+   "venezuela"
+  ],
+  "locations": [
+   "Venezuela",
+   "Cuba",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Drone attacks on oil facilities in Venezuela or America.",
+  "falsify_miss": "None. Drones have been used against refineries in Russia and the Gulf, so the method is established elsewhere."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 7388,
+  "claim_text": "Taiwan, South Korea and China, with China trying to corner the market and a demonic dragon gathering them in like a mother hen bringing in her chickens.",
+  "quote": "I see this this demonic looking dragon trying to bring in his chickens",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "china",
+   "taiwan",
+   "korea"
+  ],
+  "locations": [
+   "Taiwan",
+   "South Korea",
+   "China"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "China drawing those economies into its orbit.",
+  "falsify_miss": "They stay aligned with America. Corner the market is not tied to any product here."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 7442,
+  "claim_text": "The dragon gathers in Taiwan, South Korea and even North Korea, with Kim a social pariah, Russia there and Xi bringing it in now, with Vietnam also seen, devising a plan.",
+  "quote": "I see Ping trying to bring in his now",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "china",
+   "north korea",
+   "asia"
+  ],
+  "locations": [
+   "China",
+   "North Korea",
+   "Russia",
+   "Vietnam"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A bloc forming around China including those states.",
+  "falsify_miss": "None forms. Vietnam and South Korea both have long-standing disputes with China, which cuts against it."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 7590,
+  "claim_text": "Macron, Italy, Germany and the man over England devising a plan wanting Iran to fail and the president gone, making him look stupid over the strait and the oil, saying he made his bed and should lie in it.",
+  "quote": "They want Trump gone. Making him look stupid",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "europe",
+   "trump"
+  ],
+  "locations": [
+   "France",
+   "Italy",
+   "Germany",
+   "England"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "European leaders working openly against the American administration over Iran.",
+  "falsify_miss": "None. He is repeating a public quote about making his bed, which was in the news that week."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 7695,
+  "claim_text": "An undercurrent in Europe and among named American politicians to replace the president, working out how to impeach him or get rid of him before his term is up.",
+  "quote": "How do we get it to get rid of him before his term?",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "impeachment",
+   "politics"
+  ],
+  "locations": [
+   "United States",
+   "Europe"
+  ],
+  "time_phrase": "before his term",
+  "time_precision": "year",
+  "falsify_match": "Impeachment proceedings brought before January 2029.",
+  "falsify_miss": "None brought. Two of the named men are the obvious opposition figures, which is where such a list would start."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 7828,
+  "claim_text": "He sees the Sooner wagon again concerning Japan, and prays the president trusts the right people, takes no counsel from the ungodly and is led by the spirit.",
+  "quote": "I see the Boomer Sooner wagon like OU",
+  "source_mode": "VISION",
+  "certainty": "hedged",
+  "conditionality": "unclear",
+  "topics": [
+   "japan"
+  ],
+  "locations": [
+   "Japan"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Japan moving first on a financial measure.",
+  "falsify_miss": "It does not. The wagon is still not attached to any specific action."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 8023,
+  "claim_text": "A demonic undercurrent of purples around the New York mayor, with New York attacked, a fire, a shaking in New York and civil unrest, and the Statue of Liberty burning, which he says is symbolic.",
+  "quote": "I see the Statue of Liberty burning. And I believe this is symbolic",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "new york",
+   "riots"
+  ],
+  "locations": [
+   "New York"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Fires and civil unrest in New York.",
+  "falsify_miss": "None. He marks the statue as symbolic himself, which removes the sharpest image from the test."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 8092,
+  "claim_text": "In tongues and prayer he says three times that a young man in a hoodie in California is in danger, mentions his hotels, notes he already has security and prays protection over him.",
+  "quote": "The young man is in danger in California with the hoodie",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "protection"
+  ],
+  "locations": [
+   "California"
+  ],
+  "time_phrase": "right now",
+  "time_precision": "day",
+  "falsify_match": "An attempt on a young Californian businessman with hotels.",
+  "falsify_miss": "None. Nobody is named, so the hoodie and the hotels are all there is to match on."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 8702,
+  "claim_text": "A great python trying to choke the nation from the middle, coming up out of the Gulf and wrapping around it, with the Lord asking who will stand in the gap and saying he warned a storm was coming.",
+  "quote": "I see that great big python trying to choke our nation",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "america",
+   "spiritual"
+  ],
+  "locations": [
+   "Gulf of Mexico",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing observable on its own.",
+  "falsify_miss": "Nothing observable. The python is a reading of pressure rather than an event."
+ },
+ {
+  "video_id": "Duk8c34FPC4",
+  "start_s": 8859,
+  "claim_text": "A great dark plan is being plotted because of his obedience in liberating Iran, which is setting up Ezekiel 38 and 39, and Macron will come back as a tyrant because he is a dark man, as is Carney, both puppets of the Antichrist agenda.",
+  "quote": "he will come back as a tyrant in the days ahead",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "macron",
+   "antichrist",
+   "ezekiel"
+  ],
+  "locations": [
+   "France",
+   "Canada",
+   "Iran"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "Macron taking authoritarian powers.",
+  "falsify_miss": "He does not. His term ends in 2027 under a two-term limit."
+ },
+ {
+  "video_id": "vsqXfAy4rxk",
+  "start_s": 118,
+  "claim_text": "Censorship laws come in against First Amendment rights and freedom of speech, happening mostly in Europe, with a lot coming against Elon Musk and the X platform there and in other nations.",
+  "quote": "they would come after Elon Musk and the X platform",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "censorship",
+   "musk"
+  ],
+  "locations": [
+   "Europe",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Further European action against X.",
+  "falsify_miss": "None. EU proceedings against X had been running publicly since 2023, which is the priority problem."
+ },
+ {
+  "video_id": "vsqXfAy4rxk",
+  "start_s": 162,
+  "claim_text": "Lawsuits come against X and Musk over free speech with countries banning it, and a Watergate type scandal comes out against the Republican Party, worse than Nixon, used to derail its momentum.",
+  "quote": "You must pray against a new Watergate like Nixon",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "scandal",
+   "republicans"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "A scandal of that scale breaking against the governing party.",
+  "falsify_miss": "None. Watergate scale is the benchmark he chose, which is high enough to be recognisable."
+ },
+ {
+  "video_id": "vsqXfAy4rxk",
+  "start_s": 208,
+  "claim_text": "A new Monica Lewinsky or Marilyn Monroe type of scandal tries to come out in the White House, which the Lord said specifically to pray against.",
+  "quote": "A new Monica Lewinsky, Marilyn Monroe type of a scandal",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "scandal",
+   "white house"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A sexual scandal involving a senior White House figure.",
+  "falsify_miss": "None. He gives no name, so any such story would be claimed as the match."
+ },
+ {
+  "video_id": "vsqXfAy4rxk",
+  "start_s": 533,
+  "claim_text": "People of integrity with spiritual weight will stand behind the president because of the demonic pressure, including the Cuban leader working witchcraft against him with a photo, and he must be carried across the finish line.",
+  "quote": "this leader of Cuba doing some kind of witchcraft against our president",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "cuba",
+   "witchcraft",
+   "trump"
+  ],
+  "locations": [
+   "Cuba",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing observable beyond the president's own state.",
+  "falsify_miss": "Nothing observable. This is the earliest telling of the photo on the altar."
+ },
+ {
+  "video_id": "vsqXfAy4rxk",
+  "start_s": 620,
+  "claim_text": "God will liberate the ten million plus people of Cuba with a major Holy Ghost and fire revival and will shake the island, and a 5.8 earthquake struck Cuba during their live prayer two nights earlier.",
+  "quote": "there was a 5.8 earthquake when that time frame when we were praying",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba",
+   "earthquake",
+   "revival"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "two nights ago",
+  "time_precision": "day",
+  "falsify_match": "The quake is confirmed at that magnitude and time.",
+  "falsify_miss": "It is not, or eastern Cuba records quakes of that size routinely, which it does."
+ },
+ {
+  "video_id": "vsqXfAy4rxk",
+  "start_s": 667,
+  "claim_text": "The earthquake happened during the live stream at 11:38 while they were interceding, which he takes as the Lord confirming they are on the right road.",
+  "quote": "it's always, you know, confirmation when things like that happen",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "confirmation",
+   "cuba"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "11:38",
+  "time_precision": "day",
+  "falsify_match": "The timing checks against the seismic record.",
+  "falsify_miss": "It does not. Treating a coincident event as confirmation is the pattern worth recording here."
+ },
+ {
+  "video_id": "vsqXfAy4rxk",
+  "start_s": 707,
+  "claim_text": "A major awakening is prayed for in Ireland, Cuba, New Zealand, Australia and South Korea, places he calls lukewarm and dry, and he says the Lord told him he would see these things.",
+  "quote": "Praying for a major awakening to take place in Ireland",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "revival"
+  ],
+  "locations": [
+   "Ireland",
+   "Cuba",
+   "New Zealand",
+   "Australia",
+   "South Korea"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Documented religious revival in those countries.",
+  "falsify_miss": "None. Irish and New Zealand religious observance has been falling for decades, which is the base rate to beat."
+ },
+ {
+  "video_id": "vsqXfAy4rxk",
+  "start_s": 923,
+  "claim_text": "He says he does not agree with everything the Israeli government does but stands for the peace of Jerusalem and believes Israel is God's people, and that he sees a great deal of antisemitism about to rise up in these last days.",
+  "quote": "I see so much anti-Semitism that's about to rise up",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "antisemitism",
+   "israel"
+  ],
+  "locations": [
+   "Israel"
+  ],
+  "time_phrase": "in these last days",
+  "time_precision": "none",
+  "falsify_match": "A further measurable rise in antisemitic incidents.",
+  "falsify_miss": "A fall. Incidents have been at record highs since 2023, so the rise had already happened."
+ },
+ {
+  "video_id": "vsqXfAy4rxk",
+  "start_s": 1011,
+  "claim_text": "A Hitler type spirit tries to rise on these men through hexes and seances held underneath in Berlin with human sacrifice, summoning the Mahdi and the Antichrist spirit, tied to the Pergamon altar and the staff Hitler was infatuated with.",
+  "quote": "They were taking human sacrifice",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "berlin",
+   "occult",
+   "antichrist"
+  ],
+  "locations": [
+   "Berlin",
+   "Germany"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing observable unless such a ritual were exposed.",
+  "falsify_miss": "Nothing observable. The Pergamon altar is a real museum exhibit in Berlin, which is where the image comes from."
+ }
+]

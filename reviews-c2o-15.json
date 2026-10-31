@@ -1,0 +1,20 @@
+{"reviews": [
+ {"video_id": "Ez7SesrR7vs", "start_s": 7101, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "matching an on-screen image to a cloaked figure, with no event attached"},
+ {"video_id": "_FhdsJ8jhsU", "start_s": 444, "claim_id": "jesus-walking-through-europe", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "Jesus knocking through the European villages with the line lengthening"},
+ {"video_id": "_FhdsJ8jhsU", "start_s": 528, "claim_id": "jesus-walking-through-europe", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "the time is late, and the movement extending to South America and Australia"},
+ {"video_id": "_FhdsJ8jhsU", "start_s": 969, "claim_id": "jesus-walking-through-europe", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "broken hinges and missing shingles on the cottages"},
+ {"video_id": "_FhdsJ8jhsU", "start_s": 1004, "claim_id": "jesus-walking-through-europe", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.8, "note": "the clothing detail inside the same vision"},
+ {"video_id": "_FhdsJ8jhsU", "start_s": 1039, "claim_id": "jesus-walking-through-europe", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.8, "note": "the word lederhosen supplied to him in the room, which places the scene in Bavaria after the fact"},
+ {"video_id": "_FhdsJ8jhsU", "start_s": 1162, "claim_id": "jesus-walking-through-europe", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "the flowers turning and bowing along the path"},
+ {"video_id": "_FhdsJ8jhsU", "start_s": 1587, "claim_id": "woe-over-america-and-miami", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "woe to Miami twice, then out to California and Los Angeles like lightning"},
+ {"video_id": "_FhdsJ8jhsU", "start_s": 1801, "claim_id": "east-coast-storm-newyork-to-miami", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the day of sternness, the 24-hour change and the storm over New York"},
+ {"video_id": "_FhdsJ8jhsU", "start_s": 1848, "claim_id": "east-coast-storm-newyork-to-miami", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "the lightning bolt in Manhattan and the storm running down to Miami"},
+ {"video_id": "3-UAs7VAr4Y", "start_s": 989, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "the Plymouth Rock dedication scene, recounted as history"},
+ {"video_id": "3-UAs7VAr4Y", "start_s": 1076, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "a count of professions of faith from the previous stream"},
+ {"video_id": "3-UAs7VAr4Y", "start_s": 1119, "claim_id": "sheep-goat-nations-un", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "America named a sheep nation rather than a goat nation"},
+ {"video_id": "3-UAs7VAr4Y", "start_s": 1816, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.8, "note": "a survey of history shown in vision, with no dated claim extracted"},
+ {"video_id": "3-UAs7VAr4Y", "start_s": 1979, "claim_id": "beast-system-foundation", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.8, "note": "artificial babies and the days of the Nephilim, with no threshold given"},
+ {"video_id": "3-UAs7VAr4Y", "start_s": 4014, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "the Great Wall shown as part of a lesson about time"},
+ {"video_id": "3-UAs7VAr4Y", "start_s": 6382, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "a protection petition drawn from Mark 16"},
+ {"video_id": "3-UAs7VAr4Y", "start_s": 6418, "claim_id": "mexico-president-paid-by-cartels", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the cartel payment allegation against a named serving head of state"}
+]}

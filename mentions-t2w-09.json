@@ -1,0 +1,1067 @@
+{
+ "_note": "Tier 2 batch w09, 20-24 November 2025. The 22 and 23 November streams cover the same glory-wave material twice; both tellings are extracted and assigned to the same claims.",
+ "mentions": [
+  {
+   "video_id": "X8damyf6idc",
+   "start_s": 7264,
+   "claim_text": "Pillars of particular people seen on every continent, including Africa and South America.",
+   "quote": "there were pillars of certain people through every continent",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Africa",
+    "South America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Simultaneous revival movements on several continents.",
+   "falsify_miss": "No such movements."
+  },
+  {
+   "video_id": "X8damyf6idc",
+   "start_s": 7304,
+   "claim_text": "He hears the Ukrainian president saying Trump is turning his back on him, with Macron and others wanting war.",
+   "quote": "Trump's turning his back on me",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "geopolitics"
+   ],
+   "locations": [
+    "Ukraine",
+    "France"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "An open American break with Kyiv while Europe pushes on.",
+   "falsify_miss": "No such break."
+  },
+  {
+   "video_id": "X8damyf6idc",
+   "start_s": 7402,
+   "claim_text": "A plan to take him out and install a proxy government under an elderly man, with an assassination he declines to attribute.",
+   "quote": "I saw them assassinating him and I won't tell you who is",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "geopolitics"
+   ],
+   "locations": [
+    "Ukraine"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "An assassination followed by a proxy government.",
+   "falsify_miss": "Neither occurs."
+  },
+  {
+   "video_id": "X8damyf6idc",
+   "start_s": 7689,
+   "claim_text": "He says a conspiracy will stop being so much a conspiracy, and denies that the answer is Israel.",
+   "quote": "a conspiracy will not become a conspira so much a conspiracy",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A widely dismissed theory confirmed publicly.",
+   "falsify_miss": "None is."
+  },
+  {
+   "video_id": "X8damyf6idc",
+   "start_s": 7897,
+   "claim_text": "They are lying to Trump because their agenda is their Mahdi, making financial agreements with a hidden meaning.",
+   "quote": "what they want is their madi",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion",
+    "geopolitics"
+   ],
+   "locations": [
+    "Saudi Arabia"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "An agreement shown to carry a religious objective concealed from Washington.",
+   "falsify_miss": "No such showing."
+  },
+  {
+   "video_id": "X8damyf6idc",
+   "start_s": 8049,
+   "claim_text": "Viewer questions read out about whether England went to war and about other topics.",
+   "quote": "They're asking about England. Did they go to war?",
+   "source_mode": "OTHER",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "method"
+   ],
+   "locations": [
+    "England"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: questions read from the chat.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "X8damyf6idc",
+   "start_s": 8231,
+   "claim_text": "He is told to look up the 1930 chart of the Great Depression and shows it on screen.",
+   "quote": "The Lord told me to look up 1930 chart",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "economics"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A market path matching the 1930 chart.",
+   "falsify_miss": "No such path."
+  },
+  {
+   "video_id": "XT13k6_dADk",
+   "start_s": 183,
+   "claim_text": "Glory waves arriving with eyes, ears, hands, feet and body parts from the reserves, with creative miracles flowing in Africa.",
+   "quote": "body parts from my reserves are coming UNTO THEE",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion",
+    "health"
+   ],
+   "locations": [
+    "Africa"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Documented creative miracles at scale.",
+   "falsify_miss": "None documented."
+  },
+  {
+   "video_id": "XT13k6_dADk",
+   "start_s": 378,
+   "claim_text": "Eyes of every colour, healings of hearts, livers and intestines, and brand new colons for those who have had them removed.",
+   "quote": "I see brand new colons",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "health"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Medically documented regeneration of removed organs.",
+   "falsify_miss": "None documented."
+  },
+  {
+   "video_id": "XT13k6_dADk",
+   "start_s": 428,
+   "claim_text": "America told to get out of natural thinking, with it happening in Africa like ripe cherries falling off a tree.",
+   "quote": "it's happening like ripe cherries off a",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Africa",
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A reported wave of healings in Africa.",
+   "falsify_miss": "No such wave."
+  },
+  {
+   "video_id": "XT13k6_dADk",
+   "start_s": 476,
+   "claim_text": "Let the Holy Ghost flow through America as he does in Africa, without the traditions of men.",
+   "quote": "LET HIM FLOW ON THROUGH th America",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "United States",
+    "Africa"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: an exhortation about worship style.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "XT13k6_dADk",
+   "start_s": 864,
+   "claim_text": "Taiwan and the edge of China seen, with a glory wave over Africa and over Asia.",
+   "quote": "I see a glory wave just like I'm talking about over Africa",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Taiwan",
+    "China",
+    "Asia",
+    "Africa"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Revival reported across Asia and Africa together.",
+   "falsify_miss": "No such report."
+  },
+  {
+   "video_id": "XT13k6_dADk",
+   "start_s": 967,
+   "claim_text": "A wave of glory going into Japan, North Korea and Taiwan through prayer.",
+   "quote": "it's going into North Korea, it's going into Taiwan",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "prayer_may_avert",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Japan",
+    "North Korea",
+    "Taiwan"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Reported religious movement in those countries.",
+   "falsify_miss": "None reported."
+  },
+  {
+   "video_id": "XT13k6_dADk",
+   "start_s": 1007,
+   "claim_text": "The wave reaching even into eastern Russia, with China and North Korea affected.",
+   "quote": "even over into Russia",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Russia",
+    "China",
+    "North Korea"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Religious movement reported across that region.",
+   "falsify_miss": "None reported."
+  },
+  {
+   "video_id": "XT13k6_dADk",
+   "start_s": 1173,
+   "claim_text": "Times ten: take what happened at Brownsville and magnify it by ten, beyond anything any of them have experienced.",
+   "quote": "Take what happened at Brownsville and magnify it by 10",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A revival recognised as larger than Brownsville.",
+   "falsify_miss": "No such revival."
+  },
+  {
+   "video_id": "XT13k6_dADk",
+   "start_s": 1782,
+   "claim_text": "A girl who will bring heavenly worship like a fragrance, and he says he can see where she lives.",
+   "quote": "she'll bring heavenly worship and it'll be a fragrance unto me",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A previously unknown worship leader rising to prominence.",
+   "falsify_miss": "None does."
+  },
+  {
+   "video_id": "XT13k6_dADk",
+   "start_s": 1822,
+   "claim_text": "Creative ideas coming to people in Canada where the finances are drying up, making it a distribution centre with a well of revival money.",
+   "quote": "You will be a distribution center for creative ideas",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "economics",
+    "religion"
+   ],
+   "locations": [
+    "Canada"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "An identifiable wave of Canadian innovation funding ministry.",
+   "falsify_miss": "No such wave."
+  },
+  {
+   "video_id": "XT13k6_dADk",
+   "start_s": 1873,
+   "claim_text": "A great revival in Arizona among American Indians on tribal land, extending over Mexico and New Mexico.",
+   "quote": "I see a great revival coming in Arizona",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Arizona",
+    "New Mexico",
+    "Mexico"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A reported revival among Native American communities in the southwest.",
+   "falsify_miss": "No such revival."
+  },
+  {
+   "video_id": "XT13k6_dADk",
+   "start_s": 2191,
+   "claim_text": "A pastor will show up in California and there will be a great red wave and a great move of his presence there.",
+   "quote": "a great great move of my presence in California",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion",
+    "politics"
+   ],
+   "locations": [
+    "California"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A revival and a conservative swing in California together.",
+   "falsify_miss": "Neither occurs."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 102,
+   "claim_text": "The subject is the two-state solution and what happens to America if Jerusalem is split under the Saudi crown prince's plan.",
+   "quote": "What will happen to America if we split Jerusalem?",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "geopolitics"
+   ],
+   "locations": [
+    "Jerusalem",
+    "Saudi Arabia",
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A partition of Jerusalem agreed under that plan.",
+   "falsify_miss": "No partition."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 294,
+   "claim_text": "A ten point zero earthquake setting off fault lines from Texarkana up through Tulsa, with six point zero further out.",
+   "quote": "a massive earthquake but it set off fault lines in Tex Arcana",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "natural_disaster"
+   ],
+   "locations": [
+    "Texarkana",
+    "Tulsa"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A great earthquake on that line.",
+   "falsify_miss": "No such earthquake."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 384,
+   "claim_text": "Chinook helicopters flying east toward the Mississippi because supplies could not be brought in by road.",
+   "quote": "the sound of the Chinook helicopters coming in",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "natural_disaster"
+   ],
+   "locations": [
+    "Mississippi"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "An airlift response to a central US disaster.",
+   "falsify_miss": "No such response."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 426,
+   "claim_text": "A lion he is told to pay attention to, on the New York Stock Exchange, with tumbleweeds rolling down the main street.",
+   "quote": "But it was on the New York Stock Exchange",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "markets"
+   ],
+   "locations": [
+    "New York"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A collapse leaving the exchange deserted.",
+   "falsify_miss": "No such collapse."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 469,
+   "claim_text": "America divided and the Mississippi River flowing a different way, which he calls catastrophic.",
+   "quote": "the Mississippi River was flowing different",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "natural_disaster"
+   ],
+   "locations": [
+    "Mississippi"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "The Mississippi's course altered by an earthquake.",
+   "falsify_miss": "It is not."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 561,
+   "claim_text": "Do not divide the land of Israel, because those who bless Israel are blessed and those who curse it are cursed.",
+   "quote": "Do not divide the land of Israel",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion",
+    "geopolitics"
+   ],
+   "locations": [
+    "Israel"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A partition followed by disaster in the country that signed it.",
+   "falsify_miss": "A partition with no such consequence."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 600,
+   "claim_text": "It is catastrophic for America and will happen three days after any president signs such an agreement.",
+   "quote": "it will happen 3 days after you do this",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "natural_disaster"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "three days after",
+   "time_precision": "none",
+   "falsify_match": "A catastrophe within three days of an American president signing a land-division agreement.",
+   "falsify_miss": "Such an agreement signed with nothing following."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 639,
+   "claim_text": "Rebuilding a bridge and the infrastructure afterwards would be something of biblical proportions.",
+   "quote": "it will be uh something of biblical proportions",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "infrastructure"
+   ],
+   "locations": [
+    "Mississippi"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Bridge and infrastructure loss on that scale.",
+   "falsify_miss": "No such loss."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 1704,
+   "claim_text": "He is going to break that well open and a mighty rushing water will come up out of it, and it will come to pass at last.",
+   "quote": "there's going to be come a mighty rushing water",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A visible release of the thing he says has been held back.",
+   "falsify_miss": "unfalsifiable in practice: no threshold given."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 1978,
+   "claim_text": "White t-shirts and children worshipping with a named worship leader, with a major move of God among the youth.",
+   "quote": "I saw the white t-shirts and all the the kids worshiping",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A youth revival at that scale.",
+   "falsify_miss": "No such revival."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 2201,
+   "claim_text": "A great revival among the youth, with what is happening now offered as the first fruits of it.",
+   "quote": "It's the first fruits of it",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A youth movement developing from the current stirrings.",
+   "falsify_miss": "It does not."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 2868,
+   "claim_text": "A YouTuber whose channel is about exposing scammers who steal card details.",
+   "quote": "he has a channel about tha",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "That figure becoming publicly Christian.",
+   "falsify_miss": "He does not."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 3013,
+   "claim_text": "He tells listeners to stop thinking small about whom God can use.",
+   "quote": "Stop thinking so small",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: an exhortation.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 3183,
+   "claim_text": "He says he never stands against Israel, citing the blessing and cursing.",
+   "quote": "I NEVER STAND AGAINST ISRAEL",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Israel"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a statement of his own position.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 5219,
+   "claim_text": "Body parts arriving in the wave from the reserves, before the previous wave has even receded.",
+   "quote": "BODY PARTS FROM M",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "health",
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Documented creative miracles at scale.",
+   "falsify_miss": "None documented."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 5485,
+   "claim_text": "Healings of intestines and new colons, with what the cankerworm ate restored.",
+   "quote": "HE'S GOING TO RESTORE BACK WHAT THE CANKER WORM ATE",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "health"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Medically documented restoration of removed organs.",
+   "falsify_miss": "None documented."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 5535,
+   "claim_text": "It is happening like ripe cherries off a tree, in Africa and in the middle, for those who will believe.",
+   "quote": "It's happening so much in the Middle",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Africa"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A reported wave of healings.",
+   "falsify_miss": "No such wave."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 5584,
+   "claim_text": "Let him flow through South America without the tradition of man, with the waves seen coming.",
+   "quote": "LET HIM FLOW ON THROUGH South America",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "South America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A reported revival across South America.",
+   "falsify_miss": "No such revival."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 6117,
+   "claim_text": "Taken from Africa to Asia, seeing South Korea, Taiwan and the edge of China.",
+   "quote": "I'm seeing Asia. I'm over Asia",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Asia",
+    "South Korea",
+    "Taiwan",
+    "China"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Revival reported across east Asia.",
+   "falsify_miss": "None reported."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 6168,
+   "claim_text": "South Korea will be a hub, with a major pillar of revival springing from it and spreading through China and Vietnam.",
+   "quote": "A major PILLAR OF REVIVAL WILL WILL SPRING FORTH FROM SOUTH Korea",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "South Korea",
+    "China",
+    "Vietnam"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A revival originating in South Korea and spreading.",
+   "falsify_miss": "No such revival."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 6226,
+   "claim_text": "Upon this rock I will build my church, said over South Korea.",
+   "quote": "It's over South Korea",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "South Korea"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "South Korea becoming the centre of a movement.",
+   "falsify_miss": "It does not."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 6297,
+   "claim_text": "As it happens in South Korea it affects Alaska and Hawaii, a tsunami wave of glory, which he calls a hot spot.",
+   "quote": "It has an effect on Alaska",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "South Korea",
+    "Alaska",
+    "Hawaii"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Movement reported in Alaska and Hawaii following one in South Korea.",
+   "falsify_miss": "None reported."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 6588,
+   "claim_text": "Brownsville magnified by ten, with people unable to walk and crawling instead.",
+   "quote": "You've never experienced what's about to happen",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A revival recognised as larger than Brownsville.",
+   "falsify_miss": "No such revival."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 7445,
+   "claim_text": "Canada highlighted, with creative ideas coming where the finances are drying up.",
+   "quote": "Canada, a creative ideas will come",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "economics",
+    "religion"
+   ],
+   "locations": [
+    "Canada"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A wave of Canadian innovation of that kind.",
+   "falsify_miss": "No such wave."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 7599,
+   "claim_text": "A major move among American Indians over Mexico, New Mexico and Arizona, leaking into Colorado.",
+   "quote": "A major move of America of with American Indians",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Mexico",
+    "New Mexico",
+    "Arizona",
+    "Colorado"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A reported revival among tribal communities in the southwest.",
+   "falsify_miss": "No such revival."
+  },
+  {
+   "video_id": "SZg5NjLFZVE",
+   "start_s": 8181,
+   "claim_text": "He asks why the number is ten rather than thirty, sixty or a hundredfold, and says he will show up in California.",
+   "quote": "Father usually goes sevenfold you know 30 60 100fold but 10",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "California"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A revival in California on that scale.",
+   "falsify_miss": "No such revival."
+  },
+  {
+   "video_id": "Ez7SesrR7vs",
+   "start_s": 283,
+   "claim_text": "A big leader concerning the two-state solution and the things that bring about the end, tied to a man at the White House with a trillion.",
+   "quote": "a big leader concerning the two-state solution",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "geopolitics"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A named figure driving a two-state agreement.",
+   "falsify_miss": "None does."
+  },
+  {
+   "video_id": "Ez7SesrR7vs",
+   "start_s": 681,
+   "claim_text": "Cuba and Venezuela named as the two countries the mules are coming from, with alliances into Mexico.",
+   "quote": "mules are coming from there and there is alliances",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "crime"
+   ],
+   "locations": [
+    "Cuba",
+    "Venezuela",
+    "Mexico"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Trafficking networks traced from those countries into Mexico.",
+   "falsify_miss": "They are not."
+  },
+  {
+   "video_id": "Ez7SesrR7vs",
+   "start_s": 914,
+   "claim_text": "Cartel members shown working, which he says is exactly what they saw before the uprising and protesting began.",
+   "quote": "It's exactly what we've been seeing before any of this come out",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "crime"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A prior corpus passage predating the reporting.",
+   "falsify_miss": "No such prior passage."
+  },
+  {
+   "video_id": "Ez7SesrR7vs",
+   "start_s": 1005,
+   "claim_text": "Underground tunnels at the border wall with children coming up through California, and the governor turning his head away.",
+   "quote": "underground tunnels on the border wall with with children",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "crime"
+   ],
+   "locations": [
+    "California"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Tunnels used to move children found under the California border.",
+   "falsify_miss": "None found."
+  },
+  {
+   "video_id": "Ez7SesrR7vs",
+   "start_s": 1443,
+   "claim_text": "A drum heard as a cry to come, where last time it was a horn.",
+   "quote": "it was like a cry to come",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a sound with no reading given.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "Ez7SesrR7vs",
+   "start_s": 1825,
+   "claim_text": "Woe pronounced three times over America and over Miami, after a vision he says changed him.",
+   "quote": "WHOA, WHOA, WHOA, MIAMI",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "United States",
+    "Miami"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A judgment event falling on Miami.",
+   "falsify_miss": "No such event."
+  },
+  {
+   "video_id": "Ez7SesrR7vs",
+   "start_s": 1970,
+   "claim_text": "Millions if not billions of dead fish everywhere, including at Honolulu in Hawaii, then a named technology figure seen.",
+   "quote": "millions, if not billions, of dead fish",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "natural_disaster"
+   ],
+   "locations": [
+    "Hawaii",
+    "Honolulu"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A mass fish die-off on that scale.",
+   "falsify_miss": "No such die-off."
+  },
+  {
+   "video_id": "Ez7SesrR7vs",
+   "start_s": 2254,
+   "claim_text": "They will hide in the caves and ditches and not escape the wrath, for this is the great and terrible day of the Lord.",
+   "quote": "THEY WILL HIDE IN THE CAVES",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: an eschatological scene with no date.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "Ez7SesrR7vs",
+   "start_s": 5430,
+   "claim_text": "Great revival will come to the Roman Catholic Church, including Rome and the Vatican, and they will have true revival.",
+   "quote": "great revival will come to the Roman Catholic Church",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Rome",
+    "Vatican",
+    "Europe"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A recognised revival movement inside the Catholic Church.",
+   "falsify_miss": "No such movement."
+  },
+  {
+   "video_id": "Ez7SesrR7vs",
+   "start_s": 5603,
+   "claim_text": "Bondage seen throughout Europe, running through the priests and the Catholic Church.",
+   "quote": "All throughout Europe is bondage",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Europe"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Further institutional scandal across European churches.",
+   "falsify_miss": "None surfaces."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+[
+ {"claim_id": "times-square-revival",
+  "label": "A great revival in Times Square",
+  "domain": "religion",
+  "description": "New York and Times Square seen with a great revival there, given 13 August 2025 alongside meetings drawing people by the tens of thousands if not hundreds of thousands, and two states highlighted, Tennessee and Kentucky.",
+  "aliases": ["revival in Time Square", "great revival in Times Square"]},
+ {"claim_id": "newyork-uprising-buildings-burn",
+  "label": "An uprising in New York with buildings on fire",
+  "domain": "security",
+  "description": "New York seen again with buildings burning and an uprising in the city. He names David Wilkerson in the same breath, whose 1973 vision of New York burning is the source of the image.",
+  "aliases": ["buildings on fire", "uprising in New York", "David Wilkerson"]},
+ {"claim_id": "gaza-offshore-oil-wealth",
+  "label": "Billions of dollars of oil in the Mediterranean off Gaza",
+  "domain": "finance",
+  "description": "Billions of dollars of oil said to lie in the Mediterranean outside Gaza, offered as the real driver rather than the negotiations. The Gaza Marine field is real and has been discussed publicly for two decades, but the resource there is gas rather than oil.",
+  "aliases": ["oil in the Mediterranean", "outside the Gaza"]}
+]

@@ -1,0 +1,49 @@
+[
+  {"video_id": "LlRONx0fV0A", "start_s": 396, "claim_id": "sooners-asia-first-on-crypto",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He marks the crypto-millionaire part as his own opinion, which is worth keeping separate from the watch the Sooners word itself."},
+
+  {"video_id": "LlRONx0fV0A", "start_s": 439, "claim_id": "iraq-economic-boom",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Unusually checkable for a fulfilment claim: both ends are dated, the word on 11 July and the news on 15 July. Whether the reporting actually postdates the word can be settled from the record."},
+
+  {"video_id": "LlRONx0fV0A", "start_s": 1186, "claim_id": "iraq-economic-boom",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Three corrupt men in the Iraqi central bank, whose hands will be forced. Named institution and a count, so it can be scored. The announcement window belongs to the clip, not to him."},
+
+  {"video_id": "LlRONx0fV0A", "start_s": 1735, "claim_id": "assassins-through-canada-michigan",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Runs against the grain of the corpus: he refuses to count a real arrest as his fulfilment and says outright that it is a distraction and not what he saw. Recorded because that refusal is as much part of his record as the claims he does score."},
+
+  {"video_id": "LlRONx0fV0A", "start_s": 1978, "claim_id": "iran-regime-flip-reza-assassinated",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Two claims share the passage. The Colombian half carries the only date, next month, and is now past due; the Iranian half has none. The Colombia material should be promoted to its own claim once a passage centres on it, rather than seeded here where nothing would be assigned to it."},
+
+  {"video_id": "LlRONx0fV0A", "start_s": 2255, "claim_id": "amendment-challenges",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "An end date at last, over into 2030, and an order of operations: speech first, guns second. The revival under pressure gives the passage a reading that holds even if neither restriction arrives."},
+
+  {"video_id": "LlRONx0fV0A", "start_s": 2429, "claim_id": "battleground-senate-2026",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The tightest form this has taken: three seats, Georgia and Minnesota named. Properly scoreable in November, unlike the Senate passage from two days later that says three incompatible things at once."},
+
+  {"video_id": "LlRONx0fV0A", "start_s": 7131, "claim_id": "seat-of-authority-november",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The flip is conditioned on doing what he has asked, and what that is never gets said in the passage. A loss therefore shows disobedience rather than a miss."},
+
+  {"video_id": "LlRONx0fV0A", "start_s": 7286, "claim_id": "iraq-economic-boom",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "A deadline of the end of the term, January 2029, and the pipeline said to be already half built. The magnitude stays unscoreable because a percentage of what is never stated."},
+
+  {"video_id": "ruV85YYcW1o", "start_s": 233, "claim_id": "trump-health-event",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Poison and a cat-scratch mark added to the cardiac claim, dated to a 18 June word. The effect is that any future illness of an elderly man reads as the hit, since the mechanism is invisible."},
+
+  {"video_id": "ruV85YYcW1o", "start_s": 729, "claim_id": "churches-burned-giant-rises",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "No rate and no threshold, and church fires occur every year in both named places. He does specify that the church he means excludes the charismatics, which is the only narrowing in the passage."},
+
+  {"video_id": "ruV85YYcW1o", "start_s": 836, "claim_id": "agenda-2030",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Joins the burning churches and the Canadian persecution to the 2030 agenda. A standing framework can always be said to be pushed strongly, so nothing here can fail."}
+]

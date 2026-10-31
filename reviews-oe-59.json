@@ -1,0 +1,101 @@
+[
+  {"video_id": "i6g1k3fCWLs", "start_s": 560, "claim_id": "stimulus-adrenaline",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Same shape as the shallow wave in December: good numbers confirm the stimulation, bad ones confirm it was only a rally."},
+
+  {"video_id": "i6g1k3fCWLs", "start_s": 2209, "claim_id": "may-10-something",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The date is guessed aloud rather than given, and he marks it as a guess. Recorded so it is never read later as a word."},
+
+  {"video_id": "i6g1k3fCWLs", "start_s": 2687, "claim_id": "revival-bigger-than-azusa",
+   "same_event": "yes", "delta_type": "elaboration"},
+
+  {"video_id": "i6g1k3fCWLs", "start_s": 3060, "claim_id": "kid-at-christmas-anticipation",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Something big with no content and no date. Filed empty so that if content is attached later, the empty version is on file first."},
+
+  {"video_id": "i6g1k3fCWLs", "start_s": 3781, "claim_id": "parting-middle-of-summer",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The exemption clause again: the devourer eats those around them while they flourish, so loss near the audience confirms rather than counts against."},
+
+  {"video_id": "i6g1k3fCWLs", "start_s": 4840, "claim_id": "anoint-them-while-sleeping",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Softer than the March telling: bless rather than curse, and be thankful you have them to pray for."},
+
+  {"video_id": "i6g1k3fCWLs", "start_s": 5267, "claim_id": "spouse-in-2026-esther",
+   "same_event": "yes", "delta_type": "restatement"},
+
+  {"video_id": "i6g1k3fCWLs", "start_s": 5616, "claim_id": "off-the-medication-truth-frees",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Worth flagging plainly: it questions lifelong medication from the pulpit. He does pair it with getting help rather than replacing it, and the mention says both."},
+
+  {"video_id": "i6g1k3fCWLs", "start_s": 7494, "claim_id": "three-day-healing-window",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Unusually testable for a healing word: one person, one condition, three days. Only that person can report it, which is the limit."},
+
+  {"video_id": "i6g1k3fCWLs", "start_s": 8008, "claim_id": "good-report-at-the-doctor",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Makes a common medical condition a curse to be claimed free of, which puts the burden on the sufferer."},
+
+  {"video_id": "QLk3uWjK0jU", "start_s": 176, "claim_id": "iraq-economic-boom",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Becoming like Saudi Arabia is a comparison rather than a threshold, but buildings and infrastructure are at least visible."},
+
+  {"video_id": "QLk3uWjK0jU", "start_s": 607, "claim_id": "tuttle-louisiana-houston-targets",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He treats a second chemical fire as confirmation and asks whether it is coincidence. Industrial fires at petrochemical sites are common enough that the base rate matters, and the mention says so."},
+
+  {"video_id": "QLk3uWjK0jU", "start_s": 727, "claim_id": "asteroid-2026-hz4",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A real dated close approach offered as fulfilment of a prior sighting of a rock. Small asteroids pass inside satellite orbits regularly, which the passage does not mention. The prior telling is in this corpus; flagged for the evidence pass."},
+
+  {"video_id": "QLk3uWjK0jU", "start_s": 781, "claim_id": "weather-warfare-drought",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The rainfall record is real and dated. The attribution to weather weaponisation is the claim, and it is the part that cannot be shown. Both are kept separate in the mention."},
+
+  {"video_id": "QLk3uWjK0jU", "start_s": 1153, "claim_id": "minnesota-corruption-uncovered",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "He offers a fraud investigation as the fulfilment, which makes this checkable at both ends for the first time in the thread. Eight tellings in, she has still never been named, so matching the investigation to her is the open question."},
+
+  {"video_id": "QLk3uWjK0jU", "start_s": 1516, "claim_id": "sept11-2026-groundzero",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The calendar coincidence is real and checkable: Rosh Hashanah does begin at sundown on 11 September 2026. That is a fact about the calendar rather than a sighting, and the mention says so."},
+
+  {"video_id": "QLk3uWjK0jU", "start_s": 1904, "claim_id": "pressure-of-the-presidency",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "QLk3uWjK0jU", "start_s": 2071, "claim_id": "pressure-of-the-presidency",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Noting the president's age immediately after the pressure material is worth having beside the lives-or-goes-home claim from March. Neither says it outright."},
+
+  {"video_id": "QLk3uWjK0jU", "start_s": 4453, "claim_id": "dont-be-stingy-multiplied",
+   "same_event": "yes", "delta_type": "elaboration"},
+
+  {"video_id": "QLk3uWjK0jU", "start_s": 6741, "claim_id": "wave-all-at-once-may",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Third distinct thing hung on May, after the interest rates and the Fed chair's term. The housing market is the only checkable part."},
+
+  {"video_id": "7FG6qD91nZo", "start_s": 49, "claim_id": "weekly-services-january",
+   "same_event": "unsure", "delta_type": "no_claim",
+   "note": "A greeting. Attached to the service cadence thread; nothing claimed."},
+
+  {"video_id": "7FG6qD91nZo", "start_s": 1177, "claim_id": "quarter-point-stimulate-or-lose",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The 0.25 figure is specific and checkable against published rate decisions, which is rare here. The overheard meeting is not, and the two halves are kept apart in the mention."},
+
+  {"video_id": "7FG6qD91nZo", "start_s": 2152, "claim_id": "devil-instructing-businessmen",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He adds a constraint of his own: Satan can only be in one place at a time, which is an unusual piece of specificity about an unobservable actor."},
+
+  {"video_id": "7FG6qD91nZo", "start_s": 3374, "claim_id": "denver-water-shortage",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A played news report about a real water shortage, not a sighting. Recorded so it is not later read as one."},
+
+  {"video_id": "7FG6qD91nZo", "start_s": 3409, "claim_id": "denver-water-shortage",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The by-next-year forecast is made by the people in the report rather than by him."},
+
+  {"video_id": "7FG6qD91nZo", "start_s": 7583, "claim_id": "passover-april-1-acceleration",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The acceleration now runs from April through September and lands on the same 11 September date as the attack window."}
+]

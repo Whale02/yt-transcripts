@@ -1,0 +1,17 @@
+{"relationships": [
+ {"from_claim":"mideast-us-draft","to_claim":"wwiii-draft-europe","rel_type":"same_event_as","asserted_by":"system",
+  "note":"Our inference: the 2026 draft claim and the 2023 draft claim look like the same event seen twice, but he never links them, so this stays a system edge."},
+ {"from_claim":"grid-cyberattack","to_claim":"faa-cyberattack","rel_type":"co_occurs_with","asserted_by":"system",
+  "note":"Both are cyber attacks on US infrastructure in the same period; he does not connect them."},
+ {"from_claim":"stimulus-adrenaline","to_claim":"golden-age-2027","rel_type":"precedes","asserted_by":"brandon",
+  "evidence_video":"UAPYhpm_sX0","evidence_start_s":43,
+  "note":"He states the stimulus is what will be marketed as the digital golden age."},
+ {"from_claim":"golden-age-2027","to_claim":"crash-1930s","rel_type":"precedes","asserted_by":"brandon",
+  "evidence_video":"-Z-oPJQyOeU","evidence_start_s":3667,
+  "note":"2027 good, 2028 bad: he puts the good window immediately before the downturn."},
+ {"from_claim":"reprieve-window-2026","to_claim":"golden-age-2027","rel_type":"precedes","asserted_by":"brandon",
+  "evidence_video":"WCSr1gn7mlM","evidence_start_s":450,
+  "note":"The reprieve is the run-up to the year he calls the golden age."},
+ {"from_claim":"israel-night-attack","to_claim":"mideast-us-draft","rel_type":"triggers","asserted_by":"system",
+  "note":"Our inference about sequence; he narrates both but does not assert the causal link."}
+]}

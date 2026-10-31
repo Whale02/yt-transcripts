@@ -1,0 +1,7 @@
+{"evidence": [
+ {"claim_id": "egg-price-spike", "observed_on": "2023-01-31",
+  "source_url": "https://usafacts.org/articles/is-the-bird-flu-impacting-egg-prices/",
+  "summary": "US egg prices more than doubled from early 2022 to a peak of $4.82 a dozen in January 2023, a record at the time, driven by an avian influenza outbreak that killed or depopulated more than 43 million laying hens from February 2022.",
+  "state": "PARTIAL_MATCH",
+  "rationale": "The stated outcome landed: chickens became expensive and eggs hard to get, exactly as he described. Two things hold it to partial rather than strong. The timing was off by five years, which he reports himself: given in 2018, he had written it off as a miss, bought twenty chickens on it, and apologised to his wife before it happened in 2023. And the claim carried no date, no magnitude and no cause, so any egg price spike in any year would have satisfied it. This is the single most useful calibration point in the database, because it is his own worked example of how far his timing can drift on a claim that eventually lands."}
+]}

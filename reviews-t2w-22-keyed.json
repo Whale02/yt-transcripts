@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "c69a8970c6e48d78",
+"claim_id": "england-new-year-darkness",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "he rules out a terrorist attack himself and attributes the darkness to the King, which narrows the claim"
+},
+{
+"mention_id": "3c8d7af935297d7a",
+"claim_id": "gaza-offshore-oil-wealth",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "he corrects his own earlier word from gulf to Mediterranean"
+},
+{
+"mention_id": "c4fc6bf493241a7c",
+"claim_id": "gaza-offshore-oil-wealth",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the four year window and the giant produce"
+},
+{
+"mention_id": "c9b3514805df7226",
+"claim_id": "religious-freedom-restored",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "given the week of the election"
+},
+{
+"mention_id": "ec4206fcf592b1b9",
+"claim_id": "next-virus-engineered-in-a-lab",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "Europe named as the origin rather than China"
+},
+{
+"mention_id": "b55967c9fa251f53",
+"claim_id": "twenty-days-prayer-for-his-salvation",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "a dated window with no named subject"
+},
+{
+"mention_id": "655fdde4ab1f30dd",
+"claim_id": "cuba-cold-war",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the alliances said to have formed behind the curtain over four years"
+},
+{
+"mention_id": "3cc909d6c760393e",
+"claim_id": "gaza-offshore-oil-wealth",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the twenty four and two hundred and forty billion figures, and one company"
+},
+{
+"mention_id": "095e523f4820e0ed",
+"claim_id": "great-humbling-of-america",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.8,
+"note": "a year or two, posed as a question; now set under the blessing umbrella"
+},
+{
+"mention_id": "e0782f2a6f6f4b35",
+"claim_id": "europe-wants-war-for-economies",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "false flags blaming Russia named as the method, nine months before the fuller telling"
+},
+{
+"mention_id": "4596db66f87bd833",
+"claim_id": "cuba-russian-base",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "secret things stationed there, with four years of quiet alliance building"
+},
+{
+"mention_id": "3ae710ed3df63bd1",
+"claim_id": "demonic-octopus-europe",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "a tentacle from Syria and Turkey into Egypt"
+},
+{
+"mention_id": "b3adaf5fd493438d",
+"claim_id": "europe-wants-war-for-economies",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "desperation to keep America in as it draws back"
+},
+{
+"mention_id": "637383c34fab5536",
+"claim_id": "warsaw-ww3-trigger",
+"same_event": "unsure",
+"delta_type": "location_update",
+"confidence": 0.45,
+"note": "a nation above Ukraine beginning with B, which he cannot name; Bulgaria is not above Ukraine, and he asks for help identifying it"
+},
+{
+"mention_id": "803ce8941e475e6d",
+"claim_id": "trudeau-two-faced",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the earliest telling, 10 November 2024, with Mexico in panic alongside"
+},
+{
+"mention_id": "fbbbe72f07822584",
+"claim_id": "cuba-cold-war",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Cuba highlighted with the missile crisis heard again"
+},
+{
+"mention_id": "afc8bfdf5c0b06a9",
+"claim_id": "china-attacks-hawaii",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Taiwan and Venezuelan oil in the same breath"
+},
+{
+"mention_id": "8b805f32c58dcb9e",
+"claim_id": "gaza-offshore-oil-wealth",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "deep wells springing up outside Israel, with Israel standing alone but glowing"
+},
+{
+"mention_id": "34c8494da6442363",
+"claim_id": "dome-over-america-blessing-israel",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the two administrations moving as one"
+},
+{
+"mention_id": "c20bceca2308e260",
+"claim_id": "dome-over-america-blessing-israel",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "a stronger covenant with no back room strongarming"
+},
+{
+"mention_id": "b4f4473a3be2bbe5",
+"claim_id": "dome-over-america-blessing-israel",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the condition stated plainly; it also makes any bad outcome attributable to failing it"
+},
+{
+"mention_id": "64ebf88e5a1cde9c",
+"claim_id": "dome-over-america-blessing-israel",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "everything will be all right, conditioned on the alignment"
+},
+{
+"mention_id": "e8c31f3fa7e10eb1",
+"claim_id": "financial-storm-averted-prayer",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "lessening rather than averting; a lessened crash cannot be measured against one that never comes"
+},
+{
+"mention_id": "e29df978e34ab9a1",
+"claim_id": "dome-over-america-blessing-israel",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the hostile alliances losing air like a balloon"
+},
+{
+"mention_id": "cac233bfc47219c9",
+"claim_id": "gaza-offshore-oil-wealth",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "he corrects the figure upward from twenty five to two hundred and fifty billion mid-sentence"
+},
+{
+"mention_id": "7304fe1d700c7cc2",
+"claim_id": "divine-protection-trump",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the glow and the covering, with others working to escalate Europe"
+},
+{
+"mention_id": "f51d032a9165603e",
+"claim_id": "reprieve-four-years",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "four years in which things can be turned, three weeks before the fuller telling"
+},
+{
+"mention_id": "86f543fc2774b70d",
+"claim_id": "virus-plot-defused",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "authority taken so it will not be released; a non-release is what the claim predicts"
+},
+{
+"mention_id": "b49bb323156425ff",
+"claim_id": "europe-wants-war-for-economies",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "France named, and the Israel-Iran escalation called short lived"
+},
+{
+"mention_id": "761a5f6b8f6ffbd0",
+"claim_id": "unconventional-weapons",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "weaker than they appear but holding evil weapons"
+},
+{
+"mention_id": "f66b52dbdf1dbdd6",
+"claim_id": "two-forks-tried-versus-god",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the structure means either outcome confirms the vision, and that is the point worth recording"
+},
+{
+"mention_id": "c2fc356230ba7bbe",
+"claim_id": "second-virus-lockdown",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "a dream, with the announcement made from the White House and Europe as the origin"
+},
+{
+"mention_id": "c4530c11b713c658",
+"claim_id": "travel-shutdown-in-plague",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "international flights halted and a lockdown of some twenty days"
+},
+{
+"mention_id": "856ff02533314778",
+"claim_id": "trump-bullet-by-the-ear",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.9,
+"note": "the same July recording republished on 8 November, three days after the election"
+},
+{
+"mention_id": "47a85102f2fe0015",
+"claim_id": "oval-office-prayer-glory",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the same recording"
+},
+{
+"mention_id": "18658486b83cbe2c",
+"claim_id": "shaking-to-the-waking",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the same recording"
+},
+{
+"mention_id": "97e0c94da5789355",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "teaching on handling criticism"
+},
+{
+"mention_id": "0b9a245204586f02",
+"claim_id": "no-plague-no-dollar-collapse-prayer",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "a biological attack prayed against by name"
+},
+{
+"mention_id": "d8ec9513c72af0f0",
+"claim_id": "asia-revival",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "Vietnam added"
+},
+{
+"mention_id": "b1ea1e70a11816fa",
+"claim_id": "global-revival-continents",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "Mexico, Guatemala, Panama and Brazil named"
+},
+{
+"mention_id": "7af8d6d725c1916f",
+"claim_id": "prayer-can-stop-it",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "he says he knows what he saw but believes it can be turned; the framing absorbs either outcome"
+},
+{
+"mention_id": "444b3d9e42bb0b62",
+"claim_id": "celebrities-flee-america",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the Diddy case named as the connection"
+},
+{
+"mention_id": "6f6032ec39662452",
+"claim_id": "divine-protection-trump",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the cabinet picks prayed over two days after the result"
+},
+{
+"mention_id": "bc7eb3ad21167ef5",
+"claim_id": "plague-350m",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "restated as still coming, alongside a post-election crash that did not arrive"
+},
+{
+"mention_id": "90d8cb7347f52a23",
+"claim_id": "greatest-harvest-of-souls",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "centred on Israel rather than America, with the 350 million of 8 billion framing"
+},
+{
+"mention_id": "b49d76ebd46773f2",
+"claim_id": "red-wave-2024",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the Michigan call asserted two days after the result; no earlier telling has surfaced in the archive"
+},
+{
+"mention_id": "0a59ef07dac2fc22",
+"claim_id": "reprieve-four-years",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the earliest telling, 5 November 2024, as one last push before the return"
+},
+{
+"mention_id": "bdae1a97ab4a3a35",
+"claim_id": "revival-hotspots-oklahoma-texas",
+"same_event": "unsure",
+"delta_type": "location_update",
+"confidence": 0.5,
+"note": "Houston named three times with the latter house line; whether this is the hotspots word is not stated"
+},
+{
+"mention_id": "3513c2811f2b32b9",
+"claim_id": "plague-350m",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "the 30 million American figure and people falling like gnats"
+},
+{
+"mention_id": "e6bb896164def74b",
+"claim_id": "red-wave-2024",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "declared in prayer two days before the vote rather than given long in advance"
+},
+{
+"mention_id": "e4b9b958ca224f60",
+"claim_id": "red-wave-2024",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "the Carolinas and Virginia named"
+},
+{
+"mention_id": "3d64ab6f7e385204",
+"claim_id": "africa-revival",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "top to bottom and east to west"
+},
+{
+"mention_id": "a4878ab73391b3f7",
+"claim_id": "africa-revival",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "extended over the Middle East, Europe and Russia"
+},
+{
+"mention_id": "0fe3cba84d2241ff",
+"claim_id": "religious-freedom-restored",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the Great Awakening extended to Europe"
+},
+{
+"mention_id": "372da736a2e1a4c5",
+"claim_id": "extended-time-grant",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the decision made and more time allowed, with great revival in the first year of the term"
+}
+]
+}

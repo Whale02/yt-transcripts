@@ -1,0 +1,49 @@
+[
+  {"video_id": "Mq0qQJkoWcg", "start_s": 792, "claim_id": "satellite-earthquake-weapons",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The mechanism is not something any public source could confirm or deny, and the October marker attaches to the footage rather than to the weapon. Unreachable in both directions."},
+
+  {"video_id": "Mq0qQJkoWcg", "start_s": 2685, "claim_id": "drone-attack-derail-elections",
+   "same_event": "yes", "delta_type": "exact_repeat",
+   "note": "Word-for-word restatement of the passage recorded from 13 July, which places the original here on 4 July. Useful only for dating."},
+
+  {"video_id": "Mq0qQJkoWcg", "start_s": 5348, "claim_id": "salvation-tally-2025",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "Nothing forecast, but the attendance figure is stated on a platform that publishes its own counts, so it is one of the few quantities here checkable directly against an outside source."},
+
+  {"video_id": "Mq0qQJkoWcg", "start_s": 5729, "claim_id": "salvation-tally-2025",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Twenty-nine on 4 July. These daily figures accumulate across the corpus and can be summed against the totals he gives elsewhere, which is a real internal consistency check."},
+
+  {"video_id": "4GiaXApc3SQ", "start_s": 0, "claim_id": "july4-250th-parades",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "An opening with nothing claimed. Recorded because the passage is separately indexed."},
+
+  {"video_id": "4GiaXApc3SQ", "start_s": 1141, "claim_id": "church-cleansing",
+   "same_event": "unsure", "delta_type": "timing_update",
+   "note": "Fifth timing for the cleansing, and the end date is worked out on air by trial and error: December, then June, then January. Elders going home is satisfied by ordinary mortality among older ministers."},
+
+  {"video_id": "4GiaXApc3SQ", "start_s": 2010, "claim_id": "spiritual-stretch-marks",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "An exhortation with no stated outcome. Recorded for completeness."},
+
+  {"video_id": "4GiaXApc3SQ", "start_s": 2511, "claim_id": "watergate-2028",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "A mole turning on Vance, and Rubio and Donalds having to act. Three named living people inside a two-year window makes this among the more checkable political claims in the corpus."},
+
+  {"video_id": "4GiaXApc3SQ", "start_s": 2752, "claim_id": "great-darkness-2026-exposing",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Every plot uncovered anywhere counts toward this and none uncovered counts against it, since the declaration names no target and sets no end date."},
+
+  {"video_id": "4GiaXApc3SQ", "start_s": 2975, "claim_id": "trump-wealth-doubling",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He asks himself whether the building is real and answers that it is a metaphor, so the image cannot fail on its own terms. The two billion is a public figure, and whether it represents a doubling can be checked against prior estimates."},
+
+  {"video_id": "4GiaXApc3SQ", "start_s": 3005, "claim_id": "chips-back-from-taiwan-two-years",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A hard two-year deadline on a measurable industrial quantity, which makes it properly scoreable. It also cuts against the Taiwan invasion claims: dependence removed changes what an invasion costs."},
+
+  {"video_id": "CoXY2EJ5oDA", "start_s": 2073, "claim_id": "watergate-2028",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Both outcomes of a vote are covered in one sentence: not enough to impeach, but enough to keep him out. The hedge is stated outright rather than left implicit."}
+]

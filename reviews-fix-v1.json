@@ -1,0 +1,28 @@
+{
+  "reviews": [
+    {
+      "video_id": "wUNztkdwhXE",
+      "start_s": 145,
+      "claim_id": "euro-trouble",
+      "same_event": "yes",
+      "delta_type": "first_mention",
+      "note": "Moved off the famine thread, where a lexical guess had put it and where its 2023 due date was wrongly driving that claim's expiry."
+    },
+    {
+      "video_id": "wP9qZYC_Cv4",
+      "start_s": 1571,
+      "claim_id": "tsa-thanksgiving-attack",
+      "same_event": "yes",
+      "delta_type": "first_mention",
+      "note": "Moved off the screening claim: an attack on aviation security is a different event from screening spreading into everyday life."
+    },
+    {
+      "video_id": "ahtOXFdUWsc",
+      "start_s": 1949,
+      "claim_id": null,
+      "same_event": "no",
+      "delta_type": "new_event",
+      "note": "Water storage is an instruction, not the famine forecast. Unassigned rather than left to inflate that thread."
+    }
+  ]
+}

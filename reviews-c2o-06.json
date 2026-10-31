@@ -1,0 +1,19 @@
+{"reviews": [
+ {"video_id": "OV3ZwMnZc6o", "start_s": 1588, "claim_id": "turkey-turns-back", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.85, "note": "Turkey getting heavily involved as war escalates in Israel and Europe"},
+ {"video_id": "OV3ZwMnZc6o", "start_s": 2528, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "a petition for outpouring on every continent"},
+ {"video_id": "giyQsMPVfsI", "start_s": 203, "claim_id": "drone-swarms-worldwide", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the swarms of bees image and the seven named regions"},
+ {"video_id": "giyQsMPVfsI", "start_s": 280, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "the Paul Revere comparison, describing his own role"},
+ {"video_id": "giyQsMPVfsI", "start_s": 2338, "claim_id": "ezekiel-38-turkey", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.85, "note": "wars and rumours leading into Ezekiel 38 and 39"},
+ {"video_id": "giyQsMPVfsI", "start_s": 2380, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "a petition naming six Asian countries with no measure"},
+ {"video_id": "giyQsMPVfsI", "start_s": 2539, "claim_id": "korea-revival-spreads-north", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "South Korean revival spreading into North Korea, with angel armies"},
+ {"video_id": "giyQsMPVfsI", "start_s": 2650, "claim_id": "korea-revival-spreads-north", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "the dead raised and an arm growing out, which are the checkable examples"},
+ {"video_id": "giyQsMPVfsI", "start_s": 2695, "claim_id": "global-revival-continents", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.8, "note": "Puerto Rico, Cuba and Haiti added, with voodoo and oppression pushed back"},
+ {"video_id": "f9p4n0Rd0Tk", "start_s": 473, "claim_id": "crash-1930s", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "the crash said to be planned on purpose to sabotage the incoming agenda, inside the four-year window"},
+ {"video_id": "f9p4n0Rd0Tk", "start_s": 1040, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "a protection petition over the president and his children"},
+ {"video_id": "T3Er0gUSNLU", "start_s": 257, "claim_id": "revival-hotspots-oklahoma-texas", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "central Oklahoma, Texas and the end time portal claim relayed from another minister"},
+ {"video_id": "5rXtqqYsNXI", "start_s": 478, "claim_id": "damascus-suitcase-bomb", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the suitcase bomb seen the day after Assad fled"},
+ {"video_id": "T3Er0gUSNLU", "start_s": 660, "claim_id": "judgment-house-first-2027", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.85, "note": "judgment beginning in the house of the Lord, said to be happening now"},
+ {"video_id": "T3Er0gUSNLU", "start_s": 781, "claim_id": "revival-hotspots-oklahoma-texas", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "the van from Mexico City to Oklahoma, which is the checkable detail"},
+ {"video_id": "5rXtqqYsNXI", "start_s": 1179, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "a petition over conflicts already under way"},
+ {"video_id": "5rXtqqYsNXI", "start_s": 1831, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "a petition drawn from Acts 5 on shadows healing"}
+]}

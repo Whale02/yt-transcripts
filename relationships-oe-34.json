@@ -1,0 +1,9 @@
+{"relationships":[
+{"from_claim":"scandal-lanced-2028-run","to_claim":"vance-honeytrap-warning","rel_type":"same_event_as","asserted_by":"system",
+ "note":"Told a day apart, both a sexual or personal scandal aimed at a 2028 run, neither naming the man. Likely one thing; he does not say so, so both stay."},
+{"from_claim":"finances-and-church-shaking","to_claim":"tribulation-birthing-pains","rel_type":"related_to","asserted_by":"brandon",
+ "evidence_video":"Iug2hksEpUo","evidence_start_s":828,
+ "note":"He supplies the labour pains image himself, tying the back-to-back shakings to the birthing-pains frame."},
+{"from_claim":"calling-things-that-be-not","to_claim":"vision-is-a-prayer-target","rel_type":"related_to","asserted_by":"system",
+ "note":"The two mechanisms that carry the corpus: a sight is given to be prayed against, and a declaration is treated as already accomplished. Between them almost nothing can fail."}
+]}

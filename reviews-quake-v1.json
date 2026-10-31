@@ -1,0 +1,11 @@
+{"reviews": [
+ {"video_id":"FHxJpX0PLPI","start_s":1417,"claim_id":"okinawa-july-shaking","same_event":"yes","delta_type":"first_mention",
+  "note":"One of the few month-specific claims in the corpus, made 27 June 2026 for July 2026. Now past due and scoreable."},
+ {"video_id":"Nbb5gUwTSE0","start_s":2155,"claim_id":"unconventional-weapons","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"Nbb5gUwTSE0","start_s":2263,"claim_id":"unconventional-weapons","same_event":"yes","delta_type":"new_detail",
+  "note":"Adds the Cuban bioweapon and the man-made earthquake assertion."},
+ {"video_id":"Nbb5gUwTSE0","start_s":2701,"claim_id":"temple-quakes","same_event":"unsure","confidence":0.4,"delta_type":"restatement",
+  "note":"Points at a 5.3 in eastern Asia as confirmation. Weak: quakes of that size are routine there, so it cannot raise confidence."},
+ {"video_id":"Nbb5gUwTSE0","start_s":4321,"claim_id":null,"same_event":"no","delta_type":"new_event",
+  "note":"Silence before the storm, with no place, magnitude or window. Recorded, unassigned, unscoreable."}
+]}

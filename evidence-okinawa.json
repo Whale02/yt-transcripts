@@ -1,0 +1,10 @@
+{"evidence": [
+ {"claim_id": "okinawa-july-shaking", "observed_on": "2026-07-03",
+  "source_url": "https://sana.sy/en/international/2327010/",
+  "summary": "A magnitude 6.4 earthquake struck off Okinawa Prefecture northwest of Miyakojima on 3 July 2026, six days after the claim was made."},
+ {"claim_id": "okinawa-july-shaking", "observed_on": "2026-07-28",
+  "source_url": "https://en.wikipedia.org/wiki/2026_Kumamoto_earthquake",
+  "summary": "A magnitude 6.8 earthquake struck Kumamoto Prefecture on 28 July 2026, killing at least 38 people and injuring more than 368.",
+  "state": "PARTIAL_MATCH",
+  "rationale": "Said on 27 June 2026, naming Okinawa and the month of July. A magnitude 6.4 struck off Okinawa on 3 July and a deadly 6.8 hit Kumamoto on 28 July, so the named place and named month both landed, which makes this the most specific hit in the database so far. Held to partial rather than strong on three counts: the Okinawa region records several magnitude 5 events a year so the base rate is not negligible, the volcano he said would go off and be seen did not erupt, and the accompanying shaking of our nation with a crater has no matching US event."}
+]}

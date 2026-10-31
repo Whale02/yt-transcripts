@@ -1,0 +1,85 @@
+{"_note": "Job B batch 1. Every row is a reader judgment: either the claim the assertion points back at, or a demotion because the cue fired on something that is not an assertion that a word landed. Two rows are held back for a seeding pass, because the word he points at is not yet a canonical claim.",
+ "links": [
+ {"fa_id": 19513, "claim_id": "golden-age-2027",
+  "points_back_to": "the window he says was given, which he expects others to call a golden age",
+  "claimed_event_on": "2026-08-21", "real_event": "The current financial window, offered as the thing he saw."},
+
+ {"fa_id": 19790, "strength": "weak", "claim_id": null,
+  "points_back_to": "not an assertion that a word landed: he is recounting a vision of the glory, in the future tense, and the cue fired on the recounting"},
+
+ {"fa_id": 21005, "strength": "weak", "claim_id": null,
+  "points_back_to": "not an assertion that a word landed: a restatement of the migration vision, still forward-looking"},
+
+ {"fa_id": 20829, "claim_id": "sonic-boom-breaks-glass",
+  "points_back_to": "the sonic boom he saw breaking glass out of houses and cars, running from California across America",
+  "claimed_event_on": "2026-08-16", "real_event": "A boom event he calls similar but which caused no damage, which he says himself."},
+
+ {"fa_id": 17437, "strength": "weak", "claim_id": null,
+  "points_back_to": "not a prophecy at all: a personal instruction about not letting people have constant access to him"},
+
+ {"fa_id": 17335, "strength": "weak", "claim_id": null,
+  "points_back_to": "the opposite of a fulfilment claim: he is correcting people who thought he prophesied the Clarity Act would pass before the election, and says he did not"},
+
+ {"fa_id": 17336, "strength": "weak", "claim_id": null,
+  "points_back_to": "not an assertion that a word landed: he is describing the rocket-and-rope vision as he received it"},
+
+ {"fa_id": 17344, "claim_id": "beast-system-foundation",
+  "points_back_to": "a 2014 word to watch Starlink, now read as satellites carrying the beast system",
+  "claimed_event_on": "2026-08-09", "real_event": "Reported Starlink revenue growth, offered as the satellites being put to that use."},
+
+ {"fa_id": 17580, "claim_id": "wealth-transfer-window",
+  "points_back_to": "the word that the wave would break, with the asset that fell left unnamed in the telling",
+  "claimed_event_on": "2026-08-05", "real_event": "Something he says fell like a tumbleweed two days after he called for prayer over it."},
+
+ {"fa_id": 17593, "claim_id": "poland-war-spread",
+  "points_back_to": "his word that the war would go to Poland",
+  "claimed_event_on": "2026-08-07", "real_event": "Warsaw warning that Russia may use captured Ukrainian drones against Poland."},
+
+ {"fa_id": 17729, "strength": "weak", "claim_id": null,
+  "points_back_to": "he says explicitly it is not here now and that the merge is in the days ahead, so this is a restatement rather than a fulfilment"},
+
+ {"fa_id": 17355, "claim_id": "woolly-mammoth-deextinction",
+  "points_back_to": "the word that they would de-extinct a woolly mammoth, with a sabre-tooth tiger to follow",
+  "claimed_event_on": "2026-08-01", "real_event": "A news item on AI-assisted de-extinction work using preserved blood and follicles."},
+
+ {"fa_id": 17357, "strength": "weak", "claim_id": null,
+  "points_back_to": "a statement about method rather than fulfilment: he says he reports exactly what he saw, adding and omitting nothing"},
+
+ {"fa_id": 17291, "claim_id": "antisemitism-peak",
+  "points_back_to": "a January word that great antisemitism would rise",
+  "claimed_event_on": "2026-07-30", "real_event": "Reporting of the largest recorded rise in antisemitism in the United Kingdom."},
+
+ {"fa_id": 17293, "claim_id": "harris-2028-rebrand",
+  "points_back_to": "the word to watch Kamala Harris rebrand and take a more communist stance",
+  "claimed_event_on": "2026-07-30", "real_event": "Reporting that Harris is preparing another presidential run in 2028."},
+
+ {"fa_id": 17294, "claim_id": "harris-2028-rebrand",
+  "points_back_to": "the same rebrand word, restated a minute later in the same broadcast",
+  "claimed_event_on": "2026-07-30", "real_event": "The same reporting of a 2028 Harris run."},
+
+ {"fa_id": 17895, "claim_id": "faa-cyberattack",
+  "points_back_to": "his word about cyber attacks against the FAA",
+  "claimed_event_on": "2026-07-29", "real_event": "American Airlines resuming flights after an FAA-advised outage."},
+
+ {"fa_id": 17907, "claim_id": "iraq-economic-boom",
+  "points_back_to": "the word to watch Iraq, which he says would become like Saudi Arabia",
+  "claimed_event_on": "2026-07-29", "real_event": "Coverage of a figure making the rounds in Iraq over money and development."},
+
+ {"fa_id": 18805, "strength": "weak", "claim_id": null,
+  "points_back_to": "the words are Trump's in a clip being played about finishing the ballroom on time, not his own; a clip he plays is not a claim he makes"},
+
+ {"fa_id": 18005, "claim_id": "mideast-us-draft",
+  "points_back_to": "the draft he says he saw before it was in the news and before this administration",
+  "claimed_event_on": "2026-07-25", "real_event": "Reporting of a US computer simulation of a national manpower mobilisation and automatic registration of men 18 to 26 from December."},
+
+ {"fa_id": 18006, "claim_id": "mideast-us-draft",
+  "points_back_to": "the same draft word, with the uprising he saw attached to it",
+  "claimed_event_on": "2026-07-25", "real_event": "The same mobilisation simulation reporting."},
+
+ {"fa_id": 19423, "strength": "weak", "claim_id": null,
+  "points_back_to": "a discourse marker restating his standing doctrine that war, famine, disease and destruction follow a nation refusing to turn back, in the future tense"},
+
+ {"fa_id": 17975, "claim_id": "beast-system-foundation",
+  "points_back_to": "the word that Starlink would carry the system, here applied to Iraq",
+  "claimed_event_on": "2026-07-20", "real_event": "Starlink assigning local Iraqi IP addresses to users in Iraq."}
+]}

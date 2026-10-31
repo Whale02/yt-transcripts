@@ -1,0 +1,8 @@
+{"relationships":[
+{"from_claim":"more-than-a-conqueror-overflow","to_claim":"calling-things-that-be-not","rel_type":"related_to","asserted_by":"system",
+ "note":"The declaration mechanism applied to money: the account is said to overflow as the means of making it so."},
+{"from_claim":"pope-leo-olympics-window","to_claim":"olympics-opening-ceremony-watch","rel_type":"related_to","asserted_by":"system",
+ "note":"Same window and the same wrong anchor date, February the 3rd, for games that open on the 6th. The pope material is only in one of them, so they are linked rather than merged."},
+{"from_claim":"lose-midterm-without-prayer","to_claim":"stalemate-government-2026","rel_type":"related_to","asserted_by":"system",
+ "note":"The loss he warns of and the stalemate he says he saw are told in the same week and point the same way."}
+]}

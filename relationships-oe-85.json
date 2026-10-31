@@ -1,0 +1,24 @@
+{"relationships": [
+  {"from_claim": "four-more-sim-card-sites", "to_claim": "many-small-911s",
+   "rel_type": "elaborates", "asserted_by": "brandon",
+   "evidence_video": "HhKfSxKL67I", "evidence_start_s": 618,
+   "note": "He gives the SIM farms as the mechanism of the 911 disruption, naming cell towers and AT&T and telling them to pray over 911."},
+
+  {"from_claim": "july4-250th-parades", "to_claim": "four-more-sim-card-sites",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "HhKfSxKL67I", "evidence_start_s": 668,
+   "note": "The anniversary parades and the SIM operation are given as one plan in a continuous passage, the seizure said to be preparation for the gatherings."},
+
+  {"from_claim": "grateful-for-trump-later", "to_claim": "social-credit-ai",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "HhKfSxKL67I", "evidence_start_s": 1032,
+   "note": "He names the reason for the gratitude: the president is the log in the road holding back digital ID and social credit scores."},
+
+  {"from_claim": "grateful-for-trump-later", "to_claim": "presidency-comes-to-nothing",
+   "rel_type": "contradicts", "asserted_by": "system",
+   "note": "One says the term will be remembered as a nothing burger, the other that they will be so thankful they had him. Both are on file three weeks apart and neither is withdrawn."},
+
+  {"from_claim": "zelensky-strongarmed-macron", "to_claim": "putin-assured-by-trump",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Two claims about who is steering whom in the same war, given days apart. He does not join them."}
+]}

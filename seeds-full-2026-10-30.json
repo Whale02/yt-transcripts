@@ -1,0 +1,250 @@
+[
+ {
+  "claim_id": "iran-ayatollah-removed-2026",
+  "label": "Iran Ayatollah removed, hardliner replaces",
+  "scope": "geopolitics",
+  "earliest_mention": "2024-01-01",
+  "verdict": "STRONG_MATCH",
+  "verdict_note": "Khamenei killed Feb 28 2026; Mojtaba (more hardline) succeeded Mar 9."
+ },
+ {
+  "claim_id": "trump-assassination-2024",
+  "label": "Trump assassination attempt, on his knee, ear",
+  "scope": "us-politics",
+  "earliest_mention": "2024-01-05",
+  "verdict": "STRONG_MATCH",
+  "verdict_note": "Trump shot Jul 13 2024, bullet grazed ear, knelt. Ear detail from Cioccolanti channel Mar 2024, not in this corpus."
+ },
+ {
+  "claim_id": "bitcoin-100k",
+  "label": "Bitcoin breaks $100K barrier",
+  "scope": "economics",
+  "earliest_mention": "2025-12-30",
+  "verdict": "STRONG_MATCH",
+  "verdict_note": "Bitcoin crossed $100K Dec 5 2024, peaked ~$126K Oct 2025. Widely predicted target."
+ },
+ {
+  "claim_id": "trade-wars-china",
+  "label": "Trade wars with China, supply disruptions",
+  "scope": "economics",
+  "earliest_mention": "2024-07-13",
+  "verdict": "STRONG_MATCH",
+  "verdict_note": "Trump 2.0 tariffs up to 145% on China, retaliation, supply chain disruptions."
+ },
+ {
+  "claim_id": "byron-donalds-fl-primary",
+  "label": "Byron Donalds wins FL Republican gubernatorial primary",
+  "scope": "us-elections",
+  "earliest_mention": "2025-01-01",
+  "verdict": "STRONG_MATCH",
+  "verdict_note": "Won primary."
+ },
+ {
+  "claim_id": "oil-200-barrel",
+  "label": "Oil hits $200/barrel",
+  "scope": "economics",
+  "earliest_mention": "2023-09-09",
+  "verdict": "PARTIAL_MATCH",
+  "verdict_note": "Dubai crude topped $166 Mar 2026 during Hormuz crisis. Direction right, specific number not reached."
+ },
+ {
+  "claim_id": "israel-oct7-surprise",
+  "label": "Surprise attack on Israel",
+  "scope": "geopolitics",
+  "earliest_mention": "2023-07-01",
+  "verdict": "PARTIAL_MATCH",
+  "verdict_note": "Hamas attacked Oct 7 2023. Surprise element matched. Geographic/actor details wrong."
+ },
+ {
+  "claim_id": "colombia-conservative-2026",
+  "label": "Colombia goes conservative",
+  "scope": "foreign-elections",
+  "earliest_mention": "2024-01-01",
+  "verdict": "PARTIAL_MATCH",
+  "verdict_note": "Conservative won 2026 election but not a landslide."
+ },
+ {
+  "claim_id": "israel-2026-election-blackswan",
+  "label": "Israel 2026 election black swan / shaking",
+  "scope": "foreign-elections",
+  "earliest_mention": "2025-01-01",
+  "verdict": "PARTIAL_MATCH",
+  "verdict_note": "Mossad internal probe exists; electoral fraud allegations unproven."
+ },
+ {
+  "claim_id": "housing-market-crash",
+  "label": "Housing market crash (1929-style)",
+  "scope": "economics",
+  "earliest_mention": "2024-12-22",
+  "verdict": "PARTIAL_MATCH",
+  "verdict_note": "Market severely stressed. Aug 2026 headlines compared to 1929. Not a full collapse."
+ },
+ {
+  "claim_id": "england-christian-persecution",
+  "label": "Great persecution of Christians in England/UK",
+  "scope": "geopolitics",
+  "earliest_mention": "2025-05-13",
+  "verdict": "PARTIAL_MATCH",
+  "verdict_note": "Street preacher arrests real (Maile Apr 2026, Moodley 2024-2025). Church vandalism. Apocalyptic scale not materialized."
+ },
+ {
+  "claim_id": "canada-conservative-majority",
+  "label": "Canada Conservative Party wins majority",
+  "scope": "foreign-elections",
+  "earliest_mention": "2025-01-07",
+  "verdict": "CONTRADICTED",
+  "verdict_note": "Liberals won 169-144 seats. Trudeau resignation 'prediction' made day after announcement."
+ },
+ {
+  "claim_id": "lindell-wins-mn-governor",
+  "label": "Mike Lindell wins MN governor",
+  "scope": "us-elections",
+  "earliest_mention": "2024-01-01",
+  "verdict": "CONTRADICTED",
+  "verdict_note": "Lindell did not run for or win MN governor. Three restatements."
+ },
+ {
+  "claim_id": "omar-removed",
+  "label": "Ilhan Omar removed from office",
+  "scope": "us-politics",
+  "earliest_mention": "2024-01-01",
+  "verdict": "CONTRADICTED",
+  "verdict_note": "Still serving as of 2026."
+ },
+ {
+  "claim_id": "great-depression-2024-2025",
+  "label": "Great Depression hits 2024-2025",
+  "scope": "economics",
+  "earliest_mention": "2023-08-25",
+  "verdict": "CONTRADICTED",
+  "verdict_note": "GDP growth slowed but remained positive. No recession declared. 49 references in corpus."
+ },
+ {
+  "claim_id": "xrp-10-plus",
+  "label": "XRP hits $10+, people become decamillionaires",
+  "scope": "economics",
+  "earliest_mention": "2025-03-03",
+  "verdict": "CONTRADICTED",
+  "verdict_note": "XRP ATH was $3.65 (Jul 18 2025). Currently well below $10."
+ },
+ {
+  "claim_id": "stock-crash-1929-style",
+  "label": "1929-style stock market crash",
+  "scope": "economics",
+  "earliest_mention": "2024-05-07",
+  "verdict": "CONTRADICTED",
+  "verdict_note": "No 1929-scale crash. Markets volatile but functioning. 20+ references."
+ },
+ {
+  "claim_id": "mass-bank-failures",
+  "label": "Mass bank failures and closures",
+  "scope": "economics",
+  "earliest_mention": "2024-04-15",
+  "verdict": "CONTRADICTED",
+  "verdict_note": "No widespread bank failures since SVB (Mar 2023, pre-corpus). Banking system stable."
+ },
+ {
+  "claim_id": "michelle-obama-newsom-2024",
+  "label": "Michelle Obama and Gavin Newsom run for president 2024",
+  "scope": "us-elections",
+  "earliest_mention": "2023-09-30",
+  "verdict": "CONTRADICTED",
+  "verdict_note": "Neither ran. Harris replaced Biden. Newsom never entered."
+ },
+ {
+  "claim_id": "claudia-sheinbaum-removed",
+  "label": "Claudia Sheinbaum removed as Mexico president",
+  "scope": "geopolitics",
+  "earliest_mention": "2025-01-01",
+  "verdict": "CONTRADICTED",
+  "verdict_note": "Still president. Term through 2030."
+ },
+ {
+  "claim_id": "plague-350-million",
+  "label": "Next plague kills 350 million (2025-2026)",
+  "scope": "health",
+  "earliest_mention": "2023-07-01",
+  "verdict": "EXPIRED_WITHOUT_MATCH",
+  "verdict_note": "No pandemic. H5N1 in animals, no mass human outbreak. Mpox contained. 50 references."
+ },
+ {
+  "claim_id": "digital-dollar-cbdc",
+  "label": "US launches digital dollar / CBDC",
+  "scope": "economics",
+  "earliest_mention": "2023-06-30",
+  "verdict": "CONTRADICTED",
+  "verdict_note": "No CBDC launched. Trump signed EO banning a CBDC Jan 2025. Opposite direction. 49 references."
+ },
+ {
+  "claim_id": "turkey-attacks-israel",
+  "label": "Turkey attacks Israel militarily",
+  "scope": "geopolitics",
+  "earliest_mention": "2025-01-01",
+  "verdict": "EXPIRED_WITHOUT_MATCH",
+  "verdict_note": "Rising tensions only. No Turkish attack on Israel."
+ },
+ {
+  "claim_id": "russia-strikes-poland",
+  "label": "Russia strikes Poland / NATO",
+  "scope": "geopolitics",
+  "earliest_mention": "2024-01-01",
+  "verdict": "EXPIRED_WITHOUT_MATCH",
+  "verdict_note": "Near-misses (stray drones) but no deliberate strike. Polish PM warned Sep 2026."
+ },
+ {
+  "claim_id": "cuba-regime-change",
+  "label": "Cuba communist government falls",
+  "scope": "geopolitics",
+  "earliest_mention": "2024-01-01",
+  "verdict": "EXPIRED_WITHOUT_MATCH",
+  "verdict_note": "Severe crisis (blackouts, protests, emigration), government still holds."
+ },
+ {
+  "claim_id": "macron-removed",
+  "label": "Macron resigns or removed from office",
+  "scope": "geopolitics",
+  "earliest_mention": "2025-01-01",
+  "verdict": "EXPIRED_WITHOUT_MATCH",
+  "verdict_note": "Still president. Says he will serve until May 2027."
+ },
+ {
+  "claim_id": "ww3-europe",
+  "label": "World War 3 breaks out in Europe",
+  "scope": "geopolitics",
+  "earliest_mention": "2024-01-01",
+  "verdict": "EXPIRED_WITHOUT_MATCH",
+  "verdict_note": "Russia-Ukraine ongoing, Iran conflict in Middle East. No broader European war."
+ },
+ {
+  "claim_id": "italy-campi-flegrei-eruption",
+  "label": "Italy Campi Flegrei volcanic eruption",
+  "scope": "natural-disaster",
+  "earliest_mention": "2024-01-01",
+  "verdict": "EXPIRED_WITHOUT_MATCH",
+  "verdict_note": "Seismic unrest continues. No eruption."
+ },
+ {
+  "claim_id": "paris-olympics-attack",
+  "label": "Terror attack at Paris 2024 Olympics",
+  "scope": "geopolitics",
+  "earliest_mention": "2024-01-01",
+  "verdict": "EXPIRED_WITHOUT_MATCH",
+  "verdict_note": "Three plots foiled by French security. No successful attack."
+ },
+ {
+  "claim_id": "brazil-election-fraud-2026",
+  "label": "Brazil election fraud exposed",
+  "scope": "foreign-elections",
+  "earliest_mention": "2024-01-01",
+  "verdict": "UNRESOLVED",
+  "verdict_note": "Lula still in power. Elections pending."
+ },
+ {
+  "claim_id": "kim-jong-un-removed",
+  "label": "Kim Jong Un dies or removed",
+  "scope": "geopolitics",
+  "earliest_mention": "2024-01-01",
+  "verdict": "UNRESOLVED",
+  "verdict_note": "No confirmed reports. Health speculation since 2020, no verification."
+ }
+]

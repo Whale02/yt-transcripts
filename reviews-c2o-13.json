@@ -1,0 +1,20 @@
+{"reviews": [
+ {"video_id": "3FqtRlMU1wM", "start_s": 109, "claim_id": "korea-border-explosion-war", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.8, "note": "a disturbance trying to break into war, with China provoking alongside North Korea"},
+ {"video_id": "3FqtRlMU1wM", "start_s": 157, "claim_id": "korea-provocation", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.8, "note": "China rising like a red dragon, with the timing explicitly disclaimed"},
+ {"video_id": "3FqtRlMU1wM", "start_s": 197, "claim_id": "korea-provocation", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "secret meetings and the three becoming one, twelve days after the Beijing parade put the three leaders on one platform"},
+ {"video_id": "3FqtRlMU1wM", "start_s": 247, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.75, "note": "Afghan minerals and the Taiwan and South Korea alliances, all already public"},
+ {"video_id": "3FqtRlMU1wM", "start_s": 292, "claim_id": "korea-border-explosion-war", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "the border explosion and communism over the South"},
+ {"video_id": "3FqtRlMU1wM", "start_s": 334, "claim_id": "putin-wants-ukraine-and-poland", "same_event": "yes", "delta_type": "restatement", "confidence": 0.85, "note": "the old Soviet land including Poland, which was a Warsaw Pact state rather than a Soviet republic"},
+ {"video_id": "3FqtRlMU1wM", "start_s": 389, "claim_id": "cuba-russian-base", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "Cuba lining up with Russia and a base close to America"},
+ {"video_id": "3FqtRlMU1wM", "start_s": 432, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.8, "note": "Revelation 6 imagery of the pale and black horses, with Hawaii named and nothing attached"},
+ {"video_id": "3FqtRlMU1wM", "start_s": 485, "claim_id": "japan-major-volcano", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.85, "note": "the massive volcano placed hesitantly in Japan"},
+ {"video_id": "3FqtRlMU1wM", "start_s": 547, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.75, "note": "Canada to the British royals to Australia, with no act attached to any"},
+ {"video_id": "YzT65um6tn8", "start_s": 267, "claim_id": "trump-kim-jonathan-and-david", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.8, "note": "a UN vote read as the Jonathan and David relationship beginning"},
+ {"video_id": "YzT65um6tn8", "start_s": 359, "claim_id": "distraction-events-jan6", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.8, "note": "havoc as a great distraction to start civil unrest"},
+ {"video_id": "YzT65um6tn8", "start_s": 413, "claim_id": "five-cities-attack-plan", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the five cities named, with the depth withheld"},
+ {"video_id": "YzT65um6tn8", "start_s": 589, "claim_id": "shaking-to-the-waking", "same_event": "yes", "delta_type": "restatement", "confidence": 0.85, "note": "one last call and the window to bring in the lost"},
+ {"video_id": "YzT65um6tn8", "start_s": 682, "claim_id": "california-big-one", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "the clouds vibrating, the shaking west to east, and a volcano alongside the California quake"},
+ {"video_id": "YzT65um6tn8", "start_s": 4170, "claim_id": "global-shakings-awakening", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.8, "note": "the 7.4 off Kamchatka read off the news mid-stream, inside the aftershock sequence of the 29 July magnitude 8.8"},
+ {"video_id": "YzT65um6tn8", "start_s": 6978, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "a petition over trafficked children"},
+ {"video_id": "YzT65um6tn8", "start_s": 7201, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "Hosea 2:6 prayed over the children"}
+]}

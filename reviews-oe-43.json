@@ -1,0 +1,59 @@
+[
+  {"video_id": "UnQMJN0Ia7g", "start_s": 1732, "claim_id": "bad-man-since-2023",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Checkable from inside this corpus if the man is ever named: a 2023 or early 2024 video either says it or does not. He is not named here."},
+
+  {"video_id": "UnQMJN0Ia7g", "start_s": 1802, "claim_id": "no-plan-b-supreme-court",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "There is no plan B is the strongest conditional language he uses, and it is attached to a real pending court matter with a real consequence, the dollar. That makes it more checkable than most. Linked to economy-dam-cracks, which he cites in the same breath."},
+
+  {"video_id": "UnQMJN0Ia7g", "start_s": 4072, "claim_id": "revival-bigger-than-azusa",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Naming Brownsville and Azusa Street as the bar to beat makes this more checkable than the rest of the revival material, which usually has no benchmark at all."},
+
+  {"video_id": "UnQMJN0Ia7g", "start_s": 8236, "claim_id": "plague-calendar-fall-to-spring",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Sixth restatement of the plague timing in five weeks: fall 2027 into 2028, with November and December named and this year explicitly excluded. The full set of windows now spans 2026 to 2028."},
+
+  {"video_id": "UnQMJN0Ia7g", "start_s": 8474, "claim_id": "lambs-quarters-ireland",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "They are looking a plant up on air, and he asks what his own Ireland material means. Nothing is claimed."},
+
+  {"video_id": "UnQMJN0Ia7g", "start_s": 9203, "claim_id": "virus-ivs-fatal",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The survival clause is not medical: outcome is tied to whether the person knew Christ. Recorded exactly as he framed it."},
+
+  {"video_id": "S71ffr0WDtg", "start_s": 1113, "claim_id": "venezuela-oil-dollar-buffer",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "BRICS accession for Venezuela and Cuba is a specific institutional claim that can be checked, which is rare in this material."},
+
+  {"video_id": "S71ffr0WDtg", "start_s": 1545, "claim_id": "focus-too-much-on-stuff",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "S71ffr0WDtg", "start_s": 1830, "claim_id": "four-more-sim-card-sites",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Names Chicago as one of the four. That turns a count into a location and makes it the most checkable version of the claim so far."},
+
+  {"video_id": "S71ffr0WDtg", "start_s": 4335, "claim_id": "december-2025-decisions",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Every day of the month highlighted is the widest target available inside a named month, and major decisions is not defined."},
+
+  {"video_id": "S71ffr0WDtg", "start_s": 5487, "claim_id": "pray-the-hour-is-late",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "S71ffr0WDtg", "start_s": 6706, "claim_id": "microwave-jesus-2028",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Second time in a month he pushes back on a date his own audience holds, after rapture-not-2026. He says his heart wants 2028 and that what he saw says otherwise, which costs him something. Filed as contradicting rapture-by-2028 and rapture-hope-2028."},
+
+  {"video_id": "S71ffr0WDtg", "start_s": 7368, "claim_id": "economy-balloon-pop",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Ride the wave and the balloon will pop, together, cover both a rally and a crash. Adds that the deflation is deliberate because they know they cannot sustain it."},
+
+  {"video_id": "S71ffr0WDtg", "start_s": 7475, "claim_id": "watch-may-interest-rates",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The motive changes: May is now highlighted because of the midterms rather than because of rates. Two days later, at aiP1Op78hE8@1437, the Fed chair is out in January instead."},
+
+  {"video_id": "S71ffr0WDtg", "start_s": 8092, "claim_id": "two-men-named",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He says he may butcher the name and then does not give one. Recorded so the empty slot is on file if a name arrives later."}
+]

@@ -1,0 +1,24 @@
+{"relationships": [
+  {"from_claim": "vance-succession-pregnancy", "to_claim": "watergate-2028",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Both turn on JD Vance's standing, one raising him to the presidency and one attaching a scandal to him. He does not join them on air."},
+
+  {"from_claim": "un-september-2026", "to_claim": "netanyahu-arrest-threat-september",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "bTI89Td5Xc4", "evidence_start_s": 1859,
+   "note": "He plays the arrest clip as part of the September assembly material, presenting the pledge as one of the things making that week serious."},
+
+  {"from_claim": "un-september-2026", "to_claim": "four-more-sim-card-sites",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "bTI89Td5Xc4", "evidence_start_s": 1402,
+   "note": "He puts the rebuilt New York SIM site and the September assembly in the same prayer, treating the emergency-service plot as preparation aimed at that week."},
+
+  {"from_claim": "mount-of-olives-split", "to_claim": "global-shakings-awakening",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Another named earthquake in the running set. He gives no year here, so it cannot be sequenced against the others."},
+
+  {"from_claim": "called-trump-would-lose-2020", "to_claim": "false-prophecies-2020-admitted",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "bTI89Td5Xc4", "evidence_start_s": 2874,
+   "note": "He raises his own 2020 call in the same breath as the prophetic confusion and weirdness of 2020, setting his record against the failures he elsewhere concedes."}
+]}

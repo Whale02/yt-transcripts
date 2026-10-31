@@ -1,0 +1,14 @@
+{"relationships":[
+{"from_claim":"countdown-reprieve-shrinking","to_claim":"reprieve-window-2026","rel_type":"related_to","asserted_by":"system",
+ "note":"One has a fixed end, the other is restated from the present each time it is given and so never runs out. Linked rather than merged."},
+{"from_claim":"magic-kingdom-infiltration","to_claim":"disneyland-prayer-target","rel_type":"related_to","asserted_by":"system",
+ "note":"Two theme parks named five days apart, both with no act and no date. He does not join them."},
+{"from_claim":"gold-glory-girls-not-2026","to_claim":"church-cleansing","rel_type":"contradicts","asserted_by":"system",
+ "note":"On 9 December 2026 will not be about the gold, the glory and the girls. On 17 December those are exactly what brings ministers down in 2026. Both stay visible."},
+{"from_claim":"powell-out-in-january","to_claim":"watch-may-interest-rates","rel_type":"contradicts","asserted_by":"system",
+ "note":"Four days apart: watch May concerning interest rates, then Powell is out in January. May is when his term as chair actually ends."},
+{"from_claim":"shredding-evidence-whitewash","to_claim":"january6-evidence-destroyed","rel_type":"related_to","asserted_by":"system",
+ "note":"Same image of records being destroyed, with nobody named in the newer telling."},
+{"from_claim":"teach-them-to-hear-me","to_claim":"everybody-hears-not-everybody-sees","rel_type":"related_to","asserted_by":"system",
+ "note":"Hearing is available to everyone, and the seeker friendly churches are given as the reason they do not."}
+]}

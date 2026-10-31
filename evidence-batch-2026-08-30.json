@@ -1,0 +1,67 @@
+{
+ "_note": "What actually happened, checked against live sources on 30 August 2026. Kept apart from anything he said: these rows are reality, and the rationale states why the verdict is what it is, including where a hit was foreseeable on base rates. Every verdict here was written against a falsifier recorded before the outcome was known.",
+ "evidence": [
+  {"claim_id": "february-3-budget",
+   "observed_on": "2026-02-03",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_federal_government_shutdowns",
+   "summary": "The first 2026 partial federal shutdown ran 31 January to 3 February. On 3 February 2026 the House passed the Senate's remaining FY26 minibus spending packages and the president signed them, ending the shutdown and restoring full operations. No Supreme Court decision issued that day; the judiciary had announced it was funded only to 5 February.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "The budget half landed on the exact named date. He gave 3 February in early December 2025, roughly eight weeks ahead, tied it to the budget, and said he did not know why. The shutdown ended that day. Against that: he attached the date to three judges and the Supreme Court, and nothing judicial happened on it. Base rate caveat, which keeps this off STRONG_MATCH: appropriations deadlines cluster in late January and early February, so a budget event in that window was likely, and he named many dates across the corpus. The precision here is the day, not the domain."},
+
+  {"claim_id": "saudi-brics-oil-200",
+   "observed_on": "2023-08-24",
+   "source_url": "https://www.aljazeera.com/news/2023/8/24/analysis-wall-of-brics-the-significance-of-adding-six-new-members",
+   "summary": "On 24 August 2023 the BRICS summit in Johannesburg announced invitations to six countries including Saudi Arabia, to take effect 1 January 2024. Saudi Arabia never completed membership: it neither accepted nor declined through 2024, froze its bid at the end of that year and was still not a formal member as of 2025. Brent crude averaged $81 a barrel in 2024 and traded near $67 in August 2025, peaking around $105; it has never approached $200.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "He named 24 August twelve days ahead and the invitation was announced that day, and he named 1 January 2024 as the effective date, which was also announced. Both misses are the substance: Saudi Arabia never actually joined, and oil never came close to $200 a barrel, missing by more than half. Base rate caveat: the summit dates and the expansion agenda were public months in advance, so a BRICS event on 24 August 2023 was foreseeable without foresight."},
+
+  {"claim_id": "crypto-ruling-august-2025",
+   "observed_on": "2025-08-15",
+   "source_url": "https://news.bloomberglaw.com/litigation/ripple-sec-drop-appeal-after-settlement-path-blocked-by-judge",
+   "summary": "Ripple and the SEC withdrew both the SEC appeal and Ripple's cross-appeal in August 2025, formally closing the case in the Second Circuit. Judge Torres had refused in June 2025 to modify her judgment; the $125m penalty was settled at $50m and the injunction on institutional XRP sales stood. The case did not proceed to a second court and did not run into 2026.",
+   "state": "CONTRADICTED",
+   "rationale": "The stated mechanism was a decision by 15 August 2025 that then went to a second court and could run clear into 2026. What happened is the opposite: the appellate track was abandoned in that same month and the matter ended. He hedged with 'could', which is why this is scored on the escalation he described rather than on the certainty of his wording, but the escalation is ruled out, not merely unfulfilled."},
+
+  {"claim_id": "byron-florida-governor",
+   "observed_on": "2026-08-18",
+   "source_url": "https://www.cbsnews.com/news/florida-governors-race-primary-results-byron-donalds-david-jolly/",
+   "summary": "Byron Donalds won the Republican primary for Florida governor on 18 August 2026 with 47.8 percent of the vote against Jay Collins, James Fishback and Paul Renner. David Jolly won the Democratic primary with 61 percent. The two meet in the general election on 3 November 2026.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "He predicted on 12 August that Byron would win his primary the following week and staked the word on it, saying plainly that if it did not happen the word was off. It happened. But he predicted a landslide, and 47.8 percent in a four-way field is a plurality win, not a landslide, while his opponent took 61 percent of his own primary. Base rate caveat: Donalds was the Trump-endorsed front runner and led public polling, so the win itself was the expected outcome. The November governorship half of the claim is not yet due."},
+
+  {"claim_id": "clarity-act-one-vote",
+   "observed_on": "2026-08-08",
+   "source_url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
+   "summary": "The Senate majority leader filed a motion to proceed on the Digital Asset Market Clarity Act and a cloture motion on 8 August 2026, too late to vote before recess. A floor vote is scheduled for 15 September 2026. Outstanding disagreements cover government ethics, law enforcement provisions and stablecoin yield. Senate Republicans released updated bill text on 22 July 2026. No final vote has been held.",
+   "state": "NOT_YET_DUE",
+   "rationale": "He named September 2026 or January 2027 for passage by a single vote, and September has not happened yet, so the claim's own window is still open. Recorded now because an earlier telling carried a May 2026 date that has passed unmet, and because the margin is the falsifiable part: if the bill passes on 15 September by more than one vote, the distinctive element fails even though the timing lands."},
+
+  {"claim_id": "watch-may-interest-rates",
+   "observed_on": "2026-05-31",
+   "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
+   "summary": "There was no FOMC meeting in May 2026. The Committee met 28-29 April and held the federal funds rate at 3.50-3.75 percent on an 8-4 split, with one member preferring a cut and three objecting to an easing bias in the statement. The June and July meetings held the same range. Rates were unchanged from March through July 2026.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "The instruction was to watch May over interest rates because they were going to pump the economy into the midterms. May contained no rate decision at all, and the rate did not move in any month around it. The nearest notable event, the 8-4 split and the fight over an easing bias, fell on 29 April and was a hold, not a cut."},
+
+  {"claim_id": "july4-2025-van-attack",
+   "observed_on": "2025-07-04",
+   "source_url": "https://www.cnn.com/2025/07/02/us/fbi-dhs-warning-july-4-attacks",
+   "summary": "DHS and the FBI issued a routine joint bulletin on 2 July 2025 warning that lone actors were the main threat to Fourth of July events, citing possible copycats of the New Orleans vehicle ramming of 1 January 2025, and said they had received no reports of specific threats. No attack occurred at Fourth of July events in New York City or elsewhere in 2025, and no van plot was reported.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "The stated criterion was plots surfacing or attacks occurring around 4 July 2025. Neither happened. The threat bulletin does not count: DHS and the FBI issue one before every Fourth of July, so it is a base rate, not a hit. Recorded as a miss rather than as unfalsifiable because he gave a date and a vehicle type, both checkable. He framed it as a prayer assignment, which the conditionality field carries; that caveat does not convert a non-event into a match."},
+
+  {"claim_id": "july4-250th-parades",
+   "observed_on": "2026-07-04",
+   "source_url": "https://www.inquirer.com/news/nation-world/america-250-washington-security-challenge-july-4th-fair-fireworks-trump-rally-airport-closed-20260629.html",
+   "summary": "The America 250 celebrations went ahead on 4 July 2026 under the largest security operation Washington has mounted, with more than a million people on the National Mall. Cities across the country enacted extraordinary measures. No attack or security incident at a 250th anniversary event was reported.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "The stated criterion was an attack at a 250th anniversary event. There was none. Extraordinary security was in place, but preparation is not the event he described, and heavy security around a national anniversary is expected regardless."},
+
+  {"claim_id": "october-31-baseball-darkness",
+   "observed_on": "2025-10-31",
+   "source_url": "https://www.espn.com/mlb/game/_/gameId/401809302/dodgers-blue-jays",
+   "summary": "World Series Game 6 was played on 31 October 2025, the Dodgers beating the Blue Jays 3-1 to force a Game 7 on 1 November. No mass-casualty or comparable dark event connected to the World Series or to that week has been identified.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "Baseball on 31 October landed, and he said it on 19 July, more than three months ahead. It carries almost no information: the World Series is scheduled into the last days of October every year, so baseball on that date was close to certain. The darkness half has no identified referent and no stated criterion, so it cannot be scored. Held at partial on the base rate alone."}
+ ]
+}

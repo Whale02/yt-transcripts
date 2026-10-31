@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "ef0ce7453f190012",
+"claim_id": "five-major-shakings",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the British Columbia quake attached to the list"
+},
+{
+"mention_id": "9e21cbeb6c868918",
+"claim_id": "global-quake-swarm",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "crustal pressure given as the mechanism, and a thousand year scale offered"
+},
+{
+"mention_id": "94a99e4d6d64d1ec",
+"claim_id": "gaza-offshore-oil-wealth",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "oil in the Mediterranean named again; he does not say it is the same bowl he saw off Gaza"
+},
+{
+"mention_id": "70cecc03cac5bf67",
+"claim_id": "tribulation-birthing-pains",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the labour pains claimed as intensifying, with the Gulf wealth transfer attached"
+},
+{
+"mention_id": "918ad8582f47092a",
+"claim_id": "cashless-rollout",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "blockchain and the big banks named as the route"
+},
+{
+"mention_id": "f73f9e349ceb0a3c",
+"claim_id": "come-boldly-and-claim",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "the window has to be taken by force; failure can always be blamed on not taking it"
+},
+{
+"mention_id": "192f485e0bb78a60",
+"claim_id": "snapping-turtle-south-america",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "given in tongues and interpretation, uninterpreted afterwards"
+},
+{
+"mention_id": "a40f5cc0bdff90ed",
+"claim_id": "snapping-turtle-south-america",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "the size given as the whole continent"
+},
+{
+"mention_id": "9e56391ad57952aa",
+"claim_id": "snapping-turtle-south-america",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.9,
+"note": "facing northwest toward North America and the Panama Canal"
+},
+{
+"mention_id": "1c3e105dc5d49d5a",
+"claim_id": "africa-revival",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "spreading out of Africa into the Middle East through Egypt and Iraq"
+},
+{
+"mention_id": "809715c8b86d417b",
+"claim_id": "medication-shortage",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "he claims prayer reversed it into a price cut; the pricing order is not the shortage he warned of"
+},
+{
+"mention_id": "e2d6a791e5119895",
+"claim_id": "middle-east-superpowers-of-the-earth",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the digital assets angle given the day before the trip"
+},
+{
+"mention_id": "4a505acd6fc8eb10",
+"claim_id": "axis-covenant-nk-china-russia-iran",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "framed as an invitation to the outcasts to build their own currency"
+},
+{
+"mention_id": "017647d584467b5b",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a news report read aloud"
+},
+{
+"mention_id": "86999640ea16ddea",
+"claim_id": "axis-covenant-nk-china-russia-iran",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Afghanistan brought in; Russia delisted the Taliban in April 2025, before this telling"
+},
+{
+"mention_id": "dba99c23fd237b2d",
+"claim_id": "saudi-brics",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the boot line again, with two-facedness offered to explain the trillion dollar deals running the other way"
+},
+{
+"mention_id": "4ac9f6d18b703918",
+"claim_id": "warsaw-ww3-trigger",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "said to be still on the table in May 2025"
+},
+{
+"mention_id": "c8c3eacdf9098ed3",
+"claim_id": "berlin-wall-tear-it-down",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Reagan's face and the graffiti; he says plainly he does not know what it means"
+},
+{
+"mention_id": "3017d76e65b215c2",
+"claim_id": "solomon-anointing-rebuild",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the rocket working less well than it could, which lets a weak outcome count"
+},
+{
+"mention_id": "336c0aa97ef66228",
+"claim_id": "king-charles-scorpion-strike",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the tail read as persecution of Christians"
+},
+{
+"mention_id": "f8267e6fb08cd533",
+"claim_id": "scorpion-tail-commonwealth-persecution",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "Australia said to be affected less, which is a narrowing"
+},
+{
+"mention_id": "adb504a4dadf6043",
+"claim_id": "canada-persecution",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "uprisings in Canada over religious speech, and the instruction to pray it in tongues"
+},
+{
+"mention_id": "e9f61f4cb819066a",
+"claim_id": "italy-shaken-europe-revival",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "the gospel getting into England, Canada, Australia and Europe; declared rather than seen"
+},
+{
+"mention_id": "867e388c7d5c43b3",
+"claim_id": "demonic-octopus-europe",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "the tentacle traced into France and then Germany"
+},
+{
+"mention_id": "bfe861df75f6d949",
+"claim_id": "italy-shaken-europe-revival",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the sound of abundance of rain, sea to shining sea and through Europe"
+},
+{
+"mention_id": "00fdbf632b18edc9",
+"claim_id": "notre-dame-bells-france",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the Francis death read as a sign after the fact; the bells are the forward part"
+},
+{
+"mention_id": "83632062c6983bdd",
+"claim_id": "spiritual-drought-on-the-land",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the earliest telling, six months before the November one, and he says himself it is not a natural drought"
+},
+{
+"mention_id": "abdd9b6e52378f57",
+"claim_id": "believe-impossible",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the miracle baby given as the example"
+},
+{
+"mention_id": "57e2e036b1dd8e78",
+"claim_id": "tariff-war-predicted",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the Geneva agreement was announced the same day, so this follows the news rather than preceding it"
+},
+{
+"mention_id": "c97d0daa0a122ac0",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "an exhortation about persistence in prayer"
+},
+{
+"mention_id": "1c97834fa1af7f83",
+"claim_id": "obama-europe-steering-the-economy",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "the Uncle Sam hat and the minerals deal, with Obama fading as the reading"
+},
+{
+"mention_id": "42363f7c1ef8759a",
+"claim_id": "obama-europe-steering-the-economy",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Pelosi and the twenty four billion attached"
+},
+{
+"mention_id": "ca68f07733d7c266",
+"claim_id": "red-wave-2024",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "the thirty day prayer instruction and the landslide, told six months after the election"
+},
+{
+"mention_id": "50a12e18fcf07350",
+"claim_id": "wealth-of-the-sinner",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Saudi crypto given as the route this time"
+},
+{
+"mention_id": "fe2dc746544fc40f",
+"claim_id": "dday-pearl-harbor",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "prayed against, with China named"
+},
+{
+"mention_id": "3a8512199360daa6",
+"claim_id": "china-gospel-window",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the iron curtain coming down over two billion people"
+},
+{
+"mention_id": "bca247274a622e8c",
+"claim_id": "tariff-war-predicted",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "a good report promised for tomorrow; the pause had already been announced that day"
+},
+{
+"mention_id": "8f3436e47413c02f",
+"claim_id": "lavender-peace-russia",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "a ceasefire called for now; whether this belongs with the lavender peace word is not stated"
+},
+{
+"mention_id": "495dd05ca4444abf",
+"claim_id": "global-revival-continents",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "provision for ministers on every continent"
+},
+{
+"mention_id": "c00aa7d2f9eb9a08",
+"claim_id": "glory-cloud-healings",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "an abundant supply of anointing and healing; not tied to a specific meeting or sign"
+},
+{
+"mention_id": "611f7a9fe04693a7",
+"claim_id": "divine-protection-trump",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the Middle East trip named, the day before departure"
+},
+{
+"mention_id": "3842da160f7af126",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "another preacher's old prophecy, introduced and played"
+},
+{
+"mention_id": "be0798e7941a5c45",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "a 2005 word by another writer, read aloud"
+},
+{
+"mention_id": "cc99f0a96afe85b3",
+"claim_id": "catholic-church-shaking",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "judgment beginning at the house of God; the removal word is recounted after the 21 April death"
+},
+{
+"mention_id": "918fc5488abd8e90",
+"claim_id": "beast-system-foundation",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "he will not be the president who took the economy down, and a new global economy follows"
+},
+{
+"mention_id": "ec7ae3dd1ac7844a",
+"claim_id": "beast-system-foundation",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Trump named as helping roll it out, with the refusal to say whether that is good or bad"
+},
+{
+"mention_id": "778c1c43104a256d",
+"claim_id": "middle-east-superpowers-of-the-earth",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "Iraq out of the ashes, and the garden of Eden reading"
+},
+{
+"mention_id": "0e212481168d802f",
+"claim_id": "rapture-any-time",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "an anticipation of the return with the fig tree; no date, so nothing to score"
+},
+{
+"mention_id": "77fad331b23e9827",
+"claim_id": "divine-protection-trump",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "snipers and calamity named on the same trip"
+},
+{
+"mention_id": "550889a469a6352b",
+"claim_id": "solomon-anointing-rebuild",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "prayed rather than seen this time"
+},
+{
+"mention_id": "805c04c9408f45eb",
+"claim_id": "middle-east-superpowers-of-the-earth",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "crypto, gold and oil named, and the beast system tied to Saudi Arabia"
+},
+{
+"mention_id": "ac6375c90220cb93",
+"claim_id": "more-angels-than-armies",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "the angels called army reserves"
+},
+{
+"mention_id": "21ee5d5e1e96cd4a",
+"claim_id": "china-gospel-window",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the same window extended to North Korea; he says himself it is small and short"
+},
+{
+"mention_id": "2a0f08ba2565335d",
+"claim_id": "china-economy-shakes-then-taiwan",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "dishonour and embarrassment given as the motive for retaliation"
+},
+{
+"mention_id": "93125978d4c8b7be",
+"claim_id": "putin-comforts-venezuela",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "he states he does not know what the American action is"
+}
+]
+}

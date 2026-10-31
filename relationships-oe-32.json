@@ -1,0 +1,6 @@
+{"relationships":[
+{"from_claim":"attack-worse-than-october-7","to_claim":"israel-night-attack","rel_type":"same_event_as","asserted_by":"system",
+ "note":"Told four days apart with the same benchmark, the same motive of retaliation, and no timing in either. Likely one sight told twice, but he does not say so, so both stay visible."},
+{"from_claim":"not-the-obvious-date","to_claim":"black-swan-event","rel_type":"elaborates","asserted_by":"brandon",
+ "note":"He names the black swan himself while ruling out the 250th anniversary, extending it from an unforeseen event to an unforeseeable date."}
+]}

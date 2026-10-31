@@ -1,0 +1,22 @@
+[
+ {"claim_id": "bc-quake-30000-dead",
+  "label": "The worst earthquake in history off British Columbia, 30,000 dead",
+  "domain": "geology",
+  "description": "Given 9 September 2025 alongside a prayer that Canada not back the two-state solution: British Columbia having the worst earthquake in history with 30,000 people perishing that day on the coastline. This is the one place in the corpus where the BC earthquake carries a death toll, which makes it the scoreable version. Canada recognised Palestinian statehood on 21 September 2025 and no earthquake followed.",
+  "aliases": ["worst earthquake in history", "30,000 people perish", "British Columbia"]},
+ {"claim_id": "suppressed-cancer-cure",
+  "label": "A cure for cancer that exists and is being suppressed",
+  "domain": "health",
+  "description": "He says he knows a cure for cancer exists because he has seen it being suppressed and held back, against the objection that billions in cancer treatment revenue would be lost. He asks whether it will come from Russia and be triggered in America, and says he does not know.",
+  "aliases": ["we have the cure for cancer", "I have seen it being suppressed", "do not want that out yet"]},
+ {"claim_id": "azusa-pillars-worldwide",
+  "label": "Pillars of revival like Azusa Street in many places at once",
+  "domain": "religion",
+  "description": "Pillars seen throughout the United States and around the world like Azusa Street revivals, in multiple places rather than one in California, with revival also breaking out on live streams. The Azusa comparison sets a recognisable scale.",
+  "aliases": ["these pillars", "like Azusa street revivals", "not just one place in California"]},
+ {"claim_id": "russia-subs-nuclear-base-cuba",
+  "label": "Russian submarines and a nuclear base coming into Cuba",
+  "domain": "war",
+  "description": "Russia seen trying to come into Cuba with new submarines and a nuclear base, given alongside an olive branch of peace toward Venezuela and Cuba and the warning about watching in the middle of the night. A named country and a named facility type.",
+  "aliases": ["Russia with new subs", "nuclear base", "trying to come into Cuba"]}
+]

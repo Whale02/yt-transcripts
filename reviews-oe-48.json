@@ -1,0 +1,14 @@
+[
+  {"video_id": "L9GIjgo0Kok", "start_s": 1412, "claim_id": "plague-2027-china-rats-europe",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "AI generated is now stated twice across two weeks and still never explained. Adds the figure in sackcloth and dates the sight to around 30 December."},
+  {"video_id": "L9GIjgo0Kok", "start_s": 1933, "claim_id": "attack-worse-than-october-7",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Fifth telling since 22 November and the first to call it the next thing, which is closer to a timing commitment than any of the others."},
+  {"video_id": "L9GIjgo0Kok", "start_s": 2163, "claim_id": "apple-of-thy-eye-2026",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Belongs with only-a-spectator-psalm91: the same protective posture, applied to himself for the year."},
+  {"video_id": "L9GIjgo0Kok", "start_s": 3969, "claim_id": "largest-megachurch-targeted",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "First time a specific church is named in this thread, and he widens it beyond charismatic churches."}
+]

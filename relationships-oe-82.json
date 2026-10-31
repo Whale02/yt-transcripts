@@ -1,0 +1,26 @@
+{"relationships": [
+  {"from_claim": "presidency-comes-to-nothing", "to_claim": "stalemate-government-2026",
+   "rel_type": "elaborates", "asserted_by": "brandon",
+   "evidence_video": "FHxJpX0PLPI", "evidence_start_s": 808,
+   "note": "He gives them as one sequence: the stalemate is what makes the legacy just the ballroom and everything else fall flat."},
+
+  {"from_claim": "church-cleansing", "to_claim": "acceleration-window",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "FHxJpX0PLPI", "evidence_start_s": 1611,
+   "note": "The pruning of ministries and the by-August acceleration are given in one passage as the same movement."},
+
+  {"from_claim": "internet-socialist-control", "to_claim": "agenda-2030",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "FHxJpX0PLPI", "evidence_start_s": 1664,
+   "note": "He runs the internet control and the 2030 agenda together, naming Australia and money as what he could see being planned."},
+
+  {"from_claim": "internet-socialist-control", "to_claim": "black-tentacles-livestreams",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "FHxJpX0PLPI", "evidence_start_s": 1113,
+   "note": "Both concern his own broadcast being restricted, and here he names the consequence: live stream moves back onto actual television."},
+
+  {"from_claim": "agenda-2030", "to_claim": "social-credit-ai",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "FHxJpX0PLPI", "evidence_start_s": 1664,
+   "note": "He names AI and the demon behind it as part of the 2030 money plan, joining the two himself."}
+]}

@@ -1,0 +1,30 @@
+[
+ {
+  "claim_id": "fertilizer-vans-trump-towers",
+  "label": "Vans of fertiliser parked near Trump towers in New York",
+  "domain": "terrorism",
+  "description": "Vans carrying barrels of fertiliser, smaller than the drums in the dump truck he saw earlier, parked in New York City garages and beside buildings so as not to look suspicious, positioned as close as possible to Trump towers and locations, with the same attempted against landmarks in Washington.",
+  "aliases": ["Vans with the barrels full of fertilizer", "as close as they could to Trump", "parking them in New York City"]
+ },
+ {
+  "claim_id": "soleimani-retaliation-thousand-men",
+  "label": "A thousand men through tunnels, retaliating for Soleimani",
+  "domain": "terrorism",
+  "description": "A thousand men brought in through dark underground tunnels and divided into ten groups of a hundred, one per city, retaliating for the killing of Qasem Soleimani which he says they have not forgotten. He states this is not terrorism as such but an act of war by a government.",
+  "aliases": ["retaliation for Assam sulamani", "a thousand men that came through tunnels", "100 people per group of attacks"]
+ },
+ {
+  "claim_id": "new-orleans-nashville-vegas-ranked",
+  "label": "New Orleans darkest but one man; Nashville and Las Vegas the mass plans",
+  "domain": "terrorism",
+  "description": "Three cities weighed against each other: New Orleans described as the darkest but with only one individual, Nashville and Las Vegas as the stronger and more intense, with mass plans and many people. He says there are more than these two and that he has been given a glimpse of only two.",
+  "aliases": ["New Orleans is darkest", "it's a mass plans", "there's more than just these two"]
+ },
+ {
+  "claim_id": "london-bridge-is-falling-down",
+  "label": "London Bridge is falling down, sung over England",
+  "domain": "terrorism",
+  "description": "Given in tongues and interpretation over France, the Eiffel Tower and England: the nursery rhyme London Bridge is falling down, with a call for all hidden things in London to be revealed.",
+  "aliases": ["London Bridge is falling down", "all hidden things be revealed in London"]
+ }
+]

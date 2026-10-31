@@ -1,0 +1,935 @@
+[
+ {
+  "video_id": "LjVQoqPssYQ",
+  "start_s": 4370,
+  "claim_text": "It is more about Asia and the decisions China makes about Taiwan while America is preoccupied with Iran, Cuba and Venezuela, too many irons in too many fires, so that Taiwan is a sitting duck, prayed over with a hedge of blood and a wall of glory.",
+  "quote": "Taiwan is a sitting duck",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "taiwan",
+   "china"
+  ],
+  "locations": [
+   "Taiwan",
+   "China"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A Chinese move on Taiwan while American attention is elsewhere.",
+  "falsify_miss": "None. The distraction argument is the mechanism he returns to across every telling."
+ },
+ {
+  "video_id": "LjVQoqPssYQ",
+  "start_s": 4428,
+  "claim_text": "Australia, South Korea and Japan come to the aid of Taiwan rather than letting China bully it, with confusion prayed into China's camp, the underground church rising with a major revival in China and South Korea, and the tyrant government of North Korea removed with the iron curtain brought down.",
+  "quote": "bringing down the iron curtain for a major reviver revival in North Korea",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "taiwan",
+   "north korea",
+   "revival"
+  ],
+  "locations": [
+   "Australia",
+   "South Korea",
+   "Japan",
+   "North Korea",
+   "China"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "North Korea opening to religious practice.",
+  "falsify_miss": "It does not. The iron curtain image is the clearest form of the North Korea claim."
+ },
+ {
+  "video_id": "LjVQoqPssYQ",
+  "start_s": 5136,
+  "claim_text": "Praying against Iran's defence and what he saw about China: a satellite with smaller satellites pulling out of it which attached to each other and sent down electromagnetic pulses that knocked out the power grid briefly rather than permanently.",
+  "quote": "sent down pulses of electric magnetic pulses like EMP burst",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "china",
+   "emp",
+   "satellites"
+  ],
+  "locations": [
+   "China",
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A satellite-delivered electromagnetic attack.",
+  "falsify_miss": "None. He distinguishes it from a permanent EMP, which narrows what would count."
+ },
+ {
+  "video_id": "LjVQoqPssYQ",
+  "start_s": 5474,
+  "claim_text": "He will pray over South Korea and China that they do not attack Taiwan and that this does not escalate into a third world war or a massive war, and for no retaliation on American soil, noting Australia is always at the bottom and to itself.",
+  "quote": "that they won't attack Taiwan",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "taiwan",
+   "china"
+  ],
+  "locations": [
+   "Taiwan",
+   "China",
+   "Australia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "No Chinese attack on Taiwan.",
+  "falsify_miss": "An attack. He prays against the outcome he says he was shown, as he does throughout."
+ },
+ {
+  "video_id": "1Bd3ILxtC40",
+  "start_s": 5168,
+  "claim_text": "Concerning the cartel rather than Iran, in Venezuela, he sees hostages and a young blonde woman in a white tank top tied to a chair being held, and hears the word mercenary, mercenaries being hired, he thinks by her family.",
+  "quote": "she's sitting in a in a chair and she's tied to this chair",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "trafficking",
+   "cartel"
+  ],
+  "locations": [
+   "Venezuela",
+   "Mexico"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A reported hostage case matching that description.",
+  "falsify_miss": "None reported. The white tank top and the hired mercenaries are the identifying details."
+ },
+ {
+  "video_id": "1Bd3ILxtC40",
+  "start_s": 5985,
+  "claim_text": "They are coming up through California along the side, and he calls every trail, every tunnel and every harbouring place uncovered.",
+  "quote": "they're coming up through California",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "border",
+   "tunnels"
+  ],
+  "locations": [
+   "California"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Smuggling tunnels found under the Californian border.",
+  "falsify_miss": "None new. Cross-border tunnels into California are found most years, which is the base rate."
+ },
+ {
+  "video_id": "1Bd3ILxtC40",
+  "start_s": 7545,
+  "claim_text": "Some of them were kidnapped out of a bar or club after something was put in their drink, which he believes is what happened to the blonde girl whose family is looking for her, and he says she will be seen in the news, will be set free, somebody will find her and she will go home.",
+  "quote": "you'll see her in the news. She's going to be set free",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "trafficking"
+  ],
+  "locations": [
+   "United States",
+   "Mexico"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A named rescue of a young woman reported in the news.",
+  "falsify_miss": "No such report. This is one of the few claims with a clean and near-term test."
+ },
+ {
+  "video_id": "1Bd3ILxtC40",
+  "start_s": 7593,
+  "claim_text": "No rock, cave, warehouse, trail, cavern or passage under the border that they can hide in, with everyone from Texas to California exposed and brought to justice.",
+  "quote": "There's no uh what the passage underneath our border",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "border",
+   "justice"
+  ],
+  "locations": [
+   "Texas",
+   "California"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A wave of prosecutions across the southern border states.",
+  "falsify_miss": "None. The prayer framing means partial enforcement can be read as the answer."
+ },
+ {
+  "video_id": "1Bd3ILxtC40",
+  "start_s": 7971,
+  "claim_text": "A bloodhound sniffing a trail with fat green ticks on it, which he reads as symbolic because it is about finances and drying them up, and he saw cash of a thousand or ten thousand dollars distributed according to rank to turn a blind eye.",
+  "quote": "they distributed it out to turn the blinded eye to stuff",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "corruption",
+   "payoffs"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A bribery network exposed with payments scaled by rank.",
+  "falsify_miss": "None exposed. Nobody is named and no agency is identified."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 3478,
+  "claim_text": "A regime change and major shaking coming to Cuba, and he saw them striking America in the middle of the night with a biological weapon brought to them from Russia, carried out with mules at night, looking radioactive with a symbol on the side.",
+  "quote": "I saw them striking us in the middle of the night",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "cuba",
+   "weapons",
+   "russia"
+  ],
+  "locations": [
+   "Cuba",
+   "Russia",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A Cuban attack on America using an unconventional weapon.",
+  "falsify_miss": "None. This is the earliest telling of the weapon held under Cuba."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 3520,
+  "claim_text": "They were hiding this weapon underneath the ground in Cuba, one in particular that was very powerful which he does not know was a nuclear device, and this was when he saw the purple dragon come up out of the ground three times.",
+  "quote": "they were hiding this weapon underneath the ground in Cuba",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba",
+   "weapons"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A weapon of that kind found in Cuba.",
+  "falsify_miss": "None found. He says himself he does not know what it was."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 3844,
+  "claim_text": "When America strikes Iran there is a Red Dawn experience and a D-Day on its own soil, and when they struck the cartel he said he saw the Mexican president being removed in the days ahead.",
+  "quote": "when we strike Iran, we have a red dawn experience, D-Day on our own soil",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "cells",
+   "iran",
+   "mexico"
+  ],
+  "locations": [
+   "United States",
+   "Mexico"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A coordinated attack inside America following strikes on Iran.",
+  "falsify_miss": "None. The condition is stated plainly: strike Iran and this follows."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 3887,
+  "claim_text": "The Secretary of State stood weeping for the people of Cuba and Mexico for a major revival, with light around him as he prays, and he says he truly sees him as commander-in-chief one day and prays for him to be president, and the same for the president's eldest son to take the baton.",
+  "quote": "I really truly see him as a commander-in-chief of this nation one day",
+  "source_mode": "VISION",
+  "certainty": "hedged",
+  "conditionality": "unconditional",
+  "topics": [
+   "politics",
+   "rubio"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "one day",
+  "time_precision": "none",
+  "falsify_match": "Either man becoming president.",
+  "falsify_miss": "Neither does. Both are testable at the 2028 election, though he says he does not know."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 3931,
+  "claim_text": "People keep asking who the gecko is, and he says he will not name people but that there is a chameleon influencing the president, so they must pray for discernment on the advice he hears and how he hears it.",
+  "quote": "there is chameleon in the and it's influencing President Trump",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "trump",
+   "advisers"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A senior adviser exposed as working against him.",
+  "falsify_miss": "None. He refuses to name the person, which removes what could be checked."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 4252,
+  "claim_text": "The Lord is removing the Somalian corruption and the president will drain the swamp, which takes time, and this is why the Lord said he will hold America and the church accountable for how they pray for him, because he saw a major plot.",
+  "quote": "I'm going to hold America accountable, the church",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "corruption",
+   "prayer"
+  ],
+  "locations": [
+   "United States",
+   "Minnesota"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A plot against the president disclosed.",
+  "falsify_miss": "None. Holding the church accountable means an unfulfilled outcome is their failure."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 4293,
+  "claim_text": "With the cartel leader taken out they must pray for the president's safety at an all-time high, especially as he believes they are about to see him take out the Ayatollah and bring in a new government in Iran, and he prays he pushes the button.",
+  "quote": "I believe we're about to see him take out the Ayatollah",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "iran",
+   "regime change"
+  ],
+  "locations": [
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The Iranian supreme leader removed by American action.",
+  "falsify_miss": "He is not. He says he prays the president will push the button, which is unusually direct."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 4334,
+  "claim_text": "Asked how Ezekiel 38 and 39 comes about he says he knows it will happen because the Bible says so, but the Lord does not want any to perish, and this disruption while they are distracted is a great opportunity for the underground church of Iran, which needs signs and wonders now.",
+  "quote": "They need signs and wonders and manifestations",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "if_x",
+  "topics": [
+   "iran",
+   "ezekiel",
+   "revival"
+  ],
+  "locations": [
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Documented signs and growth in the Iranian church during this period.",
+  "falsify_miss": "None. The condition on the church taking the opportunity covers an absence."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 4967,
+  "claim_text": "Electronic warfare through EMPs and the satellite umbrella he saw being used by China to give Iran a secret advantage, with every secret advantage, plan and plot called exposed and brought to light.",
+  "quote": "that satellite that I saw that was the umbrella",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "china",
+   "emp"
+  ],
+  "locations": [
+   "China",
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A Chinese satellite capability disclosed as aiding Iran.",
+  "falsify_miss": "None disclosed. Secret advantages we do not know about is unfalsifiable as stated."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 5072,
+  "claim_text": "When this happens Turkey and Syria, especially Turkey, will beat their war drums, and it is like a powder keg of a third world war.",
+  "quote": "This is Turkey when this happens, Turkey and Syria",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "turkey",
+   "syria",
+   "war"
+  ],
+  "locations": [
+   "Turkey",
+   "Syria"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Turkey and Syria moving militarily over the Iran conflict.",
+  "falsify_miss": "They do not. This is the earliest telling; Egypt is added to it the next day."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 5492,
+  "claim_text": "Concerning Cuba he hears retaliation out of desperation, a nation backed into a corner like a dog, and calls it their Hail Mary play.",
+  "quote": "IT'S THEIR HAIL MARY PRAYER PLAY",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "cuba",
+   "retaliation"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A desperate Cuban strike as the government falls.",
+  "falsify_miss": "None. Out of desperation is the motive he supplies for a state with no capability."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 5543,
+  "claim_text": "He asks whether they remember Hiroshima and Japan, and says that when you back someone into a corner during a regime change they become volatile like a junkyard dog.",
+  "quote": "DO YOU REMEMBER? HIROSHIMA. DO YOU DO YOU REMEMBER? JAPAN",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba",
+   "nuclear"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A weapon of that scale used from Cuba.",
+  "falsify_miss": "None. Cuba has no known nuclear capability, which is what would have to be shown."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 5595,
+  "claim_text": "Do not lose focus on Cuba and do not underestimate them, because although their economy is nothing and the people are rising up within, there is great evil there with a mindset that does not care, and witchcraft around them.",
+  "quote": "DON'T UNDERESTIMATE THEM. DON'T UNDERESTIMATE THEM",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "cuba"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Cuban action beyond what its capability suggests.",
+  "falsify_miss": "None. He concedes the economy is nothing, which is the argument against his own claim."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 5671,
+  "claim_text": "The Lord will bring it to nothing and liberate the people of Cuba, with a great shaking coming to their nation and a great new leader coming forth, and he says to contend for it and pull it down.",
+  "quote": "A GREAT NEW LEADER WILL COME FORTH. CONTEND FOR IT",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "cuba",
+   "liberation"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A new Cuban leader after a change of government.",
+  "falsify_miss": "None. Contend for it means an absence can be laid at the audience's door."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 5951,
+  "claim_text": "A shaking through Mexico, Venezuela and Colombia because there are different sectors of cartel leaders and the Lord is shaking each one, for the trafficking of young girls and young men, across multiple territories.",
+  "quote": "I see these different cartel leaders and the Lord said I'm shaking",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cartel",
+   "trafficking"
+  ],
+  "locations": [
+   "Mexico",
+   "Venezuela",
+   "Colombia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Multiple cartel leaderships broken across those countries.",
+  "falsify_miss": "None. This is the earliest telling of the cartel shaking."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 6093,
+  "claim_text": "The next cartel leader is about to go and it will be heard in the news, then another, with great turmoil and turf wars coming, and he asks whether they remember what he said about the five families of the American mafia, who stand against the man over New York because they do not want what he wants.",
+  "quote": "I see this next leader, he's about to go",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cartel",
+   "mafia",
+   "new york"
+  ],
+  "locations": [
+   "Mexico",
+   "New York"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A named cartel leader removed, and organised crime moving against the New York mayor.",
+  "falsify_miss": "Neither. This is the earliest telling of the five families standing against him."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 6263,
+  "claim_text": "It goes clear into Italy and into the rich area around Monaco, with a shaking of people rising up, and the Lord tells him he has covered this and now he is praying over Cuba and a dog backed in the corner, and the mafia.",
+  "quote": "And it goes clear into Italy",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "mafia",
+   "italy"
+  ],
+  "locations": [
+   "Italy",
+   "Monaco"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An organised crime case running from America into Italy and Monaco.",
+  "falsify_miss": "None. Monaco is named as the endpoint, which is the specific part."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 6639,
+  "claim_text": "He saw them walking through it across America, in sports, Hollywood, politics and big business, where people move from rank to rank through certain acts, and certain politicians who slither on their bellies appear to have immunity and are never jailed.",
+  "quote": "you go there from rank to rank through uh certain acts",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "elites",
+   "corruption"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An initiation network of that kind exposed.",
+  "falsify_miss": "None exposed. He names no one, and immunity is the reason he gives for the absence of cases."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 6859,
+  "claim_text": "Things are going to be shaking and the United States goes through a metamorphosis, the church and the country as a whole, so that looking back everything will have changed from what was known even in the fifties.",
+  "quote": "the United States of America is going to go through this metamorphosis",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "america",
+   "change"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "A visible transformation of American institutions.",
+  "falsify_miss": "None. Everything has changed is not tied to anything measurable."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 6911,
+  "claim_text": "Every plot on the homeland soil found by the agencies through the chatter, with how they communicate simultaneously exposed by the NSA and Homeland Security, as when he said they were communicating with an underground thing and they busted the thing in New York.",
+  "quote": "when I told you they were communicating with an under ground thing",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "cells",
+   "communications"
+  ],
+  "locations": [
+   "United States",
+   "New York"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A covert communications network disclosed after his word.",
+  "falsify_miss": "None disclosed. He points back to a New York case as the earlier confirmation."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 7258,
+  "claim_text": "People raised up who stand against abortion, one nation under God, one more push and one great revival from sea to shining sea and from the Gulf to Canada, and he believes the Canadian prime minister will find God however dark his heart looks.",
+  "quote": "I believe Canada that Carney, father, will find you in some way",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "canada",
+   "revival"
+  ],
+  "locations": [
+   "Canada",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A public profession of faith by the Canadian prime minister.",
+  "falsify_miss": "None. He states plainly how dark he sees the man's heart, which makes this the harder half."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 7300,
+  "claim_text": "No heart is too hard, and the Canadian prime minister will be on fire for God and will not persecute the church of Canada through the laws he sees coming over the next six months and already being talked about, with the church rising to stand against them from Ontario across to British Columbia.",
+  "quote": "the laws that I see coming even over the next 6 months",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "canada",
+   "legislation"
+  ],
+  "locations": [
+   "Canada",
+   "Ontario",
+   "British Columbia"
+  ],
+  "time_phrase": "the next 6 months",
+  "time_precision": "month",
+  "falsify_match": "Canadian speech legislation passing before September 2026.",
+  "falsify_miss": "None passes. The six month window is the datable part and closes in August 2026."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 7400,
+  "claim_text": "It is not a hate crime to tell people the truth of what the Bible says, and he calls revival throughout Asia, that Taiwan will stand strong and China will not take it with a bloodline around it, and that the North Korean leader and his tyrant sister are removed.",
+  "quote": "That Kim Jong-un is removed. That his tyrant sister is removed",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "north korea",
+   "taiwan"
+  ],
+  "locations": [
+   "North Korea",
+   "Taiwan"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Both the leader and his sister removed.",
+  "falsify_miss": "Neither is. Naming both raises the bar above the general removal claim."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 7529,
+  "claim_text": "It spreads throughout Japan with a shaking coming across the land, and fire in the church of South Korea with healings and manifestations of the glory throughout, spreading into North Korea.",
+  "quote": "AND IT SPREAD ALL THROUGHOUT JAPAN",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "revival",
+   "korea",
+   "japan"
+  ],
+  "locations": [
+   "Japan",
+   "South Korea",
+   "North Korea"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Documented revival across those three countries.",
+  "falsify_miss": "None. Japanese Christians are about one per cent of the population, which is the base rate to move."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 7893,
+  "claim_text": "A named Minnesota congresswoman is called to resign under pressure so strong that she will resign over the corruption in that state, with the financial corruption exposed in Michigan, Philadelphia, Pennsylvania, Los Angeles, Nevada and New York.",
+  "quote": "the pressure will come on her so strong that she'll resign",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "politics",
+   "corruption"
+  ],
+  "locations": [
+   "Minnesota",
+   "Michigan",
+   "Pennsylvania",
+   "Nevada",
+   "New York"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "That congresswoman resigning.",
+  "falsify_miss": "She does not. A resignation is a concrete act that would be reported."
+ },
+ {
+  "video_id": "Ywv1xy-ko9U",
+  "start_s": 8041,
+  "claim_text": "Looking into the air strike groups and battleships he says it is very serious to protect a named American carrier and the other strike groups, and prays over the bases closest to Iran and anyone still in them.",
+  "quote": "This is very, very serious to protect uh Abraham Lincoln",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "navy",
+   "iran"
+  ],
+  "locations": [
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An attack on that carrier or on the nearby bases.",
+  "falsify_miss": "None. This is the earliest naming of the carrier, which can be checked against deployment records."
+ },
+ {
+  "video_id": "V5WgYqWpBgk",
+  "start_s": 1402,
+  "claim_text": "He says he does not have it all figured out but is closer than a lot of them, that it came out of pressure and cultivation, that there is fruit in what he sees, and that the forty million is not there yet because the haters will run.",
+  "quote": "The 40 million isn't there yet because the haters are going to run",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "ministry",
+   "reach"
+  ],
+  "locations": [],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "His reach growing to that figure.",
+  "falsify_miss": "It does not. He does not say what the forty million counts."
+ },
+ {
+  "video_id": "V5WgYqWpBgk",
+  "start_s": 1706,
+  "claim_text": "The golden stream with demons coming up out of the coins, and the Lord reminding him this is the beginning of the beast system and a new industrial revolution, with clarity coming, like Benjamin Franklin starting out with electricity, everything backed by AI.",
+  "quote": "this is the beginning of the beast system",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "crypto",
+   "beast system",
+   "ai"
+  ],
+  "locations": [],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "Digital currency infrastructure becoming a system of control.",
+  "falsify_miss": "It does not. Beast system is a reading rather than an event."
+ },
+ {
+  "video_id": "V5WgYqWpBgk",
+  "start_s": 1761,
+  "claim_text": "New weapons that nobody knows exist in America, China and Israel through AI, with prototypes ready to be mass produced that he was allowed to see, described as frightening weapons of war on both sides, but the Lord told him to be still and draw it back and not share what he saw.",
+  "quote": "New weapons that no one knows exist",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "weapons",
+   "ai"
+  ],
+  "locations": [
+   "United States",
+   "China",
+   "Israel"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Novel weapon systems disclosed in those three countries.",
+  "falsify_miss": "None disclosed. He is told not to share what he saw, which removes the detail that could be checked."
+ },
+ {
+  "video_id": "V5WgYqWpBgk",
+  "start_s": 1937,
+  "claim_text": "They have such a stronghold in Mexico's government and politics that the politicians are bought puppets, with billions corrupted through trafficking children and fentanyl, and he says the president needs to go in and wipe it out because it is a cancer that came through Venezuela.",
+  "quote": "These people are are just uh puppets",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "mexico",
+   "cartel"
+  ],
+  "locations": [
+   "Mexico",
+   "Venezuela"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Evidence of cartel control over Mexican officials at that scale.",
+  "falsify_miss": "None established. He asks himself how you police the world, which is the honest note."
+ },
+ {
+  "video_id": "V5WgYqWpBgk",
+  "start_s": 2052,
+  "claim_text": "The Lord wishes none should perish, and this will be cultivated and combed with prayer and people rising up with a backbone, and looking into Cuba he was shown how dark the darkness was and how much the body of Christ has to rise up and take the land back.",
+  "quote": "the Lord showed me how dark the darkness was",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "if_x",
+  "topics": [
+   "cuba",
+   "prayer"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing observable on its own.",
+  "falsify_miss": "Nothing observable. Conditioning it on people rising up covers any absence."
+ },
+ {
+  "video_id": "V5WgYqWpBgk",
+  "start_s": 2846,
+  "claim_text": "A silhouette with beautiful stones on a crown, and in the throne room writing carved into the walls that he says was hieroglyphics rather than cursive writing.",
+  "quote": "there's writing that I still would try to make out",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "heaven",
+   "visions"
+  ],
+  "locations": [],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing observable.",
+  "falsify_miss": "Nothing observable. An account of a vision rather than a forecast."
+ },
+ {
+  "video_id": "Ux9iGMe2HSo",
+  "start_s": 1106,
+  "claim_text": "He says the clip is probably AI and not the real man, that a legion is a Roman unit of three to six thousand men and has nothing to do with demons, and asks whether the word was spot on, answering no, because he saw a ransom of forty million dollars and the man mentioned nothing about it.",
+  "quote": "Now is the word spot on what God showed me? No",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "self-assessment"
+  ],
+  "locations": [],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A ransom demand of that size surfacing later.",
+  "falsify_miss": "None surfaces. This is the clearest admitted miss in the corpus."
+ },
+ {
+  "video_id": "Ux9iGMe2HSo",
+  "start_s": 1202,
+  "claim_text": "They were going to get secret information of the Epstein file kind to expose darkness in major arenas and wanted a ransom of over forty million dollars, but they did not get it, and he says that as of right now that word is not all right, though a ransom concerning the elites may still come.",
+  "quote": "as of right now that word's not all right",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "self-assessment",
+   "epstein"
+  ],
+  "locations": [],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A ransom demand over such files in the days ahead.",
+  "falsify_miss": "None. He scores his own word as not right here, then leaves it open for a later fulfilment."
+ },
+ {
+  "video_id": "Ux9iGMe2HSo",
+  "start_s": 1442,
+  "claim_text": "A named basketball team seen very boldly with the colours connected to this darkness and key figures past and present tied to it along with musicians living and dead, going on underground since the foundation of America, and a new Edward Snowden who will leak things out of the Vatican where he saw file cabinets lining a hall.",
+  "quote": "a new Edward Snowden in the days ahead that will even leak things",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "corruption",
+   "vatican",
+   "leaks"
+  ],
+  "locations": [
+   "Los Angeles",
+   "Vatican"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "A major leak of Vatican records, or named sports figures exposed.",
+  "falsify_miss": "Neither. Naming the team is the specific part; the leaker is unnamed."
+ },
+ {
+  "video_id": "Ux9iGMe2HSo",
+  "start_s": 2496,
+  "claim_text": "Oil tankers headed toward Europe with people watching the flight patterns, and he clarifies that the gecko he saw was not Elon Musk, who presented himself at that time as a rat rather than a gecko, a lizard or a chameleon.",
+  "quote": "I said Elon Musk presented himself at that time as a rat",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "musk",
+   "advisers"
+  ],
+  "locations": [
+   "Europe"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing directly. A clarification of an earlier image.",
+  "falsify_miss": "Nothing. Recorded because the animal labels are reassigned between people across the corpus."
+ }
+]

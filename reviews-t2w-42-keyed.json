@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "3b0bb468871ca9f7",
+"claim_id": "sooners-asia-first-on-crypto",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The Sooners explained again as Japan and South Korea moving before America."
+},
+{
+"mention_id": "3d6f17efa586c91d",
+"claim_id": "sooners-asia-first-on-crypto",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Claimed fulfilment on Japanese crypto legislation. Japan's reclassification of crypto under its financial instruments law had been publicly in progress since early 2025, so the call was not against the run of the news."
+},
+{
+"mention_id": "29e8d11e6b377842",
+"claim_id": "sooners-asia-first-on-crypto",
+"same_event": "yes",
+"delta_type": "exact_repeat",
+"confidence": 0.75,
+"note": "Third telling in three minutes, after a digression."
+},
+{
+"mention_id": "490a376dfafaa475",
+"claim_id": "iraq-mirrors-saudi-arabia",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Palm trees, Rolls-Royces and a new era around the oil."
+},
+{
+"mention_id": "5c5431ef6c13efec",
+"claim_id": "iraq-leader-five-oclock-shadow",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Three faces rather than one, with a younger Saddam Hussein given as the likeness. Adds specificity but also widens the target."
+},
+{
+"mention_id": "170b822cfd043d6c",
+"claim_id": "iraq-syria-pipeline-bypasses-hormuz",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and it comes from a report he is being shown rather than from a vision. The Kirkuk to Baniyas line has been announced as reviving several times since 2010 without being rebuilt."
+},
+{
+"mention_id": "72dedbfba854df70",
+"claim_id": "iran-infrastructure-set-back-decades",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Names the electric grid as the target of the coming attack."
+},
+{
+"mention_id": "9017b4370fdd7dfd",
+"claim_id": "iran-cuts-undersea-cables",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. A specific act against specific infrastructure, which makes it checkable."
+},
+{
+"mention_id": "f81d7c92569cbb0e",
+"claim_id": "jihad-and-mahdi-instability",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Puts the Mahdi motive on Iranian desperation and ties it to a strike on Israel."
+},
+{
+"mention_id": "feba2af4f7c069d4",
+"claim_id": "iran-bomb-israel",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "One untested weapon held for Israel, called the black rocket here, which links it to one-black-missile-for-israel."
+},
+{
+"mention_id": "3a0ebd2e1f751906",
+"claim_id": "iran-second-regime-change-bald-man",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Another regime change, with civil war explicitly not wanted."
+},
+{
+"mention_id": "d0cac344c54b7587",
+"claim_id": "arab-coalition-boots-on-ground-iran",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the American posture: assist rather than lead, framed as the art of the deal."
+},
+{
+"mention_id": "d02c660644591404",
+"claim_id": "arab-coalition-boots-on-ground-iran",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds Jordan in and Pakistan out, which is a falsifiable alignment."
+},
+{
+"mention_id": "40eb2c0a64d96993",
+"claim_id": "iraq-syria-pipeline-bypasses-hormuz",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that Iraq develops the pipeline with America specifically, and notes in passing that his son edits the tongues out of the recordings."
+},
+{
+"mention_id": "4cb59b46dd39f3c3",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "A financial advice disclaimer. No forward content."
+},
+{
+"mention_id": "f62f74297820ab19",
+"claim_id": "drones-given-by-iran",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "He claims the drones did not exist and nobody was talking about them when he called it. Iranian drone transfers were widely reported from 2022, though not to Cuba."
+},
+{
+"mention_id": "0ac487b1f5a1fd2f",
+"claim_id": "drones-given-by-iran",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.6,
+"note": "He assumes the delivery date and says so, adding that they see in part. The attribution is his inference, not part of the word."
+},
+{
+"mention_id": "edad30354335d34d",
+"claim_id": "democratic-mole-leaks-to-zelensky",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds a building and that the mole was pretending to be something he was not."
+},
+{
+"mention_id": "28905772ea693b88",
+"claim_id": "cuban-leader-double-flees",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the route, boat to Haiti then jet to Mexico, and names the Mexican president as harbouring him."
+},
+{
+"mention_id": "27aae38de29884f0",
+"claim_id": "cuban-leader-double-flees",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds an underground silo and that the double died without America knowing. He corrects Haiti to the Dominican Republic mid-passage."
+},
+{
+"mention_id": "f39909678bae282a",
+"claim_id": "trump-assassination-attempt",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He rules out the story in front of him as a copycat and a false flag rather than claiming it. That is a refusal to bank an easy match."
+},
+{
+"mention_id": "002206022bd65974",
+"claim_id": "assassins-through-canada-michigan",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Special operations types moving at night through Canada into Michigan, set against the online figure who was arrested."
+},
+{
+"mention_id": "ef352e1c8713e57d",
+"claim_id": "banderas-man-rises-in-mexico",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. The condition on people praying means a non-event does not falsify it."
+},
+{
+"mention_id": "3e367ae0c3bec35c",
+"claim_id": "no-more-church-as-usual",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Puts the blame on preachers rather than the president, a second de-politicising passage in two batches."
+},
+{
+"mention_id": "abf5e83b462cc6b7",
+"claim_id": "turkey-vampire-dracula-cape",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The vampire again, this time as a warning against an American alliance with Turkey."
+},
+{
+"mention_id": "cf0068687fb83026",
+"claim_id": "zelensky-flees-with-cash",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The Jason Bourne scene restated, and he stops to make clear he means Zelensky and not Macron."
+},
+{
+"mention_id": "cf7f89d7dc236ce4",
+"claim_id": "devil-instructing-businessmen",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Satan going to meetings with wealthy people. Nothing here can be checked, and the note records that."
+},
+{
+"mention_id": "01df11d51a1ecb49",
+"claim_id": "retaliation-against-trump-children",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Don Jr seen again, alongside the Clarity Act, in three back to back visions he does not describe."
+},
+{
+"mention_id": "30caf2175b888544",
+"claim_id": "teddy-bear-over-europe-snake",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Given without an interpretation, which means it can be attached to anything later."
+},
+{
+"mention_id": "04d4a9905efed2ea",
+"claim_id": "flipping-of-the-script-to-homeland-cuba",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. A directional call about where policy attention moves, which is checkable."
+},
+{
+"mention_id": "f5cbd451d460bc52",
+"claim_id": "trump-wartime-president",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.6,
+"note": "Prayer that he finish strong with a legacy. Protective rather than predictive."
+},
+{
+"mention_id": "df8a04a797eb1aff",
+"claim_id": "retribution-days-coming",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Conditioned on past sowing, which puts any shortfall on the hearer rather than on the claim."
+},
+{
+"mention_id": "db05bfb8167c8f71",
+"claim_id": "trump-assassination-attempt",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "A new attack seen, with a black mamba as the image."
+},
+{
+"mention_id": "767a7fd3df599c02",
+"claim_id": "toronto-cells-northern-border",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "A Toronto street festival shooting reported. He does not claim it as his, and no link to the cells is drawn in the passage."
+},
+{
+"mention_id": "9275d340d55e40e6",
+"claim_id": "prophetic-accuracy-2025",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "He says there is too much prophetic weirdness and he does not want to add to it. Worth recording alongside the passages where he then claims loose matches."
+},
+{
+"mention_id": "04f504bee41482ba",
+"claim_id": "cuba-retaliation-against-america",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds New Orleans and Florida as entry points and a simultaneous Iran and Cuba attack with the enemy within."
+},
+{
+"mention_id": "b745a0f8387c3ac6",
+"claim_id": "secret-device-chatter-to-troops-here",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. The intermittent broadcast schedule is an unusually specific operational detail for this corpus."
+},
+{
+"mention_id": "0d91b1a131f9f98d",
+"claim_id": "latino-men-tortured-in-a-room",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He does not say where the room is, which removes the checkable part."
+},
+{
+"mention_id": "f0fd559af32a82c9",
+"claim_id": "fox-looking-at-america",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He marks it symbolic and says he does not know what it means, in advance."
+},
+{
+"mention_id": "2059269e90f0da8c",
+"claim_id": "cuba-liberation-by-surprise",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that the president was ready to move from Iran to Cuba and that it would not last long."
+},
+{
+"mention_id": "d3487af30699dc4d",
+"claim_id": "cuba-revival-rubio-tens-of-thousands",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Rubio with favour among Latinos and Cubans, with the Saul and David line applied to the vice president."
+},
+{
+"mention_id": "2ceff50264630f9a",
+"claim_id": "earthquakes-shake-cuba",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Eastern Cuba recorded a magnitude 6.8 in November 2024, so felt quakes there are not unprecedented and the bar for a match should be a damaging event."
+},
+{
+"mention_id": "6bab271979023097",
+"claim_id": "prophetic-accuracy-2025",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.7,
+"note": "Claimed accuracy on something said on the fourth that appeared on Fox nine days later. The passage does not say what the item was, so the match cannot be checked from it."
+},
+{
+"mention_id": "de9eefda1ad95cd1",
+"claim_id": "cuba-retaliation-against-america",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Puts a geographic range on it: Texas, Oklahoma, Missouri, almost to Colorado. That is roughly a thousand mile radius, which is far beyond current Cuban drone reach."
+},
+{
+"mention_id": "87f54ea22631aab3",
+"claim_id": "fox-looking-at-america",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The fox again, watching New Orleans and America, with a second statement that he does not know what it means."
+},
+{
+"mention_id": "ce568ab351d341d2",
+"claim_id": "drones-given-by-iran",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "A named public figure raising an alarm about Iranian drones in Cuba is cited as confirmation of the earlier word."
+},
+{
+"mention_id": "c16d9f966b994f47",
+"claim_id": "persecution-spreads-england-then-europe",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "Extends the persecution to the Jews and to New York specifically, tied to the incoming mayor."
+},
+{
+"mention_id": "1956de1b4aa15541",
+"claim_id": "jews-flee-to-israel-take-gaza",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Names ministries organising the return and adds the big net image."
+},
+{
+"mention_id": "9924eae7520f24af",
+"claim_id": "iran-infrastructure-set-back-decades",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He narrows it himself: a majority of the nation rather than the whole, which is a rare downward qualification."
+},
+{
+"mention_id": "c8bb93020eabec8a",
+"claim_id": "iraq-economic-boom",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds article 140 and states plainly that much corruption remains in Iraq. Article 140 of the Iraqi constitution has been unimplemented since 2007."
+},
+{
+"mention_id": "dbab2f56c12c15b9",
+"claim_id": "iran-kamikaze-escalation",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 13 July 2026, thirteen days before the 26 July version this claim was seeded from."
+},
+{
+"mention_id": "9e300841bebd3b8e",
+"claim_id": "iran-kamikaze-escalation",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He and his co-host look up what kamikaze means during the broadcast, which is worth recording as how the word is being handled."
+},
+{
+"mention_id": "fbee78693e73fb43",
+"claim_id": "freedom-fighters-armed-in-iran",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He attributes the phrase freedom fighters to the Lord and thanks the Holy Spirit for supplying it mid-sentence."
+},
+{
+"mention_id": "3fac952e35c4cfe2",
+"claim_id": "freedom-fighters-armed-in-iran",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the trucks and head coverings, described as looking Afghan."
+},
+{
+"mention_id": "3351ed070a29e283",
+"claim_id": "arab-coalition-boots-on-ground-iran",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 13 July 2026, four days before the 17 July version this claim was seeded from. Adds the alignment: Saudi in, Pakistan neutral, Turkey pretending."
+}
+]
+}

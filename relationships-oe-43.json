@@ -1,0 +1,11 @@
+{"relationships":[
+{"from_claim":"no-plan-b-supreme-court","to_claim":"economy-dam-cracks","rel_type":"related_to","asserted_by":"brandon",
+ "evidence_video":"UnQMJN0Ia7g","evidence_start_s":1802,
+ "note":"He cites the dam he was shown in the same breath as the court and the dollar."},
+{"from_claim":"microwave-jesus-2028","to_claim":"rapture-by-2028","rel_type":"contradicts","asserted_by":"system",
+ "note":"He says his heart wants 2028 and that what he just saw indicates otherwise. Second time in a month he has pushed back on a date his own audience holds."},
+{"from_claim":"microwave-jesus-2028","to_claim":"rapture-not-2026","rel_type":"related_to","asserted_by":"system",
+ "note":"Two negative calls three weeks apart, both against dates his audience is attached to."},
+{"from_claim":"revival-bigger-than-azusa","to_claim":"greatest-harvest-of-souls","rel_type":"related_to","asserted_by":"system",
+ "note":"Supplies a historical benchmark, Brownsville and Azusa Street, that the older revival claims lack."}
+]}

@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "320b60d150437a7d",
+"claim_id": "lavender-peace-over-russia",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He says outright that he would love to be wrong about the war he believes he was shown. That is the strongest hedge in the corpus and it is offered unprompted."
+},
+{
+"mention_id": "fdbcb7d1b4969f1c",
+"claim_id": "watch-carney",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Canadian sanctions on Russia read as joining the escalation bloc."
+},
+{
+"mention_id": "b6815f8bd2f976c9",
+"claim_id": "turkey-red-hat-soldiers",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Red hats marching out of Syria and Turkey with a ground invasion."
+},
+{
+"mention_id": "42cc65ba19f86433",
+"claim_id": "italy-shaken-europe-revival",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "Splits in the road in Europe. His co-host supplies the reading that this means an earthquake."
+},
+{
+"mention_id": "f5a084d2e03cc46b",
+"claim_id": "temple-quakes",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "A 6.4 in China claimed as the temples being shaken down. No temple damage is cited, and a 6.4 in China is not unusual."
+},
+{
+"mention_id": "126cac6c77eecddd",
+"claim_id": "black-sea-strait-closed",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "A Russia and Turkey meeting claimed as the aid word. Bilateral meetings between them are routine."
+},
+{
+"mention_id": "ebca11c37a9e69e6",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "A commentator clip on Israel's regional standing."
+},
+{
+"mention_id": "fc9fe8bc41d8c81a",
+"claim_id": "great-betrayal-of-israel",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds Turkey joining Russia against Israel and closing the strait as the shape of the betrayal."
+},
+{
+"mention_id": "657eb52e48afe7c3",
+"claim_id": "turkey-vampire-dracula-cape",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The vampire and the tyrant, with the strait, and a claim that it is already starting."
+},
+{
+"mention_id": "b753d9239a8ec789",
+"claim_id": "russian-weapon-warsaw-mushroom",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He places himself inside a Putin and Zelensky meeting in the spirit and reports the cat and mouse line from it."
+},
+{
+"mention_id": "8021f1a71a04b1fe",
+"claim_id": "bc-ocean-volcano-dead-fish",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "He points back to his own previous video for the pre-commitment, with the dying fish as the sign."
+},
+{
+"mention_id": "3092413de7eedb42",
+"claim_id": "bc-secession",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds Quebec wanting to leave and become a state, and clarifies the British Columbia move follows the earthquake."
+},
+{
+"mention_id": "58fe5f4425b33da5",
+"claim_id": "movie-theatre-revival",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Distinct from movie-2026-evangelism by naming the mechanism: tracts handed out and conversions in the auditorium itself."
+},
+{
+"mention_id": "f88a6a9ac981400b",
+"claim_id": "brain-implant-mark",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds Starlink as the delivery layer for the Antichrist system alongside the implant."
+},
+{
+"mention_id": "6a672fd1c966223c",
+"claim_id": "europe-wants-war-for-economies",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Germany ready to fight Russia, taken from a headline."
+},
+{
+"mention_id": "31b5c297fd396eae",
+"claim_id": "women-with-flag-sparkles-in-cities",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. The description matches ordinary Fourth of July crowds in five large cities, which makes it very easy to match after the fact."
+},
+{
+"mention_id": "e859d11b4ce0454f",
+"claim_id": "fox-looking-at-america",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds France to the Cuba and New Orleans set for the first time."
+},
+{
+"mention_id": "76a237e90d1dae59",
+"claim_id": "fox-looking-at-america",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "The pilot light ticking used as the image for how close he thinks it is."
+},
+{
+"mention_id": "ca2906030c2bd15e",
+"claim_id": "israel-acts-alone-on-iran-oil",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Israel acting alone, taken from news articles as well as vision."
+},
+{
+"mention_id": "f4df5264b4afdb37",
+"claim_id": "israel-acts-alone-on-iran-oil",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that the strike will not be American and that great antisemitism follows it."
+},
+{
+"mention_id": "dd1f914043fae30b",
+"claim_id": "israel-acts-alone-on-iran-oil",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "He states plainly that he can miss it. Second such admission in this batch, after the lavender passage."
+},
+{
+"mention_id": "7ee26c8e63f4d7dc",
+"claim_id": "latino-men-tortured-in-a-room",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 16 June 2026, four weeks before the 13 July version this claim was seeded from. Adds bars on the windows."
+},
+{
+"mention_id": "e545b58c15dec788",
+"claim_id": "fox-looking-at-america",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The fox and the voodoo witch, given here four weeks before the telling w42 recorded."
+},
+{
+"mention_id": "97a61fe5a85f82a2",
+"claim_id": "earthquakes-shake-cuba",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 16 June 2026, four weeks before the 13 July version this claim was seeded from."
+},
+{
+"mention_id": "3bb0421db1b82748",
+"claim_id": "cuba-revival-rubio-tens-of-thousands",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The tens of thousands and thousands line, with Vance identified as Saul."
+},
+{
+"mention_id": "ae0b2b94b081c9ca",
+"claim_id": "cuba-cold-war",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the instruction to look at the president with Kennedy and the patches of stars he cannot interpret."
+},
+{
+"mention_id": "4689dd993bee9971",
+"claim_id": "israel-acts-alone-on-iran-oil",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Israeli statements of sovereign action claimed as the word coming to pass. Such statements are routine and predate this."
+},
+{
+"mention_id": "8dd9ab382e4c12f8",
+"claim_id": "prophetic-accuracy-2025",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "He claims a twelve to twenty four hour turnaround as acceleration. What followed was a general statement of sovereignty, which is the standing Israeli position."
+},
+{
+"mention_id": "621e072fdd219c58",
+"claim_id": "netanyahu-holds-lebanon-security-zone",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds shelling of southern Lebanon as the act of defiance."
+},
+{
+"mention_id": "0009a9759918485b",
+"claim_id": "macron-rises-like-hitler",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "A Russian official calling Germany Nazi treated as confirmation. Russian officials have used that comparison throughout the war."
+},
+{
+"mention_id": "43c8bad5778bae47",
+"claim_id": "berlin-caverns-hitler-summoning",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the swastika out of Berlin spreading like a Batman signal, and he asks the audience to vouch for the earlier telling."
+},
+{
+"mention_id": "8554dff44b6f728a",
+"claim_id": "europe-wants-war-for-economies",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "German and Ukrainian military cooperation read as ramping up. The quoted measure is an exchange of experience, which is training."
+},
+{
+"mention_id": "dd4c9e9c30717603",
+"claim_id": "newsom-ambitions",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the forked tongue and the demonic trance to the serpent image, and puts the move after he is finished in California."
+},
+{
+"mention_id": "6669058d2b55fd81",
+"claim_id": "politicians-secret-bank-accounts",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Twenty four billion in secret accounts from Ukraine aid."
+},
+{
+"mention_id": "47f37b04e97efc84",
+"claim_id": "politicians-secret-bank-accounts",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds Swiss accounts and South Africa as destinations. The same twenty four billion figure appears elsewhere in this corpus attached to a domestic party slush fund instead."
+},
+{
+"mention_id": "e5698df312c81c4b",
+"claim_id": "red-tip-missiles-moscow",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.7,
+"note": "He asks whether British missiles are long range and says he saw things that looked like them. The stated purpose is countering drones, which implies short range air defence."
+},
+{
+"mention_id": "dcf6346c34800667",
+"claim_id": "emergency-911-disruption",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds Hawaii and calls the disruptions a practice run. Calling something a practice run means the absence of the larger event is not yet a miss."
+},
+{
+"mention_id": "2885380ec9fbeeb3",
+"claim_id": "voter-fraud-named-states",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds California and the instruction to push the elections through."
+},
+{
+"mention_id": "120a1754fa2fa16a",
+"claim_id": "multi-city-protest-wave",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "Trouble on the streets with prayer over his own city named."
+},
+{
+"mention_id": "be9ea76becb0307e",
+"claim_id": "scorpion-tail-commonwealth-persecution",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Ties the scorpion tail to a new digital currency and a one world order, and names Canada and Carney."
+},
+{
+"mention_id": "9514e039ed773788",
+"claim_id": "cuba-cold-war",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "A photograph's backdrop read as deliberate signalling about Kennedy and Cuba."
+},
+{
+"mention_id": "ea46416561b4ae04",
+"claim_id": "australia-digital-id-2027",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that it comes in through the children first and blocks named platforms."
+},
+{
+"mention_id": "730b24babcbc18fc",
+"claim_id": "rebirthing-on-the-250th",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Two sides of a coin, so hardship and blessing both count as the rebirthing arriving."
+},
+{
+"mention_id": "318d7107408025a0",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "A recollection of praying for an unnamed person at a stated hour. No forward content."
+},
+{
+"mention_id": "4af3a130c055c6d3",
+"claim_id": "successful-attempt-on-his-life",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and the severest in the batch: an attempt that will succeed, with the church held responsible for whether it does. He does not name the man in this passage."
+},
+{
+"mention_id": "4d6d1df2a396991b",
+"claim_id": "erica-and-seven-blacked-oaks",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Elsewhere four oaks were read tentatively as four years; here there are seven and they are blackened, with a widow consoling the nation."
+},
+{
+"mention_id": "1807afad8700950e",
+"claim_id": "trump-three-days-in-france",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, taken from a public announcement he says he is hearing for the first time rather than from a vision."
+},
+{
+"mention_id": "c0ba63eff0b50b29",
+"claim_id": "fig-tree-ripe-ezekiel-at-the-door",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He asks whether the Iran deal is the reprieve that brings Ezekiel 38 rather than asserting it, which is the right form for a question."
+},
+{
+"mention_id": "69c5809c1791d148",
+"claim_id": "zelensky-black-widow-web-europe",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 15 June 2026, four days before the 19 June version this claim was seeded from."
+},
+{
+"mention_id": "e61ed74ae7f5438e",
+"claim_id": "turkey-vampire-dracula-cape",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "He names Greece first and corrects to Turkey, saying Greece was in his mind. Recorded rather than smoothed."
+},
+{
+"mention_id": "a81a02e920bd664a",
+"claim_id": "macron-rises-like-hitler",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "United like Hitler, claimed as seen in the spirit, after the wrong video is played."
+},
+{
+"mention_id": "9eae682d830d54e4",
+"claim_id": "london-bridge-is-falling-down",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Big Ben turning into a moon, which he marks symbolic himself, alongside churches burning and Turkish war drums."
+},
+{
+"mention_id": "5246143cd60c4390",
+"claim_id": "water-supply-attack-gulf-states",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Water infrastructure named as a target, alongside a note that Russia is out of gas."
+},
+{
+"mention_id": "6fa8840055c2c9b5",
+"claim_id": "water-supply-attack-gulf-states",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "The California water intrusion claimed as the attack landing. He treats a hack and a shutdown of treatment as the same thing, and the reported incident is an intrusion."
+},
+{
+"mention_id": "ee642b333a2cdaf7",
+"claim_id": "new-trump-tower-and-barron",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.6,
+"note": "The son's influence through how he communicates, with a reported birthday call from Russia alongside."
+}
+]
+}

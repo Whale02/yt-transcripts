@@ -1,0 +1,49 @@
+[
+  {"video_id": "CoXY2EJ5oDA", "start_s": 3410, "claim_id": "significant-artifact-found",
+   "same_event": "unsure", "delta_type": "contradiction",
+   "note": "The origin date moves. On 9 July he dated this word to February; here, a week earlier, to January. Both recorded and neither withdrawn, because which month it was decides whether any news item postdates it."},
+
+  {"video_id": "CoXY2EJ5oDA", "start_s": 3717, "claim_id": "plague-2027-china-rats-europe",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The most specific form of the plague claim on file: a continent, a vector, a season, a two-month escalation and a number. 350 million is roughly one person in twenty-three alive, which is what makes it scoreable rather than vague."},
+
+  {"video_id": "CoXY2EJ5oDA", "start_s": 7267, "claim_id": "israel-revival",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "No date and no threshold. The ripe figs image is the standard marker used across this corpus for whatever season is under discussion, so it adds no timing here."},
+
+  {"video_id": "CoXY2EJ5oDA", "start_s": 10414, "claim_id": "salvation-tally-2025",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "Follow-up instruction to new believers with nothing forecast. Recorded because the passage is separately indexed."},
+
+  {"video_id": "jlQZ9XjWWus", "start_s": 0, "claim_id": "salvation-tally-2025",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "An opening. Nothing claimed."},
+
+  {"video_id": "jlQZ9XjWWus", "start_s": 210, "claim_id": "banks-rocket-clarity",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "JP Morgan named, which makes the lobbying claim checkable against the public record, unlike most of the economic material. Note the slip in the same breath: the bill was to pass by one vote, and now may not pass until 2027."},
+
+  {"video_id": "jlQZ9XjWWus", "start_s": 424, "claim_id": "internet-socialist-control",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "A candidate's programme is offered as the claim already arriving. A three and a half year window over continuously contested ground cannot come up empty."},
+
+  {"video_id": "jlQZ9XjWWus", "start_s": 762, "claim_id": "record-wind-gusts",
+   "same_event": "unsure", "delta_type": "no_claim",
+   "note": "Nothing forecast. Worth keeping because he raises the faulty equipment explanation himself before being talked out of it by the count of broken turbines."},
+
+  {"video_id": "jlQZ9XjWWus", "start_s": 1066, "claim_id": "israel-election-autumn",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Unusually specific for this corpus: a named agency, a stated trigger and a physical setting. Properly scoreable. He corrects his own dating from February to January mid-sentence, which is the second dating correction in this batch."},
+
+  {"video_id": "jlQZ9XjWWus", "start_s": 1495, "claim_id": "harris-2028-rebrand",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Outreach to New York socialists named as the form the rebrand takes. Rebranding has no threshold, so any politician's outreach to any faction over two years satisfies it."},
+
+  {"video_id": "jlQZ9XjWWus", "start_s": 1828, "claim_id": "amendment-challenges",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "It is trying to get to the Second Amendment but cannot yet builds the delay into the claim in advance, so that half cannot fail inside the window."},
+
+  {"video_id": "jlQZ9XjWWus", "start_s": 2790, "claim_id": "wealth-transfer-window",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Poverty thinking supplies the reason in advance for anyone who does not receive it. The seventeen thousand dollar bill and the eight thousand weekend attendance are stated figures checkable against the ministry's own filings."}
+]

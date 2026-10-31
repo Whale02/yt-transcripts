@@ -1,0 +1,144 @@
+{
+ "reviews": [
+  {
+   "video_id": "cr4is0_bL14",
+   "start_s": 1260,
+   "claim_id": "canada-crisis",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "people leaving in droves, described as a great depression",
+   "mention_id": "24c922b95fd5aa25"
+  },
+  {
+   "video_id": "cr4is0_bL14",
+   "start_s": 1358,
+   "claim_id": "sheep-goat-nations-un",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "Canada, India and Europe named; the rule confirms itself, since all three have disasters yearly",
+   "mention_id": "5d19834e8f94725a"
+  },
+  {
+   "video_id": "cr4is0_bL14",
+   "start_s": 1408,
+   "claim_id": "sheep-goat-nations-un",
+   "same_event": "yes",
+   "delta_type": "elaboration",
+   "confidence": 0.85,
+   "note": "Australia urged to stand; it recognised Palestinian statehood on 21 September 2025",
+   "mention_id": "a8bfa40625a36fea"
+  },
+  {
+   "video_id": "cr4is0_bL14",
+   "start_s": 1752,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.9,
+   "note": "closing exhortation",
+   "mention_id": "9e13992d8c94c740"
+  },
+  {
+   "video_id": "lCLVyqIexNQ",
+   "start_s": 927,
+   "claim_id": "natural-shaking-mirrors-spiritual",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "stated as a rule, which makes it checkable across events",
+   "mention_id": "0e7804e011ca7279"
+  },
+  {
+   "video_id": "lCLVyqIexNQ",
+   "start_s": 965,
+   "claim_id": "global-revival-continents",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "Russia, Japan, China and South Korea named; South Korean Protestantism is the leg most likely to fail",
+   "mention_id": "c689de9c6216f58b"
+  },
+  {
+   "video_id": "lCLVyqIexNQ",
+   "start_s": 1036,
+   "claim_id": "iron-curtain-short-window-north-korea",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the short window framing lets a brief unverifiable opening count",
+   "mention_id": "bb72194e7229689a"
+  },
+  {
+   "video_id": "lCLVyqIexNQ",
+   "start_s": 1107,
+   "claim_id": "catholic-church-revival-youth",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the papal youth call was already in the news when he says it confirmed the vision",
+   "mention_id": "3de7d889c87c2b27"
+  },
+  {
+   "video_id": "lCLVyqIexNQ",
+   "start_s": 1570,
+   "claim_id": "shadow-meeting-north-korea-cuba",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "a sixth withholding; the content is removed by his own account",
+   "mention_id": "5b7c1207204b22f6"
+  },
+  {
+   "video_id": "lCLVyqIexNQ",
+   "start_s": 1605,
+   "claim_id": "shadow-meeting-north-korea-cuba",
+   "same_event": "yes",
+   "delta_type": "restatement",
+   "confidence": 0.85,
+   "note": "Australia added",
+   "mention_id": "04da0d723b6443b7"
+  },
+  {
+   "video_id": "lCLVyqIexNQ",
+   "start_s": 5260,
+   "claim_id": "canada-last-call-shaking",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "Carney said to have already decided the wrong way, and the line extending into England",
+   "mention_id": "e53c0dddd3f7444c"
+  },
+  {
+   "video_id": "lCLVyqIexNQ",
+   "start_s": 5339,
+   "claim_id": "india-temples-shaken-earthquakes",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "the monkeys recur across tellings, which makes the vision stable",
+   "mention_id": "85ce68aef7ae3528"
+  },
+  {
+   "video_id": "lCLVyqIexNQ",
+   "start_s": 5451,
+   "claim_id": "ring-of-fire-mega-quakes",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "one of the few claims with a hard historical benchmark to beat",
+   "mention_id": "eaa75258b92a2d63"
+  },
+  {
+   "video_id": "lCLVyqIexNQ",
+   "start_s": 6043,
+   "claim_id": "everything-changes-24-hours",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "an expiration date named, but no date given, so this telling cannot expire",
+   "mention_id": "df603aee15743624"
+  }
+ ]
+}

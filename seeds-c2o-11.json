@@ -1,0 +1,17 @@
+[
+ {"claim_id": "land-for-third-temple-accord",
+  "label": "Arab nations trade land for permission to build the third temple",
+  "domain": "geopolitics",
+  "description": "Seen 10 July 2025 as the covenant of many: the Arab nations come alongside and agree a peace accord with Israel under which a third temple can be built, but only in exchange for giving up a stated amount of land. The land-for-temple exchange is the specific term.",
+  "aliases": ["covenant of many", "peace accord with Israel", "you have to give so much land"]},
+ {"claim_id": "putin-wants-ukraine-and-poland",
+  "label": "Putin wants all of Ukraine and all of Poland",
+  "domain": "war",
+  "description": "Given 9 July 2025 alongside the handful of cards image: that the Russian president wants all of Ukraine and then all of Poland in the days ahead. Poland is a NATO member, which makes this the most consequential single element in the war material.",
+  "aliases": ["all of Ukraine", "all of Poland", "handful of cards"]},
+ {"claim_id": "canada-sector-crash-emigration",
+  "label": "A sectoral financial crash in Canada, and people leaving",
+  "domain": "finance",
+  "description": "Western influence shrinking, Canada in desperate need in the days ahead, a great financial crash and crisis coming to certain unnamed sectors of Canada that they cannot sustain, and people trying to leave the country.",
+  "aliases": ["certain sectors of Canada", "trying to leave Canada", "desperate need"]}
+]

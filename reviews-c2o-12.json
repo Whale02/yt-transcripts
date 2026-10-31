@@ -1,0 +1,20 @@
+{"reviews": [
+ {"video_id": "rLELZkqyJEQ", "start_s": 302, "claim_id": "wealth-of-the-sinner", "same_event": "yes", "delta_type": "restatement", "confidence": 0.9, "note": "the end time wealth transfer restated with no recipients or amounts"},
+ {"video_id": "rLELZkqyJEQ", "start_s": 502, "claim_id": "great-war-escalation", "same_event": "yes", "delta_type": "restatement", "confidence": 0.85, "note": "running out of time, and a major world war distinguished from rumours of war"},
+ {"video_id": "rLELZkqyJEQ", "start_s": 3576, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "a note about praying in English for the Asian translation channels"},
+ {"video_id": "-sXXTGfEybA", "start_s": 624, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "a Willy Wonka illustration about entitlement"},
+ {"video_id": "-sXXTGfEybA", "start_s": 1159, "claim_id": "great-war-escalation", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.85, "note": "rice paper thin over Zelenskyy and Putin, with the prayer condition attached"},
+ {"video_id": "-sXXTGfEybA", "start_s": 1850, "claim_id": "sheep-goat-nations-un", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "the dividing line at the UN, with record earthquakes alongside"},
+ {"video_id": "-sXXTGfEybA", "start_s": 2361, "claim_id": "global-revival-continents", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.85, "note": "China, Vietnam, Africa and South America shown, with an instruction to keep going"},
+ {"video_id": "-sXXTGfEybA", "start_s": 4622, "claim_id": "times-square-revival", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "a great revival in Times Square"},
+ {"video_id": "-sXXTGfEybA", "start_s": 4784, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "Tennessee and Kentucky highlighted with nothing attached"},
+ {"video_id": "-sXXTGfEybA", "start_s": 5206, "claim_id": "times-square-revival", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.8, "note": "tens or hundreds of thousands travelling to these places, which is countable"},
+ {"video_id": "-sXXTGfEybA", "start_s": 6182, "claim_id": "trump-lion-tamer-lavender", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "the whip cracked at the bear and the dragon, both bowing for a season"},
+ {"video_id": "-sXXTGfEybA", "start_s": 6227, "claim_id": "gaza-offshore-oil-wealth", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.85, "note": "billions of dollars of oil off Gaza, where the actual resource is gas"},
+ {"video_id": "-sXXTGfEybA", "start_s": 6462, "claim_id": "zelensky-strongarmed-macron", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.8, "note": "the Pinocchio and marionette images, with lying said to increase"},
+ {"video_id": "-sXXTGfEybA", "start_s": 6678, "claim_id": "korea-provocation", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.8, "note": "the alliance strengthening around Kim, with trouble inside Iran"},
+ {"video_id": "-sXXTGfEybA", "start_s": 7091, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "a petition declaring the war he has just forecast will not happen"},
+ {"video_id": "-sXXTGfEybA", "start_s": 7128, "claim_id": "newyork-uprising-buildings-burn", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "New York burning, with Wilkerson named as the antecedent"},
+ {"video_id": "-sXXTGfEybA", "start_s": 7376, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "a petition over South America"},
+ {"video_id": "-sXXTGfEybA", "start_s": 7415, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "a petition over Asia and the Latino community"}
+]}

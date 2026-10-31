@@ -1,0 +1,127 @@
+{
+  "_note": "New Madrid adjudications. Model claude-opus-5, prompt v1. The June 2025 downgrade passage moved to reviews-newmadrid-branch.json; it is not duplicated here so replay order cannot matter.",
+  "reviews": [
+    {
+      "video_id": "9LbOC7UXbc0",
+      "start_s": 0,
+      "claim_id": "new-madrid-quake",
+      "same_event": "yes",
+      "delta_type": "first_mention",
+      "note": "Earliest New Madrid statement in the corpus: a dream, the largest quake in earth's history, the Mississippi split wider, every bridge down."
+    },
+    {
+      "video_id": "Pio0TQ9YvD0",
+      "start_s": 559,
+      "claim_id": "new-madrid-quake",
+      "same_event": "yes",
+      "delta_type": "timing_update",
+      "note": "Moves it to next in sequence after the period he had been describing. No date."
+    },
+    {
+      "video_id": "XxwF--X7PLo",
+      "start_s": 2534,
+      "claim_id": "new-madrid-quake",
+      "same_event": "yes",
+      "delta_type": "timing_update",
+      "note": "First and only calendar window he attaches: April 2024, via the eclipse crossing the fault. The window passed with no event."
+    },
+    {
+      "video_id": "giyQsMPVfsI",
+      "start_s": 355,
+      "claim_id": "new-madrid-quake",
+      "same_event": "yes",
+      "delta_type": "restatement",
+      "note": "Claims partial fulfilment from small quakes (seven in a day). Treated as a restatement, not a hit: his own claim is a major rupture."
+    },
+    {
+      "video_id": "OvEIqBmJLjo",
+      "start_s": 1874,
+      "claim_id": "new-madrid-quake",
+      "same_event": "yes",
+      "delta_type": "restatement",
+      "note": "Answers the non-occurrence directly with 'not yet'. The claim survives the failed April 2024 window by dropping the window."
+    },
+    {
+      "video_id": "9epckXNXLN0",
+      "start_s": 440,
+      "claim_id": "new-madrid-quake",
+      "same_event": "yes",
+      "delta_type": "timing_update",
+      "note": "Attaches the sharpest trigger in the corpus: three days after a two-state solution divides Jerusalem. Turns an undated claim into a testable sequence."
+    },
+    {
+      "video_id": "9epckXNXLN0",
+      "start_s": 547,
+      "claim_id": "new-madrid-quake",
+      "same_event": "yes",
+      "delta_type": "elaboration",
+      "note": "Adds casualties in the thousands and the cinder-block housing detail."
+    },
+    {
+      "video_id": "Ihnq3063uwk",
+      "start_s": 1207,
+      "claim_id": "new-madrid-quake",
+      "same_event": "yes",
+      "delta_type": "restatement",
+      "note": "Same three-day trigger, restated a day later with the Mississippi bridges and the east-west split."
+    },
+    {
+      "video_id": "LIjv2T9HRxc",
+      "start_s": 1222,
+      "claim_id": "new-madrid-quake",
+      "same_event": "yes",
+      "delta_type": "elaboration",
+      "note": "Turns it into an instruction: if the US backs splitting Israel, leave the fault zone, you have three days."
+    },
+    {
+      "video_id": "SZg5NjLFZVE",
+      "start_s": 240,
+      "claim_id": "new-madrid-quake",
+      "same_event": "yes",
+      "delta_type": "elaboration",
+      "note": "Adds the freight consequence (no semis east to west) and the Liberty Bell image."
+    },
+    {
+      "video_id": "SZg5NjLFZVE",
+      "start_s": 515,
+      "claim_id": "new-madrid-quake",
+      "same_event": "yes",
+      "delta_type": "severity_update",
+      "note": "Casualties escalate from thousands to tens of thousands."
+    },
+    {
+      "video_id": "odkjS3oGxxI",
+      "start_s": 8017,
+      "claim_id": "new-madrid-quake",
+      "same_event": "yes",
+      "delta_type": "severity_update",
+      "note": "First numeric magnitude in two and a half years: 8.4, in Missouri, Kentucky and Tennessee, with an instruction to write it down. This is the row that makes the claim falsifiable."
+    },
+    {
+      "video_id": "LmS3IDri3Ok",
+      "start_s": 2683,
+      "claim_id": "new-madrid-quake",
+      "same_event": "unsure",
+      "confidence": 0.5,
+      "delta_type": "contradiction",
+      "note": "He flags the tension himself: the Jerusalem-triggered quake he saw was over magnitude 10, this 8.4 is a separate sign. Two branches, not one claim. Left unmerged deliberately."
+    },
+    {
+      "video_id": "LmS3IDri3Ok",
+      "start_s": 4508,
+      "claim_id": "new-madrid-quake",
+      "same_event": "yes",
+      "delta_type": "elaboration",
+      "note": "Personal worry plus the structural detail about cinder-block homes under an 8.4."
+    },
+    {
+      "video_id": "usjH1gnxOZw",
+      "start_s": 661,
+      "claim_id": "new-madrid-quake",
+      "same_event": "no",
+      "confidence": 0.3,
+      "delta_type": "new_event",
+      "note": "Drought and famine over the same region. Same geography, different event; it needs its own canonical claim rather than being folded into the earthquake."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+ "reviews": [
+  {
+   "video_id": "-cgLSUAayx4",
+   "start_s": 226,
+   "claim_id": "oklahoma-divided",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the Altus to Miami line, given in June 2025"
+  },
+  {
+   "video_id": "uOv6toXL4Uk",
+   "start_s": 1436,
+   "claim_id": "oklahoma-divided",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "half blue half red, and the midterms named",
+   "mention_id": "5ad603289054c889"
+  },
+  {
+   "video_id": "w3lzakaovU0",
+   "start_s": 399,
+   "claim_id": "oklahoma-divided",
+   "same_event": "yes",
+   "delta_type": "elaboration",
+   "confidence": 0.85,
+   "note": "the third party split named as the mechanism"
+  }
+ ]
+}

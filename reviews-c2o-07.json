@@ -1,0 +1,20 @@
+{"reviews": [
+ {"video_id": "__mzf6nASoI", "start_s": 110, "claim_id": "plague-350m", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "the fourth telling, with obesity and the word genocide added"},
+ {"video_id": "__mzf6nASoI", "start_s": 635, "claim_id": "plague-2027-china-rats-europe", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "the laboratory scene, the yellow liquid and the rats under observation"},
+ {"video_id": "__mzf6nASoI", "start_s": 677, "claim_id": "plague-2027-china-rats-europe", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "rats chosen as the vector for mobility, and the pathogen designed to keep the carrier alive"},
+ {"video_id": "__mzf6nASoI", "start_s": 760, "claim_id": "plague-2027-china-rats-europe", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "the spread through the Middle East, fading past Iraq and Iran, with the limit of the vision stated"},
+ {"video_id": "__mzf6nASoI", "start_s": 794, "claim_id": "euro-collapses-before-dollar", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "air travel suspended, and Europe's money system named as collapsing before the dollar"},
+ {"video_id": "__mzf6nASoI", "start_s": 958, "claim_id": "plague-350m", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "350 million called a small number for what they have planned"},
+ {"video_id": "__mzf6nASoI", "start_s": 1013, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "a historical comparison to the Black Death worked out on air, with confused arithmetic"},
+ {"video_id": "__mzf6nASoI", "start_s": 1049, "claim_id": "oval-office-prayer-glory", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "the man identified as a different, thinner, worn-out Trump"},
+ {"video_id": "__mzf6nASoI", "start_s": 1169, "claim_id": "oval-office-prayer-glory", "same_event": "yes", "delta_type": "restatement", "confidence": 0.9, "note": "the tears and the shock paddles hitting the land"},
+ {"video_id": "__mzf6nASoI", "start_s": 1216, "claim_id": "oval-office-prayer-glory", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "the match-like light toward the North Pole while black covered the world"},
+ {"video_id": "__mzf6nASoI", "start_s": 3077, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "a statement of his own practice inside a protection petition"},
+ {"video_id": "CCz9a0ExTR0", "start_s": 393, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.95, "note": "personal plans to visit a meeting"},
+ {"video_id": "CCz9a0ExTR0", "start_s": 457, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "an instruction about his own channel"},
+ {"video_id": "CCz9a0ExTR0", "start_s": 492, "claim_id": "mahdi-antichrist", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.85, "note": "the trillion dollar package with the crown prince, and the aside about whether the president knows who he is"},
+ {"video_id": "CCz9a0ExTR0", "start_s": 531, "claim_id": "third-temple-build", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "built rather than rebuilt, with Trump brokering the accord"},
+ {"video_id": "CCz9a0ExTR0", "start_s": 719, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "a definition distinguishing revival from awakening"},
+ {"video_id": "CCz9a0ExTR0", "start_s": 1046, "claim_id": "two-state-third-temple", "same_event": "yes", "delta_type": "timing_update", "confidence": 0.9, "note": "the accord and the temple placed inside the four-year window"},
+ {"video_id": "8c3OFWnOS8E", "start_s": 930, "claim_id": "internet-shutdown-soon", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.9, "note": "the broadcasting window said to end abruptly with the door closing"}
+]}

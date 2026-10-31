@@ -1,0 +1,17 @@
+[
+ {"claim_id": "japan-stays-an-ally",
+  "label": "Japan will not flip to China",
+  "domain": "geopolitics",
+  "description": "Given 10 September 2025 while praying stability over Japan as a strategic ally: he reports hearing that they will not flip with China and go over there. A rare negative prediction, which can fail.",
+  "aliases": ["They will not flip with China", "Japan to stay as an ally", "strategic ally"]},
+ {"claim_id": "mega-minister-shot",
+  "label": "A mega minister shot, the shot heard around the world",
+  "domain": "security",
+  "description": "Given 10 September 2025, the day of the Kirk killing: he says he was told to pray for that minister, that he saw who it was, a mega minister, and that he heard a shot around the world. He does not name him, which is a fifth withholding on file.",
+  "aliases": ["Pray for that minister", "A mega minister", "shot heard around the world"]},
+ {"claim_id": "japan-korea-axis-against-china",
+  "label": "An extension from Japan to South Korea against a North Korea to China line",
+  "domain": "geopolitics",
+  "description": "An extension seen running from Japan to South Korea, and a similar but less severe line running from North Korea into China like a highway. Four named states in two pairs, which is checkable.",
+  "aliases": ["extension from Japan to South Korea", "North Korea into China", "like a highway"]}
+]

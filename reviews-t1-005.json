@@ -1,0 +1,21 @@
+{
+  "_note": "Clearing the 16-row judgment queue left by the parallel worker's mentions-sweep-01 rows, and folding its duplicate bank claim ids into garlinghouse-clarity-vision. Model claude-opus-5, prompt v1.",
+  "reviews": [
+    {"video_id": "WCSr1gn7mlM", "start_s": 3005, "claim_id": "garlinghouse-clarity-vision", "same_event": "yes", "delta_type": "first_mention", "note": "Folds banks-rope-rocket in: same 26 March vision. The parallel row names Chase, Wells Fargo and Bank of America, which is more than my own reading caught."},
+    {"video_id": "WCSr1gn7mlM", "start_s": 3095, "claim_id": "garlinghouse-clarity-vision", "same_event": "yes", "delta_type": "elaboration", "note": "Folds banks-rocket-clarity in: same vision, the clarity line."},
+    {"video_id": "WCSr1gn7mlM", "start_s": 3144, "claim_id": "garlinghouse-clarity-vision", "same_event": "yes", "delta_type": "new_detail", "note": "The 18 August ruling he treats as the match."},
+    {"video_id": "WCSr1gn7mlM", "start_s": 3185, "claim_id": "starlink-aviation", "same_event": "yes", "delta_type": "first_mention", "note": "48 airlines, 7,000-plus aircraft."},
+    {"video_id": "WCSr1gn7mlM", "start_s": 3526, "claim_id": "korea-provocation", "same_event": "yes", "delta_type": "first_mention", "note": "Russia and China picking fights with South Korea."},
+    {"video_id": "WCSr1gn7mlM", "start_s": 3996, "claim_id": "rubio-2028", "same_event": "yes", "delta_type": "first_mention", "note": "Kept apart from vance-2028-realignment; the two readings compete."},
+    {"video_id": "WCSr1gn7mlM", "start_s": 4418, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Corrects a lexical mis-assignment to second-virus-lockdown. The passage is a helicopter pad aside with no forward claim."},
+    {"video_id": "WCSr1gn7mlM", "start_s": 4459, "claim_id": "january-parchment-signing", "same_event": "yes", "delta_type": "first_mention", "note": "Folds trump-january-scroll in: same vision of a parchment in January."},
+    {"video_id": "WCSr1gn7mlM", "start_s": 4497, "claim_id": "january-parchment-signing", "same_event": "yes", "delta_type": "elaboration", "note": "Drill baby drill and wells everywhere, attached to the signing."},
+    {"video_id": "WCSr1gn7mlM", "start_s": 4546, "claim_id": "rates-and-2026-election", "same_event": "yes", "delta_type": "elaboration", "note": "May through July as the visible months."},
+    {"video_id": "WCSr1gn7mlM", "start_s": 4663, "claim_id": "pig-with-makeup", "same_event": "yes", "delta_type": "first_mention", "note": "Gold too thin to build on, plus the made-up pig."},
+    {"video_id": "WCSr1gn7mlM", "start_s": 4834, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Corrects a lexical mis-assignment to rapture-hope-2028. The passage is a not-financial-advice disclaimer."},
+    {"video_id": "WCSr1gn7mlM", "start_s": 4859, "claim_id": "venezuela-battleships", "same_event": "yes", "delta_type": "first_mention", "note": "Dated 3 January, claimed to predate the US move."},
+    {"video_id": "WCSr1gn7mlM", "start_s": 5133, "claim_id": "global-quake-swarm", "same_event": "yes", "delta_type": "first_mention", "note": "Checkable against USGS for the week to 20 August 2026."},
+    {"video_id": "-Z-oPJQyOeU", "start_s": 650, "claim_id": "wealth-transfer-window", "same_event": "yes", "delta_type": "elaboration", "note": "Corrects a lexical mis-assignment to two-silos-harvest. The caravan of camels is a provision declaration, not the silo vision."},
+    {"video_id": "3lPkmPBUCBQ", "start_s": 928, "claim_id": "ireland-land-event", "same_event": "unsure", "delta_type": "first_mention", "note": "Transcript too fragmentary to say what the event is; location only."}
+  ]
+}

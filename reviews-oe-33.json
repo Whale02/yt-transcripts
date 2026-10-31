@@ -1,0 +1,229 @@
+[
+ {
+  "video_id": "Ez7SesrR7vs",
+  "start_s": 560,
+  "claim_id": "prayer-turns-the-ship",
+  "same_event": "yes",
+  "delta_type": "first_mention",
+  "note": "The companion to vision-is-a-prayer-target: slowness is built in, so an absent result is a turn still in progress rather than a miss. He also misdates the Kirk killing to August before correcting to September."
+ },
+ {
+  "video_id": "Ez7SesrR7vs",
+  "start_s": 1084,
+  "claim_id": "std-judgment-child-abusers",
+  "same_event": "yes",
+  "delta_type": "first_mention",
+  "note": "A specific medical prediction, a new transmitted disease, with no date and a self-selecting victim class that no epidemiology would report separately. The specificity is in the description, not in anything checkable."
+ },
+ {
+  "video_id": "Ez7SesrR7vs",
+  "start_s": 2543,
+  "claim_id": "acceleration-of-all-things",
+  "same_event": "yes",
+  "delta_type": "restatement",
+  "note": "The acceleration word again, now as an urgency in the air. Same content as the 2023 telling."
+ },
+ {
+  "video_id": "_FhdsJ8jhsU",
+  "start_s": 364,
+  "claim_id": "swiss-alps-revival",
+  "same_event": "yes",
+  "delta_type": "first_mention",
+  "note": "Unusually located: a named mountain range and door-to-door towns rather than a continent. That makes it checkable in principle, though no date is attached."
+ },
+ {
+  "video_id": "_FhdsJ8jhsU",
+  "start_s": 631,
+  "claim_id": "adding-to-the-body-march",
+  "same_event": "yes",
+  "delta_type": "first_mention"
+ },
+ {
+  "video_id": "_FhdsJ8jhsU",
+  "start_s": 807,
+  "claim_id": "adding-to-the-body-march",
+  "same_event": "yes",
+  "delta_type": "elaboration",
+  "note": "The listener's part in the march: ask to be a voice piece."
+ },
+ {
+  "video_id": "_FhdsJ8jhsU",
+  "start_s": 3304,
+  "claim_id": "unborn-baby-adoption-prayer",
+  "same_event": "yes",
+  "delta_type": "first_mention",
+  "note": "A private family matter, unverifiable from outside and left that way."
+ },
+ {
+  "video_id": "3-UAs7VAr4Y",
+  "start_s": 845,
+  "claim_id": "intercession-develops-you",
+  "same_event": "yes",
+  "delta_type": "first_mention"
+ },
+ {
+  "video_id": "3-UAs7VAr4Y",
+  "start_s": 933,
+  "claim_id": "church-asleep-ring-bells",
+  "same_event": "yes",
+  "delta_type": "timing_update",
+  "note": "Puts the waking on the 2025 to 2026 boundary. The claim had no window before."
+ },
+ {
+  "video_id": "3-UAs7VAr4Y",
+  "start_s": 1929,
+  "claim_id": "canopy-restored",
+  "same_event": "yes",
+  "delta_type": "first_mention",
+  "note": "The canopy is the distinctive image and gets the mention; dispensation-ending is already well attested elsewhere and would otherwise take a passage that is really about the canopy. He states the link himself, so it is recorded as a brandon edge with this passage as evidence."
+ },
+ {
+  "video_id": "3-UAs7VAr4Y",
+  "start_s": 2086,
+  "claim_id": "contend-2026",
+  "same_event": "yes",
+  "delta_type": "first_mention",
+  "note": "Contend is not defined and no subject is named, so nothing here can miss. Recorded because it is presented as a direct word about a specific year."
+ },
+ {
+  "video_id": "3-UAs7VAr4Y",
+  "start_s": 3584,
+  "claim_id": "plague-2027-china-rats-europe",
+  "same_event": "yes",
+  "delta_type": "timing_update",
+  "note": "Worth flagging: he is correcting listeners who thought he predicted a plague now, and narrowing it to fall or winter 2027. A retroactive tightening of an earlier looser claim, which is exactly what delta rows exist to preserve."
+ },
+ {
+  "video_id": "3-UAs7VAr4Y",
+  "start_s": 6100,
+  "claim_id": "red-dawn-experiences",
+  "same_event": "yes",
+  "delta_type": "first_mention",
+  "note": "Red dawn is named but never defined, here or anywhere yet in the corpus. Filed as its own claim so the definition can be attached if it arrives."
+ },
+ {
+  "video_id": "3-UAs7VAr4Y",
+  "start_s": 6682,
+  "claim_id": "financial-breakthrough-2026",
+  "same_event": "yes",
+  "delta_type": "first_mention",
+  "note": "Pairs with taxes-lowered-then-waterfall, which has the waterfall as the thing that does happen. Here the waterfall is the thing prayer averts, so the same image runs both ways."
+ },
+ {
+  "video_id": "3-UAs7VAr4Y",
+  "start_s": 7375,
+  "claim_id": "swiss-alps-revival",
+  "same_event": "yes",
+  "delta_type": "exact_repeat",
+  "note": "The 19 November prayer segment replayed inside the 18 November video. Recorded rather than skipped so the repeat count stays honest."
+ },
+ {
+  "video_id": "3-UAs7VAr4Y",
+  "start_s": 7642,
+  "claim_id": "adding-to-the-body-march",
+  "same_event": "yes",
+  "delta_type": "exact_repeat"
+ },
+ {
+  "video_id": "3-UAs7VAr4Y",
+  "start_s": 7818,
+  "claim_id": "adding-to-the-body-march",
+  "same_event": "yes",
+  "delta_type": "exact_repeat"
+ },
+ {
+  "video_id": "3-UAs7VAr4Y",
+  "start_s": 10315,
+  "claim_id": "unborn-baby-adoption-prayer",
+  "same_event": "yes",
+  "delta_type": "exact_repeat"
+ },
+ {
+  "video_id": "Ah32W7YNalk",
+  "start_s": 837,
+  "claim_id": "antichrist-polished-beautiful",
+  "same_event": "yes",
+  "delta_type": "first_mention",
+  "note": "Distinct from antichrist-seen-2014 and the named-candidate claims: this is a description of manner, not an identification."
+ },
+ {
+  "video_id": "Ah32W7YNalk",
+  "start_s": 1679,
+  "claim_id": "cold-war-gets-colder",
+  "same_event": "yes",
+  "delta_type": "first_mention",
+  "note": "Which cold war is not said. Kim appears in the same breath, so a system edge links it to kim-jong-un-role, but he does not state that the cold war is the Korean one."
+ },
+ {
+  "video_id": "Ah32W7YNalk",
+  "start_s": 6536,
+  "claim_id": "everybody-hears-not-everybody-sees",
+  "same_event": "yes",
+  "delta_type": "first_mention",
+  "note": "Extends the hearing claim to the whole audience while reserving sight to himself. Belongs with prophetic-method-in-part."
+ },
+ {
+  "video_id": "Ah32W7YNalk",
+  "start_s": 7004,
+  "claim_id": "vitamin-d3-protocol",
+  "same_event": "yes",
+  "delta_type": "new_detail",
+  "note": "Adds the season, November to March, which the claim did not have."
+ },
+ {
+  "video_id": "Bv_BgO_L8lk",
+  "start_s": 724,
+  "claim_id": "no-prophetic-confusion",
+  "same_event": "yes",
+  "delta_type": "first_mention",
+  "note": "His own stated standard. Recorded because it is the yardstick he offers, and this database is in a position to hold him to it."
+ },
+ {
+  "video_id": "Bv_BgO_L8lk",
+  "start_s": 929,
+  "claim_id": "vance-honeytrap-warning",
+  "same_event": "yes",
+  "delta_type": "first_mention",
+  "note": "Three names and nothing else. He does not say what the warning is, and I have not filled it in for him; the paraphrase says the pattern is implied and left unstated."
+ },
+ {
+  "video_id": "Bv_BgO_L8lk",
+  "start_s": 994,
+  "claim_id": "harvard-bricks-vision",
+  "same_event": "yes",
+  "delta_type": "first_mention",
+  "note": "The most interesting thing in the batch as evidence about method. He reports a sight that does not match the fact, says so, and does not revise it. That is the opposite of the usual post-hoc fitting."
+ },
+ {
+  "video_id": "Bv_BgO_L8lk",
+  "start_s": 1248,
+  "claim_id": "candace-owens-charisma",
+  "same_event": "unsure",
+  "delta_type": "first_mention",
+  "note": "The key word was supplied to him by someone else in the room and he took it. Recorded as certainty hedged for that reason."
+ },
+ {
+  "video_id": "Bv_BgO_L8lk",
+  "start_s": 3186,
+  "claim_id": "best-saved-for-last",
+  "same_event": "yes",
+  "delta_type": "first_mention",
+  "note": "A lateness metaphor with no clock, which lets it hold indefinitely."
+ },
+ {
+  "video_id": "Bv_BgO_L8lk",
+  "start_s": 6143,
+  "claim_id": "thanksgiving-babies",
+  "same_event": "yes",
+  "delta_type": "first_mention",
+  "note": "Same structure as the infertility word in batch 31: any large audience supplies a match."
+ },
+ {
+  "video_id": "Bv_BgO_L8lk",
+  "start_s": 6912,
+  "claim_id": "grateful-for-trump-later",
+  "same_event": "yes",
+  "delta_type": "first_mention",
+  "note": "Does double duty as a prophecy and as a pre-emptive answer to any decision the audience dislikes. Gratitude is not an observable outcome, so it is filed unfalsifiable."
+ }
+]

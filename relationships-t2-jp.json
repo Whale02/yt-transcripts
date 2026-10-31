@@ -1,0 +1,35 @@
+{"relationships": [
+ {"from_claim":"zelensky-flees-with-cash","to_claim":"zelensky-taken-out-ukraine-split","rel_type":"same_event_as","asserted_by":"system",
+  "note":"The 30 August 2026 telling straddles both: a Jason Bourne disappearance, which belongs to the fleeing claim, and being made an example of, which belongs to the removal claim. Recorded as an inferred edge rather than merged, because he has told them apart elsewhere."},
+
+ {"from_claim":"ayatollah-and-iran-upper-leadership-removed","to_claim":"iran-regime-flip-reza-assassinated","rel_type":"related_to","asserted_by":"system",
+  "note":"Both describe a change of Iranian leadership. Kept separate because the successor here is an unnamed less radicalised group, not the named figure in the other claim."},
+
+ {"from_claim":"ayatollah-and-iran-upper-leadership-removed","to_claim":"iran-revival","rel_type":"related_to","asserted_by":"system",
+  "note":"Given in the same passage: the leadership falling and the revival springing up are told as one movement, but they can succeed or fail independently."},
+
+ {"from_claim":"prince-of-persia-reclusive-window","to_claim":"prince-of-persia-babylon","rel_type":"related_to","asserted_by":"system",
+  "note":"Same territorial spirit, opposite movement: latching onto Babylon in one, going reclusive in the other."},
+
+ {"from_claim":"detroit-auto-industry-shaking","to_claim":"car-industry-asks-for-24-billion","rel_type":"related_to","asserted_by":"system",
+  "note":"Both concern trouble in the American car industry. Kept apart because the bailout claim names a mechanism and a figure that this one does not."},
+
+ {"from_claim":"russia-doomsday-weapon","to_claim":"unconventional-weapons","rel_type":"related_to","asserted_by":"system",
+  "note":"Both have Russia reaching for a weapon outside the ordinary. Kept apart because the other claim names a Cuban biological weapon."},
+
+ {"from_claim":"dirty-device-northeast-yellow-fog","to_claim":"hidden-cells-america","rel_type":"related_to","asserted_by":"brandon",
+  "evidence_video":"JP--134vRTw","evidence_start_s":2552,
+  "note":"He ties them himself in the same breath, praying against the northeast device and the hidden cells together."},
+
+ {"from_claim":"europe-looks-to-america-under-nato","to_claim":"great-war-escalation","rel_type":"related_to","asserted_by":"system",
+  "note":"The NATO appeal is conditional on the European attack described in the great war thread."},
+
+ {"from_claim":"china-quiet-playing-chess","to_claim":"great-war-escalation","rel_type":"related_to","asserted_by":"system",
+  "note":"China stays quiet while the European war runs; the two are told alongside each other throughout the 30 August 2026 video."},
+
+ {"from_claim":"canada-sends-troops-to-the-war","to_claim":"great-war-escalation","rel_type":"related_to","asserted_by":"system",
+  "note":"The Canadian deployment is given as part of the widening European war."},
+
+ {"from_claim":"electric-cars-made-desirable","to_claim":"gas-lines-mile-long","rel_type":"related_to","asserted_by":"system",
+  "note":"He raises the electric car word directly out of the Russian fuel queue discussion, though he does not state that one causes the other."}
+]}

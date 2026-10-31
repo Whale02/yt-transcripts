@@ -1,0 +1,16 @@
+{"reviews": [
+ {"video_id":"oolVr6LLlDM","start_s":743,"claim_id":"gaza-oil-development","same_event":"yes","delta_type":"first_mention",
+  "note":"Vision dated 9 January 2026 by his own account, told in July, so origin_date and uttered_at differ by six months."},
+ {"video_id":"oolVr6LLlDM","start_s":880,"claim_id":"gaza-oil-development","same_event":"yes","delta_type":"new_detail",
+  "note":"Adds the economic substance: hydrocarbons under Gaza rather than only a political settlement."},
+ {"video_id":"oolVr6LLlDM","start_s":1925,"claim_id":"israel-night-attack","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"oolVr6LLlDM","start_s":2277,"claim_id":"weather-warfare-drought","same_event":"yes","delta_type":"first_mention",
+  "note":"Cites a real reported drought and attributes cause. The event is verifiable; the attribution is not."},
+ {"video_id":"DjQUqGl8Xwg","start_s":2795,"claim_id":"mideast-us-draft","same_event":"yes","delta_type":"new_detail",
+  "note":"Adds chemical drone strikes on US forces."},
+ {"video_id":"DjQUqGl8Xwg","start_s":2972,"claim_id":"mideast-us-draft","same_event":"yes","delta_type":"restatement",
+  "note":"Claims partial fulfilment from Saudi joining strikes on Iranian proxies. Kept as restatement: his claim was boots on the ground."},
+ {"video_id":"DjQUqGl8Xwg","start_s":3983,"claim_id":"mideast-us-draft","same_event":"yes","delta_type":"elaboration",
+  "note":"Names the coalition and ties the draft to Iran, which links this thread to the 2023 draft claim."},
+ {"video_id":"taEANymN-Fo","start_s":388,"claim_id":"faa-cyberattack","same_event":"yes","delta_type":"first_mention"}
+]}

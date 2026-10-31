@@ -1,0 +1,12 @@
+{"evidence": [
+ {"claim_id": "new-madrid-quake", "observed_on": "2026-04-24",
+  "source_url": "https://www.kfvs12.com/2026/04/24/magnitude-40-earthquake-southeast-missouri-prompts-closer-look-new-madrid-fault/",
+  "summary": "Largest New Madrid Seismic Zone earthquake of 2026 was magnitude 4.0 in Pemiscot County, Missouri on 24 April 2026. No rupture, no damage to Mississippi crossings.",
+  "state": "UNRESOLVED",
+  "rationale": "The major-rupture branch has not occurred: no New Madrid event above magnitude 4.0 through August 2026, and the Mississippi bridges stand. One dated sub-window did expire: he tied it to the April 2024 eclipse crossing the fault, and that month passed with nothing, after which he dropped the window and answered the non-occurrence with 'not yet'. The three-days-after-a-two-state-solution branch has no observed trigger, so it stays unresolved rather than scored."},
+ {"claim_id": "new-madrid-awakening", "observed_on": "2026-04-24",
+  "source_url": "https://www.newsnationnow.com/weather/earthquake-missouri-new-madrid-seismic-zone/",
+  "summary": "Magnitude 4.0 at Cooter, Missouri on 24 April 2026, called the strongest in the New Madrid zone proper in several years, with about 20 quakes in the zone over three weeks.",
+  "state": "PARTIAL_MATCH",
+  "rationale": "He said in June 2025 that he saw no big quake, only fours and fives with the fault becoming active. Ten months later the zone produced a 4.0 called the strongest in several years plus a swarm of roughly 20. That matches the stated shape. Weighted down to partial rather than strong because the New Madrid zone produces small quakes routinely, so the base rate over a ten-month window is high and the claim carried no date, no magnitude threshold and no location narrower than the fault itself."}
+]}

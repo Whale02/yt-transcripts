@@ -1,0 +1,18 @@
+{"reviews": [
+ {"video_id":"UAPYhpm_sX0","start_s":170,"claim_id":"grid-cyberattack","same_event":"yes","delta_type":"new_detail",
+  "note":"Adds city-level targeting and pairs the grid failures with west coast earthquakes."},
+ {"video_id":"F-CNFR1LQQI","start_s":480,"claim_id":"dday-pearl-harbor","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"gGCKex1IOtE","start_s":1050,"claim_id":"great-war-escalation","same_event":"yes","delta_type":"first_mention",
+  "note":"Escalation language is his own quotation of what he was told, not an inference."},
+ {"video_id":"6XXc1-oeNWw","start_s":757,"claim_id":"great-war-escalation","same_event":"yes","delta_type":"restatement",
+  "note":"Treats strikes on Moscow as the poking of the bear he had described, so this doubles as a fulfilment assertion."},
+ {"video_id":"gGCKex1IOtE","start_s":884,"claim_id":"virus-q4-2026","same_event":"unsure","confidence":0.4,"delta_type":"elaboration",
+  "note":"Supplies the alleged mechanism behind the virus claim. Unfalsifiable on its own terms, so it cannot raise the confidence of the dated claim."},
+ {"video_id":"6XXc1-oeNWw","start_s":619,"claim_id":null,"same_event":"no","delta_type":"new_event",
+  "note":"News commentary on German diesel prices. Recorded, unassigned."},
+ {"video_id":"dBStuxYtyFM","start_s":1688,"claim_id":"temple-quakes","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"65FUsMLWJT4","start_s":2703,"claim_id":"temple-quakes","same_event":"yes","delta_type":"restatement",
+  "note":"Claims partial fulfilment from a 7.7 near Australia. Kept as a restatement: the stated claim is temples coming down, not a quake occurring."},
+ {"video_id":"WCSr1gn7mlM","start_s":1383,"claim_id":"megachurch-conversions","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"QT_oRgu3nfA","start_s":770,"claim_id":"trump-assassination-attempt","same_event":"yes","delta_type":"first_mention"}
+]}

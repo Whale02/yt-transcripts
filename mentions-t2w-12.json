@@ -1,0 +1,1018 @@
+{
+ "_note": "Tier 2 batch w12, the oldest unread end: October 2023 to February 2024. Two long passages are another person's material read aloud, a submitted dream on 28 January and a guest interview on 24 October, and are recorded as no claim of his under the corpus rule.",
+ "mentions": [
+  {
+   "video_id": "FToQQnm1Esc",
+   "start_s": 35,
+   "claim_text": "Praying for the peace of Jerusalem and over the Damascus material, with the Iran war escalating into something bigger.",
+   "quote": "the Damascus things that the Lord has been showing me",
+   "source_mode": "PRAYER",
+   "certainty": "definite",
+   "conditionality": "prayer_may_avert",
+   "topics": [
+    "war"
+   ],
+   "locations": [
+    "Jerusalem",
+    "Damascus",
+    "Iran"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A wider war growing out of the Iran and Damascus thread.",
+   "falsify_miss": "No such war."
+  },
+  {
+   "video_id": "l_JibhAnxe0",
+   "start_s": 149,
+   "claim_text": "He reads another person's account of praise too marvellous for earthly language, saying he has permission to share it.",
+   "quote": "tonight I have permission to share this with you",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: another person's account read aloud.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "6R7S-YsLW88",
+   "start_s": 322,
+   "claim_text": "He was told he was eating far too much, that it is about calories, after eating large plates of meat.",
+   "quote": "Brandon, it's about calories. You're eating way too much",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "health"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a personal instruction.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "cX2aG-ClVvw",
+   "start_s": 83,
+   "claim_text": "Russian news said the same thing he was warned about weeks earlier, with Havana named.",
+   "quote": "the exact same thing the Lord warned me about in prayer weeks prior",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "geopolitics"
+   ],
+   "locations": [
+    "Cuba",
+    "Russia"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A Russian move on Cuba following the report.",
+   "falsify_miss": "No such move."
+  },
+  {
+   "video_id": "cX2aG-ClVvw",
+   "start_s": 526,
+   "claim_text": "He reads an Iranian statement about destroying the Zionist regime and liberating the Middle East.",
+   "quote": "We Must Destroy the Zionist regime",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "war"
+   ],
+   "locations": [
+    "Iran",
+    "Israel"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a statement read aloud, not his claim.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "cX2aG-ClVvw",
+   "start_s": 731,
+   "claim_text": "He says he was with Jesus walking the streets of America and saw it on the screen, and is trying to warn who they are talking about.",
+   "quote": "I was with Jesus Christ himself walking the streets of America",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: an encounter with no event attached.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "cX2aG-ClVvw",
+   "start_s": 1066,
+   "claim_text": "Prayer over the blood of the lamb and the word of their testimony, thanking God for freedom.",
+   "quote": "blood of the lamb and by the word of your T testimony",
+   "source_mode": "PRAYER",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a prayer.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "cX2aG-ClVvw",
+   "start_s": 1236,
+   "claim_text": "Mountains and hidden things in Iran, with caves and caverns holding something concealed.",
+   "quote": "I see caves and caverns with hidden",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "war"
+   ],
+   "locations": [
+    "Iran"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Concealed weapons or facilities found in Iranian caves.",
+   "falsify_miss": "None found."
+  },
+  {
+   "video_id": "cX2aG-ClVvw",
+   "start_s": 1821,
+   "claim_text": "Going into the summer, men chanting death to America with coverings on their heads and AK-47s, on the move.",
+   "quote": "I see them chanting death to America",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "terrorism"
+   ],
+   "locations": [
+    "Iran"
+   ],
+   "time_phrase": "into the summer",
+   "time_precision": "none",
+   "falsify_match": "Armed marches of that kind becoming a public event.",
+   "falsify_miss": "None occurs."
+  },
+  {
+   "video_id": "4z3guiSTfRw",
+   "start_s": 83,
+   "claim_text": "He describes the material as puzzle pieces, with other people holding pieces he does not have.",
+   "quote": "somebody out there that has more puzzle pieces",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "method"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a description of method.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "4z3guiSTfRw",
+   "start_s": 286,
+   "claim_text": "He reads a submitted account of a frightening dream in which a huge angel stood suspended in the air.",
+   "quote": "I saw a huge angel standing suspended in the ai",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: another person's dream read aloud.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "4z3guiSTfRw",
+   "start_s": 329,
+   "claim_text": "In the read account the angel blazes above New York City and draws a sword from a red sash.",
+   "quote": "coming from New York City as he blazed so brightly",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "New York"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: another person's dream read aloud.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "4z3guiSTfRw",
+   "start_s": 372,
+   "claim_text": "In the read account the angel cleaves it in two and speaks with a voice like thunder.",
+   "quote": "his voice was like thunder and echo",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: another person's dream read aloud.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "4z3guiSTfRw",
+   "start_s": 452,
+   "claim_text": "In the read account the angel says time is running out and the bowls of wrath are full.",
+   "quote": "time is running out the bowls of my wrath are full",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: another person's dream read aloud.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "4z3guiSTfRw",
+   "start_s": 587,
+   "claim_text": "In the read account the writer sees the wrath of the almighty for the first time, having only known his goodness.",
+   "quote": "never had I seen The Wrath of the almighty",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: another person's dream read aloud.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "4z3guiSTfRw",
+   "start_s": 629,
+   "claim_text": "In the read account a massive earthquake cracks off the California coast and the great west coast cities fall into the ocean.",
+   "quote": "a massive earthquake that just seemed to crack off the coast of California",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "natural_disaster"
+   ],
+   "locations": [
+    "California"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable as his claim: another person's dream read aloud.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "4z3guiSTfRw",
+   "start_s": 768,
+   "claim_text": "In the read account meetings are held outdoors with many saved, miracles of provision and multiplication of food and water.",
+   "quote": "miracles of provision multiplications of food and water",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: another person's dream read aloud.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "4z3guiSTfRw",
+   "start_s": 1556,
+   "claim_text": "His own comment that one more push and the baby is here, and that the labour pains are being felt now.",
+   "quote": "we're seeing the woman in labor right now",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: birth pangs with no measure.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "4z3guiSTfRw",
+   "start_s": 1741,
+   "claim_text": "Keeping your lamps full of oil and staying right before him, rather than looking for oil when it is too late.",
+   "quote": "feeling your lamps full of oil",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: an instruction.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "H3qJsKn7IO4",
+   "start_s": 68,
+   "claim_text": "Praying in the spirit yields your vessel to whatever you need, and he is praying over Israel in tongues.",
+   "quote": "pray in the spirit I'm praying over uh Israel today",
+   "source_mode": "PRAYER",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Israel"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: teaching on prayer.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "2AD3fZuPqWw",
+   "start_s": 1699,
+   "claim_text": "Pray, obey and believe, because the outcome of a lot of things can be changed, including authority over the weather.",
+   "quote": "we can change the outcome of a lot of things",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "prayer_may_avert",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: the conditionality that makes any non-event a success.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "2jhb5cXzw5A",
+   "start_s": 194,
+   "claim_text": "An electromagnetic pulse meant to cause darkness, carried on a ship out of the Gulf of Mexico into the Mississippi, supposedly loaded with grain.",
+   "quote": "Electric magnetic pulse to try to cause darkness",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "terrorism",
+    "infrastructure"
+   ],
+   "locations": [
+    "Gulf of Mexico",
+    "Mississippi"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "An EMP device found on or launched from a ship in American waters.",
+   "falsify_miss": "None found."
+  },
+  {
+   "video_id": "2jhb5cXzw5A",
+   "start_s": 266,
+   "claim_text": "The same people he saw on the boat, whom he associates with China, and he says it is coming.",
+   "quote": "it's the same people that the Lord showed me on the boat",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "terrorism"
+   ],
+   "locations": [
+    "China"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A ship-borne attack traced to that origin.",
+   "falsify_miss": "None occurs."
+  },
+  {
+   "video_id": "2jhb5cXzw5A",
+   "start_s": 366,
+   "claim_text": "A two-state solution being discussed, which they will call peace and safety.",
+   "quote": "they'll call Peace and saf",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "geopolitics"
+   ],
+   "locations": [
+    "Israel"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "An agreement announced under a peace and security banner.",
+   "falsify_miss": "None is."
+  },
+  {
+   "video_id": "2jhb5cXzw5A",
+   "start_s": 399,
+   "claim_text": "Turkey will get involved, seen when the angel came up out of the pit and another released its chains to create war on the earth.",
+   "quote": "turkey will get involved",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "war"
+   ],
+   "locations": [
+    "Turkey"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Turkish entry into a wider war.",
+   "falsify_miss": "Turkey stays out."
+  },
+  {
+   "video_id": "2jhb5cXzw5A",
+   "start_s": 432,
+   "claim_text": "It went over Europe and was interfering with Putin, and men in red hats were seen marching toward Israel to cause destruction.",
+   "quote": "I saw men with Red Hats Red Hats all marching towards Israel",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "war"
+   ],
+   "locations": [
+    "Europe",
+    "Israel",
+    "Russia"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "An identifiable force marching on Israel.",
+   "falsify_miss": "None does."
+  },
+  {
+   "video_id": "2jhb5cXzw5A",
+   "start_s": 474,
+   "claim_text": "He still believes something is coming with Hawaii, surprise attacks of the Pearl Harbor kind.",
+   "quote": "surprise attacks like Pearl Harbor",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "terrorism"
+   ],
+   "locations": [
+    "Hawaii"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A surprise attack involving Hawaii.",
+   "falsify_miss": "None occurs."
+  },
+  {
+   "video_id": "2jhb5cXzw5A",
+   "start_s": 1200,
+   "claim_text": "A 6.5 earthquake running through the Texarkana and Tulsa area, destroying houses set on cinder blocks.",
+   "quote": "I saw a 6.5 earthquake going through that area",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "natural_disaster"
+   ],
+   "locations": [
+    "Texarkana",
+    "Tulsa"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "An earthquake of about that size on that line.",
+   "falsify_miss": "None occurs."
+  },
+  {
+   "video_id": "6CH2c41mmn0",
+   "start_s": 509,
+   "claim_text": "Walking down the street in Australia or Europe with the power of God so strong on you that people are affected.",
+   "quote": "the power of God be so strong coming out of you",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Australia",
+    "Europe"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Documented public healings by ordinary believers.",
+   "falsify_miss": "None documented."
+  },
+  {
+   "video_id": "6CH2c41mmn0",
+   "start_s": 1165,
+   "claim_text": "Do what the Bible tells you to do and you need not worry, before he turns to speak about the glory.",
+   "quote": "do what the Bible tells you to do",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: an instruction.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "6CH2c41mmn0",
+   "start_s": 1246,
+   "claim_text": "Creative miracle power and massive healings around the clock, with a revival in Branson that never stops.",
+   "quote": "a Revival happening in Branson never stopping",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "Branson"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A continuous revival at Branson.",
+   "falsify_miss": "No such revival."
+  },
+  {
+   "video_id": "uqDBLGjUK_U",
+   "start_s": 1457,
+   "claim_text": "Familiar spirits operating underneath Christianity, with people telling others their future.",
+   "quote": "underneath Christianity thinking that you're talking to familiar spirits",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a spiritual diagnosis of other ministries.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "uqDBLGjUK_U",
+   "start_s": 2472,
+   "claim_text": "Thanks to subscribers for kind words and blessings.",
+   "quote": "I want to thank you for all the all the kind words",
+   "source_mode": "OTHER",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "ministry"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a sign-off.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "Xe2JKntCfFw",
+   "start_s": 132,
+   "claim_text": "A book about labouring without pain, with scriptures cited about the Hebrew women in Egypt.",
+   "quote": "how you could go and uh labor without any pain",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "family"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a book discussed on air.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "jRZDYWhp_lE",
+   "start_s": 84,
+   "claim_text": "They must intercede, which he calls their cue from the Father, and he refuses to add to or take away from what he saw.",
+   "quote": "this is our cue from the father",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "prayer_may_avert",
+   "topics": [
+    "method"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: an instruction about method.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "jRZDYWhp_lE",
+   "start_s": 479,
+   "claim_text": "A sea of people so deep they could not be counted, which he says is not the ten million already come.",
+   "quote": "a sea so deep that you couldn't count them all",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A harvest of that scale reported.",
+   "falsify_miss": "None reported."
+  },
+  {
+   "video_id": "jRZDYWhp_lE",
+   "start_s": 632,
+   "claim_text": "Keep interceding for the body of Christ to wake up so that they vote godly.",
+   "quote": "interceding for the body of Christ to wake up",
+   "source_mode": "OPINION",
+   "certainty": "definite",
+   "conditionality": "prayer_may_avert",
+   "topics": [
+    "politics"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Church turnout deciding an election.",
+   "falsify_miss": "It does not."
+  },
+  {
+   "video_id": "jRZDYWhp_lE",
+   "start_s": 927,
+   "claim_text": "A major crippling ice storm in the central part of America laying down an inch of ice and destroying everything.",
+   "quote": "there's going to be a major crippling ice storm",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "weather"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "An inch-thick ice storm across the central states.",
+   "falsify_miss": "No such storm."
+  },
+  {
+   "video_id": "oUuhMZYAPN0",
+   "start_s": 67,
+   "claim_text": "Very wealthy individuals in England and Europe, in America and in China with great influence over the world's thinking and its judges.",
+   "quote": "there's a man in China that are very uh wealthy individuals",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "politics"
+   ],
+   "locations": [
+    "England",
+    "Europe",
+    "United States",
+    "China"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A coordinated influence operation by named financiers exposed.",
+   "falsify_miss": "None exposed."
+  },
+  {
+   "video_id": "oUuhMZYAPN0",
+   "start_s": 293,
+   "claim_text": "Events trying to take place during the Christmas season, not only in America but possibly in Europe.",
+   "quote": "I saw these events trying to take place during the holiday season",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "prayer_may_avert",
+   "topics": [
+    "terrorism"
+   ],
+   "locations": [
+    "United States",
+    "Europe"
+   ],
+   "time_phrase": "the Christmas season",
+   "time_precision": "none",
+   "falsify_match": "An attack over the holiday season in America or Europe.",
+   "falsify_miss": "None occurs."
+  },
+  {
+   "video_id": "LVAWpCm35XY",
+   "start_s": 70,
+   "claim_text": "Something concerning the Democratic party which he says he has seen in vision several times, and may or may not be this time.",
+   "quote": "I've seen him Envision several times",
+   "source_mode": "VISION",
+   "certainty": "hedged",
+   "conditionality": "unconditional",
+   "topics": [
+    "politics"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "An unexpected change in the Democratic ticket.",
+   "falsify_miss": "No such change."
+  },
+  {
+   "video_id": "t7pyY-mxBiA",
+   "start_s": 60,
+   "claim_text": "Three men and another in Brazil, all high in the occult, one of them over a pharmaceutical company.",
+   "quote": "I saw another man down in Brazil that were very uh high in the occult",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "occult"
+   ],
+   "locations": [
+    "Brazil"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Named figures in those positions exposed.",
+   "falsify_miss": "None exposed."
+  },
+  {
+   "video_id": "t7pyY-mxBiA",
+   "start_s": 99,
+   "claim_text": "Two demons assigned to them by the devil, with one man in Europe seen holding a meeting with Satan.",
+   "quote": "I saw this one man in Europe having a meeting with the with Satan",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "occult"
+   ],
+   "locations": [
+    "Europe"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a spiritual scene with no observable test.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "t7pyY-mxBiA",
+   "start_s": 143,
+   "claim_text": "The man was hearing demonic voices and was energised before the incident in Maine.",
+   "quote": "hearing voices demonic and energized",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "terrorism"
+   ],
+   "locations": [
+    "Maine"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Evidence that the attacker heard voices before the attack.",
+   "falsify_miss": "No such evidence."
+  },
+  {
+   "video_id": "t7pyY-mxBiA",
+   "start_s": 393,
+   "claim_text": "He recalls the warning to pray for the people and says the Lord warned him about the oil the day before.",
+   "quote": "the Lord warned me about uh the oil",
+   "source_mode": "WORD",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "energy"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A sharp move in oil after that warning.",
+   "falsify_miss": "No such move."
+  },
+  {
+   "video_id": "t7pyY-mxBiA",
+   "start_s": 536,
+   "claim_text": "He lists what he has been shown, from the 350 million people going home to the supernatural wealth transfer.",
+   "quote": "the 350 million people going home to the wealth transfer",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "health",
+    "economics"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A death toll approaching 350 million.",
+   "falsify_miss": "No such toll."
+  },
+  {
+   "video_id": "wtPa21KV2Iw",
+   "start_s": 366,
+   "claim_text": "A guest argues that if there were perfect peace the pre-tribulation signs would be absent, but so far everything is working.",
+   "quote": "The horse is not galloping, but so far everything is working",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a guest's argument, not his claim.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "wtPa21KV2Iw",
+   "start_s": 402,
+   "claim_text": "The guest describes what is coming for Israel as antisemitism against the Jewish people.",
+   "quote": "like against against the Jewish people",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "social_trends"
+   ],
+   "locations": [
+    "Israel"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a guest's statement, not his claim.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "wtPa21KV2Iw",
+   "start_s": 603,
+   "claim_text": "The guest says they will not have oil forever and want profitable alliances with China, thinking only about money.",
+   "quote": "They want to make profitable alliances with China",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "energy",
+    "geopolitics"
+   ],
+   "locations": [
+    "China"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a guest's statement, not his claim.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "wtPa21KV2Iw",
+   "start_s": 851,
+   "claim_text": "The guest explains the fourth horse as chloros, the green of chlorophyll, and withholds the rest.",
+   "quote": "Chlorophyll is the chemical that makes leaves green",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a guest's exegesis.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "wtPa21KV2Iw",
+   "start_s": 1137,
+   "claim_text": "The guest says God sends him to America and he is going church to church, inviting pastors to book him.",
+   "quote": "God uh sends me to America and I'm going",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "ministry"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a guest's plan.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "wtPa21KV2Iw",
+   "start_s": 1321,
+   "claim_text": "The guest reads that three great perils will come upon the republic, the third the most fearful, which the united world shall not prevail against.",
+   "quote": "Three great perils will come upon the republic",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "politics"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a historical text read aloud by a guest.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "wtPa21KV2Iw",
+   "start_s": 1487,
+   "claim_text": "The guest says nations will become bond servants to the IMF, the World Bank and American and European institutions.",
+   "quote": "They're going under slavery again to the IMF, World Bank",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "economics"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a guest's claim, not his.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "wtPa21KV2Iw",
+   "start_s": 1523,
+   "claim_text": "The guest reads that the continents shall join, which he says was the whole world as then known, before a fearful scene.",
+   "quote": "That's the whole world joining",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "geopolitics"
+   ],
+   "locations": [],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a historical text read aloud by a guest.",
+   "falsify_miss": "unfalsifiable as stated."
+  },
+  {
+   "video_id": "wtPa21KV2Iw",
+   "start_s": 1911,
+   "claim_text": "The guest says Christians fled to America seeking religious freedom and the land was dedicated to Christ, and he answers with his own visitation.",
+   "quote": "This land was dedicated to Christ",
+   "source_mode": "NEWS",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "unfalsifiable: a historical claim in an interview.",
+   "falsify_miss": "unfalsifiable as stated."
+  }
+ ]
+}

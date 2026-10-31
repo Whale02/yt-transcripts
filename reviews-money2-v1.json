@@ -1,0 +1,12 @@
+{"reviews": [
+ {"video_id":"F-CNFR1LQQI","start_s":230,"claim_id":"amero-north-american-currency","same_event":"yes","delta_type":"first_mention",
+  "note":"Vision dated to 2023 by his own account but only surfaced in the corpus in 2026, so origin_date and uttered_at are three years apart."},
+ {"video_id":"sOD1l2-fKgA","start_s":6338,"claim_id":"venezuela-oil-dollar-buffer","same_event":"yes","delta_type":"first_mention",
+  "note":"Notable because it cuts against his own dollar-collapse thread: here oil money props the dollar up for a season."},
+ {"video_id":"gGCKex1IOtE","start_s":1182,"claim_id":"canada-crisis","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"UAPYhpm_sX0","start_s":2640,"claim_id":"canada-crisis","same_event":"yes","delta_type":"restatement",
+  "note":"Claims partial fulfilment from the tariff dispute, pointing back to an earlier whisky-barrel vision."},
+ {"video_id":"F-CNFR1LQQI","start_s":4475,"claim_id":"bitcoin-top-withheld","same_event":"yes","delta_type":"first_mention",
+  "note":"Structurally unfalsifiable by design: a withheld number can be revealed after the fact to fit whatever happened. Worth keeping in the record precisely for that reason."},
+ {"video_id":"sOD1l2-fKgA","start_s":4705,"claim_id":"cuba-cold-war","same_event":"yes","delta_type":"first_mention"}
+]}

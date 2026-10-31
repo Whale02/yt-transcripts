@@ -1,0 +1,11 @@
+{"relationships":[
+{"from_claim":"hagin-revival-lasts-two-years","to_claim":"two-year-window-2027-2028","rel_type":"related_to","asserted_by":"system",
+ "note":"Two separate two year windows given in the same week: a revival lasting two years from this summer, and a 2027 to 2028 window tied to the appointed times."},
+{"from_claim":"cahn-kilpatrick-september","to_claim":"church-of-his-presence-september","rel_type":"same_event_as","asserted_by":"brandon",
+ "evidence_video":"G7T_Ugj_wn4","evidence_start_s":5182,
+ "note":"He joins them himself: the named ministers and the named church, both around September."},
+{"from_claim":"retaliation-against-trump-children","to_claim":"divine-protection-trump","rel_type":"related_to","asserted_by":"system",
+ "note":"The protection prayers extended from the president to his children, with a reported plot offered as the fulfilment."},
+{"from_claim":"australia-digital-id-2027","to_claim":"social-credit-ai","rel_type":"related_to","asserted_by":"system",
+ "note":"The same identity and scoring thread, now with a named country and a two year implementation window."}
+]}

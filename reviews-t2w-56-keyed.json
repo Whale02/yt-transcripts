@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "26b78efab030fbec",
+"claim_id": "cuba-liberation-by-surprise",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Cuba about to be liberated, restated at the close of the broadcast."
+},
+{
+"mention_id": "de5cdf4680497875",
+"claim_id": "cuba-cold-war",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "An intelligence director's visit to Cuba noted as significant, with the island's dimensions worked out on air."
+},
+{
+"mention_id": "03654fcbe093142d",
+"claim_id": "revival-not-trump-saves-america",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Not done with America, given while singing the Battle Hymn."
+},
+{
+"mention_id": "84ff625cf761e904",
+"claim_id": "revival-bigger-than-azusa",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Raises the benchmark from Azusa to greater than any of the great awakenings, and adds that the sky is not falling."
+},
+{
+"mention_id": "312461387f483233",
+"claim_id": "backbone-like-a-crowbar",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Given alongside four named states to be shaken, which is the checkable half of the passage."
+},
+{
+"mention_id": "4173162a95b0a291",
+"claim_id": "america-rebirthing-baby",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The rebirthing repeated with the founding fathers seen."
+},
+{
+"mention_id": "be3eb4d008c15c55",
+"claim_id": "sheep-goat-nations-un",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that America remains a sheep nation and that the cleansing starts behind the pulpits."
+},
+{
+"mention_id": "6db0f09a0c728a7b",
+"claim_id": "bc-quake-30000-dead",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "A great British Columbia earthquake with many more after it, and secession attempts following."
+},
+{
+"mention_id": "81bb1a21faa2ce34",
+"claim_id": "catholic-church-shaking",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Extends the shaking to England, Japan and the Vatican alongside the Catholic Church."
+},
+{
+"mention_id": "f66d0f3b765af318",
+"claim_id": "breakthrough-in-the-strait",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. A breakthrough rather than a closure, which is the opposite direction from his other strait material."
+},
+{
+"mention_id": "7934ea1fdd887154",
+"claim_id": "breakthrough-in-the-strait",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds Chinese involvement and puts Cuba next in sequence, which makes the ordering checkable."
+},
+{
+"mention_id": "572b774f5f15c07e",
+"claim_id": "chips-back-from-taiwan-two-years",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "He notes the statement will be unpopular and says he fears God not man rather than softening it."
+},
+{
+"mention_id": "e22a7a7778bdca71",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "A sung worship passage."
+},
+{
+"mention_id": "6f251941464038b6",
+"claim_id": "backbone-like-a-crowbar",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that the church does not represent a country and rejects a bipartisan reconciliation reading. Notable as a de-politicising statement inside a heavily political broadcast."
+},
+{
+"mention_id": "3c6b07009b2885ad",
+"claim_id": "prophetic-accuracy-2025",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Accuracy framed as what lets people catch it, with a statement that he does not see the church as national."
+},
+{
+"mention_id": "340aa388232849f7",
+"claim_id": "denominational-walls-come-down",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Four denominations named and the movement said not to involve a government."
+},
+{
+"mention_id": "172a1409fc16d882",
+"claim_id": "divine-protection-trump",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Extends the covering to the secretary of state, the vice president and a named candidate."
+},
+{
+"mention_id": "8283e31b1f16eb1f",
+"claim_id": "antichrist-spirit-influences-trump",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds Jezebel and octopus tentacles around the mind. The claim concerns spirits, so it cannot be checked directly."
+},
+{
+"mention_id": "23e23c9bbb32827c",
+"claim_id": "democrats-and-canada-devising-a-plan",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and he says the meeting had not yet taken place when he saw it, which makes the timing checkable if the meeting is ever identified."
+},
+{
+"mention_id": "daf4fa65c195c670",
+"claim_id": "lineages-presented-to-trump",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He says he does not know what it means, so the image is open to later attachment."
+},
+{
+"mention_id": "1db9991c333e5cee",
+"claim_id": "lead-encased-bunker-sniffers",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the aircraft overflights searching for the shielded device."
+},
+{
+"mention_id": "9b0d697415e716c7",
+"claim_id": "lead-encased-bunker-sniffers",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He says he does not know what lead would do, which is an admission about the physics of his own claim."
+},
+{
+"mention_id": "ace0b8c27d140b05",
+"claim_id": "cold-war-briefcase-in-cuban-bunker",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the latch and key detail and dates it to the 1970s. He dates the same object to the 1960s elsewhere."
+},
+{
+"mention_id": "1138689fc62ac9cb",
+"claim_id": "oil-200-barrel",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Two hundred dollar oil and 1970s style fuel queues, with a not financial advice disclaimer attached."
+},
+{
+"mention_id": "fb289428d45a7513",
+"claim_id": "second-virus-lockdown",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Work from home instructions treated as the restrictions returning."
+},
+{
+"mention_id": "b75660c6a5cbf4a1",
+"claim_id": "king-charles-scorpion-strike",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "Speculation about a resignation after a meeting with the king."
+},
+{
+"mention_id": "b577d9e979c1e3af",
+"claim_id": "ukraine-stops-before-iran",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and a clean binary: he was asked which stops first and answered Ukraine and Russia rather than Iran. The June 2026 Iran ceasefire settles it the other way while the Ukraine war continued."
+},
+{
+"mention_id": "44051196876d67d2",
+"claim_id": "lavender-peace-over-russia",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "The lavender identification is supplied by his co-host from footage rather than from the vision, which is worth recording."
+},
+{
+"mention_id": "639822092bff9a4a",
+"claim_id": "lavender-peace-over-russia",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Peace called over both countries with an agreement asked for."
+},
+{
+"mention_id": "e6b2f8771b24f791",
+"claim_id": "lavender-peace-over-russia",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He says he does not know whether Russia is known for lavender, which is a check on his own detail."
+},
+{
+"mention_id": "86b89d2c6313ead5",
+"claim_id": "lavender-peace-over-russia",
+"same_event": "yes",
+"delta_type": "exact_repeat",
+"confidence": 0.75,
+"note": "The lavender repeated within the same minute."
+},
+{
+"mention_id": "97214d66c0f2f540",
+"claim_id": "russia-street-revival",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds purple, stars and diamonds on the breath as the Russians exhale in relief."
+},
+{
+"mention_id": "b1eb652ced8df65b",
+"claim_id": "turkey-vampire-dracula-cape",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Turkey unsatisfied and stirred up by the prospect of peace."
+},
+{
+"mention_id": "2a34ab1ce8cb485a",
+"claim_id": "russia-street-revival",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He says he does not know what he is seeing and is reporting it raw, which is the right form and is worth recording."
+},
+{
+"mention_id": "1a8250521e4caa97",
+"claim_id": "russian-weapon-warsaw-mushroom",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Sets the order as peace first then the novel weapon over Poland, which means a ceasefire confirms rather than refutes the claim."
+},
+{
+"mention_id": "5c8db057e40c316a",
+"claim_id": "putin-five-cards",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "A reprieve used to rebuild before starting again, with a timing range of months to four years that he states he does not know."
+},
+{
+"mention_id": "12713cad97101949",
+"claim_id": "banks-lasso-the-rocket",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds a negotiation and handshake on the Clarity Act over bank objections, which is a specific outcome rather than a standoff."
+},
+{
+"mention_id": "b15e8a3f74f1b666",
+"claim_id": "banks-lasso-the-rocket",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Names the same four banks that appear across several separate bank claims in this corpus."
+},
+{
+"mention_id": "1b70de39d292f865",
+"claim_id": "golden-statue-pushed-away",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. A statement of his own position rather than a prediction, and worth having on record given how much of the corpus is about a political figure."
+},
+{
+"mention_id": "8f6b242889911da1",
+"claim_id": "archive-the-big-words",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and the most useful thing he says about his own record: a durable index of the big words is exactly what would make the claims checkable."
+},
+{
+"mention_id": "ef625a75790d7652",
+"claim_id": "plague-350m",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He clarifies the scope, that the 350 million is not America and not one nation, which narrows the claim rather than widening it."
+},
+{
+"mention_id": "da98daa9cf0ab1ce",
+"claim_id": "named-commentators-turn",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Three named living people moving in three specified directions, which is among the most checkable items in the corpus."
+},
+{
+"mention_id": "0a5801cd03fb0b76",
+"claim_id": "iran-refineries-struck",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Refinery fires claimed as called. Refinery strikes were already the established pattern of the war by this date."
+},
+{
+"mention_id": "8d99c614102b7577",
+"claim_id": "pathogen-smuggled-from-cuba",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds a green biological weapon out of the water with a Russian submarine, and rockets at the Vatican."
+},
+{
+"mention_id": "186bacd7c93ba45b",
+"claim_id": "black-swan-events-in-europe",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He says plainly he is still looking for the black swan, which is an honest open ledger entry, and adds the Olympic ski slopes."
+},
+{
+"mention_id": "0794fd7f2c049701",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "Psalm 23 prayed. No forward content."
+},
+{
+"mention_id": "424ace78b51cdf92",
+"claim_id": "dry-bones-prophesy-to-the-wind",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Extends the dry bones question to America, Europe and Australia, starting with pastors."
+},
+{
+"mention_id": "4f26c2343b54dcb2",
+"claim_id": "little-teeth-nipping-from-the-ground",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. No reading is offered."
+},
+{
+"mention_id": "cf4c0908ed07c0e7",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "An opening greeting to viewers."
+},
+{
+"mention_id": "dbd7749935045112",
+"claim_id": "preparedness-instructions",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He says the instruction was to his father and not to him, and that each person must follow what they are told. Individualising it means no outcome tests it."
+},
+{
+"mention_id": "de4c78711575f3fc",
+"claim_id": "california-megachurch-scandal",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "A major Californian church leader shaken with things exposed, dated to the days ahead."
+},
+{
+"mention_id": "5f874a8825c9a558",
+"claim_id": "separate-yourself-to-see-the-glory",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. The condition means an absent revival is attributable to the hearers rather than to the word."
+},
+{
+"mention_id": "c056f3d0121d058b",
+"claim_id": "watch-australia",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Revival prayed over Australia with the audience nations covered."
+},
+{
+"mention_id": "3eb3f49efceb1cf2",
+"claim_id": "taiwan-held-back-by-prayer",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Protection prayed over the Taiwanese people and their finances."
+},
+{
+"mention_id": "bfff34d60c5ac205",
+"claim_id": "cricket-burgers-protein-swap",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Worm and cricket burgers pushed as an alternative protein across America."
+}
+]
+}

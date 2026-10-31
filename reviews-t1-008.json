@@ -1,0 +1,14 @@
+{
+  "_note": "Adjudications for tier-1 sweep batch 008. Model claude-opus-5, prompt v1.",
+  "reviews": [
+    {"video_id": "P7viEh9luCE", "start_s": 0, "claim_id": "italy-volcano", "same_event": "yes", "delta_type": "first_mention", "note": "The 5 July 2023 video he later points back to. Origin of the word given as summer 2022."},
+    {"video_id": "2MOBOMGnCdE", "start_s": 868, "claim_id": "judgment-569-days", "same_event": "unsure", "delta_type": "contradiction", "note": "He gives 510 days here and 569 days in the September telling, both landing on 2 October. The two counts cannot both be right from the same dream date, so both are left visible."},
+    {"video_id": "wUNztkdwhXE", "start_s": 158, "claim_id": "timing-misses-admission", "same_event": "yes", "delta_type": "first_mention", "note": "His own accuracy caveat, which any scoring of this corpus has to sit next to."},
+    {"video_id": "wUNztkdwhXE", "start_s": 238, "claim_id": "timing-misses-admission", "same_event": "yes", "delta_type": "elaboration", "note": "The clearest example in the corpus of a miss reclassified as an aversion by prayer. Worth flagging for anyone scoring prayer-conditional claims."},
+    {"video_id": "RlS3QooVBxg", "start_s": 3449, "claim_id": "visitation-2014", "same_event": "yes", "delta_type": "elaboration", "note": "The commissioning line from the visitation."},
+    {"video_id": "RlS3QooVBxg", "start_s": 3612, "claim_id": "taboo-becomes-normal", "same_event": "yes", "delta_type": "first_mention", "note": "The subject is never named in the passage, so what became normal cannot be scored from this text alone."},
+    {"video_id": "RlS3QooVBxg", "start_s": 3868, "claim_id": "pretrib-rapture", "same_event": "yes", "delta_type": "first_mention", "note": "Doctrinal position, recorded because it governs how his end-times timing claims are meant to be read."},
+    {"video_id": "RlS3QooVBxg", "start_s": 3988, "claim_id": "starbucks-tribulation", "same_event": "yes", "delta_type": "first_mention", "note": "One of the few claims with a physical, checkable referent at a fixed location."},
+    {"video_id": "RlS3QooVBxg", "start_s": 4082, "claim_id": "starbucks-tribulation", "same_event": "yes", "delta_type": "new_detail", "note": "He reports the Starbucks was built, which he treats as confirmation. Base rate matters: a Starbucks replacing a barbecue house is a common outcome."}
+  ]
+}

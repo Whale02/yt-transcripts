@@ -1,0 +1,11 @@
+{
+ "_note": "Pre-election check, 30 October 2026: a midterm claim that the ballot itself already answers.",
+ "evidence": [
+  {"claim_id": "lindell-wins-minnesota-landslide",
+   "observed_on": "2026-10-30",
+   "source_url": "https://en.wikipedia.org/wiki/2026_Minnesota_gubernatorial_election",
+   "summary": "The general election nominees for Minnesota governor on 3 November 2026 are Amy Klobuchar (DFL) and Lisa Demuth (Republican). Mike Lindell lost the Republican primary to Demuth; NBC's primary results page shows Demuth 43.4 percent, Lindell 32.5 percent. Lindell is not on the November ballot for governor.",
+   "state": "CONTRADICTED",
+   "rationale": "He said Lindell would win Minnesota by a landslide. Lindell did not win the nomination, so he cannot win the governorship. No later telling is needed to decide this: the claim failed at the primary. The earlier Trump endorsement he cited raised the odds of the nomination but did not deliver it."}
+ ]
+}

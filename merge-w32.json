@@ -1,0 +1,8 @@
+[
+ {"keep":"ai-race-to-first-superhuman","drop":"superhuman-ai-race",
+  "note":"same word, seeded twice by two readers of the same 22 July passage"},
+ {"keep":"cern-copies-open-portals","drop":"cern-copies-and-accident",
+  "note":"same word about colliders copied around the world; the surviving id was first"},
+ {"keep":"de-extinction-lab-animals","drop":"woolly-mammoth-returns",
+  "note":"same word about the mammoth and the spliced animals; the surviving id is broader and was first"}
+]

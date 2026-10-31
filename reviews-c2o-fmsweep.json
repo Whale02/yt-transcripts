@@ -1,0 +1,284 @@
+{
+ "reviews": [
+  {
+   "video_id": "_co9BHhQB5k",
+   "start_s": 192,
+   "mention_id": "94a901a94d33c30e",
+   "claim_id": "oil-boom-2027",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.5,
+   "note": "strikes on Iran producing an oil boom; whether this is the 2027 boom word is not stated | resolved yes: the passage does continue this thread | marked first_mention: earliest live telling of this claim in the corpus"
+  },
+  {
+   "video_id": "B86nuksyMLU",
+   "start_s": 1770,
+   "mention_id": "2ae24e246e9ef36e",
+   "claim_id": "good-year-2025",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 1.0,
+   "note": "marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2024-11-16 telling comes first | marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2024-11-16 telling comes first"
+  },
+  {
+   "video_id": "B86nuksyMLU",
+   "start_s": 1770,
+   "mention_id": "d5c820d321e69d7a",
+   "claim_id": "good-year-2025",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 1.0,
+   "note": "marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2024-11-16 telling comes first | marked first_mention: earliest live telling of this claim in the corpus"
+  },
+  {
+   "video_id": "WQCtH3CHZ1A",
+   "start_s": 3135,
+   "mention_id": "0ac7ca701b0fa430",
+   "claim_id": "words-of-knowledge-healing",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 1.0,
+   "note": "marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2024-11-15 telling comes first | marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2024-11-15 telling comes first"
+  },
+  {
+   "video_id": "WQCtH3CHZ1A",
+   "start_s": 3135,
+   "mention_id": "2cc6af8545800b91",
+   "claim_id": "words-of-knowledge-healing",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 1.0,
+   "note": "marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2024-11-15 telling comes first | marked first_mention: earliest live telling of this claim in the corpus"
+  },
+  {
+   "video_id": "GvCEdjOOuxU",
+   "start_s": 2808,
+   "mention_id": "4d1f6d73e1769ba1",
+   "claim_id": "bc-secession",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.8,
+   "note": "the Pacific city wanting to jump in as Canada gets into financial trouble | marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2025-03-25 telling comes first | marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2025-03-25 telling comes first"
+  },
+  {
+   "video_id": "GvCEdjOOuxU",
+   "start_s": 2808,
+   "mention_id": "19fed4cc1154c537",
+   "claim_id": "bc-secession",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.8,
+   "note": "the Pacific city unnamed here and identified as Vancouver elsewhere in the same session | marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2025-03-25 telling comes first | marked first_mention: earliest live telling of this claim in the corpus"
+  },
+  {
+   "video_id": "GvCEdjOOuxU",
+   "start_s": 2385,
+   "mention_id": "17df161f610624e7",
+   "claim_id": "sooners-asia-first-on-crypto",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "April named as the month, which makes this scoreable | marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2025-03-25 telling comes first | marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2025-03-25 telling comes first"
+  },
+  {
+   "video_id": "GvCEdjOOuxU",
+   "start_s": 2385,
+   "mention_id": "aa9d212f4f6800cb",
+   "claim_id": "sooners-asia-first-on-crypto",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the earliest telling of the Asian financial adoption, before the Sooners wording was attached | repointed from first_mention: the 2025-03-25 telling comes first | marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2025-03-25 telling comes first | marked first_mention: earliest live telling of this claim in the corpus"
+  },
+  {
+   "video_id": "zuPJU38ic98",
+   "start_s": 4890,
+   "mention_id": "e6ed98843c634d99",
+   "claim_id": "japan-earthquake-splits-land",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.7,
+   "note": "Not scored as the earliest telling: 7 December 2024 already carries one. A major earthquake fixing to take place in Japan, with no timing. Japan records several strong quakes a year, so the base rate for a hit on this wording is high. | repointed from first_mention: the 2024-12-07 telling comes first"
+  },
+  {
+   "video_id": "KWXipg48SMQ",
+   "start_s": 2406,
+   "mention_id": "80510ac6bff1d2ec",
+   "claim_id": "pope-with-antichrist",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.8,
+   "note": "he hedges the pope identification himself and says so on air | marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2025-04-16 telling comes first | marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2025-04-16 telling comes first"
+  },
+  {
+   "video_id": "KWXipg48SMQ",
+   "start_s": 2406,
+   "mention_id": "5b5bc58425ad9e57",
+   "claim_id": "pope-with-antichrist",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.85,
+   "note": "he hedges the pope identification and cannot place the third figure's name | marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2025-04-16 telling comes first | marked first_mention: earliest live telling of this claim in the corpus"
+  },
+  {
+   "video_id": "0rk_kmVkVZs",
+   "start_s": 817,
+   "mention_id": "fcf8e171eec16466",
+   "claim_id": "big-beautiful-bill-birthing",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.95,
+   "note": "the bill was signed two days before; the clearest instance of an image being given its meaning afterwards from the news | repointed from first_mention: the 2025-07-03 telling comes first"
+  },
+  {
+   "video_id": "tLTlKY5L8O4",
+   "start_s": 382,
+   "mention_id": "970c60bed8c80681",
+   "claim_id": "big-beautiful-bill-birthing",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.6,
+   "note": "The vote was public and in progress as he spoke, so reading it as the end times unfolding is commentary on a known event rather than a forecast. | marked first_mention: earliest live telling of this claim in the corpus"
+  },
+  {
+   "video_id": "Tme-Su9LtHo",
+   "start_s": 7239,
+   "mention_id": "34bbf7ee3448e780",
+   "claim_id": "fig-tree-ripe-ezekiel-at-the-door",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "Earliest telling, 4 June 2026, four weeks before the 3 July version this claim was seeded from. | repointed from first_mention: the 2025-07-03 telling comes first"
+  },
+  {
+   "video_id": "tLTlKY5L8O4",
+   "start_s": 784,
+   "mention_id": "8b9c6e4da8bc077a",
+   "claim_id": "fig-tree-ripe-ezekiel-at-the-door",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.7,
+   "note": "Doctrine rather than sighting: a beast system, the Antichrist and watching the fig tree, all sourced to scripture. | marked first_mention: earliest live telling of this claim in the corpus"
+  },
+  {
+   "video_id": "Lf38vkQwpgE",
+   "start_s": 7621,
+   "mention_id": "b1e8b14052e8ac9a",
+   "claim_id": "taiwan-held-back-by-prayer",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "the prayer that runs directly against his own word that Taiwan falls; both are kept | marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2025-06-20 telling comes first"
+  },
+  {
+   "video_id": "wXB8hIipAm8",
+   "start_s": 952,
+   "mention_id": "9b007109cfe5aec2",
+   "claim_id": "taiwan-held-back-by-prayer",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.5,
+   "note": "Taiwan named as what to pray while attention is elsewhere; no mechanism given here | moved from taiwan-two-day-fall: Taiwan named as a thing to pray over belongs to the prayer thread, not to the two day fall | marked first_mention: earliest live telling of this claim in the corpus"
+  },
+  {
+   "video_id": "TLV_rmXYyO8",
+   "start_s": 6179,
+   "mention_id": "a3b5f11a57a9eaf7",
+   "claim_id": "dont-pray-the-news-were-ahead",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "he scores his own word against the headlines three days after the fact, which is the thing he tells the audience not to do | marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2025-06-20 telling comes first"
+  },
+  {
+   "video_id": "wXB8hIipAm8",
+   "start_s": 40,
+   "mention_id": "46f28dc73f2606cc",
+   "claim_id": "dont-pray-the-news-were-ahead",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.45,
+   "note": "do not pray the news; a method instruction, though not the same one as the dates word | moved from never-quote-dates-again: do not pray the news is its own standard and now has its own claim | marked first_mention: earliest live telling of this claim in the corpus"
+  },
+  {
+   "video_id": "whNsPmzslac",
+   "start_s": 5432,
+   "mention_id": "d0aaa3fea5e01fc0",
+   "claim_id": "bless-israel-and-be-blessed-cord",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "provoking the nations is not tied to anything measurable | repointed from first_mention: the 2025-07-03 telling comes first"
+  },
+  {
+   "video_id": "tLTlKY5L8O4",
+   "start_s": 2860,
+   "mention_id": "d410552173b7cc92",
+   "claim_id": "bless-israel-and-be-blessed-cord",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.7,
+   "note": "Adds a breathing on the Abrahamic covenant. Recorded that he says he will tell them what he hears even though many will not like it, which he pairs with the position rather than with a sighting. | marked first_mention: earliest live telling of this claim in the corpus"
+  },
+  {
+   "video_id": "n8ZEQ9_9iMk",
+   "start_s": 2389,
+   "mention_id": "660cb08ba37e8877",
+   "claim_id": "alberta-becomes-part-of-america",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.75,
+   "note": "At 10 January 2026 this predates the current first mention of 13 January 2026. Adds that it happens by a vote, not all at once, and because the economy is in trouble. | repointed from first_mention: the 2025-07-05 telling comes first"
+  },
+  {
+   "video_id": "zuPJU38ic98",
+   "start_s": 4164,
+   "mention_id": "3eae451031a9d0f4",
+   "claim_id": "alberta-becomes-part-of-america",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.65,
+   "note": "Canada coming into America with fifty gallon barrels rolling and breaking. The barrels are not interpreted, so only the first half carries content. | marked first_mention: earliest live telling of this claim in the corpus"
+  },
+  {
+   "video_id": "YdurXtq8kSg",
+   "start_s": 3107,
+   "mention_id": "967c57b73c3f37c0",
+   "claim_id": "north-korea-secret-weapons",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "the same stepchild framing as the June telling | marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2025-03-24 telling comes first | marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2025-03-24 telling comes first"
+  },
+  {
+   "video_id": "YdurXtq8kSg",
+   "start_s": 3107,
+   "mention_id": "93b3834b0bff2e4a",
+   "claim_id": "north-korea-secret-weapons",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "he does not say what it is, which removes the checkable part | marked first_mention: earliest live telling of this claim in the corpus | repointed from first_mention: the 2025-03-24 telling comes first | marked first_mention: earliest live telling of this claim in the corpus"
+  },
+  {
+   "video_id": "Lf38vkQwpgE",
+   "start_s": 5070,
+   "mention_id": "e47036744e3ffca9",
+   "claim_id": "certain-crypto-goes-to-five-dollars",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.8,
+   "note": "At 8 January 2026 this predates the current earliest row of 15 January 2026. Five dollars per coin called in prayer, with certain ones never resolved to a ticker. | repointed from first_mention: the 2025-06-17 telling comes first"
+  },
+  {
+   "video_id": "DNbjAj9RilM",
+   "start_s": 5361,
+   "mention_id": "aecab1d477a05202",
+   "claim_id": "certain-crypto-goes-to-five-dollars",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.45,
+   "note": "a crypto at five dollars with no asset named, so nothing here can be checked | moved from crypto-new-era-wave: the five dollar crypto now has its own claim, which is where an unnamed coin at five dollars belongs | marked first_mention: earliest live telling of this claim in the corpus"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+[
+  {"video_id": "Bv_BgO_L8lk", "start_s": 7123, "claim_id": "olympics-opening-ceremony-watch",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Kept separate from olympics-january-yachts: that one has content, this one is a date with an admission that he does not know what it means. The Milan Cortina opening ceremony is 6 February, so his 3rd is not the ceremony date."},
+
+  {"video_id": "NliWml7zW00", "start_s": 430, "claim_id": "track-record-always-right",
+   "same_event": "unsure", "delta_type": "elaboration",
+   "note": "A self-attested hit: he says he called the timing in the Christmas season and points at the present as proof. Filed against the track record claim rather than against the unnamed subject, because the subject is not named here and cannot be checked from this passage alone."},
+
+  {"video_id": "NliWml7zW00", "start_s": 647, "claim_id": "ninety-day-warning-to-july4",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Recorded with the confusion intact. The number is argued over as forty or ninety inside the passage, and ninety days from 13 November is mid-February, not 4 July. Both the arithmetic gap and the disagreement stay visible rather than being cleaned up."},
+
+  {"video_id": "NliWml7zW00", "start_s": 744, "claim_id": "honolulu-three-men",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A number without an act. Distinct from china-attacks-hawaii, which is a military claim; nothing here says what the three men do."},
+
+  {"video_id": "NliWml7zW00", "start_s": 1067, "claim_id": "three-judges-roadblocks",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Extends the judges claim from three named figures to the whole judiciary and out to 2028. Three years of litigation against any administration is close to certain, so the widening makes it easier, not harder."},
+
+  {"video_id": "NliWml7zW00", "start_s": 1261, "claim_id": "scandal-lanced-2028-run",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Shares the 2028 run and the scandal shape with vance-honeytrap-warning from the day before, and may be the same man, but nobody is named in either. A system edge links them; neither is merged."},
+
+  {"video_id": "NliWml7zW00", "start_s": 1977, "claim_id": "prophetic-method-in-part",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The clearest statement of the withholding rule: the pastors he saw were not named, out of regard for their families. It is also the reason a large share of this corpus can never be scored."},
+
+  {"video_id": "NliWml7zW00", "start_s": 2139, "claim_id": "much-given-much-required",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "NliWml7zW00", "start_s": 2246, "claim_id": "megachurch-closures",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Adds 2026 as the year the manifestation is seen more. Manifestation is undefined, so the window tightens without the claim getting sharper."},
+
+  {"video_id": "Iug2hksEpUo", "start_s": 828, "claim_id": "finances-and-church-shaking",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The labour pains image adds a pattern claim, back to back and accelerating, which is what tribulation-birthing-pains says too. Linked by a system edge."},
+
+  {"video_id": "Iug2hksEpUo", "start_s": 931, "claim_id": "mortgage-interest-teaching",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Arithmetic rather than prophecy, and roughly right for a fifty year term. Recorded because the financial teaching sits under the wealth-transfer claims and deserves the same scrutiny."},
+
+  {"video_id": "Iug2hksEpUo", "start_s": 1081, "claim_id": "house-of-cards-crash",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "He rules out 2025 and says twice that it is his opinion. That hedge is his own and is preserved in the certainty field. Ruling a year out is a real commitment, and this one held."},
+
+  {"video_id": "Iug2hksEpUo", "start_s": 1448, "claim_id": "mamdani-flash",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "No year, and he says so. He also could not retrieve the name until someone in the room supplied it, which is worth having on the record next to the sights that arrive fully formed."},
+
+  {"video_id": "Iug2hksEpUo", "start_s": 2972, "claim_id": "calling-things-that-be-not",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The engine under every declaration in the corpus: saying it is treated as the accomplishment, so the statement cannot fail on its own terms."},
+
+  {"video_id": "Iug2hksEpUo", "start_s": 3176, "claim_id": "plague-calendar-fall-to-spring",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Six days after narrowing the plague to fall or winter 2027 he widens it again: November and December of a year, praying into 2027 and 2028 and January. The two tellings do not agree on the window and both stay visible."},
+
+  {"video_id": "Iug2hksEpUo", "start_s": 4182, "claim_id": "no-more-church-as-usual",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "Iug2hksEpUo", "start_s": 5312, "claim_id": "venezuela-like-iraq",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Distinct from venezuela-battleships, which is about the deployment. This is about what follows it: a long entanglement with Russian and North Korean involvement."},
+
+  {"video_id": "Iug2hksEpUo", "start_s": 5728, "claim_id": "budget-fixed-january-2026",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The strongest form he uses anywhere: not that it will happen but that it is already done and merely unannounced. That removes the prayer escape hatch, so it can fail cleanly."},
+
+  {"video_id": "Iug2hksEpUo", "start_s": 6196, "claim_id": "burden-of-seeing",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He says he may not be doing as well as he thinks. Recorded because a fair account of this corpus has to include the moments he doubts himself out loud, not only the confident ones."},
+
+  {"video_id": "Iug2hksEpUo", "start_s": 6548, "claim_id": "divine-protection-trump",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Filed unfalsifiable on structure, not on content: an attempt confirms the warning, no attempt confirms the prayer, and there is no third outcome."},
+
+  {"video_id": "Iug2hksEpUo", "start_s": 6597, "claim_id": "pockets-of-turbulence",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Attaches the turbulence to 2026 and pairs it with blessing and acceleration. He notes the words are kept on their records, which is a claim this database is built to test."},
+
+  {"video_id": "Iug2hksEpUo", "start_s": 6652, "claim_id": "darker-and-lighter-two-sided",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Worth naming plainly: this is the shape that makes the rest unfalsifiable. Good news is the light increasing, bad news is the darkness deepening, and both were forecast."},
+
+  {"video_id": "OYjIqPs-2-A", "start_s": 43, "claim_id": "budget-states-funding-cutoff",
+   "same_event": "unsure", "delta_type": "no_claim",
+   "note": "A read-aloud news item about a vote that had already happened. Nothing is claimed, so nothing is scored. Attached here only because it is the budget thread."},
+
+  {"video_id": "OYjIqPs-2-A", "start_s": 84, "claim_id": "pressure-to-flip-votes",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Describes ordinary party discipline in the language of sight. Recorded as a claim because he presents it as something shown, not as commentary."},
+
+  {"video_id": "DsQ91ct1riM", "start_s": 1045, "claim_id": "ai-fountain-of-youth",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The passage is the framing rather than the substance: he pre-empts the objection that it sounds like science fiction. The subject claim is life extension through AI, which the rest of the video carries."},
+
+  {"video_id": "wP9qZYC_Cv4", "start_s": 117, "claim_id": "supernatural-hard-to-convey",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Offered before the descriptions rather than after, so it excuses vagueness in advance. Belongs with prophetic-method-in-part and supernatural-doors-october-2025 as method material."}
+]

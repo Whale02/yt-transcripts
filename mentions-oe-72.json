@@ -1,0 +1,41 @@
+{
+  "_note": "Oldest-end sweep batch 72: 1-6 May 2026 remainder. Completes May 2026. Model claude-opus-5, prompt v1.",
+  "mentions": [
+    {"video_id": "8czXf1gl9bM", "start_s": 6660,
+     "claim_text": "He says what he meant to tell them is single mother by the end of the day, and that he is going to be on there by the end of the day.",
+     "quote": "single mother by the end of the day",
+     "content_type": "context", "source_mode": "IMPRESSION", "certainty": "hedged",
+     "conditionality": "unclear", "topics": ["family"], "locations": [],
+     "time_phrase": "by the end of the day", "time_precision": "relative",
+     "falsify_match": "unfalsifiable as given: the passage is fragmentary and what is promised to the single mother is not stated.",
+     "falsify_miss": "n/a"},
+
+    {"video_id": "lDyDFQRE3UY", "start_s": 8458,
+     "claim_text": "He says they are trying to bring it back home and focus on the economy and boost their own thing up to give the Republicans a lead in his polls, but that there is a coup, something much darker like January 6th, and that he sees the 25th Amendment.",
+     "quote": "There's a coup. There's something much darker like January 6th",
+     "source_mode": "VISION", "certainty": "definite", "conditionality": "prayer_may_prevent",
+     "topics": ["politics"], "locations": ["America"],
+     "time_phrase": "", "time_precision": "none",
+     "falsify_match": "A removal attempt under the 25th Amendment accompanied by unrest.",
+     "falsify_miss": "Neither happens. Third telling of the coup claim in a single week."},
+
+    {"video_id": "lDyDFQRE3UY", "start_s": 8698,
+     "claim_text": "He reports the Lord saying to remember the gypsy cart going down Times Square in New York, repeating remember the gypsy cart, that there is something connected to it now, and that it is something to do with Europe and the cart coming down Times Square.",
+     "quote": "Remember the gypsy cart going down New York Times Square",
+     "source_mode": "LORD_SAID", "certainty": "definite", "conditionality": "prayer_may_prevent",
+     "topics": ["terrorism"], "locations": ["New York", "Europe"],
+     "time_phrase": "", "time_precision": "none",
+     "falsify_match": "An incident in Times Square involving a vehicle, with a European connection.",
+     "falsify_miss": "None. The earlier gypsy cart telling should be in this corpus, so the recall can be checked against it."},
+
+    {"video_id": "lDyDFQRE3UY", "start_s": 8771,
+     "claim_text": "He says isn't Jesus wonderful, that it is the fifth month of the year and how time flies, names May 5th and going into June and July, that this is the month they pray for the nation, and that May is a very pivotal and very important month to remember.",
+     "quote": "May is a very important month. Remember that",
+     "source_mode": "PERSONAL_INFERENCE", "certainty": "definite", "conditionality": "prayer_may_prevent",
+     "topics": ["politics"], "locations": ["America"],
+     "time_phrase": "May", "window_start": "2026-05-01", "window_end": "2026-05-31",
+     "time_precision": "month", "due_at": "2026-05-31",
+     "falsify_match": "A month of consequence in May 2026.",
+     "falsify_miss": "A quiet May. Pivotal is undefined, and May now carries at least seven separate claims."}
+  ]
+}

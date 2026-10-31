@@ -1,0 +1,23 @@
+[
+ {
+  "claim_id": "asteroid-split-by-lasers",
+  "label": "An asteroid over America split in half by lasers",
+  "domain": "disaster",
+  "description": "A massive asteroid with an enormous tail coming in over the United States so loud it shakes houses, too fast for any missile to catch, struck and split in half by lasers with part of it disintegrating. Water comes inland; Europe and the African coastline are hit too but have longer to evacuate because America was struck first. He adds that it will sneak past the radars.",
+  "aliases": ["a major major asteroid flying in over", "they were trying to shoot it down with lasers", "it's going to be a massive Rock"]
+ },
+ {
+  "claim_id": "london-bridge-attack",
+  "label": "London Bridge and the Vatican prayed over as targets",
+  "domain": "terrorism",
+  "description": "Strategic places in Europe and America prayed over, with London Bridge and the Vatican named, and the note from his wife that the small London Bridge is not the likely target and that Tower Bridge is what people mean.",
+  "aliases": ["praying over London Bridge", "praying over Vatican", "Tower Bridge"]
+ },
+ {
+  "claim_id": "leviathan-out-of-the-gulf",
+  "label": "A massive serpent with a leviathan spirit rising out of the Gulf of Mexico",
+  "domain": "spiritual",
+  "description": "A massive snake or serpent seen coming up out of the Gulf of Mexico, identified with the leviathan spirit, working to delay and hinder the spread of the gospel.",
+  "aliases": ["that massive serpent that massive snake coming up out of the Gulf", "the leviathon spirit"]
+ }
+]

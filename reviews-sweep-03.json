@@ -1,0 +1,61 @@
+{
+  "_note": "Adjudications for sweep batch 03 (2026-08-01 to 2026-08-09). Model claude-opus-5, prompt v1.",
+  "reviews": [
+    {"video_id": "0ptC-1kOXpQ", "start_s": 3751, "claim_id": "wwiii-draft-europe", "same_event": "yes", "delta_type": "new_detail", "note": "Gives a named trigger sign, a Russia-Ukraine rapprochement, and adds Turkey attempting ground invasions."},
+    {"video_id": "0ptC-1kOXpQ", "start_s": 4086, "claim_id": "california-big-one", "same_event": "yes", "delta_type": "first_mention", "note": "Severity is set by comparison rather than magnitude: larger than anything in these generations."},
+    {"video_id": "0ptC-1kOXpQ", "start_s": 4299, "claim_id": "battleground-senate-2026", "same_event": "yes", "delta_type": "first_mention"},
+
+    {"video_id": "QEa4tYadZV0", "start_s": 3326, "claim_id": "church-corruption-2026", "same_event": "yes", "delta_type": "timing_update", "note": "Extends the church cleaning from 2026 alone to the rest of 2026 and into 2027."},
+    {"video_id": "QEa4tYadZV0", "start_s": 5620, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Sung worship."},
+    {"video_id": "QEa4tYadZV0", "start_s": 6424, "claim_id": "battleground-senate-2026", "same_event": "yes", "delta_type": "elaboration", "note": "He treats a get-out-the-vote clip as the activation he predicted; that is a weak match to the word as originally given."},
+    {"video_id": "QEa4tYadZV0", "start_s": 6826, "claim_id": "smart-ring-biometrics", "same_event": "yes", "delta_type": "first_mention", "note": "Explicitly names it as part of the beast system, which links it to mark-world-currency."},
+    {"video_id": "QEa4tYadZV0", "start_s": 7546, "claim_id": "plague-350m", "same_event": "yes", "delta_type": "timing_update", "note": "The tightest date he has given the plague: end of 2027 into January-June 2028, from labs. Scoreable 30 Jun 2028."},
+    {"video_id": "QEa4tYadZV0", "start_s": 8755, "claim_id": "wealth-transfer-window", "same_event": "yes", "delta_type": "new_detail", "note": "Adds the contending condition, which makes a non-event attributable to insufficient prayer. Recorded as if_x rather than treated as a clean claim."},
+
+    {"video_id": "FCeX9hLlWEk", "start_s": 290, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Tulip and lights fragment with no stated referent."},
+    {"video_id": "FCeX9hLlWEk", "start_s": 1080, "claim_id": "wealth-transfer-window", "same_event": "unsure", "delta_type": "elaboration", "note": "Certain investments, unnamed. The durable content is the instruction to track his time frames."},
+    {"video_id": "FCeX9hLlWEk", "start_s": 1709, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Family anecdote."},
+    {"video_id": "FCeX9hLlWEk", "start_s": 2346, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Exhortation and clip introduction."},
+    {"video_id": "FCeX9hLlWEk", "start_s": 2717, "claim_id": "trump-scroll-signing", "same_event": "yes", "delta_type": "new_detail", "note": "The fullest telling: he is writing new legislation concerning America and something digital, not merely signing."},
+    {"video_id": "FCeX9hLlWEk", "start_s": 2877, "claim_id": "trump-scroll-signing", "same_event": "yes", "delta_type": "timing_update", "note": "He softens January into an open question of soon or January, and notes he prayed the same things in 2025 without them landing."},
+    {"video_id": "FCeX9hLlWEk", "start_s": 3177, "claim_id": "poland-war-spread", "same_event": "yes", "delta_type": "elaboration", "note": "He treats a Warsaw warning as first-stage fulfilment; a warning is not an attack, so this is weaker than he presents it."},
+    {"video_id": "FCeX9hLlWEk", "start_s": 3670, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "European loan-guarantee news readout."},
+    {"video_id": "FCeX9hLlWEk", "start_s": 3970, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Phone launch banter."},
+    {"video_id": "FCeX9hLlWEk", "start_s": 6042, "claim_id": "fair-election-2026", "same_event": "yes", "delta_type": "elaboration", "note": "Prayer form of the fair-election claim: fraud exists but is uncovered, which is compatible with either outcome."},
+    {"video_id": "FCeX9hLlWEk", "start_s": 6398, "claim_id": "sept11-2026-groundzero", "same_event": "unsure", "delta_type": "contradiction", "note": "Same imagery as the 11 September 2026 call but he explicitly refuses to name the year. Kept separate: the later telling is dated, this one is not, and merging would launder the hedge away."},
+
+    {"video_id": "kVVIsIOdYvg", "start_s": 1097, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Evangelism exhortation."},
+    {"video_id": "kVVIsIOdYvg", "start_s": 3127, "claim_id": "coup-against-trump", "same_event": "yes", "delta_type": "elaboration", "note": "Names the mechanism as the 25th amendment and places it after the midterms. Prayer conditionality recorded."},
+    {"video_id": "kVVIsIOdYvg", "start_s": 3267, "claim_id": "california-big-one", "same_event": "yes", "delta_type": "elaboration", "note": "He offers an expert warning as confirmation, but a seismologist saying the big one could come at any time is a standing statement, not a new event."},
+    {"video_id": "kVVIsIOdYvg", "start_s": 3311, "claim_id": "california-revival", "same_event": "yes", "delta_type": "first_mention", "note": "Makes the quake the sign for the revival, so the two claims are chained."},
+    {"video_id": "kVVIsIOdYvg", "start_s": 5393, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Biographical testimony."},
+    {"video_id": "kVVIsIOdYvg", "start_s": 8431, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Blue, baby blue, mango, blue stealth: dated to December and January but with no referent. Recorded so the imagery is searchable if he later names it."},
+    {"video_id": "kVVIsIOdYvg", "start_s": 8468, "claim_id": null, "same_event": "no", "delta_type": "restatement", "note": "Same imagery narrowed to January."},
+    {"video_id": "kVVIsIOdYvg", "start_s": 8516, "claim_id": null, "same_event": "no", "delta_type": "restatement", "note": "Same imagery extended into February."},
+    {"video_id": "kVVIsIOdYvg", "start_s": 8656, "claim_id": "fall-harvest-out-of-season", "same_event": "yes", "delta_type": "first_mention", "note": "He flags himself that autumn is the wrong season, which is what makes the image a claim rather than a description."},
+
+    {"video_id": "38U8PhvIHog", "start_s": 299, "claim_id": "smart-ring-biometrics", "same_event": "yes", "delta_type": "new_detail", "note": "Adds cancer and pre-stroke detection and a 2030-2031 push window."},
+    {"video_id": "38U8PhvIHog", "start_s": 770, "claim_id": "fannie-freddie-break", "same_event": "yes", "delta_type": "first_mention", "note": "Ties the mortgage-agency break to the cashless transition rather than treating them separately."},
+    {"video_id": "38U8PhvIHog", "start_s": 2199, "claim_id": "year-of-rain-2027", "same_event": "yes", "delta_type": "new_detail", "note": "Important limiting detail: the harvest is in select places, not everywhere, which narrows what would count as a match."},
+
+    {"video_id": "zxj3eHFugww", "start_s": 1948, "claim_id": "israel-revival", "same_event": "yes", "delta_type": "first_mention"},
+    {"video_id": "zxj3eHFugww", "start_s": 2002, "claim_id": "israel-election-autumn", "same_event": "yes", "delta_type": "elaboration", "note": "He admits he did not know Israel had an October election, then reads his yarmulke vision onto it after the fact."},
+    {"video_id": "zxj3eHFugww", "start_s": 2040, "claim_id": "roshhashanah-acceleration-2026", "same_event": "yes", "delta_type": "elaboration", "note": "Adds that the point of no return was passed in 2025, which makes the acceleration unconditional from here."},
+    {"video_id": "zxj3eHFugww", "start_s": 2234, "claim_id": "naples-volcano-tsunami", "same_event": "yes", "delta_type": "first_mention", "note": "The sign-before-the-major-one structure means a swarm without an eruption can be read either way."},
+    {"video_id": "zxj3eHFugww", "start_s": 5258, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Devotional prayer."},
+
+    {"video_id": "1I4ETKrehPc", "start_s": 540, "claim_id": "northeast-storm-tidal", "same_event": "yes", "delta_type": "first_mention", "note": "One of the few things he says he does not often see, a dream rather than a waking vision."},
+    {"video_id": "1I4ETKrehPc", "start_s": 1018, "claim_id": "land-of-israel-warning", "same_event": "yes", "delta_type": "first_mention"},
+    {"video_id": "1I4ETKrehPc", "start_s": 1638, "claim_id": "gaza-agreement", "same_event": "unsure", "delta_type": "elaboration", "note": "Leans on a 2014 Kim Clement word rather than his own; kept unsure so a borrowed prophecy is not scored as his."},
+    {"video_id": "1I4ETKrehPc", "start_s": 1796, "claim_id": "watergate-2028", "same_event": "yes", "delta_type": "new_detail", "note": "Names Vance and pressure on X as the mechanism, and predicts the label they will use."},
+    {"video_id": "1I4ETKrehPc", "start_s": 1894, "claim_id": "watergate-2028", "same_event": "yes", "delta_type": "elaboration", "note": "Adds the media strand: legacy networks promoted, X squeezed, across both the 2026 and 2028 cycles."},
+    {"video_id": "1I4ETKrehPc", "start_s": 2632, "claim_id": "naples-volcano-tsunami", "same_event": "yes", "delta_type": "new_detail", "note": "Adds the tsunami flooding the Naples coastline, the most specific consequence he has given."},
+    {"video_id": "1I4ETKrehPc", "start_s": 2682, "claim_id": "venice-shaking", "same_event": "yes", "delta_type": "first_mention", "note": "Dated back to 5 July 2023, and he notes the month matches, which is the kind of coincidence he treats as confirmation."},
+    {"video_id": "1I4ETKrehPc", "start_s": 2940, "claim_id": "kim-jong-un-role", "same_event": "yes", "delta_type": "first_mention", "note": "Belarus as the Poland route is the checkable part; the Kim role is vague."},
+    {"video_id": "1I4ETKrehPc", "start_s": 2992, "claim_id": "de-extinction-lab-animals", "same_event": "yes", "delta_type": "first_mention", "note": "Unusually concrete and independently checkable, with a stated origin of June 2025."},
+    {"video_id": "1I4ETKrehPc", "start_s": 3569, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Trump's own conditional claim, played as a clip. Not his word and not scored as one."},
+    {"video_id": "1I4ETKrehPc", "start_s": 7282, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "General prayer over the month."},
+    {"video_id": "1I4ETKrehPc", "start_s": 7324, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Expiration-date decree over personal petitions; no shared criterion, so it is left unattached."},
+    {"video_id": "1I4ETKrehPc", "start_s": 7369, "claim_id": "august-2026-turnaround", "same_event": "yes", "delta_type": "first_mention", "note": "He invites a timestamp test on himself, which makes it scoreable at year end despite being a prayer decree."}
+  ]
+}

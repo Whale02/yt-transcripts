@@ -1,0 +1,944 @@
+[
+ {
+  "video_id": "meR7v1cmzBI",
+  "start_s": 6091,
+  "claim_text": "He will squash it, their infrastructure and their economy, and those who stand against them will come out one way and flee seven, with a scattering of the leaders of Iran who flee the ship like cockroaches, while they pray over the bases in Iraq and around the region.",
+  "quote": "they'll flee the ship like cockroaches in the days ahead",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "iran",
+   "leadership"
+  ],
+  "locations": [
+   "Iran",
+   "Iraq"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "Iranian leaders fleeing the country.",
+  "falsify_miss": "They stay. The scattering is the specific part and would be visible."
+ },
+ {
+  "video_id": "meR7v1cmzBI",
+  "start_s": 6165,
+  "claim_text": "Covering the aircraft carriers, battleships, military men and women, the bases around the region and Israel's bases and its dome against the payloads, saying they will not make it.",
+  "quote": "over payloads. We say they will not make it",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "navy",
+   "air defence"
+  ],
+  "locations": [
+   "Iran",
+   "Israel"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Payloads intercepted before reaching American or Israeli targets.",
+  "falsify_miss": "Any get through. The prayer framing makes either outcome usable."
+ },
+ {
+  "video_id": "meR7v1cmzBI",
+  "start_s": 6216,
+  "claim_text": "Calling liberation over the people of Iran, and he sees the calculations of why they have not done it so far, weighing the balance and the scale.",
+  "quote": "I see the calculations of why they haven't done it so far",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "iran"
+  ],
+  "locations": [
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A decision to act after the weighing.",
+  "falsify_miss": "None. Weighing the balance explains any delay in advance."
+ },
+ {
+  "video_id": "meR7v1cmzBI",
+  "start_s": 6251,
+  "claim_text": "They will lose their opportunity, with China in the background bringing things secretly in the middle of the night, Chinese warplanes with things inside them and Chinese military secrets for protection almost like its own dome, technology never used before.",
+  "quote": "I see Chinese influence in the middle of the night",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "china",
+   "iran",
+   "weapons"
+  ],
+  "locations": [
+   "China",
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Chinese military technology delivered to Iran.",
+  "falsify_miss": "None. This is the earliest telling of the Chinese deliveries."
+ },
+ {
+  "video_id": "meR7v1cmzBI",
+  "start_s": 6331,
+  "claim_text": "A device that communicates with a satellite carrying lasers, a satellite placed in space by China acting as a remote controlled war machine sending missiles and lasers, a secret military operation, with a box of codes handed over, and he asks aloud whether he should say it.",
+  "quote": "I see a device that will communicate to a satellite",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "china",
+   "satellites",
+   "lasers"
+  ],
+  "locations": [
+   "China"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An armed Chinese orbital platform disclosed.",
+  "falsify_miss": "None disclosed. Weapons in orbit would be detectable and would breach the outer space treaty."
+ },
+ {
+  "video_id": "meR7v1cmzBI",
+  "start_s": 6531,
+  "claim_text": "He says he has said far too much, but that China is trying to help Iran against the United States, and that the device sends a pulse like an EMP without a nuclear detonation which fries the electric grid, with the satellites connected like an umbrella that focuses on an area.",
+  "quote": "it can send an EMP without nuclear device",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "china",
+   "emp"
+  ],
+  "locations": [
+   "China",
+   "Iran",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A non-nuclear electromagnetic attack on a national grid.",
+  "falsify_miss": "None. Non-nuclear pulse weapons exist but are short range, which is what would have to change."
+ },
+ {
+  "video_id": "meR7v1cmzBI",
+  "start_s": 6835,
+  "claim_text": "A green computer-like device that communicates with the thing that brings a dome of covering over missiles and military equipment and somehow makes it obsolete, covering even jets when the button is pushed, and he concedes it sounds far out but says it is what he sees.",
+  "quote": "It makes it obsolete somehow. I don't know how",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "china",
+   "weapons"
+  ],
+  "locations": [
+   "China"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A system that disables aircraft and missiles across an area.",
+  "falsify_miss": "None. He says himself he does not know how it works and that it sounds far out."
+ },
+ {
+  "video_id": "meR7v1cmzBI",
+  "start_s": 6933,
+  "claim_text": "China is much further along in the space race and the space age than the United States realises, with secret things America has no clue about, and the Lord said they are four years behind on quantum computing because of the previous administration.",
+  "quote": "Four years of quantum computing ahead of you",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "china",
+   "quantum"
+  ],
+  "locations": [
+   "China",
+   "United States"
+  ],
+  "time_phrase": "four years",
+  "time_precision": "year",
+  "falsify_match": "A demonstrated Chinese lead of that size.",
+  "falsify_miss": "American parity or a lead. Published benchmarks would settle it."
+ },
+ {
+  "video_id": "meR7v1cmzBI",
+  "start_s": 7429,
+  "claim_text": "He says he has to cover it all more in prayer and did not know where to take it, asking how you get back into the river of intercession after seeing that, and calls China stepping in very interesting, saying it was a window.",
+  "quote": "I didn't know where how to take it anymore",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unclear",
+  "topics": [
+   "method"
+  ],
+  "locations": [
+   "China",
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing. A statement about his own difficulty.",
+  "falsify_miss": "Nothing. No event is named."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 381,
+  "claim_text": "News from the Canadian prime minister, which he ties to the visions of him going to China wanting to do business as his last major push to pull the country out of the hole, with Canada going into a depression and joining up with America in the days ahead, though not dissolved as a fifty first state.",
+  "quote": "whenever I was seeing Canada going into a depression",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "canada",
+   "economy"
+  ],
+  "locations": [
+   "Canada",
+   "China"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "A Canadian depression and a formal economic union with America.",
+  "falsify_miss": "Neither. He distinguishes it from the fifty first state talk, which narrows it."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 683,
+  "claim_text": "The landscape that looked like Miami, with oil and gas and billions of dollars outside the Mediterranean off Gaza, a pocket of oil that is one of the largest reserves in the world, which the Lord says he put there strategically for his people and they are about to tap into it.",
+  "quote": "a pocket of oil that was one of the largest reserves in the world",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "gaza",
+   "oil"
+  ],
+  "locations": [
+   "Gaza",
+   "Mediterranean"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A world scale reserve confirmed off Gaza.",
+  "falsify_miss": "None. The known Gaza Marine field is gas and modest in size, which is what this would have to exceed."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 1045,
+  "claim_text": "They do not want Christianity preached, and since the end comes when the word is preached as a witness throughout the world, that is a restrainer to be removed by faith, prayer, fasting and corporate agreement, so that there will be revival in Cuba, Brazil, Iran and North Korea.",
+  "quote": "What do we do with the restrainer",
+  "source_mode": "TEACHING",
+  "certainty": "definite",
+  "conditionality": "if_x",
+  "topics": [
+   "gospel",
+   "revival"
+  ],
+  "locations": [
+   "Cuba",
+   "Brazil",
+   "Iran",
+   "North Korea"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Open preaching in those four countries.",
+  "falsify_miss": "None. Removing the restrainer by prayer means an absence is a failure of prayer."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 1166,
+  "claim_text": "The beginning stages of something shaking in the ground outside Oregon's coast, a 6.0, the ground shaking in the deep in the exact spot the Lord said it would, and he says nobody has died because of the prayers going out.",
+  "quote": "IN THE EXACT SPOT THE LORD TOLD US IT WOULD",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "earthquake",
+   "oregon"
+  ],
+  "locations": [
+   "Oregon"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The earlier recordings place the location before the quake.",
+  "falsify_miss": "They do not. Offshore quakes on the Cascadia and Blanco zones are recorded regularly, which is the base rate."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 4130,
+  "claim_text": "Praying that the people of Iran have a major move of God like a Holy Ghost explosion across their land, with a radical shifting and shaking throughout Iran, Pakistan, India, Afghanistan, Saudi Arabia and Iraq.",
+  "quote": "a major revival that will be like a Holy Ghost explosion",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "revival",
+   "middle east"
+  ],
+  "locations": [
+   "Iran",
+   "Pakistan",
+   "India",
+   "Saudi Arabia",
+   "Iraq"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Documented religious upheaval across those six countries.",
+  "falsify_miss": "None. Naming six at once makes a partial claim likely somewhere."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 4371,
+  "claim_text": "The California governor with an uncovering of great darkness surrounding him, having put himself into the midst of a black molasses with layers of it rippling out around him.",
+  "quote": "he's put himself into a midst of a of a black molasses",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "california",
+   "corruption"
+  ],
+  "locations": [
+   "California"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "A corruption disclosure centred on that governor.",
+  "falsify_miss": "None. The molasses is an image without a specific allegation attached."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 4410,
+  "claim_text": "A case being brought up through the legal system that is very damning and bad for the California governor and his administration, with greater corruption in the news than even Minnesota.",
+  "quote": "I see a case that is being brought up through the legal system",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "california",
+   "legal"
+  ],
+  "locations": [
+   "California",
+   "Minnesota"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "A prosecution or filing against the governor or his administration.",
+  "falsify_miss": "None. A court filing is a matter of record and would settle it."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 4694,
+  "claim_text": "Very dark ties running from San Francisco clear into Asia, and the Mexican cartel coming up through the governor, with California as a highway of transportation for the corruption, the finances and the trafficking, reaching up into the law.",
+  "quote": "there's ties from from San Francisco that go clear into Asia",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "california",
+   "trafficking"
+  ],
+  "locations": [
+   "San Francisco",
+   "California",
+   "Mexico",
+   "Asia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A trafficking network exposed running from Asia through San Francisco.",
+  "falsify_miss": "None exposed. Naming the governor in the chain is the checkable part."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 4828,
+  "claim_text": "Extra stimulus so people can go for a nice dinner or buy things, with the figure fifty thousand dollars over a course of time, and levels of ten thousand, twenty five thousand and fifty thousand in cash and some even more, depending on the grade of the officer.",
+  "quote": "I see levels of 10,000, 25,000, 50,000 and some even more cash",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "corruption",
+   "payoffs"
+  ],
+  "locations": [
+   "California"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A bribery case with payments at those levels.",
+  "falsify_miss": "None. This is the earliest telling and it puts numbers on the payments."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 4889,
+  "claim_text": "They do not want to turn on it because it has given them a better life, their children have better clothes and better things, and they justify it in their hearts because California is expensive and they are just trying to make it.",
+  "quote": "That's how they justify it in their heart",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "corruption"
+  ],
+  "locations": [
+   "California"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Testimony matching that motive in any prosecution.",
+  "falsify_miss": "None. The motive is supplied rather than observed."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 4933,
+  "claim_text": "The pressure from the administration over the last six months on the border has made the corruption greater rather than smaller, because more is paid to turn the blind eye, and it is not just there but comes up through Texas.",
+  "quote": "the corruption has become greater",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "border",
+   "corruption"
+  ],
+  "locations": [
+   "California",
+   "Texas",
+   "Mexico"
+  ],
+  "time_phrase": "the last six months",
+  "time_precision": "month",
+  "falsify_match": "Bribery cases rising alongside enforcement.",
+  "falsify_miss": "They fall. The counterintuitive direction is what makes this worth checking."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 5522,
+  "claim_text": "Looking for an uprising and a regime change in China, with a dividing coming by his spirit that shakes the land, because the generals are split over taking Taiwan and those who are against it are upset with the leader and want him gone.",
+  "quote": "Looking for an uprising and a regime change in China",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "china",
+   "coup",
+   "taiwan"
+  ],
+  "locations": [
+   "China",
+   "Taiwan"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A leadership challenge in Beijing over Taiwan policy.",
+  "falsify_miss": "None. This is the earliest telling, and the split over Taiwan is the specific mechanism."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 5572,
+  "claim_text": "It causes great confusion in their camp so that the underground church has a major revival because of the turmoil in their government, which he says is by God's hand and will have a trickle effect throughout all of Asia.",
+  "quote": "This is by my hand and my by what I'm doing",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "china",
+   "revival"
+  ],
+  "locations": [
+   "China",
+   "Asia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Chinese instability followed by church growth there.",
+  "falsify_miss": "Neither. The revival is made to depend on the turmoil, so no turmoil means no test."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 5968,
+  "claim_text": "The gates of hell will not prevail, but they have allowed the enemy in by their decisions, so a stern and swift correction is coming because he is out of time though not out of mercy, and they should not be alarmed at what they see in their media because he is cleaning house across the nation and the world.",
+  "quote": "I'm out of time. I'm not out of mercy",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "judgment",
+   "media"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A run of falls among media and church figures.",
+  "falsify_miss": "None. Cleaning house is not tied to any named person or institution here."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 6759,
+  "claim_text": "Something in Europe around Germany, with great persecution coming on the Jews again which will drive them back to the land, great antisemitism rising, and a shaking in Europe, an even greater shaking.",
+  "quote": "Great persecution is coming on the Jews again",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "antisemitism",
+   "europe"
+  ],
+  "locations": [
+   "Germany",
+   "Europe",
+   "Israel"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Persecution of Jews in Germany driving emigration to Israel.",
+  "falsify_miss": "None. Emigration figures from Germany are published and would settle it."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 6789,
+  "claim_text": "The same passage in the overlapping window, repeating that the persecution drives them back to the land and that there is an even greater shaking in Europe.",
+  "quote": "it will drive them back to the land",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "antisemitism",
+   "europe"
+  ],
+  "locations": [
+   "Europe"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Same as the preceding row.",
+  "falsify_miss": "Same as the preceding row."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 7032,
+  "claim_text": "Looking closely at all the corruption in Ukraine and at the church, he says it gets overwhelming in the prophetic lens and he asked the Lord how he wanted him to handle it.",
+  "quote": "it gets overwhelming in the prophetic lens",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "ukraine",
+   "method"
+  ],
+  "locations": [
+   "Ukraine"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Corruption findings in Ukraine on that scale.",
+  "falsify_miss": "None. He does not specify what he saw here, only that it was overwhelming."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 7071,
+  "claim_text": "The money laundering, the drugs and the trafficking of children coming out of Ukraine, and the Lord telling him one step at a time, with Jesus taking his hand in the vision and walking with him in prayer so that he is not alone.",
+  "quote": "the trafficking of these children coming out of Ukraine",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "ukraine",
+   "trafficking"
+  ],
+  "locations": [
+   "Ukraine"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A trafficking network exposed running out of Ukraine.",
+  "falsify_miss": "None exposed. Child trafficking claims about Ukraine have circulated widely without substantiation."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 8964,
+  "claim_text": "Minnesota will have a major revival and he truly believes God will use Minnesota in the days ahead for a major move of God, with prayer also for Louisiana, Oklahoma and Texas.",
+  "quote": "Minnesota will have a major revival",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "revival",
+   "minnesota"
+  ],
+  "locations": [
+   "Minnesota"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "Measurable church growth in Minnesota.",
+  "falsify_miss": "None. Minnesota recurs as both the corruption centre and the revival centre in his material."
+ },
+ {
+  "video_id": "-_dbVTpbFIs",
+  "start_s": 8996,
+  "claim_text": "Praying for the Spanish-speaking peoples, Mexico and China, and recalling that the Lord said there would be a shaking in China with an uprising in the leader's own camp, then Taiwan, revival in North Korea, the leader and his sister out and freedom for the North Korean people, and Cuba.",
+  "quote": "Ping uprising in his own uh camp",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "china",
+   "north korea"
+  ],
+  "locations": [
+   "China",
+   "North Korea",
+   "Taiwan",
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The North Korean leader and his sister removed.",
+  "falsify_miss": "Neither is. Naming both raises the bar above the general removal claim."
+ },
+ {
+  "video_id": "utf0ZMPboz4",
+  "start_s": 742,
+  "claim_text": "He was given two weeks and says this is the pivotal time, with the Lord repeatedly saying push the button because he is running out of time, and he saw him pushing it, with the council influencing the decision and Israel and intelligence people talking.",
+  "quote": "Push the button, Trump. You're running OUT OF TIME",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "iran",
+   "decision"
+  ],
+  "locations": [
+   "United States",
+   "Israel"
+  ],
+  "time_phrase": "two weeks",
+  "time_precision": "week",
+  "falsify_match": "A decisive military order inside that fortnight.",
+  "falsify_miss": "Nothing in it. The two week window closed in early February 2026 and can be scored."
+ },
+ {
+  "video_id": "utf0ZMPboz4",
+  "start_s": 786,
+  "claim_text": "Praying over the secret intelligence on both sides and the people who would be in harm's way, and then the Supreme Court, because they cannot allow the tariffs not to happen since they are the lifeblood of the plan for the economy to flourish and keep him paddling away from the falls.",
+  "quote": "we can't allow the the tariffs not to happen",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "tariffs",
+   "economy"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The tariffs upheld and the economy holding up.",
+  "falsify_miss": "They are struck down. The lifeblood framing is what makes the ruling the test."
+ },
+ {
+  "video_id": "utf0ZMPboz4",
+  "start_s": 873,
+  "claim_text": "A scramble over what can be done to salvage the economy if this falls and trillions have to be paid back to other nations, which he says is a very hard position, with the country thirty four or more than forty trillion dollars in the hole.",
+  "quote": "what we can do to salvage the economy",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "tariffs",
+   "debt"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Repayment of collected tariffs after an adverse ruling.",
+  "falsify_miss": "No repayment. This is the earliest telling of the plan A and plan B structure."
+ },
+ {
+  "video_id": "utf0ZMPboz4",
+  "start_s": 916,
+  "claim_text": "You have to have a Hail Mary play because this is do or die, they are paddling upstream against Niagara Falls and the Lord said they are at the point of no return but he is giving a window of opportunity, and he kept hearing that there will be a wound against America that will not be fatal.",
+  "quote": "there will be a wound against America that will not be fatal",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "america",
+   "economy"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A serious but survivable blow to America.",
+  "falsify_miss": "Nothing, or a fatal one. The not fatal qualifier distinguishes it from the collapse material."
+ },
+ {
+  "video_id": "utf0ZMPboz4",
+  "start_s": 1010,
+  "claim_text": "He works through what a wound that is not fatal could be, what would shake America and bring the church and the Republicans to their knees, calling it a shaking to awaken, alongside Greenland, Venezuela and the uprisings.",
+  "quote": "What would shake America? What would bring them to their knees?",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "america"
+  ],
+  "locations": [
+   "United States",
+   "Greenland",
+   "Venezuela"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An event that produces a national religious response.",
+  "falsify_miss": "None. He says himself he did not know what the Holy Spirit meant at the time."
+ },
+ {
+  "video_id": "utf0ZMPboz4",
+  "start_s": 1136,
+  "claim_text": "The news is old and too late, so they must be like the watchman or the eagle that sees far in advance and knows when a storm is coming, because they are in the valley of decision, with a major decision concerning Iran and the Lord saying push the button, and Putin with Apollyon circling him.",
+  "quote": "like the watchman or the eagle that sees WAY FAR IN ADVANCE",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "method",
+   "iran"
+  ],
+  "locations": [
+   "United States",
+   "Iran",
+   "Russia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The recordings consistently preceding the events.",
+  "falsify_miss": "They do not. This is the earliest statement of the standard he sets himself."
+ },
+ {
+  "video_id": "utf0ZMPboz4",
+  "start_s": 1267,
+  "claim_text": "Trade wars with medicines and hospital supplies in trouble as the war escalates, the food supply chain affected, Europe upset, and Macron coming on the scene angry about Greenland, in an escalation on all fronts, which he ties to Macron being publicly teased about his sunglasses and a burst blood vessel in his eye.",
+  "quote": "it was an escalation of on all fronts",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "trade",
+   "europe"
+  ],
+  "locations": [
+   "Europe",
+   "Greenland"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Simultaneous trade, medical and food supply disruption.",
+  "falsify_miss": "None. The sunglasses exchange is offered as confirmation of a vision about Greenland."
+ },
+ {
+  "video_id": "utf0ZMPboz4",
+  "start_s": 1312,
+  "claim_text": "The French president saying it might be time to consider joining the BRICS, joining up with Russia in their plan to split away from the dollar, which he tells them to remember for what comes next.",
+  "quote": "it might be time for us to consider joining the",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "brics",
+   "europe"
+  ],
+  "locations": [
+   "France",
+   "Russia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "France moving toward BRICS.",
+  "falsify_miss": "It does not. He reads a rhetorical line in a speech as a policy direction."
+ },
+ {
+  "video_id": "utf0ZMPboz4",
+  "start_s": 1682,
+  "claim_text": "The Lord says he is holding the church accountable for what is about to take place because there has not been enough prayer for the president, and told him to stop focusing on what he is being shown and attack it in the spirit realm, because they are not praying over what he is giving them, in the most intense and important assignment the body of Christ has.",
+  "quote": "They're not praying over what you're giving",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "if_x",
+  "topics": [
+   "prayer",
+   "church"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing observable.",
+  "falsify_miss": "Nothing observable. It transfers responsibility for any unfulfilled word to the audience."
+ },
+ {
+  "video_id": "utf0ZMPboz4",
+  "start_s": 2084,
+  "claim_text": "The shooter was trained and Russian, with Macron and him negotiating and talking things through with the Russian government, and the Secret Service looking everywhere in a panic unable to see how far it came, after which World War Three panned across his face and a major war broke out in Europe in immediate retaliation for what happened to their leader.",
+  "quote": "It was a retaliation immediately for what just happened to our leader",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "assassination",
+   "europe"
+  ],
+  "locations": [
+   "United States",
+   "Europe",
+   "Russia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An assassination of the American president followed by war in Europe.",
+  "falsify_miss": "None. The Russian shooter and the French involvement are the specific parts."
+ },
+ {
+  "video_id": "utf0ZMPboz4",
+  "start_s": 2458,
+  "claim_text": "The Florida governor doing the Secretary of State's job with all of them in the Oval Office while America was in major turmoil that felt like hell on earth, with the storm around the White House and a major war coming, and Jesus saying he holds the church accountable because he gave it authority over the enemy in prayer.",
+  "quote": "Ronda Santz was doing Marco Rubio's job",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "politics",
+   "war"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "That governor taking the Secretary of State's role.",
+  "falsify_miss": "He does not. A cabinet appointment is a matter of record."
+ },
+ {
+  "video_id": "utf0ZMPboz4",
+  "start_s": 2593,
+  "claim_text": "This will be the make or break of his presidency and of the nation, in the decisions of the next couple of weeks and the speech, concerning Greenland, Israel, Gaza, Iran and Cuba, but he saw the other one step in who tried to play the part while following the globalist agenda on banking.",
+  "quote": "But I saw the other one step in",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "succession",
+   "politics"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "the next couple weeks",
+  "time_precision": "week",
+  "falsify_match": "A successor taking office and turning to the globalist agenda.",
+  "falsify_miss": "The president serves his term. The other one is not named here."
+ },
+ {
+  "video_id": "utf0ZMPboz4",
+  "start_s": 3004,
+  "claim_text": "Quoting Mark 11 about believing you receive when you pray and speaking to the mountain, he says it is about being a believing believer in these last days because great war is trying to break out across the nations, with Macron and this other, and what he saw about Gaza with the brand new buildings.",
+  "quote": "There's great war trying to break out across the nations",
+  "source_mode": "TEACHING",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "war",
+   "prayer"
+  ],
+  "locations": [
+   "Europe",
+   "Gaza"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A general war across several nations.",
+  "falsify_miss": "None. The prayer condition means an absence is read as the answer."
+ },
+ {
+  "video_id": "utf0ZMPboz4",
+  "start_s": 3090,
+  "claim_text": "Taken to Israel he saw the Saudi crown prince leading in a V formation like flying ducks with other Arab men behind him, going into Israel and negotiating Gaza with the American president and other countries, and they rebuilt Gaza.",
+  "quote": "I saw MBS leading in a V. He was the leader",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "gaza",
+   "saudi"
+  ],
+  "locations": [
+   "Israel",
+   "Gaza",
+   "Saudi Arabia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The Saudi crown prince leading an Arab bloc into a Gaza settlement.",
+  "falsify_miss": "He does not. The V formation with him at the head is the specific image."
+ },
+ {
+  "video_id": "utf0ZMPboz4",
+  "start_s": 3151,
+  "claim_text": "After a clip about the master plan and the zones, he says he saw a golf course with the president's name on it, a flag in the ninth hole reading Trump Golf Course Gaza in blue and white cursive outlined like an Israeli flag, with green grass all over it, which he says is symbolic.",
+  "quote": "it said Trump golf course Gaza and it was blue and white",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "gaza",
+   "development"
+  ],
+  "locations": [
+   "Gaza"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A golf course built in Gaza under that name.",
+  "falsify_miss": "None built. This is the earliest telling, and he marks it symbolic himself."
+ },
+ {
+  "video_id": "utf0ZMPboz4",
+  "start_s": 3229,
+  "claim_text": "Oil derricks coming up out of Gaza with a massive amount of money in oil and gas under the soil and under the Mediterranean off the coastline, and the third temple being built, with countries buying in at a billion dollars each to be on the council.",
+  "quote": "I saw oil derks, but they were coming up out of Gaza",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "gaza",
+   "oil",
+   "third temple"
+  ],
+  "locations": [
+   "Gaza",
+   "Mediterranean"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Onshore drilling in Gaza and a temple begun.",
+  "falsify_miss": "Neither. Onshore derricks in Gaza would be a departure from the known offshore gas field."
+ }
+]

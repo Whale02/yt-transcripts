@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "c6eacc95e7128003",
+"claim_id": "prince-of-persia-babylon",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the spirit described as looking like a massive angel"
+},
+{
+"mention_id": "e2720a994bfbcf88",
+"claim_id": "blackrock-warning",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "the firm cited approvingly here as evidence of accumulation, which cuts against the standing warning about it"
+},
+{
+"mention_id": "d72bdad7dc1ca034",
+"claim_id": "bitcoin-national-reserves",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "tied to the Clarity Act passing, which makes it datable"
+},
+{
+"mention_id": "7ab23a83358263c4",
+"claim_id": "hundreds-of-false-prophets",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "aimed at people interpreting his own words"
+},
+{
+"mention_id": "0eb2832f754be704",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "a clip of another man speaking"
+},
+{
+"mention_id": "9638114d1d333494",
+"claim_id": "axis-covenant-nk-china-russia-iran",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the table, the three brothers and the pariah framing"
+},
+{
+"mention_id": "9abdd4f3e5581330",
+"claim_id": "kim-jong-un-role",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the missile barrage taken as the tyrant out of the basement"
+},
+{
+"mention_id": "c1763dd02ecc5d3c",
+"claim_id": "significant-artifact-found",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Aaron's rod named; the find he cites is dated to the period rather than identified as that"
+},
+{
+"mention_id": "3ec131cca4f3179c",
+"claim_id": "harris-2028-rebrand",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "three names given as the field"
+},
+{
+"mention_id": "f762563b4eb78979",
+"claim_id": "great-war-escalation",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "the Tomahawk production increase cited"
+},
+{
+"mention_id": "c30889954f7d0425",
+"claim_id": "venezuela-oil-dollar-buffer",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "both blocs reaching for the same oil"
+},
+{
+"mention_id": "d8ca51bf4557d085",
+"claim_id": "amero-north-american-currency",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "the sharpest form of it: financial borders down, physical borders kept, the fifty first state financially"
+},
+{
+"mention_id": "bca42bd70f7a8295",
+"claim_id": "amero-north-american-currency",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "Australia and Europe added, with Germany double minded"
+},
+{
+"mention_id": "ade4c916124eab67",
+"claim_id": "two-nyc-towers-collapse",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "from the top up this time; he distinguishes it from September 11th again"
+},
+{
+"mention_id": "e28f689e960590c5",
+"claim_id": "british-columbia-major-quake",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "stated as certain rather than preventable, which is unusual for him"
+},
+{
+"mention_id": "e774fc37b7e63220",
+"claim_id": "new-pipelines-opened",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "Canada to Texas named"
+},
+{
+"mention_id": "6da623a781187cc7",
+"claim_id": "greenland-acquisition",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "cobalt and batteries given as what it is about, with China excluded"
+},
+{
+"mention_id": "ce153551587e227b",
+"claim_id": "dday-pearl-harbor",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "the veins and barbed wire out of New York and the northeast"
+},
+{
+"mention_id": "fcf915bd77f11021",
+"claim_id": "oil-boom-2027",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "Tulsa, Pampa and Amarillo named"
+},
+{
+"mention_id": "f37c5d74b804878a",
+"claim_id": "oil-boom-2027",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "a new method breaking free, worth billions, with Kansas added"
+},
+{
+"mention_id": "e1d5a7d6895acf77",
+"claim_id": "china-owns-american-farmland",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "Vance named again with a court case and forced sale back"
+},
+{
+"mention_id": "70428dc48643b411",
+"claim_id": "venezuela-oil-dollar-buffer",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "a new extraction technology named as the mechanism"
+},
+{
+"mention_id": "1cc7e7297c9d1abf",
+"claim_id": "crypto-new-era-wave",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "make or break covers both outcomes, which is in the mention"
+},
+{
+"mention_id": "fb09f230b331c7d4",
+"claim_id": "wealth-transfer-window",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "here rather than coming, which makes a delay hard to explain later"
+},
+{
+"mention_id": "dd238aaea6044cac",
+"claim_id": "blonde-woman-leads-france",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "given alongside the Toronto eye and a northeastern shaking"
+},
+{
+"mention_id": "34d8d120dee5c2ab",
+"claim_id": "iran-regime-flip-reza-assassinated",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the new Ayatollah gone and leaders assassinated, with the strait shifting"
+},
+{
+"mention_id": "ff99726296c6eac3",
+"claim_id": "iran-fizzles-europe-is-bigger",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the prince of Persia wounded and Iraq rising"
+},
+{
+"mention_id": "5a5b17e763bef60f",
+"claim_id": "middle-east-revival-spots",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "pockets given as the word"
+},
+{
+"mention_id": "8f50a859ac2cefaa",
+"claim_id": "hagin-revival-lasts-two-years",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.9,
+"note": "anchored to 2028 with a two year span, which makes it scoreable"
+},
+{
+"mention_id": "246cf3cd2cf0f620",
+"claim_id": "housing-break",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "record low home buyers and the 1929 comparison"
+},
+{
+"mention_id": "7560b8702d692313",
+"claim_id": "housing-break",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the transparent housing market and the pig with lipstick recalled"
+},
+{
+"mention_id": "58b4d8e151cc7e5b",
+"claim_id": "europe-winter-fuel-crisis",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "eleven dollar diesel in Germany, which is a checkable figure"
+},
+{
+"mention_id": "d0f47f128686da39",
+"claim_id": "europe-wants-war-for-economies",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "infrastructure used to poke the bear, to combat BRICS"
+},
+{
+"mention_id": "2fa4236c65a1663b",
+"claim_id": "gas-lines-mile-long",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "tied to the Iran war, with the do-not-add instruction restated"
+},
+{
+"mention_id": "611f89c7aecfb148",
+"claim_id": "gas-lines-mile-long",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "he now believes the queue was America rather than Russia, and hedges it himself"
+},
+{
+"mention_id": "743eb3b44de1f253",
+"claim_id": "black-sea-strait-closed",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "grain exports named, matched to a bundled grain image from over a year earlier"
+},
+{
+"mention_id": "c90ddb6b6184082c",
+"claim_id": "global-quake-swarm",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "a 4.8 in Spain cited; that magnitude is unremarkable"
+},
+{
+"mention_id": "d16bbb8244adc335",
+"claim_id": "vatican-earthquake",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "an 8.2 at Rome and Venice; Italy has never recorded a magnitude 8, which makes this a hard claim"
+},
+{
+"mention_id": "78ca256637e56f21",
+"claim_id": "two-state-third-temple",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the pope's call taken as the dividing of Jerusalem"
+},
+{
+"mention_id": "b9974ca76c4c21dc",
+"claim_id": "kim-jong-un-role",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "red and black, out of a bunker, supplied by the alliance"
+},
+{
+"mention_id": "37b8fd6e4cb91f7c",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a clip played on air"
+},
+{
+"mention_id": "6a3d68e3c5c5c8dc",
+"claim_id": "kim-jong-un-role",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "claimed as beginning after his word; no earlier recording is cited"
+},
+{
+"mention_id": "4461f202dde9e7c9",
+"claim_id": "axis-covenant-nk-china-russia-iran",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the if I am off concession is unusual for him and is kept in the mention"
+},
+{
+"mention_id": "e77cb6e9ba2be3e0",
+"claim_id": "amero-north-american-currency",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "Carney said to fight it because he wanted to join the other bloc"
+},
+{
+"mention_id": "66de628c7e632d03",
+"claim_id": "new-pipelines-opened",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the Gulf of Mexico wealth alongside the pipeline"
+},
+{
+"mention_id": "b55537e65cf35dfd",
+"claim_id": "nordstream-reopened",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.9,
+"note": "a short oil squeeze window attached"
+},
+{
+"mention_id": "2b89b2a4b3ca2a3f",
+"claim_id": "nordstream-reopened",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "the same passage repeated within the video"
+},
+{
+"mention_id": "fae2412da0461645",
+"claim_id": "amero-north-american-currency",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "gas shortages for a reason he says he does not know"
+},
+{
+"mention_id": "5544cc78c3d32f4f",
+"claim_id": "crypto-wave-ride-then-ends",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "the crypto era named as the golden age that will be short lived, which ties two of his claims together"
+},
+{
+"mention_id": "7c7bfba4b0f31530",
+"claim_id": "cuba-retaliation-against-america",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "he answers the contradiction charge himself with the season clause, and that answer is the thing worth keeping"
+},
+{
+"mention_id": "c69007e61d996bfe",
+"claim_id": "next-virus-engineered-in-a-lab",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "targeted at people on diabetic and heart medicine, with no vaccine"
+},
+{
+"mention_id": "4905f529f1c65d8a",
+"claim_id": "boats-dissolving-in-acid",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "uninterpreted, and he says he does not know what a good hand is"
+},
+{
+"mention_id": "c5b51a2cbc982ff5",
+"claim_id": "stimulus-2500-per-person",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "a figure and a purpose, which makes it checkable"
+},
+{
+"mention_id": "79798d8263f3d89f",
+"claim_id": "mercury-on-troubled-waters",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the surface described as toxic, with the beast system alongside"
+},
+{
+"mention_id": "955d817c27da19d1",
+"claim_id": "bitcoin-national-reserves",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "Spain named, with Bitcoin at the top of the pyramid"
+}
+]
+}

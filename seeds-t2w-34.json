@@ -1,0 +1,30 @@
+[
+ {
+  "claim_id": "blonde-woman-leads-france",
+  "label": "A blonde woman charging ahead to take over France",
+  "domain": "europe",
+  "description": "A blonde woman seen trying to charge ahead and take over in France against great resistance, given alongside the voter fraud and revolution material.",
+  "aliases": ["I see the blonde lady at taking over uh France", "a blonde lady trying to charge ahead in France"]
+ },
+ {
+  "claim_id": "boats-dissolving-in-acid",
+  "label": "Ships rusting and dissolving in acid with crypto moving inside it",
+  "domain": "economy",
+  "description": "Trade wars with China seen as boats beginning to rust and disintegrate in acid, with cryptocurrency and dollar signs moving around inside the acid, and the American president holding cards at a poker table while he says he does not know what counts as a good hand.",
+  "aliases": ["I saw the boats beginning to rust", "I saw crypto moving around inside of the acid", "he was playing poker"]
+ },
+ {
+  "claim_id": "stimulus-2500-per-person",
+  "label": "Two thousand five hundred dollars per person to stop a blue wave",
+  "domain": "economy",
+  "description": "An idea being thrown around of twenty five hundred dollars per person, or possibly per household, to stimulate the economy ahead of the midterms and produce a red buffer rather than a blue wave, discussed with an incoming Federal Reserve chair.",
+  "aliases": ["an idea being thrown around of $2500 per person", "instead of a blue wave"]
+ },
+ {
+  "claim_id": "bitcoin-national-reserves",
+  "label": "Nations hold Bitcoin reserves after the Clarity Act",
+  "domain": "crypto",
+  "description": "A pyramid with Bitcoin at the top, and nations in Africa, Europe and Spain deciding it is time to hold a Bitcoin reserve once the Clarity Act passes, with countries across Africa, South America and Asia taking strategic reserves in certain cryptocurrencies because of American banking.",
+  "aliases": ["at the top of the pyramid was Bitcoin", "It's time for us to have a Bitcoin reserve", "strategic Bitcoin reserves"]
+ }
+]

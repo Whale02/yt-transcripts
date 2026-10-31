@@ -1,0 +1,60 @@
+{
+ "_note": "Job A batch 5, 30 August 2026. Dated single-event claims 2025. Reality only; priority and base rates named.",
+ "evidence": [
+  {"claim_id": "blood-moon-march-2025-war",
+   "observed_on": "2025-03-18",
+   "source_url": "https://en.wikipedia.org/wiki/March%E2%80%93May_2025_United_States_attacks_in_Yemen",
+   "summary": "A total lunar eclipse, the first visible from North America since November 2022, occurred on 14 March 2025. On 15 March the United States began Operation Rough Rider against the Houthis in Yemen, the first large-scale US military operation in the Middle East of Trump's second term. On 18 March Israel launched a surprise attack on Gaza that ended the January 2025 ceasefire, killing more than 400 Palestinians in a day.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "Two major escalations landed within four days of the date, and he named the date nine days ahead, so the timing is real and is recorded as such. What it cannot carry is weight. The claim names no party, no place and no kind of war, so any armed escalation anywhere would satisfy it, and in March 2025 the Middle East had two active wars and a Red Sea shipping campaign running, which puts the base rate for an escalation in any given fortnight close to one. The date itself is not a finding: a total lunar eclipse on 14 March 2025 was in the ephemeris for decades. And the reading, blood moon as a war sign, is a genre convention he attributes to Kim Clement rather than to a vision of his own. Held at partial."},
+
+  {"claim_id": "strait-disruption-june-2025",
+   "observed_on": "2025-06-27",
+   "source_url": "https://www.congress.gov/crs-product/R45281",
+   "summary": "On 22 June 2025, the day before he spoke, Iran's parliament approved a proposal to close the Strait of Hormuz following US strikes on Iranian nuclear facilities, with the final decision left to the Supreme National Security Council. A ceasefire took hold on 24 June and no closure or disruption of traffic followed in the week of 23 to 27 June. The substantial disruption of Hormuz traffic, reported at around a 95 percent drop, came with US and Israeli operations against Iran from February 2026, eight months later.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "The window he named passed with the strait open and traffic normal. The priority problem is as bad as it gets in this corpus. He spoke on 23 June 2025, one day after Iran's parliament voted to close Hormuz and two days after the US struck Iranian nuclear sites, when the strait was the leading story in the world. Saying there is a waterway or strait to pray over that week required no vision, and he does not name it, which is what leaves the mention hedging between waterway and strait. That a real Hormuz disruption arrived in February 2026 does not rescue the call: the window was Monday to Thursday of one week, and it closed empty."},
+
+  {"claim_id": "miami-hurricane-katrina-scale",
+   "observed_on": "2025-11-30",
+   "source_url": "https://en.wikipedia.org/wiki/2025_Atlantic_hurricane_season",
+   "summary": "The 2025 Atlantic season produced 13 named storms, 5 hurricanes and 4 major hurricanes, and no hurricane made landfall in the United States, the first season in a decade with none. Gabrielle, Humberto and Imelda formed from mid-September without US landfall, Humberto reaching category 5 at sea. Hurricane Melissa made a catastrophic landfall in Jamaica in late October at 185 mph. Miami and Florida saw no major hurricane landfall in September or October 2025.",
+   "state": "CONTRADICTED",
+   "rationale": "This is the strongest disconfirmation in the batch, because the season went the opposite way on the exact measure. He said toward the end of September there would be major hurricanes and one would try to hit Miami with destruction and flooding as great as Katrina. Major hurricanes did form, four of them, but not one made landfall anywhere in the United States, which had not happened in ten years. Nothing approached Miami. His July 2026 restatement, that a major hurricane is coming to the Atlantic side of Florida, is a fresh undated claim rather than a rescue of this one."},
+
+  {"claim_id": "vegas-attack-warm-season",
+   "observed_on": "2025-04-30",
+   "source_url": "https://www.lawfaremedia.org/article/on-new-orleans--las-vegas--virginia--and-the-threat-of-improvised-explosive-devices",
+   "summary": "No attack occurred in Las Vegas in February, March or April 2025. The Las Vegas incident of the period was on 1 January 2025, three weeks before he spoke, when Matthew Livelsberger, an active-duty Army soldier, shot himself in a rented Tesla Cybertruck loaded with fireworks and fuel canisters that then exploded outside the Trump International Hotel, injuring seven bystanders.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "The three named months passed with nothing. The dating is the problem twice over. He gave this on 21 January 2025, twenty days after a Las Vegas attack that was still the second headline in the country alongside New Orleans, so Las Vegas as a target city was in every viewer's mind already. And he removes the only test in the claim in the act of making it: he offers leaves on the trees and warm weather as the timing evidence, then says himself that Las Vegas is warm all year round, which leaves February, March or April as a guess he declines to narrow."},
+
+  {"claim_id": "tsa-thanksgiving-attack",
+   "observed_on": "2025-12-01",
+   "source_url": "https://www.tsa.gov/news/press/releases/2025/11/21/golden-age-travel-tsa-prepared-screen-more-3-million-thanksgiving",
+   "summary": "TSA screened more than 17.8 million people between 25 November and 2 December 2025, with over 3 million on Sunday 30 November, a record. No aviation security incident occurred over the US Thanksgiving period. The disruption that did hit the holiday was winter weather, which caused tens of thousands of cancellations and delays.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "The holiday passed with record volumes and no security incident. The claim was specific enough to be worth checking, naming aviation security, bag screening and understaffing rather than a generic warning, which is to his credit as a falsifiable statement, and it failed. Note the base rate runs the other way from the usual case here: warnings about holiday travel security are issued every year by DHS and TSA and almost never precede an incident, so a miss was the expected outcome and the claim carried the risk it should."},
+
+  {"claim_id": "martial-law-cities",
+   "observed_on": "2025-11-01",
+   "source_url": "https://en.wikipedia.org/wiki/2025_deployment_of_federal_forces_in_the_United_States",
+   "summary": "Martial law was not declared in any American city. Federal forces were deployed to several cities during 2025: National Guard and Marines to Los Angeles from 7 June, National Guard to Washington DC from 11 August, initially about 2,000 troops for 30 days and later extended into February 2026. Courts in Los Angeles and Washington ruled deployments unlawful under the Posse Comitatus Act, and in Christmas week the Supreme Court denied a request to deploy the Guard immediately to Chicago.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "Saturday 1 November 2025 passed with no declaration of martial law anywhere. Two observations. He is describing something adjacent to a real and contested development, since federalised troops were in Washington and Los Angeles when he spoke, so the picture of soldiers in American cities was already on the news; but troops on a street under Title 32 and martial law are different things, and only the second was claimed. And his own falsifier records the escape clause: he credits the non-event to prayer in the same sentence in which he raises it, which means the vision could not have failed on the day he attached it to."},
+
+  {"claim_id": "vatican-strike",
+   "observed_on": "2025-10-31",
+   "source_url": "https://dronedj.com/2025/09/15/vatican-drone-show-kimbal-musk/",
+   "summary": "Nothing struck or crashed into St Peter's Square between June and October 2025. The one event in the window answering to objects coming down out of the sky over the Vatican was scheduled entertainment: on 13 September 2025 more than 3,000 synchronised drones flew over St Peter's Square for the Grace for the World concert, programmed to auto-return or shut down rather than fall into the crowd.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "The five-month window he counted out, June through October, closed with no strike and no crash. The drone show is recorded because it is the only thing in the window that answers to the literal words, thousands of objects descending over the courtyard where the pope is announced, and because it is exactly the sort of near-miss that gets folded into a later fulfilment claim. It is not one: it was announced in advance, ticketed, and nothing came down. Should he point to it later, that assertion belongs in the fulfilment table with this row as its check."},
+
+  {"claim_id": "superbowl-2025-acceleration",
+   "observed_on": "2025-02-09",
+   "source_url": "https://www.rbcwealthmanagement.com/en-us/insights/us-equity-returns-in-2025-record-breaking-resilience",
+   "summary": "The S&P 500 opened 2025 at 5,868 and reached a record close of 6,144 on 19 February 2025, about 4 percent up on the year. Between 19 February and 13 March it fell more than 10 percent. No distinct financial event marks the Super Bowl on 9 February 2025.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "Nothing distinguishable happened at the date. The market was at ordinary record-making levels either side of 9 February, which is what a rising market does most weeks, and the period that follows is a correction of more than ten percent rather than an acceleration, so if the date marks anything it marks a turn the other way. The claim also sets no threshold: an even greater acceleration of things and of finances names no quantity, so only an outright collapse would have read as a miss. He gave it on 7 December 2024, two months ahead, which is the part that earns it a check rather than a shrug."}
+ ]
+}

@@ -1,0 +1,28 @@
+{"relationships": [
+  {"from_claim": "divine-reversal-declared", "to_claim": "symptoms-do-not-count",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "The same structure by two routes: symptoms are ruled not to count, and the diagnosis behind them is demoted to a report. Neither can be contradicted by an outcome."},
+
+  {"from_claim": "church-held-accountable-for-window", "to_claim": "he-wont-make-it-without-prayer",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "jtAhMuOfFwM", "evidence_start_s": 1764,
+   "note": "He joins them himself: cement blocks on his feet, and it is up to the church to get him over the threshold of his presidency."},
+
+  {"from_claim": "significant-artifact-found", "to_claim": "noahs-ark-discovery",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Two separate biblical-artifact claims in the corpus, one about the ark of Noah and one about the Ark of the Covenant. He does not join them in this passage."},
+
+  {"from_claim": "red-dawn-experiences", "to_claim": "assassins-through-canada-michigan",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "Mq0qQJkoWcg", "evidence_start_s": 585,
+   "note": "Both say the threat is trained foreign military already inside the country rather than terrorism, and he gives them as one thing."},
+
+  {"from_claim": "july4-250th-parades", "to_claim": "retaliation-attack-within",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "Mq0qQJkoWcg", "evidence_start_s": 620,
+   "note": "He names the anniversary weekend as the symbolic occasion for the retaliation he has said comes from within."},
+
+  {"from_claim": "cuba-liberation-day-2027", "to_claim": "cuba-cold-war",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Two Cuba claims now carry different timings, one before November 2026 and one in 2027. He does not reconcile them."}
+]}

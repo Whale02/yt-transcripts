@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "aac02d639d163d39",
+"claim_id": "pacific-nw-quake",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.75,
+"note": "California, Oregon and Washington shakings, given as a representation of a spiritual shift rather than as a dated event."
+},
+{
+"mention_id": "be0e0518c6db3ed6",
+"claim_id": "california-revival",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Boiling geyser water out of California as the image for the revival."
+},
+{
+"mention_id": "17d77faab28ee87a",
+"claim_id": "california-revival",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He marks the hot water as symbolic twice and says the Lord told him so. Worth recording that he flags it himself rather than letting it be read as a physical event."
+},
+{
+"mention_id": "632c7f5f8a449ce5",
+"claim_id": "california-big-one",
+"same_event": "yes",
+"delta_type": "severity_update",
+"confidence": 0.85,
+"note": "Puts a number on it: 8.0s in California, with the grace holding it back now lifting. That lifting clause is the escape hatch if nothing comes."
+},
+{
+"mention_id": "e6b0623d9a33b601",
+"claim_id": "newsom-not-president",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and an unusually clean one for this corpus: a named person, a named office, no conditions attached."
+},
+{
+"mention_id": "e991ffd0e536f30c",
+"claim_id": "files-on-newsom-pelosi-harris",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "New claim. Three named figures, but corruption and files with no specific allegation, so almost any later scandal would be claimed."
+},
+{
+"mention_id": "00e436160cd65f0c",
+"claim_id": "american-election-fraud-uncovered",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "New claim. Prayer form, and framed even handedly across both parties, which is unusual here."
+},
+{
+"mention_id": "76692a46fb60e43f",
+"claim_id": "shaking-of-islam-new-york-boston",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Two named cities, but shaking is left undefined."
+},
+{
+"mention_id": "72b4664338171622",
+"claim_id": "judas-betrayal-trump",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.7,
+"note": "Prayer that Vance's heart not turn Judas. Converts the standing betrayal claim into something prayer can absorb either way."
+},
+{
+"mention_id": "5819d5a9177beb7c",
+"claim_id": "cuba-economy-flourishes-like-a-state",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "New claim. Given in prayer form but stated as happening now."
+},
+{
+"mention_id": "9fc0d1be53f45731",
+"claim_id": "newyork-tsunami-floods-inland",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling in the corpus, 1 August 2026, six days before the FCeX9hLlWEk restatement. Adds the scale: hundreds of feet, a wall of water."
+},
+{
+"mention_id": "2a4cd0b3a5551e38",
+"claim_id": "shaking-is-here-now",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.7,
+"note": "Sung word. What can be shaken will be shaken is Hebrews 12, so the content is scriptural rather than predictive."
+},
+{
+"mention_id": "02309d9e432ce3a7",
+"claim_id": "campus-revival-named-universities",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.7,
+"note": "He says he only heard the campus part of the sung word on playback, which is worth noting as the mechanism he describes for receiving it."
+},
+{
+"mention_id": "71e360f2843338e2",
+"claim_id": "new-madrid-quake",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Ties Missouri 4.0 quakes to solar flares and to the splitting of Israel's land. Missouri records small New Madrid quakes routinely, so a 4.0 there is not a stretch."
+},
+{
+"mention_id": "5474b433e7294039",
+"claim_id": "gaza-agreement",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "A sickening feeling about the Gaza decision. Feeling reported, no outcome named."
+},
+{
+"mention_id": "53ac35c5d8740f9c",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "A statement of his own political position. No forward content."
+},
+{
+"mention_id": "e47e32bbe11b76f5",
+"claim_id": "israel-new-david-warrior",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The new Israeli leader restated, alongside an explicit statement that he does not agree with everything Israel has done."
+},
+{
+"mention_id": "52838e8e188a9ead",
+"claim_id": "israel-new-david-warrior",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "Adds physical description and soon, and names Bennett as the man others want back, which makes this checkable against an actual succession."
+},
+{
+"mention_id": "0f3bf21349677833",
+"claim_id": "musk-suppression-europe",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds that the platform is exalted and rises even as they try to pull the plug, so both a rise and a suppression count as a match."
+},
+{
+"mention_id": "fd7ff46d63db042f",
+"claim_id": "squeeze-on-fake-media",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.75,
+"note": "Legacy audience decline and X growth are both already established trends by this date."
+},
+{
+"mention_id": "d7633d208a69857b",
+"claim_id": "speech-crackdown-midterms",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.7,
+"note": "Commentary on a criminal offence measure, extended to TikTok and X."
+},
+{
+"mention_id": "f10f5fbca17e3a98",
+"claim_id": "naples-volcano-tsunami",
+"same_event": "yes",
+"delta_type": "severity_update",
+"confidence": 0.8,
+"note": "Puts 300,000 coastline deaths on it and repeats the Rome 8.2. The footage he shows as damage is from a magnitude 4, orders of magnitude below what he is claiming."
+},
+{
+"mention_id": "de9cee5dc12e6dbc",
+"claim_id": "china-godfather-nk-hitman",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "China and North Korea as a team, with the social pariah line recycled from earlier tellings."
+},
+{
+"mention_id": "6f8d05ea9a42c6dd",
+"claim_id": "japan-korea-axis-against-china",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Japan, Taiwan and South Korea on the water border with a conflict coming."
+},
+{
+"mention_id": "a38a49e8acbf07a2",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "Reads out reported casualty figures. Commentary on numbers he did not call."
+},
+{
+"mention_id": "ec565a2ef7be961e",
+"claim_id": "warsaw-ww3-trigger",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Four nations combining, the cobra image, long range missiles and the strike on Poland restated together."
+},
+{
+"mention_id": "f81f5d1deb554ec4",
+"claim_id": "saudi-oil-attacked-mbs",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Named country, named leader, named target type, which makes it one of the more checkable items in the batch."
+},
+{
+"mention_id": "2b4d2d86132a3782",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "Broadcast sign off."
+},
+{
+"mention_id": "076a616073a6042d",
+"claim_id": "valley-of-decisions-make-or-break",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Decisions have been made, restated in the valley of decision framing."
+},
+{
+"mention_id": "8b9c383567d28b0b",
+"claim_id": "trump-golf-course-in-gaza",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Golf course with the president's name and a flag in the ninth hole, with a three year build cited as precedent."
+},
+{
+"mention_id": "f5730f002fc0f882",
+"claim_id": "trump-golf-course-in-gaza",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that the ninth hole flag was Israeli and describes Miami style stucco mansions behind the course."
+},
+{
+"mention_id": "1ff9c41ad0884fac",
+"claim_id": "judas-betrayal-trump",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Claimed fulfilment: what Vance said to Netanyahu matched watch what Judas says to Benjamin. He does not say what was said, so the match cannot be checked from the passage."
+},
+{
+"mention_id": "86281f34c25a2a12",
+"claim_id": "russian-weapon-warsaw-mushroom",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.9,
+"note": "Non-nuclear massive weapon on a town by Warsaw on the border, named as the official start of a world war."
+},
+{
+"mention_id": "7c9e8da9d383699d",
+"claim_id": "russian-weapon-warsaw-mushroom",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "He points at the map location he says he called in advance."
+},
+{
+"mention_id": "6d5da8373be9c3f3",
+"claim_id": "warsaw-ww3-trigger",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Plays his own earlier recording as the pre-commitment. The pre-commitment is real and on tape; what it predicts has not happened yet."
+},
+{
+"mention_id": "412494601835e3b2",
+"claim_id": "oil-rain-in-russia",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "Ukrainian strikes on Russian refineries, plus North Korean missiles in Russian use. Both were established facts before this date."
+},
+{
+"mention_id": "a1fd401abf63a016",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "A clip of a Lebanese official thanking Turkey, played without comment. Not a claim he makes."
+},
+{
+"mention_id": "014c1ec2427d6bff",
+"claim_id": "sun-explosions-fearful-sights",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Claimed fulfilment on an M1.8 flare, which is an ordinary class event occurring hundreds of times per cycle. Held at a restatement, not a hit."
+},
+{
+"mention_id": "da4c6c6aab64d084",
+"claim_id": "new-madrid-quake",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Mississippi and Missouri shaking under the divide my land clause, with the angel and horn imagery."
+},
+{
+"mention_id": "d350118cafd936d5",
+"claim_id": "hawaii-big-volcano",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Kilauea has been in near continuous eruption through this period, so only an unusually large event should count."
+},
+{
+"mention_id": "815038052fcd9ac0",
+"claim_id": "trail-of-tears-red-line-judgment",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "New claim. Grounds rather than a prediction: a reason given retrospectively for the shakings he already claims."
+},
+{
+"mention_id": "e8a977e77ffa6a4c",
+"claim_id": "horn-blown-over-wall-street",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "New claim. Distinct from nyse-lions-wall-street-closed, which is the exchange shutting; this is the horn and the shaking of the economy."
+},
+{
+"mention_id": "420aa2f39fe93de2",
+"claim_id": "america-turned-back-remnant",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "Romans 8 prayer about the sons of God and the remnant. Scriptural rather than predictive."
+},
+{
+"mention_id": "7bc251be0fc1eaa5",
+"claim_id": "god-fearing-nation-with-israel",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.7,
+"note": "States plainly that he does not agree with every Israeli decision while standing with Israel. Worth recording as a qualification he makes himself."
+},
+{
+"mention_id": "e3c34415b5a6662e",
+"claim_id": "judas-betrayal-trump",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "Prayer that Vance be shaken into relationship rather than turn. Same both-branches structure as the earlier Judas prayers."
+},
+{
+"mention_id": "602f0c3a883285f3",
+"claim_id": "warsaw-ww3-trigger",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.7,
+"note": "Some things we cannot stop and some things we can. This is the clearest statement of the structure that makes the Poland claim unfalsifiable in either direction."
+},
+{
+"mention_id": "2dd6c667afc75759",
+"claim_id": "channel-doubles-to-1.2-million",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. A number and a subject he controls, and one of the few claims in the corpus that can be checked from a public counter."
+},
+{
+"mention_id": "febd07f232684d0f",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "Scriptural reflection on 2 Samuel 7. No forward content."
+},
+{
+"mention_id": "dc7dffaa44f6dd33",
+"claim_id": "churches-burned-giant-rises",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Claimed fulfilment on a single church fire. Church arson has run at elevated rates in Canada since 2021 and in France for longer, so one more fire is a weak match."
+},
+{
+"mention_id": "33f53ecd21bf9712",
+"claim_id": "iran-400-rocket-launchers-from-china",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and the interesting part is that he contradicts the report: he says he was told strongly China would not partake. That is a falsifiable position taken against the news in front of him."
+},
+{
+"mention_id": "89a6f8f5e3b70201",
+"claim_id": "jews-flee-to-israel-take-gaza",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds Austin to the named cities Jews leave."
+},
+{
+"mention_id": "2601f916d4db2a7c",
+"claim_id": "poland-war-spread",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "A Poland and Ukraine meeting read as the escalation he named. Such meetings are routine."
+},
+{
+"mention_id": "dced825791dd45ea",
+"claim_id": "russian-weapon-warsaw-mushroom",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.9,
+"note": "Adds the fifty mile radius figure. He treats Polish air alert sirens as the thing arriving; sirens are not a strike, and the claim stays open."
+},
+{
+"mention_id": "5b993eb61e018676",
+"claim_id": "warsaw-ww3-trigger",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Watch Poland restated as a pre-commitment, with the claim that they are the news rather than reacting to it."
+},
+{
+"mention_id": "c505db832be84910",
+"claim_id": "poland-war-spread",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Breaking report of Russian cruise missiles crossing into Polish airspace. This is the closest the Poland material comes to landing in this batch, and it is still an incursion rather than the strike he described."
+}
+]
+}

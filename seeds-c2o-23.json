@@ -1,0 +1,22 @@
+[
+ {"claim_id": "king-charles-scorpion-strike",
+  "label": "King Charles poised to strike the Commonwealth like a scorpion",
+  "domain": "politics",
+  "description": "The British monarch seen poised to strike Australia, Canada, the United Kingdom, Ireland and France, turning his body like a scorpion. An allegation about a named living head of state with no act specified, sitting alongside the scorpion tail claim about persecution in the same countries.",
+  "aliases": ["King Charles", "poised to strike", "turning his body like a scorpion"]},
+ {"claim_id": "canada-iron-curtain-freedoms",
+  "label": "An iron curtain over Canada and freedoms stripped",
+  "domain": "politics",
+  "description": "Something like an iron curtain seen coming over Canada with all freedoms being stripped away, the spirit behind it named as the antichrist spirit, and Holy Ghost fire coming as Canadians rise up. Given alongside whiskey barrels rolling down and an economy in trouble facing great trying times.",
+  "aliases": ["iron curtain", "freedoms being stripped", "whiskey barrels rolling down"]},
+ {"claim_id": "russia-cuba-extension",
+  "label": "An extension running from Russia to Cuba",
+  "domain": "geopolitics",
+  "description": "Given 7 October 2025 as the escalation that concerns him most because it is close to home: an extension seen running from Russia to Cuba.",
+  "aliases": ["extension from Russia to Cuba", "close to home"]},
+ {"claim_id": "submarine-launched-strikes",
+  "label": "Missiles launched from submarines in the escalation",
+  "domain": "war",
+  "description": "Missiles seen coming out of submarines and fired from the ocean, given alongside the red-tipped missiles going into Moscow. The launch platform is the checkable detail.",
+  "aliases": ["coming out of submarines", "shoot them off"]}
+]

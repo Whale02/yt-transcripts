@@ -1,0 +1,18 @@
+{"relationships":[
+{"from_claim":"extended-time-grant","to_claim":"crash-1930s","rel_type":"related_to","asserted_by":"brandon",
+ "evidence_video":"wP9qZYC_Cv4","evidence_start_s":871,
+ "note":"He ties the extension directly to the crash claim, giving it the 1930s on steroids benchmark in the same breath."},
+{"from_claim":"extended-time-grant","to_claim":"economy-dam-cracks","rel_type":"related_to","asserted_by":"brandon",
+ "evidence_video":"wP9qZYC_Cv4","evidence_start_s":871,
+ "note":"The cracking dam and the economy are named together with the grant of extended time."},
+{"from_claim":"rapture-any-time","to_claim":"rapture-by-2028","rel_type":"contradicts","asserted_by":"system",
+ "note":"Here it may be twenty years away and nobody knows; elsewhere it is placed by 2028. He holds both without noting the conflict, so the conflict is recorded rather than resolved."},
+{"from_claim":"water-in-little-bottles","to_claim":"water-shortage-relocation","rel_type":"related_to","asserted_by":"system",
+ "note":"Same shortage image, but no place is named in the bottles telling, so they are linked rather than merged."},
+{"from_claim":"fall-2027-circled","to_claim":"plague-2027-china-rats-europe","rel_type":"related_to","asserted_by":"system",
+ "note":"Both put something deliberate and Chinese in 2027. He does not join them explicitly in this passage."},
+{"from_claim":"storm-worse-than-covid","to_claim":"fall-2027-circled","rel_type":"related_to","asserted_by":"system",
+ "note":"Same session, same years, same bare name Ping. Likely one thing seen twice; he does not say so."},
+{"from_claim":"wilkerson-new-york-fires","to_claim":"newyork-shaking-2027","rel_type":"related_to","asserted_by":"system",
+ "note":"Both put fire and upheaval in New York. The Wilkerson telling attributes the fifty year gap to delay rather than failure, which is the same move as extended-time-grant applied to another man's word."}
+]}

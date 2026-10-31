@@ -1,0 +1,12 @@
+{
+"reviews": [
+{
+"mention_id": "b611c76eae6bedab",
+"claim_id": "newyork-tsunami-floods-inland",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.9,
+"note": "Re-pointed after w38: the 1 August 2026 telling at 1I4ETKrehPc@266 is the earlier one and holds first_mention. This 7 August telling adds that another person in the ministry saw it too."
+}
+]
+}

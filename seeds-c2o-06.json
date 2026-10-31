@@ -1,0 +1,22 @@
+[
+ {"claim_id": "drone-swarms-worldwide",
+  "label": "Drone swarms like bees over many named countries",
+  "domain": "security",
+  "description": "Thousands of drones in the skies described as swarms of bees, seen over Oklahoma, Florida, France, Germany, Moscow, throughout Africa and across South America. Given 13 December 2024, in the week the New Jersey drone sightings were the dominant American news story.",
+  "aliases": ["swarms of bees", "drones fly in the skies", "thousands of them"]},
+ {"claim_id": "korea-revival-spreads-north",
+  "label": "Revival in South Korea spreading through North Korea",
+  "domain": "religion",
+  "description": "A great revival coming in South Korea that spreads through all of North Korea, with angel armies seen coming to war on their behalf, chains of false religion broken, and public signs including the dead raised and limbs growing out that cannot be suppressed.",
+  "aliases": ["great Revival in South Korea", "spread throughout all North Korea", "angel armies"]},
+ {"claim_id": "revival-hotspots-oklahoma-texas",
+  "label": "Outpouring hotspots in central Oklahoma and Texas",
+  "domain": "religion",
+  "description": "Several places seen as centres of outpouring, including one in central Oklahoma, one in Texas and one where he is, with the note that he did not see them all. Given alongside another minister's claim that a named church holds an end time portal, and a scene of people driving a van from Mexico City to Oklahoma to get a spiritual touch.",
+  "aliases": ["central Oklahoma", "hotspot for revival", "end time portal"]},
+ {"claim_id": "damascus-suitcase-bomb",
+  "label": "A suitcase bomb in Syria, thought to be Damascus",
+  "domain": "security",
+  "description": "Seen in prayer in December 2024, days after Assad fled Syria: a suitcase bomb in Syria, which he says he believes is in Damascus while stating he is still working out the location.",
+  "aliases": ["suitcase bomb", "in Damascus", "Assad left"]}
+]

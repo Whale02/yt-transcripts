@@ -1,0 +1,88 @@
+{
+ "_note": "Job A batch 7, 30 August 2026. Twelve rows: audience claims, the Ireland dam cluster, read-aloud items and three dated 2026 windows.",
+ "evidence": [
+  {"claim_id": "million-prayer-army",
+   "observed_on": "2026-08-30",
+   "source_url": "https://grokipedia.com/page/Last_Days_YouTube_channel",
+   "summary": "The Last Days channel had about 539,000 subscribers in May 2025 and about 608,000 by 2026. Subscribers are a cumulative count, not a measure of daily participation. His own figure given on air on 28 October 2025 is about 5,500 people praying with them.",
+   "state": "CONTRADICTED",
+   "rationale": "The target was a million people praying daily by 2025 and the number he reports on air is 5,500, which is about half of one percent of it. Even the most generous available proxy, total subscribers ever, is 608,000 and counts nobody's daily prayer. This is one of the few claims in the corpus with a number he set himself against a quantity that is publicly visible, so it is worth scoring plainly. He then slid it rather than dropped it: by 2025 becomes by 2026 on 25 November 2025, and by 22 December 2025 becomes that they will hit a million but he does not know whether they will see it on this side or the other, which removes the deadline and the measurement together."},
+
+  {"claim_id": "year-of-the-baby-2025",
+   "observed_on": "2025-12-31",
+   "source_url": "https://www.cdc.gov/nchs/data/vsrr/vsrr043.pdf",
+   "summary": "Provisional CDC data put US births in 2025 at 3,606,400, down 1 percent on 2024, with the general fertility rate down 1 percent to 53.1 per 1,000 women aged 15 to 44 and the teen rate down 7 percent. The figures are based on 99.95 percent of 2025 birth records. No data exists on births among his audience.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "The claim is about babies born to an audience that is never named or counted, so no source can confirm or refute it, and any birth to any viewer satisfies it while no absence of births could ever be shown. Recorded unfalsifiable and said so. The one public measure that touches the same subject moved the other way: national births and the fertility rate both fell in 2025, the rate to another record low. That is not a refutation of what he said, because he did not claim a national baby boom, and it is included so the reader can see what the year actually did."},
+
+  {"claim_id": "hoover-dam-2025",
+   "observed_on": "2025-12-31",
+   "source_url": "https://www.usbr.gov/lc/hooverdam/",
+   "summary": "Nothing occurred at or to the Hoover Dam in 2025, and no comparable structure or event answering to a massive thick slate wall appeared. The dam operated normally through the year.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "The year named passed with nothing. This image comes from the same 28 December 2023 passage as the candidate-outdoor-attack call, which is the one item in this corpus that landed, and the contrast within a single sitting is the point worth recording: one image in that passage was specific, dated and confirmed, and the other was a wall with no stated meaning, no location and no event attached, and it produced nothing. The falsifier stored against this claim was inherited from its neighbour in the passage and describes the assassination attempt rather than the dam; the dam element is scored here on its own terms."},
+
+  {"claim_id": "ireland-land-event",
+   "observed_on": "2025-12-31",
+   "source_url": "https://www.gov.ie/en/publication/",
+   "summary": "No barrier, blockade, dam-like structure or comparable event of note occurred on land near Ireland during 2025.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "The year closed with nothing. The claim as given is about as thin as a located claim gets: something by land in the area up by Ireland, with no kind of thing, no scale and no date inside the year, so almost any Irish news story could have been claimed and none was. He also breaks off in the same breath, saying he was pulled back out of 2025 into 2024 to intercede over the nearer season, which leaves the Ireland material without any follow-up telling to check it against."},
+
+  {"claim_id": "dam-wall-ireland-2025",
+   "observed_on": "2024-12-15",
+   "source_url": "https://www.gov.ie/en/publication/",
+   "summary": "No dam-like wall or comparable event appeared near Ireland in 2025. On 15 December 2024, two weeks before the year began, he stated the vision had been pushed back by the prayers of the righteous while affirming it would still be seen eventually.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "The date was retired before it arrived and the event was kept, which is the structure that makes a claim unable to fail. His own falsifier says exactly this. Recorded rather than skipped because the delay is dated: 15 December 2024, sixteen days before the window opened, which means the retirement is on the record in advance and can be cited whenever the dam image is offered later as still pending. Prayer conditionality is noted as a field here and is not treated as converting the non-event into a match."},
+
+  {"claim_id": "eclipse-new-madrid",
+   "observed_on": "2024-04-08",
+   "source_url": "https://en.wikipedia.org/wiki/New_Madrid_seismic_zone",
+   "summary": "The paths of the 2017 and 2024 total solar eclipses crossed at Carbondale, Illinois, more than 90 miles from New Madrid, Missouri, though Carbondale sits at the northern end of the New Madrid seismic zone. A swarm of about five small earthquakes occurred in the zone on 5 April 2024, three days before the eclipse. No significant earthquake followed. Research finds the extra tidal stress from an eclipse makes quakes only marginally more likely, with essentially no practical connection.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "The geography is roughly right and slightly overstated. The crossing is at the northern end of the seismic zone rather than over the New Madrid fault itself, ninety-odd miles away, so right over it is a stretch but not an invention. The claim is also an observation rather than a forecast: eclipse paths were computed decades in advance and the crossing point was widely written up in 2017. Nothing followed. The five small quakes on 5 April 2024 are not evidence either way, because the New Madrid zone produces small events continuously and a swarm in any given week is unremarkable. Held at partial for the geography, with nothing credited to the reading."},
+
+  {"claim_id": "first-freeze-marker",
+   "observed_on": "2025-12-31",
+   "source_url": "https://www.jpmorgan.com/insights/global-research/commodities/gold-prices",
+   "summary": "No transfer of wealth to his audience or to any identified group is measurable against the autumn of 2025. The financial series that moved in the window is gold, which set records through autumn 2025 and into January 2026, having already risen about 65 percent across 2025 before the instruction was given.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "Watch the first freeze is an instruction, not a claim: it names a marker whose meaning is never supplied, and the thing the marker is supposed to mark, an acceleration of the wealth transfer, has no recipients, no amounts and no threshold. The Lord distinguishing it as not their first frost removes even the location, since first freeze dates vary by weeks across the country and he does not say whose. Recorded unfalsifiable with the reason written out. The gold move is noted for completeness and is scored under wealth-transfer-window, where the priority problem is set out."},
+
+  {"claim_id": "container-ships-on-fire",
+   "observed_on": "2026-03-11",
+   "source_url": "https://www.seatrade-maritime.com/security/three-crew-believed-trapped-on-precious-ship-hit-in-strait-of-hormuz",
+   "summary": "On 11 March 2026, two days before he spoke, the Thai-flagged bulk carrier Mayuree Naree was struck by two Iranian projectiles at about 08:15 local time in the Strait of Hormuz, catching fire in the engine room; 20 of 23 crew were brought ashore in Oman and three were later confirmed dead on 8 April. UKMTO reported three vessels targeted that day. The ship ran aground off Qeshm Island on 27 March and was declared a constructive total loss. These attacks form part of the 2026 Strait of Hormuz campaign, running since February 2026.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "Ships did burn in the window he named, so the description is not wrong. It also is not a forecast. He spoke on 13 March, two days after the Mayuree Naree was hit and set alight and three vessels were reported targeted in one morning, inside a campaign against shipping that had been running since February. Saying that boats would be on fire over the last weeks of March, at that moment, is a continuation of the news rather than a call ahead of it. The one detail that would have distinguished the claim is wrong: he specifies major container ships, and the vessels struck were bulk carriers and tankers."},
+
+  {"claim_id": "unusual-winter-siberian-air",
+   "observed_on": "2026-02-28",
+   "source_url": "https://en.wikipedia.org/wiki/January%E2%80%93February_2026_North_American_cold_wave",
+   "summary": "Winter 2025-26 in North America opened mild: late December and early January were warmer than average for virtually all of the contiguous United States, and on 23 January only 25 percent of the lower 48 was snow-covered, the lowest for that date in records back to 2003. A sudden stratospheric warming at the start of 2026 weakened the jet stream and displaced the polar vortex south from mid-January, producing the January-February 2026 North American cold wave. Seasonal forecasters had publicly predicted a weak polar vortex and a colder-than-expected winter before the season began.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "A genuinely unusual pattern arrived, a sudden stratospheric warming and a displaced polar vortex, so the word is not empty. Three things hold it down. The pattern was in the published seasonal outlooks before he spoke on 25 November, so it was forecast rather than foreseen. The first half of the winter went the opposite way, record-low snow cover and a warmer-than-average December and January. And he raises the fatal objection himself, that every winter has cold fronts and Siberian air, and then answers it only by repeating the word unusual, which is not a threshold anyone could have measured him against."},
+
+  {"claim_id": "st-patricks-parade-chicago",
+   "observed_on": "2026-03-14",
+   "source_url": "https://www.chicago.gov/city/en/depts/oem/provdrs/emerg_mang/news/2026/March/StPats2026.html",
+   "summary": "Chicago dyed the river green at 10 am on Saturday 14 March 2026 and the St Patrick's Day parade stepped off at 12:15 pm from Balbo and Columbus Drive. Thousands attended. No incident was reported at either.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "The day passed without incident. This one deserves the check rather than a shrug because it is tighter than most of the corpus: a named city, a named event and a fixed public date, given eight days ahead, which is exactly the form that can fail. It failed. Note the standing structure that would have absorbed it either way, which the extractor flagged: it is framed as prayer for protection, so an incident would have been the warning and no incident is the answered prayer. Prayer conditionality is recorded as a field and not accepted as converting a quiet parade into a hit."},
+
+  {"claim_id": "oil-rain-in-russia",
+   "observed_on": "2026-04-22",
+   "source_url": "https://www.reuters.com/business/energy/",
+   "summary": "Ukraine struck Russian oil refineries and Black Sea export infrastructure repeatedly through April 2026, on the dates he lists, and reports of oil falling as rain near struck facilities followed. He read all of this from news reports on 22 April, after the events.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "Every dated element in this passage is read aloud from reporting of things that had already happened, including the strike he describes as being two nights earlier, so nothing here could have come out either way. What he adds is the interpretation, that it concerns Agenda 2030, and that is not a claim a source can test. Recorded rather than skipped because the shape is the recurring one in this corpus: a real dated news event is read out and then attached to a standing thread, which makes the thread look confirmed without any forward statement having been made."},
+
+  {"claim_id": "march-26-eclipse",
+   "observed_on": "2026-03-26",
+   "source_url": "https://eclipse.gsfc.nasa.gov/solar.html",
+   "summary": "The total solar eclipse of 12 August 2026 and the annular eclipse of 17 February 2026 are the year's major solar eclipses; the date and path of every eclipse are published by NASA decades in advance. In the passage he and his co-host are looking up a path on the NASA website and reading the date and the end of totality off it.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "They say on air what they are doing: checking the NASA site to see where it will be visible. A date read off a published ephemeris is not a date received, so there is nothing to score. Recorded rather than skipped because dates sourced this way tend to reappear later as though they had been given, and this row is the check for that if it happens."}
+ ]
+}

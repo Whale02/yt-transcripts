@@ -1,0 +1,14 @@
+{"relationships":[
+{"from_claim":"wormwood-april-13-2029","to_claim":"wormwood-poison-water","rel_type":"related_to","asserted_by":"system",
+ "note":"The same wormwood thread, now with a date. The date matches the published close approach of the asteroid Apophis, which is a Friday, so it comes from astronomy rather than from sight."},
+{"from_claim":"wormwood-april-13-2029","to_claim":"april-13-holocaust-remembrance","rel_type":"related_to","asserted_by":"system",
+ "note":"Two separate April 13 dates on file, four years apart, neither connected by him."},
+{"from_claim":"retaliation-attack-within","to_claim":"hidden-cells-america","rel_type":"related_to","asserted_by":"system",
+ "note":"The same claim in a different form: the attack comes from inside rather than from abroad."},
+{"from_claim":"olive-press-fresh-oil","to_claim":"shaking-to-the-waking","rel_type":"same_event_as","asserted_by":"brandon",
+ "evidence_video":"M5FxVJVwU2s","evidence_start_s":3931,
+ "note":"He glosses it himself: out of the pressure and persecution came the oil, which is the shaking producing the waking."},
+{"from_claim":"darkness-around-2028","to_claim":"prophetic-chatter-about-2028-is-false","rel_type":"related_to","asserted_by":"brandon",
+ "evidence_video":"e9umIfTFnMM","evidence_start_s":6599,
+ "note":"Same session: he calls the optimistic 2028 forecasts false and stakes out great darkness instead."}
+]}

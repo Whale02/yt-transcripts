@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "3c30ab8f492cc210",
+"claim_id": "oregon-coast-volcano",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the sun and the crust said to be manipulated, with Japan and Alaska alongside"
+},
+{
+"mention_id": "dc9e390e7b8f233e",
+"claim_id": "asia-revival",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "favour with governments, Taiwan and South Korea named"
+},
+{
+"mention_id": "ced90df1a2ca9a4c",
+"claim_id": "asia-revival",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.75,
+"note": "open air healing meetings, with Japan hedged"
+},
+{
+"mention_id": "d6bf0bc8ffd73eb1",
+"claim_id": "revival-hotspots-oklahoma-texas",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "seven places named and then widened to every state, which removes the test"
+},
+{
+"mention_id": "a5bb3eda9856b59a",
+"claim_id": "goshen-light-egypt-darkness",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the doorpost and the pillar of fire added"
+},
+{
+"mention_id": "e6a48d32219525c0",
+"claim_id": "rock-watched-by-telescopes",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "never identified or dated"
+},
+{
+"mention_id": "772a89cd7adcbdc3",
+"claim_id": "india-temples-shaken-earthquakes",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "structures destroyed, with China's Buddhist temples included"
+},
+{
+"mention_id": "f79360563f892e42",
+"claim_id": "new-industrial-revolution-foundation",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "claimed as arriving off the back of an announcement that day"
+},
+{
+"mention_id": "b8ee6da0ac13a2f8",
+"claim_id": "panorama-of-history-shown",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the blocks compressing from thousands to tens, ending at a sliver"
+},
+{
+"mention_id": "9796c5e019f6686e",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a teaching analogy about course correction"
+},
+{
+"mention_id": "32a0760f9eed30ad",
+"claim_id": "five-portals-opened",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the chain pulled tight, Jacob's ladder named"
+},
+{
+"mention_id": "edad0bd163e26090",
+"claim_id": "revival-hotspots-oklahoma-texas",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Tulsa and Fort Worth, with a not-only-these hedge"
+},
+{
+"mention_id": "38d30bb13fdeec28",
+"claim_id": "kennedy-curse-white-house",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "the missile crisis and Cuba attached to the curse"
+},
+{
+"mention_id": "7bbaae306a3666b6",
+"claim_id": "wilkerson-new-york-fires",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "the Statue of Liberty in the smoke"
+},
+{
+"mention_id": "150c73642d8a1dbc",
+"claim_id": "new-york-weighed-and-lacking",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the seed is the ballot, and a reprobate mind on the city"
+},
+{
+"mention_id": "ed8109a3fef6c1eb",
+"claim_id": "wilkerson-new-york-fires",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "the exodus, with Wilkerson named as the source to go back to"
+},
+{
+"mention_id": "5bc9844271b54b3a",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "Wilkerson's own recording played on air"
+},
+{
+"mention_id": "bbea742b422ff376",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "the same recording continuing"
+},
+{
+"mention_id": "76cb04da95becdf5",
+"claim_id": "wilkerson-new-york-fires",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "his own claim that it matches, asserted after hearing the older word"
+},
+{
+"mention_id": "26d2bf0290119671",
+"claim_id": "new-york-is-mystery-babylon",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "kept apart from america-not-babylon rather than merged; the two contradict"
+},
+{
+"mention_id": "cf12a19ea2733dda",
+"claim_id": "trump-health-event",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "Newsom's time coming up short given alongside"
+},
+{
+"mention_id": "9e21c2e9c6530511",
+"claim_id": "hidden-cells-america",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "revenge for the Iranian leaders given as the motive"
+},
+{
+"mention_id": "256dea753b33a228",
+"claim_id": "ezekiel-38-turkey",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Syria as a ruinous heap and a peace accord given as the sequence"
+},
+{
+"mention_id": "9a8e73a336d7bfe5",
+"claim_id": "crypto-new-era-wave",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "the three bills of 17 July named; no asset is named, so the doubling cannot be checked"
+},
+{
+"mention_id": "f057d5a65b5705b0",
+"claim_id": "city-exodus",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "the new American party seen short-lived, with the East Coast outflow"
+},
+{
+"mention_id": "dd05a33adb18b295",
+"claim_id": "texas-granite-border-walls",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the walls are against Americans moving south rather than against migrants"
+},
+{
+"mention_id": "35e601dba4d686ab",
+"claim_id": "epstein-files-blackmail",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "blackmail given as the reason for withholding"
+},
+{
+"mention_id": "26ae8f6fdc1327dd",
+"claim_id": "epstein-files-blackmail",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "celebrities as well as politicians; he names nobody"
+},
+{
+"mention_id": "b35c9118936f03a2",
+"claim_id": "china-owns-american-farmland",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Kansas and Missouri named, with the tractors that till but do not plant"
+},
+{
+"mention_id": "b52a089c691aa468",
+"claim_id": "china-owns-american-farmland",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "forfeiture of rights through the House and Senate"
+},
+{
+"mention_id": "fcd8b621c6a935fb",
+"claim_id": "crypto-wave-ride-then-ends",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "no timing given, so the claim cannot expire"
+},
+{
+"mention_id": "ccd0f76a75af6cc5",
+"claim_id": "beast-system-foundation",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "dollar standard to gold standard to beast standard"
+},
+{
+"mention_id": "e461fd22d3ce75c2",
+"claim_id": "virus-makes-cash-untouchable",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the euro named as the blue currency, China and Europe as the origin"
+},
+{
+"mention_id": "a877f208287d0b8d",
+"claim_id": "smart-ring-biometrics",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "phone, then bracelet, then chip"
+},
+{
+"mention_id": "4ccd1fedb4ce705b",
+"claim_id": "wilkerson-new-york-fires",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.9,
+"note": "taken to the church and shown the face"
+},
+{
+"mention_id": "54e767c17888d83f",
+"claim_id": "wilkerson-new-york-fires",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the Empire State Building in black smoke, fires said to be deliberately set"
+},
+{
+"mention_id": "feb2b22126e3fcff",
+"claim_id": "newyork-uprising-buildings-burn",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "stores burning and retaliation for something that has happened"
+},
+{
+"mention_id": "1093ce2d7d6010ca",
+"claim_id": "woe-over-america-and-miami",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "Boston and New York set beside Miami; he notes Miami is in a red state and finds it strange"
+},
+{
+"mention_id": "3ceffbef31aeed4f",
+"claim_id": "netanyahu-mbs-europe-triangle",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "two strategic men pushing the end times forward; he does not name the second"
+},
+{
+"mention_id": "66d53a79fb15be03",
+"claim_id": "cuba-cold-war",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the missile crisis named again with missiles seen"
+},
+{
+"mention_id": "746f88d5cd001cca",
+"claim_id": "portraits-turning-white-falling",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the Iranian memorial posters"
+},
+{
+"mention_id": "2c439003aa889fca",
+"claim_id": "portraits-turning-white-falling",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "we will touch what is important to him, given in the same breath"
+},
+{
+"mention_id": "d9998abea8a35c50",
+"claim_id": "trump-son-shot",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the portrait image transferred from the Iranian dead to the president's son"
+},
+{
+"mention_id": "809213010e64c13f",
+"claim_id": "biological-attack-mountains",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "he concedes plainly that it has not happened yet"
+},
+{
+"mention_id": "8d7c3ffe6daee46c",
+"claim_id": "syria-struck-arabs-unite",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "Turkey's war drums and a ground invasion named"
+},
+{
+"mention_id": "66a4bd6acbafe764",
+"claim_id": "anchorage-quake-and-fire",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "a 7.2 with tsunami warnings that came to nothing, credited to prayer; most large quakes produce no tsunami"
+},
+{
+"mention_id": "aa1d9ae51aa58897",
+"claim_id": "million-prayer-army",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the audience described as assembled warriors"
+},
+{
+"mention_id": "37d3febc74ed0f1e",
+"claim_id": "timothy-mcveigh-method",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "he concedes the van held fuel rather than the fertilizer he saw"
+},
+{
+"mention_id": "3e80be331de6e1f4",
+"claim_id": "city-exodus",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "east coast through the central states, tied to decisions around New York"
+},
+{
+"mention_id": "7c24a7888b93c1bc",
+"claim_id": "mamdani-flash",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the candidate not named, and the outflow made conditional on his election"
+},
+{
+"mention_id": "1ce5a03ba2d7446b",
+"claim_id": "china-owns-american-farmland",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "Nebraska added, with the bent wheat and the black stars"
+},
+{
+"mention_id": "178d25272dbf3419",
+"claim_id": "great-storm-on-the-horizon",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.75,
+"note": "Missouri highlighted; storm is never defined"
+},
+{
+"mention_id": "45af219b3b5c2970",
+"claim_id": "rat-within-america",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the names withheld on instruction, so nothing here can be checked"
+},
+{
+"mention_id": "956406cd2c50510f",
+"claim_id": "china-owns-american-farmland",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the president moving against it through both chambers"
+},
+{
+"mention_id": "9a6fd4b149a842a9",
+"claim_id": "texas-granite-border-walls",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "the Mexican border and the Louisiana side named"
+}
+]
+}

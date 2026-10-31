@@ -1,0 +1,20 @@
+{
+"reviews": [
+{
+"mention_id": "e446f7092f750fdc",
+"claim_id": "green-cloak-arabic-over-europe",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.9,
+"note": "Re-pointed after w41: the 19 July 2026 telling at bTI89Td5Xc4@5916 is earlier and holds first_mention. This 20 July telling adds the covenant with many, Berlin and Iraq around it."
+},
+{
+"mention_id": "7a03b25712301891",
+"claim_id": "israel-new-david-warrior",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.9,
+"note": "Re-pointed after w41: the 19 July 2026 telling at bTI89Td5Xc4@6700 is earlier and holds first_mention. This 20 July telling adds that Netanyahu's days are numbered."
+}
+]
+}

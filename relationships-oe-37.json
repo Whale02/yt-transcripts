@@ -1,0 +1,13 @@
+{"relationships":[
+{"from_claim":"metals-and-crypto-2026","to_claim":"gold-10k","rel_type":"related_to","asserted_by":"system",
+ "note":"Both put precious metals at unprecedented highs. gold-10k carries a number; this telling only says higher than ever before."},
+{"from_claim":"metals-and-crypto-2026","to_claim":"silver-75","rel_type":"related_to","asserted_by":"system",
+ "note":"Same record-high metals thread, with the numbered version held in the older claim."},
+{"from_claim":"economy-is-a-catfish","to_claim":"metals-and-crypto-2026","rel_type":"related_to","asserted_by":"system",
+ "note":"Told in one session: the economy is in trouble and overstated, and there is also a windfall coming. Not formally a contradiction, since a weak economy can coexist with a metals rally, but the tension is worth marking."},
+{"from_claim":"red-dawn-experiences","to_claim":"taiwan-two-day-fall","rel_type":"same_event_as","asserted_by":"brandon",
+ "evidence_video":"0jRKxZJW2x4","evidence_start_s":1304,
+ "note":"He defines the red dawn experience as China taking Taiwan while America is preoccupied, joining the two himself."},
+{"from_claim":"no-sickness-into-2026","to_claim":"calling-things-that-be-not","rel_type":"related_to","asserted_by":"system",
+ "note":"The declaration mechanism applied to health across an entire audience."}
+]}

@@ -1,0 +1,85 @@
+[
+  {"video_id": "u_fT7KW6hXA", "start_s": 5304, "claim_id": "july-2026-major-storm",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Arrived at by moving forward from 13 April rather than given on its own, which is worth recording: the dates come out of the same scan, not separate words."},
+
+  {"video_id": "u_fT7KW6hXA", "start_s": 5645, "claim_id": "april-13-holocaust-remembrance",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Adds Easter to the 13 April date, which for 2026 is close but not exact: Easter Sunday falls on 5 April. Also the clearest statement that he does not know what the date means, only that it is to be prayed out."},
+
+  {"video_id": "u_fT7KW6hXA", "start_s": 5785, "claim_id": "not-the-obvious-date",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The black swan gets a second job here: not just an unforeseen event but an unforeseeable date, which puts the timing beyond checking by construction."},
+
+  {"video_id": "u_fT7KW6hXA", "start_s": 5841, "claim_id": "not-the-obvious-date",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "This one can actually fail. Naming 4 July 2026 and ruling it out is a real commitment, unlike the surrounding material."},
+
+  {"video_id": "u_fT7KW6hXA", "start_s": 6558, "claim_id": "red-wave-2026",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "Same red wave, now with the cultivation framing: not one and done, keep praying. Consistent with vision-is-a-prayer-target."},
+
+  {"video_id": "u_fT7KW6hXA", "start_s": 7016, "claim_id": "million-prayer-army",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Puts the million by 2026 and hedges it as a goal they are believing for rather than a word given. The hedge is his, not mine."},
+
+  {"video_id": "X8damyf6idc", "start_s": 897, "claim_id": "cankerworm-restoration",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Adds the window, four and a half to five years, and New York as the place of the persecution, which narrows who is meant."},
+
+  {"video_id": "X8damyf6idc", "start_s": 1598, "claim_id": "words-are-seeds",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The seed image applied to unpaid work rather than to speech. Restitution with no amount, recipient or date."},
+
+  {"video_id": "X8damyf6idc", "start_s": 6040, "claim_id": "vance-2028-realignment",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Pairs the Vance claim with watergate-2028: the derailment is the thing prayed against, the win is the thing prayed for."},
+
+  {"video_id": "X8damyf6idc", "start_s": 6196, "claim_id": "next-three-and-a-half-years",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Three and a half years is both the remaining term and the tribulation half-week. He does not gloss which he means and I have not decided for him."},
+
+  {"video_id": "X8damyf6idc", "start_s": 7035, "claim_id": "rituals-attached-figures",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Sight offered as proof of a secret act by a partly named man. Nothing here can be checked, and the naming is the whole of the content."},
+
+  {"video_id": "X8damyf6idc", "start_s": 7617, "claim_id": "vision-is-a-prayer-target",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The single most important framing statement in the corpus so far. It says outright that a vision is not a prediction, which converts every unfulfilled sight into a successful intercession. Everything filed as prayer_may_prevent hangs off this."},
+
+  {"video_id": "X8damyf6idc", "start_s": 7980, "claim_id": "israel-night-attack",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Adds the Iran motive and the October 7 benchmark. Sits alongside attack-worse-than-october-7 from batch 31, four days earlier, with no timing given in either; a system edge records that they are likely one thing."},
+
+  {"video_id": "SZg5NjLFZVE", "start_s": 872, "claim_id": "ministers-no-backbone",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The rebuke that sets up 1 Corinthians 5:5 as the year's verse a few minutes later."},
+
+  {"video_id": "SZg5NjLFZVE", "start_s": 1286, "claim_id": "first-corinthians-5-5-2026",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Now says who the verse is aimed at: ministers who have lost their way. That is a narrower and more checkable target than the political reading he gave it three days later."},
+
+  {"video_id": "SZg5NjLFZVE", "start_s": 2979, "claim_id": "celebrities-saved-for-glory",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "One of the two named men is already publicly devout, so a match there would carry little information."},
+
+  {"video_id": "SZg5NjLFZVE", "start_s": 3221, "claim_id": "political-theater-2026",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Kept separate from first-corinthians-5-5-2026 because he presents it as a different word, though he later folds the two together. He says he does not know what it means, and in a midterm year it cannot miss."},
+
+  {"video_id": "SZg5NjLFZVE", "start_s": 9726, "claim_id": "salvation-tally-2025",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "No figure given here, so nothing to check yet. Recorded because a stated count is the kind of thing that can later be compared against what gets announced."},
+
+  {"video_id": "SZg5NjLFZVE", "start_s": 9788, "claim_id": "year-mapped-each-december",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "This one is checkable inside this corpus: if the December outline exists, it will be a video in the database. Worth returning to when the sweep reaches December 2025."},
+
+  {"video_id": "SZg5NjLFZVE", "start_s": 9826, "claim_id": "track-record-always-right",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The claim this entire database exists to test. Filed as its own canonical claim rather than as method colour, because a single failed prior outline disconfirms it."},
+
+  {"video_id": "SZg5NjLFZVE", "start_s": 10052, "claim_id": "million-prayer-army",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The programme behind the million figure, framed as birthed and fuelled by prayer."}
+]

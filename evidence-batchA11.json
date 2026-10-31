@@ -1,0 +1,60 @@
+{
+ "_note": "Job A batch 11, 30 August 2026. Includes the second strong match in the corpus, verified by full-text search of the corpus itself.",
+ "evidence": [
+  {"claim_id": "sooners-asia-first-on-crypto",
+   "observed_on": "2026-07-15",
+   "source_url": "https://www.coindesk.com/policy/2026/07/15/japan-reclassifies-crypto-as-a-financial-asset-paves-way-for-tax-cuts",
+   "summary": "On 15 July 2026 Japan's National Diet passed amendments to the Financial Instruments and Exchange Act reclassifying crypto-assets as financial assets, moving them out of the Payment Services Act, adding insider-trading and disclosure rules and paving the way for a tax cut from 55 percent to a flat 20.315 percent. On the same day South Korea unveiled the National Asset Basic Act, recognising crypto within national asset policy and replacing the 1950 State Property Act. Japan's FSA first announced the reclassification plan in September 2025; its Financial System Council reported in December 2025 and the Cabinet approved the bill in April 2026. The United States CLARITY Act had not passed, and was assessed in August 2026 as off the table for the year.",
+   "state": "STRONG_MATCH",
+   "rationale": "The priority check was run against the corpus and it holds. On 17 June 2025 he says, in one passage, that something major is about to take place with digital currencies, then: remember the Sooners, South Korea, Japan, it is something about digital stuff with these two Asian countries. That is two countries named together, the right domain, and thirteen months of lead. Japan's own FSA did not announce the reclassification plan until September 2025, three months after he spoke, so this is not a reading of published policy. Both countries then legislated on the same day, 15 July 2026, with America still not having passed its own bill, which is the Sooner framing intact. Discounts, stated so the reader can weigh them: Japan and South Korea were already two of the most active crypto jurisdictions, Korea's Virtual Asset User Protection Act having taken effect in July 2024, so they are not surprising candidates; the 2025 telling carries no date; and the before America reading is applied on 16 July 2026, after the outcome was known. Scored strong on the strength of two named countries, a named domain and a verified three-month lead on the first public policy step."},
+
+  {"claim_id": "cuba-liberation-day-2027",
+   "observed_on": "2026-08-30",
+   "source_url": "https://www.hrw.org/world-report/2026/country-chapters/cuba",
+   "summary": "Cuba suffered seven complete failures of its national electricity system during 2026, with fresh protests in Marianao, La Liza and El Cerro in early August, and earlier protests in March over food and energy shortages. The government continues to detain and prosecute critics, many from the July 2021 demonstrations remain held, and the country has lost roughly 10 percent of its population to emigration. No decision, liberation or change of government occurred in May 2026 or since.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "The nearer window failed. On 16 April 2026 he placed a major decision concerning Cuba in May, with people at a table and strategy, and May passed with nothing; on 6 July he said the storm cloud was parting even before November, and it has not. The 2027 element is a separate matter and is not yet due, which is recorded here rather than scored. Two things about the thread deserve the record. The conditions he describes, oppression and suppression and people unable to do what they need to do, have been continuously true in Cuba for decades and are not evidence of an imminent change. And on 5 June 2026 he offers a played clip as prophetic confirmation and cannot date his own word: he asks his son when it was, and the answer is only that he has seen it so many times about Cuba."},
+
+  {"claim_id": "military-aid-request",
+   "observed_on": "2026-07-28",
+   "source_url": "https://www.kyivpost.com/post/50526",
+   "summary": "On 24 July 2026, two days before he spoke, Zelenskyy said publicly he was working with Western partners to secure 65 billion dollars a year, covering a 40 billion annual deficit and 25 billion for domestic missile, drone and electronic warfare production. He was already scheduled to meet Trump at the White House on Tuesday 28 July to press for air defence systems and a US-Ukraine drone agreement, and to meet senators at the Capitol afterwards.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "The request happened in the week he named. It had also already been made and the meeting already scheduled when he named it. His telling is on 26 July; Zelenskyy's 65 billion dollar figure was public on 24 July and the White House visit for the 28th was on the diary. Beyond that, a Ukrainian request for more money and military aid is the most reliably recurring news event of the past four years, so the base rate over any given week is close to one, and no leader, amount or forum is named in the passage. Held at partial for the timing alone."},
+
+  {"claim_id": "july-2026-major-storm",
+   "observed_on": "2026-07-27",
+   "source_url": "https://www.weather.gov/lot/2026_07_27_severe_flood",
+   "summary": "July 2026 brought repeated severe weather outbreaks across the United States: 18 July affected 26 states with 578 storm reports, 21 July produced tornadoes and flash flooding, and on 27 July supercells produced tornadoes, hail to three inches and 80 to 105 mph gusts across southern Cook and eastern Will counties in Illinois with substantial structural damage. Tropical Storm Arthur formed in the 2026 Atlantic season.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "There were major storms in July 2026, and there are major storms in every July: July is the peak of the US severe convective season and multi-state outbreaks with hundreds of reports occur most weeks of it, so the base rate here is effectively one and the claim carried almost no risk. The word storm is also left undefined between weather and metaphor, which the extractor flagged, so a political or financial crisis would have counted equally. And the date was not received separately: he says himself that he moved on from the 13 April timeframe to July, which means July was reached by working forward from another date rather than being given."},
+
+  {"claim_id": "earth-facing-solar-event",
+   "observed_on": "2026-07-28",
+   "source_url": "https://www.swpc.noaa.gov/",
+   "summary": "A coronal mass ejection arrival was modelled for late 27 July or early 28 July 2026 as a glancing blow, and NOAA issued geomagnetic storm watches for 29 to 31 July for further Earth-directed CMEs launched on 27 and 28 July, with G2 to G3 conditions possible.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "He states his own source in the passage: something earth-facing that was forecast to arrive by 28 July. A NOAA arrival forecast read out and then confirmed on the day it was forecast to arrive is not a prediction, and there is nothing in it that could have failed. The claim that the Lord warned about it on the 17th is a separate assertion about his own record and belongs in the fulfilment table, where the 17 July material can be checked rather than assumed. Recorded unfalsifiable with the forecast provenance on file."},
+
+  {"claim_id": "july-seventh-month-word",
+   "observed_on": "2026-07-31",
+   "source_url": "https://www.biblegateway.com/passage/?search=1%20Corinthians%205%3A5",
+   "summary": "No event is identified by him or by any source as the content of the July word. The passage he cites, 1 Corinthians 5:5, concerns delivering a man to Satan for the destruction of the flesh so the spirit may be saved, and he corrects himself from 2 Corinthians to 1 Corinthians in the telling.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "There is no claim to test. What is asserted is that July, the seventh month, begins a period of acceleration in war and in the cleansing of the church, with no event, no threshold and no place. The falsifier written at extraction says it plainly: the July material begins here, and nothing follows that could contradict it. The structure then extends the window rather than closing it, from July to the second half of the year, then to August and something major, then to the next six months and into January 2027, so each passing month is absorbed. Recorded unfalsifiable rather than left in the queue."},
+
+  {"claim_id": "spouse-in-2026-esther",
+   "observed_on": "2026-08-30",
+   "source_url": "https://www.cdc.gov/nchs/fastats/marriage-divorce.htm",
+   "summary": "About 2 million marriages take place in the United States each year. No data exists on marriages among his audience, who are never named or counted.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "Some listeners will marry in 2026 and the rest are not counted, which is what the extractor recorded at the time and is the whole of the analysis. There is no threshold, no named person and no way for the claim to fail, and the March restatement narrows it to this month for anyone believing, which multiplies the chances of a satisfied hearer without adding any risk. Recorded unfalsifiable with the reason written out rather than left unchecked."},
+
+  {"claim_id": "lone-wolf-sympathizers",
+   "observed_on": "2026-08-30",
+   "source_url": "https://www.dhs.gov/ntas/advisory/national-terrorism-advisory-system-bulletin-june-22-2025",
+   "summary": "Lone actor attacks by ideological sympathisers are the central and long-standing assessment in US Department of Homeland Security threat bulletins, which have named lone offenders as the most likely domestic terrorism threat for years. No date, place or target is given in the passage.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "Nothing here can expire, because nothing is dated, and the claim explicitly removes the only anchor it might have had by saying the attack comes when it is not expected rather than on the obvious date. That formulation makes any attack at any time confirmation and no quiet period a refutation. The content is also the standing published position of DHS rather than a disclosure. Recorded unfalsifiable so the thread is closed out with its reason on file rather than sitting open."}
+ ]
+}

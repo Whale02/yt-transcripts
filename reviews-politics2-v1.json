@@ -1,0 +1,8 @@
+{"reviews": [
+ {"video_id":"oolVr6LLlDM","start_s":925,"claim_id":"gaza-agreement","same_event":"yes","delta_type":"first_mention",
+  "note":"Also a fulfilment assertion: he presents the July news as the January vision landing. The vision date is his own account and cannot be independently verified, which is the weakness of every claim first published after the fact."},
+ {"video_id":"oolVr6LLlDM","start_s":1230,"claim_id":"antisemitism-peak","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"oolVr6LLlDM","start_s":1013,"claim_id":"poland-war-spread","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"oolVr6LLlDM","start_s":1269,"claim_id":"new-madrid-quake","same_event":"unsure","confidence":0.4,"delta_type":"branch",
+  "note":"The bless-Israel-or-be-cursed pattern is the mechanism he uses to tie US disasters to Israel policy, which is the same logic behind the three-days-after-a-two-state-solution earthquake. Kept as a branch of that thread rather than merged."}
+]}

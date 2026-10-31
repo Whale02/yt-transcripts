@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "b9e98dfdb4379e41",
+"claim_id": "canada-crisis",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "a Canadian attack set beside a British Columbia earthquake; he is unsure which fault and says so"
+},
+{
+"mention_id": "80c08cca4393d160",
+"claim_id": "iraq-mirrors-saudi-arabia",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "he supplies the current rate himself, which anchors it"
+},
+{
+"mention_id": "57f9e1c688c4c349",
+"claim_id": "iraq-mirrors-saudi-arabia",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "it could be off, said on air"
+},
+{
+"mention_id": "beed5bd77eb5ac5e",
+"claim_id": "dinar-revalue-disappointing",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "twenty five cents and a stimulus attached, with a could-be-nothing disclaimer"
+},
+{
+"mention_id": "5f96e94f325e185b",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a scam warning about impersonators"
+},
+{
+"mention_id": "9631ee6cb42a8555",
+"claim_id": "greenland-acquisition",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Greenland ranked above Cuba on money, with tourism the Cuban prize"
+},
+{
+"mention_id": "ae879f582ca03ad8",
+"claim_id": "cuba-liberation-day-2027",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "hotels and amusement parks, with the tyrant government gone"
+},
+{
+"mention_id": "2adb9d428b0c8ca3",
+"claim_id": "megachurch-bought-by-mosque",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "debt heaviness given as the cause"
+},
+{
+"mention_id": "7daaef0b2c413cef",
+"claim_id": "northeast-migration-purple",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "three states named, with the politics-stays-behind complaint"
+},
+{
+"mention_id": "c7c45a3de22d3b71",
+"claim_id": "crypto-wave-ride-then-ends",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the golden age of crypto with a plowed field green at the edges, uninterpreted"
+},
+{
+"mention_id": "69c03175f5198033",
+"claim_id": "socialism-fifty-fifty-america",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "a proportion given for America and a stronger claim for Europe"
+},
+{
+"mention_id": "109920c156c68bb7",
+"claim_id": "fireballs-break-glass",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "glass out of cars and houses is a checkable threshold"
+},
+{
+"mention_id": "a4e96178ff6b49c9",
+"claim_id": "significant-artifact-found",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the ark and the rod named again, with Taiwan alongside"
+},
+{
+"mention_id": "89f27429a15283db",
+"claim_id": "kremlin-struck-moscow-flees",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "long range weapons given as what enrages him"
+},
+{
+"mention_id": "c60efd9f9dd2224b",
+"claim_id": "syria-struck-arabs-unite",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "a Turkish statement of support offered as confirmation; a statement is not an intervention"
+},
+{
+"mention_id": "d9878eed3903f0f1",
+"claim_id": "chips-back-from-taiwan-two-years",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "a chess match framing, buying time for domestic chips"
+},
+{
+"mention_id": "decdcee962183ebf",
+"claim_id": "watch-carney",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "called two faced, with instability placed after the midterms"
+},
+{
+"mention_id": "b6c57bbce8953eda",
+"claim_id": "canada-crisis",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "a ground zero at Toronto tied to the British Columbia earthquake"
+},
+{
+"mention_id": "275f43052054cee6",
+"claim_id": "euro-trouble",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "troubled waters seen as black oil"
+},
+{
+"mention_id": "1a508dd1bd950aa4",
+"claim_id": "europe-winter-fuel-crisis",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "pipelines cut off for heating in the winter months"
+},
+{
+"mention_id": "99bacac99e1797e5",
+"claim_id": "black-sea-strait-closed",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "a trade war battleground with America intervening"
+},
+{
+"mention_id": "770378658f7275cc",
+"claim_id": "watch-carney",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "leaning Europe but choosing America if forced, which covers both"
+},
+{
+"mention_id": "292061b96b2d8bb1",
+"claim_id": "cuba-liberation-day-2027",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "security and tourism rather than an economic powerhouse"
+},
+{
+"mention_id": "6dec0a8aeb8774ee",
+"claim_id": "cuba-liberation-day-2027",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "the dictator shaken out with his days numbered, liberty seemingly overnight"
+},
+{
+"mention_id": "0e57efce0332aba4",
+"claim_id": "sooners-asia-first-on-crypto",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "Saudi Arabia, Iraq, Iran and African countries added to the Asian alignment"
+},
+{
+"mention_id": "3f8129d5d93e20e5",
+"claim_id": "european-blockchain-alliance",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "five countries named, with Carney trying to join"
+},
+{
+"mention_id": "68cbf73ff0d1d305",
+"claim_id": "bitcoin-national-reserves",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "held the way gold is held"
+},
+{
+"mention_id": "7a540dae0a51821f",
+"claim_id": "new-york-weighed-and-lacking",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "a darkness described as a spirit rather than an act"
+},
+{
+"mention_id": "3a2b5890946b7383",
+"claim_id": "northeast-migration-purple",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "eight states named along the path"
+},
+{
+"mention_id": "6537cd1563648a22",
+"claim_id": "preachers-drop-dead-in-pulpits",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "he distinguishes this from ordinary stumbling"
+},
+{
+"mention_id": "7e1f4569a015f54d",
+"claim_id": "california-big-one",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "about to shake California, with a 5.2 in Spain cited as a sign"
+},
+{
+"mention_id": "e025fa63cb84afae",
+"claim_id": "axis-covenant-nk-china-russia-iran",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the Kursk monument and regional security coordination"
+},
+{
+"mention_id": "ebf4f621bf0f1df5",
+"claim_id": "biggest-red-wave-2026",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "a landslide and a nation not divided, with Byron named"
+},
+{
+"mention_id": "fd100e24f04ff2ce",
+"claim_id": "hong-kong-funnel-to-campaigns",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "a named state and a named politician, which makes it checkable"
+},
+{
+"mention_id": "d507bd0c61a00fbc",
+"claim_id": "sheep-goat-nations-un",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "America's place in the division made the object of prayer"
+},
+{
+"mention_id": "ea9adcbcf847bca0",
+"claim_id": "rapture-any-time",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "big figs on the fig tree; an interpretive frame rather than an event"
+},
+{
+"mention_id": "e7ee5bbe889e5809",
+"claim_id": "divine-protection-trump",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the baggage claim and the double, tied to the sniper he says he saw"
+},
+{
+"mention_id": "2d04b506fd6d0516",
+"claim_id": "divine-protection-trump",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the Turkey trip named as the occasion"
+},
+{
+"mention_id": "0c4a5f932500d152",
+"claim_id": "divine-protection-trump",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the valley of decision covers either outcome on Israel"
+},
+{
+"mention_id": "e7a19c8be3aa42ab",
+"claim_id": "denmark-molech-bull",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the country identified for an image he had carried unplaced"
+},
+{
+"mention_id": "af10c1ed802591fa",
+"claim_id": "revival-hotspots-oklahoma-texas",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "I-35 in Oklahoma as the hub, with Massachusetts judgment alongside"
+},
+{
+"mention_id": "656eade2520fcc51",
+"claim_id": "civil-war-and-the-bikers",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "a named generation and a described appearance"
+},
+{
+"mention_id": "9dffe05849397867",
+"claim_id": "fireballs-break-glass",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "Turkish fireball footage offered as the sign; a bright meteor is not glass-breaking"
+},
+{
+"mention_id": "31f8619c34e79d9c",
+"claim_id": "battleground-senate-2026",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "he withholds the content and says he would rather be told he missed it"
+},
+{
+"mention_id": "411cebb8ffb3c6df",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "an official's words played on air"
+},
+{
+"mention_id": "990f0563b6ebcb57",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "the same clip continuing"
+},
+{
+"mention_id": "c7ebdfedfcb0cea7",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "the same clip continuing"
+},
+{
+"mention_id": "b03b439a327cadbc",
+"claim_id": "no-plague-no-dollar-collapse-prayer",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "no catastrophic events declared over both nations"
+},
+{
+"mention_id": "ed87c7f40c9989a5",
+"claim_id": "mahdi-antichrist",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "bolder and dominant, with the spirit rising in America"
+},
+{
+"mention_id": "0371fcf0cb6dcbe5",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "an aside about avoiding a channel strike"
+},
+{
+"mention_id": "fba938da32fc78bf",
+"claim_id": "earth-rock-and-reel",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the birthing pains said to be beginning"
+},
+{
+"mention_id": "3cd8cd4ab7253f3d",
+"claim_id": "global-revival-continents",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "Venezuela, Cuba, Colombia and Brazil named"
+},
+{
+"mention_id": "bf072bbe3c564215",
+"claim_id": "catholic-church-revival",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "the Vatican archive opened to all faiths; he adds a remark about it burning, which is not a claim"
+},
+{
+"mention_id": "dc6fb508c83f7114",
+"claim_id": "shaking-to-the-waking",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the church called asleep and the nation hijacked"
+},
+{
+"mention_id": "5a930a6f10b41413",
+"claim_id": "oklahoma-divided",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the division given a geography, Miami to Lawton"
+}
+]
+}

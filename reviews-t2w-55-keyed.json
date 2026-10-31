@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "d8f20b532c2dea39",
+"claim_id": "stimulus-adrenaline",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "A shot of stimulus in the arm, prayed over alongside the China alliances."
+},
+{
+"mention_id": "a378639e656c1d5b",
+"claim_id": "next-virus-engineered-in-a-lab",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Another new virus coming, framed from Matthew 24 rather than from a vision."
+},
+{
+"mention_id": "820cfb22cb4e8c22",
+"claim_id": "ebola-contained-not-egypt",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 19 May 2026, over two months before the 2 August version this claim was seeded from. Here containment to Africa is a statement of the current position rather than a prediction."
+},
+{
+"mention_id": "ba5c7133c0e8121d",
+"claim_id": "plague-2027-china-rats-europe",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He distinguishes what he saw from the Ebola actually spreading and says it will be like the Black Death carried by rats. Refusing to claim the live outbreak as the fulfilment is worth crediting."
+},
+{
+"mention_id": "df8b876bebb8ddba",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "Commentary on China trade deals with no forward content."
+},
+{
+"mention_id": "5cf5808e91f45713",
+"claim_id": "timothy-mcveigh-method",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "A crater that was a building, compared to Oklahoma City, inside the red dawn frame."
+},
+{
+"mention_id": "2634688485bd5f72",
+"claim_id": "war-on-american-soil-patriotism",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds trucks with flags and the song. The 250th anniversary was already scheduled, which makes patriotic display close to certain regardless."
+},
+{
+"mention_id": "01bc5253c77b0954",
+"claim_id": "dustbowl-famine",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "There is no water heard three times, with an expiration date teaching attached."
+},
+{
+"mention_id": "67147d72efab6794",
+"claim_id": "drone-swarm-cuba-to-miami",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He says plainly he did not know Cuba had drones, which is worth recording against the claim that he saw them in advance."
+},
+{
+"mention_id": "974f48ba0554b2f1",
+"claim_id": "cruise-ship-limpet-device",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Names Key West and gives the motive as economic fear, with cartel anger out of Venezuela."
+},
+{
+"mention_id": "f369f0386d890625",
+"claim_id": "car-industry-asks-for-24-billion",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 19 May 2026, a day before the 20 May version this claim was seeded from."
+},
+{
+"mention_id": "3c491ed949913209",
+"claim_id": "car-industry-asks-for-24-billion",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the cash for clunkers comparison. He dates that scheme to the early 2000s; it ran in 2009."
+},
+{
+"mention_id": "7ec198b44f3b45a7",
+"claim_id": "revival-in-our-own-area",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Revival declared and personal revival released over listeners who raise their hands."
+},
+{
+"mention_id": "0b9065a601d5c7d7",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "A discussion of crowd size in footage."
+},
+{
+"mention_id": "51780c0d1fff1312",
+"claim_id": "cruise-ship-limpet-device",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the military style boat, the sticky substance and the briefcase sized device on the hull."
+},
+{
+"mention_id": "f1476ab142132dd1",
+"claim_id": "prophetic-accuracy-2025",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He declines to name the country, says it could be Venezuela or Cuba, and warns about the danger of adding to what he saw. That is the right form and it is the third such passage in four batches."
+},
+{
+"mention_id": "c621308e77e1f012",
+"claim_id": "container-ships-on-fire",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "Protective prayer over tankers, with a self correction from Mediterranean to Caribbean."
+},
+{
+"mention_id": "053465311b529542",
+"claim_id": "trafficking-sting-cities-named",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Names Amarillo, Lubbock and the highway, and works out aloud whether Abilene is on the route."
+},
+{
+"mention_id": "95ef2a7f7b4827bd",
+"claim_id": "xi-asks-trump-directly-about-taiwan",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. A specific exchange in a specific meeting, which is checkable if either side ever describes it."
+},
+{
+"mention_id": "15d13b7bda286fbd",
+"claim_id": "cuba-revival-rubio-tens-of-thousands",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He uses chameleon here for the second figure rather than the reptilian reading he rejects elsewhere, which is consistent with his own correction."
+},
+{
+"mention_id": "8d19d42f5a392eee",
+"claim_id": "byron-florida-governor",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "A covering prayed over the candidate on the same grounds he gives for the president."
+},
+{
+"mention_id": "5fcd5d2cd5829646",
+"claim_id": "nuns-weeping-at-cuban-liberation",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. A specific image attached to the liberation, which would be recognisable in footage if it happened."
+},
+{
+"mention_id": "3230d2d30899c380",
+"claim_id": "two-year-window-on-the-dragon",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Ties the deterrence to the president personally rather than to American policy."
+},
+{
+"mention_id": "5f543c1b000f75b4",
+"claim_id": "two-year-window-on-the-dragon",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "The window and the remaining term end together, which makes the two indistinguishable and the claim unfalsifiable while he is in office."
+},
+{
+"mention_id": "4f8f2b4f5a2f5a88",
+"claim_id": "china-economy-shakes-then-taiwan",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds an American pullback as the moment Taiwan becomes exposed."
+},
+{
+"mention_id": "aa5d387aea7c5903",
+"claim_id": "rebuked-for-fearing-people",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and a rare admission of self censorship: he says he was caring more about people's feelings and was corrected for it."
+},
+{
+"mention_id": "d337cddcbc185509",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "A clip about how a Taiwan move would be met."
+},
+{
+"mention_id": "dfbdc367be03c06b",
+"claim_id": "chips-back-from-taiwan-two-years",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "We do not need Taiwan because we have our own chips, claimed as seen in the spirit before the meeting."
+},
+{
+"mention_id": "88aa0133d1b90da9",
+"claim_id": "panda-turns-its-back-gazes-at-taiwan",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. China withdrawing from the Russia matter to focus on Taiwan is a directional call that can be checked."
+},
+{
+"mention_id": "6ea17dfc4c454308",
+"claim_id": "panda-turns-its-back-gazes-at-taiwan",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Dates the vision to two or three weeks earlier and adds the it is our time line."
+},
+{
+"mention_id": "b3a7ae8e7f8c3178",
+"claim_id": "cuba-economy-flourishes-like-a-state",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds hotels and churches and names Miami pastors already positioned for it."
+},
+{
+"mention_id": "fa206ccd035c06af",
+"claim_id": "panda-turns-its-back-gazes-at-taiwan",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds North Korea into the conversation and Taiwan glowing in yellow lights."
+},
+{
+"mention_id": "314eaed0521a34ac",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "A note about where the vision stopped."
+},
+{
+"mention_id": "cc6cb574f755875b",
+"claim_id": "cardinal-picking-at-the-dove",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Groups the dove, cardinal, two crows and turtle together as symbolic of European figures, which is the set the turtle was later assigned from."
+},
+{
+"mention_id": "c67084b379479a56",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "An official clip on Cuba's economic trajectory."
+},
+{
+"mention_id": "af2449e22e9525b4",
+"claim_id": "cuba-cold-war",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds the boxes and the office raid before the Cuba trip, with remember Kennedy attached."
+},
+{
+"mention_id": "609b75d7908f5be3",
+"claim_id": "cuba-cold-war",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "A blurred agency photograph in Havana treated as the operation forming."
+},
+{
+"mention_id": "1d9877ccf1d5d686",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "An exhortation about priorities. No forward content."
+},
+{
+"mention_id": "f6bc6238f5290aeb",
+"claim_id": "latino-revival-horns",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the president as a wrecking ball used by God to clear the way for the movement."
+},
+{
+"mention_id": "47780b936e134b13",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "A personal remark about how he is received."
+},
+{
+"mention_id": "91b4de0aec3a6a0f",
+"claim_id": "israel-and-america-as-babies",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He says he does not know what the tooth was about, which he states in advance."
+},
+{
+"mention_id": "fcb06c1f632dba13",
+"claim_id": "israel-and-america-as-babies",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the bow with the Israeli flag and the contrast between the two babies."
+},
+{
+"mention_id": "22338c0eedfbc541",
+"claim_id": "revival-not-trump-saves-america",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Fresh air in her cells, with the tyrant people unable to stop it."
+},
+{
+"mention_id": "b3d48f4ae96ce46d",
+"claim_id": "shake-america-beyond-comprehension",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "A shaking from sea to shining sea and Gulf to Canada, prayed over the three branches."
+},
+{
+"mention_id": "bf601f41fb30e52a",
+"claim_id": "save-america-act-support-structure",
+"same_event": "yes",
+"delta_type": "contradiction",
+"confidence": 0.8,
+"note": "He declares the Save America Act done. Elsewhere he says plainly he does not believe the whole act passes, only pillars of it. Both on record."
+},
+{
+"mention_id": "5daca6686dacd6e0",
+"claim_id": "war-on-american-soil-patriotism",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds a wound coming as the thing that produces the patriotism, which is the causal half of the claim."
+},
+{
+"mention_id": "9e902eb5a76aee81",
+"claim_id": "the-song-across-america",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He asks whether it is literal or symbolic rather than deciding, which leaves both readings open."
+},
+{
+"mention_id": "5281a9320c2084d8",
+"claim_id": "grid-cyberattack",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The grid highlighted with substations in major cities named as what to pray over."
+},
+{
+"mention_id": "2aa6730b5165af7a",
+"claim_id": "iraq-economic-boom",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Iraq flourishing while Iran is crippled, with the corruption admitted and a fall he is looking into."
+},
+{
+"mention_id": "02efab207eff000b",
+"claim_id": "wealth-of-the-sinner",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "Boats and darkness over China with the Clarity Act prayed for alongside. He asks what the boats are rather than saying."
+},
+{
+"mention_id": "4981c2e8c5ff015e",
+"claim_id": "yankees-world-series",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Prayer over the New York ballpark at the close of the broadcast."
+},
+{
+"mention_id": "ee23ec5c478dd6b3",
+"claim_id": "gifts-from-nations-october-28",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Ties the gifts to the 250th and names France, and says the Lord called it a metaphor, which allows a non literal reading of the whole claim."
+},
+{
+"mention_id": "4391f6798120e591",
+"claim_id": "ministry-scandals",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds California and the east coast and names broadcast ministers as the ones who fall. He names nobody, so any fall would be claimed."
+},
+{
+"mention_id": "1d2d764d4a2f9338",
+"claim_id": "uk-digital-id-beast",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The British announcement played directly, which makes this a report rather than a call."
+},
+{
+"mention_id": "a5c9bb2258d7d3b0",
+"claim_id": "reaper-hands-over-seattle",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. No reading is offered, so the image can be attached to anything later."
+}
+]
+}

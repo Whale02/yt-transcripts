@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "7a6a5c74f7029d41",
+"claim_id": "louisiana-purchase-covenant-broken",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He is researching what the monument and the number mean after the vision, not before, which is recorded rather than smoothed."
+},
+{
+"mention_id": "47a947124029dd34",
+"claim_id": "louisiana-purchase-covenant-broken",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.7,
+"note": "Physical description of the woman in the same vision, left unidentified."
+},
+{
+"mention_id": "3db01d411658f788",
+"claim_id": "judas-in-america-antisemitism",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Distinct from judas-betrayal-trump, which is inside the president's circle. He does not name the individual, which removes the only checkable part."
+},
+{
+"mention_id": "d5e46167b9c5fd70",
+"claim_id": "louisiana-purchase-covenant-broken",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the covenant language and the Louisiana Purchase as the frame."
+},
+{
+"mention_id": "32805e216903f3b3",
+"claim_id": "pelosi-schumer-removed",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.7,
+"note": "Argues from age rather than from anything he says he was shown."
+},
+{
+"mention_id": "d2348d7be51c5334",
+"claim_id": "trump-buildings-abroad-target-list",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Distinct from fertilizer-vans-trump-towers, which is a method; this is a target list of overseas properties."
+},
+{
+"mention_id": "f91151489c7e3eae",
+"claim_id": "trump-buildings-abroad-target-list",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds Chicago and describes fire, explosion and deliberate sabotage."
+},
+{
+"mention_id": "ba6d4a6dd909ba92",
+"claim_id": "reprobate-counselors",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "Prayer for the president's mind and to finish strong, with an explicit disclaimer that he does not take a political side."
+},
+{
+"mention_id": "fafe7c0200bdbea0",
+"claim_id": "chameleon-not-reptilian",
+"same_event": "yes",
+"delta_type": "contradiction",
+"confidence": 0.8,
+"note": "Here he describes the figure as having reptilian eyes and says he feels it is Rubio. Elsewhere he corrects his audience and rejects the reptilian reading in favour of a chameleon. Both are on record; not reconciled."
+},
+{
+"mention_id": "2d3a1da322626a97",
+"claim_id": "revival-bigger-than-azusa",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Azusa on steroids, with the Davids and Esthers."
+},
+{
+"mention_id": "ef4c5e2211f8a385",
+"claim_id": "sept11-2026-groundzero",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "A new ground zero in New York, given in prayer form seven weeks before the date he has attached to it elsewhere."
+},
+{
+"mention_id": "eb908705a608850f",
+"claim_id": "grid-cyberattack",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds Chinese influence over the grid as distinct from Iranian plots, and chains grid to cyber to banks."
+},
+{
+"mention_id": "c0db7e208dad95f4",
+"claim_id": "politicians-secret-bank-accounts",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Names Swiss accounts specifically, tied to Europe and the Ukrainian president."
+},
+{
+"mention_id": "824e6a6d1a32f161",
+"claim_id": "politicians-secret-bank-accounts",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Swiss accounts repeated and joined to the black horse."
+},
+{
+"mention_id": "c03f337d90057b93",
+"claim_id": "green-cloak-arabic-over-europe",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 19 July 2026, a day before the version this claim was seeded from. Here it is an Islamic state turning green rather than a cloak going over."
+},
+{
+"mention_id": "bf8c4605336185d1",
+"claim_id": "iraq-mirrors-saudi-arabia",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Much oil out of Iraq with Iraq and Saudi as friends. He corrects Syria to Saudi Arabia mid-sentence."
+},
+{
+"mention_id": "ff08fcdadfbf3328",
+"claim_id": "turkey-syria-brotherhood-alliance",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "New claim. Turkey has been the principal backer of the post-Assad Syrian government since 2024, so a brotherhood is close to the standing position already."
+},
+{
+"mention_id": "2ed6d2adfe90f2e1",
+"claim_id": "black-horse-out-of-russia-into-europe",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds Ukrainian wheat as the mechanism for the European scarcity."
+},
+{
+"mention_id": "7d3e444318cbcb06",
+"claim_id": "politicians-secret-bank-accounts",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "The money hiding in Swiss accounts, third mention in one sitting."
+},
+{
+"mention_id": "9700d7dd9eeed071",
+"claim_id": "israel-agriculture-baseball-fruit",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds that other nations are jealous and angry at Israeli prosperity."
+},
+{
+"mention_id": "5472c92506356543",
+"claim_id": "israel-new-david-warrior",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling found, 19 July 2026, a day before the 20 July version that previously held it. Adds very orthodox and religious, and that he is in the background and in the shadow."
+},
+{
+"mention_id": "d8e3213f7fba74bf",
+"claim_id": "antichrist-at-the-deal-table",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and notable for what it rules out: he says explicitly the figure is not Trump, against a large section of his audience who read it that way."
+},
+{
+"mention_id": "1b41e1e872317085",
+"claim_id": "antichrist-at-the-deal-table",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the gold band with black and gold writing and the white head covering, which describes ordinary Gulf Arab dress rather than anything unusual."
+},
+{
+"mention_id": "f3e423714af91d0b",
+"claim_id": "israel-agriculture-baseball-fruit",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Fish in a basket in a land of drought, added to the prosperity picture."
+},
+{
+"mention_id": "d23b9b5bc291361b",
+"claim_id": "dividing-line-shaking-2025-2028",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Judgment beginning in the house of the Lord, with a stirring across church offices."
+},
+{
+"mention_id": "d9eef2f6454e09a9",
+"claim_id": "malibu-earthquake",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Malibu is a specific enough location to be checkable, unlike the general California big one claims."
+},
+{
+"mention_id": "6a66d52c8df5f727",
+"claim_id": "animals-know-before-the-shaking",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Fish die-offs have many ordinary causes, so this will match on almost any coincidence of die-off and quake."
+},
+{
+"mention_id": "ac166972686acbe6",
+"claim_id": "super-seed-barren-fields",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "Dormant seeds coming to life in tire tracks. He says in advance that he knows it is symbolic and does not know the meaning."
+},
+{
+"mention_id": "5e5b866852ba0d12",
+"claim_id": "global-quake-swarm",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "A 7.4 in Mexico on the ring of fire. The ring of fire produces roughly fifteen magnitude 7 events a year."
+},
+{
+"mention_id": "b0bdce2c16d6804f",
+"claim_id": "global-quake-swarm",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "He corrects the magnitude down to 7.3 and says you do not want to be flaky, then treats the two hour gap after prayer as significant. A magnitude 7 on the ring of fire in any given fortnight is close to even odds."
+},
+{
+"mention_id": "61165a9c34d80632",
+"claim_id": "election-2026-outcome-seen",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that they take the Senate but not by a landslide and that seven more seats were needed. A hedged call is harder to falsify than a landslide call, and he chooses the hedge."
+},
+{
+"mention_id": "65d27c86232da235",
+"claim_id": "france-germany-nuclear-alignment",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "New claim. He is reading a headline and says he does not know what it means, so the claim is the framing rather than a call."
+},
+{
+"mention_id": "d5879c0243a3ab9f",
+"claim_id": "drone-swarm-cuba-to-miami",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds that the Cuban drones carry a payload underneath and are better than commercial models."
+},
+{
+"mention_id": "9ed708f863cfdf22",
+"claim_id": "malibu-earthquake",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Malibu seen again with a man in mirrored aviators, never identified."
+},
+{
+"mention_id": "042e6b0cd10f6f5f",
+"claim_id": "louisiana-purchase-covenant-broken",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "The single oak tree identified as America, tied to an agreement out of New Orleans."
+},
+{
+"mention_id": "03ecfd8d851be8b9",
+"claim_id": "first-lady-protected",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "New claim, and the rare case of a protective rather than threatening word about a named person."
+},
+{
+"mention_id": "58e9dea8d877a864",
+"claim_id": "louisiana-purchase-covenant-broken",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He says plainly he has no idea what any of it was and will look up the history that night. That is the honest version of the pattern where meaning is assigned afterwards."
+},
+{
+"mention_id": "817f3bbc2d607a6b",
+"claim_id": "voter-fraud-named-states",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Michigan comes from the report in front of him; Minnesota, Atlanta and Arizona he attributes to himself."
+},
+{
+"mention_id": "5ecac5e6a8a066ff",
+"claim_id": "leviathan-out-of-the-gulf",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "Something in the deep water, with an explicit disclaimer that he does not know whether it is real."
+},
+{
+"mention_id": "a8e5762130f37911",
+"claim_id": "iran-infrastructure-set-back-decades",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Iran to the stone age paired with Iraqi pipelines and oil wealth, and an admission that much corruption remains in Iraq."
+},
+{
+"mention_id": "f91cc77e785280c8",
+"claim_id": "arab-coalition-boots-on-ground-iran",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. A specific military step, named participants, and a stated departure from air strikes only."
+},
+{
+"mention_id": "240c870f85301c39",
+"claim_id": "south-korea-communist-takeover-risk",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds the conditional hedge of protection. Because the protection is conditioned on repentance, neither outcome falsifies it."
+},
+{
+"mention_id": "933e54ee69c5ab0f",
+"claim_id": "south-korea-revival-hub",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the Philippines, Taiwan and Japan to the spread and calls it an end time Azusa Street."
+},
+{
+"mention_id": "80c04654cbf65088",
+"claim_id": "red-dragon-flames-south-korea",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "He states it is a spirit rather than flesh and blood, which places the claim outside anything checkable."
+},
+{
+"mention_id": "dd3c416c28e13970",
+"claim_id": "friends-in-south-korea",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Identifies the person as a young pastor on probation expecting to be jailed again."
+},
+{
+"mention_id": "01e89bf4314e355f",
+"claim_id": "clarity-act-one-vote",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "He calls it a Hail Mary play, which concedes the odds against it in his own words."
+},
+{
+"mention_id": "0759b89d0bd0cbd0",
+"claim_id": "iraq-ten-million-bounty-on-trump",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He notes the contrast with the Iraqi optimism he expressed minutes earlier rather than passing over it."
+},
+{
+"mention_id": "fb8be771e73fe76b",
+"claim_id": "authority-over-the-weather-declared",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Weather always changes, so a declaration of peace over a storm system will read as answered on any timescale."
+},
+{
+"mention_id": "ddce52d6b7689287",
+"claim_id": "wildfires-manmade-colorado-canada",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "He puts the Canadian arson as a question rather than an assertion, and notes the fires are not in populated areas."
+},
+{
+"mention_id": "e33b8e545927f861",
+"claim_id": "financial-seed-kills-poverty",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. The condition means any shortfall lands on the giver rather than on the teaching, which makes it unfalsifiable as put."
+},
+{
+"mention_id": "286fd39521dfe038",
+"claim_id": "japan-earthquake-splits-land",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "This will happen in Japan also, with no antecedent stated in the passage."
+},
+{
+"mention_id": "63473afadd0c4d6e",
+"claim_id": "persecution-out-of-complacency",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He commands the persecution to stop and then explains that it serves a purpose, which covers both outcomes."
+},
+{
+"mention_id": "45306b32f81344d1",
+"claim_id": "persecution-out-of-complacency",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Extends the complacency explanation to America and Europe, with the qualifier that it is the majority rather than everyone."
+},
+{
+"mention_id": "d64d772c9433da89",
+"claim_id": "watch-australia",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.75,
+"note": "A stirring called over Australia. He has previously reported that nothing happened after an earlier watch Australia word and allowed he may have been wrong, which is worth holding against this restatement."
+},
+{
+"mention_id": "8bfc9c3c9f35c4de",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "Comment on news coverage of someone's earnings and children, with a stated intention to stay neutral. No forward content."
+}
+]
+}

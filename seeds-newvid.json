@@ -1,0 +1,17 @@
+[
+ {"claim_id": "water-energy-beats-nuclear",
+  "label": "A water energy more powerful than nuclear, led by America",
+  "domain": "technology",
+  "description": "A new kind of water-based energy said to be more powerful than nuclear, with America leading it, seen alongside military technology not yet public. Dated by him to a 2024 showing and repeated on 30 August 2026.",
+  "aliases": ["water energy", "more powerful than nuclear"]},
+ {"claim_id": "damascus-chemical-strike-on-israel",
+  "label": "Chemical weapons out of Damascus hit Israel after an Israeli strike",
+  "domain": "war",
+  "description": "Israel strikes Damascus, and chemical or biological weapons are released out of Damascus against Israel, called worse than October 7th, with Turkey coming to Syria's aid. Given 30 August 2026 as being in the days ahead.",
+  "aliases": ["biological weapons out of damascus", "chemical weapons damascus"]},
+ {"claim_id": "september-2026-going-home",
+  "label": "More going home in September 2026",
+  "domain": "religion",
+  "description": "A sight of September 2026 with more people going home, meaning deaths. Given without a threshold or names on 30 August 2026.",
+  "aliases": ["more going home in september"]}
+]

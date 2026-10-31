@@ -1,0 +1,60 @@
+{
+ "_note": "Job A batch 6, 30 August 2026. Dated watch-windows, late 2025 into 2026. Reality only; priority and base rates named.",
+ "evidence": [
+  {"claim_id": "budget-states-funding-cutoff",
+   "observed_on": "2025-11-12",
+   "source_url": "https://www.axios.com/2025/11/14/government-shutdown-snap-benefits-november-payments",
+   "summary": "The federal shutdown ran 43 days and ended on 12 November 2025, four days after his date, when Trump signed a bill funding the government to 30 January 2026. On 24 October 2025 the USDA announced it would suspend all November SNAP payments from 1 November, the first such lapse in the programme's 60-year history, affecting about 42 million people. In late October a coalition of 25 states and the District of Columbia sued over the suspension, and federal judges in Rhode Island and Massachusetts ordered the administration to use contingency funds. USDA instructed states to pay full November benefits on 13 November.",
+   "state": "CONTRADICTED",
+   "rationale": "The direction is backwards and the number was already in the news. He said on 27 October that at least twenty five states would cut off funding if no budget passed by 8 November. No budget passed by 8 November, and no state cut anything off. What twenty five states did was sue the federal government to keep funding flowing, and the federal suspension they were suing over had been announced by USDA on 24 October, three days before he spoke, in the biggest domestic story of that fortnight. The figure of twenty five states is the plaintiff count from that litigation, not a forecast, and it appears in his telling pointing the opposite way."},
+
+  {"claim_id": "drone-attacks-holiday-crowds",
+   "observed_on": "2026-01-01",
+   "source_url": "https://en.wikipedia.org/wiki/2025_European_drone_sightings",
+   "summary": "No drone attack occurred on a European tree lighting, parade or New Year crowd in the 2025-2026 holiday season. The European drone story of the period is unexplained sightings over civilian airports and military installations beginning 22 September 2025, assessed by the IISS in June 2026 as highly likely a Russian campaign largely conducted toward the end of 2025. The first drone incident in Europe involving attached explosives was at Leipzig/Halle Airport on 4 August 2026, against a Ukrainian cargo aircraft, and it failed to detonate. The Christmas market attack Europe remembers, at Magdeburg on 21 December 2024, was a car attack a year before he spoke.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "The named season passed with no such attack. The specific mechanism he described, men buying consumer drones from somewhere like Amazon and attaching charges, has still not appeared anywhere; the one explosive drone incident in Europe used a military-pattern device against an aircraft, not a crowd. Priority again cuts against the call: European drone incursions had been front-page news since 22 September 2025, two months before his 25 November telling. And he re-specified after the fact rather than accepting the miss, saying on 13 July 2026 that the drones he is seeing are not the ones bought off Amazon but military drones smuggled in from Iran, which is a different claim wearing the same date."},
+
+  {"claim_id": "global-riots-worse-than-blm",
+   "observed_on": "2026-06-14",
+   "source_url": "https://www.britannica.com/event/No-Kings-protests",
+   "summary": "No unrest exceeding the 2020 US protests in scale has occurred worldwide. The largest mobilisations of the period have been peaceful: the No Kings protests of 14 June 2025, about 2,000 events and 5 million participants by organisers' count, October 2025 with at least 2,700 events and 7 million, and 14 June 2026 timed to Trump's 80th birthday and Flag Day, announced publicly by 28 May 2026. The European demonstrations of 4 October 2025 were anti-war marches over the Gaza flotilla interception; Barcelona drew tens of thousands and the two million figure belongs to the Italian general strike, which the Italian interior ministry put at about 400,000.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "Nothing has come near the stated benchmark. The 2020 US protests are estimated to have involved 15 to 26 million participants and are among the largest in American history, so making them look like nothing is a high bar and it has not been cleared, in America or anywhere. Two accuracy problems in the supporting material. The two million in Barcelona on 4 October that he offers as his confirmation is a misattributed figure: it is the organisers' count for the Italian general strike, halved by the Italian government, and Barcelona was tens of thousands. And the date he told viewers to pray about, the 14th, was a nationwide day of action publicised from 28 May, a week before his 5 June telling, so naming it required reading the news rather than seeing it."},
+
+  {"claim_id": "april-19-may-1-occult-window",
+   "observed_on": "2026-05-01",
+   "source_url": "https://en.wikipedia.org/wiki/2026_Boston_Marathon",
+   "summary": "The 130th Boston Marathon was run on Monday 20 April 2026 without incident, won by John Korir in 2:01:52 and Sharon Lokedi in 2:18:51. Law enforcement described a heightened threat environment attributed to the war in Iran but said they were aware of no specific or credible threat to the race. No attack occurred anywhere in the 19 April to 1 May 2026 window that answers to the claim.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "The thirteen days passed with nothing. What is on the record is not a vision but a reading: on 15 April he reads out a list of dates said to appear in occult calendars, and the supporting evidence he and his co-host assemble is entirely historical anniversaries, Oklahoma City in 1995, Columbine in 1999 and Lexington in 1775, all on 19 April. Anniversaries are not forecasts. The Boston Marathon is selected the same way, because it falls inside the window and carries its own 2013 history, not from anything he says he was shown. His own falsifier makes that point. To his credit the pair rejected one candidate on air when it did not fit: they checked the Tulsa massacre, found it was 31 May, and dropped it."},
+
+  {"claim_id": "black-swan-event",
+   "observed_on": "2026-02-06",
+   "source_url": "https://longbridge.com/en/news/269493383",
+   "summary": "No black swan financial event occurred between 3 and 6 February 2026 or around the opening of the Milan Cortina Olympics on 6 February. Black swan discussion through 2026 has been prospective: Deutsche Bank's list of ten possible 2026 black swans, published as a research exercise, names candidates such as an AI bubble burst, a US-Japan sovereign debt crisis and a Taiwan assault, none of which has occurred.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "The one window he dated, 3 to 6 February 2026, closed with nothing. Note what the phrase does for him: a black swan is by definition unforeseen, so predicting one is a claim that cannot specify what it predicts, and any later shock of any kind in any market can be claimed as the thing seen. The other half of the same passage, that he reported in January that Trump wanted diplomacy while Israel struck anyway, is a claim about his own past record and belongs in the fulfilment table, where the January material can be checked against it rather than assumed."},
+
+  {"claim_id": "christmas-eve-mass-pope",
+   "observed_on": "2025-12-24",
+   "source_url": "https://angelusnews.com/news/vatican/pope-leo-christmas-eve-2025/",
+   "summary": "Pope Leo XIV celebrated his first Christmas Eve Mass at the Vatican on 24 December 2025, moved from 7:30 pm to 10 pm, and went out to greet about 5,000 people standing in cold rain outside St Peter's Basilica. The Cathedral of the Madeleine in Salt Lake City held its Christmas Eve Masses at 6 pm and 10 pm. No incident occurred at either.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "Both places named passed without incident. The structure is the reason this is worth recording. Two unrelated targets are named in a single breath, a papal mass in Rome and a city in Utah, with no stated connection and no stated event, so any incident at either would have counted and neither could be checked against the other. He also has to confirm aloud that Salt Lake City is in Utah, which is the kind of detail that shows the name arriving without context attached."},
+
+  {"claim_id": "checkered-hat-uprising-dec6",
+   "observed_on": "2025-12-06",
+   "source_url": "https://en.wikipedia.org/wiki/Portal:Current_events/December_2025",
+   "summary": "No uprising is identifiable on or near 6 December 2025 matching the description. Neither the region nor the man in the black and white checkered hat is named in the passage, so no external source can be matched to it.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "There is nothing here a source could confirm or refute: no country, no city, no person, only a hat and a date arrived at on camera. The passage is valuable for a different reason, and the extractor flagged it: he and his co-host are checking their own record aloud when they land on 6 December, which means the earlier telling they are checking is in this corpus and can be found. That makes this a priority anchor for the fulfilment pass rather than a claim to score. Recorded unfalsifiable with the reason stated rather than left unchecked."},
+
+  {"claim_id": "ceremonies-illuminati-olympics",
+   "observed_on": "2026-02-22",
+   "source_url": "https://www.olympics.com/en/olympic-games/milano-cortina-2026",
+   "summary": "The Milano Cortina Winter Olympics ran from 6 to 22 February 2026 and Super Bowl LX was played on 8 February 2026. Both opening and closing ceremonies took place as scheduled. No occult ceremony has been documented at either event by any source.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "There is no criterion attached. Occult ceremonies circling an event is a claim about hidden intent, and hidden intent leaves no record that can come out either way, so no outcome at Milan or at Super Bowl LX could have shown it false. The named organisations do not help: the Illuminati is defunct as an institution and Agenda 2030 is a published UN document, so neither supplies an observable act to look for. Recorded unfalsifiable and said so, rather than left in the queue as though a source might one day settle it."}
+ ]
+}

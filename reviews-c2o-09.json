@@ -1,0 +1,19 @@
+{"reviews": [
+ {"video_id": "aNxQMI-T7qQ", "start_s": 49, "claim_id": "china-godfather-nk-hitman", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the Pearl Harbor event with China and North Korea desperate"},
+ {"video_id": "aNxQMI-T7qQ", "start_s": 106, "claim_id": "china-godfather-nk-hitman", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "the godfather and hitman division of roles"},
+ {"video_id": "aNxQMI-T7qQ", "start_s": 147, "claim_id": "china-godfather-nk-hitman", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "type and shadow, which loosens the parallel so an exact repeat is not required"},
+ {"video_id": "aNxQMI-T7qQ", "start_s": 193, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "an observation about culture with no event attached"},
+ {"video_id": "aNxQMI-T7qQ", "start_s": 281, "claim_id": "china-godfather-nk-hitman", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.8, "note": "Asian nations combining against Western culture, with Pearl Harbor echoing as retaliation"},
+ {"video_id": "aNxQMI-T7qQ", "start_s": 455, "claim_id": "std-judgment-child-abusers", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "worse than AIDS, with judgment beginning in Japan over trafficking from Mexico"},
+ {"video_id": "aNxQMI-T7qQ", "start_s": 1040, "claim_id": "sowing-reaping-judgment", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.8, "note": "the cup of sin full, tied to harm done to children"},
+ {"video_id": "aNxQMI-T7qQ", "start_s": 1324, "claim_id": "sowing-reaping-judgment", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.8, "note": "judgment already beginning rather than far off, which removes the deadline"},
+ {"video_id": "aNxQMI-T7qQ", "start_s": 1628, "claim_id": "china-gospel-window", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "millions of angels, and the window reaching North Korea and the heart of China"},
+ {"video_id": "aNxQMI-T7qQ", "start_s": 1874, "claim_id": "canada-outcry-want-to-leave", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.85, "note": "millions in Canada said to be going to hell for voting wrong, two days after the election"},
+ {"video_id": "aNxQMI-T7qQ", "start_s": 1994, "claim_id": "canada-outcry-want-to-leave", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "the trucker convoy as the template, and people saying they want to leave"},
+ {"video_id": "aNxQMI-T7qQ", "start_s": 2370, "claim_id": "yellowstone-alaska-release-points", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "Alaska and Yellowstone named as release points"},
+ {"video_id": "aNxQMI-T7qQ", "start_s": 2734, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "a place name with nothing attached"},
+ {"video_id": "aNxQMI-T7qQ", "start_s": 2945, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.8, "note": "France and Germany standing still, with no act or date"},
+ {"video_id": "aNxQMI-T7qQ", "start_s": 3021, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.75, "note": "an uninterpreted bundle of wheat pointing at France"},
+ {"video_id": "aNxQMI-T7qQ", "start_s": 3399, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "an uninterpreted image of filleted fish, which he calls strange himself"},
+ {"video_id": "aNxQMI-T7qQ", "start_s": 3560, "claim_id": "wwiii-draft-europe", "same_event": "unsure", "delta_type": "new_detail", "confidence": 0.7, "note": "Russia provoked with China, North Korea and Iran together; unsure because the existing claim centres on a US draft"}
+]}

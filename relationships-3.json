@@ -1,0 +1,15 @@
+{"relationships": [
+ {"from_claim":"venezuela-oil-dollar-buffer","to_claim":"digital-dollar-transition","rel_type":"precedes","asserted_by":"brandon",
+  "evidence_video":"sOD1l2-fKgA","evidence_start_s":6338,
+  "note":"He frames the oil money as a buffer for a season, i.e. a delay before the currency change rather than an alternative to it."},
+ {"from_claim":"ai-artificial-economy","to_claim":"crash-1930s","rel_type":"precedes","asserted_by":"brandon",
+  "evidence_video":"WCSr1gn7mlM","evidence_start_s":1165,
+  "note":"The artificial economy is what conceals the real one until the break."},
+ {"from_claim":"canada-crisis","to_claim":"amero-north-american-currency","rel_type":"precedes","asserted_by":"system",
+  "note":"Our inference: a Canadian economic break would plausibly precede any monetary union. He does not connect them."},
+ {"from_claim":"dustbowl-famine","to_claim":"branson-migration","rel_type":"causes","asserted_by":"brandon",
+  "evidence_video":"WCSr1gn7mlM","evidence_start_s":683,
+  "note":"He states people move there because of drought and water."},
+ {"from_claim":"fertilizer-food-inflation","to_claim":"dustbowl-famine","rel_type":"co_occurs_with","asserted_by":"system",
+  "note":"Same theme, different source: one is his vision, the other a bank note he read out."}
+]}

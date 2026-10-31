@@ -1,0 +1,12 @@
+{"reviews": [
+ {"video_id":"0LcmZ81vn0I","start_s":357,"claim_id":"sept11-2026-groundzero","same_event":"yes","delta_type":"first_mention",
+  "note":"The most testable claim in the database: an exact date, a place type and a described scene, stated on 28 May 2026 for 11 September 2026. Due in under two weeks."},
+ {"video_id":"0LcmZ81vn0I","start_s":418,"claim_id":"sept11-2026-groundzero","same_event":"yes","delta_type":"new_detail",
+  "note":"Sharpens it: one building, not twin towers, with a bent flag. A specific enough detail to score against."},
+ {"video_id":"0LcmZ81vn0I","start_s":697,"claim_id":"sept11-2026-groundzero","same_event":"yes","delta_type":"elaboration",
+  "note":"Adds the Rosh Hashanah coincidence and the call to pray, which converts an unconditional claim into a prayer-conditional one. Note that shift: a non-event on 11 September becomes attributable to intercession."},
+ {"video_id":"0LcmZ81vn0I","start_s":553,"claim_id":"revival-window-2026-2028","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"0LcmZ81vn0I","start_s":780,"claim_id":"speech-crackdown-midterms","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"0LcmZ81vn0I","start_s":836,"claim_id":"coup-against-trump","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"0LcmZ81vn0I","start_s":653,"claim_id":"two-silos-harvest","same_event":"yes","delta_type":"first_mention"}
+]}

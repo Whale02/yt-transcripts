@@ -1,0 +1,35 @@
+{
+ "_note": "The oklahoma-divided claim had been seeded but its only assignment was a passage of land-run history, so adjudicating that away left the claim with no telling behind it. These are the three actual tellings, found by searching the corpus. Written 2026-08-30, before the November 2026 midterms, so the falsifier is genuinely pre-registered. Model claude-opus-5, prompt v1.",
+ "mentions": [
+  {"video_id": "-cgLSUAayx4", "start_s": 226,
+   "claim_text": "Oklahoma is seen divided by a line running from Altus to Miami, Oklahoma, alongside Texas standing strong against a disarmament movement.",
+   "quote": "I saw Oklahoma divided. And there was a line from Altus",
+   "source_mode": "VISION", "certainty": "definite", "conditionality": "unconditional",
+   "topics": ["politics"], "locations": ["Oklahoma", "Altus", "Miami Oklahoma"],
+   "time_phrase": "", "time_precision": "none",
+   "falsify_match": "Oklahoma splits politically along a line roughly from Altus in the southwest to Miami in the northeast.",
+   "falsify_miss": "Oklahoma stays undivided in its voting and in any other visible sense."},
+
+  {"video_id": "uOv6toXL4Uk", "start_s": 1436,
+   "claim_text": "Oklahoma has a chance to be divided for the first time in a long time, split down the middle on a line from Altus to Miami with half blue and half red, tied to the 2026 midterms being the year of a fix, unless it is prayed over.",
+   "quote": "split down the middle and half was blue and half was red",
+   "source_mode": "LORD_SAID", "certainty": "strong", "conditionality": "prayer_may_prevent",
+   "condition_text": "if you do not pray even for Oklahoma",
+   "topics": ["politics"], "locations": ["Oklahoma"],
+   "time_phrase": "midterms, 2026", "window_start": "2026-01-01", "window_end": "2026-11-03",
+   "time_precision": "range", "due_at": "2026-11-03",
+   "falsify_match": "Oklahoma's November 2026 results break its single-bloc pattern, with a region or district on the northeastern side going Democratic.",
+   "falsify_miss": "Oklahoma votes as one bloc in November 2026, as it has in every federal cycle since 2004."},
+
+  {"video_id": "w3lzakaovU0", "start_s": 399,
+   "claim_text": "Going into the midterms he is told there is a disruption and to pray over Oklahoma because it will try to be divided, in the context of a third party splitting the vote.",
+   "quote": "You must pray even over Oklahoma for it will try to be divided",
+   "source_mode": "LORD_SAID", "certainty": "definite", "conditionality": "prayer_may_prevent",
+   "condition_text": "prayer over Oklahoma is what would stop it",
+   "topics": ["politics"], "locations": ["Oklahoma"], "entities": ["Elon Musk"],
+   "time_phrase": "going into midterms", "window_end": "2026-11-03",
+   "time_precision": "range", "due_at": "2026-11-03",
+   "falsify_match": "A third party or independent bid measurably splits the Oklahoma vote in November 2026.",
+   "falsify_miss": "No third party materially affects the Oklahoma result."}
+ ]
+}

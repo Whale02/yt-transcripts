@@ -1,0 +1,74 @@
+{
+ "_note": "The oldest unchecked claims, 2023 and 2024, where hindsight is complete and the answer cannot move. Checked 30 August 2026. Two of these are scored against him on structure rather than outcome: a claim spoken after the event, and a claim whose own wording absorbs any miss. Both would otherwise inflate the record.",
+ "evidence": [
+  {"claim_id": "japan-radioactive-ocean",
+   "observed_on": "2023-08-24",
+   "source_url": "https://techxplore.com/news/2023-08-japan-fukushima-nuclear-radioactive-wastewater.html",
+   "summary": "Fukushima Daiichi began releasing treated radioactive water into the Pacific on 24 August 2023, the first discharge of 7,800 cubic metres over about seventeen days, announced publicly on 22 August. Trump was booked at the Fulton County jail on the same day.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "He said this on 25 August 2023, the day after the release began and three days after it was announced. Both facts he names are true and neither was a forecast. Recorded so the pair does not sit in the database looking like a hit: nothing here could have failed."},
+
+  {"claim_id": "august-24-significant",
+   "observed_on": "2023-08-24",
+   "source_url": "https://www.aljazeera.com/news/2023/8/24/analysis-wall-of-brics-the-significance-of-adding-six-new-members",
+   "summary": "Three notable stories fell on 24 August 2023: the BRICS summit announced invitations to six new members including Saudi Arabia; Japan began the Fukushima water release; and Trump was booked at the Fulton County jail, producing the first mug shot of a US president. None of the three was publicly scheduled for that date on 12 August, when he named it, though the BRICS summit was known to run 22 to 24 August.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "The date is the strongest thing in it. He named 24 August twelve days ahead and three separate stories of the year landed on it. Two things keep it at partial. The claim carried no content beyond significance, so it could be satisfied by whatever the day produced, and any single day in a busy news year carries some chance of a memorable story. He also said in the same breath that he hates quoting dates because his depth perception in the spirit is unreliable, which is a hedge he was right to state."},
+
+  {"claim_id": "eclipse-april-8-nothing",
+   "observed_on": "2024-04-08",
+   "source_url": "https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024",
+   "summary": "The 8 April 2024 total solar eclipse crossed North America without any associated disaster, attack or notable incident. No event of consequence is recorded for that date in the United States.",
+   "state": "STRONG_MATCH",
+   "rationale": "On 7 April 2024 he was asked directly and said plainly that nothing would happen on the eclipse, that he had seen nothing for the date, and he repeated it in every video. Nothing happened. This is the cleanest falsifiable statement in the corpus so far: dated, specific, publicly against a loud prophetic consensus that was predicting catastrophe, and he would have been visibly wrong the next day. The base rate cuts the other way and should be said out loud: on any given day, nothing is the likeliest outcome, so the credit here is for breaking with a consensus under public pressure, not for beating the odds."},
+
+  {"claim_id": "april-8-eclipse",
+   "observed_on": "2024-04-08",
+   "source_url": "https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024",
+   "summary": "No significant event coincided with the 8 April 2024 eclipse.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "In March 2024 he named the eclipse as a mile marker in a snowballing end-times sequence. Nothing coincided with it. Worth reading beside eclipse-april-8-nothing, which he gave on 7 April and which was right: he held both a marker framing and a nothing-will-happen call in the same month, and the specific dated one is the one that held."},
+
+  {"claim_id": "olympics-protection-2024",
+   "observed_on": "2024-07-26",
+   "source_url": "https://en.wikipedia.org/wiki/2024_France_railway_arson_attacks",
+   "summary": "On the morning of the Paris opening ceremony, 26 July 2024, coordinated arson attacks destroyed cabling at strategic junctions on the LGV Atlantique, Nord and Est lines, with a fourth attempt thwarted. Around 800,000 passengers were affected and Eurostar cancelled a quarter of its trains from 26 to 28 July. The prime minister called it prepared and coordinated sabotage. No injuries, and authorities did not classify it as terrorism. No attack occurred at an Olympic venue.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "He prayed over the Olympics against terrorist activity on 23 July, three days before a coordinated sabotage attack timed to the opening ceremony. The criterion recorded at extraction, an attack at the 2024 Olympics, is met in substance. It stays at partial because this was a prayer for protection rather than a forecast of attack, because the attack hit rail infrastructure rather than the games, and because the Paris Olympics were among the most heavily telegraphed security risks of the year."},
+
+  {"claim_id": "judgment-569-days",
+   "observed_on": "2023-10-02",
+   "source_url": "https://en.wikipedia.org/wiki/October_7_attacks",
+   "summary": "No identifiable judgment-scale event occurred on or about 2 October 2023. The Hamas attack on Israel took place five days later, on 7 October 2023.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "Scored on structure, not on outcome. He gave an angel's countdown of 569 days to 2 October and, before the date arrived, reported that the Lord had extended the time for repentance; in May 2024 he added that if his arithmetic was off, the thing still happened inside the window the angel gave. A claim that pre-registers its own extension and then widens the window afterwards cannot fail, so it cannot be counted as a hit either. The 7 October attack is recorded here as fact and deliberately not scored as a match: the claim named no content, so any large calamity within weeks would have satisfied it."},
+
+  {"claim_id": "michelle-gavin-2024",
+   "observed_on": "2024-07-21",
+   "source_url": "https://en.wikipedia.org/wiki/Withdrawal_of_Joe_Biden_from_the_2024_United_States_presidential_election",
+   "summary": "Biden withdrew from the race on 21 July 2024 and immediately endorsed Kamala Harris, who became the nominee. Gavin Newsom was widely discussed as a possible replacement in the weeks before the withdrawal but did not run and endorsed Harris. Michelle Obama was repeatedly floated and polled but never entered and had consistently ruled it out.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "The shape was right and the names were not. He said in September 2023, ten months ahead, that he had seen a shakeup with Michelle Obama and Gavin Newsom while neither was in the news, and a Democratic ticket change of exactly that unprecedented kind followed. But the replacement was Harris, Newsom did not run, and Michelle Obama never entered, which was the specific and repeated element. Naming the right event through the wrong people is a partial match, not a hit."},
+
+  {"claim_id": "biden-cognitive-decline",
+   "observed_on": "2024-07-21",
+   "source_url": "https://www.npr.org/2024/07/21/nx-s1-5024253/biden-drops-out-2024-presidential-election",
+   "summary": "Biden's capacity became the dominant story of the 2024 campaign after the 27 June 2024 debate, and he withdrew on 21 July 2024 under party pressure, 107 days before election day. Coverage described him losing his train of thought during the debate. No landmark capacity story fell in January 2024; the special counsel report describing memory lapses came in February 2024.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "The year-scale element landed hard. In December 2023 he described static like a television with no reception around Biden's mind and said the confusion had escalated, and the criterion recorded at extraction, that this becomes a dominant publicly documented issue during 2024, is exactly what happened. Held at partial for two reasons: the narrower window he gave, December into January, produced nothing landmark, and questions about Biden's acuity were already a mainstream story in 2023, so this was a continuation rather than a break."},
+
+  {"claim_id": "economy-balloon-pop",
+   "observed_on": "2024-10-31",
+   "source_url": "https://www.cnbc.com/2024/09/18/fed-cuts-rates-september-2024-.html",
+   "summary": "The Fed cut rates by 50 basis points on 18 September 2024 to 4.75-5.00 percent, its first cut since March 2020, citing a cooling labour market. No quantitative easing was announced. There was no market or credit break in September or October 2024; the S&P 500 finished 2024 up 25.0 percent. The first easing of the cycle came in September, not in May or June 2024.",
+   "state": "CONTRADICTED",
+   "rationale": "He named the mechanism, the months and the words: the balloon bursts in September into October 2024 and he heard quantitative easing. What happened in that window was the opposite, a rate cut into a rising market with no QE and no break, and the year closed up 25 percent. The May-June re-inflation he described also missed by a quarter. This is a dated, specific economic call that can be scored, and it failed."},
+
+  {"claim_id": "economy-balloon-2024",
+   "observed_on": "2024-10-31",
+   "source_url": "https://www.cnbc.com/2024/09/18/fed-cuts-rates-september-2024-.html",
+   "summary": "Same window as economy-balloon-pop. The Fed's first cut of the cycle came on 18 September 2024, 50 basis points, with no quantitative easing. No burst occurred in September or October 2024 and the S&P 500 ended the year up 25.0 percent.",
+   "state": "CONTRADICTED",
+   "rationale": "The second telling of the same balloon, carrying the same dated burst and the same quantitative easing language, and it fails on the same facts. Kept as its own verdict rather than folded into economy-balloon-pop because the two threads describe the inflation differently and were adjudicated apart."}
+ ]
+}

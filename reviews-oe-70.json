@@ -1,0 +1,77 @@
+[
+  {"video_id": "tKNBjoymWHM", "start_s": 4549, "claim_id": "matthew-24-no-shock",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Pre-empts surprise in both directions: the events are expected, so arrival confirms and absence is simply not yet."},
+
+  {"video_id": "tKNBjoymWHM", "start_s": 5356, "claim_id": "amplified-voices-end-time-army",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Amplification is at least visible in audience figures, which puts this above most of the surrounding material for checkability."},
+
+  {"video_id": "tKNBjoymWHM", "start_s": 5846, "claim_id": "virus-more-contagious-trial-run",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The hedge is real and unprompted and belongs on the record: he says he does not know exactly when the date is and that it could be off. Set against always seen from the same session."},
+
+  {"video_id": "tKNBjoymWHM", "start_s": 8047, "claim_id": "only-a-spectator-psalm91",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The gloss is his own: an ancient text read as naming a specific present outbreak."},
+
+  {"video_id": "tKNBjoymWHM", "start_s": 8140, "claim_id": "only-a-spectator-psalm91",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The exemption applied directly to the plague he has just forecast. The audience is told it cannot touch them, which is what makes a 350 million death toll costless to hear."},
+
+  {"video_id": "8czXf1gl9bM", "start_s": 46, "claim_id": "we-are-the-news",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "A voice not an echo, with the hard things appearing in the news afterwards. That is the accuracy claim in its testable form."},
+
+  {"video_id": "8czXf1gl9bM", "start_s": 290, "claim_id": "shake-america-beyond-comprehension",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Beyond anything you can comprehend has no threshold and no date."},
+
+  {"video_id": "8czXf1gl9bM", "start_s": 494, "claim_id": "they-are-deceived-october-26",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Dated to 26 October 2025, which is inside this corpus, so the original can be read against whatever is now offered as its fulfilment."},
+
+  {"video_id": "8czXf1gl9bM", "start_s": 532, "claim_id": "january-21-2024-vision",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Twelfth on-air replay of an original recording. The 21 January 2024 video is in this corpus and is played, so it can be checked directly."},
+
+  {"video_id": "8czXf1gl9bM", "start_s": 577, "claim_id": "january-21-2024-vision",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "A description of a destination after an event that has not occurred, so nothing here can resolve."},
+
+  {"video_id": "8czXf1gl9bM", "start_s": 632, "claim_id": "march-18-meeting-release",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He says outright he does not know when the meeting was, and the material reached him because viewers sent it in. The 18 March telling is in this corpus."},
+
+  {"video_id": "8czXf1gl9bM", "start_s": 892, "claim_id": "mayan-pyramids-hieroglyphics",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Hidden and buried over generations means the absence of evidence is folded into the claim as proof of the concealment."},
+
+  {"video_id": "8czXf1gl9bM", "start_s": 1321, "claim_id": "great-deception-coming",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He notes himself that it sounds far out and that he tiptoes around it, which is worth having beside the claim."},
+
+  {"video_id": "8czXf1gl9bM", "start_s": 1367, "claim_id": "april-1-signs-in-heavens",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Joins the April signs to the deception: things taking place in the heavens are now the vehicle for it."},
+
+  {"video_id": "8czXf1gl9bM", "start_s": 1405, "claim_id": "passover-april-1-acceleration",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "A second doubling, on 11 September. Doubling a quantity that was never measured, twice, on a date that already carries the attack claim."},
+
+  {"video_id": "8czXf1gl9bM", "start_s": 1938, "claim_id": "disclosure-2027-key-moment",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Worth recording precisely: the 2027 date here comes from another person's interview about closed meetings, not from anything he saw. It then joins the 2027 material already on file."},
+
+  {"video_id": "8czXf1gl9bM", "start_s": 2044, "claim_id": "disclosure-2027-key-moment",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "He says he does not understand it and has not watched all of it, and that the clip was edited down for him. Nothing claimed."},
+
+  {"video_id": "8czXf1gl9bM", "start_s": 2121, "claim_id": "invited-to-hear-government-men",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The state, the men and the concern are all withheld, so nothing here can be matched to anything."},
+
+  {"video_id": "8czXf1gl9bM", "start_s": 2397, "claim_id": "political-theater-2026",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The June to August window now carries the political theatre, the acceleration and the revival all at once, which means any summer satisfies at least one of them."}
+]

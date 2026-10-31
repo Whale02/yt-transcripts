@@ -1,0 +1,92 @@
+[
+  {"video_id": "Xst5KJVjDeY", "start_s": 4818, "claim_id": "gabriel-will-not-win-france",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A named person and a binary outcome, so it can fail cleanly. He is unsure of the names as he says them, which is recorded in the mention."},
+
+  {"video_id": "Xst5KJVjDeY", "start_s": 6147, "claim_id": "potters-wheel-molded",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "The potter and clay prayer again. The chorus he draws on is described rather than reproduced."},
+
+  {"video_id": "Xst5KJVjDeY", "start_s": 7198, "claim_id": "cuba-liberation-day-2027",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Fourth thing now hung on May, and the decision itself is never described."},
+
+  {"video_id": "Xst5KJVjDeY", "start_s": 7692, "claim_id": "cold-war-gets-colder",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Finally names the parties the cold war claim never had: Russia and, by the panda, China. Adds August as the month."},
+
+  {"video_id": "tMmRhBhwYSc", "start_s": 1255, "claim_id": "april-19-may-1-occult-window",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The dates are read off a list rather than seen. That is the whole basis of the alert and the mention says so."},
+
+  {"video_id": "tMmRhBhwYSc", "start_s": 1302, "claim_id": "hitler-figure-rising",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "An unevidenced accusation of ritual murder against unnamed people in a named city. Recorded because he said it, with the lack of evidence stated."},
+
+  {"video_id": "tMmRhBhwYSc", "start_s": 1362, "claim_id": "april-19-may-1-occult-window",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Historical dates assembled to show a pattern. Nothing forecast."},
+
+  {"video_id": "tMmRhBhwYSc", "start_s": 1496, "claim_id": "april-19-may-1-occult-window",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The alert is built entirely from anniversaries rather than from anything shown, and he attributes the assembly to the Lord showing him. Both halves recorded."},
+
+  {"video_id": "tMmRhBhwYSc", "start_s": 1545, "claim_id": "april-19-may-1-occult-window",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "Worth crediting: they test the Tulsa massacre against the pattern, find it falls on 31 May, and drop it rather than forcing the fit."},
+
+  {"video_id": "tMmRhBhwYSc", "start_s": 2355, "claim_id": "this-pope-waited-since-2014",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The 2014 sighting is outside this corpus, so only his description of it is available. He also notes the previous pope did not match, which is a real if unflattering piece of discrimination."},
+
+  {"video_id": "ZvDla0vHYoY", "start_s": 268, "claim_id": "closer-than-you-think-return",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "Forecloses disagreement inside the same sentence: whether or not you want to acknowledge it."},
+
+  {"video_id": "ZvDla0vHYoY", "start_s": 354, "claim_id": "prophetic-accuracy-2025",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "Setting up another on-air replay. Ninth in the run."},
+
+  {"video_id": "ZvDla0vHYoY", "start_s": 501, "claim_id": "new-industrial-revolution-foundation",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Dated to February, which is inside this corpus, so the recall can be read against the original."},
+
+  {"video_id": "ZvDla0vHYoY", "start_s": 757, "claim_id": "if-you-wont-pray-why-are-you-here",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Treats disagreement as trolling rather than as an objection to answer. Worth having beside no-prophetic-confusion, which is his own stated standard."},
+
+  {"video_id": "ZvDla0vHYoY", "start_s": 1419, "claim_id": "pride-opens-the-door",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A diagnosis of an unnamed minister's inner state, offered as the explanation for what happened to him."},
+
+  {"video_id": "ZvDla0vHYoY", "start_s": 1584, "claim_id": "vance-2028-realignment",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Notably softer than January, where he saw Vance at the helm. Here it is a question he is seeing in part and praying about, with Rubio named alongside."},
+
+  {"video_id": "ZvDla0vHYoY", "start_s": 1628, "claim_id": "tribulation-shmita",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He allows outright that it may not be this cycle, which is the honest framing and is preserved in the certainty field."},
+
+  {"video_id": "ZvDla0vHYoY", "start_s": 1680, "claim_id": "seeing-into-tribulation",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The clearest concession available and it is his own: he knows he is seeing into the tribulation and does not know what year any of it belongs to. Everything dated in this corpus should be read against that sentence."},
+
+  {"video_id": "ZvDla0vHYoY", "start_s": 4066, "claim_id": "exceedingly-abundantly-2026",
+   "same_event": "yes", "delta_type": "elaboration"},
+
+  {"video_id": "ZvDla0vHYoY", "start_s": 6612, "claim_id": "water-supply-attack-gulf-states",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Adds refineries and oil wells to the water infrastructure target across the same Gulf states."},
+
+  {"video_id": "ZvDla0vHYoY", "start_s": 7736, "claim_id": "it-is-a-spirit-connected",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The organising assumption stated plainly: separate things are connected because one spirit is behind them. That is what lets any two events be joined."},
+
+  {"video_id": "ZvDla0vHYoY", "start_s": 7815, "claim_id": "hitler-figure-rising",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Ties the Hitler spirit to the Oklahoma City bombing during the anniversary week they have just been discussing, which is how the pattern gets built."},
+
+  {"video_id": "aYNy8bxXKrs", "start_s": 848, "claim_id": "no-plan-b-supreme-court",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "There is no plan B is now conditional on two specific outcomes, the tariffs taking effect and the court ruling, both of which are matters of public record. That makes it more checkable than the December telling."}
+]

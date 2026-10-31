@@ -1,0 +1,12 @@
+{"relationships":[
+{"from_claim":"no-plan-b-supreme-court","to_claim":"extended-time-grant","rel_type":"related_to","asserted_by":"system",
+ "note":"The same delay logic applied to policy: the programme is described as an attempt to extend the time rather than to reverse anything."},
+{"from_claim":"california-146-billion-fraud","to_claim":"california-corruption-next","rel_type":"related_to","asserted_by":"brandon",
+ "evidence_video":"UMqHeHjGuMI","evidence_start_s":1761,
+ "note":"He joins them himself: the Lord said this is worse in California than in Minnesota, now with a figure attached."},
+{"from_claim":"argentina-outpouring-april","to_claim":"wealth-transfer-window","rel_type":"related_to","asserted_by":"brandon",
+ "evidence_video":"ABqn0lFIbqk","evidence_start_s":3262,
+ "note":"He ties the Argentina outpouring to the beginning of the transfer, so both hang on the same April window."},
+{"from_claim":"watchmen-see-in-the-future","to_claim":"we-are-the-news","rel_type":"related_to","asserted_by":"system",
+ "note":"Two statements of the same claim: the watchman sees ahead, and the material precedes the news."}
+]}

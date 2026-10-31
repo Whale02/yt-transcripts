@@ -1,0 +1,30 @@
+{
+  "_note": "Adjudications for tier-1 sweep batch 009. Model claude-opus-5, prompt v1.",
+  "reviews": [
+    {"video_id": "4z3guiSTfRw", "start_s": 1887, "claim_id": "judgment-seat-empty-cup", "same_event": "yes", "delta_type": "first_mention", "note": "Exhortation, no date."},
+    {"video_id": "2jhb5cXzw5A", "start_s": 32, "claim_id": "timing-misses-admission", "same_event": "unsure", "delta_type": "elaboration", "note": "The opposite framing to the miss admission: here he is scoring himself as hitting. Linked so both self-assessments sit together."},
+    {"video_id": "2jhb5cXzw5A", "start_s": 511, "claim_id": "michelle-gavin-2024", "same_event": "yes", "delta_type": "elaboration", "note": "Adds the red beret image, which is a separate thread bundled into the same passage."},
+    {"video_id": "2jhb5cXzw5A", "start_s": 721, "claim_id": "crypto-new-era-wave", "same_event": "yes", "delta_type": "restatement", "note": "No new content beyond the disclaimer and the in-part caveat."},
+    {"video_id": "2jhb5cXzw5A", "start_s": 849, "claim_id": "crash-1930s", "same_event": "yes", "delta_type": "elaboration", "note": "Uses a Jamie Dimon warning as external corroboration."},
+    {"video_id": "2jhb5cXzw5A", "start_s": 893, "claim_id": "crash-1930s", "same_event": "yes", "delta_type": "timing_update", "note": "Puts the depression at 2025 and, unusually, allows it may be stopped or lessened. That hedge matters for the CONTRADICTED verdict already on this claim."},
+    {"video_id": "2jhb5cXzw5A", "start_s": 1042, "claim_id": "bank-failure-seizure", "same_event": "yes", "delta_type": "elaboration", "note": "Chains seizure directly into the digital dollar and says it is already manifesting."},
+    {"video_id": "jRZDYWhp_lE", "start_s": 519, "claim_id": "migration-surge-2024", "same_event": "yes", "delta_type": "first_mention", "note": "Specific and checkable: origin countries broadening, not just volume."},
+    {"video_id": "jRZDYWhp_lE", "start_s": 700, "claim_id": "good-year-2024", "same_event": "yes", "delta_type": "elaboration", "note": "Marked as opinion, and narrowed to the body of Christ rather than the country."},
+    {"video_id": "hbyGnC7qt4I", "start_s": 323, "claim_id": "april-8-eclipse", "same_event": "yes", "delta_type": "first_mention", "note": "Significance asserted without saying what happens, so a match needs an event to attach to."},
+    {"video_id": "uG0-7UW8Aw8", "start_s": 85, "claim_id": "kilpatrick-warning", "same_event": "yes", "delta_type": "first_mention", "note": "Quoting another minister, not his own word. Source mode records that."},
+    {"video_id": "uG0-7UW8Aw8", "start_s": 234, "claim_id": "low-pressure-warning", "same_event": "yes", "delta_type": "new_detail", "note": "This is where his own low-pressure framing comes from: it is Kilpatrick's image, quoted here in March 2024 and reused in his own voice in December 2023."},
+    {"video_id": "uG0-7UW8Aw8", "start_s": 282, "claim_id": "kilpatrick-warning", "same_event": "yes", "delta_type": "elaboration", "note": "The Gulf Coast leg of the quoted vision."},
+    {"video_id": "8RE7avjJd1k", "start_s": 229, "claim_id": "pockets-of-turbulence", "same_event": "yes", "delta_type": "first_mention", "note": "One of the few claims with an explicit ceiling: nothing engulfs the whole world. That makes it falsifiable in both directions."},
+    {"video_id": "8RE7avjJd1k", "start_s": 873, "claim_id": "passover-escalation-2024", "same_event": "yes", "delta_type": "first_mention", "note": "Dated to about a month out, so scoreable on 30 April 2024."},
+    {"video_id": "qCWodRZNFaw", "start_s": 227, "claim_id": "prophetic-method-in-part", "same_event": "yes", "delta_type": "elaboration", "note": "Adds that the warnings concern what the enemy is planning."},
+    {"video_id": "qCWodRZNFaw", "start_s": 556, "claim_id": "april-8-eclipse", "same_event": "yes", "delta_type": "elaboration", "note": "The mile-marker and snowball framing."},
+    {"video_id": "l-qkCKHzgkE", "start_s": 309, "claim_id": "passover-escalation-2024", "same_event": "yes", "delta_type": "timing_update", "note": "Given two months earlier than the March telling, with the date worked out on air."},
+    {"video_id": "RCxgEuKAZVU", "start_s": 745, "claim_id": "rooted-in-love-2024", "same_event": "yes", "delta_type": "first_mention", "note": "Instruction for the year, not an event claim."},
+    {"video_id": "l_JibhAnxe0", "start_s": 483, "claim_id": "glory-is-here", "same_event": "yes", "delta_type": "first_mention", "note": "Delivered in rhyme, which he notes himself."},
+    {"video_id": "l_JibhAnxe0", "start_s": 748, "claim_id": "glory-is-here", "same_event": "yes", "delta_type": "elaboration", "note": "Adds the dreams, signs and wonders channel."},
+    {"video_id": "yc0C9zetGX8", "start_s": 773, "claim_id": "speak-life-instruction", "same_event": "yes", "delta_type": "elaboration", "note": "Same don't-give-up instruction as the August 2023 telling."},
+    {"video_id": "yc0C9zetGX8", "start_s": 957, "claim_id": "good-year-2024", "same_event": "yes", "delta_type": "new_detail", "note": "Conditions the good year on the hearer's own faith, which removes it from external scoring. Worth noting against the unconditional August 2023 version."},
+    {"video_id": "6R7S-YsLW88", "start_s": 70, "claim_id": "channel-contingency", "same_event": "yes", "delta_type": "first_mention", "note": "Housekeeping."},
+    {"video_id": "6R7S-YsLW88", "start_s": 284, "claim_id": "diet-instruction", "same_event": "yes", "delta_type": "first_mention", "note": "Personal instruction, dated to January 2024."}
+  ]
+}

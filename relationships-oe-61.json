@@ -1,0 +1,10 @@
+{"relationships":[
+{"from_claim":"we-are-the-news","to_claim":"prophetic-accuracy-2025","rel_type":"related_to","asserted_by":"system",
+ "note":"The accuracy claim stated at its widest: that the material precedes the news rather than following it."},
+{"from_claim":"wormwood-april-13-2029","to_claim":"asteroid-2026-hz4","rel_type":"related_to","asserted_by":"system",
+ "note":"Two space-rock claims. One matched to a real close approach after the fact, the other now asserting that a published fly-by will instead be an impact."},
+{"from_claim":"european-royals-new-world-order","to_claim":"europe-democrats-plan-midterms","rel_type":"related_to","asserted_by":"system",
+ "note":"The same European cast in a different role, and the members named change between tellings while the claim does not."},
+{"from_claim":"underground-arks","to_claim":"preparedness-instructions","rel_type":"related_to","asserted_by":"system",
+ "note":"What the wealthy are said to have built, set against what the audience is told to do."}
+]}

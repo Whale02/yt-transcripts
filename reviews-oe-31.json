@@ -1,0 +1,101 @@
+[
+  {"video_id": "uIWzg7u1QFo", "start_s": 4499, "claim_id": "america-turned-back-remnant",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The remnant clause is the load-bearing part: it lets the verdict on the nation stand while exempting the audience from it."},
+
+  {"video_id": "v3A9UyHZAhw", "start_s": 1320, "claim_id": "preparedness-instructions",
+   "same_event": "unsure", "delta_type": "new_detail",
+   "note": "Preparedness in its armed form rather than food and water. Filed here for want of a better home; if home defence recurs it deserves its own claim."},
+
+  {"video_id": "v3A9UyHZAhw", "start_s": 2991, "claim_id": "first-corinthians-5-5-2026",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The verse is doing double duty: a judgment on named men and a frame for the year. The political theatre, impeachment calls and judges are the concrete part and the only checkable one."},
+
+  {"video_id": "v3A9UyHZAhw", "start_s": 4000, "claim_id": "january-17-word-fulfilling",
+   "same_event": "unsure", "delta_type": "first_mention",
+   "note": "Kept separate from four-inch-rain-sign rather than merged. Both involve rain and a January date, but he does not connect them here and the bamboo does not appear in the other. A system same_event_as edge records the suspicion without collapsing them."},
+
+  {"video_id": "v3A9UyHZAhw", "start_s": 4462, "claim_id": "not-enough-urgency",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Forty one years of the same rebuke, which is itself the answer to it: urgency that survives four decades is a temperament, not a timetable."},
+
+  {"video_id": "v3A9UyHZAhw", "start_s": 5892, "claim_id": "first-corinthians-5-5-2026",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "Same verse, same year, no new content beyond the promise that many will see it."},
+
+  {"video_id": "v3A9UyHZAhw", "start_s": 7334, "claim_id": "crypto-legislation-2026",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The glorious outpouring turns out on his own gloss to mean money. Adjacent to clarity-act-one-vote, which is the specific bill; this is the wider 2026 window."},
+
+  {"video_id": "v3A9UyHZAhw", "start_s": 9710, "claim_id": "feelings-not-required",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Structurally the same move as symptoms-do-not-count: the one observation that could disconfirm is ruled inadmissible in advance."},
+
+  {"video_id": "v3A9UyHZAhw", "start_s": 11267, "claim_id": "prosperity-not-money-alone",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A useful qualifier on the financial-windfall material, since it lets a windfall that never arrives still count as prosperity."},
+
+  {"video_id": "v3A9UyHZAhw", "start_s": 11771, "claim_id": "ministry-scandals",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Adds the year. The claim previously had no window; this puts a lot of it in 2026 and has the Lord saying so directly."},
+
+  {"video_id": "v3A9UyHZAhw", "start_s": 12892, "claim_id": "prophetic-method-in-part",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He does prophesy over individuals, and begins to qualify that not everything seen gets said. Another entry in the standing account of why material stays unpublished."},
+
+  {"video_id": "GJwNDkJKR1w", "start_s": 418, "claim_id": "capital-plot-underground-chatter",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Related to hidden-cells-america but distinct in target: this one is specifically Washington DC and specifically a planning scene rather than a deployment."},
+
+  {"video_id": "GJwNDkJKR1w", "start_s": 500, "claim_id": "as-america-goes-so-goes-world",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The premise under a lot of the geopolitical material, stated outright for once."},
+
+  {"video_id": "GJwNDkJKR1w", "start_s": 5672, "claim_id": "capital-plot-underground-chatter",
+   "same_event": "unsure", "delta_type": "no_claim",
+   "note": "Not his words; he plays a presidential address about a real attack in Washington. Attached here because he sets it against the capital material, but he does not himself claim the sight predicted it, so nothing is scored from it."},
+
+  {"video_id": "GJwNDkJKR1w", "start_s": 8336, "claim_id": "sowing-reaping-judgment",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He supplies the escape clause himself: they may not get it on this side of the earth. Nothing here can fail."},
+
+  {"video_id": "Wg_zympTrLE", "start_s": 1686, "claim_id": "april-13-holocaust-remembrance",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A date with no content attached, which makes it unusually clean: either something notable lands on 13 April or it does not. He asks why that date and does not answer."},
+
+  {"video_id": "Wg_zympTrLE", "start_s": 4421, "claim_id": "words-of-knowledge-healing",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Infertility with a marriage failing over it. Common enough in any large audience that a hit carries almost no information."},
+
+  {"video_id": "u_fT7KW6hXA", "start_s": 456, "claim_id": "zelensky-strongarmed-macron",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Describes the visible diplomacy of the week rather than getting ahead of it, so it sits closer to commentary than to sight."},
+
+  {"video_id": "u_fT7KW6hXA", "start_s": 942, "claim_id": "attack-worse-than-october-7",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Distinct from gaza-night-attack-worse, which is an attack on Gaza. This is an attack by the same groups, in reprisal, with the magnitude benchmarked to 7 October."},
+
+  {"video_id": "u_fT7KW6hXA", "start_s": 990, "claim_id": "drone-attacks-holiday-crowds",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The most specific thing in the batch: a method, a supplier, a continent and three named occasions inside six weeks. It either happens by New Year or it does not."},
+
+  {"video_id": "u_fT7KW6hXA", "start_s": 1294, "claim_id": "stalemate-government-2026",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Now framed as a prayer target rather than a sight, which flips its falsifiability: a Republican hold gets credited to prayer, a deadlock gets credited to the word."},
+
+  {"video_id": "u_fT7KW6hXA", "start_s": 1438, "claim_id": "unusual-winter-siberian-air",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He raises the base-rate objection himself, that every winter has cold fronts and Siberian air, and then repeats the claim without meeting it. Scored accordingly if it lands."},
+
+  {"video_id": "u_fT7KW6hXA", "start_s": 2842, "claim_id": "snake-figure-by-2028",
+   "same_event": "unsure", "delta_type": "first_mention",
+   "note": "Unnamed here. Overlaps judas-betrayal-trump in shape and may be the same man, but the name is absent and the date is not, so it stays separate with a system edge rather than being folded in."},
+
+  {"video_id": "u_fT7KW6hXA", "start_s": 2881, "claim_id": "red-wave-2026",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Pairs the red wave with global revival across five continents, both as prayer rather than sight."},
+
+  {"video_id": "u_fT7KW6hXA", "start_s": 4408, "claim_id": "prophetic-method-in-part",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The camera lens is the clearest account yet of how dates get assigned: he zooms until something resolves, rather than being given a date."}
+]

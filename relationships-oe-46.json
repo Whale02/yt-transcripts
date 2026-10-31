@@ -1,0 +1,14 @@
+{"relationships":[
+{"from_claim":"february-24-sets-the-tone","to_claim":"february-3-budget","rel_type":"related_to","asserted_by":"system",
+ "note":"Three February dates now live with no content on any of them: the 3rd, the 24th and the 25th. Linked so the pattern is visible rather than merged."},
+{"from_claim":"battleground-senate-2026","to_claim":"stalemate-government-2026","rel_type":"same_event_as","asserted_by":"brandon",
+ "evidence_video":"n8ZEQ9_9iMk","evidence_start_s":2475,
+ "note":"He joins them himself: the House held by a little produces the stalemate president, and both chambers would be needed to remove him."},
+{"from_claim":"vibrant-colors-mean-hot","to_claim":"purple-three-mountain","rel_type":"related_to","asserted_by":"system",
+ "note":"The interpretive key to the colour sightings, which applies retroactively to the purple three and the purple over the Olympics."},
+{"from_claim":"dont-be-stingy-multiplied","to_claim":"many-hands-light-work","rel_type":"related_to","asserted_by":"system",
+ "note":"Both place responsibility for an absent outcome on the audience rather than on the word."},
+{"from_claim":"covid-called-2018-then-another","to_claim":"plague-350m","rel_type":"related_to","asserted_by":"brandon",
+ "evidence_video":"cbmTsV2q-Us","evidence_start_s":1327,
+ "note":"He ties them himself: COVID was called first and another virus was said to be coming after it."}
+]}

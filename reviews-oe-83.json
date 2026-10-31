@@ -1,0 +1,49 @@
+[
+  {"video_id": "FHxJpX0PLPI", "start_s": 2233, "claim_id": "disney-cruise-virus-plot",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Cruise ship outbreaks are common and routinely reported, so an ordinary norovirus event on that line would be available to claim afterwards. The deliberate part is what would need separate evidence and none is offered."},
+
+  {"video_id": "FHxJpX0PLPI", "start_s": 2759, "claim_id": "watergate-2028",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The fulfilment offered is that the man compared himself to Nixon. That is a remark, not a scandal, and comparing oneself to a former president is ordinary political speech. Recorded because he presents it as the warning already landing."},
+
+  {"video_id": "FHxJpX0PLPI", "start_s": 4176, "claim_id": "mantles-of-glory",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "Scripture read aloud. Nothing claimed."},
+
+  {"video_id": "FHxJpX0PLPI", "start_s": 6961, "claim_id": "words-of-knowledge-healing",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Maria is among the most common women's names in the world, and the invitation to receive it whatever your name is removes the need for a match at all."},
+
+  {"video_id": "FHxJpX0PLPI", "start_s": 8895, "claim_id": "july4-250th-parades",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "A sign-off. Nothing forecast."},
+
+  {"video_id": "FHxJpX0PLPI", "start_s": 9067, "claim_id": "july4-250th-parades",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Events taking place in July names nothing, and he concedes in the same breath that after the 4th he does not know. Now past due with nothing to score."},
+
+  {"video_id": "i9gn298oFBM", "start_s": 2113, "claim_id": "only-a-spectator-psalm91",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "You can lessen it but you will not stop it is the load-bearing line. It guarantees the disaster arrives whatever the audience does, while promising them personally that it cannot reach them. Prayer is made worth doing and incapable of being disproved in the same sentence."},
+
+  {"video_id": "i9gn298oFBM", "start_s": 2320, "claim_id": "wings-clipped-january",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Wings clipped has no threshold, and red judges who are cowards standing idly by covers the case where the courts do nothing as well as the case where they rule against him."},
+
+  {"video_id": "i9gn298oFBM", "start_s": 2693, "claim_id": "words-of-knowledge-healing",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The only word of knowledge in the corpus precise enough to fail on its own terms, and the two details given do not fit each other: someone born on 25 June 1954 turns 72 on the day this was spoken, not 71. Checkable arithmetic."},
+
+  {"video_id": "ig_1Spghkgg", "start_s": 2165, "claim_id": "pakistan-disruptions",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "He makes the strongest available case for it himself, that you never hear about Pakistan, which is what would make an unlikely call worth something. The January dating is checkable inside this corpus and should be pinned in the evidence pass."},
+
+  {"video_id": "ig_1Spghkgg", "start_s": 6873, "claim_id": "great-darkness-2026-exposing",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Great distractions is satisfied by any news month and fires in July is close to certain in America. Now past due and effectively unscoreable."},
+
+  {"video_id": "ig_1Spghkgg", "start_s": 7138, "claim_id": "wings-clipped-january",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "They will try covers the case where nothing succeeds, so the claim is met by opposition existing at all."}
+]

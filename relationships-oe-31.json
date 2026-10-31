@@ -1,0 +1,6 @@
+{"relationships":[
+{"from_claim":"january-17-word-fulfilling","to_claim":"four-inch-rain-sign","rel_type":"same_event_as","asserted_by":"system",
+ "note":"Both attach rain to a January word and may be one thing, but he does not connect them and the bamboo appears in only one. Recorded as a suspicion so neither claim is collapsed into the other."},
+{"from_claim":"snake-figure-by-2028","to_claim":"judas-betrayal-trump","rel_type":"same_event_as","asserted_by":"system",
+ "note":"Same shape, an insider turning on the administration, and plausibly the same man. The snake telling leaves him unnamed but supplies a date, so the two are linked rather than merged."}
+]}

@@ -1,0 +1,17 @@
+[
+ {"claim_id": "glory-events-fill-arenas",
+  "label": "Glory events fill the arenas instead of sporting events",
+  "domain": "religion",
+  "description": "Youth seen filling major auditoriums, with the Lord saying that instead of sporting events they are about to see glory events, and a major revival with them. Arena attendance is published, which makes this checkable.",
+  "aliases": ["glory events", "instead of being sporting events", "major auditoriums"]},
+ {"claim_id": "jihad-and-mahdi-instability",
+  "label": "Jihad and the Mahdi, used to create instability in America",
+  "domain": "security",
+  "description": "Given 2 October 2025 with a stated urgency: the devil trying to disrupt the coming revival, the words jihad and Mahdi heard repeatedly, and a plan to create instability in America. He says the open-eyed vision about America and Israel lasted almost an hour.",
+  "aliases": ["I kept hearing the word jihad", "the word mahdi", "create instability in America"]},
+ {"claim_id": "italy-shaken-europe-revival",
+  "label": "Italy shaken, all Europe shaken, and a mighty revival in Europe",
+  "domain": "religion",
+  "description": "Italy and then all Europe shaken, with a great mighty revival in Europe following, given alongside the recollection that he had said a major revival would take place in the Vatican. Shaken is left between physical and figurative.",
+  "aliases": ["Italy will be shaken", "All Europe will be shaken", "revival will take place in Europe"]}
+]

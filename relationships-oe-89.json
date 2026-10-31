@@ -1,0 +1,23 @@
+{"relationships": [
+  {"from_claim": "april-1-signs-in-heavens", "to_claim": "red-tip-missiles-moscow",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Same handling in two domains: a real event of the named kind arrives, is ruled too small or the wrong sort to count, and the claim is held open for the larger version. Neither can expire."},
+
+  {"from_claim": "sun-seasons-shift", "to_claim": "april-1-signs-in-heavens",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "a4uOSv4NVrE", "evidence_start_s": 2666,
+   "note": "He gives the sun being blotted out and the solar disruptions as one sequence with the fireballs, in a continuous passage."},
+
+  {"from_claim": "zelensky-taken-out-ukraine-split", "to_claim": "putin-assured-by-trump",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Two claims about how the Ukraine war ends, one by assassination and partition and one by a private guarantee. He does not join them."},
+
+  {"from_claim": "musk-suppression-europe", "to_claim": "internet-socialist-control",
+   "rel_type": "elaborates", "asserted_by": "brandon",
+   "evidence_video": "a4uOSv4NVrE", "evidence_start_s": 3588,
+   "note": "European nations censoring the platform is given as the concrete form the internet control takes, with a financial consequence attached."},
+
+  {"from_claim": "artificial-womb-hollywood", "to_claim": "human-cloning-labs",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Two lab-baby claims in the corpus, one gestation outside the mother and one cloned humans. This passage adds enhancement for athletic capability and does not say which it belongs to."}
+]}

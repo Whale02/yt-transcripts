@@ -1,0 +1,61 @@
+{
+  "_note": "Adjudications for sweep batch 02 (2026-08-09 to 2026-08-20). Model claude-opus-5, prompt v1.",
+  "reviews": [
+    {"video_id": "-Z-oPJQyOeU", "start_s": 5158, "claim_id": "year-of-rain-2027", "same_event": "yes", "delta_type": "first_mention", "note": "Sets 2027 as the revival year and puts the church judgment before it in sequence."},
+    {"video_id": "-Z-oPJQyOeU", "start_s": 5205, "claim_id": "year-of-rain-2027", "same_event": "yes", "delta_type": "elaboration", "note": "Adds heaven on earth for the church and an open promise that everything believed for manifests."},
+    {"video_id": "-Z-oPJQyOeU", "start_s": 5255, "claim_id": "storm-2028", "same_event": "yes", "delta_type": "first_mention", "note": "Also the clearest rapture statement in the batch; the 2027 window is framed as a question put to the listener."},
+    {"video_id": "-Z-oPJQyOeU", "start_s": 5308, "claim_id": "year-of-rain-2027", "same_event": "yes", "delta_type": "restatement"},
+    {"video_id": "-Z-oPJQyOeU", "start_s": 5911, "claim_id": "roshhashanah-acceleration-2026", "same_event": "yes", "delta_type": "new_detail", "note": "Puts a four-month kick-off window on the Rosh Hashanah start, so it expires 11 Jan 2027."},
+
+    {"video_id": "6XXc1-oeNWw", "start_s": 45, "claim_id": "byron-florida-governor", "same_event": "yes", "delta_type": "first_mention", "note": "Named person, named race, named date, and a claimed direct quotation from God. Among the cleanest scoreable claims in the corpus."},
+    {"video_id": "6XXc1-oeNWw", "start_s": 86, "claim_id": "fair-election-2026", "same_event": "yes", "delta_type": "first_mention", "note": "Byron half is a restatement; the new content is the too-big-to-rig claim about the midterms."},
+    {"video_id": "6XXc1-oeNWw", "start_s": 459, "claim_id": "fertilizer-food-inflation", "same_event": "yes", "delta_type": "elaboration", "note": "He uses a JP Morgan note as corroboration and back-dates his tractors vision to it."},
+    {"video_id": "6XXc1-oeNWw", "start_s": 1137, "claim_id": "vatican-earthquake", "same_event": "yes", "delta_type": "first_mention", "note": "Conditional in form: he asks whether the two-state call triggers it rather than asserting a link."},
+    {"video_id": "6XXc1-oeNWw", "start_s": 1462, "claim_id": "oil-boom-2027", "same_event": "yes", "delta_type": "elaboration", "note": "Adds the Biden-cancelled pipelines and the Venezuela motive to the oil word, dated back to 2025."},
+    {"video_id": "6XXc1-oeNWw", "start_s": 1881, "claim_id": "stimulus-adrenaline", "same_event": "yes", "delta_type": "new_detail", "note": "The horse syringe image, dated 27 April 2026."},
+    {"video_id": "6XXc1-oeNWw", "start_s": 2741, "claim_id": "stimulus-adrenaline", "same_event": "unsure", "delta_type": "elaboration", "note": "He pre-emptively disowns this one as possibly flesh, and the number 25 has no stated unit. Left unsure."},
+    {"video_id": "6XXc1-oeNWw", "start_s": 2875, "claim_id": "stimulus-adrenaline", "same_event": "yes", "delta_type": "new_detail", "note": "Explicitly downgrades it: discussed, not decided. Recorded as multiple_paths so a non-event does not score as a miss."},
+    {"video_id": "6XXc1-oeNWw", "start_s": 2930, "claim_id": "housing-break", "same_event": "yes", "delta_type": "severity_update", "note": "Worst since 1929 is a much harder claim than his earlier shallow break; the two tellings disagree on magnitude."},
+    {"video_id": "6XXc1-oeNWw", "start_s": 3460, "claim_id": "greenland-acquisition", "same_event": "yes", "delta_type": "first_mention", "note": "Also carries the 2027 stimulus timeline; the Greenland strand is the new material."},
+    {"video_id": "6XXc1-oeNWw", "start_s": 3576, "claim_id": "roshhashanah-acceleration-2026", "same_event": "yes", "delta_type": "timing_update", "note": "Extends the window to Rosh Hashanah 2027, a full year rather than four months. Disagrees with -Z-oPJQyOeU@5911."},
+    {"video_id": "6XXc1-oeNWw", "start_s": 3627, "claim_id": "clarity-act-one-vote", "same_event": "yes", "delta_type": "branch", "note": "He puts September and post-election on the table as alternatives, which is a branch rather than the flat September call he made elsewhere."},
+    {"video_id": "6XXc1-oeNWw", "start_s": 3691, "claim_id": "income-tax-revolt", "same_event": "yes", "delta_type": "first_mention", "note": "Dated back to a January 2025 vision and hedged with a not-a-financial-advisor disclaimer."},
+    {"video_id": "6XXc1-oeNWw", "start_s": 4324, "claim_id": "northeast-migration-purple", "same_event": "yes", "delta_type": "first_mention"},
+    {"video_id": "6XXc1-oeNWw", "start_s": 4552, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Video-length housekeeping and a plug for tomorrow's stream."},
+
+    {"video_id": "dBStuxYtyFM", "start_s": 33, "claim_id": "tech-acceleration-2030", "same_event": "yes", "delta_type": "first_mention", "note": "Notable method claim: he says his son verifies the tech exists before he airs the word."},
+    {"video_id": "dBStuxYtyFM", "start_s": 523, "claim_id": "social-credit-ai", "same_event": "unsure", "delta_type": "elaboration", "note": "Ties current tech to his 2014 tribulation vision. Left unsure because the vision content is not restated here, only asserted to match."},
+    {"video_id": "dBStuxYtyFM", "start_s": 1124, "claim_id": "musk-suppression-europe", "same_event": "yes", "delta_type": "first_mention"},
+    {"video_id": "dBStuxYtyFM", "start_s": 1174, "claim_id": "musk-suppression-europe", "same_event": "yes", "delta_type": "new_detail", "note": "Adds Brazil and its October election as a second front."},
+    {"video_id": "dBStuxYtyFM", "start_s": 1241, "claim_id": "internet-socialist-control", "same_event": "yes", "delta_type": "timing_update", "note": "Pulls the socialist control window forward from 2030 to 2027-2028."},
+    {"video_id": "dBStuxYtyFM", "start_s": 1286, "claim_id": "amendment-challenges", "same_event": "yes", "delta_type": "new_detail", "note": "The spider image gives the mechanism: aimed at the second amendment, it binds the first."},
+    {"video_id": "dBStuxYtyFM", "start_s": 2002, "claim_id": "acceleration-seven-years", "same_event": "yes", "delta_type": "elaboration", "note": "Anchors the acceleration claim to a dated prior word of 23 September 2025."},
+    {"video_id": "dBStuxYtyFM", "start_s": 4681, "claim_id": "iran-deal-sabotage", "same_event": "yes", "delta_type": "first_mention"},
+    {"video_id": "dBStuxYtyFM", "start_s": 6064, "claim_id": "storm-2028", "same_event": "yes", "delta_type": "elaboration", "note": "Widens the frame to 2027-2030 while keeping 2028 as the worst year."},
+
+    {"video_id": "65FUsMLWJT4", "start_s": 455, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Doctrinal teaching on the remnant; no dated or observable claim."},
+    {"video_id": "65FUsMLWJT4", "start_s": 658, "claim_id": "internet-socialist-control", "same_event": "yes", "delta_type": "elaboration", "note": "Applies the clampdown to himself: he expects to lose the YouTube platform."},
+    {"video_id": "65FUsMLWJT4", "start_s": 6596, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Devotional teaching, no claim."},
+    {"video_id": "65FUsMLWJT4", "start_s": 7244, "claim_id": "fair-election-2026", "same_event": "unsure", "delta_type": "elaboration", "note": "A prayer over the primaries with no named outcome, so it cannot be scored on its own."},
+    {"video_id": "65FUsMLWJT4", "start_s": 8160, "claim_id": "israel-election-autumn", "same_event": "yes", "delta_type": "elaboration", "note": "Places the Israeli vote in a run of pivotal elections and adds France 2027, Carney and Macron."},
+
+    {"video_id": "QT_oRgu3nfA", "start_s": 284, "claim_id": "roshhashanah-acceleration-2026", "same_event": "yes", "delta_type": "restatement", "note": "Gives the exact civil dates for the feast: evening of 11 September into the 12th and 13th."},
+    {"video_id": "QT_oRgu3nfA", "start_s": 1103, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Green-and-globe emblem fragment with a clip he cannot get to play; too thin to attach to any claim."},
+
+    {"video_id": "__45FoTY6rQ", "start_s": 413, "claim_id": "byron-florida-governor", "same_event": "yes", "delta_type": "first_mention", "note": "The self-set test: he says outright that if Byron loses the primary the word was off. Due 23 Aug 2026, before the Florida result recorded a week later."},
+    {"video_id": "__45FoTY6rQ", "start_s": 1574, "claim_id": "preparedness-instructions", "same_event": "yes", "delta_type": "elaboration", "note": "Anointing with oil, with a conditional escape clause that makes any failure the listener's fault."},
+    {"video_id": "__45FoTY6rQ", "start_s": 1937, "claim_id": "brush-harbor-churches", "same_event": "yes", "delta_type": "first_mention", "note": "Links the brush harbor revival to a second plague closing church buildings."},
+    {"video_id": "__45FoTY6rQ", "start_s": 3100, "claim_id": "gas-lines-mile-long", "same_event": "yes", "delta_type": "first_mention", "note": "He treats Russian fuel queues after the 10 August strikes as the fulfilment of the gas-lines word."},
+    {"video_id": "__45FoTY6rQ", "start_s": 8012, "claim_id": "judgment-house-first-2027", "same_event": "yes", "delta_type": "first_mention"},
+    {"video_id": "__45FoTY6rQ", "start_s": 8443, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Isaiah 64 recited in prayer."},
+    {"video_id": "__45FoTY6rQ", "start_s": 8621, "claim_id": "year-of-rain-2027", "same_event": "yes", "delta_type": "new_detail", "note": "Adds that God will not share the glory, which reads as a check against a celebrity-led revival."},
+    {"video_id": "__45FoTY6rQ", "start_s": 8822, "claim_id": "acceleration-seven-years", "same_event": "unsure", "delta_type": "elaboration", "note": "A sliver of time, with no referent given. Kept unsure."},
+
+    {"video_id": "0ptC-1kOXpQ", "start_s": 60, "claim_id": "clarity-act-one-vote", "same_event": "yes", "delta_type": "restatement", "note": "Records that the September-versus-post-election question is the one his audience asks most."},
+    {"video_id": "0ptC-1kOXpQ", "start_s": 537, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Self-description plus an unusually direct admission that he has missed timing before."},
+    {"video_id": "0ptC-1kOXpQ", "start_s": 581, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "The standing epistemic disclaimer. Worth keeping visible because it qualifies every dated claim in the corpus."},
+    {"video_id": "0ptC-1kOXpQ", "start_s": 845, "claim_id": "november-december-shock", "same_event": "yes", "delta_type": "first_mention", "note": "Unusual method note: he dates visions by the angle of sunlight on buildings, which is how November-December was derived."},
+    {"video_id": "0ptC-1kOXpQ", "start_s": 2395, "claim_id": "second-virus-lockdown", "same_event": "unsure", "delta_type": "elaboration", "note": "The package offered again reads as a second vaccination push, but he does not say so directly."},
+    {"video_id": "0ptC-1kOXpQ", "start_s": 3657, "claim_id": null, "same_event": "no", "delta_type": "new_event", "note": "Ukraine territorial control word dated 3 March 2026; no existing canonical claim covers it and one telling is not enough to seed one."}
+  ]
+}

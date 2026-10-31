@@ -1,0 +1,90 @@
+{
+  "_note": "Adjudications for oldest-end batch 06, November 2024. Model claude-opus-5, prompt v1.",
+  "reviews": [
+    {"video_id": "MQymfED5c7w", "start_s": 40, "claim_id": "four-oak-trees", "same_event": "yes", "delta_type": "first_mention",
+     "note": "Kept because of the caveat attached to it: he gives a reading and withdraws it in the same breath, and says interpretation can take years."},
+    {"video_id": "MQymfED5c7w", "start_s": 203, "claim_id": "crash-1930s", "same_event": "unsure", "delta_type": "delay_claim",
+     "note": "The 2024 crash warnings are stated to have been pushed back, with averting left open. Recorded as a delay against crash-1930s rather than merged, since the original date is being retired here."},
+
+    {"video_id": "hDXJXTzfwUs", "start_s": 0, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "hDXJXTzfwUs", "start_s": 40, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "hDXJXTzfwUs", "start_s": 1034, "claim_id": null, "same_event": "no", "delta_type": "no_claim",
+     "note": "Prayer that angels steer police to threats they never learn about. Nothing here could ever be checked, by design."},
+
+    {"video_id": "lhDhrbj_kBY", "start_s": 33, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "lhDhrbj_kBY", "start_s": 161, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "lhDhrbj_kBY", "start_s": 293, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "lhDhrbj_kBY", "start_s": 368, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "lhDhrbj_kBY", "start_s": 398, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "lhDhrbj_kBY", "start_s": 504, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "lhDhrbj_kBY", "start_s": 678, "claim_id": "isaacs-coming", "same_event": "yes", "delta_type": "first_mention"},
+
+    {"video_id": "pqMVu-2rj9g", "start_s": 1598, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "pqMVu-2rj9g", "start_s": 1713, "claim_id": "no-doom-for-the-church", "same_event": "yes",
+     "delta_type": "first_mention",
+     "note": "Structurally important: it splits the audience from the world, so no worldly outcome can count against the promise made to the audience."},
+    {"video_id": "pqMVu-2rj9g", "start_s": 2407, "claim_id": "public-events-warning", "same_event": "yes",
+     "delta_type": "new_detail",
+     "note": "Narrows the earlier dream to one named event on one date, 28 November 2024. Past due and scoreable."},
+
+    {"video_id": "B86nuksyMLU", "start_s": 1684, "claim_id": null, "same_event": "no", "delta_type": "no_claim",
+     "note": "Sowing for a blessed 2025. Filed as no_claim because the outcome is private, but it is the mechanism the prosperity claims run on."},
+    {"video_id": "B86nuksyMLU", "start_s": 1770, "claim_id": "good-year-2025", "same_event": "yes", "delta_type": "restatement"},
+    {"video_id": "B86nuksyMLU", "start_s": 2099, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "B86nuksyMLU", "start_s": 2222, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "B86nuksyMLU", "start_s": 2300, "claim_id": "words-of-knowledge-healing", "same_event": "yes",
+     "delta_type": "first_mention",
+     "note": "Base rate matters here: swollen ankles and gout are common enough in any large audience that a hit carries almost no information."},
+    {"video_id": "B86nuksyMLU", "start_s": 2542, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+
+    {"video_id": "WQCtH3CHZ1A", "start_s": 70, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "WQCtH3CHZ1A", "start_s": 289, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "WQCtH3CHZ1A", "start_s": 1646, "claim_id": null, "same_event": "no", "delta_type": "no_claim",
+     "note": "Teaching to refuse a terminal diagnosis. No claim, but it is the same shape as the other conditionals: a bad outcome becomes a failure of faith."},
+    {"video_id": "WQCtH3CHZ1A", "start_s": 3135, "claim_id": "words-of-knowledge-healing", "same_event": "yes",
+     "delta_type": "elaboration"},
+
+    {"video_id": "GCEbkWK3pho", "start_s": 2455, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "GCEbkWK3pho", "start_s": 2975, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+
+    {"video_id": "8BLqLpWThhw", "start_s": 315, "claim_id": "million-prayer-army", "same_event": "yes",
+     "delta_type": "first_mention",
+     "note": "One of the few claims about his own ministry with a hard number and a date, so it can actually be scored against public channel figures."},
+    {"video_id": "8BLqLpWThhw", "start_s": 1482, "claim_id": "no-virus-through-2028", "same_event": "yes",
+     "delta_type": "first_mention",
+     "note": "Sits directly against plague-350m and drought-plague-summer-2026, which put a deadly plague in exactly this window. Not merged: he declares both, and both should stay visible."},
+
+    {"video_id": "tFFlHZ2MSR4", "start_s": 1013, "claim_id": "reprieve-four-years", "same_event": "yes",
+     "delta_type": "elaboration"},
+    {"video_id": "tFFlHZ2MSR4", "start_s": 2656, "claim_id": "reprieve-four-years", "same_event": "yes",
+     "delta_type": "new_detail",
+     "note": "Names the years explicitly: 2020, then 2025 through 2028."},
+
+    {"video_id": "CNHi4c83DB4", "start_s": 221, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+
+    {"video_id": "0nRUpPKJMN8", "start_s": 1730, "claim_id": "red-wave-2024", "same_event": "yes", "delta_type": "first_mention",
+     "note": "Given the day after the election, so the claim to have called it in November 2023 needs checking against the actual November 2023 videos before it counts for anything."},
+    {"video_id": "0nRUpPKJMN8", "start_s": 1980, "claim_id": "house-of-cards-crash", "same_event": "yes",
+     "delta_type": "first_mention",
+     "note": "He keeps the event and drops the date, then prays the date further away. Recorded with no due_at because none is given."},
+
+    {"video_id": "h_dZ9EnFJho", "start_s": 3499, "claim_id": "reprieve-four-years", "same_event": "yes",
+     "delta_type": "elaboration",
+     "note": "Extends the window's reach to viewers outside the US by anchoring it to the shmita cycle rather than to the presidency."},
+
+    {"video_id": "_NvKMga-o2I", "start_s": 186, "claim_id": "reprieve-four-years", "same_event": "unsure",
+     "delta_type": "contradiction",
+     "note": "Given 4 November 2024, three weeks before the four-year tellings begin, and it describes the same October prayer producing a small little window that he guesses may run only to the first of the year. Small window and four years cannot both be the measure. Left as unsure and marked contradiction rather than folded into reprieve-four-years."},
+    {"video_id": "_NvKMga-o2I", "start_s": 254, "claim_id": "yankees-world-series", "same_event": "yes",
+     "delta_type": "first_mention",
+     "note": "The most checkable prediction found so far: a specific World Series matchup claimed from May 2024. The 2024 Series was Yankees versus Dodgers. Whether he said it in May needs verifying against the May videos before it scores."},
+    {"video_id": "_NvKMga-o2I", "start_s": 330, "claim_id": "yankees-world-series", "same_event": "yes",
+     "delta_type": "elaboration",
+     "note": "He narrows it himself: he saw them going, not winning. Worth preserving, because it is a rare instance of him limiting his own claim rather than widening it."},
+    {"video_id": "_NvKMga-o2I", "start_s": 755, "claim_id": "superbowl-winner-private", "same_event": "yes",
+     "delta_type": "first_mention",
+     "note": "The clearest case in the corpus of a claim engineered to be unscoreable: a binary prediction with a public answer, withheld from the public."},
+    {"video_id": "_NvKMga-o2I", "start_s": 788, "claim_id": null, "same_event": "no", "delta_type": "no_claim",
+     "note": "Him quoting the objection back at himself before answering it."}
+  ]
+}

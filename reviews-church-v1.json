@@ -1,0 +1,11 @@
+{"reviews": [
+ {"video_id":"WCSr1gn7mlM","start_s":1340,"claim_id":"megachurch-closures","same_event":"yes","delta_type":"first_mention",
+  "note":"Sits directly beside his fill-your-pockets-with-gold instruction in the same passage, which is worth noting when weighing the financial advice."},
+ {"video_id":"gGCKex1IOtE","start_s":2383,"claim_id":"megachurch-closures","same_event":"unsure","confidence":0.4,"delta_type":"branch",
+  "note":"Olive press and revival language covers the same pressure on the church but asserts nothing checkable, so it stays a branch."},
+ {"video_id":"F-CNFR1LQQI","start_s":1022,"claim_id":"canada-persecution","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"UAPYhpm_sX0","start_s":2686,"claim_id":"bc-secession","same_event":"yes","delta_type":"first_mention",
+  "note":"Links to the Pacific Northwest quake thread: same earthquake, different downstream consequence."},
+ {"video_id":"sOD1l2-fKgA","start_s":4072,"claim_id":"iran-revival","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"F-CNFR1LQQI","start_s":984,"claim_id":"alliance-realignment","same_event":"yes","delta_type":"first_mention"}
+]}

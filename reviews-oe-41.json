@@ -1,0 +1,113 @@
+[
+  {"video_id": "odkjS3oGxxI", "start_s": 8487, "claim_id": "point-of-no-return-september",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Extends the September 23rd anchor out to 2028. Change with no measure, so nothing is added that can be scored."},
+
+  {"video_id": "odkjS3oGxxI", "start_s": 9438, "claim_id": "do-you-know-him-personally",
+   "same_event": "yes", "delta_type": "restatement"},
+
+  {"video_id": "odkjS3oGxxI", "start_s": 9933, "claim_id": "year-of-events-2026",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Two halves of very different quality. The year of the events has no threshold; the digital ID rollout in 2026 and 2027 is checkable."},
+
+  {"video_id": "EuT30KAAFvY", "start_s": 100, "claim_id": "drawing-the-bride-closer",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "EuT30KAAFvY", "start_s": 3043, "claim_id": "word-for-a-woman-marrying",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Same structure as the infertility and thanksgiving-babies words: any large audience supplies a match."},
+
+  {"video_id": "EuT30KAAFvY", "start_s": 6414, "claim_id": "midterms-not-guaranteed",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Worth keeping next to red-wave-2026. This hedges the wave by making it conditional on effort, so a loss is the church's failure rather than the word's."},
+
+  {"video_id": "EuT30KAAFvY", "start_s": 6497, "claim_id": "three-judges-roadblocks",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "He ties the three judges to February the 3rd by way of the number three, and says so himself. The link is numerological and the mention records it as such."},
+
+  {"video_id": "EuT30KAAFvY", "start_s": 6701, "claim_id": "come-boldly-and-claim",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "EuT30KAAFvY", "start_s": 7238, "claim_id": "minnesota-corruption-uncovered",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "He pre-empts the miss himself: she may not even be in Minnesota, and he anticipates being told he is missing it badly."},
+
+  {"video_id": "EuT30KAAFvY", "start_s": 7647, "claim_id": "texas-districts-victory",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A ruling that had already happened, credited to prayer after the fact. Nothing forecast, so nothing scored."},
+
+  {"video_id": "EuT30KAAFvY", "start_s": 7732, "claim_id": "god-fearing-nation-with-israel",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "EuT30KAAFvY", "start_s": 8416, "claim_id": "judges-excel-or-derail",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Excel or derail exhausts the possibilities between them, so no judicial outcome in 2026 can count against it. Recorded as unfalsifiable on structure."},
+
+  {"video_id": "EuT30KAAFvY", "start_s": 8539, "claim_id": "many-hands-light-work",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Belongs with lose-midterm-without-prayer and vision-is-a-prayer-target: attendance is folded into the mechanism, so a miss can be attributed to the audience."},
+
+  {"video_id": "EuT30KAAFvY", "start_s": 8728, "claim_id": "oval-office-prayer-glory",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "EuT30KAAFvY", "start_s": 8804, "claim_id": "february-3-budget",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Fourth distinct thing on February 3rd: the Olympics opening, Pope Leo, the budget, and now three judges and major decisions concerning Europe. The date is accumulating content faster than any other in the corpus."},
+
+  {"video_id": "EuT30KAAFvY", "start_s": 8975, "claim_id": "minnesota-corruption-uncovered",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "Housekeeping about notes and continued prayer. Nothing claimed."},
+
+  {"video_id": "pge3uihwmF8", "start_s": 229, "claim_id": "prophet-kim-word-2014",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Third instance of borrowing another prophet's older word as support, after David Wilkerson and Rick Renner. Whether the 2014 word says what he says it says is checkable outside this corpus."},
+
+  {"video_id": "pge3uihwmF8", "start_s": 1097, "claim_id": "great-darkness-2026-exposing",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "pge3uihwmF8", "start_s": 1258, "claim_id": "first-corinthians-5-5-2026",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The strongest version of the verse claim yet: made manifest in 2026 like you have never seen it before, with judgment beginning in the house of the Lord. A system edge links it to judgment-house-first-2027, which puts the same idea a year later."},
+
+  {"video_id": "pge3uihwmF8", "start_s": 1559, "claim_id": "cuba-completely-dark",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Kept separate from cuba-cold-war and cuba-retaliation-against-america because darkness is never defined here as blackout, unrest or spiritual condition. A system edge links them."},
+
+  {"video_id": "pge3uihwmF8", "start_s": 1598, "claim_id": "pope-influencing-ukraine-july6",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The best-specified fulfilment claim in the batch. He gives an origin date, 6 July 2025, and says it happened today, 11 December. Both halves are checkable and the first is inside this corpus. Goes to the evidence pass."},
+
+  {"video_id": "pge3uihwmF8", "start_s": 1794, "claim_id": "zelensky-taken-out-ukraine-split",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Taken out is left ambiguous between removed from office and killed, and the mention says so rather than choosing. Distinct from zelensky-strongarmed-macron, which is about pressure rather than removal."},
+
+  {"video_id": "pge3uihwmF8", "start_s": 2071, "claim_id": "powell-basis-points-cut",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A rate decision announced that day, read out. Nothing forecast."},
+
+  {"video_id": "pge3uihwmF8", "start_s": 2109, "claim_id": "brown-haired-woman-november",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Now attached to someone taking his job, immediately after the Powell remark, though whose job is not stated. He declines to name her and says he does not know who she is, which is the honest version."},
+
+  {"video_id": "pge3uihwmF8", "start_s": 2719, "claim_id": "baby-christians-grace",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Sits directly against mega-minister-conversation from six days later, where a man's personal life is said to be inseparable from his message. The standard is applied more loosely here."},
+
+  {"video_id": "pge3uihwmF8", "start_s": 2796, "claim_id": "oval-office-prayer-glory",
+   "same_event": "yes", "delta_type": "elaboration"},
+
+  {"video_id": "pge3uihwmF8", "start_s": 3636, "claim_id": "channel-three-years-2026",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Checkable against the channel's start date, and it fixes when the acceleration-of-all-things word was given."},
+
+  {"video_id": "pge3uihwmF8", "start_s": 3962, "claim_id": "treasure-a-heart-thing",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "pge3uihwmF8", "start_s": 5324, "claim_id": "spouse-in-2026-esther",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Unfalsifiable in practice: some listeners marry in 2026 and the rest are not counted."},
+
+  {"video_id": "gT0WiYgbPOc", "start_s": 622, "claim_id": "devil-instructing-businessmen",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The scene itself is unobservable. Only the policy half, digital ID and a digital dollar advancing in 2026, can be checked."}
+]

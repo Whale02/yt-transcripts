@@ -1,0 +1,14 @@
+{
+ "reviews": [
+  {
+   "mention_id": "bb72194e7229689a",
+   "video_id": "lCLVyqIexNQ",
+   "start_s": 1036,
+   "claim_id": "iron-curtain-short-window-north-korea",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "supersedes the first_mention on this row: the 25 June telling comes first, and this one adds that the curtain will not stay down long"
+  }
+ ]
+}

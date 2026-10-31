@@ -1,0 +1,22 @@
+[
+ {"claim_id": "sharia-law-uptick-america",
+  "label": "An uptick of Sharia law coming to America",
+  "domain": "politics",
+  "description": "That an uptick of Sharia law is coming to America, offered against public Muslim prayer gatherings and a development in the Dallas area, with great persecution of Christians following in major cities. No American jurisdiction recognises Islamic law, and the Dallas development in question was a residential community rather than a temple.",
+  "aliases": ["uptick of Sharia law", "Sharia law", "great persecution"]},
+ {"claim_id": "china-winter-virus-hospitals",
+  "label": "A new virus over China this winter, hospitals filled",
+  "domain": "health",
+  "description": "Given 28 September 2025: a new virus seen again but over China, with something concerning that winter and season, and hospitals filled. A named country and a named season, which makes it scoreable.",
+  "aliases": ["new virus again, but over China", "this winter", "hospitals filled"]},
+ {"claim_id": "galveston-cruise-glory",
+  "label": "The glory going onto a Royal Caribbean ship out of Galveston",
+  "domain": "religion",
+  "description": "Seen 1 October 2025: the glory of God going onto a boat at Galveston, specifically a Royal Caribbean ship leaving port, with the timing unknown. A named port and a named operator, which is unusually specific for the revival material.",
+  "aliases": ["boat in Galveston", "Royal Caribbean boat leaving", "glory of God going on"]},
+ {"claim_id": "arab-ground-war-against-israel",
+  "label": "A foot troop war against Israel, with Turkey beating drums",
+  "domain": "war",
+  "description": "Turkey seen beating massive war drums sounding through the land, biological weapons coming up out of Israel, a wounded brother, and Turkey with other Arab nations saying you should not have done that, becoming an actual foot troop war with soldiers marching. Ground rather than air is the distinguishing detail.",
+  "aliases": ["beating these massive drums", "foot troop war", "wounded brother", "soldiers marching"]}
+]

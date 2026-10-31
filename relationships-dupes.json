@@ -1,0 +1,14 @@
+{"relationships":[
+{"from_claim":"hoover-dam-2025","to_claim":"dam-wall-ireland-2025","rel_type":"same_event_as","asserted_by":"system",
+ "note":"Duplicate slugs for one image, seeded independently by two extractors working the same corpus. Both kept so neither audit trail is lost."},
+{"from_claim":"multi-city-distraction-unrest","to_claim":"multi-city-simultaneous","rel_type":"same_event_as","asserted_by":"system",
+ "note":"Duplicate slugs for the same January 6 style multi-city claim. multi-city-distraction-unrest is left orphaned rather than shuffling a mention off its twin."},
+{"from_claim":"words-are-seeds","to_claim":"words-as-living-seeds","rel_type":"same_event_as","asserted_by":"system",
+ "note":"Duplicate slugs for the throne room image of spoken words as seeds."},
+{"from_claim":"two-state-solution-2024","to_claim":"two-state-third-temple","rel_type":"same_event_as","asserted_by":"system",
+ "note":"Duplicate slugs for the two-state and third temple thread."},
+{"from_claim":"ireland-land-event","to_claim":"dam-wall-ireland-2025","rel_type":"same_event_as","asserted_by":"system",
+ "note":"Two extractions of 3lPkmPBUCBQ@928 filed under different slugs."},
+{"from_claim":"january6-repeat-distraction","to_claim":"distraction-events-jan6","rel_type":"same_event_as","asserted_by":"system",
+ "note":"Duplicate slugs for the recurring January 6 distraction claim."}
+]}

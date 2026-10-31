@@ -1,0 +1,44 @@
+{
+ "reviews": [
+  {
+   "mention_id": "ac1376294a1d2705",
+   "claim_id": "natural-shaking-mirrors-spiritual",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.85,
+   "note": "re-pointed to the other reader's finer claim id for this passage; my broader assignment had superseded it and left theirs orphaned"
+  },
+  {
+   "mention_id": "c2110aa000f2b243",
+   "claim_id": "iron-curtain-short-window-north-korea",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.85,
+   "note": "re-pointed to the other reader's finer claim id for this passage; my broader assignment had superseded it and left theirs orphaned"
+  },
+  {
+   "mention_id": "75e7f8a709a90a8e",
+   "claim_id": "catholic-church-revival-youth",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.85,
+   "note": "re-pointed to the other reader's finer claim id for this passage; my broader assignment had superseded it and left theirs orphaned"
+  },
+  {
+   "mention_id": "91308084994deb4c",
+   "claim_id": "shadow-meeting-north-korea-cuba",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.85,
+   "note": "re-pointed to the other reader's finer claim id for this passage; my broader assignment had superseded it and left theirs orphaned"
+  },
+  {
+   "mention_id": "32211080d84838b9",
+   "claim_id": "ring-of-fire-mega-quakes",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.85,
+   "note": "re-pointed to the other reader's finer claim id for this passage; my broader assignment had superseded it and left theirs orphaned"
+  }
+ ]
+}

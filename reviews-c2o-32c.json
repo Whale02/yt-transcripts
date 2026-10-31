@@ -1,0 +1,3 @@
+{"reviews": [
+ {"mention_id": "39caf29d19fbc85c", "video_id": "oBpaSk7EJGE", "start_s": 468, "claim_id": "great-oil-in-the-gulf", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.85, "note": "explicit mention_id because two mentions sit on this segment; the other is the January signing"}
+]}

@@ -1,0 +1,83 @@
+[
+  {"video_id": "btBCeTHs7Qg", "start_s": 617, "claim_id": "priorities-24-hour-day",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "btBCeTHs7Qg", "start_s": 5303, "claim_id": "attract-to-deflect",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Belongs with no-prophetic-confusion and burden-of-seeing as his account of what the platform is for."},
+
+  {"video_id": "btBCeTHs7Qg", "start_s": 5786, "claim_id": "oklahoma-divided",
+   "same_event": "unsure", "delta_type": "no_claim",
+   "note": "Recounted history about the land run, broadly accurate, and not a claim. Attached to the Oklahoma thread because it is the only Oklahoma material nearby; nothing is scored from it."},
+
+  {"video_id": "vxOD_LJfF1Q", "start_s": 103, "claim_id": "four-entities-paid",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Dated to 19 October, so the earlier telling should exist in this corpus and can be checked against this recall when the sweep reaches October."},
+
+  {"video_id": "vxOD_LJfF1Q", "start_s": 531, "claim_id": "pope-leo-olympics-window",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He builds the three month window on the Olympics starting February the 3rd. Milan Cortina opens on the 6th, so the anchor date is wrong, and the same wrong date drives olympics-opening-ceremony-watch from batch 34."},
+
+  {"video_id": "vxOD_LJfF1Q", "start_s": 780, "claim_id": "almost-over-eyes-open",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "vxOD_LJfF1Q", "start_s": 902, "claim_id": "greatest-harvest-of-souls",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The honest version: it may be three years or tomorrow and he does not know. Worth setting against the tellings where the same revival gets a year attached."},
+
+  {"video_id": "vxOD_LJfF1Q", "start_s": 3156, "claim_id": "greatest-harvest-of-souls",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "Adds the labour pains increasing and the church without spot or wrinkle. Linked to tribulation-birthing-pains, already an edge from batch 34."},
+
+  {"video_id": "vxOD_LJfF1Q", "start_s": 3318, "claim_id": "lose-midterm-without-prayer",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Oklahoma being divided appears in the same passage but gets its own claim, since the two are unrelated in content and only adjacent in the telling."},
+
+  {"video_id": "QuWUXW1Iq8E", "start_s": 659, "claim_id": "things-you-never-thought-youd-see",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He raises the objection himself, that this is just tribulation language, and answers it by asserting that something has changed rather than by saying what."},
+
+  {"video_id": "QuWUXW1Iq8E", "start_s": 792, "claim_id": "stalemate-government-2026",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "Told the same week as red-wave-2026 and pointing the other way. Both stay visible; a contradiction edge already links them from an earlier batch, and this mention strengthens the stalemate side."},
+
+  {"video_id": "QuWUXW1Iq8E", "start_s": 838, "claim_id": "california-secession-red-wave",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Trying to come over is doing the work here: it allows a Republican shift that never arrives to still count as seen."},
+
+  {"video_id": "SDUTBdo_u6k", "start_s": 0, "claim_id": "weekly-services-january",
+   "same_event": "unsure", "delta_type": "no_claim",
+   "note": "A greeting. Attached to the service-cadence thread only so it has a home; nothing is claimed and nothing is scored."},
+
+  {"video_id": "SDUTBdo_u6k", "start_s": 41, "claim_id": "spiritual-stretch-marks",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "Four days before the 7 November telling, and he notes he has said it many times."},
+
+  {"video_id": "SDUTBdo_u6k", "start_s": 924, "claim_id": "provoking-principalities",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Useful because it is his audience pushing back, in their words, and his answer to them."},
+
+  {"video_id": "SDUTBdo_u6k", "start_s": 1397, "claim_id": "september-month-to-remember",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The one to check hardest in the whole batch. He claims a window, from the 23rd of September on, and offers the Charlie Kirk killing as the fulfilment. That killing was on 10 September, thirteen days before the window he says he was given. The mismatch is recorded in falsify_miss and goes to the evidence pass rather than being resolved here."},
+
+  {"video_id": "SDUTBdo_u6k", "start_s": 1539, "claim_id": "more-than-a-conqueror-overflow",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "calling-things-that-be-not applied to money. Linked by a system edge."},
+
+  {"video_id": "SDUTBdo_u6k", "start_s": 1813, "claim_id": "believers-have-authority",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The shrug is the interesting part: if the Lord shows more about the doors that is good, and if not something else will come. The sight is not guaranteed to arrive on schedule."},
+
+  {"video_id": "SDUTBdo_u6k", "start_s": 3455, "claim_id": "olympics-opening-ceremony-watch",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He says three months, counts the months out loud, and corrects himself to four. Recorded with the correction intact."},
+
+  {"video_id": "SDUTBdo_u6k", "start_s": 5391, "claim_id": "rapture-catching-away",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "Soon, with no date. The hymn that follows is described rather than reproduced."},
+
+  {"video_id": "SDUTBdo_u6k", "start_s": 6360, "claim_id": "times-square-new-years-eve",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He raises December 31st and withdraws it in the same breath, on the in-part clause, then prays over Times Square. That is the pattern to watch: a date is put in the audience's mind and the responsibility for it is set down at once."}
+]

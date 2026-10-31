@@ -1,0 +1,22 @@
+[
+ {"claim_id":"trump-in-turkey-danger","observed_on":"2026-07-07",
+  "source_url":"https://www.pbs.org/newshour/politics/watch-trump-arrives-at-nato-summit-in-turkey-with-ceremonial-welcome-from-erdogan",
+  "summary":"Trump arrived in Turkey on 7 July 2026 for the 36th NATO summit and was met at the airport by Erdogan with a ceremonial welcome, the two walking arm in arm.",
+  "state":"EXPIRED_WITHOUT_MATCH",
+  "rationale":"The claim, given 25 June and repeated 6 July, was that the president would be exposed on Turkish ground and needed a hedge of protection, set against footage of a mass funeral where he was attacked in effigy. The visit went ahead inside the stated window and was the opposite of hostile: an airport reception, an arm in arm walk and a red white and blue air show. No incident against him is recorded."},
+ {"claim_id":"trump-in-turkey-danger","observed_on":"2026-07-08",
+  "source_url":"https://www.al-monitor.com/originals/2026/07/trumps-visit-win-turkeys-erdogan-nato-tensions-aside",
+  "summary":"Coverage of the Ankara summit records the visit as a win for Erdogan: Trump promised to lift the sanctions he had imposed over Turkey's S-400 purchase and signalled willingness to sell F-35s, and Turkey named a new airport building after him.",
+  "state":"EXPIRED_WITHOUT_MATCH",
+  "rationale":"Second source, and it cuts the other way on his separate ungodly-alliance-turkey-syria claim: an agreement was in fact made on Turkish soil. But on this claim, which is specifically about danger to the president in Turkey, the window closed with nothing. Recorded here rather than transferred, because the two claims must not be merged."},
+ {"claim_id":"stay-home-until-after-july-4","observed_on":"2026-07-05",
+  "source_url":"https://www.npr.org/2026/07/04/nx-s1-5882179/washingtons-july-4-heat-cancellations",
+  "summary":"The 4 July 2026 semiquincentennial on the National Mall was interrupted by a thunderstorm evacuation and resumed, with Trump speaking just before midnight and the fireworks following.",
+  "state":"EXPIRED_WITHOUT_MATCH",
+  "rationale":"The instruction given 25 June was to stay home and not travel until after the anniversary of America, with Turkey named as the destination. The anniversary passed with a weather delay and no attack, and the president himself flew to Turkey three days later without incident. Nothing happened to the traveller or at the destination inside the window."},
+ {"claim_id":"stay-home-until-after-july-4","observed_on":"2026-07-05",
+  "source_url":"https://wjla.com/news/local/4-arrests-made-during-fourth-of-july-celebrations-in-dc-police-say",
+  "summary":"Police reported four arrests during Washington's Independence Day events: two people who refused to evacuate the Jefferson Memorial during the storm, one for an open container on the Mall and one at Anacostia Park.",
+  "state":"EXPIRED_WITHOUT_MATCH",
+  "rationale":"Second source establishing that the anniversary itself was ordinary. Included because a null result needs to be evidenced rather than assumed. The nearest real event in the surrounding period is the FBI's disruption on 16 June 2026 of a plot to fly explosive drones over the UFC Freedom 250 event at the White House and shoot into the fleeing crowd, with five men arrested and eight ultimately indicted. That is a genuine drone attack plot against a crowd, but it was disrupted nine days before this word was given, so it cannot be its fulfilment, and the men charged were Americans coordinating on a public TikTok group before moving to Signal, not the hidden foreign cells without internet chatter that he describes elsewhere."}
+]

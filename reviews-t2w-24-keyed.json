@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "00fc1ce9d25c029b",
+"claim_id": "oil-200-barrel",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "he concedes it has not manifested and calls partial movement fruit, which is the move worth recording"
+},
+{
+"mention_id": "72cc72e9fe671934",
+"claim_id": "martial-law-cities",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "he distinguishes it from the global black horse event and places it in America"
+},
+{
+"mention_id": "fd11fe49b2a89a0f",
+"claim_id": "crash-1930s",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the somber faces in Depression photographs given as the feel of it"
+},
+{
+"mention_id": "9cf7fa8f1f31deb5",
+"claim_id": "not-an-ichabod",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the earliest telling, May 2024"
+},
+{
+"mention_id": "9fef6b19620f12fa",
+"claim_id": "not-an-ichabod",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the desert season, and he says he does not know what the word means"
+},
+{
+"mention_id": "711763a2082615b7",
+"claim_id": "goshen-light-egypt-darkness",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the earliest telling; the awake condition means anyone affected can be said not to have been awake"
+},
+{
+"mention_id": "f20e314ef70732f2",
+"claim_id": "goshen-light-egypt-darkness",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "it need not touch your house if you are awake"
+},
+{
+"mention_id": "c2d4cc465cd59e90",
+"claim_id": "shake-america-beyond-comprehension",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the pure bride reasoning, set against those expecting to leave first"
+},
+{
+"mention_id": "d985d5e41c188765",
+"claim_id": "not-an-ichabod",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "America described as spoiled, and the abandonment feeling repeated"
+},
+{
+"mention_id": "6e3d89d9ebb40bdf",
+"claim_id": "second-wave-double",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "a great wave he calls a second wave with numbers already given; which wave is not stated here"
+},
+{
+"mention_id": "52b3092ebc657a0f",
+"claim_id": "crash-1930s",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "sackcloth and ashes, with investment guidance offered to listeners"
+},
+{
+"mention_id": "5267f13cdf550f08",
+"claim_id": "grid-cyberattack",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "this 27 May 2024 telling is the original; the 13 February 2025 video is a re-upload of the same recording, so the grid word is nine months older than the database had it"
+},
+{
+"mention_id": "cf19c36db7748b06",
+"claim_id": "grid-cyberattack",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "the three week figure and New York"
+},
+{
+"mention_id": "7cef1e531b5b5520",
+"claim_id": "grid-cyberattack",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "no time frame given, and the Italy warning alongside"
+},
+{
+"mention_id": "3657244abcadcdfd",
+"claim_id": "grid-cyberattack",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "New York or Chicago, hedged"
+},
+{
+"mention_id": "4f386a05feb862bb",
+"claim_id": "grid-cyberattack",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "prayed against"
+},
+{
+"mention_id": "b2774b6414bfb024",
+"claim_id": "asia-revival",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "May 2024, earlier than the July telling; the gospel costing them something is the distinctive line"
+},
+{
+"mention_id": "c08be71fa560782a",
+"claim_id": "middle-east-revival-spots",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "Pakistan and Saudi Arabia named"
+},
+{
+"mention_id": "c3d4c5477890bdaf",
+"claim_id": "st-louis-street-revival",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "May 2024, thirteen months before the telling I had logged as the first; the couple praying are described in more detail here"
+},
+{
+"mention_id": "d080b57a827a0707",
+"claim_id": "revival-hotspots-oklahoma-texas",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "Branson, Kentucky and the Carolinas, mostly outside church buildings"
+},
+{
+"mention_id": "a8715a0cb7d2196e",
+"claim_id": "brush-arbor-revivals",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "streets, parks and bus stops rather than churches, like Acts"
+},
+{
+"mention_id": "afb8d22da48821c2",
+"claim_id": "government-issued-tents-migration",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the identical tents are the detail that makes this checkable"
+},
+{
+"mention_id": "2cac2f89dd91bb8e",
+"claim_id": "things-only-get-worse",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "filed as its own claim because it contradicts his good-year and turnaround words rather than qualifying them"
+},
+{
+"mention_id": "5c129c4975f7789f",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "a framing note about re-uploading his first word"
+},
+{
+"mention_id": "b1c707cbece634f6",
+"claim_id": "wwiii-draft-europe",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the single file line and the draft, May 2024"
+},
+{
+"mention_id": "17b2bb676a2c5e4b",
+"claim_id": "apollyon-war-2025",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Apollyon entering Putin, and Poland struck for receiving missiles"
+},
+{
+"mention_id": "6f4f5f5709a5af23",
+"claim_id": "unconventional-weapons",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the wicked weapon that brings Europe in, with Turkey's drums following"
+},
+{
+"mention_id": "dcbe5f6f3151d9b2",
+"claim_id": "ezekiel-38-turkey",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the earliest telling, with the coalition named and Gog and Magog"
+},
+{
+"mention_id": "20729279e72c7069",
+"claim_id": "great-betrayal-of-israel",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "he dates the original vision over two years earlier, which would put it in 2022"
+},
+{
+"mention_id": "956f7c6ba0978e44",
+"claim_id": "red-dragon-crosses-america",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "he states he does not know whether it is a missile or a cyber attack"
+},
+{
+"mention_id": "36202fdc44319801",
+"claim_id": "dday-pearl-harbor",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the earliest telling, with F-16s and the island framing"
+},
+{
+"mention_id": "8df5d61d8bb99718",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "news commentary offered as confirmation, with the figure he heard uncertain by his own account"
+},
+{
+"mention_id": "f4381d7b946d708c",
+"claim_id": "digital-dollar-transition",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "purchasing power given as the mechanism, in words he says are new to him"
+},
+{
+"mention_id": "1b24279e5e2eeaee",
+"claim_id": "prayer-can-stop-it",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the exception to his own rule: the Ezekiel war cannot be prayed away because it is biblical"
+},
+{
+"mention_id": "3d476ef2ab73ef05",
+"claim_id": "covenant-with-founding-fathers-restored",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "April 2024, the earliest Plymouth Rock telling, with the goat nation promise attached"
+},
+{
+"mention_id": "ef44c6191c3dfb31",
+"claim_id": "city-exodus",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "travel to the central states for the revival"
+},
+{
+"mention_id": "2873251971e80f20",
+"claim_id": "passover-escalation-2024",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the red heifer given as the trigger"
+},
+{
+"mention_id": "1ee9af83fe88c11f",
+"claim_id": "iran-cave-bioweapon",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "15 April 2024 is the original; the 15 June video is a re-upload of the same recording"
+},
+{
+"mention_id": "5f78f99965be4558",
+"claim_id": "plots-against-churches",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the April original of the Sunday churches word"
+},
+{
+"mention_id": "ce33ee0400b325cf",
+"claim_id": "drone-attacks-holiday-crowds",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "consumer drones with C4 into an open baseball stadium, nineteen months before the holiday form of it"
+},
+{
+"mention_id": "19389e6857c882da",
+"claim_id": "olympics-protection-2024",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the ceremonies named in April; the Games passed without an attack"
+},
+{
+"mention_id": "83367f1d0ea908bd",
+"claim_id": "green-train-germany-paris",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "15 April 2024 is now the earliest telling of the green train in the archive"
+},
+{
+"mention_id": "829808f5b8c7a7c5",
+"claim_id": "iran-refineries-struck",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the April original"
+},
+{
+"mention_id": "edca70df0ffc4b11",
+"claim_id": "gas-eight-dollars-nationwide",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "California and Oregon named, with the vision dated two years earlier"
+},
+{
+"mention_id": "ae61c21625df04c2",
+"claim_id": "naples-volcano-tsunami",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.45,
+"note": "a cove shown on a map rather than named"
+},
+{
+"mention_id": "139812916c618e56",
+"claim_id": "antisemitism-peak",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the April original, with fuel prices given as the cause"
+},
+{
+"mention_id": "f46af4e048079bf5",
+"claim_id": "east-coast-storm-newyork-to-miami",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the April original; Helene reached Tennessee five months later, though the terrorism link did not follow"
+},
+{
+"mention_id": "afe90a40c53851f5",
+"claim_id": "crash-1930s",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the lessening clause again"
+},
+{
+"mention_id": "15bd506ba6119eed",
+"claim_id": "oil-200-barrel",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the same concession in the April original"
+},
+{
+"mention_id": "20ad273dcb245afb",
+"claim_id": "martial-law-cities",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the same distinction from the black horse in the April original"
+},
+{
+"mention_id": "9c17ae20bfe0d15a",
+"claim_id": "amero-north-american-currency",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "April 2024, framed as a defensive response to BRICS rather than as a beast system move"
+},
+{
+"mention_id": "d81f212a9f9eb091",
+"claim_id": "water-supply-attack-gulf-states",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "the line drawn from the Gulf Coast up to Tennessee, with bottled water sold out"
+},
+{
+"mention_id": "db6f1af4436ffe46",
+"claim_id": "george-soros-in-europe",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the earliest telling of the meeting with the devil"
+},
+{
+"mention_id": "1d48259af3069ab6",
+"claim_id": "guthrie-antichrist-temple",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "broadcast live from the site during the April 2024 eclipse"
+},
+{
+"mention_id": "bbeaf80023d36035",
+"claim_id": "shaking-to-the-waking",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "an opportunity to repent, with the rainbow around the sun offered as a sign"
+}
+]
+}

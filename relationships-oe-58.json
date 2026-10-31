@@ -1,0 +1,4 @@
+{"relationships":[
+{"from_claim":"many-small-911s","to_claim":"sept11-2026-groundzero","rel_type":"related_to","asserted_by":"system",
+ "note":"One is a single dated event, the other many undated small ones. Between them any outcome on that theme is covered."}
+]}

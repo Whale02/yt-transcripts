@@ -1,0 +1,49 @@
+[
+  {"video_id": "q-M7KOvMzS4", "start_s": 2426, "claim_id": "glory-tsunami-chariots",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The explanation for a promise that did not arrive, given after the date passed: the delivery was attempted and refused. It converts every unmet Christmas declaration into the hearer's failure to receive, and leaves no trace either way."},
+
+  {"video_id": "q-M7KOvMzS4", "start_s": 2505, "claim_id": "elders-passing-of-the-baton",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "No voice named and no time given."},
+
+  {"video_id": "q-M7KOvMzS4", "start_s": 2783, "claim_id": "more-angels-than-armies",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "An exhortation with no stated outcome. Recorded for completeness."},
+
+  {"video_id": "q-M7KOvMzS4", "start_s": 5233, "claim_id": "church-cleansing",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Dream team 2026 gives the claim a year. People who are preaching and will be there no more is satisfied by any retirement, scandal or death across a year, and no name or count is given."},
+
+  {"video_id": "q-M7KOvMzS4", "start_s": 9326, "claim_id": "july4-250th-parades",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "A prayer over a period with nothing stated. The slip about wanting terrorist attacks is a slip and recorded as one; he plainly means the opposite."},
+
+  {"video_id": "7CtKI-6263c", "start_s": 101, "claim_id": "internet-socialist-control",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Marked as belief rather than vision, which is the right hedge. A two-hour comment outage he cannot explain is offered as the early sign, and platform glitches are routine, so that is a low bar."},
+
+  {"video_id": "7CtKI-6263c", "start_s": 491, "claim_id": "ezekiel-38-turkey",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The 14 March origin is inside this corpus and datable, and the asymmetry he draws, Turkey defending Syria but not Iran, is specific enough to score."},
+
+  {"video_id": "7CtKI-6263c", "start_s": 674, "claim_id": "turkey-turns-back",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Properly scoreable geopolitics: the Turkish straits are governed by treaty, access is publicly observable, and closing them to help Russia would run against Turkey's current position. Among the best items in this batch."},
+
+  {"video_id": "7CtKI-6263c", "start_s": 838, "claim_id": "mideast-us-draft",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The date is given and sits inside this corpus, so the priority claim is directly checkable. Major uprising with Iran is loose enough that the base rate has to be weighed when scoring it."},
+
+  {"video_id": "7CtKI-6263c", "start_s": 877, "claim_id": "great-war-escalation",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Peace for a little time then an uprising again covers both states in sequence, so it cannot be wrong about which arrives, only about when. He offers the recordings for checking, which is the useful part."},
+
+  {"video_id": "7CtKI-6263c", "start_s": 1078, "claim_id": "kim-jong-un-role",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Two named living leaders, a stated outcome and a dated origin inside this corpus. One of the cleaner geopolitical items in the whole sweep."},
+
+  {"video_id": "7CtKI-6263c", "start_s": 1116, "claim_id": "kim-jong-un-role",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Watch is not a prediction and rise up sets no threshold, so any diplomatic contact among the three satisfies it. Weaker than the passage a minute earlier."}
+]

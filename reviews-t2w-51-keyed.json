@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "cdb2072562e1cd49",
+"claim_id": "war-alliances-macron-germany-england-pope",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds Canada with the darkness confined to Toronto, and puts the planning with the leaders rather than the nations."
+},
+{
+"mention_id": "db1482107138163e",
+"claim_id": "black-on-the-financial-buildings-mime",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. The link between the European and American financial buildings is the checkable part."
+},
+{
+"mention_id": "6dc24febfca9e429",
+"claim_id": "black-on-the-financial-buildings-mime",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Names the four banks and adds the mime image. The same four institutions are named across several separate bank claims in this corpus, which weakens naming them as a distinguishing detail."
+},
+{
+"mention_id": "6de69fe707fc451c",
+"claim_id": "chinese-women-painted-faces-kimono",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 10 June 2026, a day before the 11 June version this claim was seeded from. Here they are porcelain dolls rather than kimonos and are placed in Europe as well as Asia."
+},
+{
+"mention_id": "323a09db93c356aa",
+"claim_id": "berlin-caverns-hitler-summoning",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The swastika as a bat signal over Europe."
+},
+{
+"mention_id": "6a612c4e26f15624",
+"claim_id": "stay-vertical-2026-media-distraction",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Great distractions and manipulation by fear. Any news cycle satisfies this."
+},
+{
+"mention_id": "ff544a79d3836143",
+"claim_id": "berlin-caverns-hitler-summoning",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "The summoning framed as the cause of the war. Nothing here can be checked."
+},
+{
+"mention_id": "4dd224ad2ff76c0d",
+"claim_id": "black-sea-strait-closed",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Turkey closing the strait for Russia. His wife supplies the name of the waterway, not the vision, and the strait she names is the Dardanelles rather than the Bosphorus."
+},
+{
+"mention_id": "18a0f4b6ce213e4d",
+"claim_id": "great-distraction-on-the-clock",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Reads the song as a rebellion or an attitude of indifference over Europe, which is the first interpretation offered for it."
+},
+{
+"mention_id": "335bb8adfc1b6da9",
+"claim_id": "church-asleep-ring-bells",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the cobwebs, tumbleweeds and sage grass on the buildings as the state before the change."
+},
+{
+"mention_id": "fcb700c300f638be",
+"claim_id": "church-asleep-ring-bells",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "The glory on the darkened bells and the church becoming alive."
+},
+{
+"mention_id": "0d04f4fe9a783dcd",
+"claim_id": "persecution-spreads-england-then-europe",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds that the shaking falls on the Catholic Church and the Protestants alike, and that they are running out of time."
+},
+{
+"mention_id": "933e3c6c3a1b5dbf",
+"claim_id": "church-asleep-ring-bells",
+"same_event": "yes",
+"delta_type": "exact_repeat",
+"confidence": 0.8,
+"note": "The bells repeated at the end of a three hour broadcast."
+},
+{
+"mention_id": "5e52188aab88d2f8",
+"claim_id": "epcot-america-and-the-250",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. No reading is offered beyond the number, which is the same 250 that recurs across the anniversary material."
+},
+{
+"mention_id": "56f8ee400726496f",
+"claim_id": "mount-of-olives-split",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He calls the Mount of Olives earthquake symbolic of America, which allows a non physical reading of a claim he elsewhere gives as a literal quake."
+},
+{
+"mention_id": "70346ea64df65513",
+"claim_id": "shake-america-beyond-comprehension",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "A first domino to do with America. No event, place or date is given."
+},
+{
+"mention_id": "53d2eac9409a64ba",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "A general statement of expectation with no date."
+},
+{
+"mention_id": "c4542b856c85a0cb",
+"claim_id": "trump-falling-asleep-fitness-questioned",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds the booing and the safety concern, and the line that the Lord already said nothing would happen. A claim that nothing will happen is the safest form of prediction available."
+},
+{
+"mention_id": "114db7beec9c5b80",
+"claim_id": "florida-quake-felt-to-alaska",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. The reading is a seismograph trace rather than felt shaking; distant instruments record every large earthquake, which is not the same as it shaking Alaska."
+},
+{
+"mention_id": "819b83785f151cdf",
+"claim_id": "cuba-liberation-by-surprise",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The Cuban earthquake read as the sign that the liberation is close."
+},
+{
+"mention_id": "8ab7e912bd0285f7",
+"claim_id": "earthquakes-shake-cuba",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "A shaking to awaken coming to Cuba, with the earth in travail."
+},
+{
+"mention_id": "b167f5c2fe4d2796",
+"claim_id": "global-quake-swarm",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "He says the cluster is not coincidence. A 5.2 in Greece is routine and Greece records several a year."
+},
+{
+"mention_id": "7f2e8ed134972475",
+"claim_id": "lavender-peace-over-russia",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He holds the peace and the world war at once in the same passage, which is why this claim cannot fail in either direction."
+},
+{
+"mention_id": "bea3aabf7aa98f1d",
+"claim_id": "pulse-quickening-urgency",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "He corrects bothered to an urgency to pray, which is worth recording as how the impression is characterised."
+},
+{
+"mention_id": "9a8aa5c668285e6d",
+"claim_id": "great-betrayal-of-israel",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He says he would not have thought the betrayal was with the president. That is a revision of who the betrayer is, made after the fact, and it is recorded rather than smoothed."
+},
+{
+"mention_id": "0cc9097f7e9b2ca6",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "Prayer for a named group on an Israel tour. No forward content."
+},
+{
+"mention_id": "389b72a860d5d59b",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "He cannot make out the footage and says so."
+},
+{
+"mention_id": "0e403865e38ddb80",
+"claim_id": "israel-night-attack",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "This will be worse and it happens in the night, with the China and North Korea meeting alongside."
+},
+{
+"mention_id": "78fc876defd41f53",
+"claim_id": "world-cup-2026-prayer-targets",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Counter drone measures at all seventy eight matches, taken from an official clip. Worth noting the authorities are ahead of the claim here rather than behind it."
+},
+{
+"mention_id": "2befffc9cc6afb0f",
+"claim_id": "nyc-subway-attack-morning",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He narrows it himself: not the building but the extremities outside it, which is a real tightening."
+},
+{
+"mention_id": "d1278b8d7e043ae8",
+"claim_id": "honolulu-three-men",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The three men in the Hawaii mall, with the luxury store named and a red dawn frame."
+},
+{
+"mention_id": "a4a55c8ba5ad3d8b",
+"claim_id": "churches-burned-giant-rises",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Attributes the arson to Muslim actors and extends the range from Toronto to British Columbia. North American investigations have generally found other causes."
+},
+{
+"mention_id": "88b4b79902511f10",
+"claim_id": "green-shirt-burning-in-new-york",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He states in advance that he does not know what the green shirt means and that it was being looked up, which is worth crediting."
+},
+{
+"mention_id": "96a3cff5b41193d4",
+"claim_id": "retaliation-attack-within",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds two places at once, Israel and America, as the shape of it."
+},
+{
+"mention_id": "6ee37c7b6a7cb033",
+"claim_id": "earthquakes-shake-cuba",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "He thanks God for the shaking and calls it a sign without checking the magnitude or whether anyone was hurt, and says so himself."
+},
+{
+"mention_id": "8449d4f2ad7eaa32",
+"claim_id": "voter-fraud-named-states",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Late counted ballots moving toward one party read as fraud, argued from pattern rather than from a word."
+},
+{
+"mention_id": "4f31649047c2e55c",
+"claim_id": "colombia-arena-meetings-invitation",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and unusually checkable: a named condition, an election outcome, and a specific arranged event that either happens or does not."
+},
+{
+"mention_id": "c14aab464772d099",
+"claim_id": "latino-revival-horns",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "He credits the prayer for the salvations and healings reported and says it is just the beginning."
+},
+{
+"mention_id": "4ee5110f9eea8c41",
+"claim_id": "latino-revival-horns",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Footage of people lying in the street at a meeting, presented as the wave arriving."
+},
+{
+"mention_id": "7cd14e9046eb53e9",
+"claim_id": "oru-wells-of-revival-reopen",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "The make no little plans motto and the founder's scale applied to his own ministry."
+},
+{
+"mention_id": "0bff4a9b021eaaca",
+"claim_id": "mount-fuji-explodes",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "A Japanese eruption in the news used to restate the Fuji claim. Japan has roughly 111 active volcanoes, so an eruption elsewhere does not settle a Fuji claim."
+},
+{
+"mention_id": "22353572aee9e772",
+"claim_id": "multiple-volcanoes-at-once",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Signs in the heavens and earth with a Russian eruption. Around fifty volcanoes are erupting worldwide at any given time."
+},
+{
+"mention_id": "156ffa1732a1b980",
+"claim_id": "global-quake-swarm",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "An 8.6 in the Philippines. He asks whether this is it rather than asserting it, which is the right form."
+},
+{
+"mention_id": "0c7ebbe6406186d7",
+"claim_id": "temple-quakes",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the Vatican, the Temple Mount and Malibu as places about to shake, and points back to a word given the previous week."
+},
+{
+"mention_id": "5e5d5dedac777050",
+"claim_id": "the-turtle-is-germany",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. The identification is made now rather than when the vision was given, which is the pattern worth tracking on all his animal symbols."
+},
+{
+"mention_id": "d26d04d9da8a571a",
+"claim_id": "europe-wants-war-for-economies",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Macron leading the charge and talking to bankers, with the French slogan read out."
+},
+{
+"mention_id": "7ee2fa3d719e1cf7",
+"claim_id": "cern-copies-open-portals",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Ties the CERN portals to summoning Hitler's spirit and to Europe burning. Nothing here can be checked."
+},
+{
+"mention_id": "e6b5fd60bdb802d1",
+"claim_id": "devil-instructing-businessmen",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He is told to listen closely in the meeting and hears the plan to bring war."
+},
+{
+"mention_id": "85badafd6064e996",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "A British political clip. Not a claim he makes."
+},
+{
+"mention_id": "813136bd86b5d49b",
+"claim_id": "musk-suppression-europe",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Big European lawsuits against Musk, claimed as called in advance, with a Marilyn Monroe candle noted in the frame."
+},
+{
+"mention_id": "c81ece1e02774e57",
+"claim_id": "depression-1930s-debt-crisis",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "The debt arithmetic used as a rhetorical device rather than a forecast."
+},
+{
+"mention_id": "f052b64f8980238e",
+"claim_id": "mark-world-currency",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "The debt given as the mechanism by which the dollar has to be displaced for the beast system."
+},
+{
+"mention_id": "29a24946b4a13ca9",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "A description of his own experience in prayer. No forward content."
+},
+{
+"mention_id": "b79de23df51cc5a2",
+"claim_id": "newyork-uprising-buildings-burn",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that it is a planned staged event on a greater scale than the 2020 unrest, which is a specific comparison and therefore checkable."
+},
+{
+"mention_id": "4d6c403011024f8c",
+"claim_id": "green-shirt-burning-in-new-york",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Joins the green to the New York rioting and adds that it is all races."
+}
+]
+}

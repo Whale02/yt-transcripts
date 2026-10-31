@@ -1,0 +1,110 @@
+[
+  {"video_id": "e9umIfTFnMM", "start_s": 7020, "claim_id": "revival-in-our-own-area",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "e9umIfTFnMM", "start_s": 7311, "claim_id": "revival-in-our-own-area",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He comes against the things he has just been shown, which is vision-is-a-prayer-target enacted in the same breath as the sight."},
+
+  {"video_id": "e9umIfTFnMM", "start_s": 8085, "claim_id": "do-you-know-him-personally",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Aimed at the formerly committed rather than the unconverted, which is a narrower audience than the usual altar call."},
+
+  {"video_id": "hH4qc5gpzRU", "start_s": 340, "claim_id": "moon-base-word",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Sixth on-air replay of an original recording. The 2 December telling is in this corpus, so whether it says what he says it says is checkable. Flagged for the evidence pass."},
+
+  {"video_id": "hH4qc5gpzRU", "start_s": 917, "claim_id": "closer-than-you-think-return",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The visions are offered as the evidence for imminence, which makes the case circular but is how he states it."},
+
+  {"video_id": "hH4qc5gpzRU", "start_s": 1045, "claim_id": "sonic-boom-breaks-glass",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Concrete and visible if it happens: broken glass in houses and cars would be reported. Soon carries no date, which is the limit."},
+
+  {"video_id": "hH4qc5gpzRU", "start_s": 1149, "claim_id": "not-an-ichabod",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A pre-emptive answer to the obvious reading of hard events, alongside symptoms-do-not-count and eyes-of-understanding-not-enlightened. Hardship is ruled out in advance as evidence against."},
+
+  {"video_id": "hH4qc5gpzRU", "start_s": 1747, "claim_id": "taiwan-two-day-fall",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Three days again, where the original claim says two. The chips and medicine motive is new and is the most concrete thing the claim has ever carried."},
+
+  {"video_id": "hH4qc5gpzRU", "start_s": 2609, "claim_id": "passover-april-1-acceleration",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He seals it himself: birthing pains by definition only increase, so the claim cannot be contradicted by anything that follows."},
+
+  {"video_id": "hH4qc5gpzRU", "start_s": 6210, "claim_id": "all-hands-on-deck",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "hH4qc5gpzRU", "start_s": 7885, "claim_id": "he-will-look-confused-easter",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Looks confused is a reading of appearances rather than a stated event, so any coverage in that window can satisfy it."},
+
+  {"video_id": "hH4qc5gpzRU", "start_s": 7957, "claim_id": "reprobate-counselors",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Adds the Ivy League detail, so the unnamed advisers now have a described background."},
+
+  {"video_id": "US8rZ7oprqo", "start_s": 45, "claim_id": "prophetic-accuracy-2025",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The prior video is in this corpus, so the review of it can be read directly against what he says it contained."},
+
+  {"video_id": "US8rZ7oprqo", "start_s": 374, "claim_id": "europe-democrats-plan-midterms",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "An unobservable meeting by construction: nothing could confirm or disconfirm a private conversation between unnamed parties."},
+
+  {"video_id": "US8rZ7oprqo", "start_s": 636, "claim_id": "weather-warfare-drought",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "An article shown on screen and offered as confirmation. The accusation in the headline is not the same as the claim being confirmed, and the mention says so."},
+
+  {"video_id": "US8rZ7oprqo", "start_s": 1553, "claim_id": "all-hands-on-deck",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Ties the labourers-are-few line to a building project, so the appeal has a specific object."},
+
+  {"video_id": "US8rZ7oprqo", "start_s": 1829, "claim_id": "first-corinthians-5-5-2026",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The most useful line here is the aside: seeing in part makes you think it is next month or two or three months. That is his own explanation for why dated words slip, offered without prompting."},
+
+  {"video_id": "US8rZ7oprqo", "start_s": 1944, "claim_id": "agenda-2030",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Adds the noose around a human as the control image. The detail is recovered by his team prompting him rather than volunteered."},
+
+  {"video_id": "US8rZ7oprqo", "start_s": 4435, "claim_id": "easter-service-plots",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Adds the White House Easter egg roll and Africa. Attacks on Christians in parts of Africa are frequent enough that the second half is close to unmissable."},
+
+  {"video_id": "US8rZ7oprqo", "start_s": 6763, "claim_id": "waking-up-my-bride-boom",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The loud boom links it to sonic-boom-breaks-glass told two days later, though he does not join them."},
+
+  {"video_id": "US8rZ7oprqo", "start_s": 6850, "claim_id": "passover-april-1-acceleration",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He says outright he cannot put God in a box and is trying to work out what he means, while repeating the date. Both halves recorded."},
+
+  {"video_id": "US8rZ7oprqo", "start_s": 8156, "claim_id": "may-24-pentecost",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Read off the church calendar rather than seen, which is worth marking given how many dates in this corpus arrive the same way."},
+
+  {"video_id": "Duk8c34FPC4", "start_s": 217, "claim_id": "new-pipelines-opened",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A claimed prior call with a checkable subject. Whether the earlier telling exists in this corpus goes to the evidence pass."},
+
+  {"video_id": "Duk8c34FPC4", "start_s": 762, "claim_id": "visitation-2014",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The 6 July 2014 date again, now as the source of the acceleration word. Outside this corpus and unverifiable here."},
+
+  {"video_id": "Duk8c34FPC4", "start_s": 934, "claim_id": "islam-growing-in-america",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A public gathering is read as the evidence. Growth in observance is measurable in principle, which puts this above most of the surrounding material."},
+
+  {"video_id": "Duk8c34FPC4", "start_s": 1274, "claim_id": "attack-worse-than-october-7",
+   "same_event": "yes", "delta_type": "severity_update",
+   "note": "Sixth telling since November and the first to describe the casualties: women, children and families, a lot of people. Still no date."},
+
+  {"video_id": "Duk8c34FPC4", "start_s": 1570, "claim_id": "caution-after-one-year",
+   "same_event": "unsure", "delta_type": "no_claim",
+   "note": "A played press clip. Not his words, nothing scored."},
+
+  {"video_id": "Duk8c34FPC4", "start_s": 4783, "claim_id": "give-me-praise-this-week",
+   "same_event": "yes", "delta_type": "first_mention"}
+]

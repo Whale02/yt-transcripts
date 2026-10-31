@@ -1,0 +1,24 @@
+{"relationships": [
+  {"from_claim": "michelle-gavin-2024", "to_claim": "snake-figure-by-2028",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "yCJFoRGfrEc", "evidence_start_s": 1979,
+   "note": "He carries the snake slithering toward his time straight into the Gavin will run passage a minute later, treating them as one man and one race."},
+
+  {"from_claim": "ezekiel-38-turkey", "to_claim": "damascus-ruinous-heap",
+   "rel_type": "elaborates", "asserted_by": "brandon",
+   "evidence_video": "yCJFoRGfrEc", "evidence_start_s": 501,
+   "note": "Damascus falling is given as part of the same sequence as Turkey rising with Syria and the hook in the jaw."},
+
+  {"from_claim": "trump-assassination-attempt", "to_claim": "assassins-through-canada-michigan",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Two accounts of a plot against the president with different origins, one entering through Canada and one directed from Russia and France. He does not reconcile them."},
+
+  {"from_claim": "january-2027-highlighted", "to_claim": "wings-clipped-january",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Two January claims sitting a year apart, one 2027 and one the winter before. Nothing on air joins them."},
+
+  {"from_claim": "no-accountability-elites", "to_claim": "zelensky-strongarmed-macron",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "yCJFoRGfrEc", "evidence_start_s": 2186,
+   "note": "He gives the intercepted Zelensky conversations as the same story as the politicians with money in the aid."}
+]}

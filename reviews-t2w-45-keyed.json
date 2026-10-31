@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "dff3a82276e7df0f",
+"claim_id": "holy-ghost-woodstock-in-the-fields",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Open air mass meetings from sea to sea, with Hawaii added."
+},
+{
+"mention_id": "f059aea4793c573f",
+"claim_id": "vision-is-a-prayer-target",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "He tells the audience they do not need prophetic voices and that his assignment is prayer, which sits oddly against a channel built on telling people what is coming. Recorded rather than resolved."
+},
+{
+"mention_id": "d685f486f166f35c",
+"claim_id": "brazil-new-david-leader",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Distinct from brazil-shaken, which is the earthquake."
+},
+{
+"mention_id": "3730df6e7a0553db",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "A statement of ambition for the ministry. No forward content."
+},
+{
+"mention_id": "77565e840e1aa63b",
+"claim_id": "fig-tree-ripe-ezekiel-at-the-door",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. At the door has no defined end, so this cannot expire and cannot be scored as a miss."
+},
+{
+"mention_id": "1d20616cb8a0aa91",
+"claim_id": "financial-seed-kills-poverty",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "The heavenly account framing, aimed at giving to a local pastor."
+},
+{
+"mention_id": "5773f653d111eb73",
+"claim_id": "clarity-act-one-vote",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "A presidential clip on crypto used as the prompt to believe for the act."
+},
+{
+"mention_id": "49bc5505e692c09e",
+"claim_id": "crypto-five-pillars",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the coins marching into a new Trump building and a two billion figure, with a financial advice disclaimer attached."
+},
+{
+"mention_id": "c5352494e1033a8a",
+"claim_id": "chips-back-from-taiwan-two-years",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that the Lord holds a covering over Taiwan. Because a covering means China either fails or does not try, both outcomes confirm it."
+},
+{
+"mention_id": "130cf6eef339b0f8",
+"claim_id": "hidden-cells-america",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He states in advance that there will be no internet chatter to warn of it, which turns the absence of warning signs into confirmation."
+},
+{
+"mention_id": "c1d68e7cedba5226",
+"claim_id": "stadium-drones-and-boston-marathon",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Both stadiums seen together. He says plainly he does not know why, which is worth recording."
+},
+{
+"mention_id": "e967f033b57f6652",
+"claim_id": "reprieve-four-years",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The four year window with the squander or use condition attached, which makes a bad outcome attributable to the audience."
+},
+{
+"mention_id": "ead0f41c3f16ed2d",
+"claim_id": "boat-turning-slowly",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and it is the explanation offered for why results are not visible yet. The slowness clause means an absence of results in any period does not count against it."
+},
+{
+"mention_id": "7da8b79f06e746c9",
+"claim_id": "israel-figure-taken-out",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.6,
+"note": "A figure he calls Gates coming back into Israeli politics, given as something people had doubted."
+},
+{
+"mention_id": "474269cbab2de71f",
+"claim_id": "mossad-takes-out-netanyahu",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and one of the flattest in the corpus: a named agency, a named person, no conditions and no hedge. He calls it a hard thing to say and does not soften it."
+},
+{
+"mention_id": "8f1f9acc22f5afb3",
+"claim_id": "churches-burned-giant-rises",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Attributes the arson to the Islamic Brotherhood specifically. Attribution is the part that can fail, and most recorded church arson has other causes."
+},
+{
+"mention_id": "ae78ff4e5a0e7e46",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "A detail about the age of a burned building."
+},
+{
+"mention_id": "3ec92f649a6d1e3d",
+"claim_id": "texas-grid-failure",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.6,
+"note": "A heat dome grid emergency reported. Emergency declarations under heat are routine and usually end without an outage."
+},
+{
+"mention_id": "738fc46dd5c6ee37",
+"claim_id": "east-coast-blackout-three-weeks",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "Moves the three week outage onto the south and says he does not know the cause, which is a rare admission of a missing mechanism."
+},
+{
+"mention_id": "eb2dc024131b6090",
+"claim_id": "harry-potter-spirit-on-prince-george",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Concerns a spirit rather than an event, so nothing here can be checked directly."
+},
+{
+"mention_id": "8da8eeee7732aa69",
+"claim_id": "cuba-america-flags-merge",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He qualifies it himself as a partial joining rather than the whole flag."
+},
+{
+"mention_id": "4557a77353a6743e",
+"claim_id": "significant-artifact-found",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Offered the ark of the covenant by his audience, he declines it and says he only saw tablets and a budded rod. Refusing the bigger claim is worth crediting."
+},
+{
+"mention_id": "85c564e8c1c73262",
+"claim_id": "zelensky-flees-with-cash",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "The Jason Bourne moment again, with Russia going after Kyiv after its oil was struck."
+},
+{
+"mention_id": "5d941321c46e6c40",
+"claim_id": "ai-supervirus-from-prescription-dna",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Names obesity and heart medication as the carrier and gives an economic motive."
+},
+{
+"mention_id": "03e2bc58ffae427b",
+"claim_id": "devil-instructing-businessmen",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Satan at the head of the table, given against an obesity cost figure. Nothing checkable."
+},
+{
+"mention_id": "0204bf76ad153141",
+"claim_id": "fig-tree-ripe-ezekiel-at-the-door",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The fig tree repeated with the angel at an open door."
+},
+{
+"mention_id": "1b7d884a47012c09",
+"claim_id": "israel-revival",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Harvesting equipment brought in, with a river flowing through Israel."
+},
+{
+"mention_id": "7af07ffba3d185ab",
+"claim_id": "witchcraft-stronghold-breaks-south-america-africa",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He names no country, so church growth anywhere in either continent would be claimed."
+},
+{
+"mention_id": "5551e0cb3d38a305",
+"claim_id": "toronto-cells-northern-border",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Plots in Toronto, given in a national covering prayer."
+},
+{
+"mention_id": "50499a6fc0c2bf17",
+"claim_id": "shake-america-beyond-comprehension",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the reason: this nation is stiff compared with others, so a greater shaking is required."
+},
+{
+"mention_id": "74b8c852a3f88fb3",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "A declaration of goodness and mercy with no forward content."
+},
+{
+"mention_id": "262e38fd99f22c23",
+"claim_id": "sooners-asia-first-on-crypto",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.75,
+"note": "Taiwan claimed as the Sooners. The original word named Japan and South Korea; Taiwan is being added after the fact."
+},
+{
+"mention_id": "4b3f5018ee3d6420",
+"claim_id": "sooners-asia-first-on-crypto",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Three Asian jurisdictions listed together as the pattern, tied to a coming new world order."
+},
+{
+"mention_id": "00ae2de492918ba3",
+"claim_id": "words-of-knowledge-healing",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "Specific organs named in prayer for an unnamed conservative figure. Unusually medical for this corpus, and unnameable, so unscoreable."
+},
+{
+"mention_id": "e7126fb5b9fd527c",
+"claim_id": "two-state-third-temple",
+"same_event": "yes",
+"delta_type": "contradiction",
+"confidence": 0.8,
+"note": "Netanyahu rejecting a two-state solution, against the standing claim that one is agreed. Israeli rejection is the long standing position, so this is the news rather than a reversal."
+},
+{
+"mention_id": "aabef674c49c034d",
+"claim_id": "netanyahu-assassination-attempt",
+"same_event": "unsure",
+"delta_type": "new_detail",
+"confidence": 0.6,
+"note": "The geometry of a projectile from the right while the man faced elsewhere. He does not name the target in this passage."
+},
+{
+"mention_id": "e5ab7f6075774bdc",
+"claim_id": "euro-trouble",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Puts an order on it: euro first, then the dollar, with time between. That sequencing is checkable."
+},
+{
+"mention_id": "aff59450775a5e5f",
+"claim_id": "macron-rises-like-hitler",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The Hitler comparison again, with key figures over four continents."
+},
+{
+"mention_id": "402cafeb1c7cab85",
+"claim_id": "canada-revival-out-of-persecution",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "The greater the persecution the greater the revival, with an olive press over the mouths. As put, persecution confirms it and its absence does not disconfirm it."
+},
+{
+"mention_id": "f8accf09f2af51a3",
+"claim_id": "bc-quake-30000-dead",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds fires running north to Anchorage, which he says he still does not understand."
+},
+{
+"mention_id": "455cb9658d2d4ef8",
+"claim_id": "hollywood-revival",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Names the Hollywood Hills specifically and ties the revival to things being uncovered first."
+},
+{
+"mention_id": "57eccb7df9f138aa",
+"claim_id": "oregon-coast-volcano",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Claimed fulfilment on a 5.4 offshore. The Blanco fracture zone off Oregon produces magnitude 5 events several times a year, so this is close to the base rate."
+},
+{
+"mention_id": "e5668361446617b1",
+"claim_id": "oregon-coast-volcano",
+"same_event": "yes",
+"delta_type": "severity_update",
+"confidence": 0.85,
+"note": "Raises it to bigger than an 8.0 with a major eruption, which is a far harder call than the 5.4 he just claimed."
+},
+{
+"mention_id": "d5f4a0a7d017fb6a",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "He declines a paid invitation to debate religion. No forward content."
+},
+{
+"mention_id": "cdfa5851a832828c",
+"claim_id": "cuba-america-flags-merge",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "America merging with Cuba, restated a day after the first telling."
+},
+{
+"mention_id": "cd14a7a95a6aa1a3",
+"claim_id": "cuba-america-flags-merge",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that it is the stripes and not the star field, and that half of Cuba's flag transfers."
+},
+{
+"mention_id": "fd98e741dbf497e7",
+"claim_id": "another-bp-spill-in-the-gulf",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds sabotage on an oil derrick and poisoning the water as the mechanism."
+},
+{
+"mention_id": "39a5a3fcce23db91",
+"claim_id": "oil-infrastructure-sabotage",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds devices placed on the tracks to derail railroad cars, and ties it to retaliation for Iran."
+},
+{
+"mention_id": "4524f19f1ce1bd9c",
+"claim_id": "public-events-warning",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "Moves the mass event warning onto Honolulu and fireworks shows."
+},
+{
+"mention_id": "241894e410a4efda",
+"claim_id": "public-events-warning",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Hawaii repeated with a pulse he does not define."
+},
+{
+"mention_id": "91817eaf8a51228c",
+"claim_id": "three-city-attacks-ranked",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The same three cities in a different order. Nashville, Boston and New Orleans here; earlier tellings ranked Nashville strongest with a different third city."
+},
+{
+"mention_id": "a933f85f3823e372",
+"claim_id": "yankees-world-series",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds October and the Yankees postseason as the window, which makes it datable."
+},
+{
+"mention_id": "7fe33e3eafbd8412",
+"claim_id": "stadium-drones-and-boston-marathon",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Both clubs named again, which he says is the one he was looking for."
+},
+{
+"mention_id": "c69dc0ebc967401a",
+"claim_id": "stadium-drones-and-boston-marathon",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that it is at night with the lights on, and he says outright he does not know what the baseball means."
+},
+{
+"mention_id": "1c2bb4ff2c641b29",
+"claim_id": "fox-looking-at-america",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 1 July 2026, twelve days before the 13 July version this claim was seeded from. Here the fox is already tied to the Bay of Pigs and New Orleans together."
+}
+]
+}

@@ -1,0 +1,8 @@
+[
+ {"keep":"std-judgment-child-abusers","drop":"canada-venereal-disease",
+  "note":"same word, seeded twice on 18 August 2025 by two readers of the same passage; the other id was first and keeps the thread"},
+ {"keep":"europe-wants-war-for-economies","drop":"europe-wants-war-for-economy",
+  "note":"same word, two ids differing only by a plural; folded into the earlier one"},
+ {"keep":"three-new-trillionaires","drop":"black-onyx-pillars-economy",
+  "note":"the onyx pillars with the diamond beacon read as the three men rather than as a separate image; the three-pillar count matches the three trillionaires named on 8 August"}
+]

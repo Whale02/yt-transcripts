@@ -1,0 +1,10 @@
+{"relationships":[
+{"from_claim":"quarter-point-stimulate-or-lose","to_claim":"stimulus-adrenaline","rel_type":"related_to","asserted_by":"system",
+ "note":"The overheard meeting supplies a motive for the stimulation he has been forecasting since December: a rate cut to avoid a midterm loss."},
+{"from_claim":"wave-all-at-once-may","to_claim":"watch-may-interest-rates","rel_type":"related_to","asserted_by":"system",
+ "note":"Third distinct thing hung on May, after the interest rates and the Fed chair's term ending."},
+{"from_claim":"pressure-of-the-presidency","to_claim":"valley-of-decisions-make-or-break","rel_type":"related_to","asserted_by":"system",
+ "note":"Both circle the same possibility without stating it: the March telling says lives or goes home, this one notes his age and responsibility falling on someone not ready."},
+{"from_claim":"asteroid-2026-hz4","to_claim":"wormwood-april-13-2029","rel_type":"related_to","asserted_by":"system",
+ "note":"Two space-rock claims, one matched to a real close approach after the fact and one taken from a published future date."}
+]}

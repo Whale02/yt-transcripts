@@ -1,0 +1,102 @@
+[
+  {"video_id": "6wtLDJxg4sw", "start_s": 5412, "claim_id": "fully-persuaded-provider",
+   "same_event": "yes", "delta_type": "elaboration"},
+
+  {"video_id": "6wtLDJxg4sw", "start_s": 6108, "claim_id": "new-friends-after-choosing",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "Mzw5rRiDwA0", "start_s": 1270, "claim_id": "naples-volcano-tsunami",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The most checkable fulfilment claim in months. A magnitude 6.0 near Naples on 10 March 2026, the strongest there in 63 years, is a real dated event of public record, and the prior Italy claims are in this corpus. Whether they say Naples, and whether they describe a quake rather than a volcano, decides it. Top of the list for the evidence pass."},
+
+  {"video_id": "Mzw5rRiDwA0", "start_s": 1320, "claim_id": "naples-volcano-tsunami",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "The same report played a second time. Nothing added."},
+
+  {"video_id": "ji5iFzKemg4", "start_s": 1579, "claim_id": "security-offers",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Worth having beside the assassination and protection material: the audience is offering armed security and he is considering it."},
+
+  {"video_id": "Mzw5rRiDwA0", "start_s": 1733, "claim_id": "shockwave-made-to-look-accident",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Self-sealing: an official finding of accident would confirm it rather than count against it."},
+
+  {"video_id": "ji5iFzKemg4", "start_s": 2034, "claim_id": "sept11-2026-groundzero",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Adds October alongside September and says plainly he does not know which of the two. A two month window for a major attack, which is narrower than most of this material."},
+
+  {"video_id": "ji5iFzKemg4", "start_s": 2082, "claim_id": "sept11-2026-groundzero",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Three dates are emboldened in one passage, 9/11, the Fourth of July and Easter, which widens the target rather than narrowing it."},
+
+  {"video_id": "ji5iFzKemg4", "start_s": 3195, "claim_id": "gas-eight-dollars-nationwide",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "One of the few claims in the corpus with a hard number against a published series. National average petrol prices are reported weekly, so this can be settled to the cent."},
+
+  {"video_id": "ji5iFzKemg4", "start_s": 3573, "claim_id": "april-highlighted-black-a",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Second April sighting with nothing attached but emphasis."},
+
+  {"video_id": "ji5iFzKemg4", "start_s": 3722, "claim_id": "container-ships-on-fire",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Specific, visible and on a short clock: burning container ships in the last weeks of March would be widely reported. One of the cleanest tests in the batch."},
+
+  {"video_id": "ji5iFzKemg4", "start_s": 5815, "claim_id": "retiring-into-a-heavenly-job",
+   "same_event": "yes", "delta_type": "first_mention"},
+
+  {"video_id": "Mzw5rRiDwA0", "start_s": 6477, "claim_id": "drawing-the-bride-closer",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Widens the shaking to all tribes, tongues and denominations, which makes a match easier rather than harder."},
+
+  {"video_id": "Mzw5rRiDwA0", "start_s": 6864, "claim_id": "october-bold-midterm-distractions",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The same two months, September and October, now carry both the terrorist attack window and the midterm distraction. Linked to sept11-2026-groundzero by a system edge."},
+
+  {"video_id": "Mzw5rRiDwA0", "start_s": 8271, "claim_id": "first-corinthians-5-5-2026",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Adds divine justice and secret things surfacing as the content of the verse for 2026. Something is exposed every year, so this is satisfied by ordinary news."},
+
+  {"video_id": "gLE4m-wraw8", "start_s": 232, "claim_id": "filter-the-news",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A rare acknowledgement that the news feeding these sessions has to be filtered before it is prayed over, and that he does not believe all of it."},
+
+  {"video_id": "gLE4m-wraw8", "start_s": 1647, "claim_id": "hidden-cells-america",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Names Iran and names schools and college campuses as the targets. More specific than any earlier telling of this claim."},
+
+  {"video_id": "gLE4m-wraw8", "start_s": 3623, "claim_id": "same-spot-off-the-water",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A location match asserted without the event being stated in the passage. The earlier telling is in this corpus and would settle whether that area was named."},
+
+  {"video_id": "lKC1io90BMo", "start_s": 675, "claim_id": "attack-worse-than-october-7",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The claim now has a named state, a location and a method: Iranian biological weapons out of the Damascus area used on Israel. Six weeks ago it was a bare benchmark with no content."},
+
+  {"video_id": "lKC1io90BMo", "start_s": 726, "claim_id": "mahdi-antichrist",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Supplies a motive for the attack: bringing forth the awaited figure. An overheard private discussion, so nothing here can be checked."},
+
+  {"video_id": "lKC1io90BMo", "start_s": 984, "claim_id": "long-patience-for-a-harvest",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Long patience is the mechanism that lets an unfulfilled imminence continue indefinitely. Worth having stated as plainly as this."},
+
+  {"video_id": "lKC1io90BMo", "start_s": 1671, "claim_id": "cuba-liberation-day-2027",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "About to replaces the 2027 date the January telling carried, which loosens rather than tightens it. Venezuela is added alongside."},
+
+  {"video_id": "lKC1io90BMo", "start_s": 1710, "claim_id": "church-cleansing",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "He points at existing online exposure work as the fulfilment, which matches the claim to something already under way rather than to anything forecast."},
+
+  {"video_id": "lKC1io90BMo", "start_s": 2075, "claim_id": "seeing-into-tribulation",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Circular and worth naming as such: the content of his visions is offered as evidence for the nearness those same visions describe."},
+
+  {"video_id": "lKC1io90BMo", "start_s": 9190, "claim_id": "hidden-cells-america",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Take out the word giver is unusually direct language for a prayer target and is recorded as said."},
+
+  {"video_id": "lKC1io90BMo", "start_s": 10744, "claim_id": "divine-protection-trump",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "A prayer for national unity in the same corpus that forecasts a divided house, which is worth noting without resolving."}
+]

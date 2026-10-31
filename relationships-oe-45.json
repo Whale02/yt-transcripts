@@ -1,0 +1,15 @@
+{"relationships":[
+{"from_claim":"not-mega-but-like-jesus","to_claim":"mega-minister-conversation","rel_type":"related_to","asserted_by":"system",
+ "note":"The standard he applied to another minister in December, applied to himself in January."},
+{"from_claim":"two-faced-big-headed-warning","to_claim":"snake-figure-by-2028","rel_type":"related_to","asserted_by":"system",
+ "note":"Same shape and probably the same unnamed man: an insider turning. Neither telling supplies a name, so they stay separate."},
+{"from_claim":"hagin-authority-teachings","to_claim":"calling-things-that-be-not","rel_type":"related_to","asserted_by":"brandon",
+ "evidence_video":"SZttUyrnsRQ","evidence_start_s":5545,
+ "note":"He names the source himself: the authority of the believer teaching he listens to is where the declaration model comes from."},
+{"from_claim":"seven-year-tribulation-math","to_claim":"tribulation-2029","rel_type":"contradicts","asserted_by":"system",
+ "note":"Worked out loud from the change of administrations he lands on 2027; the older claim puts the tribulation at 2029."},
+{"from_claim":"eyes-of-understanding-not-enlightened","to_claim":"symptoms-do-not-count","rel_type":"related_to","asserted_by":"system",
+ "note":"Two pre-emptive answers to the obvious objection: the symptom does not count, and the person who does not see is unable to see."},
+{"from_claim":"maduro-captured-on-the-third","to_claim":"february-3-budget","rel_type":"related_to","asserted_by":"system",
+ "note":"He reads a January the 3rd capture as the fulfilment of a repeated third, though the tellings on file point at February the 3rd."}
+]}

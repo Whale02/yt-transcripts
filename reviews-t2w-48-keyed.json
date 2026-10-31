@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "e2b8bf3321940ef6",
+"claim_id": "amore-love-over-italy",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. The word is supplied by his son translating rather than by the vision itself, which is worth recording."
+},
+{
+"mention_id": "46de32ec0f2035f5",
+"claim_id": "south-korea-revival-hub",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the marsh and rising water table image and names five countries the overflow reaches."
+},
+{
+"mention_id": "47676ad0ca095590",
+"claim_id": "south-korea-revival-hub",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "A modern day Azusa Street out of South Korea, with the iron curtain heard over Taiwan."
+},
+{
+"mention_id": "568daf87472f1990",
+"claim_id": "japan-korea-axis-against-china",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds Australia and the Philippines to the front and makes prayer the mechanism."
+},
+{
+"mention_id": "f474520b20bed5c3",
+"claim_id": "taiwan-falls-in-the-tribulation",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and the rarest kind of passage in this corpus: he states outright that he could miss it because he is human. He also pushes the fall into the tribulation, which puts it beyond any near term check."
+},
+{
+"mention_id": "08fb8268bebb9963",
+"claim_id": "africa-revival",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "The sun rising over eastern Africa, prompted by his co-host rather than recalled unaided."
+},
+{
+"mention_id": "dd94d4895556227f",
+"claim_id": "vatican-mothership",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the Mayan temples alongside the Vatican and frames it as a coming great deception."
+},
+{
+"mention_id": "ac06cbee314e2545",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "He says he does not know how to say what he is seeing. No content to record."
+},
+{
+"mention_id": "1c7508b6ecf8197a",
+"claim_id": "living-word-minnesota-revival",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "A visitation on Minnesota, widened beyond the named church."
+},
+{
+"mention_id": "3a7048d3ecc96896",
+"claim_id": "cuba-evidence-being-removed",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 19 June 2026, four days before the 23 June version this claim was seeded from. It also gives the fox its first interpretation: the fox is the smuggler."
+},
+{
+"mention_id": "fcb5d3c5bc775718",
+"claim_id": "fox-looking-at-america",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "The fox leaking to people called pirates at the Bay of Pigs. Worth recording because he has said twice elsewhere that he does not know what the fox means."
+},
+{
+"mention_id": "697c14a53dbe2be0",
+"claim_id": "red-tip-missiles-moscow",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Long range missiles given to Ukraine striking deep into Russia, with a novel Russian weapon in reply."
+},
+{
+"mention_id": "81aa2042d530bebc",
+"claim_id": "devil-instructing-businessmen",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds a satanic seance and names Macron as the bankers' puppet. Nothing here can be checked."
+},
+{
+"mention_id": "7478e9edee0f5112",
+"claim_id": "cuban-blood-sacrifice-against-trumps-mind",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds a swastika in the blood sacrifice and the Cuban leader drinking the blood."
+},
+{
+"mention_id": "7d0dae93f898e74c",
+"claim_id": "axis-covenant-nk-china-russia-iran",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "North Korea friends with Russia, which has been open since 2024, so the first half of the claim is already true."
+},
+{
+"mention_id": "3c25cb8becfdf3dd",
+"claim_id": "south-korea-revival-hub",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The great river and well of revival out of South Korea, with a window given."
+},
+{
+"mention_id": "2fb4ebfef8eced3d",
+"claim_id": "underground-church-glory-under-persecution",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "Moves the underground church claim onto Asia with the Philippines and China named. The persecution clause makes either outcome fit."
+},
+{
+"mention_id": "587fb7ee4b727f4f",
+"claim_id": "russian-weapon-warsaw-mushroom",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Unconventional weapons striking Poland and Warsaw, given alongside a Cuban shaking."
+},
+{
+"mention_id": "65144cae82c208c0",
+"claim_id": "vance-2028-realignment",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Puts a date on it: Vance separating from the president by the midterms. That is checkable within months."
+},
+{
+"mention_id": "dc48b18c1dd1d205",
+"claim_id": "zelensky-is-the-marionette",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.75,
+"note": "A European trip claimed as the fulfilment. European tours are Zelensky's standing practice."
+},
+{
+"mention_id": "7aeb7d9d053a69b9",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "Working out the itinerary with his co-host. He says he does not know who one of the figures is."
+},
+{
+"mention_id": "810f2361a404ee77",
+"claim_id": "zelensky-black-widow-web-europe",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Distinct from black-widow-wrapping-first-amendment, which is a different spider over American speech. He asks the audience to vouch for the pre-commitment in the comments rather than replaying the recording."
+},
+{
+"mention_id": "19f02f4c460050cd",
+"claim_id": "black-sea-strait-closed",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Turkey coming to aid and cutting off aid, given over strike footage."
+},
+{
+"mention_id": "1cbb0ee42d4628b5",
+"claim_id": "draft-includes-women",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the mechanism: not enough troops and spread too thin."
+},
+{
+"mention_id": "938577efba1ae6c8",
+"claim_id": "king-charles-scorpion-strike",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Ties the five nation grouping to a satanic tie with the British monarch becoming a scorpion."
+},
+{
+"mention_id": "a39abe0b21b4baee",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "A commentator clip on Israel and the American president. Not a claim he makes."
+},
+{
+"mention_id": "41dc9bd57b27a94d",
+"claim_id": "cuba-liberation-by-surprise",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "An official confirming talks with the Cuban government, played as the plan forming."
+},
+{
+"mention_id": "751c7268ae264272",
+"claim_id": "netanyahu-holds-lebanon-security-zone",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 19 June 2026, six days before the 25 June version this claim was seeded from. Here he claims the sovereign nation line as something he was told would be said."
+},
+{
+"mention_id": "2ab7bc26cdcfc257",
+"claim_id": "israel-makes-the-mountain-glow",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the motive: Netanyahu will not stop until he gets what is in the mountain, even after a settlement."
+},
+{
+"mention_id": "d4206d6526a26b85",
+"claim_id": "chip-factories-texas-oklahoma",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "The figures come from the announcement he is playing, not from a prior word, and he claims them as what the Lord said."
+},
+{
+"mention_id": "6067bda4d60b8b43",
+"claim_id": "china-economy-shakes-then-taiwan",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "The Chinese leader restating the standing position on Taiwan, played as escalation."
+},
+{
+"mention_id": "2b162cca04aba630",
+"claim_id": "art-of-the-deal-nato",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "NATO 3.0 with Europe taking the conventional lead, from a defence secretary clip."
+},
+{
+"mention_id": "d57561d804e9e1f6",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "A transition. The item he is pointing at is not described in the passage."
+},
+{
+"mention_id": "524711ff4dadefd3",
+"claim_id": "the-14th-protected-23-in-custody",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and the most checkable thing in the batch. The public record has the FBI disrupting a plot against the UFC Freedom 250 event at the White House on 15 and 16 June 2026, five men initially arrested and eight eventually indicted, with an encrypted network of at least twenty three participants being traced. His twenty three matches the reported network size, not the number in custody, and the event was on the 15th rather than the 14th. Recorded here rather than scored, because a single verifiable detail claimed after the fact needs the pre-commitment established first."
+},
+{
+"mention_id": "c25fefae9ccb0f98",
+"claim_id": "jesus-walking-through-europe",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "God has not forgotten Europe, repeated four times."
+},
+{
+"mention_id": "0f37c5be7fe3ff89",
+"claim_id": "taiwan-held-back-by-prayer",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. As put, a Chinese non-move confirms the holding back and a Chinese move confirms that they had plans, so both outcomes fit."
+},
+{
+"mention_id": "fad118c7aa55586c",
+"claim_id": "taiwan-held-back-by-prayer",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the dome of protection and South Korea and Japan coming to the aid."
+},
+{
+"mention_id": "3df0c35234c774f8",
+"claim_id": "taiwan-falls-in-the-tribulation",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The ten year window restated, with the Lord said to be withholding detail as unnecessary."
+},
+{
+"mention_id": "c1f49dac2166460f",
+"claim_id": "taiwan-held-back-by-prayer",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The reprieve and the communist curtain held back."
+},
+{
+"mention_id": "ae7070c1d7e3153e",
+"claim_id": "south-korea-revival-hub",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Extends the wave of glory to Taiwan alongside South Korea."
+},
+{
+"mention_id": "494d65f14b5ff5c4",
+"claim_id": "south-korea-revival-hub",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He says the pool springs out of Taiwan then corrects himself to South Korea going into Taiwan. The correction is recorded rather than smoothed."
+},
+{
+"mention_id": "565ab0ca46895cd0",
+"claim_id": "south-korea-revival-hub",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds a drought and receding water before a five foot geyser fills the pool, which puts a decline before the revival."
+},
+{
+"mention_id": "c71763a40f491254",
+"claim_id": "china-gospel-window",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Hot spots throughout China with wells the communist curtain cannot quench."
+},
+{
+"mention_id": "c794d08b2441f0ed",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "A description of his own state during prayer. No forward content."
+},
+{
+"mention_id": "a2b434207191a48b",
+"claim_id": "taiwan-held-back-by-prayer",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds Australia coming to Taiwan's aid and America preoccupied by a storm at the same time."
+},
+{
+"mention_id": "9da578760421752f",
+"claim_id": "four-doves-circling-the-flag",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. No interpretation offered, so the image can be attached to anything later."
+},
+{
+"mention_id": "46cfb7618b62a423",
+"claim_id": "toronto-pyramid-of-darkness",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "A shaking specifically in the churches of Toronto, tied to persecution coming."
+},
+{
+"mention_id": "c1388654c8643bd2",
+"claim_id": "olive-press-fresh-oil",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Pure olive oil and a honey glow on the lips of Canadian preachers, joining this claim to honey-glow-white-suits."
+},
+{
+"mention_id": "33cfdbc0a462f6be",
+"claim_id": "darkness-over-the-east-of-america",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, given as the time frame for the Asia material rather than as a dated event of its own."
+},
+{
+"mention_id": "0e10019bfcbefb5a",
+"claim_id": "pieces-at-a-time",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that the fourteenth was highlighted. This is the pre-commitment behind the-14th-protected-23-in-custody, and it is asserted rather than replayed: the passage is dated 17 June, after the 15 June event."
+},
+{
+"mention_id": "dbbb62aaa04145c1",
+"claim_id": "trump-assassination-attempt",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "Prayer over the G7 trip and the return, with a New York disturbance dismissed as not a big distraction."
+},
+{
+"mention_id": "1e02ab5b1ef71ada",
+"claim_id": "slush-funds-america",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds that Ukraine aid went to slush funds, with Macron called a mole and a weasel."
+},
+{
+"mention_id": "8d17333c1c9bea2f",
+"claim_id": "east-coast-blackout-three-weeks",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Names Philadelphia and New York and adds substations as the method. The California water incident he cites as confirmation is a hack, not an outage."
+},
+{
+"mention_id": "b1c3181859d6b852",
+"claim_id": "four-more-sim-card-sites",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "It is not just here, given against the New York SIM card find of a year earlier."
+},
+{
+"mention_id": "ee327dd221226c7b",
+"claim_id": "george-soros-in-europe",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Names a banker as talking directly to Lucifer in meetings. The euro half is checkable, the seance half is not, and the note records the split."
+}
+]
+}

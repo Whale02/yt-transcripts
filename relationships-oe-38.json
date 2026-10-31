@@ -1,0 +1,13 @@
+{"relationships":[
+{"from_claim":"septic-tank-lid-off-2026","to_claim":"ministry-scandals","rel_type":"same_event_as","asserted_by":"system",
+ "note":"Third image for one thing: ministers exposed in 2026. The images are his, the identification is mine, so the claims stay separate and linked."},
+{"from_claim":"septic-tank-lid-off-2026","to_claim":"first-corinthians-5-5-2026","rel_type":"related_to","asserted_by":"system",
+ "note":"Same year, same target, different figure. Kept apart because the verse telling aims at politicians in one version and ministers in another."},
+{"from_claim":"forerunner-nations","to_claim":"grateful-for-trump-later","rel_type":"related_to","asserted_by":"brandon",
+ "evidence_video":"KiVLKwrgsp4","evidence_start_s":1199,
+ "note":"He joins them himself: those countries lead because America has this president, so listeners will be thankful he is in office."},
+{"from_claim":"not-following-liberal-schools","to_claim":"where-prophets-go-to-die","rel_type":"related_to","asserted_by":"system",
+ "note":"Two of the three standing reasons the claims stay away from anywhere that would test them; supernatural-hard-to-convey is the third."},
+{"from_claim":"household-wont-taste-death","to_claim":"rapture-any-time","rel_type":"contradicts","asserted_by":"system",
+ "note":"The last generation that will not taste death, said three weeks after saying the rapture may be twenty years away and two minutes after saying many elders will go home."}
+]}

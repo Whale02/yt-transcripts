@@ -1,0 +1,5 @@
+# One URL per line. Anything after # is ignored.
+# Videos, playlists, channels and @handles all work.
+# https://www.youtube.com/watch?v=jNQXAC9IVRw
+# https://www.youtube.com/playlist?list=PL...
+# https://www.youtube.com/@ycombinator/videos

@@ -1,0 +1,57 @@
+[
+  {"video_id": "a4uOSv4NVrE", "start_s": 4335, "claim_id": "depression-1930s-debt-crisis",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The arithmetic is checkable and roughly right, but it is a figure of speech about the size of the debt, not a forecast. Part of the plan names no agent, action or date."},
+
+  {"video_id": "a4uOSv4NVrE", "start_s": 7239, "claim_id": "battleground-senate-2026",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "Praying over a published list of contested seats. Nothing forecast."},
+
+  {"video_id": "gklesf_Fdg8", "start_s": 856, "claim_id": "april-1-signs-in-heavens",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "An end date at last, 11 September. Signs in the heavens has no threshold, and meteors, auroras and eclipses occur continuously, so a five-month window cannot come up empty."},
+
+  {"video_id": "gklesf_Fdg8", "start_s": 894, "claim_id": "passover-april-1-acceleration",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "He offers the videos himself, which is the right way to make a priority claim. Note the geography he gives: Seattle to New York is most of a continent, not a region."},
+
+  {"video_id": "gklesf_Fdg8", "start_s": 1041, "claim_id": "passover-april-1-acceleration",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The dated sightings he counts as fulfilment are ordinary fireball reports, which the American Meteor Society logs by the thousand each year, so the base rate is the whole question. The Seattle event is the only outstanding piece with a stated magnitude."},
+
+  {"video_id": "gklesf_Fdg8", "start_s": 1405, "claim_id": "controlled-beef-supply",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The origin recording is played on air with a date given, 27 June 2025. That is the strongest form a priority claim can take here and it can be verified directly against this corpus."},
+
+  {"video_id": "gklesf_Fdg8", "start_s": 1930, "claim_id": "controlled-beef-supply",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Beef prices are a published series, so this is directly measurable. One of the few economic claims in the corpus that can be scored to a number rather than argued about."},
+
+  {"video_id": "gklesf_Fdg8", "start_s": 2397, "claim_id": "expect-the-unexpected",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The clearest thing he says about other people's failed date-setting, and he names the mechanism accurately. He does not apply it to his own dated material, of which this corpus holds a great deal."},
+
+  {"video_id": "gklesf_Fdg8", "start_s": 2630, "claim_id": "cuba-liberation-day-2027",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Neither he nor his son can date the original word, saying only that it has been seen so many times. That is exactly the looseness that makes a priority claim unverifiable."},
+
+  {"video_id": "gklesf_Fdg8", "start_s": 2707, "claim_id": "global-riots-worse-than-blm",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "A single named date makes this scoreable and it is now past due. Protests on the 14th were already publicly scheduled when he said this, so the base rate for unrest that day was not low."},
+
+  {"video_id": "gklesf_Fdg8", "start_s": 4701, "claim_id": "wealth-transfer-window",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Now past due. A trickle is the smallest possible claim: it needs no threshold and any single testimony satisfies it, which is what the wording is doing."},
+
+  {"video_id": "gklesf_Fdg8", "start_s": 6517, "claim_id": "lone-wolf-sympathizers",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Among the most specific claims in the corpus: a named city, a month, a count of one dominant plus two others, and a described garment, with his own reasoning for why it would stand out. Now past due and no such attack occurred."},
+
+  {"video_id": "gklesf_Fdg8", "start_s": 7108, "claim_id": "vance-succession-pregnancy",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "This is the passage that sets the timing the later 'we did our job' fulfilment claim depends on. The baby was born and the president was not removed, so the window this names has closed."},
+
+  {"video_id": "Tme-Su9LtHo", "start_s": 54, "claim_id": "coup-25th-amendment",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "He corrects the month mid-sentence from September to January 6th. Worth noting that January 6th here is a name for a kind of event rather than a date, so the claim carries no timing at all."}
+]

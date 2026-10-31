@@ -1,0 +1,22 @@
+[
+ {"claim_id": "five-cities-attack-plan",
+  "label": "A well-thought-out plan against five named cities",
+  "domain": "security",
+  "description": "Shown 13 September 2025: a well-planned operation against Chicago, Philadelphia, Washington DC, New York and Boston, framed as a great distraction to start civil unrest. He says the Lord will not allow him to go into the depth of it.",
+  "aliases": ["Chicago, Philadelphia, Washington", "well thought out plan", "great distraction"]},
+ {"claim_id": "cuba-russian-base",
+  "label": "Cuba lines up with Russia and a base appears there",
+  "domain": "geopolitics",
+  "description": "Cuba seen lining up with Russia, with a base established that close to America described as very dangerous and compared to the position over Greenland.",
+  "aliases": ["Cuba lining up with Russia", "a base clear down there", "so close to America"]},
+ {"claim_id": "korea-border-explosion-war",
+  "label": "An explosion on the Korean border and communism over the South",
+  "domain": "war",
+  "description": "Communism imposed over South Korea causing war, an explosion seen on the border, South Korea unable to hold, and China backing North Korea, given alongside secret meetings and North Korea, China and Russia becoming one.",
+  "aliases": ["explosion on the border", "communism over South Korea", "China's backing up North Korea"]},
+ {"claim_id": "japan-major-volcano",
+  "label": "A massive volcano goes off in Japan or the nearby islands",
+  "domain": "geology",
+  "description": "A massive volcanic eruption seen in Asia, which he hesitantly places in Japan or the island arc nearby. Japan has about 111 active volcanoes, which makes the region among the most likely places on earth for one.",
+  "aliases": ["major volcano", "could be Japan", "those islands"]}
+]

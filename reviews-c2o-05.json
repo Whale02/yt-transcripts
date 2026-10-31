@@ -1,0 +1,20 @@
+{"reviews": [
+ {"video_id": "KAiBdsXZ8jM", "start_s": 786, "claim_id": "landslide-quick-result", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.8, "note": "the petition that the election not be rigged and that the result be clear"},
+ {"video_id": "KAiBdsXZ8jM", "start_s": 865, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "a petition about illegal voting and parting the sea"},
+ {"video_id": "9408Z9aNWEU", "start_s": 66, "claim_id": "three-city-attacks-ranked", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "Nashville ranked strongest, with a Holy Spirit check"},
+ {"video_id": "9408Z9aNWEU", "start_s": 314, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "an account of how he says he receives assignments"},
+ {"video_id": "9408Z9aNWEU", "start_s": 448, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.8, "note": "the python out of the Gulf, with no observable signature"},
+ {"video_id": "9408Z9aNWEU", "start_s": 490, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "exhortation from Ezekiel 22:30"},
+ {"video_id": "9408Z9aNWEU", "start_s": 843, "claim_id": "mass-shooting-2a-campaign", "same_event": "unsure", "delta_type": "elaboration", "confidence": 0.65, "note": "the Second Amendment named as the target; unsure because no mass shooting mechanism is given here"},
+ {"video_id": "9408Z9aNWEU", "start_s": 1468, "claim_id": "asia-revival", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.85, "note": "China, South Korea and Japan named in the turnaround prayer"},
+ {"video_id": "9408Z9aNWEU", "start_s": 1506, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "declarative intercession over conversions"},
+ {"video_id": "H48Jon4ecXw", "start_s": 1921, "claim_id": "three-city-attacks-ranked", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "the ranking repeated, New Orleans weakest; this is the row the New Orleans attack should be scored against"},
+ {"video_id": "H48Jon4ecXw", "start_s": 2467, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "election-eve petition with no event attached"},
+ {"video_id": "H48Jon4ecXw", "start_s": 2588, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "an account of his current assignment"},
+ {"video_id": "4NYl2q5EtZI", "start_s": 206, "claim_id": "great-war-escalation", "same_event": "yes", "delta_type": "restatement", "confidence": 0.85, "note": "the Europe war acceleration word recalled a year on, tied to the angel from the pit"},
+ {"video_id": "4NYl2q5EtZI", "start_s": 734, "claim_id": "brics-digital-platform-off-dollar", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the private meeting and the BRICS digital platform"},
+ {"video_id": "4NYl2q5EtZI", "start_s": 777, "claim_id": "four-oak-trees", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "four oak trees read as four years, with the Mexico and Canada dollar arrangement alongside"},
+ {"video_id": "4NYl2q5EtZI", "start_s": 851, "claim_id": "tent-revival-1950s-return", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the 1950s microphone and the 220 outlet"},
+ {"video_id": "4NYl2q5EtZI", "start_s": 1546, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.8, "note": "a petition that something unnamed in Texas be exposed"},
+ {"video_id": "4NYl2q5EtZI", "start_s": 2210, "claim_id": "million-prayer-army", "same_event": "unsure", "delta_type": "new_detail", "confidence": 0.7, "note": "hundreds of thousands praying on this channel for Asia; recorded unsure because the target here is Asia rather than the million-person army"}
+]}

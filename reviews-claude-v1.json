@@ -1,0 +1,421 @@
+{
+  "_note": "Adjudications: does this mention belong to the canonical claim, and what did it add to the thread? Model claude-opus-5, prompt v1. Applied with `prophecy.py review`, which supersedes rather than overwrites.",
+  "reviews": [
+    {
+      "video_id": "wUNztkdwhXE",
+      "start_s": 35,
+      "claim_id": "digital-dollar-transition",
+      "same_event": "yes",
+      "delta_type": "first_mention",
+      "note": "Earliest statement of the digital dollar in the corpus."
+    },
+    {
+      "video_id": "wUNztkdwhXE",
+      "start_s": 40,
+      "claim_id": "digital-dollar-transition",
+      "same_event": "yes",
+      "delta_type": "severity_update",
+      "note": "Adds the magnitude: half of current value, stated as $100 buying $50."
+    },
+    {
+      "video_id": "ahtOXFdUWsc",
+      "start_s": 569,
+      "claim_id": "digital-dollar-transition",
+      "same_event": "yes",
+      "delta_type": "new_detail",
+      "note": "Adds the mechanism, a year later: cash is abandoned out of contagion fear, which is what carries the digital system through."
+    },
+    {
+      "video_id": "ahtOXFdUWsc",
+      "start_s": 724,
+      "claim_id": "digital-dollar-transition",
+      "same_event": "yes",
+      "delta_type": "elaboration",
+      "note": "Binds the digital dollar to the crash and the plague as one sequence rather than a standalone monetary event."
+    },
+    {
+      "video_id": "wUNztkdwhXE",
+      "start_s": 48,
+      "claim_id": "bank-failure-seizure",
+      "same_event": "yes",
+      "delta_type": "first_mention"
+    },
+    {
+      "video_id": "wUNztkdwhXE",
+      "start_s": 77,
+      "claim_id": "debt-jubilee",
+      "same_event": "yes",
+      "delta_type": "first_mention",
+      "note": "Stated as the consequence of the bank failure, not an independent event."
+    },
+    {
+      "video_id": "ahtOXFdUWsc",
+      "start_s": 480,
+      "claim_id": "plague-350m",
+      "same_event": "yes",
+      "delta_type": "severity_update",
+      "note": "Anchors severity to the Black Death of the 1300s."
+    },
+    {
+      "video_id": "ahtOXFdUWsc",
+      "start_s": 543,
+      "claim_id": "plague-350m",
+      "same_event": "yes",
+      "delta_type": "new_detail",
+      "note": "Splits the figure for the first time: 350M worldwide, 30M in the US."
+    },
+    {
+      "video_id": "2MOBOMGnCdE",
+      "start_s": 469,
+      "claim_id": "plague-350m",
+      "same_event": "yes",
+      "delta_type": "first_mention",
+      "note": "Earliest 350 million figure, given as a second wave behind the covid wave rather than as a plague."
+    },
+    {
+      "video_id": "ahtOXFdUWsc",
+      "start_s": 314,
+      "claim_id": "plague-350m",
+      "same_event": "yes",
+      "delta_type": "elaboration",
+      "note": "Adds the scene: cots in a grocery car park."
+    },
+    {
+      "video_id": "ahtOXFdUWsc",
+      "start_s": 364,
+      "claim_id": "plague-350m",
+      "same_event": "yes",
+      "delta_type": "elaboration",
+      "note": "Adds hospital saturation and military camps."
+    },
+    {
+      "video_id": "FHxJpX0PLPI",
+      "start_s": 844,
+      "claim_id": "plague-350m",
+      "same_event": "unsure",
+      "confidence": 0.6,
+      "delta_type": "timing_update",
+      "note": "First time a window is attached to the plague at all: late 2027 through 2029, reaching for 2030. He hedges the identification himself, so same_event stays unsure rather than being merged."
+    },
+    {
+      "video_id": "JY_DA12qbzs",
+      "start_s": 43,
+      "claim_id": "second-virus-lockdown",
+      "same_event": "yes",
+      "delta_type": "first_mention",
+      "note": "Distinct from the 350M plague thread: a dream, spring timing, European origin, lockdowns rather than mass death."
+    },
+    {
+      "video_id": "FHxJpX0PLPI",
+      "start_s": 2247,
+      "claim_id": "second-virus-lockdown",
+      "same_event": "unsure",
+      "confidence": 0.4,
+      "delta_type": "branch",
+      "note": "Deliberate release on a cruise ship. Possibly the origin of the same outbreak, possibly a separate incident; kept as a branch rather than folded in."
+    },
+    {
+      "video_id": "wP9qZYC_Cv4",
+      "start_s": 847,
+      "claim_id": "crash-1930s",
+      "same_event": "yes",
+      "delta_type": "timing_update",
+      "note": "The only time the crash gets a trigger and a deadline: a Supreme Court tariff ruling within days of 7 Nov 2025."
+    },
+    {
+      "video_id": "wP9qZYC_Cv4",
+      "start_s": 882,
+      "claim_id": "crash-1930s",
+      "same_event": "yes",
+      "delta_type": "severity_update",
+      "note": "Escalates from 1930s-scale to worse than the 1930s."
+    },
+    {
+      "video_id": "wP9qZYC_Cv4",
+      "start_s": 930,
+      "claim_id": "crash-1930s",
+      "same_event": "yes",
+      "delta_type": "elaboration",
+      "note": "Adds social consequences: tent cities, pillaging, farmers defending property."
+    },
+    {
+      "video_id": "oTgkGV03Ct4",
+      "start_s": 1132,
+      "claim_id": "crash-1930s",
+      "same_event": "yes",
+      "delta_type": "delay_claim",
+      "note": "Aug 2024: the trillion-dollar losses of that week are declared false labour, explicitly deferring the real break. This is the mechanism by which a non-event becomes evidence of a future event."
+    },
+    {
+      "video_id": "oTgkGV03Ct4",
+      "start_s": 492,
+      "claim_id": "crash-1930s",
+      "same_event": "yes",
+      "delta_type": "new_detail",
+      "note": "Adds a specific transmission channel: Social Security and food stamps suspended."
+    },
+    {
+      "video_id": "wP9qZYC_Cv4",
+      "start_s": 464,
+      "claim_id": "wealth-transfer-window",
+      "same_event": "yes",
+      "delta_type": "first_mention"
+    },
+    {
+      "video_id": "wP9qZYC_Cv4",
+      "start_s": 469,
+      "claim_id": "wealth-transfer-window",
+      "same_event": "yes",
+      "delta_type": "elaboration",
+      "note": "The instruction attached to the window: fill your pockets before the storm."
+    },
+    {
+      "video_id": "wP9qZYC_Cv4",
+      "start_s": 528,
+      "claim_id": "wealth-transfer-window",
+      "same_event": "yes",
+      "delta_type": "new_detail",
+      "note": "Names the asset classes, though not the instruments."
+    },
+    {
+      "video_id": "wP9qZYC_Cv4",
+      "start_s": 582,
+      "claim_id": "wealth-transfer-window",
+      "same_event": "yes",
+      "delta_type": "timing_update",
+      "note": "Dates the window's start by back-reference: already one year in as of Nov 2025, so it opened around Nov 2024."
+    },
+    {
+      "video_id": "2MOBOMGnCdE",
+      "start_s": 624,
+      "claim_id": "wealth-transfer-window",
+      "same_event": "unsure",
+      "confidence": 0.5,
+      "delta_type": "branch",
+      "note": "The 2023 outpouring on a select few may be the same idea two years earlier, but it is framed as ministry funding rather than a market window."
+    },
+    {
+      "video_id": "wP9qZYC_Cv4",
+      "start_s": 2173,
+      "claim_id": "silver-75",
+      "same_event": "yes",
+      "delta_type": "first_mention",
+      "note": "The only numeric, time-bound market call in the corpus. Note he sources $75 from a media segment in the same breath."
+    },
+    {
+      "video_id": "wP9qZYC_Cv4",
+      "start_s": 2201,
+      "claim_id": "gold-10k",
+      "same_event": "yes",
+      "delta_type": "first_mention"
+    },
+    {
+      "video_id": "ahtOXFdUWsc",
+      "start_s": 1757,
+      "claim_id": "gold-10k",
+      "same_event": "no",
+      "delta_type": "new_event",
+      "note": "Holding physical metal is an instruction, not the gold price call. Wrongly clustered by lexical overlap on the word gold."
+    },
+    {
+      "video_id": "2MOBOMGnCdE",
+      "start_s": 43,
+      "claim_id": "wwiii-draft-europe",
+      "same_event": "yes",
+      "delta_type": "first_mention"
+    },
+    {
+      "video_id": "2MOBOMGnCdE",
+      "start_s": 157,
+      "claim_id": "wwiii-draft-europe",
+      "same_event": "yes",
+      "delta_type": "new_detail",
+      "note": "Adds the novel non-nuclear weapon."
+    },
+    {
+      "video_id": "2MOBOMGnCdE",
+      "start_s": 246,
+      "claim_id": "wwiii-draft-europe",
+      "same_event": "yes",
+      "delta_type": "elaboration",
+      "note": "Adds Turkey funding Russia."
+    },
+    {
+      "video_id": "FHxJpX0PLPI",
+      "start_s": 2079,
+      "claim_id": "wwiii-draft-europe",
+      "same_event": "yes",
+      "delta_type": "new_detail",
+      "note": "Three years later, adds an endgame: Kiev splits under a proxy government."
+    },
+    {
+      "video_id": "2MOBOMGnCdE",
+      "start_s": 341,
+      "claim_id": "china-attacks-hawaii",
+      "same_event": "yes",
+      "delta_type": "first_mention"
+    },
+    {
+      "video_id": "2MOBOMGnCdE",
+      "start_s": 292,
+      "claim_id": "china-attacks-hawaii",
+      "same_event": "yes",
+      "delta_type": "new_detail",
+      "note": "States the stated cause: US abandonment of Israel opens the door."
+    },
+    {
+      "video_id": "FHxJpX0PLPI",
+      "start_s": 2109,
+      "claim_id": "pacific-nw-quake",
+      "same_event": "yes",
+      "delta_type": "first_mention"
+    },
+    {
+      "video_id": "FHxJpX0PLPI",
+      "start_s": 2196,
+      "claim_id": "pacific-nw-quake",
+      "same_event": "yes",
+      "delta_type": "severity_update",
+      "note": "Attaches a casualty figure: 30,000+ in British Columbia."
+    },
+    {
+      "video_id": "FHxJpX0PLPI",
+      "start_s": 2184,
+      "claim_id": "pacific-nw-quake",
+      "same_event": "yes",
+      "delta_type": "elaboration",
+      "note": "Adds a downstream consequence he asserts himself: a Yellowstone reaction."
+    },
+    {
+      "video_id": "FHxJpX0PLPI",
+      "start_s": 1010,
+      "claim_id": "internet-socialist-control",
+      "same_event": "yes",
+      "delta_type": "first_mention"
+    },
+    {
+      "video_id": "FHxJpX0PLPI",
+      "start_s": 1130,
+      "claim_id": "internet-socialist-control",
+      "same_event": "yes",
+      "delta_type": "elaboration",
+      "note": "Adds the substitution: TV and satellite become the free outlets, in-person meetings return."
+    },
+    {
+      "video_id": "FHxJpX0PLPI",
+      "start_s": 1287,
+      "claim_id": "internet-socialist-control",
+      "same_event": "yes",
+      "delta_type": "timing_update",
+      "note": "Pins the European end state to 2030."
+    },
+    {
+      "video_id": "FHxJpX0PLPI",
+      "start_s": 903,
+      "claim_id": "internet-socialist-control",
+      "same_event": "unsure",
+      "confidence": 0.5,
+      "delta_type": "branch",
+      "note": "The AI entity is given as the spiritual cause of the same clampdown, but it is a separate assertion and should not be merged into the policy claim."
+    },
+    {
+      "video_id": "wUNztkdwhXE",
+      "start_s": 96,
+      "claim_id": "grocery-shortage",
+      "same_event": "yes",
+      "delta_type": "first_mention"
+    },
+    {
+      "video_id": "oTgkGV03Ct4",
+      "start_s": 527,
+      "claim_id": "grocery-shortage",
+      "same_event": "yes",
+      "delta_type": "new_detail",
+      "note": "Adds armed guards and consolidation into central distribution points."
+    },
+    {
+      "video_id": "ahtOXFdUWsc",
+      "start_s": 720,
+      "claim_id": "grocery-shortage",
+      "same_event": "no",
+      "delta_type": "new_event",
+      "note": "Stadium affordability is an economic consequence, not the food shortage."
+    },
+    {
+      "video_id": "oTgkGV03Ct4",
+      "start_s": 973,
+      "claim_id": "us-crop-failure",
+      "same_event": "yes",
+      "delta_type": "first_mention"
+    },
+    {
+      "video_id": "oTgkGV03Ct4",
+      "start_s": 1045,
+      "claim_id": "us-crop-failure",
+      "same_event": "yes",
+      "delta_type": "elaboration",
+      "note": "Adds the household response: every home growing something."
+    },
+    {
+      "video_id": "wP9qZYC_Cv4",
+      "start_s": 1252,
+      "claim_id": "trump-health-event",
+      "same_event": "yes",
+      "delta_type": "first_mention"
+    },
+    {
+      "video_id": "wP9qZYC_Cv4",
+      "start_s": 1344,
+      "claim_id": "trump-son-shot",
+      "same_event": "yes",
+      "delta_type": "first_mention"
+    },
+    {
+      "video_id": "wP9qZYC_Cv4",
+      "start_s": 1842,
+      "claim_id": "mark-world-currency",
+      "same_event": "yes",
+      "delta_type": "first_mention"
+    },
+    {
+      "video_id": "2MOBOMGnCdE",
+      "start_s": 842,
+      "claim_id": "judgment-569-days",
+      "same_event": "yes",
+      "delta_type": "first_mention",
+      "note": "Carries its own delay inside a single mention: the date is given and reported as extended in the same breath."
+    },
+    {
+      "video_id": "wUNztkdwhXE",
+      "start_s": 199,
+      "claim_id": "egg-price-spike",
+      "same_event": "yes",
+      "delta_type": "first_mention",
+      "note": "The only claim he treats as resolved, and the one that calibrates his timing: given 2018, reported as manifesting in 2023."
+    },
+    {
+      "video_id": "FHxJpX0PLPI",
+      "start_s": 177,
+      "claim_id": "church-corruption-2026",
+      "same_event": "yes",
+      "delta_type": "first_mention",
+      "note": "Church corruption exposed in 2026. Needs its own canonical claim; no seed covers it."
+    },
+    {
+      "video_id": "FHxJpX0PLPI",
+      "start_s": 2776,
+      "claim_id": "watergate-2028",
+      "same_event": "yes",
+      "delta_type": "first_mention",
+      "note": "2028 Watergate-scale scandal. Needs its own canonical claim."
+    },
+    {
+      "video_id": "FHxJpX0PLPI",
+      "start_s": 647,
+      "claim_id": "prosperity-2027-stalemate",
+      "same_event": "yes",
+      "delta_type": "first_mention",
+      "note": "2027 prosperity plus a stalemate presidency. Two claims in one mention; should be split on re-extraction."
+    }
+  ]
+}

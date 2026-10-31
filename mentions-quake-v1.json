@@ -1,0 +1,50 @@
+{
+  "_note": "Disaster claims from June 2026 videos, including the dated Okinawa and July claims. Model claude-opus-5, prompt v1.",
+  "mentions": [
+    {"video_id": "FHxJpX0PLPI", "start_s": 1417,
+     "claim_text": "A major shaking takes place in Okinawa and a volcano in that area goes off and is seen, and in the month of July a shaking hits the nation and the world, with a crater and people dragging themselves out.",
+     "quote": "Watch Okinawa for a major shaking will take place in Okinawa",
+     "source_mode": "VISION", "certainty": "definite", "conditionality": "unconditional",
+     "topics": ["natural_disaster", "earthquake", "volcano"],
+     "locations": ["Okinawa", "Japan", "America"],
+     "time_phrase": "the month of July", "window_start": "2026-07-01",
+     "window_end": "2026-07-31", "time_precision": "month", "due_at": "2026-07-31",
+     "falsify_match": "A major Okinawa earthquake or eruption, and a significant July disaster.",
+     "falsify_miss": "July 2026 passes without either."},
+
+    {"video_id": "Nbb5gUwTSE0", "start_s": 2155,
+     "claim_text": "Putin plays his cards in the days ahead and uses unconventional weapons of war, with a major earthquake coming.",
+     "quote": "he'll use unconventional weapons of war",
+     "source_mode": "VISION", "certainty": "strong", "conditionality": "unconditional",
+     "topics": ["war", "natural_disaster"], "entities": ["Putin"], "locations": ["Russia"],
+     "time_phrase": "in the days ahead", "time_precision": "relative",
+     "falsify_match": "Russian use of chemical, biological or another unconventional weapon.",
+     "falsify_miss": "Conventional warfare continues."},
+
+    {"video_id": "Nbb5gUwTSE0", "start_s": 2263,
+     "claim_text": "A new biological weapon comes out of Cuba, and he says earthquakes will happen that are man-made.",
+     "quote": "I saw a new biological weapon... coming out of Cuba",
+     "source_mode": "VISION", "certainty": "definite", "conditionality": "unconditional",
+     "topics": ["health", "war", "natural_disaster"], "locations": ["Cuba"],
+     "time_phrase": "", "time_precision": "none",
+     "falsify_match": "A biological weapons programme traced to Cuba.",
+     "falsify_miss": "No such programme surfaces."},
+
+    {"video_id": "Nbb5gUwTSE0", "start_s": 2701,
+     "claim_text": "He points to a 5.3 in eastern Asia as part of what he described and says to watch Hong Kong.",
+     "quote": "I said, Watch Hong Kong",
+     "source_mode": "INTERPRETATION", "certainty": "strong", "conditionality": "unconditional",
+     "topics": ["natural_disaster", "earthquake"], "locations": ["Hong Kong", "China"],
+     "time_phrase": "already happening", "time_precision": "none",
+     "falsify_match": "A significant seismic or political event in Hong Kong.",
+     "falsify_miss": "Nothing notable there."},
+
+    {"video_id": "Nbb5gUwTSE0", "start_s": 4321,
+     "claim_text": "A silence before the storm, with rings of earthquake seismic activity building.",
+     "quote": "The silence before the storm",
+     "source_mode": "VISION", "certainty": "strong", "conditionality": "unconditional",
+     "topics": ["natural_disaster", "earthquake"], "time_phrase": "", "time_precision": "none",
+     "falsify_match": "A quiet period followed by a major seismic event.",
+     "falsify_miss": "Unfalsifiable as stated: no place, magnitude or window."}
+  ]
+}

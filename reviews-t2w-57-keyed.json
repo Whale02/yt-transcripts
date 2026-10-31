@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "99d69cf4f2de9a64",
+"claim_id": "panda-turns-its-back-gazes-at-taiwan",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "He puts the Taiwan move in the days ahead here. Elsewhere he puts the fall in the tribulation on a ten year window. The two framings are recorded rather than reconciled."
+},
+{
+"mention_id": "f89142255aaee704",
+"claim_id": "china-economy-shakes-then-taiwan",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "A Chinese official restating the standing one China position, played as an announcement of intent."
+},
+{
+"mention_id": "cef3f30dad55f6d2",
+"claim_id": "china-attacks-hawaii",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Sequences it: Taiwan first, then a surprise Pearl Harbor style strike on Hawaii."
+},
+{
+"mention_id": "ff4bd51ebcb02023",
+"claim_id": "axis-covenant-nk-china-russia-iran",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Chinese backing of Iranian nuclear rights added to the axis claim."
+},
+{
+"mention_id": "436d3ab6da08b980",
+"claim_id": "uranium-for-eleven-devices",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that the material was dispersed deliberately so that a single find would not get all of it."
+},
+{
+"mention_id": "c687492cdb1c9109",
+"claim_id": "zelensky-taken-out-ukraine-split",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Names Russia and America together as the actors. That is a specific and unusual attribution and makes the claim harder rather than easier."
+},
+{
+"mention_id": "998e685b5a356343",
+"claim_id": "plague-350m",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "He dates the pre-commitment to a named broadcast over a year earlier, right after the ear incident, which is checkable against that recording."
+},
+{
+"mention_id": "61c8ef469c99ab79",
+"claim_id": "plague-2027-china-rats-europe",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds Switzerland, a cruise ship route and rodent transmission as the mechanism."
+},
+{
+"mention_id": "0b6915cea8b707c0",
+"claim_id": "second-virus-lockdown",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds a fatality rate above COVID and a European origin."
+},
+{
+"mention_id": "68a95a41ba7fa3b1",
+"claim_id": "travel-shutdown-in-plague",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Puts a length on it: an extended lockdown of about twenty days with international flights halted."
+},
+{
+"mention_id": "1c5ebaf4052c95f1",
+"claim_id": "euro-trouble",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Makes the outbreak the mechanism for the euro's collapse and for introducing digital currency, which chains two standing claims together."
+},
+{
+"mention_id": "c3a1c066e427511b",
+"claim_id": "trump-bullet-by-the-ear",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He asks for his own recording to be replayed for the black thin thing. This is one of the few claims checkable directly against his archive."
+},
+{
+"mention_id": "8cff180bc84944aa",
+"claim_id": "plague-350m",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "He uses the American population figure to convey the scale, which is a real check on his own number: 350 million exceeds the entire United States."
+},
+{
+"mention_id": "993e166cb1410c81",
+"claim_id": "medical-ship-outside-new-york",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds mortuary freezers and a large ship outside New York, and he says the Lord gives him specific numbers when challenged on the figure."
+},
+{
+"mention_id": "e571f809fec8fedf",
+"claim_id": "oval-office-prayer-glory",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "The shock paddles applied to the nation with shockwaves going over the land."
+},
+{
+"mention_id": "b9b2b68ccce7a674",
+"claim_id": "the-virus-is-to-derail-the-revival",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. As put, an outbreak with no revival still fits, because the outbreak is the thing that stopped it."
+},
+{
+"mention_id": "1c0375daeaa7c5cd",
+"claim_id": "a-two-term-president-coming",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. The accountability clause means a failure is attributable to how the church prayed rather than to the claim."
+},
+{
+"mention_id": "663f0cdeef54fab4",
+"claim_id": "virus-dies-on-the-boat",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and it contradicts the same broadcast: he declares the virus dies on the boat and will not spread over Europe, having just said it will spread through Europe and crash the euro. Both directions covered within one sitting."
+},
+{
+"mention_id": "f332f73c86cf37e1",
+"claim_id": "anoint-your-house-and-car",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Anointing oil around the house with the Passover argument attached."
+},
+{
+"mention_id": "a97b66074c7c9fcb",
+"claim_id": "vatican-mothership",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The mothership over the Vatican and the Mayan temples, with the film comparison named."
+},
+{
+"mention_id": "495dd5ccd87123de",
+"claim_id": "vatican-mothership",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the speed of sound and lightning coming off it."
+},
+{
+"mention_id": "8d200583d5ea7aca",
+"claim_id": "five-reptilian-lineages",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Nothing here can be checked; the subject is hidden lineages."
+},
+{
+"mention_id": "b645b9943a91544f",
+"claim_id": "giants-and-the-flooded-bloodline",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. An account of prehistory rather than a forward claim."
+},
+{
+"mention_id": "5943422d11d83d67",
+"claim_id": "prophetic-accuracy-2025",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He says he is cautious about what he lets in and does not know who people are. Worth recording because much of this batch comes from material sent to him."
+},
+{
+"mention_id": "48afdcdcd5310c1b",
+"claim_id": "five-reptilian-lineages",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that each lineage differs by region, with a bird lizard in Central America."
+},
+{
+"mention_id": "ad893c29a903d993",
+"claim_id": "apophis-2029-impact",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "He states in the same passage that the calculations say it will miss, which is the published trajectory for the 2029 pass. Recording the counter evidence in his own words."
+},
+{
+"mention_id": "e6f9e94b0e203f68",
+"claim_id": "congressman-on-speakerphone-to-pastors",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, given as something that happened rather than something seen. He names neither the member nor the meeting."
+},
+{
+"mention_id": "b4d3564c87bfa5db",
+"claim_id": "cern-computer-einstein",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds quantum computing out of control with a demon behind the system."
+},
+{
+"mention_id": "2543dfd5faf33e7e",
+"claim_id": "cern-copies-open-portals",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds AI scanning old manuscripts and translating demonic languages at three named facilities."
+},
+{
+"mention_id": "81d5ab2ce4c460a1",
+"claim_id": "stimulus-2500-under-150k",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Two thousand cheques with a maximum of twenty five hundred, said to be under discussion behind closed doors."
+},
+{
+"mention_id": "605fe0c0cd15e157",
+"claim_id": "stimulus-2500-under-150k",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He notes the two thousand figure matches the news but that his own number was twenty five hundred, which is an honest distinction rather than a claimed exact hit."
+},
+{
+"mention_id": "487c149d215771e9",
+"claim_id": "banks-lasso-the-rocket",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds interest rate protection as the banks' motive. The same four institutions are named across several separate claims here."
+},
+{
+"mention_id": "4c8cb16271cb26a0",
+"claim_id": "will-they-release-all-of-it",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and he puts it as a question rather than an assertion."
+},
+{
+"mention_id": "8b5e0c4dc99d2351",
+"claim_id": "named-ministers-strategic-voices",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Names a living minister and gives him a direction, which makes it checkable."
+},
+{
+"mention_id": "a7f541568fb0d6c9",
+"claim_id": "named-ministers-strategic-voices",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds seven states across which the strategic voices are placed."
+},
+{
+"mention_id": "5839b88e5634d594",
+"claim_id": "named-ministers-strategic-voices",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Names a second broadcaster and says he does not know where he is now, which is a genuine limit stated in the moment."
+},
+{
+"mention_id": "64558d35625f69f6",
+"claim_id": "clarity-act-one-vote",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "The act coming to pass with a harvest attached and no more delay called."
+},
+{
+"mention_id": "5d6a03bfc5cbe811",
+"claim_id": "netanyahu-pushed-out-war-crimes",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Gives the cause: removed because he stood against the two-state solution."
+},
+{
+"mention_id": "839a8ad63bd1b09a",
+"claim_id": "israel-hidden-technology",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds AI driven medical cures and soil technology for drought. Israeli agritech is an established export sector, which lowers what the claim adds."
+},
+{
+"mention_id": "43464f4e885992a8",
+"claim_id": "trump-golf-course-in-gaza",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "Puts the development start at pretty quick, which tightens a previously open claim."
+},
+{
+"mention_id": "5e42d4f975ac8334",
+"claim_id": "whats-in-the-lake-panama-guatemala",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He does not say what is in the lake, which removes the checkable part."
+},
+{
+"mention_id": "c9c088ba3811ff9c",
+"claim_id": "cern-copies-open-portals",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Demonic portals through the facilities, with a note that people thought he made it up."
+},
+{
+"mention_id": "50dd95c32fd716d9",
+"claim_id": "cern-computer-einstein",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "It is not science fiction but real, and they are playing with fire."
+},
+{
+"mention_id": "e8c367cd894d26ab",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "A production aside about time zones."
+},
+{
+"mention_id": "cce6c3e28ecac426",
+"claim_id": "cuba-liberation-by-surprise",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "Cuba is next, which puts an order on it relative to the Iran matter."
+},
+{
+"mention_id": "4d8c869783c7995a",
+"claim_id": "cuba-revival-rubio-tens-of-thousands",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The tens of thousands line with a shaking to Cuba and the Latino community."
+},
+{
+"mention_id": "f7d2a8948bc0f3d8",
+"claim_id": "cuba-liberation-by-surprise",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "A presidential aside about taking over Cuba almost immediately, made while praising an architect. He notes himself a moment later that the president is joking."
+},
+{
+"mention_id": "7d937ca280004f5e",
+"claim_id": "cuba-revival-rubio-tens-of-thousands",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He says the president is joking about it but that he believes it, which is worth recording as him distinguishing the joke from the word."
+},
+{
+"mention_id": "bb44a24e8287d7ea",
+"claim_id": "cuban-leader-double-flees",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He gives two paths, flight with cash or being taken out in a building. Two paths together cover most possible outcomes."
+},
+{
+"mention_id": "7328f80342b5df0a",
+"claim_id": "cardinal-picking-at-the-dove",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "The fullest version of the animal set: two crows over a dead dove, a turtle in glasses friendly with the cardinal, a weasel scheming in France and a cobra."
+},
+{
+"mention_id": "c3a287806df3da05",
+"claim_id": "art-of-the-deal-nato",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds a reported five thousand troop drawdown from Germany, claimed as matching what they saw on the Thursday."
+},
+{
+"mention_id": "bb318d7e4497cb18",
+"claim_id": "breakthrough-in-the-strait",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 4 May 2026, ten days before the 14 May version this claim was seeded from. Here it is under the table deals and asking for help rather than a breakthrough."
+},
+{
+"mention_id": "3ccdd752f2b5e814",
+"claim_id": "vision-is-a-prayer-target",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He describes the visions as all similar and all different, and given to show him how to pray rather than what will happen."
+},
+{
+"mention_id": "280514c837a32718",
+"claim_id": "poland-war-spread",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "A NATO troop movement into Poland read as the provocation forming."
+},
+{
+"mention_id": "2bfb59a4a30c5bf7",
+"claim_id": "russian-weapon-warsaw-mushroom",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Not nuclear but looked nuclear, near Warsaw, with the provocation attached."
+}
+]
+}

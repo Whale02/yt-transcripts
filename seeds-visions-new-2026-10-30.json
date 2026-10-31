@@ -1,0 +1,65 @@
+[
+ {"claim_id":"new-madrid-earthquake","label":"Major New Madrid fault earthquake splits USA","domain":"disasters",
+  "description":"Jun 2023: 10.0 earthquake on New Madrid splitting USA in half. Later: shaking and fault becoming active.",
+  "aliases":["New Madrid earthquake","10.0 earthquake","fault line split"]},
+
+ {"claim_id":"san-francisco-earthquake","label":"Devastating earthquake on US west coast / San Francisco","domain":"disasters",
+  "description":"Apr 2025: massive earthquake from British Columbia to San Francisco, shook the foundation of the earth.",
+  "aliases":["San Francisco earthquake","west coast earthquake","devastating quake"]},
+
+ {"claim_id":"china-hawaii-attack","label":"China surprise attack on Hawaii like Pearl Harbor","domain":"politics",
+  "description":"Jul 2023: China attacks Hawaii as a surprise attack, red dragon streaking across. Repeated 69 times.",
+  "aliases":["China attack Hawaii","Pearl Harbor","red dragon"]},
+
+ {"claim_id":"church-attacks-us","label":"Attacks on American mega churches","domain":"terrorism",
+  "description":"Jul 2023: saw attacks on mega churches, shootings, explosive devices in churches in Florida and North Carolina.",
+  "aliases":["church attacks","mega church shooting","explosive devices church"]},
+
+ {"claim_id":"grid-cyberattack","label":"Cyberattack takes down US power grid","domain":"terrorism",
+  "description":"Oct 2023: cyberattack or false flag on electric grid, power out in New York, down for 3 weeks.",
+  "aliases":["electric grid down","cyber attack grid","power outage New York"]},
+
+ {"claim_id":"pope-dies","label":"Pope Francis dies or resigns","domain":"politics",
+  "description":"Sep 2024: saw the devil trying to influence the Pope, implied death/resignation coming.",
+  "aliases":["Pope dies","Pope resign","Vatican"]},
+
+ {"claim_id":"king-charles-dies","label":"King Charles dies, Prince William takes throne","domain":"politics",
+  "description":"Sep 2026: King Charles would go home, about to die, saw Prince William take up and then George.",
+  "aliases":["King Charles dies","Prince William king","royal goes home"]},
+
+ {"claim_id":"venezuela-freed","label":"Venezuela freed from Maduro, battleships surround","domain":"politics",
+  "description":"Sep 2025: saw battleships around Venezuela, more than drug trafficking, front to pause BRICS.",
+  "aliases":["Venezuela battleships","Maduro removed","Venezuela liberation"]},
+
+ {"claim_id":"ukraine-files-burned","label":"Files burned in Ukraine, peace deal negotiations","domain":"politics",
+  "description":"Dec 2024: saw them burning files and documents in Ukraine, computers destroyed, covering up.",
+  "aliases":["Ukraine files burned","documents destroyed","Ukraine cover up"]},
+
+ {"claim_id":"china-taiwan-invasion","label":"China invades or blockades Taiwan","domain":"politics",
+  "description":"Jul 2023: saw China attacking, surprise attack on islands. 69 passages across corpus.",
+  "aliases":["China invades Taiwan","Taiwan attack","China blockade"]},
+
+ {"claim_id":"cancer-cure-breakthrough","label":"God brings cure for cancer through lab breakthrough","domain":"health",
+  "description":"Jul 2024: saw a man in a lab coat, holy ghost revelation, cure for cancer coming.",
+  "aliases":["cure for cancer","cancer breakthrough","lab coat revelation"]},
+
+ {"claim_id":"bank-of-america-hack","label":"Bank of America embarrassing cyber breach","domain":"economics",
+  "description":"Mar 2026: saw embarrassing moments for Bank of America, cyber attacks, people cant get money from ATMs.",
+  "aliases":["Bank of America embarrassing","BofA hack","ATMs black"]},
+
+ {"claim_id":"nyc-subway-attack","label":"New York subway tunnels blown up, flooded","domain":"terrorism",
+  "description":"Nov 2025: saw them blow up underwater tunnels, flooding subway, many dead in minutes.",
+  "aliases":["subway blown up","underwater tunnels flooded","New York subway attack"]},
+
+ {"claim_id":"new-bp-oil-spill","label":"New BP-type oil spill in Gulf","domain":"disasters",
+  "description":"Nov 2025: saw a new BP-type oil spill, oil derrick falls, sabotage.",
+  "aliases":["BP oil spill","oil derrick","Gulf oil spill"]},
+
+ {"claim_id":"food-shortage-empty-shelves","label":"Food shortages with cobwebs on grocery shelves","domain":"economics",
+  "description":"Jul 2023: saw cobwebs in corners of shelves, food lines, empty grocery stores.",
+  "aliases":["cobwebs shelves","food shortage","empty grocery stores","food lines"]},
+
+ {"claim_id":"911-type-domestic-attack","label":"Another 9/11-type domestic terror attack planned","domain":"terrorism",
+  "description":"Mar 2024: they are planning another type of 9/11 event in America, fertilizer bombs, Timothy McVeigh style.",
+  "aliases":["9/11 event","Timothy McVeigh","fertilizer bomb","domestic terror"]}
+]

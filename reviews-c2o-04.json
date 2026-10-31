@@ -1,0 +1,19 @@
+{"reviews": [
+ {"video_id": "sroLpUHHhXM", "start_s": 2619, "claim_id": "revival-not-trump-saves-america", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.85, "note": "do not look to a man; only an awakening unto God saves America"},
+ {"video_id": "iTNAyPgepls", "start_s": 425, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "criticism of other channels monetising prophetic content"},
+ {"video_id": "iTNAyPgepls", "start_s": 1195, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.95, "note": "personal testimony about the water bill"},
+ {"video_id": "iTNAyPgepls", "start_s": 1332, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "seed-faith teaching from his own history"},
+ {"video_id": "iTNAyPgepls", "start_s": 1636, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.95, "note": "personal history"},
+ {"video_id": "SS4HP4oraoU", "start_s": 472, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "a private religious experience with no external referent"},
+ {"video_id": "SS4HP4oraoU", "start_s": 2407, "claim_id": "glory-domes-healing", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the glory domes and the people travelling to them"},
+ {"video_id": "SS4HP4oraoU", "start_s": 2449, "claim_id": "global-revival-continents", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.85, "note": "revival in America, Europe and Africa, interrupted by the subscribe prompt"},
+ {"video_id": "IImgvkZzmiU", "start_s": 637, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.95, "note": "his wife introducing a viewer's email"},
+ {"video_id": "IImgvkZzmiU", "start_s": 672, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "the viewer's letter, not a word he gives; recorded so the Psalm 83 material has a provenance"},
+ {"video_id": "IImgvkZzmiU", "start_s": 716, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "continued reading of the viewer's letter on Isaiah 17 and Damascus"},
+ {"video_id": "IImgvkZzmiU", "start_s": 1027, "claim_id": "seventy-year-grace-ended-2015", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the seventy-year blessing dated to 2015"},
+ {"video_id": "IImgvkZzmiU", "start_s": 1152, "claim_id": "revival-not-trump-saves-america", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "no one in Congress or the Senate stops it; only revival does"},
+ {"video_id": "Bd5zZhzl8vg", "start_s": 2342, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.95, "note": "the supernatural twenty dollar bill anecdote"},
+ {"video_id": "oTgkGV03Ct4", "start_s": 320, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "preparedness advice on fuel economy and medication"},
+ {"video_id": "oTgkGV03Ct4", "start_s": 364, "claim_id": "medication-shortage", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "tied to a China move on Taiwan, and narrowed to some drug classes rather than all"},
+ {"video_id": "oTgkGV03Ct4", "start_s": 961, "claim_id": "us-crop-failure", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.9, "note": "dusty combines and no crops in any field from west to east"}
+]}

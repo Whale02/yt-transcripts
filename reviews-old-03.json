@@ -1,0 +1,65 @@
+{
+  "_note": "Adjudications for oldest-end batch 03, mid 2023. Includes one correction to batch 02. Model claude-opus-5, prompt v1.",
+  "reviews": [
+    {"video_id": "iVIxnrS3CmE", "start_s": 0, "claim_id": "italy-volcano", "same_event": "yes", "delta_type": "restatement",
+     "note": "Correction to batch 02, which marked this first_mention. P7viEh9luCE@0 of 5 July 2023 is the earlier telling and takes first_mention; this September retelling is a restatement that adds the Italy tie."},
+
+    {"video_id": "Pio0TQ9YvD0", "start_s": 440, "claim_id": "saudi-brics", "same_event": "yes", "delta_type": "restatement",
+     "note": "Adds Argentina to the accession list and puts a countdown on it: five months left."},
+    {"video_id": "Pio0TQ9YvD0", "start_s": 522, "claim_id": null, "same_event": "no", "delta_type": "no_claim",
+     "note": "News round-up: Fukushima water release and the Trump mug shot."},
+    {"video_id": "Pio0TQ9YvD0", "start_s": 604, "claim_id": "harris-succession", "same_event": "yes", "delta_type": "first_mention",
+     "note": "The Ford and Nixon analogy makes this a succession claim, not an election one. Given August 2023, eleven months before Biden withdrew."},
+
+    {"video_id": "SCXTYJcPb7o", "start_s": 282, "claim_id": "dem-shakeup-2024", "same_event": "unsure", "delta_type": "new_detail",
+     "note": "Left unsure on purpose. dem-shakeup-2024 reads as upheaval; this telling says great things are coming for the Democratic Party. Same subject, opposite valence, so it stays visible rather than folded in."},
+    {"video_id": "SCXTYJcPb7o", "start_s": 320, "claim_id": "soar-2024", "same_event": "yes", "delta_type": "first_mention",
+     "note": "Bundles the stimulus image with the good-year word: the economy is pumped full of money to make everything look good, and 2024 is still called good."},
+    {"video_id": "SCXTYJcPb7o", "start_s": 464, "claim_id": "digital-crypto-new-era", "same_event": "yes", "delta_type": "first_mention"},
+    {"video_id": "SCXTYJcPb7o", "start_s": 498, "claim_id": "august-24-significant", "same_event": "yes", "delta_type": "elaboration",
+     "note": "Carries his clearest disclaimer about dates, and the aside about a generation that does not see death."},
+
+    {"video_id": "tF2mSIr1Pm8", "start_s": 549, "claim_id": "soar-2024", "same_event": "yes", "delta_type": "restatement"},
+    {"video_id": "tF2mSIr1Pm8", "start_s": 864, "claim_id": "financial-shift-catastrophe-outpouring", "same_event": "yes",
+     "delta_type": "first_mention",
+     "note": "Three-part structure given as one word. The catastrophic event is left undescribed, which is what makes the set hard to score."},
+    {"video_id": "tF2mSIr1Pm8", "start_s": 900, "claim_id": "soar-2024", "same_event": "yes", "delta_type": "elaboration",
+     "note": "Supplies the coin device: focus on the bad or the good, it is a choice. That is what makes soar-2024 unfalsifiable as stated."},
+    {"video_id": "tF2mSIr1Pm8", "start_s": 1183, "claim_id": null, "same_event": "no", "delta_type": "no_claim",
+     "note": "Confession of faith over his daughter."},
+    {"video_id": "tF2mSIr1Pm8", "start_s": 1296, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "tF2mSIr1Pm8", "start_s": 1980, "claim_id": null, "same_event": "no", "delta_type": "no_claim",
+     "note": "Testimony of a $3,500 gift covering hospital bills."},
+
+    {"video_id": "dvqTha9uG8Q", "start_s": 1503, "claim_id": null, "same_event": "no", "delta_type": "no_claim",
+     "note": "Channel history: told to be on YouTube, 50,000 subscribers by August 2023."},
+    {"video_id": "EJ3Rtm3uJQw", "start_s": 1491, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "kIXRUu8-f-c", "start_s": 278, "claim_id": null, "same_event": "no", "delta_type": "no_claim"},
+    {"video_id": "kIXRUu8-f-c", "start_s": 576, "claim_id": "mass-shooting-2a-campaign", "same_event": "yes",
+     "delta_type": "first_mention",
+     "note": "One of the few places he names a political motive behind an event he is praying against."},
+
+    {"video_id": "P7viEh9luCE", "start_s": 0, "claim_id": "italy-volcano", "same_event": "yes", "delta_type": "first_mention",
+     "note": "The earliest telling, 5 July 2023, and it dates the origin further back to a prayer time around April 2022."},
+
+    {"video_id": "2MOBOMGnCdE", "start_s": 868, "claim_id": "judgment-569-days", "same_event": "unsure",
+     "delta_type": "contradiction",
+     "note": "He gives the angel's count as 510 days here and as 569 days in XxwF--X7PLo@1593. Both land on 2 October, so at most one arithmetic can be right. Not merged: the count is the whole substance of this claim."},
+
+    {"video_id": "wUNztkdwhXE", "start_s": 158, "claim_id": "timing-fallibility", "same_event": "yes",
+     "delta_type": "first_mention",
+     "note": "His standing account of his own error. Recorded as a claim rather than discarded as framing, because it is what every later miss is scored against."},
+    {"video_id": "wUNztkdwhXE", "start_s": 238, "claim_id": "timing-fallibility", "same_event": "yes",
+     "delta_type": "elaboration",
+     "note": "The chickens episode, the clearest worked example: he apologised to his wife for missing it, then recovered it as either averted by prayer or merely early. Also the earliest food-shortage material in the corpus."},
+
+    {"video_id": "RlS3QooVBxg", "start_s": 3449, "claim_id": "rapture-any-time", "same_event": "yes", "delta_type": "elaboration",
+     "note": "Sources the urgency to the 2014 visitation, and notes that the time frames he was shown were withheld."},
+    {"video_id": "RlS3QooVBxg", "start_s": 3612, "claim_id": "aliens-normalized", "same_event": "yes", "delta_type": "first_mention"},
+    {"video_id": "RlS3QooVBxg", "start_s": 3868, "claim_id": "pretrib-first-round", "same_event": "yes", "delta_type": "first_mention"},
+    {"video_id": "RlS3QooVBxg", "start_s": 3988, "claim_id": "tribulation-starbucks", "same_event": "yes", "delta_type": "first_mention",
+     "note": "Unusually checkable for a tribulation vision: a named chain on a named site."},
+    {"video_id": "RlS3QooVBxg", "start_s": 4082, "claim_id": "tribulation-starbucks", "same_event": "yes", "delta_type": "new_detail",
+     "note": "Extends it to buildings generally: structures seen in 2014 that did not then exist are being built now."}
+  ]
+}

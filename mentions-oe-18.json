@@ -1,0 +1,22 @@
+{
+  "_note": "Oldest-end sweep batch 18: the two stragglers below 2025-06-30, plus September 2025. Model claude-opus-5, prompt v1.",
+  "mentions": [
+    {"video_id": "Caz8kj-WfcU", "start_s": 2140,
+     "claim_text": "He declares an expiration date on viewers' problems, on sickness they have carried twenty or thirty years, on bad marriages and on the poverty they have walked through.",
+     "quote": "there's an expiration date to their problems",
+     "source_mode": "PRAYER_DECLARATION", "certainty": "definite", "conditionality": "unconditional",
+     "topics": ["health", "economics"], "locations": [],
+     "time_phrase": "expiration date", "time_precision": "none",
+     "falsify_match": "unfalsifiable: private outcomes over an unnamed audience with no date attached.",
+     "falsify_miss": "n/a"},
+
+    {"video_id": "Caz8kj-WfcU", "start_s": 3051,
+     "claim_text": "He prays that those who locked people in their houses and who froze the truckers' bank accounts be exposed for who they are, says Justin Trudeau is evil and the other man is more evil, and calls an exposing of darkness.",
+     "quote": "Justin Trudeau is evil and this other man's more evil",
+     "source_mode": "PRAYER_DECLARATION", "certainty": "definite", "conditionality": "unconditional",
+     "topics": ["politics"], "locations": ["Canada"],
+     "time_phrase": "", "time_precision": "none",
+     "falsify_match": "Canadian officials exposed or held to account over the lockdowns and the trucker account freezes.",
+     "falsify_miss": "No such exposure."}
+  ]
+}

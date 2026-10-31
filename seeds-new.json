@@ -1,0 +1,13 @@
+[
+  {"claim_id": "trump-wartime-president",
+   "label": "Trump will be known as a wartime president",
+   "domain": "politics",
+   "description": "A word said to have been given right before the 2024 election, that Trump will be known as a wartime president, noted against the fact that he came out of the box saying he would be a man of peace and wanted the Nobel Peace Prize.",
+   "aliases": ["known as a wartime president", "I'm going to be a man of peace", "the Nobel Peace Prize"]},
+
+  {"claim_id": "headlines-nation-in-turmoil",
+   "label": "Headlines in black bold letters: terror in the heartland, nation in turmoil",
+   "domain": "terrorism",
+   "description": "A pair of headline visions replayed from earlier recordings: terror in the heartland with terror striking again in the papers, seen in December, and a nation in turmoil seen in the headlines in black bold letters on May 4th. He says he has an urgency in his heart to tell people they must wake up.",
+   "aliases": ["terror in the heartland", "nation in turmoil", "in the headlines in black bold letters"]}
+]

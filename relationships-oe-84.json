@@ -1,0 +1,26 @@
+{"relationships": [
+  {"from_claim": "attack-worse-than-october-7", "to_claim": "damascus-ruinous-heap",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "MlCLrdfztps", "evidence_start_s": 908,
+   "note": "He places the night attack up by Damascus, joining it to the Damascus material already on file."},
+
+  {"from_claim": "putin-assured-by-trump", "to_claim": "red-tip-missiles-moscow",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "ig_1Spghkgg", "evidence_start_s": 7754,
+   "note": "Both concern Putin and Zelensky in the same run of visions, one the assurance given and one the strike coming."},
+
+  {"from_claim": "putin-assured-by-trump", "to_claim": "pieces-of-what-i-saw",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "ig_1Spghkgg", "evidence_start_s": 7754,
+   "note": "He states the withholding explicitly, saying that is all he will say and that he will pray about releasing more, which is the same move recorded under pieces-of-what-i-saw."},
+
+  {"from_claim": "wings-clipped-january", "to_claim": "no-plan-b-supreme-court",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "ig_1Spghkgg", "evidence_start_s": 7515,
+   "note": "He puts the Supreme Court and Justice Thomas at the centre of the clipping, making the court the decisive body in both claims."},
+
+  {"from_claim": "shmita-2028-window", "to_claim": "tribulation-2029",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "7ufmrBqNg-o", "evidence_start_s": 2547,
+   "note": "He derives one from the other, reasoning that a shmita cycle is seven years and the tribulation lasts seven years, so the return falls around a shmita."}
+]}

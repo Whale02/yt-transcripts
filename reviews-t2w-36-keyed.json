@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "9e9ccd456e37f31a",
+"claim_id": "goshen-light-egypt-darkness",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Rahab and the anointed doorpost added as the mechanism"
+},
+{
+"mention_id": "efb23f5b7c529f93",
+"claim_id": "movie-2026-evangelism",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Mel Gibson named, with weeping in cinemas"
+},
+{
+"mention_id": "0319a5b64674a0c8",
+"claim_id": "pacific-nw-quake",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "four places named as where the same will happen"
+},
+{
+"mention_id": "3b668ad41a6bdeda",
+"claim_id": "brazil-shaken",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Brazil is not in a high seismic zone, which makes this a hard claim"
+},
+{
+"mention_id": "407bbe892e95b16b",
+"claim_id": "california-big-one",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "he answers the charge that he is cursing it by attributing it to the Lord"
+},
+{
+"mention_id": "08d138e398622a2d",
+"claim_id": "california-revival",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "Azusa Street named as the pattern"
+},
+{
+"mention_id": "d5bba7a525b0e1d6",
+"claim_id": "apollyon-war-2025",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the spinning top and the morphing face again, now on Putin creating the war"
+},
+{
+"mention_id": "84da5481a43d97e7",
+"claim_id": "black-sea-strait-closed",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the closure done for Putin, with Ezekiel following"
+},
+{
+"mention_id": "4ffbb57147fff547",
+"claim_id": "turkey-turns-back",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "a direct warning to the president not to trust Turkey"
+},
+{
+"mention_id": "165426646266be28",
+"claim_id": "tribulation-birthing-pains",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the beginning of sorrows framing, with previous generations said to have been wrong"
+},
+{
+"mention_id": "b2fcf6f9db4c8e87",
+"claim_id": "emergency-911-disruption",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "the hack called practice for a ten city event"
+},
+{
+"mention_id": "c0dbd3c5b40a4a8c",
+"claim_id": "banks-embarrassing-days",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "no bank is named, which limits it"
+},
+{
+"mention_id": "a7b86f8dc5e6e137",
+"claim_id": "gaza-agreement",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the fifteen point plan rejected over disarmament"
+},
+{
+"mention_id": "804a305ed66fa294",
+"claim_id": "fearful-signs-heavens",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "an almanac eclipse offered as something to watch"
+},
+{
+"mention_id": "ed4a5e8c5c4b95c9",
+"claim_id": "ezekiel-38-turkey",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the Syrian bases deal taken as the alliance forming"
+},
+{
+"mention_id": "c37ac60d775a6743",
+"claim_id": "oil-infrastructure-sabotage",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "named facilities and the railroads"
+},
+{
+"mention_id": "96b50a9c8b74a541",
+"claim_id": "brazil-shaken",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "the Colombian coffee article he reaches for is from 1999, and he corrects himself on air"
+},
+{
+"mention_id": "d06a4059a17da00d",
+"claim_id": "india-temples-shaken-earthquakes",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "falling in a day, with China added"
+},
+{
+"mention_id": "8806f04b87417933",
+"claim_id": "depression-1930s-debt-crisis",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the can no longer kickable, with disasters compounding it"
+},
+{
+"mention_id": "d3b9779c456a34f0",
+"claim_id": "st-louis-street-revival",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "popcorn in a pan, sporadic and with no central figure"
+},
+{
+"mention_id": "ea822b77375170c2",
+"claim_id": "clarity-act-one-vote",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "four banks and BlackRock named at the table"
+},
+{
+"mention_id": "abcc090acbec35f2",
+"claim_id": "clarity-act-one-vote",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "JP Morgan holding the rocket, crypto in the rapids"
+},
+{
+"mention_id": "eec7c2812a038149",
+"claim_id": "prosperity-2027-stalemate",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "the legacy reduced to a ballroom, with a Judas warned of"
+},
+{
+"mention_id": "858a8f7cdbae0154",
+"claim_id": "trump-assassination-attempt",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "abort heard three times and the plot said to be shifted by prayer, which leaves nothing to check"
+},
+{
+"mention_id": "44ed386e60df1108",
+"claim_id": "plague-350m",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "seen dozens of times and dated back to 2018, before this archive begins"
+},
+{
+"mention_id": "5db30d9546b2a8c9",
+"claim_id": "oil-rain-in-russia",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "American help assumed rather than known, and he says so"
+},
+{
+"mention_id": "c65d2f7ee1c470a2",
+"claim_id": "turkey-vampire-dracula-cape",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the vampire figure and the strait together"
+},
+{
+"mention_id": "d60bfd0d6bfb56c4",
+"claim_id": "black-sea-strait-closed",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "navigation restrictions cited as fulfilment; restrictions are not the closure he described"
+},
+{
+"mention_id": "cf600962fd8e2075",
+"claim_id": "warsaw-ww3-trigger",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "a sequence given: closure, Poland struck, Turkey turns, Israel attacked"
+},
+{
+"mention_id": "40089bb5b7c807d8",
+"claim_id": "turkey-vampire-dracula-cape",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "the cape put on as the drums beat"
+},
+{
+"mention_id": "65336e9a52708366",
+"claim_id": "unconventional-weapons",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "world war three seen written above Ukraine"
+},
+{
+"mention_id": "57ec0082b39bfb70",
+"claim_id": "black-sea-strait-closed",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the Dardanelles named, with the tired-of-cat-and-mouse meeting given as the cause"
+},
+{
+"mention_id": "8f6328d027fab5c6",
+"claim_id": "smart-ring-biometrics",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "satellites rather than 5G, communicating with the finger or forehead"
+},
+{
+"mention_id": "331c083a9a9bdeba",
+"claim_id": "japan-major-volcano",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "he rules out the current eruption because nobody died, which tightens rather than widens the claim"
+},
+{
+"mention_id": "b69c67adc4e1b093",
+"claim_id": "cuba-liberation-day-2027",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "a reported CIA task force taken as the Bay of Pigs prayer answered"
+},
+{
+"mention_id": "bfb7bc9680b67bc9",
+"claim_id": "prayer-can-stop-it",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "he concedes certain things will not be stopped, then asks for no draft and no major war anyway"
+},
+{
+"mention_id": "c09614a8eb7ec2fe",
+"claim_id": "financial-storm-averted-prayer",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "no depression and no recession declared, which sits against his own crash claims"
+},
+{
+"mention_id": "a415d9cad54dabc0",
+"claim_id": "youth-revival-colleges",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "five regions named for the youth outpouring"
+},
+{
+"mention_id": "da190ec2994918f8",
+"claim_id": "latino-move-of-god",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "just beginning to sprinkle, which is a hedge on the timing"
+},
+{
+"mention_id": "83d6da397b15cd6e",
+"claim_id": "latino-move-of-god",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "the rain declared already here and the drought over, which makes a delay hard to explain"
+},
+{
+"mention_id": "aa984707b0d8cd4e",
+"claim_id": "hawaii-revival-pillar",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the Democrat in Hawaii shaken alongside the state"
+},
+{
+"mention_id": "4cbcd9529f305957",
+"claim_id": "water-shortage-relocation",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "California supply trucks named; offered as a prayer point rather than an instruction"
+},
+{
+"mention_id": "ed6aaf9d7b36fa62",
+"claim_id": "california-megachurch-scandal",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "one church in particular seen, which he declines to name"
+},
+{
+"mention_id": "1d7b9ab566a4e89e",
+"claim_id": "goshen-light-egypt-darkness",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the red cord of Rahab given as the pattern for California"
+},
+{
+"mention_id": "7240319063f52abe",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "a foreign leader's words played on air"
+},
+{
+"mention_id": "3298740fbff33ea8",
+"claim_id": "iran-regime-flip-reza-assassinated",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "reports of the leader's death taken as the word landing, with Pahlavi named"
+},
+{
+"mention_id": "b892cff5ed2869f8",
+"claim_id": "ezekiel-38-turkey",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "at the door and possible anytime; he has said at the door repeatedly since 2023"
+},
+{
+"mention_id": "d8d0017da74eb40d",
+"claim_id": "shaking-to-the-waking",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "an instruction to seek the Bible rather than voices, which cuts against his own genre"
+},
+{
+"mention_id": "7298ae999a7b9bc9",
+"claim_id": "new-madrid-quake",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "protection promised on that line, with Venezuela given as what others faced"
+},
+{
+"mention_id": "ceb149e6d3f1eeca",
+"claim_id": "global-revival-continents",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Pensacola recalled as the precedent"
+},
+{
+"mention_id": "87aa026080f6fcf3",
+"claim_id": "sushiswap-bridges-asia",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "a named protocol, which is unusually specific for him"
+},
+{
+"mention_id": "213de4e7e390c518",
+"claim_id": "sushiswap-bridges-asia",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "four destinations named; he says twice he does not know what he saw"
+},
+{
+"mention_id": "2b849d685e0e2bf1",
+"claim_id": "tv-announces-crash",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the Persian rug is the detail that would identify it"
+},
+{
+"mention_id": "06a7e25416c5aa28",
+"claim_id": "next-virus-engineered-in-a-lab",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "an AI designed virus report taken as the word landing; the report describes a benign result"
+},
+{
+"mention_id": "a2de83d674858818",
+"claim_id": "kim-jong-un-role",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "a missile test taken as the red and black robe word; such tests are routine"
+}
+]
+}

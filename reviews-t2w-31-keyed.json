@@ -1,0 +1,292 @@
+{
+"reviews": [
+{
+"mention_id": "093fe55392c45a2c",
+"claim_id": "macron-rises-like-hitler",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the Ishmael framing again, with peace prayed even if the war comes"
+},
+{
+"mention_id": "b2185febeabe76c5",
+"claim_id": "plots-against-churches",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "widened from America to worldwide"
+},
+{
+"mention_id": "6b7ec8a98bc6728b",
+"claim_id": "fearful-signs-heavens",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "fear not repeated over the fearful sights, with the lessening clause"
+},
+{
+"mention_id": "afd1ff97f4327ffc",
+"claim_id": "trump-tames-the-dragon",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the whip makes it pause while it keeps devising, applied to Russia this time"
+},
+{
+"mention_id": "6fc93afefc47fd13",
+"claim_id": "wealth-transfer-window",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "the whip lasting only a season, with the wealth transfer inside it"
+},
+{
+"mention_id": "b5bfa90cff9d7b61",
+"claim_id": "shaking-to-the-waking",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the church asleep after repeated calls"
+},
+{
+"mention_id": "6574a68243296551",
+"claim_id": "peace-and-safety-agreements",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "peace talks read through the peace and safety warning"
+},
+{
+"mention_id": "afd51bbe8ee97d6d",
+"claim_id": "rat-within-america",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the agencies named as who finds the cells"
+},
+{
+"mention_id": "15c309466c04fe77",
+"claim_id": "wealth-of-the-sinner",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the Egypt pattern applied to listeners in a 24 hour window"
+},
+{
+"mention_id": "60593db196b45208",
+"claim_id": "golden-window-2025-wealth",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "a year of rest and abundance, about his own ministry"
+},
+{
+"mention_id": "99951809cf0ded83",
+"claim_id": "watch-carney",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the prime minister prayed for alongside Musk and Trump"
+},
+{
+"mention_id": "71135fbcda92a14d",
+"claim_id": "russia-fifty-year-empire-plan",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "Russians said not to want to be under the West's boot"
+},
+{
+"mention_id": "712f795ba1fd6fb6",
+"claim_id": "beast-system-foundation",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "Cuba named in the new financial system, with watch Easter attached"
+},
+{
+"mention_id": "328559a03af9aea8",
+"claim_id": "biological-attack-mountains",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the yellow liquid described as killing instantly"
+},
+{
+"mention_id": "211d7c46d7051ed4",
+"claim_id": "revival-hotspots-oklahoma-texas",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "a named campus given as one of the major revivals"
+},
+{
+"mention_id": "02b979d0b8490d84",
+"claim_id": "great-war-escalation",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "rice paper thin, with Turkey named"
+},
+{
+"mention_id": "78b66c1b36310d3c",
+"claim_id": "warsaw-ww3-trigger",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "an article about Polish mobilisation offered as confirmation"
+},
+{
+"mention_id": "acf63181299c161d",
+"claim_id": "wwiii-draft-europe",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the treaty obligation given as the mechanism that pulls America in"
+},
+{
+"mention_id": "63370cad27e5ab1b",
+"claim_id": "global-revival-continents",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "the Muslim, Buddhist and Hindu communities named"
+},
+{
+"mention_id": "cbf8b5624c40310b",
+"claim_id": "lend-to-nations",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "he supplies the scale himself: hundreds of millions rather than a thousand"
+},
+{
+"mention_id": "ab93b3e06de7e861",
+"claim_id": "trudeau-two-faced",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the resignation declared; the godly successor half did not follow"
+},
+{
+"mention_id": "5ee2a858e6249c03",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a testimony about the past"
+},
+{
+"mention_id": "d9de7b21d654f906",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "the same Tim testimony told again"
+},
+{
+"mention_id": "50ff9a83f62efc84",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "material played on the channel about a behaviour chip"
+},
+{
+"mention_id": "258011910c24f3a1",
+"claim_id": "covenant-with-founding-fathers-restored",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the three stranded cord with the four year warning attached"
+},
+{
+"mention_id": "a408d398a1bf2bc8",
+"claim_id": "medication-shortage",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the outpouring called a window rather than a door, which narrows it"
+},
+{
+"mention_id": "408a30f8d0a32cb0",
+"claim_id": "warsaw-ww3-trigger",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Zelensky and Macron named as keeping the war stirred"
+},
+{
+"mention_id": "476c53a707959105",
+"claim_id": "wwiii-draft-europe",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "he says plainly he does not know whether prayer has stopped it"
+},
+{
+"mention_id": "99dc540c2736d7bd",
+"claim_id": "macron-rises-like-hitler",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "a dictator type role in the EU named specifically"
+},
+{
+"mention_id": "b1d9844be5d14682",
+"claim_id": "nordstream-reopened",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "a specific and checkable claim about a named pipeline"
+},
+{
+"mention_id": "4ae4ab2135659703",
+"claim_id": "wealth-transfer-window",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the digital platform said to be being built for the end times"
+},
+{
+"mention_id": "0adee9e61db640fe",
+"claim_id": "xrp-price-ladder",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "four figures given; these sit below his own ten thousand dollar claim and are kept apart from it"
+},
+{
+"mention_id": "e53a91081de1a3ae",
+"claim_id": "ukraine-money-unaccounted",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "twenty four billion out of some three hundred billion, which is a checkable proportion"
+},
+{
+"mention_id": "d1affa8c45c5f5da",
+"claim_id": "no-more-war-for-america",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the qualifier is the claim: wars continue, America stays out"
+},
+{
+"mention_id": "19f5b046f63fe711",
+"claim_id": "crypto-five-pillars",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "XRP, Solana and Cardano named as world reserve technology; whether these are the five pillars is not stated"
+},
+{
+"mention_id": "1703bdaf42ba3c74",
+"claim_id": "ukraine-war-money-laundering",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the Ukrainian president expected to be exposed"
+}
+]
+}

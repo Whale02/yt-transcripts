@@ -1,0 +1,97 @@
+[
+ {"claim_id":"new-madrid-earthquake",
+  "verdict":"CONTRADICTED",
+  "headline":"No major New Madrid earthquake. Largest was a 4.0 in Apr 2026. Normal background seismicity only",
+  "sources":["USGS earthquake data","KTLO: 4.0 earthquake in Missouri Apr 2026"],
+  "notes":"Predicted 10.0 splitting the USA. Actual activity: small quakes (max 4.0), mini-swarms, all within normal range. Not even close to the predicted scale."},
+
+ {"claim_id":"san-francisco-earthquake",
+  "verdict":"CONTRADICTED",
+  "headline":"No major San Francisco or west coast earthquake. A swarm of small quakes in San Ramon Valley, max ~3.0",
+  "sources":["USGS earthquake data","ABC7: 2.9 quake off SF coast 2026"],
+  "notes":"Predicted earthquake so massive it shook the foundation of the earth from BC to SF. Nothing remotely close has occurred."},
+
+ {"claim_id":"china-hawaii-attack",
+  "verdict":"CONTRADICTED",
+  "headline":"China has not attacked Hawaii or any US territory. No military conflict between US and China",
+  "sources":["US DoD situation reports"],
+  "notes":"Predicted surprise attack like Pearl Harbor. China conducted large military drills near Taiwan but no attack on US territory."},
+
+ {"claim_id":"church-attacks-us",
+  "verdict":"PARTIAL_MATCH",
+  "headline":"Lakewood Church (Joel Osteen) shooting Feb 11 2024, plus multiple house-of-worship attacks 2024-2026",
+  "sources":["AP: Lakewood Church shooting Feb 2024","Wikipedia: Attacks on US houses of worship"],
+  "notes":"There have been several church/synagogue/mosque attacks: Lakewood mega church (Feb 2024), Grand Blanc LDS church (Sep 2025, 5 dead), Temple Israel Michigan (Mar 2026), Islamic Center San Diego (May 2026). Direction correct (attacks on houses of worship happened), but these were not the coordinated campaign he described. Lakewood was the only mega church. Partial match: the phenomenon exists, the specific vision overstated."},
+
+ {"claim_id":"grid-cyberattack",
+  "verdict":"CONTRADICTED",
+  "headline":"No cyberattack has taken down the US power grid. Iran-linked probes detected but no blackout caused",
+  "sources":["NERC: monitoring Iran-linked cyber threat Apr 2026","HSToday: US grid overdue for cyber catastrophe"],
+  "notes":"Predicted grid down for 3 weeks, New York dark. Iran-linked hackers probed infrastructure but caused no outage. FBI disrupted 640 terror plots in 2025. The grid remains intact."},
+
+ {"claim_id":"pope-dies",
+  "verdict":"STRONG_MATCH",
+  "headline":"Pope Francis died Apr 21 2025 at age 88 of stroke and heart failure. Succeeded by Pope Leo XIV (Robert Prevost)",
+  "sources":["Vatican announcement Apr 21 2025","BBC: Pope Francis death"],
+  "notes":"Brandon's earliest Pope passage is Sep 2024, describing the devil influencing the Pope and implying his end. Pope died 7 months later. The prediction was vague (saw the devil trying to influence the Pope, not a direct 'he will die' statement), and the Pope was 87 with known health problems when the prediction was made. Scored STRONG_MATCH because the outcome occurred, but the base rate was high given his age and hospitalizations."},
+
+ {"claim_id":"king-charles-dies",
+  "verdict":"NOT_YET_DUE",
+  "headline":"King Charles III alive as of Oct 2026, undergoing reduced cancer treatment, carrying out public duties",
+  "sources":["Hello Magazine: King Charles reduces cancer treatment 2026","LADbible: King Charles US state visit Apr 2026"],
+  "notes":"Sep 2026 vision: Charles would go home, about to die, William takes over. Charles alive with cancer treatment. No timeframe given so technically open-ended, but scored NOT_YET_DUE."},
+
+ {"claim_id":"venezuela-freed",
+  "verdict":"STRONG_MATCH",
+  "headline":"US military captured Maduro Jan 3 2026 in Operation Absolute Resolve. Delcy Rodriguez acting president",
+  "sources":["Euronews: US strikes Venezuela, Maduro captured Jan 3 2026","Fortune: Trump Venezuela Maduro arrest"],
+  "notes":"Predicted battleships around Venezuela. US forces did seize Maduro in a military operation. However, Venezuela is not 'free' in the way described: Rodriguez (Maduro ally) governs, no free elections announced, opposition sidelined. Battleships/military involvement correct, liberation incomplete. STRONG_MATCH for the military removal, the broader liberation vision is partial."},
+
+ {"claim_id":"ukraine-files-burned",
+  "verdict":"UNRESOLVED",
+  "headline":"Ukraine peace talks ongoing in 2026 via Abu Dhabi and Geneva. No final deal. File burning unverifiable",
+  "sources":["Reuters: Ukraine peace talks Abu Dhabi Feb 2026","ABC: Ukraine agrees to peace deal Aug 2026 (unconfirmed)"],
+  "notes":"Predicted files being burned and cover-ups. Peace negotiations are real and ongoing. Territory remains the sticking point. One Aug 2026 report says Ukraine agreed to a deal but this is unconfirmed. The file-burning claim is unverifiable. Scored UNRESOLVED."},
+
+ {"claim_id":"china-taiwan-invasion",
+  "verdict":"CONTRADICTED",
+  "headline":"China has not invaded or blockaded Taiwan. Large military drills but no military action",
+  "sources":["Focus Taiwan: China could invade with little warning","Daily Signal: Will China invade Taiwan in 5 years"],
+  "notes":"69 passages predicting China attacking Taiwan. China conducted large exercises simulating blockade of Keelung and Kaohsiung ports (Dec 2025) but no actual invasion or blockade. Experts say blockade more likely than invasion but neither has happened."},
+
+ {"claim_id":"cancer-cure-breakthrough",
+  "verdict":"PARTIAL_MATCH",
+  "headline":"Significant cancer treatment advances in 2024-2026 but no single cure. FDA approved landmark pancreatic cancer drug Aug 2026",
+  "sources":["Dana-Farber: Ten cancer breakthroughs 2026","WYSO: Pivotal shift in cancer therapy Mar 2026"],
+  "notes":"Predicted a man in a lab coat getting a holy ghost revelation for a cancer cure. Real advances: FDA breakthrough designation for CAR-T therapy (Mar 2026), FDA-approved pancreatic cancer drug (Aug 2026), mRNA cancer vaccine trials. These are incremental advances, not 'the cure.' Direction partially right (breakthroughs happening), magnitude overstated."},
+
+ {"claim_id":"bank-of-america-hack",
+  "verdict":"CONTRADICTED",
+  "headline":"No major Bank of America hack or embarrassing cyber incident in 2026. Minor 2025 disclosure affected <1000 records",
+  "sources":["Board Cybersecurity: BofA incident tracker"],
+  "notes":"Predicted embarrassing moments, ATMs going black, cyber attacks. A minor data breach via vendor (Infosys McCamish, 2023) and a small 2025 inadvertent disclosure are the only incidents. No ATM outage, no major hack."},
+
+ {"claim_id":"nyc-subway-attack",
+  "verdict":"CONTRADICTED",
+  "headline":"No subway tunnel bombing in New York. Stabbing incidents occurred but no explosions or flooding",
+  "sources":["PBS: Grand Central stabbing Apr 2026","News12: Union Square subway attack indictment"],
+  "notes":"Predicted underwater tunnels blown up, flooding, mass casualties in minutes. Actual subway incidents: Grand Central machete attack (Apr 2026, attacker killed), Union Square attack (indictment Apr 2026). These are individual violence, not the coordinated bombing/flooding he described."},
+
+ {"claim_id":"new-bp-oil-spill",
+  "verdict":"PARTIAL_MATCH",
+  "headline":"Pemex pipeline spill in Gulf of Mexico Feb 2026 spread 600km. LOOP crude spill near Grand Isle LA. Neither was BP",
+  "sources":["Texas Public Radio: Pemex Gulf spill still spreading May 2026","gCaptain: LOOP crude oil spill Grand Isle"],
+  "notes":"Predicted a new BP-type oil spill in the Gulf. Two significant Gulf spills occurred in 2026: Pemex pipeline (Feb 2026, spread 600km, hit 7 nature reserves) and LOOP crude spill near Grand Isle. Neither involved BP. Direction partially right (major Gulf spills happened), but not a BP spill specifically."},
+
+ {"claim_id":"food-shortage-empty-shelves",
+  "verdict":"CONTRADICTED",
+  "headline":"No widespread food shortages or empty grocery shelves in US. Localized gaps from tariffs and supply chain stress",
+  "sources":["Factually: widespread empty shelves unlikely Jun 2026","USDA food supply data"],
+  "notes":"Predicted cobwebs on shelves, food lines. Grocery prices rose due to tariffs and inflation, some localized stockouts occurred, but no widespread empty-shelf crisis. The cobwebs vision has not materialized."},
+
+ {"claim_id":"911-type-domestic-attack",
+  "verdict":"CONTRADICTED",
+  "headline":"No 9/11-scale domestic terror attack. Multiple smaller incidents (church attacks, campus shootings) but nothing approaching 9/11",
+  "sources":["FBI: 640 terror plots disrupted 2025","Washington Times: ISIS-linked shootings Mar 2026"],
+  "notes":"Predicted another 9/11-type event with fertilizer bombs. Multiple violent incidents occurred (Norfolk campus shooting, Michigan synagogue car-bomb attempt, church attacks) but all were small-scale. FBI reports disrupting 640 plots. Nothing remotely near 9/11 scale."}
+]

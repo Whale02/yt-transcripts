@@ -1,0 +1,25 @@
+{
+  "_note": "Near-duplicate canonical claims found by a jaccard scan over labels (>=0.6). Each pair was read side by side before folding. The pair israel-night-attack / attack-worse-than-october-7 was deliberately NOT folded: same target, different stated detail (night, chemical weapons), so it gets a system-asserted edge instead.",
+  "merges": [
+    {"keep": "tribulation-starbucks", "drop": "starbucks-tribulation",
+     "note": "identical vision, same 2014 barbecue-house detail"},
+    {"keep": "releases-2025", "drop": "held-back-released-2025",
+     "note": "same sludge-of-filth release, kept the id whose description also carries 2026"},
+    {"keep": "water-shortage-relocation", "drop": "drought-town-relocation",
+     "note": "same claim, wording differs by one word"},
+    {"keep": "words-are-seeds", "drop": "words-as-living-seeds",
+     "note": "one throne-room vision of words as seeds"},
+    {"keep": "trump-january-scroll", "drop": "trump-scroll-signing",
+     "note": "same January scroll and golden quill"},
+    {"keep": "pretrib-rapture", "drop": "pretrib-first-round",
+     "note": "one stated eschatological position, same if-I-am-wrong caveat"},
+    {"keep": "house-of-cards", "drop": "house-of-cards-crash",
+     "note": "same undated house of cards; the prayed-away-from-2025 detail travels with it"},
+    {"keep": "banks-rocket-clarity", "drop": "banks-rope-rocket",
+     "note": "same three banks, same rope and rocket, same clarity trigger"},
+    {"keep": "israel-blood-retribution", "drop": "israel-retribution",
+     "note": "same retribution over innocent blood"},
+    {"keep": "eye-of-storm-cycle", "drop": "eye-of-the-storm-2026",
+     "note": "one seven-year cycle from 2019; the COVID-war-lull sequence is the same telling"}
+  ]
+}

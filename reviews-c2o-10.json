@@ -1,0 +1,19 @@
+{"reviews": [
+ {"video_id": "-cgLSUAayx4", "start_s": 0, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "an assessment of the No Kings marches already under way"},
+ {"video_id": "-cgLSUAayx4", "start_s": 39, "claim_id": "global-riots-worse-than-blm", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.8, "note": "only the beginning, with a named financier alleged behind the scenes"},
+ {"video_id": "-cgLSUAayx4", "start_s": 445, "claim_id": "green-lasers-golden-dome", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the Golden Dome urgency and the stationed green lasers"},
+ {"video_id": "-cgLSUAayx4", "start_s": 533, "claim_id": "everything-changes-24-hours", "same_event": "yes", "delta_type": "restatement", "confidence": 0.9, "note": "the 24-hour change repeated, with the ants within and Trojan horse attacks"},
+ {"video_id": "-cgLSUAayx4", "start_s": 630, "claim_id": "mass-shooting-gatherings", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.8, "note": "the freedom to attend a baseball game taken away by unease"},
+ {"video_id": "-cgLSUAayx4", "start_s": 847, "claim_id": "war-on-american-soil-patriotism", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.85, "note": "a great shaking and invasion coming one day, with no window"},
+ {"video_id": "-cgLSUAayx4", "start_s": 959, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "a defence of his own role against reassuring voices"},
+ {"video_id": "-cgLSUAayx4", "start_s": 1005, "claim_id": "damascus-ruinous-heap", "same_event": "yes", "delta_type": "restatement", "confidence": 0.85, "note": "Turkey beating war drums and Damascus a ruinous heap, which is Isaiah 17"},
+ {"video_id": "-cgLSUAayx4", "start_s": 1055, "claim_id": "iran-strikes-economy-crippled", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "Iran as an unwanted stepchild whose allies will not back it, said two days into the strikes"},
+ {"video_id": "-cgLSUAayx4", "start_s": 1179, "claim_id": "vatican-split-whitening", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the split and the spirit, with the year explicitly disclaimed"},
+ {"video_id": "-cgLSUAayx4", "start_s": 1311, "claim_id": "trump-kim-jonathan-and-david", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "Jonathan and David, which contradicts the godfather and hitman claim of six weeks earlier"},
+ {"video_id": "-cgLSUAayx4", "start_s": 1442, "claim_id": "virus-q4-2026", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.8, "note": "a new virus as the means of keeping people from assembling for worship"},
+ {"video_id": "-cgLSUAayx4", "start_s": 1566, "claim_id": "california-megachurch-scandal", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the California megachurch scandal, eight months before Bethel Redding"},
+ {"video_id": "-cgLSUAayx4", "start_s": 2094, "claim_id": "watch-omaha", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "watch Omaha, given with the Pearl Harbor surprise framing"},
+ {"video_id": "-cgLSUAayx4", "start_s": 2430, "claim_id": "unconventional-weapons", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.8, "note": "a mega missile believed to have come from Russia"},
+ {"video_id": "-cgLSUAayx4", "start_s": 2477, "claim_id": "unconventional-weapons", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.75, "note": "supersonic missiles raised as a question rather than stated"},
+ {"video_id": "-cgLSUAayx4", "start_s": 2799, "claim_id": "iran-strikes-economy-crippled", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "strategic people fleeing Iran into Iraq to hide"}
+]}

@@ -1,0 +1,22 @@
+[
+ {"claim_id": "santa-fe-railroad-bomb",
+  "label": "A bomb in a red Santa Fe railroad car marked with a cross",
+  "domain": "security",
+  "description": "Seen: a red railroad car, not an engine, carrying Santa Fe markings and something shaped like a cross with white lettering, with a bomb inside it. The name Santa Fe is given as the reason he kept seeing that word.",
+  "aliases": ["santa fe", "railroad car", "red railroad"]},
+ {"claim_id": "purple-dragon-from-the-sea",
+  "label": "A purple dragon rising out of the ocean",
+  "domain": "prophecy",
+  "description": "A long Chinese-style serpent in shades of purple and lavender with a dark purple fin, dark purple around white eyes with bright green centres, a white mouth, a red tongue and dark purple claws and tail, seen coming up out of the water with part of the tail still in it. He notes he has never seen a purple dragon, only red ones, and does not interpret it.",
+  "aliases": ["purple dragon", "out of the ocean", "chinese dragon"]},
+ {"claim_id": "minister-taken-out-in-service",
+  "label": "A major minister taken out during his own service",
+  "domain": "religion",
+  "description": "Attacks on churches in the days ahead, with a major minister taken out in the middle of his own service, which the Lord is said to call the shock heard around the world, done to bring fear about the revival he is about to bring. Given alongside the warning that a boogeyman is coming because they do not go to war without one.",
+  "aliases": ["taken out in his service", "attacks against churches", "boogeyman is coming"]},
+ {"claim_id": "crypto-car-house-loans",
+  "label": "Cryptocurrencies created for car loans and house loans",
+  "domain": "finance",
+  "description": "A word he dates to February 2025, received while driving: certain cryptocurrencies would in future be created for housing loans and car loans. He later points to an article discussing exactly that as the word landing.",
+  "aliases": ["car loans", "house loans", "housing loans"]}
+]

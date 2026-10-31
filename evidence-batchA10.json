@@ -1,0 +1,81 @@
+{
+ "_note": "Job A batch 10, 30 August 2026. Early-2024 claims, the moon-base priority check, and read-aloud rows.",
+ "evidence": [
+  {"claim_id": "passover-escalation-2024",
+   "observed_on": "2024-04-19",
+   "source_url": "https://en.wikipedia.org/wiki/April_2024_Iranian_strikes_on_Israel",
+   "summary": "On 13-14 April 2024 Iran launched about 170 drones, more than 120 ballistic missiles and at least 30 cruise missiles at Israel, its first direct attack on Israel from Iranian soil, in retaliation for the 1 April Israeli strike on the Iranian diplomatic compound in Damascus. Israeli and allied defences intercepted about 99 percent. Israel struck near Isfahan on 19 April, damaging an S-300 radar guarding the nuclear site, in a deliberately narrow response. Passover 2024 began on the evening of 22 April.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "This is one of the better-timed calls in the corpus and it still falls short of strong. He gave it on 22 February and again on 9 March, six to eight weeks ahead, naming major events with Israel, a great escalation, and around 21 April. What arrived was the first direct Iranian attack on Israel in history on 13-14 April and the Israeli reply on 19 April, two to six days off the date he named, and a first-ever event is not something a guess lands on. Three things hold it at partial. Escalation involving Israel in the spring of 2024 was near-certain on any two-month horizon, with a war running in Gaza and exchanges with Hezbollah and the Houthis. Passover as a flashpoint was being publicly flagged by Israeli security commentary at the time. And the escalation ran in the week before Passover and had de-escalated by the 21st, so the feast he attached it to passed quietly."},
+
+  {"claim_id": "moon-base-word",
+   "observed_on": "2026-05-26",
+   "source_url": "https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/",
+   "summary": "NASA held a Moon Base event at its Washington headquarters on 26 May 2026, announcing contracts for crewed lunar rovers and uncrewed cargo landers, a new Moon Base website, and a schedule with Moon Base I targeted for no earlier than autumn 2026 on Blue Origin's Blue Moon Mark 1 lander to the Shackleton Connecting Ridge. Administrator Jared Isaacman called it America's first outpost on another celestial world. A permanent south-polar outpost has been published NASA policy as Artemis Base Camp since 2020.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "The priority check passes, which is rare enough here to say plainly. A full-text search of this corpus finds the telling he points back to: on 3 December 2025 he describes a base on the moon, a structure, pods with people flying up to stay there, a dome like a lid, and a space race, and repeats it on 4 December. He dates it to 2 December, one day out. That is nearly six months before NASA's announcement and it is in the record. What the content cannot claim is novelty. A sustained lunar outpost near the south pole has been official, published NASA policy since 2020 under the name Artemis Base Camp, and China's rival programme is equally public, so seeing that they will build a moon base reports an existing plan rather than revealing one. Held at partial on that basis, with the priority confirmed."},
+
+  {"claim_id": "soft-landing-2024",
+   "observed_on": "2024-06-30",
+   "source_url": "https://hbr.org/2024/05/the-u-s-economys-soft-landing-is-still-on-track",
+   "summary": "The soft landing question dominated US economic commentary through 2024, with forecasters debating publicly all year whether the Federal Reserve could bring inflation down without a recession. The economy grew about 2.8 percent for the year and the S&P 500 returned about 24 percent. The term was already the standard framing in financial media by late 2022, more than a year before he spoke on 14 December 2023.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "Both halves of the description happened: 2024 carried a boom narrative and there was a running, televised soft landing argument through the spring. The problem is that neither was news when he said it. Soft landing had been the standard term in economic coverage since 2022 and every major forecaster published a 2024 soft landing view in the weeks around his 14 December 2023 telling. Describing what the financial press was already saying it would spend the year arguing about is a low bar, and the claim adds no number, no turning point and no side of the argument that would win. Held at partial for the description being right."},
+
+  {"claim_id": "hidden-things-exposed-2024",
+   "observed_on": "2024-02-08",
+   "source_url": "https://www.cnbc.com/2024/02/08/biden-docs-probe-final-report-issued-by-special-counsel-robert-hur-.html",
+   "summary": "Special counsel Robert Hur released his report on 8 February 2024, finding that Biden had wilfully retained and disclosed classified materials after his vice presidency, kept in his Wilmington garage, office and basement den, including material on Afghanistan and notebooks with national security entries, while concluding that no criminal charges were warranted. The report's account of Biden's memory became the dominant political story of the spring, and Hur defended it before Congress on 12 March 2024.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "Something did surface about Biden in exactly the window he named, and it was significant: the Hur report landed on 8 February 2024 and its memory passages ran through American politics for the rest of the year. He gave the word on 14 December 2023, eight weeks ahead. Against that, the claim contains no content beyond hidden things exposed at a deeper level tied to Joe, with no subject, no document, no agency and no scale, so any adverse Biden story in the first half of an election year would have satisfied it, and the classified documents investigation was already public and running when he spoke, having opened in January 2023. Held at partial for the timing."},
+
+  {"claim_id": "obama-era-exposure",
+   "observed_on": "2024-06-30",
+   "source_url": "https://en.wikipedia.org/wiki/Joe_Biden_classified_documents_incident",
+   "summary": "The major early-2024 Biden disclosure, the Hur report of 8 February 2024, concerned documents from Biden's vice presidency and Senate service and made no findings about the Obama administration as such. No disclosure in the first half of 2024 traced the Biden circle back to Obama-era figures in the way described.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "This is the same 14 December 2023 passage as hidden-things-exposed-2024, split out because it carries one extra element, the rewind back to the Obama administration, and that element is the only thing in the passage that could have distinguished it from a generic prediction of bad news for an incumbent. It did not happen. The Hur report concerned Biden's own handling of documents; nothing in the window connected it back to Obama-era figures. Scored separately from its neighbour so that the specific part fails on its own terms rather than being carried by the vague part."},
+
+  {"claim_id": "garlinghouse-clarity-vision",
+   "observed_on": "2026-08-18",
+   "source_url": "https://ripple.com/insights/xrp-is-not-a-security-ripples-landmark-victory-in-sec-lawsuit/",
+   "summary": "Judge Analisa Torres ruled in July 2023 that XRP is not a security in programmatic retail sales, while certain institutional sales were; the Ripple and SEC litigation concluded in August 2025 with a 50 million dollar settlement and an injunction. Garlinghouse called the 2023 decision a key moment for crypto clarity at the time, and clarity has been Ripple's standing public demand for years. No settlement or agreement between the banking industry and the crypto industry has occurred, and no meeting involving three major banks including Chase has been reported.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "The thing seen has not happened. The vision was of banks on one side of a table and crypto people on the other reaching an agreement, with three big banks including Chase named, and there has been no such settlement. What he offers on 21 August 2026 as the fulfilment is a clip of Garlinghouse discussing a ruling handed down in July 2023 and Ripple's support for the Clarity Act, which is neither new nor an agreement. The one word that appears to match, clarity, is Garlinghouse's habitual public line: he has been demanding regulatory clarity in those terms since at least 2023, so a vision of him saying all we need is clarity reproduces his best-known quote rather than anticipating it."},
+
+  {"claim_id": "global-quake-swarm",
+   "observed_on": "2026-08-14",
+   "source_url": "https://www.nbcnews.com/world/indonesia/earthquake-indonesia-rcna592638",
+   "summary": "A magnitude 7.7 earthquake struck off the eastern Flores region of Indonesia on 14 August 2026, about 42 miles north-northwest of Ende in East Nusa Tenggara, killing at least 47 people and prompting tsunami warnings for four provinces, with several strong aftershocks. USGS attributed it to shallow reverse faulting. Globally about fifteen magnitude 7 or greater earthquakes occur each year, the large majority on the Pacific ring of fire.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "The numbers he reads out on 21 August are accurate, and the Flores event is real and lethal. Nothing here is forecast: he is reading the previous week's seismicity off the news, after the fact. Two base-rate points belong on the record because this framing recurs. Magnitude 7 events run at roughly fifteen a year worldwide and almost all of them are on the ring of fire, so a week containing one or two is ordinary rather than a shaking to awaken the world. And the ring of fire is where about 90 percent of the world's earthquakes occur by definition, so locating a cluster there adds nothing."},
+
+  {"claim_id": "starlink-aviation",
+   "observed_on": "2026-08-18",
+   "source_url": "https://www.starlink.com/business/aviation",
+   "summary": "Starlink's aviation service has expanded through 2025 and 2026 to a large number of airline partners and aircraft. The figures he gives on 21 August 2026, 48 airlines and more than 7,000 aircraft, are read from an 18 August news item.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "A commercial statistic read out of a news report three days after publication is not a claim about the future and cannot fail. Recorded rather than skipped because of where it sits: it is read in the same run as the Garlinghouse clip and the ring of fire quakes, all presented as confirmation of standing threads, which is the pattern this database separates into the fulfilment table. Nothing is forecast in it."},
+
+  {"claim_id": "world-cup-2026-prayer-targets",
+   "observed_on": "2026-07-19",
+   "source_url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+   "summary": "The 2026 World Cup ran from 11 June to 19 July 2026 across Canada, Mexico and the United States, with 104 matches in the expanded format and the final at MetLife Stadium in the New York and New Jersey area on 19 July. The New York fixture dates he reads out come from the published FIFA schedule. No incident occurred at any of the fixtures he named.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "He says on air where the dates come from: he saw it on the schedule. A published fixture list read aloud forecasts nothing and cannot fail, and the tournament passed without incident at any of the named games. The extractor's note is the reason to keep this row: any later claim of foreknowledge about one of these dates rests on this passage, and this passage shows the dates arriving from FIFA. The count he gives, 78 games, is also short of the 104 in the expanded tournament, which is a further sign of reading rather than seeing."},
+
+  {"claim_id": "coachella-major-events-watched",
+   "observed_on": "2026-07-04",
+   "source_url": "https://www.dhs.gov/news",
+   "summary": "No incident occurred at Coachella in April 2026 or at the major American gatherings of the 2026 season through 4 July. Federal and local agencies routinely provide security coordination for large festivals and holiday events, which is the arrangement he describes rather than a development.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "There is no claim in this passage, only a prayer that God's hand be on whoever is watching the major events. No event is forecast, no place is picked out beyond naming the season's first festival, and no act is attached, so nothing could have failed. His own falsifier records the standing structure: an incident would have been the warning and a quiet season is the answered prayer. Prayer conditionality is logged as a field and is not treated as converting a quiet festival season into a match."},
+
+  {"claim_id": "ninety-day-warning-to-july4",
+   "observed_on": "2026-07-04",
+   "source_url": "https://en.wikipedia.org/wiki/Portal:Current_events/July_2026",
+   "summary": "No crisis ran from November 2025 into 4 July 2026 answering to the description. Ninety days from 13 November 2025 ends on 11 February 2026, not 4 July, a gap of nearly five months.",
+   "state": "EXPIRED_WITHOUT_MATCH",
+   "rationale": "Nothing arrived and the arithmetic does not work, which the passage half-admits at the time: he recounts a ninety day warning, is corrected to forty by someone in the room, settles back on ninety, and then attaches it to a date that is neither ninety nor forty days away. The claim is also second-hand at the root, since he is recounting someone else warning the nation and then matching it to a timeframe he says he was given, so the ninety days does not originate with him. Recorded as expired because a date was named and passed."}
+ ]
+}

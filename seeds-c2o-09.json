@@ -1,0 +1,17 @@
+[
+ {"claim_id": "china-godfather-nk-hitman",
+  "label": "China the godfather, North Korea the hitman",
+  "domain": "war",
+  "description": "A Pearl Harbor style surprise attack seen coming, structured as a mafia arrangement: China gives the order as the godfather and North Korea carries it out as the hitman, with one party set up to look like the bad guy. He reports hearing remember Pearl Harbor repeatedly and being told it will be a type and shadow rather than an exact repeat.",
+  "aliases": ["china was the godfather", "north korea was the hitman", "remember pearl harbor", "type and shadow"]},
+ {"claim_id": "yellowstone-alaska-release-points",
+  "label": "Release points under the soil, Alaska and Yellowstone",
+  "domain": "geology",
+  "description": "Pressure release points seen not only on the ocean floor but under inhabited land, with Alaska named and Yellowstone called a danger zone.",
+  "aliases": ["yellowstone danger zone", "release points", "underneath the soil"]},
+ {"claim_id": "canada-outcry-want-to-leave",
+  "label": "A Canadian outcry, and people saying they want to leave",
+  "domain": "politics",
+  "description": "Given two days after the April 2025 Canadian election: the same kind of outcry as the covid trucker protests and the frozen bank accounts, with people saying they want to leave, alongside the assertion that millions in Canada are about to go to hell because they voted wrong.",
+  "aliases": ["remember your truckers", "we want to leave", "blocked your bank accounts"]}
+]

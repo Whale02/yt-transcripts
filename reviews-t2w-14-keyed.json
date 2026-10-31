@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "0ccc7db9ee152a1a",
+"claim_id": "wealth-of-the-sinner",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the Egypt comparison again"
+},
+{
+"mention_id": "e159a0c87d28ae3e",
+"claim_id": "decamillionaires-raised-up",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the ten million figure, looked up on the spot"
+},
+{
+"mention_id": "bf25a4126370dda9",
+"claim_id": "great-war-escalation",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "major war in Europe again, told while Israel is at war"
+},
+{
+"mention_id": "ae1dc9cb8036c832",
+"claim_id": "marriage-ending-shown-in-visitation",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the year withheld, so the timing cannot be scored"
+},
+{
+"mention_id": "cff8df8a53dc7be3",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "teaching on growing faith"
+},
+{
+"mention_id": "d033adae26187070",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a prayer"
+},
+{
+"mention_id": "8f38f6da19c6b02e",
+"claim_id": "israel-deliverer-victory-celebration",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the streets and the flags, with the cause unknown to him"
+},
+{
+"mention_id": "6e8e1c7b8c5c3f0d",
+"claim_id": "israel-deliverer-victory-celebration",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the rabbis weeping at the wall"
+},
+{
+"mention_id": "1632229d8e03b798",
+"claim_id": "israel-revival",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the healings and the wave of presence over Israel"
+},
+{
+"mention_id": "9ab3ddbb0bc3a125",
+"claim_id": "blade-ear-full-manifestation",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the earliest telling, three weeks before Rosh Hashanah 2024, with Branson named"
+},
+{
+"mention_id": "93cbdfffb23d4115",
+"claim_id": "democrats-lose-control-event",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "an event shaking the USA and control lost"
+},
+{
+"mention_id": "4a376a9a1e4b22ee",
+"claim_id": "everything-changes-24-hours",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the Wall Street panic and the 24 hour line together"
+},
+{
+"mention_id": "d3fe383935c3b2ae",
+"claim_id": "wealth-of-the-sinner",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "placed before the rapture as a type and shadow"
+},
+{
+"mention_id": "881e7b90e3978967",
+"claim_id": "never-quote-dates-again",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "a pre-commitment worth holding him to; dated claims do continue after this"
+},
+{
+"mention_id": "a5a1b7108d021ae3",
+"claim_id": "plague-350m",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.9,
+"note": "the cots and the bodies"
+},
+{
+"mention_id": "a7328fafd77b4275",
+"claim_id": "next-virus-engineered-in-a-lab",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "China named as the party cooking it, with the dragon behind the black rock"
+},
+{
+"mention_id": "aedacc0e6bf9f868",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "another person's word played on his channel"
+},
+{
+"mention_id": "12192316cf8457f9",
+"claim_id": "us-crop-failure",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "coast to coast unplanted, with El Paso and Mexico added"
+},
+{
+"mention_id": "368bba17f76f6d14",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "another person's Wall Street barter dream, read aloud"
+},
+{
+"mention_id": "8ba100192cb58059",
+"claim_id": "greatest-harvest-of-souls",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the harvest called worldwide and quick"
+},
+{
+"mention_id": "dca35a130d0c0927",
+"claim_id": "economy-dam-cracks",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the second sighting of the dam, with the dollar crash drums"
+},
+{
+"mention_id": "fb148c36ede2cc98",
+"claim_id": "us-crop-failure",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the one hour vision source of the no-water line, with gardens at every house"
+},
+{
+"mention_id": "36507e0fbf1ef932",
+"claim_id": "obama-europe-steering-the-economy",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "only the Obama side is named, the European men are not"
+},
+{
+"mention_id": "c645fa55aa6a7708",
+"claim_id": "ukraine-money-unaccounted",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "the war money diverted by people who knew what was coming"
+},
+{
+"mention_id": "5c76bb2560ac3b24",
+"claim_id": "ukraine-money-unaccounted",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "the trail run from Europe into Moscow"
+},
+{
+"mention_id": "37d848b09d5872d5",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a preamble and a call to prayer"
+},
+{
+"mention_id": "28c0118c128426d9",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "a fulfilment argument, and one that makes non-occurrence count as a hit; no forward claim in it"
+},
+{
+"mention_id": "ad4e3b85b792511a",
+"claim_id": "naples-volcano-tsunami",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the 300,000 figure attached to the tsunami"
+},
+{
+"mention_id": "f98b1129a2e6ae8c",
+"claim_id": "hidden-cells-america",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "terrorists said to be here already through the border"
+},
+{
+"mention_id": "4b32acfb597866f4",
+"claim_id": "economy-braxton-hicks",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the August 2024 selloff explicitly ruled out as the real thing"
+},
+{
+"mention_id": "26179e45cecce56e",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "a seam between two recordings"
+},
+{
+"mention_id": "7cc0649d6705a097",
+"claim_id": "cuba-cold-war",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the 1960s and Kennedy given as the frame, with most of the content withheld"
+},
+{
+"mention_id": "d32635c387a49d6f",
+"claim_id": "cuba-cold-war",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "Havana named; the Russian news he cites is not independent of what he read"
+},
+{
+"mention_id": "82f04fefc04ac580",
+"claim_id": "oil-200-barrel",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the price move tied to strikes on Iran"
+},
+{
+"mention_id": "37a6ab4ce4b15e5c",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.95,
+"note": "a 2019 word by another writer, read aloud on the channel"
+},
+{
+"mention_id": "f80c458586cce51e",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "a prayer declaring the negative, with no window; nothing here could come out either way"
+},
+{
+"mention_id": "6d914c1a47026dfe",
+"claim_id": "death-to-america-marchers",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.85,
+"note": "northern Iraq and Jordan named, six months after the first telling"
+},
+{
+"mention_id": "3bad18e5496a95a8",
+"claim_id": "finances-and-church-shaking",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "online ministries broke within a day"
+},
+{
+"mention_id": "3dd0725463f62aab",
+"claim_id": "north-korea-liberation",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the not-in-the-news clause is what keeps this from being scoreable"
+},
+{
+"mention_id": "9951747f0bc4cfcf",
+"claim_id": "asia-revival",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "China, South Korea and Japan named, a year before the Asian language channels"
+},
+{
+"mention_id": "f1532cbcb80e319e",
+"claim_id": "great-storm-on-the-horizon",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "sobering days, with the storm left undefined"
+},
+{
+"mention_id": "f0c2025ce397717d",
+"claim_id": "plague-350m",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "prayed against rather than predicted; conditionality carries it"
+},
+{
+"mention_id": "011e569d1cafe147",
+"claim_id": "mahdi-antichrist",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the Saudi flag, the green, and the groups honouring him"
+},
+{
+"mention_id": "3895295f253884f1",
+"claim_id": "green-train-germany-paris",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Germany to Paris, eleven days before the French rail sabotage, which was arson on cables rather than a device"
+},
+{
+"mention_id": "935c07f41a668deb",
+"claim_id": "plots-against-churches",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "walk the grounds and plead the blood"
+},
+{
+"mention_id": "7c2267c73c46cc11",
+"claim_id": "trump-bullet-by-the-ear",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "told the day after Butler; this archive holds no earlier telling of the ear detail, so the claim exists only retrospectively"
+},
+{
+"mention_id": "920dbf0d832c2265",
+"claim_id": "oval-office-prayer-glory",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.8,
+"note": "the weeping and the intercessors around him"
+},
+{
+"mention_id": "9e166274ed022fe8",
+"claim_id": "shaking-to-the-waking",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "called correction and not judgment, with the darkness lifting"
+},
+{
+"mention_id": "3768a5bf21909252",
+"claim_id": "president-will-be-radical-for-jesus",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the earliest form, the day of the shooting"
+},
+{
+"mention_id": "6e323ba634453cb2",
+"claim_id": "olympics-protection-2024",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "the Aquatic Centre and the green train named in the same instruction"
+},
+{
+"mention_id": "baf5c675a50641f4",
+"claim_id": "amero-north-american-currency",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the broken ship rebuilt as a rocket, given as the image"
+},
+{
+"mention_id": "288eec6f6f5c6e0d",
+"claim_id": "four-oak-trees",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the holly berry tree added, pointing at the winter"
+},
+{
+"mention_id": "68818b89fd4f18a1",
+"claim_id": "trade-wars-china-called-2023",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "restated in July 2024, before the tariffs"
+},
+{
+"mention_id": "1b1ada47b05a6954",
+"claim_id": "grid-cyberattack",
+"same_event": "unsure",
+"delta_type": "location_update",
+"confidence": 0.5,
+"note": "the city list; he concedes Houston may have been Hurricane Beryl, so this may be weather rather than the grid attack"
+},
+{
+"mention_id": "b89c8d79a5ff8edc",
+"claim_id": "next-virus-engineered-in-a-lab",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the AI and the DNA code, two months before the China telling"
+}
+]
+}

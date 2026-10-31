@@ -1,0 +1,30 @@
+{"relationships": [
+  {"from_claim": "battleground-senate-2026", "to_claim": "stalemate-government-2026",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "LlRONx0fV0A", "evidence_start_s": 2429,
+   "note": "He states the consequence himself: losing the three seats turns the Senate blue and leaves a stalemate president facing great persecution."},
+
+  {"from_claim": "iraq-economic-boom", "to_claim": "new-pipelines-opened",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "LlRONx0fV0A", "evidence_start_s": 7286,
+   "note": "The Kurdish pipeline is given as the mechanism of the Iraqi oil wealth, half built and needing only to be finished."},
+
+  {"from_claim": "assassins-through-canada-michigan", "to_claim": "trump-health-event",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "Two threats to the president recorded days apart, one by trained operatives and one by poison. He does not join them."},
+
+  {"from_claim": "churches-burned-giant-rises", "to_claim": "agenda-2030",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "ruV85YYcW1o", "evidence_start_s": 836,
+   "note": "He carries the burning churches and the poked giant straight into the 2030 agenda push in a single passage."},
+
+  {"from_claim": "churches-burned-giant-rises", "to_claim": "canada-persecution",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "ruV85YYcW1o", "evidence_start_s": 836,
+   "note": "He names the persecution coming on the church in Canada as part of the same sequence as the burnings and the olive press."},
+
+  {"from_claim": "amendment-challenges", "to_claim": "internet-socialist-control",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "LlRONx0fV0A", "evidence_start_s": 2255,
+   "note": "Social media is named as where the First Amendment goes first, which is the same mechanism as the socialist control claim and shares its 2030 horizon."}
+]}

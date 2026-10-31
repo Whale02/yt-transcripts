@@ -1,0 +1,17 @@
+[
+ {"claim_id": "anchorage-quake-and-fire",
+  "label": "Anchorage destroyed by earthquake, uplift, inundation and fire",
+  "domain": "geology",
+  "description": "Seen in a long open-eyed vision given after a June 2024 television interview: a massive earthquake destroying the area, the land broken off and elevated with water coming inland, and all of Anchorage, Alaska burning the way Hawaii burned.",
+  "aliases": ["anchorage alaska", "on fire like hawaii", "land was shifted up"]},
+ {"claim_id": "war-on-american-soil-patriotism",
+  "label": "America hit by another nation, and a wave of patriotism follows",
+  "domain": "war",
+  "description": "That America will be struck by another nation and war will come to American soil, seen on the West Coast and in the central part of the country, carried out through hidden cells described as ants, with a surge of patriotism afterwards that makes people willing to serve.",
+  "aliases": ["hit by another nation", "war will happen on america's soil", "hidden within cells"]},
+ {"claim_id": "israel-tunnel-booby-traps",
+  "label": "Booby traps in the Israeli tunnel operation",
+  "domain": "war",
+  "description": "Led to pray over the tunnels in Israel before the ground invasion, he says he saw plots laid against the soldiers and heard the words booby traps repeated, and called for angels to be sent.",
+  "aliases": ["booby traps", "the tunnels in israel", "ground invasion"]}
+]

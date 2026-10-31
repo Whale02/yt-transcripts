@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "0ba923ebdd7bfecd",
+"claim_id": "fox-looking-at-america",
+"same_event": "yes",
+"delta_type": "exact_repeat",
+"confidence": 0.85,
+"note": "The same sentence three times in a row, immediately after the first mention in the previous passage."
+},
+{
+"mention_id": "ee63da0cd362d06e",
+"claim_id": "retaliation-attack-within",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He pre-frames the outcome: if it is attributed to a lone actor rather than to Iran, that is a mislabel rather than a miss. Nothing can count against it."
+},
+{
+"mention_id": "8e36a5b43a8cc426",
+"claim_id": "green-white-jerseys-riot",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "Football rioting footage, with a note that he does not follow the sport."
+},
+{
+"mention_id": "7d7988efb2b1e8eb",
+"claim_id": "cartel-leaders-taken-turf-war",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "A Colombian figure held in the balance at fifty fifty by prayer. The fifty fifty framing means either outcome fits."
+},
+{
+"mention_id": "28b79ab08c2b90e6",
+"claim_id": "nyc-subway-attack-morning",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds mass transit and baseball together with the enemy within, and a night attack on Israel alongside."
+},
+{
+"mention_id": "091195a8cb569079",
+"claim_id": "four-fires-started-california",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Extends the deliberate ignition claim to Hawaii and adds China as capable of it."
+},
+{
+"mention_id": "c32581be500caae6",
+"claim_id": "authority-over-the-weather-declared",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Cooler air called down. Weather always changes, so this reads as answered on any timescale."
+},
+{
+"mention_id": "3699342385479ce9",
+"claim_id": "voter-fraud-named-states",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Names a Georgia figure and a two billion dollar figure, sourced to what people were saying rather than to a document."
+},
+{
+"mention_id": "0e7ba9f545398247",
+"claim_id": "poisoned-to-look-like-natural-causes",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He does not name the person, which removes the checkable part."
+},
+{
+"mention_id": "a485875d2983e699",
+"claim_id": "ungodly-alliance-turkey-syria",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "He walks back his own objection, says he got cranky and should not have, and offers to pray for the trip instead. Recorded as a softening."
+},
+{
+"mention_id": "088796fb96e26116",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "An operational aside about the size of the team."
+},
+{
+"mention_id": "18b8dc89846201c0",
+"claim_id": "slush-funds-america",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Puts twenty four billion on the diversion back to the party. The same figure appears elsewhere attached to Ukraine accounts."
+},
+{
+"mention_id": "abcf3bd8c19ffe24",
+"claim_id": "eiffel-tower-on-fire",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and it is presented as already fulfilled. He does not distinguish the tower itself burning from things burning around it during unrest, and the claim as given was the tower."
+},
+{
+"mention_id": "4bd02af1a0c186bd",
+"claim_id": "zelensky-replaced-by-grey-haired-man",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the scissors cutting the strings, the pro-Russia and pro-Ukraine proxy government and Kyiv split down the middle."
+},
+{
+"mention_id": "e9ae8119c9497062",
+"claim_id": "king-charles-scorpion-strike",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "He claims it already happened, that the king came out stinging, then extends it forward to Canada and Europe."
+},
+{
+"mention_id": "1651ec203fc3e8cc",
+"claim_id": "device-unloaded-oakland-denver-missouri",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He says outright it has not been seen yet and that he keeps praying over it, which is an honest open ledger entry."
+},
+{
+"mention_id": "ad66c81d5e1fb1c0",
+"claim_id": "putin-five-cards",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Puts the tyrant phase after the end of the current American term. The window opens in 2029, so nothing before then can settle it."
+},
+{
+"mention_id": "0d6ef4645feaa974",
+"claim_id": "pacific-nw-quake",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Vancouver to San Francisco with thirty thousand dead, then Okinawa."
+},
+{
+"mention_id": "d444a7ced43cffea",
+"claim_id": "global-quake-swarm",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "A daily earthquake chart read out as the swarm. The globe records roughly fifteen magnitude 4 and above events a day, which is what the chart shows."
+},
+{
+"mention_id": "09748e78d343eb21",
+"claim_id": "public-events-warning",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Names five cities and the Macy's fireworks show, dated to the July Fourth week, which makes it checkable."
+},
+{
+"mention_id": "4a95de5df21ccbea",
+"claim_id": "mount-of-olives-split",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "He marks the Israel shaking symbolic while also naming the Dome of the Rock, which allows a non physical reading either way."
+},
+{
+"mention_id": "ac1f441ab41de23c",
+"claim_id": "internet-socialist-control",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "He has to be prompted by his wife for the word socialist, which is worth recording as how the word is arrived at."
+},
+{
+"mention_id": "c21c09152018d331",
+"claim_id": "black-tentacles-livestreams",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Live stream will become dead in Europe, with work while it is day attached as the instruction."
+},
+{
+"mention_id": "b76786d6f6857719",
+"claim_id": "camp-meetings-separation",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Gives the mechanism: speech restrictions push people back to in person meetings like the 1980s and 90s."
+},
+{
+"mention_id": "46863f717d491ce0",
+"claim_id": "okinawa-july-shaking",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "The meaning of Okinawa is supplied by his chat pointing out the military bases, not by the word itself."
+},
+{
+"mention_id": "5274275ec2c587b7",
+"claim_id": "ministry-scandals",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.7,
+"note": "He says he was told not to say the ministry details aloud. Withholding the content means nothing here can be checked either way."
+},
+{
+"mention_id": "18876492ada7214e",
+"claim_id": "ungodly-alliance-turkey-syria",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 27 June 2026, twelve days before the 9 July version this claim was seeded from."
+},
+{
+"mention_id": "4a9762894aafcdc6",
+"claim_id": "zelensky-taken-out-ukraine-split",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds a Turkey and Russia plan to draw the president into dealing with Zelensky."
+},
+{
+"mention_id": "aa04963b16b45680",
+"claim_id": "pacific-nw-quake",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Seattle, Portland and San Francisco, with a shaking of politics alongside the physical one."
+},
+{
+"mention_id": "086dea38281d2852",
+"claim_id": "alaska-coastline-on-fire",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the mechanism: the earth breathing gas like a leak and burning. He corrects his own direction mid-sentence."
+},
+{
+"mention_id": "cf3c208ac41e3d5e",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "A transition into the news segment."
+},
+{
+"mention_id": "70701248287579ec",
+"claim_id": "one-more-round-iran",
+"same_event": "yes",
+"delta_type": "contradiction",
+"confidence": 0.8,
+"note": "He says he did not see this ending, against the standing claim of one more round and then the end of it. An open ended claim also cannot expire."
+},
+{
+"mention_id": "46876068fd81f259",
+"claim_id": "lindell-dominion-lawsuit",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Both halves are checkable: a named lawsuit figure and a report said to be coming out."
+},
+{
+"mention_id": "31c2c171cf30b17c",
+"claim_id": "internet-shutdown-soon",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Work while it is day given as the reason for the discipleship instructions, with Europe named."
+},
+{
+"mention_id": "186ec327e8a147bf",
+"claim_id": "swiss-alps-revival",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Waterfalls out of a mountain identified as the Swiss Alps by the Lord in the vision."
+},
+{
+"mention_id": "84a5067c8bdb14ab",
+"claim_id": "temple-quakes",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "He asks whether Greenland and the Philippines have temples rather than knowing, and wonders aloud about monkey temples. Recorded as how loosely the reports are being matched."
+},
+{
+"mention_id": "43769c8921fbcdee",
+"claim_id": "temple-quakes",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "He has to ask the Holy Spirit to help him recall his own word, which is worth recording."
+},
+{
+"mention_id": "14ae6abf5d5ad723",
+"claim_id": "japan-major-volcano",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "A very big volcano in Japan, given off a 5.7 reading, with Okinawa and Alaska alongside."
+},
+{
+"mention_id": "f9adcfa8443cf4bd",
+"claim_id": "glory-cloud-healings",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.6,
+"note": "The greatest miracles ever seen, with no mechanism or place."
+},
+{
+"mention_id": "342f8711e36be19d",
+"claim_id": "venezuela-major-earthquake",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, given as news rather than as a call: a 7.5 and a 7.2 in Venezuela the same day, read as the start of a South American shaking."
+},
+{
+"mention_id": "a03c60352746097a",
+"claim_id": "malibu-earthquake",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "He checks whether a 6.9 in Japan was in California. That he has to ask shows how loosely reports are being matched to the word."
+},
+{
+"mention_id": "69f94d10387c931a",
+"claim_id": "venezuela-major-earthquake",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds Colombia and Cuba to the shaking. Venezuela sits on the Caribbean plate boundary and is seismically active, so it is the least surprising of the three."
+},
+{
+"mention_id": "3c2d130f1a4d8bc1",
+"claim_id": "pacific-nw-quake",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "He asks whether an event was near San Francisco, is told it was further north, and accepts the correction rather than claiming it. Worth crediting."
+},
+{
+"mention_id": "651071ac5367de72",
+"claim_id": "venezuela-revival-after-overthrow",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "The earthquake read as the precursor to the Venezuelan revival he has claimed."
+},
+{
+"mention_id": "1a3bc8b7c1ab144f",
+"claim_id": "tribulation-birthing-pains",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Labour pains getting worse. A worsening frame absorbs any outcome, so nothing here can fail."
+},
+{
+"mention_id": "5af2c11c045783c7",
+"claim_id": "multiple-volcanoes-at-once",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds meteors that break windows alongside the eruptions."
+},
+{
+"mention_id": "2b4f98cae18f6a0f",
+"claim_id": "stay-home-until-after-july-4",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and unusually specific: a person, a destination and a date to wait past."
+},
+{
+"mention_id": "ef820dbbd11b3e35",
+"claim_id": "voter-fraud-named-states",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds pockets of influence in high turnout cities and ties it to a Senate seat, then Minnesota."
+},
+{
+"mention_id": "088e2cab45942e38",
+"claim_id": "harris-2028-rebrand",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the silver from barrels going to the party and a new suit as the rebrand image."
+},
+{
+"mention_id": "6c2e4334121ca7cd",
+"claim_id": "newyork-shaking-2027",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Four socialist wins in New York given as the uprising forming."
+},
+{
+"mention_id": "574fe0274414e817",
+"claim_id": "cartel-mafia-turf-wars",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The crime family becoming what saves New York. He says himself he does not know what it means."
+},
+{
+"mention_id": "cc0e14a079de09a9",
+"claim_id": "netanyahu-holds-lebanon-security-zone",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, taken from a clip rather than a vision, and framed as defying America."
+},
+{
+"mention_id": "e0cee1a84c292e36",
+"claim_id": "netanyahu-holds-lebanon-security-zone",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "The prime minister's own words, conditioned on his own tenure, which he does not control."
+},
+{
+"mention_id": "e41a85adf6f2ffd4",
+"claim_id": "trump-in-turkey-danger",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 25 June 2026, eleven days before the 6 July version this claim was seeded from. Puts the visit inside two weeks."
+},
+{
+"mention_id": "cb09decefa6e2a07",
+"claim_id": "arab-ground-war-against-israel",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Turkey and Syria named as the pair coming against Israel, tied to the drums claim."
+}
+]
+}

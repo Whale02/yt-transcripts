@@ -1,0 +1,4 @@
+{"reviews": [
+ {"video_id": "FUjrrRVRt5M", "start_s": 2851, "claim_id": "sun-explosions-fearful-sights", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "solar cycle 25 was near maximum, so heightened flare activity was expected and reported"},
+ {"video_id": "ygBayT9gQFk", "start_s": 1170, "claim_id": "preachers-drop-dead-in-pulpits", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the judgment reading rather than the death is what would have to be established"}
+]}

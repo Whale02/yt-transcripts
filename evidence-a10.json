@@ -1,0 +1,12 @@
+{"evidence":[
+{"claim_id":"ukraine-files-burned","observed_on":"2025-01-20",
+ "source_url":"https://oig.usaid.gov/our-work/ukraine-oversight",
+ "summary":"The USAID Office of Inspector General maintains a standing Ukraine oversight programme covering the aid period. Its published work through the transition records audits, investigations and findings on Ukraine assistance, and contains no report of records being destroyed or computers wiped in Ukraine before the change of administration.",
+ "state":"EXPIRED_WITHOUT_MATCH",
+ "rationale":"The claim was made three times between 21 and 29 December 2024 with a stated window, before the incoming administration arrives on 20 January 2025. The body whose job it is to find exactly this reports nothing of the kind for that period. Destruction of aid records on that scale, in a war whose funding was under continuous congressional and journalistic scrutiny, is not the sort of thing that goes unreported."},
+{"claim_id":"ukraine-files-burned","observed_on":"2025-01-20",
+ "source_url":"https://kyivindependent.com/nearly-4-billion-in-us-aid-to-ukraine-remained-unused-what-will-happen-to-them/",
+ "summary":"Kyiv Independent reporting on the state of American aid to Ukraine at the handover covers unspent appropriations and the mechanics of the transition in detail, with no account of documents being burned or computers destroyed.",
+ "state":"EXPIRED_WITHOUT_MATCH",
+ "rationale":"Checked the Ukrainian side of the coverage as well as the American, because a burn of that kind would have been reported locally first. Nothing. Recorded as expired rather than contradicted: an absence of reporting is weaker than a positive contradiction, and the claim named no ministry, agency or building, so there was never a specific thing to check."}
+]}

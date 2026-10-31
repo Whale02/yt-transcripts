@@ -1,0 +1,49 @@
+[
+  {"video_id": "HhKfSxKL67I", "start_s": 2930, "claim_id": "temple-quakes",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "He asks the question himself, whether any temples fell, and the answer is that they have not seen it. The fulfilment is claimed before the fulfilment is confirmed."},
+
+  {"video_id": "HhKfSxKL67I", "start_s": 8332, "claim_id": "january-2027-highlighted",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Highlighted names no event at all, so any January would satisfy it and none could fail it. Recorded because the date is specific even though the content is empty."},
+
+  {"video_id": "yCJFoRGfrEc", "start_s": 501, "claim_id": "ezekiel-38-turkey",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Damascus becoming a ruinous heap is a direct quotation of Isaiah 17, so the wording is scriptural rather than descriptive. It has been claimed as imminent by many people for a long time, which is the base rate this needs scoring against."},
+
+  {"video_id": "yCJFoRGfrEc", "start_s": 1979, "claim_id": "snake-figure-by-2028",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Read off a speech rather than received, and he says so: it is his inference about what the man is signalling by giving that speech."},
+
+  {"video_id": "yCJFoRGfrEc", "start_s": 2060, "claim_id": "michelle-gavin-2024",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "The claim moves from 2024 to 2028. He offers the receipts himself, saying they have the videos proving he said it before the 2024 result, so the priority is checkable inside this corpus. The pairing with Michelle Obama is what would separate it from an obvious guess."},
+
+  {"video_id": "yCJFoRGfrEc", "start_s": 2186, "claim_id": "no-accountability-elites",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Certain politicians with a bunch of money identifies nobody, so no report could confirm or refute it."},
+
+  {"video_id": "yCJFoRGfrEc", "start_s": 2296, "claim_id": "no-accountability-elites",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "He raises the mismatch himself, that he saw billions while the report says two hundred million, and resolves it by assuming the rest is still to come rather than that the figure was wrong. That resolution is the move worth recording."},
+
+  {"video_id": "yCJFoRGfrEc", "start_s": 5852, "claim_id": "calling-things-that-be-not",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "A bare number with no month, no year and no event attached to it."},
+
+  {"video_id": "yCJFoRGfrEc", "start_s": 6836, "claim_id": "sooners-asia-first-on-crypto",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The cauldron image is not interpreted and no action, threshold or direction is named."},
+
+  {"video_id": "yCJFoRGfrEc", "start_s": 7401, "claim_id": "sooners-asia-first-on-crypto",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "I can see it names nothing that was seen. Scripture and hymn with the impression appended."},
+
+  {"video_id": "yCJFoRGfrEc", "start_s": 7476, "claim_id": "july4-250th-parades",
+   "same_event": "yes", "delta_type": "no_claim",
+   "note": "Worship, with nothing stated about the day."},
+
+  {"video_id": "q-M7KOvMzS4", "start_s": 205, "claim_id": "trump-assassination-attempt",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The specifics are unusually hard for this corpus: two countries, a distance and a calibre. Scoreable if anything ever emerges. He again withholds part of it, saying that is all he will say."}
+]

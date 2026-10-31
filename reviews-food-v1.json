@@ -1,0 +1,11 @@
+{"reviews": [
+ {"video_id":"WCSr1gn7mlM","start_s":1165,"claim_id":"ai-artificial-economy","same_event":"yes","delta_type":"first_mention",
+  "note":"The sharpest economic mechanism he has given: headline growth and real conditions diverging, with AI as the cause of the divergence. Directly testable against GDP versus real-income and default data."},
+ {"video_id":"UAPYhpm_sX0","start_s":87,"claim_id":"dustbowl-famine","same_event":"yes","delta_type":"first_mention"},
+ {"video_id":"dBStuxYtyFM","start_s":6252,"claim_id":"dustbowl-famine","same_event":"yes","delta_type":"restatement"},
+ {"video_id":"WCSr1gn7mlM","start_s":683,"claim_id":"branson-migration","same_event":"yes","delta_type":"first_mention",
+  "note":"Worth flagging that he lives in this area, so a prediction of revival and inflow there is not independent of his own interests."},
+ {"video_id":"6XXc1-oeNWw","start_s":505,"claim_id":"fertilizer-food-inflation","same_event":"yes","delta_type":"first_mention",
+  "note":"Sourced from a bank research note he read out, so treat it as commentary carrying a date rather than an independent vision."},
+ {"video_id":"38U8PhvIHog","start_s":516,"claim_id":"screening-everywhere","same_event":"yes","delta_type":"first_mention"}
+]}

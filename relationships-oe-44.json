@@ -1,0 +1,15 @@
+{"relationships":[
+{"from_claim":"admitted-miss-she-didnt-make-it","to_claim":"timing-misses-admission","rel_type":"related_to","asserted_by":"system",
+ "note":"Both are him conceding a failure, but this one is an outcome rather than a date, and it has a named consequence behind it."},
+{"from_claim":"admitted-miss-she-didnt-make-it","to_claim":"false-prophecies-2020-admitted","rel_type":"related_to","asserted_by":"system",
+ "note":"The other place where a miss is conceded outright rather than reframed as a delay."},
+{"from_claim":"battleground-senate-2026","to_claim":"red-wave-2026","rel_type":"contradicts","asserted_by":"brandon",
+ "evidence_video":"meR7v1cmzBI","evidence_start_s":339,
+ "note":"He names the red wave everybody believes is coming and denies it in the same breath: barely keep the House, lose the Senate."},
+{"from_claim":"only-a-spectator-psalm91","to_claim":"plague-350m","rel_type":"related_to","asserted_by":"system",
+ "note":"The exemption that makes the death toll costless to the listener: the fall is at their side and does not come near them."},
+{"from_claim":"released-early-more-time","to_claim":"plague-calendar-fall-to-spring","rel_type":"related_to","asserted_by":"system",
+ "note":"The device that absorbs a timing miss: an event arriving off schedule becomes an early release rather than an error."},
+{"from_claim":"olympics-opening-ceremony-watch","to_claim":"purple-three-mountain","rel_type":"related_to","asserted_by":"system",
+ "note":"Purple appears in both and is never given a meaning in either."}
+]}

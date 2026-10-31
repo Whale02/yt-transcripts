@@ -1,0 +1,44 @@
+[
+ {
+  "claim_id": "megaton-bomb-tel-aviv",
+  "label": "A megaton bomb comes into Tel Aviv",
+  "domain": "israel",
+  "description": "An instruction given several videos before 17 June 2025 to pray over a megaton bomb coming into Tel Aviv. He had it looked up at the time and reports that Iran has nothing of that size, and later reads China's backing of Iran as the answer to where such a weapon would come from.",
+  "aliases": ["a megaton bomb coming into Tel Aviv", "megaton bomb"]
+ },
+ {
+  "claim_id": "grey-ash-louisiana-to-canada",
+  "label": "Grey ash or jelly over the soil from Louisiana to Canada",
+  "domain": "disaster",
+  "description": "A thick grey substance, described as jelly-like and soot-like, seen lying over the soil from the New Orleans and Louisiana area up the eastern seaboard to Canada. He states repeatedly that he cannot work out what it is and wonders aloud about volcanic ash.",
+  "aliases": ["gray jelly stuff all over the soil", "I still can't figure out what all that gray stuff is", "gray upon the soil"]
+ },
+ {
+  "claim_id": "st-louis-street-revival",
+  "label": "A revival on the streets of downtown St Louis",
+  "domain": "revival",
+  "description": "A major revival seen breaking out in St Louis, Missouri, not in a church but on the streets of downtown, beginning when ordinary obedient people pray for a man in a wheelchair and the power hits him. Given 20 June 2025.",
+  "aliases": ["a major revival in St. Louis, Missouri", "this man in a wheelchair"]
+ },
+ {
+  "claim_id": "wealth-transfer-blockage",
+  "label": "Satan is blocking the wealth transfer and it must be prayed through",
+  "domain": "wealth",
+  "description": "He says he was told on the way home to go live and pray over the blockage on the financial wealth transfer, because Satan is trying to block it and the body must stand in the gap for it. Given 20 June 2025.",
+  "aliases": ["Satan's trying to block it", "the blockage concerning the financial"]
+ },
+ {
+  "claim_id": "mega-preacher-shot-on-stage",
+  "label": "Two preachers shot on stage to frighten people away from the revival",
+  "domain": "church",
+  "description": "A vision of a well known preacher, and then two preachers, shot on a stage, which he reads as an attempt to make people afraid to attend the revival. He says the Lord told him to pray that it does not take place.",
+  "aliases": ["the mega preacher that I saw being", "shot in the stage"]
+ },
+ {
+  "claim_id": "north-korea-secret-weapons",
+  "label": "North Korea holds something more dangerous and secret than Iran",
+  "domain": "north korea",
+  "description": "Iran seen set aside like a stepchild while the greater darkness sits over North Korea, whose nuclear capability and weapons are called secret and more dangerous, with someone offering them something greater. Given 20 June 2025.",
+  "aliases": ["there's darkness over here greater with what North Korea has", "it's secret the weapons they have"]
+ }
+]

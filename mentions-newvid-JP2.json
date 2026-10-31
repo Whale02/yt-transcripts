@@ -1,0 +1,10 @@
+{"mentions": [
+ {"video_id": "JP--134vRTw", "start_s": 2246,
+  "claim_text": "He reads headlines about black market petrol stations reopening in Russia, a second day of fuel crisis in Dagestan forcing drivers to park, and questions about how children will get to school from 1 September.",
+  "quote": "Black market gas station have begun to open again in Russia",
+  "source_mode": "NEWS_COMMENTARY", "certainty": "definite", "conditionality": "unconditional",
+  "topics": ["war", "economics"], "locations": ["Russia", "Dagestan"],
+  "time_phrase": "September 1st", "time_precision": "exact_date", "due_at": "2026-09-01",
+  "falsify_match": "Unfalsifiable: the news items are read from the screen, not claimed as his word.",
+  "falsify_miss": "Cannot fail as stated; the reporting is the source, not a forecast."}
+]}

@@ -1,0 +1,10 @@
+{"relationships":[
+{"from_claim":"lone-wolf-not-the-main-show","to_claim":"hidden-cells-america","rel_type":"related_to","asserted_by":"system",
+ "note":"Lone attackers are cast as sympathizers rather than the main event, which defers the cells claim rather than resolving it."},
+{"from_claim":"july4-250th-parades","to_claim":"not-the-obvious-date","rel_type":"contradicts","asserted_by":"system",
+ "note":"In November the 4 July 250th anniversary was named and explicitly ruled out as too expected. Here it is prayed over as the target."},
+{"from_claim":"pitch-black-no-lights","to_claim":"cuba-completely-dark","rel_type":"related_to","asserted_by":"system",
+ "note":"The darkness over Cuba given a physical reading: no lights, and the operation happening at night."},
+{"from_claim":"valley-of-decisions-make-or-break","to_claim":"divine-protection-trump","rel_type":"related_to","asserted_by":"system",
+ "note":"Make or break now means lives or dies on a three week clock, which puts it directly alongside the protection prayers."}
+]}

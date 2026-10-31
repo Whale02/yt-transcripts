@@ -1,0 +1,19 @@
+{"reviews": [
+ {"video_id": "GLZhDGRuMCY", "start_s": 73, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "the Fort Worth building on fire story, recounted as history"},
+ {"video_id": "GLZhDGRuMCY", "start_s": 999, "claim_id": "reprieve-four-years", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "the financial crash said to have been delayed into the four-year window, corrected from three"},
+ {"video_id": "GLZhDGRuMCY", "start_s": 3084, "claim_id": "red-dawn-experiences", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "China and Europe highlighted, framed as an act of war and retaliation"},
+ {"video_id": "GLZhDGRuMCY", "start_s": 3494, "claim_id": "plague-350m", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "millions dying bent over with the virus, tied to Adam's lease and the UN"},
+ {"video_id": "-RS1-Cvy6lc", "start_s": 0, "claim_id": "weather-warfare-drought", "same_event": "yes", "delta_type": "restatement", "confidence": 0.9, "note": "weapons of weather warfare, with the seeding objection acknowledged"},
+ {"video_id": "-RS1-Cvy6lc", "start_s": 198, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.8, "note": "watch the moon around the 10th; the full moon fell on 10 July 2025 and is a published date"},
+ {"video_id": "-RS1-Cvy6lc", "start_s": 386, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "decisions not set in stone, with no decision, party or subject named"},
+ {"video_id": "-RS1-Cvy6lc", "start_s": 478, "claim_id": "land-for-third-temple-accord", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the covenant of many, with land traded for the temple"},
+ {"video_id": "-RS1-Cvy6lc", "start_s": 632, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.85, "note": "encouragement about low-hanging fruit, with no measure"},
+ {"video_id": "-RS1-Cvy6lc", "start_s": 1566, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.9, "note": "a personal reflection about isolation"},
+ {"video_id": "-RS1-Cvy6lc", "start_s": 1980, "claim_id": "million-prayer-army", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.8, "note": "Australia, Canada and England praying together within the hour, which is measurable against live viewer counts"},
+ {"video_id": "w3lzakaovU0", "start_s": 508, "claim_id": null, "same_event": "no", "delta_type": "no_claim", "confidence": 0.8, "note": "the window question, with the South Korean election he cites already past"},
+ {"video_id": "w3lzakaovU0", "start_s": 781, "claim_id": "kim-jong-un-role", "same_event": "yes", "delta_type": "new_detail", "confidence": 0.85, "note": "North Korea rising suddenly, and America spared because of the saints"},
+ {"video_id": "w3lzakaovU0", "start_s": 814, "claim_id": "north-korea-before-return", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.8, "note": "North Korea and Iran again, with a major revival, hedged by the in-part clause"},
+ {"video_id": "w3lzakaovU0", "start_s": 1393, "claim_id": "two-state-third-temple", "same_event": "yes", "delta_type": "elaboration", "confidence": 0.85, "note": "a peace agreement about to be struck and the temple negotiation to follow"},
+ {"video_id": "w3lzakaovU0", "start_s": 2612, "claim_id": "putin-wants-ukraine-and-poland", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "all of Ukraine and all of Poland, with Poland a NATO member"},
+ {"video_id": "w3lzakaovU0", "start_s": 2679, "claim_id": "canada-sector-crash-emigration", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the sectoral crash in Canada and people trying to leave"}
+]}

@@ -1,0 +1,13 @@
+{"relationships":[
+{"from_claim":"disneyland-prayer-target","to_claim":"venezuela-like-iraq","rel_type":"related_to","asserted_by":"system",
+ "note":"Maduro and Disneyland appear in one passage as parts of the same list of things to pray over. He does not connect them causally and neither does this row."},
+{"from_claim":"february-3-budget","to_claim":"olympics-opening-ceremony-watch","rel_type":"related_to","asserted_by":"system",
+ "note":"Third distinct thing hung on February 3rd, after the Olympics opening and Pope Leo. The date is the only thing they share."},
+{"from_claim":"february-3-budget","to_claim":"budget-fixed-january-2026","rel_type":"contradicts","asserted_by":"system",
+ "note":"On 12 November the January budget was already done and merely unannounced. On 15 December there is something major still to come on February 3rd concerning the budget."},
+{"from_claim":"clock-ticking-jan-feb-march","to_claim":"plague-calendar-fall-to-spring","rel_type":"related_to","asserted_by":"system",
+ "note":"Given in the same session as the plague timing but with the year explicitly withheld, so it is linked rather than merged; folding it in would invent a date he did not give."},
+{"from_claim":"wealth-transfer-window","to_claim":"beast-system-foundation","rel_type":"related_to","asserted_by":"brandon",
+ "evidence_video":"odkjS3oGxxI","evidence_start_s":1420,
+ "note":"He states the purpose himself: the financial wealth transfer is for what is coming, for the Antichrist to rise up out of the Middle East."}
+]}

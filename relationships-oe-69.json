@@ -1,0 +1,10 @@
+{"relationships":[
+{"from_claim":"i-gave-a-vision-not-a-prophecy","to_claim":"vision-is-a-prayer-target","rel_type":"related_to","asserted_by":"system",
+ "note":"Two halves of the same defence. A vision is not a prophecy so the false-prophet test does not apply, and it is given to be prayed against so an absent outcome is a success."},
+{"from_claim":"i-gave-a-vision-not-a-prophecy","to_claim":"street-address-vs-sentences","rel_type":"related_to","asserted_by":"system",
+ "note":"The category is narrowed and then the accuracy standard within it is narrowed too: a vision rather than a prophecy, and the sentences rather than the street address."},
+{"from_claim":"the-chart-of-words","to_claim":"prophetic-accuracy-2025","rel_type":"related_to","asserted_by":"system",
+ "note":"They maintain their own index of the words, which is what makes the on-air replays possible and the accuracy claim checkable."},
+{"from_claim":"virus-more-contagious-trial-run","to_claim":"vision-is-a-prayer-target","rel_type":"contradicts","asserted_by":"system",
+ "note":"The Lord is quoted saying you will not stop it, only lessen it. That removes the prayer escape from this particular claim, against the frame that a sight is given to be prayed away."}
+]}

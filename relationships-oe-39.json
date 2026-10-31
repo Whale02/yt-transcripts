@@ -1,0 +1,14 @@
+{"relationships":[
+{"from_claim":"olive-press-fresh-oil","to_claim":"shaking-to-the-waking","rel_type":"same_event_as","asserted_by":"brandon",
+ "evidence_video":"4a472es4lSg","evidence_start_s":332,
+ "note":"He gives the press and the shaking-to-a-waking in the same breath: the crushing is what yields the oil."},
+{"from_claim":"north-korea-before-return","to_claim":"household-wont-taste-death","rel_type":"contradicts","asserted_by":"system",
+ "note":"A precondition that pushes the return further out, said three days after telling the same audience they are the last generation that will not taste death."},
+{"from_claim":"expect-the-unexpected","to_claim":"not-the-obvious-date","rel_type":"same_event_as","asserted_by":"system",
+ "note":"One rule stated twice: the named date is not the date. Both release every dated target in advance."},
+{"from_claim":"targeted-rate-2-percent","to_claim":"housing-break","rel_type":"related_to","asserted_by":"brandon",
+ "evidence_video":"bvxPloP7Nys","evidence_start_s":5400,
+ "note":"He recalls the housing scale and the new housing arrangement in the same passage as the two percent."},
+{"from_claim":"utah-temple-attack","to_claim":"christmas-eve-mass-pope","rel_type":"related_to","asserted_by":"system",
+ "note":"Salt Lake City is named in both, once beside the Pope's Christmas mass and once as the site of the temple attack. He does not join them."}
+]}

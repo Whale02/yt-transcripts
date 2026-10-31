@@ -1,0 +1,85 @@
+{"_note": "Job B batch 5. Four rows here are the cue firing on Ezekiel 37 being read aloud, where 'so I prophesied as I was commanded' is scripture rather than a claim of his own.",
+ "links": [
+ {"fa_id": 17998, "strength": "weak", "claim_id": null,
+  "points_back_to": "a vision recounting that shifts mid-passage from asteroids to restoration of the bride, with nothing said to have happened"},
+
+ {"fa_id": 18346, "strength": "weak", "claim_id": null,
+  "points_back_to": "the referent is not recoverable from the passage: he says it is just like the Lord said without naming what it is"},
+
+ {"fa_id": 18350, "claim_id": "drill-baby-drill-prophesied",
+  "points_back_to": "the word about American oil production and reducing reliance on foreign oil",
+  "claimed_event_on": "2026-03-18", "real_event": "An Energy Department order addressing supply disruption risk and foreign oil reliance."},
+
+ {"fa_id": 18178, "strength": "weak", "claim_id": null,
+  "points_back_to": "what he saw the previous night, given as a call to get ready for a coming revival"},
+
+ {"fa_id": 18557, "strength": "weak", "claim_id": null,
+  "points_back_to": "a discourse marker restating his own standing exhortation about one last call, not a claim that anything landed"},
+
+ {"fa_id": 19796, "claim_id": "drone-attacks-holiday-crowds",
+  "points_back_to": "the repeated word that drones bought from Amazon would carry explosive devices into stadiums",
+  "claimed_event_on": "2026-03-13", "real_event": "A drone incident he plays and calls exactly what he saw."},
+
+ {"fa_id": 19798, "claim_id": "iran-refineries-struck",
+  "points_back_to": "the word that Israel would strike the oil wells and cause havoc at the strait",
+  "claimed_event_on": "2026-03-13", "real_event": "Oil tankers struck that day."},
+
+ {"fa_id": 19799, "claim_id": "iran-refineries-struck",
+  "points_back_to": "the same strike word, with shipping halted",
+  "claimed_event_on": "2026-03-13", "real_event": "Tankers blown up and mines laid, which he offers before turning to the gas-line word that has not landed."},
+
+ {"fa_id": 17635, "strength": "weak", "claim_id": null,
+  "points_back_to": "a vision recounting of technology that manipulates time and space, with a joke about giving away classified information"},
+
+ {"fa_id": 17636, "strength": "weak", "claim_id": null,
+  "points_back_to": "conditional and forward: this is what I told you when this all happens, describing what the Antichrist will do"},
+
+ {"fa_id": 17643, "claim_id": "three-year-window",
+  "points_back_to": "the word about a short-lived window of stability given for a great harvest",
+  "claimed_event_on": "2026-03-10", "real_event": "Israeli removal of key leaders, offered as the stability that opens the window."},
+
+ {"fa_id": 18314, "strength": "weak", "claim_id": null,
+  "points_back_to": "a vision recounting of Cuban cigars with a gold band, which he says he does not understand"},
+
+ {"fa_id": 18546, "claim_id": "catholic-church-shaking",
+  "points_back_to": "the vision of a big crack in the wall",
+  "claimed_event_on": "2026-03-07", "real_event": "A photograph on screen that he identifies as what he saw."},
+
+ {"fa_id": 18547, "strength": "weak", "claim_id": null,
+  "points_back_to": "a bare sign-off on the previous description, carrying no claim of its own"},
+
+ {"fa_id": 19468, "strength": "weak", "claim_id": null,
+  "points_back_to": "Ezekiel 37 read aloud: the prophesying is the prophet's in the text, not a claim of his"},
+
+ {"fa_id": 19469, "strength": "weak", "claim_id": null,
+  "points_back_to": "he is matching an animation of the dry bones passage to what he says he was shown, not matching a word to an event"},
+
+ {"fa_id": 19470, "strength": "weak", "claim_id": null,
+  "points_back_to": "Ezekiel 37 read aloud again in the same passage"},
+
+ {"fa_id": 19471, "strength": "weak", "claim_id": null,
+  "points_back_to": "a cross-reference between two of his own visions, with no event attached"},
+
+ {"fa_id": 17569, "claim_id": "drone-attack-derail-elections",
+  "points_back_to": "the vision of a group of them flying together, which he says he had never seen before",
+  "claimed_event_on": "2026-03-06", "real_event": "Footage of a group flying in formation, which he calls practice."},
+
+ {"fa_id": 17572, "strength": "weak", "claim_id": null,
+  "points_back_to": "Ezekiel 37 read aloud, including the interpretation given inside the text"},
+
+ {"fa_id": 17605, "claim_id": "taiwan-two-day-fall",
+  "points_back_to": "the word about China moving on Taiwan while attention is elsewhere",
+  "claimed_event_on": "2026-03-02", "real_event": "Simultaneous pressure on Venezuela and Chinese resources, which he reads as the setup he saw."},
+
+ {"fa_id": 17606, "strength": "weak", "claim_id": null,
+  "points_back_to": "forward-looking: he will beat the war drums, restating a warning rather than reporting it landed"},
+
+ {"fa_id": 17609, "strength": "weak", "claim_id": null,
+  "points_back_to": "a prayer request over a named royal family with no corresponding claim in the set and no event asserted"},
+
+ {"fa_id": 18699, "strength": "weak", "claim_id": null,
+  "points_back_to": "a vision recounting about manipulated weather and economies, with a prayer request and an explicit I don't know how"},
+
+ {"fa_id": 18706, "strength": "weak", "claim_id": null,
+  "points_back_to": "a vision recounting of a woman taken away in an armoured vehicle, which he asks aloud whether to read as metaphor"}
+]}

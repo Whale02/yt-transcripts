@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "a1c3e111d26f6901",
+"claim_id": "churches-burned-giant-rises",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Europe, Canada, Toronto and America named together with historic buildings."
+},
+{
+"mention_id": "a3d58d8a1c3ee13f",
+"claim_id": "churches-burned-giant-rises",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Narrows it to a lot of them especially in Toronto, which is more checkable than the general claim."
+},
+{
+"mention_id": "113756888480a129",
+"claim_id": "newyork-uprising-buildings-burn",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He refuses to claim the single New York fire as the fulfilment and says it is not what he saw. That is the right call and worth crediting."
+},
+{
+"mention_id": "f9832ab2b77b9963",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "A teaching passage on the cloud and provision. No forward content."
+},
+{
+"mention_id": "f9599db7387a85a7",
+"claim_id": "brazil-new-david-leader",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "He says he is in direct contact with the Brazilian president, which makes the claim about an arranged programme rather than a vision."
+},
+{
+"mention_id": "2fc4513c087a3018",
+"claim_id": "times-square-new-years-eve",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.6,
+"note": "An event in Times Square, with no date and no description of what it is."
+},
+{
+"mention_id": "5b0495bc59d99868",
+"claim_id": "earthquakes-shake-cuba",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds Havana specifically, but he offers earthquake and hurricane as alternatives without deciding, which widens what would count."
+},
+{
+"mention_id": "7a5c305433572cf9",
+"claim_id": "cuba-cold-war",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.7,
+"note": "Dark things attached to Kennedy. He corrects himself mid-sentence about who he means."
+},
+{
+"mention_id": "816d12a287f3df5a",
+"claim_id": "cuba-liberation-by-surprise",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "Invasion and liberation put at soon, and the Iran matter given as what has to close first. That sequencing is checkable."
+},
+{
+"mention_id": "fc31873fcc02aaad",
+"claim_id": "great-betrayal-of-israel",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Reverses the direction of the betrayal: here Israel acts alone and angers America, where the standing claim has America turning its back on Israel. Both on record."
+},
+{
+"mention_id": "57b048b87da38ca6",
+"claim_id": "cuba-liberation-by-surprise",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "The president wanting Cuba now but held by loose ends elsewhere."
+},
+{
+"mention_id": "741f6703f13f8d17",
+"claim_id": "witchcraft-broken-over-cuba",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The witchcraft breaking off the island alongside the invasion and liberation."
+},
+{
+"mention_id": "603905b05a0ec3e0",
+"claim_id": "cuba-economy-flourishes-like-a-state",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds a financial and trade blessing and the pain of the past broken off."
+},
+{
+"mention_id": "772c5197aac11016",
+"claim_id": "erica-and-seven-blacked-oaks",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Erica prayed over by name alongside serving officials, which fixes her as an identifiable living person rather than a symbol."
+},
+{
+"mention_id": "6e01b06580271662",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "A clip of the Turkish president. Not a claim he makes."
+},
+{
+"mention_id": "e82fbe1e4ed2d459",
+"claim_id": "syria-is-the-red-line-not-iran",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Turkey defending Syria, with a currency uprising alongside."
+},
+{
+"mention_id": "1167646e71093bb1",
+"claim_id": "russian-weapon-warsaw-mushroom",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The cat and mouse line and unconventional weapons, heard in a meeting in the spirit."
+},
+{
+"mention_id": "0dd40822e21d8860",
+"claim_id": "ezekiel-38-turkey",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the Islamic Brotherhood in the Turkish leader's pocket as the mechanism."
+},
+{
+"mention_id": "73b127b5102e8793",
+"claim_id": "damascus-ruinous-heap",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Damascus a ruinous heap is Isaiah 17, so the language is scriptural rather than newly given."
+},
+{
+"mention_id": "59937af6d09019eb",
+"claim_id": "strong-russia-for-hook-in-jaw",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The hook in the jaw applied to Russia and Iran with Syrian biological weapons attached."
+},
+{
+"mention_id": "c9a301862f0af06e",
+"claim_id": "syria-is-the-red-line-not-iran",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "The clearest statement of it: Iran was an unwanted stepchild, Syria is what brings them all in. That is a falsifiable regional prediction."
+},
+{
+"mention_id": "9ad2922b51c4653d",
+"claim_id": "turkey-red-hat-soldiers",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "He dates the visions to over three years ago but asserts the age rather than replaying the recording."
+},
+{
+"mention_id": "7865d5549d279d37",
+"claim_id": "stretched-too-thin-who-will-you-save",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Given as a taunt heard in the spirit rather than as a stated event, but the content is a checkable strategic prediction."
+},
+{
+"mention_id": "9bc8aa10cab6b61d",
+"claim_id": "kim-jong-un-role",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds the motive: wanting to flex because he holds nuclear weapons."
+},
+{
+"mention_id": "ba5bd07694a58aa7",
+"claim_id": "saudi-brics",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Weakening BRICS given as the reason for the escalation, with the kink in the hose image."
+},
+{
+"mention_id": "71098658bbf1e1ab",
+"claim_id": "emp-ship-in-the-gulf",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the barge with a raised makeshift floor and puts a season on it: watch the summer months."
+},
+{
+"mention_id": "6d186f8e88e750c8",
+"claim_id": "stretched-too-thin-who-will-you-save",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Puts the taunt in the mouths of a Kim, Putin and Turkey alliance seen planting trees together."
+},
+{
+"mention_id": "0864b3a4556de8c0",
+"claim_id": "hidden-cells-america",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds China alongside Iran and names the rivers as what to watch."
+},
+{
+"mention_id": "45bcb50f1d6e3eed",
+"claim_id": "cuba-retaliation-against-america",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Surprise attacks from Cuba, triggered by an American move on the island."
+},
+{
+"mention_id": "42a9a0a402ffa22e",
+"claim_id": "oil-200-barrel",
+"same_event": "yes",
+"delta_type": "contradiction",
+"confidence": 0.8,
+"note": "He says oil will drop back to where it was before once the conflict ends, which is the opposite direction from his standing claim of oil above two hundred dollars. Both are on record, not merged."
+},
+{
+"mention_id": "d93688cbe56de9af",
+"claim_id": "church-asleep-ring-bells",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "The bells ringing with glory rising on the churches, moved onto Europe."
+},
+{
+"mention_id": "ccb0232848d0d872",
+"claim_id": "church-asleep-ring-bells",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "A harvest of souls through the bells."
+},
+{
+"mention_id": "17ba9371a80b6db4",
+"claim_id": "chinese-women-painted-faces-kimono",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He marks it symbolic and gives no reading. Kimono is Japanese rather than Chinese dress, which he does not remark on."
+},
+{
+"mention_id": "b6f58579b721ce26",
+"claim_id": "withheld-israel-iran-targets",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "Secret meetings seen, with a Zelensky diplomacy clip played after."
+},
+{
+"mention_id": "bd49c8aca5ad3c69",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "A Zelensky clip on Russian bad faith. Not a claim he makes."
+},
+{
+"mention_id": "a59f9ac08a5681c5",
+"claim_id": "plant-on-the-mississippi",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. No plant is named and no meaning is given for the repeated phrase in the bus."
+},
+{
+"mention_id": "3485421eed292e01",
+"claim_id": "valley-of-decisions-make-or-break",
+"same_event": "yes",
+"delta_type": "location_update",
+"confidence": 0.8,
+"note": "Moves the valley of decision from the midterms onto the Iran choice."
+},
+{
+"mention_id": "c98a5772756f2f7a",
+"claim_id": "israel-acts-alone-on-iran-oil",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "Puts it inside twenty four hours, which is the tightest window he gives on this claim and the easiest to check."
+},
+{
+"mention_id": "f07be017c01f433a",
+"claim_id": "b2-bomber-coming-in-low",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Given without a target or a date."
+},
+{
+"mention_id": "41785e22ae8eb469",
+"claim_id": "fishes-and-loaves-creative-ideas",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "The coin in the fish's mouth applied to building work for the coming revival."
+},
+{
+"mention_id": "50ac6caa5664c615",
+"claim_id": "trump-health-event",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He says he holds words about the president's health and mental state that he is not giving, which puts the content beyond checking."
+},
+{
+"mention_id": "2cef95de9e0af4e2",
+"claim_id": "coup-25th-amendment",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The twenty fifth amendment named as the mechanism of the attempted removal."
+},
+{
+"mention_id": "7a253868121e4e82",
+"claim_id": "trump-falling-asleep-fitness-questioned",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, and it is news commentary rather than a word. He notes the symmetry with the president having mocked his predecessor for the same thing."
+},
+{
+"mention_id": "eff2a4316b81155e",
+"claim_id": "berlin-caverns-hitler-summoning",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Ties the Berlin ritual claim to the bankers accelerating a European war."
+},
+{
+"mention_id": "f896ba027ee1eb62",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "A Zelensky clip on drone and missile numbers."
+},
+{
+"mention_id": "adc0fc8ffc78bb0b",
+"claim_id": "uk-riots-spread-from-france",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, taken from footage rather than a vision, with immigration named as the cause."
+},
+{
+"mention_id": "f679133d2b246119",
+"claim_id": "gaza-agreement",
+"same_event": "unsure",
+"delta_type": "contradiction",
+"confidence": 0.7,
+"note": "He says outright that this is not a peace agreement because there is no peace, against the standing claim that an agreement was reached and fulfilled."
+},
+{
+"mention_id": "1fdcbb29e2aab4e4",
+"claim_id": "mount-of-olives-split",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.8,
+"note": "A major Israeli earthquake put at about to happen."
+},
+{
+"mention_id": "19aa36e64f661539",
+"claim_id": "sooners-asia-first-on-crypto",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "The Boomer Sooner analogy explained again from Oklahoma history, with Japan and South Korea named rather than Taiwan."
+},
+{
+"mention_id": "d7a979f5353a3bdd",
+"claim_id": "former-and-latter-rain-together",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.6,
+"note": "Rain here is figurative, so no weather outcome settles it."
+},
+{
+"mention_id": "c2ab7f77c2ff671f",
+"claim_id": "the-14th-protected-23-in-custody",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "This is the pre-commitment the w48 material asserted but did not evidence, and it is dated 10 June, four days before the fourteenth. The date is genuinely called in advance. What he does not say in advance is what would happen or where, and the FBI action that followed was on the fifteenth against a plot at a White House event."
+},
+{
+"mention_id": "5c209fd1aaebedd8",
+"claim_id": "no-kings-rally-blacked-out-faces",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. He states in advance that the blacked out faces are a representation rather than literal clothing, which means no visual evidence could confirm or refute it."
+},
+{
+"mention_id": "fa947cca919a0afb",
+"claim_id": "zelensky-black-widow-web-europe",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 10 June 2026, five days before the 15 June version. Here the spider is not yet named as Zelensky, which is worth noting: the identification comes later."
+},
+{
+"mention_id": "628ae035c9415f35",
+"claim_id": "great-distraction-on-the-clock",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. No date is given for the clock, so nothing can expire."
+},
+{
+"mention_id": "9283a80d3f8ae99c",
+"claim_id": "black-sea-strait-closed",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds darkness on the sea with Turkey and an earthquake coming alongside."
+}
+]
+}

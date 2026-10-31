@@ -1,0 +1,12 @@
+{
+"reviews": [
+{
+"mention_id": "703e530b0aa19f32",
+"claim_id": "newyork-41st-floor-fire",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Re-pointed from first_mention: hL9Trl2qb9k@235 on 13 January 2026 carries the same 41st floor image more than six months earlier."
+}
+]
+}

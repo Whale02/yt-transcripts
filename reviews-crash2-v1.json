@@ -1,0 +1,10 @@
+{"reviews": [
+ {"video_id":"e8RJHBLAGf4","start_s":961,"claim_id":"crash-1930s","same_event":"yes","delta_type":"delay_claim",
+  "note":"December 2025, seven weeks after the tariff-conditional version and two months before the ruling: the crash is already described as delayed while the same condition is restated. Directly relevant to the CONTRADICTED verdict, because it shows the condition was live and unchanged right up to the decision."},
+ {"video_id":"e8RJHBLAGf4","start_s":925,"claim_id":"crash-1930s","same_event":"yes","delta_type":"elaboration",
+  "note":"Makes the prayer-conditionality explicit: intercession is aimed at the judges. The court went the other way on 20 Feb 2026."},
+ {"video_id":"e8RJHBLAGf4","start_s":760,"claim_id":"screening-everywhere","same_event":"unsure","confidence":0.4,"delta_type":"branch",
+  "note":"Same surveillance theme, different vehicle. Kept separate because one is physical screening and this is a platform claim."},
+ {"video_id":"e8RJHBLAGf4","start_s":1526,"claim_id":null,"same_event":"no","delta_type":"new_event",
+  "note":"Preparedness instruction, recorded and unassigned; it belongs to the instruction set rather than to a forecast."}
+]}

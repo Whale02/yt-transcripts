@@ -1,0 +1,13 @@
+{"relationships":[
+{"from_claim":"blood-wave-not-political","to_claim":"red-wave-2026","rel_type":"related_to","asserted_by":"brandon",
+ "evidence_video":"YCq4oFKaqL4","evidence_start_s":2975,
+ "note":"He reinterprets the red wave himself: not political but a blood wave and a glory wave. That would let a lost midterm still count as the wave arriving."},
+{"from_claim":"agenda-2030","to_claim":"vision-is-a-prayer-target","rel_type":"contradicts","asserted_by":"system",
+ "note":"Prayer is said to only delay the inevitable and Agenda 2030 to come to full fruition regardless. That concedes intercession cannot prevent the outcome, against the frame that a sight is given to be prayed away."},
+{"from_claim":"street-address-vs-sentences","to_claim":"prophetic-method-in-part","rel_type":"related_to","asserted_by":"system",
+ "note":"The accuracy claim narrowed to substance rather than specifics, which licenses the wrong dates and places while preserving the claim."},
+{"from_claim":"one-more-round-of-increase","to_claim":"a-window-not-a-door","rel_type":"related_to","asserted_by":"system",
+ "note":"Both make the good period finite and unrepeatable, so a missed blessing is the listener's loss rather than a failed word."},
+{"from_claim":"dont-want-to-become-what-i-see","to_claim":"mega-minister-conversation","rel_type":"related_to","asserted_by":"system",
+ "note":"Both are him measuring other ministries against a standard he then applies to himself."}
+]}

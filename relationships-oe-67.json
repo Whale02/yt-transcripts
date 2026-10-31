@@ -1,0 +1,10 @@
+{"relationships":[
+{"from_claim":"coup-25th-amendment","to_claim":"coup-against-trump","rel_type":"same_event_as","asserted_by":"system",
+ "note":"The coup claim now names the constitutional mechanism, which the earlier telling did not."},
+{"from_claim":"olympics-2028-darkness","to_claim":"olympics-opening-ceremony-watch","rel_type":"related_to","asserted_by":"system",
+ "note":"Second Olympics claim. The 2026 one was built on a wrong start date; this one reads the 2028 dates correctly off the published schedule."},
+{"from_claim":"cruise-ship-revival","to_claim":"olympics-january-yachts","rel_type":"related_to","asserted_by":"system",
+ "note":"Boats and yachts recur across both, and the cruise claim is assembled on air from three separate dated sightings."},
+{"from_claim":"september-9-2029-maybe","to_claim":"wormwood-april-13-2029","rel_type":"related_to","asserted_by":"system",
+ "note":"Two 2029 dates from different sources: one taken from published astronomy, the other floated and hedged."}
+]}

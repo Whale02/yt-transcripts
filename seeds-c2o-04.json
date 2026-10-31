@@ -1,0 +1,12 @@
+[
+ {"claim_id": "glory-domes-healing",
+  "label": "Glory domes people travel to and are healed in",
+  "domain": "religion",
+  "description": "Dome structures seen filled with glory, to which people travel for miles from the east and west coasts, walking in and being healed, delivered and saved, as part of a great revival running across America, Europe and Africa.",
+  "aliases": ["glory domes", "come for miles", "healed by the power of God"]},
+ {"claim_id": "seventy-year-grace-ended-2015",
+  "label": "America's seventy-year blessing ran out in 2015",
+  "domain": "religion",
+  "description": "Reasoning from the seventieth anniversary of the Second World War victory that a special seventy-year blessing on America ended in 2015, presented as part of a pattern of grace periods God has given the nation and as a warning that the current one is running down.",
+  "aliases": ["70 years", "special blessing", "ended in 2015"]}
+]

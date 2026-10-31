@@ -1,0 +1,956 @@
+[
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 1003,
+  "claim_text": "He recalls being told that signs would be given in the heavens as the dispensation of grace comes to an end, and points to footage of asteroids falling over California as the fulfilment.",
+  "quote": "I told you the rocks are coming",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "signs",
+   "asteroids"
+  ],
+  "locations": [
+   "California"
+  ],
+  "time_phrase": "today",
+  "time_precision": "day",
+  "falsify_match": "An unusual increase in observed fireballs.",
+  "falsify_miss": "No increase. Fireballs over California are reported most weeks, which sets the base rate."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 1619,
+  "claim_text": "He recalls warning about Taiwan and says Japan was called down to the Strait of Hormuz to help with the strait, showing aerial footage of tankers.",
+  "quote": "I saw uh Japan going to the Strait of Hormuz",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "japan",
+   "hormuz",
+   "taiwan"
+  ],
+  "locations": [
+   "Japan",
+   "Strait of Hormuz"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Japanese warships deployed to the Gulf.",
+  "falsify_miss": "None deployed. Japan has sent escorts to the region before, in 2020, which is the precedent."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 1656,
+  "claim_text": "Tankers full of oil sit stationary outside the strait because Iran will blow them up and the crews are afraid, people get more upset with Israel as it escalates, and there will be gas lines like the 1970s.",
+  "quote": "there'll be gas lines like there was in the 1970s",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "oil",
+   "shipping"
+  ],
+  "locations": [
+   "Strait of Hormuz",
+   "India",
+   "Israel"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Rationing or queues for fuel in developed countries.",
+  "falsify_miss": "None. The 1970s comparison sets a benchmark that would be unmistakable if met."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 1702,
+  "claim_text": "He shows Indian drivers queuing on mopeds for a couple of gallons of petrol as the fulfilment, and repeats that when Japan goes to the strait China will take Taiwan because its defenders are leaving with their battleships.",
+  "quote": "they're lining up just like the Lord showed us",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "oil",
+   "india",
+   "taiwan"
+  ],
+  "locations": [
+   "India",
+   "Taiwan"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The earlier recordings name gas queues before these ones appeared.",
+  "falsify_miss": "They do not. Fuel queues in India are common during local supply disruptions."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 1787,
+  "claim_text": "As Japan goes down to sweep for mines and help, China attacks Taiwan and it becomes a third world war, with Russia and North Korea involved.",
+  "quote": "as they went down, I saw China attacking Taiwan",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "taiwan",
+   "china",
+   "world war"
+  ],
+  "locations": [
+   "Taiwan",
+   "China",
+   "Russia",
+   "North Korea"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A Chinese attack on Taiwan timed to a Japanese deployment to the Gulf.",
+  "falsify_miss": "No attack, or one unconnected to Japanese movements. The sequence is what makes this checkable."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 1830,
+  "claim_text": "He recalls warning to pray over the Houston refineries, Tuttle in Oklahoma, Louisiana and other major oil locations because there would be surprise strategic attacks, and says he gave it before Iran started.",
+  "quote": "I said for there will be surprise",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "refineries",
+   "sabotage"
+  ],
+  "locations": [
+   "Houston",
+   "Tuttle",
+   "Louisiana"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The earlier recordings name those places before any incident.",
+  "falsify_miss": "They do not. Tuttle and Houston are among the largest refining and gas hubs in the country, which is how they would be chosen anyway."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 1890,
+  "claim_text": "Sabotage at a facility that looked white, where something shifted and seven people standing nearby were completely vaporised by the heat, with twenty five more in critical condition, in retaliation for what is happening in Iran.",
+  "quote": "I saw people completely vaporized, seven of them in particular",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "refineries",
+   "casualties"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An American plant explosion killing about seven with about twenty five critical.",
+  "falsify_miss": "No such incident. The exact counts make this the sharpest of the refinery claims."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 2025,
+  "claim_text": "He points to the day's explosion at a crude oil refinery in Texas City with residents told to shelter in place as the first major oil flames in America, says the Lord told him to watch the Houston area and that they would try to sabotage it, and notes nobody was hurt.",
+  "quote": "The Lord said, Watch the Houston area. Watch this time",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "refineries",
+   "texas"
+  ],
+  "locations": [
+   "Port Arthur",
+   "Texas City",
+   "Houston"
+  ],
+  "time_phrase": "today",
+  "time_precision": "day",
+  "falsify_match": "The incident is confirmed as sabotage.",
+  "falsify_miss": "It is ruled an accident. He says himself he does not know the cause, and there were no deaths, against the seven he saw."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 2056,
+  "claim_text": "The same passage in the overlapping window, giving the refinery explosion and the vaporised people side by side.",
+  "quote": "Massive explosion at a crude oil refinery",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "refineries"
+  ],
+  "locations": [
+   "Texas City"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Same as the preceding row.",
+  "falsify_miss": "Same as the preceding row."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 2150,
+  "claim_text": "He says he saw nuclear things underneath the earth in Iran and one bomb, warns against trusting them because they are in a holy war to bring forth their Mahdi and want to bring about the end through martyrdom.",
+  "quote": "I saw nuclear things underneath the earth in Iran. One bomb",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "iran",
+   "nuclear",
+   "mahdi"
+  ],
+  "locations": [
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A completed device found in Iran.",
+  "falsify_miss": "None found. One bomb is a narrower claim than the eleven devices he gives elsewhere."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 2195,
+  "claim_text": "He saw secret cells throughout America and says the Lord told him to pray for Passover through Good Friday and Easter weekend concerning the Vatican, Catholic churches and named megachurches, with the word masquerade.",
+  "quote": "The Lord said, Masquerade",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "terror",
+   "churches",
+   "easter"
+  ],
+  "locations": [
+   "Vatican",
+   "United States"
+  ],
+  "time_phrase": "Passover through Easter",
+  "time_precision": "week",
+  "falsify_match": "An attack at a large church over the Easter period.",
+  "falsify_miss": "None. Naming the two largest American megachurches is where a target list would start anyway."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 2246,
+  "claim_text": "He says he saw the Passover feast as a major target and points to Israel cancelling its Passover feast in Jerusalem and the Palm Sunday procession being cancelled due to war as the fulfilment.",
+  "quote": "I saw Passover feast as a target",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "passover",
+   "israel"
+  ],
+  "locations": [
+   "Jerusalem",
+   "Israel"
+  ],
+  "time_phrase": "Passover",
+  "time_precision": "day",
+  "falsify_match": "The earlier recordings name Passover as a target before the cancellations.",
+  "falsify_miss": "They do not, or the cancellations were routine wartime measures rather than a response to a threat."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 2296,
+  "claim_text": "He recalls saying that in the stillness of the night the Cuban electric grid would go down and stay down for a while, with cyber interference from America, and shows footage of Cuba dark except one five-star hotel.",
+  "quote": "In the stillness of the night, the electric grid would go down",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba",
+   "grid",
+   "cyber"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A Cuban blackout attributed to American cyber action.",
+  "falsify_miss": "The blackouts are attributed to fuel shortage and grid decay, which is the published explanation."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 2342,
+  "claim_text": "He says the Lord warned that Cuba is about to be liberated in the middle of the night while the darkness is on them, and that he did not know what he was seeing when he first saw the darkness.",
+  "quote": "they're about to be liberated in the middle of the night",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "cuba",
+   "liberation"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A change of government in Cuba beginning at night.",
+  "falsify_miss": "None. Cuban blackouts predate the word by years, which is the priority problem."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 4080,
+  "claim_text": "After singing he says he sees the lights coming on in Cuba.",
+  "quote": "I see lights coming on in Cuba",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Cuban grid stability restored.",
+  "falsify_miss": "Blackouts continue. The lights coming on is the counterpart to the darkness image and could be read either literally or not."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 4478,
+  "claim_text": "He speaks about being a forerunner and pioneer of something never done before on the platform, and says the anointing comes stronger the more he is persecuted.",
+  "quote": "to be a pioneers of something",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "ministry"
+  ],
+  "locations": [],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing. A statement about his own calling.",
+  "falsify_miss": "Nothing. No event is named."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 5349,
+  "claim_text": "Souls called in through Africa, Asia, Europe, South America and the Middle East, with this being the greatest Easter season ever seen in the churches and the wayward coming home.",
+  "quote": "THIS WILL BE THE greatest Easter we've ever seen in our churches",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "revival",
+   "easter"
+  ],
+  "locations": [
+   "Africa",
+   "Asia",
+   "Europe",
+   "South America"
+  ],
+  "time_phrase": "this Easter",
+  "time_precision": "season",
+  "falsify_match": "Record Easter attendance and conversions in 2026.",
+  "falsify_miss": "Ordinary Easter numbers. The window closed in April 2026, so this can be scored."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 7530,
+  "claim_text": "A demonic spirit in a suit swims around the president whispering confusion, with a fog running from his eyes to the back of his head keeping his mind from thinking right about Iran and Cuba and making him seem double-minded.",
+  "quote": "It's swimming around our president causing confusion",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "trump",
+   "spiritual"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing observable beyond the president appearing indecisive.",
+  "falsify_miss": "Nothing observable. Double-mindedness is a reading rather than a record."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 8409,
+  "claim_text": "A red wave called over the nation with California and New York named, that the New York mayor be replaced with somebody new quickly and the city not fall to what he calls Muslim ideology, with New York, California, Texas, Minnesota and Miami shaken.",
+  "quote": "the Mandabi would be replaced, Father, with somebody new quickly",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "new york",
+   "elections"
+  ],
+  "locations": [
+   "New York",
+   "California",
+   "Texas",
+   "Minnesota",
+   "Miami"
+  ],
+  "time_phrase": "quickly",
+  "time_precision": "none",
+  "falsify_match": "The mayor leaves office early.",
+  "falsify_miss": "He serves his term. Framed as a petition, but the outcome is definite enough to score."
+ },
+ {
+  "video_id": "hH4qc5gpzRU",
+  "start_s": 9022,
+  "claim_text": "It will be over and a great revival is coming to Iran, and everything hidden in the mountains will be found and exposed so that it cannot cause weapons of mass destruction.",
+  "quote": "you're going to find all of it in these mountains",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "iran",
+   "weapons"
+  ],
+  "locations": [
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Weapons material recovered from Iranian mountain sites and disclosed.",
+  "falsify_miss": "None recovered. He states elsewhere it will be trucked out before anyone gets there."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 125,
+  "claim_text": "Japan helps in the days ahead with pressure on the strait, providing security over the oil and the assets, trying to be a buddy to the United States.",
+  "quote": "I saw um Japan helping in the days ahead",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "japan",
+   "hormuz"
+  ],
+  "locations": [
+   "Japan",
+   "Strait of Hormuz"
+  ],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "Japan takes a security role at the strait.",
+  "falsify_miss": "It does not. Japan sent an escort force to the region in 2020, so the precedent exists."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 168,
+  "claim_text": "He sees the Oklahoma Sooners covered wagon again, this time over Japan concerning its economy, and says he does not know what it means.",
+  "quote": "I saw Sooners again over Japan concerning their economy",
+  "source_mode": "VISION",
+  "certainty": "hedged",
+  "conditionality": "unclear",
+  "topics": [
+   "japan",
+   "economy"
+  ],
+  "locations": [
+   "Japan"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Japan moving first on some financial measure.",
+  "falsify_miss": "It does not. He says himself he does not know what the wagon means."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 213,
+  "claim_text": "Japan takes battleships down to help with the strait while a puppet master pings North Korea, Russia and possibly Vietnam in the background, devising a plan to take over Taiwan.",
+  "quote": "they were devising a plan to take over Taiwan",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "taiwan",
+   "japan",
+   "china"
+  ],
+  "locations": [
+   "Taiwan",
+   "Japan",
+   "North Korea",
+   "Russia",
+   "Vietnam"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A coordinated move on Taiwan while Japanese ships are away.",
+  "falsify_miss": "None. Vietnam is named tentatively and has territorial disputes with China, which cuts against it."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 267,
+  "claim_text": "Taiwan's allies Japan, South Korea and Australia stand in the gap, and a major attack comes against computer chips and medical supplies, with certain medications out of China cut off to create a shortage as they take Taiwan.",
+  "quote": "Trying to create a shortage when it comes to certain medications",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "taiwan",
+   "chips",
+   "medicine"
+  ],
+  "locations": [
+   "Taiwan",
+   "China",
+   "Japan",
+   "South Korea",
+   "Australia"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Chinese export restrictions on medicines alongside a move on Taiwan.",
+  "falsify_miss": "Neither. China supplies a large share of active pharmaceutical ingredients, so the leverage is real but unused."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 538,
+  "claim_text": "He says nobody will come into the towns of Oklahoma with a red dawn because most families there have ten firearms, and that he saw the dividing of America trying to create a civil war and civil unrest.",
+  "quote": "I saw that dividing of America trying to create civil war",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "civil war"
+  ],
+  "locations": [
+   "Oklahoma",
+   "Kansas",
+   "Texas",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Organised armed conflict inside America.",
+  "falsify_miss": "None. Trying to create is weaker than saying it happens, so unrest alone would satisfy it."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 1185,
+  "claim_text": "He says he saw drones attacking American oil facilities with C4 on them, and that the Lord named Tuttle, Louisiana and the Houston area, alongside the president's forty eight hour ultimatum.",
+  "quote": "I saw them attacking our oil facilities with C4 on drones",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "drones",
+   "refineries"
+  ],
+  "locations": [
+   "Tuttle",
+   "Houston",
+   "Louisiana"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A drone attack with explosives on an American refinery.",
+  "falsify_miss": "None. Drone incursions over refineries have been reported without explosives, which is the weaker version."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 1286,
+  "claim_text": "The Lord says he will liberate the people of Iran, Cuba and Venezuela, will personally take care of North Korea, and will deal with Kim Jong-un like Pharaoh, shaking him and his family.",
+  "quote": "I will deal with Kim Jong-un like I did Pharaoh",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "north korea",
+   "cuba",
+   "venezuela",
+   "iran"
+  ],
+  "locations": [
+   "North Korea",
+   "Cuba",
+   "Venezuela",
+   "Iran"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The North Korean leadership falls.",
+  "falsify_miss": "It holds. Four regime changes are claimed at once here, which raises the bar rather than lowering it."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 1375,
+  "claim_text": "Revival is called for China and other nations that have never seen it, with the greatest harvest of souls the world has seen and miracles nobody can deny, not the kind where somebody with a hangnail gets prayer.",
+  "quote": "we're going to see miracles that nobody can deny",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "revival",
+   "miracles"
+  ],
+  "locations": [
+   "China"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A documented healing that survives independent examination.",
+  "falsify_miss": "None. He sets the bar himself at undeniable, which is the right test and the one usually avoided."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 1469,
+  "claim_text": "The church becomes one family without petty differences, and the Lord brings down racial walls and the denominational walls between Catholic, charismatic and Baptist.",
+  "quote": "I'm bringing down racial walls in my church",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "church",
+   "unity"
+  ],
+  "locations": [],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Visible cross-denominational and cross-racial merging of congregations.",
+  "falsify_miss": "None. American congregations remain among the most segregated institutions in the country."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 1512,
+  "claim_text": "Great persecution is coming against the church, and in it the dividing walls come down and everyone joins together all hands on deck, as in the second world war, with a major revival following.",
+  "quote": "What's coming is great persecution against my bride",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "persecution",
+   "revival"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Legal persecution of American churches followed by unified growth.",
+  "falsify_miss": "Neither. The unity clause means partial persecution can be read as the start of it."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 2082,
+  "claim_text": "He says he loves everyone whatever they are and does not stand against Israel, but that when he sees something dark behind a man and that his life is in danger, he says so, with the Israeli prime minister the man in question.",
+  "quote": "I see something dark behind somebody and I see their life is in danger",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unclear",
+  "topics": [
+   "israel",
+   "netanyahu"
+  ],
+  "locations": [
+   "Israel"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An attempt on the Israeli prime minister.",
+  "falsify_miss": "None. Life in danger is not given a form or a time here."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 2125,
+  "claim_text": "He says he is not knocking the man and prays for him as he prayed for the previous president, and that he cannot back abortion or what he deems dark.",
+  "quote": "Same as I prayed for Joe Biden",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "positioning"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing. A positioning statement.",
+  "falsify_miss": "Nothing. No event is named."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 2476,
+  "claim_text": "A great shaking to awaken the nations with fearful sights, weather manipulation now confessed to, and a warning to watch for the aliens because everybody will be talking about them in the days ahead.",
+  "quote": "Watch for the aliens. They're coming",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "aliens",
+   "weather"
+  ],
+  "locations": [],
+  "time_phrase": "in the days ahead",
+  "time_precision": "none",
+  "falsify_match": "A wave of official or media attention to non-human intelligence.",
+  "falsify_miss": "None. Congressional hearings on the subject ran in 2023, so the conversation predates the word."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 2519,
+  "claim_text": "He recalls saying Cuba would go dark with cyber warfare by America's hand for a long span, and that hackers from China and Russia would then attack the American grid, leaving cities up east without power for three weeks at a time.",
+  "quote": "Up east that will be out with power for 3 weeks at a time",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "grid",
+   "cyber",
+   "cuba"
+  ],
+  "locations": [
+   "Cuba",
+   "United States",
+   "China",
+   "Russia"
+  ],
+  "time_phrase": "3 weeks",
+  "time_precision": "week",
+  "falsify_match": "American cities without power for about three weeks after a cyber attack.",
+  "falsify_miss": "No such outage. He has since extended this to over a month, so the bound has moved."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 2565,
+  "claim_text": "He points to the Cuban grid collapsing for the third time that month as the first phase, having said Cuba would go dark and be liberated in the darkness, with the youth prowling the streets and burning buildings.",
+  "quote": "I will liberate them in the darkness, in the still of the night",
+  "source_mode": "PERSONAL_INFERENCE",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "cuba",
+   "grid"
+  ],
+  "locations": [
+   "Cuba"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "The earlier recordings name Cuban darkness before the blackouts began.",
+  "falsify_miss": "They do not. Cuban grid collapses have been running since 2024, before the word he cites."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 2853,
+  "claim_text": "Dark purple all around the New York mayor and darkness in the east, with a major shaking coming to New York, buildings and skyscrapers on fire everywhere, trash cans and cars alight and rioting, and censorship coming on the platform.",
+  "quote": "A major shaking is to take place in New New York",
+  "source_mode": "VISION",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "new york",
+   "riots"
+  ],
+  "locations": [
+   "New York"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Widespread fires and rioting in New York.",
+  "falsify_miss": "None. Fire and rioting on that scale would be unmissable, which makes this one of the cleaner failure conditions."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 3911,
+  "claim_text": "A prayer that the president take no counsel from the ungodly but inquire of the Lord like David and be victorious in what he puts his hand to, and that Cuba is liberated with revival throughout.",
+  "quote": "I thank you that Cuba is liberated",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "cuba",
+   "trump"
+  ],
+  "locations": [
+   "Cuba",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A change of government in Cuba.",
+  "falsify_miss": "None. Stated as a petition, with the outcome assumed."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 3954,
+  "claim_text": "Protection called over the vice president, the Secretary of State and the president's five adult children and grandchild, that no weapon formed against them will prosper.",
+  "quote": "We call protection over the family",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "hit list",
+   "protection"
+  ],
+  "locations": [
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "An attempt on one of the named people.",
+  "falsify_miss": "None. The same set of names recurs across the broadcasts, which is where a list would start anyway."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 4058,
+  "claim_text": "A prayer that the agencies uncover every plot including chatter through Morse code or old military radios and that every code be broken by super intelligence, and that there is a hedge around Taiwan so China will not take it.",
+  "quote": "there is a hedge around and about Taiwan that China will not take",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "taiwan",
+   "intelligence"
+  ],
+  "locations": [
+   "Taiwan",
+   "South Korea",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Taiwan stays out of Chinese hands.",
+  "falsify_miss": "China takes it. He prays against the outcome he says he was shown, which is the same split as the Cuba and civil war material."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 4130,
+  "claim_text": "Passover comes on the 1st and he was told to pray over the period up to Easter, over the Boston Marathon, over the nation's Easter services, over Europe and especially over Canada.",
+  "quote": "Praying over the the Boston Marathon",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "boston",
+   "easter",
+   "canada"
+  ],
+  "locations": [
+   "Boston",
+   "Canada",
+   "Europe"
+  ],
+  "time_phrase": "Passover to Easter",
+  "time_precision": "week",
+  "falsify_match": "An attack at the Boston Marathon or an Easter service.",
+  "falsify_miss": "None. The 2013 bombing is why that race is on any prayer list, which is the base rate problem."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 5247,
+  "claim_text": "Something is bypassed in a tower on a mountain he places in northern Europe closer to Russia where there is snow, which then goes around in a circle through America, turns and bubbles out.",
+  "quote": "they bypassed it in a tower on a mountain",
+  "source_mode": "VISION",
+  "certainty": "hedged",
+  "conditionality": "unclear",
+  "topics": [
+   "unclear"
+  ],
+  "locations": [
+   "Europe",
+   "Russia",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing. What is bypassed is never said.",
+  "falsify_miss": "Nothing. He asks aloud where the mountains are, so the location is his inference."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 5268,
+  "claim_text": "The same passage in the overlapping window.",
+  "quote": "I see the mountain very clear",
+  "source_mode": "VISION",
+  "certainty": "hedged",
+  "conditionality": "unclear",
+  "topics": [
+   "unclear"
+  ],
+  "locations": [
+   "Europe"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Same as the preceding row.",
+  "falsify_miss": "Same as the preceding row."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 5816,
+  "claim_text": "The blood called over Australia, Canada, America and the Vatican against every plot, with a great shaking named twice.",
+  "quote": "The blood covers the Vatican. A great shaking",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "vatican",
+   "shaking"
+  ],
+  "locations": [
+   "Vatican",
+   "Canada",
+   "Australia",
+   "United States"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "A shaking at the Vatican, which he elsewhere gives as an 8.2.",
+  "falsify_miss": "None. Here it is a covering prayer rather than a fresh word."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 6578,
+  "claim_text": "He calls the church across America, Europe and Africa to wake up and asks why it takes something terrible like September 11th or COVID before people pray.",
+  "quote": "It's time to wake up, church",
+  "source_mode": "PRAYER",
+  "certainty": "definite",
+  "conditionality": "unconditional",
+  "topics": [
+   "church"
+  ],
+  "locations": [
+   "United States",
+   "Europe",
+   "Africa"
+  ],
+  "time_phrase": "",
+  "time_precision": "none",
+  "falsify_match": "Nothing. An exhortation.",
+  "falsify_miss": "Nothing. No event is named."
+ },
+ {
+  "video_id": "US8rZ7oprqo",
+  "start_s": 6948,
+  "claim_text": "A six month window of acceleration going into Passover to wake up the church, with events to wake it, specifically concerning Canada, Toronto, British Columbia and England, and concerning Arabs against churches, synagogues and Jewish gatherings for Passover.",
+  "quote": "6-month window. Acceleration. Waking up the church",
+  "source_mode": "LORD_SAID",
+  "certainty": "definite",
+  "conditionality": "prayer_may_prevent",
+  "topics": [
+   "timing",
+   "canada",
+   "passover"
+  ],
+  "locations": [
+   "Canada",
+   "Toronto",
+   "British Columbia",
+   "England"
+  ],
+  "time_phrase": "6-month window",
+  "time_precision": "month",
+  "falsify_match": "Attacks on Canadian churches or synagogues within six months of Passover 2026.",
+  "falsify_miss": "None. The window runs from April to October 2026 and can be scored."
+ }
+]

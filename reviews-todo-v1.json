@@ -1,0 +1,67 @@
+{
+  "reviews": [
+    {
+      "video_id": "wP9qZYC_Cv4",
+      "start_s": 2044,
+      "claim_id": null,
+      "same_event": "no",
+      "delta_type": "new_event",
+      "note": "Rapture timing he hedges himself. Deliberately unassigned and unscoreable."
+    },
+    {
+      "video_id": "wP9qZYC_Cv4",
+      "start_s": 2271,
+      "claim_id": "preparedness-instructions",
+      "same_event": "yes",
+      "delta_type": "first_mention",
+      "note": "Moved off church-corruption, where a lexical guess had put it. Paying off the house is an instruction, not a forecast about church scandals."
+    },
+    {
+      "video_id": "oTgkGV03Ct4",
+      "start_s": 164,
+      "claim_id": "preparedness-instructions",
+      "same_event": "yes",
+      "delta_type": "elaboration",
+      "note": "Moved off branson-migration. Cash, food and water are the core of the instruction set."
+    },
+    {
+      "video_id": "oTgkGV03Ct4",
+      "start_s": 240,
+      "claim_id": "preparedness-instructions",
+      "same_event": "yes",
+      "delta_type": "elaboration",
+      "note": "Moved off silver-75, which is a price call. An ounce of silver traded for a chicken is barter advice, not a price forecast."
+    },
+    {
+      "video_id": "oTgkGV03Ct4",
+      "start_s": 360,
+      "claim_id": "medication-shortage",
+      "same_event": "yes",
+      "delta_type": "first_mention",
+      "note": "Moved off china-attacks-hawaii. The China link is the stated cause, not the same event as a military strike on Hawaii."
+    },
+    {
+      "video_id": "oTgkGV03Ct4",
+      "start_s": 472,
+      "claim_id": "urban-looting",
+      "same_event": "yes",
+      "delta_type": "first_mention",
+      "note": "Moved off canada-crisis, which it has nothing to do with."
+    },
+    {
+      "video_id": "oTgkGV03Ct4",
+      "start_s": 1476,
+      "claim_id": "city-exodus",
+      "same_event": "yes",
+      "delta_type": "first_mention"
+    },
+    {
+      "video_id": "wUNztkdwhXE",
+      "start_s": 134,
+      "claim_id": "crypto-metals-rotation",
+      "same_event": "yes",
+      "delta_type": "first_mention",
+      "note": "Moved off silver-75: this 2023 passage names no instrument and no number, so folding it into the $75 call would lend that call false support."
+    }
+  ]
+}

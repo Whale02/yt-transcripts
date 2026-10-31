@@ -1,0 +1,85 @@
+[
+  {"video_id": "P5YAnc70THI", "start_s": 3047, "claim_id": "may-25-to-june-4-window",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The window is precise to the day and the content is not. It spans Memorial Day, which is where the tomb of the unknown soldier image comes from."},
+
+  {"video_id": "P5YAnc70THI", "start_s": 3300, "claim_id": "coup-25th-amendment",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "A reported FBI raid offered as fulfilment of the coup word. Worth stating plainly: a raid is not a 25th Amendment removal, and the mention says so."},
+
+  {"video_id": "P5YAnc70THI", "start_s": 6790, "claim_id": "statue-of-liberty-holes-fire",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He marks the image symbolic himself, which means no physical event is required for it to be counted as fulfilled."},
+
+  {"video_id": "ZgqApEslE28", "start_s": 703, "claim_id": "jesus-stood-in-my-house-january",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The strongest source claim anywhere in the corpus: not a vision or an impression but a bodily appearance in his house. Dated to January, so a January telling should exist here."},
+
+  {"video_id": "ZgqApEslE28", "start_s": 1238, "claim_id": "drought-of-1610-by-summer",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The benchmark and the deadline both come from the article he is reading rather than from anything shown."},
+
+  {"video_id": "ZgqApEslE28", "start_s": 1285, "claim_id": "water-shortage-relocation",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Dates the no-water word to 2023, near the start of this corpus, so the original is available. Three years on there is no dust bowl."},
+
+  {"video_id": "ZgqApEslE28", "start_s": 1622, "claim_id": "virus-more-contagious-trial-run",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He is reading a public report rather than forecasting, and the forecast is layered on top of it."},
+
+  {"video_id": "ZgqApEslE28", "start_s": 1673, "claim_id": "virus-more-contagious-trial-run",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Trial run is the device worth naming: a present outbreak confirms the claim without discharging it, and the real one stays two years out."},
+
+  {"video_id": "ZgqApEslE28", "start_s": 1853, "claim_id": "powell-out-in-january",
+   "same_event": "yes", "delta_type": "contradiction",
+   "note": "In December he said the Fed chair would be out in January. The departure is happening in May, on the published end of term. His other December word, watch May concerning interest rates, is the one that lands."},
+
+  {"video_id": "ZgqApEslE28", "start_s": 2066, "claim_id": "watch-may-interest-rates",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The date is confirmed on air as 15 May. This is the December watch-May word coming due, and it goes to the evidence pass alongside the January miss on the same subject."},
+
+  {"video_id": "ZgqApEslE28", "start_s": 6672, "claim_id": "gifts-from-nations-october-28",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "The anniversary date is looked up on air rather than seen, which is the order worth recording."},
+
+  {"video_id": "2PoQzF7OhXc", "start_s": 509, "claim_id": "lead-encased-bunker-sniffers",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He glosses the noses as symbolic himself, which is the same restraint shown on the glowing mountain and the Statue of Liberty."},
+
+  {"video_id": "2PoQzF7OhXc", "start_s": 774, "claim_id": "tuttle-louisiana-houston-targets",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The restraint is the point and it deserves crediting: he refuses to add his own city to the target list because he did not see it, and says he will not add to or take away from what he saw."},
+
+  {"video_id": "2PoQzF7OhXc", "start_s": 1359, "claim_id": "twelve-foot-creature",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "He supplies the comparison cases himself, both already circulating, so the claim is anchored to existing folklore rather than to anything new."},
+
+  {"video_id": "2PoQzF7OhXc", "start_s": 1441, "claim_id": "four-plots-stopped-december",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Four real disrupted plots, dated, offered as what the December prayers accomplished. The arrests are a matter of record; the attribution to prayer is the claim, and the two are kept apart."},
+
+  {"video_id": "2PoQzF7OhXc", "start_s": 1496, "claim_id": "times-square-new-years-eve",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "One of the stronger fulfilment claims in the corpus. He prayed over Times Square on New Year's Eve specifically, in November and again in December, and a disrupted plot on that target is now reported. Both halves are checkable and both tellings are in this corpus. Flagged for the evidence pass."},
+
+  {"video_id": "2PoQzF7OhXc", "start_s": 1646, "claim_id": "timothy-mcveigh-method",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Still out there means the claim persists indefinitely with no discharge condition: fertiliser not found is fertiliser still hidden."},
+
+  {"video_id": "2PoQzF7OhXc", "start_s": 2398, "claim_id": "european-royals-new-world-order",
+   "same_event": "yes", "delta_type": "restatement",
+   "note": "Word for word the same as the 17 April telling, a month apart."},
+
+  {"video_id": "2PoQzF7OhXc", "start_s": 2682, "claim_id": "three-day-ceasefire-may-8",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A real dated announcement matched to a number four he says he saw. Four does not correspond to a three day ceasefire, and the mention records the mismatch rather than letting it pass."},
+
+  {"video_id": "2PoQzF7OhXc", "start_s": 3891, "claim_id": "political-theater-2026",
+   "same_event": "yes", "delta_type": "timing_update",
+   "note": "Narrows the theatre to June through September with a major event. Political conflict in an election summer is close to unmissable."},
+
+  {"video_id": "2PoQzF7OhXc", "start_s": 3964, "claim_id": "rededicate-america-sunday",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A named act on a named day, five days out. It can fail cleanly, which most of this material cannot."}
+]

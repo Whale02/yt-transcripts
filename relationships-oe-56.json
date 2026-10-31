@@ -1,0 +1,10 @@
+{"relationships":[
+{"from_claim":"october-bold-midterm-distractions","to_claim":"sept11-2026-groundzero","rel_type":"related_to","asserted_by":"system",
+ "note":"The same two months, September and October 2026, now carry both the terrorist attack window and the midterm distraction."},
+{"from_claim":"long-patience-for-a-harvest","to_claim":"closer-than-you-think-return","rel_type":"related_to","asserted_by":"system",
+ "note":"Long patience is what lets the imminence continue unfulfilled: nearer than you think, and delayed for the harvest."},
+{"from_claim":"seeing-into-tribulation","to_claim":"prophetic-method-in-part","rel_type":"related_to","asserted_by":"system",
+ "note":"The visions are offered as evidence for the nearness the visions describe."},
+{"from_claim":"gas-eight-dollars-nationwide","to_claim":"oil-200-barrel","rel_type":"related_to","asserted_by":"system",
+ "note":"Two numbered energy-price claims against published series, which is rare in this corpus."}
+]}

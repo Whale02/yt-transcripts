@@ -1,0 +1,1386 @@
+{
+ "_note": "Atomic mentions extracted by reading, model claude-opus-5, prompt v1. Loaded with `prophecy.py load --tool claude-opus-5`. Quotes are short audit anchors only; the full passage lives in the segment table.",
+ "mentions": [
+  {
+   "video_id": "wUNztkdwhXE",
+   "start_s": 35,
+   "claim_text": "The US dollar is converted into a digital dollar.",
+   "quote": "the Dollar's about to turn into a digital dollar",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "banking_currency",
+    "technology"
+   ],
+   "entities": [
+    "US dollar"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A US central bank digital currency replaces physical dollars as the primary settlement medium.",
+   "falsify_miss": "Physical dollars remain the primary retail medium with no CBDC issuance."
+  },
+  {
+   "video_id": "wUNztkdwhXE",
+   "start_s": 40,
+   "claim_text": "The dollar loses half its value: a hundred dollar bill buys fifty.",
+   "quote": "it will be worth half than what it's worth right now",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "banking_currency",
+    "economics"
+   ],
+   "entities": [
+    "US dollar"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "severity": "50% devaluation",
+   "falsify_match": "USD purchasing power halves against a stable basket within the stated transition.",
+   "falsify_miss": "No devaluation approaching 50% occurs alongside a digital dollar."
+  },
+  {
+   "video_id": "wUNztkdwhXE",
+   "start_s": 48,
+   "claim_text": "Banks go bankrupt and deposits are seized, becoming property of the bank.",
+   "quote": "he showed me the banks all went bankrupt",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "banking_currency"
+   ],
+   "entities": [
+    "banks"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Systemic US bank failures with depositor funds legally converted to bank property.",
+   "falsify_miss": "No systemic seizure of deposits occurs."
+  },
+  {
+   "video_id": "wUNztkdwhXE",
+   "start_s": 77,
+   "claim_text": "Mortgages and car loans are wiped in what is called a debt jubilee.",
+   "quote": "they would call it a debt Jubilee",
+   "source_mode": "VISION",
+   "certainty": "strong",
+   "conditionality": "unconditional",
+   "topics": [
+    "banking_currency",
+    "economics"
+   ],
+   "entities": [
+    "mortgages",
+    "car loans"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "causes": [
+    "the dollar crashing makes mass foreclosure impossible"
+   ],
+   "falsify_match": "A broad statutory cancellation of consumer secured debt.",
+   "falsify_miss": "Debt obligations survive the currency transition."
+  },
+  {
+   "video_id": "wUNztkdwhXE",
+   "start_s": 96,
+   "claim_text": "Mile-long queues at Target and Walmart with no products and no food on the shelves, arriving overnight.",
+   "quote": "there was no products and there was no food",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "food_supply",
+    "supply_chains"
+   ],
+   "entities": [
+    "Target",
+    "Walmart"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Nationwide retail food scarcity with rationing queues at major chains.",
+   "falsify_miss": "No national food scarcity event."
+  },
+  {
+   "video_id": "wUNztkdwhXE",
+   "start_s": 134,
+   "claim_text": "Certain cryptocurrencies rise in value through the transition, and something happens with gold and silver.",
+   "quote": "certain cryptocurrencies that would go up in value",
+   "source_mode": "VISION",
+   "certainty": "tentative",
+   "conditionality": "unclear",
+   "topics": [
+    "crypto",
+    "commodities"
+   ],
+   "entities": [
+    "cryptocurrency",
+    "gold",
+    "silver"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Unfalsifiable as stated: no instrument named.",
+   "falsify_miss": "Cannot fail; no specific asset given."
+  },
+  {
+   "video_id": "wUNztkdwhXE",
+   "start_s": 145,
+   "claim_text": "The Euro gets into trouble because of the European war.",
+   "quote": "the Euro would be in trouble",
+   "source_mode": "LORD_SAID",
+   "certainty": "strong",
+   "conditionality": "unconditional",
+   "topics": [
+    "banking_currency",
+    "geopolitics"
+   ],
+   "entities": [
+    "Euro"
+   ],
+   "locations": [
+    "Europe"
+   ],
+   "time_phrase": "2023",
+   "window_start": "2023-01-01",
+   "window_end": "2023-12-31",
+   "time_precision": "year",
+   "causes": [
+    "the war in Europe"
+   ],
+   "falsify_match": "A Euro crisis or major devaluation during 2023.",
+   "falsify_miss": "The Euro trades without crisis through 2023."
+  },
+  {
+   "video_id": "wUNztkdwhXE",
+   "start_s": 199,
+   "claim_text": "Chickens become very expensive and eggs hard to get.",
+   "quote": "the chickens were going to become very expensive",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "food_supply"
+   ],
+   "entities": [
+    "eggs",
+    "chickens"
+   ],
+   "locations": [
+    "America"
+   ],
+   "origin_date": "2018-01-01",
+   "time_phrase": "given in 2018, he says it manifested in 2023",
+   "window_start": "2018-01-01",
+   "window_end": "2023-12-31",
+   "time_precision": "range",
+   "falsify_match": "A national egg price spike and supply shortage.",
+   "falsify_miss": "Egg prices stay in normal range through the window."
+  },
+  {
+   "video_id": "2MOBOMGnCdE",
+   "start_s": 43,
+   "claim_text": "A massive military draft sends American soldiers toward Europe.",
+   "quote": "there's going to be a massive draft",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "war",
+    "geopolitics"
+   ],
+   "entities": [
+    "US military"
+   ],
+   "locations": [
+    "America",
+    "Europe"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "US conscription reinstated with deployment to Europe.",
+   "falsify_miss": "No draft is enacted."
+  },
+  {
+   "video_id": "2MOBOMGnCdE",
+   "start_s": 157,
+   "claim_text": "Russia strikes the Ukraine border region with a weapon never used before, explicitly not nuclear and leaving no radiation.",
+   "quote": "this is something that has never been used before",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "war"
+   ],
+   "entities": [
+    "Russia",
+    "Putin"
+   ],
+   "locations": [
+    "Ukraine",
+    "Russia"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "severity": "mass casualty, non-nuclear",
+   "falsify_match": "Russia deploys a novel mass-casualty weapon in Ukraine.",
+   "falsify_miss": "No novel weapon class is used."
+  },
+  {
+   "video_id": "2MOBOMGnCdE",
+   "start_s": 246,
+   "claim_text": "Turkey makes financial agreements with Russia and helps fund the war, escalating it.",
+   "quote": "they're going to join in and make some kind of financial agreements",
+   "source_mode": "LORD_SAID",
+   "certainty": "strong",
+   "conditionality": "unconditional",
+   "topics": [
+    "geopolitics",
+    "war"
+   ],
+   "entities": [
+    "Turkey",
+    "Russia"
+   ],
+   "locations": [
+    "Turkey"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Turkey enters formal financial or military support for Russia's war.",
+   "falsify_miss": "Turkey stays a NATO-aligned mediator."
+  },
+  {
+   "video_id": "2MOBOMGnCdE",
+   "start_s": 292,
+   "claim_text": "Nations come against Israel and the United States does nothing, which he reads as the Ezekiel 38-39 war.",
+   "quote": "we don't do anything we don't help them",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "geopolitics",
+    "war",
+    "religion"
+   ],
+   "entities": [
+    "Israel",
+    "United States"
+   ],
+   "locations": [
+    "Israel"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A multi-nation attack on Israel with explicit US non-involvement.",
+   "falsify_miss": "The US intervenes on Israel's side in such a conflict."
+  },
+  {
+   "video_id": "2MOBOMGnCdE",
+   "start_s": 341,
+   "claim_text": "China attacks the United States by surprise and missiles hit Honolulu.",
+   "quote": "watch Hawaii",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "war",
+    "geopolitics"
+   ],
+   "entities": [
+    "China"
+   ],
+   "locations": [
+    "Hawaii",
+    "China"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "causes": [
+    "US betrayal of Israel opens the attack"
+   ],
+   "consequences": [
+    "buildings on fire",
+    "air raid sirens"
+   ],
+   "falsify_match": "A Chinese military strike on Hawaii.",
+   "falsify_miss": "No Chinese attack on US territory."
+  },
+  {
+   "video_id": "2MOBOMGnCdE",
+   "start_s": 469,
+   "claim_text": "A second wave after the virus in which 350 million people perish worldwide.",
+   "quote": "350 million people would perish",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "health"
+   ],
+   "locations": [
+    "worldwide"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "magnitude": "350 million deaths",
+   "falsify_match": "A global mortality event approaching 350 million.",
+   "falsify_miss": "No global event of that magnitude."
+  },
+  {
+   "video_id": "2MOBOMGnCdE",
+   "start_s": 624,
+   "claim_text": "A supernatural outpouring of finances lands on a small selected group of people, partly through inventions.",
+   "quote": "an outpouring of finances on select few people",
+   "source_mode": "LORD_SAID",
+   "certainty": "strong",
+   "conditionality": "if_x",
+   "condition_text": "for those praying, fasting and listening",
+   "topics": [
+    "economics",
+    "religion"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Unfalsifiable as stated: no named recipients or amounts.",
+   "falsify_miss": "Cannot fail."
+  },
+  {
+   "video_id": "2MOBOMGnCdE",
+   "start_s": 842,
+   "claim_text": "An angel in a 2022 dream said great judgment would come in 569 days, which he counted to 2 October; he then reports the timeframe was extended for more repentance.",
+   "quote": "great judgment is coming and 569 days",
+   "source_mode": "DREAM",
+   "certainty": "definite",
+   "conditionality": "prayer_may_delay",
+   "condition_text": "extended to give more time for repentance",
+   "topics": [
+    "religion"
+   ],
+   "origin_date": "2022-01-01",
+   "time_phrase": "569 days, counted to October 2",
+   "window_start": "2023-10-02",
+   "window_end": "2023-10-02",
+   "time_precision": "exact_date",
+   "due_at": "2023-10-02",
+   "falsify_match": "An identifiable great judgment on or about 2 October 2023.",
+   "falsify_miss": "The date passes without an identified judgment (he pre-empts this with the extension)."
+  },
+  {
+   "video_id": "ahtOXFdUWsc",
+   "start_s": 314,
+   "claim_text": "A thousand military-style cots with bodies under sheets fill a grocery store car park.",
+   "quote": "there was probably a thousand cots",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "health"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Mass-casualty field triage in US retail car parks.",
+   "falsify_miss": "No such overflow triage occurs."
+  },
+  {
+   "video_id": "ahtOXFdUWsc",
+   "start_s": 364,
+   "claim_text": "Hospitals completely full with military medical camps around cities and staff only able to comfort the dying.",
+   "quote": "all the hospitals were completely full",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "health",
+    "infrastructure"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "US hospital system saturation with military field camps.",
+   "falsify_miss": "No saturation event of that scale."
+  },
+  {
+   "video_id": "ahtOXFdUWsc",
+   "start_s": 480,
+   "claim_text": "The plague is a type and shadow of the Black Death of the 1300s, something not seen for hundreds of years.",
+   "quote": "a type and Shadow of the black death in the 1300s",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "health"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "severity": "Black Death scale",
+   "falsify_match": "A pandemic with case fatality comparable to plague.",
+   "falsify_miss": "No pandemic of that severity."
+  },
+  {
+   "video_id": "ahtOXFdUWsc",
+   "start_s": 543,
+   "claim_text": "350 million die worldwide and 30 million in the United States.",
+   "quote": "then I saw 350 million again worldwide",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "health"
+   ],
+   "locations": [
+    "worldwide",
+    "America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "magnitude": "350M global, 30M US",
+   "falsify_match": "Global deaths approaching 350 million with 30 million US deaths.",
+   "falsify_miss": "No event of that magnitude."
+  },
+  {
+   "video_id": "ahtOXFdUWsc",
+   "start_s": 569,
+   "claim_text": "Paper currency is abandoned because people are afraid to touch it, accelerating the digital platform.",
+   "quote": "all paper currency was completely done away with",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "banking_currency",
+    "health"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "causes": [
+    "fear of contamination during the plague"
+   ],
+   "falsify_match": "Withdrawal of physical currency during a pandemic.",
+   "falsify_miss": "Cash remains in circulation."
+  },
+  {
+   "video_id": "ahtOXFdUWsc",
+   "start_s": 724,
+   "claim_text": "The financial system crashes again alongside the plague, ending in a new digital dollar.",
+   "quote": "it will be financial crash he said there'll be plague",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "economics",
+    "banking_currency",
+    "health"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A financial crash coinciding with a pandemic and currency replacement.",
+   "falsify_miss": "The two do not coincide."
+  },
+  {
+   "video_id": "ahtOXFdUWsc",
+   "start_s": 720,
+   "claim_text": "People cannot afford tickets to stadium sport because everyone is broke.",
+   "quote": "won't even be able to afford to pay to get in",
+   "source_mode": "VISION",
+   "certainty": "strong",
+   "conditionality": "unconditional",
+   "topics": [
+    "economics",
+    "social_trends"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Collapse in live sport attendance on affordability.",
+   "falsify_miss": "Attendance holds."
+  },
+  {
+   "video_id": "ahtOXFdUWsc",
+   "start_s": 1757,
+   "claim_text": "Hold actual gold and actual silver rather than paper claims, because a bank or power failure locks the account.",
+   "quote": "actual gold actual silver",
+   "source_mode": "PERSONAL_INFERENCE",
+   "certainty": "strong",
+   "conditionality": "unconditional",
+   "topics": [
+    "commodities",
+    "banking_currency"
+   ],
+   "content_type": "instruction",
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A bank failure, freeze or power outage that locks depositors out of accounts while physical metal stays usable.",
+   "falsify_miss": "Account access remains normal; no episode in which paper claims fail and metal does not."
+  },
+  {
+   "video_id": "ahtOXFdUWsc",
+   "start_s": 1949,
+   "claim_text": "Water is the first priority: storage, filtration and a way to water a garden.",
+   "quote": "three days without water and you're gone",
+   "source_mode": "PERSONAL_INFERENCE",
+   "certainty": "strong",
+   "conditionality": "unconditional",
+   "topics": [
+    "infrastructure",
+    "food_supply"
+   ],
+   "content_type": "instruction",
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A water supply interruption making household storage and filtration necessary.",
+   "falsify_miss": "Municipal water stays reliable through the window he describes."
+  },
+  {
+   "video_id": "oTgkGV03Ct4",
+   "start_s": 164,
+   "claim_text": "Keep cash on hand, food, and several weeks of bottled water for the household.",
+   "quote": "have some cash on hand have some food",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "food_supply"
+   ],
+   "content_type": "instruction",
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A disruption lasting weeks in which cash, stored food and bottled water are actually needed.",
+   "falsify_miss": "No multi-week disruption to payments or supply."
+  },
+  {
+   "video_id": "oTgkGV03Ct4",
+   "start_s": 240,
+   "claim_text": "Hold tradable goods, for example an ounce of silver exchanged with a neighbour for a chicken or vegetables.",
+   "quote": "tradable things",
+   "source_mode": "IMPRESSION",
+   "certainty": "strong",
+   "conditionality": "unconditional",
+   "topics": [
+    "commodities",
+    "economics"
+   ],
+   "content_type": "instruction",
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Barter of goods becomes common because normal payment rails fail.",
+   "falsify_miss": "Ordinary payment continues; no barter economy appears."
+  },
+  {
+   "video_id": "oTgkGV03Ct4",
+   "start_s": 360,
+   "claim_text": "Prescription medication becomes very hard to get because of trade wars with China over Taiwan.",
+   "quote": "because of trade Wars with China",
+   "source_mode": "VISION",
+   "certainty": "strong",
+   "conditionality": "if_x",
+   "condition_text": "when China moves against Taiwan and the US responds",
+   "topics": [
+    "health",
+    "trade",
+    "supply_chains",
+    "geopolitics"
+   ],
+   "entities": [
+    "China",
+    "Taiwan"
+   ],
+   "locations": [
+    "America",
+    "China",
+    "Taiwan"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "US prescription drug shortages traced to China trade restrictions.",
+   "falsify_miss": "Supply holds through a Taiwan crisis."
+  },
+  {
+   "video_id": "oTgkGV03Ct4",
+   "start_s": 472,
+   "claim_text": "People loot houses and rob homes in major cities when the economy crashes.",
+   "quote": "I saw people looting houses and robbing homes",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "civil_unrest"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "causes": [
+    "the economy crashing"
+   ],
+   "falsify_match": "Widespread residential looting during an economic crisis.",
+   "falsify_miss": "No such breakdown."
+  },
+  {
+   "video_id": "oTgkGV03Ct4",
+   "start_s": 492,
+   "claim_text": "Social Security and food stamp funding are cut off for a period, with protests over entitlements.",
+   "quote": "Social Security was cut off for a while",
+   "source_mode": "VISION",
+   "certainty": "strong",
+   "conditionality": "unconditional",
+   "topics": [
+    "politics",
+    "economics"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Suspension of Social Security or SNAP payments.",
+   "falsify_miss": "Payments continue uninterrupted."
+  },
+  {
+   "video_id": "oTgkGV03Ct4",
+   "start_s": 527,
+   "claim_text": "Grocery stores are consolidated into central locations under armed guard because stock cannot be protected.",
+   "quote": "there was armed guards at the grocery stores",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "food_supply",
+    "civil_unrest"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Armed guarding and consolidation of food retail.",
+   "falsify_miss": "Normal retail operation continues."
+  },
+  {
+   "video_id": "oTgkGV03Ct4",
+   "start_s": 973,
+   "claim_text": "Crops fail from west to east across the United States, fields bare and tractors idle, with drought through Texas and the Plains.",
+   "quote": "there was no crops in any of the farmers Fields",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "food_supply",
+    "weather"
+   ],
+   "locations": [
+    "America",
+    "Texas"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "causes": [
+    "no water, repeated three times"
+   ],
+   "falsify_match": "National-scale US crop failure with drought.",
+   "falsify_miss": "Normal harvests continue."
+  },
+  {
+   "video_id": "oTgkGV03Ct4",
+   "start_s": 1045,
+   "claim_text": "Every household grows something in the front or back yard because large scale agriculture has stopped.",
+   "quote": "everyone in their front yard or their backyard had some kind of growing",
+   "source_mode": "VISION",
+   "certainty": "strong",
+   "conditionality": "unconditional",
+   "topics": [
+    "food_supply",
+    "social_trends"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Large scale US agricultural production falls far enough that household growing becomes a necessity rather than a hobby.",
+   "falsify_miss": "Commercial agriculture keeps supplying food at normal scale."
+  },
+  {
+   "video_id": "oTgkGV03Ct4",
+   "start_s": 1132,
+   "claim_text": "The trillion dollar market losses that week are false labour pains, deliberately managed, with the real labour still ahead.",
+   "quote": "Braxton Hicks false labor pains",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "markets",
+    "economics"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A larger market break follows the one being discussed.",
+   "falsify_miss": "The market recovers with no larger break."
+  },
+  {
+   "video_id": "oTgkGV03Ct4",
+   "start_s": 1476,
+   "claim_text": "Large migrations of people leave major cities and corrupt towns for places of refuge.",
+   "quote": "big migrations of people going from place to place",
+   "source_mode": "VISION",
+   "certainty": "strong",
+   "conditionality": "unconditional",
+   "topics": [
+    "migration",
+    "social_trends"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Measurable net outmigration from US cities under crisis conditions.",
+   "falsify_miss": "Urban populations stable."
+  },
+  {
+   "video_id": "JY_DA12qbzs",
+   "start_s": 43,
+   "claim_text": "A new virus far deadlier than covid is announced from the White House, starting in Europe rather than Asia, in spring, with international flights and even state-to-state travel locked down.",
+   "quote": "there's another virus",
+   "source_mode": "DREAM",
+   "certainty": "strong",
+   "conditionality": "unclear",
+   "topics": [
+    "health",
+    "politics"
+   ],
+   "entities": [
+    "Trump",
+    "White House"
+   ],
+   "locations": [
+    "Europe",
+    "America"
+   ],
+   "time_phrase": "in the spring, leaves coming out",
+   "time_precision": "season",
+   "falsify_match": "A new pandemic declared with US lockdowns and a European origin, in spring.",
+   "falsify_miss": "No new pandemic declaration in the stated shape."
+  },
+  {
+   "video_id": "wP9qZYC_Cv4",
+   "start_s": 464,
+   "claim_text": "The wealth transfer window is a short-lived wave with gold on it.",
+   "quote": "IT WILL BE A SHORT-LIVED WAVE",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "markets",
+    "economics"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A short window in which gold rises sharply and then the opportunity visibly closes.",
+   "falsify_miss": "No bounded window: gold moves without an identifiable open and close."
+  },
+  {
+   "video_id": "wP9qZYC_Cv4",
+   "start_s": 469,
+   "claim_text": "Fill your pockets now, because a great storm is coming.",
+   "quote": "FILL YOUR POCKETS. FOR A GREAT STORM IS COMING",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "economics"
+   ],
+   "content_type": "instruction",
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A major financial or civil storm follows the window he describes.",
+   "falsify_miss": "The window passes with no following storm."
+  },
+  {
+   "video_id": "wP9qZYC_Cv4",
+   "start_s": 528,
+   "claim_text": "The financial outpouring is concentrated in certain metals, certain cryptos and certain foreign currencies, none of them named.",
+   "quote": "certain metals and cryptos concerning certain foreign currencies",
+   "source_mode": "VISION",
+   "certainty": "strong",
+   "conditionality": "unclear",
+   "topics": [
+    "markets",
+    "commodities",
+    "crypto"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Unfalsifiable as stated: no instrument named.",
+   "falsify_miss": "Cannot fail."
+  },
+  {
+   "video_id": "wP9qZYC_Cv4",
+   "start_s": 582,
+   "claim_text": "The window of opportunity is already one year in.",
+   "quote": "You're already 1 year into that window",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "economics"
+   ],
+   "time_phrase": "one year into the window",
+   "window_start": "2024-11-07",
+   "time_precision": "relative",
+   "falsify_match": "The window opened roughly a year before this telling, consistent with the boundaries he gives elsewhere.",
+   "falsify_miss": "His own datings of the window opening are mutually inconsistent by more than a year."
+  },
+  {
+   "video_id": "wP9qZYC_Cv4",
+   "start_s": 847,
+   "claim_text": "If the tariff case is not upheld by the Supreme Court within days, a 1930-style crash follows.",
+   "quote": "if the tariff thing doesn't get passed by the Supreme Court",
+   "source_mode": "PERSONAL_INFERENCE",
+   "certainty": "strong",
+   "conditionality": "if_x",
+   "condition_text": "conditional on the Supreme Court tariff ruling within days",
+   "topics": [
+    "economics",
+    "markets",
+    "politics",
+    "trade"
+   ],
+   "entities": [
+    "Supreme Court",
+    "tariffs"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "in the next couple of days",
+   "window_start": "2025-11-07",
+   "window_end": "2025-11-21",
+   "time_precision": "relative",
+   "due_at": "2025-11-21",
+   "falsify_match": "The tariff case goes against the administration and a 1930s-scale crash follows within months.",
+   "falsify_miss": "The ruling goes against it and no crash follows."
+  },
+  {
+   "video_id": "wP9qZYC_Cv4",
+   "start_s": 882,
+   "claim_text": "What is coming is worse than the 1930s on steroids, because this generation cannot garden, hunt or fish.",
+   "quote": "worse than the 1930s on steroids",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "prayer_may_prevent",
+   "condition_text": "he says the church standing and praying is what secures the window instead",
+   "topics": [
+    "economics"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A depression exceeding the 1930s in unemployment and output loss.",
+   "falsify_miss": "No depression of that scale."
+  },
+  {
+   "video_id": "wP9qZYC_Cv4",
+   "start_s": 930,
+   "claim_text": "Rioting and pillaging of the rich and middle class, tent cities everywhere, people unable to afford prescriptions, farmers shooting to defend property.",
+   "quote": "tent cities everywhere",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "civil_unrest",
+    "economics"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Mass civil disorder with widespread encampments during an economic collapse.",
+   "falsify_miss": "No such disorder."
+  },
+  {
+   "video_id": "wP9qZYC_Cv4",
+   "start_s": 1252,
+   "claim_text": "Trump has a massive heart attack at a ballroom party, with the vision focused on the cup in his hand.",
+   "quote": "I saw him having a massive heart attack",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "prayer_may_prevent",
+   "condition_text": "he says pray over his food, drink and the parties",
+   "topics": [
+    "politics"
+   ],
+   "entities": [
+    "Donald Trump"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A cardiac event for Trump at a formal event.",
+   "falsify_miss": "No such event."
+  },
+  {
+   "video_id": "wP9qZYC_Cv4",
+   "start_s": 1344,
+   "claim_text": "Don Jr. is shot in the chest at an event and the father cannot function for the rest of the term.",
+   "quote": "him being shot in the chest",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "prayer_may_prevent",
+   "condition_text": "pray for Secret Service attentiveness",
+   "topics": [
+    "politics"
+   ],
+   "entities": [
+    "Don Jr."
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A shooting of Donald Trump Jr.",
+   "falsify_miss": "No such attack."
+  },
+  {
+   "video_id": "wP9qZYC_Cv4",
+   "start_s": 1571,
+   "claim_text": "An attack on aviation security around the Thanksgiving travel rush, tied to bag screening being understaffed.",
+   "quote": "an attack against that during the holiday season",
+   "source_mode": "VISION",
+   "certainty": "strong",
+   "conditionality": "prayer_may_prevent",
+   "topics": [
+    "terrorism",
+    "infrastructure"
+   ],
+   "entities": [
+    "TSA",
+    "American Airlines",
+    "United",
+    "Delta"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "around Thanksgiving",
+   "window_start": "2025-11-20",
+   "window_end": "2025-12-01",
+   "time_precision": "season",
+   "due_at": "2025-12-01",
+   "falsify_match": "An aviation security incident over US Thanksgiving 2025.",
+   "falsify_miss": "The holiday passes without an incident."
+  },
+  {
+   "video_id": "wP9qZYC_Cv4",
+   "start_s": 1842,
+   "claim_text": "In tribulation everyone is required to take a mark in the hand or forehead under a single world currency, with enforced Friday worship of a Mahdi figure.",
+   "quote": "have a one world currency that will all be all to the chip",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion",
+    "banking_currency",
+    "technology"
+   ],
+   "time_phrase": "tribulation",
+   "time_precision": "none",
+   "falsify_match": "A global currency with mandatory biometric enrolment.",
+   "falsify_miss": "Unfalsifiable on any near horizon."
+  },
+  {
+   "video_id": "wP9qZYC_Cv4",
+   "start_s": 2173,
+   "claim_text": "Silver hits $75 an ounce quickly.",
+   "quote": "silver would hit $75 quickly",
+   "source_mode": "VISION",
+   "certainty": "strong",
+   "conditionality": "unclear",
+   "topics": [
+    "markets",
+    "commodities"
+   ],
+   "entities": [
+    "silver"
+   ],
+   "time_phrase": "quickly",
+   "time_precision": "relative",
+   "window_start": "2025-11-07",
+   "window_end": "2026-11-07",
+   "due_at": "2026-11-07",
+   "falsify_match": "Spot silver trades at or above $75/oz.",
+   "falsify_miss": "Silver stays below $75 through the window."
+  },
+  {
+   "video_id": "wP9qZYC_Cv4",
+   "start_s": 2201,
+   "claim_text": "Gold goes over $10,000 eventually.",
+   "quote": "gold hit over 10,000 eventually",
+   "source_mode": "VISION",
+   "certainty": "tentative",
+   "conditionality": "unclear",
+   "topics": [
+    "markets",
+    "commodities"
+   ],
+   "entities": [
+    "gold"
+   ],
+   "time_phrase": "eventually",
+   "time_precision": "none",
+   "falsify_match": "Spot gold trades at or above $10,000/oz.",
+   "falsify_miss": "Not falsifiable without a horizon."
+  },
+  {
+   "video_id": "wP9qZYC_Cv4",
+   "start_s": 2271,
+   "claim_text": "God wants the church to pay off their houses and possessions during the window.",
+   "quote": "I desire for my church to pay off their houses",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "economics",
+    "religion"
+   ],
+   "content_type": "instruction",
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Unfalsifiable as stated: an instruction to the church with no observable outcome attached.",
+   "falsify_miss": "Cannot fail as stated."
+  },
+  {
+   "video_id": "wP9qZYC_Cv4",
+   "start_s": 2044,
+   "claim_text": "The rapture may be twenty years away; he holds dates he prays about but allows they may pass.",
+   "quote": "It may be 20 years from now. We don't know",
+   "source_mode": "PERSONAL_INFERENCE",
+   "certainty": "speculative",
+   "conditionality": "unclear",
+   "topics": [
+    "religion"
+   ],
+   "time_phrase": "may be 20 years from now",
+   "time_precision": "relative",
+   "falsify_match": "Unfalsifiable within any useful horizon: he explicitly allows the dates he holds to pass.",
+   "falsify_miss": "Cannot fail as stated; the caveat absorbs any miss."
+  },
+  {
+   "video_id": "FHxJpX0PLPI",
+   "start_s": 177,
+   "claim_text": "Corruption in the church is exposed in 2026 and established mega-ministries dwindle and fade.",
+   "quote": "it will be exposed in 2026",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "religion"
+   ],
+   "time_phrase": "2026",
+   "window_start": "2026-01-01",
+   "window_end": "2026-12-31",
+   "time_precision": "year",
+   "due_at": "2026-12-31",
+   "falsify_match": "Major ministry scandals break during 2026.",
+   "falsify_miss": "2026 passes without notable exposures."
+  },
+  {
+   "video_id": "FHxJpX0PLPI",
+   "start_s": 647,
+   "claim_text": "Prosperity on 2027, but Trump is in trouble with the Senate, the midterms fall short and the presidency is a stalemate remembered for the ballroom.",
+   "quote": "I saw 2027 prosperity on 2027",
+   "source_mode": "VISION",
+   "certainty": "strong",
+   "conditionality": "unconditional",
+   "topics": [
+    "politics",
+    "economics"
+   ],
+   "entities": [
+    "Trump",
+    "Senate"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "2027, midterms",
+   "window_start": "2027-01-01",
+   "window_end": "2028-12-31",
+   "time_precision": "year",
+   "due_at": "2028-12-31",
+   "falsify_match": "US growth in 2027 with a Republican midterm loss in 2028.",
+   "falsify_miss": "Recession in 2027 or midterm gains."
+  },
+  {
+   "video_id": "FHxJpX0PLPI",
+   "start_s": 844,
+   "claim_text": "Something black like tar, which he believes is a plague, begins in late 2027, shoots off through 2028 and 2029 and tries to reach 2030.",
+   "quote": "It shot off in 2028, 2029",
+   "source_mode": "VISION",
+   "certainty": "strong",
+   "conditionality": "unconditional",
+   "topics": [
+    "health"
+   ],
+   "time_phrase": "late 2027 into 2030",
+   "window_start": "2027-09-01",
+   "window_end": "2030-12-31",
+   "time_precision": "range",
+   "due_at": "2030-12-31",
+   "falsify_match": "A pandemic emerging in late 2027 and running through 2029.",
+   "falsify_miss": "No pandemic in that window."
+  },
+  {
+   "video_id": "FHxJpX0PLPI",
+   "start_s": 903,
+   "claim_text": "A demonic entity behind AI merges with the internet and spreads over Europe, Australia and Canada.",
+   "quote": "a birthing of something very demonic coming out of AI",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "technology",
+    "religion"
+   ],
+   "locations": [
+    "Europe",
+    "Australia",
+    "Canada"
+   ],
+   "time_phrase": "2028 into 2030",
+   "window_start": "2028-01-01",
+   "window_end": "2030-12-31",
+   "time_precision": "range",
+   "falsify_match": "Unfalsifiable as stated: spiritual claim about a technology.",
+   "falsify_miss": "Cannot fail."
+  },
+  {
+   "video_id": "FHxJpX0PLPI",
+   "start_s": 1010,
+   "claim_text": "Socialistic control comes over the internet, live streaming becomes dead in Europe, and America splits 50/50 on it.",
+   "quote": "Socialistic control will come over the internet",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "technology",
+    "politics"
+   ],
+   "locations": [
+    "Europe",
+    "Australia",
+    "Canada",
+    "Asia",
+    "America"
+   ],
+   "time_phrase": "2028, 2030",
+   "window_start": "2028-01-01",
+   "window_end": "2030-12-31",
+   "time_precision": "range",
+   "due_at": "2030-12-31",
+   "falsify_match": "Statutory restrictions ending open live streaming in Europe.",
+   "falsify_miss": "Live streaming remains unrestricted."
+  },
+  {
+   "video_id": "FHxJpX0PLPI",
+   "start_s": 1130,
+   "claim_text": "The internet becomes highly regulated, television and satellite become the free outlets, and large in-person camp meetings return.",
+   "quote": "Internet will be highly regulated",
+   "source_mode": "VISION",
+   "certainty": "strong",
+   "conditionality": "unconditional",
+   "topics": [
+    "technology",
+    "religion",
+    "social_trends"
+   ],
+   "time_phrase": "2029 into 2030",
+   "window_start": "2029-01-01",
+   "window_end": "2030-12-31",
+   "time_precision": "range",
+   "falsify_match": "Broadcast media becomes materially freer than online speech.",
+   "falsify_miss": "Online speech stays freer than broadcast."
+  },
+  {
+   "video_id": "FHxJpX0PLPI",
+   "start_s": 1287,
+   "claim_text": "Socialism becomes very strong in Europe by 2030.",
+   "quote": "a socialistic control by 2030",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "politics",
+    "geopolitics"
+   ],
+   "locations": [
+    "Europe"
+   ],
+   "time_phrase": "by 2030",
+   "window_end": "2030-12-31",
+   "time_precision": "year",
+   "due_at": "2030-12-31",
+   "falsify_match": "Socialist or hard-left governments dominant across major European states by 2030.",
+   "falsify_miss": "European politics stays broadly centrist."
+  },
+  {
+   "video_id": "FHxJpX0PLPI",
+   "start_s": 2109,
+   "claim_text": "A major fault line gives from Seattle and Portland down to San Francisco and up to British Columbia, catastrophic and seen worldwide.",
+   "quote": "a major fault line is about to give in this area",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "natural_disaster",
+    "earthquake"
+   ],
+   "locations": [
+    "Seattle",
+    "Portland",
+    "San Francisco",
+    "British Columbia"
+   ],
+   "time_phrase": "about to",
+   "time_precision": "relative",
+   "falsify_match": "A major Cascadia-region earthquake.",
+   "falsify_miss": "No major quake in the region."
+  },
+  {
+   "video_id": "FHxJpX0PLPI",
+   "start_s": 2196,
+   "claim_text": "More than 30,000 people die in British Columbia.",
+   "quote": "30,000 plus people die in British Columbia",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "natural_disaster",
+    "earthquake"
+   ],
+   "locations": [
+    "British Columbia"
+   ],
+   "magnitude": "30,000+ deaths",
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A BC disaster with 30,000+ deaths.",
+   "falsify_miss": "No such casualty event."
+  },
+  {
+   "video_id": "FHxJpX0PLPI",
+   "start_s": 2184,
+   "claim_text": "The quake triggers a reaction at Yellowstone.",
+   "quote": "it will trigger a reaction in Yellowstone",
+   "source_mode": "VISION",
+   "certainty": "strong",
+   "conditionality": "unconditional",
+   "topics": [
+    "natural_disaster",
+    "volcano"
+   ],
+   "locations": [
+    "Yellowstone"
+   ],
+   "causes": [
+    "the Pacific Northwest earthquake"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "Yellowstone activity following a Cascadia quake.",
+   "falsify_miss": "No Yellowstone response."
+  },
+  {
+   "video_id": "FHxJpX0PLPI",
+   "start_s": 2079,
+   "claim_text": "Kiev splits, a proxy government comes in and the current leadership is dealt with publicly.",
+   "quote": "a splitting of Kiev is coming",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "geopolitics",
+    "war"
+   ],
+   "locations": [
+    "Ukraine"
+   ],
+   "time_phrase": "in the days ahead",
+   "time_precision": "relative",
+   "falsify_match": "Ukrainian government replaced by a Russian-aligned proxy.",
+   "falsify_miss": "Ukrainian government continues."
+  },
+  {
+   "video_id": "FHxJpX0PLPI",
+   "start_s": 2247,
+   "claim_text": "An attempt to spread a virus on a Disney cruise ship leaving the Cape Canaveral area.",
+   "quote": "they will try to spread a virus on a cruise ship",
+   "source_mode": "LORD_SAID",
+   "certainty": "strong",
+   "conditionality": "prayer_may_prevent",
+   "topics": [
+    "health",
+    "terrorism"
+   ],
+   "entities": [
+    "Disney"
+   ],
+   "locations": [
+    "Cape Canaveral",
+    "Florida"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A deliberate outbreak on a cruise ship out of Florida.",
+   "falsify_miss": "No such incident."
+  },
+  {
+   "video_id": "FHxJpX0PLPI",
+   "start_s": 2776,
+   "claim_text": "A new Watergate-scale scandal is named in the news in 2028.",
+   "quote": "a new Watergate scandal in 2028 will come in the news",
+   "source_mode": "LORD_SAID",
+   "certainty": "definite",
+   "conditionality": "unconditional",
+   "topics": [
+    "politics"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "2028",
+   "window_start": "2028-01-01",
+   "window_end": "2028-12-31",
+   "time_precision": "year",
+   "due_at": "2028-12-31",
+   "falsify_match": "A scandal the press explicitly compares to Watergate during 2028.",
+   "falsify_miss": "2028 passes without one."
+  }
+ ]
+}

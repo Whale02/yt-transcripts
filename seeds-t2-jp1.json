@@ -1,0 +1,25 @@
+[
+ {"claim_id":"china-quiet-playing-chess",
+  "label":"Watch China: quiet, sneaky and playing chess while Europe fights",
+  "domain":"geopolitics",
+  "description":"An instruction to watch China, described as quiet, sneaky and playing chess, getting ready to do something called dangerous while the European powers fight it out. Given 30 August 2026.",
+  "aliases":["watch china","china was quiet","china playing chess","china being quiet and sneaky"]},
+
+ {"claim_id":"detroit-auto-industry-shaking",
+  "label":"A major shaking of the auto industry in Detroit, with GM named",
+  "domain":"economics",
+  "description":"A shaking of the American auto industry centred on Detroit and Motor City, naming GM, described as one more round of shaking. Given 30 August 2026.",
+  "aliases":["shaking of the auto industry","motor city","auto industry detroit","gm shaking"]},
+
+ {"claim_id":"prince-of-persia-reclusive-window",
+  "label":"The Prince of Persia goes reclusive and Iran is given a window",
+  "domain":"spiritual",
+  "description":"A short season in which the territorial spirit he calls the Prince of Persia becomes reclusive, giving the people of Iran a window for a harvest of souls. He declines to define how long a season is, guessing three to five months or possibly a year. Given 30 August 2026.",
+  "aliases":["reclusiveness of the prince of persia","window for the people of iran","prince of persia reclusive"]},
+
+ {"claim_id":"ayatollah-and-iran-upper-leadership-removed",
+  "label":"The Ayatollah taken out, with much of Iran's upper leadership",
+  "domain":"politics",
+  "description":"Iran's supreme leader, described as the man in the black outfit rather than the white one, seen taken out and called done, along with much of the upper leadership, who are replaced by a group he says will not be so radicalised. Given 30 August 2026.",
+  "aliases":["the alatollah","ayatollah taken out","iran upper leadership done","iran leadership going down"]}
+]

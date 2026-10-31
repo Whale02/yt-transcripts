@@ -1,0 +1,90 @@
+{
+ "mentions": [
+  {
+   "video_id": "e8RJHBLAGf4",
+   "start_s": 961,
+   "claim_text": "He restates the 1930-style crash as worse than the Great Depression and says it has been delayed, tying success to the Supreme Court implementing the tariffs, which he calls do or die for the American economy.",
+   "quote": "I saw a 1930 style crash worse than the Great Depression",
+   "source_mode": "VISION",
+   "certainty": "definite",
+   "conditionality": "if_x",
+   "condition_text": "contingent on the Supreme Court siding with the tariffs",
+   "topics": [
+    "economics",
+    "markets",
+    "politics",
+    "trade"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "delayed",
+   "time_precision": "relative",
+   "falsify_match": "The tariffs are struck down and a depression-scale crash follows.",
+   "falsify_miss": "The tariffs are struck down and no crash follows."
+  },
+  {
+   "video_id": "e8RJHBLAGf4",
+   "start_s": 925,
+   "claim_text": "He calls for prayer that the judges side with the tariffs, saying his visions show up in the news months later.",
+   "quote": "the judges will side with the tariffs",
+   "source_mode": "PERSONAL_INFERENCE",
+   "certainty": "strong",
+   "conditionality": "prayer_may_prevent",
+   "topics": [
+    "politics",
+    "economics",
+    "trade"
+   ],
+   "locations": [
+    "America"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "The court upholds the tariffs.",
+   "falsify_miss": "The court strikes them down."
+  },
+  {
+   "video_id": "e8RJHBLAGf4",
+   "start_s": 760,
+   "claim_text": "Over the next three years the platform agenda morphs into something unrecognisable, pushed through even with Trump in charge, with X named as the vehicle.",
+   "quote": "over the next three years. Watch this morph into something that you cannot believe",
+   "source_mode": "LORD_SAID",
+   "certainty": "strong",
+   "conditionality": "unconditional",
+   "topics": [
+    "technology",
+    "politics"
+   ],
+   "entities": [
+    "Elon Musk",
+    "X"
+   ],
+   "time_phrase": "over the next three years",
+   "window_start": "2025-12-30",
+   "window_end": "2028-12-31",
+   "time_precision": "range",
+   "due_at": "2028-12-31",
+   "falsify_match": "X becomes a consolidated identity or payments platform of the kind he describes.",
+   "falsify_miss": "X remains a conventional social platform through 2028."
+  },
+  {
+   "video_id": "e8RJHBLAGf4",
+   "start_s": 1526,
+   "claim_text": "Get your house in order: wheat and berries you can mill yourself, plus stored water.",
+   "quote": "Get your house in order",
+   "content_type": "instruction",
+   "source_mode": "PERSONAL_INFERENCE",
+   "certainty": "strong",
+   "conditionality": "unconditional",
+   "topics": [
+    "food_supply",
+    "preparedness"
+   ],
+   "time_phrase": "",
+   "time_precision": "none",
+   "falsify_match": "A US food supply disruption severe enough that home milling of grain and stored water become a normal necessity.",
+   "falsify_miss": "Retail food and municipal water remain reliable; the instruction is prudent but its premise does not arrive."
+  }
+ ]
+}

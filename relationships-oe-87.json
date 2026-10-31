@@ -1,0 +1,25 @@
+{"relationships": [
+  {"from_claim": "turkey-turns-back", "to_claim": "ezekiel-38-turkey",
+   "rel_type": "elaborates", "asserted_by": "brandon",
+   "evidence_video": "7CtKI-6263c", "evidence_start_s": 674,
+   "note": "The Black Sea closure and the Turkish alliance with Syria are given in one continuous passage as the same turning."},
+
+  {"from_claim": "kim-jong-un-role", "to_claim": "great-war-escalation",
+   "rel_type": "elaborates", "asserted_by": "brandon",
+   "evidence_video": "7CtKI-6263c", "evidence_start_s": 1116,
+   "note": "He gives the China, North Korea and Russia meetings as the picture of where the war stands now, joining the alignment to the widening."},
+
+  {"from_claim": "glory-tsunami-chariots", "to_claim": "church-held-accountable-for-window",
+   "rel_type": "related_to", "asserted_by": "system",
+   "note": "The same mechanism in two domains: the promise was sent and refused, and the outcome was given and not prayed for. Responsibility moves to the hearer in both."},
+
+  {"from_claim": "internet-socialist-control", "to_claim": "black-tentacles-livestreams",
+   "rel_type": "related_to", "asserted_by": "brandon",
+   "evidence_video": "7CtKI-6263c", "evidence_start_s": 101,
+   "note": "He names his own channel as the target and gives an alternative platform to follow him on, which is the same claim about his broadcast being restricted."},
+
+  {"from_claim": "church-cleansing", "to_claim": "elders-passing-of-the-baton",
+   "rel_type": "elaborates", "asserted_by": "brandon",
+   "evidence_video": "q-M7KOvMzS4", "evidence_start_s": 5233,
+   "note": "Preachers who will be there no more and new Davids taking the baton are given as one movement, the dream team of 2026."}
+]}

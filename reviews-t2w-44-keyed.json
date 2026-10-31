@@ -1,0 +1,444 @@
+{
+"reviews": [
+{
+"mention_id": "d236de71bdc3f9cf",
+"claim_id": "poland-war-spread",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Polish domestic long range strike drone production read as the provocation forming."
+},
+{
+"mention_id": "d9161a6ce9e52072",
+"claim_id": "novel-weapon-catastrophic",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the effect: vaporises everything but leaves houses and cars standing. That is the popular description of a neutron bomb, which is a known weapon class rather than one never seen."
+},
+{
+"mention_id": "13b32a947c3f53fd",
+"claim_id": "warsaw-ww3-trigger",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Poland provokes and sticks the bear, with a note that he held it back before saying it."
+},
+{
+"mention_id": "70d1f5c730f4311f",
+"claim_id": "wwiii-draft-europe",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the sequence: a pro-Russia and pro-Ukraine split, then all of NATO jumping in when Poland is struck, then America deploying."
+},
+{
+"mention_id": "5f30256bce0383d3",
+"claim_id": "acceleration-of-all-things",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.7,
+"note": "Wars and rumours of wars as the acceleration, with a named minister cited as having asked him."
+},
+{
+"mention_id": "ff86fd6183e016c3",
+"claim_id": "warsaw-ww3-trigger",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Watch Poland again, with war and an acceleration of a world war above it."
+},
+{
+"mention_id": "877e36c58d749dd9",
+"claim_id": "clarity-act-one-vote",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Both acts called passed in prayer, with a financial outpouring attached."
+},
+{
+"mention_id": "42c152179c3c211c",
+"claim_id": "ungodly-alliance-turkey-syria",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Given as a pre-commitment ahead of a presidential visit to Turkey, which makes the timing checkable."
+},
+{
+"mention_id": "1980f7277cb86154",
+"claim_id": "new-madrid-quake",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Puts specific small magnitudes on it, 4.2, 3.2 and a 2. Small New Madrid quakes are recorded routinely, so these numbers are close to certain to occur."
+},
+{
+"mention_id": "5eb7df8767434bd6",
+"claim_id": "antichrist-spirit-influences-trump",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Distinct from antichrist-spirit-over-america; this one is aimed at one man's decisions on a specific trip."
+},
+{
+"mention_id": "9f999e902ddcc659",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "A clip of the president on sanctions. Not a claim he makes."
+},
+{
+"mention_id": "e8a7d14d7a23fc62",
+"claim_id": "black-sea-strait-closed",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "War drums and closing the Black Sea, given alongside Putin striking Warsaw."
+},
+{
+"mention_id": "5d664afd7d7caa3b",
+"claim_id": "two-state-third-temple",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.75,
+"note": "Claimed fulfilment on a summit clip urging a two-state solution. Two-state advocacy at such summits is the standing international position, not a departure from it."
+},
+{
+"mention_id": "f8980a80fa0df882",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "A clip of the president praising Turkey. Played as the thing he is warning against, but not a claim he makes."
+},
+{
+"mention_id": "b5ce374833947166",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.85,
+"note": "A transition between segments."
+},
+{
+"mention_id": "0df70d5e50d11fc2",
+"claim_id": "prophetic-accuracy-2025",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.5,
+"note": "He asks whether the earthquake comes next rather than asserting it, and notes a trafficking bust he had prayed about."
+},
+{
+"mention_id": "2bf930e9b22fcba8",
+"claim_id": "more-angels-than-armies",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "Standard protective prayer over the nation."
+},
+{
+"mention_id": "2b602551cc6c1203",
+"claim_id": "four-more-sim-card-sites",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Moves the SIM card apparatus from New York to another area and names Chicago, tied to disrupting the emergency number."
+},
+{
+"mention_id": "61b0239359be2732",
+"claim_id": "trump-in-turkey-danger",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. Given two days before the visit with a specific setting, which makes it datable."
+},
+{
+"mention_id": "446ca1d5207ad64a",
+"claim_id": "damascus-ruinous-heap",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "A strike on Damascus in the days ahead, with the wounded brother and Russia alongside."
+},
+{
+"mention_id": "255946a7bed81e0b",
+"claim_id": "russian-weapon-warsaw-mushroom",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Not nuclear but never used before, with watch Poland and Warsaw attached."
+},
+{
+"mention_id": "924655f61ba22266",
+"claim_id": "wwiii-draft-europe",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "The Warsaw strike given as the trigger for an American draft, pointed at a headline about Russia planning an attack on Poland."
+},
+{
+"mention_id": "60162d4db3131b88",
+"claim_id": "prophetic-accuracy-2025",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "He says plainly that he often has no clue about timing and that this is why the prophetic is hard for him. Worth recording against the passages where a date is asserted."
+},
+{
+"mention_id": "1f2044c85773cc43",
+"claim_id": "apollyon-war-2025",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the chamber, the chains and the horned figure going straight to Russia."
+},
+{
+"mention_id": "b5120d5e407f7f1a",
+"claim_id": "warsaw-ww3-trigger",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Watch Warsaw again, with key faces being brought forward."
+},
+{
+"mention_id": "4621dc8d0703e7a1",
+"claim_id": "harris-2028-rebrand",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds that she attaches herself to the New York mayor and that a figure is being built up as a new Charlie Kirk for the left."
+},
+{
+"mention_id": "5d8a1e726ef7c5e5",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "A theological statement that people turned their back rather than God. No forward content."
+},
+{
+"mention_id": "e17031dfc4eb2d64",
+"claim_id": "ungodly-alliance-turkey-syria",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that agreements will be visible in the days ahead and that it is a snare rather than a partnership."
+},
+{
+"mention_id": "0e585b0bc995bce3",
+"claim_id": "united-islamic-front",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Names the bloc: Turkey, Syria, Jordan and Egypt, formed against Iran rather than with it, which cuts against the Iran-Turkey alignment he gives elsewhere."
+},
+{
+"mention_id": "270a47c83a41c5b8",
+"claim_id": "ezekiel-38-turkey",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Ezekiel 38 and the hook in the jaw, with a divided Ukraine attached."
+},
+{
+"mention_id": "56466bb6bda36150",
+"claim_id": "zelensky-taken-out-ukraine-split",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Adds Turkey behind the breaking of a peace agreement, and an instruction to watch the meetings ahead."
+},
+{
+"mention_id": "8f50db6607fa00c7",
+"claim_id": "antichrist-spirit-influences-trump",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that the danger is deception rather than physical harm and that it works only without a prayer covering, which makes any bad decision attributable to insufficient prayer."
+},
+{
+"mention_id": "5774a495b80026e8",
+"claim_id": "turkey-vampire-dracula-cape",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "The vampire named as a demonic spirit on the Turkish leader, extended to Syria and an Islamic brotherhood."
+},
+{
+"mention_id": "544c4219e1a9611f",
+"claim_id": "trump-golf-course-in-gaza",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "The golf course and storefronts in Gaza, given here as plans being presented rather than as a vision."
+},
+{
+"mention_id": "b98eb85ba541e2a5",
+"claim_id": "save-america-act-bull-triangle",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Lobbying against both bills."
+},
+{
+"mention_id": "4e0e84803eda3836",
+"claim_id": "banks-lasso-the-rocket",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Names JP Morgan as the loudest and says the banks are losing their stronghold, which is a directional call rather than a static one."
+},
+{
+"mention_id": "811b6608f8b8a847",
+"claim_id": "new-madrid-quake",
+"same_event": "yes",
+"delta_type": "severity_update",
+"confidence": 0.85,
+"note": "He states explicitly that it will not be a great one and gives 4.5 as a warning. Magnitude 4 events occur on that system every year or two, so this is a bar he sets deliberately low, and the honesty of saying so is worth recording."
+},
+{
+"mention_id": "521716ae8d3d70e1",
+"claim_id": "cuba-liberation-by-surprise",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds the middle of the night invasion of Havana and the cyber attack on the power grid as the opening move."
+},
+{
+"mention_id": "bb3c58ea98dc4151",
+"claim_id": "cuba-economy-flourishes-like-a-state",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "Earliest telling, 6 July 2026, four weeks before the 2 August version this claim was seeded from. Adds that the dictators will be removed."
+},
+{
+"mention_id": "2e8e1a6ebb6278ae",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.8,
+"note": "Opening protective prayer with no named plot, place or date."
+},
+{
+"mention_id": "06456481f9897107",
+"claim_id": "israel-night-attack",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds drones and unfamiliar weapons rather than the usual rockets."
+},
+{
+"mention_id": "80e3e3a205ca54c3",
+"claim_id": "retaliation-attack-within",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds that it will be called terrorism when he says it is an act of war, which pre-frames how any incident would be read."
+},
+{
+"mention_id": "6fb196a29cefe95c",
+"claim_id": "three-city-attacks-ranked",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "Bourbon Street again. The January 2025 attack there is already behind this and he treated it as a failure of intercession, so a repeat claim needs a second event to land."
+},
+{
+"mention_id": "6f8a1a01ce2dcfc7",
+"claim_id": "voter-fraud-named-states",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds federal investigators sent to Georgia and ties the corruption to the Senate race."
+},
+{
+"mention_id": "b8d45e5eafe3f378",
+"claim_id": "battleground-senate-2026",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Prayer over Senate seats, with a self correction about which are already blue."
+},
+{
+"mention_id": "f40f43a27ed45333",
+"claim_id": "weather-control-lost-150mph-winds",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim. The strongest recorded derecho winds are around 140 mph, so 150 exceeds the observed maximum and is a hard number rather than a safe one."
+},
+{
+"mention_id": "20dc407e90b450a4",
+"claim_id": "more-angels-than-armies",
+"same_event": "unsure",
+"delta_type": "elaboration",
+"confidence": 0.55,
+"note": "Gideon's three hundred applied to a coming turnaround."
+},
+{
+"mention_id": "285360dcfc0263d2",
+"claim_id": "newsom-ambitions",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "The snake on its belly image again, given against an investigation into the governor. Sits with chameleon-not-reptilian, where he corrects the reptilian reading."
+},
+{
+"mention_id": "8cf449fb58dae9e6",
+"claim_id": "drones-given-by-iran",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Cuba lining up with Iran, with drones replacing air raids as the method."
+},
+{
+"mention_id": "f88991f5ec350512",
+"claim_id": "civil-war-and-the-bikers",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "Locates the civil war attempt in New York with fires in the buildings and names a funder."
+},
+{
+"mention_id": "abb8c36ae6bb8b9c",
+"claim_id": "canada-revival-out-of-persecution",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "Largely in tongues, with a multitude coming to the Canadian church coast to coast."
+},
+{
+"mention_id": "a0fb67549fb53ed6",
+"claim_id": "toronto-pyramid-of-darkness",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "Adds a shaking over the prime minister and a ground zero over Toronto with an American flag over it."
+},
+{
+"mention_id": "5f5cabcbe1514dd1",
+"claim_id": "toronto-pyramid-of-darkness",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "The glove loses its grip in certain areas but not completely. The partial framing means neither a Toronto revival nor its absence settles it."
+},
+{
+"mention_id": "dc569700bde3bd3e",
+"claim_id": "south-korea-revival-hub",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "The gusher and geyser over South Korea and Taiwan."
+},
+{
+"mention_id": "4edbe21f2875c5dc",
+"claim_id": "america-250th-humbling-second-wind",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "New claim, given on the anniversary itself. This also explains the 250 on the oak leaves recorded in w41 from the 19 July vision: the number was in front of him two weeks earlier."
+}
+]
+}

@@ -1,0 +1,10 @@
+{"relationships":[
+{"from_claim":"fully-persuaded-provider","to_claim":"symptoms-do-not-count","rel_type":"related_to","asserted_by":"system",
+ "note":"The money version of the same move: the bank balance is ruled out as evidence the way the symptom is."},
+{"from_claim":"blood-moon-planets-align","to_claim":"blood-moon-march-2025-war","rel_type":"related_to","asserted_by":"system",
+ "note":"Same kind of scheduled astronomical event, treated as a sign in one telling and as something fun to watch in the other."},
+{"from_claim":"anonymous-man-february-1","to_claim":"prophetic-method-in-part","rel_type":"related_to","asserted_by":"system",
+ "note":"Published on instruction but with the man unnamed, so the exposure claim cannot be matched to anyone."},
+{"from_claim":"chameleon-not-reptilian","to_claim":"two-faced-big-headed-warning","rel_type":"related_to","asserted_by":"system",
+ "note":"Both describe a figure who changes face. Neither names him, so they are linked rather than merged."}
+]}

@@ -1,0 +1,18 @@
+{"evidence": [
+ {"claim_id": "crash-1930s",
+  "observed_on": "2026-02-20",
+  "source_url": "https://www.scotusblog.com/2026/02/supreme-court-strikes-down-tariffs/",
+  "summary": "Supreme Court struck down the IEEPA tariffs 6-3 in Learning Resources v. Trump on 20 Feb 2026, holding the President lacks tariff authority under IEEPA. The condition he attached to the crash triggered.",
+  "state": "CONTRADICTED",
+  "rationale": "His pre-registered miss criterion was: the ruling goes against the tariffs and no crash follows. The ruling went against them on 2026-02-20. Six months later the S&P 500 is at 7,730 and up about 11.6% year to date, so no 1930s-scale crash followed. Recorded against the criterion written in Nov 2025, before the outcome was known."},
+ {"claim_id": "crash-1930s",
+  "observed_on": "2026-08-27",
+  "source_url": "https://www.slickcharts.com/sp500/returns/ytd",
+  "summary": "S&P 500 at 7,730.99 on 27 Aug 2026, roughly +11.6% year to date. No crash of any scale, let alone a 1930s one."},
+ {"claim_id": "silver-75",
+  "observed_on": "2026-08-28",
+  "source_url": "https://www.jmbullion.com/charts/silver-prices/",
+  "summary": "Silver spot $67.09/oz on 28 Aug 2026, having traded above $71 earlier in the month at a two-month high. Target is $75; the claim was made 7 Nov 2025.",
+  "state": "NOT_YET_DUE",
+  "rationale": "Directionally strong and within about 11% of the $75 target, but the window I pre-registered runs to 2026-11-07. Not scored until then."}
+]}

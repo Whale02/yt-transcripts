@@ -1,0 +1,300 @@
+{
+"reviews": [
+{
+"mention_id": "66b3b39635235910",
+"claim_id": null,
+"same_event": "no",
+"delta_type": "no_claim",
+"confidence": 0.9,
+"note": "teaching on tithing"
+},
+{
+"mention_id": "89734c132981a8a2",
+"claim_id": "twenty-days-prayer-for-his-salvation",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "still praying it on 16 December, a fortnight after the twenty day window closed unfulfilled"
+},
+{
+"mention_id": "ee0748ffe6f9f795",
+"claim_id": "oil-200-barrel",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "claimed off the back of reports about strikes on nuclear facilities"
+},
+{
+"mention_id": "12e8e80874dec53e",
+"claim_id": "cuba-revival-rubio-tens-of-thousands",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "witchcraft named as what people are turning from"
+},
+{
+"mention_id": "426f862eb3e3c57a",
+"claim_id": "gold-10k",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "no date, so it cannot expire; given with a not-investment-advice disclaimer"
+},
+{
+"mention_id": "d04076effa6bc5f9",
+"claim_id": "silver-175-an-ounce",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "the forty then twelve path; silver passed forty in 2025 without the crash back to twelve"
+},
+{
+"mention_id": "039927c3349efc80",
+"claim_id": "silver-175-an-ounce",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "kept apart from silver-75 rather than merged; two different figures for the same asset is a contradiction, not a refinement"
+},
+{
+"mention_id": "d8a17f750f130485",
+"claim_id": "silver-175-an-ounce",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.85,
+"note": "ten or twenty years offered, which removes the claim from scoring in any useful window"
+},
+{
+"mention_id": "4ebb2e9e5f6d3309",
+"claim_id": "silver-175-an-ounce",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "described as steady; silver was anything but steady in 2025"
+},
+{
+"mention_id": "a81ef446808e226c",
+"claim_id": "long-patience-for-a-harvest",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.75,
+"note": "used to explain why a word can take years, which is the same device that keeps old claims open"
+},
+{
+"mention_id": "baa0191e3c56d9b3",
+"claim_id": "china-gospel-window",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "freedom to worship and healings in the underground churches"
+},
+{
+"mention_id": "e5ce11846f87cf4b",
+"claim_id": "damascus-suitcase-bomb",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "Turkey, Iran and the Gog and Magog framing attached to the suitcase"
+},
+{
+"mention_id": "69aa82e8ab661068",
+"claim_id": "dome-over-america-blessing-israel",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "the blessing and cursing text applied in daily prayer"
+},
+{
+"mention_id": "642079611c8b8a2e",
+"claim_id": "asia-revival",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the South Korean parliament named"
+},
+{
+"mention_id": "0ba22e4d871c2c62",
+"claim_id": "california-big-one",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "he says he expected Southern California and it came in the north, then reads the north as what he was shown; the mention row keeps both halves"
+},
+{
+"mention_id": "99fa565a0d6a1554",
+"claim_id": "california-big-one",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the 7.0 recast as a warning before the major one, which is a frame that cannot fail"
+},
+{
+"mention_id": "1e40da9f07810612",
+"claim_id": "yellowstone-alaska-release-points",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "the golden quilt over Yellowstone, suppressed for as long as America has existed"
+},
+{
+"mention_id": "3c6f97aa84b719e5",
+"claim_id": "america-weighed-and-found-lacking",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "a verdict rather than an event, so nothing here can be checked"
+},
+{
+"mention_id": "08eff57e93bf90e1",
+"claim_id": "japan-earthquake-splits-land",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.85,
+"note": "the landslide given as what generates the tsunami that covers Japan"
+},
+{
+"mention_id": "141bfdcd65f50af9",
+"claim_id": "million-prayer-army",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the assignment described as worldwide rather than American"
+},
+{
+"mention_id": "e5e78a4c160f9a95",
+"claim_id": "new-madrid-quake",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "Tulsa and Texarkana recalled while saying he is not afraid"
+},
+{
+"mention_id": "d6457af98fd23c5b",
+"claim_id": "hundreds-of-false-prophets",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "a caution against acting on one prophet against another, applied to his own genre"
+},
+{
+"mention_id": "563ed9c98e8641a0",
+"claim_id": "emp-ship-in-the-gulf",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.9,
+"note": "the rocket marked USSR and the pulse falling short, which is a failure built into the vision"
+},
+{
+"mention_id": "6ea608e944018d58",
+"claim_id": "emp-ship-in-the-gulf",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.85,
+"note": "a Chinese company buying a Mississippi grain refinery taken as confirmation; a purchase is not the attack"
+},
+{
+"mention_id": "26cb200d36f15bed",
+"claim_id": "seedtime-and-harvest-remains",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "used as the warrant that what he says will come to pass"
+},
+{
+"mention_id": "2acc6dd6b671354c",
+"claim_id": "hostages-released",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "declared 6 December 2024; phased releases began the following month under the ceasefire"
+},
+{
+"mention_id": "98936e85005cae21",
+"claim_id": "hostages-released",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "a covering prayed over those still held"
+},
+{
+"mention_id": "36f262f4683d7dfe",
+"claim_id": "dome-over-america-blessing-israel",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "the Abrahamic covenant breathed on again"
+},
+{
+"mention_id": "1b09a4be3c6df9a2",
+"claim_id": "amero-north-american-currency",
+"same_event": "yes",
+"delta_type": "new_detail",
+"confidence": 0.8,
+"note": "he applies the 51st state idea to the United Kingdom here, four weeks before ruling it out for Canada"
+},
+{
+"mention_id": "75cdc5ac3d763a1b",
+"claim_id": "pelosi-schumer-removed",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.9,
+"note": "soon is undefined, so this cannot expire on its own"
+},
+{
+"mention_id": "c9cd8ade152b0814",
+"claim_id": "china-church-intercession",
+"same_event": "yes",
+"delta_type": "elaboration",
+"confidence": 0.8,
+"note": "an anointing to raise the dead called over the persecuted church"
+},
+{
+"mention_id": "992684eaba0a0511",
+"claim_id": "reprieve-four-years",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "the window called a reprieve given to bring in a harvest"
+},
+{
+"mention_id": "eebdf3121d46de6f",
+"claim_id": "plague-350m",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.85,
+"note": "framed as a warning for believers rather than a threat to them"
+},
+{
+"mention_id": "1455902fac70a4fa",
+"claim_id": "plague-350m",
+"same_event": "yes",
+"delta_type": "timing_update",
+"confidence": 0.9,
+"note": "the sharpest dating this claim has: it happens while Trump is president, which closes in January 2029"
+},
+{
+"mention_id": "4bbd7745c8ff30c9",
+"claim_id": "rfk-exposes-fda-food-corruption",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "3 December 2024, a year before the telling I had logged as the first"
+},
+{
+"mention_id": "a72333bf8ac8d484",
+"claim_id": "wealth-of-the-sinner",
+"same_event": "yes",
+"delta_type": "restatement",
+"confidence": 0.8,
+"note": "declared against the plan he says is stopped"
+},
+{
+"mention_id": "4f58578976323333",
+"claim_id": "national-debt-turned-around",
+"same_event": "yes",
+"delta_type": "first_mention",
+"confidence": 0.85,
+"note": "eleven months before the telling I had logged; drilling more and oil above two hundred pull in opposite directions, which is in the mention row"
+}
+]
+}

@@ -1,0 +1,60 @@
+{
+ "_note": "The seven claims that came due on 31 August 2026, plus gas-lines-like-the-1970s, which carries no due date but is answered by the same facts. Checked 2 September 2026 against live sources.",
+ "evidence": [
+  {"claim_id": "iran-regime-flip-reza-assassinated",
+   "observed_on": "2026-02-28",
+   "source_url": "https://en.wikipedia.org/wiki/2026_Iranian_supreme_leader_election",
+   "summary": "Ali Khamenei was killed on 28 February 2026 in an airstrike conducted jointly by Israel and the United States during the 2026 Iran war; his death was confirmed by the Supreme National Security Council early on 1 March. The Assembly of Experts voted between 3 and 8 March and announced his son Mojtaba Khamenei as supreme leader on 9 March 2026. Mojtaba remains in office and has made no public appearance since his appointment, with reports that he was injured in earlier airstrikes. Reza Pahlavi played no part in the succession.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "The removal landed and he called it a week ahead. On 21 February 2026 he said the Ayatollah is removed, it is going to happen, and Khamenei was killed on 28 February. The December 2025 tellings of a regrouping and more strikes and more war with Iran also landed. Everything downstream failed. The manner was wrong, an Israeli and American airstrike rather than the man being shot through the neck at a podium while addressing a crowd, which is what he described repeatedly in March. Reza Pahlavi never rose, which was the distinctive part of the July telling. His August claims that the new supreme leader had died or was gone are not supported: Mojtaba Khamenei is still in office, though absent from public view. Base rate caveat, and it is a large one: a joint Israeli and American war on Iran was already running when he said it, decapitation was openly discussed, and his own telling of 27 February frames it as inference rather than sight, I believe we're about to see him take out the Ayatollah."},
+
+  {"claim_id": "fuel-rationing-lines",
+   "observed_on": "2026-08-17",
+   "source_url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Russian_fuel_crisis",
+   "summary": "Ukrainian drone strikes on Russian refineries through 2026 cut petrol availability to 28.1 percent of filling stations by 16 August 2026. Rosneft capped purchases at 30 litres per vehicle nationwide, Gazprom Neft at 40 litres in automated Moscow stations, and at least ten regions had reimposed restrictions by 17 August. Motorists queued for hours; Irkutsk installed portable toilets at filling stations.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "Recorded so the facts are in the database, and scored on structure. He said this on 25 August 2026 while reading the headlines, and the mention is typed NEWS_COMMENTARY. Nothing here could have failed. His forward claim about fuel queues is gas-lines-like-the-1970s, which is scored separately on the same facts."},
+
+  {"claim_id": "gas-lines-like-the-1970s",
+   "observed_on": "2026-08-17",
+   "source_url": "https://dallasexpress.com/national/russia-fuel-crisis-2026-shortages-rationing-long-queues/",
+   "summary": "Fuel rationing and hours-long queues arrived in Russia in August 2026, caused by Ukrainian drone strikes on Russian refineries, with more than half of Russian regions under sales restrictions. Oil did not follow: Brent averaged 81 dollars in 2024 and traded near 67 dollars in August 2025 against the 200 dollars he named. No tankers were reported stranded outside the Strait of Hormuz by Iranian action, and the Strait was not closed.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "The image landed and the mechanism did not. He said in March 2026 that there would be petrol queues like the 1970s, and by August there were, at a scale that matches the picture. But he named the cause: tankers sitting outside the strait because Iran would blow them up, with oil at two hundred dollars a barrel. The real cause is Ukrainian drones hitting Russian refineries, the country is Russia rather than America, and oil never came within half of two hundred. Note also that he offered Chinese and Indian forecourt queues as the fulfilment back in March, which is the weaker evidence: queues at Indian petrol pumps are not unusual."},
+
+  {"claim_id": "hagin-revival-lasts-two-years",
+   "observed_on": "2026-08-31",
+   "source_url": "https://religionnews.com/2026/04/24/worship-attendance-at-churches-up-for-the-first-time-in-decades-according-to-new-report/",
+   "summary": "The Hartford Institute for Religion Research reported in April 2026 that US worship attendance rose for the first time in two decades, while its authors stated plainly that what it is not is a story of revival or return to a previous era. PRRI's 2026 census found religious affiliation flat and weekly attendance not increasing. Pew recorded 37 percent of Americans saying religion is gaining influence in April 2026, the highest since 2002, while affiliation, attendance, prayer and stated importance of religion all held still.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "Something measurable did turn inside the window he named, and it is the first such turn in twenty years, so this is not a clean miss. It is not what he claimed either: the researchers who produced the attendance figure explicitly deny it is a revival, PRRI finds no return to church, and the perception of religious resurgence has run far ahead of every behavioural measure. The major event he tied the start to did not occur. The two-year duration he attributes to Hagin runs to 2028 and cannot be scored yet; only the starting condition is due, and it is at best equivocal."},
+
+  {"claim_id": "cold-war-gets-colder",
+   "observed_on": "2026-08-31",
+   "source_url": "https://militarnyi.com/en/news/rutte-china-and-russia-could-launch-simultaneous-attacks-on-taiwan-and-europe/",
+   "summary": "Through 2026 NATO's secretary general warned publicly that China and Russia could attack Taiwan and NATO territory simultaneously and described the most dangerous situation since the Second World War. Russia and China held a joint pre-Olympics summit pushing back against the United States and NATO. Russian defence spending had already risen 42 percent in real terms in 2024 to exceed the combined European total. No new state-to-state war opened in August 2026 between these parties.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "Relations did harden across the period and the Taiwan and Korea framing he used in November 2025 matches where the warnings are now pointed. The claim is close to unfalsifiable as he stated it: a cold war becoming colder names no threshold, no date and no observable that could come out the other way, and relations were already deteriorating when he said it. The one dated criterion an extractor attached, a Russian or Chinese escalation in August 2026, is satisfied by rhetoric and posture rather than by an act. Held at partial for that reason alone."},
+
+  {"claim_id": "political-theater-2026",
+   "observed_on": "2026-08-31",
+   "source_url": "https://thehill.com/homenews/house/5644815-al-green-trump-impeachment-articles/",
+   "summary": "Multiple impeachment resolutions against Trump were introduced in the 119th Congress during 2025 and 2026, including H.Res.353, 415, 537 and 939. A forced floor vote was tabled 237 to 140, with 47 Democrats voting present and 23 voting to table. None reached a Senate trial. Two federal government shutdowns occurred in 2026 over immigration enforcement, the first ending on 3 February.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "The word impeach was indeed repeated through 2026, as he said in January it would be, and the year has carried real political turmoil including two shutdowns. The criterion recorded at extraction says the rest out loud: any dramatic political spectacle in a midterm year is not a test that can fail. Impeachment resolutions against this president had been filed repeatedly since 2025 before he said it, so hearing the word again in 2026 carries close to no information. The 24 billion dollar figure he attached in December 2025 has no matching scandal."},
+
+  {"claim_id": "unrecognizable-2026",
+   "observed_on": "2026-08-31",
+   "source_url": "https://en.wikipedia.org/wiki/2026_Iranian_supreme_leader_election",
+   "summary": "Between mid 2025 and mid 2026 the United States and Israel fought a war with Iran and jointly killed its supreme leader on 28 February 2026; the US had two federal government shutdowns; Russia entered a nationwide fuel rationing crisis. Against that, no new pandemic emerged in 2026, and the US equity market was at record levels through the period rather than dark.",
+   "state": "PARTIAL_MATCH",
+   "rationale": "The year did carry changes of the size he gestured at, and the criterion an extractor attached about a marked intensification of world events in autumn 2026 is on its way to being met. Two things hold it at partial. Unrecognisable has no threshold, so it cannot fail, and he gave it in mid 2025 when the Iran escalation was already visible. The two elements that were specific both missed: he named a new pandemic in 2026 or 2027, which has not appeared, and he said he saw the economy and saw the black, while the market spent the window at record highs."},
+
+  {"claim_id": "turn-it-by-august-then-set-in-stone",
+   "observed_on": "2026-08-31",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_federal_government_shutdowns",
+   "summary": "No decision point identifiable as the one he described occurred at the end of August 2026. The year's hard political turns fell earlier: the first shutdown ended 3 February and the second followed later in the year.",
+   "state": "UNFALSIFIABLE",
+   "rationale": "The structure decides this one. He said April through July could turn it through prayer and that after August the decisions would be set in stone, which names no decision, no actor and no observable. Whatever happens after August can be read as the hardening, and whatever does not happen can be read as the prayer working. Recorded as unfalsifiable rather than left unchecked, so it stops sitting in the queue as though evidence would settle it."}
+ ]
+}

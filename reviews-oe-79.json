@@ -1,0 +1,49 @@
+[
+  {"video_id": "0iOZJHUwyjQ", "start_s": 2533, "claim_id": "apollyon-war-2025",
+   "same_event": "unsure", "delta_type": "timing_update",
+   "note": "The year has moved. This claim was originally attached to 2025 being war war; here the same figure out of the pit sits on 2027 to 2030. Both left visible. A demonic influence on a head of state carries no test at all."},
+
+  {"video_id": "0iOZJHUwyjQ", "start_s": 3319, "claim_id": "divine-reversal-declared",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Declaring a condition absent is not predicting it will resolve, so no later medical outcome can contradict it. Same structure as symptoms not counting, applied to cancer and heart disease by name."},
+
+  {"video_id": "0iOZJHUwyjQ", "start_s": 3624, "claim_id": "divine-reversal-declared",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "The move is explicit and polite: the doctors are not attacked, their finding is demoted to a report. That places any medical outcome outside the reach of the claim without ever denying the diagnosis."},
+
+  {"video_id": "jtAhMuOfFwM", "start_s": 492, "claim_id": "will-not-complain",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "A rare case of a claim with a stated outcome, that he would not be doing this for the rest of his life. The outcome is one only he can attest and the word is recounted after it was met."},
+
+  {"video_id": "jtAhMuOfFwM", "start_s": 1764, "claim_id": "church-held-accountable-for-window",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Second passage in a week assigning the outcome to the church before it is known. Cement blocks on his feet names an impediment without naming anything observable."},
+
+  {"video_id": "jtAhMuOfFwM", "start_s": 2648, "claim_id": "significant-artifact-found",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "A news item about a possible location is treated as the February word coming to pass, which is a long way from the artifact being recovered. Some kind of significant artifact is broad enough that most seasons of archaeology supply one."},
+
+  {"video_id": "jtAhMuOfFwM", "start_s": 4869, "claim_id": "july4-250th-parades",
+   "same_event": "yes", "delta_type": "elaboration",
+   "note": "Credit is claimed for an event that did not happen on the day, with the manifestation unnamed and pushed into the days ahead. That converts a passed deadline into a pending one."},
+
+  {"video_id": "V3w8-580i2s", "start_s": 1879, "claim_id": "green-white-jerseys-riot",
+   "same_event": "yes", "delta_type": "first_mention",
+   "note": "Genuinely checkable. Mexico's colours are green and white, the fixture was on a published schedule, and the original statement should be datable inside this corpus, which settles whether the word preceded the match."},
+
+  {"video_id": "V3w8-580i2s", "start_s": 7637, "claim_id": "cuba-liberation-day-2027",
+   "same_event": "unsure", "delta_type": "timing_update",
+   "note": "Moves the Cuban timing forward from 2027 to before November 2026. Storm cloud parting is never defined, so the earlier date is easier to claim than to score."},
+
+  {"video_id": "Mq0qQJkoWcg", "start_s": 585, "claim_id": "red-dawn-experiences",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Soldiers rather than terrorists, entering under a named administration. The distinction is the same one that lets an ordinary terrorist incident be excluded afterwards as not what he saw."},
+
+  {"video_id": "Mq0qQJkoWcg", "start_s": 620, "claim_id": "july4-250th-parades",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "Now past due and properly scoreable: the weekend passed without a retaliatory attack. The reasoning is his own inference from a burial date, not something he says he was shown."},
+
+  {"video_id": "Mq0qQJkoWcg", "start_s": 658, "claim_id": "battleground-senate-2026",
+   "same_event": "yes", "delta_type": "new_detail",
+   "note": "The interval is days and both ends sit inside this corpus, so whether the word preceded the news is settleable. An investigation being staffed is not fraud being established."}
+]

@@ -1,0 +1,454 @@
+{
+ "reviews": [
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 1602,
+   "claim_id": "gaza-belongs-to-israel-not-palestinians",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the earliest telling, and it adds the Golan Heights to Gaza",
+   "mention_id": "59cde5ccf31afd57"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 1755,
+   "claim_id": "great-storm-on-the-horizon",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.8,
+   "note": "the two-in-one storm image recurs without a fixed referent",
+   "mention_id": "ae6bcf1e8caef4b7"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 1790,
+   "claim_id": "mafia-rises-against-the-new-york-mayor",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the earliest telling; he says himself he does not know how they would ever look like heroes",
+   "mention_id": "7ad2b1ec808140de"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 1828,
+   "claim_id": "new-york-shaking-buildings-on-fire",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "the forty first floor and the subways added to the fires",
+   "mention_id": "45083d1e7c6e7e37"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 2057,
+   "claim_id": "graves-across-europe-eight",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "Kosovo given without explanation; he says himself he does not understand why",
+   "mention_id": "7c686fce75644589"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 2095,
+   "claim_id": "graves-across-europe-eight",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "weapons never used before is not defined, which is what keeps it from failing",
+   "mention_id": "ac27bff39263b3b5"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 2823,
+   "claim_id": "iran-infrastructure-set-back-decades",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "fleeing to Iraq in disguise is specific enough to fail cleanly",
+   "mention_id": "75eaf2b295683a5c"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 3004,
+   "claim_id": "valley-of-decisions-make-or-break",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "the pride warning is what he says would forfeit it",
+   "mention_id": "4e982d6297de7f4c"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 3050,
+   "claim_id": "alberta-becomes-part-of-america",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "saying he has seen all of it widens the claim rather than pinning it",
+   "mention_id": "01d72f1addaca00e"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 3091,
+   "claim_id": "canada-mexico-financial-union",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "he distinguishes dollar union from border union, which is the specific part",
+   "mention_id": "e5a18eaaae2312bf"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 6002,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.9,
+   "note": "a petition with no event named",
+   "mention_id": "1da0684576f9a9fc"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 6410,
+   "claim_id": "biggest-red-wave-2026",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "the red wave is made conditional on the exposing, which is an escape either way",
+   "mention_id": "79f1b2c21463f40f"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 7297,
+   "claim_id": "greenland-no-green-light",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the earliest telling of the Greenland caution, and it gives his reason",
+   "mention_id": "9d5e6aedd9f5fe08"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 7399,
+   "claim_id": "banderas-man-rises-in-mexico",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "a good businessman not swayed by cartel money, alongside the instruction to let Greenland be a vote",
+   "mention_id": "1f2e10c6d955cddf"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 7443,
+   "claim_id": "greenland-no-green-light",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "the clearest statement of how he distinguishes a go from a caution",
+   "mention_id": "79cf297fc2aa4de7"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 7483,
+   "claim_id": "greenland-no-green-light",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "he says both that they must not burn bridges and that bridges will burn",
+   "mention_id": "041a58f72d21bbe5"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 7567,
+   "claim_id": "strong-russia-for-hook-in-jaw",
+   "same_event": "yes",
+   "delta_type": "contradiction",
+   "confidence": 0.85,
+   "note": "Russia too weak and depleted here, against his own word that a strong Russia is needed for the hook in the jaw",
+   "mention_id": "131e270c3f45d3fb"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 7645,
+   "claim_id": "valley-of-decisions-make-or-break",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "he hedges the whole passage as his own weighing rather than a word",
+   "mention_id": "b631040823bd8286"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 7727,
+   "claim_id": "korea-revival-spreads-north",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "an accord to lure and trap South Korea; fleeing like rats from New York is the checkable half",
+   "mention_id": "3d69c11915752bce"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 7854,
+   "claim_id": null,
+   "same_event": "no",
+   "delta_type": "no_claim",
+   "confidence": 0.9,
+   "note": "a sign-off with the audience count",
+   "mention_id": "a22be4bbac1c9001"
+  },
+  {
+   "video_id": "LmxIp6r1zmw",
+   "start_s": 7977,
+   "claim_id": "certain-crypto-goes-to-five-dollars",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "he does not name the coin, which is the gap in an otherwise precise claim",
+   "mention_id": "9abe8ad497d36c21"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 44,
+   "claim_id": "pakistan-joins-iran-against-america",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the earliest telling, with a two week window that closed in late January 2026",
+   "mention_id": "1dcf8ee936d11322"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 87,
+   "claim_id": "antisemitism-peak",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "incidents were already at record highs when he said this, which is the priority problem",
+   "mention_id": "b3aa1e59cbf4aee9"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 143,
+   "claim_id": "jews-flee-to-israel-take-gaza",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "he looks up the scriptural framing after the vision rather than before",
+   "mention_id": "fcbe27b7e4c34011"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 185,
+   "claim_id": "jews-flee-to-israel-take-gaza",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "mass numbers; aliyah figures are published annually and would settle it",
+   "mention_id": "06bfd1ecaaed07d0"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 235,
+   "claim_id": "new-york-shaking-buildings-on-fire",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the earliest telling in this window, and the floor number is the most specific detail",
+   "mention_id": "7ec5603e5700f9ce"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 283,
+   "claim_id": "guerrilla-warfare-from-brazil-and-colombia",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the earliest telling, with Cuba named as devising the civil unrest",
+   "mention_id": "001ee146835eee30"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 386,
+   "claim_id": "panama-canal-strong-position",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "cocaine flows to Asia are documented but not primarily through the canal",
+   "mention_id": "7e281e9d2ca14229"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 431,
+   "claim_id": "cold-war-briefcase-in-cuban-bunker",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "the Saddam comparison sets what a match would look like",
+   "mention_id": "1f19e3f50741f2a8"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 519,
+   "claim_id": "venezuela-burns-oil-fields",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "the white storage tanks are the identifying detail and recur later in the corpus",
+   "mention_id": "a8a0075615b2d09c"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 602,
+   "claim_id": "ten-thousand-infiltrators-from-cuba",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "ten thousand men could not move unnoticed, which is what makes the number useful",
+   "mention_id": "97522d48fd057f33"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 697,
+   "claim_id": "mexico-move-of-god",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "Brazilian evangelical growth has run for decades, which is the base rate he is reading",
+   "mention_id": "83bb8d8bf5d463c9"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 746,
+   "claim_id": "greenland-no-green-light",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "naming six European leaders makes the alignment against it checkable",
+   "mention_id": "73449ff14985b0da"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 798,
+   "claim_id": "greenland-twenty-thousand-per-citizen",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the dollar figure and the fifty fifty split are the checkable parts",
+   "mention_id": "ddd2261a9985ec27"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 843,
+   "claim_id": "alberta-becomes-part-of-america",
+   "same_event": "yes",
+   "delta_type": "first_mention",
+   "confidence": 0.9,
+   "note": "the earliest telling, and he refuses to extend the Greenland half beyond what he saw",
+   "mention_id": "38d9b583c8705350"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 898,
+   "claim_id": "taiwan-two-day-fall",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "delaying the inevitable means the fall is still expected, which is the honest form of the claim",
+   "mention_id": "d76f8fcf683a4f1c"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 950,
+   "claim_id": "red-dragon-flames-south-korea",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "held back as long as they pray, which means an absence is read as the answer",
+   "mention_id": "9e960bf2620b0343"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 1111,
+   "claim_id": "red-and-white-blanket-over-taiwan",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "delay rather than prevent is the frame he sets over the island",
+   "mention_id": "1d56fff5cc5bb98d"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 1273,
+   "claim_id": "zelensky-taken-out-ukraine-split",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "taking out the government as well as the man is the strong form",
+   "mention_id": "82aa7a47ab5df19b"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 1673,
+   "claim_id": "turkey-turns-back",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "he offers a same-day Turkish statement as the confirmation",
+   "mention_id": "b0127aeac16dd266"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 1745,
+   "claim_id": "israel-acts-alone-on-iran-oil",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "he marks this section as just him talking rather than a word",
+   "mention_id": "e1891de6b1cb6862"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 1795,
+   "claim_id": "oil-200-barrel",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "he concedes his own timing was wrong by at least half a year, having expected the oil fields burning last summer",
+   "mention_id": "1c1f067fada18167"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 1889,
+   "claim_id": "venezuela-burns-oil-fields",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "he asks himself whether the burning oil is symbolic, which loosens what would count",
+   "mention_id": "c81774647af434fb"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 2089,
+   "claim_id": "purple-three-mountain",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.85,
+   "note": "it shows the numbers being fitted to events after the fact",
+   "mention_id": "a1afa210a914a707"
+  },
+  {
+   "video_id": "hL9Trl2qb9k",
+   "start_s": 2661,
+   "claim_id": "iraq-economic-boom",
+   "same_event": "yes",
+   "delta_type": "new_detail",
+   "confidence": 0.9,
+   "note": "he says himself he does not know the mechanism by which fossil fuels would rise",
+   "mention_id": "85701d4da08f8525"
+  }
+ ]
+}

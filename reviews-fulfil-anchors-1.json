@@ -1,0 +1,13 @@
+{"reviews": [
+ {"video_id": "2jhb5cXzw5A", "start_s": 1168, "claim_id": "oklahoma-quakes-increase", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the only telling of the Oklahoma quake word in this corpus; the original is pre-channel"},
+ {"video_id": "tFFlHZ2MSR4", "start_s": 888, "claim_id": "trudeau-two-faced", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "Trudeau two-faced between Trump and Macron"},
+ {"video_id": "__mzf6nASoI", "start_s": 1346, "claim_id": "honey-glow-white-suits", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the fullest description of the white suits and honey glow"},
+ {"video_id": "1O_dIFD7yoA", "start_s": 1051, "claim_id": "children-taken-age-15", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "fifteen and below as the age of accountability cut-off"},
+ {"video_id": "eYlbwnkmyvg", "start_s": 1181, "claim_id": "macron-rises-like-hitler", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "Macron rising like a Hitler, Ishmael to the Isaac, Antichrist groomed behind a curtain"},
+ {"video_id": "TrTCa5Fvb-M", "start_s": 674, "claim_id": "china-gospel-window", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the theatre drapes and the short gospel window in China"},
+ {"video_id": "r-6QgcJFlPM", "start_s": 211, "claim_id": "tubman-purple-do-rag", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.85, "note": "the purple do-rag matched to Tubman photographs, read as a type for Wall Street"},
+ {"video_id": "oZaUcDd2izA", "start_s": 4906, "claim_id": "santa-fe-railroad-bomb", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the red Santa Fe railroad car with a cross and a bomb"},
+ {"video_id": "zz3aEtVV9fM", "start_s": 2170, "claim_id": "purple-dragon-from-the-sea", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the first of two tellings of the purple dragon"},
+ {"video_id": "-cgLSUAayx4", "start_s": 1351, "claim_id": "minister-taken-out-in-service", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.9, "note": "the boogeyman warning and the minister taken out in his own service"},
+ {"video_id": "9epckXNXLN0", "start_s": 705, "claim_id": "crypto-car-house-loans", "same_event": "yes", "delta_type": "first_mention", "confidence": 0.85, "note": "cryptos created for housing and car loans, dated by him to February 2025"}
+]}
