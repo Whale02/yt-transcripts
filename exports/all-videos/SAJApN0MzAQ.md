@@ -1,0 +1,617 @@
+# Prophetic caution, praying over the 4th of July
+
+**视频**: https://www.youtube.com/watch?v=SAJApN0MzAQ
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/Prophetic caution, praying over the 4th of July [SAJApN0MzAQ].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 540；**章节数**: 6；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-01)
+- [02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-02)
+- [03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-03)
+- [04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-04)
+- [05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
+- [06. 20:00–21:46 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-06)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] hey good morning family how are y'all
+[00:03] doing today I'm going to do a video just
+[00:06] some things that that are on my heart
+[00:07] that I've been praying over uh you know
+[00:09] we're here we are really close to the
+[00:11] Fourth of July weekend and um Bas
+[00:15] basically Fourth of July next weekend
+[00:17] interceding for protection for your
+[00:20] families for for where you're at where
+[00:23] watching your surroundings you know the
+[00:25] Lord just had it on my heart again you
+[00:26] know praying over that there is no uh
+[00:30] terrorist activities during this time
+[00:32] frame um and like I said it was heavy on
+[00:35] me last night and I was interceding for
+[00:37] the nation and for uh just people's
+[00:39] safety in general you know uh public
+[00:42] Gatherings and things like that so um
+[00:44] you know I I made a video a while back
+[00:48] about praying for your children when
+[00:49] they go back to school and and making a
+[00:51] bloodline uh uh of protection for your
+[00:55] children and uh that they would no
+[00:57] Calamity would come nigh them when they
+[00:59] go to school or wherever so you know I'm
+[01:02] going to play that video again here in a
+[01:04] couple of seconds if you want to watch
+[01:05] it and um let me hold the camera like
+[01:08] that maybe that'll be better I'm not
+[01:10] used to filming in the car but um you
+[01:13] know making a public uh hedge of
+[01:16] protection over your churches praying
+[01:19] over uh your church praying over um
+[01:23] places of of that you're that you're
+[01:26] going to you know and and this is where
+[01:28] we we we are in a time a very serious
+[01:31] time a time that we need to be uh very
+[01:35] Vigilant and watchful of where we are at
+[01:38] all times if the Lord speaks to you and
+[01:41] he says and you if you have that you
+[01:43] know and a lot of times well I don't
+[01:44] hear the voice of the Lord this is where
+[01:46] I would go if you don't have a
+[01:48] peace then don't go if you feel
+[01:51] tormented if you feel bothered you know
+[01:53] cuz the because the Lord is not a a god
+[01:55] of Torment but he is a god of warning
+[01:57] and he warns us in our spirits and would
+[02:00] say hey I don't want you to go to that
+[02:03] place or that place or wherever and it
+[02:05] could be um somewhere you're going that
+[02:07] day and you have to listen you have to
+[02:09] be sensitive to the spirit of God every
+[02:13] single day of where you're supposed to
+[02:15] be at all times the grocery store the
+[02:18] gas station whatever he may say don't go
+[02:20] down that street right there you're
+[02:21] fixing to go down go down the next one
+[02:24] and you're like well I don't understand
+[02:26] why just follow the voice and the
+[02:28] leading of the spirit of God inside of
+[02:30] you at all times it it may not make
+[02:33] sense to you it doesn't have to a lot of
+[02:36] times whenever I'm listening to the lord
+[02:38] it's just it's just blind obedience yes
+[02:41] Lord yes Lord I will do what you've
+[02:43] asked me to do I want to follow you with
+[02:47] all my heart and that's where we have to
+[02:49] be in these last days just just trusting
+[02:52] confidently in the finished work of the
+[02:54] Lord and knowing that he's going to
+[02:56] protect you know that he said that he
+[02:58] would send his angels to Bear us up lest
+[03:01] we Dash our foot against a stone that we
+[03:05] we claim Psalms 91 we claim Psalms uh 23
+[03:09] and we believe by faith that he said he
+[03:12] would protect us and that no weapon
+[03:14] formed against you or your family would
+[03:16] prosper and that's where I I go every
+[03:18] single day I plead the blood of Jesus of
+[03:21] protection and I say Lord I Thank you
+[03:24] that you said in your word that you
+[03:26] would protect my wife and my children
+[03:28] and my and my loved ones that that you
+[03:30] have a hedge of your protection around
+[03:33] and about us that your angels keep
+[03:35] charge over us and they will bear us up
+[03:37] in their hands lest we Dash our foot
+[03:40] against the stone that you said that in
+[03:41] Psalms 91 now I believe I receive your
+[03:45] Divine protection over me and my wife
+[03:47] and my kids today and I thank you Lord
+[03:50] that you will I will hear your voice and
+[03:53] a stranger's voice we will not follow I
+[03:55] will not be tormented by a demonic
+[03:57] spirit I will not be tormented by for
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:00] boings because sometimes a spirit of for
+[04:02] boings because we hear so much stuff in
+[04:04] the news and we hear so much stuff uh
+[04:07] you know on Facebook or YouTube or
+[04:10] wherever you you're watching your social
+[04:12] media and all of a sudden you will um
+[04:16] start to meditate on the wrong thing and
+[04:18] because you're you're thinking on the
+[04:20] wrong thing you'll start feeling
+[04:21] something inside what you feel is your
+[04:23] spirit and it's a lot of times it's just
+[04:24] flesh it's just fear and so we have to
+[04:27] decipher between the spirit of God
+[04:29] leading us versus our flesh being in
+[04:31] fear and so um that's that's a lot of
+[04:34] that's a lot of it and that's M growing
+[04:36] in maturity is a Believer saying you
+[04:39] know what I know the difference between
+[04:41] the my my thoughts and versus the spirit
+[04:44] of the Lord speaking to me warning me of
+[04:47] things to come and that's whenever I
+[04:49] believe a lot of times the the Lord will
+[04:51] lead you in in um in uh peace that
+[04:56] passes all understanding and you will
+[04:58] know it's an in Ward knowing it's an
+[05:00] inward knowing I do not need to go there
+[05:03] I need to to go to this other store or
+[05:06] whatever and so I just I don't want to
+[05:08] keep going around that but I feel like
+[05:10] it's important in these days to really
+[05:12] emphasize the importance of um the
+[05:17] importance of seeing and knowing and and
+[05:20] and listening to the voice of the Lord
+[05:23] uh and uh being at the right place at
+[05:25] the right time I say that all the time
+[05:27] I'm always in the right place at the
+[05:30] right time I'm always hearing the voice
+[05:33] of the Lord I will hear my father's
+[05:35] voice I will listen to him and I will
+[05:38] not hear a stranger's voice I do not uh
+[05:42] uh hear demonic spirits or or be
+[05:44] tormented by by satanic influence father
+[05:47] I thank you Lord that you are my father
+[05:50] you are our God and we will worship you
+[05:53] and and as for me in my house we will
+[05:56] serve the Lord and that's where you have
+[05:59] to be with that Bulldog faith of
+[06:01] believing and receiving in these last
+[06:03] days so that's where
+[06:05] um I have for you right now I'm I'm
+[06:08] trying to you know just the things that
+[06:09] I'm praying over praying over protection
+[06:12] for the 4th of July praying over
+[06:15] protection over uh Donald and that he
+[06:17] would be uh sheltered and protected that
+[06:21] no Calamity comes not him um that um the
+[06:26] enemy's plans would not um
+[06:30] bear any fruit that's a good way to say
+[06:32] it they will not bear fruit for what
+[06:34] they have planned to try to take his
+[06:35] life or anything that he will always be
+[06:38] protected and he will
+[06:40] fulfill what God has called him to do in
+[06:42] these last days that God will that he
+[06:45] will have the hedge of protection and
+[06:47] that we will have Godly leadership back
+[06:49] in our nation people that will lead and
+[06:53] and take the United States to where it
+[06:56] needs to be and in in these end times
+[07:00] so I just want to encourage you all
+[07:02] today don't give up on on what you're
+[07:04] believing for believe God for big
+[07:07] believe God for the impossible believe
+[07:10] God that whenever it seems impossible
+[07:12] nothing is impossible to him who
+[07:14] believes all things are possible and
+[07:16] believe for Supernatural increase in
+[07:18] your life I'm going to believe for you
+[07:20] for Supernatural increase for your life
+[07:22] I pray for you my wife and I pray for
+[07:24] you all the time we pray for for peace
+[07:27] over your homes over your marriages we
+[07:29] pray for Supernatural increase for you
+[07:32] for your finances we believe in
+[07:34] Supernatural increase we believe in the
+[07:37] power of the seed we believe in the
+[07:39] power of sewing and reaping we believe
+[07:42] that that God is uh uh uh is not mocked
+[07:46] whatsoever a man Seth that shall he also
+[07:48] reap we believe that that when you seow
+[07:52] in good soil you'll reap back some 30
+[07:55] some 60 and 100 fold and we believe that
+[07:58] we've believed it for for years down and
+[07:59] you know what I'm going to tell you all
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:01] we we did we SED a lot um and believe
+[08:06] for Supernatural increase and um we
+[08:09] would be you know tither we were tippers
+[08:12] we would give here and there and and and
+[08:14] every and it was like you know sporadic
+[08:16] and um we would see increase in our life
+[08:18] but we never saw increase until we we
+[08:21] got um into tithing on a regular basis
+[08:25] we started tithing because we were
+[08:27] forced to tithe we started working for a
+[08:29] church that was it was required by um
+[08:34] being on staff there that you had to
+[08:37] tithe to that church or you didn't work
+[08:39] there and you know being forced to tithe
+[08:42] at that point in time you know people
+[08:44] were like well you shouldn't be force a
+[08:45] tithe well if if if Pastor there the
+[08:49] pastor at that church didn't force us we
+[08:51] never would have been where where the
+[08:52] Lord is taken us now believing for
+[08:55] increase believing God for Supernatural
+[08:58] ideas to create creative ideas to get
+[09:00] wealth that believing that that that God
+[09:03] and Malachi rebukes the devour for our
+[09:06] sake that was that was sewn so deep down
+[09:10] inside of
+[09:11] us we we worked there for 13 years so
+[09:14] for 13 years we tithed regularly every
+[09:18] single time we got paid and and it
+[09:21] changed our life and so it's one of the
+[09:23] things that I always say if I didn't
+[09:25] learn anything else there I learned to
+[09:27] tithe and God uh bless my hands because
+[09:30] of it because I trust him with
+[09:32] everything even more so now um because
+[09:35] you know it's like I said you know I've
+[09:38] said it before is what I'm trying to say
+[09:39] is is that when you uh give God that 10%
+[09:44] and that offering is above I've learned
+[09:47] that it is a supernatural Covenant it is
+[09:51] a transfer of me saying hey God I trust
+[09:55] you it's I trust you I trust you with my
+[09:57] finances I trust you with my life I
+[10:00] trust you that you have a bigger plan
+[10:02] for me than my own plan I know that I I
+[10:05] have my ideas of what I think is going
+[10:07] to be a blessing and what I think I
+[10:09] should do with my life but God has the
+[10:11] ultimate plan and I don't want I want
+[10:13] his perfect will I don't want his
+[10:15] permissive will in every area of my life
+[10:18] I want a his perfect will for me and my
+[10:20] wife and my children so I I've rambled
+[10:23] on here enough but I just wanted to tell
+[10:25] you all um To Be watchful of your
+[10:28] surroundings basically bottom line of
+[10:30] where you are uh at all times in these
+[10:34] last days listening to him and praying a
+[10:37] hedge of protection over you and your
+[10:39] children and so I'm going to take you
+[10:42] now to this other video uh and and
+[10:45] you'll see me driving around um and and
+[10:48] how I would pray over my schools over
+[10:50] your churches over all of it and it will
+[10:52] really help you you know it's an older
+[10:54] video but it doesn't matter the message
+[10:57] is is still powerful so I want to
+[10:59] encourage you to watch it God bless you
+[11:01] all and we'll see you in a little bit
+[11:03] bye-bye hey good morning everybody uh
+[11:06] I'm going to take you to a school the
+[11:08] Lord spoke to me and told me to tell you
+[11:11] all to to pray for your kids this there
+[11:15] then we're coming into a very dark
+[11:17] season y'all and and there's going to be
+[11:20] yeah there's going to be light and yeah
+[11:21] there's a Revival and there everything
+[11:23] but just like I tried to tell you all
+[11:25] before it's like holding a um quarter
+[11:28] you can either Focus on the darkness or
+[11:30] you can focus on the light of what's
+[11:32] about to happen but if I'm putting my
+[11:34] kids in public school this is what I
+[11:36] would do now I homeschool our our
+[11:39] children my my my wife and I homeschool
+[11:41] our children they do bju and they watch
+[11:44] videos online bju is an amazing uh uh
+[11:50] homeschool program Christian Christian
+[11:52] and it's Christian and they they teach
+[11:54] you the word and everything so okay so
+[11:58] this is what I would do now I'm going to
+[11:59] film we're going to film it now film the
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:01] school
+[12:01] son this is a school so we're going to
+[12:04] go by the school now if my little my
+[12:06] little boy or my little girl was going
+[12:07] to school I would I would drive around I
+[12:10] would drive around the school so father
+[12:12] I this is what I say father I just cover
+[12:15] this school in the blood of Jesus I
+[12:18] thank you Father that no weapon formed
+[12:20] against the school will prosper now now
+[12:23] I'm going to drive around now you can't
+[12:25] now you can't really go all the way
+[12:26] around uh but I'm just going to cover
+[12:28] the Box
+[12:29] cover the block where your where the
+[12:31] school is at father we just cover this
+[12:33] school in the blood we cover the
+[12:35] teachers in the
+[12:37] blood we thank you Lord that no weapon
+[12:40] formed against us would Prosper father
+[12:42] if there's any plots if there's any kind
+[12:45] of Witchcraft or any kind of anything
+[12:46] that trying to come against them while
+[12:48] they're at school father through any
+[12:50] crazies you know what I'm trying to say
+[12:52] um father I thank you Lord that you we
+[12:55] bind the Demonic Ming maneuvering of the
+[12:58] spirits that would try try to come in
+[13:00] and try to hurt my children in any way I
+[13:03] plead the blood of Jesus over them right
+[13:05] now and I and it's like this I sit out
+[13:07] in the parking lot at the school and I
+[13:09] would just I send my angels now I send
+[13:10] my angels out from the north the South
+[13:12] the East the West over this school
+[13:14] parking lot and I thank you Lord around
+[13:16] this building I put angels around it
+[13:19] right now and I thank you Lord that your
+[13:21] angels are protecting little uh my
+[13:23] little whoever is there and I thank you
+[13:26] that you you that there are the the salt
+[13:29] in the light in this school and that
+[13:31] father they Excel above every other CH
+[13:34] student in thiso this this the classroom
+[13:37] I thank you that that my CH child has
+[13:40] A's is the a b honor rooll I play over
+[13:43] their mind father they would Excel and
+[13:46] they have more knowledge father I thank
+[13:48] you Lord that there's creative ideas in
+[13:50] my child I thank you Lord that there's
+[13:52] an anointing on them to prosper I thank
+[13:55] you Lord that they'll not struggle in
+[13:57] life father they'll not struggle in batt
+[13:59] grades father I just thank you Lord now
+[14:01] I put angels around the school parking
+[14:03] lot right now and father I thank you
+[14:05] Lord that you're that you're you put a
+[14:07] bloodline around this school parking lot
+[14:09] right now and I thank you Lord for this
+[14:11] the teachers I thank you Lord that
+[14:12] there's a good teacher there father that
+[14:14] they would they would they would flow
+[14:16] and they would be born again I thank you
+[14:18] Lord that you put my child in a good
+[14:20] classroom father I thank you Lord that
+[14:22] they're not teaching them ungodly things
+[14:25] father I thank you Lord that's what I
+[14:26] would just do I pray over them intercede
+[14:28] over them every time you you know I
+[14:30] would go every once once a week at least
+[14:33] I would go once a week at least and and
+[14:35] pray over my child if you can walk
+[14:38] around the school make just like do a
+[14:40] March like a Jericho March go around
+[14:42] that school and just cover in that child
+[14:44] in the blood covering the school in the
+[14:46] blood that there's no um evil people is
+[14:49] what I'm going to call them evil Edy C
+[14:52] crazy people who will try to do any harm
+[14:54] we cover them the blood no weapon formed
+[14:57] against them is going to prosper every
+[14:59] tongue that rises against them would be
+[15:01] condemned father I thank you Lord we
+[15:03] condemn the words we condemn bad words
+[15:05] over them we can we and so that's just
+[15:07] what I do you all and so I the Lord just
+[15:10] told me that that's what you can do you
+[15:12] can take authority over the school where
+[15:15] your child is at and pray a hedge of
+[15:17] blood around about that school putting a
+[15:20] covering of protection around
+[15:23] them then no evil will befall them no
+[15:27] evil comes not their dwelling you need
+[15:29] to understand you have rights and
+[15:30] Authority in the spirit realm to be able
+[15:32] to cover them these people that are
+[15:34] crazy they have demonic spirits and we
+[15:37] wrestle not against flesh and blood but
+[15:39] against principalities against powers
+[15:41] and spiritual wickedness in high places
+[15:43] and we need to bring that stuff down and
+[15:45] and you're cover you need to cover your
+[15:47] child in the blood that they they find
+[15:49] Godly friends pray over their friends
+[15:52] pray over pray over who they're hanging
+[15:54] out with that they would have a a a holy
+[15:56] ghost friend to have hang out with and
+[15:59] and they would be
+~~~
+
+<a id="section-05"></a>
+## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[16:00] influential who you hang around you know
+[16:03] my pastor always said who I I'll be able
+[16:05] to see where you go in your future by
+[16:07] who you hang around if you're hanging
+[16:09] around a 5x5 you need to hang around a
+[16:11] 10 by 10 you don't need to hang around
+[16:14] another 5 by5 it's time sometimes that
+[16:17] we have to make our Circle uh smaller
+[16:20] and and and and leave some of the people
+[16:22] that have been influencing us out you go
+[16:25] say you know what you're not a Godly
+[16:26] influence on my life you're out wanting
+[16:28] to part and you're W to do this stuff
+[16:30] and and I'm going to I'm going to find
+[16:31] some Godly friends and so you know you
+[16:34] may not have some Godly friends and
+[16:35] that's what I had to do is a lot of
+[16:36] times I just I hang out with my wife or
+[16:38] my kids and and I just don't worry about
+[16:40] it you know and and we I hang out with
+[16:42] the Holy Ghost maybe you have a a
+[16:44] daughter that's in uh junior high and
+[16:46] you have a son that's in high school you
+[16:48] go and you start covering in again you
+[16:49] start covering covering the school
+[16:51] father I thank you Lord for this school
+[16:53] I thank you Lord for the for the
+[16:54] teachers I Thank You Lord For The
+[16:56] Faculty the principles everything I
+[16:58] thank you that there's they they start
+[16:59] teaching Godly things there that they
+[17:01] they'll have prayer there that we we we
+[17:03] we claim it back to Jesus we claim the
+[17:06] school for Jesus in the name of Jesus I
+[17:08] thank you Lord I cover a bloodline
+[17:10] around this school in jesus' name and
+[17:13] that's what you do you've got to be able
+[17:14] to take your Authority and and
+[17:17] understand who you are and that you
+[17:19] don't have to have a devil come over and
+[17:21] start Ram roding things down bad things
+[17:24] you believe in whatever they you know
+[17:26] teaching liberal things start start
+[17:29] confronting that start confronting that
+[17:31] and start praying over your children and
+[17:33] then I would anoint them with oil cover
+[17:35] get the oil and anoint them before they
+[17:38] go to school you're in there and getting
+[17:39] ready for breakfast or whatever so I'm
+[17:41] going to anoint you with oil that no
+[17:43] Calamity would come n you Psalms 91 put
+[17:46] Psalms 91 use Psalms 91 to cover your
+[17:51] child in in prayer use that scripture
+[17:55] put read that over them before they go
+[17:57] so we're going to read Psalms 91 Little
+[17:59] Johnny or whoever I'm going to read
+[18:01] Psalms 91 so you get Psalms 91 and you
+[18:04] get that scripture down inside of them
+[18:05] and you start letting them when they
+[18:07] quote it you know whenever the things
+[18:09] happen in Colorado or in Florida you
+[18:12] know you if that for instance that was
+[18:15] happening you start quoting you start
+[18:16] binding that devil in that that kid when
+[18:18] they're trying to do something stupid
+[18:20] you you teach them you can teach them
+[18:22] their Authority you start teaching your
+[18:24] children their Authority and who they
+[18:26] are in Christ and you can like my
+[18:28] children I teach them all the time you
+[18:30] have power and dominion and authority
+[18:33] over the devil and nothing shall by any
+[18:35] means hurt you you don't have to walk in
+[18:38] in in in a world that that would to kill
+[18:41] seal and destroy you son or daughter I
+[18:43] say this is what you got to do you got
+[18:46] to use the word against the devil
+[18:48] because if you don't he's going to run
+[18:49] you over and you got to understand who
+[18:52] you are in Christ and that's why I say
+[18:54] put the bloodline on their forehead I
+[18:56] put a bloodline on my children all the
+[18:58] time and I say no weapon no Calamity
+[19:01] when flu season starts up at the
+[19:03] school we take our spiritual flu shots
+[19:06] we take the covering and I put a
+[19:08] bloodline over and I say here we're
+[19:10] going to take communion this is our
+[19:11] spiritual
+[19:12] covering no sickness no disease comes n
+[19:17] you in sickness and disease it doesn't
+[19:19] have to you don't have to deal with the
+[19:21] devil's stuff you could we take Psalms
+[19:23] 91 we take that stuff and we we plead
+[19:26] the blood of Jesus Christ over our home
+[19:30] that no weapon formed against you is
+[19:32] going to prosper that's just the way we
+[19:35] live that's the way we we we we live our
+[19:38] lives we live in this I want to tell you
+[19:41] um you know we I I tell tell yall this
+[19:43] is there's a man that's very wealthy in
+[19:46] in this town that we're in right now and
+[19:48] he knows about what's
+[19:51] coming and and he's he's a he's a very
+[19:54] rich billionaire he has his own private
+[19:56] Jetty flies in and out of this town that
+[19:59] we're in right now and um he has started
+~~~
+
+<a id="section-06"></a>
+## 06. 20:00–21:46 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:01] to go through and buy up all of the
+[20:04] major places to um get it ready for the
+[20:07] end times because the Lord told him
+[20:09] people were coming to this town for the
+[20:11] Revival now I'm telling you I have seen
+[20:14] the exact same things coming about the
+[20:17] Revival and so um and to prepare and
+[20:21] people are coming here so but he's
+[20:23] bought a lot of these a lot of buildings
+[20:25] and a lot of things up in this town that
+[20:28] that I'm in right now um and getting
+[20:31] ready for the outpouring and so I'm
+[20:33] going to show you one of the uh major
+[20:37] buildings that he bought and renovated
+[20:40] it's really cool I think this is really
+[20:42] beautiful I think you and it is is
+[20:45] absolutely I think he he bought it and I
+[20:47] think he didn't pay a whole lot for it
+[20:50] it was an old boy's home it's right here
+[20:52] and you can show them show them right
+[20:54] here this is an old boy's home that this
+[20:56] man renovated
+[21:00] and he got it all fixed up and got it
+[21:02] all ready for um for the outpouring it's
+[21:06] actually really cool it's full of uh
+[21:08] it's full of antiques and everything
+[21:10] there's Critters in there he needs to on
+[21:12] the house with oil and get those Devils
+[21:14] out of there there's demons in that
+[21:15] house I can you can feel them when you
+[21:17] drive by God is good and I thank you all
+[21:20] for subscribing to my YouTube channel I
+[21:22] thank you for being a part of our family
+[21:24] I I just want you to know Jesus Christ
+[21:26] is coming and and you don't have to walk
+[21:28] walk in a in a devil's hell you can walk
+[21:30] in authority and power and dominion and
+[21:33] and and and and you don't have to keep
+[21:36] letting the devil run you over put a
+[21:37] smile on your face and a song in your
+[21:40] heart Jesus loves you so much and I love
+[21:43] you thank you for watching my videos and
+[21:46] we'll see you next time byebye
+~~~

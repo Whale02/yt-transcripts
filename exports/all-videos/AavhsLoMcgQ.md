@@ -1,0 +1,3325 @@
+# ＂When Prayer Feels Dry and God Feels Silent — Here's How to Get Through It＂
+
+**视频**: https://www.youtube.com/watch?v=AavhsLoMcgQ
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus-streams/＂When Prayer Feels Dry and God Feels Silent — Here's How to Get Through It＂ [AavhsLoMcgQ].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 3182；**章节数**: 12；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-01)
+- [02. 12:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-02)
+- [03. 24:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-03)
+- [04. 36:00–47:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-04)
+- [05. 48:00–59:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
+- [06. 60:00–71:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
+- [07. 72:00–83:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-07)
+- [08. 84:00–95:59 · 教会、复兴与信仰、预言、梦境与异象](#section-08)
+- [09. 96:00–107:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
+- [10. 108:00–119:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-10)
+- [11. 120:00–131:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
+- [12. 132:00–142:49 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
+
+<a id="section-01"></a>
+## 01. 00:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 提到的地点：Russia、Ukraine、Florida、Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] It's already Wow, that was quick.
+[00:03] >> Well, good evening, family. Thank you
+[00:06] for joining us again tonight. Um, I'm
+[00:09] just going to pray tonight, y'all. I
+[00:11] last night I I didn't get a lot of uh
+[00:14] seeing over and and uh it was I I heard
+[00:17] a spiritual song and that was a blessing
+[00:20] and uh I felt the anointing really
+[00:22] strong. I What all the What did we Was
+[00:25] there anything Lord showed us?
+[00:27] >> Uh yeah, I have to go with that. He
+[00:29] showed you uh
+[00:31] >> that was the video all prior.
+[00:33] >> Yeah. Yeah. He showed you healings and
+[00:34] people getting healed.
+[00:35] >> Yeah. The Lord showed us a lot of
+[00:36] healings last night for people that were
+[00:38] believing for um uh uterus pain and
+[00:42] prostate pains and things like that. And
+[00:45] I believe that that there was there was
+[00:47] uh some very specific word of knowledge
+[00:50] and um for your for your healing. So I
+[00:54] felt the the Holy Ghost all over that.
+[00:56] And I'm so thankful that when he comes
+[00:58] in and and he loves on you all so much.
+[01:01] It's it's a ble it's a blessing. But uh
+[01:04] you know I saw this Braden found this
+[01:07] today and we can put there put this on
+[01:09] there. Um this is pretty interesting.
+[01:11] Michael Sailor.
+[01:16] So you can show it. Do you have it on
+[01:17] there?
+[01:18] >> Yeah. So, Michael Sailor, the one that's
+[01:21] over at Bitcoin,
+[01:23] um he he had a lot of it. He's one of
+[01:27] the huge uh funders, you know, he he
+[01:30] buys a lot of Bitcoin. He's hanging out
+[01:33] with the Chinese guy that I saw and and
+[01:36] was and so they had a meeting today and
+[01:39] I thought that was kind of interesting.
+[01:40] I thought, man, to be a fly in the wall
+[01:42] on that in that meeting,
+[01:45] what was that about? And that was what I
+[01:47] was saying in the days ahead. I saw Eric
+[01:50] and Don Jr. and the Trumps all joining
+[01:53] up and they're all they're they're all
+[01:56] with Michael Sailor. All that's
+[01:57] happening.
+[01:59] So, I thought that was kind of cool.
+[02:01] Braden showed that to me. He goes, "Hey,
+[02:02] Dad, look at that." I said, "Hm, that's
+[02:04] kind of neat, isn't it?" Right after the
+[02:06] word of from the Lord, they're hanging
+[02:09] out and talking. So, maybe nothing,
+[02:12] maybe something, but something to keep
+[02:14] your eye on. Um, number two we had today
+[02:18] that Braden brought. Okay. What What was
+[02:21] the other thing you you showed me? Oh,
+[02:23] the the the the young the guy in uh
+[02:25] Florida.
+[02:26] >> Now, play that. That was amazing. Now, I
+[02:30] believe this is a result of prayer. And
+[02:33] uh right here we have a major bust, a
+[02:37] drug bust, all to the glory of God. Look
+[02:39] at this. 92,000 lbs of illegal drugs and
+[02:45] explosives se seized from a Florida
+[02:48] raid.
+[02:50] 92,000 pounds.
+[02:54] That that's that I was just like, my
+[02:57] goodness, that's a lot of drugs. But
+[03:00] what? Look at this. I I see that kind of
+[03:02] stuff as an answer to prayer as we keep
+[03:05] interceding to have explosives to have
+[03:08] that kind of f automatic weapons like
+[03:10] that not semi that this is this is very
+[03:13] serious uh stuff and to have a major
+[03:16] bust like that and to uh get that off
+[03:20] the streets uh is a major major victory
+[03:24] in my opinion and I I I guess go wow
+[03:26] thank you Lord and I believe you know
+[03:28] it's just us interceding and praying for
+[03:30] UNC uncovering the darkness of the what
+[03:34] I have seen so much of of the drug
+[03:37] trafficking and the sex trafficking and
+[03:39] all of the demonic things that of the
+[03:41] that shark and the when I told you they
+[03:44] were cut they were supplying on the
+[03:46] boats and bringing them in
+[03:50] uh to the to the uh boat ports the
+[03:53] harbors and they were unloading them and
+[03:55] they were dist they were distri
+[03:57] distributing them all over the nation
+[04:00] even through rail the the uh trains and
+[04:04] all kinds of things. So, you know, I
+[04:06] just I just know that the Lord has his
+[04:08] hand on us and that we're going to keep
+[04:10] continuing to uncover the darkness that
+[04:14] the enemy is is to kill, steal, and
+[04:16] destroy. So, then I want to show you
+[04:19] this. Mcronone reportedly warned
+[04:22] Zalinski US may betray Ukraine on
+[04:26] territory.
+[04:28] And so here's Mcronone again. And I had
+[04:32] I had a picture of him. He was at the
+[04:34] White House. I don't know when he did
+[04:36] that, but he was up there talking. He
+[04:39] had a very uh he was not very happy on
+[04:41] his face. And I took a picture of it. I
+[04:43] sent it to Brad because I was laughing
+[04:44] about it. I thought, boy, he don't look
+[04:46] like he's a very happy man right now.
+[04:48] But um you know,
+[04:52] bottom line, folks, we want peace.
+[04:55] We're not trying to take sides here
+[04:57] saying well uh against against Russia or
+[05:00] Ukraine. People are losing lives on both
+[05:03] sides. We have tens of thousands of
+[05:07] people weekly or more dying
+[05:10] from this war and we want peace and and
+[05:13] so not well Russia's wrong, Ukraine's
+[05:15] wrong. Well, let's just say both are
+[05:17] wrong. Who started what? Who start it it
+[05:21] it's water under the bridge to that
+[05:23] part. It's already been going on for so
+[05:24] long. We just want to end it regardless
+[05:27] of how who started what. Let's just end
+[05:29] this. And when I saw
+[05:34] praying into Venezuela and many people
+[05:37] said, "Do you think that that that uh
+[05:40] America is going I mean, I'm sorry,
+[05:42] Russia and China is going to sit idly by
+[05:45] if America invades Venezuela in the days
+[05:50] ahead because people are asking me and
+[05:52] and and bottom line is is I've seen like
+[05:55] I said I keep seeing pray into Venezuela
+[05:58] uh is it president or prime minister
+[06:01] I think I think
+[06:02] >> I don't know whoever it is
+[06:04] >> but being removed and a proxy government
+[06:07] coming in because the Lord said it's 10%
+[06:09] about the drugs and and 90% about the
+[06:13] oil. Well, I did not know that Venezuela
+[06:17] had more oil than Saudi Arabia.
+[06:20] And whenever people were telling me that
+[06:22] I said surely that's not true. But I
+[06:26] that if that it goes with what the Holy
+[06:28] Spirit has said concerning Venezuela and
+[06:32] the removing of this man he said the
+[06:34] Holy Spirit told us it will he'll be
+[06:36] like a Gaddafi a a Saddam Hussein and
+[06:40] he'll be removed in the days ahead
+[06:41] because of them wanting to put in a
+[06:44] government that's um not pro bricks
+[06:48] because the bricks needs funding the
+[06:50] bricks needs money and Venezuela will be
+[06:52] a key asset to this along with Russia
+[06:56] and these other nations to combat combat
+[06:59] the dollar.
+[07:01] So I know there's more to this than what
+[07:04] meets the eye and what the Holy Spirit
+[07:06] is showing us. So and um praying for um
+[07:10] uh what I believe is like I keep tell
+[07:13] talking to you all about these
+[07:14] supercomputers
+[07:16] rising up and bringing in new AI. the
+[07:19] greater this is uh for what I keep
+[07:22] seeing. I'm telling you all this is
+[07:24] going to this is going to change how we
+[07:27] live our lives. This is going to change
+[07:30] uh uh the the nations as a whole
+[07:32] forever.
+[07:34] This new industrial revolution just like
+[07:38] the first industrial revolution that
+[07:40] changed everything and how we do you
+[07:42] know flight cars uh everything came out
+[07:45] the electricity all of it. This is
+[07:47] something new with AI. And the Lord said
+[07:51] this will be this this what's coming.
+[07:54] We're just in the the the beginning
+[07:57] stages of what we're about to see in
+[08:00] these end times with artificial
+[08:03] intelligence. All the drama. It's going
+[08:06] to be um
+[08:09] I don't know how I don't even know how
+[08:11] to say it. I mean like the new frontier,
+[08:13] the pioneer workers, you know, they got
+[08:15] the people in the covered wagons going
+[08:17] across America to establish a a new
+[08:20] America and all the things that people
+[08:22] the settlers, this is the new settlers
+[08:25] of this dec
+[08:27] um generations. I mean, you know, we
+[08:30] haven't had all that for hundreds of
+[08:32] years, but here we are. The Lord is
+[08:35] using those words to us. A new
+[08:37] industrial revolution is about is upon
+[08:40] you.
+[08:42] with AI and I and and and don't take it
+[08:45] lightly. This is big. What you're about
+[08:47] to see will change your life forever.
+[08:50] Medical, financial,
+[08:54] uh how we live, everything, you know, uh
+[08:57] tracking you,
+[08:59] digital ID, it's all going to evolve.
+[09:03] How even China has a social credit
+[09:05] score. Well, you don't do certain things
+[09:08] right and you don't do the way they want
+[09:10] you to that you don't qualify to get a
+[09:12] loan. They can cut you off. Well, you
+[09:14] you know, you didn't wear your mask
+[09:16] whenever CO was going on. We saw you
+[09:17] rebellious about rebellious about it.
+[09:19] So, you don't have a real good credit
+[09:21] score, a social credit score, so you
+[09:23] don't qualify to be able to buy a car
+[09:25] today. I don't you know, I don't know if
+[09:27] it how high how far it will go, but that
+[09:29] was what the Lord was showing me is this
+[09:32] kind of stuff is going to escalate in
+[09:34] Canada in the days ahead. And and I'll
+[09:36] show you there will be a lot of of of of
+[09:41] uh freedom of speech, freedom of
+[09:43] religion, freedom the way you live your
+[09:46] life will be challenged and and I saw
+[09:49] people rising up
+[09:51] and saying enough's enough and there'll
+[09:54] be revolt.
+[09:57] And I saw a lot of of of revolt in uh
+[10:01] Canada especially with our brothers and
+[10:03] sisters. And the Lord says stand your
+[10:04] ground. pray, you know, ha have a
+[10:07] backbone like a crowbar and stand for
+[10:09] what Jesus tells. We will not bow and we
+[10:12] will not burn.
+[10:14] Kind of like a Shadrach and Meshack and
+[10:15] Abednego attitude. I will not bow and
+[10:18] I'm not going to burn. Either he saves
+[10:20] me or he doesn't.
+[10:22] BUT I'M NOT GOING TO bow down
+[10:26] to this false god. I will not bow down
+[10:30] to what the world says. I stand for
+[10:32] what's God. I stand for what's godly. I
+[10:34] stand for the Bible. I stand for what he
+[10:36] said I could have and what he stands
+[10:39] for.
+[10:41] And and I know
+[10:44] with the darkness that I have seen and I
+[10:46] continue to keep uh having these these
+[10:50] these visitations, these in what the
+[10:52] Lord is showing me about the angelic and
+[10:55] the the the storms in New York and the
+[10:58] and the the you know with this I I don't
+[11:00] even know how to say his name. the mayor
+[11:03] and uh up there and and all the
+[11:05] darkness. What?
+[11:06] >> Zoran Mandami.
+[11:07] >> Yeah. Zoran Mandan, whatever.
+[11:10] >> Um
+[11:13] you know, you like I said, you have that
+[11:15] umbrella of covering and all the
+[11:16] whenever you open it up for this demonic
+[11:18] attacks, you're shooting holes in your
+[11:21] umbrella by allowing sin in by allowing
+[11:24] ungodly thinking in. And so we want to
+[11:27] bring that prayer covering. That's who
+[11:29] we are. That's why that's why I believe
+[11:30] this the Lord has established this
+[11:32] prayer channel. And so I don't want to
+[11:34] sit here and talk too much tonight. I
+[11:36] don't know if you had any questions or
+[11:37] whatever, but I um I always try to be as
+[11:40] transparent as I can be with y'all of
+[11:42] the things the Lord is showing me. I
+[11:44] don't want any um confusion. Is your
+[11:47] sister cooking something and burning it?
+[11:50] I'm telling you, she I think she's
+[11:51] burning something and she's practicing.
+[11:54] [snorts] God bless her. But I smell
+[11:56] something. It's like it's burning my
+[11:57] nose. But I said, "Paisley, what are you
+~~~
+
+<a id="section-02"></a>
+## 02. 12:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:00] doing in there?" "It's all right, son. I
+[12:03] I don't worry about it. I was just
+[12:05] talking to you." Never mind. He's so
+[12:07] quick to jump on things. I'm I was But
+[12:11] um what was I saying? Oh, any kind of
+[12:14] questions. I can I can answer, you know,
+[12:17] kind of things. I you know, I try to
+[12:19] like be as transparent as I can to
+[12:23] not want any prophetic confusion of what
+[12:25] things the Lord is showing me. and I try
+[12:27] to bring it out where you all have any
+[12:31] issues or what you're going through. If
+[12:33] you have any prayer requests, things
+[12:34] like that, I'm trying to really try to
+[12:37] keep up with things and pray for people
+[12:38] and love on them.
+[12:41] But if not, I I I'll just go straight
+[12:43] into prayer tonight. I like I said, I
+[12:44] didn't have a lot. Braden had that, but
+[12:46] I didn't see a lot last night. So, we
+[12:48] just keep going, you know, and see what
+[12:50] the Lord has. As I try to say, we're not
+[12:52] here to perform. We're here to we're
+[12:54] just we want to be accurate and not
+[12:56] bring prophetic confusion. And we want
+[12:58] want you to get something and get
+[13:00] stirred up in your spirit. You get
+[13:02] refreshed and you go about your day. And
+[13:04] I don't want to take a lot of your time.
+[13:06] You know,
+[13:09] where's my live be?
+[13:12] >> Did you I can't see if they had any kind
+[13:15] of questions. I don't see me. You know,
+[13:17] like whenever you see that little live
+[13:18] thing and I click on it. Oh, yeah. Here.
+[13:20] [laughter]
+[13:24] I thought it was cool. Uh scammer
+[13:26] payback. Uh he's on it now.
+[13:28] >> He's he's Yeah, he I was watching his
+[13:30] buddy with the his gadgets and all this
+[13:32] stuff and the all the hacking and all
+[13:35] this stuff the other night.
+[13:36] >> Braden showed it to me and I was like,
+[13:38] "Hey," he said, "Daddy, uh he's friends
+[13:40] with scammer
+[13:41] >> and this guy um this guy, are you
+[13:43] there?" Okay. This guy was showing on
+[13:46] Joe Rogan or whatever. They were showing
+[13:48] all these little tools and all this
+[13:49] stuff that they're having
+[13:49] [clears throat] to hack everybody's
+[13:50] stuff and I thought I'm telling you all
+[13:52] we're in a time like we've never seen
+[13:54] before with all this hacking and stuff.
+[13:57] And I and so it it is it is way over the
+[13:59] top. But I I thought it was cool that
+[14:03] Scammer Payback watches and he prays
+[14:05] with us. You know, the Lord gave us that
+[14:08] word about that that man and he and I'm
+[14:10] telling you God is going to use this guy
+[14:12] big in the in the days ahead.
+[14:16] All right. Do you have any questions?
+[14:23] >> It's going way too fast. Two-state
+[14:25] solution. Yeah, we don't want a
+[14:26] two-state solution. We're praying
+[14:27] against that. So,
+[14:30] pray for Puerto Rico. What's going on
+[14:32] Puerto Rico?
+[14:36] >> The dong. I don't follow the dong.
+[14:38] Vietnam.
+[14:48] Thank you for all you do. Thank you.
+[14:55] The 24-hour period of change is already
+[14:57] happening. You see it right now. Don't
+[14:59] you feel the escalation since the since
+[15:02] Oh, you're saying the 24-hour change. I
+[15:06] see what you're saying. But the 24-hour
+[15:07] period of what I saw about the the
+[15:09] escalation of the no return was on
+[15:11] September 23rd
+[15:14] when the UN all voted against Israel and
+[15:17] all the nations and we only had three
+[15:20] nations stand with Israel and standing
+[15:22] for the peace of Jerusalem not for a
+[15:24] two-state solution to divide the land.
+[15:27] We don't want that.
+[15:29] Period. Regardless if you agree with the
+[15:32] Israeli government or not and who's in
+[15:35] power right now, we stand with for the
+[15:37] peace of Jerusalem. Period. I
+[15:39] unashamedly stand with Israel and for
+[15:42] the peace of Jerusalem. Period. So,
+[15:45] there's a lot of people that believe
+[15:47] that there's uh uh replacement theology.
+[15:49] I am not one that believes that.
+[15:54] So, um but the 24-hour change, I'm
+[15:58] believing everything's going to change.
+[15:59] The Lord keeps talking about the D-Day
+[16:02] and everything is going to change. He
+[16:04] keeps bringing that up. So when we're
+[16:06] praying into that, I believe we see in
+[16:08] part, we hear in part, and he gives us
+[16:10] bits and pieces. It's like having a big
+[16:13] puzzle that's a thousandpiece puzzle.
+[16:15] And he gives you a piece of that puzzle
+[16:17] every single time we pray. And you put
+[16:19] that in that corner, and you put that in
+[16:21] there, and you eventually you have a
+[16:23] whole picture of what he's saying. But
+[16:25] that's why you just keep going to God in
+[16:27] prayer every single time. and you go
+[16:29] before him and he gives you those
+[16:30] pieces. He doesn't give you everything
+[16:33] all at once. He wants you to rely on
+[16:36] him. He wants you to seek him. And when
+[16:40] you seek him, you will find him.
+[16:44] But we're not all knowing. Only he is.
+[16:47] And he gives you you see in part, you
+[16:50] hear in part.
+[16:52] I talked to some people and they like
+[16:54] being in the ditch they're in.
+[16:57] They don't want you coming in their
+[16:59] house or or prophetically seeing because
+[17:01] a lot of time I talk to folks and the
+[17:04] Lord downloads to me a lot of stuff
+[17:06] that's going on in their household and
+[17:08] they have mud on their face and you come
+[17:10] in there and you tell them, "Hey,
+[17:12] there's there's mud right here. Let me
+[17:13] help you." And you got a r a rag and you
+[17:16] lick it like your mom did and you're
+[17:18] like, "Let me get that off of there."
+[17:19] AND THEY'RE GOING LIKE, "DON'T TOUCH ME.
+[17:21] I don't want you looking at my my mess."
+[17:25] you know, and you come across people
+[17:26] that way to some and I'm not saying I
+[17:29] have all my stuff in in in in order, but
+[17:32] sometimes you come across people and you
+[17:34] you when I talk to them on the phone
+[17:35] now, like I said, there's sometimes I go
+[17:37] and you you're you're trying to PULL
+[17:39] THEM OUT OF a ditch and they pull you in
+[17:42] with them. They don't want to come out
+[17:44] of their ditch. They don't like it when
+[17:46] you you see their stuff. And people, a
+[17:49] lot of times I've come across it, they
+[17:50] they'll end up getting resentful about
+[17:52] it and they they get cranky and then
+[17:54] they go, "Well, we ain't talking to him
+[17:56] again." Well, I'm not there to try to to
+[17:58] to sh I'm holding a mirror saying this
+[18:00] is what the Holy Spirit's saying, not
+[18:02] what I'm saying. Brandon don't have the
+[18:04] gift by himself. I see what he wants me
+[18:08] to see. But a lot of times when I'm
+[18:10] talking to when he tells me to call
+[18:12] somebody or or or have conversation with
+[18:14] somebody, he reveals a lot. And it's
+[18:17] just the way when you flow. I want to
+[18:20] flow with the gift of God. I want to
+[18:22] flow with him. And here the Holy Spirit
+[18:25] will will will show you and and help you
+[18:28] to help others to show you all things
+[18:30] and to teach you and and and to get
+[18:33] going from point A to point B so we can
+[18:35] finish this race.
+[18:38] But I realize there's a lot of people,
+[18:40] they don't want you uh taking that rag
+[18:43] and licking it and wipe wiping off their
+[18:45] face and they because they like that mud
+[18:47] on them. They like being in the pit
+[18:49] they're in. And I and I and I go, "Well,
+[18:52] you know,
+[18:54] I guess just stay there if you don't
+[18:56] want to get out. I'm not here to try to
+[18:58] poke at you. I just want to love on
+[19:00] you." A lot of times I I I I I it's like
+[19:03] I tell the Lord, Lord said, Brandon,
+[19:05] they didn't ask you.
+[19:09] They didn't ask you. It's the gift. It
+[19:11] It's you when you flow with him and you
+[19:14] see he just it just you flow
+[19:19] it. It's a mantle.
+[19:22] And it's with finances and a lot of
+[19:23] things. The Lord showed me this. If you
+[19:25] do this and this, you'll fix your mess.
+[19:29] They didn't ask you how to fix their
+[19:31] mess. Well, if you do this and this,
+[19:33] this is what the Lord showed me. And and
+[19:35] if you if you tweak this and that, and I
+[19:38] go, okay, but not all the time that I'm
+[19:40] right, maybe. I don't know. But I would
+[19:42] say 99%
+[19:45] can what the Holy Spirit's saying.
+[19:48] And I just try to help folks.
+[19:55] When will people start getting
+[19:56] visitations from God? I don't know if
+[19:59] they will ever get a visitation from
+[20:00] God.
+[20:02] I I don't I don't see God ever
+[20:04] visitating vis. I have I I've never seen
+[20:08] God face to face like that. If that's
+[20:10] what you're saying. I've have
+[20:12] visitations. I can see his outline. He's
+[20:13] he's all light and and Jesus is um
+[20:19] the it's the most uh life-changing
+[20:23] experiences I've ever had.
+[20:25] But I I I don't know if everybody will
+[20:27] see. Blessed are those that have not
+[20:29] seen yet still believe is what the Bible
+[20:31] says.
+[20:33] I don't think everybody's all going to
+[20:34] see the Lord like that until we go to
+[20:36] heaven. But but but I just want to say
+[20:39] just flowing of the Holy Ghost. But
+[20:41] we'll pray. I don't I the chat moves too
+[20:44] fast for me to read it.
+[20:45] >> I can turn on slow mode. I turn on every
+[20:47] >> It's good. I I it it's too just it I
+[20:50] read real slow. I you know you all
+[20:52] understand I I I I have to really focus
+[20:55] when I read. So that thing is going I
+[20:58] it's a I just can't do it. I just go
+[21:00] Okay, hold on. It's [laughter]
+[21:02] So let's just pray. You want to pray and
+[21:04] go tubing? Let's just go tubing. It's
+[21:06] already 23 minutes. I don't want to
+[21:08] waste your all time because I I I don't
+[21:09] really have anything at the beginning.
+[21:12] So I because like I said, I usually go
+[21:14] over and then I go pray. So but father I
+[21:17] just thank you Lord for your body. We
+[21:20] never want to enter into any of this
+[21:23] without taking communion first.
+[21:27] We sit at your feet. We sit at your
+[21:29] throne.
+[21:30] And Father, I thank you for the words
+[21:32] that we got today just driving around
+[21:34] and we got to hear Katherryn Kman and
+[21:37] get so refreshed and just listen and her
+[21:40] answering questions and flowing with the
+[21:42] gifts her gift that you've given her.
+[21:47] Father, she was a treasure.
+[21:50] And Father, I thank you for the new
+[21:52] people that are rising up.
+[21:55] But Father,
+[21:57] when it seems to be so spiritually
+[21:59] stagnant right now so much, I know
+[22:02] you're the you're the you're the the
+[22:04] oasis in the middle of the desert
+[22:06] that you've never left us and you've
+[22:08] never forsaken us. I'm just so ready for
+[22:11] a new tent meetings like the like the
+[22:13] ones in the old days
+[22:16] that where it was back when Jack Co and
+[22:19] and and and RW Shambach and and um
+[22:23] William Brandom and all all the people
+[22:26] that walked before his father, they got
+[22:28] to experience so much of your presence
+[22:31] and the glory and the manifestations.
+[22:34] Could I just We ask you to do it again.
+[22:39] Again, Lord, you just do it again.
+[22:43] None of this hype.
+[22:46] Just authentic.
+[22:49] There's so many people trying to be
+[22:50] pretenders
+[22:52] that the Holy Spirit really isn't on
+[22:54] them. He's not really real to them, but
+[22:57] they're parrots.
+[23:00] There's a lot of parrots that don't have
+[23:02] original thought.
+[23:04] They just mock what they've heard from
+[23:05] the past. They try to bring it to the
+[23:07] future because they saw it worked.
+[23:11] And I'm so re I'm so ready, Father, for
+[23:14] authentic.
+[23:16] I'm so tired of seeing all the the
+[23:19] fakeness on on Christian television and
+[23:21] Christian YouTube
+[23:23] that you look at them and you say,
+[23:25] "That's not really you. You can tell. I
+[23:28] discern it." And you go, "That's so
+[23:29] fake."
+[23:31] And I want so much, Father, that Father,
+[23:34] that these people, that I, that my
+[23:35] children, that we would be able to be
+[23:37] taste and see that the Lord is good with
+[23:39] this great revival that we're about to
+[23:41] see.
+[23:43] I don't want to have to go back and look
+[23:45] at past videos and see what they
+[23:47] experienced. I want my own experience,
+[23:50] and I want my generation to have the
+[23:52] same experience that they had on a
+[23:55] greater level. Times 10.
+[23:58] If you visited John Kilpatrick with with
+~~~
+
+<a id="section-03"></a>
+## 03. 24:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[24:02] Brownsville once, you told us that you
+[24:05] would do it times 10 for him.
+[24:08] Lord, I don't know what the what what
+[24:10] we're waiting on.
+[24:12] I don't know what we're waiting on,
+[24:14] Lord, but I know what you told me is
+[24:16] coming to Oru.
+[24:18] I know what you told me is coming to
+[24:20] Tulsa with Billy with uh uh
+[24:25] is it Shawn Dhy?
+[24:27] >> Billy Joe. Billy Joe Dhy's son.
+[24:29] >> Yeah,
+[24:29] >> Paul.
+[24:31] >> Father, I thank you, Lord, that you told
+[24:33] me you're going to use that that church.
+[24:35] You're going to do all these things.
+[24:36] You're going to do major moves. And
+[24:38] Caris Bible College with Andrew Walmck.
+[24:41] You're going to you're going to do all
+[24:43] these amazing things.
+[24:47] And I thank you, Lord, that we're not
+[24:48] waiting no more. I I thank you Lord that
+[24:50] it comes to pass where that that and
+[24:52] suddenly
+[24:54] whatever it is that we're waiting on
+[24:56] whatever it is you say you're waiting on
+[24:58] us that that anointing inside of us for
+[25:02] us to understand who we are our
+[25:03] authority doing all these things but God
+[25:06] there was a special touch on that
+[25:07] generation with the 50s and the 40s
+[25:12] the tent revival
+[25:14] and I ask you father that we dip in that
+[25:17] river just one more time.
+[25:21] Just one more time, Father.
+[25:25] Touch Billy Burke with a double portion.
+[25:27] Give him a greater anointing on his
+[25:29] life. Touch these men that are already
+[25:32] there. If you can trust them with what
+[25:33] they have right now, give them a double
+[25:36] portion.
+[25:42] I'm so so we're so dry. We're so thirsty
+[25:45] as a nation. We see all around there's
+[25:47] so much sin. There's so much compromise.
+[25:49] But Father, I thank you, Lord, that you
+[25:51] shake this nation one more time.
+[25:55] That we have that greatest harvest of
+[25:57] souls this world has ever seen before.
+[26:00] That would visit Asia, that South Korea
+[26:03] would not go communist,
+[26:06] that they would stand o on the on that
+[26:08] rock. You said, "Thou rock that I saw
+[26:11] that rock go in the middle of South
+[26:13] Korea." And you said, "Upon this rock, I
+[26:16] will build my church, and the gates of
+[26:18] hell will not prevail against it as they
+[26:22] pray and they seek me." Brandon,
+[26:27] I believe
+[26:32] we're not begging you to do it. You want
+[26:34] to we you want it more than what we do.
+[26:37] But I know there's there's a there's a
+[26:40] there's a mechanism to the trigger.
+[26:45] and you said pray.
+[26:47] So we continue to pray. We continue to
+[26:50] seek you. We continue to to to come
+[26:53] before your throne boldly and say,
+[26:55] "Father, here are we. Use us in a
+[26:57] greater capacity to touch this
+[26:59] generation for you. For you said, the
+[27:01] harvest is plentiful and the labors are
+[27:03] few.
+[27:07] Touch the scammer paybacks. touch the
+[27:09] people like the that that that have have
+[27:11] were bigger platforms. Let Father your
+[27:14] glory be shine shine on us like you did
+[27:18] Moses in in in the in the old covenant
+[27:22] that our faces would shine so bright
+[27:25] that the glory of the Lord would be seen
+[27:28] on our eyes and our mouths and Father
+[27:30] that people would see us and they'd say
+[27:32] there's something different about you.
+[27:38] Not well they're just Christians or a
+[27:40] bunch of hypocrites. They're a bunch of
+[27:41] We don't want nothing to do with
+[27:42] Christianity. Father, let our let us be
+[27:45] so salty
+[27:47] that we don't lose our flavor.
+[27:51] That people would see the light on us
+[27:54] and say, "I want what you have.
+[27:58] I want what you have.
+[28:02] Silver and gold have I none, but such as
+[28:04] I have, I give I thee. In the name of
+[28:07] Jesus Christ of Nazareth, rise and walk.
+[28:12] Silver and gold
+[28:15] I have not, but such have I have I give
+[28:18] I thee.
+[28:23] Father, I thank you, Lord,
+[28:29] that if you did it once, you'll do it
+[28:32] again.
+[28:38] Father, I thank you Lord that in that
+[28:40] desperation,
+[28:41] how desperate, how thirsty, how hungry
+[28:45] are we for a touch from God.
+[28:51] That we'll never be the same.
+[28:55] That we seek you and we'll find you.
+[28:57] Your word says it.
+[29:00] That you become that Rama word. that
+[29:03] Rama word comes so alive in us that I
+[29:05] was sitting there and when Katherryn
+[29:07] Coleman was talking about it today she
+[29:09] said she said I have nothing
+[29:13] I am nothing without him but if you can
+[29:15] use nothing
+[29:17] if you can use nothing Lord use this I I
+[29:21] all that I have I if you can use me if
+[29:25] you can use nothing Lord and turn it
+[29:27] into something use me.
+[29:32] There's so many people out here that I
+[29:35] know that are hungry in the middle of
+[29:36] the night praying with us and they're
+[29:39] just here saying, "Lord, the same thing.
+[29:42] If you can take nothing, Lord, and use
+[29:44] it. If you can take my life and use it,
+[29:48] use me, Lord.
+[29:50] Put that coal upon my lips.
+[29:55] Set my heart a fire, Lord, that I may
+[29:58] burn for you.
+[30:05] I thank you, Lord, for every single
+[30:08] person that is here tonight.
+[30:10] Then in the midst of their dryness, so
+[30:13] many people said, "I'm so dry, Brandon.
+[30:16] I'm so desperate. I don't know how to
+[30:19] get to that living water."
+[30:23] The Bible says that out of our belly
+[30:25] shall flow rivers of living water. And
+[30:28] he said to me, he said, "Brendon, I
+[30:29] warned you, great days of sobering days
+[30:32] are coming."
+[30:35] But what do you do with being sober?
+[30:37] What's the opposite of being sober? I
+[30:39] said, "Being drunk." He said, "Brandon,
+[30:41] be being filled with my spirit."
+[30:45] You must be be being filled to the
+[30:48] overflow. Bubbling, bubbling, bubbling
+[30:50] overflow in these last days.
+[30:55] Laughter.
+[31:00] Joy unspeakable and full of glory.
+[31:11] Father, I thank you, Lord. Right now we
+[31:13] take the body and we thank you Lord for
+[31:15] all that you've done for us
+[31:17] uninterrupted and unhindered by any
+[31:19] satanic or demonic force. Father I thank
+[31:22] you that you speak through my vocal
+[31:24] cords and think through my mind. None of
+[31:27] me and all of you. I thank you Lord that
+[31:30] there's no no evil, no witchcraft, no
+[31:33] incantations, no chance, no voodoo, no
+[31:36] no anything demonic comes nas father
+[31:38] because we believe in the covenant of
+[31:40] the blood of Jesus Christ. And he said
+[31:43] no weapon formed against us will prosper
+[31:45] and every tongue that rises against you,
+[31:49] we condemn it. It falls to the ground,
+[31:51] it does not bear any fruit in our life.
+[31:54] You said, "Touch not my anointed and do
+[31:56] my prophets no harm.
+[31:59] Father, I thank you, Lord, that when
+[32:02] they try to touch us, when they try to
+[32:04] harm us, there's more that are with us
+[32:06] than there are with them.
+[32:10] There's more that is with us than there
+[32:12] are with them
+[32:14] because Jesus Christ is with me. Jesus
+[32:18] Christ is with you. Christ in me, the
+[32:21] hope of glory.
+[32:23] Father, I thank you, Lord, for the body.
+[32:25] We lift it up before you. We thank you
+[32:27] that we're healed and whole. We thank
+[32:29] you, Lord, that we're well tonight. We
+[32:31] thank you, Lord, that by your stripes
+[32:33] we're healed. You were wounded for our
+[32:35] transgressions. You were bruised for our
+[32:37] iniquities. The chastisement of our
+[32:38] peace was upon you. And with your
+[32:40] stripes, Lord, we are healed. And we
+[32:44] take this body in Jesus name.
+[32:47] Lord, we take the blood and we apply the
+[32:49] blood. We make much of the blood. And
+[32:52] the blood makes much of us. We apply the
+[32:55] blood over us tonight.
+[32:58] We thank you Lord that what can wash
+[32:59] away my sins? Nothing but the blood of
+[33:01] Jesus. What can make me whole again?
+[33:05] Nothing but the blood of Jesus. We take
+[33:08] the blood and we apply the blood. We
+[33:11] take the blood and we thank you Lord
+[33:14] that it never loses its power. It
+[33:16] reaches to the highest mountain and it
+[33:19] flows to the lowest valley. And we take
+[33:21] the blood right now in the mighty name
+[33:24] of Jesus. And we thank you Lord that you
+[33:26] have forgiven us and you make us whole.
+[33:28] You make us clean
+[33:31] and you protect us in Jesus mighty name.
+[33:34] Amen and amen.
+[33:40] So
+[33:43] father we just thank you.
+[33:46] We wait on you.
+[33:48] We sit here and we sit at your feet and
+[33:51] we thank you, Father, for scripture. We
+[33:54] find scripture that pertains to what
+[33:56] we're believing for tonight. And there's
+[33:58] so many people that were believing for
+[33:59] finances last night. And blessed shalt
+[34:02] thou be the fruit of thy body, and the
+[34:04] fruit of thy ground, and the fruit of
+[34:05] thy cattle, and the increase of thy
+[34:07] kind, and the flocks of thy sheep.
+[34:09] Blessed shalt be thy basket, and thy
+[34:12] store. Blessed shalt thou be when thou
+[34:14] comest in, and blessed shalt thou be
+[34:16] when thou goest out.
+[34:20] The Lord
+[34:22] shall cause thy enemies that rise up
+[34:25] against thee to be smitten before thy
+[34:28] face. They shall come out against thee
+[34:30] one way, and flee from thee, before thee
+[34:33] seven ways. The Lord shall command the
+[34:36] blessing upon thy storehouse, and in all
+[34:39] that thou setest thy hand unto, and he
+[34:42] shall bless thee, and the land which the
+[34:44] Lord thy God gives thee. The Lord shall
+[34:47] establish thee, as his holy people unto
+[34:50] himself, as he has as he has sworn an
+[34:54] oath unto thee, if thou shalt keep the
+[34:57] commandments of the Lord thy God, and
+[34:59] walk in his ways, AND ALL THE PEOPLE I
+[35:02] love this, this is my favorite.
+[35:06] And all the people of the earth shall
+[35:10] see that thou art called by the name of
+[35:12] the Lord, and they shall be afraid of
+[35:14] thee. It's for the people that try to
+[35:16] bully you. I said because there a lot of
+[35:19] there's a lot of stuff that I go
+[35:20] through. I say and they will be afraid.
+[35:22] They ain't going to be picking on you in
+[35:24] the spirit realm. And the Lord shall
+[35:27] make thee plenteous and goods and the
+[35:30] fruit of thy body and the fruit of thy
+[35:32] cattle and in the fruit of thy ground in
+[35:35] the land which the Lord swore to your
+[35:37] fathers to give you. And the Lord shall
+[35:39] open to thee his good treasures, the
+[35:41] heavens to give the rain unto your land
+[35:44] and the season, and to bless all the
+[35:46] work of thy hands. AND THOU SHALT lend
+[35:49] unto many nations, and thou shalt not
+[35:51] borrow.
+[35:53] And the Lord shall make thee the head
+[35:55] and not the tail, and thou shalt be
+[35:58] above only, and thou shalt not be
+~~~
+
+<a id="section-04"></a>
+## 04. 36:00–47:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[36:00] beneath, if thou hearken unto unto the
+[36:02] commandments of the Lord thy God, which
+[36:04] I'm commanding this day to observe them
+[36:06] and to do them. Father, we thank you,
+[36:09] Lord, that we qualify for one, because
+[36:12] of Jesus. We qualify for the blessing.
+[36:16] And because of the blessing, because of
+[36:18] Galatians 3:13, Christ has redeemed us
+[36:22] from the curse of the law.
+[36:26] And and and so all the curses all the
+[36:29] way down, Jesus Christ paid the price
+[36:33] for us to walk in the blessing. All the
+[36:36] be up up above that I just read, he paid
+[36:40] the price for you to walk in the
+[36:41] blessing. Galatians 3:13 says that
+[36:44] Christ has redeemed us from the curse of
+[36:47] the law. And we don't have to walk
+[36:49] underneath the curses of Deuteronomy 28,
+[36:51] all the rest of this. And there's a lot
+[36:53] of it up in here. You could read
+[36:54] probably for 10 minutes here reading all
+[36:56] the curses. But I am not under the
+[36:59] curse. I'm not under the curse. Jesus
+[37:01] has set me free. For sickness, I HAVE
+[37:04] HEALTH. FOR POVERTY, WEALTH, FOR CHRIST
+[37:07] HAS RANSOMED ME. JESUS PAID THE PRICE OF
+[37:10] THE BROKEN LAW. HE PAID THE PRICE FOR
+[37:13] ME. HE PAID THE PRICE for you.
+[37:19] Not one spot, not one blemish or blot.
+[37:22] The lamb's blood was shed for me. I'M
+[37:26] NOT UNDER THE CURSE. I'M NOT UNDER THE
+[37:28] CURSE. Jesus has set me free. FOR
+[37:32] SICKNESS, I HAVE HEALTH. FOR POVERTY,
+[37:34] WEALTH. FOR CHRIST HAS RANSOMED ME.
+[37:39] So I am I know that he paid the price
+[37:42] for me to walk in the blessing of
+[37:44] Deuteronomy 28.
+[37:47] So I read that scripture. You got to
+[37:49] stir yourself up. That's how you do it.
+[37:51] Whenever like this, it's like you it's
+[37:53] almost like you feel flatline and that's
+[37:56] when you you have to you you you
+[37:59] stir it. You stir your spirit. You stir
+[38:03] THE ATMOSPHERE. YOU'VE GOT TO CALL THOSE
+[38:05] THINGS THAT BE NOT AS THOUGH THEY WERE.
+[38:07] You can't be moved by what YOU SEE.
+[38:09] YOU'RE NOT MOVED BY WHAT YOU FEEL. WHEN
+[38:11] YOU'RE COMING THROUGH A DRY PLACE AND IN
+[38:13] PRAYER, YOU SAY, "I'M STIRRING THE
+[38:15] SPIRIT. I'M STIRRING IT UP. I'M NOT
+[38:18] GOING TO BE MOVED BY WHAT I SEE. I'M NOT
+[38:20] MOVED BY WHAT I FEEL. I'M MOVED BY WHAT
+[38:22] THE WORD SAYS." AND HE SAYS, "OUT OF MY
+[38:25] BELLY SHALL FLOW RIVERS OF LIVING WATER.
+[38:29] I will NOT BE STAGNANT. I will be
+[38:32] walking with him.
+[38:36] So you stir yourself up with him. And I
+[38:38] think sometime when even in this all day
+[38:41] long you I felt the Holy Spirit and I
+[38:43] and I was singing a song. I walk through
+[38:46] the va uh the valley [singing] alone.
+[38:51] And and and and I and and I was I was
+[38:53] singing and he walks
+[38:57] with me and he talks with me. And he
+[39:04] tells me I [screaming]
+[39:06] am his own.
+[39:10] And the joy we share as we tear
+[39:16] there no other [singing]
+[39:20] has ever known.
+[39:23] I was singing that all day long. It was
+[39:26] coming up in my spirit. And he walks
+[39:31] with me. And he talks with me and he
+[39:38] tells me I am his own. [singing]
+[39:44] And as I was doing that, I woke up in a
+[39:48] dream this morning and and and the Lord
+[39:50] was speaking to me in my dream. And I
+[39:53] was singing that song
+[39:55] all night long. I was singing that song.
+[39:58] He walks with me and he talks with me.
+[40:01] He walks with me and he talks with me
+[40:04] and he tells me I am his own.
+[40:13] There's it it it's how you cultivate it.
+[40:17] You keep that stirred up on the inside
+[40:19] of you. And when you hit these walls and
+[40:22] you feel it, it's just demonic. Usually,
+[40:25] it's somebody trying to come against me
+[40:26] through the camera, but I know that
+[40:28] whenever it does, the Lord tells me all
+[40:31] every tongue that rises against me will
+[40:34] be condemned and it falls on me. And
+[40:36] he's already warned me there's a lot of
+[40:37] people that have come against me,
+[40:38] they're going to fall over dead when
+[40:40] they're watching things. And he said,
+[40:41] Brandon, they're going they they'll open
+[40:43] a door and the enemy is going to take
+[40:45] their life. Not me, but because they
+[40:48] open the door, this is what's coming.
+[40:52] And I he said because I said touch not
+[40:53] the anointing and do my prophets no
+[40:55] harm. If they're trying to hold hold
+[40:57] hold hold hold hold hold hold hold hold
+[40:57] hold hold hold hold it back. It's not
+[40:58] you Brandon it's Christ moving through
+[41:00] you. It's the Holy Ghost moving through
+[41:02] you. It's doing what I ask you to do.
+[41:05] They're not they're not blocking you.
+[41:07] They're trying to block me.
+[41:10] And I thought it was interesting some of
+[41:12] the things he says to me in my own time.
+[41:16] So you just keep pushing.
+[41:19] So, Father, we just open the eyes of our
+[41:21] heart to you.
+[41:23] And we thank you, Father,
+[41:27] for all that you have for us. All that
+[41:31] you have for us and all that you
+[41:32] continue to do for us.
+[41:35] And Holy Spirit, we're here.
+[41:38] We're here to pray tonight.
+[41:46] We're here to pray tonight. and we seek
+[41:48] you and you said we find you. Knock and
+[41:52] the door will be open unto you.
+[42:21] So the Bible says you stir yourself up
+[42:23] with your most holy faith praying in the
+[42:26] spirit. Stir yourself up. You got to
+[42:29] stir yourself up. When you come to this
+[42:32] like this, you stir yourself up. You
+[42:34] grab a hold of it and you pull.
+[42:38] You stir. You grab a hold and you stir
+[42:42] it. It's like whipping whipped cream.
+[42:45] That's how you do it. You whenever you
+[42:47] see them old crank cars.
+[42:50] You You crank them in the old Ford Model
+[42:52] T's. You keep cranking them. That thing
+[42:55] goes
+[42:56] and that's how you do it. You
+[42:59] and then goes and it starts going. So,
+[43:02] you just keep you keep doing it. I'm
+[43:04] trying to I'm trying to help for some of
+[43:05] y'all because there's a lot of you that
+[43:07] don't know and the Holy Spirit's
+[43:08] obviously want me to show you. So, I I
+[43:10] he there's a lot of you that you say,
+[43:12] "Brendon, how do you do this? How do you
+[43:13] cultivate?" This is how you do it. I
+[43:16] find worship. I find songs and I find
+[43:18] scriptures and you and if you if you're
+[43:21] not if the spirit's not moving, you feel
+[43:22] like on this, you move the spirit. You
+[43:25] stir it. You stir. You stir and you keep
+[43:29] going at it. This is how you work
+[43:31] relationship. But this is just live and
+[43:33] raw.
+[43:34] You just keep going and you keep going
+[43:37] and you don't let up on it.
+[43:40] Does that make sense? Because there was
+[43:42] a flow all day today. And that's why I
+[43:44] think it's interesting because I when
+[43:45] I'm hitting it, but I'm I'm but I'm
+[43:47] trying I'm trying to teach y'all
+[43:49] something there because there's so many
+[43:50] people that go, Brandon, you just jump
+[43:51] right in there. You're seeing visions. I
+[43:53] I I'm so envious. I'm so jealous. This
+[43:55] is how Brandon did it.
+[44:00] year after year after year after year
+[44:05] dry
+[44:07] when you feel like you're going through
+[44:08] the Mojave Desert and you're going
+[44:11] there's nothing there. Wh what how do I
+[44:13] get there? How bad do you want him?
+[44:19] He said those that seek me will find me.
+[44:21] That that is an implication of of of of
+[44:25] hide and seek. He's hiding.
+[44:28] Those that seek me will find me. Those
+[44:31] that knock, the door will be open to
+[44:34] them. There's implications there that's
+[44:37] showing you that there's that you walk
+[44:40] through the valley. You push through it.
+[44:44] Is that helping them? They get it.
+[44:46] >> Because there's so many people there's
+[44:48] so many people that think it's just
+[44:50] always you just jump in the river.
+[44:53] Oh yeah, Brandon's got the stuff. No,
+[44:56] Brandon is showing you right now. This
+[44:57] is how you do it.
+[45:20] Sus save
+[45:24] us.
+[45:37] Leaken
+[45:39] led
+[45:55] to this day.
+[45:58] Hat to stay.
+[46:04] to say.
+[46:07] I look for another scripture. And the
+[46:09] children that are begotten of them shall
+[46:11] enter into the king. Let me see here.
+[46:15] Oh, it's Deuteronomy 23. I was looking
+[46:17] for Psalms.
+[46:26] Okay.
+[46:29] He restores my soul.
+[46:32] He leads me in in the path of
+[46:36] righteousness for his name's sake.
+[46:40] Thou preparest a table before me in the
+[46:42] presence of my enemies. Thou anoints my
+[46:45] head with oil, my cup runth over.
+[46:49] My cup runth over, Lord. You anoint my
+[46:53] head with oil and my cup runth over.
+[46:57] In the dryness, Lord, in the valley, you
+[47:02] are there.
+[47:03] And Father, my cup runth over. Surely
+[47:06] goodness and mercy shall follow me all
+[47:10] the days of my life. And I will dwell in
+[47:12] the house of the Lord forever.
+[47:15] Goodness, your goodness, and your mercy
+[47:19] WILL FOLLOW ME, LORD, ALL THE DAYS OF MY
+[47:22] LIFE, AND I will dwell in the house of
+[47:25] the LORD FOREVER.
+[47:27] WE SPEAK to the to the valley of the DRY
+[47:30] BONES. WE SPEAK TO THE VALLEY. AND CAN
+[47:33] THESE bones live? They will live. We
+[47:37] will touch the hem of your garment
+[47:40] tonight. We will touch that fresh living
+[47:43] water. We will touch that that river. We
+[47:46] will and it will experience it. We will
+[47:49] have it. We will lack no good thing. We
+[47:52] will lack NO GOOD THING. THOUGH I WALK
+[47:54] THROUGH THE VALLEY OF THE SHADOW OF
+[47:56] DEATH, I WILL NO FEAR. I WILL FEAR NO
+[47:58] EVIL. FOR THY ROD AND THY STAFF, they
+~~~
+
+<a id="section-05"></a>
+## 05. 48:00–59:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[48:01] cover me. [clears throat]
+[48:04] The Lord is my shepherd. I shall not
+[48:07] want.
+[48:09] The Lord is my shepherd. I shall not
+[48:13] want. He makes me to lie down in the
+[48:16] green pastures. He leads me beside the
+[48:19] still waters. He restores my soul.
+[48:24] He restores my soul.
+[48:27] He restores it. Beloved, I wish above
+[48:29] all things that you prosper and be in
+[48:32] health even as thy soul prospers. He
+[48:35] restores my soul.
+[48:38] That's what it's a promise. He leads me
+[48:41] in the path of righteousness for his
+[48:43] name's sake.
+[48:45] Thank you, Father.
+[48:47] Thank you, Lord, that you're leading me
+[48:49] in that path tonight. [clears throat]
+[48:52] He makes me lie down in the green
+[48:54] pastures. He leads me beside the still
+[48:57] waters.
+[48:59] He restores my soul.
+[49:03] And we believe that tonight there's so
+[49:06] many of us, Father, we call those things
+[49:09] that be not as though they were. And we
+[49:11] thank you, Father, that we can't do this
+[49:14] without you.
+[49:16] We can't do this without you.
+[49:20] He leads me beside the still waters. He
+[49:23] restores my soul. And Father, we thank
+[49:26] you, Lord. We thank you, Lord, for those
+[49:28] scriptures. And we stand on that word.
+[49:31] We stand on the word that, Father, that
+[49:34] you've never left us and you've not
+[49:36] forsaken us. Lo, and to the end of the
+[49:39] earth, you'll be with us always. And we
+[49:42] believe, Father, that when we step on on
+[49:46] the platform, when we step on, if you're
+[49:48] not there, we're not there.
+[49:50] This ain't our show. This is yours.
+[49:54] But we lay hold to what you promised.
+[49:57] We lay hold to the promises of God. We
+[50:00] lay hold to what you said we could have.
+[50:02] Well, I believe I can do what you said I
+[50:05] can do. I will have what you say I can
+[50:07] have. You speak to yourself.
+[50:10] You see it? You speak. You decree a
+[50:14] thing. YOU KEEP CALLING those things
+[50:16] that be not as though they were. I'm not
+[50:18] moved by WHAT I SEE. I'M NOT MOVED BY
+[50:20] WHAT I FEEL. I'M MOVED BY WHAT the word
+[50:23] of God says.
+[50:29] Father, we thank you, Lord.
+[50:32] I just heard him say, "I'm you're
+[50:34] leading by example."
+[50:38] Lead by example.
+[50:40] Show show. There's so many people
+[50:43] dealing with this what he's saying. You
+[50:45] He show Show them.
+[50:50] So that's how you keep going and that's
+[50:52] how you keep talking. You keep stirring
+[50:54] yourself up. You don't allow yourself to
+[50:57] deviate and go, "Well, I refuse to even
+[51:00] pray today.
+[51:02] Well, it's dry. Well, it's this. It's
+[51:04] that. It's the wall. What do you do?"
+[51:05] You you climb it. You tell it to be
+[51:08] moved. You keep speaking to it. And you
+[51:12] know that he'll meet you at the point of
+[51:14] your need.
+[51:16] I I and and I say, "I'm not moved by
+[51:18] what I see. I'm not moved by what I
+[51:20] feel. I move by what the word of God
+[51:21] says." I say that oh all the time
+[51:23] regardless. How do you feel spiritually
+[51:24] right now? Dry in the natural. But I'm
+[51:27] not moved by how I see. I'm not moved by
+[51:29] how I feel. I'm moved by what the word
+[51:32] says.
+[51:36] It's by example.
+[51:41] Father, I thank you, Lord. You fill my
+[51:44] cup, Lord.
+[51:47] I lift it up, Lord.
+[51:51] Come and quench [singing]
+[51:56] this thirsting of my soul.
+[52:02] Bread of heaven,
+[52:04] feed me till I want, no more.
+[52:10] Fill my cup, fill it up and make me
+[52:16] whole.
+[52:19] Fill my cup, Lord. [singing]
+[52:22] I lift it up, Lord.
+[52:27] Come and quench
+[52:31] this thirsting of my soul.
+[52:36] Bread of heaven,
+[52:40] feed me till I want no more.
+[52:47] Fill my cup,
+[52:49] fill it up, and make me whole.
+[52:58] Father, thank you.
+[53:06] Fill my cup. Lord,
+[53:11] I lift it up. Lord,
+[53:15] come and
+[53:18] quench
+[53:20] this thirsting of my soul.
+[53:27] Bread of heaven,
+[53:30] feed me till
+[53:33] I want no more.
+[53:37] Fill my cup,
+[53:40] fill it up, and make me whole.
+[53:48] Lord, we worship you.
+[54:13] A lot of times I always go get Diana,
+[54:15] but I don't know what what Braden, you
+[54:17] go get her. She can help me.
+[54:22] Unless she's busy, I I understand.
+[54:25] But even then, I I rely she helps me
+[54:27] pull. She pulls. We p We pull together.
+[54:32] And this is a prime example of one of
+[54:34] the times I'm telling y'all. I'm trying
+[54:35] to It's a prime. This is what he wants
+[54:38] me to do. Obviously, and it's
+[54:39] interesting to me. So, I to say
+[55:07] We bless you, Father.
+[55:14] We praise you, Father.
+[55:31] Fore!
+[55:35] Foreign! Foreign!
+[56:09] We have a little area. [laughter]
+[56:13] So [clears throat] she she Sorry, love.
+[56:18] I I could have got myself up. So that's
+[56:21] how we do it. It's how we pray. Huh?
+[56:24] It's just trying to teach people and
+[56:25] trying to be real. You know, I get so
+[56:28] tired of the Christian flakiness, but at
+[56:30] the same time, you all have to see it.
+[56:34] And there's a lot of you that think it's
+[56:36] like it's like h it's not Hollywood.
+[56:40] It's just authentic. And I think that's
+[56:42] what the Lord wants even to show to
+[56:43] display tonight. It strips you.
+[56:47] >> But at the same time, it's like there is
+[56:48] no pride of me. I'm just real. I have no
+[56:51] I have nothing to hide. But at the same
+[56:53] time, I want to show you this because
+[56:54] he's obviously want me because he told
+[56:56] me to do prayer. And I'm like, okay,
+[56:58] well, where where what do you want me to
+[57:01] do with this because I'm trying to I'm
+[57:03] trying to pull out of it. You either you
+[57:05] fight through it or you don't. And
+[57:07] there's four almost 5,000 people here
+[57:09] right now and it's trying to show you
+[57:10] this. So, that's what we're doing.
+[57:14] >> And we're going to keep pulling. So, but
+[57:16] I you I lean on her a lot. She helps me
+[57:19] pull. So, Father, we thank you.
+[57:23] [laughter] I'm glad you're here.
+[57:26] Father, I thank you.
+[57:31] And if he and if I don't see nothing, I
+[57:33] don't see nothing. You know, you just
+[57:36] keep you keep pushing. And we say,
+[57:37] "Well, Father, we just have well, we're
+[57:39] going to pray for people's marriages.
+[57:41] Let's pray for we'll pray for whatever,
+[57:42] and I'll send my little my little my my
+[57:45] metal detector out like I always do."
+[57:46] And you keep finding. you'll you'll
+[57:48] eventually hit the spot where the Holy
+[57:50] Spirit wants you to be for tonight. And
+[57:52] so that's what we're going to do.
+[57:55] [clears throat] Father, I thank you,
+[57:56] Lord, for all the people that are
+[57:58] represented here tonight. Father, every
+[58:00] shopper for the holiday season. We lift
+[58:03] them up before you in the name of Jesus.
+[58:06] We thank you, Father, that they're
+[58:08] blessed. They're blessing their their
+[58:10] finances. We call for protection over
+[58:12] them in the name of Jesus. We thank you,
+[58:14] Lord, that the blood of Jesus Christ
+[58:16] covers them. that no weapon formed
+[58:18] against him will prosper. We cover every
+[58:21] family that's represented here believing
+[58:23] for finances for the Christmas season.
+[58:26] Father, we call in the money right now
+[58:28] in the name of Jesus from the north, the
+[58:30] south, the east, the west. We take
+[58:32] authority OVER THE SPIRIT OF POVERTY. WE
+[58:34] CALL OUT the lack in the name of Jesus.
+[58:36] We call in abundance to THE FULL TO IT
+[58:39] OVERFLOWS. WE CALL IN THE MONEY IN THE
+[58:43] NAME OF JESUS. WE THANK YOU LORD FROM
+[58:45] THE NORTH, the south, the east, the
+[58:47] west. WE CALL FORTH ANGEL ANGELIC HOST
+[58:50] TO WAR ON OUR BEHALF RIGHT NOW IN JESUS'
+[58:53] NAME. CALLING THOSE THINGS THAT BE NOT
+[58:55] AS THOUGH THEY WERE. WE SPEAK FOR THE
+[58:57] FINANCES TO FLOW OVER THE HOUSEHOLDS
+[58:59] HERE REPRESENTED HERE THAT WILL LACK NO
+[59:01] GOOD THING IN THE NAME OF JESUS.
+[59:05] I thank you father for the supernatural
+[59:07] abundance on their households for the
+[59:09] supernatural finances on them in Jesus
+[59:11] name. We thank you Lord right now THAT
+[59:14] FATHER THAT WE'RE THE HEAD AND NOT THE
+[59:15] TAIL. We'll go above AND NOT BENEATH.
+[59:18] WE'RE CALLING IT IN RIGHT NOW IN JESUS
+[59:20] NAME. We claim the money that we need
+[59:22] Father in Jesus name to do exceedingly
+[59:25] abundantly above all THAT WE DARE ASK OR
+[59:27] THINK. FATHER THAT HOW YOU provide for
+[59:29] us and take care of us AND OUR
+[59:30] HOUSEHOLDS THAT EVERY PERSON THAT'S
+[59:33] REPRESENTED HERE WILL LACK NO GOOD THING
+[59:36] PHYSICALLY, MENTALLY, EMOTIONALLY,
+[59:38] FINANCIALLY. WE'RE CALLING IT IN right
+[59:40] now in JESUS NAME. WE'RE CALLING IN THE
+[59:42] BLESSING. WE'RE CALLING IT IN. YOU can
+[59:44] hold MY HAND. FATHER, WE CALL IT IN
+[59:46] RIGHT NOW IN JESUS' NAME. WE'RE
+[59:48] SPEAKING. WE'RE SPEAKING TO THE FINANCES
+[59:50] TO COME FORTH. WE BIND THE DEVIL OFF OF
+[59:52] OUR FINANCES. WE BREAK THE POWER OF
+[59:55] DEBT. WE BREAK THE POWER OF PRO POVERTY
+[59:57] AND LACK AND NOT ENOUGH AND BARELY
+[59:59] GETTING BY. WE RELEASE THE BLESSING AND
+~~~
+
+<a id="section-06"></a>
+## 06. 60:00–71:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[60:02] INCREASE AND multiplication and favor in
+[60:04] the NAME OF JESUS. FATHER, I THANK YOU
+[60:07] LORD
+[60:08] THAT FATHER THAT EVERY ONE OF THEM ARE
+[60:10] DELIVERED HERE FROM DRUG ADDICTIONS FROM
+[60:13] FROM ALL KINDS OF BONDAGE FROM ALL
+[60:16] ADDICTIONS FROM PORNOGRAPHY AND LUSTFUL
+[60:19] THOUGHTS AND AND PTSDS AND ALL KINDS OF
+[60:22] THINGS THAT ARE INVOLVED IN THE MIND.
+[60:24] FATHER, I CALL THEM HEALED AND WHOLE AND
+[60:26] WELL and delivered IN JESUS' NAME. WE
+[60:30] THANK YOU LORD FOR WHOM THE SON HAS SET
+[60:32] FREE IS FREE INDEED. AND FATHER, WE
+[60:35] THANK YOU LORD THAT THEY'RE NOT BOUND BY
+[60:37] PORNOGRAPHY ANYMORE. THE PEOPLE THAT ARE
+[60:39] STRUGGLING OVER THIS AND THEY keep
+[60:40] saying Brandon, there's so many people
+[60:42] in the it's saying, "I got lust issues.
+[60:45] I got all this going ON WITH ME." I
+[60:47] THANK YOU, FATHER, THAT THEY'RE FREE
+[60:48] FROM THAT IN Jesus name. THAT THEIR THE
+[60:51] PATHWAYS OF THEIR BRAIN, WE CALL THEIR
+[60:53] BRAIN FREE FROM THAT. WE CALL THEIR
+[60:56] BRAIN HEALED AND WHOLE AND WELL from the
+[60:58] is it is it opioids?
+[61:00] >> Opioid addiction? No, I'm talking about
+[61:03] like it's oxytocin. It's whatever it is
+[61:05] when they're looking at that trash and
+[61:06] it dopamine. Thank you, baby. Father, I
+[61:09] thank you, Lord, that their dopamine
+[61:11] LEVELS WOULD BE NORMAL. THAT THEIR BODY
+[61:13] WOULDN'T BE SO ADDICTED to this stuff.
+[61:15] Father, I thank you, Lord, that for for
+[61:17] their freedom in JESUS NAME. THAT THEY
+[61:20] DON'T TAKE THIS INTO 2026, IT DIES
+[61:23] TONIGHT. IT DIES TONIGHT. WE'RE NOT
+[61:26] MOVED BY WHAT WE SEE. WE'RE NOT MOVED BY
+[61:28] WHAT WE FEEL. We're moved by what the
+[61:30] word of God says. And we thank you,
+[61:32] Lord, that they're free in Jesus name.
+[61:34] AND WE CALL THEM FREE FROM um even with
+[61:37] uh the drugs, fentanyl, and uh oxytocin
+[61:41] and
+[61:43] uh lower tabs and all those things like
+[61:45] that. Father, I thank you Lord that
+[61:46] these people are free from that in the
+[61:48] name of Jesus. We aderall. Father, I
+[61:51] thank you Lord that freedom from
+[61:52] Adderall, freedom from oxytocin, freedom
+[61:55] from lower tab, THAT THE BLESSING OF THE
+[61:57] LORD IS ON THEIR LIVES IN JESUS NAME.
+[61:59] And healing and deliverance is on them,
+[62:02] Father. AND WE THANK YOU, LORD, for the
+[62:04] for that in Jesus NAME. WE THANK YOU,
+[62:06] LORD, THAT THEIR MARRIAGE IS RESTORED.
+[62:08] WE CALL FORTH MARRIAGES TO BE RESTORED
+[62:11] RIGHT NOW in Jesus name. Yeah.
+[62:14] People feeling inadequate
+[62:18] finally. Thank you, Holy Ghost. People
+[62:21] feeling inadequate.
+[62:25] I'm not good enough.
+[62:27] That's what I hear. I'm not good enough.
+[62:33] Feeling inadequacy
+[62:35] with their spiritual walk with the
+[62:37] father.
+[62:40] Pray over it.
+[62:44] >> You, the Lord said you. He just said,
+[62:46] Diana, pray over it. people feeling
+[62:49] inadequate that they don't have what it
+[62:50] takes.
+[62:50] >> We lift these people up right now to
+[62:52] you, Father. We thank you for your
+[62:55] divine intervention in their on their
+[62:58] behalf, angelic aid and assistance. We
+[63:00] we bring down these strongholds of of
+[63:03] self-doubt. We bring down these
+[63:05] principalities and powers and and rulers
+[63:07] over darkness. We thank you, Father,
+[63:10] that their eyes will see, that they will
+[63:12] be enlightened to see and know that you
+[63:16] love them, that they are good enough,
+[63:19] and that they can come to you boldly
+[63:21] before the throne of grace. We thank you
+[63:23] father that they do not that that that
+[63:26] this that this uh this spirit of of
+[63:30] feeling that they are not good enough
+[63:33] that un the the unworthiness
+[63:36] the the focusing on self self focusing
+[63:41] that we they would turn their eyes on
+[63:43] you and say yes Lord I I am inadequate
+[63:47] that's why I need you
+[63:49] >> I need you and I rely on you and The
+[63:52] more that they turn their eyes from
+[63:54] themsel and turn their eyes toward you,
+[63:58] the more they will see and know and walk
+[64:02] in the light as you have called them to
+[64:05] walk in the light. They will come out of
+[64:07] the darkness and into the light. We
+[64:09] speak that over these people right now
+[64:11] that their eyes of the understanding are
+[64:13] enlightened that they will see the and
+[64:16] behold your love for them that they
+[64:20] would have a knowing that you would
+[64:22] shine your light in their hearts on them
+[64:25] that they would that we we speak the
+[64:28] Holy Spirit penetration through that
+[64:30] through that darkness through that
+[64:33] >> inadequacy
+[64:36] >> in Jesus name
+[64:38] >> I believe it completely free from that
+[64:40] >> because it's a spirit. The Lord showed
+[64:43] me right then it's a spirit always
+[64:45] telling people they don't have what it
+[64:47] takes to get the job done continually
+[64:50] the bombardment of why even like tonight
+[64:53] it's being dry the bombardment what they
+[64:56] if they experience that well I'm
+[64:57] inadequate God doesn't like me he
+[64:59] doesn't care about me well where's the
+[65:01] Lord at in my prayer life
+[65:04] God loves you
+[65:07] and that feeding on the love of God
+[65:10] feeding on what he said God so loved the
+[65:13] world that he gave his one and only
+[65:15] begotten son that whosoever believe in
+[65:17] him should not perish. I'm the
+[65:19] whosoever.
+[65:21] I am a whosoever. I I believe that God
+[65:24] loves me and I have adequate I'm
+[65:27] adequate. God died for me. Jesus paid
+[65:32] the price for me. That's it. I hit the
+[65:34] vein. That's it. He's saying because
+[65:36] there's many you don't feel adequate.
+[65:39] Well, I don't have a good prayer life. I
+[65:40] don't have he don't show me angels. He
+[65:42] don't show me these things. So am I I'm
+[65:44] not I don't feel adequate tonight. I
+[65:46] don't feel adequate in my life. I don't
+[65:48] feel that God well where's the
+[65:49] anointing? Where's the Holy Ghost? You
+[65:51] stir yourself up. You contend.
+[65:55] Are you a contender for the glory?
+[65:58] My father loves me. I'm adequate.
+[66:03] Why? Because he gave his life for me. If
+[66:06] he could, if he would have died only
+[66:08] just for me, he would have done it.
+[66:11] If I was the only one for him to die
+[66:14] for, I believe he would have died for
+[66:16] me. I'm He He I'm that special to him.
+[66:21] I'm that special to Jesus. I You're that
+[66:24] special to Jesus. They're that special
+[66:26] for that. If we were the only ones on
+[66:28] this earth, Jesus would have died for
+[66:29] me. One drop of blood set me free.
+[66:35] Jesus paid the price for me. I take
+[66:38] authority over the spirit of inadequacy.
+[66:44] That's so interesting that that they're
+[66:47] hitting that wall like that and then
+[66:48] feeling that and then know what the
+[66:49] Lord's saying right now. So many people
+[66:52] have it in their mind. They they listen
+[66:53] to the devil all day long.
+[66:57] It's the It's the the bombardment of
+[67:01] thoughts of inadequacy filling in the
+[67:03] dry places.
+[67:05] I'm dry. I'm thirsty. He's not here. He
+[67:09] must not care.
+[67:11] He must not care. Where are you? Where
+[67:16] is this stirring inside of me? I'm so
+[67:20] dry.
+[67:22] And that's what the Holy Spirit's
+[67:24] talking about tonight.
+[67:28] Where is the father in the dryness? He
+[67:31] said, "I'll never leave you and I'll
+[67:33] never forsake you."
+[67:38] Find scriptures just like I'm teaching
+[67:40] y'all. Find sermons and stir yourself
+[67:43] up.
+[67:45] You've got to bite on to the bone and
+[67:48] say, "I'm a bulldog and I'm not letting
+[67:50] go until he blesses me. I'm not letting
+[67:53] It's like It's like uh the wrestling
+[67:55] with the angel. I'm not letting go,
+[67:58] Jacob.
+[67:58] >> Mhm.
+[68:00] >> I'm not letting go until you bless me.
+[68:03] And and then the angel finally he he
+[68:05] walked a little limp. [laughter]
+[68:08] He got what he wanted though.
+[68:11] How big how bad how bad do you want a
+[68:15] fresh touch to stir in your life?
+[68:19] >> Huh?
+[68:20] >> I like you.
+[68:29] How many of you all are dealing with
+[68:31] this?
+[68:33] I'm just curious.
+[68:35] How many of you all deal with this
+[68:38] feeling inadequate?
+[68:41] How many of you all feel that your
+[68:42] prayer time's dry?
+[68:45] Say, type one in the comment section. Do
+[68:48] you go through dry seasons in your in
+[68:50] your prayer time? Is that what the Lord
+[68:52] because I'm coming across this and I'm
+[68:53] trying this is it it fi this is where
+[68:56] the the river is at. How many of you are
+[68:59] coming into your your prayer time in the
+[69:01] mornings and you just feel dry sometimes
+[69:04] like this or you feel that you're
+[69:06] inadequate? Well, I'm not good enough.
+[69:07] God doesn't love me.
+[69:11] Is there anybody out there
+[69:14] that you feel that you feel that he's
+[69:16] abandoned you? Maybe you don't feel
+[69:18] that. There's days of just this I I I
+[69:21] don't even know why I'm even here
+[69:23] praying.
+[69:24] I feel it in my spirit.
+[69:29] You feel so inadequate.
+[69:37] I don't know. Maybe it's not. But I just
+[69:40] feel inside of my spirit that God is
+[69:42] trying to tell you tonight that he loves
+[69:45] you and you're adequate.
+[69:49] I don't know what it come to tonight,
+[69:52] but it's something so much deeper than
+[69:54] just Brandon sitting here pushing
+[69:56] through. It's trying to tell you that
+[69:59] even Brandon has to push through. And
+[70:02] you've got to be bulldog about this. And
+[70:05] you cannot get down on yourself and
+[70:07] think I don't have what it takes.
+[70:10] [snorts]
+[70:14] He wants so bad for you to seek him and
+[70:16] you'll find him
+[70:20] there in the dryness. You are there
+[70:24] in the stillness. You are there.
+[70:29] I refuse to feel inadequate anymore.
+[70:34] Church leadership, don't look at me. The
+[70:37] upper people don't look at you. But
+[70:40] Jesus looks at you.
+[70:43] Regardless of who looked at you, my
+[70:47] father died for me. And if I was the
+[70:50] only one left on this earth, Christ
+[70:53] would have died for me.
+[70:57] He died for every single one of us. But
+[71:01] he died for us to live a life full of
+[71:03] abundance.
+[71:06] But even in the valley of dryness,
+[71:09] even in the valley of inadequate,
+[71:12] feeling that way,
+[71:14] he made me. Christ in me. Christ in me.
+[71:18] The hope of glory. Christ in me tonight.
+[71:23] [snorts]
+[71:23] As he is, so am I. In this world. I
+[71:27] moved by that more than I am by the way
+[71:30] I feel.
+[71:32] You if if faith is not something that
+[71:35] you that you're going to feel, right?
+[71:38] Faith calls those things that be not as
+[71:40] though they were.
+[71:42] Faith is a substance of things hoped for
+[71:45] and evidence of things not seen.
+[71:49] It's the things hoped for and evidence
+[71:51] of things not seen.
+[71:52] >> Not seen.
+[71:52] >> Yeah. Not seen. It's not something
+[71:54] you've seen. I'm You don't It It doesn't
+[71:58] You You believe it even when you don't
+[71:59] see it. Abraham staggered not at the
+~~~
+
+<a id="section-07"></a>
+## 07. 72:00–83:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[72:02] promise of God through unbelief, but was
+[72:04] strong in faith, giving giving glory to
+[72:07] God, that being fully persuaded
+[72:10] that what he had promised, he was able
+[72:13] also to perform it. He was fully
+[72:15] persuaded in his dryness.
+[72:18] >> It doesn't make sense.
+[72:18] >> And the deadness of Sarah's womb, he
+[72:21] [snorts] was fully persuaded. Even when
+[72:24] Sarah couldn't conceive and her her
+[72:26] ovaries were raisins,
+[72:28] she's like, "I don't have it. I don't
+[72:30] got what it takes. I'm inadequate. But
+[72:33] God said, "Sarah, you're going to have a
+[72:35] baby." And in her inadequacy, he spoke
+[72:39] to the dryness in her womb and he said,
+[72:43] "Life be." And he was not moved by what
+[72:46] he he was see. He was not moved by it.
+[72:49] He was staggered not at the promise of
+[72:52] God. Abraham, you're going to be a
+[72:54] father of many nations. Abraham, you're
+[72:56] going to walk in the blessing. Abraham,
+[72:59] you're going to you're going to be a
+[73:00] father one day. AND HE'S LIKE, I'M OLD.
+[73:03] I don't even have I I I don't There's no
+[73:05] Viagra up in here. They don't have
+[73:07] nothing. Not trying to be funny, but
+[73:08] it's the truth. What are they going to
+[73:10] do?
+[73:13] [laughter]
+[73:13] He's old.
+[73:16] Sorry.
+[73:18] What are you going to do? [laughter]
+[73:21] So, is what are you going to do? He
+[73:23] trust God.
+[73:26] Sorry.
+[73:27] It's the truth. Hey, it's the truth.
+[73:29] This is real. [laughter]
+[73:31] What are you What are you going to do?
+[73:34] You're old. YOU'RE GOING TO HAVE A BABY,
+[73:36] ABRAHAM. OKAY. WELL, I'm going to trust
+[73:39] God.
+[73:42] Sorry.
+[73:49] What are you going to do with that?
+[73:52] It's [clears throat] the truth.
+[73:53] [laughter]
+[73:54] It's It's just real, y'all. It's just
+[73:56] real. Hey, what did he do? He staggered
+[74:00] not at the promise of God through
+[74:01] unbelief, but was strong in faith,
+[74:04] giving glory to God. I hope I didn't
+[74:05] offend anybody, but it's just being
+[74:07] real. But
+[74:09] you know, um,
+[74:14] [clears throat] move on.
+[74:16] [laughter]
+[74:16] >> You're so funny.
+[74:19] >> Um,
+[74:21] so that's what you do with your
+[74:22] spiritual walk. You can't be moved by
+[74:25] what you see. Even in the deadness of
+[74:27] Sarah's womb. Even the deadness of your
+[74:30] spiritual walk.
+[74:30] >> Somebody said, "It's the truth, Ruth." I
+[74:33] like that. I'm going to start using
+[74:34] that. It's the truth.
+[74:35] >> It's the truth, Ruth. Hey, it's the
+[74:37] same. He wasn't moved by what he sees.
+[74:39] He was staggered not at the promise of
+[74:41] God. He knew he was inadequate at that
+[74:44] time in his own ability to re to
+[74:47] receive. But God spoke to him and he
+[74:50] said, "Either you're going to walk this
+[74:52] way or you're not. Either you're a
+[74:54] believing believer, Abraham, or you're
+[74:56] not." And Abraham grabbed a hold of the
+[74:59] promise and said, "I'm not moved by what
+[75:00] I see. I'm not moved by what I feel. I'm
+[75:03] old. She's old. But God said, that's the
+[75:06] same way you do with your spiritual
+[75:07] walk. I don't feel adequate. God, he
+[75:11] called me. He chose me for such a time
+[75:13] as this. He He let me be born in this
+[75:16] time frame." And I know that he didn't
+[75:19] make a mistake. God doesn't make
+[75:21] mistakes. They say, "Well, my mama
+[75:23] didn't want me. She was going to have an
+[75:24] abortion. She didn't even want me. You
+[75:26] know, I was an unwanted child." God
+[75:28] doesn't make mistakes.
+[75:30] You're not a mistake. You're here. God
+[75:33] God, your mama had you and you're a
+[75:36] blessing to this earth and God has
+[75:38] called you and chose you for such a time
+[75:39] as this. Regardless if she she said,
+[75:42] "Well, I heard she didn't want me."
+[75:44] Well, my go my dad didn't want another
+[75:46] daughter. He wanted a son. And I feel
+[75:49] inadequate and I should have been here.
+[75:51] You know, my father didn't want me.
+[75:54] He wanted a boy instead of a girl. Or he
+[75:57] wanted a girl instead of a boy. But God
+[76:00] chose you and you are who you are. And
+[76:02] you're fearfully and wonderfully made.
+[76:04] There's no mistakes.
+[76:10] And there [snorts] I'm telling you all
+[76:11] it's time we get a hold of the promises
+[76:14] of God that he says I have a plan for
+[76:17] you and I love you and I died for you
+[76:21] individually
+[76:22] and I'm Abraham stagger not at the
+[76:24] promise of God and we need to stagger
+[76:26] not at the promise of God. What did he
+[76:29] promise you in your heart?
+[76:32] The desires of your heart. What's in
+[76:34] your heart and the biggest desires? I
+[76:36] want a relationship with my father.
+[76:42] If you're feeling inadequate, we we a
+[76:45] good thing [snorts] would be to look at
+[76:47] the scriptures that he said about you
+[76:49] and claim it because your job is just to
+[76:51] receive it. Receive everything he said
+[76:53] for you and and say it over yourself.
+[76:56] You said that you knit me together in my
+[76:59] mother's womb. You said that I am called
+[77:04] this.
+[77:05] >> You know, all
+[77:05] >> you call me blessed.
+[77:06] >> You call me blessed.
+[77:07] >> You call me blessed. You call me
+[77:08] blessing. You call me blessed to you.
+[77:09] Deuteronomy 28, what I read earlier.
+[77:12] >> You call me these things. And I I am
+[77:15] adequate because you've called me to be
+[77:16] adequate even in this. And I don't know
+[77:18] why I got off on the adequate part, but
+[77:20] the Lord, that's the word the Lord gave
+[77:21] me a second ago. And he said a lot of
+[77:23] them feel that they're going through dry
+[77:25] seasons in their prayer life. They're
+[77:28] going dry seasons in their marriage.
+[77:29] They're going through a dry season in
+[77:31] with uh with their job. They're going
+[77:33] through dry seasons in a lot of areas of
+[77:35] their life right now. And in 2025,
+[77:37] there's a lot of you that are ready to
+[77:39] they're weary and welloing, ready to get
+[77:42] get let go of the rope.
+[77:44] >> I can do all things through Christ who
+[77:45] strengthens me.
+[77:48] >> Calling your life a success.
+[77:52] But you've got I heard this right then.
+[77:54] Get an inner image of it.
+[77:59] See yourself as God sees you.
+[78:03] Get an in. You have to have that picture
+[78:05] is even like I have these visions. I get
+[78:07] I I I I get the vision inside of me of
+[78:13] what he said I could be.
+[78:15] See it. See yourself successful.
+[78:19] You know, maybe maybe if you're a heavy
+[78:21] set guy like me, you get some buff dude
+[78:23] that has huge muscles and you look at
+[78:25] and say, "That's a vision. I can see
+[78:26] myself being that. I'm not going to be
+[78:29] the heavy guy that's always the, you
+[78:31] know, the fat kid in the playground that
+[78:33] nobody wants to pick. He's always the
+[78:34] last pick in the sports.
+[78:37] You know, you have that image of saying
+[78:40] that's who I am spiritually.
+[78:43] I'm going to be the muscle man
+[78:45] spiritually. I'm going to be the muscle
+[78:46] man physically. I'm going to take care
+[78:48] of my temple. But you can't if you don't
+[78:50] see it, you're not going to have an
+[78:51] inner image of it to achieve it.
+[78:55] That's why I drive around rich
+[78:56] neighborhoods.
+[78:58] People with multi-million dollar house,
+[79:00] they might have a $10 million house. I
+[79:01] look at and just park outside. They
+[79:02] probably think that guy's stalking me.
+[79:04] But no, I'm trying to get an image of
+[79:06] it. If they are the world and I'm God's
+[79:10] kid, how much more could I have that
+[79:13] than them? And they're heathen. They
+[79:15] don't know him. That's they have my
+[79:18] harvest. They have my blessing, you
+[79:20] know. And the wealth of the sinner is
+[79:22] laid up for the righteous. So I drive
+[79:24] around getting that image inside of me
+[79:26] instead of always thinking poor. If
+[79:28] you're always around poverty, you can't
+[79:29] see it. See what uh blessing.
+[79:33] If you're always thinking poor, it's
+[79:35] going to stay in you.
+[79:38] You got to change the image of it in
+[79:40] your mind about from scripture to seeing
+[79:43] blessing, thinking blessing. Change your
+[79:46] thinking. If you're always thinking
+[79:47] obese, the Lord always told me, Brandon,
+[79:50] as a man thinkketh in his heart, so is
+[79:52] he. That's scripture.
+[79:55] If I see myself as spiritually
+[79:58] inadequate, as a man thinkketh in his
+[80:00] heart, so is he.
+[80:03] Same with poverty, same with blessing on
+[80:06] on eating or whatever. I always see
+[80:09] myself as obese. You always have it. As
+[80:11] a man thinkketh in his heart, so is he.
+[80:13] Out of the abundance of the heart, your
+[80:15] mouth speaks.
+[80:16] I am fit. I am healthy. I will live long
+[80:20] and finish strong. I will not have these
+[80:23] weight issues anymore that I deal with
+[80:25] obesity and I deal with uh eating
+[80:28] disorder of thinking, well, eating for
+[80:31] comfort, eating for uh instead of eating
+[80:34] for fuel, eating for comfort. Well, I'm
+[80:36] going to change that. You know, but if
+[80:39] you keep thinking that for people who
+[80:40] don't deal with that, you don't know
+[80:42] until you have an eating disorder and
+[80:44] you go, "Man, this is something that I'm
+[80:46] calling those things to be not as they
+[80:47] are. I don't want to deal with this. I
+[80:49] break this generational curse off of my
+[80:52] life. My mom was fat. Her mom was fat.
+[80:55] Her dad was fat. No, I don't have that.
+[80:59] My kids won't deal with that.
+[81:03] It stops with me. Poverty stops with
+[81:06] me." Well, my mom and dad were poor.
+[81:08] Their mom and dad were poor. Everybody
+[81:10] is poor. You know, my great granny is
+[81:12] 106 years old dealt with poverty. I No.
+[81:16] Poverty stops with me.
+[81:21] You've got to get that inside of you. I
+[81:24] am going to walk with the king. [snorts]
+[81:28] So, going back to it, I will have a
+[81:31] spiritual walk that I am. I feel
+[81:33] adequate. God's called me. And dryness
+[81:36] is only for a season. I'm not gonna be
+[81:38] dry. Tomorrow's another day. You got to
+[81:40] keep going. Does that help y'all? I
+[81:44] mean, this is just what's coming out of
+[81:45] my spirit now. And I'm thankful for
+[81:47] because it I didn't know where to go.
+[81:48] And now all of a sudden, this is
+[81:50] falling. So, I'm like, "Okay, Holy
+[81:51] Ghost, thank you for helping me."
+[81:53] [snorts]
+[81:54] [laughter] It's just real, y'all. And
+[81:56] I'm telling y'all, this is what you do.
+[82:00] The Lord said, "Lead by example earlier,
+[82:03] and I was like, lead by example? Well, I
+[82:04] don't know where I'm going. What do you
+[82:06] want me to do? [laughter]
+[82:12] Okay.
+[82:15] Hallelujah. So, Father, we just keep
+[82:17] puten left. [laughter]
+[82:21] I sure love you, Braden. Braden knows.
+[82:25] He gets it because he's raised he's
+[82:27] raised by us.
+[82:31] But [snorts] father, we just thank you
+[82:33] Lord.
+[82:35] We just thank you, Father, for your hand
+[82:37] on us. Now, now, Father, after I got
+[82:40] through that, is there anything you want
+[82:41] to show us?
+[82:45] Lord, I just felt like that was
+[82:47] something. So, whenever I got there to
+[82:49] that, Lord, I I really felt like it was
+[82:52] a lot. It was just what you wanted to
+[82:53] say tonight about that. But Lord, I
+[82:56] still feel an urgency to pray for
+[82:58] things.
+[83:00] Is there anything coming for the nations
+[83:02] tonight that you want me to to relay to
+[83:04] the people?
+[83:12] [snorts]
+[83:26] Cring CR
+[83:42] Dave. The Dave.
+[83:50] Sing them
+[83:58] daily move
+~~~
+
+<a id="section-08"></a>
+## 08. 84:00–95:59 · 教会、复兴与信仰、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[84:08] THEUS
+[84:15] daily beast. Daily beast.
+[84:25] Very interesting. See [laughter]
+[84:29] Fore move
+[85:04] Oh, he said, "Oh, the most HIGH
+[85:17] Bad day.
+[85:22] It's still dying. I'm telling you. I I'm
+[85:24] hitting that wall. He said about feeling
+[85:27] inadequate.
+[85:31] It's all about the people feeling that
+[85:34] they don't have what it takes
+[85:37] to finish the race.
+[85:40] They're adequate.
+[85:43] And it's such a wound in people.
+[85:48] I I [snorts] got up to the wall again
+[85:50] and I saw it. And [clears throat]
+[85:52] there's a there's a deep sorrow in
+[85:55] people. A deep sorrow of feeling the
+[85:59] inadequacy.
+[86:04] I don't have what it takes. I hear him
+[86:06] in their thoughts. I don't have what it
+[86:08] takes.
+[86:11] Where's God for me?
+[86:16] Where is God for me?
+[86:20] You hear me?
+[86:22] >> He says, "Where is God for me?
+[86:26] [snorts]
+[86:30] I feel so abandoned. I feel so alone.
+[86:42] It's very interesting coming up to that
+[86:44] wall. You feel it. You can feel it. You
+[86:46] can hear them. There's so many people
+[86:49] saying that inside of their hearts.
+[86:51] Where is God for me? I feel so
+[86:53] inadequate.
+[86:54] My prayer language isn't enough.
+[86:58] I don't pray in tongues good enough. I
+[87:00] don't hear God good enough.
+[87:05] I don't hear God good enough. I don't
+[87:08] pray in tongues good enough. I don't
+[87:10] feel and I feel so inadequate for where
+[87:14] I want to be.
+[87:26] How come I don't hear God? How come I
+[87:28] don't hear God? They say
+[87:31] I don't feel like I hear God.
+[87:37] How do I know if it is God?
+[87:40] When he is talking to me,
+[87:43] I feel so alone. Don't you see?
+[87:48] How do I know when it's God talking to
+[87:51] me? I feel so alone. Don't you see?
+[87:56] I feel so inadequate tonight.
+[88:00] I feel so alone.
+[88:05] Nobody understands me.
+[88:09] These are the things I'm hearing.
+[88:15] Does he really truly care about me?
+[88:25] I'm at the end of my rope. Don't you
+[88:27] see?
+[88:31] Why have you abandoned me?
+[88:44] God probably cares, but he doesn't care
+[88:46] about me.
+[88:51] See how the enemy would try to build all
+[88:53] this around you? There's so much of that
+[88:56] I'm hearing. I'm hearing it.
+[88:59] And there's lies from the devil. He
+[89:01] feeds those lies because it goes
+[89:04] strictly against his word.
+[89:08] But because you you're moved by what you
+[89:11] see. You're mo you're allowing your your
+[89:13] your flesh to dominate you and your
+[89:15] thoughts.
+[89:17] It's why I keep telling you, I'm not
+[89:19] moved by what I see. I'm not moved by
+[89:21] what I feel. I'm moved by what the word
+[89:23] of God says. My father loves me. First
+[89:29] John uh uh 1 John 4:7 and 8. Three uh
+[89:34] first John, let us love.
+[89:35] >> Let us love one another. For love is of
+[89:37] God.
+[89:38] >> And everyone that loveth is born of God
+[89:40] and knoweth God. But he that loveth not
+[89:41] God knoweth not God because God is love.
+[89:45] Beloved, let us love one another.
+[89:47] >> First John 4:7 and 8. I don't think you
+[89:49] probably heard that.
+[89:51] >> Oh.
+[89:54] But for
+[89:55] >> beloved, let us love one another. For
+[89:57] love is of God.
+[89:59] >> And everyone
+[90:00] >> and everyone that loveth know is born of
+[90:03] God and knoweth God. He that loveth not
+[90:06] knoweth not God for God is love.
+[90:08] Beloved, let us love one another. First
+[90:11] John 4:7 and 8.
+[90:12] >> Yep.
+[90:14] That's where it's at.
+[90:16] But you've got to know inside of you
+[90:18] that all those things that you're
+[90:21] hearing and what I'm hearing you saying
+[90:23] through the It's interesting. Okay. So,
+[90:26] in the vision that I just had, I saw it
+[90:30] looked like a whirlwind.
+[90:33] It was a big drain.
+[90:35] And each person
+[90:38] was like a YouTube screen.
+[90:41] You know all how you can scream screen
+[90:43] scream uh
+[90:45] scan the the the the the thumbnails and
+[90:49] you see all the different pictures but
+[90:51] there were literally thousands of your
+[90:54] faces
+[90:56] going in a whirlwind. It was a drain
+[90:58] before me and each one had a person
+[91:01] inside of the thing and everybody was
+[91:03] saying something all at once. And as
+[91:05] it's moving in this drain, as I'm
+[91:08] praying, I hear [snorts] you saying this
+[91:10] from your heart,
+[91:12] the things that I was repeating right
+[91:14] then. So I was hearing it and as that
+[91:16] would swing by, I could hear you getting
+[91:19] louder as it hit my ear and it moved
+[91:21] away and I could hear you for a split
+[91:24] second moving and you were moving by me
+[91:26] and you were going like this and you
+[91:28] were going down and it was going down
+[91:29] the drain. Your thoughts are going down
+[91:32] the drain. It's trash. Don't think it.
+[91:36] It's what you're thinking on you're
+[91:37] feeding on. What you what you meditate
+[91:39] on the most is what you'll become.
+[91:41] You've got to change your your thought
+[91:43] pattern. And I saw it turning before me.
+[91:48] And as I was turning, each one of you
+[91:51] was moving before me. And I could hear
+[91:52] your thoughts. I could hear what you
+[91:53] were saying inside of your heart. All
+[91:56] those things that I was repeating just a
+[91:58] second ago.
+[92:00] It was actually really neat. It was all
+[92:03] and but it was going down like a
+[92:05] tornado, like a drainto
+[92:17] many.
+[92:19] I know you say many many
+[92:52] There's one there's this lady there's
+[92:54] somebody that you live in these steps
+[92:56] going up to an apartment.
+[92:59] You live in an apartment complex
+[93:02] and you're walking up these steps.
+[93:04] There's actually it's actually it looks
+[93:05] kind of gray on your your your uh side
+[93:08] of your siding on your building.
+[93:12] And this this is a woman. You you live
+[93:14] on the second floor and this is you're
+[93:18] you're crying out for more. I see where
+[93:21] you live in the in as this thing's
+[93:22] moving around. You walked up the steps
+[93:25] and you live in an apartment and you
+[93:26] live on the right hand side. As you walk
+[93:29] up these steps, you live on the right
+[93:30] hand side.
+[93:32] >> [cough]
+[93:34] [clears throat]
+[93:34] >> I can see I can see your your steps. I
+[93:37] can see where you are. And you live
+[93:39] right when the steps end. You live in
+[93:40] that door right there. And you just walk
+[93:42] in there and there's a gray gray
+[93:44] building and there's a window right
+[93:46] here. I see you where you're living.
+[93:50] But that moving around and I could see
+[93:51] you and there and is that looked like
+[93:54] there was actually some snow at the
+[93:55] bottom of your steps
+[93:58] in the yard out here.
+[94:17] >> [sighs and gasps]
+[94:17] >> Oh Lord,
+[94:23] you given the you given the Lord an
+[94:26] ultimatum.
+[94:28] Either you fix this in me or I'm gonna
+[94:30] do something to myself.
+[94:33] Either you fix this in me
+[94:37] or I'm going to do something to myself.
+[94:40] That's what you say.
+[94:43] I I'm not going to live this anymore.
+[94:46] You say,
+[94:48] I'm giving you into this time frame to
+[94:50] fix this or I'm going to do this.
+[94:54] It's it's you you're crying out to the
+[94:58] father so much so that your heart is so
+[95:01] grieving. You're so empty.
+[95:05] You don't have you're you're you're
+[95:07] single.
+[95:08] You're single. You don't have a husband.
+[95:11] You don't have even a boyfriend.
+[95:16] And I'm tired of being alone.
+[95:19] I'm tired of being alone.
+[95:23] I hear you.
+[95:25] No one to even call on the phone.
+[95:30] I'm so tired of being alone.
+[95:35] No one to even call on the phone.
+[95:40] I'm so tired of being alone.
+[95:46] Oh,
+[95:50] I see it. ma'am, you're so hurt. But
+[95:54] Jesus loves you so much. So much so that
+[95:58] he would show me this right now.
+~~~
+
+<a id="section-09"></a>
+## 09. 96:00–107:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[96:01] He has [snorts] a plan for your life.
+[96:06] Come unto me all ye that are heavy laden
+[96:09] and I will give you rest
+[96:12] and I will give you rest.
+[96:15] as you're climbing those steps at night
+[96:16] by yourself and you go into that empty
+[96:19] room by yourself and you live in that
+[96:21] cold apartment.
+[96:24] You watch TV by yourself and you're all
+[96:27] alone all the time,
+[96:31] but you watch us
+[96:34] and you watch us on this YouTube and
+[96:37] Jesus sees you right where you are and
+[96:39] you're swinging in there.
+[96:53] I don't know what that white is. If
+[96:55] that's not snow, I don't know what that
+[96:56] white is down there at the bottom of
+[96:58] those steps.
+[97:02] [snorts]
+[97:07] It's dead grass for sure. I can see the
+[97:09] dead grass.
+[97:22] He wants to become so real to you. He
+[97:25] wants to There's so many of you. This
+[97:27] probably fits in a category of not maybe
+[97:30] of the apartment complex, but you're
+[97:32] saying the exact same thing she's
+[97:33] saying. I'm so alone. I'm so alone. I
+[97:38] have nobody.
+[97:40] And during this holiday season is even
+[97:42] harder on you. And you think, "Man, does
+[97:46] God care?" But I'm telling you, ladies
+[97:48] and gentlemen, God cares.
+[97:52] He cares about you being alone. He cares
+[97:54] about you feeling like you have nobody
+[97:56] to call on the phone.
+[97:59] Jesus cares about you.
+[98:06] Instead of saying if this doesn't
+[98:09] change, I'm ending it all. This is the
+[98:12] beginning of my new start.
+[98:16] As of tonight, this is my beginning of
+[98:19] my new start.
+[98:24] This is my beginning of a new start.
+[98:29] [snorts]
+[98:30] I have something to live for. I have
+[98:33] something to live for. [snorts] So much
+[98:35] more.
+[98:38] God has so much more in store.
+[98:43] That's beautiful. [snorts]
+[99:04] The sorrow. The sorrow.
+[99:15] Fore
+[99:37] launder.
+[99:50] Thank you Lord for all that you have in
+[99:53] store that 2026 we will soar. Father I
+[99:57] thank you Lord the greater the days
+[99:59] ahead. Greater the days ahead. Mo the
+[100:04] more the more you have for us is oh
+[100:07] father I THANK YOU LORD. OH OUR FATHER I
+[100:10] THANK YOU LORD.
+[100:20] DAYS. The days, the days, the days.
+[100:36] Stir, stir, stir inside yourself. STIR,
+[100:42] STIR. WE CALL YOU STIR INSIDE YOURSELF.
+[100:45] Memo in your spirit, MAN. WE CALL IT
+[100:48] STIRRED. STIRRED. STIRRED IN THE NAME OF
+[100:51] JESUS. OH, FATHER, WE thank you, Lord,
+[100:54] FOR FRESH FIRE. FRESH FIRE. FRESH FIRE
+[100:57] OF THE HOLY GHOST. FRESH FIRE. FRESH
+[101:00] FIRE. FRESH FIRE OF THE HOLY GHOST. THE
+[101:04] FRESH FIRE. THE FRESH FIRE. OH.
+[101:19] ROAD TO TOE. ROTO TOE
+[101:35] SHOW.
+[101:37] NO, NO, NO.
+[101:49] ROUND
+[101:58] TESTING. Testing Bin.
+[102:02] You must lean in. Lean in is testing
+[102:05] them. Testing them. Testing them.
+[102:08] Leaning in. Leaning in.
+[102:18] Ro.
+[102:19] He said HE
+[102:40] thank you Lord for the Holy Ghost. We
+[102:42] thank you for the Holy Spirit, Lord,
+[102:44] that you move and you move inside of
+[102:47] these these individuals tonight. You
+[102:49] stir inside of them. YOU STIR INSIDE of
+[102:51] them.
+[103:14] You [snorts] have anything, hun?
+[103:16] >> Uh, I find that it's harder when my word
+[103:19] level's low.
+[103:21] Word word level low is uh if you get
+[103:24] busy. Sorry.
+[103:28] >> It's times whenever I get busy is when
+[103:30] it's harder. But yeah, that feeling of
+[103:32] inadequacy I think is a lot to do with
+[103:35] how uh I was raised a lot because um it
+[103:40] came in is like it tried to make
+[103:42] something make me feel inadequate
+[103:44] because I was abused as a child and so
+[103:46] it tried to I I had I the Lord has
+[103:50] brought me so far from where I from
+[103:52] where I was. It's like I I feel like as
+[103:57] I get in the word more it's it's helped
+[103:59] me a lot. But yeah, it's just staying
+[104:02] it's it's not not allowing the thoughts.
+[104:05] It's just fighting it fighting the good
+[104:07] fight of faith and it's uh days whenever
+[104:10] it's like that I get in the get I I put
+[104:14] like I put Katherine Coleman on or I I
+[104:16] get I listen to it and it's it helps.
+[104:19] But uh it's like you're getting punched
+[104:22] and when you're getting punched you
+[104:23] don't succumb to it. It's like you have
+[104:26] to fight fight fight. you get
+[104:28] >> even with what you're just saying right
+[104:30] then about being abused. People don't
+[104:33] know your story.
+[104:34] >> A lot of people don't know your
+[104:36] childhood and and being ra You sometimes
+[104:39] how many months in a car without food?
+[104:42] >> Yeah. Well, I Okay. So, you want me to
+[104:45] tell the story?
+[104:45] >> You can say some of it.
+[104:46] >> Okay. They need a lot of people. You
+[104:48] don't ever talk. So, that's what I'm
+[104:50] saying. There's a lot of people don't
+[104:51] know your story
+[104:52] >> about you and how you were raised up.
+[104:55] Your dad was a preacher. Yes. My my I
+[104:58] was raised Baptist. No,
+[105:00] >> no, not B. Sorry, [laughter]
+[105:03] >> he was he was not Baptist. Sorry. I'm
+[105:05] >> Assemblies of God.
+[105:06] >> Assemblies of God. Sorry. He was
+[105:08] Assemblies of God. Pastor, [laughter]
+[105:10] >> that's a lot different.
+[105:11] >> Yeah, we were we were too we were we
+[105:14] were too Pentecostal for that. But yeah,
+[105:16] um it's late, but yeah, that is what he
+[105:19] >> I'm not laughing at you. I just give you
+[105:22] say Baptist. I was like,
+[105:23] >> I messed it up. You're ag
+[105:26] >> Assemblies of God. Yes. Assemblies of
+[105:28] God, pastor. Well, they got a divorce.
+[105:30] My parents got a divorce when I was 11,
+[105:32] but um he
+[105:35] uh had he was abused a lot as a kid,
+[105:37] too. So, he brought that for some It
+[105:41] just came in because my they wanted a
+[105:44] boy and they had me and they didn't. My
+[105:47] mom told me that she wished that I was a
+[105:49] boy because that was what they wanted.
+[105:51] And so it just it just I knew that from
+[105:54] a small child. And then he was abusive.
+[105:57] My dad was abusive to me. And whenever I
+[105:59] I I was in church. Um I got pinched if I
+[106:03] moved. If I said the wrong thing, I
+[106:05] would get I got spankings all the time,
+[106:08] more than any of my other siblings. And
+[106:10] it just uh a lot of hard stuff like I
+[106:13] don't really like talking about but um
+[106:16] you know like we lived in a car for a
+[106:18] long time because my then my dad would
+[106:21] just disappear uh like he he got uh let
+[106:24] go from his pastoral job
+[106:29] um at the Assemblies of God and it
+[106:31] really derailed him a lot and and so it
+[106:35] kind of affected how he acted even more
+[106:38] so he wouldn't didn't take any other
+[106:40] job. So, he was at home a lot with me
+[106:42] and my mom was gone a lot. So, I was
+[106:45] abused probably for sure the most out of
+[106:49] my siblings and I and um physically and
+[106:52] verbally and um
+[106:54] >> never sexually though.
+[106:55] >> No, not sexually. Thank Thank the Lord
+[106:57] for that. I think he was he was
+[106:58] definitely praying for me. But um so
+[107:02] definitely keep praying for your if
+[107:03] you're not married yet, pray for your um
+[107:06] your spouse, the one that you're going
+[107:07] to meet, that the one that God has for
+[107:09] you. Pray for them because they'll you
+[107:11] don't realize that they might really
+[107:12] need that
+[107:14] because I feel like that really helped
+[107:16] me. But yeah, the Lord kept me through
+[107:17] all of that. Um we would have so many
+[107:21] good miracles in the middle of that.
+[107:22] like we as kids uh we were homeschooled
+[107:26] a lot but my dad took us away from
+[107:29] friends and family and so we were we
+[107:31] weren't around anybody and so when we
+[107:33] went to places I would get in trouble
+[107:35] for saying the wrong thing or doing the
+[107:37] wrong thing cuz I was a pastor's kid and
+[107:40] so I would get in trouble behind the
+[107:42] scenes more than anything and so I it
+[107:45] affected the way I acted it affected the
+[107:48] way I talked it affected
+[107:50] >> it affected everything And when you are
+[107:52] so when you're a child and you're in
+[107:55] that that delicate
+[107:57] growing stage and you uh are dealing
+~~~
+
+<a id="section-10"></a>
+## 10. 108:00–119:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[108:00] with so much of that, I didn't realize
+[108:02] how much it affected me. Um
+[108:05] but but that was just a crew. I think
+[108:07] that's what a lot of you probably have
+[108:09] dealt with. I mean, I know I'm not the
+[108:10] only one. There's a lot of people who
+[108:13] have dealt with childhood abuse, whether
+[108:15] it's verbally or
+[108:17] >> uh like physically, sexually. a lot of
+[108:20] people. I know I'm not alone. I know
+[108:22] there's people that have had it way
+[108:24] worse than me. So, uh but yeah, we lived
+[108:27] in a car. We ate ketchup packets um for
+[108:31] a while and um a lot of different
+[108:35] things. So, my dad would disappear. He
+[108:38] >> bath in the truck stop with a sink.
+[108:40] >> We went to the to the truck stop and we
+[108:42] would take baths in the sink. Um we
+[108:44] lived in the sometimes we would go to a
+[108:47] church and my dad would just kind of
+[108:49] travel there and then we would um he
+[108:51] would get in with the people with the
+[108:53] pastors and they would like him and then
+[108:55] he would get like the keys or something
+[108:57] and he wouldn't tell them but we lived
+[108:58] in the church. We lived in the back of
+[109:00] the church. [snorts] I remember like
+[109:02] they would all leave and he was like
+[109:03] pretending to lock up and then we would
+[109:05] we hid our stuff under a table at the
+[109:08] church in the back and we would pull the
+[109:09] stuff out like a little blankets and
+[109:11] stuff and we slept there and so years
+[109:14] like that and then he would he would
+[109:16] just disappear and so I remember so many
+[109:19] birthdays where he wasn't there and my
+[109:21] mom was you know trying to work a lot so
+[109:24] she was really just absent a lot so we I
+[109:26] I kind of had times when I had to fend
+[109:29] for myself and um
+[109:32] uh just a lot of traumatizing little
+[109:35] things like that, you know, through my
+[109:38] whole entire childhood. And um
+[109:42] so it really had it really affected me
+[109:44] in ways that I still feel like the
+[109:46] Lord's bringing me up. So today, you
+[109:50] know, all that to say, I don't like to
+[109:52] focus on all that, but just because
+[109:53] y'all haven't heard that story all my I
+[109:56] mean, that's just the cliff's note. She
+[109:57] that's the cliff notes but it's it's but
+[110:00] a lot of her
+[110:02] >> stuff that she deals with is from re the
+[110:05] rejection
+[110:06] >> rejection is is
+[110:08] >> and you're still getting through it.
+[110:09] >> Yes. It's in layers. It feels like onion
+[110:12] like like an onion. So I will I I will
+[110:15] go oh I I forgive him. I forgive him.
+[110:18] And none of my siblings talk to my dad
+[110:20] but I I will I will talk to him. I
+[110:22] talked to him on the phone, but then
+[110:23] he'll just change his phone number and I
+[110:26] don't know, I can't get a hold of him
+[110:27] still, but I forgave him and that took
+[110:29] me so it took it took so much work with
+[110:31] the Lord with the Holy Spirit through
+[110:33] that for me to even be being able to get
+[110:34] there. But um it's just I it's layers.
+[110:39] So it's not it's not something that
+[110:41] happens overnight. It's just it's it's
+[110:43] not like you can just say, "Hey, it's
+[110:45] I'm not I'm not like that." you have
+[110:47] it's it's being in partnership with the
+[110:49] Holy Spirit on a day-to-day basis. And I
+[110:52] rely so much on him and he'll say uh
+[110:55] just taking a lot of time to listen and
+[110:58] not talk so much because I know a lot of
+[111:02] times in the past whenever I would
+[111:04] whenever you feel like you're just
+[111:05] pouring your guts out to God and you're
+[111:07] just talking and talking and talking and
+[111:09] it feels like you uh I because I relied
+[111:13] so much as a kid on making good grades
+[111:15] because that's how I got my parents
+[111:17] attention and so you it taught me to be
+[111:20] more sense ruled.
+[111:21] So thinking like using intelligence
+[111:24] instead of because I I saw on the spirit
+[111:27] as a kid and my dad one time freaked out
+[111:30] on me because he said well I said I was
+[111:33] talking to an angel and he was like well
+[111:35] did you what was it saying and don't
+[111:37] ever do that again and so it made me
+[111:39] question a lot of things. So all of
+[111:42] those things combined has and having a
+[111:44] bad relationship with my dad really has
+[111:46] really affected how I have how I have
+[111:48] had to work at having a relationship
+[111:50] with God. And I know, like I said,
+[111:52] there's a lot of people out here that
+[111:54] have had bad relationship with with
+[111:55] parents or not an absent dad, um,
+[111:59] orphans and all of that. When you don't
+[112:02] have a good father, when you or one
+[112:04] that's there or one that's, you know,
+[112:07] you know, you're able to talk to, it
+[112:10] does affect your relationship with God.
+[112:12] And it affects how you can come to him
+[112:14] because you because when your earthly
+[112:16] father you he's gone or he's never there
+[112:19] or you he says I'll come to your
+[112:21] birthday but then he never comes. You
+[112:23] have that expectation
+[112:26] especially when you're a child that it
+[112:28] affects you and how you view your
+[112:30] relationship with God. And then after
+[112:33] Megan got diagnosed and um all of that
+[112:37] it really just m it takes away uh that
+[112:40] that trust. It tries to affect that
+[112:43] trust that you've trust him. Lord, I
+[112:45] trust you when you and so I had to just
+[112:48] come to the point where I was like, God,
+[112:50] I don't feel like I can I completely
+[112:52] trust you. I want to I need you to help
+[112:55] me to get there. And so doing that and
+[112:58] just pouring my guts out to him every
+[113:00] day and he'll say, "Diana, do this."
+[113:02] into these little things. But uh it's
+[113:05] it's a lot of times when we when you're
+[113:09] sin ruled, you think I have to if it
+[113:12] doesn't happen this way like you feel
+[113:15] like I have to do this to make God
+[113:17] accept me because that's the way my
+[113:18] parents were. My earthly parents, I had
+[113:20] to make good grades for them to accept
+[113:22] me. So you feel like you have to do this
+[113:24] much prayer, this much time,
+[113:28] >> works,
+[113:28] >> this much work to get there. And then if
+[113:31] I do this, then he looks at me. If I
+[113:33] read five hours, I mean, if I fast for
+[113:35] five hours a day, if I if I fast for a
+[113:39] month or, you know, however long it is,
+[113:41] if I read x amount of time of
+[113:44] >> to the point where you you you it
+[113:46] becomes where I think a lot of
+[113:48] believers, you get to that point where
+[113:51] you feel like you have to earn God's
+[113:53] favor,
+[113:54] >> right?
+[113:55] >> You have to earn God's anointing. You
+[113:58] have to earn God's uh uh hand on your
+[114:01] life. You But it's by grace. And that's
+[114:03] why I try to tell her all the time. You
+[114:06] don't have to do anything for God to
+[114:07] love you. He already loves you.
+[114:09] >> He already died for you. And that's why
+[114:10] I tell her all the time, no matter how
+[114:12] much you went through high school and
+[114:14] college with a 4.0 know and graduated
+[114:18] sumakum and you were brilliant. It was
+[114:21] always that way of her way of having
+[114:24] people approve of her of being the best
+[114:27] that she was because she was the top of
+[114:29] her class.
+[114:30] >> But and I've told her there's nothing
+[114:32] you can do
+[114:34] >> to get God to love you more than he
+[114:36] already does.
+[114:37] >> And that's what I felt like I had to do
+[114:39] in order to gain their to gain their
+[114:41] attention. To gain their attention. I
+[114:43] felt like I had to do that. So I it
+[114:45] taught me to be more sin ruled than
+[114:48] faith ruled to be more well not like
+[114:50] that but to be more uh works to do more
+[114:54] works and that's what that's what comes
+[114:56] with a lot with with the relationship of
+[114:58] the lord thinking that there's a lot of
+[115:00] believers think well if I fast five hour
+[115:03] five hours what you said five five days
+[115:05] a week or whatever um or or read 20
+[115:09] chapters a week in my Bible maybe I'll
+[115:12] have a little bit of more anointing on
+[115:14] my life to do something and maybe that
+[115:16] but it's all by grace.
+[115:19] >> There's nothing you can do to get God to
+[115:21] love you anymore.
+[115:22] >> He already loves you unconditionally.
+[115:24] It's the how we yield to him.
+[115:27] >> Father, I I give more to you. That's
+[115:30] what I tell her all the time feeling
+[115:32] inadequate that that abuse as a father
+[115:35] thinking well and then when Megan got
+[115:36] diagnosed it derailed Diana. I I'm gonna
+[115:39] tell you all
+[115:41] she at that time a what was it 20 years
+[115:45] ago.
+[115:48] I I I didn't think she was going to come
+[115:50] out of it.
+[115:52] At that time when I was in marriage, it
+[115:53] it was the darkest I've ever seen her
+[115:58] of any human. It was it was awful. After
+[116:01] her dad and all that, she I thought,
+[116:03] man, we're our life starting out. We got
+[116:05] married. Everything's great. And when
+[116:07] Megan got diagnosed with autism and they
+[116:09] told her that she would never come out
+[116:11] of a five-year-old level that for the
+[116:13] rest of our life she'll be probably 18
+[116:16] months.
+[116:17] >> Mhm.
+[116:17] >> 18 month mentally. And it was that was
+[116:21] the darkest hour for me. I just thought
+[116:24] there's no way our marriage is going to
+[116:26] make this. That's what I thought in the
+[116:28] natural because of how much depression
+[116:30] she overcame
+[116:32] >> and then pulling oursel out of this and
+[116:34] getting over it and being able to say,
+[116:36] "God, I trust you even through this
+[116:38] storm."
+[116:39] >> And he and and and that whole thing
+[116:41] started another spiral of of saying more
+[116:44] of blaming because when when I was a
+[116:48] kid, it was who did this? who you you're
+[116:51] wrong. You get a spank and whoever did
+[116:52] this wrong is, you know, and I I because
+[116:55] of the abuse and stuff, I I had a big
+[116:58] problem with who's to blame. Whose fault
+[117:00] is it? So, I blamed myself because I'm
+[117:02] the mother. The buck stops here. It's my
+[117:04] fault. I But I I couldn't find out what
+[117:06] I did wrong. I did everything I was
+[117:08] supposed to do.
+[117:09] >> Is it's my fault. Megan's this way.
+[117:12] >> I did everything I was supposed to do. I
+[117:14] never drank. I never did any any drugs.
+[117:17] I didn't do anything wrong the whole
+[117:19] time. No sin. No sin at all. So it but I
+[117:22] thought, well, maybe I maybe I should
+[117:24] have cleaned up my diet better. Maybe I
+[117:26] ate she, you know, it was little things,
+[117:28] stupid things, but those are the things
+[117:30] that kind of tried to wedge in there
+[117:33] that this that the enemy tries to bring
+[117:35] to to
+[117:37] derail you. And so that's just what I
+[117:39] went through. Mhm.
+[117:41] >> And I think that's why I try even with
+[117:44] the inadequate of even doing this
+[117:46] channel, you it tries to wear wear on
+[117:49] even you still and me to feel like what
+[117:51] what has God called us to do? Do we feel
+[117:53] that we can talk in front of millions of
+[117:55] people and it tries to that that that
+[117:57] self-doubt
+[117:59] >> of what God's called you to do? And
+[118:00] that's why I try to be real with y'all.
+[118:02] It's it's a lot of pressure. And and
+[118:04] that's why I say I'm not here to
+[118:06] perform.
+[118:06] >> Yeah.
+[118:07] >> I'm just do I'm just being me. And if I
+[118:09] wasn't praying on front of you all, I'm
+[118:11] going to be praying praying all the time
+[118:13] anyway. That's what we do. So, I just
+[118:14] try to make it public and I try to
+[118:16] really cut out all the spiritual uh
+[118:20] >> uh celebrity performance, the major TV
+[118:24] networks, the the the people that have
+[118:26] huge ministry. I don't want I don't try
+[118:28] to be the stereotype of this. I just go
+[118:31] I'm just normal. I'm Brandon Diana.
+[118:33] We're here. We got issues. We're all
+[118:35] working through this, but we're here to
+[118:36] pray and I and I see things and the Lord
+[118:38] shows me things
+[118:39] >> and I just try to make it as real as I
+[118:41] can with y'all.
+[118:42] >> And that's why I try to, you know, go
+[118:44] ahead.
+[118:45] >> Yeah. Well, it's just just that
+[118:46] inadequacy, that feeling of when you're
+[118:49] feeling like you're not good enough and
+[118:51] whenever it gets to the to to where you
+[118:54] when you hit the bottom and you say
+[118:56] that, "I can't do this." And then he
+[118:58] says, "Thank you. You finally admitted
+[119:00] you can't do this."
+[119:01] >> That's exactly what he said.
+[119:02] >> And that's and that's what happened. I
+[119:04] said, "I can't do this. I can't I can't
+[119:06] be enough. I'm not enough." And he said,
+[119:09] "You're right. You're not enough, Diana.
+[119:11] You need me. It's not because you're
+[119:14] good. It's because I'm good." And so
+[119:17] getting to that place and realizing that
+[119:20] that I'm not the victim. It's not about
+[119:23] me. stopping the focusing on me and
+[119:26] focusing on what God can do through me
+[119:29] and allowing that hurt to go away and
+[119:33] just saying no I refuse to be the
+[119:34] victim. I refuse to I am not it's not
+[119:38] what what I have been through doesn't
+[119:40] define me. It's what God can use and
+[119:42] what I can yield to him and he can flow
+[119:44] through me and allowing me to be the
+[119:47] best at what he's called me to be in
+[119:48] this season of what I of and him pulling
+[119:51] back those layers of me homeschooling my
+[119:53] kids and and saying this is you're doing
+[119:56] this and and seeing my kids flourish and
+[119:58] grow and seeing and the joy and and that
+~~~
+
+<a id="section-11"></a>
+## 11. 120:00–131:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[120:03] and just saying you know what [snorts]
+[120:07] it's it's not about
+[120:08] >> it's not it's not it's not this is it
+[120:10] It's just part of the chapter. It's just
+[120:12] part of the book.
+[120:13] >> It's not defining us.
+[120:15] >> Mhm. It's focusing more on others
+[120:17] because it tries to get when because
+[120:19] when you're focused so much on yourself,
+[120:22] it tries to wedge a a layer of pride and
+[120:26] you don't even realize it because that
+[120:29] that that woe is mentality
+[120:32] is also a form. It try it's a sneaky way
+[120:35] that the enemy tries to get in and and
+[120:37] build pride and and so that is what uh
+[120:42] you sorry
+[120:43] >> I can't see your eyes very well.
+[120:44] >> I don't have makeup on. It's late at
+[120:45] night but it's trying to do uh it
+[120:49] >> I don't want about no makeup. [laughter]
+[120:54] >> Come on cowgirl. I can't see them
+[120:57] beautiful eyes. I'm trying to see you. I
+[120:58] I don't care if you don't have no makeup
+[121:00] on but and they don't. Maybe I don't
+[121:03] care. Whatever they think, whatever. But
+[121:05] I uh I um I I feel like people need to
+[121:08] hear more about your story.
+[121:10] >> I feel like people need to know more
+[121:11] about you. I know I talk a lot,
+[121:13] >> but they never know. You're always the
+[121:15] quiet one in the corner, but there's so
+[121:17] much depth to you. And I feel like
+[121:19] you're you're a gift
+[121:20] >> to the to to the people need to know
+[121:23] that you've been through hell
+[121:26] >> and you and you've not and you and
+[121:28] you've not been burned. You you have
+[121:29] smoke on. You smoke a little for smoke,
+[121:32] but you still marching with me and we're
+[121:34] still going in.
+[121:34] >> The Lord kept me. It's not It's the only
+[121:37] reason I'm still here.
+[121:38] >> Mhm.
+[121:38] >> Truly.
+[121:39] >> Yes.
+[121:40] >> Mhm.
+[121:41] >> Because we pray
+[121:42] >> and and it's been and and I believe it's
+[121:44] the relationship that you've developed
+[121:46] feeling that and and they need to hear
+[121:49] hear that even
+[121:51] at the most of what we're we go through,
+[121:53] we still have our stuff we're walking
+[121:55] through. You still have your stuff
+[121:56] you're walking through telling telling
+[121:57] we felt the inadequacy. And I thought it
+[121:59] was interesting because it went along
+[122:01] some of the conversations we've had.
+[122:02] >> It doesn't go away. It's like you have
+[122:04] to resist it. Resist the devil and he
+[122:05] will flee. So if he's knows your
+[122:08] weakness and knows your history, he
+[122:09] knows your past and he'll try to sneak
+[122:11] in and you'll feel great and
+[122:12] everything's great and the Lord's you're
+[122:14] working through this and you feel like
+[122:15] you've made so much progress and then he
+[122:17] just comes right in that one day and
+[122:19] tries to knock you down and you say,
+[122:20] "No, I having done all to stand stand
+[122:22] there for." and you get back up and you
+[122:25] fight the good fight of faith and it's
+[122:27] just keeping on going and not letting
+[122:29] that derail you cuz we are soldiers for
+[122:31] Christ. We're marching on. We're doing
+[122:33] this. We've got to do this for the
+[122:34] kingdom. We have jobs. We have a job to
+[122:36] do. You have a job to do. No matter how
+[122:39] seemingly insignificant you may feel
+[122:40] that it is if whether even if it's just
+[122:43] raising your children, you you're you're
+[122:45] making much you're very effective in
+[122:48] just raising your children, right? That
+[122:50] is one of the most important jobs uh you
+[122:53] can do and being a good spouse because
+[122:55] we are as women wives we are called to
+[122:58] be the helpmate. We're he made us to be
+[123:01] a helpmate to support our our husbands
+[123:03] and to uplift them and pray for them and
+[123:06] um ex you know extol them and say you
+[123:09] know support them and everything. So uh
+[123:11] I think a lot of times even with women
+[123:14] it's kind of got out of control with the
+[123:16] whole uh girl power hear me roar thing.
+[123:20] It's like getting back to the basics of
+[123:22] what we're we're we're here to raise our
+[123:24] families and be be that be that support
+[123:27] and let him use us in the way that he
+[123:30] wants to use us. Not what we think we
+[123:32] should do. It's what he wants us to do
+[123:34] being his hands, being his feet, being a
+[123:37] vessel.
+[123:37] >> And I totally support you doing
+[123:39] anything.
+[123:39] >> Yeah.
+[123:40] >> I'm never that husband go, you need to
+[123:42] be a submissive wife. I've never I've
+[123:43] always said come out of that box, right?
+[123:46] There's so much you can offer because
+[123:48] she counsels me all the time and helps
+[123:50] me get through this and she has so much
+[123:52] wisdom inside of her that even even when
+[123:55] she's doing this, this is nothing
+[123:57] compared to what I hear all the time.
+[123:58] I'm she she really has helped me. But I
+[124:01] feel there's there's so many people that
+[124:04] um
+[124:06] need to hear it.
+[124:07] >> Yes. Well, it's it's
+[124:10] I I I just think that it's it's it's
+[124:14] going back to the basics of of the ABCs
+[124:19] of faith and everything or or even just
+[124:21] talking about how how it the leave not
+[124:24] the leave it to be verse because I don't
+[124:26] I don't cook but trying to be what
+[124:28] trying I don't I don't I am a terrible
+[124:31] cook and I again it's I grew up on
+[124:34] frozen food so I would throw a TV dinner
+[124:36] and that's how I lived. So I I've tried
+[124:40] to cook. I [snorts] can do the wheat
+[124:42] berry thing. I can and I taught Paisley.
+[124:44] I did okay. And then she took like she
+[124:47] it blew it blew wind in her sales and
+[124:50] she took off with it and she way better
+[124:53] than me.
+[124:53] >> Paisley can cook.
+[124:54] >> She's a godsend and in so many ways.
+[124:56] That's that's one of her many many
+[124:58] talents.
+[124:59] >> Is smarten.
+[125:01] All my kids are smart.
+[125:02] >> I don't expect her. I always say you're
+[125:04] you're you're the 80 and I don't
+[125:06] complain about the 20. I'm gonna tell
+[125:07] you this. We are grateful for the 80 and
+[125:10] we don't focus on 20. Cooking, who
+[125:12] cares? You you you're a good wife to me
+[125:15] and I don't care about how much cupcakes
+[125:17] you can make me. Let Paisley do it. I
+[125:19] said,
+[125:20] >> well,
+[125:22] but now I'm taking the weight off. But
+[125:23] what I was saying was just don't
+[125:25] underestimate wise how how how much
+[125:29] you're how effective you are when you
+[125:31] are supportive of your spouse because
+[125:34] >> oh honey you are you've been more than
+[125:36] supportive. I know, but I feel like it's
+[125:38] it's the small things, but it it's makes
+[125:41] such a big impact and when you're when
+[125:43] you're in unity with your spouse and
+[125:45] whenever you are when because God
+[125:47] created us to to out of his rib out of
+[125:51] out of the man's rib and we're supposed
+[125:53] to be walk side by side and that's not
+[125:56] one over the other, but you're working
+[125:58] as a team
+[125:59] >> a team
+[125:59] >> together. [clears throat]
+[126:00] And whenever you try when when you when
+[126:03] you try to shift the scales, it it gets
+[126:06] out of balance and we can get out of
+[126:07] whack. So it's lining up with
+[126:10] >> I see a lot of times where you see these
+[126:12] this women power uh dominant thing, you
+[126:15] know, like the feminist movement and all
+[126:17] that. It gets off whack.
+[126:19] >> Yes, it I understand what you're saying,
+[126:22] but I still feel that women have their
+[126:24] place in the body of Christ. I was
+[126:26] talking to the ones that feel that feel
+[126:28] they feel in No. And I get that, but I
+[126:30] want to tell you just encourage you.
+[126:32] >> I feel like you are more of a preacher
+[126:34] than me are you are than than I am. You
+[126:38] have you when you talk, Diana, the
+[126:40] anointing of the Holy Ghost flows
+[126:41] through you. And I and I will encourage
+[126:44] women. I don't understand all this.
+[126:45] >> If that came out wrong, I'm so sorry. I
+[126:47] didn't mean
+[126:47] >> No, no, no. I wasn't correcting you. I
+[126:49] was just trying to uplift you, baby, and
+[126:50] tell.
+[126:51] >> I listen to so many women pastors that
+[126:53] have helped me and women preachers. I
+[126:55] mean, I I'm not I'm just talking about
+[126:57] the ones that feel like the wives that
+[126:59] are out there that feel like, "Hey, I'm
+[127:02] not good enough."
+[127:02] >> It's it's the side by side, but it's not
+[127:04] it's I think a lot of times these men
+[127:07] get to the point where they say, "You're
+[127:08] to be seen and not heard kind of a
+[127:10] deal."
+[127:10] >> No. Yeah.
+[127:11] >> You're behind me. I'm the head of the
+[127:12] house. You're going to do what I tell
+[127:14] you to do and it's all spinal. That's
+[127:15] not what I'm saying. I'm talking about
+[127:17] that what you're talking about the
+[127:18] ribbon. You're walking side by side. But
+[127:20] even the letting God let you flow with
+[127:23] the Holy Ghost. Yeah,
+[127:26] >> that's why I would say what do you have
+[127:27] to say? I know you have something to
+[127:29] say.
+[127:30] >> You you can say it and I and that's why
+[127:31] I want you to that's why I was even
+[127:33] bringing you on here even that doing
+[127:35] this because even though what what the
+[127:37] Lord was showing me in this vision was
+[127:39] this was this was pulling you out of
+[127:41] that inadequacy of saying God has
+[127:45] something tonight through you to say to
+[127:47] these people of what you've been
+[127:49] through.
+[127:50] >> Oh yeah.
+[127:50] >> And I and I'm not trying to put you on
+[127:52] the spot. I'm just saying this is what I
+[127:54] was hearing in the spirit and just
+[127:55] pulling that out. Diana, there's more.
+[127:59] God has more for you to say. And I
+[128:01] probably could have done that privately,
+[128:03] but it's really weird because it's it's
+[128:04] live.
+[128:05] >> But it's just saying, hey, God has
+[128:08] something to say, [snorts]
+[128:10] you know,
+[128:11] >> and I really I believe it even walking
+[128:13] in the prophetic that there's more more
+[128:15] and more people that feeling that way. I
+[128:19] saw it. It's in a whirlwind. And and
+[128:21] tonight's the night that God wants you
+[128:22] to know that God He wants everybody to
+[128:25] come out. It's all hands on deck, ladies
+[128:27] and gentlemen. [snorts] He's putting in
+[128:28] his closers.
+[128:30] >> He's putting in his closers. And there's
+[128:32] not just women that feel inadequate.
+[128:34] There's a lot of men that feel
+[128:35] inadequate.
+[128:37] I told you I do. Some days I I get in
+[128:39] here and I go, I I can't do this, Lord.
+[128:42] I said I I was I was I was out raking
+[128:44] the yard. I was out there cleaning up
+[128:46] the yard. And the Lord said, "Brandon,
+[128:49] remember this moment.
+[128:52] Remember these moments.
+[128:54] Don't forget feeling this way because it
+[128:57] is not you. It is me in you. It's Christ
+[129:01] in me. The hope of glory. You didn't do
+[129:04] anything to deserve this. You've obeyed
+[129:07] me
+[129:09] and and it's qualified you for walking
+[129:11] in this because of I equipped the
+[129:14] qualified. Mhm.
+[129:15] >> I will put my anointing on you because
+[129:17] you've been obedient. Doesn't make you
+[129:20] special. It just makes you obedient.
+[129:23] You've listened to me. And I say, "Okay,
+[129:28] always stay small in your own eyes. No
+[129:31] matter how much God uses you. The moment
+[129:34] my channel grows, this channel and all
+[129:37] that's going on, people always look at
+[129:38] me, Brandon. My goodness. We And they
+[129:41] try to they you watching the suckers,
+[129:43] the people try to come alongside you and
+[129:45] want to use your stuff and and and and
+[129:46] and you have to just keep grounded. You
+[129:49] just keep pushing through all of this. I
+[129:51] feel like an icebreaker and just keep
+[129:53] going. Hey, I I just keep being being
+[129:55] myself and just keep doing this thing
+[129:58] regardless of who calls me on the phone
+[130:00] or who doesn't,
+[130:02] you know?
+[130:04] I don't know. 2 hours and 15 minutes. I
+[130:07] hope that was good. Y'all joy. It was
+[130:09] That was way wild. What was that? Huh? I
+[130:12] have to go. Lord, I just hopefully you
+[130:15] got something out of it. [laughter]
+[130:20] Do we pull it down or not? I don't know.
+[130:22] Whatever. [laughter]
+[130:25] When it's usually if this was if it
+[130:26] wasn't a recorded live, I'd say edit
+[130:29] that bad. Brandon, what was that?
+[130:33] But it's what the Lord said.
+[130:39] you know,
+[130:41] but
+[130:43] hopefully they got blessed by something.
+[130:46] We just try to be as transparent as we
+[130:48] can with y'all. There's a lot of it, you
+[130:50] know, it's just it's just flesh. You
+[130:52] just deal with stuff, you know, but I
+[130:55] but I'm hungry for him.
+[130:58] >> Diana is hungry for him. And we want
+[131:02] more in 2026.
+[131:05] I do not want to go another year even
+[131:09] more like this year. I want more. We go
+[131:11] from glory to glory to glory. And it's
+[131:14] it's amazing what the Lord's doing in
+[131:17] our lives. It we we pinch ourselves all
+[131:19] the time. We go, "Wow, Lord, us look
+[131:23] what you've done."
+[131:25] you know, two kids just making it
+[131:27] through life and pushing through, having
+[131:29] challenges and working through things
+[131:32] and and making our marriage work, making
+[131:34] our life work. Keep working through
+[131:36] things and here we are.
+[131:38] We're not kids anymore, but you know,
+[131:41] feel like we're kids. I mean, want to
+[131:42] say that
+[131:43] >> I feel like a kid.
+[131:45] >> We're getting older, getting bald.
+[131:48] >> I feel like a kid on the inside,
+[131:49] >> but I but I still try. We're I I just
+[131:52] know that if we keep pushing I whenever
+[131:54] he says things to us, I say, "Man, I
+[131:56] just want to be obedient to what he
+[131:57] asked me to do."
+[131:59] >> And and
+~~~
+
+<a id="section-12"></a>
+## 12. 132:00–142:49 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[132:02] I just I look at it every day when he
+[132:04] shows me things and he talks to me,
+[132:05] teaches me things, and he's patient with
+[132:07] me. And I think if I can help anybody
+[132:10] with my life, with all that we've been
+[132:13] through, um
+[132:17] you all show up and you watch
+[132:21] you know, it is what it is. The rest is
+[132:23] history and it keeps growing. And the
+[132:25] Lord says, "I have much for you to do,
+[132:26] Brandon." And I said, "Okay, Father."
+[132:31] I don't know. But we're so grateful for
+[132:33] every single one of y'all.
+[132:35] >> We love y'all.
+[132:36] >> If you're if you're here tonight and
+[132:38] you're never watch and and you go, "What
+[132:41] was that?" I don't know. You know, I I
+[132:43] don't know. Thank you for being patient.
+[132:45] But it is what the Lord wanted and I and
+[132:48] in my mind it didn't matter what he what
+[132:50] I think. It's what he thought and what
+[132:52] he wanted. But I'm so grateful for every
+[132:54] single one of you. If you could like,
+[132:55] subscribe, click the notification bell,
+[132:57] do all that you uh could uh to help us.
+[133:01] But I want to ask you one question
+[133:02] before we go. Do you know Jesus?
+[133:06] All this Diane and I talk about all the
+[133:10] times and all the things. We couldn't
+[133:11] have done none of this without him.
+[133:15] He's more real to us than than even her,
+[133:19] than me. I I mean, Jesus Christ is real
+[133:22] to us.
+[133:24] But I want to ask you tonight, if you
+[133:26] were to die tonight, where would you
+[133:28] spend eternity with all the trials and
+[133:31] all the things that we go through and
+[133:34] we've been through a lot. We keep
+[133:36] standing. We keep believing. And we know
+[133:39] that Jesus is an everpresent help in a
+[133:41] time of need. He's more real to us than
+[133:43] everything. you know, but I want to make
+[133:45] sure that you know him.
+[133:47] And you may be here tonight and you say,
+[133:49] "Brandon, I I'm that person that's
+[133:51] desperate. I'm alone. I feel all alone.
+[133:53] I don't know Jesus. I've never accepted
+[133:55] Jesus Christ. But but I'm but I'm
+[133:58] curious about Christianity. I'm cur
+[134:00] curious about what you're talking about.
+[134:02] I I feel something when you're talking.
+[134:04] I just feel stirred. I feel when she's
+[134:06] talking just I just Man, I've had a
+[134:09] rough childhood, too. Wasn't just Diana.
+[134:12] I I know I had heart, you know, you have
+[134:14] a rough childhood. You may be bullied in
+[134:16] school, whatever. I I don't know. But
+[134:19] but I know that that that Jesus wants to
+[134:22] become real to you.
+[134:24] And if you're here tonight, even if
+[134:26] there's just one person
+[134:28] and you say to me, Brandon, would you
+[134:30] please pray for me?
+[134:32] Will you please pray for me? Will you
+[134:34] will you will you say a special prayer
+[134:36] for me tonight? I I I feel alone. I feel
+[134:39] like I can't keep going. I'm at the end
+[134:41] of my rope. I'm I'm I'm I'm I'm battling
+[134:44] depression through this Christmas season
+[134:46] or anxiety or or having bad thoughts or
+[134:49] or whatever and and and and and I just
+[134:52] want somebody to pray for me and I would
+[134:54] like to come back to Jesus tonight.
+[134:59] Would you please pray for me? Would you
+[135:00] just say something in the comment se
+[135:02] section right now? Jesus was bold about
+[135:05] dying for you and he died publicly. Now
+[135:07] I want you to be public about your
+[135:09] decision tonight and say, "I want to be
+[135:11] saved. I want you to pray for me. I I'm
+[135:13] I don't want to keep going down this
+[135:16] same road going into 2026
+[135:19] the way I was in 2025.
+[135:22] Feeling feeling the way. If you maybe
+[135:24] maybe maybe you put three in the comment
+[135:26] section. You feel inadequate and you
+[135:27] want me to pray for you. Diane, I pray
+[135:30] for you. If you feel that, we'll keep
+[135:31] praying for you. I want you to be bold
+[135:33] about say, "Tonight's my night. I'm
+[135:34] coming back to the Lord. I want a fresh
+[135:37] start. Tonight's my night for a fresh,
+[135:39] clean start. And I want to really come
+[135:42] out bold in 2026, the rest this year for
+[135:45] the Lord.
+[135:49] And if that's you, I want you to be bold
+[135:51] about it right now. But I'm going to
+[135:53] just say a simple prayer.
+[135:55] And tonight, we're going to pray a
+[135:57] simple prayer with you.
+[136:00] Do you accept Jesus Christ as your Lord
+[136:02] and personal savior?
+[136:04] And say, "Jesus,
+[136:06] I believe you're the son of God.
+[136:09] I believe you died for me and you rose
+[136:10] again on the third day.
+[136:13] I'm asking you to forgive me of my sins.
+[136:17] Write my name in the lamb's book of
+[136:19] life.
+[136:21] Jesus, I need a savior. And I ask you to
+[136:25] be my Lord and personal savior. And
+[136:27] father, I thank you, Lord. From this day
+[136:29] forward, I turn my back on the world. I
+[136:33] turn my back on the devil. I turn my
+[136:35] back on my sin. and I'll serve you from
+[136:38] for from from from now on forever for
+[136:41] eternity. I dedicate my life to you,
+[136:44] Lord. And I thank you, Lord, that you
+[136:46] have forgiven me. And you've written my
+[136:49] name in that lamb's book of life.
+[136:52] I believe I'm saved.
+[136:55] I believe I'm set free
+[136:58] in Jesus mighty name. Amen. I believe
+[137:02] that was that prayer was just simple,
+[137:05] but it was from the heart. And I believe
+[137:07] if you just said that prayer and you
+[137:09] just confessed Jesus Christ as your Lord
+[137:11] and your Lord and Savior, I believe
+[137:13] you're saved. Behold, all things are new
+[137:17] tonight. If you said that prayer, thank
+[137:19] you. Welcome to the family. I don't know
+[137:21] how many Was there anybody wanted a
+[137:22] prayer? that I'm not doing that.
+[137:26] >> And if you feel inadequate, I I thank
+[137:29] you, Lord, that you show them that
+[137:32] they're not inadequate.
+[137:34] That you have a special plan, a special
+[137:36] call, a special purpose for them on this
+[137:39] earth. That you've called them and
+[137:40] you've chosen them for such a time as
+[137:43] this. That tonight's a night of knowing
+[137:47] knowing inside of themsel that they have
+[137:50] a plan. you have a plan for them that
+[137:53] they they turn their back on all of that
+[137:56] fretful, worried, wondering and know
+[138:00] fully persuaded that God has a plan for
+[138:03] my life and I'm not inadequate.
+[138:07] Jesus paid the price for me to walk in
+[138:09] victory and I will walk in that from now
+[138:12] on.
+[138:16] I'm not going to live that way. It's a
+[138:18] choice.
+[138:20] It's a choice. I'm not going to live
+[138:22] that way. So, if that was you, I just I
+[138:24] I pray for you and I believe that that
+[138:26] God had a special touch on you tonight
+[138:29] that there's a stirring inside of you
+[138:31] and that you lay your head down tonight
+[138:33] on your pillow and you know you have
+[138:35] that blessed assurance that Jesus is
+[138:38] mine. Oh, what a foretaste of glory
+[138:40] divine.
+[138:43] Thank you, Father.
+[138:45] 44 of Braden for real.
+[138:47] >> Praise the Lord. Praise the Lord for
+[138:50] every single one of you. 44 people gave
+[138:52] their heart to Jesus tonight. And I and
+[138:55] I'm so thankful that every single one of
+[138:57] you stuck around and watched this video
+[138:58] with us. Praise the Lord. Well,
+[139:04] that's all I have for y'all tonight. I I
+[139:06] I I know that was kind of all over the
+[139:08] place, but I I I just felt like it was,
+[139:10] you know, it's raw, but it's it's the
+[139:12] Lord. And I pray I pray that you got
+[139:14] blessed by it. I really truly do. Um,
+[139:18] we'll see you again soon. Remember all
+[139:21] the Oh, sorry. You wanted to know where
+[139:23] to get the Bibles. There's 44 people
+[139:24] gave their heart to Jesus Christ. Tell
+[139:26] them.
+[139:27] >> Okay.
+[139:27] >> We want to give you a Bible for free.
+[139:31] >> Oh,
+[139:32] >> yeah. In the description, you'll find
+[139:34] our email address. And if you just put
+[139:36] in the title, um, I need a Bible, and
+[139:39] then put your name and address in the,
+[139:41] uh, description of the email, and, uh,
+[139:44] we will get a Bible to you. Um, and so
+[139:47] yeah, it's
+[139:47] >> we just want to love on you. Yeah.
+[139:48] >> Congratulate you for your decision
+[139:50] tonight.
+[139:51] >> You know, I I I know that you just made
+[139:53] the best decision you could ever make.
+[139:55] >> Yes.
+[139:56] >> And even in all the uh the trials of
+[139:59] life, I didn't say he said I Brandon, I
+[140:01] didn't tell you it was going to be easy.
+[140:03] He just said, "I never would leave you
+[140:04] and never forsake you."
+[140:06] >> He tells me that all the time. Brandon,
+[140:07] I never told you it's going to be easy.
+[140:09] >> No.
+[140:09] >> You think it's going to be easy being a
+[140:11] Christian? No. I just told you I I'll
+[140:13] make you'll make it through with me and
+[140:16] we'll make it together
+[140:17] >> and I'll make life better. It's not been
+[140:20] easy for us,
+[140:21] >> but I'm going to tell you, he's always
+[140:23] been there.
+[140:24] >> Yes,
+[140:24] >> he's always been there. He's always
+[140:26] provided. He's always been there in our
+[140:28] darkest hours. It has not been easy,
+[140:31] ladies and gentlemen. But God has always
+[140:33] been there by my side, even in the
+[140:36] darkest hours. Huh?
+[140:37] >> Oh, for sure. And I'm telling you,
+[140:40] >> I would not be here if it wasn't wasn't
+[140:42] >> a lot of times people have an
+[140:43] expectation. Well, everything's going to
+[140:44] be gold and it's going to be great after
+[140:45] I become a believer. No.
+[140:47] >> No.
+[140:48] >> No. There
+[140:48] >> sometimes it's worse. [laughter]
+[140:52] >> But but he'll never leave you and
+[140:54] forsake you.
+[140:55] >> Yes.
+[140:55] >> And it's all
+[140:56] >> And through the valley of the shadow of
+[140:58] death, I fear no evil.
+[140:59] >> You just got to say, "The devil must
+[141:01] find me a threat."
+[141:02] >> Yep. That's what he said. Yeah. We said
+[141:04] that. The devil must really know that
+[141:07] I'm going to kick his honey.
+[141:09] >> Yeah.
+[141:10] >> And don't let people once you get in
+[141:13] there, don't have a bunch of yes man. I
+[141:15] tell people all the time, don't put a
+[141:17] bunch of people around you that always
+[141:19] tell you what you want to hear. Iron
+[141:21] sharpens iron.
+[141:23] You know, I want to say that too
+[141:25] tonight. Don't have a bunch of kissups.
+[141:29] I better not say that. have a bunch of
+[141:31] people that have a backbone that iron
+[141:34] sharpens iron in Christianity. You don't
+[141:37] get a bon a bunch of yes men. Especially
+[141:39] in leadership,
+[141:40] >> yes,
+[141:41] >> you'll always have people trying to
+[141:42] brownnose you. Don't put brown-nosers
+[141:45] around you. Put some vinegar up in you
+[141:47] around you that are going to tell you
+[141:49] the truth in love. Don't be Don't put
+[141:52] haters around you, but people that have
+[141:54] some character.
+[141:56] I don't want people always being yes
+[141:59] man.
+[142:00] I think it's good to have people that
+[142:02] sharpen you. That's why I'm so thankful
+[142:04] for you.
+[142:05] >> You don't tell me what I want to hear.
+[142:07] She kicks you in the hits you in the 2x4
+[142:10] right in front of your eyes and tell you
+[142:11] the truth. Tell me the truth. I need it
+[142:14] in love.
+[142:15] >> No, I'm not mean. It telling the truth
+[142:18] is not mean love.
+[142:19] >> Okay.
+[142:20] >> If you don't tell somebody the truth,
+[142:22] they'll go off the cliff. You got to
+[142:24] tell them the truth.
+[142:27] So there you go. Brandon's thoughts.
+[142:31] [laughter]
+[142:32] It's the truth, babe.
+[142:34] Well, praise God. Remember, put a smile
+[142:38] on your face. Oh, we love you and Jesus
+[142:41] loves you. PUT A SMILE ON YOUR FACE, A
+[142:44] song in your heart. We love you and
+[142:46] Jesus loves you. Thank you for watching.
+[142:49] We'll see you again tomorrow. Bye bye.
+~~~

@@ -1,0 +1,1213 @@
+# Should people tithe？
+
+**视频**: https://www.youtube.com/watch?v=tc6VEcMn8BY
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/Should people tithe？ [tc6VEcMn8BY].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 1081；**章节数**: 11；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-01)
+- [02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-02)
+- [03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-03)
+- [04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-04)
+- [05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-05)
+- [06. 20:00–23:59 · 教会、复兴与信仰、经济、银行与市场](#section-06)
+- [07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
+- [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
+- [09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
+- [10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
+- [11. 40:00–41:26 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] Hey, good morning family. Thank you for
+[00:02] joining us again today. So, we're going
+[00:04] to pray over your needs today. You know,
+[00:06] I know there's a lot of you like this
+[00:08] family right here, they're believing for
+[00:09] so much. I I um we got that in the mail
+[00:13] today and I'm just like, "Wow."
+[00:17] Uh there's so many of you all that are
+[00:19] believing for a breakthrough for your
+[00:20] for your loved ones. The the I I I mean,
+[00:24] like I have another the photos right
+[00:26] here. This family, there's so many
+[00:27] families. Like I said, I we put up we
+[00:30] got photos now all over our car. We
+[00:32] drive around. We We look like we got we
+[00:34] got I got photos everywhere that we pray
+[00:36] over when we're driving around the
+[00:38] people send them to us and we they need
+[00:40] breakthrough. They need breakthrough.
+[00:42] These people are desperate. They need a
+[00:45] touch from the father. They don't need a
+[00:48] a still word from a pastor that you go
+[00:51] on a Wednesday night or a Sunday and you
+[00:53] walk away and you go, "What was
+[00:55] that? What was that? Why did I waste my
+[00:59] 30 minutes? Why did I waste my an hour?
+[01:01] I could have got more watching a YouTube
+[01:03] video than I got with that. I don't want
+[01:06] to waste people's time. I go, man, God,
+[01:08] we need a fresh we need a fresh river.
+[01:11] We need fresh glory. We need we we need
+[01:13] to get this old vinegar out of these old
+[01:15] wine skin and and and put that anointing
+[01:18] of the Holy Ghost on us and rub that oil
+[01:20] down on in that that that that pouch of
+[01:23] who we are, that that vessel, making it
+[01:27] pliable again. Because when you when you
+[01:29] put that anointing oil on that vessel
+[01:32] and you rub that in that vessel and you
+[01:34] you you you make that leather pouch all
+[01:37] pliable again. It makes it where if you
+[01:40] put the new wine in it, it won't crack
+[01:42] and
+[01:43] bust. The oil and the anointing of the
+[01:46] Holy Ghost is what makes us brand new
+[01:49] every single day. You have to have that
+[01:52] glory, the outward honey glow. And
+[01:55] that's why I told Diana, we talk about
+[01:57] all the time. I I want it so much so
+[02:00] that it don't never turn off. That they
+[02:02] have to put a drape around my head
+[02:04] because they go, "What is going on with
+[02:06] that dude's face? He's glowing with the
+[02:09] glory." I try to tell my children, "You,
+[02:11] we represent the father." So, we act
+[02:14] like the father. We we demonstrate
+[02:16] oursel as the father would. I know we're
+[02:19] we're all work in progress, but I'm just
+[02:21] desperate for him. I'm desperate for
+[02:24] him. And I know what's coming. And I
+[02:27] know a great shaking coming into awaken
+[02:29] you. And I will sound the alarm just
+[02:31] like Jeremiah to tell you all that God
+[02:34] is coming. And you have to get your
+[02:36] house in order because we're running out
+[02:38] of time. Thank God we're not like we
+[02:41] were back then. We're underneath more
+[02:43] grace. I get it. But I'm telling you
+[02:46] all, a great shaky it. What's coming is
+[02:49] not God's judgment. Ladies and
+[02:51] gentlemen, what's coming is not
+[02:53] judgment.
+[02:54] It's a father correcting a child who's
+[02:57] spoiled. It's the father who's
+[02:59] correcting a child who's went wayward
+[03:02] that's saying you you've went off the
+[03:04] road buddy and I want you to come back
+[03:06] over here in the fold. The sheep that
+[03:08] the 99 is over here and you're the one
+[03:11] and I'm trying to snatch that one.
+[03:14] There's a lot of ones, but he's trying
+[03:16] to grab a hold of those ones. And he's
+[03:18] like, "You got way off track and you're
+[03:20] 50 miles away from the from the from
+[03:22] where you're supposed to be. But I have
+[03:24] more mercy, more love to let you have an
+[03:29] extended time to bring them in to bring
+[03:31] them in. Your unsaved loved ones, the
+[03:33] people who are so weward that you go,
+[03:36] man, they're never coming in." No. All
+[03:39] things are possible to him who believe.
+[03:41] Ladies and gentlemen, glory to God. All
+[03:44] things are possible to him who believe.
+[03:46] You just got to believe it. You got to
+[03:48] put your faith, your boat into motion.
+[03:50] What are you believing for today? You
+[03:51] say, "Well, I'm believing for finances."
+[03:53] Then sew a seed. Every seed produces
+[03:56] after its own kind. What are you
+[03:58] believing God for today? David said, "I
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:00] gave nothing that didn't cost me
+[04:02] something. If it didn't cost you
+[04:05] something, then it wasn't precious to
+[04:07] you." And David gave when it hurt. And
+[04:10] the Bible said that. And that's where
+[04:11] I've tried to say, what's my chokeold?
+[04:13] Where am I at with the Lord concerning
+[04:16] this? People say, I don't believe in I
+[04:17] don't believe in tithing because it's
+[04:19] underneath the old covenant. I believe
+[04:22] in giving God something to work with. I
+[04:26] believe in giving God if the farmer sews
+[04:29] a seed to reap a
+[04:31] harvest, then I'm going to sew a seed to
+[04:33] reap a
+[04:34] harvest. If I have a need, I sew a seed.
+[04:38] That's what we always do in this
+[04:39] household.
+[04:41] Where do you give? You give to your
+[04:43] local church. You give to where you're
+[04:45] being fed spiritually. You give to the
+[04:49] people who are pouring into you
+[04:50] spiritually. That's where you give. So
+[04:52] you where your pastors at and where the
+[04:55] people are that are that are ministering
+[04:57] to you on a day-to-day basis, that's the
+[04:59] people you give to. So why? Because
+[05:02] that's what keeps the local church
+[05:03] going. If you don't have a local church
+[05:06] in your area, you you you got to have a
+[05:09] prayer covering. That's what changes
+[05:10] things. When that body comes together,
+[05:13] you come as a as a as an army in that
+[05:16] community. So, you keep that local
+[05:18] church going. You keep the people who
+[05:19] are feeding you going so that they keep
+[05:22] feeding you. So, you they're able to
+[05:24] distribute out and help
+[05:26] others. It's it's it's like a it's like
+[05:29] a storehouse. You bring your tithe to
+[05:31] the storehouse. You bring that to the
+[05:33] storehouse. Where the storehouse is is
+[05:35] where you're getting fed. That's where
+[05:37] the grain where all the things you put
+[05:38] in the the storehouse. You bring that
+[05:40] the tithe to the storehouse. Okay? So
+[05:41] you that's your local church is your
+[05:44] storehouse where you're getting fed. You
+[05:47] take care of that pastor. You take care
+[05:48] of them and then you make sure that
+[05:50] they're able to have community outreach
+[05:52] or whatever they're doing, you know. Um
+[05:54] I just believe that that's what we do in
+[05:56] these last days to help the local church
+[05:58] out. We help we help it. Well, you say,
+[06:00] "Well, we don't have to tithe." No, but
+[06:01] you still give. I don't believe there's
+[06:04] a curse on people who who if you don't
+[06:06] tithe, okay? But I believe that that God
+[06:09] said he rebukes the devour for our sake.
+[06:12] And if he did it back then, he'll do it
+[06:16] again. And I want blessing on my money.
+[06:19] I want I want prosperity and and his
+[06:22] blessing on it, my heart, and saying,
+[06:24] "Brandon, Brandon, well done, thy good
+[06:28] and faithful servant. You did everything
+[06:30] you could. You could did everything you
+[06:32] could. you helped stretch the kingdom of
+[06:34] God throughout the whole world. Most
+[06:36] people don't want to give. Most people
+[06:38] are stingy with it and they say, "Well,
+[06:39] well, I get more money. I'll give and
+[06:42] I'll do this and I'll do that." No, we
+[06:44] started out, we started out because we
+[06:45] started tithing because we had to. I
+[06:48] don't know why I get off on this. I
+[06:49] guess it's because Braden tell me
+[06:51] something. We get some emails people
+[06:52] say, "You we don't believe in tithing.
+[06:55] What do you believe about it?" Well,
+[06:56] this is my opinion. I believe in
+[06:58] tithing. I believe in giving my 10%. I
+[07:01] believe in giving over the 10% as much
+[07:03] as I can. Why? Because I'm not because I
+[07:06] know what it takes to get the gospel.
+[07:08] I've worked for churches my whole life,
+[07:09] it seemed like. And we knew what it took
+[07:12] to get the the the bills paid at the
+[07:14] church. We knew what it took to get the
+[07:16] flyers out and the the all the the staff
+[07:18] paid. It takes millions of dollars. And
+[07:22] most people go, "Well, I gave my 10
+[07:24] bucks and everything." Well, they're the
+[07:25] church was thankful for the $10, but
+[07:27] there was a lot of
+[07:28] tippers. and you're believing that you
+[07:31] can step into the overflow for God to
+[07:34] speak to you about the abundant things,
+[07:37] but that comes out of can he trust you
+[07:39] with it? And if God can't trust you with
+[07:42] the 10% that you have to to to tithe to
+[07:45] him, he's not going to show you the
+[07:47] greater works. I'm telling you, I'm just
+[07:48] being real with y'all. I'm just telling
+[07:51] you all the facts. And most people don't
+[07:53] want to hear it. Well, I'm qualified
+[07:54] because I gave my five bucks to the Lord
+[07:57] today. I gave my I gave you tip God. You
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:00] made You made a quarter of a million
+[08:02] dollars last year and you gave $10.
+[08:04] Whoopde-doo. I mean, I'm just saying.
+[08:06] You're You're like you you think that
+[08:08] you're qualified for God to tell you the
+[08:10] secret things because you gave your
+[08:12] hundred bucks and you made $250,000 last
+[08:15] year. I mean, seriously, I I it comes
+[08:19] out of sacrifice. David said, "I gave I
+[08:23] didn't give God anything that didn't
+[08:25] cost me something." So,
+[08:27] you are expecting God to pour out his
+[08:30] blessing on you in a dump truck load,
+[08:32] but you gave in a thimble
+[08:35] load. And you're asking God to do
+[08:37] something mightily in your finances
+[08:39] whenever you are you you
+[08:42] you so it's so backwards is what I'm
+[08:45] trying to tell y'all. it. Seek ye first
+[08:47] the kingdom and all and his
+[08:48] righteousness and all these things will
+[08:50] be add unto you by given and it shall be
+[08:53] given unto you. Good measure pressed
+[08:54] down, shaken together and running over
+[08:56] will men give it unto your bosom. And so
+[08:58] that's just what Diane and I believe.
+[08:59] You ask us or tell you. I I don't like I
+[09:02] don't like talking about money stuff
+[09:04] because you're like, well, you know,
+[09:05] you're after money. No, I don't care. I
+[09:07] honest to goodness, I don't care. This
+[09:09] is because people ask me, "What do you
+[09:11] believe about this, Brandon?" And this
+[09:13] is what Diane and I believe. We believe
+[09:15] in the power of the seed. We believe in
+[09:19] the power that you give and it shall be
+[09:21] given unto you. Good measure, pressed
+[09:23] down, shaken together, and running over
+[09:25] will men give unto your bosom. That's
+[09:26] what Diane and I believe. We believe
+[09:28] that God is a rewarder of those that
+[09:30] diligently seek him. Not just with just
+[09:33] my time and just prayer, but seeking him
+[09:35] with my finances. God, if I give, you
+[09:39] said that you give me 30, 60, 100fold.
+[09:42] That's what you said in your word. You
+[09:44] said in Malachi underneath that, I'm not
+[09:46] putting myself underneath the old
+[09:48] covenant, Lord. But you said back then
+[09:50] that you rebuke the devour for my sake.
+[09:52] So, Father, how much more will you
+[09:53] rebuke the devour for my sake now? I'm
+[09:56] not underneath the old covenant, but I'm
+[09:58] underneath the new, but I still want to
+[10:00] believe in the
+[10:01] blessing. I still want to believe in
+[10:03] helping the church out. And it's a heart
+[10:06] thing. It's a heart thing. And I say,
+[10:08] God, I my heart is for you. My heart is
+[10:10] for the gospel. I want to help Billy
+[10:12] Burks out. I want to help missionaries
+[10:14] out. I want to help them. If you're
+[10:16] going out and praying for the sick and
+[10:18] seeing people recover, I would like to
+[10:20] help you. If I if I if I see that you're
+[10:23] doing something major for God, I want to
+[10:25] help you. I see the cause. I see the
+[10:27] anointing. And you sew into the
+[10:29] anointing. Do you do you give all at one
+[10:31] place? No. I split my seed a lot of
+[10:33] times and I help each ministry out. I
+[10:36] help each each u pastors, prophets,
+[10:39] teachers, evangelists, and all this. And
+[10:40] I try even if it's just five bucks,
+[10:42] whatever until you grow. You say, "Here,
+[10:44] here, here, here, here, here." But I try
+[10:46] to sew the big one. And then the one
+[10:48] that feeds me the most, I give them the
+[10:50] most, right? Because I'm getting
+[10:52] impartation from it. Above tithe, I try
+[10:55] to help out. So that's what I'm trying
+[10:56] to say. And and maybe maybe that'll make
+[10:59] sense for some of y'all, but you ask me
+[11:01] my opinion, what we do, what Diana and I
+[11:03] do. And that's exactly what we've do.
+[11:05] And we've done it for a while now.
+[11:07] saying, "God, help me because I'm not
+[11:09] going to be manipulated. Well, all your
+[11:11] tithe should come to my church because
+[11:13] you're a part of my flock and you need
+[11:15] to give all your money here." Whatever.
+[11:18] I'm going to do I'm going to do what the
+[11:19] Holy Spirit tells me to do. And people
+[11:21] get it ticked off about that, but
+[11:22] whatever. I mean, I I just follow the
+[11:24] voice of the Lord for our life. And what
+[11:26] he tells me to do is I give it. If
+[11:28] you're not underneath the curse of the
+[11:30] old covenant and it's not and it's
+[11:32] there, then why I'm not going to be
+[11:34] manipulated about my tithe either. I'm
+[11:36] not going to be manipulated about it. I
+[11:38] will not sit there and you're going to
+[11:39] tell me all this stuff what where I
+[11:41] should be giving my money. I will follow
+[11:43] the Holy Spirit and he will show me that
+[11:46] which is to come. And I and when you do
+[11:47] that and you're led by the Holy Spirit,
+[11:50] you'll always be blessed. You'll always
+[11:52] be blessed. Follow the Holy Spirit in
+[11:55] what the word tells you to do. Give to
+[11:57] where you're being fed. Give to the
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:00] ministries that are feeding you. And
+[12:02] they and I'm telling you, God will
+[12:04] anoint you. Be led by the spirit of God
+[12:06] when it comes to your
+[12:08] giving. There's a lot of different
+[12:10] theories. There's a lot of different
+[12:11] theologies when it comes to this. And
+[12:13] everybody's about it because everybody
+[12:14] wants the money. And I'll be real with
+[12:16] you. That's what I've seen a lot in the
+[12:17] body of Christ. A lot of people want the
+[12:19] money and they go, I
+[12:22] I I I feel that if you give this $58
+[12:26] seed and this $58 blessing, you're going
+[12:28] to get a miracle. I don't get into all
+[12:30] that stuff. I just give where I'm led to
+[12:32] give to help when God tells me to give.
+[12:35] And that's exactly what Dian and I do.
+[12:37] And I don't get and I'm not I'm not I am
+[12:40] not manipulated by
+[12:42] emotion by saying it. Never give out of
+[12:45] emotion.
+[12:47] Give by the spirit of the Lord leading
+[12:50] you. Does that make sense? If you're led
+[12:52] by your emotions, your emotions change
+[12:55] all the time. You can give a seed and
+[12:56] you'll be like, "Why in the world did I
+[12:58] just give that five minutes later?"
+[13:00] Sometimes it's the devil trying to
+[13:01] torment you. But sometimes it it because
+[13:05] you acted out in flesh. And I'm not
+[13:08] going to be well, you know, I heard the
+[13:10] Saabb story about that and it was really
+[13:12] sad at church and I gave it. I'm not
+[13:15] going to give out of emotion. I'm giving
+[13:18] by the spirit of God leading me. Does
+[13:21] that make sense? When you're led by the
+[13:23] spirit of the Lord, there is there is a
+[13:26] blessing behind it. But there is truly
+[13:28] is a 30, 60, and 100fold. And you find
+[13:31] the 100fold grounds, you found a nugget.
+[13:34] If you find the 60fold, you still found
+[13:37] a really good one. 30 is okay. I mean,
+[13:39] it's a return, but I'm serious. I told
+[13:41] the Lord, I said, "Where where's the
+[13:43] hundfold ground? Show me how to sew into
+[13:46] that because I want to be the farmer
+[13:48] that sews into the manure that gets back
+[13:51] the big harvest. I sew to
+[13:55] reap. I sew." They said, "Well, do you
+[13:57] give to get?" Well, yeah, basically, but
+[14:00] I'm not giving it out of that attitude.
+[14:02] I'm giving to sow because God says he
+[14:06] loves a cheerful giver, but he gives
+[14:08] back 36. It's his It's his system. So,
+[14:12] I'm sewing into it saying, "God, show me
+[14:15] how to reap the maximum
+[14:17] reward. Show me how to reap the maximum
+[14:20] reward." And if this is stony ground,
+[14:25] run. Well, well, their ministry died.
+[14:27] Well, it wasn't me. It's stony ground.
+[14:29] It don't mean to be there anyway. I
+[14:31] mean, I'm just being real. Let them move
+[14:34] on and do something else. Sell on eBay.
+[14:36] I don't know. It's a good living.
+[14:38] I I just I just that's just where I'm at
+[14:40] with it. If their ground is stony, they
+[14:42] shouldn't be in ministry anyway. I mean,
+[14:45] I'm just If it's sandy soil and it's bad
+[14:47] soil, why are they preaching then? I
+[14:50] mean, I'm just saying. Close the doors
+[14:52] down and go on. We need people that are
+[14:54] filled with controlled by the Holy Ghost
+[14:56] in these last days. We don't need to be
+[14:58] wasting people's time just doing it
+[15:00] because it's all that I've ever known
+[15:01] how to do. Do something else. Be a door
+[15:04] greeter at Walmart. I mean, I don't mean
+[15:06] to be rude, but that's just
+[15:09] real. Don't waste my time. And that's
+[15:12] why I don't want to waste your time. I I
+[15:14] I I just want you to know that's just be
+[15:17] we're just real. We're just real. And I
+[15:19] I've seen it all. I've been around some
+[15:21] big ministers. I've been around some of
+[15:23] the big guys. And you look at them and
+[15:25] you go, "What's real and what's not? Are
+[15:28] are is there anointing here or not?" I
+[15:30] want you all to have be successful. I
+[15:32] want you to I want you to go from glory
+[15:35] to glory and not keep going around the
+[15:37] mountain expecting different results
+[15:39] every single time. For 40 years they
+[15:41] wandered in the mount the wilderness. 40
+[15:44] years they wondered and they never say
+[15:45] why am I still going through what we're
+[15:48] going through Moses? Why are we still
+[15:50] walking around this mountain? And you go
+[15:52] through another year and he's like well
+[15:53] the whole generation has to die because
+[15:55] of
+[15:56] unbelief and we're going to raise up the
+[15:58] Joshua and the Calebs to go and take the
+~~~
+
+<a id="section-05"></a>
+## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[16:00] land because we really aren't the size
+[16:02] of grasshoppers to these giants. We're
+[16:04] going to go and take the land. Who wants
+[16:06] to be a land grabber? Us. I don't want
+[16:10] to live in the valley of the shadow of
+[16:12] death anymore. I want to live in the on
+[16:15] the on the high peaks with Jesus Christ
+[16:18] in these last days. I want to know to go
+[16:20] from glory to glory to glory. I just I'm
+[16:24] so tired. I I I've I've listened to it
+[16:26] all. You listen to all these sermons and
+[16:29] you hear them and you
+[16:30] know, is this really is this really
+[16:33] working? I want to see it. I want to see
+[16:34] fruit. When when you when your mom and
+[16:36] dad and her mom and dad and all these
+[16:39] great grandparents and they all live
+[16:40] from from paycheck to paycheck and you
+[16:43] give because they can preach the money
+[16:44] out of your wallet and they get you all
+[16:46] excited about it and you walk away and
+[16:48] you're still broke. You're still
+[16:51] broke and it's frustrating and you go
+[16:54] and you listen to it and you hear the
+[16:56] prosperity gospel and you hear all this
+[16:58] stuff and God is a God that is
+[17:00] abundantly rewarding those that
+[17:01] diligently seek him. And he wants you to
+[17:03] have 30, 60, and 100fold, but you're
+[17:05] giving it into in bad ground. And you
+[17:07] walk away
+[17:09] going, "What gives? Lord, how come you
+[17:12] haven't meet my stuff?" Because we're
+[17:14] still looking for the mailbox mentality.
+[17:17] We're looking for, "Well, God, where's
+[17:20] my my my angel with the bag of money in
+[17:22] his hand?" Like that preacher talked
+[17:24] about. He I'm telling you that I've
+[17:26] heard of miracles happening and God does
+[17:27] that, ladies and gentlemen. And God will
+[17:30] do that. It's an exception, not the
+[17:32] rule. He will anoint your hands to
+[17:35] prosper. He will He will abundantly
+[17:37] bless your hands to do something. Put
+[17:40] your bow into motion. God isn't looking
+[17:42] for the talents. You could either bury
+[17:45] the talents or you can make the talents
+[17:47] work for you, right? By doing something
+[17:51] with your hands, asking him for a
+[17:53] creative idea for to get wealth. God,
+[17:56] show me how to get this. And I was the
+[17:59] guy, I'm telling you, forever I as being
+[18:01] a janitor, sitting in back there going,
+[18:04] "Lord, Lord, teach me how that some
+[18:07] sister will walk up and give me $100
+[18:09] today cuz we're desperate for it." And
+[18:11] that's a miracle, right? For somebody,
+[18:13] somebody to hear it on their heart to
+[18:15] give you some money, but God wants to
+[18:17] make you a fisher, a a fisherman to go
+[18:20] out and get it and get it yourself.
+[18:23] Teach me how to do it. And that's
+[18:25] whenever I the Lord told me, he said,
+[18:27] "Brennan, I'll teach you how to flip
+[18:29] cars. Go out and buy this car that's
+[18:32] broke over here and and and and pay your
+[18:34] dad or whoever to put that timing belt
+[18:36] on that car and fix it and and you can
+[18:39] make it." And and and I'm telling you,
+[18:40] listen, I I bought a car for I think it
+[18:43] was like 500 bucks. You weren't even
+[18:45] born yet. Uh 500 bucks. And And the Lord
+[18:48] said, "Buy that car and it just needs a
+[18:50] new timing belt on it and it will it's
+[18:52] going to run." And and I I bought it for
+[18:54] 500 bucks. I sold it for
+[18:56] $3,000. But at that time, that $500 seed
+[18:59] that I bought that car that needed a new
+[19:00] time belt, the horse, there's nothing
+[19:02] else wrong with this car. And this was a
+[19:03] long time ago. That three grand was a
+[19:05] lot of money to us. So he said, "A man
+[19:08] with a white shirt, after you fix this
+[19:11] car, a man with a white shirt, I prayed
+[19:13] in the spirit. The Lord said, "A man
+[19:14] with the white shirt is going to knock
+[19:16] on your door tomorrow and he's going to
+[19:19] buy the car because the for sale sign
+[19:21] was on it." He walked up. This Hispanic
+[19:23] man walked up. He had a white shirt on
+[19:25] just like the Lord said and he said,
+[19:27] "I've come to buy the car. I have cash.
+[19:29] He gave me the cash." That's what I'm
+[19:31] saying. This was clear back back in like
+[19:35] 20 uh 2002, 2003, somewhere around
+[19:39] there. I don't know.
+[19:41] So that's what I'm trying to say is just
+[19:45] following the voice of the Lord for your
+[19:47] life. Not looking for a mailbox
+[19:49] mentality, asking God to bless whatever
+[19:52] you put your hands to and saying, "Lord,
+[19:54] teach me. Teach me." That's just an
+[19:56] example. But that's what we do still
+[19:58] with with eBay and and Poshmark and
+~~~
+
+<a id="section-06"></a>
+## 06. 20:00–23:59 · 教会、复兴与信仰、经济、银行与市场
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、经济、银行与市场、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:01] asking God to to to give you an idea.
+[20:04] And the only thing I the reason I do
+[20:05] what I do now is is because I I mean I
+[20:07] don't have much education. I just go,
+[20:10] "Lord, teach me how to do
+[20:12] this." And the Holy Spirit will lead you
+[20:15] and guide you into everything. I just
+[20:16] know there's a lot of people frustrated
+[20:18] with with preachers and teachers of the
+[20:21] gospel and and they're blessed and and
+[20:24] and people see it and they go, "Well,
+[20:26] because you get all these people bashing
+[20:28] preachers that have everything and they
+[20:30] go, how come they have so much and
+[20:32] everything?" Well, you know, God's
+[20:34] blessed them. They've sewed their seed.
+[20:36] They've reaped it and and and but it
+[20:37] comes across people become frustrated
+[20:39] and critical over it and they go,
+[20:41] "Where's mine?" Get out and do something
+[20:44] with your harvest. Do something with
+[20:45] your with your
+[20:46] hands. Look for that supernatural idea.
+[20:51] I believe in miracle money when but but
+[20:53] but I don't believe in it the way
+[20:55] everybody else believes in it like that.
+[20:57] I believe God will anoint you to do
+[20:59] something. He'll give you an idea. But
+[21:02] there's a lot of it, I believe, that has
+[21:03] been off. And and a lot of the body of
+[21:06] Christ is still
+[21:10] believing 50 years later and they're
+[21:12] still living in the slums. And I've
+[21:15] learned if you put your boat into motion
+[21:17] and ask the father by seeking his face
+[21:19] for him to anoint what you put your
+[21:21] hands to, God will bless you. God will
+[21:24] bless you with an idea.
+[21:28] I don't believe or believe for a
+[21:30] promotion at your job. If you love your
+[21:32] job and you want to stay there, then
+[21:33] believe for a promotion. Some people go,
+[21:34] "Well, I don't care if I ever have
+[21:35] anything." Then fine, this message isn't
+[21:37] for you. But there's a lot of people
+[21:39] that are believing for a lot. And
+[21:41] they're still doing the same thing. And
+[21:42] 50 years later, they're still giving.
+[21:44] They're still doing what they're doing
+[21:45] and they and they've sacrificial their
+[21:47] sacrificed their whole life looking for
+[21:51] uh the pot of the gold at the pot of the
+[21:53] rainbow. And they're looking for that
+[21:55] lottery ticket. And God's not a lottery
+[21:58] ticket
+[21:58] God. God is a God that that will that
+[22:02] will bless your hands and he and he'll
+[22:04] cause increase, but I've never seen the
+[22:07] lottery ticket stuff. I've never I I'm
+[22:10] telling y'all, a lot of people treat
+[22:11] crypto like that. And I'm not going to
+[22:13] be one of those. I do it and I I don't I
+[22:16] pretend I sew it, put my money in it,
+[22:18] and then I walk away and act like I
+[22:20] don't it's not there. I do not act like
+[22:22] I'm putting my last dollar in there
+[22:24] believing for this. I need lucky 777.
+[22:27] Ching ching ching ching. It's going to
+[22:29] be all that I need to get through this
+[22:30] next life of the next, you know, to make
+[22:32] me
+[22:33] retire. No, father, give me ideas.
+[22:38] Anoint me to do something supernatural
+[22:41] for you. And as I seek you and I seek
+[22:44] your face, you said you'd give me what's
+[22:46] in your hand. And God's going to give
+[22:48] those rewards as he gives ideas and he
+[22:51] speaks to you in the midnight hour. Let
+[22:53] me pray for y'all, though. I'm gonna
+[22:54] believe for your miracle, for your
+[22:56] financial miracle. I'm gonna believe God
+[22:58] for for for your healings. We're gonna
+[23:00] believe for Canada. So, Father, we just
+[23:02] thank you for your hand on every single
+[23:05] one of these people. My job is never to
+[23:08] cause confusion. my gut job. I'm trying
+[23:11] so hard, Father, to teach them how to
+[23:13] get out of the
+[23:14] holes, Father, that they don't keep
+[23:17] going down the mental anguish of what
+[23:19] they've done 10 years ago, expecting
+[23:21] different results and going, "Well,
+[23:23] seed, time, harvest, where's my
+[23:25] harvest?" And they've never seen what
+[23:27] they're believing for. And yet, they sew
+[23:30] into bad ground over and over and over
+[23:32] again, expecting different results. And
+[23:34] they're going, "What's going on with my
+[23:35] life?"
+[23:37] Lord, I I would in my time back then, I
+[23:40] wish just somebody would have said
+[23:43] something, not hearing another
+[23:45] sermon, not not hear just somebody just
+[23:48] being real. And I, Father, I want to be
+[23:51] the that real person that they can just
+[23:54] have somebody just to say like a friend
+[23:56] that says, "Listen, this is this is off.
+[23:58] There's some off stuff here. There's
+~~~
+
+<a id="section-07"></a>
+## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[24:00] some things that are not right and we
+[24:01] got to get it right cuz I don't want to
+[24:04] live in in in the in the slums anymore.
+[24:07] I want to live and come up higher. And I
+[24:10] know, Father, there's frustration with a
+[24:13] lot of people. We see their emails.
+[24:15] There's frustration in the body of
+[24:16] Christ. There's there's there's
+[24:18] dysfunction. And Father, I know you said
+[24:21] that you're bringing forth the new
+[24:23] Davids. You're bringing forth the new
+[24:25] generals that will bring a the a balance
+[24:29] to things. You're bringing a balance to
+[24:31] the word. You're bringing a balance to
+[24:34] things that have been
+[24:35] off that have been way over in left
+[24:37] field. And you're saying, "Let's bring
+[24:39] it back to home base." And Father, I
+[24:42] thank you that you're bringing back
+[24:44] clarity to the body of Christ. That
+[24:46] there's be some balance up in here. Not
+[24:49] so much weirdness. There going to be
+[24:52] some structure. and in the structure.
+[24:55] It's all back in the word and it's in
+[24:57] the anointing. And you said that you
+[24:59] came to set the captives free. And I
+[25:02] believe, Father, that there's a lot of
+[25:04] the body of Christ that needs to be set
+[25:06] free. They're walking with bondage of
+[25:09] the yoke of bondage of poverty, lack,
+[25:11] not enough, barely getting by. They've
+[25:13] got the bondage over their minds that
+[25:15] they don't think clear. And Father, I
+[25:18] thank you, Lord, that they think clear.
+[25:20] They know exactly what they're supposed
+[25:21] to do when they're supposed to do it.
+[25:23] They hear your voice and a stranger's
+[25:25] voice will not follow. And Father,
+[25:27] they're going to know exactly where to
+[25:28] put their
+[25:30] money. I believe, Father, that this is
+[25:33] the day of the open door, that this will
+[25:36] be a time that they set their path
+[25:39] right. That 2025 will be a time that
+[25:42] they get on track, they get on the right
+[25:44] road, going the right direction, knowing
+[25:47] exactly what God has for them. And
+[25:49] they're not going to go the wrong
+[25:50] direction going on the the the bad road
+[25:53] going, "Why am I not getting to where
+[25:54] I'm supposed to be? Year after year
+[25:57] after year, I'm in
+[25:58] bondage." Father, it's not your will for
+[26:02] people to be derailed in their life.
+[26:04] It's your will for them to go up higher
+[26:06] with you with the fire. And Father, for
+[26:09] them to see your face, to know you, and
+[26:12] to find you. Father, I thank you,
+[26:15] Father, that you're not hiding from us.
+[26:17] You're just waiting on us. You're
+[26:19] saying, "God, Brandon, come up higher.
+[26:21] Come up higher in your thinking. Come up
+[26:23] higher in the way you pray. Come up
+[26:25] higher in the way you do things."
+[26:27] Because that's where I'm at. I'm not
+[26:28] down here in the chickens. I'm up here.
+[26:31] And Father, I thank you, Lord, that we
+[26:33] come up higher in our our ability to
+[26:34] believe you for more. We believe you for
+[26:37] more. That in 2025, we will soar. It's a
+[26:41] 2025 turnaround. That this will be a
+[26:43] year like we've never seen before. that
+[26:46] we go through the open door and that in
+[26:48] this window of opportunity and blessing,
+[26:51] Father, that we're the people that have
+[26:53] exceedingly abundantly above all that we
+[26:54] dare ask or
+[26:56] think. I thank you, Father, for
+[26:58] healings, for demonstrations and
+[27:00] manifestations of the glory on our
+[27:02] lives. Father, that we don't keep
+[27:04] walking around saying things and
+[27:06] believing things that are off, that we
+[27:08] believe what the word says. And that
+[27:10] God, you said that that we are snared by
+[27:12] the words of our mouth. that we say out
+[27:14] of our mouth, we're blessed in our we're
+[27:17] blessed. We're blessed in the city.
+[27:18] We're blessed in the field. We're
+[27:19] blessed coming in. We're blessed going
+[27:21] out. And that God, that you're a healer,
+[27:22] that you're the you're the God of more
+[27:24] than enough that heals us by the stripes
+[27:26] of Jesus. We believe, Father, that you
+[27:29] already paid the price for us, that we
+[27:31] walk in divine health, that we don't
+[27:33] have to walk in in a busted up life.
+[27:36] That, Father, that you paid the price
+[27:37] for us to walk in exceedingly abundantly
+[27:40] above all that we ask or think. Father,
+[27:42] I thank you that our cup overflows
+[27:44] today. We have an overflowing cup with
+[27:48] your glory over our lives
+[27:52] today. Father, we pray over all these
+[27:54] elections and over all the people that
+[27:56] are that are believing for their
+[27:58] countries to turn around. Father, you
+~~~
+
+<a id="section-08"></a>
+## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[28:00] said in your word that if we pray, we
+[28:02] humble oursel and pray you and turn from
+[28:04] our wicked ways that you would heal our
+[28:06] land. Now, Father, I thank you, Father,
+[28:08] that you're healing our land today. I
+[28:11] thank you, Father, that you're guiding
+[28:12] President Trump. You're getting rid of
+[28:14] the the leftist party out of the
+[28:16] Canadian uh uh uh leadership, Father,
+[28:19] that they'll have righteous people rise
+[28:21] up and vote, and the vote will be too
+[28:24] big to rig. It will be too big to rig in
+[28:27] Canada in the name of Jesus. We call
+[28:29] Canada have a supernatural election over
+[28:32] Australia, over over uh Zimbabwe.
+[28:36] There's so many people that are having
+[28:37] elections this year. We call forth a a
+[28:40] major turnaround in these countries for
+[28:43] this last outpouring of the spirit of
+[28:45] the Lord, Father, that they would ra
+[28:47] raise up men and women of God to run in
+[28:50] office, Father, to do mighty mighty
+[28:53] works for you, Lord. Father, to make
+[28:56] good laws, to turn around the laws that
+[28:58] are corrupt, for abortion, and for dark,
+[29:01] dark things. Father, I thank you, Lord,
+[29:03] that you're bringing forth the
+[29:04] righteous, the righteous in a mighty
+[29:06] army, Father, to raise up and say, "Hey,
+[29:09] enough's enough." Father, even the
+[29:11] unbelievers, Father, that do not see it.
+[29:13] Even the unbelievers that do not see uh
+[29:16] uh there because they have a reprobate
+[29:18] mind, their minds will come to them and
+[29:20] they'll say, "I'm going to vote right.
+[29:21] I'm going to vote right. I'm going to
+[29:23] vote right. I don't want to live
+[29:25] underneath this. This is not turning
+[29:26] right. This is not going
+[29:28] right. This is not going right, Father."
+[29:30] they would they would get on the path of
+[29:33] shakening to awaken them. I thank you,
+[29:36] Father. I thank you, Lord, for the
+[29:37] glory. I thank you, Lord, that
+[29:39] everything we put our hands to prospers.
+[29:41] I thank you, Lord, that our marriages
+[29:43] are restored. I call forth
+[29:45] restoration over our homes, restoration
+[29:48] over our families that father the
+[29:50] husbands and the wives that are uh that
+[29:52] are wewarded that father that they'll
+[29:54] come back to you that these families
+[29:56] father in the name of Jesus we bless
+[29:58] them in the name of Jesus we thank you
+[30:00] Lord that every single one of them are
+[30:02] healed and whole and well we bless them
+[30:04] we call them whole we call them well in
+[30:07] the name of Jesus that people would find
+[30:09] you and they would seek you and find you
+[30:12] father that we father that we call those
+[30:13] things that be not as though they were.
+[30:15] We call those things that be not as
+[30:17] though they were. We say they're healed
+[30:18] and whole and well. We call them
+[30:21] delivered and set free from drugs
+[30:23] addictions and and and sexual
+[30:25] perversions and over their lives.
+[30:27] Father, that they have the mind of
+[30:28] Christ, Father, that they no dementia
+[30:30] comes nigh these people anymore. We
+[30:32] speak to dementia to go now in Jesus'
+[30:35] name. We call healing and wholeness and
+[30:38] wellness over their bodies and over
+[30:39] their minds. We thank you Lord that you
+[30:42] God are the restorer of what the
+[30:44] cankerworm is trying to eat up in their
+[30:46] lives. We call healing and wholeness and
+[30:48] wellness over them in the name of Jesus.
+[30:50] That father everything the devil meant
+[30:52] for bad you said you're going to turn it
+[30:54] around for good in the name of Jesus. We
+[30:57] believe Father that you're the healer.
+[30:59] We believe Father that you're
+[31:03] deliverable to him who believe. We're
+[31:05] calling it in right now in the name of
+[31:07] Jesus. We're calling their circumstances
+[31:09] to turn. Father, that they'll wake up
+[31:11] and that God that everything that was
+[31:13] bad over the night, Father, it would be
+[31:15] good in the morning. Father, I thank
+[31:17] you, Lord, for the the glory of the Lord
+[31:19] is changing their circumstances. Father,
+[31:21] whatever meant, Father, the devil is
+[31:23] meant for bad, God. We do believe this
+[31:25] that you're turning around for good in
+[31:27] the name of
+[31:28] Jesus. Father, we thank you, Lord, for
+[31:30] revival.
+[31:32] We thank you for revival.
+[31:34] Father, we thank you, Father, for
+[31:37] revival. Lord, we thank you, Lord, for
+[31:40] the you're not done. You You're calling
+[31:41] the You're go leaving the 99 to go after
+[31:44] the one. Father, there will be a major
+[31:46] outpouring of your spirit, Father, in a
+[31:49] major major way like we've never seen
+[31:51] before. That this will be a time for a
+[31:53] great
+[31:55] shaking. Glory to God, Father. Your your
+[31:58] son is coming soon.
+~~~
+
+<a id="section-09"></a>
+## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[32:01] Oh Lord, we give you praise and glory
+[32:03] and honor, Father, for everyone that's
+[32:05] believing for breakthrough in their life
+[32:07] today. We believe that you're the God of
+[32:09] the breakthrough. We believe that you're
+[32:11] the God of the breakthrough. The
+[32:14] breakthrough, it's time to walk through
+[32:16] and have a breakthrough in your life.
+[32:18] Breakthrough is coming. Breakthrough is
+[32:20] here. It's time, Father. We thank you
+[32:23] that they're no longer going around that
+[32:25] that mountain anymore. that they're
+[32:26] coming up out and they're and they're
+[32:28] going to to to conquer their mountains
+[32:30] by speaking to it. Speak to your
+[32:33] mountain. They're speaking to that.
+[32:34] They're speaking spirits speaking to
+[32:36] that mountain and telling it to be
+[32:37] dissolved. Be dissolved. Go away. Be
+[32:41] cast into the
+[32:43] sea. We give you all the glory, honor,
+[32:45] and praise for that. Lord, thank you,
+[32:48] Father. Thank you, Lord, for stirring in
+[32:51] every single one of their hearts today.
+[32:53] Thank you, Lord. They're stirred.
+[32:54] They're stirred. They're stirred.
+[32:56] They're stirred. Father, every one of
+[32:58] them are stirred up inside. They're
+[32:59] excited about life in the name of Jesus.
+[33:02] There's no more confusion. There's no
+[33:03] more
+[33:05] bondage. Lord, we give you glory, honor,
+[33:07] and praise for it in Jesus name. We
+[33:09] thank you, Lord, for for President
+[33:11] Trump, like I said, that you put a hedge
+[33:12] of protection around and about him and
+[33:14] and JD Vance and around his wife and his
+[33:17] children. We pray a hedge of protection
+[33:19] around and about them in the name of
+[33:21] Jesus. Father, they would know you on a
+[33:23] supernatural level. Father, that JD
+[33:25] Vance and and President Trump would have
+[33:27] a visitation of the glory in the White
+[33:30] House, a glorious visitation in the
+[33:33] White House in Jesus name. Do you
+[33:34] believe that Braden that Father that
+[33:36] Congress, Senate, and House will have a
+[33:38] glorious visitation in the name of
+[33:40] Jesus? We thank you, Lord, for the
+[33:41] glory. We thank you, Lord, that you
+[33:43] touch every single person who's watching
+[33:45] this video right now. Father, there is a
+[33:47] mighty move of the spirit of the Lord.
+[33:49] Father, and it's filling up the cup and
+[33:52] the glory is running over. Father, we
+[33:54] fill our cup, Lord, and we lift it up,
+[33:56] Lord, because we need a fresh touch of a
+[33:59] new wine today. New wine and new wine
+[34:01] skins, breaking off the old. Father, we
+[34:05] give you glory, honor, and praise in the
+[34:06] name of Jesus.
+[34:13] Holy Spirit, help
+[34:16] me. Help me. Holy
+[34:19] Spirit, lead me right now. Help me. I
+[34:23] want so much for your people to be
+[34:26] free. I want so much for your people to
+[34:29] be free,
+[34:30] Father. I know you want them to be free.
+[34:33] I know that they they're walking in
+[34:35] bondage. So many of them, Father, time
+[34:37] and time again.
+[34:41] Father, that they are
+[34:43] um doing the same thing after 20 years
+[34:46] and expecting different results is very
+[34:49] annoying. Help me, Father, to teach what
+[34:52] I've learned, Father, to see the
+[34:54] breakthroughs that I've seen in my life.
+[34:57] Help me
+[34:58] God, Father, that it's not meant for us
+[35:01] to keep walking around in the desert
+[35:03] year after year after year after year
+[35:06] being frustrated, expecting new,
+[35:10] expecting something supernatural and and
+[35:12] never seeing it. God, I we want to
+[35:16] experience the
+[35:18] glory. We want to experience the glory.
+[35:21] They're not the size. We are not the
+[35:24] size of grasshoppers, Father. We are the
+[35:27] people that will take the
+[35:30] land. Show us, Father, how to take the
+[35:34] land. And we do it with you. Put our
+[35:37] boat into
+[35:38] motion. Father, we put our boat into
+[35:41] motion today and expect different
+[35:47] results. We're We're not going to walk
+[35:49] around this. We're not doing it no more.
+[35:53] Well, Father, we worship you. We worship
+[35:55] you, God, that you're giving us the
+[35:57] ideas to do what we need to
+[35:59] do. Oh, Father, we praise you, Father,
+~~~
+
+<a id="section-10"></a>
+## 10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[36:02] that we don't get frustrated and weary
+[36:04] and welloing, but God, we're asking,
+[36:06] Father, for a new direction change. Show
+[36:09] us to change the directions,
+[36:13] Lord. They say, "Oh, wow. I've heard so
+[36:17] many people and so many cries of help.
+[36:21] all the mothers and the fathers that are
+[36:23] looking for
+[36:25] something. All I know, God, is that it's
+[36:28] at your
+[36:29] feet. And all I know, Father, is that
+[36:33] whenever I seek you, you will find you.
+[36:34] And it's the anointing, Father.
+[36:37] Everything is about the anointing. It's
+[36:39] the anointing. It's the burden removing,
+[36:41] yoke destroying power. It destroys the
+[36:44] bondage off of our lives. It's the
+[36:46] anointing of the Holy Ghost. And Father,
+[36:48] we believe for that anointing. We
+[36:51] believe, Father, that you're touching us
+[36:53] from glory to glory. You're changing us
+[36:57] today. We just get quiet. All this
+[36:59] staring around. It's like, oh, it's like
+[37:01] a panic. You go, "Oh no, what are we
+[37:02] going to do? What are we going to
+[37:04] do?"
+[37:06] Peace, peace, peace, peace. In the midst
+[37:10] of all the storm, we call peace. We call
+[37:14] peace to all the storms in people's
+[37:16] lives today. Peace. That peace that
+[37:19] passes all understanding. We call peace
+[37:21] I leave. You said peace I leave with
+[37:23] you. My peace I give to you. We believe
+[37:26] for peace today. We believe Father that
+[37:28] we operate and we walking in that peace
+[37:30] and that joy. And Father, you said in
+[37:33] your word that we could ask for it and
+[37:36] it will be done. We're believing Father
+[37:38] that there's a supernatural turnaround
+[37:41] on our lives
+[37:43] today in every area of our life.
+[37:49] Father, we thank
+[37:53] you, Lord. Holy Spirit, thank you, Lord.
+[37:56] You help us. You show us what to say.
+[37:59] You show us what to do. And we'll do it.
+[38:02] We'll obey
+[38:04] you. We'll obey you because one word,
+[38:07] one word from God, one word from God, an
+[38:10] anointed word will change your life
+[38:12] forever. An anointed word from God will
+[38:16] change your life forever. All you need
+[38:19] is one
+[38:20] word and in that impartation it will
+[38:23] change you
+[38:24] forever. Do you believe that? They need
+[38:27] to believe that. I believe it. It's just
+[38:29] that sitting at his feet for that one
+[38:31] second. All you need is that one word.
+[38:35] It's a sentence or a paragraph or
+[38:37] whatever. This is it. Boom. and the Holy
+[38:40] Spirit just blows on it and you're and
+[38:42] and you're on the right road going 1,000
+[38:44] miles an hour. I mean, you know, I just
+[38:48] believe it. It's at his feet. It's at
+[38:53] him. Glory to God, Father. We just We're
+[38:56] so
+[38:57] desperate. We're so desperate for you.
+[38:59] We need
+[39:01] you. We need more of you, Father. I need
+[39:04] I know you said we have all of you, but
+[39:06] Father, I I I need less of me in the way
+[39:09] then. I need more of revelation
+[39:12] knowledge. I need more,
+[39:15] Father. We give you all the glory,
+[39:17] honor, and praise. Father, we're so
+[39:19] thank you. We're so thankful. We're so
+[39:21] grateful for all that you've done and
+[39:24] all that you're going to do already.
+[39:26] It's already you're already there. I
+[39:28] know the answer is coming for what we're
+[39:30] believing for.
+[39:34] Thank you, Father, in the name of Jesus.
+[39:37] And everyone say amen and amen. Well, I
+[39:40] know that was a little different of a
+[39:41] video.
+[39:43] Uh I I just I I don't want to waste
+[39:46] y'all's time, like I said, and I and I
+[39:48] just I'm excited to to talk to y'all.
+[39:50] And this is just things that I think
+[39:52] during the day. And maybe say, "Well,
+[39:53] boy, you think a lot." Yep, I do. I
+[39:56] think a lot. I I I I I just think how do
+~~~
+
+<a id="section-11"></a>
+## 11. 40:00–41:26 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[40:00] you get out of the circumstances when
+[40:04] you see so many people you
+[40:07] love doing the same thing? I have I have
+[40:10] family that that need need breakthrough.
+[40:14] They need this and and I I get and you
+[40:16] can't say certain things because they
+[40:17] won't receive it from you. You know,
+[40:20] people won't receive certain things from
+[40:21] you because they're too familiar with
+[40:22] you. And so, um, you want to help them,
+[40:26] but and and tell them you're this is off
+[40:28] because I know by the spirit of God it's
+[40:30] off, but you want to help them and they
+[40:32] won't listen and you
+[40:36] go, you know, I just I if I if I could
+[40:41] just help one person today, I've done my
+[40:43] job. But we just bless you all. Thank
+[40:46] you for Thank you for following us.
+[40:49] Thank you for watching these videos.
+[40:51] Subscribe if you haven't subscribed.
+[40:53] Click the notification bell if you
+[40:54] haven't clicked the notification bell.
+[40:56] Uh click the thumbs up. Comment
+[40:58] something nice below if this blessed
+[40:59] you. You know, if I didn't, then you
+[41:01] say, "Well, you know, I'll try better
+[41:02] next time." You know, it is all I can do
+[41:05] is keep trying and keep going and going
+[41:07] and going. Help me, Holy Spirit, to do
+[41:10] the best I can for you because we're all
+[41:12] work in progress and he's faithful. So,
+[41:16] but we always close the broadcast by
+[41:18] saying this. Put a smile on your face
+[41:20] and a song in your heart. Jesus loves
+[41:23] you so much and we love you. God bless
+[41:24] you all and we'll see you again
+[41:26] tomorrow. Bye-bye.
+~~~

@@ -1,0 +1,899 @@
+# The most important thing you can do to prepare for what The Lord has showed me coming
+
+**视频**: https://www.youtube.com/watch?v=_r7WXLUzavE
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/The most important thing you can do to prepare for what The Lord has showed me coming [_r7WXLUzavE].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 789；**章节数**: 9；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-01)
+- [02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-02)
+- [03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-03)
+- [04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-04)
+- [05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
+- [06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-06)
+- [07. 24:00–27:59 · 教会、复兴与信仰、物资、能源与供应链](#section-07)
+- [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
+- [09. 32:00–33:06 · 祷告、敬拜与现场互动](#section-09)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] hey good morning family I was in prayer
+[00:02] like I normally do and um he said I want
+[00:05] you to teach them how to get strong I
+[00:08] want you to teach them how to find their
+[00:09] own food there are hard days coming and
+[00:13] I need you all to understand that we're
+[00:16] in a time like never before this is a
+[00:19] time that is very serious we are in the
+[00:22] last of the last seconds before Jesus
+[00:25] Christ comes back yes there's things
+[00:27] that still need to take place there is a
+[00:29] great Revival that will take place a
+[00:31] great harvest of souls but we've got to
+[00:35] start standing and you need to learn how
+[00:37] to stand on the word and and your
+[00:40] Covenant and the blood going over
+[00:43] Ephesians over and over and over in the
+[00:46] book of Acts Romans reading it over and
+[00:49] over and over again so you understand
+[00:52] who you are in Christ I'm just trying to
+[00:54] tell you I you know a lot of people say
+[00:56] you're trying to scare us you're trying
+[00:57] to do this no I'm trying to prepare you
+[00:59] I'm trying to mentally prepare you
+[01:01] because the more you hear it the more
+[01:03] you're going to become ready for it the
+[01:06] more of these churches the churches are
+[01:08] preaching compromise they're not
+[01:09] teaching you what's going to come and
+[01:11] what's about to happen a lot of them are
+[01:13] just teaching you a little bitty thing
+[01:15] just to get you to give your offerings
+[01:17] and your and your times and whatever
+[01:19] they can get out of you for that 30
+[01:21] minutes they teach you a little water
+[01:23] down milky word and then they send you
+[01:25] on your way because they don't want to
+[01:27] they don't want to ruffle the feathers
+[01:28] they don't want to cause the big main
+[01:30] givers to stop coming to church because
+[01:33] they're the bread the bread of the
+[01:34] church they come in there and they they
+[01:36] they you all bless and seow and you and
+[01:39] you give to these people but they're not
+[01:41] teaching you how to stand by faith and
+[01:43] how to live by faith and how to combat
+[01:46] what's about to happen there are some
+[01:48] really good churches out there and as
+[01:50] long as they're preaching and teaching
+[01:52] you how to stand and live by faith and
+[01:55] how to to to combat what's in the for
+[01:57] what's coming in the days ahead then
+[02:00] you're good don't but if you're getting
+[02:02] a watered down word and you're not
+[02:05] hearing the the
+[02:07] truth run run you've got to know you you
+[02:12] got to know this stuff and so this is
+[02:14] part of what the Lord has told me for
+[02:16] today a good percent of you do not know
+[02:20] how to speak in tongues do not
+[02:23] understand the baptism of the Holy
+[02:24] Spirit at all and it is very important
+[02:28] you all ask me all the time how do you
+[02:30] see the things you see how do you go
+[02:32] where you go in the spirit it is not by
+[02:35] praying in English I get there by
+[02:37] praying in tongues praying in the Holy
+[02:40] Ghost and I do this all the time I
+[02:43] practice praying in the spirit I would
+[02:46] say and I don't want to I'm not going to
+[02:48] exaggerate I'm going to say this
+[02:50] probably 80% of my day in some way I'm
+[02:53] praying in the spirit underneath my
+[02:55] breath driving down the road out doing
+[02:57] yard work whatever I've just practiced
+[02:59] it's like like lifting weights I've just
+[03:01] learned how to practice speaking in
+[03:04] tongues and doing it all the time I try
+[03:07] all the time whether if if I get
+[03:08] distracted with something if whatever
+[03:10] I'm I'm walking down the hall or
+[03:12] whatever I'll end up just I'll start
+[03:14] praying in tongues or I sing in the
+[03:15] spirit or
+[03:17] whatever and a lot of people on here go
+[03:19] well you have you can't pray in tongues
+[03:22] unless you have an interpreter you're
+[03:24] wrong and I'm going to prove it today
+[03:26] I'm going to show you the scriptures to
+[03:27] tell you how wrong you are I pray in the
+[03:30] tongues all the time and you need to
+[03:33] know this you need to pray in this and
+[03:35] so this is where I'm going to go with
+[03:36] this just like we have Angelic presence
+[03:40] that watch over us there is a demonic
+[03:43] presence that that is is assigned like a
+[03:47] familiar spirit that is assigned to
+[03:50] watch you and so when you have that
+[03:53] demonic spirit that tries to follow you
+[03:55] around tries to watch and hear what
+[03:57] you're going to be saying because I told
+[03:59] you you're life and death is in the
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:01] power of the tongue what you say out of
+[04:03] your mouth yesterday is what you're
+[04:05] living today it's a it's a process you
+[04:09] say and you sew with your mouth and
+[04:11] you're reaping the Harvest uh the next
+[04:14] day so you have got to learn that your
+[04:17] tongue is powerful and
+[04:20] so the enemy listens to your prayers the
+[04:24] enemy tries to to see where you're weak
+[04:27] that day and he watches and he listens
+[04:30] because he can go back and Report well
+[04:32] she's having a problem with depression
+[04:34] because she's praying about depression
+[04:35] today or she's having a problem with
+[04:37] anxiety or she's having a problem with
+[04:39] her husband and they're fighting and I
+[04:41] hear what she's saying in her tongue and
+[04:43] how she's complaining all the time so we
+[04:45] just got to keep putting pressure they
+[04:47] go back and they
+[04:49] strategize how do I put pressure in that
+[04:52] area to keep hitting her because we know
+[04:55] what we're doing is working how do we
+[04:56] keep hitting her in that area or him in
+[04:59] that area are because if we can we're
+[05:01] going to we're going to win so you start
+[05:03] saying all this stuff out of your mouth
+[05:05] and you and you're praying oh god oh I'm
+[05:07] having a hard time today God please help
+[05:10] me help me oh Johnny's out doing drugs
+[05:13] again you're interceding so just like
+[05:16] how how it was whenever when you're in
+[05:18] Army times you know you would send a a a
+[05:22] pigeon to go and they would put the the
+[05:24] message and they would they would send
+[05:26] the pigeon over to the to the to the
+[05:29] other people to tell them a secret code
+[05:32] of what was going on in the battle the
+[05:34] same then they brought cryptographers in
+[05:36] and they brought the cryptographers in
+[05:38] and and it was a secret message and only
+[05:40] the really genius people could to could
+[05:43] go and and and decipher that message
+[05:45] because they didn't want the enemy to go
+[05:48] ahead and get the battle plans of what
+[05:50] they were going to do so they would send
+[05:52] a secret code out for the cryptographers
+[05:54] that only they would know and understand
+[05:56] that message that was going forth when
+[05:58] you get in the spirit and you're praying
+[06:00] in tongues the enemy does not know what
+[06:03] you're praying okay so he's confused
+[06:06] he's he doesn't want you praying in the
+[06:08] spirit that's why it's been hit so hard
+[06:10] in the body of Christ Satan has come
+[06:12] against praying in tongues more than any
+[06:15] other gift you can hear about you you
+[06:17] know we hear about prophecy you hear
+[06:19] about all these other things in the
+[06:20] church and the church has embraced it
+[06:22] but if you start talking about praying
+[06:23] in tongues the church it's of the devil
+[06:27] I haven't heard anybody in a bar smoking
+[06:30] weed or drinking or going and looking at
+[06:32] strip clubs praying in
+[06:36] tongues look at that girl on that pole
+[06:39] they're not doing that because if it was
+[06:41] of the devil the devil's crowd would be
+[06:43] doing it okay they would be out drinking
+[06:47] whiskey and and praying in tongues the
+[06:49] devil wants you to be good at sin he's
+[06:52] going to have you pushing as hard as you
+[06:54] can at sin as you can whether it's
+[06:56] witchcraft or whatever so have you ever
+[06:59] been in a a R-rated movie and having
+[07:02] somebody cussing and acting stupid
+[07:04] praying in tongues Sin is Sin folks and
+[07:07] the devil's a master at making people in
+[07:09] sin so everybody going to say well
+[07:12] praying in tongues of the devil then why
+[07:14] is the devil's crowd not doing it let's
+[07:17] you let the elevator go to the top
+[07:19] folks hello I'm just trying to be real
+[07:22] with y'all it's it's a gift and the
+[07:25] devil's deceived the church trying to
+[07:27] tell them that it's of the devil of him
+[07:29] so you won't want to do it and you don't
+[07:31] want to touch it because he knows how
+[07:33] effective the prayer is and how you can
+[07:35] get in the spirit and whip his butt and
+[07:38] people don't want people don't want to
+[07:40] touch it and they go and they push it
+[07:42] back and they go well we don't want this
+[07:43] in our church because because oh well
+[07:45] it's of the devil and and the devil's
+[07:47] going oh good we want again and all and
+[07:50] all you all are doing is just fall to
+[07:52] his evil deceit speaking in tongues is a
+[07:55] tool and so whenever you have an ability
+[07:58] to be able to give hidden messages to
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:00] the Lord by speaking in tongues when the
+[08:02] spirit prays through you and causes
+[08:05] intercession to go through you you're
+[08:07] able to pray the Mysteries and you're
+[08:09] hitting the Target right on because
+[08:10] you're not praying out of the flesh your
+[08:12] spirit bypasses your brain because
+[08:15] you're not praying all of the the the
+[08:17] drama of the day of all the heaviness of
+[08:20] well my boss did me wrong I'm fighting
+[08:22] with my wife or or or my kids are out
+[08:25] acting crazy or whatever all the stuff
+[08:27] that you would want to say out of your
+[08:28] mouth
+[08:30] to speak bad in out of your mouth
+[08:32] concerning your circumstances because
+[08:34] the devil's over there writing it all
+[08:35] down oh look see she this work this work
+[08:37] this work you're going oh
+[08:41] no and you go in there and you get in
+[08:43] the spirit you start activating out of
+[08:45] your spirit and it bypasses your brain
+[08:47] and you're in the spirit and then the
+[08:49] more you practice it the more you start
+[08:51] flowing in the Holy Ghost he's able to
+[08:53] to to to to pray through you and you
+[08:57] start singing songs in the spirit just
+[09:00] like it talked about how the Apostle
+[09:02] Paul and Silas uh Paul and Silas was in
+[09:06] uh the the prison and the Bible says in
+[09:08] Acts that they started singing songs in
+[09:11] the spirit and and the and and the power
+[09:14] of God filled the Jael cell and and they
+[09:16] were set free there is a great Mighty
+[09:19] earthquake that came you need to know
+[09:21] the same power that that that was in
+[09:24] that Jael cell was inside of you and you
+[09:27] have the same ability to pray in the
+[09:30] spirit and call down the fire just like
+[09:33] they did and I'm telling you God has a
+[09:36] plan for your life and he has a plan to
+[09:38] set you free and the only way you're
+[09:40] going to get there in these last days is
+[09:43] by praying in the spirit and I pray in
+[09:45] the spirit and I'm intercede in the
+[09:46] spirit and this stuff happens all the
+[09:48] time I I'll be praying in the spirit
+[09:50] about circumstances concerning my wife
+[09:52] or concerning my kids I bar verely
+[09:55] seldom do I ever pray in English I'm
+[09:57] telling you I I I do if I if I'm in
+[10:00] front of other people you know because I
+[10:03] want them to join in with me but
+[10:06] 99.9% of my day is praying in tongues
+[10:10] here I'm going to give you a scripture
+[10:11] this is 1 Corinthians 14: 2 for he that
+[10:15] speaketh in an unknown tongue speaketh
+[10:18] not unto men but unto God for no man
+[10:22] understands him how be it in the spirit
+[10:25] he speaketh Mysteries here's another uh
+[10:28] scripture I want to give you Jude 1: 20
+[10:32] but ye beloved building up yourself on
+[10:35] your Most Holy Faith praying in the Holy
+[10:38] Ghost so the holy spirit is making
+[10:41] intercession for you whenever you are
+[10:45] praying and yielding yourself over to
+[10:47] the Holy Spirit he is praying through
+[10:50] you and making intercession through you
+[10:53] cuz we know not it just like it said for
+[10:55] we know not what we should pray for for
+[10:59] as we ought but the spirit itself maketh
+[11:02] intercession for us with groanings which
+[11:05] cannot be uttered so it comes out cuz we
+[11:08] cuz like I said when you're praying in
+[11:10] your intellect and you're praying in
+[11:11] your natural mind and you're praying uh
+[11:15] all the things of your flesh and you're
+[11:17] and you're and you're asking God well I
+[11:19] need this and that you don't even know
+[11:21] what you really need you don't even know
+[11:23] how to get the outcome in the natural
+[11:26] for what you're going through because
+[11:27] you your your marriage could be in
+[11:29] trouble your your kids can be in trouble
+[11:31] but you're praying only what your
+[11:33] intellect knows instead of shooting
+[11:35] blindly at a Target instead of praying
+[11:38] that way you're hitting the Target on
+[11:40] the bullseye when you're praying in
+[11:41] tongues and you're you're going well I I
+[11:44] need this I need that but the spirit
+[11:46] knows more than you of course the Holy
+[11:48] Ghost knows more than you the Holy
+[11:50] Spirit and so he's praying through you
+[11:52] in tongues to move the circumstances of
+[11:56] what you need with a perfect prayer and
+[11:58] it's coming out out of your spirit so
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:01] you know a lot of people say well uh how
+[12:03] do I get there how do I re how do I
+[12:05] receive the baptism of the Holy Spirit
+[12:08] just like Peter was stepping out on the
+[12:10] water and he was the only man that we
+[12:13] know of that walked on the water other
+[12:14] than
+[12:16] Christ he had to do it by faith and he
+[12:19] had to step out and use his legs to step
+[12:22] out of the boat and walk on the water
+[12:24] you cannot stand stand there like a
+[12:27] puppet and expect the spirit of the Lord
+[12:29] to move through you and move your tongue
+[12:32] you can't be like a wooden doll sitting
+[12:34] there you've got to do it by faith
+[12:37] you've got to start speaking out of your
+[12:41] mouth and it may sound crazy to you and
+[12:44] you start speaking out of your mouth and
+[12:46] the Holy Ghost will start taking over
+[12:47] your tongue and it'll start flowing
+[12:49] through you and the more you do it the
+[12:51] more you yield to the Holy Spirit I
+[12:54] yield to you Holy Spirit pray through me
+[12:56] today
+[13:02] you start praying that gift out of you
+[13:04] you start interceding you start yielding
+[13:07] to it he will start taking over you
+[13:09] you'll start just flowing and then it'll
+[13:10] go and it'll go and it go and then and
+[13:12] you'll start see and I'm telling you
+[13:14] this is how I see mountains moved and I
+[13:18] walk in the spirit the way I do uh
+[13:21] seeing the supernatural you want to
+[13:23] start going in the Supernatural you want
+[13:25] to start walking in the things of the
+[13:27] spirit you have got to start start
+[13:29] praying in the Holy Ghost concerning
+[13:32] your circumstances every single day do
+[13:36] you think that Paul and Silas was
+[13:39] singing in the spirit by singing Amazing
+[13:42] Grace how sweet the sound that saved a
+[13:48] rich like me no I believe they were
+[13:53] singing in the spirit singing in in
+[13:56] tongues
+[14:04] [Music]
+[14:09] he got they got over in the
+[14:12] spirit he was praying in the tongues is
+[14:14] bringing forth a holy ghost fire in that
+[14:16] Hol that jail cell and and and the walls
+[14:19] begin to shake and the power of God set
+[14:22] them free what I'm trying to say to you
+[14:25] is you've got to tap into a higher
+[14:27] source you've got to tap tap into the to
+[14:30] the Holy Ghost in these last days if you
+[14:32] want to see these Miracles and the last
+[14:34] outpouring and the Greater Works will we
+[14:37] do you've got to tap into the to the to
+[14:39] the greater power and the greater power
+[14:42] is the Holy Ghost and he dwells on the
+[14:44] inside of you living by faith and you've
+[14:47] got to pray in tongues and you've got to
+[14:48] seek his face and that's how I do it so
+[14:51] I'm just trying to be real with you all
+[14:53] today cuz I was just just asking how do
+[14:56] I take these people to another level
+[15:00] and and and out of my own ignorance I
+[15:02] thought well a lot of you probably know
+[15:04] how to pray in tongues and the Lord
+[15:06] revealed to me that you do not so I'm
+[15:09] going to put in the description right
+[15:11] now why tongues it's a lot more
+[15:14] education on this than what I just gave
+[15:17] you um it's a little pamphlet a little
+[15:20] booklet right here you'll see it in the
+[15:22] description why tongues it's by Kenneth
+[15:24] Hagen Ministries and so and this this
+[15:27] little pamphlet will help you out a lot
+[15:30] and so I just pray right now in the name
+[15:32] of Jesus that everybody who is watching
+[15:35] that desires to be baptized in the Holy
+[15:38] Ghost Holy Spirit move on them right now
+[15:42] I ask you to fill them from the top of
+[15:44] their head to the SES of their feet with
+[15:47] the power of the Holy Spirit right now
+[15:50] and you go and you right now you just
+[15:52] start yielding and you start praying
+[15:54] with me
+~~~
+
+<a id="section-05"></a>
+## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[16:02] you got to yield you got to move your
+[16:04] mouth you got to do it by faith he's not
+[16:06] going to come over and take your tongue
+[16:08] over you've got to do
+[16:13] it it may sound goofy to your ears but
+[16:17] it got it comes up out of your spirit
+[16:19] he's going to take over your tongue
+[16:20] right now you just got to yield to it
+[16:22] right now
+[16:39] oh Father we pray a perfect prayer to
+[16:41] you today that the enemy does not know
+[16:43] what we're saying he does not have a
+[16:45] clue because he's blinded he doesn't
+[16:47] hear the truth he doesn't understand
+[16:49] what the holy spirit cuz he's not a
+[16:50] spirit Devil he's a flesh devil he's not
+[16:53] in the he's a flesh devil and he's mad
+[16:56] cuz he doesn't hear what we're praying
+[16:58] and we're praying what the Holy Ghost
+[16:59] tells us to pray and so father we yield
+[17:02] oursel to the to the Lord to the Holy
+[17:05] Spirit right now pray through me Holy
+[17:07] Spirit use me oh Father you that you
+[17:11] would you would anoint me to do
+[17:13] something great in these last days do
+[17:15] something great in our life in in these
+[17:17] last days father to be a to to be at the
+[17:20] spout where the glory comes out to be
+[17:23] those people that are used mightily in
+[17:25] these last days and father I thank you
+[17:27] it's by the baptism of the holy spirit
+[17:30] that we yield oursel to
+[17:32] it and we thank you Father we thank you
+[17:35] Lord for your glory and what you're
+[17:37] going to do in these people's life today
+[17:39] thank you
+[17:41] Father just like the old uh the old
+[17:44] person uh William Seymour that was in
+[17:47] the um the African-American preacher
+[17:49] that was out in theu zuu Street Revival
+[17:52] he said dip my heart in the kerosene of
+[17:55] thy spirit that I may burn for you dip
+[17:58] my my heart and set my heart Ablaze Lord
+[18:02] that I may burn for you set me on Fire
+[18:05] Lord with your spirit dip my heart in
+[18:08] the kerosene of thy Spirit set my heart
+[18:11] Ablaze that I may burn for you
+[18:16] Lord you've got to be
+[18:19] desperate you've got to be
+[18:22] hungry you've got to you've got to let
+[18:24] the Holy Ghost move through you how
+[18:27] desperate how bad do you want him in
+[18:29] your
+[18:30] life there is a level that he wants to
+[18:33] take you and it's through prayer and
+[18:36] you've got to yield yourself you got to
+[18:37] come up higher and come out of your
+[18:39] intellect that you are yielding yourself
+[18:42] to to him to pray through
+[18:45] you the only way you're ever going to
+[18:48] tap into the greater greater
+[18:50] manifestations of the spirit of God is
+[18:52] by the baptism of the Holy Spirit if you
+[18:55] don't get that you're not going to walk
+[18:57] over there I'm telling you
+[18:59] you it's it's just religion and yes
+[19:02] prayers he hears all our prayers he
+[19:04] loves you but I'm telling you you want
+[19:06] to be able to go bypass the devil
+[19:09] because I'm telling you those familiar
+[19:10] spirits are assigned to you to listen to
+[19:14] you let's go up higher today let's go up
+[19:18] higher today Jesus has a plan for your
+[19:21] life he loves you so much and he wants
+[19:24] you to walk in the greater anointing and
+[19:26] the greater power and he wants you to to
+[19:28] to lay hands on the sick and see them
+[19:30] recover there's part of the impartation
+[19:33] of the spirit when you laying hands on
+[19:35] somebody and the fire flows through you
+[19:36] when you're praying in tongues and then
+[19:38] go well you got to have an interpreter
+[19:40] no no I just showed you in scripture you
+[19:42] don't have to have an interpreter and
+[19:43] every all that that's when you're
+[19:45] prophesying in church that's whenever
+[19:47] you go and you deliver a tongues in in
+[19:50] church and and they prophesy and they
+[19:52] and they're interpreting the tongue yeah
+[19:55] it it's a lot of confusion if
+[19:57] everybody's always uh
+[19:59] praying out loud and in in tongues in
+~~~
+
+<a id="section-06"></a>
+## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:01] church and and the preachers preaching
+[20:04] you got to do everything in order you
+[20:05] can't be flaky you know but whenever you
+[20:09] pray as a unit in tongues in church in a
+[20:11] prayer service there's power in that
+[20:14] prayers they because because you bring a
+[20:17] piece of the gift a piece of the pie
+[20:19] they bring a piece of the pie everybody
+[20:20] that brings their their piece and and
+[20:23] you're praying as a unit it brings those
+[20:25] those gifts together and and there's
+[20:28] there there's great power in that you
+[20:30] get all this through prayer y'all
+[20:33] listening and hearing him and developing
+[20:35] your the the spiritual voice your inner
+[20:37] inner in your inner voice by praying in
+[20:39] tongues and reading your Bible that's
+[20:42] how I hear him so well I pray in the
+[20:44] spirit I read my Bible I pray in the
+[20:47] spirit I read my Bible and I develop
+[20:50] that over and over and over and over and
+[20:53] that's how I built myself up all over
+[20:55] over these years through the Holy Spirit
+[20:57] leading leading me finding books that
+[21:00] that that inspire you get books to
+[21:02] inspire you there's a problem whenever I
+[21:04] hear all these people ask tell me I
+[21:06] don't hear the lord it's in the comment
+[21:08] section over and over I don't hear the
+[21:10] Lord the Lord doesn't speak to me he
+[21:12] said my sheep will hear my voice and a
+[21:16] stranger's voice they will not follow
+[21:19] and I hear it in the comment section all
+[21:21] the time I don't hear the voice of the
+[21:23] Lord I don't I don't understand how to
+[21:26] even follow him for my life you first
+[21:28] you got to understand that your Covenant
+[21:31] you've got to understand what I mean by
+[21:32] Covenant is just like how you have a if
+[21:34] you have a spouse or whatever you're in
+[21:36] Covenant with them what's mine is is is
+[21:38] theirs and what's yours is mine you know
+[21:41] vice versa a covenant is that you you
+[21:43] you joined up in a marriage and you're
+[21:45] in Covenant with that spouse what God
+[21:46] has put together let us man no man put
+[21:48] us under I get that but what I'm trying
+[21:50] to say is is the Covenant is whenever
+[21:53] you have an exchange and you're in
+[21:55] Covenant with the Lord you accepted him
+[21:57] into your heart now now you everything
+[22:00] that is in heaven is yours and
+[22:02] everything that you have is his so it's
+[22:04] a vice versa it's a covenant you but
+[22:06] you're in a better Covenant you're in a
+[22:08] better lineup with him because he has
+[22:10] because he has it all he has a cattle on
+[22:13] a thousand hills everything he has is
+[22:15] yours and everything that you have is
+[22:17] his so when he asks you to give and when
+[22:19] he ask you to do stuff be quick to obey
+[22:22] when he tells you to give somebody
+[22:23] something in the offering a church or
+[22:25] whatever obey because that because he
+[22:28] has a great he has everything he has he
+[22:31] has it all and he's want to give back to
+[22:33] you good measure press down shaken
+[22:35] together and running over will it be
+[22:37] given back to you will men go under your
+[22:40] bosom I'm telling you you start getting
+[22:42] in line with the Lord and you start
+[22:43] getting in your Covenant with him and
+[22:46] and he'll start taking care of you he'll
+[22:47] start taking care of all these people
+[22:48] say well I can't get out of sin I can't
+[22:50] do all this stuff because because how am
+[22:52] I going to make it God is able to do
+[22:56] exceedingly abundantly of all that you
+[22:59] dare ask or think according to the power
+[23:02] that worketh through you and in you
+[23:03] you've got to get out of this small peab
+[23:05] brain thinking you're dealing with the
+[23:08] great god Jehovah he is huge and he
+[23:11] wants to move in your
+[23:13] behalf yield yourself to him let him be
+[23:17] the captain of your ship stop steering
+[23:20] your boat you're not doing a good job
+[23:23] let God Be Your Captain let God steer
+[23:26] your ship but you you got to get the
+[23:29] Holy Ghost inside of you you got to get
+[23:31] that word down inside of you understand
+[23:33] who the what the blood did for you what
+[23:36] it did the blood set you free the blood
+[23:39] of the Lamb by the word of Our Testimony
+[23:41] you need to understand what the blood
+[23:43] represents and how the devil hates the
+[23:46] blood the anointing oil that I'm always
+[23:48] talking about you telling you to anoint
+[23:50] your kid with oil is a representation of
+[23:52] the blood it's not oil that that stops
+[23:55] the devil from coming into your house
+[23:57] who cares about olive oil the olive oil
+~~~
+
+<a id="section-07"></a>
+## 07. 24:00–27:59 · 教会、复兴与信仰、物资、能源与供应链
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、物资、能源与供应链、疾病、医疗与药品。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[24:00] is not going to scare the devil away
+[24:02] okay it's the it's what you're doing by
+[24:05] faith to anoint your house it's applying
+[24:08] the blood it's it's a it's it's a
+[24:09] symbolic okay you're putting the
+[24:12] bloodline over your kid by anointing
+[24:14] them with oil putting it on your
+[24:16] doorpost or on your door frame or on
+[24:18] your house to put the devil out of your
+[24:20] house the olive oil doesn't have power
+[24:22] by itself y'all it's a symb it's a
+[24:25] symbolism of the blood of Jesus I apply
+[24:28] the blood of Jesus over my house over
+[24:32] the threshold of my house over my
+[24:34] windows and where the blood is the devil
+[24:38] cannot cross over and bother you okay
+[24:41] over your dead bed post you're plying
+[24:44] the blood it's not olive oil and some
+[24:46] people like what does that mean I I I'm
+[24:48] sorry I I I forget a lot of you are not
+[24:51] church like I have been Church been in
+[24:54] there and taught by your pastors to
+[24:56] teach you about about the power of the
+[24:58] blood of Jesus and what he did to set
+[25:00] you free the blood will never lose its
+[25:05] power it is the ultimate power in your
+[25:08] life the blood of Jesus Christ saved you
+[25:11] from the hell it cleansed you from all
+[25:14] un righteousness it heals your body his
+[25:16] stripes healed You by his stripes your
+[25:18] whole and it's the what drives out
+[25:21] demons you are powerless without the
+[25:24] power of the blood of Jesus on your on
+[25:26] your ministry and on your life it's the
+[25:28] blood that set you free and you've got
+[25:31] to apply the blood over things that's
+[25:33] why you take
+[25:35] communion and you take and you take up
+[25:37] the body and say God I know your body
+[25:39] was beaten and bruised for me and I take
+[25:42] this right now in the name of Jesus I
+[25:43] take this wafer and it represents your
+[25:45] body and what you did for me and by your
+[25:48] stripes I am healed and you take that
+[25:50] body and whenever you take that body
+[25:52] inside of your his body and you eat of
+[25:55] his flesh by Faith by with communion
+[25:58] you're taking it inside of you and every
+[26:01] single cell in your body is now covered
+[26:03] by the body and the of of the power of
+[26:05] Jesus that's what that Covenant does
+[26:08] you're taking that communion and it's
+[26:10] and it it drives out sickness it's the
+[26:13] mill that heals you need to know
+[26:17] that taking communion daily is the meal
+[26:20] that heals I take it father I take your
+[26:23] flesh inside of me I take this and when
+[26:25] I come in Covenant with you by taking
+[26:27] this Comm Union it gives me it's a power
+[26:30] source too and it goes and it drives out
+[26:32] cancer cells it drives out diabetes it
+[26:34] drives out uh heart disease it drives
+[26:37] out all the things that you need I take
+[26:39] your flesh and my flesh because you
+[26:41] didn't he was perfect there is no
+[26:43] sickness he became sick for us he became
+[26:47] sin for us and what he bore in his body
+[26:50] we need not bear in our own body you
+[26:53] don't have to bear sickness in your body
+[26:56] because Jesus Christ took it in his body
+[26:59] and Jesus wants to set you free but
+[27:02] you've got to yield yourself to this
+[27:04] freedom and know that his blood set you
+[27:07] free and that's why I take that Covenant
+[27:09] that cup of the Covenant with his blood
+[27:11] and I take it inside of me and I say
+[27:13] Jesus your blood Set Me Free from all
+[27:16] sickness sin disease poverty lack
+[27:18] everything that I ever need was in that
+[27:20] blood and you you took my sins on you
+[27:23] you took it all and I take this blood
+[27:25] and where I take this blood inside of me
+[27:27] I take it by faith right now and I thank
+[27:30] you God that you drive out all sin you
+[27:32] drive out all it's all gone it's washed
+[27:34] in the blood it's not there anymore you
+[27:36] said as far as the East is from the West
+[27:39] it's gone you don't even see it no more
+[27:41] it's cast in the sea of forgiveness
+[27:44] forgetfulness remember that your
+[27:46] Covenant is by the blood of the lamb and
+[27:48] by the word of your testimony god Set Me
+[27:50] Free he set me free from so much you all
+[27:53] and he sets you free from so much but
+[27:55] you've got to receive it by faith and
+[27:57] the same thing I'm talking about
+[27:59] salvation and the same things I'm
+~~~
+
+<a id="section-08"></a>
+## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[28:01] talking about God setting you free from
+[28:03] sickness and disease he gives you a
+[28:05] power gift and it's called the Holy
+[28:06] Spirit just like it talks about in Acts
+[28:09] chapter 2 he he endowed them with power
+[28:11] in the upper room you have got to walk
+[28:15] in that power and that Authority in
+[28:17] these last days by yielding yourself to
+[28:22] it I I I I I pray I pray I I feel all
+[28:26] the the holy spirit so strong right now
+[28:34] H I want so desperately for you all to
+[28:38] be
+[28:40] free I cry with you I cry in my heart
+[28:44] for you for so many people are so Bound
+[28:48] by so much on this internet so Bound by
+[28:52] perversion and by by by sickness and
+[28:55] disease and and poverty and you're and
+[28:59] you're struggling and you're struggling
+[29:00] and you're struggling but I'm telling
+[29:02] you it's time to come up and the only
+[29:05] way you can come up is by understanding
+[29:07] what Jesus Christ did for you on that
+[29:13] cross please listen to
+[29:15] me Jesus loves you so much and he did so
+[29:19] much for you and the only way you're
+[29:22] ever going to get free from the Devil is
+[29:23] to understand how big Jesus is and how
+[29:25] much the devil's so small you got to
+[29:27] take Comm communion
+[29:29] daily you got to take the meal of the
+[29:31] heals you got to take that Holy Ghost
+[29:34] communion and you need to pray in
+[29:36] tongues you need take that cup lift it
+[29:38] up before him and remind him and that
+[29:40] body and remind him and say Lord I know
+[29:42] what you did for me I understand what
+[29:45] I'm like what you did for me 2,000 years
+[29:47] ago and you dwell on the inside of me
+[29:50] the eyes of the Lord are going to and
+[29:53] fro throughout the whole earth looking
+[29:56] for a heart who perfect toward
+[29:59] him let his eyes fall upon your house
+[30:04] today let his eyes don't have to search
+[30:07] anymore I say it all the time the eyes
+[30:11] of the Lord are running to and fro
+[30:13] throughout the whole of looking for a
+[30:14] heart who's perfect towards you Lord
+[30:18] that's what your Bible
+[30:19] says let your eyes rest on my heart let
+[30:24] your eyes rest on me that you that I am
+[30:29] I am what you're looking for help me
+[30:32] Lord to be that vessel that you're able
+[30:35] to use in these last
+[30:40] days because the only way you're ever
+[30:43] going to be able to do it I'm telling
+[30:45] you all is by being filled with the
+[30:46] baptism of the Holy
+[30:48] Ghost and you go before him bold into
+[30:51] his throne and you'd say Lord let let
+[30:54] let me be what you're looking for send
+[30:56] me send me to these people Lord and and
+[30:59] he did he told me to come here and help
+[31:01] you and there's a lot of you that need a
+[31:03] lot of
+[31:05] help and I'm trying to tell you how to
+[31:07] get
+[31:08] there I hope I hope
+[31:11] um this message is helped you today I
+[31:15] really appreciate all the likes and the
+[31:18] shares I'm really taken back by some of
+[31:21] the comments and some of the people that
+[31:23] have been so kind to
+[31:26] me the emails there's been some really
+[31:28] nice emails people writing stories from
+[31:31] my little girl and when you believe for
+[31:35] so many years and people tell you that
+[31:39] you're never going to do
+[31:41] something time and time again that
+[31:44] you'll never preach the gospel you'll
+[31:45] never do
+[31:51] this you know have a lot of confidence
+[31:54] in yourself you know because just been
+[31:57] beaten down on by the waves of life so
+[31:59] hard for so
+~~~
+
+<a id="section-09"></a>
+## 09. 32:00–33:06 · 祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[32:01] long and when you have people be kind to
+[32:04] you and believe in you and they say nice
+[32:06] things it it uplifts you and you're able
+[32:09] to go wow you know maybe I can do this
+[32:12] even whenever the Lord's in your corner
+[32:14] and he's telling you things and say
+[32:16] brenon you can do this it's nice to have
+[32:18] people be nice to you there's because
+[32:21] there's so many people that have told
+[32:22] you you couldn't I just want to say I'm
+[32:24] so thankful for every single one of you
+[32:27] it's it's very
+[32:30] humbling I am I know I'm a work in
+[32:33] progress I know I don't have it all
+[32:35] together all the way I'm still learning
+[32:37] just like you all walk in and out but
+[32:39] I'll share with you the stuff that I've
+[32:41] learned over the course of my life so
+[32:45] far through the trials and all the
+[32:47] things the waves have knocked us down
+[32:49] but we're still standing and I'm trying
+[32:51] to tell you how to keep standing when
+[32:54] all there else to do is stand stand
+[32:55] there put a smile on your face face and
+[32:58] a song in your heart Jesus loves you so
+[33:02] much and we love you thank you so much
+[33:05] for watching this video and have a
+[33:06] blessed day bye-bye
+~~~

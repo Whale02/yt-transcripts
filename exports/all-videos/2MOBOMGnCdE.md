@@ -1,0 +1,403 @@
+# What the Lord showed me about World War III
+
+**视频**: https://www.youtube.com/watch?v=2MOBOMGnCdE
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/What the Lord showed me about World War III [2MOBOMGnCdE].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 348；**章节数**: 4；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-01)
+- [02. 04:00–07:59 · 预言、梦境与异象、战争与国际事务](#section-02)
+- [03. 08:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-03)
+- [04. 12:00–15:12 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-04)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 预言、梦境与异象、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] hey good morning everybody I I have some
+[00:02] things I want to share with you uh about
+[00:04] what the Lord has showed me about the
+[00:06] the work and and the escalation of it so
+[00:11] um here we go uh I was praying and then
+[00:15] the Lord showed me uh the massive storm
+[00:18] again and I I keep telling you all I see
+[00:22] the storm on the east coast and the
+[00:24] storm it was getting closer and closer
+[00:27] and closer but this time when I was
+[00:28] praying the Lord showed me uh our
+[00:31] American soldiers all in a in a single
+[00:34] file line and like a big line doing like
+[00:37] this and they were headed towards the
+[00:39] European area
+[00:41] and the Lord told me he said there's
+[00:43] going to be a massive draft and they're
+[00:46] going to draft all these people into the
+[00:48] uh to the war and so all of a sudden
+[00:53] um
+[00:54] he takes me to Europe and and I don't
+[00:57] know I don't know what this devil was or
+[01:00] or or what represented necessarily other
+[01:03] than it was or it was a it was it's some
+[01:06] kind of demonic Spirit of War
+[01:09] he was in a pit
+[01:11] and in the pit he had these massive
+[01:14] chains all on his arms and he was
+[01:16] chained down in this pit and all of a
+[01:19] sudden an Angelic being took it it was a
+[01:24] good one though it was it was as an
+[01:25] angel angel came and took those chains
+[01:28] off of that
+[01:31] um devil
+[01:33] and he shot up out of the ground and he
+[01:37] was he was spinning like a top and he
+[01:40] had these massive horns these Viking
+[01:42] horns on his head and he had uh this
+[01:46] this fur this this with this like a
+[01:50] leather sachet across his his his chest
+[01:53] and he had this this fur it's like a
+[01:56] white looking fur polar bear looking
+[01:58] outfit like a Vikings outfit and um
+[02:03] he started spinning and he went over and
+[02:05] he went inside of Vladimir Putin and
+[02:10] he's his whole countenance changed he
+[02:13] became energized like he was uh he was
+[02:17] he he was like he was he lost his mind
+[02:20] almost it was it was weird when the way
+[02:22] the Lord showed me and all of a sudden I
+[02:24] want to show you I see I took it on a
+[02:28] picture here uh so I could
+[02:31] um show you where I see the a rocket do
+[02:35] you have it on there son
+[02:37] um I saw a rocket come out of Russia and
+[02:40] hit right here
+[02:42] right up in here all this area and it
+[02:45] was a massive right next to here and all
+[02:48] it was right here and it went up in the
+[02:50] corner because this is Ukraine down here
+[02:51] and it went right up here and he was
+[02:53] attacking this area right here with with
+[02:56] a massive bomb but it was not a um
+[03:00] anything that I've ever ever been used
+[03:03] before because whenever I saw it happen
+[03:05] I said oh no he's using nuclear weapons
+[03:08] and the Lord said no he is not this is
+[03:12] something that has never been used
+[03:14] before on the earth he said this is a
+[03:17] new technology it was like it it
+[03:20] vaporized everybody but it was it was
+[03:23] it wasn't of the radiation and all this
+[03:25] stuff so I don't know I've never like I
+[03:28] said I've never seen anything like that
+[03:29] before and me and so the Lord said that
+[03:31] nobody else had either it's never been
+[03:33] used before and so um then I'll show you
+[03:36] I'll take it down here and then I saw
+[03:39] down here on Turkey right here on
+[03:44] right here on Turkey
+[03:48] from here over there was these massive
+[03:51] massive drums and they were all these
+[03:55] humongous drums beating on
+[03:59] like all like these they were just boom
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 预言、梦境与异象、战争与国际事务
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Israel、China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:01] boom boom boom boom and I said Lord were
+[04:04] they doing and he said they're going to
+[04:06] join in and and and and and make ties
+[04:09] they're going to make some kind of
+[04:10] financial agreements there's going to be
+[04:12] things happen with them going in with
+[04:15] Russia and they're going to join in on
+[04:17] the fight to help them fund them and do
+[04:19] things and they're gonna it's going to
+[04:21] escalate even further and so
+[04:24] um
+[04:25] this thing got out of control and so
+[04:28] then I was shown uh
+[04:32] uh Israel
+[04:34] and I ran and these other area other
+[04:38] other countries were all coming against
+[04:40] Israel
+[04:41] but the United States
+[04:44] turned
+[04:46] are back we turned our back nothing and
+[04:49] the Lord said this is what's going to
+[04:52] happen during the Ezekiel 38 and 38 and
+[04:55] 39 War
+[04:57] people have always wondered where's the
+[04:59] United States in this
+[05:02] we don't do anything we don't help them
+[05:04] we are like well you know we just kind
+[05:06] of watch Ivy stand by and just watch
+[05:07] that's what I saw
+[05:09] and so then I see
+[05:12] because we betrayed uh Israel
+[05:16] we open an attack for China to come in
+[05:20] and get us and so I saw China getting us
+[05:24] and I saw but it came as this this
+[05:26] whatever this was the surprise attack
+[05:33] came as a dragon and it looked like a it
+[05:36] looked like a red streaking dragon
+[05:39] and so then the Lord showed me and he
+[05:41] said watch Hawaii and I could see Hawaii
+[05:44] and all these F-16 looking fighter
+[05:47] planes coming in and they were just
+[05:49] shooting missiles and going nuts on
+[05:52] Honolulu and all these areas and I could
+[05:54] see the main city there the Honolulu
+[05:57] Hawaii and it was just getting it was
+[05:59] just being annihilated annihilated with
+[06:01] uh with missiles and everything and
+[06:04] buildings were on fire and things were
+[06:06] being shot down and it was a very very
+[06:09] very uh sad situation because you could
+[06:11] hear the sirens I could hear the the
+[06:13] some kind of air raid sirens going off
+[06:15] and people were running and screaming
+[06:17] and trying to get away but there's
+[06:19] nowhere to escape because it's an island
+[06:21] and so people were trying we were
+[06:24] fighting back and everything but it was
+[06:26] a serious uh serious issue and so um
+[06:30] this is some of the things the Lord
+[06:31] shows me I don't always want to always
+[06:33] come on and be like uh
+[06:36] fear-monger or whatever you all would
+[06:38] say well he always has negative news I'm
+[06:40] just a Watchman I I see and I pray and
+[06:44] the Lord shows me things to pray about
+[06:46] and and things that could come some
+[06:49] things we can advert some things we
+[06:51] can't
+[06:52] back
+[06:54] whatever he told me about the virus
+[06:56] coming he showed me a massive wave
+[07:00] and um The Wave came in and crashed the
+[07:03] shore and he told me this was the the
+[07:05] virus and behind the virus
+[07:09] was another massive
+[07:11] humongous wave
+[07:13] and it was so big that it was it was
+[07:17] frightening to look at this wave was
+[07:20] and the Lord said as soon as that one
+[07:23] the this virus pulls back it starts to
+[07:26] recede another massive wave of a wake-up
+[07:30] call will hit the earth it's not about
+[07:32] in America this is the earth it was
+[07:35] about the world and he said and so he
+[07:38] said there will be another wake-up call
+[07:39] there'll be another wake up uh with a
+[07:42] wave another wave of whatever this is
+[07:44] but this time he showed me a number
+[07:49] 350 million people would perish during
+[07:53] this uh this whatever happens and so
+[07:57] um because I thought it would be another
+[07:59] uh virus like some kind of more serious
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:02] thing with the with the that but I I
+[08:05] don't believe it is that I believe it's
+[08:07] something else I don't know I don't want
+[08:09] to assume I just see and and I don't
+[08:11] want to add anything to it I tell you
+[08:13] exactly what I saw instead of going well
+[08:15] I assume this or whatever because you
+[08:17] get in a lot of trouble doing that so I
+[08:20] just just want to say exactly what I saw
+[08:22] to you and tell you what I what the Lord
+[08:24] showed me so
+[08:25] um so I solved 350 million people and
+[08:28] then the Lord showed me
+[08:30] um
+[08:33] like like like it was like a vision it
+[08:36] was like a plane like this and he said
+[08:38] like we plant we sow we reap but he
+[08:41] showed me people who are living
+[08:43] Christians who are living in compromised
+[08:46] pastors whatever if they're in Hidden
+[08:48] sin that they would be just on the stage
+[08:51] and they'll just fall over dead like
+[08:53] anani and Sapphira it was going to be
+[08:55] such a a seed time acceleration of seed
+[08:59] time and harvest of opening doors that
+[09:02] they open it that the enemy comes in and
+[09:04] just was blink and just takes them out
+[09:06] because of the open door that they've
+[09:08] caused there was like it was like a uh
+[09:11] like I said an acceleration a C-Town
+[09:13] Harvest but it was very very sad because
+[09:16] there was people that were living and
+[09:18] said pastors behind the pulpits and
+[09:19] doing things Christians living in an
+[09:22] ungodly uh state that we're just dying
+[09:25] and so very very but it wasn't just them
+[09:29] it was the world too it was the people
+[09:31] that weren't born again too and and so
+[09:34] um
+[09:35] I'm trying to remember everything
+[09:38] uh
+[09:39] about that
+[09:42] do you remember anything I'm I'm leaving
+[09:44] out because I talked about the people
+[09:46] going home it was very serious about all
+[09:49] the people I the Lord showed me going
+[09:51] home oh oh oh oh then thank you Holy
+[09:54] Ghost
+[09:55] he talked to me about an outpouring of
+[09:58] finances he showed me a group a small
+[10:03] number of people if you're praying and
+[10:06] you're listening and you're keeping a
+[10:08] fast in life and you're listening you're
+[10:10] keeping keeping your eye your ear
+[10:12] towards towards towards him and you're
+[10:15] just listening for his every word
+[10:17] he said I'm going to show there was
+[10:21] going to be an outpouring a supernatural
+[10:24] outpouring of finances on on select few
+[10:28] people
+[10:31] like inventions I know how some of it
+[10:34] happens but I don't feel like I can talk
+[10:36] about it so um
+[10:39] he showed me that the finances was come
+[10:41] because I was like well because he told
+[10:43] me about the crash there's going to be a
+[10:44] massive crash there's gonna be a it's
+[10:46] going to be it's part of the whenever
+[10:48] they bring in the digital dollar and all
+[10:50] the things and I said Lord how are these
+[10:52] these massive uh Ministries and these
+[10:55] things going to happen support for these
+[10:58] people oh and this is something else he
+[11:00] showed me because because I was thinking
+[11:01] well how are people going to get
+[11:03] finances just to keep preaching the
+[11:05] gospel you know I you know this is a big
+[11:08] deal if another
+[11:10] semi-depression like a depression
+[11:11] happens you know which basically what it
+[11:14] is 1920s 1930s whenever the depression
+[11:18] app is similar to that and so he told me
+[11:21] he said there will be in an elite group
+[11:24] their Elite group that will walk in in a
+[11:28] financial outpouring that will bring in
+[11:31] the money and help help people and
+[11:34] they'll be like a man with the picture
+[11:36] in the hand helping and helping out
+[11:38] these Ministries and doing stuff and so
+[11:41] I saw people because there was there was
+[11:44] such a lack of food and such a lack of
+[11:46] uh uh stuff the grocery stores or
+[11:48] whatever because of whatever happens
+[11:49] that they will be at their dinner tables
+[11:52] with empty pots and the Lord showed me
+[11:56] they will pray as a family around those
+[11:59] empty pots and the Lord said I'm going
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:12 · 预言、梦境与异象、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:01] to put food into those empty pots and I
+[12:05] saw there was all kinds of like the
+[12:08] soups and stuff that he provided
+[12:10] supernaturally just coming into those
+[12:12] pots and filling them up every time they
+[12:14] just gathered around and gave him praise
+[12:17] at the dinner table
+[12:20] because the Bible says I never seen the
+[12:22] righteous forsaken or a seed begging
+[12:25] bread
+[12:27] and I believe with all my heart that
+[12:30] even during all the drama that's going
+[12:32] to take place before we go home the
+[12:34] birthing pains that are manifested on
+[12:37] this Earth we will see a supernatural
+[12:41] provision just like the children of
+[12:43] Israel had in the desert whenever he
+[12:46] came in with the Manna and he came in
+[12:48] and took care of them with the quail he
+[12:50] always provided he provided for the for
+[12:52] the for Jesus of the 12 baskets and the
+[12:55] the fishes and the loaves he took care
+[12:57] of them he's going to take care of us
+[12:59] he's not going to let us go without
+[13:01] but you're gonna have to be pushing into
+[13:04] him you're gonna have to have a
+[13:05] relationship with him you're going to
+[13:07] have to have a a a a a a a sin free
+[13:10] lifestyle as much as possible living
+[13:12] Holiness I'm not talking about you know
+[13:15] like well you know you can't do nothing
+[13:17] I'm talking about not not living in
+[13:20] compromise and sin so you got to live in
+[13:23] a in a relationship with hey I'm on fire
+[13:26] for God and we're all preaching the
+[13:27] gospel and I'm telling you he's going to
+[13:28] take care of you the Lord showed me I
+[13:31] want to get this documented because
+[13:33] we're we're almost there the things
+[13:36] because I how what time is it now I
+[13:38] don't want it how many uh 14 okay I'll
+[13:42] go one I'll tell one more thing here
+[13:43] because he keeps reminding me of things
+[13:45] on um
+[13:48] this is another thing
+[13:50] on in 20
+[13:53] uh 22
+[13:55] I had an Angelic visitation in a dream
+[13:57] and in my dream the angel told me great
+[14:02] judgment is coming and 569 days and I
+[14:07] asked the angel I said what is the
+[14:10] judgment and he said to me I cannot tell
+[14:13] you you will have to pray this out the
+[14:16] Lord tells me you will have to pray this
+[14:18] out in the spirit and you he will show
+[14:21] you and give you revelation of this
+[14:24] so I so I I saw on the counter how long
+[14:28] 510 days it's October the 2nd is what
+[14:31] the date came to
+[14:33] and so um
+[14:36] it was during Yom Kippur and rohashana
+[14:39] of last year
+[14:40] and the Lord told me whenever we got
+[14:43] close to that time frame he said I'm
+[14:45] extending the time frame and giving more
+[14:49] time for repentance I'm gonna give more
+[14:52] time I'm pushing this back I'm gonna
+[14:55] give the people more time
+[14:58] I think I'll end it there so I I I have
+[15:02] another video you keep watching I felt I
+[15:04] just saw something else whenever you saw
+[15:06] me show me in a vision right then and I
+[15:08] just saw something so I'm I'm going to
+[15:10] tell you in another video what he showed
+[15:12] me all right have a blessed day
+~~~

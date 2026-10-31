@@ -1,0 +1,632 @@
+# Come take communion with us happy birthday Jesus ￼
+
+**视频**: https://www.youtube.com/watch?v=JDnmSCbj7UE
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/Come take communion with us happy birthday Jesus ￼ [JDnmSCbj7UE].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 555；**章节数**: 6；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-01)
+- [02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-02)
+- [03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-03)
+- [04. 12:00–15:59 · 教会、复兴与信仰、预言、梦境与异象](#section-04)
+- [05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
+- [06. 20:00–23:56 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] merry Christmas everybody praise the
+[00:02] Lord day 64 I got Diana here with me
+[00:05] today and we just wanted to come on
+[00:07] today and tell you all Merry
+[00:10] Christmas Merry Merry Christmas yeah we
+[00:13] love you all so much thank you for your
+[00:15] support thank you we appreciate all you
+[00:19] come out every day and you come to these
+[00:22] videos and and pray with us and
+[00:25] intercede for the Nations and uh it's
+[00:29] it's so appreciated
+[00:30] your your support your love praying for
+[00:33] my daughter praying for our family
+[00:36] praying for me I mean it it is the
+[00:39] emails have been so kind lately and the
+[00:42] the love and the people sending ear
+[00:44] muffs for Megan for the sound yeah you
+[00:47] know a lot of times she won't wear those
+[00:49] just to let y'all know she won't wear
+[00:51] them because she don't like things on
+[00:53] her head but we're we're getting there
+[00:55] and we're just believing God she's going
+[00:56] to be completely healed is what we're
+[00:57] believing for 2024 we're closing this
+[00:59] thing out we're believing for the
+[01:01] complete manifestation of Megan and and
+[01:03] she does that all throughout the day uh
+[01:06] for y all that are you're so considerate
+[01:09] I know you're doing it out of love uh
+[01:10] she holds her ears like that it's just a
+[01:12] habit I think I don't know I don't of
+[01:15] course the ear muffs are so nice so I'm
+[01:17] was going to try them you know there's
+[01:19] sometimes you wonder if it's just the
+[01:20] brand that she hasn't really liked in
+[01:22] the past that I've gotten so she'll wear
+[01:24] them for short periods yeah well just
+[01:26] thank you all for helping my Megan out
+[01:29] what a blessing I mean so loving so many
+[01:32] people so many people reaching out and
+[01:34] trying to help and I just I just wanted
+[01:36] to say thank you that you care that you
+[01:38] yeah they care yeah people there just a
+[01:40] lot of kind people on here wonderful
+[01:42] people like with with such such such
+[01:45] great Hearts yeah yeah thank you and and
+[01:49] and so and I believe The Best Is Yet To
+[01:50] Come 2025 we're excited I I'm
+[01:54] anticipating great things I think you
+[01:56] all can tell and great things for y yes
+[01:59] great things
+[02:00] we want to show you this real quick uh
+[02:02] my wife went into the grocery store and
+[02:04] she got this cake I have to put so it's
+[02:07] green so I don't want it to be behind
+[02:09] the green screen but it's um happy
+[02:12] birthday Jesus we try every year to
+[02:14] throw Jesus a birthday party of some
+[02:16] kind of brownies or cookies or something
+[02:19] and so in this year Diana found happy
+[02:21] birthday Jesus cake from the grocery
+[02:24] store and so we're excited we thought
+[02:26] you know what isn't that neat she
+[02:28] brought that out and said Jesus has his
+[02:30] birthday cake so it's the manger has a
+[02:33] Manger on it too yeah does it show on
+[02:35] the camera good y with Mary and Joseph
+[02:37] his own birthday cake this year so we'll
+[02:39] sing happy birthday to him as a family
+[02:43] and do a full-blown birthday party for
+[02:45] him yes he needs a birthday party he's
+[02:48] our Lord and savior but we just wanted
+[02:50] to come on and tell tell you all happy
+[02:52] happy happy Merry Christmas we're going
+[02:54] to take communion with you so if you
+[02:56] want to go get your uh communion we're
+[02:58] going to take communion for Christmas
+[02:59] Christmas and just lift up the name of
+[03:02] Jesus so let's lift up the body before
+[03:05] Jesus well his his body he was broken he
+[03:08] was beaten for all our our
+[03:10] transgressions all our iniquities the
+[03:13] chastisement of our peace was upon him
+[03:15] and with his stripes you're healed and I
+[03:18] believe in this Christmas season it's
+[03:21] it's it's even even more of a gift to
+[03:24] believe for your Divine Healing to
+[03:26] believe for everything that you
+[03:29] everything is broken in your body has
+[03:31] been he been healed and made whole by
+[03:34] his stripes no matter what it is
+[03:37] nothing's too big and nothing's too
+[03:39] small Jesus Paid the price for it all
+[03:42] according to Galatians 3:13 Christ has
+[03:45] redeemed you and me and my wife all of
+[03:47] us from the curse of the law and the
+[03:49] curse of the law is everything in
+[03:50] Deuteronomy 28 and I believe that Jesus
+[03:54] Christ is the same yesterday today and
+[03:57] forever and that all things are possible
+[03:59] POs to him who believes and this
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:02] Christmas Day this beautiful Christmas
+[04:04] day where all the gifts are being poured
+[04:07] out on on on loved ones and friends and
+[04:10] family Jesus gave the gift of his life
+[04:14] he came here as a child born in a manger
+[04:17] and wrapped in swaddling
+[04:20] clothes as a gift for
+[04:24] human as a gift for Humanity that he
+[04:28] came and he he he he died for every
+[04:31] single one of us that we don't have to
+[04:33] have uh all all the bondage of this
+[04:35] Earth he came to set the captives free
+[04:39] and the and the angel sing glory to God
+[04:41] in the highest peace on Earth goodwi to
+[04:44] men woo Hallelujah y'all because it was
+[04:48] just because of what he did on this very
+[04:52] special day that we celebrate that Jesus
+[04:55] Paid the price he came and and in 33
+[04:58] years he died on the cross after he was
+[05:01] born and oh what a plan he oh what a
+[05:04] plan oh what a planner oh what an
+[05:06] amazing God we serve he came to set the
+[05:10] captives free and he gave it freely he
+[05:14] gave the ultimate sacrifice and what a
+[05:16] gift he gave and thank you Jesus for
+[05:20] thank you Father for giving your son
+[05:23] thank you Lord for this body that was
+[05:25] broken and beaten for us and thank you
+[05:28] Lord for communion
+[05:30] that we are we are join AES with you and
+[05:32] we're able to be seated with you in the
+[05:34] heavenlies far above all principalities
+[05:37] and powers and might we have dominion
+[05:40] and authority over all satanic agenda
+[05:45] and father I thank you Lord that you
+[05:46] said nothing shall by any means hurt us
+[05:50] and we take this body right now in the
+[05:52] name of Jesus and we say Happy Birthday
+[05:54] Jesus thank you for this communion thank
+[05:57] you for what you did for us thank you
+[06:00] for coming on this Earth as a baby thank
+[06:03] you Lord thank you Jesus that we're not
+[06:05] we don't have to be bound by sickness
+[06:07] anymore thank you that you gave your
+[06:09] life and it was a gift this beautiful
+[06:12] Christmas season and we just want to say
+[06:14] we love you and we take this body in the
+[06:17] name of
+[06:20] Jesus now
+[06:23] Lord we thank you for the blood for we
+[06:26] make much of the blood and the blood
+[06:28] makes much of us and father you said it
+[06:30] was the cleansing flow they it washed us
+[06:34] as white as snow it washed us and took
+[06:37] care of all that sin and you made us
+[06:40] spotless before you father we thank you
+[06:44] for that beautiful blood that flowed on
+[06:46] calvary's tree you flowed down and and
+[06:49] it cleansed Dyan and me it cleansed
+[06:52] every single one of you and we're so
+[06:54] grateful for your life and your blood
+[06:56] that was shed for us and we thank you
+[06:58] Lord that we confess our sins we you are
+[07:01] faithful and just to forgive us of our
+[07:03] sins and cleanse us from all
+[07:06] unrighteousness we're thankful and he's
+[07:08] written our name in the Lamb's Book of
+[07:10] Life Lord we thank you Lord that it's
+[07:13] your blood that sets us by the blood of
+[07:16] the lamb and by the word of Our
+[07:18] Testimony and we take this BL this blood
+[07:20] in the name of Jesus and we thank you
+[07:23] Lord for your for on Christmas Day we
+[07:25] take this it's so beautiful thank you
+[07:27] Lord
+[07:30] Lord we give you
+[07:33] praise thank you for your
+[07:39] communion thank you Father for your
+[07:43] presence thank you for the anointing of
+[07:45] the Holy
+[07:50] Spirit we love you and we magnify you
+[07:54] and we say happy
+[07:56] birthday to you
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:00] happy birthday to
+[08:03] you happy birthday dear
+[08:09] Jesus happy
+[08:12] birthday to you and many
+[08:17] more we'll one day we'll celebrate his
+[08:20] birthday with him and we'll know his the
+[08:22] and we'll be able to have his birthday
+[08:24] party with him
+[08:30] it's going to be
+[08:33] wonderful I look forward to that
+[08:36] yeah thank you for your
+[08:49] glory we honor the Lord today
+[09:02] oh
+[09:06] goodness thank you for all you've done
+[09:08] for us this
+[09:11] year thank you for president
+[09:14] Trump thank you for our W the the new
+[09:17] Administration coming in that you give
+[09:20] us another opportunity to
+[09:23] change you're giving us a season of
+[09:27] Grace thank you Lord for the presence
+[09:29] that have been given out on sister Billy
+[09:33] talked about about the gifts being
+[09:35] distributed on the
+[09:36] 25th and uh we believe something
+[09:38] supernatural's happened today we pray we
+[09:41] pray you felt his presence in your house
+[09:44] today as you're spending time with your
+[09:46] friends and your family and your loved
+[09:48] ones maybe you're alone but we are not
+[09:51] alone because we're with you you're here
+[09:54] today watching the video with us and
+[09:56] where your family if you don't have any
+[09:58] family and where your family and Diane
+[10:00] and I and Braden were we loving on you
+[10:03] from the camera telling you that you've
+[10:05] got what it takes and you can make it in
+[10:07] this day that Jesus has a plan for your
+[10:09] life that that yeah you may feel alone
+[10:12] in in the natural in your house but
+[10:15] there's somebody across the water or
+[10:17] wherever in in a little house in
+[10:19] Oklahoma that's believing God with you
+[10:22] for you and and with you that this year
+[10:25] in 2025 is going to be an amazing year
+[10:29] for you that you have you like we always
+[10:33] say Diana to put a smile on your face
+[10:35] and a song on your heart and we believe
+[10:38] that that there is good days ahead for
+[10:40] the body there's good days for you we
+[10:42] had a lady send us a card in the mail a
+[10:46] letter a letter that H that that she's
+[10:49] alone and her husband's past and stuff
+[10:51] but her friend her her her little Canary
+[10:54] passed away and she's having a hard time
+[10:57] because her Canary passed away and oh my
+[11:00] goodness you made me cry that was a that
+[11:03] was a that was a hard one her her letter
+[11:06] was touching there's so many people
+[11:08] going through so much right
+[11:11] now and even the loss of a little bird
+[11:15] God she's like want to know if she
+[11:18] thought about if it's going to make be
+[11:19] in heaven when she got there cuz she
+[11:21] misses her friend here in
+[11:26] oh I proom I'm not going to cry through
+[11:28] this but it really touched me and uh
+[11:32] William Brandon was talking about before
+[11:35] he went home to be with the Lord that
+[11:37] when he went to heaven he saw some and
+[11:40] sister Billy told us this story didn't
+[11:42] she at the at the the uh that the Lord
+[11:45] showed if that animal was precious and
+[11:49] something to you on this Earth that God
+[11:52] is has so much compassion for his kids
+[11:56] so much love for every single one of us
+[11:58] that if those animals meant something to
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:59 · 教会、复兴与信仰、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:01] you on this Earth that they're waiting
+[12:03] for you in heaven that he brought them
+[12:04] to heaven and the Lord showed William
+[12:07] Brandon that that those animals even
+[12:10] during the Rapture those things are so
+[12:11] important to you that they'll they're
+[12:14] going to be taken too yeah because he
+[12:16] gives you the desires of your heart yeah
+[12:18] he gives you the desires of your heart
+[12:19] and if it's your desire to have your pet
+[12:22] if your desires to have your pet with
+[12:24] you the Lord's going to see to it that
+[12:25] your pet's with you in heaven because
+[12:28] it's that important to some people is
+[12:30] beautiful it's beautiful but e he cares
+[12:33] even about the the the smallest details
+[12:37] yeah in your life and you think well
+[12:40] does he really yes God cares about the
+[12:43] smallest things and the great big things
+[12:47] folks he has it all figured out and and
+[12:51] even those those animals that you
+[12:53] thought well am I going to ever see him
+[12:55] again God knows and I believe the little
+[12:59] parakeet the little sparrows the
+[13:01] whatever it may be even a little peanut
+[13:03] the pop Pocket squirrel like Bob Ross
+[13:06] used to carry around with him Peanut the
+[13:08] pocket squirrel he God cares about the
+[13:11] peanut the pocket squirrel folks that's
+[13:14] and he believe I believe even the dogs
+[13:18] I'll never forget whenever my dog jumped
+[13:20] off the the the upstairs balcony and
+[13:23] landed to its death and I was down there
+[13:25] trying to raise that dog from the dead
+[13:26] back whenever I was uh Braden's age
+[13:29] and that dog but it but it meant so much
+[13:31] to
+[13:33] me things like that you
+[13:37] know it hurt so bad at the time but I
+[13:40] said Lord I give this over to you and
+[13:43] you've got
+[13:45] this but when I heard the testimony even
+[13:48] when Billy we were sitting all around
+[13:49] that table and Billy was talking to us
+[13:51] and she was talking about the Rapture
+[13:53] and how close we are to going home that
+[13:56] she believes it soon too and we are all
+[13:58] just rejoicing over the fact that we
+[14:01] really
+[14:02] believe that soon and very soon we're
+[14:05] about to go see the
+[14:07] king and and that our loved ones and our
+[14:11] loved animals are going to come right
+[14:14] alongside us and I believe it that I
+[14:17] believe what William BR William Brandon
+[14:19] saw a lot of amazing things before he
+[14:21] went on be the Lord yeah he got off a
+[14:23] little bit but you know what that
+[14:26] happens sometimes with folks but I
+[14:28] believe some of the words that the Lord
+[14:30] showed him are still coming to pass he
+[14:33] even saw egg shaped
+[14:35] cars yeah with people playing games that
+[14:38] were not that were driving themselves
+[14:40] and Tesla yeah but that was in the
+[14:44] 1950s 40s when he gave that word and we
+[14:47] have those cars now that are achs and he
+[14:49] said when Jesus comes back what the Lord
+[14:51] showed him in that open eyed vision is
+[14:53] that a woman would be running the White
+[14:55] House and that there would be egg shaped
+[14:57] cars so everybody thought it was Camila
+[14:59] Harris that he was seeing but it wasn't
+[15:02] time yet who's coming in
+[15:06] 2028 who's coming in 2020 I don't know
+[15:09] but wouldn't it be neat if that Vision
+[15:10] lines up all the way we've seen the egg
+[15:12] shaped cars but he's the one that what
+[15:15] the L when he had glimpses and saw
+[15:17] things in heaven that the the animals
+[15:19] that we that we love the most that God
+[15:22] took him for us that's what I was trying
+[15:24] to tell you all is that God has a plan
+[15:27] for everything and he Loves You this
+[15:29] Christmas day so much and he has a he he
+[15:33] wants you to be filled with joy and not
+[15:36] full of dread and anxiety sitting on
+[15:40] there and you're watching this video
+[15:41] today to have a to to have peace and to
+[15:44] have that he that you know that we're
+[15:48] looking up for our Redemption as drawing
+[15:50] n folks so here we are he saying
+[15:54] 2025 I believe we we're not just going
+[15:57] to survive in 25 we're going to thrive
+[15:59] in 25 and I believe with all my heart
+~~~
+
+<a id="section-05"></a>
+## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[16:03] that God has something amazing for you
+[16:05] you know in 2024 he told me that he said
+[16:08] Brandon you will soar and there will be
+[16:10] a great great open door for you in 24
+[16:13] and you all will walk through and it's
+[16:15] been exactly what he said 24 has been a
+[16:18] year that we have soared and it I feel
+[16:20] like we have went from glory to glory
+[16:21] this year like like never before it's
+[16:24] been amazing and so I'm believing that
+[16:26] in 25 it's going to be a year year that
+[16:29] we will will Thrive it' be a
+[16:31] supernatural year of of of of God's
+[16:35] Supernatural
+[16:37] provision I'm telling you I've seen it
+[16:39] Heaven on Earth Heaven on Earth in 2025
+[16:42] I'm believing it healings demonstrations
+[16:45] and manifestations first the blade then
+[16:46] the ear then the full manifestation of
+[16:49] the Corn uh and going into 2026 2025 and
+[16:53] I'm telling you there's going to be a
+[16:54] great harvest of Souls and I I'm I'm
+[16:57] anticipating so
+[16:59] I just wanted to give you all some hope
+[17:01] to get excited about the days ahead and
+[17:04] just to say Merry Christmas and uh I
+[17:07] pray that your family is getting along
+[17:09] and that yall are having fun we pray
+[17:11] this video blessed you all we pray
+[17:13] father for blessing on their households
+[17:16] we thank you Lord for healing wholeness
+[17:18] Wellness over every single one of them
+[17:21] that they have the mind of Christ father
+[17:24] that they'll hear your voice concerning
+[17:26] Investments and they will hear your
+[17:27] voice and a stranger's voice they not
+[17:29] follow that father that you give them so
+[17:32] much wisdom and Revelation knowledge
+[17:35] because of the Holy Spirit you said in
+[17:37] your word Lord that he would lead us and
+[17:38] guide us into all things and that's
+[17:41] Investments that's healings that's
+[17:43] everything the holy spirit will lead you
+[17:46] into all thing and bless you and I
+[17:49] believe you will know it by the by by
+[17:52] the by the by the fruit I believe that
+[17:54] and you're going to hear and you're
+[17:55] going to know and you're going to see in
+[17:57] the spirit realm exactly what to do and
+[17:59] you're going to know them by their fruit
+[18:01] I believe that and you're not going to
+[18:03] be led astray in these last days I pray
+[18:05] a blessing and discernment over your
+[18:07] minds today and over your spirits that
+[18:10] you'll have that it'll be so quick
+[18:12] rising up inside of you the holy spirit
+[18:14] in inward voice that it' be so loud say
+[18:17] don't go down that path don't go over
+[18:20] there there are wolf and sheep's
+[18:21] clothing you'll know exactly what to do
+[18:24] and exactly when to do it at all times
+[18:27] we believe
+[18:29] say that I believe I receive I hear the
+[18:31] good Shepherd's voice and a stranger's
+[18:33] voice I'll not follow I will follow my
+[18:36] father's voice because he told us it was
+[18:38] a promise didn't he di yes so father we
+[18:41] thank you
+[18:42] Lord that they hear you I thank you Lord
+[18:46] that we celebrate your birth and we
+[18:48] celebrate you Lord and we say happy
+[18:50] birthday and we give you all the glory
+[18:52] honor and praise and we call every
+[18:54] single one of them healed and whole and
+[18:56] well from everything they may need it
+[19:00] doesn't matter what how big it is it
+[19:02] doesn't matter how small it is Jesus
+[19:04] Paid the price for you to walk in
+[19:06] Freedom today and we thank you Lord for
+[19:09] healing their bodies and delivering them
+[19:11] from the top of from addictions from
+[19:13] from some cigarettes to alcohol to
+[19:15] gambling to pornography to lust to
+[19:18] adultery to all of it you're free from
+[19:21] that in the name of Jesus and you are
+[19:24] bound No More by those demonic
+[19:26] strongholds and we thank you Lord lord
+[19:28] they're not deep about by depression
+[19:30] anxiety nothing they walk in complete
+[19:34] victory over the Demonic strongholds and
+[19:37] we believe they receive that in Jesus
+[19:39] name d and I believe it and father we we
+[19:41] will walk in Victory and going even from
+[19:45] a gluttony like me I'm believeing I'm
+[19:47] completely free from eating disorders we
+[19:50] thank you Lord that we're completely
+[19:51] free from being bound by by by sweets
+[19:54] and and candies and cookies thank you
+[19:57] Lord thank you
+~~~
+
+<a id="section-06"></a>
+## 06. 20:00–23:56 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、特朗普与白宫。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:00] Lord overeating or undereating any of it
+[20:03] yes thank you Lord that we get our we
+[20:06] get a hold of our flesh and we thank you
+[20:09] Lord that we're delivered from even that
+[20:11] and we thank you Lord that nothing's too
+[20:13] big for you Lord and in 2025 we're going
+[20:16] to thrive it'll be an amazing year
+[20:19] Lord but financially God people are
+[20:21] going to get promoted We Believe for
+[20:24] promotions for people for their jobs to
+[20:27] have raises and bonus and sales
+[20:29] commissions growth in businesses all of
+[20:31] it the rebat returns checks in the mail
+[20:34] gift of surprises finding money bills
+[20:35] paid off bills decrease all of it in
+[20:38] 2025 thank you Lord for Supernatural uh
+[20:42] ability to get wealth and everything
+[20:44] they put their hands to will prosper and
+[20:47] we believe every seed you sowed in 2024
+[20:50] you're going to reap it in 2025
+[20:52] exceedingly abundantly above all that
+[20:54] you dare ask or
+[20:56] think thank you Father for children
+[20:59] thank you Lord for your blessing on the
+[21:00] children thank you Lord for whole and
+[21:02] healed home homes marriages being
+[21:05] restored thank you Father that this
+[21:07] would be a year father we pray over
+[21:09] president Trump as he has a beautiful
+[21:11] Merry Christmas and father I thank you
+[21:13] Lord that Joe Biden is going to retire
+[21:15] and go on his way and we thank you that
+[21:17] they don't do anything else dumb while
+[21:18] they're in the White House they're not
+[21:20] going to cause any wars any great Wars
+[21:22] we call Peace over Russia and over the
+[21:24] Ukraine deal and over our borders our
+[21:27] Southern borders and we thank you Lord
+[21:29] that your Supernatural hand is on this
+[21:31] land in jesus' name father for an
+[21:34] extended time of Grace and 2025 will be
+[21:37] an amazing year Lord we believe we
+[21:40] receive it and everybody say amen and
+[21:43] amen I tried to make this video short so
+[21:45] you can get back with your families but
+[21:47] we just wanted to tell you all merry
+[21:49] Christmas if you're new here and you've
+[21:50] not watched one of our videos before
+[21:53] Please Subscribe please click that
+[21:55] notification Bell we're we're creating V
+[21:58] Vietnam Channel we cre a Chinese Channel
+[22:01] we got a uh South Korean Channel a
+[22:04] Russian Channel Philippines Philippines
+[22:06] isn't it amazing all the things the Lord
+[22:08] has told us to do we're doing it and
+[22:10] we're doing it by the grace of God and
+[22:11] through your support and we just want to
+[22:13] say thank you yes than the links in the
+[22:15] description yeah click on the links in
+[22:17] the description and thank you for
+[22:19] helping us we appreciate it it we're
+[22:21] getting the gospel spread throughout the
+[22:22] whole world God bless you all and uh for
+[22:26] all your support Asia is going to catch
+[22:28] on fire for Jesus I'm telling you Asia
+[22:30] is going to catch on fire for Jesus
+[22:33] we're expecting big things in Asia so
+[22:36] thank you thank you thank you thank you
+[22:38] for watching those videos over there
+[22:39] Asia thank you God bless you all we love
+[22:43] you yeah we love you it's exciting tell
+[22:46] all your friends and your loved ones
+[22:47] about us in
+[22:48] Asia because we're coming to a to a town
+[22:52] to to a YouTube channel near
+[22:56] you so God bless you
+[22:59] click the notification click the like
+[23:01] button do all of those things that help
+[23:03] us with the algorithm y'all and we
+[23:04] appreciate that and um and we'll see you
+[23:07] again tomorrow tomorrow is Diana's
+[23:11] birthday Diana's birthday is tomorrow
+[23:14] the 26 the day after Christmas it feels
+[23:17] so special because we won't tell them
+[23:18] your age it's so close to Jesus's
+[23:20] birthday it's it always made me feel so
+[23:23] special we won't tell them your
+[23:25] age she's still young that's all that
+[23:27] matters
+[23:30] right young at heart yeah I think you're
+[23:33] awesome babe it's
+[23:35] good we've we've made it through a
+[23:38] lot yep and we keep going God's good
+[23:42] well we always in our broadcast with
+[23:44] always telling y'all put a smile on your
+[23:47] face and a song in your heart Jesus
+[23:50] loves you so much and we love you Merry
+[23:52] Christmas and we'll see you again mer
+[23:54] Christmas Merry Christmas see you
+[23:56] tomorrow bye bye bye
+~~~

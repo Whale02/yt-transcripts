@@ -1,0 +1,969 @@
+# get ready for a major revival
+
+**视频**: https://www.youtube.com/watch?v=RiSqvsbEUSE
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/get ready for a major revival [RiSqvsbEUSE].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 848；**章节数**: 10；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-01)
+- [02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-02)
+- [03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-03)
+- [04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-04)
+- [05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-05)
+- [06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-06)
+- [07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-07)
+- [08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-08)
+- [09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
+- [10. 36:00–37:36 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] lately the Lord said Brandon I need you
+[00:02] en to encourage my people I need you to
+[00:05] to tell them about what's coming about
+[00:08] the the glory about the last outpouring
+[00:11] Holy Ghost Miracle restoration Revival
+[00:15] I'm excited to be with you all again
+[00:16] today um I have another video for you of
+[00:19] course um I told you all it's like
+[00:21] looking at a thin quarter or or whatever
+[00:24] you have in your country a coin you can
+[00:27] either focus on the dark or you can
+[00:30] focus on on on the light it's like a you
+[00:33] can look it's like a two sides of Co a
+[00:35] coin the dark's going to get darker in
+[00:37] these last days with the birthing pains
+[00:40] but the Lord told me the light is going
+[00:42] to start getting lighter you're going to
+[00:44] you can you can see it it'll be tangible
+[00:47] the last outpouring a great harvest of
+[00:50] souls is what's about to happen we're
+[00:53] about to see one of the the greatest
+[00:56] things like like Bible times like when
+[01:00] Moses parted the Red Sea and and walked
+[01:03] ac across dry land and the plagues and
+[01:07] all the things you know seeing blinded
+[01:09] eyes open and and deaf ears pop open
+[01:12] autistic children completely delivered
+[01:15] and set free by the power of God we're
+[01:18] about to see those things like like and
+[01:21] if the Bible is still written today
+[01:23] being written we would be part of the
+[01:25] next next chapter I truly believe it
+[01:28] with all my heart that's how how amazing
+[01:31] these Miracles are going to be I believe
+[01:33] with all my heart dead you know trans
+[01:35] people translating from one place to
+[01:37] another going and preaching the gospel
+[01:39] you may be in a a city in in America and
+[01:41] all of a sudden you're in Africa or or
+[01:44] Asia or or or or you know Australia who
+[01:47] knows you know whatever whatever your
+[01:49] heart South
+[01:51] America I believe that's the kind of
+[01:53] things we're going to start to see the
+[01:55] glory of God you know these testimonies
+[01:59] that I'm about to show you that sister
+[02:01] Billy here she read off a bunch of
+[02:04] prophecies that brother Hagen gave from
+[02:06] the 80s and the 70s and in the right
+[02:09] before he went home about the last
+[02:12] outpouring about the Glorious Church
+[02:15] rising up and being what was we called
+[02:18] to be and this one was given okay
+[02:22] 1980 we're right on the verge okay of
+[02:26] the greatest move and manifestation of
+[02:28] the spirit of God this world world has
+[02:30] ever seen praise God here we go and if
+[02:33] you'll give the more Earnest heed un
+[02:35] these things which you have heard so
+[02:37] think about this was back in 198 about
+[02:39] Faith and Healing but those things which
+[02:42] you've heard about the Holy Spirit about
+[02:46] angels about Divine
+[02:48] visitations about visions and
+[02:52] dreams and upon my handmaidens I'll pour
+[02:55] out my spirit and they'll prophesy my
+[02:57] young men will prophesy the young women
+[02:59] will proph prophesied the anointing and
+[03:01] the outflow of the spirit of God shall
+[03:03] be great and amazing in these
+[03:06] days and there shall be visitations of
+[03:09] angels and he goes on to speak about the
+[03:12] glory of the Lord and The Cloud of Glory
+[03:15] praise God and how we shall see it
+[03:18] Gloria likes this part so much it's one
+[03:21] of her favorite prophecies from Brother
+[03:23] Hagen you will flow in the Supernatural
+[03:26] as your mind will be changed praise God
+[03:30] I renew mine now I didn't catch that
+[03:33] part before
+[03:34] Gloria your heart shall be prepared and
+[03:38] your mind will be
+[03:40] changed until you will flow in the
+[03:45] Supernatural as naturally as a bird
+[03:48] flies in the
+[03:50] air you will flow in the supernal as
+[03:54] naturally as a fish will swim in water
+[03:59] wow you will flow in the Supernatural as
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:02] naturally as you breathe the very air
+[04:06] praise God you will not be conscious of
+[04:08] your faith you'll not be conscious of
+[04:10] what's going on around you but rather
+[04:12] you'll be more conscious of the flow of
+[04:14] the spirit of God and he will manifest
+[04:17] himself and he will accomplish that
+[04:20] which he desires for you see these are
+[04:22] the last
+[04:23] days and this is the end time thank you
+[04:27] Jesus and you shall walk and you shall
+[04:29] run and you shall fly praise God
+[04:33] literally spiritually
+[04:36] speaking
+[04:38] Hallelujah now here's a very I I I chose
+[04:42] some other
+[04:43] ones because I want you to
+[04:46] see this one was given in
+[04:49] 2002 that the Lord told us what to do to
+[04:53] get
+[04:54] it so listen what the Lord told us to
+[04:58] do
+[05:00] we're just about to enter into an area
+[05:02] in the realm of the spirit this was only
+[05:04] one year before he
+[05:06] left we are just about to enter into a
+[05:09] an area in the realm of the spirit in
+[05:12] which only a few of us have touched but
+[05:15] it will be
+[05:16] widespread thank you Jesus and all whose
+[05:18] hearts are open and whose minds are
+[05:20] clear and who are sincere and honest
+[05:24] those are the ones that will move
+[05:26] in for a great Cloud of Glory
+[05:30] is hanging just over our heads praise
+[05:33] God and that cloud will burst into a
+[05:37] torrent of outflow of the rain of the
+[05:41] spirit that's what you saw
+[05:44] Lucy and the power of God shall not only
+[05:47] be in us but rest upon us and the plan
+[05:51] and the purpose of God shall be
+[05:53] consummated and the plan the plan the
+[05:56] plan God has a plan not only for your
+[05:59] life and in mine not only for your
+[06:00] church and my Ministry but God has a
+[06:03] plan for the last
+[06:05] days be honest and sincere and determin
+[06:09] I'm walking and will walk in his plan
+[06:13] and fulfill his
+[06:15] purpose for these are the last
+[06:20] days it's time for us to change our
+[06:22] thinking in some areas it's time for us
+[06:25] to listen to our hearts and listen to
+[06:27] our Spirits for the counsel
+[06:30] I need counseling can you counsel me you
+[06:33] have a counselor on the inside of you
+[06:35] the Holy Spirit and he will counsel with
+[06:38] you he will talk to you he will talk
+[06:40] with you he will instruct you he will
+[06:42] show you just what to do and you'll be
+[06:45] glad and the plan of God will be
+[06:47] consummated and the end shall come and
+[06:49] the dead in Christ shall rise and we
+[06:52] which are alive and remain will be
+[06:53] caught up together to meet them meet the
+[06:55] Lord in the air and so shall we ever be
+[06:58] with the Lord so rejoice and be glad
+[07:01] praise God now this one there will be a
+[07:04] Revival of the
+[07:05] supernatural not only the supernatural
+[07:08] in casting out devils not only the
+[07:10] supernatural in Healing The Sick not
+[07:13] only the supernatural in speaking with
+[07:15] other tongues but the supernatural in
+[07:17] the realm of the seen
+[07:19] realm men will see the glory of God a
+[07:22] cloud will hang over certain
+[07:24] congregations even the church buildings
+[07:26] for days at a time wow and every
+[07:29] everybody who passes by Sinner and Saint
+[07:31] alike will say we've
+[07:33] never well what in the world is that
+[07:36] I've never seen anything like that wow
+[07:39] and there will be in other places there
+[07:40] will be in other places fire of the
+[07:42] spirit that will actually become
+[07:45] literal oh yes in the spirit realm some
+[07:47] of us have seen it in the spirit realm
+[07:50] we've been conscious of the fire of God
+[07:52] but the fire will actually come into
+[07:54] manifestation and there will be people
+[07:56] Sinners as well as saints that will see
+[07:58] fire over for all the heads of the
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:00] people wow there will be people driving
+[08:02] down the street or down the highway and
+[08:04] they'll see fire on the tops of the
+[08:06] buildings and they will come and say
+[08:08] what does all this mean but you see now
+[08:11] get this the Lord will use signs of his
+[08:15] presence to bring people in in the last
+[08:20] days so that's how we're going to get
+[08:22] the Harvest Right
+[08:23] There the outpouring of the spirit is
+[08:25] going to draw them in will use signs of
+[08:28] his
+[08:30] to bring people in in the last days
+[08:33] praise the Lord men and women too will
+[08:36] be transported W it's in the Pro
+[08:39] prophecy like Philip was and found in
+[08:42] another place and great great great
+[08:44] shall be the reward
+[08:46] thereof for the Lord God is the same
+[08:49] today as he was yesterday his power has
+[08:52] not diminished and his name is still the
+[08:54] same today he can make the iron ax head
+[08:56] float today he can divide the river just
+[08:59] for two men to cross over on the other
+[09:01] side today can feed 5,000 with a little
+[09:03] boy's lunch he is the miral working God
+[09:08] yes this is what I've been looking for
+[09:10] lately the instruction what do we do
+[09:13] mhm listen this brag on him praise the
+[09:18] Lord brag on
+[09:21] him lift him up draw attention unto him
+[09:27] tell about how great he
+[09:30] is how awesome is our God marene do that
+[09:34] tonight get up in
+[09:36] faith and tell what great things he's
+[09:39] going to do he's going to do
+[09:42] it and we're going to see it Hallelujah
+[09:46] for the purpose of it all is that you
+[09:48] may be Fishers of Men
+[09:50] MH quit fishing in your own
+[09:55] bathtubs there's not any fish in your
+[09:57] own bathtub m go out where the fishes
+[10:00] are and throw out the Nets not the hook
+[10:03] the Nets and pull them in Hallelujah and
+[10:06] bring them in and the glory of the Lord
+[10:09] shall s
+[10:11] shine and the end time shall come and he
+[10:15] he's going in the Holy Ghost he's been
+[10:17] praying in the Holy Ghost and he begins
+[10:20] to say
+[10:23] this moving into that
+[10:26] place is fueled by
+[10:29] prayer it's fueled by prayer fired by
+[10:33] the spirit yes and ignited with his
+[10:37] glory wow say that again he got so
+[10:39] tickled over saying that he started
+[10:41] saying hallelujah to Jesus glory to God
+[10:43] I said glory to God glory to God
+[10:44] hallelujah fueled by prayer and he
+[10:46] starts talking about it he said if
+[10:48] there's no fuel there's nothing to
+[10:50] ignite he said notice what the spirit
+[10:52] said I never thought of it it it came
+[10:54] out of the inside of me he said I never
+[10:56] thought of it
+[10:57] before fueled F by prayer fueled by
+[11:00] prayer fired by the spirit fired by the
+[11:03] spirit ignited with his glory and ignite
+[11:05] igned we have to stop and analyze that
+[11:07] then he comes to
+[11:09] this if there is no fuel MH there's
+[11:12] nothing to
+[11:13] fire if there's no
+[11:16] fuel there's nothing to
+[11:18] fire it is
+[11:20] fueled by
+[11:26] prayer we got a big key here
+[11:30] prayer all this praying in the spirit
+[11:33] the Holy Ghost
+[11:35] said is going to be
+[11:38] fueled by
+[11:40] prayer there will be
+[11:42] churches in the body of Christ in
+[11:45] buildings where they meet huh that the
+[11:47] glory of God will fill the place like a
+[11:50] cloud and everybody will see it wow and
+[11:53] when that Glory comes in manifestation
+[11:55] people walking by and driving by in
+[11:57] their cars even the unsaved will will
+[11:59] feel the power and folks down at the end
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:02] of the block will fall under the power
+[12:03] in their homes thank you Father and
+[12:05] wonder what is this strange power that's
+[12:08] in manifestation for the glory of God
+[12:10] and the power of God will like a cloud
+[12:13] hang over whole cities because you want
+[12:16] to hear
+[12:17] why because you have prayed prayed it's
+[12:23] because you believed yes I'm just want
+[12:27] to do a recap here so here here we are
+[12:30] she's talking about how we're going to
+[12:32] fuel this end time Revival how we get
+[12:36] the
+[12:37] manifestation of what we're believing
+[12:39] for instead of just waiting for it to
+[12:42] happen I know it's in God's timing but
+[12:45] just like brother Hagen was talking
+[12:47] about it the prayer is a major key to
+[12:51] this interceding for the last
+[12:55] outpouring just like it was you know if
+[12:58] we go back back to what what John
+[13:00] Kilpatrick said with the Pensacola
+[13:03] Revival um they had prayer there I
+[13:07] believe every night for a while and they
+[13:10] prayed and they prayed and they prayed
+[13:12] for I think two
+[13:13] years for for a Revival to break out in
+[13:17] that area and so it it was birthed
+[13:21] through prayer through inter
+[13:24] intercessory prayer continually praying
+[13:27] in the spirit and that church Church
+[13:29] prayed and prayed and prayed and
+[13:32] prayed and then on a Father's Day the
+[13:37] manifestation of the of the
+[13:39] outpouring started to manifest and took
+[13:42] place it came it's very start there were
+[13:45] three men three men George Whitfield
+[13:48] George Whitfield John Wesley John Wesley
+[13:50] and Charles Wesley three
+[13:53] Englishmen and they formed a club called
+[13:56] The Holy Club the holy club and in their
+[13:59] holy
+[14:00] Club they endeavored to live a holy life
+[14:04] and to pray mhm and their holy Club had
+[14:09] an an unusual thing that happened to
+[14:13] it I shall read you about it right here
+[14:16] I wonder what book that is there came it
+[14:18] had grown to 32
+[14:20] members they had 32 members of the Holy
+[14:24] Club when there came so just think about
+[14:27] that right there sorry to interrupt
+[14:29] again but 32 people praying that's all
+[14:32] whenever I do a a prayer thing on here
+[14:35] we'll have uh 3,500 people uh pray in
+[14:40] the spirit for at least 15 minutes so
+[14:43] just think about that we have great uh
+[14:46] Power and and unity in prayer so 30 some
+[14:50] people here upon them a great outpouring
+[14:53] of the spirit on New Year's Day
+[14:57] 1739 over 60 people were present at that
+[15:00] moment when the Wesley George Whitfield
+[15:03] and others received God's power in the
+[15:06] spirit waves of unspeakable joy passed
+[15:09] over them and they prostrated themselves
+[15:11] on the ground in awe and adoration thank
+[15:14] God gave these men a deep conviction
+[15:16] that he was about to do something great
+[15:18] and wonderful in England and as they
+[15:21] moved this great move and and Revival
+[15:24] moved and came and brought them to
+[15:27] America it moved in the English-speaking
+[15:30] World there are chapters in here uh Paul
+[15:32] Brady where are you about how it moved
+[15:34] to olster and how it moved to
+[15:36] Belfast and the things that happened but
+[15:38] in the United States of America it
+[15:41] became known as the Great Awakening it
+[15:44] was from
+[15:45] 1939 until n excuse me
+[15:51] until
+[15:53] 1791 there was a great connection
+[15:56] between the Great Awakening and the
+[15:58] American
+~~~
+
+<a id="section-05"></a>
+## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[16:01] Revolution the Great Awakening the
+[16:04] outcoming of the Great
+[16:07] Awakening was the United States of
+[16:14] America and one of the leaders and these
+[16:16] things are all in this uh this book
+[16:19] right here this uh was
+[16:22] greatly affected by a man named Finny
+[16:25] the finny
+[16:26] revivals and there's so much clue in
+[16:29] here as to what happened uh with finny
+[16:33] and I want to read you just a little bit
+[16:35] of it bless the Lord
+[16:40] hallelujah Revival fires follow
+[16:44] finny and they said uh finny his
+[16:47] biographer said that perhaps the most
+[16:50] remarkable account of the manifestations
+[16:52] of the holy spirit's power since
+[16:54] Apostolic days were in finny's meetings
+[16:58] it is crowded with accounts of spiritual
+[17:00] outpourings which remind one of the day
+[17:02] of Pentecost the intensity and constanty
+[17:05] of his order were surprising the sacred
+[17:07] fire never seemed to burn low and he was
+[17:12] his campaign which began in New York
+[17:15] State uh was absolutely preparing the
+[17:18] way for the mighty move of Revival that
+[17:20] swept America in 1857 and
+[17:24] 1858 uh more than a million people came
+[17:27] into the kingdom of God under his
+[17:28] ministry and those that was not so
+[17:30] populous 85% of the professed converts
+[17:34] in the finey revivals remained true to
+[17:36] God these revivals spread and bless
+[17:39] churches from City to city and around
+[17:42] and across America a god Port um in the
+[17:46] early days of his walk with the Lord
+[17:48] finny learned about prevailing prayer
+[17:50] and prayer burdens and he would spend
+[17:53] hours in prayer often going to the woods
+[17:55] to be alone with God he some f F in
+[17:59] to and God poured out a spirit of prayer
+[18:02] upon other people who followed finny and
+[18:05] went with him much private prayer
+[18:08] accompanied this revival and so finny
+[18:11] began to preach he went to a town in New
+[18:13] York named antp he walked through the
+[18:16] streets he heard profanity and he spent
+[18:19] the rest of the day in prayer and before
+[18:21] a few days uh most of its 2,250 citizens
+[18:25] were converted wow
+[18:29] he visited a nearby Village in the first
+[18:31] service the schoolhouse was full after
+[18:33] 15 minutes the congregation began to
+[18:35] fall from their seats they fell in every
+[18:38] direction and cried for Mercy wow if IID
+[18:41] had a sword in each hand I could not
+[18:42] have cut them all from their seats as
+[18:44] fast as they fell he wrote indeed nearly
+[18:46] the whole congregation were either on
+[18:48] their knees or prostrate I think in less
+[18:52] than two minutes from the first shock
+[18:53] that fell upon them everyone prayed for
+[18:56] himself who was able to pray at all I of
+[18:58] course was obliged to stop preaching for
+[19:01] No One any longer paid attention to me
+[19:03] do it
+[19:05] again do it again Lord the meetings went
+[19:07] on and on and the people became whole
+[19:09] towns would get saved he went to New
+[19:12] York Onida County God grave a prayer
+[19:15] burden on Friday Sunday God came in
+[19:18] power at the church services finny
+[19:20] prevailed in prayer and spoke in several
+[19:23] towns parts of the Town a Mrs Harris had
+[19:25] wrestled in prayer night and day when
+[19:28] she met finny she said the Lord has come
+[19:31] this work will spread over all this
+[19:33] region a cloud of Mercy overhangs us and
+[19:35] we shall see a great work of Grace that
+[19:38] has never yet been seen finny said that
+[19:40] Mrs Harris's face had a most unearthly
+[19:42] Heavenly glow that was plainly from
+[19:45] Heaven she had won a Revival through
+[19:47] prayer praise God through prayer and
+[19:49] then after the Revival fire burned in
+[19:51] the West for a while it came to the town
+[19:53] of Rome God gripped the people with such
+[19:56] Holy Spirit conviction finny was afraid
+[19:58] that the people could not control their
+[19:59] emotions finny LED in prayer at the
+~~~
+
+<a id="section-06"></a>
+## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:01] close of the meeting in a low
+[20:03] unemotional voice trying to restrain the
+[20:05] people who had begun to weep and sigh he
+[20:08] urged them to control their feelings and
+[20:10] go home without speaking a word to
+[20:12] anyone the people obeyed but their
+[20:14] sighing and sobbing continued as they
+[20:16] went down the street to their homes at
+[20:18] Daybreak the people began sending for
+[20:21] finny he spent the morning going from
+[20:23] house to house to pray with the people
+[20:25] he finally announced a meeting for
+[20:27] inquirers at at 1:00 and many more were
+[20:30] convicted in the evening service people
+[20:32] were so overwhelmed by the holy spirit's
+[20:34] conviction then he dismissed the service
+[20:36] and asked the people to go home Revival
+[20:39] went on for 20 nights with a prayer
+[20:40] meeting at one time a day a meeting for
+[20:42] inquirers and another time a day
+[20:44] ministers at night some people collapsed
+[20:47] from conviction in the church services
+[20:49] and some later in their own homes it had
+[20:51] become Across America that people by and
+[20:54] large there were great groups of cities
+[20:56] where the people were not born again wow
+[20:59] and he'd go into these places and these
+[21:01] things would happen three men spent a
+[21:03] day drinking and condemning the Revival
+[21:06] until one of them fell down dead whoa
+[21:09] nearly all of the adult population of
+[21:12] Rome New York was brought to Christ
+[21:14] lawyers Merchants Physicians and town
+[21:16] leaders the ministers said so far as my
+[21:19] congregation is concerned the Millennium
+[21:20] has come everyone who came into the
+[21:23] village felt an overwhelming sense of
+[21:25] God's presence the sheriff of you New
+[21:28] York 20 mil away came on business he had
+[21:31] laughed and mocked at the reports of the
+[21:33] Revival as his Sligh crossed the canal
+[21:36] one mile outside of Rome an awesome
+[21:38] feeling of the presence of God gripped
+[21:41] him the nearer to the Village he came
+[21:43] the more powerfully he sensed God's
+[21:45] presence the sheriff found the people in
+[21:47] the business establishments too overcome
+[21:50] with the awe of God so overcome they
+[21:52] could hardly speak to try to keep from
+[21:55] weeping the sheriff got up several times
+[21:57] and went to the the window he hurried to
+[21:59] complete his business and hastened back
+[22:01] to udica soon he was converted bless the
+[22:05] Lord finny urged the people to pray to
+[22:08] God earnestly now get this get this
+[22:10] here's one part I want to get finny
+[22:13] would go into a town he would urge the
+[22:16] people to pray to God earnestly and
+[22:18] expectantly for quote the immediate
+[22:22] outpouring of his holy spirit immediate
+[22:25] he told them that if they United in
+[22:26] prayer they could get God's answer
+[22:28] quicker than a letter could come from
+[22:30] Albany the state's capital several men
+[22:33] agreed to prove God in that way and
+[22:35] their prayer was answered just that
+[22:37] quickly finny wrote quote indeed the
+[22:40] town was full of prayer go where you
+[22:43] were would you heard the voice of prayer
+[22:45] pass along the streets if two or three
+[22:47] Christians happened to be together they
+[22:48] were praying wherever they met they
+[22:50] prayed wherever there was a sinner
+[22:52] unconverted especially if he manifested
+[22:55] any opposition you'd find two or three
+[22:57] brothers or sister sisters agreeing to
+[22:59] make him a particular subject of prayer
+[23:02] wow Hallelujah that's what we got to do
+[23:05] sh of UDA a new convert went back to the
+[23:07] boarding house where he boarded began to
+[23:10] pray for the hotel Keeper in udica a
+[23:13] Divine uh the Holy Ghost fell a Divine
+[23:15] influence seemed to pervade udica and
+[23:17] Rome during these revivals and turned
+[23:19] the area into a zone of Holiness the
+[23:22] same phenomenon was occurring along the
+[23:25] east whole eastern coast of the United
+[23:27] States during the 1858 Revival in the
+[23:31] midst of the Revival that was a later
+[23:32] one the onid presbyter met in udica an
+[23:36] aged clergyman commanded complained an
+[23:39] aged clergyman complained that
+[23:41] everywhere he went in the town people
+[23:44] talked about prayer and Revival he got
+[23:46] up in the presbyter meeting and made a
+[23:48] violent speech against the Revival that
+[23:50] night many Christians prayed fervently
+[23:53] that the Revival would not be hindered
+[23:55] by his speech in the morning this
+[23:57] Minister was was found dead in his bed
+[23:58] in the hotel oh
+~~~
+
+<a id="section-07"></a>
+## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[24:04] wow I've heard brother Hagen prophesy
+[24:07] that when this
+[24:10] starts going to be some people that are
+[24:12] going
+[24:13] to go on home and he
+[24:17] prophesied that there'd be such
+[24:20] judgments I love this part about
+[24:25] it a Methodist Church was formed in the
+[24:28] town and then a Presbyterian
+[24:31] Church when finny would go to a town
+[24:34] he'd preach in one Church it had build
+[24:37] he'd go to another denomination it had
+[24:39] build in the same towns there'd be
+[24:42] different denominational churches and
+[24:44] they whole town would have the Revival
+[24:46] and everybody's Church would grow I'll
+[24:49] end that there but I but but I want to
+[24:51] talk to youall about it you know
+[24:53] whenever the Lord showed
+[24:56] me about the time Revival and I and I've
+[24:59] told you whenever I I I've I've seen
+[25:01] over into it and I and the Lord showed
+[25:03] me that there that the denominational
+[25:07] barriers were coming down and I believe
+[25:09] that you know just like we have so much
+[25:12] separation between the Baptist the
+[25:13] Methodist the Catholics the the the
+[25:16] Presbyterian the Church of Christ all of
+[25:17] them the Lord showed me he said Brandon
+[25:20] for what's coming he said it's going to
+[25:22] be one body all the uh T all the
+[25:26] different tents and all the different
+[25:29] thinko are going to come down the
+[25:31] through this great shaking that's about
+[25:33] to take place it's a great shaking and
+[25:37] so all of the body of Christ will come
+[25:39] together as one and the Lord showed me
+[25:42] this would be a massive this is it's
+[25:44] going to be a massive molding of people
+[25:47] because of of kind of like a camaraderie
+[25:51] for what kind of like when I told you
+[25:53] all about 911 what happened at 911 there
+[25:56] was a real camarad a a patriotism that
+[25:59] happened over America and and I believe
+[26:02] there will be a and and I'll use the
+[26:04] word a patriotism in the in the body of
+[26:06] Christ of of of a camaraderie of
+[26:09] everybody's excited to work together for
+[26:12] this last outpouring I believe that that
+[26:14] we will
+[26:16] see denominational barriers are going to
+[26:19] start they're going to come down and
+[26:21] we're going to see this massive move of
+[26:24] of of a wave of the spirit of God upon
+[26:27] all flesh um of of of a Great Harvest of
+[26:31] souls so I want to encourage you all
+[26:34] what you know listening to these old
+[26:36] prophecies listen to these men of God of
+[26:39] how they got it they got it through
+[26:41] prayer how
+[26:43] many uh stories that she told was and
+[26:47] prophetic words were given about prayer
+[26:50] like I talked about John kill Patrick
+[26:51] and all and and Finny and these people
+[26:54] they birthed it out of prayer it even
+[26:57] with the with the isua Street Revival it
+[27:00] happened out of a birthing out of prayer
+[27:03] you know and and that was in the 1900s
+[27:05] here we are a hundred years later and
+[27:08] we're about to see another Revival and I
+[27:11] believe it will be birthed out of prayer
+[27:14] if it happened every single time before
+[27:17] it's going to happen
+[27:19] again so we're going to start praying
+[27:21] more we're going to pray for the Revival
+[27:23] we're going to pray for an outpouring
+[27:25] we're going to pray for a harvest of
+[27:26] Souls the people would wake up out of
+[27:29] their compromise wake up out of out of
+[27:32] uh out of their sleep their Slumber
+[27:34] spiritually their their their
+[27:38] lukewarmness that the the they would be
+[27:41] uh that that like pouring gasoline on a
+[27:45] fire it would be that Refiner's Fire
+[27:49] would burn up inside of them and they
+[27:51] would
+[27:52] know that it's Jesus is coming they
+[27:56] would have a revelation that Jes Jesus
+[27:57] is coming and they would be shaken and
+~~~
+
+<a id="section-08"></a>
+## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[28:01] waken out of their Slumber and their
+[28:03] sleep and and they would H that that
+[28:06] their eyes would be open and they would
+[28:08] know that that that they're not going to
+[28:09] get left and they would have a
+[28:12] revelation that Jesus loves them so
+[28:15] let's pray right now let's pray for it
+[28:17] you know was I don't know how long this
+[28:19] video has been going on but but I'm
+[28:21] trying to show you to this is how you
+[28:24] stir yourself up this is how you do it
+[28:26] you you go back back and you find stuff
+[28:28] and and you read those old books of
+[28:31] Revival's pth to get excited about what
+[28:34] God to do in your life he's the Jesus
+[28:38] Christ is the same yesterday today and
+[28:40] forever and if he did a Revival back
+[28:42] then he'll do a Revival now the eyes of
+[28:45] the Lord are running to and fro
+[28:46] throughout the whole earth looking for a
+[28:49] heart who's perfect toward
+[28:52] him let your eyes fall upon me that's
+[28:55] what I say it all the time let your eyes
+[28:58] fall upon my life that father that I
+[29:01] would be a vessel that you would use for
+[29:03] this end time
+[29:06] Harvest I pray that on the other side of
+[29:09] this camera that you would say the same
+[29:12] that Jesus would use you for this end
+[29:14] time Harvest that we would be bold in
+[29:16] our faith that we would not shy back
+[29:20] when we see Wicked or or dark things
+[29:22] that we would be the ones that light in
+[29:24] the darkness and turn on that light and
+[29:27] EXP expose the
+[29:28] darkness so father right now in the name
+[29:31] of Jesus I lift every single one of
+[29:33] these people up before you I pray a
+[29:36] great hunger a great thirst For Your
+[29:39] Glory a manifestation of your presence
+[29:42] on their life I pray father for a a
+[29:45] Refiner's Fire a a a a stirring in them
+[29:48] in the name of
+[29:51] Jesus the father that they would be
+[29:53] thirsty this salt of the earth causes
+[29:57] people to get
+[30:01] thirsty I pray for a thirst in their
+[30:04] their Spirit a thirst in their soul a
+[30:06] thirst in their fles to want more of
+[30:09] Jesus I want more of your
+[30:13] Revival to to to to to not even to to
+[30:17] turn away from this world to turn away
+[30:20] from the darkness to turn away from the
+[30:23] things of this Earth and to seek Jesus
+[30:26] and to real realize that Jesus is coming
+[30:30] soon Jesus is coming and that we are
+[30:33] need to be ready and with our lamps full
+[30:37] full of oil full of the oil of the Holy
+[30:40] Ghost full of Revival ready for the
+[30:43] outpouring of the spirit of God one last
+[30:47] Harvest of souls one last push for your
+[30:51] Mighty moving hand on this Earth
+[30:55] father I thank you Father that we are
+[30:57] those that that generation that will see
+[31:01] the Lord Jesus Christ come again the
+[31:04] father that we we we we have a
+[31:07] revelation of this that father this
+[31:10] generation will not pass before the son
+[31:13] of man
+[31:14] returns I believe with all my heart that
+[31:17] we are that generation that we will see
+[31:20] Jesus Come Again In Our
+[31:23] Lifetime that we I will not taste uh
+[31:27] death that we'll be raptured out of here
+[31:31] and father I thank you for every unsaved
+[31:33] loved one that is represented here
+[31:35] behind and be here and behind the
+[31:40] camera that every single one of them you
+[31:42] said if I be lifted up I will draw all
+[31:45] men unto me and I pray father for every
+[31:49] single person that is unsaved and as a
+[31:52] wayward child or or or backslidden in
+[31:56] any way I call you come forth out of
+[31:59] that darkness in the name of
+~~~
+
+<a id="section-09"></a>
+## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[32:02] Jesus I speak for Laborers to go across
+[32:06] their
+[32:07] path I thank you Father that in the
+[32:10] Midnight Hour when they're sleeping in
+[32:13] their sleep father in in the the
+[32:15] midnight in the in the in the the the
+[32:17] early hours of the morning that they
+[32:19] would have revelation of of a dream of
+[32:22] some kind of Supernatural experience
+[32:25] with an angel or or or or the Holy Ghost
+[32:28] himself to shake them and show them get
+[32:31] all right before the Lord you're going
+[32:33] to get left you're going to burn
+[32:36] forever father I thank you Lord that we
+[32:38] would have this Great Harvest of
+[32:42] souls a great healing Revival will take
+[32:46] place our
+[32:48] government would would wake up and and
+[32:51] know that Jesus loves them and have a a
+[32:54] repent of heart for all the wickedness
+[32:56] that they're
+[32:59] doing I thank you Father Lord we praise
+[33:03] you God we call people healed and ho and
+[33:06] well in Jesus name for signs and wonders
+[33:10] of the glory signs and wonders of the
+[33:13] church moving in Authority in these last
+[33:17] days we call forth healings over bodies
+[33:20] right now in the name of Jesus
+[33:22] deliverance from nicotine and tobacco
+[33:24] right now in the name of Jesus from
+[33:26] drugs
+[33:27] from perversion of all kinds we call
+[33:30] healing and wholeness and wellness over
+[33:33] them in Jesus name delivered from cancer
+[33:37] stage four cancer any kind of cancer we
+[33:40] curse cancer in the name of Jesus and we
+[33:42] command it to go away we call those
+[33:44] rebellious cells to line up with the
+[33:47] word of God we call diabetes to be
+[33:50] healed and ho and well in jesus' name we
+[33:53] call Deliverance of of of of gallbladder
+[33:56] disease and
+[33:59] thyroid disease high blood pressure to
+[34:02] be healed and whole and
+[34:04] well blood pressure to be
+[34:07] normal we call Deliverance of all kinds
+[34:09] over their bodies fibromyalgia and and
+[34:13] lupus and and and and and ptsds and all
+[34:17] kinds of things of disorders of the
+[34:19] brain father I thank you Lord for
+[34:22] Alzheimer's and Dementia and and and and
+[34:25] Al uh
+[34:28] autism sop py we call healing and
+[34:33] wholeness and wellness over their bodies
+[34:35] right now in Jesus name severe
+[34:38] depression we break you off of it in
+[34:40] Jesus name we break depression off these
+[34:43] people anxiety disorders of all kinds we
+[34:46] curse it in Jesus name we command
+[34:48] anxiety to be gone off their lives in
+[34:50] Jesus name we speak to their adrenal
+[34:53] glands we speak to adrenal glands to be
+[34:56] healed he and whole and well in Jesus
+[35:00] name we thank you Lord for your
+[35:02] delivering power you you came to set the
+[35:06] captives
+[35:07] free and father I thank you Lord healing
+[35:10] over their over their body and and
+[35:12] father we thank you for deliverance over
+[35:13] their finances for creative ideas to get
+[35:17] wealth I thank you Father the that
+[35:19] father there's Supernatural ideas to get
+[35:22] well father creative ideas father I pray
+[35:24] over their mind father I thank you for
+[35:25] favor with their of their employment
+[35:28] wherever they need a job father they
+[35:30] have jobs and raises and bonuses and
+[35:32] benefits sales and commissions father we
+[35:35] pray over their their marriages father
+[35:37] we call restoration of their marriages
+[35:39] we say father in the name of Jesus their
+[35:41] marriage is getting better father I
+[35:44] thank you Lord that the love is
+[35:45] rekindled back in that home and over
+[35:47] their children father they have a
+[35:49] restored home in Jesus name father I
+[35:51] thank you there's peace over their
+[35:53] marriage that they rise up and they take
+[35:56] authority over that home and they'll not
+[35:58] let the devil Rob
+~~~
+
+<a id="section-10"></a>
+## 10. 36:00–37:36 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[36:00] them of their marriage of their home of
+[36:02] their children father they realize that
+[36:05] who greater is he that is in them than
+[36:07] he that is in the world that they don't
+[36:09] have to have a devil's hell in their
+[36:11] house that they have peace that passes
+[36:14] all understanding over their
+[36:17] home and father we just give you all the
+[36:20] glory and honor and praise for this in
+[36:22] the name of Jesus and we just thank you
+[36:25] Father for this for this encouragement
+[36:28] today that father there's going to be
+[36:30] something massive happen in the days
+[36:33] ahead and I and I hope this encourages
+[36:36] you all today I really do
+[36:38] I this is what I feed on I try to find
+[36:41] things that will stir me up get me
+[36:44] excited get excited about what's coming
+[36:48] you know I like I said I've told you
+[36:50] what about the dark sides of things now
+[36:52] it's time to focus on some
+[36:54] light and know that that God has a great
+[36:57] plan for your life it's not all doom and
+[36:59] gloom there's good days ahead too for
+[37:03] the believer I believe with all my heart
+[37:05] they' be the best of days and the worst
+[37:08] of days for some folks if they don't get
+[37:10] on the right side of things it's time to
+[37:13] get on the glory
+[37:14] side so I hope this this blessed you
+[37:17] today thank you for joining me if you're
+[37:19] still watching thank you for all the
+[37:21] support all the likes all the all the
+[37:23] all the kind words in the comment
+[37:25] section so I just want to say put a
+[37:27] smile on your face and a song in your
+[37:29] heart Jesus loves you so much and we
+[37:32] love you and we just thank you for
+[37:34] joining us today you all have a blessed
+[37:36] one and we'll see you next time byebye
+~~~

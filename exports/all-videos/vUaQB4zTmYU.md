@@ -1,0 +1,395 @@
+# I didn’t realize how many times the Lord warned us about Cuba over 80 major warnings
+
+**视频**: https://www.youtube.com/watch?v=vUaQB4zTmYU
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/I didn’t realize how many times the Lord warned us about Cuba over 80 major warnings [vUaQB4zTmYU].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 340；**章节数**: 4；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 预言、梦境与异象、战争与国际事务](#section-01)
+- [02. 04:00–07:59 · 战争与国际事务、预言、梦境与异象](#section-02)
+- [03. 08:00–11:59 · 预言、梦境与异象、战争与国际事务](#section-03)
+- [04. 12:00–15:53 · 战争与国际事务、预言、梦境与异象](#section-04)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 预言、梦境与异象、战争与国际事务
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Cuba、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] One of the things that I I felt, you
+[00:02] know, a caution I want to per say to
+[00:04] talk about was this thing going down in
+[00:06] Cuba and the Lord said go back to the
+[00:09] 1960s
+[00:11] and the 1960s during that time frame
+[00:13] when Kennedy was being president. Old
+[00:16] ties were being uh reunited. And I told
+[00:20] you all to watch Cuba. I told you all
+[00:24] there'll be there's there's alliances
+[00:26] there going to become even stronger with
+[00:29] Putin and Cuba and the Havana area. I
+[00:33] see Cuba again. I see stationed in Cuba,
+[00:37] secret things in Cuba with Russia.
+[00:40] Putin, I told you all for the last four
+[00:42] years he has been busy. Secret meetings,
+[00:45] secret things taking place, making
+[00:47] alliances.
+[00:49] I I I hear Cuban missile crisis. old
+[00:52] alliances, old things, devising
+[00:56] coalitions. The Lord said, "Watch Cuba.
+[01:00] Remember the Cuban missile crisis. Watch
+[01:03] Russia in Cuba." Remember this. Behind
+[01:07] closed doors, there's things that you do
+[01:09] not know. A red dawn experience is
+[01:12] coming. The enemy within a Trojan horse.
+[01:17] Many think this is terrorist related,
+[01:19] but it is not. It is an a it is an act
+[01:22] of war within. They have infiltrated
+[01:24] over the last four years of our uh last
+[01:28] administration. Thank you, Joe Biden.
+[01:31] That they are here and you'll remember
+[01:34] this in the days ahead. I've never been
+[01:36] to Cuba, but I could see like the
+[01:39] electricity grid was not very good. I
+[01:42] could see there wasn't a lot of lights
+[01:45] on, but across the ocean it looked
+[01:48] completely black outside and people were
+[01:52] moving at night and there was I saw a
+[01:55] biological. It was a clear container
+[01:58] that had metal ends and it had some kind
+[02:02] of pathogen in it that was from Russia.
+[02:06] Oh, God help me.
+[02:09] And it was it was being smuggled in to
+[02:11] the America. This pathogen, it was a
+[02:14] container that was about this big. It
+[02:16] was about that big around. And it was it
+[02:19] was glass looking. AND THE LORD SAID,
+[02:21] "WATCH CUBA. Watch Cuba." They're in
+[02:24] your backyard. And I seen darkness on
+[02:29] Cuba.
+[02:30] Darkness. Like complete grid down. And
+[02:33] this was on purpose and in a
+[02:35] retaliation. There's things there that
+[02:37] is not being said of what because
+[02:39] they're making ties with Russia and
+[02:43] because these ties of Russia certain
+[02:45] entities are trying to uh influ they see
+[02:48] it. They know it's coming. They know
+[02:50] what they're doing and there and and
+[02:52] there's darkness coming on Cuba.
+[02:55] I saw darkness on it and I don't know
+[02:58] why it's some kind of cyber I don't know
+[03:01] but I saw darkness and I've told you
+[03:03] that. And the mules left during the
+[03:06] darkness.
+[03:07] The mules left trying to be in the cover
+[03:10] of night. There's more to this. In the
+[03:13] middle of the night, in the middle of
+[03:16] the night, I see Cuba. Watch Cuba. Watch
+[03:20] Cuba. They're being promised things. The
+[03:22] mules. The mules. The mules. Oh, there's
+[03:26] great darkness there for strategic
+[03:29] allies concerning Putin. And this is
+[03:31] concerning
+[03:33] a darkness upon Cuba. I see problems
+[03:37] with the infrastructure and the electric
+[03:39] grid by design. Cyber attacks because
+[03:43] they're getting out of line. Cracking of
+[03:45] a whip. But the traffickers and the
+[03:48] MS13, there's gang lords. I see these
+[03:52] gang lords in this. And there's Santa
+[03:55] Maria. There's great witchcraft wrapped
+[03:59] into this. I see it with the candles
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 战争与国际事务、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、物资、能源与供应链。 提到的地点：Cuba、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:02] with great gang lords and drug smuggler.
+[04:05] They're using them. That's dark. Cuba.
+[04:09] This is demonic religion there. It's a
+[04:12] stronghold there. But God wants to bring
+[04:14] a great river of his presence there and
+[04:16] bring revival all over Cuba and spread.
+[04:20] Remember the Cuban missile crisis. Don't
+[04:24] forget the Cuban missile crisis. Trump.
+[04:29] Russia, old alliances,
+[04:34] old friendships.
+[04:38] I see a darkness on Cuba. It's dated
+[04:42] already, so it's not hard for the
+[04:45] infrastructure of their of their grid.
+[04:48] It's not it's it's it's a it's old
+[04:52] things. I see a I see an extension cord
+[04:56] again from Russia. to Cuba. And it's
+[05:00] under the water.
+[05:03] This is symbolic. It's under the water.
+[05:06] It's a black cord. It looks like an
+[05:08] internet cord going from Cuba to Russia.
+[05:12] A secret cord.
+[05:18] In the water. It's deep in the water.
+[05:20] The woman in Mexico. There's so much
+[05:23] corruption in so many governments all
+[05:25] around. This is very uh how you got in
+[05:29] power in the first place. But there's
+[05:31] keys there's keys to her to Venezuela
+[05:34] and it goes from Venezuela to her to
+[05:37] Cuba and they traffic the people through
+[05:40] these tunnels and they and the drugs
+[05:42] come up through their tunnels. Great
+[05:44] corruption in the Hispanic government is
+[05:46] Claudia. Remember this though, Venezuela
+[05:50] will be like an Iraq if it keeps going
+[05:52] this way. I'm going to Venezuela and I
+[05:55] see Venezuela being promised things. Oh,
+[05:57] and I'm now in Cuba and I see Cuba being
+[06:00] promised things and I see alliances of
+[06:03] Cuba, Venezuela, and the the countries
+[06:07] that have been like outcast. That's very
+[06:10] that's very very like Cuba lining up
+[06:12] with Russia coming underneath that those
+[06:14] trying to bring them out of that. But it
+[06:17] would be a base clear down there so
+[06:18] strong being so close to America. That's
+[06:22] a very That's very dangerous.
+[06:23] >> Promising them a position in the bricks.
+[06:27] If you help us over here, we're leading
+[06:30] with China and V Venezuela and all these
+[06:34] other dark countries. Hey, you've been
+[06:36] picked on by the West. You've had you've
+[06:38] had all these tariffs and sanctions and
+[06:41] all this stuff put on you that you can't
+[06:43] maneuver freely with your economy. Cuba,
+[06:47] if you join up with us and help us with
+[06:51] this, we will bring you out of the
+[06:53] Western uh boot.
+[06:56] Bringing them into a new era of
+[06:59] financing, trying to position them,
+[07:01] telling them everything's going to be
+[07:02] okay if you join them up with the
+[07:03] bricks. I see submarines going to Cuba.
+[07:07] I see it like whenever it's b up out of
+[07:09] the water, you know, I see that part and
+[07:12] it's up out of the water and it's headed
+[07:15] towards Cuba and it's on the east coast.
+[07:19] It's a Russian submarine. I don't know
+[07:22] how big these get, but like it's a big
+[07:24] submarine. It's big. It's long. I saw
+[07:27] the Cuban missile crisis. Lord said,
+[07:29] "Pay attention to Cuba." And I could see
+[07:32] Cuba again. And I could see missiles and
+[07:34] I could see things pointed at the United
+[07:36] States of America. And the Lord showed
+[07:38] me Kennedy with Donald Trump. And the
+[07:41] Lord said the Kennedy curse. And the
+[07:44] Lord used the words cold war will become
+[07:47] even colder.
+[07:50] A cold war will become even colder. I
+[07:54] will say the word red dawn. You need to
+[07:57] know this is bigger. And you need to
+[07:58] watch Cuba. You need to pray over Cuba.
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 预言、梦境与异象、战争与国际事务
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Cuba、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:02] You need to pray over our government.
+[08:04] Our last administration that was over
+[08:06] this country
+[08:08] was a very corrupt and evil
+[08:11] administration and they allowed things
+[08:13] that should never have happened and were
+[08:15] criminal. We have an enemy within. Over
+[08:17] the past four years,
+[08:20] there has been some very evil people
+[08:23] cross that border and it's worse than
+[08:25] what you realize. And I saw an enemy
+[08:28] within America, a red dawn. That's where
+[08:30] I first heard the red dawn experience.
+[08:33] That there was there was strategic cells
+[08:36] in America that would rise up and try to
+[08:40] cause havoc. And that's why I called it
+[08:42] a red dawn. A red dawn experience.
+[08:45] There's red like something very serious.
+[08:47] And I saw Cuba and I saw Cuba involved
+[08:50] in this. And there was a a tie of the
+[08:52] Cold War alliances KGB spirit that was
+[08:57] over Russia that was over Putin and that
+[09:01] it would rise up in the days ahead. I
+[09:03] saw a purple dragon coming up out of the
+[09:06] Atlantic Ocean. It was purple, a light
+[09:08] purple like a lavender. And the f and
+[09:12] the and the fins the the little that
+[09:14] there was like a like lines like a like
+[09:16] a like this that were a dark like dark
+[09:20] dark purple like a royal purple. And he
+[09:23] had a white mouth with blue dark purple
+[09:27] around his eyes and a red tongue. It was
+[09:29] a long serpent coming up out of the
+[09:32] ocean. It looked like one of those old
+[09:34] Chinese looking dragons, but it was
+[09:36] purples. All kinds of different shades
+[09:38] of purple and white mouth with white
+[09:40] around and his eyes were white with
+[09:42] green.
+[09:43] That's what I saw. He came up, went out,
+[09:46] and when he came up, it looked like part
+[09:48] of his tail was still in the water. And
+[09:51] he went down like this, and it went up,
+[09:53] and it was like an M. It was like
+[09:55] following him like this for mules that
+[09:59] with the cartel. Watch the cartel. We're
+[10:01] talking big money is being transferred
+[10:03] right here. I see it. Pray for the
+[10:05] border control. Pray for them to find
+[10:08] these tunnels for there's many more of
+[10:10] these tunnels. There's tunnels, tunnels,
+[10:13] tunnels, tunnels all throughout the
+[10:15] border of this distress from Texas all
+[10:17] the way to California. There's tunnels,
+[10:20] tunnels, tunnels, tunnels, tunnels. Many
+[10:22] more. But watch Cuba. And I'm watching
+[10:25] Cuba and it's highlighted again. So then
+[10:28] I saw Cuba and it was highlighted and
+[10:32] the water around Cuba was crystal clear
+[10:35] blue.
+[10:36] But then they it had a line and Cuba
+[10:39] started to glow and it started to become
+[10:42] alive and I saw a spring of growth again
+[10:46] coming up out of Cuba with leaves coming
+[10:49] onto Cuba and it was growing. But there
+[10:52] was an extension and I could see it had
+[10:54] a a line going from Cuba like like you
+[10:59] would see like a internet cord coming
+[11:01] out of Cuba into Russia making Cuba
+[11:05] alive. And it started to glow around the
+[11:07] border with a like an electricity light.
+[11:10] When you see a cloud like a sun shining
+[11:13] through the clouds and you see the cloud
+[11:16] glowing with light around it and it
+[11:18] comes through and it's bleeding through
+[11:19] the sun on the edges of the clouds.
+[11:21] That's the way Cuba looked. But as it
+[11:23] started to glow on the outskirts of the
+[11:26] island, a new fountain of growth came up
+[11:29] out of the middle of it as an extension
+[11:31] cord was extended to them. I'll say
+[11:33] this,
+[11:35] if it works this way, it will work with
+[11:39] everything else.
+[11:40] You have some very smart people with
+[11:42] some very evil minds. This is not
+[11:47] terrorist. Watch Cuba. Watch the mules.
+[11:52] Watch the people.
+[11:54] Watch. Watch. Remember the Kennedy
+[11:58] curse. They try to They try to bring
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:53 · 战争与国际事务、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：战争与国际事务、预言、梦境与异象、物资、能源与供应链。 提到的地点：Cuba、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:00] this on Trump. Remember,
+[12:03] remember
+[12:05] old alliances from the 1960s during the
+[12:08] Cuban MISSILE CRISIS. WATCHING Cuba in
+[12:12] the days ahead. Watch Cuba.
+[12:15] Watch Cuba. I see chatter on the phone
+[12:19] with Russia and Cuba. Chatter. It's like
+[12:22] an underground. Like they're chattering.
+[12:24] This is them providing the extension to
+[12:28] Cuba with that growth coming up out of
+[12:31] the land for financial freedom from
+[12:34] America to get out from underneath the
+[12:36] western boot. They're still devising a
+[12:39] plan, but this is secretive. They even
+[12:42] have some underground facility there
+[12:45] on that island that goes clear back to
+[12:48] the Cuban War. They have like some
+[12:50] underground bunkers underneath the
+[12:54] island at Cuba. It's close now. It's out
+[12:57] of the water's edge.
+[12:59] And I see an underground like a like a
+[13:03] like a silo like it's under the ground
+[13:05] in Cuba to to and but this is there.
+[13:08] They have things in here that is that is
+[13:12] that is bad. I see again the hazard
+[13:15] symbol. I see again it looks like a
+[13:19] device with a yellow hazard symbol on
+[13:23] the side of it. Again, do you all
+[13:24] remember what I told you all about the
+[13:27] this? And it was the the purple dragon
+[13:30] come up three times up out of the water
+[13:33] by Cuba. And this again, I see the
+[13:36] symbol of the hazard, the yellow with
+[13:39] the black uh thing on it. That's what
+[13:42] I'm seeing on a side of a of of thing.
+[13:44] And it's in the underground and it came
+[13:46] from Russia. They got it from Russia for
+[13:49] trade for something. They're doing
+[13:51] something, but it's under the ground.
+[13:53] It's in a bunker. It's like it's in this
+[13:56] cave in the in the island underground,
+[13:58] but it has little wires and little red
+[14:02] red like antenna on it. They only have
+[14:05] one of them. This is one thing. One.
+[14:09] That's all they need is one. We just
+[14:11] want you to store it there. I see these
+[14:15] islands, but but this is like mainland
+[14:18] and and they're all highlighted with
+[14:20] red. This is concerning Cuba. Okay. And
+[14:25] I see them islands and they're red and
+[14:28] it's about England. But I'm seeing
+[14:30] Russia is involved in this and
+[14:33] retaliation for this. But there's a
+[14:36] device that they're putting in their
+[14:38] story in Cuba. Why are they want to
+[14:40] store it in Cuba? It makes you purple. I
+[14:43] just saw it. I had a flash of it and it
+[14:45] looked purple. It makes the purple when
+[14:48] you die. Yeah. Well, of course. Oh, what
+[14:51] is that? You know, it's like the You
+[14:53] know, whenever you look like that, the
+[14:55] like the girl on Willy Wonka and she
+[14:57] turned her face blue cuz she ate the
+[14:58] blueberry violet. That's just basically
+[15:00] what I'm seeing is that these people are
+[15:02] dead. It's making them purple. You know,
+[15:04] you just you no color. It's like they're
+[15:07] because I saw attacks coming against
+[15:10] America.
+[15:12] I saw old Cuban war alliances
+[15:15] trying to bring back old ties,
+[15:19] trying to bring forth a third world war
+[15:22] greater than what we've ever seen before
+[15:24] with conventional weapons beyond what
+[15:28] they ever had in World War II and World
+[15:30] War I. Missiles that will destroy mass
+[15:34] amount of people.
+[15:36] Not just like heima,
+[15:39] we're talking bombs that are crazy
+[15:43] compared to what they had in World War
+[15:45] II. Folks, our technology now is scary
+[15:48] with biological and all the stuff we
+[15:50] have. And when they try to do all this,
+[15:53] it will be very, very ugly.
+~~~

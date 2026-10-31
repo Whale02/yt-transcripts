@@ -1,0 +1,1424 @@
+# God will turn it  in your favor. You’re not big enough to mess your life up ￼
+
+**视频**: https://www.youtube.com/watch?v=ZoBL6RxnWRc
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/God will turn it  in your favor. You’re not big enough to mess your life up ￼ [ZoBL6RxnWRc].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 1292；**章节数**: 11；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–04:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-01)
+- [02. 05:00–09:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-02)
+- [03. 10:00–14:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-03)
+- [04. 15:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-04)
+- [05. 20:00–24:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
+- [06. 25:00–29:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-06)
+- [07. 30:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
+- [08. 35:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
+- [09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
+- [10. 45:00–49:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-10)
+- [11. 50:00–53:27 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
+
+<a id="section-01"></a>
+## 01. 00:00–04:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] hey good morning family thank you for
+[00:02] joining us today well it's Diana and I
+[00:05] again and we're I'm excited she's with
+[00:07] me today my BFS with me my my my hottie
+[00:11] uh my I'm you know after all these years
+[00:15] uh I'm still smiting over this girl she
+[00:18] is she is my best friend and I'm so
+[00:20] thankful that she's with me best friend
+[00:23] too we're here at our spot I come here
+[00:27] because it uh it inspires me you know I
+[00:31] I I know I've said this before folks but
+[00:33] I love the U campus make no little plans
+[00:37] here God is about to show up and show
+[00:42] off at this campus there was a lady that
+[00:45] sent us a flyer in the mail about all
+[00:49] the revivals that are taking place
+[00:51] across the nation in college campuses
+[00:54] and whenever she sent that to me I guess
+[00:56] she was you know saying Hey look it's
+[00:58] happening other places
+[01:00] but I'm telling you this will be the
+[01:02] mega Revival at this school with uh
+[01:06] Victory across the street there uh big
+[01:10] big victory with Paul dhy uh I believe
+[01:13] we're about to see one of the greatest
+[01:16] revivals this world has ever seen before
+[01:19] people say hey Brandon what did you what
+[01:21] do you do for a living and everything
+[01:23] and and and want to know what D and I do
+[01:25] do you all work yes we do eBay and
+[01:28] Poshmark and we continue to do that
+[01:31] uh it's made a good living for us and
+[01:33] we're thankful for it and we we we find
+[01:35] stuff at thrift stores and we go into
+[01:37] these thrift stores and we buy used
+[01:39] stuff and and we turn it around for a
+[01:40] profit and we'll continue to do that we
+[01:43] enjoy doing it we we we like working
+[01:45] together and we will'll continue to work
+[01:47] there who wants to work for the world if
+[01:49] you can work for yourself and make
+[01:51] better money working for yourself than
+[01:52] you do for the world and I think it's
+[01:54] pretty pretty uh pretty smart on our
+[01:56] part God God uh
+[02:00] bled yeah he Diana is the one that came
+[02:03] up with the idea through the Holy Spirit
+[02:06] and uh the Lord CHS me where to go and
+[02:09] Diana goes in and gets it and that's the
+[02:11] way we've done it and that's how I've
+[02:13] practiced his presence listening to him
+[02:16] for ideas of how to get wealth I don't
+[02:19] just sit there and wait idly by saying
+[02:22] God where's my blessing I go out and
+[02:25] take the land and I take and we take it
+[02:28] by Forest don't we babe yes we're not
+[02:30] going to sit back and and and and and
+[02:33] just you know wait for a mailbox Miracle
+[02:36] Lottery mentality loty mentality and now
+[02:39] if the Lord wants to bring it that way
+[02:40] fine and and like I've told her we
+[02:43] believe in being debt-free and living
+[02:45] that way if God doesn't provide it we
+[02:47] don't have it we believe that God is the
+[02:49] one that abundantly supplies every need
+[02:52] we have and we that's the way we've
+[02:55] lived our life yes and and so you know
+[02:59] we go and we find stuff and we can flip
+[03:01] it on Craigs uh Craigslist you can put
+[03:04] it on Facebook Marketplace there's
+[03:06] creative ideas to do things and this
+[03:10] when we come to Oru and we sit out here
+[03:13] because we know what's coming the What
+[03:14] the Lord Has told us we know that that
+[03:17] building is going to be filled with to
+[03:20] capacity that maybe Center over there we
+[03:23] is that what it's called yeah the maybe
+[03:24] Center yeah yes we believe that that
+[03:28] building is going to be filled to
+[03:30] capacity with with the the fire and the
+[03:33] Holy Ghost Fire is going to be over that
+[03:35] building now you say BR Brandon you
+[03:38] spoke so poorly about uh Florida and
+[03:40] about these other areas
+[03:43] folks it I I'm just being real with you
+[03:46] it I don't mean to be offensive to
+[03:49] anybody and where you live but I'm just
+[03:51] real I tell you what I feel when I go
+[03:53] into your area now can you change it was
+[03:57] I saying oh we got to run from the
+[03:59] Demonic you you got to leave Miami you
+[04:01] got to leave this no God did not station
+[04:03] me there and he will equip who he's
+[04:07] called there to deal with what's there
+[04:10] and I believe you if you say well I
+[04:11] don't feel it because I'm here well
+[04:13] God's called you to be there but he
+[04:14] didn't call me to be there so he didn't
+[04:17] tell me to go in it's like going into
+[04:19] somebody's backyard me as as a prophetic
+[04:21] voice say I'm going to go into your
+[04:23] backyard and take authority over what's
+[04:24] going on in your backyard he didn't give
+[04:26] me Authority there to do that he didn't
+[04:28] assign me there
+[04:30] I was on there on on vacation with my
+[04:32] family and to go to Billy Burke and to
+[04:34] listen to uh uh to him and and because I
+[04:38] want impartation I'm wanting to learn
+[04:41] how to flow in the healing anointing and
+[04:43] do what do that because I'm like you
+[04:45] know I told Diana I said you know
+[04:47] there's not a lot of
+[04:49] Elders in the church that take the time
+[04:52] to impart into the younger generation so
+[04:55] you have to learn it by trial and
+[04:57] error a lot of what we've learned is
+~~~
+
+<a id="section-02"></a>
+## 02. 05:00–09:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[05:00] through trial and error and there's be
+[05:02] there's times like I've told you all
+[05:04] with with Megan whenever I had that
+[05:06] visitation from the Lord that whenever
+[05:09] he he was standing there and he took me
+[05:10] back in the past and I was I was
+[05:13] complaining about the shots and the
+[05:14] things that I had done through the flu
+[05:16] vaccination and and 3 weeks later Megan
+[05:19] was uh not able to talk and all the
+[05:22] things that took place and I and I
+[05:24] remember I I was telling the Lord he
+[05:25] could hear my heart I said man if I
+[05:27] could just go back to the past and
+[05:29] change the decisions I've made if I
+[05:32] could just have a moment to tell tell my
+[05:36] younger self don't get the flu shot
+[05:38] don't do these things for Megan because
+[05:41] I didn't know she was going to have
+[05:42] allergic reaction to it I didn't know
+[05:45] all that stuff but I thought in my mind
+[05:47] all the time and when the Lord woke me
+[05:49] up and he took me out of my body I don't
+[05:51] know how it happened but he took me back
+[05:54] to my past he showed me the power of a
+[05:58] decision but he also showed
+[06:01] me how a that that decision what doing
+[06:05] this changed
+[06:06] me change me for the
+[06:10] better what the and then he told me he
+[06:13] said you're not big enough
+[06:16] Brandon with your past decisions to mess
+[06:19] up you and Diana's
+[06:22] life he said the steps of the righteous
+[06:26] are ordered by the Lord and what the
+[06:29] devil meant for
+[06:31] bad I will turn around for good in your
+[06:35] favor I did not cause this with your
+[06:38] daughter Brandon the Devil comes to kill
+[06:41] steal and destroy but I'm going to turn
+[06:44] it around for good for you and all the
+[06:47] pressure all the stuff that you've went
+[06:50] went went through in the past you and
+[06:52] Diana will shape you into what you need
+[06:54] to be for the future if you do not
+[06:57] become victim mentality
+[07:00] do not allow your circumstances from
+[07:03] your past to dictate your
+[07:06] future I will not allow the circumstance
+[07:10] of what I have been through to dictate
+[07:13] my
+[07:14] tomorrow I'm not going to be a victim
+[07:17] I'm a Victor and we've said that over
+[07:20] and over and over again and I'm and you
+[07:22] know I I said oh God please give me the
+[07:24] opportunity to go back and and and stop
+[07:26] that man if I could just have that
+[07:28] opportunity
+[07:29] but whenever I
+[07:32] saw the power of a choice the power of a
+[07:35] decision displayed in front of my
+[07:38] face
+[07:40] how the pressure of raising a child with
+[07:44] special needs autism has changed me has
+[07:48] changed Diana for the better because
+[07:51] God's on your
+[07:53] side and whatever it may be I'm going to
+[07:56] say this whatever you do whatever you
+[07:59] have been through always stay on God's
+[08:02] side even if you don't understand why
+[08:04] you're going through
+[08:05] it always stay on God's side my favorite
+[08:09] saying is God is a good god and the
+[08:11] devil is a bad devil or Roberts just
+[08:13] like what we're here at his at the
+[08:16] University and it's such a beautiful
+[08:18] University where you know uh make no
+[08:21] little plans in life believing God for
+[08:24] big and I'm going to tell you A lot of
+[08:25] people get mad they say well you got a
+[08:27] nice car of course I believe God for big
+[08:31] I'm I'm believing God yeah you you
+[08:33] believe God for favor we have favor at
+[08:35] the dealership we have favor you you
+[08:37] believe God for favor wherever you go
+[08:40] and you sew a seed for it and we believe
+[08:42] God and we we we we keep selling on eBay
+[08:44] and we grow our business I'm never going
+[08:46] to embrace poverty folks so if you don't
+[08:49] want to see me get blessed don't watch
+[08:50] this channel because this is just the
+[08:52] beginning I believe it's time for
+[08:55] exceedingly abundantly above all that
+[08:57] you dare ask or think I believe that the
+[09:00] things that the Lord has spoken to me
+[09:02] prophetically when I pray and intercede
+[09:04] about the end time wealth transfer it's
+[09:07] not for me to just stay where we were
+[09:09] with with keep doing uh eBay and
+[09:11] Poshmark and working my wife sitting
+[09:13] there typing all night and doing all
+[09:15] things we do and looking for things in
+[09:17] the thrift stores I'm not going to do
+[09:18] that forever but right now we do it but
+[09:21] there will be an expiration date to that
+[09:25] there will be an expiration date to
+[09:27] doing eBay and Poshmark the Lord's
+[09:29] already told us there'll be a day when
+[09:32] this stops but right now it's what he
+[09:34] wants us to do and we're thankful for it
+[09:36] and I'm not going to and I'm going to
+[09:38] say this wherever God stations you
+[09:41] whatever God puts you to do always do it
+[09:44] with the joyful attitude and a good
+[09:46] heart don't complain your way through it
+[09:49] because the more you complain even in
+[09:51] your heart and what you're doing you'll
+[09:53] stay there until you get your heart
+[09:55] right I've learned if you want promotion
+[09:58] from the Lord and you want promotion and
+~~~
+
+<a id="section-03"></a>
+## 03. 10:00–14:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[10:00] for him to take you to the level from
+[10:02] glory to glory to glory you've got to be
+[10:05] faithful with the little and God to make
+[10:07] you ruer over much saying God no matter
+[10:11] where I'm at no matter what I'm doing
+[10:13] either I'm cleaning toilets or if I'm if
+[10:16] I'm I'm I'm cleaning stains out of a
+[10:19] garment that I found at a thrift store
+[10:21] I'm thankful for the Garment I found at
+[10:23] the thrift store because I remember
+[10:25] before whenever I was living on food
+[10:26] stamps and I'm thankful father for this
+[10:29] this garment yeah it's a Burberry or
+[10:31] whatever I found today that has a a a
+[10:34] coffee stain on it but Lord give me an
+[10:36] anointing to get that coffee stain out
+[10:39] give me an anointing to to get that
+[10:42] ketchup stain out and he is taught me H
+[10:46] hasn't he about how to do things and and
+[10:49] we've learned how to get stains out it's
+[10:51] pretty cool you know it it but it's
+[10:53] hearing his voice and you say well I
+[10:56] don't hear the voice of the Lord I don't
+[10:58] believe you the Bible says a we will
+[11:02] hear the good Lord's voice that we will
+[11:04] hear the good Shepherd's voice and a
+[11:06] stranger's voice we will not
+[11:08] follow I believe the Bible more than I
+[11:11] believe you you know why you don't hear
+[11:13] him because you have too much of
+[11:14] yourself in the way if you say I don't
+[11:17] hear the voice of the lord it's because
+[11:18] you got too much self huh every believer
+[11:21] has the opportunity to hear the voice of
+[11:23] the Lord a child can hear the voice of
+[11:25] the Lord why cuz you cuz you reserve too
+[11:28] much so for
+[11:30] yourself die to self daily and listen to
+[11:35] him be filled with controled by the
+[11:37] there's no shortcuts is there babe we
+[11:39] were talking to somebody the other day
+[11:41] and the and and Diana said Brandon she
+[11:43] said they didn't hear anything you said
+[11:46] I said what do you mean she goes I sit
+[11:47] there and I listen if they're pulling or
+[11:49] they're not yeah she goes I and what'
+[11:51] you say they want to easy yeah they
+[11:53] wanted a shortcut yep there's no
+[11:56] shortcuts it wasn't sinking in you can
+[11:58] just you can tell you discern whether
+[12:02] they're receiving or not with she said
+[12:04] within 15 minutes the lord always shows
+[12:06] me honey yeah whenever you're talking to
+[12:08] somebody like that if they're receiving
+[12:11] or if they're not either they get it or
+[12:13] they don't either you catch it or you
+[12:16] don't but there's no
+[12:18] shortcuts there's only hard work and
+[12:21] anything worth doing is worth doing good
+[12:24] whether it it's worth it it's worth it
+[12:27] anything worth doing is worth doing good
+[12:29] you know like you if you I say a lot of
+[12:31] people say well I don't feel like
+[12:32] putting work my work into uh my health
+[12:35] or working putting into you this is the
+[12:37] only body that you're ever going to have
+[12:39] people want sixpacks but they don't want
+[12:41] to go to the gym yep I'm speaking of me
+[12:43] I I I love to look like Arnold
+[12:45] Schwarzenegger but it takes a lot of
+[12:47] work to look like him it takes a lot of
+[12:49] work I know he probably on steroids I
+[12:51] don't know but I but but there it takes
+[12:53] work to to eat right and exercise and to
+[12:56] look like that man look or or like
+[12:58] everybody has the everybody has same
+[13:00] ability same 24 hours same seven days a
+[13:04] week you can have you can be a spiritual
+[13:07] Giant in the spirit realm if you just
+[13:10] put forth the effort to get there
+[13:14] everybody and there's God is no
+[13:16] respector of
+[13:17] persons what he did for or
+[13:22] Roberts for kathern
+[13:24] kman for Billy Joe dhy for Paul dhy
+[13:28] across the street
+[13:29] what he did for for them he'll do for
+[13:32] you how big how bad is your want to for
+[13:37] change in your life do you want it bad
+[13:40] enough to do what they did to get
+[13:43] it they sacrificed they did
+[13:46] something I know that that that that
+[13:49] they believe in seed time and harvest
+[13:51] they sowed and they reaped they believed
+[13:54] in the spiritual laws that whatsoever a
+[13:56] man SWS that will he also reap
+[14:01] so I come here like I said and I'm
+[14:03] inspired that this is somebody's
+[14:06] Faith this is faith in
+[14:08] action faith without works is dead the
+[14:11] Bible says so this is faith in action
+[14:14] this is faith faith manifested f faith
+[14:16] manifested and blossomed it blossomed
+[14:19] like a huge
+[14:21] tree I see these building started as a
+[14:24] seed started as a seed started out as a
+[14:26] field mhm started as a field
+[14:29] hearing about that believing God for
+[14:31] just this land and the farmer wouldn't
+[14:34] sell it to
+[14:35] him the farmer wouldn't sell it to him
+[14:38] but look the
+[14:40] vision from here produced all these o
+[14:44] produced the church across the street
+[14:46] these were people that just latched onto
+[14:48] the vision Paul dying them they just
+[14:50] latched onto the vision of this man they
+[14:52] didn't exist before this yeah and if you
+[14:55] ever want to read about his testimony
+[14:57] about all of U it's in the ultimate
+~~~
+
+<a id="section-04"></a>
+## 04. 15:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[15:01] Voice by Earl Robert oh phenomenal book
+[15:03] speaking of about hearing God's voice he
+[15:07] talks about his testimony of Oru and how
+[15:09] it how the miracle and how it started
+[15:12] and how he believed God for it and all
+[15:15] the experiences with with with God that
+[15:18] he's had um he has so many so many
+[15:21] things in that book that are like
+[15:22] nuggets mhm so really a great book to
+[15:25] read life changing yeah I I mean one of
+[15:28] my favorite books you've read to me I
+[15:30] love it I want to read it again in fact
+[15:32] we should read that again that's how
+[15:34] good that book
+[15:35] is I
+[15:37] um I was I was praying for um
+[15:41] ministers and the Lord spoke to me
+[15:43] because I was I was praying for my son
+[15:44] and and and for you know always pray for
+[15:47] your kids for their future for their for
+[15:50] a Godly
+[15:51] spouse so you know that they find the
+[15:55] right one intercede for your children to
+[15:59] find the right mate and I I pray for my
+[16:02] kids and I was driving around and the
+[16:04] and this was something recently the Lord
+[16:05] spoke to me and he said Brandon many of
+[16:08] my ministers have married a
+[16:11] Delilah I warn them and warn them and
+[16:14] warn them not to marry
+[16:16] individuals and they marry them either
+[16:19] out of lust of the eye lust of the flesh
+[16:21] or
+[16:22] whatever and they're snared by a Delilah
+[16:26] just like Samson was
+[16:29] and I saw
+[16:30] ministers trying to take off like a
+[16:34] rocket cuz they had all this potential
+[16:36] and all this inside of them that God had
+[16:39] called them to do but they were like a
+[16:43] rocket and and they had a a rock the
+[16:47] Delilah attached to the neck of the
+[16:50] rocket and and the vision I saw the
+[16:53] rocket trying to take off but it was
+[16:55] only allowed to go so far off the ground
+[16:58] because because they were attached to a
+[17:00] major rock called the
+[17:02] Delilah and if you marry a Delilah and
+[17:05] the Bible says do not be unequally
+[17:08] yolked with
+[17:10] unbelievers so you have to you have to
+[17:14] you have to link yourself up when you're
+[17:16] finding a spouse when you're finding
+[17:19] your forever like
+[17:22] Diana you link yourself up with somebody
+[17:25] who is there to help you iron sharpen
+[17:29] iron and that's what it's been with us
+[17:31] all the time when whenever I'm down she
+[17:34] lifts me up whenever whenever she's down
+[17:37] I do my best to lift her up I'm not
+[17:38] saying I don't know if I ever always do
+[17:40] but but I'm just saying there is a there
+[17:44] there's an iron that Sharps and
+[17:46] iron do and this was my warning to to
+[17:49] you young people do not marry your a
+[17:54] Delilah do not marry an ishmail look for
+[17:58] your Isaac
+[17:59] because the devil will try to bring an
+[18:02] ishmail to you to to try to to DF your
+[18:06] to get your ministry to not make it go
+[18:08] your
+[18:10] call you'll always be struggling the
+[18:13] Rocket's always firing and you're trying
+[18:15] to take off but you've got the big rock
+[18:18] T attached to you and you're married to
+[18:20] a Delila now if you married your Delila
+[18:23] I believe there's still hope and that
+[18:26] God will turn around what the enemy what
+[18:28] the en
+[18:29] uh meant for bad yes not trying to be
+[18:32] mean about people but some people just
+[18:35] don't got it and they don't want
+[18:37] it they don't want it their their
+[18:39] heart's not for the Lord they just want
+[18:41] to serve the the they like the they like
+[18:43] the fame they like the they like the
+[18:46] celebrity of of of certain things they
+[18:48] like the finances but they're not there
+[18:50] for the right
+[18:52] reasons and so I warn you don't marry a
+[18:57] Delilah for the Lord the Lord had has
+[18:59] spoken to me and he said many of my
+[19:02] ministers Brandon were called to go even
+[19:04] higher than what they are but they
+[19:06] married the wrong people they align
+[19:09] themsel up with the wrong people and in
+[19:11] doing so it's not allowed them to be
+[19:14] what they should have
+[19:16] been they never got to the potential
+[19:20] because of being married to the wrong
+[19:22] people now you say should I divorce them
+[19:24] Heavens no I'm not trying to Advocate
+[19:25] that no you pray for them you pray for
+[19:28] them for them a lot of people well I'll
+[19:30] just I'll just divorce them then if
+[19:32] they're holding me back no no you made a
+[19:34] choice you made a covenant you you you
+[19:39] made that Covenant with that woman or
+[19:41] that man and that's who you aligned your
+[19:44] your card up
+[19:45] with so now you have integrity and you
+[19:50] you intercede and and pray into that it
+[19:52] just could have been easier is what I'm
+[19:53] trying to say yeah the easier path an
+[19:56] easier path and it may not may be really
+[19:59] hard but it was your choice and I'm
+~~~
+
+<a id="section-05"></a>
+## 05. 20:00–24:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:02] trying to tell you if you're single and
+[20:04] you're and you're and the Lord is
+[20:05] warning you
+[20:07] today don't do this listen to the voice
+[20:11] of the Lord life has obstacles in and of
+[20:14] itself without and it and it it matters
+[20:17] who you link yourself up with because
+[20:20] they're going to be facing the same
+[20:21] things you will in life right the same
+[20:24] Mountains they're going to be speaking
+[20:26] to right or they won't speak to them at
+[20:28] all and they're laying at the bottom of
+[20:29] the mountain saying I can't climb this
+[20:31] and God said get up to the top go to the
+[20:33] summit and you're going I can't go to
+[20:34] the summit because I'm dragging this
+[20:37] Delila behind me and I'm hitting rocks
+[20:39] all the way up and God say well climb it
+[20:42] buddy I told you not to to link yourself
+[20:44] up with unequally Yol
+[20:47] people be very Vigilant about this
+[20:50] because the this is a tactic of the
+[20:51] enemy and the Lord warn me about this
+[20:53] that many of the men many of women that
+[20:56] are called to do something ma major for
+[20:58] him the devil will send an ishmail the
+[21:00] devil will send the Delila and you have
+[21:02] to say who's in your life that's cutting
+[21:05] your hair who's in your life that's
+[21:08] cutting your hair and trying to gouge
+[21:11] out your eyes stealing your vision steal
+[21:15] in the vision of what God's called you
+[21:16] to do don't allow a Delila to steal the
+[21:20] vision that God's called you to do find
+[21:22] your Esther for you've been called to
+[21:24] the kingdom for such a time as this find
+[21:26] your Esther that will stand in the gap
+[21:29] for a nation and say if I perish I
+[21:34] perish if I perish I perish if I go by
+[21:38] the sword I go by the sword but I'm
+[21:40] going with
+[21:41] you find your find your Esther today
+[21:45] don't line up with your
+[21:47] Delila I feel the power of the Lord on
+[21:50] that today folks I felt the anointing
+[21:53] and you need to know that the Lord is
+[21:54] trying to warn you about something
+[21:56] there's some of you out there that God's
+[21:58] trying to to shake you listening to this
+[22:01] video it's time to believe God for
+[22:05] big don't get weary and well-doing
+[22:09] don't lose fate don't get
+[22:13] faint-hearted you say well I've messed
+[22:15] up my life I've been into alcohol I've
+[22:17] been into drugs I've been into
+[22:19] pornography I've been into adultery I've
+[22:21] done all these things and I've derailed
+[22:23] my life so much that God can't use
+[22:26] me but the Lord told me to tell you
+[22:29] what the devil meant for bad and what
+[22:31] you what the traps you've Snell in the
+[22:33] very pit you've fallen into God's going
+[22:35] to deliver you out of them all if you
+[22:37] just seek Him repent and turn from your
+[22:41] wicked ways and I believe the Lord has
+[22:44] got it the best is yet to come if you're
+[22:46] single and you are believing God for a
+[22:48] spouse I would definitely recommend you
+[22:52] y'all uh to write a list write your
+[22:55] vision and make it plain and so that's
+[22:57] what br I both did when we didn't even
+[22:59] know each other I wrote my list of what
+[23:02] I wanted in a spouse I made an a very
+[23:05] specific detailed list of everything I
+[23:07] was believing God for what is most
+[23:08] important to me and a and a mate and he
+[23:11] did the same thing and we didn't even
+[23:12] know that each other had made it because
+[23:14] we weren't even we weren't even dating
+[23:16] at the time didn't even know each other
+[23:19] and so uh when we met he we talked about
+[23:22] it he said I have a list and I said I do
+[23:24] too so then we we got out our list and
+[23:28] we sh we read him to each other and it
+[23:30] was
+[23:31] exactly exactly to a it's like I had
+[23:33] written it about Brandon and he had
+[23:35] written it about me it it it I believe
+[23:39] it it works and now I had a pastor
+[23:41] rebuttle on me h a YouTube Pastor
+[23:44] rebutted that what we just said oh
+[23:46] that's not biblical all the stuff Hey
+[23:47] listen it worked for
+[23:49] us you you I believe that God will give
+[23:52] you the desires of your
+[23:55] heart that's just my God and that's how
+[23:58] much I have faith in him that he brought
+[23:59] me Diana and I know that he prayed for
+[24:02] me before we even met he we I used to
+[24:05] pray for my Lord I pray over my future
+[24:08] spouse father I thank you that you're
+[24:10] keeping him that you're keeping him
+[24:11] protected and safe and pure and he
+[24:15] prayed the same thing over me before we
+[24:17] ever even met and I know his prayers
+[24:19] were working for me worked for me and he
+[24:22] didn't even know me so you can pray for
+[24:25] your future spouse right now before you
+[24:28] even know them that the Lord keeps them
+[24:30] that they're pure that they that they're
+[24:32] set apart that they stay out of trouble
+[24:35] that they're not going on the wrong path
+[24:37] that they're not being snared by
+[24:40] wickedness and all the filth of this
+[24:42] world and the lust and desires of the
+[24:44] flesh that they remain hungry and on
+[24:47] fire for God and Father I thank you that
+[24:49] you're kindling that fire in them that
+[24:51] you're keeping them strong and um any
+[24:54] snares that the devil sends their way
+[24:55] that they that they that they overcome
+[24:57] them by the blood of the L by the word
+[24:59] of their testimony mhm I agree mhm and
+~~~
+
+<a id="section-06"></a>
+## 06. 25:00–29:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[25:02] and and you got to continue to do it you
+[25:04] don't just do it once I I loved it when
+[25:07] when Billy Burke was talking about you
+[25:08] don't just visit the anointing and
+[25:10] walking with the Lord being a carrier
+[25:12] you live there you've got to live there
+[25:15] and there's a lot of people who just
+[25:18] visit the throne room of the Lord and
+[25:20] and and have these experiences but but I
+[25:23] choose Diana choose we both choose to
+[25:25] say we want to live there
+[25:29] I want I I it's not convenient to drive
+[25:31] so far over here to Oru I live a long
+[25:34] ways from here but I choose to do it I
+[25:38] choose to try to make this a habit my
+[25:40] kids my son said when we went to Florida
+[25:42] he goes man I missed going to or you
+[25:45] Dad why I asked CU there's a presence
+[25:52] there it blessed me cuz I even my kids
+[25:57] the Bible says train up a child and the
+[25:58] way they should go and when they get
+[26:00] older they'll not depart from it but it
+[26:02] blesses me because I I
+[26:04] believe uh in in raising Godly children
+[26:07] I believe in doing what the Bible tells
+[26:09] us to
+[26:10] do keeping them set apart for their
+[26:14] spouse knowing that one day that my son
+[26:16] will be a blessing to to somebody but
+[26:18] I'm not going to allow him to as much as
+[26:21] I can to influence him to say listen
+[26:23] don't allow your yourself to marry a
+[26:27] Delilah God has a plan for
+[26:30] you if they want to live loose and live
+[26:32] out in the world and do all that then
+[26:33] that's on them but you you're called to
+[26:35] be set apart God has hand on you and
+[26:38] we're not going to allow that as far as
+[26:41] long as you live here if you want to
+[26:42] live out there in the world that's your
+[26:43] choice but I'm I've trained them enough
+[26:45] now they know you know my my son know
+[26:47] you know don't you be yeah to live Godly
+[26:50] yes same with you but we won't let you
+[26:52] on the camera yet but
+[26:55] um Megan's back there she hears we're
+[26:58] believe in God for Megan
+[27:01] huh so I don't know I hope this video
+[27:04] blessed you today I was just thinking
+[27:06] about a video that I could put out for
+[27:09] you to inspire you a little bit to
+[27:11] believe God to make no little plans
+[27:15] here make no little plans
+[27:19] here I love the little prayer Tower over
+[27:22] there it looks like a
+[27:26] spaceship it's pretty cool isn't it
+[27:29] Diane and I are going to pray for you
+[27:31] we're going to agree and and believe God
+[27:33] I want you to believe God for bigger
+[27:35] don't let the petty stuff about material
+[27:37] things get get you down you know Donald
+[27:39] Trump has his meeting on Friday I didn't
+[27:41] know it somebody called and said hey
+[27:43] Brandon did you know that there's a big
+[27:45] crypto meeting on Friday folks we're
+[27:48] we're we're at the point of
+[27:51] liftoff I just believe it inside
+[27:53] something major is about to take place
+[27:57] for the body of Christ
+[27:59] and God is about to to bring forth all
+[28:03] the seeds that you've sowed in the past
+[28:08] God's going to bring it to harvest at
+[28:10] last it's time to believe him for big
+[28:13] today it's time to believe him for
+[28:16] exceedingly abundantly above all that
+[28:18] you D you say I don't have any crypto
+[28:21] believe God for
+[28:22] something believe God for
+[28:25] something you you you've got to take
+[28:28] take the seed that you have and plant
+[28:30] it so that God has something to work
+[28:33] with you don't take something and make
+[28:36] you don't take nothing and make it into
+[28:38] something you have to take something
+[28:40] even a small seed a penny a dime or
+[28:42] whatever and turn it into something it's
+[28:45] 30 60 and 100 fold but if you do nothing
+[28:48] you're going to get nothing you
+[28:51] see and you say well I'm just waiting on
+[28:53] God sew your time at your church sew
+[28:58] your
+[28:59] time go to church
+[29:02] volunteer clean bathrooms and believe
+[29:05] God for a job do things like that
+[29:08] putting yourself in a position of sewing
+[29:11] seed not everything's about finances
+[29:14] your pastor has a need of being an usher
+[29:16] your pastor may have a need of being a
+[29:18] greeter at the door or a children's
+[29:21] church worker or a youth worker or
+[29:23] something going outside and helping
+[29:25] picking up trash in the parking lot
+[29:27] there's something you can do to sew your
+[29:30] time at your local church to help that
+[29:32] church out even if it's just 30
+[29:36] minutes that I used to I I told di I
+[29:39] said even if I can just go in and when
+[29:41] we had no seed to give I said even if I
+[29:44] can give a hundred buck if I could sell
+[29:45] $5 if I could give a my
+[29:49] goodness but then we we had that
+[29:53] $100 that's all we had we didn't have
+[29:55] enough money to pay our electric bill
+~~~
+
+<a id="section-07"></a>
+## 07. 30:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[30:00] the Lord told Diana take that $100 and
+[30:02] go to Goodwill our our thrift store and
+[30:05] I'm going to teach you how to multiply
+[30:07] that cuz I was upset and I told her I
+[30:10] said our electric bill is so high cuz
+[30:12] it's summer and we don't have the money
+[30:15] to pay our electric bill they're going
+[30:16] to cut our electric off and I said
+[30:21] well what now and once we started
+[30:24] tithing the miracle started happening
+[30:27] mhm and you have to be paying attention
+[30:30] and we I I've just the way I was raised
+[30:33] I you know I grew up we grew up really
+[30:35] poor so I I just look for every little
+[30:39] small thing and I noticed that once we
+[30:41] started tithing and and giving to and
+[30:43] sowing into
+[30:45] God the miracle started happening just
+[30:47] like this one after the one after the
+[30:49] other and there was a day that I
+[30:50] remember that the kids needed shoes and
+[30:52] we didn't have the money to to give the
+[30:54] kid you know to buy them shoes but we
+[30:56] always tithe first
+[30:58] because you give to God first and then
+[31:00] whatever's left that's what we paid the
+[31:02] bills and if we didn't have anything
+[31:03] left then that's just we didn't have
+[31:05] anything left but I honored God we
+[31:06] alwayson but it was but at the time we
+[31:09] have to be I'm be real they were for
+[31:11] they we were forced to tithe at our our
+[31:13] jobs we the church yeah we and if you
+[31:16] did not tithe they fired you yes and my
+[31:18] heart my heart at that time was was
+[31:21] pretty uh stinky about that yeah I I
+[31:24] told it's wrong yeah it trained us it
+[31:26] did it Force trained us we were strong
+[31:28] armed but I'm going to be real with you
+[31:30] at the time my attitude was not happy
+[31:32] about that I I oh I was firing mad
+[31:34] whenever I I had to give them my my
+[31:37] money before I could pay my bills and if
+[31:40] I didn't I got called in the office said
+[31:41] you do that in we're going to fire you
+[31:43] and I said over the years it made a Hab
+[31:46] I'm telling you I was so Fir and mad I
+[31:48] said I what am I supposed to be doing
+[31:51] yeah I'm living and I'm barely making it
+[31:53] but I but I told the Lord I said you
+[31:55] either take care of us or I quit and he
+[31:57] told me brenon I've called told you to
+[31:58] be here I need you to pray for that man
+[32:00] and lo and lo and behold he told me he
+[32:02] said he's going to lose his church he's
+[32:03] going to commit adultery you need to
+[32:04] pray for this man and he did he fell
+[32:07] everything happened the way the Lord
+[32:08] said but I did and I stuck by what the
+[32:10] Lord told me to do for 13
+[32:15] years 13 years we sacrificed making
+[32:19] nothing and I so deceived he started
+[32:21] teaching me how to to do things didn't
+[32:24] we it didn't happen overnight it was
+[32:26] hard work and then he started saying and
+[32:29] then whenever all the all when it it was
+[32:31] like awful I mean be real with y'all it
+[32:33] was awful then God started showing me
+[32:36] how to detail cars how to do things and
+[32:39] and and and it started getting bigger
+[32:42] and bigger and we started getting out of
+[32:44] the hole a little bit more and a little
+[32:45] bit more and the Lord said Brandon I
+[32:47] want you to be faithful with this keep
+[32:49] doing this keep doing this and then when
+[32:51] she came up with the idea of doing eBay
+[32:53] and posmart that's whenever our life
+[32:55] started to change drastically it went
+[32:58] and and then I said
+[33:01] wow but you couldn't but because because
+[33:03] in my natural mind I could not see how a
+[33:07] a used shirt a t-shirt at a thrift store
+[33:11] could pay a
+[33:13] bill growing a store could pay a bill I
+[33:17] couldn't see it cuz I was like it's used
+[33:20] nobody's going to want that stinky old
+[33:22] t-shirt but come to find out people
+[33:24] wanted that stinky old t-shirt
+[33:28] they look like they like bantes who I
+[33:31] didn't know who would want a a a a a a
+[33:34] t-shirt from the 70s rock t-shirt if you
+[33:37] can find
+[33:38] a70s shirt and and the Lord tell you
+[33:41] that shirt right there is a vintage
+[33:43] t-shirt sell it and you'll pay your
+[33:45] bills and I was like what yeah it looks
+[33:48] like a stinky old it had holes in it but
+[33:51] somebody wanted it that's all it
+[33:54] mattered to me it still does still does
+[33:57] they like those bantes yeah whenever we
+[34:00] started tithing the miracle started
+[34:02] happening and there was that one time
+[34:04] when the children didn't have shoes uh
+[34:07] but that day when I was walking into the
+[34:08] store I was just walking in just to get
+[34:12] uh just to get uh milk and when I looked
+[34:17] down on the ground there was a I think
+[34:20] it was a $20 bill $20 bill a $20 bill
+[34:23] was laying on the ground in my direct
+[34:25] path in the middle of the parking lot
+[34:27] and I remember pi piing it up and
+[34:28] rejoicing and saying praise God that's
+[34:30] how my God works my God is The Miracle
+[34:33] Worker and is I'm walking in the store
+[34:35] on the day that I needed it for that my
+[34:38] kids needed it it was laying right in my
+[34:40] path didn't blow away and it was right
+[34:42] there where I grabbed it and I walked in
+[34:45] and I and they had a sale on the shoes
+[34:48] and at that $20 got the kids shoes that
+[34:52] they needed yes yes so I still bring
+[34:55] that out when I'm rejoicing and praising
+[34:58] the Lord every day I'll bring that one
+~~~
+
+<a id="section-08"></a>
+## 08. 35:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[35:00] out and I'll say thank I remember that
+[35:02] day that you that you that I didn't have
+[35:05] the money to pay for my kid shoes and
+[35:07] you brought it in my path just laying
+[35:09] there in my direct path thank you Lord
+[35:11] thank you Lord that you have that you're
+[35:13] the way maker that you have the you you
+[35:15] create a way where there is no way
+[35:19] MH and but and and never taking and not
+[35:22] forgetting the Miracles from the past on
+[35:24] pap yes you we created aook a book just
+[35:28] like I've heard Billy Burke say you put
+[35:30] it in your mind all like you store it in
+[35:32] you store in your memories of everything
+[35:34] and you bring it back up you see I have
+[35:36] like a whole book of of Miracles the
+[35:39] Lord's done for me just a smeared in the
+[35:40] devil's face every day you you know you
+[35:42] go to your recent ones and then you keep
+[35:44] going back and back more that you need
+[35:47] the more that you need oh and I'll throw
+[35:48] one in from 2005 and another one from I
+[35:53] got another one from 200 I remember the
+[35:55] time when God came through and we had
+[35:57] had no groceries I remember the time
+[36:00] that God came through whenever the
+[36:02] doctor said this I remember the time
+[36:06] have a have a stacking rocks experience
+[36:10] yes you know they stack rocks to make uh
+[36:13] uh a a memorial to the Lord for what he
+[36:15] did the children of Israel stacked rocks
+[36:18] stack rocks in your life yes have that
+[36:21] stacking Rock experience to go back in
+[36:25] there and have that that thing this is
+[36:27] where God came through yes this is where
+[36:30] God showed up and showed off in my life
+[36:34] and he and if he did it once he will do
+[36:37] it again you know it said that that the
+[36:40] uh Isaac planted he he dug the wheels
+[36:43] the wells and he uh he went down and he
+[36:45] dug the wells and the Philistines came
+[36:47] over and he dumped the sand in there and
+[36:49] and they filled up his Wells again but
+[36:51] if God blessed him once and I like that
+[36:53] song and God blessed him once and he
+[36:55] will do it again MH he bless him once
+[36:58] and he will do it
+[37:00] again yep it's just like Billy brke said
+[37:03] I heard him saying that the devil's not
+[37:05] afraid of you just having one Miracle
+[37:08] yeah what he's afraid of is you having
+[37:10] multiple
+[37:13] Miracles so you you just keep you keep
+[37:18] you you keep them you write it down I
+[37:21] write mine down and then I get him out
+[37:23] and I say oh you having a bad day you
+[37:27] look hey Hey listen it up devil this is
+[37:29] all the things my God's done for me yeah
+[37:31] and I'm going to read them out to you
+[37:33] all of the Miracles that he's done for
+[37:35] me it pulls you out of this pit of
+[37:38] despair M and feeling sorry for yourself
+[37:41] yes not allowing you to get there in
+[37:44] that that that well woes me attitude
+[37:46] because if you re just make all always
+[37:50] be you can you know it's like you said
+[37:53] there was a lot of the lepers they
+[37:55] didn't come and give Jesus thanks but
+[37:58] there was only
+[37:59] one out of 10 are you the leper that
+[38:04] God's come through for maybe spiritually
+[38:07] maybe a a financial leper that God has
+[38:10] come through for that you didn't come
+[38:13] back and say thank you and there it was
+[38:15] only
+[38:15] one have you given God time to say thank
+[38:19] you not just one time well God I just
+[38:22] want to tell you thank you and all right
+[38:26] I did my job I told him thank you yes
+[38:28] but living in an attitude of gratitude
+[38:31] yes like remember those old when in Old
+[38:35] Days those theor like they had
+[38:37] categories of them like volumes that's
+[38:39] what I'm looking for the word I'm
+[38:40] looking for volumes you like like the
+[38:43] devil's not afraid of you having one
+[38:44] Miracle one healing but the multiple the
+[38:48] volumes and you create those volumes by
+[38:52] writing it down making it a part an
+[38:54] imprint this meant something to me and
+[38:56] telling people you about what he's done
+[38:58] tell and rejoicing about it and telling
+[39:00] him about it and and even telling the
+[39:02] Lord about it Father I
+[39:04] remember that for me and I wor you came
+[39:06] through for me and I have this need
+[39:08] today but man I remember all the times
+[39:10] you came through for me back then you
+[39:12] and if you did it then you'll do it
+[39:14] again yeah and you just bring that up in
+[39:17] your spirit and you worship Him you put
+[39:19] praise music on and you just say Glory
+[39:21] we glorify you father today we thank you
+[39:25] because of all all the things and you
+[39:26] lift them off that day in the parking
+[39:29] lot that day that day whenever I went to
+[39:32] church that day uh and I founded
+[39:35] something someone there's a man named
+[39:37] Tim and we didn't have any Christmas
+[39:39] money for our kids and he came up to me
+[39:41] and I was we didn't have nothing we were
+[39:43] wanting to get the kids something fun
+[39:44] for Christmas and he walked up to me and
+[39:46] I was cleaning in the bathrooms and he
+[39:47] come up to me and goes Brandon I don't
+[39:49] know why but my wife J Janet and was her
+[39:52] name and she said I believe the Lord
+[39:54] told me to give you $1,000
+[39:57] oh man I I I almost passed straight
+~~~
+
+<a id="section-09"></a>
+## 09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[40:02] out at that moment I I I it was one of
+[40:05] those shaking moments he said the Lord
+[40:07] told us to give you this and I it was
+[40:10] one of those it was like those that
+[40:11] shock and awe moment when you see God
+[40:13] come through on December the 22nd right
+[40:17] before you think it we're not going to
+[40:18] have nothing but we were not going to go
+[40:21] out and ask cuz we never if God doesn't
+[40:23] provide it we're not going to have it I
+[40:25] told him I'm a't going to go around
+[40:26] asking people people for money we're not
+[40:28] we're not in the ministry of dropping
+[40:29] hints yeah the ministry of dropping
+[40:31] hints well you know brother because I
+[40:34] know the God that I serve he's able to
+[40:37] do he's exceedingly abundantly above all
+[40:40] we ask or think but he came through and
+[40:43] that's one of my stacking rocks moments
+[40:45] that Tim Tim came up and said
+[40:51] Brandon I always want to I say my God
+[40:54] thank you for thank God for the Tims and
+[40:57] that year we had to take presents back
+[41:00] because we thought we were GNA get a
+[41:01] bonus that year and we
+[41:03] didn't yeah and we ended up having to
+[41:06] take some things back we hadn't wrapped
+[41:08] it or anything yet we still had the
+[41:10] receipt and we had to end up taking it
+[41:11] back and then but God who is rich in
+[41:16] Mercy there was there's a lot to things
+[41:19] y'all you don't forget we're just real
+[41:22] we're just real D our real we a we
+[41:24] people go well it's cool to meet you all
+[41:26] this stuff me my goodness I said we're
+[41:28] just
+[41:29] real we got issues folks but we choose
+[41:33] to focus on Jesus to change our issues
+[41:36] and our marriage get stronger because of
+[41:38] it and we pray together and we we we
+[41:40] fast together we take communion together
+[41:42] as a family we seek him as a family it's
+[41:46] like when we home school our kids and we
+[41:49] and we we we teach them Godly principles
+[41:52] and we
+[41:54] watch and pray
+[41:57] that's what we do that's what we did on
+[41:59] Florida like I said we don't take Megan
+[42:01] out a lot of places cuz she she she's
+[42:04] overcoming but we're believing God for
+[42:06] her full manifestation so we drive
+[42:09] around a lot so what we do we spend a
+[42:12] lot of time in the car we spend hours in
+[42:14] the car actually and we pray and we do
+[42:17] homeschool we have our satellite thing
+[42:19] and that's just what that's how we do it
+[42:21] and we look and we go into the thrift
+[42:23] stores in the car with the Lord yes
+[42:26] whoever gets the car next is going to
+[42:28] have a glory car cuz I'm believing I'm
+[42:30] telling you folks I've had some we've
+[42:32] had some radical visitations in this car
+[42:34] and the Holy Spirit comes in
+[42:36] here we're praying I go woo that was
+[42:41] awesome but dri around and you praise
+[42:44] God you sing in the spirit and he shows
+[42:47] up going in the thrift stores going
+[42:50] looking at the thrift
+[42:52] stor I just wanted to come on today and
+[42:54] tell you all that you're not big enough
+[42:56] to derail your life
+[42:58] you may think that there's no way that
+[43:00] God could you've been in the pit so so
+[43:03] far down and there's dirt on top of you
+[43:06] maybe a couple rocks and you think
+[43:08] there's no way I'm ever going to get out
+[43:09] of this
+[43:12] pit but God told me to tell you this
+[43:16] today that what the devil has has done
+[43:19] to try to derail your life God's going
+[43:21] to turn around for good for the steps of
+[43:23] the righteous are ordered of the Lord
+[43:26] and I believe if you're up right with
+[43:28] the Lord and you're seeking him daily
+[43:31] not just on
+[43:32] Sundays and you're seeking him daily
+[43:34] God's going to turn what the devil meant
+[43:36] for bad for your good today let us pray
+[43:39] for you we're going to agree God we're
+[43:41] going to agree together that God's going
+[43:42] to move big in your life and we hey and
+[43:45] we we're serious about that if you want
+[43:47] to send us a photo of your unsaved loved
+[43:51] one or whoever's overcoming or whatever
+[43:54] you put it in the mail if you put it in
+[43:56] the mail uhhuh and you want to send it
+[43:58] to us you can put the address is in the
+[44:00] description down below people asking in
+[44:03] the I don't I can't respond we can't
+[44:04] Bren can't respond to all the comments
+[44:07] asking where do we mail the photo to
+[44:09] it's in the description below it's at
+[44:10] that po. box you can send it there and
+[44:13] we will pray over your photo as a point
+[44:16] of contact for your unsaved loved one
+[44:19] and we're going to agree with you we'll
+[44:20] be your two D will be our your three
+[44:23] four five whatever there's we'll believe
+[44:26] as a family with you for your unsaved
+[44:29] loved ones for your uh healing for your
+[44:33] deliverance whatever you may need it's
+[44:35] nice to have a face with it so you send
+[44:38] us a photo we'll pray over your we'll
+[44:40] pray for you I'll have a be I'll be able
+[44:42] to see and the Lord will and if if the
+[44:44] Lord has anything to show me usually
+[44:46] it's a lot easier to to when I see
+[44:48] somebody's face on what's going on then
+[44:49] the Lord would I can see things I'll be
+[44:51] able to pray for you and know what more
+[44:53] to pray for you so for Dian and I both
+[44:56] so I just just I just want to say if you
+[44:58] want that fine if you if you if you
+~~~
+
+<a id="section-10"></a>
+## 10. 45:00–49:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[45:00] don't fine I just thought it would I'd
+[45:01] put that out there I it came to me when
+[45:03] I was driving around the Lord said you
+[45:05] know if you give
+[45:07] this this would be something
+[45:10] else to pray for the people it's like
+[45:13] the Bibles that came out of prayer I
+[45:16] said if you do not have the means to to
+[45:19] buy a Bible and you just got born again
+[45:22] we'll buy you a Bible now other people
+[45:24] heard other things and and they thought
+[45:26] well I have sick Bibles and some people
+[45:27] will email say I got six Bibles I like
+[45:29] to have your Bible it's not my personal
+[45:31] Bible I'm buying a Bible from Amazon
+[45:34] with our money to help you because I
+[45:36] feel compassionate towards you that you
+[45:38] don't have one so if you need a Bible
+[45:41] and you don't have one and you don't
+[45:43] have the means to buy
+[45:45] one Diane and I will buy you a Bible yes
+[45:48] we love you we want to see it's a new
+[45:50] King James version is one I'm trying to
+[45:52] do they just up the price a little bit
+[45:54] on it but I don't care I believe it's I
+[45:56] believe that's a good version of the
+[45:58] bible to read is the new King James the
+[46:00] King James is kind of these and thou but
+[46:02] I like the new King James and so um
+[46:06] that's what we'll send you we we love
+[46:08] you we pray for you we want you to have
+[46:10] everything the Lord has for you and not
+[46:14] have no nothing missing nothing broken
+[46:16] in your life Shalom
+[46:18] peace everything made whole in your life
+[46:21] today Father we thank you Lord for every
+[46:24] single person that is watching this
+[46:26] video today we lift him up before you
+[46:28] father and I thank you for that Shalom
+[46:31] nothing missing nothing
+[46:33] broken that this is a time like never
+[46:36] before that they will walk in abundance
+[46:38] they will walk in in prosperity they
+[46:41] will walk in health they will walk in
+[46:42] healing and the Deliverance will flow
+[46:45] over their life every area of their life
+[46:48] they are delivered from sickness and
+[46:50] disease they are delivered from satanic
+[46:53] oppression father we take authority over
+[46:56] the Dem demc spirits that have held them
+[46:58] bound and they are For Whom the son has
+[47:02] set free is free indeed we plead the
+[47:05] blood of Jesus Christ over them from the
+[47:07] top of their head to the souls of their
+[47:09] feet we say Satan you get under our feet
+[47:12] where you belong we have authority over
+[47:14] you and you will not touch us hinder us
+[47:18] or harm us in any way the Bible says in
+[47:21] Psalms 91 that he will give his angels
+[47:23] charge over us to Bear us up in their
+[47:25] hands lest we Ash our foot against a
+[47:28] stone so father I thank you Lord that
+[47:30] your word is true and every man a liar
+[47:33] we believe God that you're the great
+[47:35] provider we believe God that you're the
+[47:37] great deliverer we believe God that
+[47:39] you're the great you're The Great I Am
+[47:41] that I am and that everything is
+[47:43] possible all things are possible to him
+[47:45] who believe so we call healing and
+[47:48] wholeness and wellness over and Jesus
+[47:51] Christ is the same yesterday today and
+[47:53] forever and the same Jesus that healed
+[47:55] the sick to th000 years ago is still
+[47:58] healing the sick today so we believe
+[48:01] father that you're the Healer we believe
+[48:03] God that you're the
+[48:04] deliver we call restoration of
+[48:07] marriages we call restoration of homes
+[48:11] that father that you'll bring back the
+[48:13] what the cankerworm ate in their lives
+[48:15] father that their marriages will be
+[48:17] stronger than they've ever been before
+[48:19] that father that what the devil meant
+[48:21] for bad God you're going to turn it
+[48:22] around for good and I call marriages
+[48:24] restored in the name of Jesus we thank
+[48:27] you Lord that there'll be Godly
+[48:28] marriages Godly homes and the father
+[48:30] that you'll bring the spouses that
+[48:32] they're believing for I thank you Lord
+[48:34] that it it's you said that it's not good
+[48:36] for man to be alone or woman to be alone
+[48:39] but you bring a Godly spouse an equally
+[48:41] yolked partner to the ones that are
+[48:44] believing for a good partner father I
+[48:48] thank you Lord father that they will
+[48:49] have Godly marriages marriages that will
+[48:52] last the span of Eternity father they'll
+[48:54] not have divorce they'll not be uh
+[48:57] divided with strife and and and
+[48:59] confusion for father you said in your
+[49:02] word where there's Strife there's
+[49:04] confusion in every evil work and we'll
+[49:06] not have that in our homes we'll have a
+[49:09] Home of Peace we'll have a home of Joy
+[49:11] we'll have a home of faith we believe
+[49:14] father that your word is true and that
+[49:16] God that we'll raise up our children in
+[49:18] a way they should go and when they get
+[49:20] older they'll not depart from it we
+[49:22] believe father that this is a time like
+[49:24] never before that we will we will be the
+[49:27] head and not the tail above and not
+[49:29] beneath and we'll go through and we'll
+[49:31] not go under we plead the blood of Jesus
+[49:33] over over us from the top of our head to
+[49:36] the SES of our feet that we are have
+[49:38] that that exceedingly abundantly above
+[49:40] all that we dare ask or thank that
+[49:42] father that our homes are full of Godly
+[49:44] things and that that father if you said
+[49:46] if you being evil give good gifts to
+[49:49] your children how much more does your
+[49:51] heavenly father give GI good gifts to
+[49:53] those that love him and I thank you
+[49:55] Father that we are child of the king we
+[49:58] are God you love us and we love you
+~~~
+
+<a id="section-11"></a>
+## 11. 50:00–53:27 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[50:00] father and that you said that we would
+[50:01] have everything that we ever needed and
+[50:04] father I thank you for jobs and better
+[50:05] jobs raises and bonuses benefits sales
+[50:07] and commission growth in businesses
+[50:09] Estates and inheritance rebates and
+[50:11] returns checks in the mail gifts and
+[50:13] surpr prizes finding money bills paid
+[50:15] off blessing increase on your households
+[50:18] we believe father that they have all
+[50:20] that they need father and I thank you
+[50:22] for creative ideas to get wealth like
+[50:24] you did US father for your no Spector of
+[50:27] persons and what you'll do for one
+[50:29] you'll do for another for those that
+[50:31] diligently seek you father they will
+[50:33] find you so father we thank you Lord for
+[50:36] everything we have need of today that
+[50:39] you've already met it before we even ask
+[50:42] we believe we receive it now in the name
+[50:44] of Jesus and we pray for our President
+[50:47] we pray for the Peace of Jerusalem we
+[50:49] pray for our our our leaders over this
+[50:51] nation and we thank you Lord that you
+[50:54] cover president Trump from the top of
+[50:56] the top of his head to the souls of his
+[50:58] feet over Melania over vice president
+[51:00] Vance and his wife and his children over
+[51:02] Donald Trump and his
+[51:03] children you put a hedge of protection
+[51:06] around and about them over our Congress
+[51:09] over our Senate we get ready even before
+[51:12] in the next year and a half that we will
+[51:14] have a greater majority of the Senate of
+[51:18] the house that we would rise up and be
+[51:21] the the nation that God's called us to
+[51:23] be father I thank you Lord that there
+[51:25] will be a financial turn around even as
+[51:28] of this Friday father that they'll have
+[51:30] that meeting and that father that this
+[51:32] should be the beginning of the greatest
+[51:34] wealth transfer this world has ever
+[51:37] known so father we thank you Lord for
+[51:39] your Supernatural abundance and your
+[51:41] provision for us in the name of Jesus
+[51:43] everybody say amen and amen amen amen
+[51:47] well we just want to say thank you for
+[51:49] joining us today if you could like this
+[51:51] video subscribe if you haven't
+[51:53] subscribed click the notification Bell
+[51:56] you say why why do you want us to do
+[51:57] that because it helps us with the
+[51:59] algorithm we appreciate your support we
+[52:02] appreciate all that you do for this
+[52:03] family by doing those things that's the
+[52:06] only thing we'll ever ask you to do
+[52:07] we'll never ask you for anything anybody
+[52:10] El asking you for anything is a scam
+[52:12] artist do not listen to them do not give
+[52:14] them anything uh crypto whatever we'll
+[52:16] never ask for that stuff all we never
+[52:19] message people never message people
+[52:20] that's what we're trying to say we'll
+[52:22] never message you but we will ask you to
+[52:24] do this click the notification Bell
+[52:27] click the like button click the
+[52:29] Subscribe button and and and comment
+[52:31] something nice down below that helps us
+[52:35] and so that and that's what we ask for
+[52:37] thank you thank you from the bottom of
+[52:39] our heart help get the gospel out yeah
+[52:41] it helps to get the gospel out and it
+[52:43] truly does yes you can see when our
+[52:45] videos get those like buttons and the
+[52:47] Subscribe and the notification we get
+[52:50] lots more views so we appreciate that
+[52:53] it's YouTube system yeah it is what it
+[52:56] is
+[52:57] so we just want to say thank you all God
+[52:58] bless you all well we close our videos
+[53:00] Always by saying this put a smile on
+[53:02] your face and a song in your heart Jesus
+[53:06] loves you so much and we love you God
+[53:08] bless you all and remember look at this
+[53:10] as you look as we
+[53:12] close make no little plans where you are
+[53:17] not just here but where you are believe
+[53:21] God for big for God is a big God we love
+[53:25] you all we'll see you again next time
+[53:27] bye-bye
+~~~

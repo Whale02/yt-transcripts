@@ -1,0 +1,1250 @@
+# How to get through what's coming; being thankful and living by faith
+
+**视频**: https://www.youtube.com/watch?v=iTNAyPgepls
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/How to get through what's coming; being thankful and living by faith [iTNAyPgepls].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 1118；**章节数**: 11；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 地震、风暴与灾害、祷告、敬拜与现场互动](#section-01)
+- [02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-02)
+- [03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-03)
+- [04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-04)
+- [05. 16:00–19:59 · 物资、能源与供应链、教会、复兴与信仰](#section-05)
+- [06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
+- [07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-07)
+- [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
+- [09. 32:00–35:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-09)
+- [10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
+- [11. 40:00–41:05 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 地震、风暴与灾害、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：地震、风暴与灾害、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] Hey, good morning family. How are y'all
+[00:03] doing today? Well, I'm here again with
+[00:05] my wife Diana.
+[00:06] Hi.
+[00:06] And we're excited to be here. We have
+[00:08] some things on our heart. The Lord told
+[00:10] me, he said, "Brandon, I want you to
+[00:12] talk to my people again about the
+[00:14] refiner's fire and where it where they
+[00:17] are and what what basically about how to
+[00:20] get to the next level." A lot of people
+[00:23] they think, well, it's the praying and
+[00:26] the reading my Bible that gets me to the
+[00:29] next level.
+[00:31] That is the fundamentals. Okay? We use
+[00:34] the fundamentals of the dayto day. It's
+[00:37] like it's just I want to say it like
+[00:39] this. An athlete, a professional athlete
+[00:41] does the fundamentals
+[00:45] that gets him to being a champion at the
+[00:47] at the game at the major game, the World
+[00:50] Series. But without the fundamentals,
+[00:53] they'll never become a champion at the
+[00:55] endgame. Okay? It's the fundamentals,
+[00:58] the daytoday, the dayto day today that
+[01:00] gets you to be a champion. And that's
+[01:03] what you know, it's the major test in
+[01:06] life. It's the refiner's fire that gets
+[01:09] us to the next level from going from
+[01:12] glory to glory to glory to glory. But if
+[01:15] you don't do the ABCs, one, two, threes,
+[01:19] you'll never get to the pass the test.
+[01:22] And a lot of times I I thought this one
+[01:24] time I was going through a really hard
+[01:25] time and and uh I thought, where is the
+[01:29] Lord? I felt like everything was
+[01:32] stripped away. I was going through a a a
+[01:35] valley and it was dark and I cried
+[01:38] myself to sleep many many nights and not
+[01:42] knowing that I was being tested. And it
+[01:45] was the refining fire. He is the the the
+[01:47] the potter. We are the clay. And we have
+[01:51] this treasure and earthn vessels. That
+[01:54] the excellency of the power will be
+[01:56] known of him and not of us.
+[01:58] We you need to understand it's it's it's
+[02:01] him and us.
+[02:03] I'm just a person just like you are. But
+[02:06] he will use you in the kingdom if you
+[02:09] yield yourself to him. But you have to
+[02:11] be a vessel that's been tried. You will
+[02:14] not walk in the greater glory and the
+[02:16] manifest demonstrations and
+[02:17] manifestations without being on the
+[02:18] potter's wheel. It takes uh it's like
+[02:23] Len Hammond had a visitation. She was
+[02:25] talking about it one time and uh she had
+[02:27] a manifestation of Jesus and he gave her
+[02:30] a song that make me better, make me pure
+[02:35] by the fire that does refine. Where the
+[02:38] breath of God is sweeter, there his
+[02:40] brightest glory shines. lift me high up
+[02:44] to the mountain into fellowship with
+[02:46] thee. And in that light I'll see the
+[02:48] fountain of the blood which cleanseth
+[02:51] me.
+[02:51] I love that song.
+[02:52] And it was it was a it came right out of
+[02:55] from Jesus to to her singing to her. But
+[02:57] she was going through a refining fire.
+[03:00] And I'm trying to tell you all the
+[03:02] fundamentals of life. We have those test
+[03:04] times. And the Lord showed me a lot of
+[03:06] people will be tested usually every 20
+[03:08] years. He showed me it was it was keys
+[03:10] and he he showed me the life life
+[03:13] divided up in quarters and he show he
+[03:15] gave me this whole thing. It was
+[03:17] beautiful about how he test us and we go
+[03:21] from glory to glory. But the the the
+[03:24] Monday through Fridays, Saturday,
+[03:26] Sunday, we we we are we are growing each
+[03:30] and every single day. And then when we
+[03:33] get to those major tests, we don't even
+[03:35] know a lot of times like he told me he
+[03:36] said I test you all the time. And that's
+[03:38] and that's what shapes us into the
+[03:41] character being on that potter's wheel
+[03:43] of that pushing on our flesh. pushing on
+[03:46] our flesh, making us uh molding and and
+[03:49] and putting us through the fire. And
+[03:52] it's like a refining us. It's like gold
+[03:55] pulling out all of the impurities.
+[03:58] And the more you you you work it and you
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:01] pull out those impurities, the purer the
+[04:03] gold gets. Okay? So, here we are as
+[04:06] vessels that are on the potter's wheel.
+[04:08] God is molding and making us into great
+[04:12] beautiful pieces of of art for him. And
+[04:15] and the more we realize it's not about
+[04:18] us, it's about him working in us, the
+[04:21] more he will be able to trust you that
+[04:23] you realize that I'm I he is the he is
+[04:26] the everything. I am a I'm a vessel
+[04:31] chosen by God. We have this treasure in
+[04:33] earth and vessels that the excellency of
+[04:35] the power will be known of him and not
+[04:37] of us. Amen.
+[04:39] And so when we realize that, the more
+[04:41] God is going to use you and mold mold
+[04:44] you and and you keep going from glory to
+[04:46] glory in that greater outpouring. But he
+[04:48] showed me he said cuz I because I was
+[04:51] asking him about things. I was I said,
+[04:53] "Lord, show me how are we going to get
+[04:56] to this greater manifestations of what
+[04:59] you showed me of the great glory of
+[05:02] healings and demonstrations?" and he
+[05:04] said, "Brandon, it's going to come
+[05:06] through the fundamentals. It's going to
+[05:08] come through walking in love. You've got
+[05:10] to get down the foundation of love
+[05:12] better."
+[05:13] The comment section is is a test for me
+[05:15] a lot of times, you know, dealing with
+[05:17] people. My son tell me things what's
+[05:19] being said and and my wife and so we we
+[05:22] have to we have we're growing all
+[05:24] together. This has been this has been a
+[05:26] major major change of events for us.
+[05:29] Like getting on there and taking down
+[05:31] all of these uh false accounts saying
+[05:35] they're me calling prophetic bigs and
+[05:38] all these things. I I don't call myself
+[05:39] a prophet. I'm a watchman. I I'm just
+[05:41] like you all. I pray and I tell you what
+[05:44] I hear and what I see. I don't claim to
+[05:46] be a prophet. I don't claim to be
+[05:47] anything. I just want to tell you the
+[05:48] Lord said come on YouTube and tell you
+[05:50] tell you all that that he's coming. And
+[05:54] so, you know, I don't need a title. I
+[05:56] don't need all that. All I need is you
+[05:58] to hear that what I've done, what I'm
+[06:01] doing is telling you what he's told me
+[06:02] to tell you. And whether you receive
+[06:04] that or not, it's on you. But it, you
+[06:06] know, but it's like coming on there and
+[06:08] and dealing with the people like this
+[06:10] last couple of days. Diana Diana spent
+[06:13] literally 24 hours. She was up all night
+[06:16] long and all day taking those accounts
+[06:18] down after we saw that they were using
+[06:21] uh my platform what the Lord's given me
+[06:24] to uh solicit you all for uh orphanage
+[06:28] that I don't
+[06:28] fake orphanages. They're not even real.
+[06:30] Yeah.
+[06:31] Fake orphanages.
+[06:32] Mhm. Yeah.
+[06:33] What else?
+[06:35] Uh I don't know. They were asking for
+[06:37] for money and I don't who knows what
+[06:39] what they were pretending it was
+[06:41] for crypto.
+[06:42] For Yeah. For crypto. So they had fake
+[06:44] they set up fake everything and they
+[06:46] were asking for donations
+[06:48] uh under your trying to pretend to be
+[06:50] you and messaging people and
+[06:53] saying message me on WhatsApp.
+[06:56] It was awful. I I am really tired today.
+[07:01] Yeah,
+[07:01] it was rough
+[07:03] seeing all that. And some of the people
+[07:05] had 30,000 subscribers, some of them had
+[07:07] 10,000. Some had 11,000. It was a lot of
+[07:10] people. and they had some videos had 1.1
+[07:13] million views, more than I've had on my
+[07:16] YouTube channel. Well, all to the glory
+[07:18] of God for those people. Hopefully, they
+[07:19] got reached, but they're using that to
+[07:22] uh get money for people. You know, it's
+[07:24] like it's it's very very personal to me
+[07:27] because we have a child with special
+[07:28] needs is overcoming to use children with
+[07:31] special needs to try to solicit people
+[07:33] for money. And I'm telling you, I'll
+[07:35] never ask anybody for a dime. Never. The
+[07:38] Lord said, "Freely you've been given,
+[07:40] freely you give out."
+[07:42] He said, "If you feed my people,
+[07:43] Brandon, they will take care of you.
+[07:46] Never ask for anything. Always come and
+[07:50] just give it." And I and I and I've done
+[07:53] the best I can to tell you exactly what
+[07:56] the Lord is telling me to warn you about
+[07:58] the storms that are coming. A great
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:01] shaking is coming.
+[08:03] Food shortages are coming. Uh I would
+[08:07] say basically there birthing pains like
+[08:09] you you can't imagine the Lord had me
+[08:12] even like what like even yesterday
+[08:15] praying over uh American Airlines
+[08:18] praying over the United Airlines. I
+[08:21] don't know what I just got I saw planes
+[08:23] flying in the sky major planes flying in
+[08:26] the sky and I thought well this is very
+[08:28] interesting. I don't know what this is
+[08:30] all about but I get pieces and I said
+[08:32] pray over the airlines. Well, I don't
+[08:33] know why. Is it terrorist related? I
+[08:35] don't know, but I just know that he said
+[08:37] pray over the airlines. So, I get this
+[08:39] piece and then he'll start warning me
+[08:40] about power outages and then he'll start
+[08:42] warning me about um food shortages and
+[08:46] things like that and and basically, you
+[08:49] know, you could go down the fear tactic
+[08:52] of all, you know, all the stuff that
+[08:53] that you see and it, you know, people
+[08:56] get into all the fear. They go in there
+[08:58] and say, "Hey, you you going to make a
+[08:59] viral video? Talk about fear." Boy, they
+[09:01] sure like it. I mean, I told we laugh
+[09:03] about it. My son do, because it's like,
+[09:04] what? Why don't y'all want to hear about
+[09:06] the glory more than what you want to
+[09:07] hear about fear? We got you got to shake
+[09:09] that all off. God is a good God, and
+[09:12] he's a faithful God, and he's an
+[09:13] anointed God. And and he wants us to
+[09:17] live exceedingly abundantly above all
+[09:19] that we'd ask or think. But I'm trying
+[09:20] to tell you all, it's time to walk in
+[09:22] victory about some things. It's time to
+[09:24] lay hands on the sick and see him
+[09:25] recover. For us to be the light and the
+[09:28] salt and and and and stop walking in
+[09:31] fear. We don't need to be walking in
+[09:33] fear. I tell you these things, not to
+[09:35] walk in fear, but a call to prayer to
+[09:37] say, "Hey, listen. This is this is
+[09:40] sounding the alarm. Sound the alarm.
+[09:42] Look at all these things that are
+[09:43] coming." But they seem to be people are
+[09:46] more into that than they are to tell
+[09:47] you, "Hey, there's a glory coming." you
+[09:49] know, in prayer at church tonight. We
+[09:51] we're hearing about Brother Hagen during
+[09:53] the 1920s and some of the some of the
+[09:56] the greats that I believe, you know,
+[09:58] changed my life just by hearing some of
+[10:00] the stories that they did. And Pastor
+[10:02] Chip was talking about he said that they
+[10:05] would pray by by just giving God praise
+[10:08] during the great tribulation. Not the
+[10:10] great tribulation. They would give God
+[10:13] it's not the great tribulation yet,
+[10:14] folks. Sorry. during the during the
+[10:18] great depression, not the tribulation,
+[10:20] the great depression, but they would
+[10:22] pray and they never did without food.
+[10:25] They never went without food one time
+[10:28] because they praise. They learn how to
+[10:30] cultivate praise in their household. And
+[10:33] when praises go up, blessings come down.
+[10:36] Okay? So I'm I want to teach you all
+[10:39] that you've got to get into a atmosphere
+[10:42] of thanksgiving and praise, being
+[10:44] thankful for what the Lord has already
+[10:47] provided in your life. You may not feel
+[10:50] like he's done anything in your life.
+[10:52] You may look at and go, "Well, I look at
+[10:54] me and I don't have nothing. I'm poor as
+[10:55] Job's turkey." But you can be thankful
+[10:58] for something. You start with that one
+[11:00] thing and you get you get all up in and
+[11:04] be thankful all day long. God, I'm able
+[11:07] to breathe. I'm able to breathe. I took
+[11:09] a breath out of my lungs today. I I I my
+[11:11] my eyes and you may be paralyzed. My
+[11:14] eyes moving. I can move my eyes. And you
+[11:17] may not be able to move anything else,
+[11:18] but you can move your eyes. Be thankful
+[11:21] for any little thing that you and I'm
+[11:24] telling you that's the the key of the
+[11:26] open door for the greater blessings.
+[11:29] Being thankful. I I'm talking to myself.
+[11:32] There's so much that I feel the Lord has
+[11:33] done for us in the last two, three
+[11:35] months and I and I take time and I
+[11:37] complain about certain things and the
+[11:39] Lord said, "Brandon, are you are can't
+[11:41] you be grateful about one thing?" And I
+[11:43] have to I He's He'll correct me. Oh
+[11:46] Lord, I'm sorry. Forgive me. You've
+[11:49] given so much to me. I have foodoo in my
+[11:51] belly. I have a roof over my head. I
+[11:53] have my bills are paid. You got you you
+[11:56] can you can be give God praise for
+[11:58] something.
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:00] And when you do, blessings flow. The
+[12:03] more you praise him, the more blessings
+[12:05] will flow. And I'm telling you, whenever
+[12:06] I heard Pastor Chip talk about the great
+[12:10] uh depression and he was saying that
+[12:12] Brother Hagen and them never went
+[12:14] without food because they always praised
+[12:17] him for the little things. And for what
+[12:19] I've seen coming, I'm talking, you think
+[12:21] the Great Depression was bad in those
+[12:23] story books. For what I have seen
+[12:24] coming, folks, this is going to make the
+[12:26] Great Depression look like a walk in the
+[12:28] park because this generation doesn't
+[12:31] understand how to even grow things in a
+[12:33] garden. They don't know how to go and do
+[12:36] most things. They're they're so used to
+[12:37] going through McDonald's and and getting
+[12:39] their, you know, little Happy Meal or
+[12:41] whatever. This is a different generation
+[12:43] than it was 100 years ago.
+[12:46] So, that's what I'm talking about.
+[12:47] You've got to learn now. You've got to
+[12:50] learn now how to live by faith now so
+[12:53] that you're able to operate when things
+[12:55] get rough. You can't wait until things
+[12:57] get rough
+[12:59] and to and then start doing the things
+[13:01] and go, "Well, I'm we're going to start
+[13:03] practicing it now." Practice his
+[13:05] presence today.
+[13:07] Practice him today. And and so, you
+[13:10] know, tell them about that time
+[13:11] whenever, you know, you had groceries
+[13:12] show up as a little girl.
+[13:14] Yeah. Um, as a child, um, we grew up
+[13:18] really, really poor. Um, we lived in a
+[13:21] car for a while. Um, my parents didn't
+[13:23] take, uh, you know, help from the
+[13:26] government or anything. So, uh, we lived
+[13:29] in a car for a while. We ate ketchup
+[13:31] packets, uh, for food. Those free
+[13:34] ketchup packets that you get out of the
+[13:35] out of McDonald's, we ate that. We lived
+[13:38] in the car. Um,
+[13:39] for how long though?
+[13:40] Oh, for probably I would say at least a
+[13:43] year.
+[13:43] Mhm. Yeah, I remember I was really
+[13:46] little. I was probably like four or
+[13:48] five.
+[13:48] Um maybe even younger. Homeless. Yeah.
+[13:51] And um I remember uh one time we were in
+[13:55] the car, me and my older sister, we were
+[13:57] sitting in the car and it was in a hot
+[13:59] summer day and we were so so hot. And uh
+[14:03] we saw this soda machine in front of us.
+[14:05] We were in the car and the soda machine
+[14:07] was right there. And I remember my I I
+[14:09] remember being so thirsty that I got out
+[14:12] of the car. We got out of the car. I
+[14:13] said I said, "Sister, let's go over
+[14:15] there. We Let's see about that. If we
+[14:18] can find a quarter on the ground and
+[14:19] maybe we can get a soda out of there."
+[14:21] So, we got out of the car and just
+[14:23] walked right up to that machine. And I
+[14:26] remember uh there was no quarters, but I
+[14:29] pushed a button and a soda came out of
+[14:31] it. And my sister and I got so excited.
+[14:34] It's imprinted in my brain forever. I
+[14:36] was We rejoiced about that. She pushed a
+[14:39] button and another one came out. Then I
+[14:40] pushed another one and another one came
+[14:42] out and we loaded our arms full of sodas
+[14:45] and they were cold. It was the best. It
+[14:48] was the best thing ever. So see God
+[14:49] knows the desires of your heart and he
+[14:52] he in your needs and and I I I it felt
+[14:56] like a very a very spiritual day that
+[14:58] day. We were so like appreciative and
+[15:01] thankful and we just rejoiced as little
+[15:03] kids. We were out there rejoicing and
+[15:05] going and we got enough for uh several
+[15:08] Cokes for each of us and we then we
+[15:10] stopped and then we were like, "Hey,
+[15:11] let's just go back to the to the car and
+[15:13] drink them." And it was the best day. It
+[15:16] was the most refreshing soda I've ever
+[15:18] had in my life. And it's it it was, you
+[15:22] know, those God moments and we just
+[15:24] rejoiced at that at the little small
+[15:26] things when we uh we didn't have enough
+[15:30] uh money to pay our electric bills as
+[15:32] kids and they were always turned off a
+[15:34] lot of times and we we didn't have food
+[15:36] in our fridge and we would have we would
+[15:40] pray and we would have groceries door
+[15:41] groceries show up on our doorstep. Uh I
+[15:45] countless times I we just I just
+[15:47] remember so many small things the small
+[15:49] miracles and us being just rejoicing and
+[15:53] being so excited about everything and um
+[15:56] it was just a lifestyle you know even as
+[15:59] a kid we just got so excited about
+~~~
+
+<a id="section-05"></a>
+## 05. 16:00–19:59 · 物资、能源与供应链、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：物资、能源与供应链、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[16:01] everything that the Lord did. I mean big
+[16:04] or small and you know
+[16:06] Christmas presents
+[16:07] Christmas presents one time. Yeah. We uh
+[16:09] we had Christmas presents show up.
+[16:11] somebody came and just showed up in the
+[16:13] middle of the night. We were like
+[16:14] sleeping on the floor somewhere. I I
+[16:16] vaguely remember as a kid because I was
+[16:18] so little and I remember them showing up
+[16:21] with with Christmas presents and
+[16:24] beautifully wrapped, just beautiful. And
+[16:26] I remember this one of the best
+[16:28] Christmases I ever had. And it wasn't
+[16:30] even necessarily a whole whole lot of
+[16:32] them. It was just we didn't have
+[16:34] anything. And so you were just we were
+[16:36] just so thankful and appreciative. Uh
+[16:39] countless little things like that. that
+[16:40] I can remember. And even like and even
+[16:43] like going in the in the in the line, we
+[16:47] would be sitting at uh you know a gas
+[16:50] station and my my dad would run out of
+[16:53] gas all the time we were driving the car
+[16:55] because we didn't have any money for
+[16:57] anything. And I remember us barely
+[17:00] making it to a gas station one time and
+[17:02] then someone just would pay for our gas
+[17:04] and they would say, "You know what? I
+[17:05] feel like I'm supposed to pay for your
+[17:07] gas today." I miracle after miracle. And
+[17:10] you know, it doesn't have to be a a big
+[17:12] miracle to be a miracle. It's that God
+[17:14] is in everything. He's in the small
+[17:16] things. He's in the big things. And you
+[17:18] know, we were just being thankful for
+[17:19] everything.
+[17:21] It's beautiful.
+[17:23] I love it. There's so many times, you
+[17:25] know, even when we we've been married
+[17:27] that we didn't have nothing
+[17:29] and we we were we were trying to just
+[17:31] figure out how to pay our electric bill.
+[17:34] Mhm.
+[17:35] And Diana, we I told her, I said, "We
+[17:38] don't have enough money this month to
+[17:39] pay our electric bill because it was
+[17:41] summer and our electric was higher." And
+[17:44] when you're working for a church, we
+[17:45] work for a church and I we made we made
+[17:48] barely nothing. I mean, it was it was
+[17:52] rough living on food stamps, you know.
+[17:54] Uh I was janitor there for a long time
+[17:56] and we we struggled and um there was
+[17:59] times whenever we got we get paid every
+[18:01] two weeks and we would have it all spent
+[18:03] before we got it uh by borrowing on a
+[18:07] credit card or whatever we could do to
+[18:09] just make it
+[18:10] Yeah. Our bills took up our entire
+[18:12] paycheck. So, it would be already spent.
+[18:14] we already know what that goes to
+[18:15] trying to get therapy for Megan,
+[18:17] trying to get her speech or whatever,
+[18:19] you know, uh the government would only
+[18:21] cover so much and
+[18:22] and uh cuz it was expensive and uh we
+[18:25] thought, well, what are we going to do?
+[18:28] And so we we were so desperate to try to
+[18:30] help Megan um at that time, just trying
+[18:33] to just find any kind of alternative
+[18:36] uh to to help her to function more
+[18:39] because we we just we wanted her to live
+[18:41] a normal life. And um it was rough. We
+[18:46] charged everything up. We were tens of
+[18:48] thousands of dollars in credit card
+[18:49] debt. And back then whenever you're
+[18:51] making what we made, it it looked like a
+[18:53] mountain. So we, you know, you had to
+[18:55] file bankruptcy. You do everything you
+[18:56] can to just get through because we
+[18:58] didn't have food.
+[19:00] There would be times we be like, "Man,
+[19:01] what are we going to do?" And so, you
+[19:02] know, there's always grandma, she'd make
+[19:04] you a meal or buy you a pizza or
+[19:06] surprise you. Things that God would put
+[19:08] on her heart and she'd even know. you
+[19:10] know, we wouldn't we we've never been a
+[19:13] people to uh give a ministry of hints
+[19:18] or or hey, we're having a hard time
+[19:20] because we we we believe by faith.
+[19:23] We're not going to go around talking
+[19:25] about our problems to everybody and
+[19:27] telling them how bad you've got it
+[19:29] because it's just like it's just like
+[19:31] this. I try to tell y'all praying in the
+[19:33] spirit and not let letting the devil see
+[19:35] that he's that he's made a move on you
+[19:38] that's working that you feel like it's
+[19:40] beating you down keeping your head above
+[19:43] and giving God praise for every little
+[19:45] thing. So I just sit on the couch just
+[19:47] like I'm doing right now and and and my
+[19:49] son can testify to this because he'd get
+[19:51] in there with us and Diane and we God I
+[19:55] just want to say thank you that our
+[19:57] water bills paid tonight
+[19:59] and I would spend my whole
+~~~
+
+<a id="section-06"></a>
+## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:04] I'd spend my whole entire night giving
+[20:07] God praise for the water bill. God, I
+[20:10] thank you for the water bill. Anyway,
+[20:12] only $100 water bill or in trash,
+[20:14] whatever. It's not very much, but it was
+[20:16] a lot to us. And we would take a seed
+[20:20] and we would sew what we could. And we
+[20:22] didn't have a seed because Bible says,
+[20:24] "Give and it shall be given unto you.
+[20:26] Good measure, pressed down, shaken
+[20:28] together, and running over will it give
+[20:29] unto your business." And it was required
+[20:31] for us to tithe our tithe at staff. And
+[20:35] after you tithe, we we didn't want to
+[20:36] tithe because we were like, we don't
+[20:37] have enough money to eat early. But but
+[20:39] it was required to tithe. So we would
+[20:42] believe by faith to to to get through at
+[20:46] the next to the next week after you
+[20:48] tithe. You think, man, you know, even if
+[20:49] it was two 200 bucks for tithe because
+[20:52] we didn't make much. You thinking this
+[20:54] is a lot because it would have paid
+[20:55] electric or maybe something, you know,
+[20:57] but but I but I trusted God and I would
+[20:59] ask the Lord, God, show me and give me a
+[21:02] creative idea to get wealth. And that's
+[21:04] where I always ask him, Father, you're
+[21:06] going to have to you're going to take
+[21:07] care of us. And he would always provide.
+[21:10] He we always got through. I would sew a
+[21:13] seed and he would I would I would use my
+[21:16] faith. I would sew a seed and it would
+[21:17] provide for that need. He always take
+[21:20] care of us. And we got to the point we
+[21:22] started sewing a little bit more. A
+[21:24] little bit more. And and and I I
+[21:26] realized that the Lord started teaching
+[21:29] me about good ground
+[21:31] because not all ground's going to
+[21:33] produce. Most people don't want to hear
+[21:36] that. And a lot of people go, "Well,
+[21:37] that's not bu." No, no, no, no. some 30,
+[21:40] some 60, and some 100fold. And I'd
+[21:42] always ask the Lord, "Show me where
+[21:44] miracle good soil ground is. Show Diana
+[21:48] and I where amazing ground is because
+[21:52] God, I need a quick harvest like miracle
+[21:55] grow. I need this seed to produce fast.
+[21:57] I don't need it to be in the ground for
+[21:59] weeks at a time and us receive six
+[22:01] months, a year from now. I need it
+[22:03] tomorrow. I need a miracle tomorrow."
+[22:06] And so I started just praying and asking
+[22:08] him and ask show father and just pray in
+[22:10] the spirit showing me father I thank you
+[22:12] lord you show me good ground. So I would
+[22:13] take $5 and I would believe by faith for
+[22:17] that $5 to produce for my family. I sow
+[22:20] a dollar so $2. Whatever I had I put in
+[22:23] the offering envelope whatever God told
+[22:24] me show me the good ground. I tested the
+[22:26] ground. I tested the ground. I test the
+[22:28] ground and I would make sure and if it
+[22:30] and if it didn't produce real quick we
+[22:32] didn't give there again. But I would if
+[22:34] I start quick saw a quick return, I
+[22:36] would go, "That's good ground, babe.
+[22:38] Let's do that again." So, we would sew
+[22:40] intentionally and believe God for a
+[22:42] harvest and say, "Lord, show us what to
+[22:44] do because we need a blessing because I
+[22:46] but I've trusted God with all my heart,
+[22:49] all my soul, and all my mind, all my
+[22:51] strength. And I lean not under mine
+[22:53] understanding."
+[22:55] But in all thy ways acknowledge him, and
+[22:56] he said he'd direct your path.
+[22:58] Y
+[22:59] and that's what we did over and again,
+[23:01] over and again. And there was time when
+[23:03] we didn't have enough money. We got us a
+[23:04] Jeep. We were so excited because we
+[23:06] drove a long ways to because we had a
+[23:08] cheap little rare house. Shotgun rare
+[23:09] house. It was bad. It was It was bad. I
+[23:13] look back and I go, "Lord, it was it was
+[23:15] rough." Uh
+[23:18] snakes come up through the floor, rotten
+[23:20] mold. You got cockroaches. It was It was
+[23:22] awful. We lived there for a long, long
+[23:24] time.
+[23:25] And God provided. And it was to the
+[23:27] point where you my son wake up in the
+[23:29] middle of the middle of the night and
+[23:30] there'd be a massive black snake by his
+[23:33] feet.
+[23:34] Was it?
+[23:34] Yep.
+[23:35] It be a big old thick black snake curled
+[23:39] up by his feet coming up through the
+[23:40] baseboards because our our floor was so
+[23:42] bad.
+[23:43] And we had we had mice. We had
+[23:45] cockroaches. It was it was here. I had
+[23:47] to put traps out all the time, clean up
+[23:48] things. The neighbors next door were a
+[23:50] crack house and they had meth. They were
+[23:52] cooking meth so bad we couldn't open our
+[23:54] windows up in the fall because they were
+[23:55] cooking meth and the meth blow into our
+[23:57] house and it would smell so bad it make
+[23:59] you sick. So you had to keep your window
+~~~
+
+<a id="section-07"></a>
+## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[24:01] shut because you couldn't keep the And
+[24:03] so one night I was praying the Lord said
+[24:04] deal with this and all of a sudden a
+[24:06] massive explosion happened from the meth
+[24:08] house and I don't know if they were hurt
+[24:11] or anything. I don't know but they
+[24:12] stopped cooking meth after that because
+[24:13] the massive explosion took place next
+[24:16] door and uh God took care of that real
+[24:19] quick and bless their hearts. They need
+[24:21] Jesus. But uh and then and then one
+[24:24] night we had these uh cocaine dealers
+[24:27] that were two doors down from there and
+[24:29] um we have a drug raid had a massive
+[24:32] drug raid in the middle of the night and
+[24:34] had all the FBI over we it looked like
+[24:36] Christmas out there all the lights going
+[24:38] and I thought oh I said my my wife come
+[24:40] out the front door she said remember you
+[24:42] said oh my god she goes what's going on
+[24:44] out there? I said, "I don't know. Shut
+[24:45] the door quick." Cuz they were running
+[24:46] across our front front our front lawn
+[24:49] with all their guns and everything,
+[24:50] running and raiding these dudes with all
+[24:52] their cocaine and drugs. Man, it was
+[24:54] bad. But but God is faithful. It's not
+[24:58] about the past. I'm just telling you
+[24:59] where we come from.
+[25:00] We were praying for them to get saved.
+[25:02] Yeah, it was.
+[25:04] But they went to jail
+[25:05] for their salvation.
+[25:06] They did. They needed help. They're
+[25:09] strung out on drugs, man. They were they
+[25:10] they were big drug dealers. But math on
+[25:13] one side, crack on the other, you know.
+[25:15] But God but God took care of us. And we
+[25:17] lived there for a long time. 20 years.
+[25:20] Yeah.
+[25:23] 20 years. We lived by faith for 20
+[25:25] years. But God suddenly provided.
+[25:29] It took us sewing seed and believing
+[25:31] God. Sewing seed and believing God, but
+[25:33] God provided. I'm trying to tell you all
+[25:36] it it may not happen overnight,
+[25:39] but if you keep on keeping on and you
+[25:41] keep
+[25:58] on keeping on and you don't let go and
+[26:01] you stand when they're all
+[26:04] Golly,
+[26:05] when you stand in there when you when
+[26:07] when all there else to do is stand there
+[26:09] for
+[26:11] God is a faithful God. He started giving
+[26:14] Diana the idea, didn't he, hun?
+[26:16] Yeah. About selling on eBay.
+[26:19] Yep. Yep. He He Holy Ghost idea.
+[26:22] Tell him.
+[26:24] Yeah. Uh, so one of those times whenever
+[26:26] we didn't have enough money to make our
+[26:29] bills for the month,
+[26:30] electric. Uh yeah, it was electric. And
+[26:32] we were going over our budget and we he
+[26:36] said, "We have
+[26:37] I just got laid off at the church
+[26:38] because our pastor fell morally."
+[26:40] Yeah. And so he said, "We this is what
+[26:43] we have. We have $100 to last us for the
+[26:45] next two weeks." And I we I don't I
+[26:47] didn't know what to do. So I took it to
+[26:49] God in prayer and I was I was saying,
+[26:51] "God, we need to we need to stretch
+[26:53] this. I need ideas for how we can do
+[26:56] this." And that's whenever he gave me
+[26:59] the idea for uh selling on eBay. So I
+[27:03] said, "Let's take that and that $100 and
+[27:07] let's go to a thrift store and we'll buy
+[27:11] something and you know as clothing or
+[27:13] whatever and I I think I can we the
+[27:16] Lord's going to bless it and we will he
+[27:18] I believe he gave me this idea. What do
+[27:20] you think?" And he said, "Yeah, let's do
+[27:22] it." So, we went and he uh sat in the
+[27:25] car with the kids and I went in there
+[27:27] and I was just going. I had no idea what
+[27:30] I was doing. Never had
+[27:32] I was I was a downer at that time. I
+[27:34] told you. I said, "This is never going
+[27:35] to work."
+[27:36] Yeah.
+[27:36] I said, "What are you doing? This is our
+[27:38] last $100."
+[27:39] He said, "I
+[27:40] I said, but I said, if you feel the Lord
+[27:41] told you,
+[27:42] you feel the Lord, let's let's I support
+[27:44] you, but he was like, I don't I just I
+[27:46] don't know how you're going to do that."
+[27:48] So, I went in there and I had looked up
+[27:51] online and researched what I thought
+[27:53] what would and you know based on what
+[27:56] eBay this sells and what I thought would
+[27:58] maybe the Lord was leading me to try to
+~~~
+
+<a id="section-08"></a>
+## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[28:00] find. So, I went in there and I just
+[28:02] went down every aisle and I was praying
+[28:03] in the spirit under my breath. I was
+[28:04] praying in the spirit, praying in
+[28:05] tongues and I was like, "Lord, I need
+[28:07] your help. I need you to guide me to to
+[28:09] find what we so we can stretch it." And
+[28:11] so, I just went and I went through
+[28:13] everything. And it took I probably was
+[28:15] in there for probably
+[28:16] it was about four hours.
+[28:18] I was in the car with Megan and there I
+[28:19] remember thinking out thinking she ain't
+[28:21] never coming out.
+[28:21] I I said Lord I don't I said I don't I
+[28:24] need your help.
+[28:24] It was rough. Megan was really
+[28:26] overcoming then.
+[28:27] Yeah. I said I need your help Lord. I
+[28:29] have no idea what I'm doing but I really
+[28:32] feel you leading you're you leading me
+[28:34] to do this. And so I went through and I
+[28:36] went through every everything and and
+[28:38] okay I I think I think I feel like the
+[28:41] Holy Spirit told me to do that. I had no
+[28:43] clue what I was doing. Just praying in
+[28:44] the spirit the whole time and filled my
+[28:47] buggy up with, you know, trying to find
+[28:50] things and went went took it, loaded it
+[28:52] in the car and and showed Brandon and he
+[28:55] was like, "Okay, well, let's let's see
+[28:56] how it goes." And I got a sheet out,
+[28:59] laid all the clothes, laid each one on
+[29:01] it, and took took them both my phone.
+[29:03] Just took my phone,
+[29:04] took pictures of it, and then just
+[29:06] started an eBay account. And I think I
+[29:09] had I already had one because I had used
+[29:10] it just to buy kids clothes, my kids
+[29:12] clothes from there before. And I just
+[29:15] put it on there and loaded it up and did
+[29:18] auctions and within a week
+[29:20] Mhm.
+[29:21] it was I did seven day auctions and
+[29:22] within a week we had
+[29:24] enough to pay our electric bill.
+[29:25] Yeah. Enough to pay our electric bill.
+[29:27] We had enough to pay our electric bill
+[29:28] and have more a little extra.
+[29:29] Yeah.
+[29:30] And I said, "Let's do it again."
+[29:31] Yeah. Yeah. That that
+[29:34] I said, "Baby, I'm sorry. I I I'm
+[29:36] sorry." I said, "You were right. I was
+[29:38] wrong." And it was and she and we did
+[29:40] it.
+[29:41] Yeah.
+[29:41] And within within between May and
+[29:43] September, we had made more than what we
+[29:45] had made working for the church.
+[29:46] Yeah.
+[29:47] Just just able from from able to support
+[29:50] our income.
+[29:51] Yeah.
+[29:51] Cuz I had I got laid off
+[29:53] and was told don't you know that we're
+[29:55] not going to be able to use you anymore
+[29:57] because the finances dried up the church
+[29:59] after the patch for fail morally back on
+[30:02] staff. So yeah.
+[30:03] And so I was like, well, it's all right.
+[30:05] God made a way.
+[30:07] So then
+[30:08] Yep. And so then it just flourished from
+[30:10] there and I just kept doing it and then
+[30:12] I eventually was able to quit my job
+[30:14] there at the church too.
+[30:15] Yeah. So it was it was and I was able to
+[30:19] uh homeschool because we needed we
+[30:22] needed help doing we had a lot of things
+[30:24] going on with Megan and everything else.
+[30:26] So it it worked out.
+[30:28] But what but it didn't take it didn't
+[30:30] happen overnight. Mhm.
+[30:31] It happened as you stand
+[30:34] and as you sow and you believe. And God
+[30:37] took what we thought was an impossible
+[30:39] situation
+[30:41] into something that was all things are
+[30:43] possible to him that believe.
+[30:45] It took a bulldog faith latching on and
+[30:49] saying, "I will not give up and I will
+[30:52] trust God."
+[30:53] And and and it was her. God used her. It
+[30:56] wasn't me. And then I'd start praying
+[30:58] and I would start praying in the spirit
+[30:59] with her. I was like, I'm going to join
+[31:01] up with her instead of being seen
+[31:02] against being being uh let's don't be
+[31:05] divided. Let's be let's be together.
+[31:07] So, I started praying in the spirit with
+[31:08] and the Lord started showing me things
+[31:09] in the spirit and say I'd see clothes or
+[31:12] garments or whatever and I'd say Diana
+[31:14] there's cuz he get used my prophetic
+[31:16] gift and in in seeing and I would see
+[31:20] what was coming. I say listen babe at
+[31:22] this thrift store at this place there is
+[31:24] an Armani jacket in there. Go find that.
+[31:26] And the Lord said that'll pay for the
+[31:28] rent.
+[31:28] Yeah. And so she would go, "Is this" and
+[31:31] she would come in the window and because
+[31:33] I'd sit out in the car with Megan and uh
+[31:36] she'd pull it up and show it in the
+[31:37] window and said
+[31:40] like that you like, "It's there, babe.
+[31:42] Look, it's right here." And I'd be like
+[31:43] I'd be like,
+[31:44] "Good job, honey." So we' get and she'd
+[31:47] buy and list it and and and and then lo,
+[31:50] the Lord did exactly what he said he'd
+[31:52] do. I provide for this. And we did that
+[31:54] and we've done it and we've done it and
+[31:55] we still do it. And so, um, you build
+[31:58] relationships and you start growing your
+~~~
+
+<a id="section-09"></a>
+## 09. 32:00–35:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、个人故事与访谈。 提到的地点：Oklahoma。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[32:00] business and and the Lord's blessed our
+[32:02] eBay and our Poshmark and
+[32:04] Yep.
+[32:04] and and we've been doing it now for 11
+[32:07] 12 years.
+[32:07] Yeah. Long time.
+[32:09] And so, it it's been it's been fruitful,
+[32:12] but God's been faithful. And then, like
+[32:14] I said, it took time and the Lord gives
+[32:16] you ideas and he gives you the power to
+[32:18] get wealth. And that's why I told you,
+[32:20] what are you good at? It may not be
+[32:22] eBay. It may not be computers. You may
+[32:25] be amazing at making uh some kind of
+[32:28] tops that spin for kids or some kind of
+[32:30] cakes or I had one lady say that God
+[32:33] gave her an idea to make lemonade.
+[32:36] Oh yeah.
+[32:36] And blessed it. We got a testimony about
+[32:38] a woman saying she made lemonade and
+[32:40] God's blessing. She's going to have a
+[32:42] vending machine vending trucks and all
+[32:43] kinds of stuff. God a creative idea to
+[32:45] get wealth. But he'll speak to you and
+[32:48] show you how to do it because God is a
+[32:50] God of blessing
+[32:51] and he
+[32:52] and giving him praise for it and being
+[32:54] thankful for it. Yep.
+[32:55] I remember whenever I listed it, we
+[32:58] would I would get a bid like 99 cents
+[33:00] and I said, "Thank you, God. Thank you,
+[33:02] Lord, for you rejoice at the little
+[33:05] thing." And then it when it grew more, I
+[33:07] said I'd get up every morning and check
+[33:09] it. I'd say, "Praise God. Look what the
+[33:11] bid is. Look what it is today." And you
+[33:13] just rejoice at that.
+[33:14] But it's easy. But it's easy. This is
+[33:16] where it becomes when you start seeing a
+[33:17] flow a a flow of finances or you start
+[33:20] taking it for granted. Never
+[33:24] get comfortable with not giving God
+[33:26] praise.
+[33:28] Never get comfortable without saying
+[33:31] thank you for what he has done
+[33:33] because it's easy to take it for
+[33:35] granted.
+[33:36] It's easy to look at it and say, "Oh,
+[33:38] it's not a big deal anymore."
+[33:39] To expect it.
+[33:40] No, it's just gonna happen. No. No. God
+[33:43] is in everything. Every good thing comes
+[33:46] from God. Yeah.
+[33:48] Always take the time to be thankful for
+[33:51] everything you have. You may be a multi
+[33:53] multi. You may be watching this right
+[33:54] now and you're saying, "Man, I've got
+[33:56] millions in the bank. I live in the best
+[33:58] uh neighborhood in Oklahoma. I live in
+[34:00] Oak Tree. This a big neighborhood in
+[34:02] Oklahoma. I live in the Guardia. It's
+[34:04] another big neighborhood in Oklahoma.
+[34:06] It's big. You got all the money in the
+[34:08] world. I have it all by by, you know,
+[34:12] the tail. I'm not I'm I I got my but but
+[34:14] but you don't take time to thank God for
+[34:18] what you do have even if you're a
+[34:20] multi-millionaire because you you become
+[34:23] so accustomed to what you live. But I'm
+[34:25] trying to tell you, God, if you are
+[34:28] going to make it in the days ahead,
+[34:30] you've got to learn how to have a
+[34:32] cultivation of thanksgiving
+[34:34] because I'm telling you, hard days are
+[34:36] coming more than what any of you all you
+[34:39] multi-millionaires will ever You think,
+[34:40] well, I've got enough in the bank. I'm
+[34:41] not going to lose all. You're going to
+[34:43] be broke that fast. I've seen it. The
+[34:45] Lord told me there's going to be a lot
+[34:47] of you that will be broke within a day.
+[34:49] In a 24-hour time frame, you're going to
+[34:52] lose everything. Remember what I'm
+[34:54] telling you. You better be hearing the
+[34:57] voice of God for yourself, listening to
+[34:59] him on a day-to-day basis. Because if
+[35:02] you don't, you're going to be in
+[35:04] trouble. And you'll see the last will be
+[35:06] first and the first will be last. And
+[35:08] you'll be going on looking for handouts
+[35:10] because you didn't be thankful and you
+[35:12] didn't hear God for what's going on and
+[35:13] what's coming.
+[35:15] Take time daily at the feet of the
+[35:18] father giving him praise and
+[35:20] thanksgiving.
+[35:22] And I'm telling you, you will lack no
+[35:24] good thing. Lack no good thing. He
+[35:27] doesn't want. He said, "Beloved, I wish
+[35:30] above all things that you prosper and be
+[35:33] in health even as your soul prospers."
+[35:36] But there's a lot of you is not
+[35:37] prosperous even in your souls. You're
+[35:39] lacking inside. You're lacking in
+[35:42] relationship with him. My son just told
+[35:44] me we're at 37 minutes here. I we could
+[35:46] talk probably an hour, but I try to keep
+[35:48] them underneath 30 minutes for y'all.
+[35:50] Uh, I hope this message blessed you
+[35:52] today. Um, Diane and I talking about
+[35:56] things. Like I said, we just we get
+[35:58] caught up with things. Just talk. Uh,
+[35:59] maybe my son can edit it down a little
+~~~
+
+<a id="section-10"></a>
+## 10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[36:01] bit so it uh be more time sensitive for
+[36:05] y'all.
+[36:06] U, let me pray for y'all today. Let's
+[36:08] agree that all things are possible to
+[36:10] him that believes. Don and I are going
+[36:12] to believe for you, for your miracle,
+[36:14] for your finances, to believe God for
+[36:16] everything that you need, and that
+[36:18] nothing is impossible to him who
+[36:19] believes. Okay? So, let's just stretch
+[36:21] out and believe right now for each one
+[36:23] of them that God is going to heal their
+[36:25] bodies, restore their marriages, the
+[36:26] good days are ahead of them. Okay? So,
+[36:29] Father, I just thank you for every
+[36:32] single person who's watching this this
+[36:34] little broadcast, our little YouTube
+[36:36] channel. And I thank you, Father, that
+[36:38] every single one of them are the head
+[36:40] and not the tail and above and not
+[36:42] beneath. I thank you, Father, that no
+[36:44] weapon formed against them is going to
+[36:47] prosper. We thank you, Lord, that we
+[36:49] have authority over over the devil and
+[36:51] we take our seat and we are grateful and
+[36:54] we're thankful for everything that you
+[36:57] provided for us. Lord, we give you the
+[37:00] glory. We give you all the honor and we
+[37:02] we just say, God, we we want to take the
+[37:05] time to go, God, thank you for all that
+[37:08] you provided for us. Thank you, God, for
+[37:12] all the money, for the for the food, for
+[37:14] whatever you've given us. We don't even
+[37:17] if it's just $5, we want to be grateful.
+[37:20] Even if it's a $100, we be grateful.
+[37:22] Even for the millionaire that's
+[37:23] watching, be grateful.
+[37:26] Thank you. Thank you, Lord, for what
+[37:28] you've taken care of us. Thank you, God,
+[37:30] for how much you've provided. Thank you,
+[37:32] Lord, for our electric, water, gas,
+[37:34] food, car payments, insurance payments,
+[37:37] whatever it may be. Lord, we want to
+[37:39] give you praise. Thank you for the for
+[37:41] the for the air that we breathe and for
+[37:43] the sun that shines in the day and for
+[37:45] the moon that shines at night. Thank
+[37:48] you, Father, for the cold air and for
+[37:50] the hot sun and for the beautiful fall
+[37:52] and the beautiful summer springs and all
+[37:54] the beautiful things that you provided
+[37:56] for us in this earth.
+[37:58] We thank you, Father, for our children.
+[38:00] We thank you, Lord, that we have
+[38:01] children. There's some people that
+[38:03] can't. We thank you, Lord, that the
+[38:04] people that can't have children in the
+[38:06] natural will have children. That you
+[38:08] will provide beautiful children for
+[38:10] them. That they'll not lack any good
+[38:13] thing. Thank you, Father, for all that
+[38:15] you provided in healing and wholeness
+[38:17] and wellness. We may have a they may
+[38:20] have arthritis or they may be overcoming
+[38:22] diabetes. They may be coming, but
+[38:24] Father, there's something they can be
+[38:25] thankful for, Lord. They may have a toe
+[38:28] that hurts, but Father, that big toe
+[38:30] don't. Thank you, Lord, that that big
+[38:32] toe don't hurt. Thank you, Lord, for the
+[38:35] elbow that don't hurt. Thank you, Lord,
+[38:37] for the fingers. That's what you have to
+[38:39] do. That's what I'm talking about. When
+[38:42] you go before, thank you, Father. You've
+[38:45] been so good to us. Regardless of
+[38:48] whatever it is, God, I thank you.
+[38:51] Thank you, Lord, for healing in
+[38:53] everyone's body that's believing, for
+[38:55] new new stomachs, new new gallbladders,
+[38:58] new intestines, new whatever they may
+[39:00] need. Thank you, Father, for all that
+[39:03] you've provided. Lord, thank you that we
+[39:05] have the mind of Christ according to 2
+[39:07] Timothy 1:7. God has not given us a
+[39:09] spirit of fear, but of power, love, and
+[39:11] of of a sound mind. That we have a sound
+[39:14] mind today. And we give you praise and
+[39:16] glory and honor and all that you've done
+[39:18] and all that you're going to do. we go
+[39:20] into the fall months and that you say,
+[39:23] "I've never seen the righteous forsaken
+[39:25] or a sea seed begging bread." That we
+[39:29] will never be a begging of bread because
+[39:31] you always will provide for yours. Lord,
+[39:34] we give you praise and glory and honor
+[39:36] for all that you've done and all that
+[39:38] you continue to do. And we give you all
+[39:41] in and we give you the praise in Jesus
+[39:43] name. Amen. And amen.
+[39:45] Amen.
+[39:47] Well, we just want to say thank you all
+[39:49] for joining us today. I hope this
+[39:51] blessed you all. I mean, it was just
+[39:52] kind of a it was on my heart
+[39:55] after what we heard at church to to come
+[39:57] on and tell you all this is ex they're
+[39:59] right. We got to you got to live a
+~~~
+
+<a id="section-11"></a>
+## 11. 40:00–41:05 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[40:00] thankful life.
+[40:01] You got to live a praisefilled life
+[40:04] and giving God praise for what
+[40:05] everything you have because it's
+[40:06] important.
+[40:07] Well, we just say subscribe if you
+[40:09] haven't subscribed. Here's our little
+[40:10] pillow. We always say ding ding.
+[40:12] Subscribe. Subscribe. It blesses us. It
+[40:14] gets us in the algorithm. Every time you
+[40:16] all subscribe, every time you click the
+[40:18] notification bell, you're helping get
+[40:20] the gospel spread throughout the whole
+[40:22] world. And even in those heathen
+[40:24] channels that were trying to There was
+[40:25] one video had 1.1 million views talking
+[40:29] about things. Even if they were trying
+[40:31] to steal, there's still a million
+[40:33] million people that maybe got some kind
+[40:35] of message.
+[40:35] Yeah, that's awesome.
+[40:36] So, I gave God praise for that. I
+[40:38] thought, well, maybe they got even in
+[40:40] all their e being evil, God can do
+[40:43] anything. He can turn the what the devil
+[40:44] meant for bad, he can turn around for
+[40:46] good. Even whatever it was, because
+[40:48] they're they're mean and bad, but
+[40:50] somebody got blessed maybe.
+[40:52] So, well, put a smile on your face and a
+[40:54] song in your heart. Jesus loves you so
+[40:57] much and we love you and we will see you
+[40:59] all next time. God bless you all and I
+[41:01] hope y'all have a wonderful day. We
+[41:02] both.
+[41:03] Yes.
+[41:03] Yeah. Bye. Bye.
+[41:05] Bye.
+~~~

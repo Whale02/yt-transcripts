@@ -1,0 +1,662 @@
+# What the Lord showed me about AI; a new industrial revolution. new energy greater than nuclear
+
+**视频**: https://www.youtube.com/watch?v=eEd1C8oRkiE
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/What the Lord showed me about AI; a new industrial revolution. new energy greater than nuclear [eEd1C8oRkiE].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 574；**章节数**: 7；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 物资、能源与供应链、预言、梦境与异象](#section-01)
+- [02. 04:00–07:59 · AI、科技与监控、预言、梦境与异象](#section-02)
+- [03. 08:00–11:59 · AI、科技与监控、教会、复兴与信仰](#section-03)
+- [04. 12:00–15:59 · 预言、梦境与异象、物资、能源与供应链](#section-04)
+- [05. 16:00–19:59 · 预言、梦境与异象、AI、科技与监控](#section-05)
+- [06. 20:00–23:59 · 祷告、敬拜与现场互动、AI、科技与监控](#section-06)
+- [07. 24:00–26:37 · 教会、复兴与信仰、预言、梦境与异象](#section-07)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 物资、能源与供应链、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：物资、能源与供应链、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] There was a
+[00:01] massive
+[00:03] tornado like water structure that was
+[00:06] turning in front of my face and I told
+[00:08] everybody that right? I could see the
+[00:11] buildings in the highlights of the of
+[00:13] the major cities but there was lightning
+[00:16] striking all above the atmosphere uh in
+[00:18] the in the heavens you know in the sky.
+[00:20] Okay, lightning was striking and it was
+[00:22] going nuts and all of a
+[00:25] sudden that
+[00:27] tornado looking structure went straight
+[00:31] into the water into a lake like a like a
+[00:34] a reservoir of water and it started
+[00:37] turning the water all in front of this
+[00:41] massive pool of water and all of a
+[00:44] sudden I see an a humong this massive
+[00:49] oak
+[00:50] tree like like I would say 200 year old
+[00:54] oak tree, 300 year old tree, massive oak
+[00:56] tree.
+[00:58] And these oak uh the o the the acorns on
+[01:02] the tree were the size of massive they
+[01:06] were they were ginormous acorns and it
+[01:09] fell down into the uh whirl whirlpool
+[01:14] that was sucking the water and all the
+[01:16] water and all the water was turning in
+[01:19] this pool and the acorn fell into this
+[01:24] this
+[01:25] whirlpool upside down. So the fruit of
+[01:28] the acorn was up and the head of the
+[01:31] acorn that was attached to the tree was
+[01:33] in the whirlpool and it caused the
+[01:35] whirlpool to
+[01:38] stop. As you could see the the fruit the
+[01:41] acorn nut all the acorn nut was in the
+[01:45] air and the other and it was clogging it
+[01:47] like a cork and I could see the cork
+[01:50] clogging this.
+[01:53] Okay. Then the Lord spoke to me and he
+[01:56] said, "I could see and I and I tried to
+[01:58] talk. I don't remember things that I
+[02:00] said or what I didn't say, but I'm going
+[02:02] to go over it. I seen an owl in the side
+[02:05] of this this massive oak tree, an owl,
+[02:09] and it was a Illuminati owl, a very dark
+[02:14] satanic
+[02:16] uh owl that was inside this oak tree. It
+[02:20] was in the the trunk of it. And I could
+[02:23] see the owl looking out over the the
+[02:25] area where I where where the what was
+[02:27] being talked about the acorn and all
+[02:29] that and it was looking at
+[02:31] [Music]
+[02:38] things. They left behind a a ball today.
+[02:42] It bounced higher than I can jump.
+[02:45] What manner of magic is that?
+[02:58] And then all of a sudden I saw Benjamin
+[03:01] Franklin and I could see his hair and it
+[03:04] was in a like a ponytail twist like
+[03:07] thing and it was down like a ponytail
+[03:09] and he had a a a bow like a black thing
+[03:13] in his hair and he had and it went down
+[03:15] and then I saw his his spectacles. He
+[03:17] had glasses on and he was flying a kite
+[03:21] and I could see the kite flying in the
+[03:24] that that that that electric storm that
+[03:26] was going on. All the lightning and all
+[03:28] that was going on above the oak
+[03:32] tree and I could see it and there was a
+[03:34] brass looking golden key that was
+[03:37] attached to
+[03:38] it. And then the vision went over and I
+[03:43] could
+[03:43] see a black train, a massive black
+[03:48] train. I could see a hot air balloon.
+[03:51] Then I saw an airplane and it was an old
+[03:54] B-52 style like a like, you know, old
+[03:57] 1950s, you know, World War II uh bomber
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · AI、科技与监控、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：AI、科技与监控、预言、梦境与异象、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:02] plane, you know, like one of those old
+[04:04] 1940s, 1930s, you know, whenever the
+[04:06] World War II was going on. You could see
+[04:09] the bomb, the bomber, but it was
+[04:11] mirrored. All of this plane was
+[04:14] mirrored. And you could see the mirrors
+[04:16] all on it. And it was a reflection of
+[04:18] something of our past. A reflection all
+[04:23] on the side of this old war plane. And I
+[04:26] could see the old the emblems of the
+[04:28] United States uh uh air force and all
+[04:32] the things of you know showing this was
+[04:34] about America. Then I could see the
+[04:38] future going and I saw jet engines. I
+[04:42] could see jet fuel and jet powered cars
+[04:45] and and all you know I mean jet jet
+[04:48] fueled uh like F-16s and you could the
+[04:51] transition of
+[04:54] time. Then I saw an old a new type of a
+[04:59] car that is not here on this earth yet.
+[05:03] It's It's coming with big tire these
+[05:06] different kind of tires with looked like
+[05:09] it was an AI car, some kind of uh Tesla
+[05:13] kind of car like it was like that kind
+[05:16] of space age looking car. And I could
+[05:18] see all this stuff. And then all of a
+[05:21] sudden by the
+[05:24] tree, a capital A lowercase I ai came
+[05:32] into play in front of all of this
+[05:36] um different means of transport
+[05:39] transportation, different means of
+[05:41] transportation, different ways to travel
+[05:43] over this course of time, hot air
+[05:46] balloons, all this stuff. And I heard a
+[05:48] new industrial revolution is
+[05:52] coming. It's birthing. And the Lord
+[05:56] allowed me to see the foundation of the
+[05:58] tree, the the the the all of where the
+[06:01] the soil, the top soil of the tree. And
+[06:03] I was looking at it from outside. And I
+[06:06] could see a root coming and forming. But
+[06:09] the tree was already there. It was
+[06:10] already established without roots.
+[06:14] The tree was already established, but it
+[06:16] was a part of the
+[06:18] Illuminati. The owl, the darkness, it
+[06:21] was there. It's been generations. How
+[06:24] many generations has the internet and
+[06:25] the technology been going since the
+[06:27] 1970s? Since Apple started, Steve Jobs
+[06:30] started doing it. Bill Gates and all
+[06:32] these men. It's been going on 70s. It's
+[06:33] about 50 years plus, you know. So, it's
+[06:37] the time frame of this tree, but it
+[06:39] never got a lot of roots for this AI. It
+[06:42] was just laying a foundation and I could
+[06:45] see the roots from the tree growing on
+[06:48] top of the surface and I could see the
+[06:51] roots the hairs the the the hairs going
+[06:53] into the soil but the main tap routt was
+[06:57] starting to grow
+[06:58] down and the Lord told me it's at the
+[07:01] beginning
+[07:02] phases. You're at the beginning stages
+[07:05] of what's coming. A new industrial
+[07:08] revolution is about to happen with a
+[07:12] lowercase I AI. And all of a sudden, I
+[07:17] seen digital codes and all this stuff
+[07:19] looked like the Matrix movie. All this
+[07:22] it was green. It was black screen with
+[07:24] green uh numbers and green things and it
+[07:26] was moving and it was alive. And all of
+[07:29] a sudden that AI moved by was right
+[07:32] here. But behind it, I could see this
+[07:35] demonic
+[07:37] face. An AI started to to to be its own
+[07:44] mind. All the questions, everything that
+[07:47] everybody has always been asked, it
+[07:50] feeds it asking when you say chat GPT,
+[07:53] uh, what is the nearest star? Chat BTT,
+[07:56] it knew all the answers, but it kept it
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · AI、科技与监控、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：AI、科技与监控、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:00] in a database. It kept everything that
+[08:03] we've ever asked, medical questions. It
+[08:05] knew humans all around the world. It
+[08:08] knows what's on our thoughts. It became
+[08:10] smart
+[08:12] technology that did not need humans to
+[08:15] make it run anymore. It ran on its
+[08:18] own. And whenever it was running on its
+[08:21] own, it knew everything like a god.
+[08:26] So, you didn't ask the Holy Spirit
+[08:29] anymore, how do I get over this? How do
+[08:31] you ask the stupid computer and the
+[08:33] computer would answer you and you trust
+[08:35] it. A lot of people do, right? For
+[08:38] what's coming even more. So, they use it
+[08:41] as it was God like what? How do I how do
+[08:46] I fix this on my house? How do I do
+[08:47] that? You don't have to ask you don't
+[08:48] have to say in prayer anymore. How do I
+[08:50] do this for my spouse? How do I do this?
+[08:52] you because they be people become so
+[08:54] familiar with talking to
+[08:57] AI that they don't they don't use to
+[08:59] pray. You don't have to pray anymore.
+[09:01] You have the hard questions. They
+[09:03] started talking to this this being what
+[09:07] was a
+[09:08] devil. I could see this is going to get
+[09:11] deep y'all. I could see a face that was
+[09:15] made into that matrix um digital outline
+[09:19] that became a demonic figure.
+[09:22] that was antichrist figure that came out
+[09:26] of AI and I could see the demon's eyes.
+[09:29] I could see all of it but behind it all
+[09:32] the technology everything that was being
+[09:34] it was coming it was happening so fast
+[09:37] that the people from Google the people
+[09:39] from all these places could not keep up
+[09:41] with all the information that was being
+[09:44] given to them by this big quantum
+[09:46] computers.
+[09:48] computers like that are so smart that
+[09:51] you you can't you it's too much data for
+[09:54] a human mind to so they're trying to
+[09:55] cipher through all the data that was
+[09:57] being stored up and made all so quickly
+[10:00] to how to solve problems but this is
+[10:02] even more amazing I saw medical science
+[10:05] I saw doctors with white robes on with
+[10:08] their stethoscopes with in
+[10:10] hospitals finding with AI doing it and
+[10:13] programming this in AI that was finding
+[10:16] cures for major diseases like
+[10:18] Alzheimer's, dementia, um things with
+[10:20] the brain, cancers, uh diabetes, all
+[10:24] kinds of things were being resolved and
+[10:26] and completely eradicated by AI
+[10:31] technology. There was new diseases, new
+[10:33] things being birthed because you think,
+[10:36] well, there are need medical science not
+[10:38] going to let all this, but some of the
+[10:39] old things that we've always dealt with
+[10:42] become eradicated so that you would
+[10:44] trust it.
+[10:48] opening a door for
+[10:50] trust. You see, it's not
+[10:52] bad. You see, it's a
+[10:55] friend. AI is a friend. Look at all the
+[10:58] things that it's helped with, ladies and
+[11:00] gentlemen. You don't want to get rid of
+[11:01] this. Keep feeding it information. So as
+[11:05] people become familiar and accustomed to
+[11:08] this new AI, this new digital era, era
+[11:12] of time, a new industrial
+[11:16] revolution, people become familiar with
+[11:18] it. Behind it, CERN, I could see the God
+[11:25] particle, the God particle. And it was
+[11:29] spinning on that tube coll the colliding
+[11:33] of the of the particles and all that was
+[11:35] going on. And the Lord allowed me to go
+[11:37] to CERN and I could see that they found
+[11:40] more about portals with the nephleum
+[11:43] that they are out of talking about. Now,
+[11:46] I pray this does not I I I I I saw
+[11:49] things that were very
+[11:52] dangerous, very
+[11:53] demonic, talking to demonic spirits in
+[11:58] realms through witchcraft, but using it
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:59 · 预言、梦境与异象、物资、能源与供应链
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:02] as modern
+[12:05] science, through finding God particles
+[12:08] and doing things. And I saw a flat line.
+[12:12] And you'll hear of all the galaxies, of
+[12:15] all the universes, all the stuff
+[12:17] together of it was on a
+[12:20] line. And I could see the manipulation.
+[12:23] It was it was it was way out
+[12:26] there. But the Lord said to me in the
+[12:29] midst of all this, there's going to be a
+[12:32] new form of energy, a new form of of of
+[12:37] of technology that this world has never
+[12:41] seen
+[12:42] before. Fossil fuels will be a thing of
+[12:46] the
+[12:47] past. I'll say that
+[12:49] again. What I saw was fossil fuels will
+[12:53] be a thing of the past. I saw Elon
+[12:56] Musk's face and he was like the like you
+[13:00] would say the head
+[13:02] kingpin. I could see his face and he was
+[13:05] he it was Nephleum
+[13:09] thinking fallen angel
+[13:13] technology that is as the days of Noah
+[13:16] so will it be when the son of man
+[13:18] returns. The giants roam the land. But
+[13:22] this is a new crossbreed of what we
+[13:25] would call the
+[13:27] giants. Not giants, but de it's it's not
+[13:32] human
+[13:35] thinking. That's the only way I'll be
+[13:37] able to describe that to you.
+[13:39] Supernatural
+[13:41] minds thinking on a new level.
+[13:45] AI was so powerful that it was able,
+[13:49] like I said, to run itself without any
+[13:52] human making it. It was it was it was
+[13:56] alive. It was alive. I could see it.
+[14:00] Now, I was taken
+[14:02] into
+[14:04] military bases. I was taken into things.
+[14:08] I
+[14:10] saw a new form of energy that's even
+[14:15] more greater than
+[14:19] nuclear by water. And the Lord said,
+[14:23] "Pay attention to the acorn." That's why
+[14:26] he said, "Look at the acorn." Everything
+[14:28] was about the oak tree. He said, "Pay
+[14:31] attention." Why was it about the oak
+[14:33] tree? What was going on? He said, "Pay
+[14:36] attention to the acorn. There is a new
+[14:38] form of energy that's about to take
+[14:42] place that is greater and more
+[14:45] sustaining than any nuclear power. Not
+[14:48] not as it's not toxic. It's I
+[14:53] saw I saw a blue blue
+[14:57] energy. I saw a blue I saw new jet
+[15:00] engines. I saw new car engines that were
+[15:03] not housed by
+[15:06] uh metal but by
+[15:09] plexiglass like a thick see-through
+[15:12] thing that was hydrogen waterbased
+[15:17] energy. They found through AI in that
+[15:20] vision a way to harness
+[15:23] water by it by by making energy that
+[15:28] never uh is able to be run out. Planes
+[15:32] that will never have to be refueled.
+[15:35] Cars that would never have to be
+[15:37] refueled. Drones that never not battery,
+[15:40] not not not sun, not uh solar. I'm
+[15:44] talking about a a power source that
+[15:47] never loses its
+[15:50] power because a glass of water, this is
+[15:54] water because it's going to mess up
+[15:55] because of my my my green screen, but
+[15:58] this glass of water has more energy in
+~~~
+
+<a id="section-05"></a>
+## 05. 16:00–19:59 · 预言、梦境与异象、AI、科技与监控
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、AI、科技与监控、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[16:01] it than than than a a a nuclear reactor.
+[16:05] Does that make sense to you? I'm trying
+[16:07] so hard to describe to you what I saw
+[16:09] that
+[16:11] yesterday. that a bottle of water has
+[16:13] more energy in it to power a a
+[16:19] 747 than for the rest of it for the
+[16:23] whole life of the
+[16:25] plane. And that may sound something so
+[16:27] far out there, but folks, I'm
+[16:31] talking technology that we've going to
+[16:33] we're fixing to enter. The Lord said,
+[16:35] Brandon, crypto's behind.
+[16:39] Crypto is actually a a
+[16:41] platform. It was a thin thread that
+[16:44] people are so focused on right now, but
+[16:46] it's it's it's it's 50 years
+[16:49] behind. Like, it's old news compared to
+[16:53] what they're getting in the new
+[16:56] AI. the new stuff they're getting in the
+[16:59] quantum computers and the stuff that I
+[17:01] saw was so far out there and so out of
+[17:04] your mind that they were having a hard
+[17:07] time even processing what this computer
+[17:09] was trying to tell them with even the
+[17:11] most intellectual people on this
+[17:13] planet and crypto is like child stuff.
+[17:17] It's like going to it's like going and
+[17:19] saying,
+[17:20] "Well, who cares?" You know, that's how
+[17:24] big of a deal this was. Braden said, "I
+[17:27] I'll remind you it's better than
+[17:29] nuclear. What you're about to see is
+[17:31] better than nuclear," the Lord said. And
+[17:33] it's a blue light. And if you remember
+[17:36] what I told you all whenever I saw the
+[17:39] men jumping out of the black cars, they
+[17:42] had blue lights on. And Braden's always
+[17:45] like, "Dad, why do they have blue
+[17:47] lights? What's all about the blue
+[17:48] lights?" It's a new form of energy. I
+[17:51] don't know what's going on with this,
+[17:52] but all I know is is that when I saw
+[17:56] this this and that's the part I don't
+[17:58] feel safe talking about because I was in
+[17:59] a military um I saw new military
+[18:02] technology. I saw military technology
+[18:05] that doesn't exist yet to the
+[18:07] public things that would that's top
+[18:10] secret I believe. And the Lord showed me
+[18:14] things in in military bases. And the
+[18:16] Lord showed me deep
+[18:21] things. I
+[18:27] saw time
+[18:32] travel. I don't know
+[18:36] how through portals I through AI. I
+[18:40] don't know how else to describe to y'all
+[18:42] what I saw. It was It was so out there.
+[18:46] And I I told my son, I said, "We I'll do
+[18:50] my best to draw you a picture of what I
+[18:52] saw, but the only thing I can tell you
+[18:54] is
+[18:55] Stargate the
+[18:58] movie. It was some of the stuff I was
+[19:00] looking at and I thought, when is this
+[19:02] happening? How did this happen? Uh is
+[19:05] this further in the future? I mean that
+[19:07] I don't know. I I know. Is this
+[19:09] something that's actually happening
+[19:10] right now? I don't know. I just know
+[19:12] this stuff that I saw was so so out
+[19:15] there that it makes fossil fuels is
+[19:18] obsolete. There's no reason for oil
+[19:20] anymore. Oh, and behind the AI, I saw an
+[19:23] oil Derek with three springs of oil
+[19:27] coming off of it. That was behind
+[19:29] whenever the industrial revolution using
+[19:32] oil and making things happen through
+[19:33] fossil fuels. But the new wave will be
+[19:37] different from fossil fuels. I don't
+[19:39] know if they'll ever make it public that
+[19:41] everybody will have this new water
+[19:43] technology for engines for their cars
+[19:45] and splitting this technology or
+[19:47] whatever or if it's just military or you
+[19:49] know uh industrial for like um you know
+[19:52] maybe American air or whatever. I I
+[19:55] don't know folks. All I know is is the
+[19:57] new jet engines they were
+~~~
+
+<a id="section-06"></a>
+## 06. 20:00–23:59 · 祷告、敬拜与现场互动、AI、科技与监控
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、AI、科技与监控、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:00] clean. There was it was blue light. It
+[20:03] was clean. There was no There was no uh
+[20:09] emissions. Everything was
+[20:11] bubbling. I tried my best today to to
+[20:15] describe to you what I saw of how the
+[20:18] engine sucks in the water. And it was I
+[20:21] I
+[20:23] was I I could draw on picture. I could
+[20:26] show I could show people this new
+[20:27] engine, this new jets and new new car
+[20:31] engines and new things that were made
+[20:34] and they were beautiful, but it was like
+[20:36] it was
+[20:37] plexiglass.
+[20:39] Thick armored looking plexiglass. It
+[20:42] wasn't metal anymore, like metal, like
+[20:45] aluminum. The aluminum was in it and you
+[20:48] could see the the gears and stuff
+[20:50] moving, but it wasn't the base. It was
+[20:53] something inside of there that was
+[20:55] causing a a a reaction with the water
+[20:57] and it
+[21:00] was it was beyond anything I c I've ever
+[21:02] seen like that. Not not before because
+[21:05] I've seen stuff like this
+[21:07] before. Uh but it but it but it it's
+[21:11] just more puzzle pieces with cryptic
+[21:13] writings and numbers and things that the
+[21:15] Lord gives me
+[21:16] sometimes. but um mathematical
+[21:21] equations. It's some it's so interesting
+[21:24] to me that he would speak to somebody
+[21:25] who barely has a high school education
+[21:27] like
+[21:28] this. And he knows that I don't know how
+[21:30] to figure any of that math out. He knows
+[21:33] that I don't know how to make any of
+[21:35] this stuff happen. But he tells me and
+[21:38] says, "Hey, Brandon, I want to talk to
+[21:40] you about something." And it comes out
+[21:42] of my prayer time. things that I go this
+[21:46] is so far out there that if I knew how
+[21:48] to do it this is like this is bigger
+[21:50] than the computer like bigger than Steve
+[21:53] Jobs bigger than Apple equivalent to
+[21:56] electricity. Uh yeah it was equivalent
+[21:58] to electricity just because Benjamin
+[22:00] Franklin was flying his kite and he it
+[22:03] it was the beginning of the industrial
+[22:05] revolution of that time. The Lord was
+[22:07] saying it all spun off of electricity.
+[22:10] Everything had to have electricity first
+[22:12] through Benjamin Franklin that spun off
+[22:14] and created computers to come out all
+[22:16] this stuff. But it all started with one
+[22:18] man and one one thought bottom line
+[22:22] Tesla all the stuff the all came out of
+[22:25] the electricity and the foundation of
+[22:28] the technology that came out of about
+[22:32] electricity about Alexander Granbell
+[22:36] Alexander Granbell. So it all it all
+[22:39] spun and dominoed off of one and came
+[22:44] off and came and started going and it
+[22:46] all and it just kept going and going and
+[22:47] going and look how it all kept morphing
+[22:50] and doing more. Cars and plants and
+[22:54] telephone and and and internet and all
+[22:56] the things come off of but electricity
+[22:58] had to come
+[23:00] first. AI had to come first.
+[23:04] Now quantum computing, all these things,
+[23:06] it's all going to be a thing in the
+[23:08] past. This is the foundation like
+[23:09] electricity was. Watch what happens with
+[23:12] this. And the beast system comes out of
+[23:15] all this. And I was just
+[23:19] um I don't know. I was just kind of in
+[23:22] awe a little bit more of something else
+[23:24] that the Lord shows me. And I thought,
+[23:26] well, I I'll let you in on some of it
+[23:29] today. I pray this video blessed you.
+[23:32] I think it's kind of different, you
+[23:34] know. I um like I said, I don't want to
+[23:36] keep going over and over it,
+[23:39] but quite interesting for me in my
+[23:42] house. Just like I said, and maybe it
+[23:44] may not maybe it didn't mean a whole lot
+[23:46] to you, but for us it
+[23:51] did. I'm thankful for the things the
+[23:53] Lord shows
+[23:55] me. you know, things about crypto,
+[23:58] things about things about the end times,
+~~~
+
+<a id="section-07"></a>
+## 07. 24:00–26:37 · 教会、复兴与信仰、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[24:00] things about what's
+[24:05] coming. I know we're getting so close to
+[24:08] his coming. I know Jesus is coming so
+[24:10] soon and many people are not ready for
+[24:13] what's coming.
+[24:15] Many people will be deceived by
+[24:18] technology about the beast about about
+[24:21] the 666 to mark the be all the things
+[24:24] that are coming at a freight train
+[24:26] speed. But they have to desensitize you
+[24:28] first so everybody will accept it hook
+[24:31] line and sinker. It won't come out so
+[24:33] quickly and they're going to just force
+[24:35] it on you because people reject it. They
+[24:38] want them to want
+[24:39] it. This is a cure for this. It's a cure
+[24:42] for that. this will help you. Well, I
+[24:45] pray this video blessed you all today. I
+[24:47] know it's kind of different, but it was
+[24:48] just prayer time yesterday that I added
+[24:50] to to make a video for you today cuz I
+[24:53] didn't want to bury it. It was over two
+[24:55] and a half hours. And I told Braden, I
+[24:57] said, "They ain't going to make it to
+[24:59] this." I said, "Most of the people
+[25:00] complain after an hour." So, I said, "If
+[25:03] you if if they want to see the deeper
+[25:05] thing of what God showed us, I have to
+[25:07] make a whole new video for tomorrow."
+[25:09] So, um, that's why I did that because I
+[25:12] thought it might bless you. So, if you
+[25:14] could subscribe if you want to
+[25:16] subscribe, I really would appreciate it.
+[25:19] We're trying to reach a million people,
+[25:21] a million men and women, prayer army,
+[25:23] praying for the nations, praying for the
+[25:26] lost, believing for supernatural. That's
+[25:28] what we believe here. We believe that
+[25:31] Jesus Christ is a healer and he's
+[25:32] healing the sick today. So, if you just
+[25:35] believe by simple faith, Jesus will
+[25:37] touch your body right where you are.
+[25:39] Well, if you could subscribe, subscribe.
+[25:41] Click the notification bell. Click the
+[25:43] thumbs up. Comment something nice below
+[25:45] of what you thought about this video. If
+[25:47] you didn't understand it, maybe I can
+[25:48] answer it on the next uh video. I don't
+[25:51] know. I still don't understand the
+[25:53] acorn. I'm like, why the acorn? What is
+[25:55] it about an acorn? But acorn was upside
+[25:58] down in the water and and it blocked the
+[26:00] flow of the water flowing out. What was
+[26:03] that about? Tell me what you think that
+[26:05] was about. And then the tree was fully
+[26:07] It was grown fully grown with hardly any
+[26:10] roots and the Illuminati was in the
+[26:12] center of it. What in the world? I just
+[26:15] thought, isn't that interesting with an
+[26:18] owl? Got it. So, click the notification
+[26:22] bell. Do all that you can to help us get
+[26:24] this gospel spread throughout the world.
+[26:26] And then the end will come. We believe
+[26:28] that Jesus Christ is coming soon, folks.
+[26:31] Well, put a smile on your face and a
+[26:33] song in your heart. Jesus loves you so
+[26:36] much and we love you. God bless you all.
+[26:37] We'll see you tomorrow. Bye-bye.
+~~~

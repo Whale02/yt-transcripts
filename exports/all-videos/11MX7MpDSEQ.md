@@ -1,0 +1,1273 @@
+# What I have been praying concerning what I’m seeing： there is a rat
+
+**视频**: https://www.youtube.com/watch?v=11MX7MpDSEQ
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/What I have been praying concerning what I’m seeing： there is a rat [11MX7MpDSEQ].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 1141；**章节数**: 11；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–04:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-01)
+- [02. 05:00–09:59 · 预言、梦境与异象、教会、复兴与信仰](#section-02)
+- [03. 10:00–14:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-03)
+- [04. 15:00–19:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-04)
+- [05. 20:00–24:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
+- [06. 25:00–29:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-06)
+- [07. 30:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
+- [08. 35:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
+- [09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
+- [10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
+- [11. 50:00–52:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
+
+<a id="section-01"></a>
+## 01. 00:00–04:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] well good morning family how are y'all
+[00:02] doing today well praise the Lord I have
+[00:05] some things on my heart to talk about um
+[00:07] that I've uh been praying over and the
+[00:10] Lord's told me specific things he said
+[00:12] Brendan you cannot share everything I've
+[00:14] been tell telling you uh right now
+[00:19] um folks we're we're about to see a
+[00:21] great shaking to
+[00:24] awaken and um a lot of the body of
+[00:27] Christ is not ready they're not here
+[00:31] and the Lord told me he said Brandon I
+[00:33] want you to keep bringing the people to
+[00:36] me get ready with the catcher
+[00:39] mids for they're coming in
+[00:42] hot be a light in the darkness for the
+[00:46] darkness is about to become even
+[00:48] darker and you will see in the days
+[00:52] ahead uh things that you never dreamed
+[00:54] you was going to
+[00:56] see things that I never dreamed that I
+[00:59] was going to see
+[01:00] I thought the Rapture of the church was
+[01:02] going to take place way before all this
+[01:04] was going to take
+[01:05] place
+[01:08] and some of the things that the Lord is
+[01:11] showing
+[01:12] me is
+[01:16] um shock and awe is a good word I I
+[01:20] would say shock and awe and I've been
+[01:23] praying over and praying over our new
+[01:25] president praying over our uh his
+[01:27] government that he is uh bringing in
+[01:32] and a lot of people are still focused on
+[01:33] the
+[01:34] finances and you're missing it their
+[01:38] focus they email me oh Brandon you you
+[01:40] told us to invest in this you told us to
+[01:42] invest in that and I've never told you
+[01:44] to invest in
+[01:45] anything not one time well Prophet soand
+[01:49] so said there's going to be a huge
+[01:51] market crash and all this stuff I said
+[01:55] to me I'm I I I
+[01:58] y'all I do not watch prophetic videos
+[02:02] because I do not want them influencing
+[02:05] what I'm
+[02:06] hearing I do not want that video
+[02:12] influencing what I feel like I'm hearing
+[02:14] from the Holy Spirit
+[02:18] myself if that's what you want to do
+[02:20] that's what you want to do if you want
+[02:22] to jump from prophetic video to
+[02:24] prophetic video and you want to bounce
+[02:26] them off of each other and and well
+[02:29] these two went together and well and
+[02:31] this one didn't and so well I guess that
+[02:33] makes you false and because this guy
+[02:35] said this and this lady said this folks
+[02:38] you need to seek God
+[02:41] yourself we're in a very serious time
+[02:45] the atmosphere around us is charged with
+[02:49] it this is not a time to play profit
+[02:52] telephone telephone it's like you know
+[02:55] that telephone to telephone you know we
+[02:56] we we're playing you whisper something
+[02:58] in somebody's ear you go all way around
+[03:00] the whole circle and by the time it gets
+[03:02] back to you you know what the original
+[03:04] thing was cuz you wrote it down and
+[03:06] everybody's quoting it and it's
+[03:07] something totally totally different than
+[03:09] whatever it whenever it left your
+[03:11] mouth and so many people are hearing so
+[03:13] many different things right now and the
+[03:16] Lord told me he said Brandon I'm clean
+[03:18] I'm about to clean house in a major way
+[03:21] I'm about to to
+[03:24] to in in in Ence way I saw it in the
+[03:27] spirit the true
+[03:30] M voices of the
+[03:33] father are going to come up in a higher
+[03:36] level with
+[03:38] him in an
+[03:42] intimacy that is beyond any
+[03:45] comprehension of a
+[03:47] mind and the ones that are not hearing
+[03:51] clear that are hearing part and and
+[03:56] hearing familiar spirits part in flesh
+[03:58] just adding flesh do it is what I want
+[04:01] to say some it's just not a familiar
+[04:02] Spirit some just you it's just your own
+[04:05] thoughts you you think well it's a devil
+[04:07] talking to them no it's your own mind
+[04:09] talking to you and so you're hearing
+[04:11] your own thoughts and you're saying this
+[04:13] prophetic and you're saying things that
+[04:15] are well it's it it's the spirit of the
+[04:17] Lord and it's just it's just whoever you
+[04:21] are and you're just hearing out of the
+[04:23] out out of your own atmosphere because
+[04:25] we have flesh we deal with flesh so a
+[04:28] lot of people the the Lord showed me
+[04:30] that's going to
+[04:32] magnify because it's going to take you
+[04:35] going and I and I use this word a lot
+[04:38] going
+[04:39] vertical losing yourself in
+[04:44] him losing yourself in in being
+[04:48] thirsty being hungry being desperate how
+[04:53] desperate are you how hungry are you for
+[04:57] change
+[04:59] and and you know we go from revival to
+~~~
+
+<a id="section-02"></a>
+## 02. 05:00–09:59 · 预言、梦境与异象、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[05:02] Revival and I watch them
+[05:04] online that's what I watch Billy Burke a
+[05:09] lot uh old prayer
+[05:12] videos uh Rodney High Brown some of his
+[05:14] old stuff to Fan the
+[05:17] flame to keep be being filled that the
+[05:22] old that the new wine that is inside of
+[05:24] me doesn't turn to
+[05:25] vinegar that you become so detached from
+[05:29] the vine the The Living Water the real
+[05:33] source that you become
+[05:37] lukewarm and there's so many people that
+[05:40] are living on 5-year-old Mana
+[05:44] 5-year-old word Rama word from God that
+[05:47] you got five years ago and you're not
+[05:49] going from glory to glory you're losing
+[05:52] yourself into something that you got 5
+[05:53] years ago and there's a fresh word for
+[05:55] you today you have to say what is it
+[05:58] that you have for me
+[06:00] today so a lot of you go from prophetic
+[06:03] prophetic word and you say this guy said
+[06:06] this this guy and they say Brandon you I
+[06:10] listen I don't listen to it the first
+[06:13] person I've ever come come and contact
+[06:16] with that is that I believe here's the
+[06:18] Lord and that is a has a true prophetic
+[06:21] leading and that's just been a couple
+[06:23] maybe about a week ago was Prophet
+[06:26] Joseph Z and he reached out to us and
+[06:28] was really kind us and you know what I
+[06:32] even don't want to I don't want to watch
+[06:34] his videos now because when you get to
+[06:37] know somebody and you hear their heart
+[06:39] and everything you have to separate what
+[06:42] he's hearing and what I'm hearing and I
+[06:46] don't want my words to influence him and
+[06:49] I don't want his words to influence me I
+[06:51] just want to hear the Holy Spirit and I
+[06:53] want to flow and stay stay looking at
+[06:56] his face so it freaks you out and you go
+[06:58] well you know does that line up with
+[07:02] what I'm hearing I don't know I don't
+[07:03] know I don't I don't care quite frankly
+[07:06] I don't care I want to hear him and
+[07:09] whenever you seek him you will find him
+[07:13] when you knock the door will be open
+[07:15] unto
+[07:16] you and for what I'm hearing in my
+[07:19] spirit right now I have an
+[07:22] urgency I have an urgency to tell you
+[07:25] it's time to get your wood unwet it's
+[07:29] time to get your your fan your to fan
+[07:33] that flame to arise and shine for the
+[07:36] light has come for the glory of the Lord
+[07:38] is risen upon you to tell you you have
+[07:42] what it takes to be an end time
+[07:45] Harvester that it's all hands on deck
+[07:48] right
+[07:49] now and the Lord said to
+[07:51] me there's great shaking
+[07:54] coming there's great shaking coming
+[08:02] he said I'm done with the
+[08:04] mixture I'm done with the
+[08:07] compromise I'm done with the
+[08:10] lukewarm it's either you're hot or
+[08:12] you're cold or I'll spew you out of my
+[08:14] mouth you will see a great dividing
+[08:19] line with the true sons and the
+[08:21] daughters of God versus the ones that
+[08:23] are Al lukewarm and
+[08:25] asleep and he said judgment begins in my
+[08:29] house first but he started talking to me
+[08:33] again not about the Sheep the little
+[08:36] sheep the people that are in the the the
+[08:38] the fock he's talking about the leaders
+[08:41] right now to me he's talking to me about
+[08:44] his leaders his prophetic voices that
+[08:47] are speaking for him and he said to me
+[08:52] he said
+[08:53] Brandon you represent me and you speak
+[08:57] only what I say to say
+[09:01] you only and and he was talking about
+[09:03] coming up in a higher level and he was
+[09:06] it was
+[09:08] thunderous when he spoke to the point
+[09:11] where it was so thunderous the the the
+[09:15] the the
+[09:16] the I I hate it's a word
+[09:19] anger the anger of the Lord concerning
+[09:24] the the the leadership of the church and
+[09:27] where they are and how they're Leading
+[09:28] the People right now now and it was
+[09:32] thunderous so much so I I pulled the car
+[09:35] over off the road and I had to just
+[09:39] stop and I said oh my goodness Lord I
+[09:43] thought you know whenever you're feeling
+[09:44] it's like just my perception it's like
+[09:47] man I felt like I could if just making
+[09:48] the wrong turn the wrong move you felt
+[09:51] like you could be burned up from a holy
+[09:53] God he said I am
+[09:57] Holy I am holy
+~~~
+
+<a id="section-03"></a>
+## 03. 10:00–14:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[10:00] Brandon and there is no compromise in
+[10:04] me and there will be no compromise in
+[10:07] the true voices and my true prophetic
+[10:10] voices there will be no compromise in
+[10:14] you if you're going to speak for me
+[10:18] there will be no compromise in my my in
+[10:21] my in my true prophetic
+[10:24] voices about finances about whatever
+[10:28] thoughts whatever I'm just telling you
+[10:30] all folks it was very serious the way he
+[10:32] was the way he was talking about in the
+[10:34] days
+[10:36] ahead and he spoke to me about the
+[10:38] people even talking about
+[10:40] crypto and he says I've let you get by
+[10:43] with this in the past but you will not
+[10:45] do this
+[10:46] anymore you will not make this he said
+[10:49] there's
+[10:50] 75% of the people on this platform that
+[10:54] are following you right now that are
+[10:56] just here for selfish gain
+[11:00] 75% he said but he said the other
+[11:04] 25% out of the 500 and some, people that
+[11:08] are subscribed he said have a true heart
+[11:11] after
+[11:12] me have a real true hunger after me and
+[11:15] those you can help and you can pray
+[11:18] together and you can change the Nations
+[11:21] Brandon and I will and he said some of
+[11:24] them as you as as I bring correction
+[11:27] through you on this platform they will
+[11:29] leave and it's it's okay and he said and
+[11:33] I will bring more to fill their position
+[11:36] true prayer warriors true people that
+[11:40] are here not for itching ears that you
+[11:42] only want to hear about xrp or whatever
+[11:45] you think you want to
+[11:48] hear but hearing what's truly coming and
+[11:52] what's about to happen in this
+[11:55] earth that we're about to see the
+[11:58] greatest Harvest of Souls this world has
+[12:00] ever seen before but before it comes we
+[12:03] will see a shaking to
+[12:06] awaken and a lot of you will not make
+[12:09] it I'll tell you right now a lot of you
+[12:12] will not make it there'll be a great
+[12:15] falling
+[12:16] away and I'm telling you all for what I
+[12:19] have seen there is a rat
+[12:23] within there's a rat within in America
+[12:26] there's rats within you all need to hear
+[12:29] me there's rats
+[12:32] within there's secret things that I
+[12:35] can't go into the depth anymore
+[12:37] about I can't go in and tell you some of
+[12:40] the deep things that I've seen but you
+[12:43] need to get your house in order for
+[12:46] there is a great shaking that's about to
+[12:48] take place in this
+[12:50] nation there's things that that that if
+[12:53] you saw it what I saw I sit on my couch
+[12:56] and trembled
+[12:59] I will say the word Red
+[13:01] Dawn you need to know this is bigger and
+[13:04] you need to watch Cuba you need to pray
+[13:07] over Cuba you need to pray over our
+[13:11] government our last Administration that
+[13:14] was over this
+[13:15] country was a very corrupt and evil
+[13:20] Administration and they allowed things
+[13:22] that should never have happened and were
+[13:24] criminal a lot of Pardons were given out
+[13:27] for a reason
+[13:29] I'll say that a lot of Pardons were
+[13:32] given out for a
+[13:34] reason and it's a lot deeper than what
+[13:37] you all
+[13:39] realize we're about to see more than
+[13:42] just about
+[13:44] finances about government about war
+[13:47] about rumors of War we're about to see a
+[13:50] shaking in the heavens we're about to
+[13:52] see a shaking of things that people do
+[13:55] not have any control over because it's
+[13:57] out uh it's it the the elements of the
+[14:01] Earth the Stars signs in the heaven
+[14:05] asteroids I'm telling you folks there's
+[14:09] things that are beyond your
+[14:10] comprehension that is on its way the
+[14:13] Lord has showed me a great shaking to
+[14:16] awaken but this is bigger than just
+[14:19] politics this is bigger than a
+[14:22] government this is bigger than
+[14:26] finances we're talking things that are
+[14:29] not controllable by human humans that's
+[14:33] what I want to
+[14:35] say you will see a rising up still and
+[14:40] and and and when they remember this word
+[14:44] when they call Peace and
+[14:47] safety there will be sudden
+[14:50] Destruction for somebody's being
+[14:54] played I will tell you that somebody is
+[14:57] being played
+~~~
+
+<a id="section-04"></a>
+## 04. 15:00–19:59 · 预言、梦境与异象、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[15:00] for when they call Peace and safety then
+[15:04] sudden
+[15:06] destruction remember
+[15:08] this for you will see a lot of things
+[15:11] that will be peace and
+[15:14] safety but somebody's being
+[15:18] played there's
+[15:21] rats and we must pray for our government
+[15:26] for great discernment Upon Our leader
+[15:29] president Trump for Supernatural wisdom
+[15:33] to lead him in these days and hour with
+[15:36] a discernment of who is around him and
+[15:40] who to
+[15:41] trust who to listen to In other
+[15:43] governments and other other other
+[15:45] foreign uh like
+[15:48] other uh leaders around the
+[15:52] world who can you trust as we see him
+[15:56] bring tariffs on Canada 25 % as we see
+[16:01] these things happen with
+[16:03] Mexico do you not feel the
+[16:05] atmosphere there's something
+[16:07] wrong there's something
+[16:10] wrong I've told you about the trucks
+[16:13] I've told you about the Vans I've told
+[16:16] you about the it didn't
+[16:19] disappear it's very odd two planes mess
+[16:22] up and do all this stuff in the last
+[16:24] couple of days very
+[16:27] odd I don't believe everything we see
+[16:30] right now I do not believe everything we
+[16:34] see right now you need to know it's time
+[16:38] to come up higher in your discernment
+[16:40] and praying in the
+[16:42] spirit because we have an enemy
+[16:47] Within we have an enemy
+[16:49] Within over the past four years there
+[16:54] has been some very evil people cross
+[16:56] that border
+[16:59] very evil
+[17:02] people and it's worse than what you
+[17:05] realize for what I have
+[17:09] seen so I don't say all this to scare
+[17:13] you I say this to prepare
+[17:16] you I say this so you wake
+[17:19] up because many of you will wake up and
+[17:23] I'll say this again I hear by the spirit
+[17:25] of the Lord and a 24hour period
+[17:29] everything in your life will
+[17:31] change everything that you know as as
+[17:35] stability in this earth will change
+[17:37] within a 24-hour
+[17:40] period for for the Lord said a great
+[17:44] shaking to
+[17:46] awaken for there were many of you that
+[17:49] did not know whenever Co was
+[17:53] coming many of you did not hear it and
+[17:56] many of you did not hear when 911 was
+[17:58] coming
+[17:59] coming there were
+[18:01] some there were some that
+[18:04] heard but you need to have your ears to
+[18:08] Heaven listening to what's
+[18:12] coming there were many that were caught
+[18:14] off guard but those
+[18:17] events changed everything in a 24-hour
+[18:22] period you see it changed the way our
+[18:26] government has moved since
+[18:30] Co changed everything but it didn't just
+[18:33] change America it changed the
+[18:34] world and how we operate and how we do
+[18:37] things and it's still it's still not
+[18:39] back to
+[18:40] normal 911 changed how we fly how we do
+[18:43] all that stuff if everybody remembers in
+[18:46] 2020 in in
+[18:48] 2001 2001 September the 11th it changed
+[18:54] everything Homeland Security all that
+[18:56] look at what happened out of that
+[19:00] just know that the Lord has spoken to me
+[19:04] and he has spoken to me very sternly and
+[19:08] he said there'll be
+[19:10] events that he's not going to yell about
+[19:13] anymore that are coming a great shaking
+[19:17] to
+[19:18] awaken and he said to me
+[19:21] Brandon I've yelled and I've yelled and
+[19:24] I've yelled for my people to wake up and
+[19:28] now they will wake up for what's about
+[19:30] to take
+[19:32] place in a 24-hour period everything
+[19:36] will
+[19:37] change and you tell me Brandon what
+[19:41] about the
+[19:42] finances that's the least of your
+[19:45] worries take your eyes off of self right
+[19:50] now take your eyes off of your
+[19:53] pocketbook right
+[19:55] now take your eyes and put them vertical
+[19:59] and look at the father and say Jesus I
+~~~
+
+<a id="section-05"></a>
+## 05. 20:00–24:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:02] need you speak to me oh Lord fast and
+[20:07] pray he said I'm requiring my body to
+[20:10] fast and pray more I'm requiring my body
+[20:14] the true ones the true Warriors the 25%
+[20:18] that are on this
+[20:20] channel to Humble themselves in
+[20:24] pray seeking his face daily for what's
+[20:28] about to take place he said Brandon you
+[20:30] will stand alone on a lot of things that
+[20:33] I will tell you to say on this platform
+[20:35] and a lot of your the people that you're
+[20:37] in circle with right now will not a
+[20:39] agree with what you're about to say but
+[20:42] in time it will prove to be
+[20:45] accurate in time it will prove to be
+[20:49] accurate for there's things that will
+[20:52] not be changed through prayer for the
+[20:55] time of my coming is soon
+[21:00] some things will manifest even if you
+[21:02] think you're going to pray it
+[21:04] away what you should focus on is praying
+[21:07] protection over you in your
+[21:10] household what you should pray focus on
+[21:13] is hearing me him for you what does he
+[21:17] tell you to do where does he tell you to
+[21:19] save what does he tell you to buy what
+[21:23] does he where dides he tell you to live
+[21:25] don't worry about everybody else and
+[21:27] what they're doing hear about
+[21:30] you for if you don't hear for you you
+[21:34] could be in the wrong place at the wrong
+[21:36] time and go home early that's how
+[21:38] serious what we're about to see you need
+[21:41] to be in the right place at the right
+[21:43] time hearing him on a day-to-day basis
+[21:46] saying father where am I supposed to be
+[21:49] today who am I supposed to be in
+[21:51] fellowship with
+[21:53] today not being around people who
+[21:56] influence that influence you to do what
+[21:59] you shouldn't be
+[22:01] doing it's being sold
+[22:04] out for they're coming in hot he
+[22:07] said they're coming in hot Brandon and
+[22:10] you got to have your catchers Ms on for
+[22:13] what's about to happen in that time
+[22:15] period he said people are going to be
+[22:17] looking remember what happened at
+[22:20] 911 everybody in 911 after that that
+[22:24] event happened the major thing with
+[22:25] planes all that happened that major it
+[22:28] changed the world everybody was running
+[22:31] to
+[22:32] church everybody was looking for
+[22:34] Comfort everybody was looking for
+[22:39] hope they were all going back to church
+[22:41] but what did they get when they went
+[22:43] back to church a lukewarm
+[22:46] gospel a lot of
+[22:48] them but there'll be many of them this
+[22:51] time that run to you the
+[22:55] 25% because they don't go to the church
+[22:58] because there certain things will
+[23:00] happen and so when that
+[23:02] happens who will be the one standing in
+[23:05] the in the yard or wherever at your
+[23:07] neighborhood or in the marketplace
+[23:09] having a little sign saying if you need
+[23:11] prayer come
+[23:13] here if you need Jesus come
+[23:16] here I don't know just an idea because
+[23:20] when they're when they're going to be
+[23:20] going going I need somebody I need
+[23:22] somebody can somebody just pray for me
+[23:25] can somebody just just agree with me I'm
+[23:27] in fear I'm in worry I'm in torment I'm
+[23:30] all this stuff's going on outside you
+[23:31] see the asteroids you see the the fires
+[23:34] you see the plagues you see the oh God
+[23:36] help
+[23:37] me and you have a little sign over in
+[23:40] the corner at Walmart Target wherever
+[23:43] you
+[23:45] go I I'll pray for you today if you need
+[23:48] help they have to be all religious out
+[23:51] there at the Bible hitting everybody in
+[23:52] the head being all hypers spiritual but
+[23:55] just be that still small voice over
+[23:57] there just hey I got a sign right here
+[23:59] that saysi pray for you if you need some
+[24:01] prayer
+[24:02] today let me agree with you on what you
+[24:05] need and the power of God comes and and
+[24:08] and changes their life ladies and
+[24:10] gentlemen will you be that vessel that
+[24:14] God can use it's all hands on dead for
+[24:16] what I have seen coming I've told you
+[24:18] all some major
+[24:20] things that have shaken me but what I
+[24:24] have seen coming in the last 48 hours
+[24:26] has shaken me even greater than anything
+[24:28] I've ever told you on this
+[24:33] platform I'm telling you all and he said
+[24:37] to me you must not speak this it will
+[24:39] put you in
+[24:43] danger I said yes Lord thank you for
+[24:46] your
+[24:48] wisdom thank you for your
+[24:53] protection so if you know me and you've
+[24:56] been on this platform with me me for
+~~~
+
+<a id="section-06"></a>
+## 06. 25:00–29:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[25:00] quite some time now about a year or so
+[25:03] and I've pretty much been a open uh
+[25:06] book I've told you about everything but
+[25:09] when and and I've told you some things
+[25:11] that most people was scared for me to
+[25:13] say when he told me this he said it will
+[25:16] put you in danger you cannot say that
+[25:18] that ought to tell you the level of what
+[25:20] I'm trying to tell you right there right
+[25:22] does that tell you the level of what I'm
+[25:24] trying to tell you if he says you cannot
+[25:27] say this out of your your mouth on this
+[25:29] public platform because it would put
+[25:30] your family in
+[25:34] danger does that tell you the level of
+[25:37] the urgency of what I'm trying to tell
+[25:38] you you should have your house in
+[25:44] order you say Brandon when's the time
+[25:46] frame it doesn't matter focus on his
+[25:50] face that's all you have to do and when
+[25:54] you focus on his face he will show you
+[25:57] everything you need to know for your
+[26:00] house not everybody else is going to
+[26:03] hear
+[26:03] it because it's only for
+[26:06] you so you say what about the finances
+[26:09] there'll be great
+[26:15] shakeouts they don't want you to become
+[26:18] rich do you understand that do you think
+[26:23] that they see this do you think the
+[26:24] devil sees
+[26:26] it and he goes
+[26:29] him him him him her her her her her are
+[26:31] all going to become Filthy Rich if they
+[26:33] keep on the same path but if I can
+[26:36] discourage them because they're not
+[26:38] hearing them him him their s they're
+[26:43] watching a prophetic video that's
+[26:44] encouraged them to buy this stuff but
+[26:47] never told them to buy it never have I
+[26:49] one time but you compare me to other
+[26:51] people telling you thank you that I've
+[26:53] told you to I've never told you to do
+[26:54] anything I told you to pray about it but
+[26:57] you go you investing something that you
+[26:59] that you think well it sounds good
+[27:00] because I heard Prophet so and so say
+[27:02] this but never heard you so then when
+[27:04] the enemy sees that and you have a weak
+[27:06] hand he shakes you
+[27:09] out you don't know because I told
+[27:12] you that the holy spirit said this
+[27:15] specifically to you you must hear his
+[27:19] voice like a ticking of a
+[27:23] clock being in syn like a marching
+[27:26] orders
+[27:29] for there'll be great
+[27:31] shakeouts when it comes to the markets
+[27:34] and you don't know if that's the last
+[27:37] call or if that's just a fear thing
+[27:40] because if you're not hearing him you'll
+[27:43] lose
+[27:45] everything Who and the Lord say you'll
+[27:48] never tell them
+[27:50] when I let you lead them to this thing
+[27:53] and tell them to pray about something
+[27:55] pray about
+[27:57] something but never told you to buy pray
+[28:01] about
+[28:02] something five pillars everything pray
+[28:05] about this ladies and gentlemen as just
+[28:08] love as a brother and sister in Christ
+[28:10] but I never told you when to buy it and
+[28:12] I never told you when to sell and never
+[28:15] will if you pray about it and you think
+[28:17] well I was told to do that I never told
+[28:19] you but it's frustrating to me because I
+[28:21] have brother say well you know no no you
+[28:25] must hear him like a ticking of
+[28:28] clock concerning this other than that
+[28:32] you you you really
+[28:34] are up the creek without a
+[28:38] paddle because that's how close we must
+[28:41] hear him in this day and this
+[28:44] hour should I buy food should I buy ammo
+[28:48] should I buy chickens should I buy this
+[28:50] I told you there was coming something
+[28:52] with the
+[28:53] chickens do you remember that I warned
+[28:57] you there was something coming with the
+[29:00] chickens I even have the videos to prove
+[29:03] it but I'm not here anymore to sit there
+[29:06] and hold up and say I told you so look
+[29:08] it let's do this so I can make a viral
+[29:10] video so everybody wants to follow
+[29:12] Prophet Brandon no I told you I'm not a
+[29:15] prophet I told you all that I was a
+[29:17] Watchman but I warned you about the
+[29:20] chickens I've warned you about the
+[29:24] chickens and look there's no eggs in the
+[29:27] store right now and the Lord said they
+[29:30] will kill all the chickens soon and this
+[29:33] was back in what
+[29:35] 2022 2022 I told you all it was coming
+[29:39] and it was years and everybody thought
+[29:40] people when I first gave that word out
+[29:42] they say you're you're so
+[29:43] flaky I told my family they all bought
+[29:46] chickens I bought 21 of them 21 of them
+[29:51] but I heard it way in
+[29:53] advance because that's what I hear and
+[29:56] so then I had to get rid of some of the
+[29:57] chickens
+[29:58] because it it was it was too much of
+~~~
+
+<a id="section-07"></a>
+## 07. 30:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[30:00] time frame so when you're hearing in
+[30:02] advance that far and you're not hearing
+[30:04] on the timing it's my that's where I'm
+[30:07] learning
+[30:09] timing timing because you you have
+[30:12] there's a depth perception in the spirit
+[30:15] we hear in part we see in part and
+[30:17] timing is very hard when you're as a
+[30:19] Watchman to be precise about the timing
+[30:22] so that's what I'm telling you all right
+[30:24] now pray about what I'm telling you
+[30:29] have your spiritual antennas up right
+[30:31] now for there's a storm
+[30:33] coming I told you there's a major storm
+[30:37] coming people talk about the plague when
+[30:40] is that
+[30:41] coming I told you I believe it was in
+[30:44] president Trump's time frame because
+[30:45] I've seen him on the whenever he was on
+[30:47] the so that' be a four-year window
+[30:49] sometime I told you to go watch Pastor
+[30:51] Steve kealani's video on the horses I
+[30:54] told you to do a lot of things but right
+[30:56] now the main thing I think you should do
+[31:00] is seek Him
+[31:03] daily pray fast something that's
+[31:06] important to you maybe it's sugar maybe
+[31:08] it's a a video game maybe it's a book or
+[31:11] maybe it's a TV show or fast something
+[31:14] that's important to you and instead of
+[31:17] doing what you was important to you seek
+[31:20] him in that time
+[31:21] frame maybe it's sodas maybe you could
+[31:24] cut out sodas for a day maybe you could
+[31:27] or or
+[31:29] coffee you know that my flesh screams if
+[31:31] I don't have coffee okay so you say hey
+[31:34] I gotta have cof I've cut out coffee
+[31:35] today I'm not going to do coffee today
+[31:36] or maybe it's a candy bar I don't know
+[31:40] whatever whatever trips your flesh says
+[31:43] hey I'm putting you
+[31:46] first do that maybe it's maybe it's uh
+[31:52] social
+[31:53] media
+[31:55] I find something and say God I'm taking
+[31:58] instead of looking at Facebook all day
+[32:00] today I'm going to read my Bible on that
+[32:02] time frame I'm going instead of looking
+[32:05] at uh uh X or whatever Instagram I'm
+[32:08] going to look at you the Bible that time
+[32:10] frame and what I'm do that for two days
+[32:12] or whatever and I'm just going to seek
+[32:16] you for what is about to happen you have
+[32:19] to be
+[32:22] serious so I hope this encourag you
+[32:25] today it's just so heavy on my heart
+[32:28] there's so much that I want to say today
+[32:29] that I
+[32:31] cannot and so I just pray for
+[32:34] you I pray for you because I've been
+[32:36] instructed I cannot say certain things
+[32:39] anymore and I was like wow
+[32:42] okay I don't know what to do with that
+[32:44] but I but you're the boss but I want to
+[32:47] take communion with yall and I want you
+[32:51] to know that Jesus has a plan for your
+[32:53] life and he loves you and I Bel beloved
+[32:57] I wish above all things that you prosper
+[32:59] and be in health even as your soul
+[33:02] prospers remember the words read Dawn
+[33:05] remember the words
+[33:09] rats remember there's rats
+[33:12] inside there's people that are bad that
+[33:15] we've let
+[33:17] in some people are really
+[33:20] close to to to big big people that um
+[33:25] they don't even realize it
+[33:29] pray for our president to have
+[33:31] discernment pray for our president to
+[33:34] have discernment on how remember I told
+[33:37] you handle the bear with care remember I
+[33:40] told you that word I saw him trying to
+[33:43] Strongarm the
+[33:44] bear and you have to handle the bear
+[33:47] with
+[33:49] care remember so father I thank
+[33:54] you I thank you Father that if we
+[33:56] Delight oursel into you you said you'd
+[33:58] give us the desires our heart and my
+[34:00] heart's desire father is just to fall
+[34:02] more in love with
+[34:04] you there's nothing else in this world
+[34:07] that matters to
+[34:08] me it's all about to go and burn
+[34:12] anyway but father if I can just win a
+[34:16] million souls for
+[34:18] you if I could win a 100 million souls
+[34:22] for you thinking bigger on this platform
+[34:26] father to bring bring a million prayer
+[34:28] Army of women and men that are seriously
+[34:32] seeking you not coming for an itching
+[34:34] ears message trying to tell them how
+[34:36] they can profit off of something the 75%
+[34:39] of you that that are here for that God
+[34:42] help you and I pray that you're shaken
+[34:44] to awaken the other 25% of you that are
+[34:48] here and that are excited to hear a
+[34:49] fresh word God bless you all I'm excited
+[34:53] you're here we're going to do great
+[34:55] things I'm going to do more videos
+[34:58] I have an urgency for you to pray with
+~~~
+
+<a id="section-08"></a>
+## 08. 35:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[35:00] me that we can we can change things if
+[35:04] you have prayer I'm going to do live
+[35:05] things you can tell me down what do you
+[35:07] feel on your heart to pray for the
+[35:09] planes you see all this stuff there's
+[35:12] more to it than
+[35:13] that there's more to this than that the
+[35:18] planes two of them in a couple days
+[35:21] there's more to this than
+[35:24] that you got to look deeper
+[35:28] so father we thank you Lord for the body
+[35:30] right now in the name of
+[35:32] Jesus we lift up before you father and
+[35:34] you we thank you Lord that you are
+[35:36] wounded for our transgressions you were
+[35:38] bruised for our iniquities the
+[35:40] chastisement of our peace was upon you
+[35:43] and with your stripes Lord we are healed
+[35:47] and we take this body right now in the
+[35:49] name of
+[35:50] Jesus and we thank
+[35:53] you we thank you Lord that we we don't
+[35:56] have to be sick we thank you Lord that
+[35:58] we have peace that passes all
+[36:00] understanding in these days for when
+[36:02] they call Peace and safety there's
+[36:04] sudden destruction but father I thank
+[36:07] you that we're always in the right place
+[36:09] at the right
+[36:11] time father I pray over president Trump
+[36:15] I pray for
+[36:16] wisdom Supernatural wisdom over his mind
+[36:19] today and I thank you Lord there's
+[36:21] healing over his
+[36:22] body and father we lift up this body
+[36:25] right now for what you did for us and we
+[36:28] thank you Lord that we are delivered and
+[36:31] For Whom the son is set free is free
+[36:33] indeed we take this body and the name of
+[36:36] Jesus
+[36:38] Lord we thank you for the
+[36:41] blood we apply the blood of Jesus over
+[36:44] our our our homes Our lives our M our
+[36:46] marriages our children our our
+[36:49] households our finances and you father
+[36:52] you said that you know everything we
+[36:55] have need of before we even ask of it
+[36:58] and I plead the blood of Jesus over
+[37:00] every single person who's watching this
+[37:02] video right now and I thank you Father
+[37:04] that no weapon formed against them would
+[37:07] Prosper A thousand shall fall at their
+[37:09] side and 10,000 their right hand but
+[37:11] nothing shall come nigh
+[37:13] them I take this Blood right now in the
+[37:16] name of Jesus and I apply the blood over
+[37:20] me and my wife and my children I apply
+[37:23] the blood of Jesus for we make much of
+[37:26] the blood and the blood will will make
+[37:27] much of us and we put a bloodline around
+[37:30] our house we put a bloodline around our
+[37:32] car we put a bloodline around our our
+[37:34] church we put a bloodline around our
+[37:36] schools around our where we go shopping
+[37:39] and get groceries we apply the blood of
+[37:45] Jesus that they were always in the right
+[37:47] place at the right time and we hear the
+[37:51] Lord's voice and a stranger's voice will
+[37:52] not
+[37:53] follow we will hear you Lord and father
+[37:57] we thank you Lord we Delight oursel Into
+[37:59] You Lord we Delight oursel into you and
+[38:02] you said you would give us the desires
+[38:03] of our
+[38:05] heart we thank you Father that you're
+[38:09] the miracle working God and we call
+[38:11] healing and wholeness and deliverance
+[38:13] over us in the name of Jesus we thank
+[38:16] you Lord for your blood that we ply over
+[38:18] our lives today in the name of
+[38:23] Jesus
+[38:25] Lord we give you praise
+[38:31] you deserve the
+[38:34] glory and the
+[38:38] honor Lord we lift our hands and
+[38:42] worship as we bless your Holy Name you
+[38:47] deserve the
+[38:49] [Music]
+[38:51] glory and the
+[38:54] honor Lord we lift our hands and
+[38:59] worship as we bless your holy name for
+[39:04] you are
+[39:05] great you do mirales so
+[39:10] great there is no one else like
+[39:13] [Music]
+[39:15] you there is no one else like you for
+[39:20] you are
+[39:22] great you do mirales so great
+[39:28] there is no one else like
+[39:30] [Music]
+[39:33] you there is no one else like
+[39:41] you you deserve the
+[39:44] glory and the
+[39:51] honor
+[39:53] Lord we lift our hands and worship
+[39:59] as we bless your holy name for you
+~~~
+
+<a id="section-09"></a>
+## 09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[40:03] deserve the
+[40:05] glory and the
+[40:09] honor Lord we lift our hands and
+[40:14] worship as we bless your holy name for
+[40:18] you are
+[40:20] great you do mirales so
+[40:24] great there is no one else else like
+[40:28] [Music]
+[40:30] you there is no one else like you for
+[40:36] you are great you do mirales so
+[40:42] great there is no one else like
+[40:45] [Music]
+[40:47] you there is no one else like you
+[41:00] you deserve the
+[41:01] [Music]
+[41:03] glory and the
+[41:05] [Music]
+[41:07] H you are so
+[41:11] worthy thank you
+[41:14] Father there is no one else like
+[41:19] you for you are
+[41:22] [Music]
+[41:24] great you do Miracles so
+[41:28] great there is no one else like
+[41:35] you there is no one else like
+[41:41] [Music]
+[41:50] you we're in a time like we've never
+[41:52] seen
+[41:55] before we're in a Time time like we've
+[41:58] never experienced before and all of
+[42:02] humanity we're about to see something
+[42:04] we've never seen
+[42:10] before you say well I've heard that
+[42:13] before no no
+[42:14] no I'm telling you we're about to see
+[42:18] something we've never seen
+[42:22] before I'm so thankful the Lord chose us
+[42:25] to be born into this this generation for
+[42:29] such a time as
+[42:32] this that he saved the best for
+[42:35] last and there's great days ahead of the
+[42:38] body of Christ to bring in the lost but
+[42:41] you have to think why what's going to
+[42:43] bring them
+[42:45] in what's about to
+[42:47] happen that's going to shake so many
+[42:53] people to awaken
+[42:55] them what's great than a Revival an
+[42:59] Awakening an awaken shaken to
+[43:03] awaken an Awakening unto
+[43:06] God father we thank you Lord for every
+[43:08] single person who's represented here
+[43:10] today for the marriages for the homes
+[43:12] for all of them they're
+[43:14] blessed I bless them in the name of
+[43:17] Jesus I bless their finances I bless
+[43:19] them Father that they hear you on where
+[43:21] to put their money what to do with
+[43:24] it father what to what what supplies
+[43:27] they may
+[43:29] need water or
+[43:31] whatever for father we live in we're
+[43:33] we're in perilous
+[43:35] times we're in the birthing
+[43:39] pains and as the birthing as labor pains
+[43:42] upon a woman so will it be when the son
+[43:43] of man
+[43:45] Returns the birthing pains will get more
+[43:48] intense in the days
+[43:50] ahead so much so that you'll look back
+[43:52] and you'll not recognize
+[43:55] things and it will happen
+[43:58] quickly it will happen
+[44:00] quickly and you'll look back and say my
+[44:04] goodness look at all that has
+[44:07] changed but as you see change like this
+[44:12] I SP I hear the spirit of the Lord say
+[44:14] you will change too from glory to glory
+[44:18] for there'll be a great demonstration of
+[44:20] my glory upon you in these days ahead he
+[44:25] says and you you will be the
+[44:29] salt you will be the light in the
+[44:33] darkness and you will call those things
+[44:36] that be not as though and though they
+[44:38] were calling those things that be not as
+[44:40] though they were and it will manifest
+[44:43] right in front of you as his true sons
+[44:47] and
+[44:48] daughters and you will see the Glorious
+[44:50] Church rise and it will shine for the
+[44:54] light is upon
+[44:55] you for the glory of the Lord is risen
+[44:59] upon you ladies and
+~~~
+
+<a id="section-10"></a>
+## 10. 45:00–49:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[45:03] gentlemen father we thank you Lord for
+[45:06] for for wisdom over our president today
+[45:08] for over our all the countries that
+[45:10] father that the people are
+[45:13] ready for what's about to take
+[45:16] place father I thank you
+[45:19] Lord I thank you Father I thank you we
+[45:23] have no fear for perfect love casteth
+[45:26] out all fear for because fear has
+[45:28] torment and father our seeds that we've
+[45:32] sewed
+[45:33] financially will bring forth some 30
+[45:36] some 60 and 100 fold and father we try
+[45:39] we test the ground and we sew where you
+[45:43] tell us to seow and I thank you Father
+[45:45] that you will bring a supernatural
+[45:47] harvest in Jesus name quickly that it
+[45:50] will not be it when it takes months and
+[45:53] months to get it but father you'll give
+[45:55] us creative ideas to get wealth
+[45:57] and it will come quickly in jesus'
+[46:01] name for father we'll see the
+[46:03] manifestation with the Harvesters and
+[46:06] the Reapers the sers and the
+[46:08] Reapers and it will happen like like
+[46:11] that quickly in Jesus
+[46:14] name and we give every you we give you
+[46:17] all the glory honor and praise father in
+[46:20] the name of Jesus and we thank you Lord
+[46:23] that you're bringing it to
+[46:25] pass thank you thank you than you thank
+[46:27] you Lord we'll bring a harvest we'll
+[46:30] have our Harvest come to pass at last in
+[46:33] jesus' name for seed time and harvest
+[46:36] will accelerate even in the days ahead
+[46:40] thank you Father thank you Lord father
+[46:43] we bless every person that's watching
+[46:45] right now in the name of Jesus we bless
+[46:48] them in Jesus name we bless them from
+[46:50] the top of their head at the soles of
+[46:51] their feet we thank you Lord for new
+[46:54] cars we thank you Lord that they get
+[46:56] better transportation to go to work
+[46:58] people are believing for automobiles for
+[47:00] bikes for whatever you're believing for
+[47:02] We Believe with you for whatever you've
+[47:05] sow you'll reap that there'll be
+[47:08] Supernatural Harvest over you that
+[47:10] you'll be able to go out and do what you
+[47:11] need to do houses uh clothes whatever I
+[47:17] thank you Lord that you provide for them
+[47:18] and take care of them I thank you Lord
+[47:21] that they're healthy in their bodies no
+[47:23] flu no stomach bugs no sickness comes
+[47:25] nigh them Father that they're always in
+[47:28] that right place the right time and they
+[47:30] have promotion at their
+[47:32] jobs that they will be the ones leading
+[47:35] the people that they'll be the ones that
+[47:37] are having the top jobs the CEOs the the
+[47:41] the managers the the general managers
+[47:44] whatever father that they'll have those
+[47:46] kind of Pro
+[47:48] Promotions father when all heck is
+[47:51] breaking loose around us we're the ones
+[47:52] that's
+[47:53] stable because our H our hope is BU
+[47:56] built in nothing less than Jesus's blood
+[47:59] and his righteousness we
+[48:02] are rooted and we are grounded and we
+[48:06] have faith and confidence in his ability
+[48:09] to provide for us and take care of us in
+[48:11] the days ahead that he will not just
+[48:15] like he said I take care of the The
+[48:17] Sparrows I take care of the lies of the
+[48:20] field and how much more will he take
+[48:22] care of you ladies and
+[48:23] gentlemen he takes care of all those
+[48:26] things but he takes care of you more
+[48:28] because you're his sons and his
+[48:30] daughters he will provide for his own
+[48:33] I've never the David I've never seen the
+[48:36] righteous forsaken or a seed begging
+[48:38] bread I believe father the righteous we
+[48:41] are righteous in your sight we come up
+[48:43] underneath that wing of that secret
+[48:45] place of the most high today and we
+[48:47] abide under the shadow of the almighty
+[48:49] for we say the Lord he is our refuge our
+[48:51] Fortress Our God in whom we
+[48:55] trust we are We Trust steadfast in you
+[49:00] Jesus will take care of us you will
+[49:03] provide for us you will watch over us
+[49:06] you heal us the Bible says if there's
+[49:09] any sick among you let him call for the
+[49:11] Elders of the church anointing with the
+[49:13] oil laying hands on them if there is any
+[49:16] sick so I believe in the days ahead
+[49:19] there's none sick and there's none not
+[49:22] one person that's sick not one person
+[49:25] that's not made whole it's time for us
+[49:27] to walk in the
+[49:30] victory with demonstrations Jesus
+[49:33] preached the word and he and signs
+[49:35] followed
+[49:36] him Jesus preached the word and he and
+[49:40] and and miracles followed
+[49:42] him that's what we need to do we need to
+[49:45] preach the word and miracles follow us
+[49:48] it should not be that we don't see it we
+[49:51] it should be the average the the the the
+[49:55] the
+[49:57] every day waking up every day expecting
+~~~
+
+<a id="section-11"></a>
+## 11. 50:00–52:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[50:01] the
+[50:03] supernatural waking up every day
+[50:06] expecting God to move it should not be
+[50:10] out of the ordinary well I don't know
+[50:13] have have you heard anybody get healed
+[50:15] no we should we hear about it all the
+[50:16] time because when we preach the word
+[50:20] signs follow them that
+[50:23] believe we see and we we know that he is
+[50:27] a god that is he is a rewarder of those
+[50:30] that diligently seek
+[50:32] him it's not something to be out of the
+[50:34] ordinary it should be the ordinary
+[50:37] healings are for today deliverances are
+[50:41] for
+[50:42] today prosperity and not not being
+[50:45] barely getting by is is we're supposed
+[50:47] to have overflow for
+[50:50] today I don't understand I don't I don't
+[50:52] believe in prosperity then you're not
+[50:54] going to like heaven just just saying
+[50:58] because God is a god of abundant
+[51:01] Supply so I hope this message blessed
+[51:03] you
+[51:04] today I pray it encouraged you at the
+[51:07] same time shakes you to get you ready
+[51:09] for what's coming so but if you're new
+[51:12] here we appreciate you being here we uh
+[51:15] we're do more prayer videos like like
+[51:17] the video subscribe if you haven't
+[51:19] subscribed click the notification Bell
+[51:22] uh we've got Spanish uh all kinds of new
+[51:25] channels go in the in the description
+[51:28] down below you'll see all those channels
+[51:31] if you don't speak English and you want
+[51:33] to follow the China and South Korea and
+[51:35] Vietnam and all go find one of those
+[51:38] channels over there if you don't speak
+[51:39] any of if you don't speak English and it
+[51:41] will increase it will help you we
+[51:43] putting them over there Braden's over
+[51:45] there putting videos over there every
+[51:46] day uh putting new word out for you in
+[51:49] those channels so we are excited you're
+[51:51] here um thank you for being a part of
+[51:54] our YouTube family than thank you for uh
+[51:57] supporting us uh by by clicking like
+[52:00] subscribe something nice down below all
+[52:03] those things help us with the algorithm
+[52:05] it really truly blesses us and and
+[52:07] that's the way YouTube set it up folks I
+[52:09] don't understand it all but that's the
+[52:11] way it happens so but we always want to
+[52:14] uh tell you when we close this broadcast
+[52:16] this little V YouTube video today we
+[52:18] want to say put a smile on your face and
+[52:21] a song in your heart because Jesus loves
+[52:24] you and we love you we truly do we pray
+[52:26] for you my wife my kids we pray for you
+[52:29] we pray for every single one of you that
+[52:31] God it becomes real to you that you have
+[52:34] a relationship with him and that you
+[52:37] would seek him and you would know him
+[52:38] and you would find him and it would be
+[52:40] real to you not some religious thing but
+[52:43] a relationship we pray for you to have
+[52:46] relationship with the father today not
+[52:49] not
+[52:50] religion religion stinky relationships
+[52:53] fresh a new wine and a new Wine's today
+[52:57] God bless you all and we'll see you soon
+[52:59] bye-bye
+~~~

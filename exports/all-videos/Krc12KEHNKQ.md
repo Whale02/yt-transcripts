@@ -1,0 +1,694 @@
+# Prophetic Warning - Re visiting about the water supply for America
+
+**视频**: https://www.youtube.com/watch?v=Krc12KEHNKQ
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/Prophetic Warning - Re visiting about the water supply for America [Krc12KEHNKQ].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 606；**章节数**: 7；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-01)
+- [02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-02)
+- [03. 08:00–11:59 · 物资、能源与供应链、预言、梦境与异象](#section-03)
+- [04. 12:00–15:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-04)
+- [05. 16:00–19:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-05)
+- [06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
+- [07. 24:00–27:02 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] well I had something else I wanted to
+[00:01] tell you all um you know I I've been
+[00:04] praying about I told you all about two
+[00:06] or three videos ago that I was trying to
+[00:09] do the AI to uh translate the language
+[00:14] to go and and do videos uh for uh other
+[00:19] other countries you know like Russia and
+[00:21] France and and all of them and be able
+[00:23] to translated into those languages well
+[00:26] I had some people reach out to me
+[00:27] everything and and they were charging a
+[00:29] lot of money and and so I was asking the
+[00:31] Lord I said Lord I give me an idea so I
+[00:34] I started uh just praying the spirit
+[00:36] over praying on the spirit over and just
+[00:38] asking the Lord you know because I know
+[00:39] it's it's on my heart to reach these
+[00:42] other nations for Jesus and but but the
+[00:46] language bear barrier and so um I had my
+[00:50] son start studying it you know my son's
+[00:52] pretty smart so actually really smart
+[00:54] like his mother and so
+[00:57] um he he said dad I founded on this and
+[01:01] they they charge uh by the minute to to
+[01:04] every minute you do it but they match
+[01:06] your lips and everything cuz some of it
+[01:08] is kind of hokey and it makes it's like
+[01:10] uh like when you're watching those old
+[01:12] Chinese fighting movies you know that
+[01:14] the guy's talking and then a couple
+[01:15] minutes later his lips are moving or
+[01:17] whatever and it looks bad so I was like
+[01:19] oh I don't want that that looks cheesy I
+[01:21] I I want it to be like like like I'm
+[01:24] really speaking you know and so he found
+[01:27] one and everything and it and so long
+[01:30] story short you know uh we're going to
+[01:32] start out with um the Russian Channel
+[01:35] first and it's I think it's like going
+[01:37] to be about five grand to do the Russian
+[01:39] Channel and then we're going to do
+[01:41] another the the Spanish Channel and it's
+[01:43] another five grand so you know as the
+[01:45] Lord provides or whatever I'm just
+[01:48] believing that I'm going to have all
+[01:49] these channels I believe with all my
+[01:53] heart that that we can reach these
+[01:55] people I I told Pastor Steve about it
+[01:57] and he was really excited uh Pastor
+[02:00] Steve calani and um he I I don't know he
+[02:03] he act like he's going to try to do it
+[02:04] for his stuff because he was one man
+[02:07] does it speak Tai do they have Tai and I
+[02:09] was like yeah Pastor I said I I believe
+[02:11] they do and so my son found it over
+[02:13] there and then um was it Portugal you we
+[02:16] were talking about Portugal Portuguese
+[02:18] Portuguese yeah Portuguese and um just a
+[02:20] lot of languages that are that are these
+[02:22] people need Jesus so um you know they
+[02:26] don't they don't have the people
+[02:27] preaching like this over there to them
+[02:30] America we take all this stuff for
+[02:31] granted I really truly believe that
+[02:33] there's a lot of hungry desperate people
+[02:36] that don't get the gospel like we do and
+[02:38] so if we can reach them through a short
+[02:41] or if we could reach them through a
+[02:42] YouTube video and they give their heart
+[02:44] to Jesus then we did our job I want I
+[02:48] want he said if you preach the gospel
+[02:50] throughout the whole world and then the
+[02:52] end will come telling them the truth we
+[02:54] got to tell the people uh that Jesus is
+[02:57] coming that all the way from the big big
+[03:00] uh continents the little Islands the all
+[03:03] the little Islands you
+[03:05] know if they speak a different language
+[03:07] over there then they need to hear the
+[03:09] gospel too I don't know the Philippines
+[03:12] or whatever I just um I just I was
+[03:16] excited about it you know to see what
+[03:17] the Lord opened a door uh through this
+[03:21] AI technology translating these videos
+[03:24] like this you know and like I said I I
+[03:26] didn't feel a peace about some of these
+[03:28] other people I feel like they're just
+[03:29] trying trying to use my platform that
+[03:31] the Lord's blessed me with to try to
+[03:33] make money off of me and I and I just
+[03:36] don't I don't trust it I just felt a
+[03:38] caution a lot talking to and and I
+[03:41] appreciate you know and it's not saying
+[03:43] every one of you that's reached out to
+[03:44] me had an bad bad motive but there was a
+[03:48] I had a lot of emails and so just
+[03:51] praying and saying Lord I I who do I go
+[03:53] with and I didn't feel peace about going
+[03:54] any direction we're going to go our own
+[03:56] Direction with with with my my son is
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:00] found and and uh like I said as the Lord
+[04:03] provides I'm going to do it and I'm
+[04:05] excited about it but I just wanted to
+[04:06] tell you all get ready to be looking for
+[04:11] uh the um Russian Channel and if you
+[04:13] know anybody that speaks Russian or or
+[04:17] Spanish and they have a problem with
+[04:19] English uh tell them to go over there
+[04:22] for me you know tell them to like And
+[04:24] subscribe and listen to the word because
+[04:26] I'm going to put each video that I've
+[04:28] made over there and so and I'm redoing
+[04:31] them because uh I think I do better job
+[04:34] than I when I first started uh cuz it's
+[04:37] just taking time but God bless you all
+[04:39] and so let's get back to the message hey
+[04:42] good morning family how are y'all doing
+[04:45] today um I have some things that are on
+[04:47] my heart again but I but I have you know
+[04:51] I was I was sitting I was praying last
+[04:52] night and I and and I want I want to um
+[04:57] come out and and and talk to you all
+[04:58] about a video that I made about eight
+[05:01] months ago you know I just it was about
+[05:04] nine months ago and um I had an open ey
+[05:08] Vision like I always do when I'm praying
+[05:10] and uh I I'm trying to remember exactly
+[05:13] if this was a dream or a
+[05:17] vision I believe it was a vision
+[05:23] um this was one of the most serious
+[05:25] Visions I'd had uh in that I ever
+[05:30] remember you know I'm just saying
+[05:34] and back then whenever I gave the word
+[05:38] it it seems so out there like how is
+[05:41] this going to take place this was nine
+[05:43] months ago it's like last summer like
+[05:44] last July or some we somewhere around
+[05:47] there and the and so I'm just going to
+[05:49] get out go out I'm just going to come
+[05:52] out and just talk about this again I
+[05:55] want I want to rehash this you know this
+[05:59] was something that uh like I said it it
+[06:02] it shook me and and it was one of the
+[06:05] first big warning visions that I came on
+[06:09] here and warned you all about
+[06:12] so this was I saw uh men that were
+[06:18] Middle Eastern they look like Al-Qaeda
+[06:20] they had Al-Qaeda outfit like white um
+[06:24] things on their head with these you know
+[06:27] cuz alqaeda always had white outfits on
+[06:29] Isis had black and so uh and so that's
+[06:33] why I just thought it was Al-Qaeda it
+[06:34] could not have been I don't know they
+[06:36] had white outfits on and they came
+[06:38] across the southern border and like I
+[06:41] said this is something that was clear
+[06:44] back last summer whenever and so I so
+[06:47] I'm just going to go with this and just
+[06:48] tell you
+[06:52] so they came across the border and I I
+[06:55] seen them come up to a water facility
+[06:59] and they had a vial of this stuff in
+[07:02] their hand and I saw them take out that
+[07:07] vial and they had a measuring thing and
+[07:10] they measured it and they poured it into
+[07:13] the drinking water and I remember there
+[07:16] was a massive fence it looked like a
+[07:20] chain link fence that was that had Bob
+[07:23] wire all at the top and it had right
+[07:26] like warnings on the uh gate not to
+[07:28] enter in this is private property you
+[07:31] know you're not able to go in there and
+[07:33] I saw these men break into this facility
+[07:38] and they dumped the stuff just a little
+[07:41] bit into the water it didn't take a lot
+[07:46] whatever this was
+[07:49] and I it was like like like a like a
+[07:52] tablespoon like I'm talking about very
+[07:55] minimal whatever this was in this little
+[07:58] vial and all of a sudden the vision
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 物资、能源与供应链、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：物资、能源与供应链、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:02] switched over to Children vomiting
+[08:08] profusely and they were all very sick
+[08:11] and I could see them uh uh like the span
+[08:15] of time I could see the mothers were
+[08:18] trying to comfort the children and they
+[08:21] were bent over throwing up also and I
+[08:24] saw the fathers try was was com
+[08:27] consuling the mother and he was vomiting
+[08:32] the children passed away
+[08:35] first then the mothers and then the
+[08:37] fathers the bigger you were it seemed
+[08:40] like it didn't um it didn't affect you
+[08:44] as quickly as it did the children does
+[08:46] that me okay and
+[08:49] so then I was shown a uh a map I saw
+[08:55] Atlanta
+[08:57] Georgia I saw Alabama then I saw
+[09:00] Mississippi and then I saw uh uh uh
+[09:05] Louisiana and then it went down to
+[09:07] Houston area and all of this area was
+[09:12] was everybody was freaking out because
+[09:15] the people I don't know and like I said
+[09:16] this is this is this is like four or 500
+[09:19] miles worth of of land here more or more
+[09:22] you know probably that was thous miles I
+[09:24] proba probably not probably about 7 800
+[09:26] miles from Houston to Florida I mean
+[09:30] it's it's a long ways whatever it is and
+[09:34] um there was people throughout all all
+[09:38] that area that had so they might these
+[09:41] men must have had a poison a lot of
+[09:43] different areas they were passing away
+[09:46] and so I saw the news and everyone was
+[09:51] telling the people do not drink the
+[09:54] water well when this happened they uh
+[09:58] put a man date out for everybody not to
+[10:00] drink the water on on the news so from I
+[10:03] could see the line from from from the
+[10:07] Gulf Coast all the way up through the
+[10:10] states to about
+[10:11] Tennessee everybody was freaking out not
+[10:15] drinking the water so they went to go to
+[10:19] the to the Walmarts the targets the
+[10:21] wherever they could find bottle water
+[10:24] but there was not enough bottle water to
+[10:28] to to help everybody because there was
+[10:31] literally millions of people that needed
+[10:33] water and it was I remember this in this
+[10:36] the Lord showed me that Houston was hit
+[10:38] the hardest but Houston didn't have
+[10:41] anybody that was poisoned they were just
+[10:44] told on the media not to drink the water
+[10:48] it was from Louisiana
+[10:51] over that the people were were were sick
+[10:55] okay but it wasn't Houston but Houston
+[10:57] was told not to drink it but everybody
+[11:01] was was freaking out because they
+[11:02] couldn't get it so people were scared to
+[11:04] drink the water in their homes and so
+[11:08] people were dying of thirst because they
+[11:11] couldn't if you uh they couldn't get the
+[11:15] water so and there was too M too much
+[11:17] for them to I don't know I don't
+[11:19] understand why people were dying of
+[11:20] thirsts I'm be real with you all now
+[11:22] whenever I'm thinking about it because
+[11:23] they could have maybe gotten the car and
+[11:25] drove somewhere away way way away to get
+[11:27] some water but they were they weren't in
+[11:29] the in the the thing the Lord showed me
+[11:33] people homeless people people like that
+[11:34] they they were dying of thirst because
+[11:36] they didn't it was hot and they didn't
+[11:38] have enough water to drink so um just
+[11:42] telling you what the Lord showed me so I
+[11:44] saw people with Wells Farmers people
+[11:47] like that that that were getting the
+[11:49] water anybody had a well people were
+[11:51] trying to help other people out to get
+[11:53] the water for for them to fill up
+[11:55] containers or whatever to sustain life
+[11:58] okay and it was it was anybody who had a
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:01] well was was okay but the people who had
+[12:04] had City water was in trouble and so and
+[12:07] there was not enough water so people
+[12:08] were bringing in water from everywhere I
+[12:10] could see it okay so uh then there were
+[12:15] so many people that had perished and
+[12:18] went home uh that I saw white bags that
+[12:23] look like massive trash bags and they
+[12:26] were zipping the bags up of course I saw
+[12:30] it was like they had they had hazmat
+[12:32] suits on these people were that were
+[12:34] working I probably was FEMA or somebody
+[12:37] I don't
+[12:38] know zipping the people up and putting
+[12:41] them inside the the bags and and they
+[12:43] were stacking them all on top of each
+[12:47] other and they made a massive grave
+[12:50] humongous massive grave there was Fields
+[12:54] like football field huge and they
+[12:57] stacked all the people in that
+[12:59] cuz there wasn't there was too many
+[13:01] people to want to perish so they could
+[13:04] not um they could not uh bury them like
+[13:08] we would normally do with a gravide with
+[13:10] their family or whatever it was like
+[13:12] they all they put them all in there and
+[13:15] they had one massive grave and they put
+[13:19] a a massive Eagle an American Eagle on
+[13:24] top of this as a memorial similar to uh
+[13:27] the World Trade Centers and all that how
+[13:29] you have a memorial there and it shows
+[13:31] like the light shining up and things
+[13:34] like that you know this was a major uh
+[13:37] catastrophic event that they put the a
+[13:40] massive Eagle over that uh that that
+[13:44] grave site and it would looked like it
+[13:46] was like some kind of uh stone with a
+[13:49] marble it was beautiful Eagle looking
+[13:52] thing with and it had uh the uh Memorial
+[13:55] writing it had like a huge plaque and
+[13:57] you could I could see it in the vision
+[13:59] but I could see you know they made it
+[14:01] into a memorial area and and I believe
+[14:03] this was in
+[14:05] um I want to say it was in Alabama but
+[14:08] it was a massive
+[14:11] place that was a a a uh a memorial site
+[14:17] for the all these people that had went
+[14:19] home and so um you know I come on here
+[14:23] like I said y'all I I I I see
+[14:27] prophetically I know the Lord warns me
+[14:30] about things and he warns me of things
+[14:33] that we can stop through intercessory
+[14:35] prayer we have authority over all over
+[14:39] all of it I'm going be real with you I
+[14:41] believe with all my heart God gave us
+[14:43] Authority in this earth until we're
+[14:46] moved out of here and we're taken out
+[14:48] with the Rapture of the church you know
+[14:50] what I believe we can we can change a
+[14:52] lot of things a lot of things you know
+[14:55] even brother Hagen used to talk about
+[14:57] that and saying you know it that the
+[14:59] Lord was holding the church responsible
+[15:01] for a lot of things that we would he
+[15:03] would see and and and Jeanie Wilkerson
+[15:06] or whoever would see prophetically um
+[15:09] that through intercessory prayer that we
+[15:11] have the power to change this stuff and
+[15:14] so you know what I I just felt
+[15:17] inside again through how through the
+[15:22] eclipse yesterday or or the day before
+[15:24] whatever when we put this video out um
+[15:30] and the
+[15:31] acceleration the warnings of of of what
+[15:34] I feel of of like the earthquake and the
+[15:37] New Madrid fault and the things that
+[15:39] I've seen the EMP attack if anybody
+[15:42] hasn't seen that video I I made about an
+[15:44] EMP attack you know I I'm able to talk a
+[15:47] lot better now that I that I'm getting
+[15:50] used to talking to the camera when I
+[15:52] first started it was really hard for me
+[15:54] but I but I feel like I'm getting a
+[15:55] little better at it um to to go the
+[15:59] glory it was rough my son took hours
+~~~
+
+<a id="section-05"></a>
+## 05. 16:00–19:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[16:01] trying to edit my stuff to make it so I
+[16:03] didn't look like a
+[16:05] bozo but I go you know I
+[16:09] um I really feel in my heart that we're
+[16:13] we we not that this could happen right
+[16:16] now and I'm not trying to Spook
+[16:18] everybody but I'm just saying it looks
+[16:20] more AP now than nine months ago if you
+[16:23] look at where the state of America is
+[16:26] with all the things that are transpiring
+[16:28] right now
+[16:30] I just want people to be guarded and and
+[16:32] and listen to the voice of the Lord pray
+[16:36] without ceasing seek his face daily like
+[16:40] I said and if you feel in your heart to
+[16:42] go and buy water for your family then
+[16:45] buy water for your family but it was
+[16:47] just a warning that was very strong on
+[16:50] me at the
+[16:52] time to pray for the people that they
+[16:54] would hear the Lord and that they would
+[16:57] uh uh uh that we could stop this you
+[17:00] know I get tired I get tired of all the
+[17:03] Doom and Gloom but I feel in my heart
+[17:05] you know we're in that time and season
+[17:08] in in in the world to warn about things
+[17:11] you know about the you know and I warned
+[17:13] you all about the the shootings at
+[17:15] Coachella that's coming up in a couple
+[17:17] of days you know uh the that was the
+[17:20] warning I got this time last year and
+[17:22] the Lord told me said pray over this
+[17:25] this is a plot from the enemy and I told
+[17:27] you about the the George Soros and these
+[17:29] people over there I saw bad men over in
+[17:32] Europe having a meeting with the devil
+[17:34] and I I try to I I see this stuff y'all
+[17:37] and I'm telling you I see I see a lot of
+[17:39] stuff the Lord warn me and and tell me
+[17:41] we can stop this stuff through prayer
+[17:43] that but I but I'm bringing up a prayer
+[17:45] force that I that I believe I have a lot
+[17:49] of intercessory prayer people that
+[17:51] follow me and listen to this channel
+[17:53] that know how to pray that know how to
+[17:55] take their Authority that know that
+[17:57] they're seated at the right hand they're
+[17:59] seated in the heavenlies not at the
+[18:00] right hand Jesus sit at the right hand
+[18:02] but we are seated with him in the
+[18:04] heavenlies far above all principalities
+[18:06] and powers and might we have we have
+[18:10] authority and we can stop things and I
+[18:13] believe where there's there where where
+[18:15] there is a a group of us praying
+[18:17] together and interceding for things we
+[18:19] have even more it's like you know
+[18:21] there's there's there's power and
+[18:23] numbers basic what I'm trying to tell
+[18:26] yall so like I said if that wit you to
+[18:29] pray about that too I I brought it up
+[18:31] before nine months ago and you know what
+[18:34] it just felt when I was sitting on the
+[18:35] couch and I thought you know
+[18:37] what I had forgotten about that and it
+[18:41] brought brought up in my spirit again
+[18:43] and I was sit I was like Lord what
+[18:45] happened with that did we stop that or
+[18:48] is this something that we could uh that
+[18:51] that could still potentially manifest
+[18:53] and happen you know and I just thought
+[18:55] well I'll go on here and talk to y'all
+[18:57] about it you know and I Want to Be
+[19:00] watchful in these days not to stir up
+[19:03] fear not to be all freaked out but to
+[19:07] but to be be be vigilant for we know the
+[19:12] adversary the
+[19:14] adversary roams the Earth like a roaring
+[19:17] lion seeking whom he may devour and I
+[19:21] believe he's not going to devour us we
+[19:24] we we're not going to allow him to
+[19:25] devour devour our families because we
+[19:28] are
+[19:29] uh King's kids and Jesus lives on the
+[19:32] inside of us and we're going to put up
+[19:33] with that so this just being real with
+[19:36] y'all okay so let us pray father I just
+[19:39] thank you for every single person that
+[19:42] is represented on this YouTube channel
+[19:45] that follows me every day father I thank
+[19:48] you Lord that the covering is over their
+[19:50] families that father that we're always
+[19:52] in the right place at the right time
+[19:55] then no weapon formed against us is
+[19:58] going to Prosper you said in your word
+~~~
+
+<a id="section-06"></a>
+## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:00] father a thousand shall fall at our side
+[20:03] and 10,000 at our right hand but it will
+[20:06] not come nigh us father I thank you Lord
+[20:10] that we can drink any deadly thing and
+[20:12] it will not harm us we can eat any
+[20:14] deadly thing and it will not harm us
+[20:17] father I thank you Lord that's the kind
+[20:19] of God we serve that you protect our our
+[20:22] our our coming and our going our
+[20:25] everything you've got it your angels
+[20:28] bear us up in their hands lest we Dash
+[20:30] our foot against the stone and I believe
+[20:33] with all my heart father that you said
+[20:35] in your word that we have authority and
+[20:38] we can tread on serpents and SC
+[20:40] scorpions and nothing shall by any means
+[20:43] hurt you and I believe that and not even
+[20:46] poison no biological weapon no nothing
+[20:50] shall touch any believer in Jesus name
+[20:54] and father we thank you Lord that
+[20:56] whatever the devil's
+[20:57] planning
+[20:59] we see in advance and we know and we
+[21:02] stop his his his tactics we bind the
+[21:05] devil off of our families and we say in
+[21:08] the name of Jesus you will not touch us
+[21:12] we are covered by the blood of Jesus
+[21:16] from the top of our head to the soles of
+[21:18] our feet I thank you Lord that you said
+[21:21] in your word that that that that that
+[21:24] that we are the victors we are Victors
+[21:27] we are Victory overcome
+[21:29] we have overcome him by the blood of the
+[21:32] lamb and by the word of Our Testimony we
+[21:35] believe it father we believe that we
+[21:38] have victory victory victory in Jesus
+[21:42] Jesus Paid the price for us and father I
+[21:46] thank you Lord that we're not going to
+[21:47] be in fear we're not going to be in
+[21:49] worry we're not going to be all stressed
+[21:52] out and oh no what do we got to do now
+[21:54] no no no no no we're at peace because
+[21:57] you said you have perfect perfect peace
+[21:59] whose mind is stayed on thee because we
+[22:01] trusteth in you father we trust you we
+[22:04] trust you that you have our future you
+[22:07] have us you have us in your hand you're
+[22:10] watching over us you've got us you know
+[22:13] every need we have you know what we know
+[22:16] about the bills we have coming you know
+[22:19] about
+[22:20] um all of it you know it all Lord and
+[22:24] you have everything all under control
+[22:27] concerning us
+[22:29] father we just give you praise and glory
+[22:31] and honor for that father that just
+[22:33] takes a load off our shoulders knowing
+[22:36] that you've got every bill paid you've
+[22:39] got our car payments paid you got our
+[22:41] water our electric you've got our house
+[22:43] you've got it all you have a cattle on a
+[22:46] thousand hills and you provide all our
+[22:49] needs according to your riches and Glory
+[22:51] by Christ Jesus father I thank you Lord
+[22:54] for every single person here that's
+[22:56] believing for jobs and jobs or whatever
+[22:59] they're believing for I pray father for
+[23:02] Supernatural increase on their houses I
+[23:05] pray over their marriages father that
+[23:07] their marriages are strong I bless their
+[23:10] marriages and I thank you Lord that
+[23:12] you're given them uh uh spouses that
+[23:15] love you that are on fire for you that
+[23:17] father that you're turning their
+[23:19] circumstances around for unsaved spouses
+[23:22] father I thank you Lord that you're
+[23:24] softening the hearts of these people
+[23:26] right now in the name of Jesus father
+[23:28] father I thank you Lord that every devil
+[23:30] in hell that's tried to block that
+[23:32] person from getting born again you are
+[23:35] bound in the name of Jesus now you get
+[23:37] out of there and leave them alone we
+[23:40] call their children saved they we call
+[23:43] their children filled with the Holy
+[23:45] Ghost their spouses filled the Holy
+[23:48] Ghost and we thank you Lord we thank you
+[23:51] Lord for the saving of our our family
+[23:55] members that every single one of them
+[23:57] would know you as Lord Lord and
+[23:59] Savior father we thank you Lord for your
+~~~
+
+<a id="section-07"></a>
+## 07. 24:00–27:02 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[24:02] for all that you provided for us we
+[24:03] thank you Lord for your for your blood
+[24:05] we thank you Lord for your goodness and
+[24:07] your mercy we thank you Lord for your
+[24:09] healing power that flows on the inside
+[24:11] of us that we don't have to have
+[24:14] sickness and disease we don't have to
+[24:16] have we're not bound by by by any kind
+[24:19] of demonic strongholds father you paid
+[24:22] the price for us to walk in Victory in
+[24:26] every area of our life
+[24:29] father I thank you Lord for healing and
+[24:31] wholeness and wellness over every single
+[24:33] person who's believing for a healing
+[24:35] father whether from the from from
+[24:37] something really big to something really
+[24:39] small It's all under the blood it does
+[24:42] not matter how big they think it may be
+[24:45] or how small it is Jesus Paid the price
+[24:48] for them to walk in Victory and I thank
+[24:51] you Lord for your healing over their
+[24:52] bodies I call them healed and whole and
+[24:55] well and creative Miracles even if they
+[24:58] need new body parts like Joyce is always
+[25:00] asking for a brand new kidney father I
+[25:03] thank you Lord for the healing over
+[25:05] Joyce's kidney father I thank you Lord
+[25:07] for the people that are believing for
+[25:09] body parts for new pancreas new Hearts
+[25:12] new livers new all of it brains whatever
+[25:15] they may need uh father nothing is too
+[25:19] big for you I've seen it all Lord I've
+[25:22] seen you do the exceedingly abundantly
+[25:25] above all that we dare ask or think
+[25:29] I know that you're still doing Miracles
+[25:31] today I know you're still taking care of
+[25:34] the sick
+[25:35] today you're the same yesterday today
+[25:38] and
+[25:39] forever you've never left us and you've
+[25:42] never forsaken us father and I thank you
+[25:45] Lord right now in Jesus name we give you
+[25:49] all the glory honor and praise for it
+[25:52] and everybody say amen amen and amen we
+[25:57] thank you for watching our videos you
+[26:00] see you subscribe we appreciate you all
+[26:03] subscribing subscribe to our videos if
+[26:05] you could click the notification Bell it
+[26:07] really blesses us to help with the
+[26:09] algorithms on YouTube you know yesterday
+[26:12] I did that thing about the temple and I
+[26:15] was telling everybody that and then
+[26:17] YouTube didn't like what I said and they
+[26:20] muted me when I was talking so I had to
+[26:22] end it so that was very annoying I I
+[26:25] shouldn't have brought up the plague it
+[26:26] was my it was my should have done all a
+[26:29] live thing it was my deal I I should
+[26:31] have thought that through but this only
+[26:32] second time I've ever been live before
+[26:34] but I was like whatever you know the
+[26:37] world but um hopefully that video
+[26:40] blessed you I'm sorry I cut it short but
+[26:43] uh I just want to say thank you all God
+[26:45] bless you all and I hope this video
+[26:48] blessed you all today uh kind of prepare
+[26:50] you to to to look be on Lookout of
+[26:53] things but put a smile on your face and
+[26:55] a song in your heart Jesus love loves
+[26:58] you so much and we love you God bless
+[27:00] you all and we'll see you next time have
+[27:02] a blessed day
+~~~

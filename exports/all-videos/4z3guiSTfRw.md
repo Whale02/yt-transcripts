@@ -1,0 +1,999 @@
+# One of the most important prophetic word that was ever given ｜ are you ready for the return of Jesus
+
+**视频**: https://www.youtube.com/watch?v=4z3guiSTfRw
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/One of the most important prophetic word that was ever given ｜ are you ready for the return of Jesus [4z3guiSTfRw].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 878；**章节数**: 10；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-01)
+- [02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-02)
+- [03. 08:00–11:59 · 预言、梦境与异象、地震、风暴与灾害](#section-03)
+- [04. 12:00–15:59 · 物资、能源与供应链、教会、复兴与信仰](#section-04)
+- [05. 16:00–19:59 · 教会、复兴与信仰、预言、梦境与异象](#section-05)
+- [06. 20:00–23:59 · 教会、复兴与信仰、预言、梦境与异象](#section-06)
+- [07. 24:00–27:59 · 教会、复兴与信仰、预言、梦境与异象](#section-07)
+- [08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-08)
+- [09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
+- [10. 36:00–38:37 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] hey good morning family how are y'all
+[00:02] doing this will probably be one of the
+[00:05] most important messages I've ever given
+[00:08] on this platform ever so I really want
+[00:11] you to listen and listen carefully I'm
+[00:13] going to just start it out like this you
+[00:15] know I gave you all my wife and I we
+[00:17] gave you the the the list of the readout
+[00:21] of that visitation from that man and and
+[00:24] I've tried to find him and I don't know
+[00:26] if he's still uh alive or if he went on
+[00:29] to be home to go home with the Lord but
+[00:32] um he had another uh visitation clear
+[00:35] back in 2014 the same
+[00:38] year the same year that I had
+[00:42] mine he went to
+[00:44] tribulation and the Lord showed him
+[00:48] tribulation and every single thing that
+[00:52] he
+[00:53] saw he saw different things than what
+[00:56] the Lord showed me which is absolutely
+[00:59] amazing
+[01:01] but they go like a puzzle putting
+[01:03] together I'm going to have my wife read
+[01:06] his visitation and it's a dream he had
+[01:08] he had a dream now I believe I had an
+[01:12] out-of- body experience I don't know I
+[01:15] was I've haven't been able to speak to
+[01:16] this man but I'm going to tell you all
+[01:18] it's like you can take a puzzle piece of
+[01:21] of somebody who had the other puzzle
+[01:23] pieces and they and you had some of the
+[01:25] puzzle pieces and you can put them
+[01:27] together and make a whole puzzle I know
+[01:29] there's prob somebody out there that has
+[01:31] more puzzle pieces to the puzzle even
+[01:33] about the asteroid I told you all about
+[01:35] the asteroid coming and hitting Miami
+[01:38] and um in the Atlantic Ocean and coming
+[01:40] and wiping out the islands and and um
+[01:43] and uh coming the water coming Inland
+[01:46] into the east coast and whenever I told
+[01:48] you the Lord I heard the Lord said whoo
+[01:52] America whoo America I have favored you
+[01:55] and I have loved you Above All Nations
+[01:58] and and and I have Pro prospered you
+[02:00] Above All Nations and and I gave that
+[02:03] word and I put it down there and it was
+[02:04] just a couple months ago it's almost
+[02:06] like you know the Lord the Lord I wasn't
+[02:08] supposed to find this word until now
+[02:11] because it would have it would have in
+[02:12] influenced my word you know is am I
+[02:15] hearing this or am I hearing the word
+[02:16] from this man that's why this has just
+[02:19] been so Divine Theo it has been
+[02:22] so uh it it's just like a clock it's
+[02:25] perfect and it's like finding it right
+[02:28] now it just it's shook me y'all because
+[02:31] whenever I hear the Lord I'm telling you
+[02:33] I I hear the Lord and whenever I tell
+[02:36] you I have a visitation from the Lord
+[02:38] Jesus and I see him face to face there's
+[02:40] nothing that I've ever exaggerated on it
+[02:43] I I I speak exactly what he says to tell
+[02:46] you all that's why it shook me so much
+[02:48] this visitation from this man having
+[02:51] similarities even things and and even
+[02:53] about the the uh the uh the boat and and
+[02:58] the uh EMP and everything everything
+[03:00] he's seen it all he even said that the
+[03:03] the you'll hear about the the earthquake
+[03:05] that I told you all that was going to
+[03:07] happen in Portland Oregon he saw it and
+[03:10] and it's it's amazing the detail that he
+[03:13] brings and what I'm trying to tell you
+[03:14] all you'll go back and you can listen to
+[03:16] some of my videos of what the Lord spoke
+[03:18] to me and he'll even say whenever he
+[03:20] he's in this that he doesn't know if
+[03:22] this is pre-trib or or before the
+[03:25] tribulation starts or um or during the
+[03:28] tribulation and what I'm telling you I
+[03:31] don't either I I all I know is I saw
+[03:34] this stuff I don't know a time frame and
+[03:36] I know that it that is it is a a spank
+[03:39] it's a judgment and it's and a wake up
+[03:43] and I I personally believe we're still
+[03:45] here for some of this so but he he
+[03:48] didn't know so I'm going to link my
+[03:50] videos in the um in the description and
+[03:53] put them on there so you all can find
+[03:54] them easily the words that I've given
+[03:57] that
+[03:58] go just like like a mirror from what
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:01] this man saw and I like I said I don't
+[04:03] even know how old this man is but he was
+[04:05] a professor at U my wife was at or you
+[04:09] and she when she was going to school
+[04:11] there she never knew him as a professor
+[04:13] but I'm just saying uh so I don't know
+[04:16] like I said I don't know if he's one
+[04:17] home to be with the Lord or whatever but
+[04:19] I just want to tell you all this so here
+[04:22] we go we're going to go straight to my
+[04:23] wife and she's going to read this uh
+[04:26] visitation please listen to the whole
+[04:28] thing it's very serious Hi family um I
+[04:32] just want to take a minute and say thank
+[04:33] you so much for um all the encouragement
+[04:36] from the last time I read um I take it
+[04:39] very seriously um reading things from
+[04:41] the Lord and I just really wanted to do
+[04:43] um honor to God through it so I really
+[04:46] appreciate all the kind comments we love
+[04:48] you all so much and so I will just start
+[04:51] this this week I had a dream it was a
+[04:54] terribly frightening dream in it I saw a
+[04:58] huge angel standing suspended in the air
+[05:01] over New York
+[05:02] Harbor it looked so large that it
+[05:05] covered the night sky his body was clad
+[05:09] in golden armor as if he was going to
+[05:12] war his face and entire being were so
+[05:15] bright that I could not gaze up at him
+[05:18] for long white beams of light seemed to
+[05:21] radiate outward from him in all
+[05:23] directions he was standing over the
+[05:26] Statue of Liberty it was night but I
+[05:29] could hardly see the lights around him
+[05:31] coming from New York City as he blazed
+[05:34] so brightly with Divine Light he reached
+[05:37] for his belt that was covered with a red
+[05:40] sash around his midsection and Drew out
+[05:42] his sword it was so massive it blazed
+[05:46] with light and fire all around it it
+[05:49] looked at least 100 ft long I have never
+[05:53] felt such fear when I saw an angel
+[05:56] before I just knew this Mighty Waring
+[05:59] spirit had Authority from the very
+[06:01] Throne of God he had a grim expression
+[06:04] as he held this mighty sword over his
+[06:07] head with both hands I could see that he
+[06:09] was poised to hit the Statue of Liberty
+[06:12] and cleave it in two I trembled and
+[06:14] tried to hide but the angel was looking
+[06:17] directly at me and I knew there was
+[06:19] nowhere to go that he would not see me
+[06:23] then he spoke his voice was like thunder
+[06:27] and echoed throughout the whole Harbor
+[06:30] he said how long will you refuse to
+[06:33] humble yourself oh
+[06:35] America you have been weighed in the
+[06:38] balances of God and found wanting your
+[06:41] beginning was great and Noble but your
+[06:44] end shall be disgrace and destruction
+[06:47] okay hold on right here did you hear
+[06:49] hear that again read that again how long
+[06:53] will you refuse to humble yourself oh
+[06:55] America you have been weighed in the
+[06:57] balances of God and found wanting your
+[07:00] beginning was great and Noble but your
+[07:03] end shall be disgrace and destruction
+[07:06] that's exactly the word the lord gave me
+[07:08] the to my son can vow for it's to the te
+[07:12] y'all there's it was it was identical
+[07:15] there's no word missing the from what
+[07:18] the lord gave me and I have it on
+[07:19] recording but I have weighed you in the
+[07:21] balance and you are and and I and you
+[07:23] are lacking he kept saying he said this
+[07:25] to me three times I have weighed you in
+[07:28] the balance and I have and I have and
+[07:30] you are lacking he was quoting Daniel to
+[07:32] me thus saith the Lord of Heaven's
+[07:35] armies the Lord of hosts time is running
+[07:39] out the bowls of my wrath are full of my
+[07:42] Fury and judgment they shall be poured
+[07:46] out upon you you shall drink them down
+[07:49] to the drgs every drop I have come to
+[07:53] you day and night pleading with you to
+[07:55] return to me for over 100 years I I am
+[07:59] merciful and longsuffering it brings me
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 预言、梦境与异象、地震、风暴与灾害
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:02] no joy to judge you but you have
+[08:05] hardened your hearts scoffed at my
+[08:08] warnings through my prophets and my holy
+[08:10] servants I brought you from nothing and
+[08:13] exalted you oh America higher than any
+[08:16] other Nation but now you have fallen
+[08:19] lower than Sodom you have sinned greater
+[08:21] than Egypt you have become prouder than
+[08:24] Babylon and Persia you have become more
+[08:27] selfish than Rome you have exalted
+[08:30] yourself in your own wisdom higher than
+[08:33] Greece you have more idols and high
+[08:36] places of idolatry and luxury than any
+[08:38] Gentile Kingdom in history your
+[08:41] beginning was pure and great but now the
+[08:44] stench of your sin and filth fills my
+[08:46] nostrils I shall cut you in pieces and
+[08:49] you shall reap the Harvest of wrath from
+[08:51] what you have sown you shall no longer
+[08:54] be the queen of Nations now you shall
+[08:56] bear your shame and become the lowest of
+[08:59] the the Heathen Nations now as AAG you
+[09:02] shall be hackled in hacked in pieces oh
+[09:05] Earth Earth Earth hear ye the word of
+[09:09] the Lord then to my horror that massive
+[09:13] sword came smashing down on Lady Liberty
+[09:16] when it hit the top of her head there
+[09:18] was a blinding flash of light and that
+[09:21] sword split her into two right down the
+[09:23] middle then the sword came again and
+[09:26] again against her it divided her in
+[09:29] pieces as the sword would finish each
+[09:31] strike fires would burst forth I heard
+[09:35] terrible explosions the vision of the
+[09:38] statue ended with an earthquake as it
+[09:41] was hacked into pieces and sunk into the
+[09:44] harbor I was weeping and crying out to
+[09:47] God for Mercy never had I seen the side
+[09:49] of God before I had only really known
+[09:52] the love and goodness of him never had I
+[09:55] seen The Wrath of the
+[09:57] almighty then as if I was watching from
+[10:00] a zoomed in closeup the dream shifted
+[10:03] and I started to zoom outward from New
+[10:06] York Harbor and started traveling in the
+[10:08] air over
+[10:10] America what I saw was horror beyond
+[10:13] anything I have ever
+[10:15] seen I saw the United States seem to
+[10:19] crack in two with a giant earthquake
+[10:21] right down the middle I saw the
+[10:23] southeastern United States covered with
+[10:26] a giant wave of water from the ocean I
+[10:29] saw a massive earthquake that just
+[10:31] seemed to crack off the coast of
+[10:34] California it reminded me of a salting
+[10:37] cracker that just cracked into the great
+[10:40] cities along the west coast just fell
+[10:43] into the ocean all the way from Mexico
+[10:45] up to Alaska and giant waves flooded
+[10:48] Inland until much of the West Coast just
+[10:51] wasn't there it disappeared into the
+[10:54] Pacific Ocean do you all remember that
+[10:56] word that that's exactly what I saw then
+[10:59] I saw three giant rocket missiles that
+[11:02] took off into the air two came from out
+[11:05] of the ocean waters and one came from
+[11:07] Land and traveled a great distance all
+[11:10] of them blew up in the air one two and
+[11:13] three in the upper atmosphere within 5
+[11:15] minutes of each other it was out near
+[11:18] space they were terrible nuclear bombs
+[11:22] but the last one was the biggest and it
+[11:24] created a huge mushroom cloud over the
+[11:26] Midwest part of America then the ground
+[11:30] Shook and everything went
+[11:33] black there wasn't any electric light
+[11:36] coming out of any of the homes then
+[11:38] candles began to be lit in fires and a
+[11:41] little light was seen there were other
+[11:44] nuclear explosions and many people
+[11:46] perished throughout the nation there was
+[11:49] just Twisted Metal and charred debris in
+[11:52] cities that once were tall and Majestic
+[11:55] there was widespread looting and gangs
+[11:58] roaming about everywhere with guns
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:59 · 物资、能源与供应链、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：物资、能源与供应链、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:00] stealing whatever food and supplies they
+[12:02] could find then I saw what looked like
+[12:05] Elite Riot police by the thousands go
+[12:08] into communities and even cities forced
+[12:11] the people out of their homes and
+[12:13] brought into what looked like
+[12:14] concentration camps some but not all of
+[12:17] these police armies were a had light
+[12:21] blue helmets on hundreds of thousands of
+[12:24] people were arrested in this way many
+[12:27] would not cooperate and were just shot
+[12:29] and left dead in their
+[12:31] homes but there were millions of hidden
+[12:35] groups that escaped the first waved of
+[12:37] these dis terrible
+[12:39] disasters Revival broke out and great
+[12:42] evangelists and Prophets and apostles
+[12:45] rose up and began to preach to thousands
+[12:48] outdoors and many were saved and were
+[12:50] born again miracles of provision
+[12:53] multiplications of food and water
+[12:56] astonishing healings occurred millions
+[12:59] of people cried out to God and he heard
+[13:01] and
+[13:03] answered I knew that this was not just
+[13:06] happening in America but the great Tri
+[13:08] tribulation was upon them and all over
+[13:10] the world these calamities were also
+[13:12] taking place I saw multitudes of
+[13:15] tribulation Saints refusing to renounce
+[13:18] Jesus as Lord they were starving many of
+[13:21] them but still refused to take the stamp
+[13:23] on their bodies so they could eat and
+[13:25] live there was what looked like kiosk
+[13:29] that they were that were in every town
+[13:31] they advertised food and water only if
+[13:34] you went inside them and took the
+[13:36] electronic Mark okay freeze mm this is
+[13:40] what I saw remember I told you all they
+[13:42] tried to fake the mark of the beast they
+[13:45] put the they put a mark on their head
+[13:47] trying to put a bruise or a sore on
+[13:49] their forehead or their hand and I try
+[13:51] to tell you all the I saw women and moms
+[13:54] that were so desperate for food and they
+[13:56] want didn't want to take the mark but
+[13:58] they wanted to go to these kiosk and try
+[14:00] to get the food for their children
+[14:03] because they were starving to death so
+[14:05] and so he's talking about those kiosk
+[14:07] right now that's what I told you all
+[14:09] about so I saw multitudes of tribulation
+[14:13] Saints refusing to renounce Jesus as
+[14:15] Lord they were starving many of them but
+[14:18] still refused to take the stamp on their
+[14:20] bodies so they could eat and live there
+[14:23] was what looked like kiosks that were in
+[14:25] every little town they advertised food
+[14:29] and water only if you went inside them
+[14:32] and took the electronic Mark some went
+[14:35] in bowed down to a holographic Movie
+[14:38] images of the Antichrist and were
+[14:40] branded in their hands and foreheads
+[14:43] with an electronic tattoo like stamp
+[14:46] when they came out if they came out they
+[14:49] had a zombie like look their minds and
+[14:52] souls were gone it looked like they had
+[14:55] a spiritual labotomy MH then these
+[14:59] immediately joined the armies of these
+[15:01] police units and were given weapons
+[15:03] after they were fed and drank and rested
+[15:06] in the kiosk they were like robots doing
+[15:08] the antichrist's bidding see and I told
+[15:11] you all about that I said they looked
+[15:13] like they were not there I said it's
+[15:15] like they their DNA changes they're they
+[15:17] don't they're like their minds are gone
+[15:19] they don't cry remember I told you about
+[15:21] the children born in the tribulation I
+[15:23] said I said cuz everybody asked me was
+[15:26] kids in the tribulation no all kids
+[15:29] above below the age of 15 were taken but
+[15:32] if you were born in the
+[15:34] tribulation uh because people are still
+[15:36] having babies these are the children
+[15:38] that would suffer and so because they
+[15:41] were born in that time frame it says woe
+[15:43] to you who give suck in those days okay
+[15:45] the Bible even talks about it so this is
+[15:48] another part he talks about a chip that
+[15:51] that is a a like a tattoo I actually saw
+[15:54] people being injected with some kind of
+[15:57] um microchip and that's why I told you I
+~~~
+
+<a id="section-05"></a>
+## 05. 16:00–19:59 · 教会、复兴与信仰、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[16:00] believe it has to do with neuralink and
+[16:03] so that's the difference between what he
+[16:06] saw and I saw and I did not see a
+[16:07] hologram they were made to worship on
+[16:10] Fridays on the sides of buildings and so
+[16:14] um that was one of the things that I saw
+[16:16] every Friday they were in white outfits
+[16:18] and they were worshiping um the
+[16:20] Antichrist I knew that they were lost
+[16:23] forever but quite a few did not make it
+[16:26] out they were tortured mentally and
+[16:28] physically inside that the kiosk thing
+[16:31] but if they still refused the mark of
+[16:34] the beast there was a laser that shot
+[16:36] through their brain and heart and sliced
+[16:38] their heads off then they were
+[16:41] immediately in inated in incinerated
+[16:44] incinerated sorry nothing but ashes
+[16:49] remained this was the most horrifying of
+[16:52] all it made the Nazi death camps look
+[16:55] like a picnic if that is possible
+[16:58] millions of people were executed in this
+[17:00] way via computer systems automatically
+[17:03] with such precision and efficiency that
+[17:06] I marveled that something like this was
+[17:08] even possible and could take place on
+[17:10] such a large scale the technology was
+[17:13] more advanced than I have ever seen then
+[17:17] I was back looking at that terrible
+[17:19] Angel of the Lord and he said warn
+[17:23] everyone flee from the Wrath to come
+[17:26] repent and turn to Jesus while you still
+[17:28] can pray that you may Escape these
+[17:31] things that are shortly to happen and to
+[17:33] stand in the presence of the Lord these
+[17:36] things are about to take place turn to
+[17:39] God and cry out for Mercy come into the
+[17:42] Ark of Salvation before the doors of
+[17:44] Grace close and it is too late and so in
+[17:47] finishing this up um he had he went to
+[17:51] the Holy Spirit um asking him about uh
+[17:56] if it was pre-trib or or what what what
+[17:59] what he he was asking him basically is
+[18:01] it is it a a a a pre-trib a mid-rib or a
+[18:05] post-trip okay because there's so many
+[18:06] people have a stance on full tribulation
+[18:10] that there that there's so many people
+[18:11] going to go through tribulation so he
+[18:13] was asking the Holy Spirit uh who's
+[18:17] right who's wrong basically what what
+[18:20] what what's the right theology to to
+[18:22] take and this is the word he got from
+[18:24] the Holy Spirit um right after he had
+[18:28] this uh tribulation um uh experience so
+[18:32] here you go finish reading this okay
+[18:35] um so I I went to the precious Holy
+[18:38] Spirit in the word of God and I asked
+[18:39] the Lord I was actually very surprised
+[18:41] at what he told me the holy spirit said
+[18:45] not all of my people will be ready when
+[18:48] I sound the chofar of my coming in the
+[18:50] air half of those that profess belief in
+[18:54] me will be left behind as it is written
+[18:58] in the parable of the wise and foolish
+[19:00] virgins that's Matthew 25 the first
+[19:03] Parable in that chapter I am coming for
+[19:07] those that are prepared and awaiting and
+[19:10] expecting my return but I am not leaving
+[19:14] the Earth without a strong witness of my
+[19:17] grace my presence and my glory in fact I
+[19:22] have allowed some to choose whether they
+[19:24] want to stay to be a part of the
+[19:26] greatest Revival and and harvest of all
+[19:29] of history or to go on before to my
+[19:33] wedding supper but it is not my best for
+[19:36] them I do not want to see them suffer in
+[19:40] these last seven years it will be the
+[19:43] worst time of all of history no one will
+[19:47] escape the tribulations of the coming
+[19:49] wrath remember it is only by faith that
+[19:53] you will escape these things coming upon
+[19:56] the Earth if if you don't believe I am
+[19:59] coming for you to take you out before
+~~~
+
+<a id="section-06"></a>
+## 06. 20:00–23:59 · 教会、复兴与信仰、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:02] the coming wrath is poured out upon the
+[20:04] earth I have no obligation to do so read
+[20:09] that again he said this is the Lord
+[20:13] speaking yep remember it is only by
+[20:16] faith that you will escape these things
+[20:19] come coming upon the Earth if you do
+[20:22] don't believe I am coming for you to
+[20:25] take you out before the coming wrath is
+[20:27] poured out upon the earth I have no
+[20:30] obligation to do so wow but remember all
+[20:34] those that will be left behind will be
+[20:37] killed for their stand for me many will
+[20:40] not stand for me in that hour and will
+[20:43] even lose their souls when the
+[20:45] persecution heats up against them this
+[20:48] is because they were never really mine
+[20:50] in the first place but also many
+[20:53] champions for me shall arise and not
+[20:57] compromise during the the time of
+[20:58] Jacob's trouble I will arise and protect
+[21:01] those that will stand for me then until
+[21:04] their works are finished and then they
+[21:07] shall all give their lives for me and
+[21:09] the truth of my
+[21:12] gospel I have already separated my bride
+[21:15] from the laconian church I have warned
+[21:18] the church over and over to flee from
+[21:20] the Wrath to
+[21:22] come now and then he interjects here um
+[21:26] uh he stops he he's he's given his own
+[21:29] thoughts yeah on this part he says now
+[21:31] I'll just add that the greatest warnings
+[21:34] have been in the last 120 years which
+[21:37] directly parallels Noah preaching while
+[21:40] he built the ark nobody listened to him
+[21:43] but God had sent people I mean even
+[21:47] people on street corners they just laugh
+[21:49] and mock at them and he sent prophets
+[21:51] into the church men like Raven Hill
+[21:54] repentance preachers you know people
+[21:56] like David Wilkerson and many others Ste
+[21:58] Eve Hill in the mid99s in Pensacola get
+[22:01] right with God and others and even now
+[22:04] there are people warning but you have to
+[22:06] really look for those now why because
+[22:09] the time would come when the church
+[22:11] would not listen to sound Doctrine
+[22:13] anymore and they departed from the Bible
+[22:16] now they're preaching with itching ears
+[22:18] they want smooth messages that make you
+[22:20] feel good therapy how can I be
+[22:24] fulfilled well you can be fulfilled but
+[22:27] you don't do it by finding your life and
+[22:29] becoming the ultimate perfect you no you
+[22:33] do it by losing your life and dying and
+[22:36] letting Jesus live in you that's where
+[22:38] the real Joy is in
+[22:41] fulfillment okay so then he goes back to
+[22:43] what the Lord say this is now what this
+[22:45] is what the Lord says okay uh time is
+[22:48] running out fast get into the Ark of
+[22:52] Safety flee from the love of sin in
+[22:54] flesh and the world before it is too
+[22:57] late is this plain enough for you I mean
+[23:00] do you understand that do you have a
+[23:03] brain then listen now listen do not look
+[23:06] back upon Sodom like what Lot's wife did
+[23:09] flee the city of Destruction flee from
+[23:12] the Wrath to come come into my secret
+[23:14] place the doors are closing soon embrace
+[23:18] the truth of my promise that I have not
+[23:21] appointed you for wrath but to obtain my
+[23:24] salvation escape the tribulations that
+[23:27] are to come and to be a part of my holy
+[23:29] bride blessed and holy are those that
+[23:32] obtained this first
+[23:34] resurrection and then he inters this is
+[23:36] all in the Bible it's in the New
+[23:38] Testament uh when are you the holy
+[23:40] spirit says when are you going to start
+[23:41] believing
+[23:42] it amen I am coming for those who give
+[23:46] who love me my soon appearing in the sky
+[23:51] my wedding and my glorious supper I am
+[23:54] coming for those that love Heaven and
+[23:56] the coming Kingdom more more than they
+[23:58] love the passing pleasures of sin upon
+~~~
+
+<a id="section-07"></a>
+## 07. 24:00–27:59 · 教会、复兴与信仰、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[24:00] this present Earth do not be deceived by
+[24:03] false teaching that robs you of the
+[24:05] Blessed hope of my coming my appearing I
+[24:08] am the great king and the bridegroom
+[24:11] keep your lamps burning brightly the
+[24:14] Midnight Hour is here this is what the
+[24:16] holy spirit is saying we must heed to it
+[24:19] there is not much more time beloved May
+[24:21] the grace and peace of Our Lord Yeshua
+[24:23] the Messiah rest upon you in greater and
+[24:26] greater measure I'm just telling you
+[24:28] that should get you so excited I mean
+[24:31] personally I I I I'm so excited about it
+[24:36] I've told you about the marriage supper
+[24:38] I gave the the the visitation that I had
+[24:41] when I went to heaven and I saw the
+[24:43] marriage supper of the lamb and the Lord
+[24:46] I I saw the preparations they were doing
+[24:48] for us all the personal name tags all
+[24:51] the the the thought that Jesus put into
+[24:55] celebrating us the parade
+[24:59] everything for he is good and his Mercy
+[25:02] endures forever and he's coming back for
+[25:05] a bride that's without spot and without
+[25:08] wrinkle he's coming back for a people
+[25:11] who has their lamps full of oil he's not
+[25:14] coming back for a harlot he's not coming
+[25:16] back for somebody who has one foot in
+[25:18] darkness and one foot in light trying to
+[25:21] be right in the fence he's either said
+[25:24] he want you either hot or he want you
+[25:26] cold because if you're lukewarm he said
+[25:28] he'd spew you out of his mouth it was
+[25:30] very clear what he said in his word it's
+[25:34] time for people to rise up and be hot in
+[25:36] these last days and preach the gospel
+[25:39] and tell people that Jesus is coming I'm
+[25:42] telling you folks we're running out of
+[25:44] time I'm passionate about this because I
+[25:47] hear the Lord telling me all the time is
+[25:50] is L we are in the last of the last
+[25:52] second son you've got just just just one
+[25:56] more push in the baby's here here it's
+[25:58] like a woman given birth he said as the
+[26:01] days it will be like a woman in labor
+[26:04] and and I'm telling you we're seeing the
+[26:06] woman in labor right now the labor pains
+[26:10] are intensifying on a day-to-day basis
+[26:13] it's all around us and the Bible said no
+[26:16] man knows the day or the hour that the
+[26:18] son of man returns and I'm telling you
+[26:22] he could come back very soon look around
+[26:24] you he said look at the Fig Tree
+[26:26] Israel's in war now folks
+[26:28] looks like they could go in war with
+[26:30] Iran it's escalating and escalating and
+[26:34] escalating do you see the times that
+[26:37] we're living in do you see the the sin
+[26:40] is rampant around us do you hear the
+[26:42] itching ears in the churches that
+[26:44] they're preaching compromise and they're
+[26:46] not preaching uh uh to live Holiness and
+[26:48] to live separated unto God yes it's not
+[26:52] by um works and and I understand that
+[26:55] and it's by Grace but we're to live a
+[26:58] holy lifestyle separated unto Jesus as
+[27:02] the best as we can living a repented
+[27:05] lifestyle living holy unto him so that
+[27:08] he is able to move through you on a
+[27:10] day-to-day basis yes our righteousness
+[27:13] is as filthy rags before him but I'm
+[27:15] telling you there is a there is a there
+[27:17] is a separation from the world where
+[27:20] you're not trying to be like the world
+[27:22] you want to be more like Jesus I've said
+[27:24] it and said it again if you were in a
+[27:26] lineup in a prison lineup and it was
+[27:28] being convicted of of being a Christian
+[27:31] it was and it was against the law would
+[27:33] you be convicted would they throw you
+[27:35] away lock you up and throw away the key
+[27:38] for the rest of your life because it it
+[27:39] was the death sentence you know what I'm
+[27:41] saying would you have that thrown at you
+[27:44] if Christianity was wrong or would you
+[27:48] stick in with the world can is there a
+[27:51] separation where the salt that they say
+[27:54] we know for a fact there's no denying
+[27:56] that person right there's a Christian
+[27:58] are you one of them are they going to
+~~~
+
+<a id="section-08"></a>
+## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[28:00] look at you and say I don't know they
+[28:02] they kind of look like the world to me I
+[28:04] I don't know I that's what I'm trying to
+[28:07] tell you it's time to get hot for Jesus
+[28:10] it's time to separate oursel it's time
+[28:13] to be ready for a soon return keeping
+[28:16] our lamps full on a day-to-day basis not
+[28:19] just on Sundays you go to Sunday you a
+[28:22] lot of you are seeking in a in a church
+[28:24] you're going to a church that Don't
+[28:26] Preach uh preach a good solid word-based
+[28:30] gospel you're going in there getting
+[28:32] itching ear gospel you're going in there
+[28:33] and uh you're out in 30 minutes you know
+[28:36] you have this little bitty Church they
+[28:37] push you they push you in they push you
+[28:39] out you have a wild fog machines and all
+[28:42] the stuff and the lights you know and I
+[28:44] understand trying to get people and have
+[28:45] a new bait to get people in there I get
+[28:48] that they're trying somehow but I'm just
+[28:50] telling you they're losing the purity of
+[28:52] trying to preach people's repentance and
+[28:54] change and and and and becoming better
+[28:58] do you agree I just feel it's it's so
+[29:01] important that people understand what
+[29:04] he's talking about of feeling your lamps
+[29:06] full of oil keeping yourself right
+[29:10] before him not being ones that are going
+[29:12] well I got to go find the oil now it's
+[29:16] too late I've warned you all what the
+[29:19] Lord told me half will be taken half
+[29:22] will be
+[29:24] left right now I don't believe I I don't
+[29:26] know how 100 million Christians there is
+[29:29] but if that's the the case and there's
+[29:31] half of those are left in the
+[29:32] tribulation folks which one are you
+[29:35] don't put it off yes don't put it off
+[29:37] there's another man I saw in the comment
+[29:39] section said well I guess I can go look
+[29:41] at stuff and drink and and and live life
+[29:44] like a heathen now for a while because
+[29:46] it doesn't sound like he's coming back
+[29:48] anytime soon why would you gamble your
+[29:51] soul and Eternity in Hell over sin it's
+[29:57] it's not worth it no man is promised
+[29:59] tomorrow you could die tonight in your
+[30:01] sleep folks it could happen that fast
+[30:05] being a car wreck something I know we
+[30:07] believe for divine protection but but
+[30:09] I'm telling you I've seen tragic things
+[30:11] happen to people and they and they that
+[30:13] well I'm just going to go and live and
+[30:15] have fun and sew my Wild Oats and go out
+[30:16] there and have a good time and sleep
+[30:18] around and do all this craziness and I'm
+[30:21] going to serve Jesus 10 years from now
+[30:24] that's my time frame I'm going to give
+[30:25] him 10 years and 10 years Lord I I'll
+[30:27] serve serve you and and surrender my
+[30:30] life to you and they die at nine nine
+[30:33] years into it and almost the last year
+[30:35] of it they go home and they and they die
+[30:37] and they are in Hell For Eternity
+[30:39] because they wanted to taste the the the
+[30:41] fruit of sin just a little
+[30:43] longer the wages of sin is death I'm
+[30:47] telling you folks it's time today to ask
+[30:50] Jesus to be your lord and
+[30:52] savior it's time today to surrender your
+[30:55] heart to him it's it's time today to to
+[30:58] turn from your Wicked Ways it's time
+[31:01] today to know that he could come at any
+[31:03] moment are you ready to meet your maker
+[31:06] are you ready to stand at that great
+[31:08] Throne white Throne of judgment whenever
+[31:10] he's there and he and he and you he put
+[31:12] your life before him and he says what
+[31:14] did you do for me what did you do for me
+[31:17] on that Earth did you serve me with all
+[31:19] your heart or did you serve the world
+[31:21] and try to serve me just on
+[31:24] Sundays which one are you because I'm
+[31:27] telling you it's going to be a scary
+[31:29] time when you're standing before the
+[31:30] great throne and you're up there and the
+[31:32] father's looking at you and you say your
+[31:35] cup is is empty you're lacking you're
+[31:37] lacking there's nothing there you did
+[31:40] nothing for me on this
+[31:42] Earth woe unto you I pray Mercy I pray I
+[31:47] God have mercy and I'm just telling you
+[31:50] all we're running out of time we're
+[31:52] running out of time I always look for
+[31:55] him during September time frame dur in
+[31:58] roash uh could it be this year could be
+~~~
+
+<a id="section-09"></a>
+## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[32:02] could
+[32:04] be could it be that this would be the
+[32:06] time we go into the tribulation could be
+[32:10] I've rambled on long enough I've said a
+[32:12] lot here but I just wanted you all to
+[32:14] see the parallels the things that that
+[32:17] man saw and I don't even know him never
+[32:20] talked this man before in my life but
+[32:23] God speaking to different prophetic
+[32:25] voices throughout the world trying to
+[32:26] warn them about what's coming and he
+[32:28] speaks to me loud and I it sounds like
+[32:30] he speaks to this man loud but he's he
+[32:33] put us to be a Watchman on the wall I
+[32:36] feel like I'm Paul rever riding my horse
+[32:39] through the through the towns telling
+[32:41] the Minutemen Jesus is coming Jesus he
+[32:43] was on there telling everybody the
+[32:45] British are coming the British are
+[32:46] coming trying to wake everybody up
+[32:48] getting ready for the war I'm trying to
+[32:50] tell you Jesus is coming Jesus is coming
+[32:52] to get you woke up for the spiritual war
+[32:55] are you going to be a ready for the soon
+[32:59] return of the Lord Jesus
+[33:01] Christ I just feel so urgent to tell you
+[33:06] about this it's just been so stirred in
+[33:08] me this week I've been interceding for
+[33:10] certain things and it it's been it's
+[33:13] very intense in the spirit realm right
+[33:16] now we're living in the last days
+[33:19] folks father I just thank you Lord for
+[33:22] every single person that is represented
+[33:25] if they're even still listening now I
+[33:27] thank you Father that they would know
+[33:29] you they repent of their sins and they
+[33:31] turn from their Wicked Ways say Jesus
+[33:34] Come into my heart write my name in the
+[33:38] Lamb's Book of Life I Repent of my sin I
+[33:42] make you my lord and personal
+[33:45] Savior Jesus I I want to make you my
+[33:48] lord just I just make him your lord I I
+[33:51] want you to be my Lord I want you to be
+[33:53] my savior Forgive Me Lord John 3:16 read
+[33:59] it over and over and over if you're a
+[34:01] new believer for God so loved the world
+[34:03] that he gave his one and only begotten
+[34:05] son that whosoever believe in him should
+[34:07] not perish and have everlasting life you
+[34:11] don't have to perish in and you don't
+[34:13] have to perish but you can have
+[34:14] everlasting life today when you when you
+[34:17] make Jesus your lord and personal savior
+[34:20] it doesn't have to be all uh hyped up
+[34:22] and and hard he made it so a little
+[34:25] child can get saved D he wants it so you
+[34:28] can be your little your little
+[34:31] 5-year-old little child can get born
+[34:33] again it's easy we make it hard so I
+[34:37] just want to tell you all father I just
+[34:38] thank you Lord for every single one of
+[34:40] them like I said I thank you Lord for
+[34:42] healings I thank you for wholeness in
+[34:44] these people's homes I thank you Lord
+[34:46] for unsaved loved ones we call them in
+[34:48] in Jesus name Angels go out and bring
+[34:51] them
+[34:52] home go out and bring them home Lord
+[34:55] we're running out of time
+[34:58] these people are loved ones our our our
+[35:01] children our our our wayward Sons our
+[35:03] wayward daughters our wayward uh
+[35:05] husbands or whatever uh wives uh moms
+[35:10] dads grandma grandpa whatever if they're
+[35:13] way were father we call them in Aunts
+[35:15] Uncles it doesn't matter who they are
+[35:17] you know where they are you know if
+[35:18] they're in the bars you know if they're
+[35:20] strung out on drugs you know that
+[35:21] they're living in in the in the in in
+[35:23] the slums father we call them home in
+[35:26] Jesus
+[35:27] name we thank you Lord that you don't
+[35:30] want not not one should perish but all
+[35:33] come to repentance and that's even the
+[35:35] ones we we petition for our unsaved
+[35:38] loved ones and we call those in right
+[35:40] now in the name of Jesus for the hour is
+[35:42] short and the Harvester's coming Jesus
+[35:46] Christ is coming we thank you Lord we
+[35:49] send Angels out right now we send them
+[35:51] out we bind the Demonic distractions we
+[35:54] bind the demonic spirits would hold them
+[35:56] down
+[35:57] we command you to release our loved ones
+[35:59] and let them go we call the Harvest of
+~~~
+
+<a id="section-10"></a>
+## 10. 36:00–38:37 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[36:02] souls in in the name of Jesus father
+[36:04] like I said last time give us a creative
+[36:07] idea to bring Souls into your kingdom
+[36:10] give us a creative idea in our spirit
+[36:13] give it father I thank you Lord creative
+[36:15] ideas to bring bring people into the
+[36:18] kingdom of God in these last days father
+[36:22] I thank you Lord for the anointing of
+[36:23] the Holy Ghost to flow through US father
+[36:26] just like you did in Acts chapter 2
+[36:29] father they would say uh are these
+[36:32] people drunk no this is that spoken by
+[36:36] the prophet Joel it's time for a great
+[36:38] new outpouring of your spirit Lord a new
+[36:41] freshness a new a new wine and new wine
+[36:43] skins father that we are stirred up and
+[36:46] we're excited about the word father I
+[36:49] thank you Lord that you fan the flame in
+[36:51] these people today in Jesus name we call
+[36:54] a a fullness of a fire in inside of them
+[36:57] a new refilling like gasoline on a fire
+[36:59] and then throwing some wood on there
+[37:01] father that we keep this flame going I
+[37:04] thank you Lord that they would be
+[37:05] stirred up with the Holy Ghost In The
+[37:08] Name of Jesus well I just want to tell
+[37:11] you all thank you for watching if you're
+[37:13] still watching God bless you guys and
+[37:16] ladies and gentlemen um I always say
+[37:18] guys a southern thing I think but I just
+[37:21] want to say if you could click the
+[37:22] notification Bell it really would bless
+[37:24] us if you could like the video uh put a
+[37:28] comment down below what you feel about
+[37:30] it you know we're curious of you know
+[37:33] what where where your hearts at who's
+[37:35] the people who's following us you know
+[37:37] who's God brought to us uh we thank you
+[37:40] all for for your support we thank you
+[37:42] God I mean we thank you guys we thank
+[37:44] you I say God we thank God yeah we do we
+[37:47] thank God but we thank you all for your
+[37:49] support we thank every one of you for
+[37:51] for being such a blessing to us um it if
+[37:54] it wasn't for you we we wouldn't have
+[37:56] have a YouTube channel and I'm telling
+[37:58] you all uh you're helping get the gospel
+[38:02] spread throughout the world another
+[38:03] person gave their heart to Jesus Christ
+[38:05] and uh some people got uh baptized in
+[38:07] the Holy Ghost this week too I'm excited
+[38:10] about them we get these emails and and
+[38:12] some of them like I said some of them
+[38:14] are nasty some of them are nice but I
+[38:15] but I like the nice ones and I just want
+[38:17] to say thank you thank you for all your
+[38:19] your love and your kindness God bless
+[38:22] you all we'll put a smile on your face
+[38:24] and a song in your heart Jes Jesus love
+[38:27] you so much and we love you and we will
+[38:31] see you next time y'all have a blessed
+[38:33] and wonderful day we'll see you bye bye
+[38:37] say bye bye Brandon bye bye bye
+~~~

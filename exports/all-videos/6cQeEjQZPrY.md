@@ -1,0 +1,545 @@
+# Revisiting what I told you a year ago, not saying this is it just interesting
+
+**视频**: https://www.youtube.com/watch?v=6cQeEjQZPrY
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/Revisiting what I told you a year ago, not saying this is it just interesting [6cQeEjQZPrY].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 479；**章节数**: 5；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 经济、银行与市场、预言、梦境与异象](#section-01)
+- [02. 04:00–07:59 · 预言、梦境与异象、物资、能源与供应链](#section-02)
+- [03. 08:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-03)
+- [04. 12:00–15:59 · 经济、银行与市场、预言、梦境与异象](#section-04)
+- [05. 16:00–19:58 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 经济、银行与市场、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：经济、银行与市场、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] Hey, good morning family. Uh or
+[00:02] afternoon or evening or good night or
+[00:04] wherever you are in the world. Uh I have
+[00:07] some things I want to talk to you'all
+[00:08] about. If you go back to what I I gave
+[00:11] the word 10 months ago or more, it's
+[00:15] probably about a year or so ago now of
+[00:18] whenever the Lord showed me the dollar
+[00:21] uh and I'm going to go over that again.
+[00:23] uh crashing, but he he warned me again
+[00:26] that that there's going to be a major
+[00:30] global shaking of finances again,
+[00:34] bringing forth digital platforms. And
+[00:36] this is what he told me the about a year
+[00:39] ago. I was praying and I saw a flag pole
+[00:43] and I saw a $100 bill on a a flag pole
+[00:47] and it was moving back and forth and I
+[00:51] saw uh uh like digital writing. It
+[00:55] looked like digital uh code in this $100
+[00:59] bill and it was alive and it was moving
+[01:01] like kind of like stocks but it was
+[01:03] digital. It was like um crypto riding
+[01:06] like that. You do you know what I'm
+[01:08] talking about, son? Okay. So, it was
+[01:10] moving like that. And then um I I I I
+[01:13] said, "Lord, what are you showing me?"
+[01:15] And he said, "The dollar is about to
+[01:18] turn into a digital dollar and it will
+[01:21] be worth half of what it you of of of
+[01:25] per of purchasing power of what it used
+[01:27] to be." And I saw it was at 50 cents.
+[01:30] purchasing power of 50 cents to a dollar
+[01:35] and because of inflation because of the
+[01:37] inflation the things happening with
+[01:40] America and the
+[01:42] economy and I could see the the it was
+[01:46] it was it what was going to happen was
+[01:49] then he showed me uh the the banking
+[01:53] sector all the banks major Chase Bank
+[01:56] Wells Fargo u you name it the huge world
+[01:59] banks
+[02:00] They all seized the money inside of the
+[02:05] the banks. It It was like it went into
+[02:09] um like a bail in. I don't know what you
+[02:12] would call that. Like I said, y'all, I'm
+[02:14] not real educated on stuff like this.
+[02:16] So, I saw all the money being seized
+[02:19] inside of the banks and you weren't
+[02:21] allowed to withdraw any of the money.
+[02:24] So, people were furious. And then, you
+[02:26] know, because they couldn't get their
+[02:27] money out of the banks. all the banks uh
+[02:30] kept it. And so then all of the when
+[02:34] this happened, the dollar crashed and
+[02:35] all thing, then they they they took the
+[02:39] dollar, they took all of the the the
+[02:41] notes on the homes. Sorry. They took all
+[02:44] the notes on the homes, the homes, the
+[02:46] car loans, everything because people
+[02:48] couldn't make their payments anymore
+[02:50] because the dollar had collapsed. So, I
+[02:53] saw uh people's car notes, car loans,
+[02:57] they all that was wiped out kind of like
+[03:00] it was with uh they didn't make you make
+[03:03] payments for forever with the uh student
+[03:06] loans back whenever this big cword
+[03:08] happened. They weren't allowed to uh do
+[03:11] those uh loans for student loans and
+[03:14] stuff. They froze all that for for
+[03:17] several years. people weren't uh uh made
+[03:21] to pay those payments anymore. And
+[03:24] that's what it was like with the the
+[03:26] housing market or the car loans. They
+[03:29] didn't come and foreclose on everybody.
+[03:32] They didn't say, "Hey, you're out.
+[03:33] You're out. You're out. You're out."
+[03:35] They just froze it across there because
+[03:37] they didn't make everybody make their
+[03:39] payments just like it was with student
+[03:41] loans. Okay? So, that's what I saw. I
+[03:44] did not see any more of what happened
+[03:46] afterwards. And people say, "Well, this
+[03:49] is a debt jubilee." I didn't see it like
+[03:51] that. That's what I'm trying to say. I
+[03:52] don't want to add anything to or take
+[03:55] anyway take anything from this prophetic
+[03:58] word. I just want to tell you what the
+[03:59] Lord showed me. And I then the Lord
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 预言、梦境与异象、物资、能源与供应链
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、战争与国际事务。 提到的地点：China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:02] showed me people that were dressed and
+[04:04] because it happened so quickly kind of
+[04:06] like I told you all about the four oak
+[04:08] trees. If you go back to the prophetic
+[04:11] word that I gave, the dream that I had
+[04:14] about the four oak trees, four years or
+[04:16] four months or four whatever it was of
+[04:19] of oak trees, which each oak tree
+[04:22] represented, I believe, a year. Now,
+[04:24] some people say it's a season because of
+[04:27] what I saw, and some people say is a,
+[04:29] you know, whatever. It's your
+[04:30] interpretation. I just told you all to
+[04:32] pray about it and see what the Holy
+[04:34] Spirit tells you concerning um these the
+[04:38] these things that the Lord shows me
+[04:40] because you know I see in part and hear
+[04:42] part y'all and and I and I'm I'm a work
+[04:44] in progress just like everybody else.
+[04:46] But if the Lord's telling me to tell you
+[04:48] all something, I want you to pray about
+[04:49] it, you know, and see what he's telling
+[04:51] you. So I saw people in nice clothes
+[04:54] because it happened just like I told
+[04:56] you. It happened like the winter came
+[04:57] onto the trees. They lost all their
+[04:59] leaves and everything happened suddenly.
+[05:01] Now the people were standing in line at
+[05:05] trying to find groceries. They were
+[05:08] trying to get groceries at uh the the
+[05:11] store and there was no food in the
+[05:13] stores. And and remember I told you all
+[05:16] that there was cobwebs on the shelves
+[05:18] and I could see cobwebs in the corners
+[05:20] of these shelves in the grocery stores
+[05:23] which represented uh I believe a a a
+[05:26] time of of quite some time because
+[05:29] cobwebs don't happen in a on a shelf in
+[05:32] quarters of in a grocery store unless
+[05:34] it's uh over time. It doesn't happen
+[05:36] overnight is what I'm trying to tell
+[05:38] y'all. So there was shelves that were
+[05:40] completely bare in these grocery stores.
+[05:43] So, people were lined up trying to just
+[05:45] get whatever they could in these paper
+[05:48] sacks or whatever they had, but they
+[05:50] were all, like I said, they had nice
+[05:52] clothes on. They weren't dressed dirty,
+[05:54] but they were all lined up for like a
+[05:56] mile long. They wrapped around the
+[05:58] buildings down the street waiting just
+[06:01] to get into one local into that store.
+[06:05] And he told me the euro would be in
+[06:07] trouble because of what was going on
+[06:09] with Europe and this war. That was one
+[06:11] of the first signs that this was all
+[06:14] going to happen like dominoes. And so,
+[06:17] you know, I it's interesting because as
+[06:19] I go along with my with my giftings and
+[06:22] what the Lord has showed me, he gives me
+[06:23] more and more each time. And you know
+[06:25] and even what I told you all even in the
+[06:28] last time about how um uh China made a
+[06:33] trade war with America and all the
+[06:36] supplies from China was not coming over
+[06:39] in the big ships anymore because of
+[06:42] something that happens because of the
+[06:43] war escalating and and I believe it has
+[06:46] to do with Taiwan and what's coming in
+[06:48] the future. So you know he shows me a
+[06:52] little bit more. So, if you go back and
+[06:53] watch those other prophetic words, you
+[06:55] it's like, like I said, it's like
+[06:56] putting a piece of the the the um the
+[07:00] the puzzles together, one piece at a
+[07:03] time. He shows me these things. And so,
+[07:06] I saw the digital dollar. I saw the
+[07:08] crashing of the economy. I saw the oak
+[07:10] trees. And then remember I also I told
+[07:13] you about all the people uh rioting
+[07:16] after the dollar crashes that that the
+[07:18] government was not able to give them uh
+[07:23] their social security check the the
+[07:27] welfare
+[07:29] uh system, food stamps, you know,
+[07:31] whatever uh like entitlements. They were
+[07:35] all upset. They had their signs and they
+[07:37] were going throughout like a million man
+[07:39] march. There was tons of them. Literally
+[07:42] hundreds of thousands of people were
+[07:45] taking to the streets uh rioting and
+[07:48] pillaging, stealing from stores and and
+[07:51] had their signs and um were going down
+[07:54] the streets, you know, demanding what
+[07:57] they what they felt like they rightfully
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:00] were was owed. And then they brought in
+[08:02] the National Guard and they put na they
+[08:05] put the National Guard Hummers. The Lord
+[08:07] showed me all this in a vision. showed
+[08:09] me Hummers and chain bobbire fence
+[08:13] through major cities with checkpoints
+[08:15] and put in martial law because of the
+[08:18] people rioting in New York and Chicago
+[08:20] and all up
+[08:22] north and just basically everywhere
+[08:25] people were, you know, I'm not going to
+[08:26] just say it was up northeast. It was it
+[08:29] was everywhere in America. People were
+[08:32] acting a fool because they couldn't get
+[08:34] their free handouts for food and
+[08:37] whatever. And so, um, that was part of
+[08:40] part of this when the dollar crashes.
+[08:42] So, like I said, I'm adding each piece
+[08:45] of the puzzle of the what the warnings
+[08:48] of the Holy Spirit has warned me, adding
+[08:51] them together, and I keep getting more.
+[08:53] And like I said, even again tonight, the
+[08:54] Lord talked about the great kabad and
+[08:57] saying there's a great kabad that's
+[08:59] fixing to take place. And that that
+[09:01] people called him Lord, Lord. He said,
+[09:04] "People call me Lord, Lord, Brandon, but
+[09:06] their hearts are far from me." And he
+[09:09] said, "You will see a separation between
+[09:13] the tears and the wheat, you're going to
+[09:16] see this. And the ones that are true
+[09:19] believers right now, the ones that are
+[09:21] true believers, the ones that are truly
+[09:23] on fire for me and have a relationship
+[09:25] with me and that truly are, I have been
+[09:28] their Lord. Lord, he said, "You will see
+[09:31] this and there are going to be a great
+[09:34] uh apostasies even greater than what is
+[09:37] even we've even seen right now. We're
+[09:40] about to see even greater a greater
+[09:43] separation between the tears and the
+[09:46] wheat. You're going to see this in the
+[09:48] days ahead because people are going to
+[09:51] really know. You're going to know the
+[09:53] real Christians from the people who are
+[09:55] just uh uh lip service from the real
+[09:59] true hearts. There is a purification
+[10:01] coming. There is a uh a refiner's fire
+[10:05] coming to the body of Christ and there
+[10:09] will be a shakening coming. A shaking. I
+[10:12] got corrected on my grammar. Uh guys,
+[10:15] there's no shakening. There's so
+[10:17] whatever. You know what? I'm a sh I'm
+[10:19] going to say shaken. Shaken. Sorry, Mr.
+[10:22] Grammar Police. Shaking. There's a great
+[10:24] shaking. There's a shaking. Shaking.
+[10:26] Don't use it. Whatever. You know, don't
+[10:29] watch my video. Go away then. Bye-bye,
+[10:30] control. Uh, but there's a there there's
+[10:33] going to be this stuff take place, you
+[10:35] know, whatever. Um, and and I hope
+[10:38] you're part of it. You're probably going
+[10:39] to be the one that's the one out there
+[10:40] being a grammar police. You're probably
+[10:41] the one that's getting shaken.
+[10:44] So, because these people don't know
+[10:47] Jesus, man. A lot of them don't, but uh
+[10:49] they think they do. But we're gonna see
+[10:51] we're going to see that that we're going
+[10:53] to see the separation between the go and
+[10:55] the sheep. Watch. And you're going to
+[10:57] see all this and the people who are on
+[10:59] fire and the people are lukewarm because
+[11:02] a lot of you think that you're on fire
+[11:04] and you're as cold as a cold cold stove
+[11:08] and you don't have any part of a Holy
+[11:10] Ghost inside of you. You're so far away
+[11:12] from it. And I'm telling you, it's
+[11:13] coming. You're going to see this in the
+[11:15] great in the days ahead. And it's going
+[11:17] to be it is going to be a lot of people.
+[11:19] They have their nose turned up toward
+[11:21] God and it's going to be a great
+[11:22] humbling coming. So, you know, this was
+[11:25] something that was alarming to me
+[11:26] because
+[11:28] again tonight in prayer, he showed me
+[11:32] again about the dollar crash. Another
+[11:35] another thing warning me about a major
+[11:39] shaking that's about to take place soon.
+[11:41] You know, people say, "When when is this
+[11:43] going to happen?" You're going to have
+[11:44] to ask the Lord about about that
+[11:46] yourself. I have my I have my uh thinks
+[11:50] and I believe
+[11:52] 2025 is going to be a a a a dark year
+[11:58] because of the dam that I saw with Joe
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:59 · 经济、银行与市场、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：经济、银行与市场、预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:01] Biden uh and all the things happening
+[12:04] with with they were trying to hold back
+[12:07] being released after the elections
+[12:11] because of things that they're trying to
+[12:13] to delay. They're trying to delay.
+[12:15] They're trying to delay the inevitable
+[12:16] of what they know they can't delay
+[12:19] because of inflation, because of the the
+[12:21] weakening of the dollar, of of mess that
+[12:23] they've created on purpose, for a
+[12:25] purpose to bring in the new digital
+[12:28] platform, the new digital cyber
+[12:30] currency, what I was telling you about,
+[12:32] because that's what they want to happen.
+[12:34] They want a g they want to control the
+[12:36] the global money system because of the
+[12:39] fact that's how they bring forth the
+[12:41] mark of the beast with the antichrist
+[12:44] system. And that has to happen. But the
+[12:46] dollar is in the way. The dollar is been
+[12:50] the hedge of of of of basically of the
+[12:53] world economy for I don't know hundred
+[12:56] years now. Uh, and so the dollar
+[12:59] standard and all
+[13:00] that and so that's all about to be done
+[13:03] with. And so we're going to see a
+[13:05] digital currency. It'll be like crypto
+[13:07] and we're going to see uh this happen
+[13:10] very soon. I really believe that we're
+[13:12] we're seeing the beast system be set up
+[13:14] right before our eyes. And if you're not
+[13:17] watching and you're and your head is in
+[13:19] the sand, God help you because we're
+[13:22] we're we're there, folks. Jesus is
+[13:24] getting ready to come back and he's
+[13:26] coming back very soon. And so, um,
+[13:29] that's what I had for you. I'm just
+[13:30] saying I'm just I'm putting all these
+[13:32] things together, you know, of of of what
+[13:35] the Lord had showed me about, uh, this
+[13:38] one and then about um, uh, the BA major
+[13:42] earthquake, about the tumble weeds
+[13:44] coming down the the the the uh, New York
+[13:47] Stock Exchange. There was tumble weeds
+[13:49] coming down there. He showed me that.
+[13:51] I've seen uh, so many different things
+[13:53] about dollar. Oh, and and you know, like
+[13:55] I said, not financial advice, but he
+[13:57] showed me gold things happening with
+[14:00] gold and silver and about um you know,
+[14:03] not telling you to invest in it. You
+[14:04] pray about it yourself. But I'm just
+[14:06] saying I saw things happening with uh
+[14:08] precious metals and about things
+[14:10] happening like that, you know, uh that
+[14:13] there would be things shifting with that
+[14:15] when all this stuff takes place. So,
+[14:19] um you know, I just think it's
+[14:21] interesting. I think it's interesting
+[14:23] because the Lord, you know, whenever he
+[14:26] gives me these cues and he has me
+[14:27] praying, y'all, he it's important. He's
+[14:30] not just God does not speak just to hear
+[14:33] himself talk. He's speaking because he's
+[14:37] making real things happen in a real
+[14:39] world. He wants it to he wants you to
+[14:42] understand uh the signs of the times.
+[14:44] He's speaking. He's telling me to tell
+[14:46] you this because there's an urgency
+[14:49] because people are not taking it. You
+[14:50] know, and it's and it's like this. He
+[14:52] even warned me. You know, Brandon, I
+[14:54] want you to go back over these words
+[14:56] because there's so many false prophetic
+[14:59] words on YouTube that people are hearing
+[15:02] and being inundated with on a daily
+[15:05] basis because they're they're feeding on
+[15:07] it. They're not hearing me hearing
+[15:09] they're not hearing me for for for
+[15:12] theirel. The Lord he's talking about.
+[15:14] They're looking through prophetic,
+[15:16] prophetic, prophetic, prophetic,
+[15:17] prophetic, looking all the time for a
+[15:20] new word of the day. And I said, 'Lord,
+[15:21] where's the new word? What are you
+[15:23] doing? What's happening right now? Are
+[15:25] you Are you not going to give me a new
+[15:26] word? He said, Brandon, you don't need a
+[15:28] new word right now. Focus on what I've
+[15:30] told
+[15:31] you. Pray about what I've already said
+[15:34] to
+[15:34] you and take it serious. For the hour is
+[15:39] short. You don't need a new word of the
+[15:42] day. seek him for what I've already told
+[15:45] you. And he said, "Brandon, they're
+[15:46] getting something new all the time on
+[15:48] these other channels that are false
+[15:49] words. They're false prophetic words, a
+[15:51] lot of them. And you need to go back and
+[15:54] focus on some of the things I've told
+[15:55] you because they're bearing fruit, son.
+[15:58] You're going to start seeing
+[15:59] manifestations of the words that I've
+~~~
+
+<a id="section-05"></a>
+## 05. 16:00–19:58 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[16:01] given you a year ago on this channel
+[16:04] start to manifest today. It's going to
+[16:07] start happening like dominoes.
+[16:11] So I hope you all are are listening. He
+[16:14] that has ears to hear, let him hear what
+[16:17] the spirit of the Lord is saying. Listen
+[16:20] to the spirit of the Lord. He's what he
+[16:21] he he is here to help you. And if it
+[16:23] witness with your spirit, fine. If it
+[16:25] don't, put it on a shelf. Put it on a
+[16:27] shelf and walk away. But but but but
+[16:30] pray about it because I'm I like I said,
+[16:33] I'm here to help. I'm here to tell you
+[16:35] things that I'm praying over. I'm a very
+[16:37] serious individual when it comes to
+[16:39] stuff like this because I take the Lord
+[16:41] serious and I and I know what he's
+[16:43] warning me about and to prepare my
+[16:45] family. So, I I'm excited about the
+[16:48] revival, but I know there's a great
+[16:50] shaking coming and it's going to shake
+[16:52] America uh for for the upcoming revival.
+[16:56] And so, uh uh God bless you all. Let me
+[16:59] pray for you. Father, I just thank you,
+[17:00] Lord, for every single person who is who
+[17:03] is watching this YouTube channel right
+[17:05] now. I pray peace over them that they're
+[17:08] not tormented by by fear. But we are we
+[17:13] are watchmen. We are listening. We're
+[17:16] waiting. We're hearing your voice. And I
+[17:18] thank you, Lord, just like you told
+[17:20] Joseph, there would be seven years of of
+[17:23] plenty and seven years of famine.
+[17:26] Father, I thank you, Lord, that you
+[17:28] speak to people still today. They They
+[17:31] don't need me. They don't need me. They
+[17:33] don't need uh me to come on here and
+[17:35] tell them what's happening. They can see
+[17:38] it for what's what's happening all
+[17:40] around them. But father, they hear you
+[17:43] themselves. Every single person on this
+[17:47] YouTube channel that is a bornagain
+[17:49] believer has the ability to hear the
+[17:52] voice of the Lord by reading their Bible
+[17:55] and praying, seeking you daily and not
+[17:58] just uh just on Sundays or Wednesday
+[18:01] night church. they can have a
+[18:03] relationship with you now. Father, I
+[18:06] thank you that you become real to them,
+[18:09] Father. They would develop a passion for
+[18:12] having a relationship with the King of
+[18:14] Kings and the Lord of Lords. That Jesus
+[18:17] is real to each individual person on
+[18:20] this that's watching this right now.
+[18:22] That they hear you, God. Father, that
+[18:25] you're passionate about them and they be
+[18:27] passionate about you. I thank you, Lord,
+[18:30] that they're healed and whole and well
+[18:32] from the top of their head to the soles
+[18:34] of their feet. They're delivered from
+[18:36] satanic bondages of all kinds. I thank
+[18:39] you, Lord, that their minds are being
+[18:41] renewed day by day, hearing your voice,
+[18:44] Father. And we thank you, Lord, for all
+[18:46] that you're doing and all that you're
+[18:48] going to do in their lives, God. And we
+[18:51] thank you, Father, in the name of Jesus.
+[18:54] It's the name above every name. We call
+[18:57] them healed. We call them well. We call
+[19:00] them delivered whole and set free by the
+[19:03] power of your blood, by the power of
+[19:05] your name. We thank you Lord, Father,
+[19:08] for your grace and your mercy today. And
+[19:10] we give you great honor and great glory
+[19:12] in Jesus name. And everybody say amen
+[19:15] and amen. Well, thank you for watching
+[19:18] this. Uh if you could click the
+[19:20] notification bell, click the like
+[19:22] button, the subscribe button, it helps
+[19:25] us out, y'all. We appreciate you
+[19:27] supporting us and and and and being a
+[19:29] part of our YouTube channel. We're
+[19:31] getting the gospel throughout the whole
+[19:32] world. People are being healed, set
+[19:35] free, and delivered from all kinds of
+[19:37] things because of Jesus. He did it all.
+[19:40] It's not about me. It's all about him.
+[19:42] Jesus paid the price for you to be free.
+[19:45] And he wants you to be free. And so, I
+[19:47] just want to tell you all thank you.
+[19:49] Well, put a smile on your face and a
+[19:52] song in your heart. Jesus loves you so
+[19:54] much. And we love you. God bless you
+[19:57] all. You all have a wonderful day.
+[19:58] Bye-bye.
+~~~

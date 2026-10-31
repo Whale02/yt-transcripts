@@ -1,0 +1,701 @@
+# The Lord showed me more about the plague and the 350 million and what’s coming
+
+**视频**: https://www.youtube.com/watch?v=DX-CvIHefyE
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/The Lord showed me more about the plague and the 350 million and what’s coming [DX-CvIHefyE].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 613；**章节数**: 7；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-01)
+- [02. 04:00–07:59 · 疾病、医疗与药品、预言、梦境与异象](#section-02)
+- [03. 08:00–11:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-03)
+- [04. 12:00–15:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-04)
+- [05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-05)
+- [06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
+- [07. 24:00–27:26 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-07)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] hey good morning family how y'all doing
+[00:03] today I'm going to uh deliver a pretty
+[00:06] heavy word today I hope I hope you all
+[00:09] are ready for this I know I haven't been
+[00:11] on much I've been praying about this um
+[00:15] you know as a Watchman it's not always
+[00:17] easy to come out and tell you all some
+[00:19] of the things that I see but I'm I it's
+[00:22] my job and I'm going to tell you what I
+[00:24] see and I prayed over this one for quite
+[00:27] a while before I'm going to deliver this
+[00:29] because because of how heavy this word
+[00:31] is I just feel like I should pray before
+[00:33] I start cuz I want you to receive this
+[00:36] because it it is um it is a warning it
+[00:39] is a very Stern warning about things and
+[00:42] I
+[00:43] I'm I I was taken back by it so I so
+[00:47] let's just pray real quick and and let's
+[00:49] and and we'll get right into it father I
+[00:51] thank you that you speak through my
+[00:54] vocal cords and you think through my
+[00:56] mind I ask you for none of me and all of
+[00:59] you
+[01:01] every word that I say father I thank you
+[01:03] holy spirit that you help me to deliver
+[01:06] it to your people that father that this
+[01:08] would uh minister to them that they
+[01:11] would take it as the warning that you've
+[01:13] given me about the end times and where
+[01:15] we are and that father that they would
+[01:19] um they would uh take it to you in
+[01:22] prayer and that they would meditate on
+[01:25] the word and they won't get in fear they
+[01:28] will meditate on the word and they will
+[01:31] understand who they are in
+[01:33] Christ
+[01:36] and Lord I just thank you I just thank
+[01:39] you in Jesus name amen now here comes
+[01:42] the
+[01:43] word this is the urgency of what the
+[01:46] Lord showed me so here what here it was
+[01:49] I like I do I praying I put my my prayer
+[01:51] Shaw on it went into deep
+[01:55] intercession and all of a sudden just
+[01:57] like the Lord opens my eyes and the
+[01:59] spirit real I was taken over and I saw a
+[02:04] meeting now I'm going to have to be very
+[02:07] very careful how I how I deliver this um
+[02:13] because of the things that I saw now I
+[02:16] won't I now I'm going this is the way
+[02:19] out I'm going to just say it like this
+[02:20] I'm going to I'm going to deliver this
+[02:23] but I want you all to read in between
+[02:25] the lines as much as possible just for
+[02:27] just because of of
+[02:30] and people would go why are you going to
+[02:32] protect your family because things that
+[02:34] I see could could jeopardize me and and
+[02:37] put me in danger okay so let's just use
+[02:40] a little wisdom here you know so I'm
+[02:43] going to say it like this I was taken up
+[02:45] in the spirit and I saw a
+[02:47] meeting and they were
+[02:52] contemplating the next
+[02:54] virus
+[02:56] okay they were they were they were in a
+[02:59] in in a room and I could see these heads
+[03:02] of these leaders and and that's where
+[03:05] I'll leave that I won't say who I saw
+[03:07] doesn't matter but they were they were
+[03:10] negotiating and the Obesity epidemic ac
+[03:14] across the world has reached Heights
+[03:18] Beyond anybody's comprehension on
+[03:20] purpose remember whenever I told you all
+[03:23] I saw the 350 million people perish 350
+[03:27] million would go
+[03:28] home but I didn't know I thought it was
+[03:31] going to be a um kind of like a CO
+[03:35] thing well okay oh God help me here I
+[03:39] saw a
+[03:41] laboratory I saw
+[03:45] ai ai computer technology and AI was
+[03:50] creating a superv virus they were using
+[03:54] the AI to create something more
+[03:57] dangerous in the end times than what Co
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 疾病、医疗与药品、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：疾病、医疗与药品、预言、梦境与异象、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:01] was I could see DNA strands running like
+[04:06] computers like
+[04:07] computer
+[04:09] uh uh
+[04:11] code and Co there was there was lines
+[04:17] there were lines now and I'm not a smart
+[04:19] person about this kind of stuff y'all I
+[04:21] I'm just telling you what I see I saw
+[04:23] DNA
+[04:25] lines but Co was clear over here on like
+[04:29] it was barely even used in this new
+[04:32] strand
+[04:34] okay help me Holy
+[04:37] Spirit it was it was all over here right
+[04:41] it went in in like these lines and they
+[04:45] were taken the lines from high blood
+[04:47] pressure
+[04:48] medicine uh diabetes
+[04:51] medicine and they were splicing it
+[04:55] into this this this virus
+[05:00] okay spanning off of
+[05:07] obesity it was being uh perfect
+[05:11] perfected okay skinny people people who
+[05:16] were not overweight that took care of
+[05:19] thems ate
+[05:21] right uh maintained a good BMI were safe
+[05:26] okay they had uh immune ities inside of
+[05:30] them somehow to be able to sustain their
+[05:34] body to not
+[05:36] perish but people who were on um and
+[05:40] this is what I'm saying no fear diabetic
+[05:42] medicine high blood pressure medicine um
+[05:47] uh high cholesterol medicines things
+[05:49] like that or
+[05:52] targets and because of
+[05:55] this they were if you were real heavy
+[05:58] you were
+[06:00] um a Target is what I'm going to say
+[06:04] throughout the whole world and I heard
+[06:06] them
+[06:07] say obesity is a drain on our economy
+[06:12] it's a drain on
+[06:15] society therefore we must eliminate
+[06:19] this okay and I saw a
+[06:24] plan to
+[06:27] eliminate uh and and and I'm going to be
+[06:30] very careful uh genocide ethnic
+[06:36] cleansing a a a a um group of
+[06:42] people a group of people does that makes
+[06:45] sense I hope I'm making sense it's a
+[06:47] group of people because the Health Care
+[06:50] system is too much and I'm going to put
+[06:52] a clip in right here that's going to
+[06:55] show you
+[06:56] exactly what I saw how much much
+[07:00] money because of the Obesity epidemic
+[07:03] because of this how much is costing on
+[07:05] the Health Care System the number of
+[07:07] morbidly obese across the United States
+[07:09] has skyrocketed to over 30% in the last
+[07:12] 20 years not only that but what is
+[07:14] obesity costing you and me the taxpayer
+[07:17] well if you break down the cost and
+[07:18] compare them to other taxpayer
+[07:20] expenditures you can see it adds up
+[07:22] really quickly to fly our president for
+[07:24] one year in Air Force One cost us $500
+[07:27] million all cost ass associated with
+[07:30] illegal aliens in California alone cost
+[07:32] taxpayers $9 billion a year if you add
+[07:35] up the money spent on the No Child Left
+[07:37] Behind policy it's a staggering $23
+[07:40] billion a year and all cost associated
+[07:43] with drunk driving but whopping 24
+[07:46] billion a year so how does obesity stand
+[07:48] up to these numbers well when you add up
+[07:51] increased Insurance costs loss of work
+[07:53] due to obesity conditions increased
+[07:55] Medicare and Medicaid cost it comes to
+[07:57] $80 billion a year
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 预言、梦境与异象、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:00] that's more than all of those other
+[08:01] programs combined so now I saw
+[08:05] this I saw Satan and he was the head of
+[08:09] the meeting that I told you all that was
+[08:11] happening and I saw a
+[08:14] v i saw a v like this okay that was like
+[08:19] a number five in the Roman numerals like
+[08:23] a V okay and
+[08:27] um at the first there was there were
+[08:30] each pillar and it went seven and I saw
+[08:34] seven deadly
+[08:37] sins seven deadly sins and I'm not
+[08:40] familiar with this because I'm I didn't
+[08:42] realize this came from the Catholic
+[08:44] Church okay is what I what I'm doing
+[08:47] research because I'm trying to study
+[08:49] this out you know before I present it to
+[08:51] you I don't look I'm like Lord it this
+[08:54] is deep but it went like this and there
+[08:57] was two pillars five were all together
+[09:01] they were they were the ones that
+[09:02] weren't were like you know the things
+[09:04] that really people like uh
+[09:07] anger uh uh lust uh rap those things
+[09:12] like that I know the things that the
+[09:14] Lord hates you know I I and I'm sorry
+[09:16] I'll butcher it I don't have the verse
+[09:18] in front of me but these things the Lord
+[09:20] hates a lying Spirit a quick quick to uh
+[09:24] sh shed innocent blood all those things
+[09:27] right there were seven the five went
+[09:30] like this and two were right here and it
+[09:32] was
+[09:33] slothfulness
+[09:35] slothfulness and
+[09:38] gluttony things that were not as upfront
+[09:41] as the other sins what I want to say
+[09:45] they were back here and they were they
+[09:47] wen't as there wasn't and so when I'm
+[09:49] seeing it in the spirit I see light
+[09:52] shining on the five but the devil pushed
+[09:57] the two these r here gluttony and
+[10:01] slothfulness to the front and he was
+[10:04] talking about it to them about exposing
+[10:08] these two because they were they were
+[10:11] they were not as bright as what it was
+[10:13] trying to be lit up as these two
+[10:15] slothfulness and and obesity so a
+[10:20] gluttony and so I I was watching how
+[10:23] this was all panning out in front of me
+[10:25] okay and so he was pushing it to the
+[10:28] front to call and then I saw him
+[10:31] petitioning the father because of Grace
+[10:35] and he had a Grace over uh what we would
+[10:40] consider uh people just kind of just
+[10:43] like it's not been a big deal but
+[10:46] there's a lot of people that are heavy
+[10:47] in the body of Christ very heavy and he
+[10:51] was calling forth all the scriptures
+[10:55] throwing them at the father I could hear
+[10:58] him calling forth judgment over obesity
+[11:04] saying this is an Open Door from seed
+[11:07] time and harvest and I'm calling um uh
+[11:12] it he was call it was like he was
+[11:15] petitioning uh the open door for
+[11:17] judgment concerning this does that make
+[11:20] sense I I I'm trying I'm trying so hard
+[11:23] to do this father I thank you that
+[11:24] you're helping me um he was calling
+[11:27] forth judgment
+[11:30] because it was like it was in the
+[11:32] shadows over here gluttony and
+[11:36] slothfulness I'm a Watchman and I'm here
+[11:39] to tell you all there is a plan for the
+[11:42] enemy to come in and and and and and
+[11:45] they're going to they're designing
+[11:47] something to wipe people out I'm just
+[11:49] being real with y'all and it's
+[11:52] crazy the things I
+[11:54] saw this is something else I thought was
+[11:57] interesting I was seeing them
+[11:59] use uh bumblebees for whatever it was
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:03] and these scientists were using
+[12:06] bumblebees and they were taking the
+[12:08] bumblebees and they were doing something
+[12:10] with the Bumblebees queen bees they were
+[12:13] big bees big big bees not little bitty
+[12:16] baby bees but big queen bees and they
+[12:19] were trying to figure out how to
+[12:20] genetically alter the BM the Bumble be
+[12:24] okay very strange and I don't know I'm
+[12:27] still praying over this some of this
+[12:28] stuff but this is just some of the
+[12:29] things that the Lord showed me in the
+[12:31] laboratory with the genetic code using
+[12:33] AI for this new thing and I'm telling
+[12:36] you all this will line up with the with
+[12:39] the end time uh the uh the pel the
+[12:42] paleface rider there's something serious
+[12:45] about this and the Lord kept saying to
+[12:47] me after I I cried out for Mercy he gave
+[12:50] me more time and he was telling me
+[12:52] Brandon get the weight off so I have had
+[12:55] a mandate by the spirit of God I'm
+[12:58] telling you you all just being real with
+[13:00] you to do whatever it takes to get this
+[13:03] weight off and to keep it
+[13:05] off and and I'm I'm telling you all just
+[13:08] out of love it's not to point fingers at
+[13:11] anybody and say you're sin or whatever I
+[13:14] call out for Grace call out father Grace
+[13:17] Grace forgive me Father help me help me
+[13:21] to get the weight off help me to take
+[13:24] care of my body help me I don't want to
+[13:27] have food addictions anymore I don't
+[13:29] want to be bound by food and you know I
+[13:31] have to reprogram my whole mind here
+[13:33] because in my
+[13:35] mind uh the value meal at a at a at a at
+[13:39] a Burger King or whatever McDonald's or
+[13:41] whatever is is the standard well that's
+[13:44] what you have in there how many calories
+[13:46] it is and and and I and I had to ask
+[13:49] myself the question what is right for a
+[13:54] portion how much should a man eat cuz I
+[13:59] don't know I I I had to I'm having to
+[14:02] educate myself and and that's sad
+[14:04] because I'm 43 years old and I have no
+[14:07] clue and I had to go what what is a good
+[14:10] portion size of meat 6 ounces as most of
+[14:13] the people say is 6 ounces of meat a day
+[14:17] and and and eat lots of vegetables and
+[14:19] greens then you have other people that
+[14:21] say you can eat all the meat you want in
+[14:23] carnivore and all this other stuff and
+[14:24] I'm like but what's what's good for me
+[14:27] what's going to do CU this is Ser serous
+[14:30] okay when I'm seeing all the stuff going
+[14:31] on the spirit realm and i' I've been
+[14:33] very hesitant to talk about this how how
+[14:35] do you help people CU they say the
+[14:38] average diet is 2,000 calories so I you
+[14:41] know a day is what you should eat but
+[14:43] you got to eat a lot less than that so I
+[14:45] started figuring up I got that calorie
+[14:47] app my son's using my phone to film me
+[14:49] but I had that calorie app and I was
+[14:51] adding up how many calories I was eating
+[14:53] every day and you would you would freak
+[14:55] out if you knew how many calories I was
+[14:56] eating I was eating a lot and just being
+[14:59] real and I was eating a ton of calories
+[15:01] every day and that's how I got to be
+[15:02] three over 300 lb but I started looking
+[15:05] at you know and just really going
+[15:07] through things and and and look at the
+[15:09] nutrition of what I'm eating how much
+[15:11] I'm eating and and really trying to make
+[15:14] this a lifestyle because I'm telling you
+[15:16] it's mandated by the spirit of God it's
+[15:18] not just me now it's it's the Lord and
+[15:20] he's like this you're out of time for
+[15:23] what's coming you're out of time for
+[15:25] what's coming and I was like what's
+[15:26] coming show what what is the urgency
+[15:29] I've been heavy all my life what what is
+[15:31] what's the deal Lord what why why are
+[15:34] why why I feel so much spiritual
+[15:35] pressure over this but I had no idea
+[15:38] what was going on with the bad
+[15:41] guys just saying the bad guys they're
+[15:44] crazy these people are crazy just like
+[15:46] Hitler was he's crazy you know just
+[15:50] crazy they they just fool the devil but
+[15:53] they have a mandate to to lower the cost
+[15:56] of healthc care to lower the cost of all
+[15:57] this stuff I'm just telling you'all just
+~~~
+
+<a id="section-05"></a>
+## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[16:00] trying to warn youall and I'm trying to
+[16:01] freak y'all out and trying to not put in
+[16:03] no fear if you want to say he's he's
+[16:04] nuts you want to put me on a shelf
+[16:06] whatever but at least I say I told yall
+[16:08] so when it happens I'm just telling you
+[16:11] all we're in a time like we've never
+[16:13] seen before and we're in the end of the
+[16:15] end Jesus is coming and the dark's
+[16:19] getting darker and it's going to keep
+[16:20] getting darker but the light's going to
+[16:22] get
+[16:23] lighter Jesus is in us and we have
+[16:27] nothing to fear I'm believing God for
+[16:29] Supernatural healing for every single
+[16:31] one of you that you'll be delivered from
+[16:33] obesity and whatever these pills or
+[16:36] whatever they're trying to spice with
+[16:37] this thing and all the Demonic all this
+[16:40] stuff with this AI stuff I'm telling you
+[16:41] it's dark it's dark darker than what
+[16:45] people realize because I saw into it and
+[16:48] it's
+[16:49] satanic uh Beyond anybody's
+[16:52] comprehension for what they what they
+[16:54] have planned trying to use this uh stuff
+[16:57] this new new computer stuff
+[16:59] and it's it's it's it's heavy some of
+[17:02] the things the Lord's showing me and so
+[17:05] um I just want to encourage you don't
+[17:08] give up get this weight off take care of
+[17:11] your bodies because some it some of you
+[17:14] it will be life and death it really will
+[17:17] I I I'm I'm just telling you all it's a
+[17:19] very serious time we are not to fear
+[17:23] what they do because Psalms 91 and
+[17:25] Psalms 23 but when the Lord petitions me
+[17:29] even as a man you get that we down you
+[17:31] get 100 lb off right now you do it as
+[17:34] quickly as possible get 100 lb off over
+[17:37] I told you over this year I saw going
+[17:40] into 2025 and I told you it's dark now
+[17:43] do we change things can we change things
+[17:45] can we stop any of this I believe we can
+[17:48] I believe we have a power and authority
+[17:49] over to do a lot of things but I'm
+[17:51] telling you all it doesn't give us the
+[17:54] right to still not take care of our
+[17:56] temples we are the Temple of the Holy
+[17:58] Ghost ghost and he dwells on the inside
+[18:00] of us and he has told me you're to get
+[18:03] the 100 lb off and I probably end up Los
+[18:06] getting rid of more I don't want to call
+[18:08] losing it because I don't want to find
+[18:09] it ever again I want to make this a
+[18:12] lifestyle for me and my family and
+[18:14] that's where I'm telling you I'm down to
+[18:15] 35 and my goal for next month for month
+[18:18] of March is another 20 to 30 pounds I'm
+[18:21] believing God for it and that before
+[18:24] before my birthday before all that I'll
+[18:26] be I'm GNA be the healthiest and
+[18:28] skinniest I've ever been for my heart
+[18:31] riding my bike I've been riding my bike
+[18:32] eating right and doing right and just
+[18:35] and just taking care of this Temple and
+[18:38] knowing that God has a plan for my life
+[18:41] my blood pressure is perfect
+[18:42] everything's better than it's been in in
+[18:44] years even just with a 35 PBS I told my
+[18:47] wife I said I'm very excited to see what
+[18:50] I do with uh myself in the next um 30
+[18:55] that' be 60 some pounds so I I'm just
+[18:57] saying I I hope this encourages you all
+[19:00] to to take care of yourself it's kind of
+[19:03] like it's the uh the hidden thing like I
+[19:05] was talking to y'all about just kind of
+[19:07] let the weight go being slothful
+[19:10] whatever but but but the devil's
+[19:14] legalistic he is a legalistic piece of
+[19:17] crap the devil is and he is smart about
+[19:21] things and he knows the Bible better
+[19:24] than you and I both put together know it
+[19:26] he just don't he's not a spirit he's not
+[19:28] the Holy Ghost feel like us we're led by
+[19:30] the spirit of God but he memorizes he
+[19:32] knows the word I'm telling you cuz he I
+[19:34] could hear him and he was quoting all
+[19:37] the gluttony scriptures and he knew them
+[19:40] and I thought isn't that
+[19:42] interesting it it I was frozen my tracks
+[19:45] when I was listening over and what was
+[19:46] going on I just froze and I was
+[19:49] listening over and I could hear it and I
+[19:51] thought what what is he petitioning what
+[19:54] is going on what are you letting me he
+[19:56] Lord and I just say hold on hold on on a
+[19:58] minute and he was petitioning for me cuz
+~~~
+
+<a id="section-06"></a>
+## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:01] I was obese and I thought what what hold
+[20:04] on hold on Grace Grace Grace Hold on
+[20:05] Grace have mercy on me hold on hold on I
+[20:08] plead the blood I take communion I do
+[20:10] all this I whatever I got to do God
+[20:12] forgive me forgive
+[20:14] me he's open the door he's open the
+[20:19] door he's he is seed time and harvest
+[20:22] has to because Grace has keep kept it
+[20:24] from happening and I told you all this
+[20:26] seed time and harvest is going to
+[20:28] accelerate beyond anything you can
+[20:31] comprehend in these last
+[20:33] days more so than if people are sewing
+[20:36] you think well they're getting away with
+[20:37] it no no no no no no seed time and
+[20:40] harvest is going to it's got the the
+[20:43] sewer and the reaper are going to go
+[20:45] hand in hand in in any area of your
+[20:49] life physically spiritually financially
+[20:52] it's going to accelerate seed time and
+[20:55] harvest and that's what it was about
+[20:57] about obesity that's what it about about
+[20:59] a lot of things and and it's the
+[21:02] acceleration of SE time Harvest why I
+[21:04] have no really I have no idea I'm still
+[21:06] praying about this stuff you could pray
+[21:08] too you know what I I come on here and I
+[21:11] tell you the bits and pieces but I feel
+[21:13] it's an urgency and I don't feel like
+[21:14] it's fair for me to hold things back and
+[21:18] not tell you all as a Watchman if you
+[21:21] have an urgency inside of yourself to
+[21:23] get the weight off you may think well
+[21:24] he's totally full of full of it whatever
+[21:27] but I'm trying to help you get the
+[21:29] weight off take care of your bodies
+[21:31] exercise eat right okay so that's what I
+[21:35] have for yall today I I hope uh I hope
+[21:38] like I said you do with what you want to
+[21:41] but so father I just thank you for every
+[21:44] single person that is represented here
+[21:46] listening to this
+[21:50] video I thank you Father that it doesn't
+[21:52] bring fear to people but it brings an
+[21:55] urgency to take care of their Temple
+[21:58] I thank you Father that they have wisdom
+[22:01] and Revelation knowledge that they have
+[22:03] an understanding of who they are in
+[22:06] Christ and the devil's meant to kill
+[22:08] steal and destroy but you said I've come
+[22:10] that you might have life and life more
+[22:12] abundantly and so father I thank you
+[22:14] Father right now that we have the spirit
+[22:17] of
+[22:18] self-control on the inside of us we have
+[22:22] self-control we don't have to eat for
+[22:25] Comfort anymore father we break the
+[22:28] spirit of addiction to junk food in the
+[22:32] name of Jesus we take authority over
+[22:35] over pastas and father that our bodies
+[22:38] will have self-control concerning sweets
+[22:41] and cookies and cakes candies whatever
+[22:44] Cokes father I thank you Lord that we
+[22:47] get the weight off and we keep it off
+[22:49] and we're fit trim uh body for you to
+[22:53] live in father I thank you Lord that all
+[22:56] the underlying conditions from obesity
+[22:59] from high blood pressure to to high high
+[23:03] uh High uh blood sugars to to
+[23:07] um cholesterol to all kinds of things
+[23:11] father I thank you Lord that we get
+[23:13] those things under control and every
+[23:15] single one of these people will be off
+[23:17] of those meds and not have to take those
+[23:20] anymore father I take authority over the
+[23:23] demonic spirits that would try to cause
+[23:26] havoc in our lives concerning eating
+[23:28] disorder ERS and we command it in the
+[23:30] name of Jesus to be broken off of us and
+[23:33] we thank you Lord that we're free for
+[23:36] you said For Whom the son has set free
+[23:39] is free indeed and I thank you Lord for
+[23:43] that Spirit of self-control we take it
+[23:46] holy ghost R Holy Spirit we ask you rise
+[23:49] up on the inside of us give us wisdom
+[23:51] and Revelation concerning what to eat
+[23:54] how to eat and how much to eat on a
+[23:56] day-to-day basis that father that we
+[23:59] reprogram our minds to think like you
+~~~
+
+<a id="section-07"></a>
+## 07. 24:00–27:26 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[24:03] think and we take authority we crucify
+[24:06] our flesh daily and not just not just
+[24:09] every once in a while and we tell it to
+[24:11] get under our feet flesh you're under
+[24:14] our feet we have dominion and authority
+[24:17] over you and we command our mind and
+[24:20] even the dopamines and the and the and
+[24:22] the and the hormones of our minds to
+[24:24] line up with the word of God that we
+[24:27] take care we take Authority we take our
+[24:30] our our our our uh word and with the
+[24:32] word of the Lord and we meditate on the
+[24:35] word that we have the spirit of
+[24:38] self-control for God has not given us a
+[24:40] spirit of fear but of power and of love
+[24:44] and of of a sound mind and we have a
+[24:47] sound mind concerning food and we
+[24:49] exercise and we take care of our flesh
+[24:52] in the name of Jesus and I pray for
+[24:54] every single one of you that you're
+[24:56] still watching I pray bless blessing
+[24:59] over your bodies I pray blessing and
+[25:01] healing over your bodies right now in
+[25:03] the name of Jesus from the top of your
+[25:05] head to the souls of your feet you're
+[25:07] healed and whole and well in the name of
+[25:10] Jesus and I call you delivered from
+[25:12] addictions I call you delivered from
+[25:15] from all kinds of uh from drugs to
+[25:18] alcohols to to lust to pornographies to
+[25:21] whatever it may be you can be free for
+[25:24] whom the son is set free is free indeed
+[25:27] and you don't have to be Bound by
+[25:28] sickness and disease anymore Jesus Paid
+[25:31] the price for you to walk in Deliverance
+[25:34] and freedom in the name of Jesus and you
+[25:37] don't have to be bound by the devil we
+[25:40] call forth freedom in the name of Jesus
+[25:42] from anger issues we thank you Lord that
+[25:45] you're setting them free right now we
+[25:47] thank you Lord when we call Grace Grace
+[25:49] Grace Grace Lord thank you something we
+[25:52] don't earn and something we we don't
+[25:54] deserve but father it's a gift and we
+[25:57] take a for a hold of that Grace today
+[26:00] and we call for Mercy today God Mercy
+[26:03] Mercy Mercy Mercy Lord your mercy well I
+[26:07] just want to say thank you all for being
+[26:09] a part of this video today I don't have
+[26:11] my pillows or my bell but oh here's my
+[26:13] BT if you could click that notification
+[26:17] Bell it really would bless us I I just
+[26:19] want to tell you all thank you for
+[26:21] liking subscribing for being a part of
+[26:24] this channel it's getting the gospel out
+[26:26] throughout the whole world we're warning
+[26:28] the people we're warning the people of
+[26:31] what the devil's tactics and what he's
+[26:33] trying to
+[26:34] do and we're getting people saved we're
+[26:37] getting people delivered we're getting
+[26:38] people set free from the power of the
+[26:40] devil he is he is a defeated Foe and
+[26:44] Jesus lives on the inside of you and we
+[26:46] don't have to have it but I'm telling
+[26:47] you'all people need to know that and I
+[26:49] believe that the Lord's called me to
+[26:51] tell people that Jesus is coming he told
+[26:53] me go on there this a year ago this this
+[26:57] next week he he said go on there and
+[26:59] tell my people that I'm coming I said
+[27:01] Lord don't they know he said no my
+[27:03] people are not looking for my return
+[27:05] Jesus is coming Jesus is coming ladies
+[27:09] and gentlemen and he's coming soon and
+[27:12] I'm telling you we need to be looking
+[27:13] for him every day Jesus loves you all
+[27:16] and I'm just telling well put a smile on
+[27:18] your face and a song in your heart Jesus
+[27:21] loves you so much and we love you and we
+[27:24] will see you all next time y'all have a
+[27:26] blessed day bye-bye
+~~~

@@ -1,0 +1,650 @@
+# How to get your Prayers Answered ｜ What the Lord showed me about the Southern Border of America
+
+**视频**: https://www.youtube.com/watch?v=Dmt3mhQFnis
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/How to get your Prayers Answered ｜ What the Lord showed me about the Southern Border of America [Dmt3mhQFnis].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 573；**章节数**: 6；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-01)
+- [02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-02)
+- [03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-03)
+- [04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-04)
+- [05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
+- [06. 20:00–22:48 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] hey good morning family uh I'm excited
+[00:03] to be able to come on today and I want
+[00:04] to introduce to you my wife uh this is
+[00:07] my wife Diana we've been married now for
+[00:10] 22 years and um I I'm really excited you
+[00:14] know I she's been in the person in the
+[00:15] background and uh she's the one that
+[00:18] reads all the emails to me and and all
+[00:20] the comments and she's helping respond
+[00:22] and she's been a real big part of this
+[00:24] and and we just want to say thank you
+[00:26] for all the financial blessings that
+[00:28] you've given our family and just to help
+[00:30] the support the likes the shares you
+[00:33] know YouTube's really tried to uh
+[00:35] suppress my videos here lately we can
+[00:37] see on our little chart uh what they've
+[00:39] done and all my videos are just being
+[00:41] seen by you all and so I just wanted to
+[00:44] say thank you for sharing my stuff for
+[00:46] help and support get the gospel out
+[00:48] there uh telling people that Jesus
+[00:51] Christ loves them and um we're just so
+[00:54] honored and so thankful for uh all that
+[00:56] you all have done for us and and so but
+[00:59] you have anything you want to say no I
+[01:01] just wanted to say thank you for all
+[01:02] your support and we enjoy reading your
+[01:05] comments and
+[01:06] um we always read them and if we don't
+[01:08] respond just know that we're always
+[01:10] praying over you and everything that we
+[01:12] read we're bringing it to God In Prayer
+[01:13] so just wanted to say thank you and we
+[01:15] appreciate you so so much for blessing
+[01:17] our family and it for all the likes and
+[01:19] all the subscribers and we just wanted
+[01:21] to say thank you so much and we love you
+[01:23] we just want to say thank you
+[01:25] definitely I was praying about uh the
+[01:29] border and all the things going on at at
+[01:32] the border the the SEC trafficking the
+[01:34] drugs the all the evil that's going on
+[01:38] down there and the Lord said to me
+[01:39] Brandon I'm going to tell you something
+[01:41] he said
+[01:43] what the devil meant for bad through the
+[01:46] Democratic party and all that they do by
+[01:49] by having these open borders and all
+[01:51] these people flooding and all the stuff
+[01:53] going on the hundreds of thousands of
+[01:55] people flooding over the borders
+[01:58] you said you don't need to worry about
+[01:59] that
+[02:00] he said for I have a plan and I was like
+[02:04] oh wow what's going on he said Brandon
+[02:07] what the devil meant for bad I'm gonna
+[02:10] turn it around for good he said these
+[02:13] people are are searching for the
+[02:16] American dream they're all coming
+[02:17] there's a lot of evil coming across the
+[02:19] border also not just innocent people
+[02:21] that are just wanting a a new life he
+[02:24] said there's a lot of uh there's a lot
+[02:26] of terrorist things or a lot of bad
+[02:27] stuff happening he said but Brandon
+[02:30] there's a great Revival that's about to
+[02:33] hit this nation and about it he said
+[02:35] it's coming and over the world and he
+[02:37] said these people that are coming are
+[02:39] gonna get caught up in this great
+[02:41] outpouring of my spirit on this nation
+[02:44] and he said there's going to be a great
+[02:45] harvest of souls Upon This Nation down
+[02:49] at the southern border he said there's
+[02:50] going to be a great move of God on the
+[02:53] southern border he said there's going to
+[02:55] be healings and Restoration in people's
+[02:58] lives he said just get ready he said
+[03:00] don't worry about it he said Brandon
+[03:02] my son's return is right at the door do
+[03:06] you understand he said you're thinking
+[03:08] too small do you realize what's about to
+[03:11] happen a great great powerful move of my
+[03:14] spirit is about to hit this Earth and he
+[03:17] said don't worry about all that fleshy
+[03:19] stuff there's going to be a great
+[03:20] outpouring of my spirit upon this earth
+[03:22] like never before and he said Brandon
+[03:25] don't worry about all that stuff he said
+[03:27] I'm telling you I'm going to turn it
+[03:29] around for good in in the in in the
+[03:31] favor of the in my favor I'm going to
+[03:34] turn it around for good in my favor and
+[03:36] he said watch what I'm about to do on
+[03:38] the southern border and a great Revival
+[03:40] is about to Break Forth watch watch he
+[03:43] said he said remember this he said if
+[03:46] the devil would have known what was
+[03:48] going to happen with Jesus he said they
+[03:51] wouldn't have crucified him remember
+[03:53] this he said if the devil would have
+[03:55] known what was going to happen on the
+[03:57] southern border son when all the Revival
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:00] that's about to Break Forth he said he
+[04:02] went I've done this either he said I'm
+[04:04] going to turn it around son watch and
+[04:07] and you know what y'all whenever he said
+[04:09] that I felt the power of God all over me
+[04:11] and he said I'm going to turn it around
+[04:13] there's going to be all these drug
+[04:15] trafficking all this direct traffic and
+[04:17] Watch What Happens God's coming on the
+[04:20] scene he's going to show up and he's
+[04:22] going to embarrass the devil again and
+[04:24] they're not going to be able to cover it
+[04:26] up CNN Fox all these people all this
+[04:28] stuff going on they're going to see and
+[04:30] they're going to go what is going on
+[04:32] down there because a great remove a
+[04:34] great move of God is about to pour out
+[04:37] even on the southern border all
+[04:39] throughout Texas all throughout Mexico
+[04:41] all throughout um uh Arizona and
+[04:44] California Get Ready Get Ready Get Ready
+[04:47] a great Revival is coming y'all and I'm
+[04:49] telling you it's going to start on the
+[04:51] southern border too
+[04:53] there's not a devil in hell that can
+[04:55] stop what God's about to do I'm telling
+[04:58] you it's going to happen it's going to
+[04:59] be like popcorn popcorn popcorn and get
+[05:02] ready because Jesus is going to do it
+[05:03] even on the southern border so I just
+[05:05] want to encourage you because I know a
+[05:07] lot of people have been in fear oh well
+[05:09] the al-Qaeda and whoever else is coming
+[05:11] across it yeah we've hear all this stuff
+[05:14] on the on the news about what's going on
+[05:16] with these these children but God's
+[05:18] fixing to put it put an end to all that
+[05:20] he's going to move in a great Mighty way
+[05:23] in these last days so just get excited
+[05:25] about what God's got getting to do pray
+[05:28] pray send laborers across their path who
+[05:30] knows there's it's going to be one of
+[05:31] the glory Spots I'm telling you I I know
+[05:34] that God is fixing he said he's up to
+[05:36] something big God's gonna do something
+[05:38] big get ready for something big family
+[05:40] you know a lot of people are asking me
+[05:43] about uh prayer tips what do you pray
+[05:46] how do you pray and the Bible says if ye
+[05:49] abide in me and my words abide in you
+[05:52] you shall ask what you will and it shall
+[05:54] be done you just need to get that
+[05:55] scripture down inside of you that if ye
+[05:58] abide in me and my words abide in you
+[06:00] you shall ask what you will and it shall
+[06:02] be done so the word needs to back your
+[06:05] prayer you need to get the word to back
+[06:07] your prayer to get the manifestation of
+[06:09] what you're looking for okay because a
+[06:12] lot of people you you start praying all
+[06:15] all the stuff in doubt and unbelief but
+[06:17] the word back in your prayer moves your
+[06:19] Mountain
+[06:20] it moves the things that you need and
+[06:23] and takes them out of the way okay
+[06:26] and and if you're in men if you're not
+[06:29] honoring your wives it talks about the
+[06:31] the your prayers are are hindered okay
+[06:34] and I'm gonna put that scripture here in
+[06:36] in the description so you need to to get
+[06:38] Strife out of your home you need to get
+[06:41] you need to start getting the word back
+[06:43] prayer and you get that word down inside
+[06:45] your heart so you pray the scriptures
+[06:47] okay and then you need to take the care
+[06:50] out of your prayer you've got to take
+[06:52] the care out of your prayer because it
+[06:55] it hinders things also being careful be
+[06:58] careful for nothing you don't need to
+[07:00] take the Care on it this is a perfect
+[07:02] example I was I was um I was praying
+[07:06] over my daughter and Megan and her
+[07:08] circumstances of all the stuff taking
+[07:10] the Care on of all of the stuff that
+[07:12] she's going through you know just really
+[07:14] just bugs about what I what I've told
+[07:17] you all but in this case fear was really
+[07:19] trying to hit me about the future what
+[07:22] are you what are you gonna do you know
+[07:23] Deval always tries to come and speak in
+[07:24] here what are you going to do now what
+[07:26] are you going to do now what are you can
+[07:27] do about your little girl when she gets
+[07:28] older what are you going to do whenever
+[07:30] uh whenever you you go home to be the
+[07:32] Lord she's going to be left here by
+[07:34] herself she can't you know take care of
+[07:36] herself all this doubt and unbelief
+[07:38] continually just nagging at me of the
+[07:41] fear fear fear fear tolerated is Faith
+[07:45] contaminated you've got to get fear out
+[07:48] of your out of your mind and out of your
+[07:49] thoughts you've got to cast down fear
+[07:51] because fear will rob you of your faith
+[07:54] perfect love casteth out all fear and if
+[07:57] you're walking in fear and in torment
+[07:59] fear has torment and he that feareth is
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:02] not made perfect in love so he's sitting
+[08:05] there trying to tell you all these
+[08:06] things bombarding your thoughts you can
+[08:08] you can't allow him to build a
+[08:11] stronghold in your thought life you've
+[08:13] got to cast those thoughts down you've
+[08:15] got to get that word of God say devil I
+[08:18] doubt your doubt I doubt your doubt
+[08:20] devil you're not gonna sit there and and
+[08:23] speak all your doubt and unbelief inside
+[08:25] of my head you can take that all with
+[08:27] you back to hell where you came from
+[08:29] you're not speaking down in my mind
+[08:31] devil I'm work Walking In Love for
+[08:33] perfect love casteth out all fear and
+[08:36] father I thank you that you love me
+[08:38] enough you love my Megan Lord you love
+[08:40] my Megan you love her and you have a
+[08:43] plan for her life I thank you that your
+[08:45] word says that by the stripes of Jesus
+[08:48] making us healed you have a perfect plan
+[08:51] for my baby
+[08:53] and I'm not gonna worry about her future
+[08:56] I'm not gonna take on the care of this
+[08:58] anymore because if you take it on you
+[09:01] know you may be laying in bed dying of
+[09:03] cancer you may be laying in bed dying or
+[09:05] something some uh incurable disease and
+[09:08] the care and the fear try to raise up on
+[09:10] the inside of you trying to rob you of
+[09:13] your faith you've got to speak to those
+[09:15] circumstances and you've got to realize
+[09:17] that even in the in the last seconds
+[09:19] right before you might take your last
+[09:22] breath God can still turn it God can
+[09:24] still turn it it does not matter how bad
+[09:27] your circumstances are all things are
+[09:30] possible to him who believe and faith
+[09:33] faith will move your Mountain I'm
+[09:35] telling you just believe and you're
+[09:37] gonna it just sin stand stand stand
+[09:40] never give up never give in well even
+[09:44] whenever I told you I deal with it he
+[09:46] comes to try to drive me what are you
+[09:48] going to do now what are you gonna do
+[09:49] now whatever you're gonna you don't have
+[09:51] any money saved back for her and her her
+[09:53] for going in at home that's gonna cost
+[09:55] you to millions of thousands of dollars
+[09:57] a year what are you gonna do and I will
+[10:00] it's not my problem devil my god's got
+[10:03] this he's big he's going to turn this
+[10:05] around for me and you know what I was in
+[10:08] praying like I said I I just interceding
+[10:10] and the Lord spoke to me he said Brandon
+[10:13] do you know what there will be a
+[10:15] generation son that doesn't ever taste
+[10:18] death
+[10:20] and you're that generation
+[10:22] you're never gonna see or taste death
+[10:25] he said my son is coming
+[10:27] my son is coming I've got this cast your
+[10:30] care Brandon cast It cast your care
+[10:33] don't take the care anymore
+[10:36] take the care out of your prayer
+[10:39] I've got you
+[10:41] you know what and when he said that
+[10:43] peace flooded my heart and I said Lord I
+[10:46] trust you
+[10:47] trust in the Lord with all your heart
+[10:49] and lean not unto thy own understanding
+[10:51] but in all thy ways acknowledge Him and
+[10:54] He said you direct your path
+[10:56] trust in him he's got you he loves you
+[10:58] he's never gonna he's Never Gonna Let
+[11:01] You Down he's gonna carry you through
+[11:02] your trials he's going to carry you
+[11:04] through the tribulations just like he's
+[11:06] done me I'm I am just human y'all
+[11:10] everybody I was asking for prayer
+[11:13] and everybody's asking me for for for
+[11:15] for healing and for all the stuff I I
+[11:18] don't control the switch Jesus does but
+[11:21] the same Jesus that lives in me
+[11:23] lives in you
+[11:25] you have the same power and authority
+[11:28] that is living on the inside of you that
+[11:30] lives in Me Greater is he that is in me
+[11:32] than he's in the world greater is he
+[11:34] that is in you than he that is in the
+[11:36] world
+[11:36] Jesus lives on the inside of you
+[11:40] it don't take me to pray for you you can
+[11:43] pray for yourself you have that
+[11:45] Authority that dwells on the inside of
+[11:47] you you can speak to your mountain and
+[11:50] it will hear you and it will be in part
+[11:52] and cast into the sea it will depart
+[11:54] from you and be cast into the sea you
+[11:57] have Mountain Moving faith on the inside
+[11:59] of you
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:00] faith comes by hearing and hearing by
+[12:04] the word of God that's the same way I
+[12:06] got it I didn't have I don't have no
+[12:08] Superman faith I have faith that has
+[12:10] been consistent it's like going to the
+[12:13] gym you go and you lift out and you you
+[12:16] lift the weights you're going to the gym
+[12:17] you're working out and you may see small
+[12:20] results you may see a little bit here
+[12:22] here and there but I've seen people that
+[12:24] that are huge bodybuilders and you know
+[12:27] how they got there not by one time going
+[12:30] to the gym not by two times going to the
+[12:32] gym but consistency consistency
+[12:36] consistency is what brings the results
+[12:39] when you are consistent with the word of
+[12:42] God when you get the word of God inside
+[12:44] of you and it's consistency consistency
+[12:46] every day every day you're hitting it
+[12:49] you know those those divots in the in
+[12:52] the caves or the little water dripping
+[12:54] on the on the um the rock and all of a
+[12:57] sudden over the course of time it
+[12:59] creates a a crater inside of it that's
+[13:01] the what happens when you keep keeping
+[13:04] the word inside of you like a little
+[13:06] drip you keep it in there if your flesh
+[13:09] wants to eat three times a day breakfast
+[13:11] lunch and dinner you should be in your
+[13:14] spirit some kind of food at least twice
+[13:17] a day get something on the inside of you
+[13:19] how desperate are you for change in your
+[13:23] life
+[13:24] people say oh I need change in my life
+[13:27] I'm spiritually drained I'm spiritually
+[13:29] going through all this stuff I need
+[13:31] change in my life
+[13:33] how desperate are you for that change
+[13:36] you got to be desperate you've got to be
+[13:38] like a bulldog on a bone you gotta say
+[13:41] I'm not gonna give up until I get my
+[13:45] Miracle I'm not giving up until I get a
+[13:48] touch from the Lord
+[13:51] I want to hear you father
+[13:53] I'm I'm y'all I'm telling you I'm not
+[13:55] anything special I've just been diligent
+[13:57] I just go and I get in the word I'm not
+[14:00] anything special
+[14:01] I'm telling you I just have been
+[14:03] diligent I've been desperate when a man
+[14:06] can hardly read or write or do anything
+[14:09] and you see all the other men that's
+[14:12] able to other men that are able to
+[14:14] provide for the families and take care
+[14:15] of their families it's it's very
+[14:18] humbling to me because I because I
+[14:20] because I want to be that and so I've
+[14:22] had to press in even harder because of
+[14:25] the learning problems that I've dealt
+[14:27] with and I'm getting the word say God
+[14:29] show me how to take care of my family
+[14:31] show me what to do you know what I I
+[14:34] know that you're the provider I know
+[14:36] you're the one that provides all my
+[14:37] needs according to your riches and Glory
+[14:39] but father I thank you that you you give
+[14:41] you said you you you blessed my hands
+[14:44] and anything I put my hands to I will
+[14:47] prosper so I get in those words I find
+[14:50] things I ask him father show me what to
+[14:52] invest in show me what to do I look for
+[14:54] him every day all day long God what do
+[14:58] you have for me today wake up every day
+[15:01] until dissipating what's on your agenda
+[15:03] for my life not my agenda but what's on
+[15:06] your agenda what do you want me to do
+[15:08] today Lord and a lot of you might have
+[15:10] to go to work for eight to five a job or
+[15:12] whatever but you can still seek him for
+[15:14] what what your for what's going on in
+[15:17] your life Lord I Thank You Lord I just I
+[15:19] submit myself unto you I just listen to
+[15:22] you God I thank you I'm desperate I'm
+[15:24] hungry father speak to me show me the
+[15:27] things the hidden things father I pray
+[15:29] Ephesians 1 18 over my mind let the eyes
+[15:32] of my understanding be enlightened let
+[15:35] me know what the hope of my calling show
+[15:36] me God will show me what you have for me
+[15:38] today God and when you get desperate for
+[15:41] God it says those that seek me
+[15:44] will find me but he wants to see how
+[15:47] hungry you are he wants to see how
+[15:49] desperate you are because whenever you
+[15:51] get desperate and you get hungry and you
+[15:53] start seeking him God shows up but I'm
+[15:56] going to tell you this I go to him a lot
+[15:58] of times with singing my last time when
+~~~
+
+<a id="section-05"></a>
+## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[16:00] I sung in the I sang those songs in the
+[16:02] last video that was the first time for
+[16:04] me to ever sing in public I'm going to
+[16:05] say to anybody other than my wife and my
+[16:07] children
+[16:09] I sing all the time
+[16:11] praise brings the presence down praise
+[16:15] does people you that's a key of
+[16:17] spiritual warfare is worship when you
+[16:20] get in there in a Thanksgiving I enter
+[16:22] into his courts with Thanksgiving in my
+[16:25] heart
+[16:25] I enter his course with praise I thank
+[16:28] him I thank him for your lecture thank
+[16:30] him for your water thank him for the
+[16:31] food you ate take time to thank him and
+[16:34] worship him for everything you have I
+[16:37] sit there and and in my prayer time even
+[16:39] when my son and my wife were all praying
+[16:40] Lord I just take a moment it may be 10
+[16:43] minutes of the prayer God I just want to
+[16:45] tell you thank you for what you provided
+[16:47] for me today thank you for the clothes
+[16:49] on my my back thank you for the shoes on
+[16:52] my feet thank you Father that I have air
+[16:55] in my lungs thank you Lord for we're
+[16:57] healed thank you Lord my children are
+[16:59] hope thank you Lord for for the blessing
+[17:01] of of the trees thank you Lord for my
+[17:04] grass out front thank you Lord for for
+[17:06] the the flowers Lord for the birds for
+[17:10] my dogs for my for all for my chickens
+[17:13] for everything you've given me God's
+[17:15] you've been so good to me oh God you've
+[17:18] been so good to me
+[17:21] it hits me like that
+[17:23] you you you you got to get praise down
+[17:26] inside of your heart if you want a
+[17:28] manifestation of the glory of God in
+[17:30] your house you've got to be grateful for
+[17:32] what he's done for you
+[17:34] because he's no respecter of persons and
+[17:37] if he's going to be good to me he'll be
+[17:40] good to you I'm telling you God ain't
+[17:42] gonna look at me in these other special
+[17:44] way than you
+[17:45] I just take time to worship him a lot of
+[17:49] people are lazy they don't want to go
+[17:51] out to the spiritual gym like I don't
+[17:54] want to go to the Natural gym I think it
+[17:56] sucks to run on a treadmill but you know
+[17:58] what some people enjoy it I don't but I
+[18:01] enjoy going to the spiritual gym I like
+[18:04] to I like to see the things in the
+[18:06] spirit I like to see angels I like to
+[18:09] see those things but I'm going to tell
+[18:10] you all I never pursue one time for an
+[18:13] angel encounter I never pursue one time
+[18:16] for a Jesus encounter that I've had or
+[18:18] any kind of manifestation I just seek
+[18:21] his face
+[18:22] I seek his face if you seek his face you
+[18:25] can have it if you seek Him you can have
+[18:28] what's in his hand
+[18:30] if you seek what's in his hand his
+[18:32] provision and stuff it it it's it you
+[18:35] don't want to do that you want to see
+[18:37] Kim you want to seek his face
+[18:39] he's always looking for a hand on God
+[18:41] you know I thank you that you give me
+[18:43] this stuff and you're always coming to
+[18:44] him whining he knows what you have need
+[18:46] of he knows you're hurting he
+[18:50] you have something going on in your life
+[18:54] come to him of worship
+[18:56] come to just sing him a song Lord I just
+[18:59] want to sing you a song and I just start
+[19:01] singing him a song you are beautiful
+[19:04] beyond description
+[19:07] you you just start singing to him
+[19:09] father I stand I stand in all of you
+[19:15] just start singing to him
+[19:17] I stand I Stand All of You
+[19:22] holy God too
+[19:25] all Praises do
+[19:29] I stand in all of you
+[19:35] worship Him worship Him I started
+[19:38] feeling his presence he starts filling
+[19:40] the house Oh Lord You're Beautiful oh
+[19:43] you're worthy oh you're worthy Lord
+[19:46] you're worthy to be praised oh you're
+[19:50] worthy to be praised God
+[19:53] thank you Jesus and the more you do that
+[19:56] the more you practice his presence the
+[19:58] more he starts to come
+~~~
+
+<a id="section-06"></a>
+## 06. 20:00–22:48 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:00] and the more he feels comfortable being
+[20:01] around you the holy spirit's a gentleman
+[20:05] he is not going to force himself on you
+[20:08] he goes where he's invited
+[20:10] people you don't you need to understand
+[20:12] he loves each and every single one of us
+[20:15] he loves us and he wants to come and be
+[20:19] in your house but a lot of times the
+[20:22] atmosphere is not conducive for him
+[20:24] because you've got all kinds of trash
+[20:26] going on in your home
+[20:28] I'm telling you make the atmosphere
+[20:30] perfect
+[20:32] make the house perfect
+[20:35] in the spirit Realm by worship he loves
+[20:38] worship worship Him and I'm telling you
+[20:42] he'll come in your house and abide with
+[20:43] you and he's gay he'll come you'll be in
+[20:46] there and all of a sudden you start
+[20:47] worshiping the Lord hallelujah
+[20:51] Hallelujah
+[20:52] oh Lord I praise you
+[20:55] they don't have to be anything serious
+[20:57] just sing to him oh God you're so good
+[21:00] to me thank you for all you've done
+[21:03] and you start worshiping him
+[21:05] and I'm telling you I've said it before
+[21:07] when you get real of God gotta get real
+[21:10] with you and so you know I really I I
+[21:13] just I thought that these prayer tips
+[21:15] might help you this is a walk this is a
+[21:18] way of life for me this is how I live my
+[21:22] life I stay in an attitude of gratitude
+[21:25] I take the care out of my prayer I try
+[21:29] so hard to not let the devil come in
+[21:31] with thoughts of fear I feed on the word
+[21:34] get in the word priority number one
+[21:37] above all of it get in the word if you
+[21:40] abide in me and my words abide in you
+[21:43] you shall ask what you will and it shall
+[21:45] be done remember that get that down on
+[21:48] the inside of you you've got to get that
+[21:50] down and and you and it has to be a
+[21:52] foundation of a rock a rock solid
+[21:55] foundation of the word inside of you and
+[21:58] build your house on that so that the
+[22:00] wins when the winds and the waves and
+[22:02] the storms come it's not able to knock
+[22:04] your house down remember that the devil
+[22:07] always comes to kill steal and destroy
+[22:10] but you've just got to get the word down
+[22:12] inside of you and he that dwells in the
+[22:14] secret place of the most high shall
+[22:16] abide in the shadow of the Almighty stay
+[22:19] in that secret place
+[22:21] stay in that secret place of the shadow
+[22:23] of the almighty today I love you guys
+[22:25] put a smile on your face and a song in
+[22:28] your heart and I just thank you for
+[22:30] being with my family here if you all
+[22:32] could please like and share this video
+[22:35] it really helps me to get the word out
+[22:38] to get the gospel out I just want to
+[22:40] tell you Jesus loves you today he loves
+[22:43] you so much
+[22:44] I hope you realize that
+[22:46] thank you for being a part of my family
+[22:48] y'all bless you and have a good day
+~~~

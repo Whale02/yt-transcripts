@@ -1,0 +1,787 @@
+# I’ve had two dreams, warning of the same thing
+
+**视频**: https://www.youtube.com/watch?v=tzSAVrfA5Z8
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/I’ve had two dreams, warning of the same thing [tzSAVrfA5Z8].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 688；**章节数**: 8；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 预言、梦境与异象、地震、风暴与灾害](#section-01)
+- [02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-02)
+- [03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-03)
+- [04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-04)
+- [05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-05)
+- [06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
+- [07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
+- [08. 28:00–28:43 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-08)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 预言、梦境与异象、地震、风暴与灾害
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、地震、风暴与灾害、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] Hey, good morning family. How y'all been
+[00:02] doing? I had a dream. There was this
+[00:04] blonde lady and she had a red shirt on
+[00:08] with a blue denim shorts on. She had
+[00:11] real blonde hair to right here. It was
+[00:13] bleach blonde and she looked like she
+[00:16] was a weather lady, like she was like a
+[00:19] weather person, you know, like the way
+[00:20] she was trying to describe. And she was
+[00:23] just everything was green, everything
+[00:26] was lush. The beautiful uh sky was so
+[00:29] blue in the dream. And all of a sudden
+[00:32] she started pointing out that there was
+[00:35] a weather change coming. And all of a
+[00:38] sudden out of nowhere, nobody was
+[00:41] expecting this. Okay, it just happened
+[00:43] in suddenly in the dream. It just
+[00:46] happened in
+[00:47] suddenly. a
+[00:49] massive dark gray looking cloud came in
+[00:54] from the north and it was so cold
+[00:58] instantaneously. And like I said, she
+[01:00] was wearing shorts and she was wearing a
+[01:02] a red shirt which I really believe this
+[01:06] represented something about the United
+[01:07] States. I because it was red, white, and
+[01:10] blue. She had some red, white, and blue
+[01:12] on, right? And so,
+[01:15] um, she pointed
+[01:18] out these four massive oak trees, okay?
+[01:24] And each oak tree was
+[01:26] humongous, huge, big, big oak trees with
+[01:30] beautiful limbs and and and these trees
+[01:33] were just like out of some kind of uh
+[01:35] cartoon, you know? They were just they
+[01:37] were beautiful oak trees. And at the
+[01:39] time when everything was green, these
+[01:42] oak trees were just was full of leaves
+[01:45] and just really healthy looking. And
+[01:47] there were four of them and they went
+[01:49] one and they were all by each other, but
+[01:51] they all looked the same as each oak
+[01:55] tree looked the same. And all of a
+[01:58] sudden when this massive gray looking
+[02:01] storm came in and the ma and the cold
+[02:04] cold cold air beyond cuz everybody they
+[02:09] didn't prepare. They didn't realize it
+[02:11] was fixing to become so cold outside.
+[02:14] And all of a sudden that cold air came
+[02:16] in and it blew all the leaves and
+[02:19] everything off of the trees. And then
+[02:21] the dream went to black and white and
+[02:24] everything was uh black and white and
+[02:27] the
+[02:29] trees lost all their leaves. And the
+[02:32] Lord pointed out one, two, three, four.
+[02:38] And he said, 'You've asked me about how
+[02:41] long the crash will
+[02:43] last, and I'm telling you one, two,
+[02:48] three, four. And I want you to notice
+[02:51] the first one, the first year wasn't as
+[02:53] bad.
+[02:55] The oak tree wasn't didn't act like it
+[02:57] was in distress as much. But when it got
+[02:59] to the two center trees, one, two, they
+[03:04] were really in distress and people were
+[03:07] freaking out. There was no food. I And
+[03:09] then all of a sudden, I could see in the
+[03:11] dream there was no food. There was no
+[03:14] there was no uh preparation because
+[03:16] people didn't prepare because everything
+[03:18] was green and everything was so perfect.
+[03:22] But when it got to the two center trees,
+[03:25] I could see the people. It's like I
+[03:28] could see in the future of the trees,
+[03:30] okay, in the dream. And everybody was
+[03:33] not prepared. They were able to sustain
+[03:36] in the first tree easier than the la the
+[03:40] middle two. And then the last tree was
+[03:43] was people were just they're used to it.
+[03:46] They were used to it as more than that.
+[03:48] But the because they would prepare like
+[03:51] you know after you live it for a couple
+[03:53] of years it wasn't as it wasn't a shock
+[03:55] you know like when it's shocked to your
+[03:56] system it's like whoa it's cold out here
+[03:58] and then all of a sudden you're like
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:00] what happened to the
+[04:01] weather the two the two uh center trees
+[04:05] the two massive oaks in the middle were
+[04:08] was really bad. Okay. But the the one
+[04:11] tree over here, the further tree,
+[04:14] people, like I said, it was like it was
+[04:16] coming out of it. But I did not see past
+[04:19] the four trees. The Lord showed me the
+[04:23] massive oak tree again in prayer
+[04:25] tonight. And it was it was there was no
+[04:28] leaves on it. It was all uh barren, all
+[04:32] of it. And I could see the it was
+[04:34] purple. It was like a storm above it.
+[04:36] Okay.
+[04:37] And then I the Lord showed me a plug, an
+[04:41] outlet plug came up out of the ground
+[04:45] beside the oak tree and it and it and it
+[04:48] specifically said
+[04:51] 220. It was a massive outlet plug. 220
+[04:55] plug, not a 110 in the United States.
+[04:57] This is this is our our how what the the
+[05:02] wattage or whatever. It's what's inside
+[05:04] of what what what it carries. Okay? It
+[05:07] was a 220 plug. And so all of a sudden
+[05:11] that 220 plug, the tree got plugged into
+[05:16] the 220 plug and it started to glow
+[05:21] within. All of the tree started to get a
+[05:25] like a Holy Ghost glow. It plugged into
+[05:29] this this uh outlet and it was a power
+[05:32] source. And the power source started
+[05:35] plow. And I'm seeing this in the spirit
+[05:37] in in a vision. And so all of a sudden,
+[05:40] like I said, and the limbs, all those
+[05:42] massive huge limbs started to glow with
+[05:45] the Holy Ghost glow. And it was like it
+[05:47] was alive. And you could see the tr the
+[05:49] tree moving like it was alive. And then
+[05:53] beside the plug, a microphone uh grew up
+[05:57] beside the plug. Okay? And the
+[06:00] microphone hovered over the plug and it
+[06:03] was a uh
+[06:05] 1950 style, you know, those old
+[06:08] microphones that was like, you know,
+[06:10] like um like you you know the they're
+[06:12] big and bulky and it came up beside the
+[06:15] plug and it started amplifying the the
+[06:19] uh the the 220 for whatever this means.
+[06:23] And it was like it was speaking. It was
+[06:25] like a loudspeaker. is speaking into
+[06:27] that microphone from the
+[06:29] 1950s and and then the vision ended. And
+[06:32] this was another part of I believe what
+[06:35] the Lord showed me about the the oak
+[06:37] trees. But the oak trees all started
+[06:39] getting plugged into the uh the
+[06:42] microphone. I mean the the the outlet
+[06:44] and which became a microphone and and so
+[06:47] that was what I saw. So I I guess
+[06:49] there's going to be a part three or a
+[06:50] part four of this. I don't know. I just
+[06:52] thought it was interesting because I was
+[06:53] like, "Whoa, another piece of a puzzle.
+[06:56] What is this?" So, the Lord does this
+[06:58] sometimes like what I'm trying to tell
+[07:00] you all. So, I'm just sharing it with
+[07:01] you, you know.
+[07:03] Um I don't like like I said, I my
+[07:06] gifting is not interpretation of dreams
+[07:09] or visions. A lot of times I have to
+[07:11] intercede and pray over it and pray over
+[07:13] it before the Lord will um the Lord will
+[07:17] uh give me the whole uh interpretation
+[07:19] of what what he's trying to say. And the
+[07:21] Lord told me, he said, "Seed time and
+[07:25] harvest is accelerating." And the devils
+[07:28] that that that you that they thought
+[07:30] that they could control because you
+[07:32] know, whenever you get connected with
+[07:34] the
+[07:35] demonic, it deteriorates your
+[07:39] flesh. When you get connected with the
+[07:41] Holy Ghost, the Holy Spirit, and he's
+[07:44] dwelling on the inside of you, it brings
+[07:46] life and life more abundantly. And the
+[07:49] more you flow with the Holy Spirit and
+[07:51] the more you are saturated, you know,
+[07:53] it's like what what happened with Moses.
+[07:56] Moses was was was saturated with the
+[07:59] spirit of God to the point where he his
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:02] face shined with the glory. And the more
+[08:06] he was underneath that presence, it made
+[08:08] his flesh, his eyes didn't grow dim, his
+[08:12] his body did not uh he because the glory
+[08:15] was emanate. It was out coming out of
+[08:17] him. It was he was surrounded and soaked
+[08:19] with the glory of God. Even so, you
+[08:22] know, the children of Israel, their
+[08:24] shoes didn't deteriorate, their clothes
+[08:26] didn't mess up or anything. And they
+[08:28] always had an abundant supply. When
+[08:31] you're connected to the glory and the
+[08:34] glorious outpouring that is coming, your
+[08:37] flesh will become healed. your your your
+[08:41] finances will become abundant because
+[08:44] God is an abundant supplying God. He is
+[08:47] not a God of lack. He's a God of
+[08:50] overflow. And so when you get connected
+[08:53] to the glory and the glorious outpouring
+[08:55] that's coming, there will be no lack.
+[08:58] I'm telling you, I believe even your
+[09:00] finances will turn around when the
+[09:02] glorious outpouring with the more we
+[09:03] press into it. Like we when we were
+[09:05] praying at church tonight, we are
+[09:07] praying for the outpouring. praying for
+[09:09] the glory. It was amazing. But I'm going
+[09:11] to tell
+[09:12] you, I believe it's going to come
+[09:15] through a cultivation of keep seeking,
+[09:18] praying for the glorious church, praying
+[09:20] for the outpouring, praying for the
+[09:21] spotless bride, praying for the
+[09:23] manifestation and demonstrations of the
+[09:25] glory, praying for this and and and the
+[09:28] more we press into it through corporate
+[09:30] prayer like what they were talking about
+[09:32] tonight being corporate prayers, praying
+[09:34] in one accord like they were praying for
+[09:36] in and when uh it was amazing message
+[09:39] talking about the the whenever uh they
+[09:41] were bound in the prison and they and so
+[09:44] I I don't want to go down that road yet.
+[09:45] This is what the Lord's I'm still going
+[09:46] back over here. Joe Biden uh praying for
+[09:49] it. The Lord warned me that he said over
+[09:53] the course of the summer, you will see
+[09:57] an even more of an acceleration from the
+[10:00] from the sin and the evil behind that
+[10:02] platform that you will see an uncovering
+[10:05] even more from July, August, September,
+[10:10] October of of a deterioration of the of
+[10:13] his of his mind. And it will become even
+[10:16] more evident with the media. They're
+[10:20] they won't be able to cover it up.
+[10:22] They're not going to be able to to like
+[10:24] last time they they were able to the to
+[10:26] hide it in the shadows. Now, every time
+[10:29] you do a debate, every time you do a
+[10:31] speech, every time you talk, you'll see
+[10:33] the uh mind of the rep probate spirit,
+[10:37] the rep probate mind, because you're
+[10:39] connected to the demonic. And even the
+[10:42] demonic wants to use that individual
+[10:44] that's the apparatus of of of their
+[10:47] satanic um agenda, which they want to
+[10:51] make it last as long as they can. But
+[10:53] when you are connected with the devil,
+[10:56] the devil comes to kill, steal, and
+[10:58] destroy. And the more you touch the evil
+[11:00] thing, the more the evil thing takes you
+[11:02] over. But when you're touched to
+[11:04] something that is kill, steal, and
+[11:06] destroy, the fruit of that is to kill,
+[11:08] steal, and destroy. And so it
+[11:09] deteriorates the flesh. That's what I'm
+[11:11] talking about. That's why, you know,
+[11:12] whenever you see a lot of old pictures
+[11:14] of like Disney and and
+[11:18] um demonic things like that, they always
+[11:21] are painted old and with warts on their
+[11:24] nose and things like that. Because when
+[11:26] you're astral projecting and you're
+[11:27] doing dark things, the more you try to
+[11:30] go out of your body and do evil, evil
+[11:32] stuff through satanic worship, the more
+[11:35] your flesh becomes deteriorated because
+[11:38] of the demonic. and they go, "Well, you
+[11:40] know," and you look at them, they look
+[11:42] hard. They look like they, you know,
+[11:43] they they're, you know, they've been
+[11:46] through hell because they have been
+[11:48] they're going through hell and they
+[11:49] don't realize that the devil's just
+[11:51] using them and they he don't care about
+[11:53] them. And and and so the more their
+[11:55] flesh deteriorates and so a lot of
+[11:57] people don't realize that. So you'll see
+[11:59] some people when they're in their
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:00] they're in the occult and they're in
+[12:01] darkness, but they don't look beautiful.
+[12:03] They start to look really hard and gross
+[12:06] because you're deter your your your
+[12:07] flesh is deteriorating. So, back to the
+[12:09] glory. When you're close to the Lord and
+[12:11] the more you're in the glory and the
+[12:13] more you're in the presence of the Lord,
+[12:15] you look beautiful and shining because
+[12:16] you're you look radiant and vibrant
+[12:19] because God is a God of life and he
+[12:22] speaks life into you and he speaks joy
+[12:24] into you and peace and he brings all
+[12:27] those things to you because he is that
+[12:30] he is the he is he is the fruit of the
+[12:33] spirit. love, joy, peace, patience,
+[12:35] kindness, goodness, gentleness,
+[12:36] self-control, all those things. When you
+[12:39] get attached to the to the to the vine,
+[12:42] he is the vine, we are the branch,
+[12:44] right? Okay, we're an extens extension.
+[12:46] So, if he is the main, if we are his
+[12:50] children and we are attached to him,
+[12:53] um, we're getting life from him. And
+[12:56] when we're cut off and severed from that
+[12:59] and we're pruned away, you die. That's
+[13:02] what happens when you prune a branch
+[13:04] off. It dies. So be attached to the
+[13:06] father because he brings life and life
+[13:08] more abundantly is what I'm trying to
+[13:09] tell you. And the people who are
+[13:10] attached to and what I'm trying to get
+[13:12] to again that when you see what's going
+[13:15] to happen over the summer, the
+[13:17] acceleration of the darkness because
+[13:19] acceleration of sea time harvest is
+[13:21] happening. They're not going to know
+[13:23] what to do. They're not going to know
+[13:26] how to handle this because the the the
+[13:29] very very thing that they thought they
+[13:30] could control is boomeranging back on
+[13:33] them. Remember, there's a lot of people
+[13:34] that believe that we will have a go
+[13:37] through the tribulation. But God is not
+[13:40] a wife beater. He is not a God that is
+[13:43] going to beat on his church and go,
+[13:45] "Well, I'm going to beat up on you and
+[13:47] you're going to go through the the
+[13:48] worst, you You know, well, they say,
+[13:50] well, you know, the disciples went
+[13:51] through some things and they were
+[13:53] martyed and they went through all that.
+[13:55] That wasn't the
+[13:56] tribulation. This is the tribul the the
+[13:59] Bible even says the world has never seen
+[14:02] anything. You know, people have no clue
+[14:04] of what they're talking about. The world
+[14:06] has never seen what's about to happen
+[14:08] before. If we've never if we've been in
+[14:10] the season of grace, folks, we've been
+[14:12] in a in in a in a covering of grace. And
+[14:16] grace is about to be lifted off of the
+[14:19] earth. Grace, it's going to be removed.
+[14:22] That part of it going into
+[14:25] tribulation. Tribulation is hell on
+[14:28] earth. Do you understand? It's going to
+[14:30] be terrible. We have never seen or have
+[14:33] ever seen even in the dark ages any
+[14:37] anything remotely from the pestilence,
+[14:40] the disease, the earthquakes, the the
+[14:43] it's going to be awful. And we as the
+[14:46] bride of Christ will the remnant will
+[14:49] not see this. He is not going to put us
+[14:52] through that as the w as a as going you
+[14:54] know you know it to to even relate it to
+[14:57] what the disciples went through is not
+[14:59] they didn't go through the tribulation
+[15:01] tribulation is tribulation and so it's
+[15:05] awful and so woe and to those that even
+[15:08] give suck in those days. It even talks
+[15:10] about it and that he has to he has to
+[15:12] shorten the days because people wouldn't
+[15:14] have lived through
+[15:15] it. He and this is another thing. If we
+[15:19] have power and authority on this earth
+[15:21] as believers to tread on serpents and
+[15:24] scorpions and nothing shall by any means
+[15:26] hurt us and there's hundreds of millions
+[15:28] of us, right? And we're holding back the
+[15:31] rest. We're we're we're the restrainer.
+[15:32] We're holding back the so that the
+[15:34] antichrist can't step on the stage right
+[15:36] now, right? So we're in that place of
+[15:39] authority. How do you think if we can
+[15:41] take authority over the earth? How and
+[15:43] we can take authority over sickness and
+[15:44] disease because he's given us the power
+[15:46] and authority to do so as
+[15:48] believers. We're going to be rec making
+[15:51] havoc for the enemy's camp. So he can't
+[15:53] take over everything and do everything
+[15:54] because we're the believers. We're you
+[15:56] think he's going to go walking around
+[15:57] cutting everybody's head off and doing
+[15:59] everything and they say that they're
+~~~
+
+<a id="section-05"></a>
+## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[16:00] going to do what telling us to take the
+[16:01] mark of the beast if there's literally
+[16:04] hundreds of millions of us on the earth?
+[16:06] No, there's that's impossible because
+[16:08] I'm going to tell you, we are resisting.
+[16:11] We will we will be able to take our
+[16:13] authority still. And when the authority
+[16:15] of the believer is still in in motion
+[16:16] and we're able to take our authority and
+[16:18] do the things we have, laying hands on
+[16:20] the sick and seeing and recover, casting
+[16:21] out devils, whatever, I don't you folks,
+[16:25] there's going to be a rapture of the
+[16:27] church. There's going to be a great
+[16:29] harvest of souls before he comes. And I
+[16:32] believe there'll be a harvest of souls
+[16:33] afterwards of people that could that can
+[16:36] help out and and and know, hey, I've
+[16:38] missed it and repent and still still
+[16:40] make um heaven, but we're not appointed
+[16:44] under wrath. I don't believe it. The
+[16:46] Bible Bible uh shows too much God is
+[16:49] love and he loves his his his children.
+[16:52] But the the Bible also says that there
+[16:54] is a a a a a hell and it's not made for
+[16:58] you and I. It's made for um the devil
+[17:02] and his and his fallen angels and his
+[17:04] demons and all the things all those evil
+[17:06] things that have fallen followed him.
+[17:08] It's not made for us. But we we choose
+[17:11] to go there. We have free will and we
+[17:13] choose to go to hell. If you choose to
+[17:16] go to hell today, you choose it. It's
+[17:18] not God put it on you. You chose it
+[17:21] because you didn't want to serve the
+[17:22] Lord. He he said in John 3:16, "For God
+[17:27] so loved the world that he gave his one
+[17:30] and only son that who should ever
+[17:32] believe in him should not perish but
+[17:35] have everlasting life." And it's not for
+[17:39] anybody to go to hell. God loved us all
+[17:44] and Jesus paid the price for us. And I
+[17:46] told you all to watch Cuba. I told you
+[17:49] all there'll be there's there's
+[17:51] alliances there going to become even
+[17:54] stronger with Putin and Cuba and the
+[17:58] Havana area praying over that still
+[18:02] praying over a supernatural covering for
+[18:04] the United States because I'm telling
+[18:06] you I believe there's going to be
+[18:08] acceleration of war still and there'll
+[18:10] be an acceleration of uh of uh something
+[18:14] happen here with the with the terrorists
+[18:16] coming out of their their the bins and
+[18:18] the hidden they were underground and
+[18:20] they were coming up and that they were
+[18:21] like ants coming up out of there. There
+[18:23] was literally tens of thousands of them
+[18:25] and the Lord warned me about that.
+[18:26] Praying over that. Oh, and praying over
+[18:29] the 350 million that the about the
+[18:32] plague the Lord has been I I've I've
+[18:35] interceded for that. I know this is a
+[18:37] lot folks but I'm telling you we are in
+[18:39] accelerated time. The 350 million
+[18:42] praying over that because uh I feel
+[18:44] we're pushing it. I've I've been feeling
+[18:47] pushing and pushing and pushing this
+[18:48] back for the for the uh the plague
+[18:51] that's 10 that be that co would be like
+[18:54] a 10% versus the major
+[18:59] uh thing that that was in store for the
+[19:02] hundreds of millions of people perishing
+[19:04] because of this major virus that's
+[19:07] coming. It's it's even worse than the um
+[19:10] other one that came before in 2020. So,
+[19:14] um I think that's all I have for y'all
+[19:15] today for that. But let me pray for
+[19:18] y'all. You know, I always I always try
+[19:20] to be uh end with positive note that I'm
+[19:22] telling you that financial breakthroughs
+[19:24] coming for folks that you believe for
+[19:26] supernatural harvest for for your family
+[19:29] that it's not time to be a broke,
+[19:31] busted, and disgusted. It's time to be
+[19:33] the salt and the light in these last
+[19:35] days. That the outpouring of the spirit
+[19:37] of the Lord is going to move through
+[19:39] you. If you are are you're hungry and
+[19:42] thirsty and you're looking for Jesus,
+[19:44] I'm telling you, he said, "Blessed are
+[19:46] those that hunger and thirst after
+[19:47] righteousness, for they will be filled."
+[19:49] And I believe with all my heart, this is
+[19:52] a time of a great acceleration for the
+[19:54] church. So, Father, I just thank you for
+[19:58] every single person that is represented
+~~~
+
+<a id="section-06"></a>
+## 06. 20:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:00] here and that we're watching. And we
+[20:01] come in agreement for the supernatural.
+[20:04] We come in agreement that we're thirsty
+[20:06] and we're hungry for a move of the
+[20:09] presence of the Lord on this on this
+[20:12] generation on these
+[20:14] households. That there will be a mighty
+[20:18] move of the spirit of God that we will
+[20:21] be at the spout where the glory comes
+[20:24] out. that father that we are a people
+[20:27] that are hungry and thirsty and we're
+[20:29] we're we we we want a move of the spirit
+[20:33] of the Lord on this generation on these
+[20:35] on these people on all the nations that
+[20:38] are represented here that there will be
+[20:41] a move of God. There will be a move of
+[20:44] the presence of the Lord in our churches
+[20:46] and our young people and our older
+[20:48] people and the older generations. I it
+[20:51] will be for everyone.
+[20:53] But Father, I thank you, Lord, for
+[20:55] healings and deliverances from all kinds
+[20:58] of sickness and disease. You said in
+[21:00] your word that we would lay hands on the
+[21:02] sick and we would see them recover. I
+[21:04] thank you, Father, for supernatural
+[21:06] healing, Father, over every single
+[21:09] person that's watching this video. I
+[21:11] thank you, Lord, for healing from the
+[21:13] top of their head to the soles of their
+[21:14] feet. We call them healed and whole and
+[21:17] well in the name of Jesus. We thank you,
+[21:20] Lord, that you've delivered them from
+[21:21] all kind of bondages, from tobacco, from
+[21:25] from perversions, from sexual
+[21:26] perversions. Father, we thank you, Lord,
+[21:29] that you've delivered them from all
+[21:31] kinds of perversions and sickness and
+[21:33] disease. I thank you, Lord, that they're
+[21:35] delivered and set free in the name of
+[21:38] Jesus. We thank you, Father, that you
+[21:40] said, for whom the Son has set free is
+[21:43] free indeed. And we thank you, Lord.
+[21:45] They're free indeed today. We call them
+[21:47] delivered. We call them whole. We call
+[21:49] them set free in the name of Jesus. And
+[21:52] we thank you,
+[21:54] Father. Father, I thank you, Lord, for
+[21:56] their marriages to be restored. I thank
+[21:58] you, Lord, for the blessing on their
+[21:59] marriages and blessing on their
+[22:00] children. Father, that they are blessed
+[22:02] coming in, blessed going out. That
+[22:04] everything they put their hands to will
+[22:06] prosper in the mighty name of Jesus. I
+[22:09] thank you, Lord, for creative ideas to
+[22:11] get wealth. Father, that they have the
+[22:13] mind of Christ. And Father, that that
+[22:15] that the Holy Spirit is flowing through
+[22:18] them. And Father, I thank you, Lord,
+[22:20] that there is their cells, every single
+[22:22] part of them. That the glory of the
+[22:24] Lord, just like you did with Moses,
+[22:26] Father, you the glory of the Lord would
+[22:29] would shine through our face and be a
+[22:31] light in this dark times. That people
+[22:33] would see the glory on us and they would
+[22:35] say, "What is it about you? What is it
+[22:39] about you?" And you say, "It's what?
+[22:41] What's so what is that? They want to
+[22:43] know. But father that we be able to say
+[22:45] it's the glory. It's the presence of the
+[22:47] Lord on me because Jesus dwells on the
+[22:49] inside of me. I thank you, Father, that
+[22:52] that light shines through our eyes that
+[22:54] shines through on our countenance. That
+[22:57] people would see us and they would want
+[22:59] what we have. That Father, they wouldn't
+[23:01] go, "Oh, well, they look cranky and all
+[23:03] mad and beat up and we're wore down and
+[23:06] all exhausted." No, we're plugged into
+[23:08] that 220 and the glory of the Lord is
+[23:12] resting and abiding in us because of
+[23:15] that presence because of that that that
+[23:18] people are hungry and thirsty after what
+[23:21] we have. Father, I thank you Lord that
+[23:24] this is a time that we are plugged into
+[23:27] that 220 and that the glory of the Lord
+[23:30] is resting on us, is resting in us. And
+[23:33] Father, I thank you that we're going
+[23:35] from glory to glory to glory to glory in
+[23:39] these last days. And Father, I thank
+[23:41] you, Lord. We call restoration of all
+[23:44] things. Restoration of all things in
+[23:46] their bodies, in their minds, in their
+[23:48] souls, in their spirit. We call
+[23:50] restoration all things in Jesus' name.
+[23:54] And what the devil meant for bad, Lord,
+[23:56] you're going to turn it around for their
+[23:57] favor. I call sevenfold what the devil
+~~~
+
+<a id="section-07"></a>
+## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[24:00] stole in Jesus' name. In this lifetime,
+[24:04] I call sevenfold. I call it in right now
+[24:07] in Jesus' name. The harvest of
+[24:10] everything the devil stole. I thank you
+[24:12] Lord. We call back restitution for it in
+[24:15] Jesus'
+[24:16] name. We thank you Lord. We thank you
+[24:19] Lord that you're the God that the great
+[24:22] restorer. We call res restoration and
+[24:24] res restoring everything the devil meant
+[24:27] to steal, he stole. And I call it in
+[24:30] even plans that he tries to steal things
+[24:32] that it will be re it will re you say
+[24:35] you rebuke the devour for our sake. We
+[24:38] thank you Lord that you're rebuking the
+[24:40] devour. Heal. You're rebuking. You say
+[24:42] no you're not going to devour their
+[24:44] stuff. They're tithers. They're givers.
+[24:46] They're sers. No, you're not going to
+[24:49] devour their stuff. Every plan, every
+[24:51] plot, everything that the wicked one
+[24:53] tries to steal, you will not touch my
+[24:57] stuff. You stop it now in Jesus name.
+[25:00] Cease and desist in your maneuvering
+[25:02] against our families. You stop it now in
+[25:05] Jesus name. We have authority over you.
+[25:07] You will not rob us. We come against you
+[25:11] with the blood. We come against you with
+[25:13] the name and Jesus Christ is name is
+[25:17] above every name and it's against you
+[25:20] devil and you won't touch our stuff. We
+[25:23] come against you in Jesus name because
+[25:25] Jesus said, "I will rebuke the devourer
+[25:28] for your sake." So, Father, I thank you.
+[25:30] I'm a tither and have a tither's rights.
+[25:33] And I believe with all my heart that you
+[25:35] promised, Father, to rebuke the devour
+[25:37] for me. I thank you, Lord. I thank you
+[25:40] for what you said you'd do for us. And
+[25:42] God, I give you all the glory and honor
+[25:44] and praise that we are free. And we are
+[25:47] free for whom the Son has set free. And
+[25:50] God, we give you praise for that. And
+[25:52] Father, we just we just we just we love
+[25:55] you. We love you. We love you. And we
+[25:58] give you uh so much worship and so much
+[26:01] praise for you deserve all of it, Lord.
+[26:03] You're a good God. You're a merciful
+[26:05] God. And we're so thankful that you're
+[26:08] our daddy. And we crawl in your lap
+[26:09] today and we just give you a big hug and
+[26:12] say, "Father, we love you today. You're
+[26:14] such a a a merciful God. We didn't
+[26:18] deserve any of it. We deserve to go to
+[26:20] hell, but you paid the price because you
+[26:22] loved us and you made it where we don't
+[26:24] have to. Thank you. Thank you for saving
+[26:27] my soul. Thank you for making me your
+[26:30] your son. You adopted me into your
+[26:32] kingdom and you made me a joint air with
+[26:34] you. Thank you for doing that for me,
+[26:37] Lord. You did it all because you loved
+[26:40] me. You said, Father, you said you love
+[26:43] me. You love me. My father loves me. My
+[26:49] father loves me. He loves you. My
+[26:51] father, our father loves you. He loves
+[26:54] you. He loves you. He has a plan for
+[26:57] your life. He's not up there beating on
+[26:59] you. It's the devil that comes to kill,
+[27:01] steal, destroy. God is a good God. God
+[27:04] is a loving God. He's merciful. Yes,
+[27:07] sometimes we go through the refiner's
+[27:09] fire, but but he we come out we come out
+[27:12] better than what we we we we went in.
+[27:15] And God's faithful. So I want to
+[27:18] encourage you today. Don't give up.
+[27:20] Don't give up. What all there is to do
+[27:23] is stand. Stand therefore and keep
+[27:26] standing. Keep fighting the good fight
+[27:28] of faith because I'm telling you,
+[27:30] victories on the other side. God bless
+[27:34] you all. I if you could please subscribe
+[27:36] to my channel. Help me out. Get the
+[27:38] gospel out. Every one of you that has
+[27:41] support me and help me. I thank you. God
+[27:44] bless you all. I really do. I I I we we
+[27:47] my wife and I, we pray for you all the
+[27:50] time and we bless you in the name of
+[27:52] Jesus. Click the notification bell. Uh
+[27:55] click the thumbs up. Leave a good
+[27:57] comment down below if you if you're
+[27:59] watching this video still and and tell
+~~~
+
+<a id="section-08"></a>
+## 08. 28:00–28:43 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[28:01] us something nice. I don't know. The
+[28:05] trolls can go away, but the people that
+[28:07] are nice, we appreciate your support,
+[28:09] but we we just want to say put a smile
+[28:11] on your face. Put a smile on your face.
+[28:14] I truly mean that. Put a smile on your
+[28:16] face today. Show people that Jesus is in
+[28:18] the inside of you. Don't be gloomy gus.
+[28:21] Be happy, happy, happy. Be full of joy.
+[28:24] Put a smile on your face and a song in
+[28:26] your heart. That's one that's full of
+[28:28] singing to Jesus, making making praise
+[28:30] unto him, giving him praise and worship.
+[28:33] Put a song in your heart. Put a smile on
+[28:35] your face and a song in your heart
+[28:37] because Jesus loves you so much and we
+[28:39] love you. And we will see you all next
+[28:41] time. God bless you all. Have a blessed
+[28:43] day. Bye-bye.
+~~~

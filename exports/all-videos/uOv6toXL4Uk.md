@@ -1,0 +1,1274 @@
+# Going over more about lab grown humans very creepy stuff ｜ what the Lord showed me
+
+**视频**: https://www.youtube.com/watch?v=uOv6toXL4Uk
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/Going over more about lab grown humans very creepy stuff ｜ what the Lord showed me [uOv6toXL4Uk].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 1131；**章节数**: 12；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-01)
+- [02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-02)
+- [03. 08:00–11:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-03)
+- [04. 12:00–15:59 · 预言、梦境与异象、AI、科技与监控](#section-04)
+- [05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-05)
+- [06. 20:00–23:59 · 预言、梦境与异象、教会、复兴与信仰](#section-06)
+- [07. 24:00–27:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-07)
+- [08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
+- [09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
+- [10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
+- [11. 40:00–43:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
+- [12. 44:00–44:46 · 教会、复兴与信仰、预言、梦境与异象](#section-12)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] Hey, good morning family. Praise the
+[00:03] Lord. Thank you for joining me today.
+[00:05] Well, that last video I did for you all
+[00:08] was a wow. I I mean to me when you're
+[00:11] seeing over in the spirit realm, if if
+[00:13] you hear any noise in the background,
+[00:15] it's my it's making so you all I want
+[00:17] you all to know it's her humming.
+[00:19] There's nothing going on with the car
+[00:20] ahead of time. So, you all know. Uh she
+[00:24] just makes uh stemming noises. you know,
+[00:26] she's overcoming autism, so she makes
+[00:28] stmming noises. And I'm here waiting for
+[00:31] my my wife, Diana's getting her hair
+[00:33] done. And so I said, "Let's make a video
+[00:35] while mama's getting her hair done." So,
+[00:38] we're going to go over some things today
+[00:40] because we were looking at the analytics
+[00:42] of the video and and Braden said,
+[00:43] "Brandon, daddy, they didn't make it to
+[00:46] the uh part of what the Lord was trying
+[00:48] to tell them. So, I have to go over this
+[00:50] with you." And the ones that that did
+[00:54] listen are kind of confused about some
+[00:56] things. So I I I never want any
+[00:58] confusion about a prophetic word of a
+[01:00] warning what the Lord is warning us
+[01:02] about. And I'll stem it off of what the
+[01:04] word of God says that as the days of
+[01:07] Noah, so will it be when the son of man
+[01:09] returns. And it talks about it in there
+[01:11] was giants on the land. The angels slept
+[01:15] with the women and created giants.
+[01:17] Right? So we have the Nephilim. The
+[01:19] Nephilim. I hope I don't but butcher
+[01:21] that again. the Nephilim. So, what I saw
+[01:25] happening in labs in certain cities, I
+[01:30] saw they look like it. It was the
+[01:34] creepiest thing I've ever seen. They
+[01:35] were trying to create superhumans. They
+[01:40] were taking DNA from an animal using AI.
+[01:46] How does a to a tortoise, a a a a turtle
+[01:49] live so long? And they were because some
+[01:51] of them two 300 years old what right you
+[01:54] know
+[01:55] so there's like they were taking the
+[01:57] tortoise DNA who lives like two and 30
+[02:00] hund years I believe right so they were
+[02:02] taking that DNA and they were trying to
+[02:04] take it with AI and splice it with human
+[02:07] DNA trying to create organs that would
+[02:12] have longevity
+[02:13] longevity of hearts longevity with with
+[02:17] DNA splice like trying to outsmart smart
+[02:20] God. And the Lord told me, he said, "I
+[02:23] fearfully and wonderfully made you in my
+[02:25] image." And they're trying to do exactly
+[02:28] what they did in in the in the old days
+[02:32] with Noah. Satan was trying to destroy
+[02:35] the bloodline of a pure human by
+[02:39] creating
+[02:40] monsters.
+[02:42] And the Lord showed me, he said, "As in
+[02:44] the days of Noah, Brandon, look what
+[02:46] they're going to do again. They're
+[02:48] trying to to to out like recreate the
+[02:52] human the way we are, right? By by being
+[02:56] blasphemous. It's it's like the Lord
+[02:57] said, we are made in his image. We're
+[03:00] perfect. We're perfect in his sight. And
+[03:03] when man tries to add to or take away
+[03:05] from any of the DNA of making a human a
+[03:08] human,
+[03:09] it takes away from who we are with God,
+[03:12] saying, "Well, you know, we're
+[03:13] crossbreeds. We're not full humans." by
+[03:16] taking things and adding to and taking
+[03:18] away from anything. So, I hope this is
+[03:20] making sense. I try to talk, this is
+[03:23] just the level of my thinking, y'all.
+[03:24] And I when I'm looking into the vision,
+[03:26] this is what the Lord shows me. He says
+[03:28] to me, he says, "Brandon, they're
+[03:30] they're they're they're playing around
+[03:31] with fire. They're playing around with
+[03:34] things that they don't know if these
+[03:36] people are evil. They have a reprobate
+[03:38] mind." And I saw them adding to the DNA
+[03:41] trying to pe make people super strong by
+[03:44] adding gorilla things like from from big
+[03:47] gorillas. They were very strong animals
+[03:50] trying to make men super strong like
+[03:53] Arnold Schwarzenegger like super
+[03:55] soldiers and making them very strong.
+[03:56] And people say and and Braden told me
+[03:58] because I I don't keep the comment
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:00] section on my phone anymore.
+[04:02] He said, "Daddy, they say that they've
+[04:05] already had this for five or six years
+[04:07] now.
+[04:08] Folks, I don't know anything about all
+[04:10] that stuff. I'm not into conspiracy
+[04:12] theories. I'm telling you what I got
+[04:14] strictly from the voice of the father
+[04:16] warning about this. And they say, "Well,
+[04:18] Alex Jones, talk about all these other
+[04:19] people, Joe Rogan, all these other
+[04:21] people." Listen, this is what the spirit
+[04:23] of the Lord said, "I don't know about
+[04:25] these men. I'm trying to tell you what I
+[04:27] saw in labs. If that's what they're
+[04:29] telling you, then they're right. This is
+[04:31] what I saw." And it was it was it was a
+[04:34] race from China and other countries
+[04:36] which the Lord said do not mention the
+[04:38] other country. There was a a race trying
+[04:41] to perfect it to who had who it was like
+[04:44] a a new the new industrial revolution
+[04:46] with the crypto trying to create a new
+[04:50] superhuman be being a species of human
+[04:53] being of genetically altered bodies
+[04:56] trying to get the flaws out in other
+[04:58] words right
+[05:00] and then I saw babies in labs in
+[05:05] embryotic fluid with bubbling with a
+[05:08] light behind it. It looked like a hot
+[05:10] light keeping this baby warm. It looked
+[05:14] like something in a sci-fi movie that
+[05:16] was being created and not a fully formed
+[05:19] baby, but a baby that was actually being
+[05:22] created. And what you could see it
+[05:24] wasn't fully developed yet. And I could
+[05:27] see the the nose and the head and all
+[05:29] how it separates from the egg and the
+[05:31] sperm and all how all it's all created.
+[05:33] And life without a mother. And I saw
+[05:36] they were doing it. It was successful.
+[05:38] It was alive in this this it was a
+[05:40] cylinder tube and it was it was it was
+[05:43] in the middle of the cylinder tube
+[05:45] suspended in in this with this embryotic
+[05:48] fluid stuff and bubbles bubble real life
+[05:51] bubbles that were moving around this
+[05:53] life this human life that looked like a
+[05:56] a a real human. It was created and I
+[05:58] could see the fluids and it looked like
+[06:01] the ambriotic fluid looked a yellow tint
+[06:03] color. It looked like almost like a a
+[06:06] shade of urine. I don't know. Like like
+[06:09] that's what I'm saying. It looked like
+[06:10] that. It looked like a like a like a but
+[06:13] it looked thick like jelly. And I saw it
+[06:17] all in this it was moving and the baby
+[06:19] was suspended in this tube and it was
+[06:22] being grown in a lab.
+[06:25] And I could actually see in it like an
+[06:27] umbilical cord, some kind of cord
+[06:29] attached to this fetus, to this baby.
+[06:34] It was creepy. But when I was looking to
+[06:38] my to to my left in the vision, I saw
+[06:44] like six foot tall humanl looking things
+[06:48] that were not all human. They were
+[06:51] spliced together that look like a part
+[06:54] animal, part human thing that had uh no
+[06:59] soul in their eyes. Their eyes were
+[07:01] completely black out like we have a
+[07:04] white center around like our eyes with
+[07:07] the with with everything with our iris
+[07:09] and everything. They had nothing. It was
+[07:11] a black and the Lord told me he said
+[07:13] they don't have a soul. These these do
+[07:17] not have these do not have a spirit or a
+[07:19] soul. The this is like a this is this is
+[07:22] possessed by a demonic spirit.
+[07:25] This is not this is created is possessed
+[07:27] by a demonic spirit. You what you're
+[07:28] seeing it's animal human. They're
+[07:31] splicing it. And I saw they were trying
+[07:34] to harvest organs
+[07:37] creating these things that were because
+[07:40] the if you could get a super heart that
+[07:43] was was made perfect in the future. I
+[07:46] don't know when this is I don't know
+[07:47] when this happens. I don't know if it's
+[07:49] happening right now or if this is
+[07:50] something that's coming in the future or
+[07:52] they're going to try to do this or
+[07:53] whatever, but
+[07:56] this is what they're going to try to do
+[07:57] is what I'm trying to tell y'all. I saw
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 预言、梦境与异象、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、AI、科技与监控。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:00] they wanted to harvest their organs,
+[08:02] their livers, their kidneys, their
+[08:03] whatever they had because they had no
+[08:06] soul. They look like monsters. This is
+[08:09] what this is what I'm seeing in the
+[08:11] spirit. But the Lord said to me, "They
+[08:14] will create in the days ahead a a a
+[08:17] cross of trying to bring back
+[08:19] prehistoric animals." And he said, "It
+[08:22] will become a place where you go to a
+[08:25] zoo to see them. You can see, you'll be
+[08:28] able to see a woolly mammoth and a
+[08:30] saber-tooth tiger." And I saw them
+[08:32] trying to find DNA like Jurassic Park,
+[08:36] which is nuts to create
+[08:39] ancient dinosaurs, lizards.
+[08:43] So, you know, whenever I told you all
+[08:46] when I went and I had the openeyed
+[08:48] vision, I saw Adam talking to the the
+[08:50] this massive dinosaur in the Garden of
+[08:52] Eden, I saw all that and the Lord showed
+[08:55] me this. It looked like a long neck
+[08:57] dinosaur. It was a really like a
+[08:58] bronchiosaurus. It was huge looking. And
+[09:01] I was watching him talk to it and the
+[09:03] dinosaur was listening and obeying him
+[09:06] as he was in the garden of Eden and he
+[09:07] was eating the free the trees and the
+[09:09] and it was um eating grass and I was
+[09:12] watching all of this and the vision
+[09:13] before when I went on the timeline of
+[09:15] Lord when the Lord spoke to me and he
+[09:17] said Brandon you don't know where you
+[09:19] are in time. All this has come before
+[09:21] you. If you go back to that vision, he
+[09:23] showed me everything of how it's all
+[09:24] panned out over over the last decades
+[09:27] and centuries and all all how it all how
+[09:30] it's all come about. And he told me, he
+[09:34] said, "Brandon, you're at the last of
+[09:35] the last. You're at the sliver of this.
+[09:38] This dispensation of grace is coming to
+[09:41] an end, and you're about to step over
+[09:43] into tribulation." What I saw was a
+[09:45] very, very dark time frame. Oh. Oh. And
+[09:48] then the Lord showed me uh hydrogen
+[09:50] collider the the CERN. I saw CERNs being
+[09:53] trying to be made all around the world.
+[09:57] People were trying to copy what's
+[09:58] happening in the Switzerland is where I
+[10:00] believe it's at. They were doing a
+[10:03] massive one in China and I saw one in
+[10:05] America. I saw them trying to be built.
+[10:07] But when they do this, there's actual
+[10:09] something that happens. I saw it was
+[10:12] like a black portal that was created and
+[10:16] it was it was it was like Stargate. It
+[10:19] was really thin like like like like a
+[10:22] like like probably like that. You you
+[10:25] can't see depth probably on this camera,
+[10:27] but it's probably I would say it's
+[10:29] probably about three or four foot it
+[10:31] looked like of a black circle that was
+[10:34] that you could reach through as the
+[10:36] dimension.
+[10:38] I don't know how to tell you all this,
+[10:39] but it was you could see the black line
+[10:42] like a donut around it and in through it
+[10:45] was alive.
+[10:47] This black particle
+[10:50] and I don't know what this was, but it
+[10:52] looked like some kind of demonic portal
+[10:54] that they had created with the hydrogen
+[10:58] collider. And they were getting
+[10:59] information from that black portal
+[11:03] and it was very dark and demonic
+[11:08] because it was like a black hole. You
+[11:10] could stick your hand in it and and and
+[11:12] there was you could go to the other side
+[11:14] and it was it was an open portal by
+[11:16] this. And I like I said, I don't know
+[11:18] how I don't understand all of it, but
+[11:20] this I'm telling you what I saw in this.
+[11:22] And the Lord showed me them playing
+[11:23] around with dark stuff. And um uh I saw
+[11:27] like I said them creating super stuff
+[11:30] and human beings and just very demonic
+[11:34] activity with AI technology with this
+[11:37] new industrial revolution. And it was a
+[11:39] it was a race like a space race like the
+[11:42] space age race. Everybody's want to get
+[11:43] to the moon first. This was an AI race.
+[11:47] Who's going to harness AI? Who's going
+[11:50] to be the first to create the bea the
+[11:53] best out of human cloning and doing all
+[11:55] these things? Who's going to make the
+[11:57] first human first superhuman? Who stuff
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:59 · 预言、梦境与异象、AI、科技与监控
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、AI、科技与监控、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:00] that should be illegal is what I was
+[12:02] seeing. It was it was very dark. But it
+[12:05] was people trying to be the best at
+[12:08] splicing and making a better better
+[12:10] human. Then I saw underground cities
+[12:15] in China and I saw bunkers and the Lord
+[12:19] told me he said Brandon they know what's
+[12:21] coming and in these underground like
+[12:24] like they are bunkers and it was for the
+[12:28] elite the rich rich people had them and
+[12:30] I saw these lights and I saw levels of
+[12:34] different cities that had these under
+[12:36] like bunkers and and Mark Zuckerberg was
+[12:39] one of them in the vision. And I could
+[12:40] see that he had a um a underground
+[12:43] house, these underground places to go to
+[12:46] to live because they knew how bad things
+[12:49] were about to get. And they were
+[12:52] preparing and they they called it the
+[12:54] ark. Some of these places were called
+[12:56] the ark. And they had an arc uh place to
+[12:59] stay because they didn't want to tell
+[13:02] the public what was truly coming of what
+[13:05] they see in outer space, what they see
+[13:08] coming on the earth. They know
+[13:10] something's coming and they're preparing
+[13:11] for it and they're scared about what's
+[13:13] coming, but they have their own sick
+[13:16] agenda of being the elites and well, you
+[13:19] all may die, but we're not because we're
+[13:20] rich, right? And so, I saw a different
+[13:24] way of thinking that they were thinking
+[13:25] that they were going to outs survive all
+[13:27] that's coming upon the earth with this
+[13:29] tribulation and all the things that are
+[13:31] coming. So, I'm just going over some of
+[13:33] the things the Lord showed me in the
+[13:35] last one. And and I'm telling you all,
+[13:37] it was dark.
+[13:39] It bothered me. Uh the the babies and
+[13:42] those tube things and all the things
+[13:44] that I was being shown. It was uh it was
+[13:47] it it shook me a little bit to the level
+[13:50] of darkness that I saw on human beings
+[13:53] trying to create. The Lord showed me it
+[13:55] was like the tow tower of Babel that
+[13:57] there that as AI came
+[14:02] and and was really being developed that
+[14:05] there was nothing that humans couldn't
+[14:07] achieve with technology. The veil that
+[14:10] has blocked things in the past is being
+[14:12] lifted through technological advance
+[14:15] advancements.
+[14:18] And the and that the darkness is
+[14:20] becoming more real than we've ever seen
+[14:23] it before. You will see darkness like
+[14:26] we've never seen, gross darkness. And
+[14:29] I'm telling you, when you start hearing
+[14:31] about these animals going into zoos in
+[14:33] the in the in the near future and they
+[14:36] say, "Hey, we got a woolly mammoth. We
+[14:37] got, you know, there's darker things at
+[14:40] foot. I'm warning you by the spirit of
+[14:42] God that there's darker things and they
+[14:46] may never reveal this darkness about
+[14:48] these hearts and this stuff to the
+[14:50] public. I don't know. I just saw that it
+[14:53] was they were it was trying to find out
+[14:56] the fountain of youth. How do we live
+[14:58] longer? How did Noah live so long? I was
+[15:01] hearing them say, "How did in the Bible
+[15:03] times, how did these men and women live
+[15:07] so long, a thousand years like Methusela
+[15:10] or whatever, you know?" Um, they were
+[15:13] trying to figure out how to recreate
+[15:17] uh what they had in Bible times of
+[15:19] making people live so long
+[15:22] uh because they they know that our
+[15:24] bodies are made to live and not die.
+[15:28] We God never designed us to death. That
+[15:30] was after the fall of man. Adam would
+[15:32] have lived forever. But the problem is
+[15:34] is after he fell, everything got messed
+[15:36] up. And they're trying to figure out how
+[15:39] to keep the body going for a long time
+[15:41] for these elites. They want to live like
+[15:44] the fountain of youth. They're trying to
+[15:47] become immortal.
+[15:49] And that's what the Lord was showing me
+[15:50] was is they were trying to do it through
+[15:52] AI technology. How do we spice it? How
+[15:55] do we inject this like the fountain of
+[15:56] if we drink this, will it make us
+[15:58] better? Will it make us stronger? Will
+[15:59] it make us live longer?
+~~~
+
+<a id="section-05"></a>
+## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[16:02] And they were trying to do that through
+[16:03] AI. The Lord told me, he said, "Brandon,
+[16:06] there's a time to sew and there's a time
+[16:07] to reap. There's a time to live and
+[16:09] there's a time to die. There's no man
+[16:11] that's ever going to live forever on
+[16:13] this earth right now." And as they try
+[16:16] to create this what they're doing,
+[16:19] they're trying to to to bypass seed time
+[16:22] and harvest. They're trying to bypass
+[16:25] it. There's a there's a time to live and
+[16:28] there's a time to die. I saw them taking
+[16:31] genetics from a starfish and worms
+[16:34] trying to figure out how to splice that
+[16:37] and make things that grow arms grow back
+[16:41] body parts grow because if a starfish
+[16:43] can do that, how can you splice that
+[16:45] with a human DNA and make them do that?
+[16:48] It was very weird stuff that I was
+[16:49] seeing. And then I was seeing them
+[16:51] trying to create a superfood that was
+[16:54] cheap out of like a soybean that was
+[16:57] full of protein, but the Lord told me
+[16:59] this has no nutrition in it at all. It's
+[17:02] genetically modified crap that they're
+[17:05] going to try to give people.
+[17:08] It was like a little nut looking thing
+[17:10] and it l and it was and I don't know
+[17:12] what it was, but it was it looked like a
+[17:15] nut. It truly did. a genetically
+[17:17] modified looking nut like a but it was
+[17:20] they called it like a superfood trying
+[17:22] to keep you alive by eating this but it
+[17:24] was there's no nutritional value in it.
+[17:26] It's it's man-made.
+[17:29] Anything medine is not going to be good
+[17:31] for you. I mean seriously if if it's not
+[17:33] vegetables or whatever I mean seriously
+[17:36] this is like something that's in it's a
+[17:38] lab. They were trying to create it and
+[17:40] it was it was gross, but they were
+[17:42] adding things to it and trying to do
+[17:44] things to it and they do that already
+[17:46] right now with our food. But this looked
+[17:47] like a little nut and it was like a a
+[17:49] size of a a pecan. When you see stuff
+[17:52] like that and you see the corruption of
+[17:54] man's mind and what they're trying to
+[17:56] do, it just kind of it throws you. It
+[17:58] goes, "Wow." You go, "Wow, how much
+[18:00] darker can people really get?" You know,
+[18:05] there's a level that you think you won't
+[18:07] cross with people. Are you are you all
+[18:10] really going to go there trying to
+[18:13] create things like that and make s Well,
+[18:15] there's there's no moral balance.
+[18:17] There's no moral compass. There's
+[18:19] everything goes, you know, we have the
+[18:21] ability to create. We have the ability
+[18:23] to do this. So, we can play God. We can
+[18:26] make the human body better. We think
+[18:28] better than him.
+[18:31] That's the arrogance that I was seeing.
+[18:34] God's design wasn't perfect, but we can
+[18:38] make it perfect. But it changed the
+[18:41] structure of what human really was.
+[18:45] Blasphem us about what? Because he is
+[18:48] perfect. He's God. We're made in his
+[18:49] image.
+[18:51] But they thought we can take this with a
+[18:54] dog or whatever or and we'll we'll we'll
+[18:57] make life better because what he did
+[19:01] wasn't good enough, right?
+[19:03] And that's why I thought, wow, this is
+[19:07] what they did with the Nephilim.
+[19:09] And folks, the Bible is so clear. As in
+[19:14] the days of Noah, so will it be when the
+[19:16] Son of Man returns. And it was just like
+[19:18] that in Noah's time. He was looking at
+[19:20] the the giants walking on the earth and
+[19:22] he's looking around and the and and
+[19:24] there it's like Sodom and Gomorrah like
+[19:25] on another level and everybody's like
+[19:27] what is happening up in here. God had to
+[19:30] wipe out a whole generation all those
+[19:34] people because of how corrupt the
+[19:37] bloodline was. And I don't know if Noah
+[19:39] and his sons were the only ones that
+[19:41] weren't corrupt but I'm going to tell
+[19:43] you very serious times.
+[19:46] Very serious times. only eight got on
+[19:48] the ark. I don't know how many people
+[19:50] had a pure bloodline back then. It I
+[19:52] don't think it says. So, we see the
+[19:54] Bible coming alive again of what I
+[19:57] believe what's coming in the future.
+[19:59] What the Lord revealed to me. More
+~~~
+
+<a id="section-06"></a>
+## 06. 20:00–23:59 · 预言、梦境与异象、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:01] darkness, more things that we need to be
+[20:04] praying over and and I know that there's
+[20:05] a lot of this we can't stop because
+[20:07] Bible says as in the days of Noah. So,
+[20:08] it's going to happen. So, when will we
+[20:11] see this in the public eye? I don't
+[20:13] know. when you start seeing about woolly
+[20:15] mammoths and you start seeing about
+[20:16] saber-tooth tigers and dinosaurs trying
+[20:19] to s big lizards again. Well, we found
+[20:22] the lizard DNA and we crossed it with a
+[20:23] komodo dragon and I mean seriously
+[20:26] that's what I'm telling you. They have
+[20:28] to take something to make something and
+[20:30] they take it and they splice it together
+[20:32] and that well we had this hair and we
+[20:35] did this cuz you can't create life out
+[20:36] of nothing.
+[20:38] You have to have something to create
+[20:41] something, right? And something that's
+[20:44] alive that is that well, we can create
+[20:46] the dodo bird again or whatever. We have
+[20:50] to create something out of this to do
+[20:51] this, but it has to be spiced. So, it's
+[20:53] not pure form. It's not pure form. the
+[20:57] taking a human and making it into this
+[20:59] is not it's it's it's
+[21:02] trying to to be a mockery of God's
+[21:05] creation of what these what he
+[21:07] originally intended
+[21:10] just like it was with the Nephilim and I
+[21:12] think it's interesting I really do
+[21:15] whenever I see what I saw
+[21:19] um he was he was ticked off about it
+[21:22] needless to say what I was seeing he was
+[21:24] he was ticked off about it he was not
+[21:26] happy about what he was seeing going on
+[21:28] in these labs and he said now do you see
+[21:30] why I have to accelerate time is being
+[21:32] accelerated things because man's
+[21:35] knowledge is increasing to the point of
+[21:37] great corruption great corruption what
+[21:40] they're trying to achieve and what
+[21:42] they're doing we're at that point of no
+[21:44] return for technological advancements
+[21:47] are trying to uh distort even the human
+[21:50] body
+[21:52] and I was like I get it I can see it I
+[21:56] can see it. So he said he keeps talking
+[21:59] to me. He said, "Brandon, people do not
+[22:01] realize how truly bad tribulation is
+[22:04] going to be.
+[22:07] It's it's going to be hell on earth,
+[22:08] folks." And I'm telling you, as you
+[22:11] watch this video,
+[22:14] you may say, "Brandon, all that seems so
+[22:16] so sci-fi, so out there. You are on some
+[22:20] bad
+[22:21] stuff. What are you talking about?" All
+[22:26] I'm here to tell you is is I see I'm
+[22:28] seeing what's coming in the future. I'm
+[22:30] trying to tell you what they're planning
+[22:33] by what I feel like the Holy Spirit is
+[22:35] giving me to tell you and through prayer
+[22:38] and I'm trying to warn you as loud as I
+[22:40] can that we're running out of time.
+[22:42] Jesus Christ is coming and many people
+[22:46] are are asleep and a great shaking to
+[22:49] awaken's coming upon this earth.
+[22:52] You're going to see things in the near
+[22:54] in the days ahead that you never dreamed
+[22:56] you would ever see with earthquakes and
+[22:58] all kinds of things. We're in the
+[23:00] beginning of sorrows. I want you to
+[23:03] understand this is not tribulation. This
+[23:05] is the beginning of sorrows. The last of
+[23:08] the major birthing pains before the
+[23:11] birthing of the tribulation. Watch
+[23:14] what's about to take place in the days
+[23:16] ahead. We must pray for our leaders. we
+[23:19] see Elon Musk saying we're going to
+[23:21] create a new party called uh the
+[23:23] American Party or whatever he was
+[23:25] calling.
+[23:27] So when he creates this, it will take
+[23:30] away from the conservative votes that
+[23:32] are ticked off and create this new party
+[23:34] saying, "Listen, we're not going to go
+[23:36] with Republicans, but the Democrats are
+[23:39] always going to be strong." So you're
+[23:41] pulling from a p a a pool of people.
+[23:44] you're pulling from somebody if they all
+[23:46] join up with him. The people that are
+[23:48] halfway frustrated with Trump, you'll
+[23:50] have halfway frustrated with Trump over
+[23:52] here, and you'll have people that are
+[23:54] kind of with the Democrats regardless
+[23:56] because they're liberal. But you'll have
+[23:57] this pool of people pulling from that,
+[23:59] and they'll be like, you know, we're not
+~~~
+
+<a id="section-07"></a>
+## 07. 24:00–27:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、美国选举与投票。 提到的地点：Oklahoma、Texas。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[24:00] we're not going to um uh vote with the
+[24:03] Republicans. What did I tell you the
+[24:05] Lord said about midterms?
+[24:09] 2026 will be the year of a fix. If you
+[24:12] do not pray even for Oklahoma, for they
+[24:16] have a chance to be divided with with
+[24:19] Oklahoma for the first time in a long
+[24:21] time. I saw a line going from from um
+[24:25] Altus, Oklahoma to Miami, Oklahoma, and
+[24:28] it was split down the middle and half
+[24:30] was blue and half was red.
+[24:34] Half blue was blue and half was red. And
+[24:36] the Lord was telling me that's going to
+[24:38] cause you must pray for midterms. You
+[24:41] must pray for what's coming with
+[24:43] midterms.
+[24:45] It was a very serious time. 2026, the
+[24:49] Lord said they're going to try to fix
+[24:50] it. Well, the rat in the White House,
+[24:53] the one that I've warned you about all
+[24:55] along, saying that they're wanting to
+[24:58] create a new party,
+[25:00] the rat wants to do it. And more rats
+[25:02] and and I, for what I understand, Kim
+[25:04] Clement um gave a word about a a new
+[25:09] party coming So it fulfills that
+[25:12] prophetic word which is amazing that he
+[25:14] got that and it's even the right words
+[25:16] the American party and I thought isn't
+[25:18] that amazing how clear that prophetic
+[25:21] word was but we see these things coming
+[25:23] about and we know the enemy is ticked
+[25:26] off and he wants to divide us and if he
+[25:28] can divide us he can conquer us and if
+[25:31] he can say well if we can get them to
+[25:33] vote this way then we can flip the house
+[25:35] and the senate and we'll stop the plan
+[25:37] try to stop the plans of what's coming
+[25:39] right It's all about divide and conquer.
+[25:43] And so, uh, we we'll have to pray even
+[25:45] harder for the, uh, midterms. We have to
+[25:48] pray. The Lord said, "You've got to pray
+[25:49] for midterms, Brennan, right now." If
+[25:51] you go back to what I told you a couple
+[25:53] videos ago when I told you about the,
+[25:55] uh, Oklahoma and all the things, and I
+[25:57] saw Texas with the line around it,
+[25:59] trying to secede from the the the Union,
+[26:02] trying to succeed secede from it,
+[26:05] saying, "Listen, we're going to have our
+[26:07] gun laws. We're setting it in stone.
+[26:09] you're not taking our pop house. We're
+[26:11] doing all these things and Texas tried
+[26:12] to be its own little thing and the days
+[26:16] ahead. And I saw them trying and
+[26:18] Oklahoma was saying, "Hey, we want to be
+[26:20] half with you because Oklahoma was
+[26:22] divided." And I thought it was
+[26:24] interesting. I really did some of the
+[26:26] things I saw trying to come and and the
+[26:30] Lord said, "You must pray for not a
+[26:32] Democratic uh governor over your nation,
+[26:34] over your state uh for 2026, for
+[26:37] Oklahoma."
+[26:39] Um
+[26:41] for they they will try to disarm
+[26:43] America. They will try to disarm America
+[26:46] in the days ahead. There'll be mass
+[26:48] shootings. There'll be these things
+[26:49] trying to take place and they'll try to
+[26:51] disarm it because they have to to get
+[26:53] the beast system to come in full swing.
+[26:56] It's part of the it's part of the wall
+[26:58] there having people with firearms and
+[27:01] being able to stand up against what
+[27:03] they're want to do to oppress people.
+[27:05] You know, when you're able to defend
+[27:07] yourself as a nation, they they can't
+[27:09] enforce the darkness that they want to
+[27:12] because they're they know people have
+[27:13] AR-15s.
+[27:15] So, they have to try to disarm people.
+[27:18] So, but that's really what I had for
+[27:20] y'all today. I don't want to take a lot
+[27:21] of your time. I know that's I don't want
+[27:23] to ramble, but I but I'm but I'm trying
+[27:25] to warn you and it just is on my heart
+[27:28] as strong as that video was. And the
+[27:30] Lord said, Brandon, you must stay
+[27:31] refreshed. People must stay refreshed.
+[27:35] You must keep drinking from the well.
+[27:38] You cannot get dry in these days. This
+[27:41] is a time like never before that you
+[27:44] continually be be being filled with the
+[27:46] Holy Spirit, drinking from the well. And
+[27:48] I and I thought, well, how do you do
+[27:50] that? You find things on YouTube to
+[27:51] watch. You you pray in the spirit. You
+[27:54] read your Bible. You keep dumping
+[27:56] gasoline on that fire. You keep dumping
+[27:58] that gasoline on the fire and and going
+~~~
+
+<a id="section-08"></a>
+## 08. 28:00–31:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[28:01] to meetings, finding things like Billy
+[28:03] Burk's meetings. I try to find them and
+[28:04] go, "Where is he going to be?" You know,
+[28:06] or wherever. Trying to find places to
+[28:08] dip in the river. be a continually
+[28:11] drinking of the spirit in these last
+[28:13] days. It's very important that you do
+[28:16] not go dry
+[28:18] uh spiritually. Let me pray for you. All
+[28:20] right, let's pray today and let's and
+[28:22] let's get excited that we're getting so
+[28:25] close to Jesus's return. Now, people
+[28:27] want to know, Brandon, you saw 10 years.
+[28:29] I don't know what that 10 years was
+[28:30] about. I truly do not know what that 10
+[28:32] years is about. Whenever I was speaking
+[28:34] into that and the Lord said 10 over the
+[28:36] next decade, what is this about the 10
+[28:38] years? I don't know is that what we have
+[28:42] right now including the seven
+[28:45] seven years of tribulation.
+[28:47] That's what's coming before the complete
+[28:50] end of it all
+[28:53] before the thousand-year reign. Do we
+[28:55] have a 10year window? Whenever I told
+[28:57] you we have three and a half years left,
+[28:59] he said, "I'm giving you a window of
+[29:01] opportunity." Whenever he's talking to
+[29:03] me about the 10 years and he said,
+[29:05] "Brandon, you have a this decade of a
+[29:07] window. Is that the end of it all?
+[29:08] Because we in in God's eyes is he
+[29:10] looking at is as as as people still can
+[29:13] make a choice to serve him in the
+[29:15] tribulation.
+[29:17] Can people still turn around? But when
+[29:19] it's over, it's over at the thousand
+[29:21] years and there's no turning back.
+[29:25] That's a 10-year window. If we have
+[29:27] three years, if even if the even if the
+[29:29] the at this next schmita cycle, this is
+[29:32] just me talking. I'm not trying. No man
+[29:34] knows the day or the hour. I know I'm
+[29:36] going to have every Pharisee come out
+[29:37] and start trying to bust me up about
+[29:38] this, but this is just me talking. Can I
+[29:40] just be real a little bit without y'all
+[29:42] browbeating me? I I just I try to I hash
+[29:45] things out. This is what I do. I pray
+[29:47] over things. The Lord said, "What are
+[29:48] you going to do with this three years
+[29:50] I've given you?" Three and a half years,
+[29:51] four years back then. What are you going
+[29:53] to do with this window? I'm giving you a
+[29:55] window for bringing in the harvest,
+[29:58] Brandon. and and it will and and I know
+[30:01] the schmita cycle starts a new one
+[30:04] starts in 2029 the end of it right so
+[30:07] allto together a decade is is is the
+[30:10] three now whatever he's talking about
+[30:13] plus uh seven so seven years of
+[30:17] tribulation plus the three is he giving
+[30:20] us a 10year window before the end of all
+[30:24] of everything before the beginning of
+[30:26] the thousand years.
+[30:28] Do we have a 10-year window? Because he
+[30:30] said over this next decade
+[30:33] in his in in the father's mind, I
+[30:36] believe he still looks at the
+[30:37] tribulation as people have an
+[30:38] opportunity to give their heart to
+[30:40] Jesus. There's still an opportunity to
+[30:43] get saved in the tribulation. But
+[30:45] whenever that's over, it's over. This
+[30:47] dispensation, this time frame is over
+[30:49] and we step into the new millennial. We
+[30:50] step into the thousand-y year reign. I
+[30:52] don't believe people are going to get
+[30:53] born again in the thousand year. I don't
+[30:54] I there's nothing there to say or not. I
+[30:57] don't know. You know, I'm sure I'll have
+[30:59] Sister Billy. I could ask her. She She
+[31:01] knows a lot more than I do. But um
+[31:05] in that time frame, do we have a 10-year
+[31:07] window right now, a decade?
+[31:10] Are we about to see the seven years of
+[31:12] tribulation begin? We have a three-year
+[31:14] window for a harvest now, three and a
+[31:16] half years, whatever it is. Do we have a
+[31:18] window right now?
+[31:22] I know folks that we're running out of
+[31:24] time. He keeps talking to me and telling
+[31:26] me, Brandon, we're running out of time.
+[31:28] And I know it might not be perfect math
+[31:30] of three and a half years, three years,
+[31:32] whatever. I'm saying this is what I'm
+[31:34] hearing.
+[31:36] And and and it's always just precise of
+[31:38] time. This well, as of today,
+[31:42] as of this day, on the fifth day of this
+[31:44] way, he doesn't he talks to me in in
+[31:46] blocks and blocks of time.
+[31:49] It's not like on on March the 5th of
+[31:52] 2025. This is when it started and it
+[31:55] it's not that detailed. It's always a
+[31:57] blocks of time. This is a 10-year
+[31:59] window. It's it you know what I'm
+~~~
+
+<a id="section-09"></a>
+## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[32:01] talking about. I hope you do. I mean I I
+[32:03] do my best. But that's the way he talks
+[32:05] to me. And so I know in my spirit we're
+[32:09] we're getting really close to something
+[32:11] major. We're about to see a great
+[32:13] shaking to the waking to a major harvest
+[32:15] of souls. and he told me, he said,
+[32:17] "We're going to see a great the greatest
+[32:19] revival we've ever seen before, and I
+[32:21] want to be a part of it." Diana's almost
+[32:23] done, so I'm not going to be able to
+[32:24] pray a long time with you today. I I
+[32:26] could go home and pray, but I wanted to
+[32:28] throw get you a video out really quick.
+[32:30] And this is already going on 30 minutes,
+[32:32] and I know she's almost done in there,
+[32:34] but I want to I want to pray for you.
+[32:36] Let's believe for your miracle today.
+[32:38] Let's believe for for uh whatever you're
+[32:40] believing for that today's there's an
+[32:42] expiration date to your issue. There's
+[32:44] an expiration date to what what you're
+[32:46] believing for.
+[32:48] Today's the day of your breakthrough.
+[32:50] Why not believe for today?
+[32:54] I get tired of always, well, it's
+[32:55] tomorrow. Well, we're going to believe
+[32:56] God for a miracle tomorrow. No, there's
+[32:59] a miracle today. Why are we always
+[33:02] believing all the time that tomorrow is
+[33:04] the day? I get tired. Don't you get
+[33:05] tired of living in the future? I want to
+[33:07] live in the now and have my abundance
+[33:09] now. My what? my my healing, my
+[33:11] manifestation of what we're belie now
+[33:14] now. Faith is the substance of things
+[33:16] hoped for and the evidence of things not
+[33:17] seen. It doesn't say all the time that
+[33:19] I'm going to that I'm well, we're always
+[33:21] believing in the now. We're always
+[33:23] believing by faith now. Why not now?
+[33:28] Why not today?
+[33:31] I believe that God is a rewarder of
+[33:34] those that diligently seek him today.
+[33:37] So, we're going to believe for your
+[33:38] today.
+[33:40] I know the faith, we always grab a hold
+[33:43] of it, folks. But I'm telling you there,
+[33:44] if we're always living in there, there's
+[33:46] Job had his time of a turnaround. He
+[33:51] wasn't all his his season of trial, his
+[33:54] season of what he went through didn't
+[33:56] last forever. There was an expiration
+[33:59] date to even Job's sorrows. And he had
+[34:02] abundance come back on him.
+[34:06] Job didn't stay there. He just went
+[34:09] through the valley and it and everything
+[34:11] was bad for a season, but everything
+[34:13] turned around for him the rest of his
+[34:14] life. Why not have your season come back
+[34:16] better? You may have went through your
+[34:18] valley of shadow of death, but when is
+[34:21] your season? Job had a season and you'll
+[34:24] have a season. It's time for your
+[34:26] turnaround. But you know what I'm going
+[34:28] to tell you? Greater is he that is in
+[34:29] you than he that is in the world. A
+[34:32] thousand shall fall at your side and
+[34:33] 10,000 at your right hand end, but
+[34:35] nothing shall come nigh you. You are
+[34:38] victorious because he's made you
+[34:39] victorious. You have what it takes to
+[34:42] get the job done. You have it. Why?
+[34:44] Because he lives on as he is, so are we
+[34:47] in this world. And if he lives on the
+[34:49] inside of us, how much more can we do?
+[34:53] That's why we can do greater works
+[34:54] because we're wallto-wall Holy Ghost. He
+[34:57] dwells. I told him, I told the Lord, I
+[34:58] said, "I'm ready to see the outpouring.
+[35:01] I'm ready, Lord. Let's do this.
+[35:04] I need more of you, Brandon. I need more
+[35:06] separation. You need to to spend more
+[35:09] time at the well. Drink from the well.
+[35:14] Drink from the well, son. So, Father, we
+[35:16] just thank you, Lord,
+[35:19] for every single person that's
+[35:21] represented here today. Father, we call
+[35:22] them healed and whole and well. We thank
+[35:24] you, Lord, that they're delivered by the
+[35:26] stripes of Jesus. Father, that they
+[35:28] don't have to live in sickness and
+[35:30] disease anymore. That every area of
+[35:32] their life, Father, that you're the
+[35:33] healer and every area of their life,
+[35:36] Lord, that you're you make them whole. I
+[35:38] plead the blood of Jesus over every
+[35:41] single need they have. And I thank you,
+[35:44] Lord, that their finances are blessed.
+[35:46] every seed they sowed will produce 30 60
+[35:50] and 100fold in the name of Jesus this
+[35:53] same year. Father I thank you Lord that
+[35:55] it will not be a long extended har uh
+[35:59] time har time that it be seed harvest so
+~~~
+
+<a id="section-10"></a>
+## 10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[36:04] harvest that the swers and the reapers
+[36:06] will go hand in hand. We call forth
+[36:09] abundant harvest over their finances
+[36:11] that whatsoever a man sws that one we
+[36:13] also reap. your bi the word of God says
+[36:15] that whatever we put our hands to will
+[36:18] prosper that we'll not struggle or have
+[36:20] lack in any way. I thank you Lord that
+[36:22] we'll have abundant harvest in
+[36:24] everything we do every day. I thank you
+[36:26] Lord that there's an there's abundance
+[36:28] of favor that follows us every single
+[36:30] day God. We wake up and the we have
+[36:33] favor goodness and mercy are following
+[36:35] us all the days of our life in the name
+[36:37] of Jesus that people see us and they
+[36:39] want to bless us. They go, "I don't even
+[36:41] understand why you I just feel like
+[36:43] doing something for you. I just feel
+[36:46] like doing something for you." Why?
+[36:48] Because the favor the favor of God
+[36:51] follows us all the days of our life. The
+[36:54] blessing of the Lord follows us all the
+[36:56] days of our life. We walk in the favor
+[36:58] of God. We walk in the abundance of God.
+[37:01] We don't have to struggle and barely get
+[37:03] by. We have creative ideas to get wealth
+[37:06] in the name of Jesus. We thank you Lord
+[37:08] that there is no more of this this
+[37:10] poverty thinking. We break poverty
+[37:12] thinking and poverty out of our life.
+[37:14] Father we have abundance father in the
+[37:16] name of Jesus. I thank you Lord for
+[37:19] healing and wholeness and wellness over
+[37:21] our bodies. Father that we stand out
+[37:23] there they go man you're always healthy.
+[37:24] You never are sick. There's something
+[37:26] about you. What's going on? We have the
+[37:28] glory. But father, when we're getting
+[37:30] our haircuts or we're doing something,
+[37:32] the glory of the Lord shines off our
+[37:34] face and the and the and the the the
+[37:36] people are doing our hair or whoever go,
+[37:38] there's just something there's a there's
+[37:39] a a piece that comes off of you. I was
+[37:42] tormented or whatever because it's the
+[37:44] glory. Father, I thank you, Lord, that
+[37:46] we are carriers of the anointing. We're
+[37:49] carriers of the glory. And Father, that
+[37:51] when we carry this glory, when we carry
+[37:53] it into the earth, Father, we you said
+[37:55] you you came to set the captives free
+[37:57] and you do it through us, Father. We're
+[37:59] your beloved children. And Father, I
+[38:02] thank you, Lord, that we are doing it
+[38:03] and doing it with with with great
+[38:05] victory. That we're going from glory to
+[38:08] glory, and you're changing us. You're
+[38:10] making us more uh we're created in your
+[38:13] image, Father, but we are being more and
+[38:15] more like you all the time, less of this
+[38:17] world and more like Jesus. I thank you,
+[38:20] Lord, for the harvest of souls, even in
+[38:22] this neighborhood right now. I thank
+[38:24] you, Lord, for a major outpouring of the
+[38:27] spirit of God beyond what we've ever
+[38:29] seen before. I call for revival in the
+[38:33] name of Jesus. We thank you, Lord, that
+[38:35] we're always in the right place at the
+[38:37] right time, ministering to the who we
+[38:38] need to minister to. I thank you, Lord,
+[38:40] that the blood of Jesus covers us and
+[38:42] we're always protected. Father, I thank
+[38:44] you that a thousand shall fall at our
+[38:46] side and 10,000 at our right hand, but
+[38:48] it shall not come nigh us. I plead the
+[38:50] blood of Jesus all around this house. We
+[38:52] I mean around our car. I say house all
+[38:55] the time. Around our house, around our
+[38:56] car, around our finances, around
+[38:58] everything we do, our children, Father,
+[39:00] that we hear you, Father. You say,
+[39:02] "Don't go to that place." We don't go.
+[39:04] We hear you. We follow the still small
+[39:06] voice on the inside of us. But it be it
+[39:08] won't be still the small. It's going to
+[39:10] be loud because we hear you. Because
+[39:11] we're familiar with you, Father. We have
+[39:13] a relationship with our father and he
+[39:15] speaks loud to me. It's not quiet to me.
+[39:18] He's loud. God is loud to me. I hear
+[39:21] you, Lord. I hear you, Lord, and I'm not
+[39:24] going to follow the devil. I hear you,
+[39:26] Lord, and I'll not follow the tormentor.
+[39:28] I thank you, Father,
+[39:31] for you've called us to the kingdom for
+[39:33] such a time as this. Great days are
+[39:36] ahead of us. Blessed days are ahead of
+[39:38] us. Father, I thank you, Lord, for the
+[39:40] blood of Jesus Christ. I thank you Lord
+[39:42] for all that you've done for us. I thank
+[39:44] you Lord for you're the greater inside
+[39:45] of me. Thank you Lord for your blood.
+[39:48] Thank you Lord for your mercy. Goodness
+[39:50] and mercy you'll follow us all the days
+[39:52] of our life and we'll dwell in the house
+[39:54] of the Lord forever. Glory to God
+[39:57] Father. I thank you Lord. We give you
+[39:59] praise and glory. Thank you Lord for all
+~~~
+
+<a id="section-11"></a>
+## 11. 40:00–43:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[40:01] that you done. Thank you Lord for the
+[40:03] outpouring of the spirit of the Lord on
+[40:05] us. Father, I thank you, Lord, that
+[40:07] greater works will do. And Father,
+[40:09] because you've come, you went to the
+[40:11] Father and you were inside of us. The
+[40:13] Holy Spirit is our comforter and he's
+[40:14] dwelling on the inside of us. Father, I
+[40:17] thank you, Lord, for that in the name of
+[40:18] Jesus. Father, I thank you, Lord, that
+[40:20] we'll cast out devils in your name.
+[40:22] We'll raise the dead in your name. We'll
+[40:24] lay hands on the sick in your name.
+[40:26] We'll do all these things because you
+[40:27] said we could do it. Father, I call
+[40:29] restoration of marriages. I thank you
+[40:32] that marriages are getting stronger in
+[40:34] this day and age. We don't have strife
+[40:36] in our marriages. We get along. Our our
+[40:38] our our love life's good. We say, "Hey
+[40:41] babe, I love you." Or, "Honey, I love
+[40:42] you." Or whatever. And we're not
+[40:44] fighting, always bickering. People are
+[40:46] people have peace. The kids have peace
+[40:48] in the home because there's unity in the
+[40:50] home. And where there's strife, there's
+[40:52] every evil work. And when Jesus is ahead
+[40:55] of the house, there's peace and there's
+[40:57] love. And I thank you, Lord, that the
+[40:59] the the weward husbands, the weward
+[41:01] wives, Father, I thank you, Lord,
+[41:02] they're becoming radically saved in
+[41:04] these ne days ahead. Father, there's a
+[41:06] Holy Ghost movement coming on these
+[41:08] households. Father, that men will rise
+[41:10] up like a backbone, like a crowbar and
+[41:12] lead their family. Father, I thank you,
+[41:14] Lord, that there's no weak, limp wristed
+[41:17] men. The sick go, "Well, I don't know."
+[41:19] No, we're going to lead with like
+[41:22] David's and and do what God's called us
+[41:24] to do and not shrink back and and take
+[41:26] the land for Jesus. I thank you, Lord,
+[41:28] that there's boldness on these men.
+[41:30] There's boldness to to make them uh
+[41:33] rulers and more than conquerors. We're
+[41:35] more than conquerors through him who
+[41:36] loved us. I thank you, Lord, that we're
+[41:38] we're blessed. And Father, I thank you,
+[41:40] Lord, that they have these men that are
+[41:43] rising up for such a time as this to do
+[41:45] what the great commission, Father, that
+[41:47] you called us to do. I thank you,
+[41:49] Father, for the rivers, the wells that
+[41:51] they're dwelling on the inside of us.
+[41:53] And we give you glory, honor, and praise
+[41:55] for it. We thank you, Lord, for the
+[41:57] wells. We thank you, Lord, for the
+[41:59] rivers. We thank you, Lord, for the
+[42:01] fresh water that that is we have a a a
+[42:04] drink every day, Father, like this
+[42:07] beautiful rain coming again on our land.
+[42:10] Father, it's been the wetest summer I
+[42:12] think I've ever seen. Father, you've
+[42:14] blessed us with so much rain. Thank you,
+[42:16] Lord, for the rain. Thank you, Lord, for
+[42:19] the blessing of the rain. I hear the
+[42:21] sound of an abundance of rain. I hear
+[42:24] the sound of of abundance of rain.
+[42:27] Father, you've been so good to us even
+[42:29] in July. Thank you, Lord, for all that
+[42:32] you provided, all that you've done.
+[42:34] You've been so good to us, Lord,
+[42:37] and the best is yet to come. We pray
+[42:39] over Trump. We pray over his marriage.
+[42:41] We pray over over the all the confusions
+[42:44] going on with the Republican party. We
+[42:46] thank you, Lord, that there's an
+[42:47] exposing of the darkness in this nation.
+[42:50] Father, I thank you, Lord, that all
+[42:52] moles and rats are revealed. I thank
+[42:54] you, Lord, that there's a there's a
+[42:56] covering over President Trump and his
+[42:58] decision-making in the days ahead. And
+[43:00] we thank you, Lord, that Congress passes
+[43:01] all the things it needs to about crypto.
+[43:03] Judge Torres, Father, is releasing
+[43:06] crypto, this this certain crypto,
+[43:08] Father, in the name of Jesus. And we
+[43:10] have an abundant supply coming in Jesus
+[43:12] name. Thank you, Lord. Thank you Lord
+[43:16] for the doubling, the tripling in Jesus
+[43:18] name like we've never seen before. Amen.
+[43:23] Amen. Well, I just want to say thank you
+[43:26] for joining me today. If you could like,
+[43:29] subscribe, click the notification bell.
+[43:31] Thank you for praying for with me,
+[43:33] praying for me, you know, being here
+[43:34] with us. We appreciate it. I know this
+[43:36] was just a little bit of a recap while I
+[43:38] was sitting out here in the parking lot.
+[43:39] Diana's in the getting checked out right
+[43:41] now. And we just want to say God bless
+[43:44] you all. Thank you for joining us. Thank
+[43:46] you for loving on our family the way you
+[43:48] do. You're you've been so kind to us.
+[43:50] And I and and we and we thank you for
+[43:52] the continue coming and praying. We'll
+[43:54] do more prayer videos. We're going to do
+[43:55] live videos. I I I got invited Kim
+[43:58] Clement's daughter uh contacted us and
+~~~
+
+<a id="section-12"></a>
+## 12. 44:00–44:46 · 教会、复兴与信仰、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[44:02] said, "Hey, would you come on the 13th
+[44:04] and come on our channel?" And I and you
+[44:07] know, I usually don't do collabs. I
+[44:09] usually don't, but I felt in my spirit
+[44:11] to do it. Uh they're a blessing and uh I
+[44:14] was excited about I thought, you know, I
+[44:17] I'll do it. You know, I'm not, like I
+[44:19] said, I usually don't do that kind of
+[44:21] stuff. But if you want to support her uh
+[44:24] live feed coming on next Sunday, this
+[44:26] coming on the 13th, I believe is it is.
+[44:29] Uh we're going to be uh doing um a video
+[44:32] over there and I'm going to be talking
+[44:34] to Don. I thought that's kind of cool.
+[44:36] So, God bless you all and we'll see you
+[44:39] again soon. Remember, put a smile on
+[44:41] your face and a song in your heart.
+[44:43] Jesus loves you so much and we love you.
+[44:45] God bless you all and we'll see you
+[44:46] again soon. Bye bye.
+~~~

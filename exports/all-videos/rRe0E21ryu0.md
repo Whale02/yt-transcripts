@@ -1,0 +1,3588 @@
+# Jesus will not come back until North Korea is reached
+
+**视频**: https://www.youtube.com/watch?v=rRe0E21ryu0
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus-streams/Jesus will not come back until North Korea is reached [rRe0E21ryu0].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 3445；**章节数**: 12；**明确省略行数**: 1
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–14:59 · 祷告、敬拜与现场互动、地震、风暴与灾害](#section-01)
+- [02. 15:00–29:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-02)
+- [03. 30:00–44:59 · 预言、梦境与异象、教会、复兴与信仰](#section-03)
+- [04. 45:00–59:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-04)
+- [05. 60:00–74:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-05)
+- [06. 75:00–89:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
+- [07. 90:00–104:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-07)
+- [08. 105:00–119:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-08)
+- [09. 120:00–134:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-09)
+- [10. 135:00–149:59 · 预言、梦境与异象、物资、能源与供应链](#section-10)
+- [11. 150:00–164:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-11)
+- [12. 165:00–171:06 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
+
+<a id="section-01"></a>
+## 01. 00:00–14:59 · 祷告、敬拜与现场互动、地震、风暴与灾害
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、地震、风暴与灾害、预言、梦境与异象。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] live yet?
+[00:02] >> I'm just going to play this real quick.
+[00:13] Worship
+[00:14] the Lord.
+[00:27] Beautiful.
+[00:32] Do you want [music] to go
+[00:35] to the mountain of the Lord?
+[00:41] Do you want to go
+[00:44] to the mountain of the Lord?
+[00:49] There is a place
+[00:52] for those who are thirsty
+[00:56] in the mountain of the Lord.
+[01:04] Do you want to go to the mountain of the
+[01:08] Lord?
+[01:14] >> [music]
+[01:20] >> I liked it.
+[01:29] >> Everybody watching, no matter what
+[01:30] nation you're at, you're welcome.
+[01:33] We have come to Zion, the city of the
+[01:36] living God, the heavenly Jerusalem.
+[01:40] We have come
+[01:43] to God the judge of all. The spirits
+[01:46] have just been made perfect. We have
+[01:48] come to an innumerable company of
+[01:50] angels.
+[01:53] We have come to the general assembly in
+[01:54] the church of the firstborn whose names
+[01:56] are in heaven. We have come to Jesus,
+[01:59] the mediator of the new covenant, and to
+[02:01] the blood of sprinkling that speaks of
+[02:03] better things than that of Abel. Come
+[02:05] on, let's lift our hands. Glorify the
+[02:08] Lord
+[02:20] of the Lord.
+[02:22] I can hear your voice.
+[02:30] I can touch your face.
+[02:35] >> Sing again. The world
+[02:40] in the mountain
+[02:48] of the Lord
+[03:02] There is a place
+[03:05] for those who are
+[03:09] lifting up.
+[03:13] Sing it again. I can hear your voice.
+[03:20] I can hear [music]
+[03:21] your voice.
+[03:26] Do it.
+[03:27] They can touch your face.
+[03:31] There is a grace
+[03:38] in the mountain of the Lord.
+[03:43] I can feel the
+[03:45] mountain.
+[03:49] I can feel [music] the
+[03:53] mountains.
+[03:57] [music]
+[04:00] There is a place.
+[04:07] I said there [music] is a place
+[04:15] in the cl
+[04:30] [music]
+[04:31] of the Lord
+[04:37] Touch his face.
+[04:39] Touch his face. Touch his hands. His
+[04:42] presence is so
+[04:44] near to us. Touch it. It's right there.
+[04:48] Touch it. Let this anointing of the
+[04:50] spirit be upon you. As you touch it now,
+[04:56] worship the Lord.
+[05:04] I had to listen to one of my favorite
+[05:06] songs. Um,
+[05:09] good evening everybody. Thank you for
+[05:11] joining me today. I really appreciate
+[05:14] it. We're going to go over the things
+[05:15] that the Lord showed us in this last
+[05:17] video uh last time we prayed together
+[05:20] and uh we'll go over uh the things that
+[05:23] going on in the news and things that
+[05:25] Braden has found and um we'll go from
+[05:28] there and we're going to pray. Who wants
+[05:29] to go tubing? First off, we got a new
+[05:32] light and so we're really excited about
+[05:34] this new light. Braden ordered it and so
+[05:36] do you see any difference in the
+[05:38] lighting in our our studio?
+[05:41] It it's it's it's really big. And so
+[05:44] Braden said, "Dad, I want to get this
+[05:46] for Christmas." So I I we got it and he
+[05:49] we put it in here and hopefully it uh
+[05:53] light up bit different, make it look
+[05:55] more professional instead of the bulbs
+[05:57] we had. We had just normal bulbs that
+[06:00] you get from Walmart, but this is pretty
+[06:02] uh something. So, we're gonna try to get
+[06:05] three more uh when we get more money
+[06:08] around. We They're pretty expensive, but
+[06:10] they're I don't know. Do y'all see any
+[06:12] difference?
+[06:14] Can they see any difference? Cuz if it's
+[06:16] not, I'm not going to waste the money on
+[06:18] >> Does that look softer? Yeah.
+[06:19] >> Softer?
+[06:20] >> Yeah. It looks great.
+[06:21] >> Okay. It doesn't look as harsh.
+[06:23] >> Yeah.
+[06:23] >> Once Yeah, cuz it was It's really hard
+[06:26] on me.
+[06:27] I told Braden, I said, "When you those b
+[06:30] these bulbs are, you know, so bright on
+[06:33] my eyes all the time. I it it I don't
+[06:35] like it." So, uh, we got this new. So,
+[06:39] hopefully when we get the other three,
+[06:41] it will be really different. I don't
+[06:43] know. Maybe it will, maybe it won't, but
+[06:44] we'll see. But I just wondered what you
+[06:46] all thought. Pretty cool. Pretty cool.
+[06:49] Braden has all kinds of ideas. He said,
+[06:52] "Daddy, I think this would be neat." So,
+[06:54] I'm I'm happy with it so far. It makes
+[06:56] me kind of feel like I'm outside, you
+[06:58] know, like twilight.
+[07:00] So So
+[07:01] all right. Well, I uh reading book of
+[07:04] Jeremiah there. I um
+[07:07] want to go over some of the things he
+[07:10] found in the news. Ready?
+[07:14] [clears throat]
+[07:15] >> Now, do you remember whenever I told you
+[07:18] we would start to have power outages and
+[07:21] the Lord showed me? Now, I didn't know
+[07:23] what the cause of. Let me pray first.
+[07:26] Father, I thank you, Lord, that you
+[07:27] speak through my vocal cords and think
+[07:29] through my mind. None of me and all of
+[07:32] you in Jesus name uninterrupted and
+[07:34] unhindered by any satanic or demonic
+[07:36] force. I thank you, Father. I thank you,
+[07:39] Lord, for the blood that covers us and
+[07:41] that there is no demonic spirits to come
+[07:43] against me as I'm doing this. No
+[07:45] witchcraft, no no anything from the
+[07:48] occult. I thank you Lord that the blood
+[07:50] of Jesus Christ covers us, my wife, my
+[07:52] children, and our everything we put our
+[07:55] hands to prospers in the mighty name of
+[07:57] Jesus. Amen and amen. Well, um,
+[08:02] [clears throat] I saw in the spirit, I
+[08:04] don't know how many times that there
+[08:05] would start to have major blackouts all
+[08:08] throughout the United States of America
+[08:10] and that we would start to see them.
+[08:12] Now, I didn't know why they would
+[08:14] happen. I just saw that some of them
+[08:16] would be from uh what I saw was cyber
+[08:19] attacks,
+[08:21] but I saw city cities completely dark. A
+[08:25] lot of times I see New York uh and major
+[08:29] cities on the east coast. So Brad said,
+[08:32] "Hey, Dad, did you see that uh all of
+[08:36] San Francisco is dark right now?" And
+[08:38] and and it's from a fire. Now, this is
+[08:41] the ominous feeling that I told you all.
+[08:43] You know, remember I told you I said
+[08:45] they they bring in backup generators and
+[08:47] they shine it off of the buildings. It's
+[08:50] similar to what's going on of what we
+[08:53] see right now in San Francisco because
+[08:56] of these fires. They turned off all the
+[08:58] power. And so, I thought that was kind
+[09:00] of interesting because I said, hm, is
+[09:03] this the beginning? Because the Lord
+[09:05] showed me that it would happen start to
+[09:06] happen more and more and more in the
+[09:08] days ahead. And so, do you have any of
+[09:10] those clips? You want to show them? Does
+[09:12] anybody know that we had all these power
+[09:13] outages in San Francisco? I thought it
+[09:16] was pretty interesting that that's all
+[09:17] happening today.
+[09:19] I don't know what's on fire, but it's
+[09:22] this is the darkness that I told you.
+[09:24] It's just like this. All the visions I
+[09:26] see even in the east coast all but but
+[09:29] for three weeks.
+[09:31] I have to be specific on the Lord said
+[09:34] it will last three weeks. When this
+[09:36] happens, it will last 3 weeks. And I
+[09:40] don't know if this this is just one
+[09:42] event, but they shut this off, I guess,
+[09:44] because of protection or whatever. I
+[09:46] don't know why it happened, but for what
+[09:48] I saw coming in New York and such, I saw
+[09:51] that it lasted, you know, in uh it went
+[09:53] all up the east coast, three-w week time
+[09:55] frames, cyber attacks, it would be quite
+[09:58] a while.
+[10:01] And these cyber cars
+[10:03] >> are out
+[10:04] >> are out cuz there's no power to run
+[10:06] them. There's no uh stuff in what
+[10:09] however they get their juice to go. So
+[10:11] they're stranded all on the side of the
+[10:13] road.
+[10:15] [laughter]
+[10:16] That's kind of funny. And they where
+[10:18] they stopped is really an awkward place.
+[10:20] So we see that going on.
+[10:24] Did you show them [clears throat]
+[10:26] >> this?
+[10:28] >> So what's that?
+[10:29] >> That's a city. Oh, the dark.
+[10:31] >> Everything's dark. It's very It's
+[10:33] spooky. But I saw generators and they
+[10:36] would bring in huge generators and they
+[10:38] would bring spotlights in to shine them
+[10:40] off the buildings for kind of like a
+[10:42] mirror effect in New York because the
+[10:45] people were trying to riot.
+[10:48] [cough and clears throat]
+[10:49] [snorts]
+[10:51] So that now do you want to go on?
+[10:53] >> Yeah.
+[10:54] >> Okay. And then I want to play. Do you
+[10:57] have What was you going to show me about
+[10:59] this? This is what I thought was
+[11:00] interesting about the ma we had major
+[11:03] wind gust in Wyoming, Colorado and these
+[11:08] areas. Now, it was there were over
+[11:13] 144 mph wind gust
+[11:17] and the Lord told us how many times that
+[11:20] this was coming major weather warfare
+[11:24] that they would manipulate the warfare
+[11:26] and it would weather and it would be
+[11:28] like warfare around the world. The
+[11:30] jetreams were going to change. I saw the
+[11:33] light coming in different all these
+[11:36] major signs of the times the of
+[11:38] escalation of things. Now we see semis
+[11:41] blowing over uh train cars all this
+[11:45] major derailment of stuff all over in
+[11:48] Wyoming and they said there's 144 mph
+[11:51] winds. Now I want to go back to the word
+[11:55] the and Braden brought the clip out. I
+[11:57] saw 150. So 144
+[12:01] 150 this is it's the you know I want to
+[12:04] say what's the same thing. No it's just
+[12:05] a little off but it's the same thing of
+[12:08] what I'm trying to tell you is coming.
+[12:10] This is just the beginning. And the Lord
+[12:12] showed me Brandon just because it
+[12:14] happened once don't mean that's the end.
+[12:15] This is going to start happen all the
+[12:17] time. And I want you to go I want to go
+[12:19] back to the word of what the Lord showed
+[12:22] us clear back in 2023.
+[12:25] 2023 when I just started this. This is
+[12:28] what the Lord said. Oh, well, this is
+[12:29] 2024.
+[12:31] >> Do you have the 2023 on there or did you
+[12:32] not put it in?
+[12:33] >> I do.
+[12:34] >> No, you didn't. Okay. 2024. February the
+[12:37] 2nd. 22nd of 2024. You want to play it?
+[12:42] And he told me there would be
+[12:44] recordbreaking
+[12:46] wind gust. I saw wind gust of down
+[12:49] burst. I I hope I'm not butchering that.
+[12:51] It's downburst. wind bursts coming out
+[12:54] of the storms updrafts and straight line
+[12:56] winds of over 150 mph winds for gust 150
+[13:03] mph wind gust and I've warned you all of
+[13:06] great manipulation of the weather
+[13:11] warfare is coming beyond anybody's
+[13:15] comprehension they will manipulate the
+[13:17] weather through certain avenues that
+[13:20] they will make it whether to be like
+[13:22] to be used against uh people
+[13:25] demonically. And as they try to control
+[13:28] the weather, they will lose control of
+[13:31] the weather with certain storms and it
+[13:33] will cause great devastation with
+[13:37] straight line winds and hurricanes that
+[13:40] will not be able to be stopped. They
+[13:42] will there will be another uh level of a
+[13:45] hurricane as far as the strength and the
+[13:48] intensity than we've ever seen before.
+[13:52] It will be super hurricanes, super
+[13:55] tornadoes, and super hell. Super
+[13:58] straight line winds. Things that will
+[14:00] look like it's biblical proportion that
+[14:03] is trying to be made by man demonically.
+[14:06] Some of it to try to manipulate other
+[14:09] countries.
+[14:11] Some of it to man to manipulate the
+[14:14] people to doing what they want them to
+[14:16] do in certain areas. I saw straight line
+[14:18] winds that exceeded speeds beyond
+[14:22] anything we've ever seen on this earth
+[14:25] from cloud seeding and things of trying
+[14:27] to manipulate the weather. strengthening
+[14:31] larger hurricanes, strengthening
+[14:34] tornadoes, strengthening storms where it
+[14:38] would rain in one area and within just a
+[14:43] 10 mile radius or 100 miles be complete
+[14:47] drought beyond anything you can
+[14:49] comprehend. I'm talking I saw drought
+[14:51] that was worse than the dust bowl.
+[14:53] Abnormal rain and abnormal droughts. a a
+[14:57] form a form of weapon weather weapon
+~~~
+
+<a id="section-02"></a>
+## 02. 15:00–29:59 · 预言、梦境与异象、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[15:01] weather warfare perfecting it but it
+[15:04] will get out of control and trying to
+[15:06] control they will lose control jetreams
+[15:11] super storms exceeding wind that you've
+[15:14] never ever experienced before super
+[15:17] rains super winds and super hell it will
+[15:21] keep increasing and it will get out of
+[15:23] control sometimes you have major major
+[15:25] major hurricanes and tornado season and
+[15:29] sometimes we have nothing and it's by
+[15:32] design. Jamaica was a test. Jamaica was
+[15:36] played with. It was altered and they
+[15:38] will continue to do this and they will
+[15:40] use it for war and it will look so
+[15:43] innocent but many people will lose their
+[15:45] lives because of it.
+[15:50] So, we see it and it's happening just
+[15:53] like the Lord has warned us over and
+[15:55] over for how many years now. And we see
+[15:58] the winds at 144 miles an hour. It's all
+[16:02] almost spot right on on the on the 150
+[16:05] cuz I saw the number 150 144. So, we
+[16:08] know more was coming. It's pretty close,
+[16:11] but you know, I don't want to sit there
+[16:12] because you'll have the haters go,
+[16:13] "Well, Brandon, that's not right on
+[16:15] you." It's pretty close. Here you go.
+[16:18] It's happening.
+[16:20] What we see with Jamaica, I didn't even
+[16:22] remember I saw that. Super hurricanes
+[16:26] that would exceed things that we've
+[16:28] we've that we've never seen before. That
+[16:31] was a how it turned and how it hit
+[16:34] Jamaica. You knew something was planned.
+[16:35] That was not that was not natural. That
+[16:38] was weird. And we see how it was massive
+[16:40] and it hit Jamaica. Um [snorts] so much
+[16:44] devastation, so much things. And then
+[16:47] Dubai had a record-breaking 24-hour
+[16:49] rainfall. Floods of biblical bib
+[16:53] biblical proportions in Dubai. And the
+[16:57] flood water was ra racing up all over
+[17:00] the the banks and just flooding the
+[17:03] streets and flooding the cars, flooding
+[17:05] all this stuff. This happened yesterday,
+[17:09] [clears throat]
+[17:11] huh? You can see it. Look at these
+[17:15] people. They're like they're going to
+[17:16] have to swim.
+[17:18] The Dubai is being flooded. This is
+[17:20] desert over there. You know, it's
+[17:23] interesting to me all the things that
+[17:26] are happening right now, the signs of
+[17:28] the times of the coming of the Lord
+[17:29] Jesus Christ. And we see all these
+[17:31] things happening and it's and it's
+[17:33] escalating like like I told you would
+[17:35] the the Lord said it's the birthing
+[17:37] pains are going to accelerate accelerate
+[17:40] accelerate accelerate from the 23rd of
+[17:42] September to even the next Rashashana to
+[17:46] the next Rash Rash Rasha Rashashana
+[17:49] [clears throat]
+[17:49] >> I butcher huh
+[17:51] >> Rashana
+[17:53] >> so it's happening
+[17:55] and the Lord warned us it was going to
+[17:57] happen so it's amazing to watch it and
+[17:59] and political uh all the politics and
+[18:03] then Marco Rubio came out today and said
+[18:06] what he said about JD Vance and JD Vance
+[18:10] do you have that?
+[18:11] >> Uh I don't let me see. Yeah, I don't
+[18:13] know if that's if you wanted it.
+[18:15] >> Yeah, it's fine. You can play it if you
+[18:16] want to, son. If you don't want to and
+[18:18] you want to do it tomorrow, we can I'm
+[18:20] just trying to throw some things out
+[18:21] there to show them what's going on in
+[18:22] the news that you showed me.
+[18:24] >> Okay, maybe you can wait a second. I I
+[18:27] >> So
+[18:29] you showed him the the thing about the
+[18:31] 144 miles. How many people knew that was
+[18:33] happening? That's amazing. I was just
+[18:35] like, look at all this. But um you know,
+[18:40] we're not even into 2026 yet.
+[18:43] And I have great caution concerning
+[18:47] 2026.
+[18:49] How many things over and over and over
+[18:51] again has the Lord warned us? I I Braden
+[18:54] said, "Last night we hit the hit it
+[18:56] again talking about the uh the the
+[18:59] revival again, Dad. You saw another
+[19:01] piece of the revival. Your visions that
+[19:04] the Lord gives you all repeat
+[19:06] themselves. You It's usually the same
+[19:09] thing, just a different lens, different
+[19:11] glimpse. It's a different It's a
+[19:13] different way of looking at something
+[19:14] else through the It's the same thing,
+[19:16] Daddy. And I And I always go, "Yeah, it
+[19:19] is. It's just a different picture. it's
+[19:21] another piece of the puzzle and we keep
+[19:23] adding them together and adding them
+[19:25] together and every once in a while the
+[19:26] Lord will give us something new but
+[19:28] usually it's we go through a cycle and
+[19:31] every single time it's like the war the
+[19:33] weather warfare as you can see through
+[19:36] the months it it goes in like a it goes
+[19:39] in like a a train and I go isn't that
+[19:42] interesting last night I mean the night
+[19:44] before last he said we're going to talk
+[19:46] about the revival tonight and then today
+[19:49] he was talking to me about the plague
+[19:52] and about this major plague that's
+[19:54] coming about all the shaking to awaken
+[19:58] the body of Christ and the major plague
+[20:00] and people are upset about the plague
+[20:02] and Brandon are we going to experience
+[20:03] the plague I truly believe we'll see
+[20:06] something
+[20:08] I truly do now to the level of how much
+[20:11] it affects I don't know the Lord said we
+[20:13] could lessen it what does that mean
+[20:15] prayer prayer prayer prayer prayer
+[20:18] changes things and for all the People
+[20:20] who don't believe prayer changes things,
+[20:22] you're on the wrong channel because I
+[20:25] believe with all my heart that Jesus
+[20:27] Christ gave us authority and to tread on
+[20:30] serpents and scorpions and nothing shall
+[20:32] by any means hurt us. And that he tells
+[20:34] the people what's coming before it
+[20:36] comes. He tells the watchman's go tell
+[20:40] my people what's coming. And as I look
+[20:43] out over the horizon of time with with
+[20:46] with the devil planning and strategizing
+[20:49] of how to take things down, he puts us
+[20:51] in a roadblock for him, saying, "Nope,
+[20:53] you're not doing this. We're not
+[20:55] allowing you to do this. We're going to
+[20:57] take authority over you and we're going
+[20:58] to pray and we're going to believe God
+[21:00] and we're going to stand on the wall and
+[21:03] and and warn the troops what's coming."
+[21:06] So, uh, what is that, son?
+[21:08] >> The winds.
+[21:09] >> That's the winds. Yeah, you can see the
+[21:11] winds. It's just blowing trees over.
+[21:13] That's just straight line winds. That's
+[21:15] not a tornado. That's not a hurricane.
+[21:19] [clears throat] That's major That's
+[21:21] major winds. Are you showing them?
+[21:22] >> Yeah.
+[21:22] >> It's just blowing trees over like
+[21:24] they're toothpicks.
+[21:26] That's That's not normal.
+[21:32] That It's just amazing to me that it
+[21:34] just picks a big old tree right up out
+[21:36] of the ground. Just straight line winds.
+[21:38] Not a tornado. Now, I've seen tornadoes
+[21:40] and I've seen the damage here in
+[21:41] Oklahoma when they come through, but
+[21:43] usually not by big winds like that that
+[21:45] just pick trees up out of the ground and
+[21:48] just act like they're they're they're
+[21:49] toothpicks.
+[21:51] [clears throat] So, um
+[21:53] are you showing them that, too?
+[21:55] >> Yeah.
+[21:55] >> It's pretty amazing.
+[21:57] >> All the damage.
+[21:58] >> A lot of damage. A lot of weather damage
+[22:00] right now.
+[22:03] So, okay. So,
+[22:04] >> knock the train over.
+[22:06] >> Yeah. Show them the train.
+[22:08] Okay.
+[22:17] >> Train just blowed over like it was
+[22:18] nothing.
+[22:22] And it wasn't just a couple cars. Look
+[22:24] at that.
+[22:24] >> The whole thing.
+[22:27] >> All the way down.
+[22:28] >> That's going to take some time to put
+[22:30] that back together.
+[22:32] They have to have a some kind of big
+[22:34] crane or something.
+[22:37] But uh so let's go over what we saw in
+[22:41] prayer uh last time, right? Is that it?
+[22:44] >> Yeah.
+[22:45] >> JD Vance. You want to talk about JD
+[22:46] Vance?
+[22:46] >> Yeah, I have it.
+[22:47] >> Okay. I thought that was kind of
+[22:49] interesting. Play that clip.
+[23:10] uh telling Vanity Fair last week, "If JD
+[23:13] Vance runs for president, he's going to
+[23:15] be our nominee and I'll be one of the
+[23:16] first people to support him. Very rarely
+[23:20] do you see in Washington politics
+[23:23] somebody who does something like this."
+[23:25] >> Yeah. really remarkable kind of the
+[23:27] setting aside of personal ambition and
+[23:29] arguably these two men JD Vance and
+[23:31] Marco Rudio would probably be among the
+[23:33] top contenders. My question is as this
+[23:36] goes forward, will we see this other
+[23:37] young cabinet, much of the cabinet
+[23:40] >> of his own personal and political
+[23:42] ambitions?
+[23:42] >> I thought fair last week
+[23:44] >> because it's the two men I saw I saw
+[23:47] Marco Rubio and
+[23:50] will that be his running mate of them
+[23:53] saying, "Hey, we'll join together and be
+[23:55] part of a a coalition everything." But I
+[23:59] I'm not going to go over and sit there
+[24:00] and tell you all again and rehearse
+[24:02] everything I've said about JD Vance.
+[24:06] But I've told you that I have great
+[24:07] caution
+[24:10] that a man will start to break away from
+[24:13] the the mega the mega uh platform as his
+[24:17] own. And he is not who he says he is.
+[24:21] He's not in his eyes. The Lord showed me
+[24:24] he is not who everyone thinks he is.
+[24:28] I saw Harvard
+[24:31] and he didn't go to Harvard but I saw
+[24:33] Harvard painted in like bricks. It was
+[24:37] the the word Harvard and it was all in
+[24:40] bricks
+[24:42] uh concerning this man of a way of
+[24:44] thinking stronghold a strong thinking
+[24:47] strong Harvard thinking. It was uh
+[24:50] bricks all in the in his and it was like
+[24:54] massive bricks that were all lined up
+[24:57] that were built like a wall on this word
+[25:00] Harvard. Now I believe he went to um uh
+[25:06] Yale.
+[25:06] >> Yeah.
+[25:08] >> I believe he went to Yale. So I don't
+[25:09] know why the Lord showed me Harvard
+[25:11] because he didn't go to Harvard but it
+[25:13] was a way of thinking. So does Yale
+[25:16] think like Harvard? I don't know. I I
+[25:17] I'm not I don't go we don't follow these
+[25:20] liberal schools.
+[25:22] We we we follow uh Jesus schools like or
+[25:26] Rama,
+[25:28] you know, and so whatever to to all the
+[25:32] liberal schools. But um you know, I just
+[25:34] think it's interesting because the Lord
+[25:36] showed me that the this man would come
+[25:38] out being different than what most
+[25:39] people thought. And by 2028, I saw a new
+[25:44] Watergate scandal coming,
+[25:46] a new Watergate scandal coming and and
+[25:49] and all these major a major shaking to
+[25:52] the the party. And this why the Lord
+[25:54] said, "You must pray." Cuz I saw Mega
+[25:57] being split and it wasn't going to be
+[26:00] Megan. Megan would die. And so I thought
+[26:03] it was interesting the things the Lord
+[26:06] has warned me to pray. I I personally
+[26:09] like uh Don Jr. I would love to see Don
+[26:13] Jr. uh win. Now when I see JD Vance and
+[26:17] him going before the Lord said don't get
+[26:21] your eyes on JD Vance. They're grooming
+[26:24] another one behind the curtain
+[26:26] [clears throat] for the rep for the
+[26:28] Democratic party. And I saw a person
+[26:31] being groomed that was going to have a
+[26:34] demonic
+[26:36] uh
+[26:37] powering and I don't want to say an
+[26:39] overshadowing or I I I try to watch the
+[26:42] verbiage that I use but it was like I
+[26:45] saw a demonic glow
+[26:49] if per se a an an endowment of power an
+[26:52] anointing it's not anointing but an
+[26:54] empowerment an empowerment on this
+[26:57] individual with speech
+[27:00] like it was with Obama when people like
+[27:03] to listen to Obama and everybody in the
+[27:04] crowds and all the stuff that they were
+[27:06] they were grooming a new Obama to come
+[27:10] on the scene in the days ahead.
+[27:13] Somebody that was being groomed. But I
+[27:15] saw the devil himself empowering this
+[27:19] individual
+[27:20] to come against the mega crowd because
+[27:24] they're wounded. that they are losing
+[27:27] reent reency
+[27:29] with the media with the American
+[27:32] population because of the way they're
+[27:34] handling things. But they were grooming
+[27:36] a new leader
+[27:38] for this generation. And whether that is
+[27:41] the guy in um New York or not, I don't
+[27:44] believe so. Most people keep saying,
+[27:47] Brandon, I believe it's the guy in New
+[27:49] York. I don't. I believe it's somebody
+[27:51] else uh that will grasp a hold of uh the
+[27:54] elders and um the younger generation
+[27:58] similar to how Obama did.
+[28:01] So the Lord said, "Don't lose focus
+[28:04] thinking that you got this like a slam
+[28:06] dunk.
+[28:08] Oh yeah, JD Vance got this. Everybody's
+[28:10] going, you know, no, no, they had
+[28:11] plans." And I saw political theater,
+[28:16] great distractions coming. And I saw a a
+[28:19] persecution coming on social media like
+[28:22] you wouldn't believe with YouTube with
+[28:26] uh Facebook with censor censor censor
+[28:30] lawsuits coming against uh Elon with X
+[28:35] concerning his platform and freedom of
+[28:38] speech. Great censor coming against
+[28:42] freedom of speech like you would not
+[28:44] believe. I'm telling y'all it's coming.
+[28:46] 2026 it's going to start. 2027 it's
+[28:50] gonna come. 2028 it's going to look like
+[28:52] hell on earth. I'm telling you all, you
+[28:54] all need to wake up.
+[28:57] We're not in church normal. This is
+[28:58] church unusual. He keeps saying,
+[29:01] Brandon, a great shaking's coming. You
+[29:03] must wake up my church. Keep telling
+[29:06] them they must get prepared for what's
+[29:09] coming in the days ahead. They must have
+[29:12] a backbone like a crowbar. I saw great
+[29:15] persecution coming in Canada, major uh
+[29:19] black swan events, major terrorist
+[29:21] attacks, major shakings in Australia
+[29:24] still major uh because this would be
+[29:27] more grab of your freedom
+[29:30] as these major things take place. It's
+[29:34] it grabs your freedom.
+[29:37] Well, we'll just cramp we'll just clamp
+[29:38] down more, you know, we'll go door to
+[29:41] door, whatever. I don't know. We'll
+[29:43] start we're going to start just really
+[29:45] coming down on your social media folks
+[29:47] because we're doing it to protect you.
+[29:49] We're going to really, you know, and
+[29:51] it's it's basically just taking away
+[29:53] people's privacy, which you don't have
+[29:55] any anyway. Even in America, you think
+[29:57] you have privacy. The Lord even showed
+[29:59] me your phones and your pictures on your
+~~~
+
+<a id="section-03"></a>
+## 03. 30:00–44:59 · 预言、梦境与异象、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[30:01] phones. They're not private. The Lord
+[30:04] specifically told me your phone and your
+[30:08] pictures on your phone. And you think,
+[30:10] well, that's private. It ain't private.
+[30:12] The Lord said they they know everything
+[30:13] that you do be they know and they can
+[30:16] see it even when you don't want them to
+[30:17] see it and they say oh no we don't we're
+[30:19] not able to see that kind of bullorn.
+[30:25] You need to know it's a surveillance
+[30:27] society. They're surveilling you all the
+[30:30] time. Your bank accounts, your
+[30:32] everything and they know everything
+[30:34] about you. They know your blood type.
+[30:36] They know what kind of poop you know
+[30:38] what you ate.
+[30:40] Trust me for what I've seen in the
+[30:42] spirit. The Lord said that it will get
+[30:45] worse and worse and worse and that that
+[30:47] covering's coming off, son. I saw as I
+[30:51] was praying, was it did I deliver this
+[30:53] publicly about the sewage?
+[30:56] >> No.
+[30:57] >> Okay. I saw a septic tank
+[31:00] and as I was praying, I saw a massive
+[31:04] septic tank and this was concerning some
+[31:06] of the body of Christ in some churches.
+[31:08] And he said, "Do you see that lid on
+[31:10] those septic that septic tank, Brandon?"
+[31:13] He said, "I'm taking off the lid." And
+[31:15] they think they've hid it all down in
+[31:16] there and all that poo and all that in
+[31:18] that septic tank of their heart and who
+[31:20] they are in the church and I'm going to
+[31:23] take it. And there's three tanks, you
+[31:25] know, in some of these septic tanks,
+[31:26] these aquifer tanks and all this stuff.
+[31:28] But some of them, they're just full of
+[31:30] just nasty poo
+[31:32] and just waste and it's full to the top.
+[31:36] But they've tried to put a lid on it.
+[31:38] And I saw a round lid on a septic tank.
+[31:42] And he said, "I'm taking the lid off in
+[31:45] 2026. And I'm cleaning all the waste
+[31:47] out. For judgment begins in my house
+[31:49] first, son.
+[31:51] I'm cleaning out the waste.
+[31:54] Things that you thought they that they
+[31:55] were it was hiding.
+[31:58] You don't want to tell everybody what's
+[31:59] in that septic tank cuz it's nasty." But
+[32:02] the moment you expose it and take that
+[32:05] lid off of that and to be able to clean
+[32:07] it out, everybody knows your business
+[32:09] and it's stinky.
+[32:12] Huh? It's stinky. And I mean, that's
+[32:13] pretty gross. But it's the It's the way
+[32:15] it is. The Lord told me it's going to be
+[32:17] a roar time. We're coming. I'm cleaning
+[32:20] out the things, Bren. I'm going to
+[32:22] bleach it. I'm going to clean it out.
+[32:24] You know, it's like a It's like a It's a
+[32:26] power washing time. We're going to clean
+[32:28] that nasty septic out.
+[32:31] We're going to do deep cleaning. And he
+[32:33] said, "There's many of my churches, many
+[32:35] of my people that have their hidden
+[32:37] things inside that septic. You don't
+[32:39] know how dirty it is. And I'm taking the
+[32:41] lid off, son, in 2026.
+[32:45] I hide my remnant in the cliff."
+[32:50] And most people don't want to hear a
+[32:53] word of 1 Corinthians 5:5, but that's
+[32:56] what he keeps talking to me about. I'm
+[32:58] cleaning my church. I'm bringing them to
+[33:00] my side. A humbling's coming. Very
+[33:03] shakings to awaken. You're going to see
+[33:05] things you never dreamed you would see.
+[33:08] and the earth and the and the and the
+[33:10] weather and volcanoes and volc and and
+[33:13] eruptions and and all kinds of
+[33:15] earthquakes and diverse places,
+[33:17] political drama,
+[33:21] social credit scores, the beginning of
+[33:23] the beast system, even more so
+[33:25] concerning crypto and a digital uh
+[33:29] frontier.
+[33:30] Everything is going AI. Watch what AI
+[33:33] does over the next three years.
+[33:37] You're going to go whoa. It's you're you
+[33:40] I'm telling you, mock my when you go to
+[33:42] this time next year for everything will
+[33:44] accelerate even by this time next year
+[33:46] and by the end of 2027, you're going to
+[33:48] I want you to pinch yourself right now
+[33:50] because I'm telling you how real it's
+[33:51] going to get. Feel it.
+[33:55] Feel it.
+[34:01] thei the signs of the times of the
+[34:03] coming of the Lord Jesus Christ
+[34:07] escalation escalation and that's not
+[34:10] even concerning the the the terrorist
+[34:12] attacks and I was and the Lord was
+[34:14] showing me about things concerning this
+[34:16] praying praying praying over uh Las
+[34:19] Vegas I'm not Las Vegas uh Los Angeles
+[34:23] uh Hollywood Beverly Hills
+[34:27] so then okay so let's just go to
+[34:29] something
+[34:30] Let's We saw
+[34:34] North Korea. Well, we'll go back even
+[34:37] further. We saw John Kilpatrick
+[34:40] and John Kilpatrick was what had was
+[34:43] skinnier. He didn't have the stomach
+[34:46] that he has now like me. No room to
+[34:48] talk, but he was thinner. He had a black
+[34:52] uh jacket on like a sports coat like,
+[34:55] you know, like a preacher coat, you
+[34:56] know, with a white shirt. no tie. He was
+[35:01] He was looking toward this wheat on the
+[35:04] ground. In the vision that the Lord gave
+[35:07] us, I saw wheat all on the ground and he
+[35:10] was looking at the harvest. He was
+[35:13] looking and he was he was he was look he
+[35:16] but he was gazing. It was like he was
+[35:19] focused on the harvest at hand.
+[35:22] I could see his church in the background
+[35:26] as the the wheat was before his his feet
+[35:29] and his the task at hand all the church
+[35:33] people. It was too much for the church
+[35:38] to handle. So they had meetings outside.
+[35:42] I could see the building of where his
+[35:44] his ministry is at his church building.
+[35:46] But everybody was outside in the parking
+[35:48] lot and and in and surrounding areas
+[35:51] because the the church couldn't handle
+[35:53] the capacity of what was about to
+[35:54] happen.
+[35:57] As he was standing on the edge of the
+[35:59] wheat, water came into looked like a
+[36:03] flood.
+[36:04] But it wasn't like he he wasn't in the
+[36:07] vision. He was not alarmed or frightened
+[36:10] or running from this water. The water
+[36:13] came to his feet.
+[36:16] It was thick.
+[36:19] It was thick looking water, but the
+[36:21] water came in and it it came in like you
+[36:24] know how you would like you would dump
+[36:27] your glass on on the on your counter.
+[36:30] There's there's a and the initial flood
+[36:33] stage is pretty big where it's at, but
+[36:34] it goes out in a streak.
+[36:37] it it doesn't spread like always like
+[36:39] this like a like a like it's coming in
+[36:41] like an ocean but it came in
+[36:43] specifically to his feet. He has black
+[36:46] shoes on in the vision and when it it
+[36:49] stopped right at his feet
+[36:52] and I don't know why I could but as as I
+[36:55] was looking at it touching his feet the
+[36:58] vast supply of the water behind before
+[37:02] him because he was standing right here
+[37:03] the water came to his feet. He was
+[37:05] looking at the water but he was looking
+[37:07] at his church and he was looking at the
+[37:09] wheat. The harvest was plentiful. The
+[37:12] wheat went on forever.
+[37:15] The water came inland, but it just was
+[37:17] just a a divot enough to touch his feet.
+[37:21] But the vast supply of the water behind
+[37:24] it, in front of him, it wasn't behind
+[37:26] him. I want to keep saying behind him.
+[37:27] In front of him was was an ocean. There
+[37:30] was no end. There is a vast supply.
+[37:34] And I saw the supply of the water coming
+[37:37] to this man. But it was not a normal
+[37:40] supply. It was an over supply. overflow.
+[37:44] But I saw the people like a Holy Ghost
+[37:46] Woodstock again outside. They were all
+[37:48] outside.
+[37:50] As I saw him standing, I saw a storm to
+[37:54] the south,
+[37:56] a storm to the east, a storm.
+[38:02] It wasn't to the west, was it, buddy?
+[38:04] No, it was I saw the light coming from
+[38:07] the from the west.
+[38:10] So souththeast I saw all this storm. As
+[38:15] I saw the storm, I saw a whirlwind
+[38:20] that looked like like a uh like a dust
+[38:23] uh I hate the word devil, but a dust
+[38:26] like in the south we have these dust
+[38:28] devils that just turn up. It's not a
+[38:30] tornado, but it's like a dust storm and
+[38:33] it just go and you can see it like a
+[38:35] whirlwind.
+[38:37] But as this whirlwind was turning beside
+[38:40] John, Pastor John in this vision, I saw
+[38:44] this three doves came out of the sky and
+[38:49] went and started circling in this uh
+[38:52] this whirlwind by him.
+[38:55] They had olives olive leaves around it.
+[38:59] They were inside of the the dust storm.
+[39:04] Looked like a dust, but it wasn't scary.
+[39:07] If you felt like it was it almost felt
+[39:10] like it was oil
+[39:16] the way the the the the like it almost
+[39:18] had texture to it almost like it was a
+[39:23] like a Holy Ghost
+[39:25] pillar you know like whenever I don't
+[39:28] know how else to describe it you I try
+[39:30] my best some of it was darker and
+[39:32] thicker than the others but it almost
+[39:34] looked like sand but it was like golden
+[39:36] This this uh whirlwind was golden like
+[39:41] like like
+[39:44] glitter
+[39:46] and but it was turning
+[39:49] and spinning and these doves were being
+[39:51] turned and spinning inside of this thing
+[39:55] and they were flying. They weren't in
+[39:57] distress.
+[39:59] They weren't in distress, but they were
+[40:01] in control of their flight. And they
+[40:03] were flying alongside inside of this
+[40:07] hurricane turn this thing. Not
+[40:09] hurricane, what
+[40:12] this vortex thing, this this whatever it
+[40:15] was, but it was glory.
+[40:18] I saw the olives leaves moving around
+[40:20] side of these uh these doves and they
+[40:25] were moving by them. They were all like
+[40:28] leaves, but the Lord said that's olive
+[40:31] leaves. I don't know why. Now, I know
+[40:34] it's symbolic for something, but I
+[40:37] thought it was a cool vision, that part
+[40:38] of it. I don't know why the Lord showed
+[40:40] me him. I only follow him just slightly
+[40:43] because I like to listen to some of his
+[40:45] stuff he puts on YouTube. I encourage
+[40:47] you to watch it. It'll bless you. And
+[40:49] his uh church of his presence is what
+[40:51] his church is called. Now, as I saw
+[40:54] this, I was taken to uh Minnesota again.
+[41:00] And he said, "From Minnesota
+[41:03] to the Gulf,
+[41:05] from from sea to sea, a major revival is
+[41:10] coming to America.
+[41:14] From the Gulf to Minnesota,
+[41:17] from sea to sea, Brandon, a major
+[41:20] revival's coming." And I saw pillars of
+[41:22] revival. And he said they will be
+[41:24] birthed out of prayer.
+[41:27] For you will need to create great prayer
+[41:30] groups to in your church to experience
+[41:33] this. But I will use the generals from
+[41:36] the past. And I will sustain greater
+[41:38] life into them. And in doing so, I will
+[41:42] use them to help with the with the old
+[41:44] with the new.
+[41:47] The old and the new will go together.
+[41:51] Listen to the older generals, but the
+[41:54] young Davids are about to take the the
+[41:57] baton. But you'll need older voices like
+[42:00] Billy Burks and and John's and people
+[42:03] like that that have that that have been
+[42:05] through the test of time and been
+[42:08] through trial, been through tribulation.
+[42:10] They have a foundation of of of the
+[42:12] gospel, of the word, of of of the of the
+[42:15] of what it takes to sustain life. You
+[42:18] know, you you have your elders that have
+[42:20] been there and done that and you need
+[42:22] them to train the younger guys so they
+[42:25] don't get off like me. You don't want to
+[42:26] get off in weirdoville. You got to have
+[42:29] some some people that are that are
+[42:31] counselors that like fathers in the
+[42:33] faith to come up beside you and tell
+[42:34] you, you know, you're getting off.
+[42:36] You're a little weird. You need to you
+[42:37] need to come back into the reality here.
+[42:39] don't go off in La La Land,
+[42:42] you know. And there there's it has a lot
+[42:44] in the body of Christ. There's not a
+[42:46] there's a lot of uh un uh fathered.
+[42:49] They're fatherless children, spiritual
+[42:51] fatherless. They're not a lot of uh
+[42:54] elders that are teaching the body of the
+[42:56] the young the young bucks, the young
+[42:58] guys coming along the side how to walk
+[43:01] in this ne next revival. And the Lord
+[43:04] said, "A lot of the elders will go home
+[43:07] there. But there's going to be a great
+[43:09] transition,
+[43:11] a passing of the baton with great prayer
+[43:14] warriors that were here that will step
+[43:16] out and go home like we saw this year.
+[43:19] But it will happen even more in 2026.
+[43:23] But I'm raising up new prayer warriors.
+[43:26] I'm raising up new uh prophetic voices
+[43:29] and pastors and teachers, the five-fold
+[43:31] ministry like we've never seen before.
+[43:34] ones that will take the baton and run
+[43:37] with this. And you'll have your elders
+[43:39] with the voices that will speak life
+[43:42] into generations. The the new generation
+[43:45] that needs a little counsel. They need
+[43:46] counsel.
+[43:49] But I saw a new uh life coming into
+[43:52] them. Their youth would be renewed like
+[43:54] the eagles and that they would finish
+[43:56] live long and finish strong. We are the
+[43:59] last generation that will not taste
+[44:00] death. Ladies and gentlemen, God has
+[44:02] come. Jesus Christ is coming.
+[44:05] We are that generation that will not
+[44:07] taste death. But I'm telling you,
+[44:10] there's a great shifting coming a
+[44:12] sifting coming to the church in 2026,
+[44:16] 2027, 2020. We're going to see revival,
+[44:19] but judgment begins in the house of the
+[44:21] Lord first. But he said, "Grace up
+[44:22] prayer groups."
+[44:25] This will be birthed out of prayer.
+[44:28] We must bring back prayer to the church.
+[44:31] We must have great prayer group at
+[44:33] church, not flakiness. We don't get off
+[44:35] in weirdo where sister sister so and so
+[44:37] and sister so and so has a gossip
+[44:39] session the whole time. You have a
+[44:41] prayer group, not a gossip session. You
+[44:44] have a you have a prayer group, not a
+[44:46] potlock.
+[44:49] I'm talking about carpet sucking prayer
+[44:53] where you're on your knees crying out
+[44:56] for God to move again in this nation
+[44:58] like we've never seen it before. I'm not
+~~~
+
+<a id="section-04"></a>
+## 04. 45:00–59:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：China、Iran。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[45:00] talking about prayer group going in
+[45:02] there and you have a go. Well, we we're
+[45:04] praying for her, brother, but you're,
+[45:06] you know, did you hear about sister so
+[45:07] and so and she's going through this and
+[45:09] you know, I heard that her husband is
+[45:11] not doing too well either. And you got
+[45:13] and then who? We're not there to gossip.
+[45:16] We're here to pray.
+[45:19] I don't want to hear about your about
+[45:21] your your stuff. Let's pray.
+[45:24] I don't want to hear about somebody
+[45:25] else's business either.
+[45:28] You do do you understand what I'm
+[45:29] saying? That's what the Lord is putting
+[45:31] in my heart to tell y'all we need prayer
+[45:33] group.
+[45:35] All these major revival was birthed out
+[45:37] of prayer and we've got to fill this
+[45:40] with prayer
+[45:42] for what's about to happen. And I saw
+[45:45] Branson having a major revival. I want
+[45:48] to be a part of wherever it's going to
+[45:49] be. I know it's going to be in
+[45:51] Collinsville. I know it's going to be in
+[45:53] there. So, you know, you want to have
+[45:54] two places so you can experience it both
+[45:56] times. You know, I'm like, I I I just
+[45:59] want my feet in the river.
+[46:02] Whatever it takes.
+[46:04] I want to be part of prayer. I want to
+[46:06] be a part of this this great outpouring
+[46:09] of the spirit of God like we we've never
+[46:11] seen before. Do you understand? And I
+[46:13] know that that it's going to take some
+[46:15] effort to get there. We're not We've got
+[46:18] to wake up.
+[46:22] He's taking the lid off the septic and
+[46:24] he's he's sucking it out and cleaning
+[46:25] things up. Do Do you all understand? I I
+[46:30] hope you I hope you all understand the
+[46:31] urgency of the hour. It's time to wake
+[46:34] up
+[46:36] in 2026. You're going to wake up. So, so
+[46:40] I saw this. Then I was taken to uh to uh
+[46:45] Asia and I saw a massive ball of glowing
+[46:50] in Japan. I saw it highlighted
+[46:55] with a like a um it looked to me like
+[46:59] like platinum the way platinum looks
+[47:02] like if you was to transparent platinum
+[47:05] where it's like it's at it's it's it's
+[47:08] so um not solid looking but it
+[47:13] it has a transparency to it like the
+[47:16] streets of gold in heaven but it was
+[47:18] platinum. It was outlining Japan. And as
+[47:22] it was outlined, it split down the
+[47:24] middle with the major earthquake. It had
+[47:27] a dome of a ball that was a sphere that
+[47:30] was cut in half.
+[47:33] And as it was glowing, it had some kind
+[47:36] of that platinum had light shining from
+[47:40] the middle uh from the inside out that
+[47:44] was so piercing that I that it looked
+[47:46] like something out of some kind of like
+[47:48] it was a half of a sun, but it was a
+[47:51] platinum color. It wasn't yellow like
+[47:54] the sun. It was like a platinum color
+[47:57] like fire. It was like a light and it
+[48:00] was shining out of Japan. But as I was
+[48:03] looking and I gazed upon North Korea, I
+[48:07] saw the people praying
+[48:10] in their homes and they were singing but
+[48:13] they had no words. They were not allowed
+[48:17] to sing out loud in fear of their life.
+[48:20] So they were worshiping God with hand
+[48:23] gestures
+[48:25] and doing like this for praise
+[48:28] and they were shaking their hands and
+[48:30] they were singing with just their lips
+[48:33] moving with no sound and they were
+[48:35] worshiping our father. And I saw them
+[48:39] they were so cold as they were
+[48:41] worshiping the Lord. They they look like
+[48:43] your skin was kind of light colored
+[48:46] because the because of the cold was so
+[48:48] cold in their homes. these Christians,
+[48:52] but they were scared to do out loud
+[48:53] noise because they were in there with
+[48:55] their family and they had they were just
+[48:58] worshiping with their hands.
+[49:02] It made me want to weep cuz I saw all
+[49:05] over
+[49:07] and they had their hands and they were
+[49:08] moving their fingers like this and they
+[49:11] were doing it and they were smiling as
+[49:13] big as they could. Their their faces
+[49:15] were glowing with with just joy
+[49:17] worshiping our father with no noise.
+[49:24] I saw God take the the the the the
+[49:28] Chinese flag. I saw the the old
+[49:32] communistic with the stars and the and
+[49:35] the and the and the the the the old
+[49:37] flag. Huh?
+[49:38] >> It's China.
+[49:39] >> China flag.
+[49:40] I saw him take their flag and he wadded
+[49:44] it up in a ball with his fist and it was
+[49:47] all crinkled up. That flag right there,
+[49:50] he crinkled it up and he wadded it up
+[49:52] like a ball. Like it his fist was like
+[49:55] this, but his hand was full of the flag.
+[49:57] But I could see the stars and the red
+[50:00] crinkling out of his hand. So I could
+[50:02] see he was wrinkling it up like he was
+[50:04] angry at it.
+[50:06] All of a sudden, it was attached to
+[50:08] North Korea.
+[50:11] I was interceding and the Lord said,
+[50:14] "They will entertain angels unaware.
+[50:17] For if you can't get in, I'll let you
+[50:19] in."
+[50:21] That's what he said. "If you if they
+[50:23] won't let you in through the border, I
+[50:26] will let you in through my
+[50:28] superighways."
+[50:30] [cough]
+[50:30] That's what he called them. I saw
+[50:32] highways that look like tunnels and
+[50:35] tubes all throughout the atmosphere.
+[50:38] Now, I don't know how to describe these
+[50:42] tubes to you, but they were round
+[50:44] cylinder tubes that went from one place
+[50:47] to another, and they were all like a
+[50:50] super highway above our atmosphere.
+[50:54] There was lights of all kinds of colors
+[50:58] coming through these tubes. It was
+[51:01] almost like when you go to a bank and
+[51:03] you send it out in the the the uh the
+[51:05] drive-thru and you put that in there and
+[51:06] you push the button and the tube gets
+[51:08] the little thing gets you put your money
+[51:10] in and that gives it to the teller
+[51:11] inside that tube. It was like tubes that
+[51:17] went from America to Asia to I mean to
+[51:20] other parts of South America and there
+[51:22] was a super highway above us in the
+[51:25] heavenlies.
+[51:26] I don't know what I was seeing. There
+[51:29] was purples and pinks, blues, all that
+[51:33] was streaking like light through those.
+[51:36] And it was all there was no darkness in
+[51:37] it. The tubes were tra they were they
+[51:40] were lit up with light
+[51:43] all of them. But they were they were the
+[51:45] size of what a human body would be.
+[51:49] And it was looked like spaghetti noodles
+[51:51] all over the place.
+[51:54] A super highway all over the place. And
+[51:57] it was it was like you would take a one
+[51:59] of those uh uh pickup sticks. That's how
+[52:03] you know when you put the pickup sticks
+[52:04] and you put put it out and you pull it
+[52:06] out. You don't want to get it to fall.
+[52:07] The pickup sticks.
+[52:09] Does anybody know what I'm talking
+[52:10] about? The pickup sticks the game like
+[52:13] the recctor the all kinds of different
+[52:15] sticks and you pull the thing out and
+[52:17] you pull it and they're all above the
+[52:20] atmosphere. That's how many were there
+[52:21] were there. It wasn't just a couple. It
+[52:23] was thousands of them. And as they were
+[52:26] all above the atmosphere, I saw people
+[52:29] traveling in them like like the like the
+[52:31] the the like the money things that go in
+[52:34] the bank. They were shooting through
+[52:35] those tubes. And the Lord said,
+[52:37] "Brandon, I will translate you there. I
+[52:40] will translate my body in the days
+[52:42] ahead. and you'll be in one place in one
+[52:45] minute talking on a camera like this,
+[52:48] talking on YouTube, doing these things,
+[52:50] and I will translate you with with with
+[52:52] whoever to go to that place where
+[52:56] they're not allowed to have
+[52:57] Christianity, Iran,
+[53:00] places of uh the Middle East,
+[53:05] and I will bring the gospel to them. If
+[53:08] they won't allow you in, I will let you
+[53:11] in.
+[53:13] And I saw tubes of people traveling all
+[53:16] over in this last time this end time
+[53:19] revival where you think that you won't
+[53:21] be able to get in, but he said, "I'll
+[53:23] take you in there. They may not let you
+[53:25] in, but I will." And I saw people going
+[53:28] like like Star Trek
+[53:31] and they were laying hands on people and
+[53:32] they were getting baptized in the Holy
+[53:34] Ghost and the glory of the Lord was
+[53:35] showing up in those houses and they were
+[53:37] being radically healed and delivered by
+[53:40] the power of God. And as you finished,
+[53:44] he would take you back home. And he
+[53:46] said, "I'll let you even film it on your
+[53:49] phone to validate that you were there
+[53:55] as a sign and a wonder in these last
+[53:58] days.
+[54:01] I'll let you validate the area." You
+[54:03] know what I'm talking about? Like you
+[54:05] you not exposing the people in there
+[54:07] that they lose their life. God's not
+[54:09] it's not stupid.
+[54:12] But it was some it was like a w as a
+[54:14] witness somehow. I don't know how like
+[54:16] you're there and you're there
+[54:18] traveling around. Maybe you won't go
+[54:20] into somebody North Korea's house and
+[54:22] film them and like here I want to I want
+[54:23] to you know video you and what's have
+[54:25] ministry. I that's not I'm not trying to
+[54:27] be flaky with this. This is what how the
+[54:29] Lord showed me folks. You know what I'm
+[54:31] saying? And I was and it was translating
+[54:33] all over the place. But it was not just
+[54:35] one place. It was all in South America.
+[54:38] I saw it translating. I I I saw am I
+[54:41] using the word right?
+[54:42] >> Translate to to go all over the place
+[54:47] and they were all and the glory of the
+[54:48] Lord showed up.
+[54:52] Healings and demonstrations and
+[54:53] manifestations like you wouldn't
+[54:55] believe.
+[54:56] I'm telling you are coming
+[54:59] souls to the kingdom of God. And he
+[55:01] said, "You're asking me and you're
+[55:03] asking me, asking me to come, but
+[55:05] there's there's millions of people in
+[55:06] North Korea that have never heard the
+[55:08] gospel.
+[55:10] >> A highway.
+[55:11] >> A highway. It's what he called it, a
+[55:13] supernatural highway. And I'm going to
+[55:15] take you into Asia and you'll be
+[55:16] preaching and you'll be in a prayer
+[55:18] group. And all of a sudden, you'll be in
+[55:19] North Korea, you'll be in South You'll
+[55:21] be in uh wherever Vietnam, you'll be and
+[55:24] I'll have you with Oh, and he said
+[55:26] you'll hear their language and you'll
+[55:28] speak their language and know exactly
+[55:30] what they're saying through supernatural
+[55:32] interpretation.
+[55:34] >> You're saying transport
+[55:36] >> transport.
+[55:37] >> Transport through language, no language
+[55:40] barriers barriers. You'll know North
+[55:43] Korea. You'll know uh whatever. and
+[55:46] you'll be able to just talk to them and
+[55:48] they'll they'll be able to talk to you.
+[55:49] There will be it's a supernatural on
+[55:51] your mind.
+[55:53] And I saw working with angelic host. The
+[55:56] Lord said, "You will work with the
+[55:58] angels.
+[56:00] You'll work it with the angels in the
+[56:01] days ahead as a sign."
+[56:05] He said, "I I don't want the any should
+[56:07] perish, Brandon, but when this gospel is
+[56:10] preached as a witness into all the
+[56:11] earth,
+[56:13] then will the end come."
+[56:15] it. North Korea cannot be left out.
+[56:20] Iran people can't be left out. He's
+[56:24] coming. He's leaving the 99 to go after
+[56:28] the one. And he showed me even into the
+[56:31] islands
+[56:32] that it's not been really witnessed to.
+[56:35] He was going to show up. And I saw the
+[56:37] glory of the Lord.
+[56:40] As I saw all this and I saw what he was
+[56:43] about to do with the North Koreans and
+[56:45] all this stuff, it I got so excited
+[56:48] after I got finished with this video. I
+[56:50] haven't been able to stop thinking about
+[56:51] it. I know what the Lord showed me. I
+[56:54] know what he said that it's about the
+[56:56] souls.
+[56:58] He died for him. And I'll continue to
+[57:01] tell you about the holes in his hands.
+[57:05] I'll continue to tell you about the
+[57:07] holes in his feet. As he walked and he
+[57:10] showed me the harvest, similar to like
+[57:12] what John Kilpatrick was standing by,
+[57:14] the harvest was plentiful and the
+[57:16] laborers are few. He said, "It's all
+[57:18] hands on deck. This is an all hands on
+[57:21] deck moment.
+[57:23] I'm not I I'm I'm I'm looking for the
+[57:26] person who will just say, "Yes, here am
+[57:30] I, Lord. Send me.
+[57:33] I'll go to Walmart today. I'll talk to
+[57:36] the little widow lady that don't have
+[57:38] nobody to talk to on the park bench.
+[57:41] I'll go to to the playground and and and
+[57:44] and talk to the to the single mom, you
+[57:46] know, ladies. I wouldn't be saying guys
+[57:48] out there to talk to them, but I'm
+[57:49] saying the s to the to the mothers that
+[57:51] would say, "Hey, I want to be a light to
+[57:53] you."
+[57:55] Do you know what I'm saying? Just being
+[57:57] a light everywhere you go. That's why I
+[58:00] said make a list of how many people you
+[58:02] believe God this year for. How how many
+[58:04] people you want to see get led to the
+[58:05] king to Jesus?
+[58:08] I say, "Hey, if you only got one person
+[58:10] saved this year, have a goal of at least
+[58:12] five."
+[58:16] Stretch yourself in 2026 to believe God
+[58:19] for bigger financially, spiritually, for
+[58:22] your marriage, for your kids to get
+[58:24] saved, for your for your for the for
+[58:27] whatever your maybe your cousins, I
+[58:29] don't know.
+[58:31] But I want you to believe God for big in
+[58:33] 2026 as he's cleaning his church up, as
+[58:37] he's getting the bride ready,
+[58:40] as he's getting things ready. I'm
+[58:41] telling you, we're about to see things
+[58:43] like you wouldn't believe, y'all.
+[58:46] But he's But he wants you to have prayer
+[58:48] group. He wants you. We're going to keep
+[58:50] growing this channel. Believe in all to
+[58:52] the glory of God. We'll hit over a
+[58:54] million. I don't know. We We'll see on
+[58:56] this side or the other. You I'm talking
+[58:57] about South Korea. I know what he said,
+[59:00] but I'm saying if it happens all in
+[59:03] 2026, praise God, I'm not gonna, you
+[59:05] know, I I believe it was going to happen
+[59:06] this year. And right now, I'm I'm still
+[59:10] not hitting 600,000. So, I'm believing
+[59:13] God it will do it next year. But if it
+[59:15] doesn't, you just keep hitting you just
+[59:16] keep you keep you keep hitting it.
+[59:22] It's the little drop in the cave that
+[59:25] makes the indention.
+[59:27] It's the little drop over a course of
+[59:30] time. Don't get disappointed when you're
+[59:34] when the little drop doesn't show up and
+[59:36] make an indention. It takes time.
+[59:40] One drop at a time
+[59:44] makes the mark. One drop at a time. You
+[59:47] walk in a cave and say, "How boy did
+[59:48] that happen overnight?" No, that
+[59:50] happened over a time. Quite sometimes.
+[59:52] Sometimes they say some people say,
+[59:54] "That's over thousands of years." And
+[59:56] I'm like, "Wow, isn't that amazing?
+[59:58] Those stagtites and stelagmites that
+~~~
+
+<a id="section-05"></a>
+## 05. 60:00–74:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[60:01] happened over thousands of years.
+[60:07] [clears throat]
+[60:09] It's inconsistency.
+[60:12] It's being consistent with whatever
+[60:14] God's called you to do. Don't get weary
+[60:16] and welloing, church. Keep your head up
+[60:19] high. Yeah, we see the storms and all
+[60:21] the stuff going on around us, but we
+[60:23] need to be the salt. And don't lose your
+[60:25] saltiness in all the pressure that
+[60:27] you're going through. Whether your
+[60:29] whether your finances are feel hardship
+[60:32] right now in your household with all the
+[60:33] things they said the economy is great,
+[60:35] inflation's down. I don't know where
+[60:37] they're at. I don't know. They live on
+[60:40] Capitol Hill. They got they got big
+[60:42] paychecks up there and they're getting
+[60:43] paid by our tax dollars. They live like
+[60:45] kings. You go, "Well, I don't know where
+[60:48] you're at, sir, but I I want I want you
+[60:50] to come to Oklahoma and say the
+[60:51] inflation's better. The housing market's
+[60:53] better." Okay, we'll see. You go. I
+[60:56] don't I don't know what you're on, but
+[60:58] you're not you're not in reality over
+[61:00] here. As much as I want to be excited
+[61:01] about what you're saying, we live in the
+[61:03] real world. You live on the hill. Um
+[61:06] it's interesting to me, you know,
+[61:10] where some people want to try to hype
+[61:11] things up, but
+[61:14] we'll just keep stay we keep fighting.
+[61:16] We fight the good fight of faith. Now,
+[61:18] we're going to pray for the for the for
+[61:20] the uh New Year's Eve. We're going to
+[61:22] pray for President Trump's protection.
+[61:24] We will continue to stand on the and
+[61:27] protect, you know, Kai. We pray for his
+[61:30] granddaughter. We pray for his uh
+[61:32] because the Lord showed us Kai. We
+[61:34] showed us John Jr., Eric. Praying for
+[61:36] them to come up with this creative idea
+[61:39] to uh for crypto and all the things the
+[61:42] Lord's shown us about that. I still
+[61:43] believe with all my heart the Lord
+[61:45] showed me certain cryptos. Yeah. It took
+[61:48] a nose dive this week, didn't it? I was
+[61:51] like, "Oh no, it's going to zero.
+[61:53] [laughter]
+[61:54] Oh no, it's going to zero." That's what
+[61:57] it felt like.
+[61:59] Oh no. [laughter]
+[62:01] But Braden Braden goes Braden goes,
+[62:04] "Dad, I don't want to look at I said,
+[62:06] "Neither do I. [laughter]
+[62:08] Neither do I." You know, but we know
+[62:10] what the Lord has shown us in the
+[62:11] future. What we believe I believe with
+[62:13] all my heart that this is something's
+[62:15] going to come out of this.
+[62:19] You know, are we missing it? I pray not.
+[62:21] I pray, you know what? We hear in part,
+[62:23] we seen part. I'm not telling you I have
+[62:25] everything right, folks. I'm doing the
+[62:27] best I can, just like you do with your
+[62:29] walk of the word. But it's easy. It's
+[62:31] it's easy to stand from the peanut
+[62:32] gallery and be a critic when you're not
+[62:35] doing for nothing for God at all.
+[62:38] And the loudest people in the section
+[62:41] are usually the one that's doing nothing
+[62:42] for him at all. And they yell at the
+[62:45] people who are trying their hardest. and
+[62:47] they have the the the big out the sign
+[62:49] on the side. You're a loser. You got
+[62:51] nothing going you and you go look at
+[62:53] them and go, "But what did you do this
+[62:55] year?
+[62:57] What did how many people did you lead to
+[62:59] Christ this year? How many people did
+[63:02] you pray for?" And all of the all the
+[63:05] criticism from the peanut gallery. Shut
+[63:08] up.
+[63:11] You know,
+[63:13] we're all trying. The ones that are
+[63:15] trying, keep trying. I I I I knew
+[63:18] whenever the Lord was talking to me
+[63:19] about the about the stripes, he was
+[63:22] healed.
+[63:25] Fall down on the concrete and skin your
+[63:27] knee.
+[63:29] And how bad does that hurt?
+[63:33] It's excruciating for for somebody,
+[63:35] especially if you're elder, and you just
+[63:37] take all the skin off. Imagine having a
+[63:40] cat and tails whipping your back and
+[63:43] tearing that flesh off. He He went
+[63:46] through it all for you to live in
+[63:48] victory.
+[63:50] That wasn't a skin knee.
+[63:53] As bad as that hurts. You can picture
+[63:55] that, can't you? What if you you can
+[63:57] pinch yourself and it's really real?
+[63:59] Hurts a little bit whenever you maybe
+[64:01] you suck your hand in the car door or
+[64:03] something and it hurts really bad. Jesus
+[64:05] went through hell for every single one
+[64:08] of us. More than just a skinned knee.
+[64:10] More than just a hand in the car door.
+[64:12] more than a more than something. Maybe
+[64:15] you maybe you might have uh I remember
+[64:17] one time I think my dad he he was
+[64:19] working as a carpenter and he was doing
+[64:21] a nail gun and he he uh was putting the
+[64:26] nail in the air gun and it went through
+[64:29] his hand and they had to his bo Tommy
+[64:32] Tommy was his name had to take a crowbar
+[64:35] and pull my dad's hand off of that board
+[64:40] if I remember corre and he had to hold
+[64:42] it because he couldn't get the blood on
+[64:43] the the wood because they finishing
+[64:45] this. So, his hand had to be pried off
+[64:48] of the wood and the blood was trying to
+[64:50] squirt all over the place. So, they
+[64:51] grabbed it and had to wrap it in a cloth
+[64:52] because they didn't want to stain the
+[64:53] oak wood because they're working on
+[64:54] really expensive houses.
+[64:57] And it was excruciating.
+[65:01] But Jesus took nails this this big
+[65:04] humongous nails. I saw the holes in his
+[65:06] hand. This isn't something that's just
+[65:09] some kind of fairy tale that we that we
+[65:10] read to our kids before we go to sleep.
+[65:13] You know, you read your uh you know, uh
+[65:16] Goldilocks and the Three Bears or
+[65:17] whatever, Little Red Riding Hood. Jesus
+[65:20] Christ died for you. And it's not some
+[65:23] fairy tale. He went through it just like
+[65:26] what you skin your knee and you go
+[65:28] through pain and it's it's excruciating.
+[65:30] [snorts] Jesus Christ took it all on his
+[65:32] back and they ripped his flesh off his
+[65:35] body and they put nails in his hands.
+[65:37] They put a crown of thorns on his head.
+[65:38] They ripped his beard out. They spat in
+[65:41] his face.
+[65:44] They they hung him on a cross and they
+[65:46] shoved a spear in his side and blood and
+[65:48] water flowed.
+[65:51] Massive gash in his side. He suffered
+[65:54] greatly for you to walk in victory.
+[65:59] I'll never forget one night I was
+[66:01] sitting on the side of a bed
+[66:04] and I know I'm going a little long but I
+[66:06] but you need to hear it. I was sitting
+[66:08] on the side of my bed and I and I I I I
+[66:11] was talking to a man that was really
+[66:13] overcoming arthritis and he said,
+[66:14] "Brendon, how come all Christians are
+[66:15] healed?"
+[66:17] "Why aren't all Christians healed,
+[66:19] Brandon? I don't understand. I've been
+[66:22] suffering with this arthritis so bad."
+[66:24] His name was Stanley.
+[66:26] His hand was always hurting with
+[66:27] arthritis, and he couldn't understand.
+[66:29] Why aren't all Christians healed? I
+[66:31] said, "I don't know. I don't have the
+[66:32] answer to it."
+[66:34] I laid down, went to bed, and I was
+[66:37] taken out of my body.
+[66:40] Jesus took me to the cross. He took me
+[66:43] to the whipping post.
+[66:46] I can tell you the temperature that it
+[66:48] was outside.
+[66:51] It was about 80 degrees.
+[66:54] It had a stench in the atmosphere. I
+[66:56] could smell some kind of uh animal
+[66:59] livestock dung where he was at. I don't
+[67:01] know how, but I could smell it. Jesus
+[67:05] was standing right here. Now, he was
+[67:08] sitting right here, but I was watching
+[67:10] Jesus in the past as a young man of 30
+[67:12] some years old,
+[67:15] 33.
+[67:17] His hands were tied to this whipping
+[67:19] post. He was straddled up on this on
+[67:21] this. And I saw him up like this. And he
+[67:24] and I saw one Roman soldier on one side
+[67:27] and another one on this side.
+[67:30] I watched both of those men. One man was
+[67:32] probably 300 lb.
+[67:36] He was ginormous. He had a totally black
+[67:39] outfit on, which I don't understand. It
+[67:40] was like that's what it looked like. It
+[67:42] looked like a some kind of weird
+[67:45] garment, but he had the other was a
+[67:48] Roman soldier that had Roman garb on
+[67:51] like you would see in the movies.
+[67:53] And I saw them take the cat and tails
+[67:57] and one whipped this side and the other
+[68:00] one whipped this side. And as I saw that
+[68:04] happen, I saw the flesh ripping off of
+[68:08] his body and it he it was excruciating.
+[68:11] It was dripping
+[68:13] from his body, the the bone, everything.
+[68:16] It was it was it was the most grotesque
+[68:18] thing I've ever seen.
+[68:22] As I saw the c the th the crown of
+[68:25] thorns upon his head pressed down and
+[68:27] blood was running down his forehead. His
+[68:29] beard was missing pieces out of his
+[68:31] beard where they had ripped the the
+[68:33] beard out of his out of his face.
+[68:37] I remember I was standing over here as I
+[68:39] was watching this happen and I was
+[68:41] weeping and I was screaming but he
+[68:44] nobody could hear me and I said stop
+[68:47] [screaming]
+[68:48] you must stop and I was screaming as
+[68:49] because they were they were beating him
+[68:51] with those those those whips they were
+[68:53] whipping his body and they he was his
+[68:55] body would t would tremble as as as they
+[68:58] were whipping his body and it was it was
+[69:00] it the blood was so much on the ground
+[69:03] it was it was like he was in a pool of
+[69:05] blood.
+[69:10] As they did it, I saw Jesus look up
+[69:14] and I saw him out of his mouth told that
+[69:16] one soldier, "I love you.
+[69:20] I love you."
+[69:24] I saw it. His face his face looked up at
+[69:27] him and he he he it was the it was the
+[69:30] most sincere in his eyes as they were
+[69:34] laughing and they were beating his body.
+[69:40] Jesus standing beside me over here as I
+[69:43] watched this all happened. I can even
+[69:45] tell you what his back looked like
+[69:46] before that they beat him. He He was not
+[69:48] He was not skinny looking. He was
+[69:50] muscular looking. His skin looked olive.
+[69:53] It was um it was it w it looked glossy
+[69:55] from oily sweat.
+[69:58] You know how whenever you sweat and you
+[70:01] get that oily on your body from from not
+[70:03] having a bath in a little bit? That's
+[70:06] the way his back looked before they
+[70:08] began. I watched it.
+[70:16] The Lord spoke to me that day and he
+[70:18] said to me,
+[70:21] "What do you not understand
+[70:24] about by my stripes you are healed,
+[70:27] Brandon?
+[70:30] What do you not understand about this?"
+[70:34] He said, "If somebody was to tell you
+[70:37] that you weren't saved,
+[70:41] that you weren't born again, you would
+[70:45] fight them, wouldn't you?
+[70:47] You would tell them, "I am saved." They
+[70:50] say, "I don't believe you're saved." I
+[70:51] am saved.
+[70:54] I am delivered.
+[70:56] I know he saved my soul by what he did
+[70:59] for me.
+[71:02] But the moment you feel sickness and
+[71:03] disease, you doubt it.
+[71:08] That you're healed.
+[71:11] He said, "The same faith that it takes
+[71:14] to get healed
+[71:16] is the same faith that it takes to be
+[71:18] saved." They're the same.
+[71:22] He said, "You don't realize what it
+[71:24] takes for you to say, "I was once lost,
+[71:25] but now I'm found."
+[71:30] You don't realize what it takes for you
+[71:32] to say, "I was once lost, but now I'm
+[71:35] found.
+[71:39] I'm no longer going to hell.
+[71:43] You don't look at the miracle that that
+[71:45] truly is.
+[71:48] But the same faith that you would fight
+[71:50] somebody
+[71:52] by telling them, "I know I'm saved."
+[71:55] They say, "No, I don't believe it. You
+[71:57] still act the way you used to sometimes.
+[71:58] I don't believe it. You you you really
+[72:00] are. Are are you really saved?" "No, I
+[72:02] know I'm saved. I'm going to heaven. I'm
+[72:04] not going to hell." He said it takes the
+[72:07] same faith to sit there and say, "I'm
+[72:08] healed by your stripes, Lord." He said,
+[72:11] "When you believe that the same way,
+[72:14] Brandon, the manifestation comes as long
+[72:16] as you hold on to it just like that. No
+[72:18] matter if they talk you out of it, I
+[72:20] have a symptom, Lord. I have a symptom.
+[72:22] My flesh is crying out. I've got this
+[72:25] pain in my body. I've got this going
+[72:26] on." But it's the same way the pain of
+[72:28] this of of the soul is whenever you
+[72:31] messing up with sin and you got that,
+[72:32] but you don't question your mind because
+[72:33] of the symptom of it. I'm saved. I'm
+[72:36] believed. I'm once saved, always saved.
+[72:38] Don't you know that? Well, I'm once
+[72:39] healed, always healed.
+[72:41] I'm healed and whole and well. By his
+[72:44] stripes, I am healed. He was wounded for
+[72:48] my transgression. He was bruised for my
+[72:50] iniquities. The chastisement of my peace
+[72:52] was upon him, and with his stripes, I am
+[72:56] healed.
+[72:57] He said, I became poor that you might be
+[73:00] rich through your through my poverty. I
+[73:02] took poverty on the cross, Brandon. I
+[73:04] took it all. Christ has redeemed me from
+[73:08] the curse of the law. Galatians 3:13,
+[73:11] Christ has redeemed me from the curse of
+[73:13] the law.
+[73:17] Deuteronomy 28 says there are a lot of
+[73:19] curses there at the be at the very end
+[73:21] of that. And all those curses if you
+[73:25] don't know,
+[73:28] you can partake in it just like you
+[73:29] partake in the blessing. But Jesus paid
+[73:32] the price so you don't have to.
+[73:36] He became sickness. He became poor. He
+[73:39] became He became sin. He took it all for
+[73:42] us
+[73:47] so that we don't have to. And that's
+[73:49] when he said, "You so easily believe in
+[73:52] salvation. The body of Christ has got
+[73:55] that down.
+[73:57] But you must believe that I'm a healer
+[74:00] just as much as I'm a I'm a redeemer.
+[74:02] I'm a I I I take you out of hell. I've
+[74:05] done all this, but I can heal your body,
+[74:06] too. But you must believe it.
+[74:13] It shook me.
+[74:16] Oh, I don't believe that, Brandon. It's
+[74:18] what I saw. It's what I experienced
+[74:22] as I went back into my body.
+[74:27] For three days, I wept. I called my dad
+[74:30] even that that same morning. I I wept. I
+[74:33] I couldn't control myself because of
+[74:36] what I saw Jesus go through.
+[74:41] Jesus paid the price for you to walk in
+[74:44] victory over mental torment.
+[74:47] Jesus paid the price for you to walk in
+[74:49] victory over depression, over anxiety,
+[74:53] over fear, over all the things that the
+[74:56] that the devil tries to. Don't accept
+[74:58] the poo poo package the devil has for
+~~~
+
+<a id="section-06"></a>
+## 06. 75:00–89:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[75:01] you. When he comes with his FedEx truck
+[75:04] and he has the devil written on, don't
+[75:07] accept his package through sickness,
+[75:10] disease, poverty, sin, whatever he has.
+[75:13] shut the door to the devil and run and
+[75:16] say, "I'm not taking your package."
+[75:20] Symptoms come and people die. I
+[75:23] understand that. I've seen it. But I try
+[75:25] to get a hold of it just like that for
+[75:27] my daughter Megan. I'm walking it out
+[75:30] just like everybody else is. I try to
+[75:33] say, "God, I'm not take I'm not taking
+[75:35] the poo poo package for Megan no more.
+[75:39] Megan's [clears throat] healed. Megan's
+[75:41] whole. Megan's well.
+[75:43] And I believe even in 2026 that that
+[75:46] that I'm no longer going to see a
+[75:48] daughter laying in bed, even all the
+[75:50] time, that she'll be able to come on
+[75:52] this broadcast and tell you all that I
+[75:54] was once lost, but now I'm found. But
+[75:56] not only that, that Jesus Christ healed
+[75:59] me, too.
+[76:02] Jesus Christ is the same yesterday,
+[76:05] today, and forever.
+[76:09] [clears throat]
+[76:14] and I choose to believe it.
+[76:18] I choose to believe it.
+[76:20] But if you're here tonight and you've
+[76:23] never asked Jesus Christ to be your Lord
+[76:24] and personal Savior, he showed me his
+[76:27] hands again and he holds them out before
+[76:30] me. He says, "I died for every single
+[76:31] one of them. Brandon, you must tell them
+[76:34] that they're running out of time.
+[76:39] The sun is setting on this dispensation
+[76:42] of grace. We're about to step into the
+[76:44] tribulation.
+[76:47] You need to accept Jesus Christ tonight.
+[76:51] If you're here and you've never accept
+[76:53] accepted him, if you've never asked
+[76:55] Jesus Christ to be your Lord and
+[76:57] personal Savior, he died and he suffered
+[76:59] greatly for you.
+[77:02] He suffered greatly for you.
+[77:07] Unless a man is born again by confessing
+[77:10] Jesus Christ, he will not enter into the
+[77:13] kingdom of God. There's a heaven to gain
+[77:15] and a hell to shun.
+[77:19] If you were to die tonight, where would
+[77:21] you spend eternity?
+[77:24] as we hear what his heart is for the
+[77:26] North Koreans and the Asians and the
+[77:28] South America and and all of all of the
+[77:31] Middle East and he wants that no man
+[77:33] should perish but all come to
+[77:34] repentance.
+[77:36] But unless a man is born again, he
+[77:38] cannot enter the kingdom of God.
+[77:41] Tonight's the night for you to turn
+[77:43] before a holy God and say, "Jesus, I
+[77:46] need a savior." He's knocking on the
+[77:49] door of your heart right now.
+[77:52] He's knocking on the door of your heart.
+[77:54] The Bible says that no man comes to the
+[77:56] father unless he's called by him. And
+[77:59] tonight he's knocking on the door of
+[78:00] your heart saying, "Will you let me in
+[78:03] right now?" He's knocking on your door.
+[78:06] He's saying, "Will you let me in? I died
+[78:09] for you. I love you. I have a plan for
+[78:12] your life, but you've got to let me in.
+[78:15] I'm a gentleman." The devil, boy, he'll
+[78:18] take a mile if you just let him in with
+[78:19] the crack. You can see your life and how
+[78:22] much of a in shambles it is without him
+[78:24] without the Lord. Now the Lord is
+[78:27] standing at the door of your heart. Just
+[78:29] like I told you, he came up with this in
+[78:31] the visions of the past. He's knocking
+[78:32] on the door. Not everybody will open the
+[78:35] door for Jesus, but he always is. He's
+[78:38] always there. An everpresent help in a
+[78:40] time of need.
+[78:44] He has the whole package for you this
+[78:47] beautiful Christmas season.
+[78:51] He's standing at the door of your heart.
+[78:55] The very shoes you put on today to go to
+[78:57] work or go to school or go to your
+[78:59] families or whatever, the undertaker
+[79:02] might be taking them off that night. No
+[79:03] one is promised tomorrow. Ladies and
+[79:05] gentlemen, it's appointed unto man once
+[79:08] to die and after that the judgment.
+[79:11] I'm here to tell you, you must accept,
+[79:13] my friend.
+[79:15] So, I'm going to say a simple prayer and
+[79:18] I want you to if you are one I'm talking
+[79:21] to and you feel that tugging on the
+[79:22] inside of you feel that butterfly, you
+[79:24] feel that oh that must be that's he's
+[79:27] talking to me. What do I do next? I want
+[79:29] you to put in the comment section right
+[79:31] now. I need to be saved.
+[79:35] I want to turn from my wicked ways.
+[79:37] Brandon, I want to turn from all this. I
+[79:39] don't want to be a part of I'm having a
+[79:41] hard time through these holidays. I
+[79:42] don't want to do this anymore.
+[79:44] I feel like I'm at the end of my rope,
+[79:47] but tonight Jesus just threw you a
+[79:48] lifeline. Will you accept it?
+[79:52] As he's throwing you this lifeline,
+[79:56] what will you do with this opportunity?
+[80:00] And I'm going to say this simple prayer.
+[80:02] Jesus died for you publicly, so I want
+[80:04] you to be public about your decision.
+[80:06] So, I'm going to say it right now. Say,
+[80:08] Jesus,
+[80:09] I believe you're the son of God. I
+[80:12] believe that you died for me and you
+[80:14] rose again on the third day.
+[80:17] Jesus, I ask you to forgive me of my sin
+[80:20] for I'm a sinner and I need a savior.
+[80:24] I ask you to write my name in the lamb's
+[80:26] book of life.
+[80:29] Jesus, today I turn my back on the
+[80:32] world. I turn my back on the devil. I
+[80:35] turn my back on my past. And from this
+[80:37] day forward, Lord, I serve you with all
+[80:39] my heart. I may mess up, Lord, but I'll
+[80:43] pick myself up and I'll follow you even
+[80:45] again and again and again. I ask you to
+[80:48] help me. Make me strong.
+[80:51] Create in me a clean heart.
+[80:56] Thank you, Lord, for inviting me into
+[80:58] your kingdom today.
+[81:00] Thank you. From this day forward, I will
+[81:02] I will be with you in paradise.
+[81:06] Thank you, Father. Thank you, Lord. No
+[81:10] matter how how much I've messed up, no
+[81:12] matter how much I've done wrong, you're
+[81:14] there and you washed it all away today
+[81:17] in Jesus name.
+[81:20] Amen. And amen. I believe if you just
+[81:22] said that prayer, you just got born
+[81:24] again. It was just a simple prayer, but
+[81:28] the with the heart confessions made unto
+[81:30] salvation.
+[81:33] And as far as the east is from the west,
+[81:35] he's taken our sins from us.
+[81:38] He doesn't remember it anymore.
+[81:40] The moment you said it is when not
+[81:44] whenever he found out about it. It's
+[81:46] when you got rid of it.
+[81:49] Most people say, "Well, how does he
+[81:51] forgive me?" So easy. He loves you.
+[81:56] So easy. He loves you so much.
+[81:59] So what do you do now?
+[82:02] You go to a bibleelving church. Don't go
+[82:05] to one that's full of religion and dead.
+[82:07] You must find a church that's life.
+[82:10] I'd go to a non-denominational church is
+[82:12] where I'd go in your area, local area.
+[82:14] I'd try to find one. See if you get fed
+[82:16] there. Get plugged in. Go to Wednesdays,
+[82:20] Sundays, whatever they have the doors
+[82:22] open. Go to prayer group. Go get plugged
+[82:24] in. Tell that pastor, "I just got born
+[82:26] again on a on a YouTube channel." And I
+[82:30] tell him, "I need to be water baptized."
+[82:32] We have water baptism uh I think on at
+[82:34] our church twice a year. But I want to
+[82:37] tell you, you must be water baptized. Go
+[82:39] get water baptized. Go tell them say, "I
+[82:40] want to start make a public uh uh a
+[82:44] public display for everybody to see. I
+[82:46] want to tell them I've sold out to Jesus
+[82:49] today." And and read your Bible every
+[82:51] day. Pray. Come pray with us at this uh
+[82:54] group every day when we do these uh live
+[82:57] prayer times or whatever. And uh it's it
+[83:01] is it. You just keep witness and tell
+[83:04] people about what you did today.
+[83:07] [snorts]
+[83:08] We're excited for all 34 of you that
+[83:10] gave your heart to Jesus Christ tonight.
+[83:12] Welcome to the family. All 34 of you,
+[83:16] welcome to the family. I'm excited that
+[83:19] you're here. Now, if you are here and
+[83:22] you would like a Bible and you just said
+[83:24] the sinner's prayer and you've never had
+[83:26] a Bible before, my wife and I will buy
+[83:28] you a Bible absolutely for free. We'll
+[83:31] we don't we just do it to be a blessing.
+[83:33] We want to send it to you. Um, be
+[83:36] patient. We have a lot of people that
+[83:38] are getting born again and and my wife
+[83:39] is doing the best she can to get them
+[83:41] all out. It's taking a lot of time. We
+[83:43] buy them on Amazon and we send them to
+[83:44] you. So, if you would like a Bible, put
+[83:47] in uh the the description down below.
+[83:50] There's an email on there. Put I just
+[83:52] got born again in the headline and I'd
+[83:54] like a Bible. Put put your address where
+[83:57] we can send it to you and uh we'll never
+[84:00] uh solicit you. We don't we won't bother
+[84:02] you again. We just want to celebrate
+[84:03] your decision tonight to give your heart
+[84:05] to Jesus Christ and say welcome to the
+[84:07] family. We're proud of you. We're
+[84:09] excited for you. And so, that's it. We
+[84:11] just want to love on you. So, all right.
+[84:14] So, here we go. Let's go. Tubin, welcome
+[84:17] to the family. 34 people. Heaven is
+[84:20] rejoicing and the devil is sad because
+[84:22] he just lost 34 sinners. [laughter]
+[84:25] So, praise God. Welcome to the family,
+[84:28] all 34 of you.
+[84:32] Don't you know when I tell you all these
+[84:35] things and you believe it, this is part
+[84:36] of why I take communion every day.
+[84:39] This is relationship. This isn't about
+[84:42] This isn't about some kind of religious
+[84:44] experience. This is a relationship. I do
+[84:48] this often in remembrance of what he did
+[84:50] for me. Jesus Christ paid the price for
+[84:53] me. And that's what this represents
+[84:56] for me to walk in victory. For me to
+[84:59] walk in holiness, wholeness.
+[85:02] We don't have to sacrifice a bull or a
+[85:05] goat or a sheep or whatever. We can we
+[85:09] Jesus was the ultimate sacrifice. He
+[85:11] paid the price for every one of us.
+[85:13] Isn't that wonderful?
+[85:15] I never want to take it for granted. As
+[85:17] we enter into this time of the year, I
+[85:20] know a lot of people don't want to
+[85:21] believe that Christmas is Jesus's
+[85:23] birthday. It probably isn't, you know,
+[85:25] but I'm going to tell you this. It's a
+[85:27] time of celebration.
+[85:29] It's a time of thank thanking the Lord
+[85:32] for sending his son to die for us. This
+[85:36] is the beginning of it. Thank you,
+[85:37] Jesus, for your birth. Happy birthday,
+[85:40] Jesus.
+[85:42] Thank you that you came as a as as a
+[85:46] from a virgin. You came into this earth
+[85:49] to save a wretch like me.
+[85:54] Thank you, Father. But I want to take
+[85:56] communion tonight and just give you
+[85:58] praise and glory for everything you did
+[86:00] for us.
+[86:02] Thank you, Lord, that I don't have to
+[86:03] have sickness in my body. Thank you,
+[86:06] Lord, that I don't have to be uh walk in
+[86:08] poverty. Thank you, Lord, that I don't
+[86:09] have to have bondage in any area of my
+[86:11] life. That you paid the price for me to
+[86:13] walk in victory. And I take this body in
+[86:15] Jesus' name. And I thank you, Father,
+[86:17] for everything you did for me in Jesus
+[86:20] name. Thank you, Lord, for the blood.
+[86:22] And we make much of the blood. And the
+[86:24] blood makes much of us. We plead the
+[86:27] blood of Jesus. It never loses its
+[86:29] power.
+[86:32] We plead the blood. We apply the blood
+[86:37] in Jesus name. And I thank you Lord
+[86:40] uninterrupted and unhindered by any
+[86:42] satanic or demonic force. Father, if
+[86:44] there's anything you want to show us
+[86:46] tonight before we pray, I know we're
+[86:48] going late here, but God, I thank you,
+[86:50] Lord, for all the people that are here
+[86:51] tonight. And we thank you, Lord, that
+[86:53] the blood covers us. And we just we're
+[86:56] so excited for this Christmas season.
+[87:00] Thank you, Father. Thank you, Lord, for
+[87:03] all that you've done. Thank you, Lord,
+[87:05] for what you did for us.
+[87:08] Thank you, Lord, that we we were once
+[87:10] lost, but now we're found. That you
+[87:13] saved a wretch like me.
+[87:17] I take the blood in Jesus name, and I
+[87:20] apply it to our life as a relationship.
+[87:22] Father, you're so good to us. Amen. And
+[87:26] amen.
+[87:29] Thank you for the blood, Lord.
+[87:33] I once was lost but now I'm found. Was
+[87:40] blind but now I see.
+[87:47] Amazing [singing]
+[87:49] grace,
+[87:51] how sweet
+[87:54] the sound
+[87:56] that saved
+[87:58] a rich like me. [singing]
+[88:04] I once was lost,
+[88:08] but now
+[88:10] I'm found.
+[88:13] was blind,
+[88:15] but now
+[88:17] I see.
+[88:33] Amazing
+[88:37] grace,
+[88:39] how sweet
+[88:42] the sound
+[88:44] that saved
+[88:47] a rich
+[88:49] like me. [singing]
+[88:53] I once
+[88:56] was lost,
+[88:59] but now
+[89:02] I'm found.
+[89:04] was blind,
+[89:08] but now
+[89:10] I see. [singing]
+[89:17] Thank you, Lord. I was once lost, but
+[89:21] now I see.
+[89:59] in every area of our life. Father,
+~~~
+
+<a id="section-07"></a>
+## 07. 90:00–104:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[90:03] no matter how much we're hurting,
+[90:05] no matter how much pain we're going
+[90:07] through,
+[90:08] know the walk we walk, though we walk
+[90:12] through the valley of the shadow of
+[90:13] death, we will fear no evil.
+[90:17] For your rod and your staff, they
+[90:19] comfort us.
+[90:22] Thank you, Father, that you're you're
+[90:23] always with us. You're always there,
+[90:26] Father. In all the dark hours and all
+[90:30] the things that we see on this earth,
+[90:32] Father, I thank you that you're always
+[90:34] there.
+[90:36] You have never left us and you've never
+[90:38] forsaken us. Even whenever some people
+[90:41] feel so alone at Christmas,
+[90:45] so alone. You're like, man, does anybody
+[90:48] care?
+[90:49] Does anybody Does anybody even does
+[90:52] anybody care about my life?
+[90:55] Am I all alone? Is this life worth
+[90:58] fighting for anymore? I'm having such a
+[91:01] hard time and by myself at Christmas
+[91:03] time, but but I just need a breath of
+[91:06] fresh air.
+[91:09] And you're so down and you're so sad,
+[91:12] but Jesus is there to lift you up. You
+[91:15] just got to lift up. You just got to
+[91:16] turn to him. Sing songs of praise. Give
+[91:20] God praise in the m in the in the the
+[91:23] darkest of the darkest times. Give God
+[91:26] praise.
+[91:29] Praise the Lord.
+[91:39] I love that presence.
+[91:44] Amazing
+[91:53] grace,
+[91:56] how sweet
+[92:00] the sound
+[92:04] that saved
+[92:07] a rich
+[92:10] like [singing] me.
+[92:15] I once [singing]
+[92:18] was lost,
+[92:21] but now
+[92:24] I'm found.
+[92:28] Was blind,
+[92:31] but now
+[92:34] I see. [singing]
+[92:39] Through
+[92:44] many
+[92:46] dangers,
+[92:48] toils [singing]
+[92:49] and snares,
+[92:52] I have
+[92:55] already
+[92:56] overcome.
+[93:17] Thank you, Father.
+[93:20] Father, whatever you have on your heart
+[93:22] tonight,
+[93:24] we [snorts] we come before you so
+[93:25] boldly. We come into that throne. We
+[93:29] come in there and we say, "Father, open
+[93:31] the eyes of our heart tonight that we
+[93:34] want to see you.
+[93:36] If there's anything you have for us,
+[93:38] Father,
+[93:40] thank you."
+[93:42] We say, "Happy birthday, Jesus.
+[93:48] Happy birthday to you, Lord.
+[93:53] This is your wonderful week.
+[93:56] We're in your week, a week of rejoicing,
+[93:59] a week.
+[94:02] You bring us great tidings with great
+[94:04] joy.
+[94:07] Great joy. Joy unspeakable and full of
+[94:10] glory for every believer here tonight.
+[94:16] Joy unspeakable and full of glory.
+[94:20] forth joy unspeakable
+[94:23] and full of glory.
+[94:26] Full of glory.
+[94:29] Full of glory. Yes, it's joy unspeakable
+[94:35] and full of glory.
+[94:46] [clears throat]
+[94:49] forc
+[95:02] Fore!
+[95:13] Foreign! Foreign!
+[95:22] Fore!
+[95:32] Foreign! Foreign!
+[95:42] foreign.
+[96:12] It's a significant number of the three.
+[96:16] Three.
+[96:18] It's the significant number of the
+[96:20] three.
+[96:21] Do you understand?
+[96:35] Three,
+[96:36] three, three, three, three.
+[96:52] This is such a significant year. You're
+[96:54] about to see
+[96:59] it for 2026. A very significant year.
+[97:04] 2027,
+[97:06] 2028.
+[97:10] Three. Remember the three coming down
+[97:13] the mountain?
+[97:15] The three coming down the mountain is
+[97:17] purple. I see the purple three. It's
+[97:20] coming down the mountain. February the
+[97:23] 3.
+[97:24] Three. Three. Three. Three. Three.
+[97:26] Three. Three. Three.
+[97:31] The week of the Olympics.
+[97:34] The week of the opening ceremony of the
+[97:37] week. Praying into this week.
+[97:51] We we we
+[97:57] praying for the three the judges. The
+[98:00] judges. The jud I see the judges.
+[98:04] Supreme Court. A major decision is about
+[98:07] to be made.
+[98:15] We pray for the hearts of the Supreme
+[98:18] Court judges.
+[98:37] Oh,ch.
+[99:29] Now this is what I want to tell you.
+[99:30] What I see as I hear it on I see a and
+[99:34] this is very interesting. I see a a man
+[99:38] with a great white beard.
+[99:41] I see a man with a great white beard.
+[99:44] I'm talking it goes clear to the middle
+[99:46] of his belly. And as he's standing upon
+[99:50] a rock, it's a over a valley and it
+[99:54] looks like a it's the edge of this rock.
+[99:57] it. He's standing on this and he's
+[100:00] looking out over the valley and the
+[100:02] valley is full of grayness. It's full of
+[100:06] darkness, but it's gray. There's no real
+[100:10] true light. It's like black and white.
+[100:12] Okay? It's black and white. That's the
+[100:14] color of the Lord. It's black and white,
+[100:16] Brandon. It's black and white. And as
+[100:19] I'm looking at this this valley, it's
+[100:22] all in black and white. And it's as far
+[100:24] as the eye can see. But I see him taking
+[100:29] a chauffear horn and he's blowing his
+[100:34] lips on this chauffear horn and as he's
+[100:37] doing it's a blast blast blast
+[100:41] a blast blast blast and the soundwave is
+[100:45] coming from heaven
+[100:47] and the and it's going through this
+[100:50] valley of death.
+[100:54] So, let's see what happens next.
+[100:59] He has long robe on. He has a long robe.
+[101:03] It's like a gown, but it's flowing. And
+[101:05] there's little holes at the bottom of
+[101:06] the gown.
+[101:09] Looks like like like wear holes at the
+[101:12] bottom where his feet is where it
+[101:14] brushes against the uh the dirt on the
+[101:16] ground. You know how you like when if
+[101:19] you it's too long. It's like it's at his
+[101:20] sandals. Like if you brush something as
+[101:22] where?
+[101:25] This is an old prophetic something.
+[101:28] This is old prophetic man.
+[101:33] Can these bones live?
+[102:14] Hey,
+[102:19] say
+[102:43] So behind it
+[102:46] is a massive tree
+[102:49] is a massive tree that is built in the
+[102:51] rock and below at the below where you
+[102:55] see the tree there's a waterfall flowing
+[102:57] now beside it.
+[103:00] He's still standing there, but there is
+[103:03] a waterfall that has just started to
+[103:05] erupt off of that that cliff of the
+[103:07] rock. The water's flowing down into that
+[103:11] valley from the tree. It's a massive
+[103:15] tree that is a it's it's so you couldn't
+[103:17] put your arms around it. This tree is
+[103:20] beautiful green and it's alive and it
+[103:22] looks like one of those old trees in
+[103:24] California.
+[103:27] >> Like one of those redwoods. a massive
+[103:30] tree, you know, like the huge. You could
+[103:32] drive a car through it.
+[103:35] It's that big. Like, it's that big. But
+[103:37] it's planted in the rock. And the water
+[103:40] is running out of the tree coming down
+[103:42] the side of the mountain where the man
+[103:44] is standing there blowing his horn.
+[103:57] Stock
+[104:24] tochech. Saychech.
+[104:55] Say
+[104:59] no.
+~~~
+
+<a id="section-08"></a>
+## 08. 105:00–119:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[105:03] Say
+[105:07] no.
+[105:40] Now I see two lungs,
+[105:44] but these lungs are attached outside of
+[105:47] of a body
+[105:49] and they're breathing in that wa that
+[105:52] water they're that water that water is
+[105:55] there these lungs are are on the out see
+[105:58] the waterfalls here the lungs are
+[106:00] positioned right underneath that
+[106:02] waterfall and you can see where the the
+[106:04] tubes for the lungs are and I can see
+[106:07] life coming into these lungs
+[106:10] I can see the blood flow the blood veins
+[106:12] I can see the the the but there's
+[106:15] they're they're they're sparkling Now
+[106:17] these lungs are sparkling.
+[106:54] That's very interesting. Why would it be
+[106:57] lungs? Lord, what is that, Lord? Why are
+[107:00] the lungs breathing like that outside
+[107:01] the body?
+[107:12] for
+[107:30] no more.
+[107:54] The man just sat down on the rock.
+[107:59] He went from blowing a horn to sitting
+[108:02] down to look at the valley
+[108:04] and the water's flowing right by him.
+[108:14] He's sitting crisscross
+[108:16] like like crissc he's crossing his legs.
+[108:19] He's sitting there and he's he has his
+[108:20] robe on and I see him. He's looking out
+[108:22] over the edge.
+[108:27] Why is he sitting down now?
+[108:44] We're seated with him. We're seated with
+[108:47] him in the heavenly. We're seated with
+[108:49] him. We are seated with him. We're not
+[108:52] standing. We're seated. We're seated.
+[108:53] We're We're right there. We're seated
+[108:54] with him in the heavenlies far above all
+[108:57] principalities.
+[108:59] It's a place of of a place of authority.
+[109:02] It's a place of rest.
+[109:05] You're not It's a place of rest. Seated.
+[109:10] You're seated with him.
+[109:14] Do you understand what he's saying? He's
+[109:17] You're seated. It's a place of rest.
+[109:21] You're not You're not toiling. You're
+[109:23] not up walking around. You're not
+[109:24] pacing. I'm seated because I'm I'm firm
+[109:27] in them. I'm I'm I'm resting.
+[109:32] He that that man is s is is taking a a
+[109:36] seat. He's looking out over the edge.
+[109:40] He's in complete peace
+[109:44] watching the water flow over the people.
+[109:46] Can these bone? He did what he's
+[109:48] supposed to do. He blew his horn and he
+[109:51] sit down.
+[109:52] He took a seat.
+[109:58] Fore! Foreign! Foreign!
+[110:12] la.
+[110:39] Clearly, clearly clearly
+[110:43] clear.
+[111:07] for
+[111:48] It's a place of rest. It's a place of
+[111:52] rest.
+[111:53] I want you in that place of rest. Trust.
+[111:57] Trust confidently in me. Trust. Trust.
+[112:01] Trust.
+[112:13] for you. The morning
+[112:25] Na
+[112:53] body.
+[113:16] No, no, no, no, no. I see a peach seed.
+[113:21] A peach seed.
+[113:25] What is that about?
+[113:33] It's by a seed.
+[113:38] When you plant the seed,
+[113:40] when you plant, everything is about
+[113:42] seeds.
+[113:43] Planting the seed, believing for the
+[113:46] harvest. Planting the seed. You You
+[113:48] plant the seed, you reap a baby. You
+[113:50] plant a seed, you you you you reap the
+[113:52] harvest of fruits, vegetables,
+[113:56] you you plant the seeds of words. Let
+[113:58] the seed Let the word come in you as a
+[114:00] seed and it springs forth life.
+[114:04] Everything's about a seed in the
+[114:05] kingdom.
+[114:08] [cough and clears throat]
+[114:08] It has something to do with a seed.
+[114:13] Everything is revolves around a seed.
+[114:17] Seed is life.
+[114:19] But you got to plant the seed to reap
+[114:21] the harvest.
+[114:24] The word doesn't return unto you void.
+[114:26] You're planting the seed of the word
+[114:28] inside your heart and it springs forth
+[114:30] life.
+[114:33] Seed of life, lifebearing seed.
+[114:42] But [clears throat] what was interesting
+[114:43] is the seed was covered by blood.
+[114:48] I could see the peach seed covered in
+[114:50] blood.
+[114:56] The seed is covered in the blood
+[115:04] as you take your seat. Huh? Did it all
+[115:07] go together, Lord?
+[115:13] It was a It was a split of a fruit. And
+[115:16] I saw the seed and it was by it, but it
+[115:18] was covered in the blood.
+[115:20] The seed, the peach seed looked red.
+[115:25] And I heard the Lord said, "It's covered
+[115:27] in the blood."
+[115:30] The seed, you sew the seed, I reap the
+[115:33] harvest.
+[115:35] Life is in the word. The seed of the
+[115:38] word goes down in your heart. It changes
+[115:40] you. It bears forth much fruit.
+[115:48] Everything in life involves a seed.
+[115:51] Seed, time, and harvest never cease.
+[115:54] Whatsoever man sws, that will he also
+[115:56] reap. As long as the earth remains,
+[115:59] seed, time, and harvest.
+[116:03] I believe that's the first Peter, right?
+[116:06] As long as the earth remains.
+[116:11] As long as the earth the flowers wither
+[116:13] and the grass fall,
+[116:16] the the the the the
+[116:18] Yeah. The the flowers wither and the
+[116:20] grass fade. Some of it, but the word of
+[116:22] the Lord will remain forever.
+[116:35] Foreign
+[116:40] [已省略：字幕明确标注的 speaking in tongues / foreign speech]
+[116:50] Fore!
+[116:58] Foreign! Foreign!
+[117:10] Z.
+[117:24] Zech.
+[117:39] No. No.
+[118:02] La
+[118:13] No.
+[118:22] Thank you for the blood.
+[118:24] Thank you, Father, for the blood that
+[118:27] every seed is covered in the blood of
+[118:29] Jesus. The Father, that the seeds we sow
+[118:32] in the past, they have come to harvest
+[118:34] at last. The father Genesis 8:22. Yeah.
+[118:38] For seed time harvest. Yeah.
+[118:40] >> Genesis 8:22.
+[118:45] So what for the
+[118:46] >> as long as the earth remains there's a
+[118:48] different as long remains there will be
+[118:51] planting and harvest cold heat winter
+[118:53] summer day and night but as long as it
+[118:56] >> in every area of our life seed time and
+[118:59] harvest never ceases
+[119:01] >> as long as the earth remains. Seed time
+[119:05] and harvest doesn't cease
+[119:09] as long as the earth remains.
+[119:13] So the seeds we sowed in the past will
+[119:16] come to harvest at last.
+[119:20] I thank you Lord while the earth
+[119:22] remains. Seed time and harvest and cold
+[119:26] and heat and summer and winter and days
+[119:29] and night shall not cease.
+[119:33] I thank you, Father, for seed time and
+[119:35] harvest tonight. That the seeds in the
+[119:38] past will come to harvest at last. That
+[119:40] the very seeds we we sowed financially,
+[119:44] Father, of good deeds, all of them,
+[119:46] Father, but we ask for a crop failure
+[119:47] over the bad ones.
+[119:49] Father, I thank you, Lord, that the
+[119:51] seeds, the bad seeds we've sowed
+[119:53] ignorantly or willingly, Father, I thank
+[119:55] you, Lord. We repent. We call repentant.
+[119:58] We call repentance over those bad seeds.
+~~~
+
+<a id="section-09"></a>
+## 09. 120:00–134:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[120:01] And I thank you Lord that we will not it
+[120:03] will not bear fruit in our life. We call
+[120:05] heart crop failure in Jesus name. We
+[120:09] call crop failure over the bad seeds and
+[120:12] we thank you Lord that the good seeds
+[120:14] bring forth 30 60 and 100fold return in
+[120:18] the name of Jesus.
+[120:21] We call for every bad seed we have sowed
+[120:25] to have a crop failure in Jesus name. We
+[120:29] call forth abundance to the extreme to
+[120:32] that overflows over the good seeds
+[120:38] and over the man. Father, the position
+[120:40] of the elder with the long beard.
+[120:43] Father, we take our seat.
+[120:46] Huh? Go ahead.
+[120:48] >> Can these bones live?
+[120:50] >> Can these bones live? Long beard.
+[120:53] >> Yes.
+[120:56] for
+[121:24] that we stay in that place of our
+[121:26] authority and we seat. We take our seat.
+[121:31] We take our rest. We come up higher. And
+[121:34] we thank you that you have our best,
+[121:38] best in mind, best in heart.
+[121:41] Adobe.
+[121:54] We thank you, Lord. We thank you, Lord.
+[122:00] That's interesting. Now, I see a fox.
+[122:07] He's looking to the to the man on the
+[122:10] rock.
+[122:14] The fox is down below in the valley. The
+[122:17] fox is looking sly up toward the man on
+[122:21] the rock.
+[122:23] He has a long bushy tail with a white
+[122:25] tip
+[122:30] and he's looking up. He has a black
+[122:32] black uh coal nose, black black little
+[122:36] coal eyes, and his and his head is
+[122:39] toward the ground. But then he looked up
+[122:42] at the man sitting on the rock, the fox.
+[122:47] [cough]
+[123:11] Okay. I see a baby bassinet
+[123:15] on wheels. It looks like a baby buggy,
+[123:19] but on the side of all of where the baby
+[123:22] thing has a has it's an old school like
+[123:25] 1900's baby bassinet that has a half of
+[123:28] it like uh like an umbrella over the
+[123:31] baby. I see a white uh baby gown, white
+[123:35] blankets, white white all this beautiful
+[123:40] white color, but the white is glowing.
+[123:43] And the baby basket the there's a gold
+[123:46] trim around this. It looks like an like
+[123:49] a like a like a open. It's an open, but
+[123:52] it's like all the trim at the edge of
+[123:54] the baby bassinet is gold and it's
+[123:57] braided. Kind of like a braid, like a
+[124:01] like a It's welded. It's all meshed
+[124:04] together. So, there's no it's seamless,
+[124:06] but it it's all like little sl like
+[124:09] little slits all on like this. And it's
+[124:11] gold. It allows the bassinet.
+[124:14] There's strips of gold going down on
+[124:16] this bassinet. And
+[124:19] Fore
+[124:33] ne
+[124:44] I see a glorious figure
+[124:47] [cough and clears throat]
+[124:48] that has no face.
+[124:50] A a a something. It It's a being that
+[124:54] has no face, that has a go a beautiful
+[124:57] sparkling gown that's watching over the
+[125:00] baby that's watching over the baby.
+[125:12] The face is not There's no face.
+[125:18] It looks like a veil baby,
+[125:28] but he's leaning over looking at the
+[125:30] baby with no face and he has a sparkling
+[125:34] gown.
+[125:55] foreign.
+[126:24] So the stone is stone stone stone.
+[126:45] We're clothed. We're clothed in his
+[126:47] glory. We're clothed. Come to him as a
+[126:50] child. Come to him as the baby.
+[126:54] come to him as the baby.
+[127:02] A baby needs all its needs met by the by
+[127:04] the by the father or the mother. You It
+[127:07] cannot It cannot meet its own's needs.
+[127:10] It's really It's really helpless.
+[127:14] It's sitting there like that laying in
+[127:15] that bassinet and the and the father's
+[127:17] just doting over his baby.
+[127:21] The father, the faceless, that in glory
+[127:25] is doting over that baby. Looking at the
+[127:29] baby, looking over that child. Oh, and
+[127:34] the baby's just cooing and kicking his
+[127:35] legs.
+[127:37] The baby's just kicking its little legs,
+[127:40] little toes, little legs. And the
+[127:42] daddy's just that I could see the
+[127:44] glorious thing. I I want to say it's
+[127:47] Lord, I don't know.
+[127:50] uh looking at this baby and the baby's
+[127:53] just kicking and it's there and I can't
+[127:55] see. There's no smile. There's nothing
+[127:56] other. I can feel the presence.
+[128:00] He's watching over me. He's watching
+[128:02] over you or his babies or his children.
+[128:09] What's that fox doing?
+[128:16] foreign.
+[128:55] That's so interesting. That is really
+[128:57] beautiful.
+[129:19] We love you, Lord.
+[129:23] We come to you. We're seated with you in
+[129:25] the heavenlies. We're seated with you in
+[129:28] the heavenlies, like that old man. But
+[129:30] we come as babies before the great I am.
+[129:34] not as adults, but as your babies.
+[129:40] And we're away from that fox.
+[129:45] We thank you, Lord.
+[129:48] We thank you, Father, for that peace.
+[129:51] As we sit at your feet.
+[129:55] As we sit at your feet. For the peace
+[129:58] that passes understanding.
+[130:01] As we sit at your feet. The peace that
+[130:04] passes all understanding.
+[130:30] We thank you Lord. We thank you Lord.
+[130:36] Hallelujah.
+[130:43] for
+[131:00] me. Cry
+[131:04] me.
+[131:38] Crochet.
+[131:39] to coand
+[131:51] to
+[131:53] mandate.
+[132:00] Roashi
+[132:08] Romano
+[132:25] papai
+[132:27] moai
+[132:29] rapat.
+[132:50] I see there was a very steep hill for
+[132:54] more of you to climb.
+[132:58] I see a steep hill.
+[133:02] I see a steep hill. And the climb has
+[133:05] been very intense.
+[133:10] Push, push, push, push, push.
+[133:13] Push, push, push, push, push. Climb,
+[133:16] climb, climb,
+[133:18] climb, climb, climb.
+[133:24] Robo
+[133:33] no.
+[133:40] It's been a long, long road. It's been a
+[133:43] long, long road for some of you. But the
+[133:46] breakthrough, the long, long road. You
+[133:49] feel like you've been climbing,
+[133:50] climbing, climbing. Where are we going
+[133:52] to get to the summit? Climbing,
+[133:54] climbing, climbing.
+[134:31] Fore! Foreign! Foreign!
+~~~
+
+<a id="section-10"></a>
+## 10. 135:00–149:59 · 预言、梦境与异象、物资、能源与供应链
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[135:02] there. It's it's it's all about breaking
+[135:05] through for you. You've been climbing.
+[135:08] You're you're at that place of rest.
+[135:11] Your baby is speaking to the dry bones
+[135:14] of your life. Can these bones live? Of
+[135:19] your circumstances of many you have
+[135:21] given upon. But I hear the spirit of the
+[135:24] Lord say, I'm bringing forth life to
+[135:26] your circumstances
+[135:29] where it seemed to be the valley of your
+[135:31] dry bones were dead and that you are in
+[135:34] the valley and that you don't. Oh, how
+[135:37] the but the water's here. The birthing
+[135:40] is here. Oh, the baby. The baby. The
+[135:42] baby is here.
+[135:50] It it it it's the time of the seed
+[135:54] that you sowed in the past. You're going
+[135:57] to reap the harvest at last.
+[135:59] Speaking to what you thought was
+[136:01] dormant.
+[136:03] And you're like, you climb, you climb,
+[136:05] you climb. I see the people aren't cl
+[136:08] but they get weary and welloing. You
+[136:10] don't see the manifestation of what you
+[136:12] believe for
+[136:14] day after day after day after day you
+[136:17] feel and now you get weary welloing.
+[136:21] But when you let go of the rope and you
+[136:24] let God, I'm sitting down, Lord. I'm
+[136:27] just taking my seat.
+[136:30] Can these bones live?
+[136:33] Can my circumstances change?
+[136:37] Can my marriage get better? Can my kids
+[136:41] stop being helens?
+[136:44] Can, father, my finances turn around?
+[136:48] Living from check to check, barely
+[136:50] getting by. Oh, Father, can these bones
+[136:54] live?
+[136:56] Many of you are the ones standing on the
+[136:58] rock. Can these bones live?
+[137:03] My circumstances don't seem to be
+[137:05] changing,
+[137:07] but the Lord says there's a divine
+[137:09] turnaround
+[137:13] as long as the earth remains. Genesis
+[137:15] 8:22
+[137:19] Genesis 8:22
+[137:22] seed time and harvest doesn't cease.
+[137:29] Speak to the dry bone. Speak to the dead
+[137:32] seeds. Speak. They've seen that the dead
+[137:34] the seeds don't die.
+[137:39] Don't let the fox come and ruin the
+[137:42] vine.
+[137:44] He's up there. What is the fox speaking
+[137:46] to you? He's lying to you. You're not
+[137:48] going to get through this.
+[137:50] That's the devil. He's a You're not
+[137:53] going to get through. He's trying to eat
+[137:54] the vines.
+[137:56] The small foxes spoil the vines. It's
+[138:00] the small foxes that are spoiling the
+[138:02] vines.
+[138:04] Don't get weary and welloing.
+[138:08] We're not adult God's adults. We're his
+[138:11] children, his babies. He's watching over
+[138:13] us. He has affection. His eyes are on
+[138:18] the babies. They're not adults. We all
+[138:20] look like little ch infants in there
+[138:22] kicking our little toes up and our
+[138:24] little gown. Have a little uh one of
+[138:26] those. It looked like one of those uh
+[138:27] christening. You know those beautiful uh
+[138:29] gowns they put on the babies? This
+[138:31] beautiful white gown.
+[138:35] >> Is that the stroller?
+[138:36] >> That was like the stroller right there.
+[138:38] >> But it was white.
+[138:39] >> So the whole thing was white.
+[138:40] >> Yeah. It was glowing with glory.
+[138:42] >> Wow.
+[138:43] >> With gold on the bassinet and he was
+[138:45] looking out over that baby in that just
+[138:48] like that baby. Good job, son. Just like
+[138:51] that. White. But it was gold. Just like
+[138:54] that.
+[138:56] The trim had it was braided, but it was
+[138:59] but it was just like that. And he was
+[139:00] looking over it with with no face. It
+[139:01] was he was completely glory. And I could
+[139:04] see no face, but he was looking at the
+[139:06] baby and he was he was watching over the
+[139:07] baby.
+[139:09] And the baby was kicking his little toes
+[139:11] up. I could see the little feet bouncing
+[139:14] up. Had a little bit of little chubby
+[139:16] toes. He was moving his little feet and
+[139:18] moving around in that gown. I could see
+[139:19] little baby's toes. It was really
+[139:22] beautiful. And the Lord was just is just
+[139:25] watching that child.
+[139:27] And then I saw the seed
+[139:30] and the Lord said those seeds they they
+[139:32] are always come to pass. Every seed you
+[139:35] have in your life.
+[139:37] The seeds that you sowed in the past
+[139:39] will come to harvest at last. Believe me
+[139:42] for the seed.
+[139:44] Believe me for the manifested for the
+[139:46] crop of the seed. Seed time and harvest
+[139:49] doesn't cease.
+[139:51] Whatsoever man sws that will he also
+[139:53] reap. It doesn't die.
+[139:58] So call forth your dead seeds of the
+[140:01] ones that that you they're not dead
+[140:03] seeds. The dormant seeds the Lord said
+[140:05] they're not dead. They're dormant. Speak
+[140:08] to them.
+[140:11] Call forth your dormant seeds and say
+[140:13] seeds grow
+[140:15] and let that river or that water flow
+[140:17] out of that mountain over there.
+[140:20] As long as the earth remains,
+[140:23] it's time for you to reap your harvest
+[140:25] of what you've been for. Now I call crop
+[140:27] failure over my bad ones.
+[140:29] Said, "Lord, forgive me, but the ones I
+[140:32] have in the ground that are good, I'm
+[140:33] calling forth the 30, 60, 100fold. I
+[140:36] want I want big big harvest. Everything
+[140:39] you live in life is a seed.
+[140:41] Manifestation of a seed.
+[140:45] Everything.
+[140:47] What what you put inside your heart with
+[140:49] the word of God is seed.
+[140:53] The swer sws the word.
+[141:05] Thank you father.
+[141:07] Thank you, Father, for tonight's prayer.
+[141:12] Thank you, Father, that you are watching
+[141:14] over our siege. That Father, that we
+[141:16] come to you as babies. We're not adult.
+[141:18] We're sitting on there and we just take
+[141:20] our rifle place in the seat and we say,
+[141:21] "Can these bones live? Can our seeds
+[141:25] that we've sewed live?" Yes.
+[141:29] Yes.
+[141:30] All things are possible to him who
+[141:35] believes.
+[141:40] Don't be weary and well doing. And I saw
+[141:42] a very steep mountain people climbing.
+[141:44] They were resting. They get weary and
+[141:45] well doing. They up there go, I was
+[141:47] never going to get to the summit. We're
+[141:48] never going to get to the top. We're at
+[141:50] we're we're always going to be climbing
+[141:52] this, honey.
+[141:54] But they would climb a little bit and
+[141:56] they would rest. And I could see it was
+[141:58] steep.
+[142:01] They're trying to get to the top. I saw
+[142:04] that massive tree around that on that
+[142:06] thing. I wonder what that represented.
+[142:09] >> It's like is it like the one where you
+[142:10] saw the the fire on the seeds or
+[142:12] whatever? Remember that? And it was like
+[142:14] Yeah. Remember that? The sequoia tree.
+[142:15] >> Yeah, the sequia tree. It looked like a
+[142:18] squa tree. A beautiful sequoia.
+[142:20] >> They're saying it's in Ezekiel. Ezekiel.
+[142:23] It's a fruit tree of all. That's what
+[142:25] they're thinking. And a fruit tree of
+[142:27] all kinds will grow on both banks of the
+[142:29] river. Their leaves will not not waver,
+[142:32] nor will their fruit fail. Every month
+[142:34] they will bear fruit because the water
+[142:37] from the sanctuary flows to them. Their
+[142:39] fruit will serve for food and their
+[142:42] leaves for healing.
+[142:43] >> Wow, y'all. Cool find.
+[142:47] Ezekiel spoke to the mountain. He spoke
+[142:49] to the dry bones. But that's the fruit
+[142:52] >> tree. I'm going to try to read it.
+[142:54] >> 47. I haven't studied it, so my reading
+[142:56] might be off. The fruit trees of all
+[142:59] kinds will grow on both banks of the
+[143:02] river. Their leaves will not wither, nor
+[143:07] will their fruit fail.
+[143:10] Every mouth [clears throat]
+[143:12] >> month, every month, every month they
+[143:15] will bear fruit because the water from
+[143:18] the sanctuary flows to them. Their fruit
+[143:22] will serve for food and their leaves for
+[143:25] healing. That is powerful. So is he was
+[143:29] sitting on the top and that that tree
+[143:30] came up. So it was by the river
+[143:33] >> and the water flowed through and it
+[143:35] lines up. It's what I'm seeing as a
+[143:36] scripture of Ezekiel 47:12.
+[143:43] That's cool, huh? I was thinking what am
+[143:46] I seeing all this for?
+[143:48] >> Yeah. They're saying you guys are saying
+[143:49] kids can't use bow to live. That's what
+[143:51] he was saying.
+[143:51] >> Can these bones live? So the that is
+[143:54] good.
+[143:54] >> He said he was prophetic and he Ezekiel
+[143:57] is prophetic.
+[143:57] >> So let's read that again. I want to see
+[143:59] I got to read that again. Can't lose
+[144:00] that scripture for me. The fruit
+[144:03] trees of all kinds will grow on both
+[144:07] banks of the river. So it's so fruit
+[144:09] trees. So he was talking about the fruit
+[144:13] of the peach and it was split before
+[144:16] Ezekiel and it was covered in the blood.
+[144:19] The seed was covered in the blood. So
+[144:21] the trees of all kinds will grow both b
+[144:25] will grow. So sorry fruit trees of all
+[144:27] kinds. So fruit trees. So the fruit tree
+[144:30] it was I saw a peach come up before
+[144:34] Ezekiel. So the fruit trees of all kinds
+[144:36] will grow on both banks of the river. I
+[144:40] only saw one tree. Their leaves will not
+[144:44] wither, nor will the fruit fall. You're
+[144:48] you got to move it over, baby. So the
+[144:51] wither will not fruit the fall.
+[144:54] >> No, it was it covered up by the Okay,
+[144:56] right there. Perfect. The the weather
+[144:58] nor their fruit fall. So our vine will
+[145:01] not cast fruit before its time. Just
+[145:03] like it says in Deuteronomy.
+[145:06] Every month they will bear fruit. So you
+[145:10] got fruit all the time. It's a bountiful
+[145:12] supply
+[145:14] because the water from the sanctuary
+[145:18] flows to them. Their fruit will serve
+[145:22] for food and their leaves for healing.
+[145:32] And then he said every seed he gave me
+[145:35] he gave me Genesis and then I heard that
+[145:38] and he said a seed time and harvest
+[145:40] never cease.
+[145:41] Genesis 8:22 and he he said speak to it
+[145:46] don't be weary and welloing as they are
+[145:49] climbing the mountain seeds always
+[145:52] produce
+[145:54] seeds will always even dormcies he said
+[145:57] not descries
+[145:58] >> will always produce speak to them
+[146:02] speak to him and that water come over
+[146:04] but the small foxes will ruin the vines
+[146:07] I wonder what that means
+[146:08] >> yeah and he say he was at rest
+[146:10] >> rest He sat down. He blew the horn over
+[146:13] the valley.
+[146:15] And when the water started to flow, he
+[146:18] just took a seat.
+[146:20] He took a seat and watched it. He blew
+[146:22] the horn. And I saw a chauffear horn
+[146:26] that was long, a massive chauffear horn.
+[146:29] And he blew it. And he went
+[146:32] and and as it blew, it blew over the
+[146:35] valley. And I heard, "Can these bones
+[146:38] live?"
+[146:40] And he yelled that across the belly. Can
+[146:42] these bones live? Boo. And then he sat
+[146:47] down.
+[146:54] I heard that. He He didn't say it. I
+[146:56] heard the sound. Can these bones live?
+[146:59] He sat down. I have to get that right.
+[147:03] He He blew the horn and I heard, "Can
+[147:05] these bones live?"
+[147:07] And then all of a sudden I saw a fruit
+[147:09] tree that well a tree. It looked like a
+[147:11] massive tree. I don't know if a fruit
+[147:12] tree, but it looked like a massive tree,
+[147:14] but it was a huge tree. It wasn't just a
+[147:17] little bitty tree. It was a massive
+[147:19] tree.
+[147:21] And the water was flowing by it. It's
+[147:23] coming right out the side. And it went
+[147:25] over the side of the mountain where he
+[147:28] was sitting right next to him. And the
+[147:30] stream was glistening with with with
+[147:32] sparkles.
+[147:35] And it was all sparkling, but it went
+[147:36] through the valley. And then a fox come
+[147:38] up and was looking at it. And people
+[147:41] were trying to get up the mountain and
+[147:43] they would get weary. And then I saw a
+[147:45] baby.
+[147:53] That's cool stuff, huh? I have to think
+[147:55] about all that tonight. What he showed
+[147:56] us so far. Ain't that neat? I have to
+[147:59] think about it.
+[148:00] >> Yeah. And no face.
+[148:01] >> Yeah. No face. There was a man with no
+[148:04] face. I don't know who he was, but he
+[148:06] loo his face looked like a it was it was
+[148:09] a slate like like like mumbles,
+[148:15] you know. Remember Dick Tracy?
+[148:18] You probably don't. Mumbles. That's
+[148:21] evil. That That was kind of evil. But
+[148:23] this was It didn't look It wasn't evil.
+[148:29] No face like
+[148:32] >> Oh, yeah.
+[148:33] >> Huh?
+[148:37] Yeah. Dick Tracy. I It was a It was
+[148:40] something back in a long time ago, but
+[148:42] I'm saying it had no fa This was no
+[148:44] face. It was an outline, but no face. It
+[148:46] looked like a canvas.
+[148:49] It was flesh color.
+[148:54] Very. It was very different. I don't
+[148:55] know. But the g but the but it was a
+[148:58] gown that was glowing in sparkles and it
+[149:00] was he was looking at the baby and the
+[149:03] baby was glowing with sparkles and he
+[149:04] was kicking in his bassinet. His feet
+[149:06] were moving. The baby's feet was moving.
+[149:08] So it was a girl or boy, I don't know. I
+[149:10] didn't see but it looked like one of
+[149:12] those old uh dedication outfits that you
+[149:16] dedicate a baby. You know, you get the
+[149:17] front. It was a white gown. White
+[149:20] beautiful sparkly gown.
+[149:26] All glory to Jesus tonight. Isn't that
+[149:29] Jesus wonderful?
+[149:33] He doesn't want us to give up on him. He
+[149:35] wants us to keep believing. Fight the
+[149:37] good fight of faith. Don't all seed
+[149:39] proof. And then you ask for crop failure
+[149:40] on your other ones.
+[149:41] >> And the lungs.
+[149:42] >> Oh, and the lungs. Thank you.
+[149:44] >> Somebody said that.
+[149:45] >> The lungs come up underneath the water
+[149:48] under Ezekiel.
+[149:51] What is that about? The water was
+[149:54] flowing through the lungs. You know how
+[149:57] you the pipes you see like you like you
+~~~
+
+<a id="section-11"></a>
+## 11. 150:00–164:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：New York、Las Vegas、New Orleans。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[150:00] would see on a diagram on like something
+[150:02] the blue the blood flow of the lungs
+[150:04] it's blue. The lungs were there and they
+[150:08] had veins going through them and the
+[150:12] water was coming off the mountain and it
+[150:14] was flowing into that that what would
+[150:17] that be called? Trek
+[150:19] >> it's not a tracherottomy.
+[150:22] I know
+[150:23] >> the the the the
+[150:26] >> I think I don't know what
+[150:27] >> I'm not scientific here B. I'm sorry. It
+[150:30] it's the blue vein the blue pipe the
+[150:34] water was flowing through those that
+[150:36] that lung pipes filling the lungs up
+[150:39] with water. It was filling them up with
+[150:42] glory. The lifegiving was flowing
+[150:44] through the lungs.
+[150:46] Do you see that?
+[150:47] >> Okay. So, so that's the ab at the end.
+[150:49] So, it's trachea. Is that what you mean?
+[150:51] tracheotomy.
+[150:52] >> Yeah. See
+[150:53] >> the trachea top the top that's trachea.
+[150:55] >> Okay. So the trachea. So it was flowing
+[150:57] through the trachea and going through
+[150:59] the lungs
+[151:01] and the water was flowing through them.
+[151:04] And I could see blue and red
+[151:08] going through the lungs and giving them
+[151:10] life. And they were they were breathing.
+[151:11] Exhaling and e and inhale exhale. They
+[151:14] were moving. The lungs were breathing
+[151:18] the water.
+[151:20] Breathing the water as the water fell
+[151:23] through the off the off the off the side
+[151:25] of the cliff by Ezekiel.
+[151:31] Very interesting. Don't know what that
+[151:33] means.
+[151:34] Breathe him in. Right. Breathe him in.
+[151:41] As the lungs were functioning,
+[151:43] functioning functioning. They were
+[151:44] breathing in the water. You were
+[151:46] breathing in the living and the seed.
+[151:48] And the seed was down there and the this
+[151:50] split in half and a fruit and it was a
+[151:52] peach seed. And he said, "Speak it." And
+[151:54] those the se your seeds in the p are
+[151:57] covered in the blood
+[152:00] because they had it was the blood of
+[152:01] Jesus on it.
+[152:06] That bravo Holy Spirit. That was
+[152:08] awesome. Huh? Fun.
+[152:12] I like it.
+[152:21] Isn't it fun?
+[152:22] >> Yeah,
+[152:23] >> I love it. Prayer is fun.
+[152:27] Holy Spirit, you're welcome.
+[152:31] Holy Spirit, you're so welcome in this
+[152:33] place.
+[152:35] Holy Spirit,
+[152:38] you are welcome in this place.
+[152:43] Holy Spirit,
+[152:45] you are welcome
+[152:47] in this place.
+[152:53] Father
+[152:55] of mercy
+[152:57] and grace,
+[152:59] thou art
+[153:02] in
+[153:04] this place.
+[153:11] That was wonderful. Did you enjoy that
+[153:13] tonight?
+[153:16] It's pretty neat. It lines up with the
+[153:19] scripture. Ain't that neat? Sometimes I
+[153:21] don't know where it's going. I just tell
+[153:23] you what I'm seeing and I just keep
+[153:25] going and and then and then somebody
+[153:27] find that scripture. That's beautiful.
+[153:29] Thank you. I appreciate for whoever did
+[153:30] that. I really appreciate that. That was
+[153:33] beautiful. whoever found that because it
+[153:35] goes I'm going I'm seeing all this and
+[153:37] it don't make a lot of sense to me but
+[153:38] I'm telling you what I'm seeing and
+[153:40] thank God it's in the word [laughter]
+[153:43] because you're going I'm just I'm just
+[153:45] following you Holy Spirit because I'm
+[153:47] going to tell you I still don't know
+[153:48] what the lungs mean but uh praise God to
+[153:52] whom all blessings flow he's amazing God
+[153:55] huh
+[153:57] so the whole passage we'll have to read
+[153:59] that [clears throat] I'll have to study
+[154:01] that can these bones live.
+[154:06] Can your seeds live? Yes, they can.
+[154:12] All things are possible of him who
+[154:14] believes. And what was interesting, it
+[154:17] was in it sounded like an African tongue
+[154:19] scene.
+[154:20] >> Yeah, I was going to say that.
+[154:22] >> Now, every time I was singing, it
+[154:24] sounded African to me. It sounded uh
+[154:27] like
+[154:29] it was it wasn't like American singing.
+[154:32] It sounded more African singing. So very
+[154:35] interesting, wasn't it? What's that
+[154:37] about?
+[154:39] Huh?
+[154:40] >> Was Ezekiel African? No, he probably
+[154:42] wasn't.
+[154:44] [laughter]
+[154:45] I'm sorry. He's He's probably Jewish.
+[154:50] Could have been. [clears throat] I
+[154:51] don't. That's my ignorance of the word
+[154:53] right there. He probably He probably
+[154:55] He's probably Jewish.
+[154:59] >> Huh? Some people saying that you could
+[155:01] be
+[155:01] >> could be.
+[155:03] [snorts and cough]
+[155:04] [clears throat]
+[155:06] >> Well, we love y'all. I pray this video
+[155:08] blessed you. I know it went a little
+[155:09] extra long tonight, but I pray with all
+[155:11] my heart it blessed you. We're so
+[155:13] grateful for every single one of you.
+[155:16] Thank you for joining us. I know it's
+[155:18] getting late at night. It's almost 11:30
+[155:20] here central, but it's not 12 yet. It's
+[155:22] still tomorrow. It's still yesterday.
+[155:24] It's not tomorrow. We're not into the
+[155:27] We're not into the 22nd yet.
+[155:30] We're almost there. We can say we prayed
+[155:32] into tomorrow. But we're so blessed to
+[155:34] have you all. Thank you for joining with
+[155:36] us. If you could do me a favor, do me a
+[155:39] favor. Like the video, subscribe, click
+[155:41] the notification bell, click the thumbs
+[155:43] up, and go to my ex account on uh X and
+[155:50] subscribe to my X account. I'm tr I'm
+[155:53] growing that because the Lord told me to
+[155:54] have two alternate voices, one on
+[155:57] YouTube and one on X because of the
+[155:59] persecution coming to the to the uh
+[156:02] freedom of speech. He said you must
+[156:04] prepare now. Don't wait until the storm
+[156:07] hits for they will suppress suppress
+[156:10] suppress suppress in the days ahead my
+[156:13] voice with through social media trying
+[156:17] to keep you silent. But you must have
+[156:19] alternate avenues of this. Now, people
+[156:23] say, "Brandon, why don't you do us uh
+[156:25] what what was all the other things,
+[156:27] >> Rumble, all kinds of things." This is
+[156:28] what the Lord said. I don't understand
+[156:31] all that stuff. I'm I'm just trying to
+[156:32] follow the best I can, but he said X
+[156:35] because Elon's site will be uh more free
+[156:39] and uh stay on YouTube as long as I can
+[156:41] speak, but even whenever they suppress
+[156:43] it, they're not going to cut me off. The
+[156:45] Lord said, he said, "They're just going
+[156:46] to make it where it's going to be really
+[156:47] hard to say certain things without
+[156:48] flagging my videos." It's when when is
+[156:52] whenever you bury somebody in the
+[156:54] algorithm.
+[156:55] >> Yeah.
+[156:56] >> You I want to You want it to be seen and
+[156:59] the only way it's seen is by you
+[157:02] clicking like, subscribe, notification
+[157:04] bell, and commenting something nice down
+[157:06] below.
+[157:06] >> Link in description for the X account.
+[157:08] >> Link is in the description for the X
+[157:10] account. So, it's just right there in
+[157:13] the exit and you just click it and you
+[157:15] go on there and there I am and you just
+[157:17] join up with me and I'll put videos over
+[157:19] there. I think I gained 2,000 people in
+[157:21] the last couple of days which all glory
+[157:24] to God for that. Thank you all for
+[157:25] coming and so we'll keep growing it over
+[157:27] there. I'm up to 37 100 37,000.
+[157:31] >> So, we're believing for 100,000 and uh
+[157:34] we'll see where we go from there. I
+[157:35] don't know. I just feel like I have two
+[157:37] foundations in 2026 for what's coming in
+[157:39] 2027, 2028. We must work on this for the
+[157:43] whole year. So, we'll be there. We'll be
+[157:45] we'll be all over the places. So,
+[157:48] we're not going anywhere. I just have to
+[157:50] be I I have to speak what he says
+[157:52] freely.
+[157:54] No matter if they believe it or they
+[157:55] want to suppress me or not, I'm going to
+[157:57] say what God tells me to say, but I have
+[157:59] to have a platform to say it on.
+[158:01] [laughter]
+[158:02] So, so we're going to be able to say it
+[158:04] on both sides. I just believe God it
+[158:05] won't be too bad for us. But
+[158:07] >> yeah, and the world's on there too some.
+[158:08] So that's is good.
+[158:10] >> Yeah, I have a lot of world
+[158:12] >> on there. It reaches a world instead of
+[158:14] having it own separate.
+[158:15] >> It it's it's pretty rough on on over
+[158:18] there the comment section. But it is
+[158:20] what it is. I don't care. I have to just
+[158:22] move on, right? What has Jesus called
+[158:25] you to do? You're going to be persecuted
+[158:27] for the word's sake. And isn't it
+[158:30] wonderful to be persecuted for him?
+[158:33] Oh, he did so much for me. Isn't it
+[158:35] wonderful to be persecuted for Jesus?
+[158:40] Oh, it's so beautiful. Thank you for
+[158:44] your persecuting me. Thank you for being
+[158:47] rude to me. I'm persecuted for him. And
+[158:51] when I get on the other side, I want to
+[158:53] walk with him. You can have whatever you
+[158:56] want over here and question things and
+[158:58] be mean all the time. That's fine. But
+[159:00] I'm going to walk with him. I want to
+[159:03] walk with him.
+[159:05] I don't know where you'll be. It's not
+[159:06] my place to say,
+[159:09] but I can only judge me in my house.
+[159:13] So, we love you all. Do you have any
+[159:15] questions?
+[159:16] I answer too.
+[159:22] It's all right. It started late.
+[159:28] They be okay.
+[159:30] >> I don't have anything. I would get late.
+[159:31] I would go drink my tea and sit on the
+[159:33] couch and and and come underneath this.
+[159:36] >> Yeah, we talking about the blackouts.
+[159:38] >> The blackouts are serious.
+[159:41] It's just the beginning of them. I've
+[159:43] tried to warn about it over and over and
+[159:45] over again about the blackouts. I saw
+[159:47] some blackouts lasting for three weeks.
+[159:52] Three weeks they'll have no power for
+[159:54] some places.
+[159:58] A lot of them are asking, "Are you
+[159:59] thinking about doing New Year's Eve? Are
+[160:01] you doing prayer or something?"
+[160:03] >> Oh, for sure. I'll do prayer on New
+[160:05] Year's Eve.
+[160:07] Yep. I won't do it during the the uh the
+[160:10] the I'll do it earlier, but I'm not
+[160:13] going to do it at midnight here. I I I
+[160:16] always take that time to pray. I like to
+[160:19] be by myself and here,
+[160:22] but I will pray with you all ahead of
+[160:24] time and we can ring it in like before
+[160:26] before 9:00 somewhere around there. 7
+[160:27] o'clock. I'll come in early and we can
+[160:30] pray for a while. We'll pray over the
+[160:31] crowds for the protection over our
+[160:33] people. We need to pray for New uh New
+[160:37] England.
+[160:38] >> New York.
+[160:39] >> No.
+[160:40] >> Uh London.
+[160:42] I keep seeing. Isn't that right?
+[160:43] >> Yes.
+[160:44] >> London. Fisherville.
+[160:45] >> Yeah. This Ferris wheel. praying over
+[160:47] that now that France has canceled their
+[160:50] celebration and Germany canceled their
+[160:52] celebration. Hong Kong canceled their
+[160:55] celebration all due to terrorist
+[160:58] activity being concerned of mass
+[161:00] gatherings. That's kind of interesting.
+[161:02] So we'll pray for the pope
+[161:05] for Christmas Eve mass. That's very
+[161:07] serious. Christmas Eve mass,
+[161:10] huh? I five people, six people now.
+[161:13] Notifications on X. It's my phone's
+[161:16] dinging. Thank you for all six of you.
+[161:18] Welcome. [laughter]
+[161:21] It's neat. Six people. Is my phone's
+[161:23] going ding ding telling me you joined.
+[161:26] >> Oh, it was more than that. 100.
+[161:29] >> No, I'm talking [clears throat] about
+[161:30] six.
+[161:30] >> Oh. Oh,
+[161:31] >> on my phone. It tells me exactly when
+[161:33] they click in. So, whoever did it just
+[161:34] did it right now.
+[161:35] >> Maybe it was 800. It was 800 and went it
+[161:37] got six and it pushed over to N. That's
+[161:38] what happened.
+[161:39] >> That's sweet because my phone is going
+[161:40] ding ding. So, I see six notifications.
+[161:43] >> Yeah.
+[161:44] >> Right now. But um the Lord said to pray
+[161:47] over the pope
+[161:49] in the uh Christmas Eve mass for sure.
+[161:53] And it's okay. And this is what's
+[161:55] interesting. I did not have a vision
+[161:59] over uh of Eiffel Tower concerning New
+[162:02] Year's Eve, concerning a celebration. I
+[162:05] saw London, England and the Tower.
+[162:11] >> Huh?
+[162:11] >> I keep going. The London England and
+[162:13] tower.
+[162:13] >> Yes. So very serious uh concern in this
+[162:18] but more concerning um and people said
+[162:20] Brandon you saw something about Bourbon
+[162:23] Street in New Orleans last year and it
+[162:25] happened.
+[162:27] Yes, it was about the man with the black
+[162:30] flag driving his truck down there and
+[162:32] then opened fire and did all that. But
+[162:34] what's crazy is I see it again. Last
+[162:37] time I saw it when people were drunk and
+[162:39] they were all doing this and this time I
+[162:40] see it again. So the same kind of
+[162:43] people, ISIS people are do are going to
+[162:45] try to plan something again in New
+[162:46] Orleans. We must pray for New Orleans.
+[162:49] We must pray for Las Vegas. Last year it
+[162:53] happened in Las Vegas around Trump's
+[162:54] Tower and the and the Cyber Truck.
+[162:56] Remember
+[162:59] remember that right before
+[163:01] his inauguration?
+[163:04] And the other place was Tennessee.
+[163:07] Many people do they said Brandon what
+[163:09] about it was around the bars and I saw
+[163:11] Kors light signs and you know those neon
+[163:14] signs. I saw them on the and when people
+[163:16] were not sober on uh party town in uh um
+[163:24] Tennessee. The other part was Rodeo
+[163:29] uh New York praying over Time Square,
+[163:32] the flash of light and the things like
+[163:34] that. Praying over that. praying over
+[163:36] the safety. We know they keep saying
+[163:39] they're they're they're catching these
+[163:41] people and they're but I saw a thousand
+[163:44] men and women
+[163:48] that were uh plant here by the by uh
+[163:51] crossing the border illegally and that
+[163:53] are terrorists. A red dawn experience.
+[163:55] And I keep saying that over and over
+[163:56] again to keep praying over Australia,
+[163:58] over Canada, Toronto, praying over these
+[164:01] areas because they are people in these
+[164:03] cities that are not good.
+[164:05] I want to show you. Do you have that
+[164:07] clip from um from Alex
+[164:10] >> talking to Candace?
+[164:13] >> Oh, yes.
+[164:18] >> You can you can uh
+[164:20] >> Yeah, I know where it is. I think so.
+[164:23] Yeah.
+[164:26] I want to show you this because this is
+[164:29] what I saw and even he is alarmed by
+[164:33] this. And I want to show you what Alex
+[164:35] Jones said concerning this. This is very
+[164:38] serious.
+[164:42] It goes with what I saw in my vision.
+[164:46] [snorts]
+[164:48] >> Play and Q Alex Jones.
+[164:51] >> As most of you that pay attention know,
+[164:53] I am not the
+[164:54] >> police. I,
+[164:57] as most of you that pay attention know,
+~~~
+
+<a id="section-12"></a>
+## 12. 165:00–171:06 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[165:00] I am not the internet police. I don't
+[165:03] infight. I don't try to focus on what
+[165:06] other people are theoretizing about are
+[165:08] doing. I try to focus on what I'm doing.
+[165:10] And so, it's with a heavy heart that I
+[165:12] am forced to put out another report
+[165:15] either tonight or tomorrow morning.
+[165:17] We're adding a lot of information right
+[165:18] now, a lot of more research dealing with
+[165:20] Candace Owens.
+[165:22] Just as soon as the whole Egyptian plane
+[165:25] thing gets debunked with all the facts,
+[165:27] now she's moved to something else. And
+[165:28] I'm really worried about her. I'm
+[165:30] worried about her and her mind. And I'm
+[165:32] also worried about the country and where
+[165:33] this is going. It's good to question
+[165:35] Charlie Kirk's assassination. I have big
+[165:37] questions. We know catch covered up an
+[165:39] investigation to accomplish this. I
+[165:40] broke that. I'm up for it hit the
+[165:41] mainstream news. So I'm not saying don't
+[165:43] question. But her latest source and what
+[165:46] she's done implicating the US military
+[165:48] and all this other stuff is just so
+[165:50] damaging. When you go investigate it,
+[165:52] it's so crazy. And just like with the
+[165:54] Egyptian plane, she says she has the
+[165:56] metadata, then publish it. And when she
+[165:59] did publish it
+[166:01] and it got facteed, it wasn't accurate.
+[166:04] Candace, we care about you. But you just
+[166:07] doubled down again with something even
+[166:09] more absurd. And I hate watching you
+[166:11] destroy yourself like this.
+[166:14] We'll be covering it all with the report
+[166:16] that's coming out at rel on next on
+[166:18] Rumble and then force.com.
+[166:20] God bless you all.
+[166:23] >> That that was that was amazing. You
+[166:25] know, the Lord told us that he would
+[166:27] become a John the Baptist and the VO for
+[166:29] a voice for him that an attempt would
+[166:31] happen that it would not be successful
+[166:33] and he would be protected that he would
+[166:35] become a major voice piece in the last
+[166:37] days. But I I keep going back to that
+[166:40] word that the Lord gave us about Candace
+[166:42] and I keep praying for that lady that
+[166:45] God would put his hand on her and that
+[166:47] that he that she'd be spared and that he
+[166:50] said, "I have so much for her to do.
+[166:54] She has to stop this." And that was what
+[166:57] the Lord was saying. She must stop. We
+[166:58] must pray for her.
+[167:01] And it and the and conspiracy will not
+[167:04] be such a conspiracy. I saw that white
+[167:05] van
+[167:08] I saw an attempt. It was a rogue person
+[167:11] that was It was just a crazy person that
+[167:14] would did this. And it wasn't a shadow
+[167:16] government. It wasn't anything crazy. It
+[167:18] was just a rogue crazy fan.
+[167:22] And the Lord said, "You must pray for
+[167:23] her." It was a white band. And these are
+[167:27] the things that the Lord shows me. But I
+[167:28] think it's interesting now that Alex
+[167:30] Jones would even come out and say these
+[167:31] things. I just go, hm. You know,
+[167:38] um I pray for all these people so much
+[167:41] all the time. God has his hand on them.
+[167:43] There's so many people that are hurting.
+[167:47] So, I'll leave you with that. God bless
+[167:51] you all. We love you. Do you have any
+[167:52] questions? Good. Everything's good. All
+[167:54] hearts clear.
+[167:57] [laughter]
+[167:58] All hearts clear.
+[168:02] >> [laughter]
+[168:03] >> God bless you. Remember, we'll see you
+[168:06] tomorrow. I probably won't do a video
+[168:08] Tuesday or Wednesday, but I might I'll
+[168:11] pro I'm more than likely 99% sure I'll
+[168:14] do one for Christmas to celebrate Jesus
+[168:16] with you on his birthday. So, if anybody
+[168:18] wants to do a video with me on
+[168:20] Christmas, I'll be here. If you don't
+[168:22] want to come on with your family, that's
+[168:24] fine. I'll take communion by myself. But
+[168:28] I thought I but I I like to pray with
+[168:30] you on Christmas day for just give I'll
+[168:32] do I'll try to make it an hour. I know
+[168:34] you probably want to open presents and
+[168:35] be with your family and eat uh cake and
+[168:37] all that stuff or whatever you're going
+[168:38] to do. But I thought we'd celebrate
+[168:41] Jesus on Christmas day and just do
+[168:43] something, you know, something small.
+[168:45] Just tell you all hi. We love you. Thank
+[168:48] you for always being here with us for
+[168:50] Christmas. But I I want to see I'm
+[168:52] probably go see my mom on my dad on uh
+[168:54] on Christmas Eve. I I thought that'd be
+[168:57] something we might do. But uh you know
+[169:01] that's good.
+[169:02] >> They said they said that they said it
+[169:04] would be here.
+[169:05] >> You want to pray with me on Christmasy?
+[169:06] I I think I'll go to a candle light
+[169:08] service or something. I don't know.
+[169:10] >> Christmas day when you said the
+[169:11] Christmas day.
+[169:11] >> Well, I don't have a candle. We can do
+[169:13] some kind of candle. [laughter]
+[169:15] >> It's like a candle light service. I
+[169:17] don't know. I don't I don't I don't do
+[169:18] things religious. I got a bucket full of
+[169:20] communion and I got my Bible and I come
+[169:22] on here and talk to y'all. It's not a c.
+[169:24] I can get a candle. I don't know what is
+[169:26] a candle light service. We could do a
+[169:27] candle. You can turn the lights out and
+[169:30] I can hold it. They'll be thinking, "Is
+[169:31] he doing a seance? What's he doing up in
+[169:33] there?" [laughter]
+[169:37] >> No,
+[169:38] we're worshiping Jesus. [laughter]
+[169:42] People [clears throat]
+[169:44] Sorry.
+[169:45] We love you all. We really do. God bless
+[169:48] you. We'll see you again tomorrow. Put a
+[169:50] smile on your face and a song in your
+[169:52] heart. Jesus loves you so much and we
+[169:54] love you. God bless you all. Have a good
+[169:57] night. Bye bye.
+[169:58] >> Free free free. You saw free. You saw
+[170:00] >> Oh yeah,
+[170:01] >> it's live right now. It's live right
+[170:02] now.
+[170:02] >> Oh, it's still live.
+[170:03] >> Yeah, I got it. I forgot.
+[170:04] >> Yeah. 33. If you're still here, I don't
+[170:06] remember what that was. What did you
+[170:07] want me to say about it?
+[170:08] >> Remember you said you saw praying over
+[170:09] the judges? You're praying over judges.
+[170:11] >> Oh, praying over the judges. Yeah.
+[170:13] >> Oh, yeah.
+[170:14] >> Huh? Yeah, you can. Yeah.
+[170:16] >> Yeah. The judges. Praying over the
+[170:17] judges. Three. Three. And then he said
+[170:19] three years.
+[170:21] >> Mhm.
+[170:23] 2026, 2027, 2028. Three years I've given
+[170:27] you the number three. Three, three,
+[170:30] three. Brandon, pray over the judges.
+[170:32] It's very crucial. Huh?
+[170:34] >> Mhm.
+[170:35] >> I remember that. Good call. So now he
+[170:38] has this on record because he makes
+[170:40] shorts out of it. [laughter]
+[170:42] I have to get it on record because you
+[170:45] got to have documented that I said it
+[170:47] 33. So the 2026 rev up 2027 and then
+[170:51] 2028 very crucial years
+[170:55] starting this year. Is it good?
+[170:56] >> Yeah.
+[170:57] >> You got to Should I say anything else?
+[170:59] >> You got to have it for your shorts.
+[171:01] [laughter]
+[171:01] >> I've tried.
+[171:04] So anybody said why didn't he didn't say
+[171:06] that. It's there.
+~~~

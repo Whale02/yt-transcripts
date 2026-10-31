@@ -1,0 +1,1049 @@
+# What the Lord showed me shook me： There is something coming that the world has never seen before
+
+**视频**: https://www.youtube.com/watch?v=qe_E1Mh2PwE
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/What the Lord showed me shook me： There is something coming that the world has never seen before [qe_E1Mh2PwE].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 917；**章节数**: 11；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-01)
+- [02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-02)
+- [03. 08:00–11:59 · 教会、复兴与信仰、预言、梦境与异象](#section-03)
+- [04. 12:00–15:59 · 预言、梦境与异象、政党与政治人物](#section-04)
+- [05. 16:00–19:59 · 预言、梦境与异象、教会、复兴与信仰](#section-05)
+- [06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-06)
+- [07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-07)
+- [08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-08)
+- [09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
+- [10. 36:00–39:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-10)
+- [11. 40:00–41:36 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] Good morning, family. How are y'all
+[00:02] doing today? Well, I have some things on
+[00:04] my heart, but first off, let's give God
+[00:05] some praise. For the Lord is good and
+[00:09] his mercy endures forever. For the Lord,
+[00:13] he is good and his mercy endures
+[00:16] forever. For the Lord, he is good and
+[00:20] his mercy endures forever. Father, I
+[00:24] thank you that you endure forever and
+[00:27] your mercy is new every morning. Great
+[00:29] is your faithfulness to me, oh God.
+[00:31] Thank you, Father, for all that you're
+[00:33] going to do today. And I and I and I ask
+[00:36] you, Father, to anoint this broadcast,
+[00:38] this this video today and this YouTube
+[00:41] video. And I thank you, Father, that you
+[00:44] speak through my vocal cords and you
+[00:45] think through my mind. None of me and
+[00:47] all of you in the mighty name of Jesus.
+[00:50] I thank you, Father. You've I have an
+[00:52] urgency in my heart for what's coming
+[00:55] and to tell the people that Jesus is
+[00:58] coming.
+[00:59] Uh, okay. Well,
+[01:03] this is what I have for y'all today. I
+[01:06] had I was driving down the road and the
+[01:08] Lord just decided to speak. I mean, the
+[01:11] prophetic uh uncction just hit me hard
+[01:13] and and I and like I said, I do not
+[01:15] consider myself a prophet, but I but I
+[01:18] do when I pray, I see visions and the
+[01:20] Lord shows me things to come. I believe.
+[01:23] And um
+[01:27] he showed me Israel
+[01:29] and I saw
+[01:31] uh a major event about to take place in
+[01:34] Israel. I saw at this time people in the
+[01:39] streets with the the the prayer shaws
+[01:42] like what I have. They had these prayer
+[01:44] things and I had and they had Whoops, it
+[01:47] fell. Uh they had the Israeli flag and
+[01:50] they had it over their shoulders kind of
+[01:52] like what they do in an event, a
+[01:53] sporting event, but they had it like
+[01:55] this and it was draped around them and
+[01:57] they were celebrating in the streets
+[02:00] saying the deliver has come. The
+[02:02] deliverer has come and they were they
+[02:05] were the the women were dancing in the
+[02:07] streets and the men were dancing and
+[02:09] they were celebrating
+[02:11] some kind of victory. I do not know um
+[02:17] what this was if it was war or whatever.
+[02:19] I don't know. All I know is they were
+[02:22] celebrating something had happened in
+[02:24] the streets in Israel. And I saw rabbis.
+[02:28] I saw Orthodox Jews with their hats on
+[02:32] with curly hair like curls and they had
+[02:36] long beards and they were weeping
+[02:40] uh at this at this site at this
+[02:43] experience and they were rocking at the
+[02:45] whailing wall. I could see them praying
+[02:47] and they were weeping at the wailing
+[02:49] wall and I could see them throughout the
+[02:52] streets and they were and I saw I saw
+[02:54] them actually say we've been an error.
+[02:58] We have been an heir in some of our
+[03:00] teachings. They Holy Spirit had gotten a
+[03:03] hold of them and they were talking about
+[03:07] uh telling the people. I saw them
+[03:09] teaching and telling the people that
+[03:10] they had been in an error about some
+[03:12] things and they were going back and
+[03:14] correcting things that they had been
+[03:16] teaching that was in an air. And I saw a
+[03:19] glory explosion over the Jewish people.
+[03:23] Uh a mighty revival started to break out
+[03:28] in the streets in Jerusalem and all of
+[03:30] the other areas of of Israel. They were
+[03:33] breaking forth in a re it was a revival
+[03:36] of uh healings and demonstrations and
+[03:39] manifestations of the glory. And the
+[03:42] Lord said, "I'm going to become real to
+[03:45] this generation like I had been in the
+[03:49] past with the children of Israel when it
+[03:52] they were delivered out of the hand of
+[03:54] Egypt. I'm going to do another wave of
+[03:58] my presence of my glory over this
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:01] generation and they will see that I am
+[04:05] real and that I am their their Messiah
+[04:08] that I am I am I am God to them. And the
+[04:12] Lord showed me a great and mighty wave
+[04:17] of his presence um
+[04:20] over over all of the people. But they
+[04:23] were they were delivered from something.
+[04:25] And like I said, I do not know what this
+[04:27] was about, but they were dancing in the
+[04:29] streets. And I was like I I could see
+[04:32] the rabbis and I and it was the compat
+[04:35] the the tears that were flowing. There
+[04:37] was a heavy set man. And I and I don't
+[04:39] know who this man was, but he had uh
+[04:42] chubbier cheeks, heavier cheeks, and he
+[04:44] had a longer uh silvery peppered beard.
+[04:47] I could see like gray in his beard. And
+[04:50] he was a rabbi. And he had glasses on
+[04:53] and he was rocking and I just remember I
+[04:55] seen this these curls and I could I
+[04:57] could just see but I could see the
+[04:59] people and they were teaching but we
+[05:00] were airing our ways and they were knew
+[05:02] that they were corrected about some
+[05:03] things and I just thought it was
+[05:04] amazing. I you know in this visitation
+[05:06] and the Lord just told me that they that
+[05:08] he was going to become real and I don't
+[05:10] want to keep rehashing that but I'm just
+[05:11] going back over my mind remembering
+[05:13] everything I was shown. Um,
+[05:18] then the Lord showed me this. He said,
+[05:22] "Brandon,
+[05:25] I'm going to uncap
+[05:27] the wells of revival in America."
+[05:32] And he said to me, the great healing
+[05:34] revivals that took place in the 1930s
+[05:38] and 40s, you know, the tent revival back
+[05:41] whenever a Allen, Jack King Cole, um
+[05:45] William Brandon, uh Smith, uh not I mean
+[05:48] not uh Kenneth Hagen, um you know, John
+[05:53] G. Lake, that era of ministers. He told
+[05:56] me Amy Simple McFerson, you know, go on
+[05:59] and go on. He said those wells were
+[06:02] capped. People have wondered where has
+[06:04] that gone? They were capped. I looked up
+[06:07] what the what the word uh capped mean.
+[06:09] What does it mean to cap a well? And the
+[06:12] wells that are no longer being used but
+[06:15] might be needed in the future can be
+[06:18] sealed with a cap that covers the top of
+[06:22] the well casing pipe to prevent
+[06:25] unauthorized access and contamination of
+[06:29] the well. A cap is a temporary
+[06:32] groundwater protection solution that
+[06:35] allows a well to be used at a later
+[06:38] time. He he brought up the scripture
+[06:42] Genesis uh 26:18
+[06:45] and he was bringing he was talking about
+[06:47] Isaac bringing forth the old wells that
+[06:49] as a Abraham had dug that the
+[06:52] Philistines put the dirt on him and
+[06:53] filled them up with the uh the the wells
+[06:56] full of dirt and cap those wells off you
+[06:59] know but they but the Lord was showing
+[07:01] me that he's going to dig th he's
+[07:04] uncapping those wells of revival
+[07:09] He's uncapping those wells of all those
+[07:12] deep wells. And I was driving by Tulsa
+[07:16] uh OU and I saw the glory of
+[07:23] I saw the glory. I start crying again. I
+[07:30] saw the glory over the babysitter and I
+[07:34] saw the glory of the Lord over there
+[07:36] again.
+[07:43] and those old wells of revival from or
+[07:46] Roberts and and and the greats that
+[07:49] walked this land before and have went
+[07:51] home to be with the Lord. He said, "I'm
+[07:53] going to do it one more time and I'm
+[07:56] bringing forth a great revival again,
+[07:58] son." And those old wells that have been
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 教会、复兴与信仰、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:01] capped for protection because the season
+[08:04] was over for that. He said, "I'm
+[08:06] bringing forth those great wells again,
+[08:09] and they're going to I'm going to use
+[08:10] you, and I'm going to use these people
+[08:17] for great healings and demonstrations
+[08:19] and manifestations of my glory will be
+[08:22] seen again. And I'm going to touch this
+[08:25] generation one more time." I told you,
+[08:29] he said, "There's one more call. One
+[08:32] last call." And I've asked him because
+[08:35] people were arguing with me and saying,
+[08:36] "Oh, there's no great revival. That's
+[08:38] not in the Bible in the last days."
+[08:41] Well, I was out there and I said, 'Lord,
+[08:44] what do you say to this? And he said,
+[08:46] Brandon, who's in control of time?
+[08:50] I said, he said, I am. Was you there
+[08:54] when I threw the stars into space?
+[08:57] Was you there when I created the heavens
+[09:00] and the earth? Was you there? And he was
+[09:03] referring to Job whenever he was talking
+[09:05] to Job.
+[09:09] He said, "Brandon,
+[09:12] my heart is the harvest.
+[09:16] My heart is the harvest.
+[09:20] One last call, son. I'm calling in the
+[09:23] sheep from the back of the fold.
+[09:26] One last call. I'm calling them forth to
+[09:28] come home, giving them an opportunity."
+[09:32] And in this, I'm going to uncap those
+[09:35] great wells of revival.
+[09:38] And I saw at this time a vision of tents
+[09:42] full of people again. I saw tents and
+[09:46] brush harbor churches again. He showed
+[09:49] me revival of fire of what Isuzu Street
+[09:54] had.
+[09:56] I'm so hungry for this.
+[10:00] the glorious church in Collinsville,
+[10:03] Oklahoma.
+[10:04] He's gonna use this place.
+[10:31] He's going to use Branson, Missouri.
+[10:32] He's going to use these places. And he's
+[10:34] told me, he said, "Those that are hungry
+[10:36] and thirsty after righteousness, they
+[10:38] will be filled with my glory."
+[10:41] He said, "I want you to to go back and I
+[10:45] want you to I want to speak to you about
+[10:48] Roashana to Roashana." This time, he
+[10:52] said, "This is the beginning of the
+[10:55] glory. This is the beginning of what you
+[10:58] have waited for for so long.
+[11:02] You will and he and then he talked about
+[11:04] a great harvest of souls coming from
+[11:07] Roash Shana to Roash Shana. You will see
+[11:11] first the blade, then the ear, and then
+[11:13] the corn. Concerning this, for the
+[11:16] greater harvest of the glory that you
+[11:18] have wanted for so long will come. First
+[11:22] the blade, then the ear, and then the
+[11:25] full corn. You will see it. You will see
+[11:28] it. You will see it. He said this.
+[11:32] And he said, "This is a time of
+[11:34] refreshing, a time of surrender, a time
+[11:38] of rest, a time of healing, a period to
+[11:42] fully let go and prepare for the new
+[11:45] cycle ahead."
+[11:47] This is what he said out of fear. This
+[11:52] is what he talked about the Democratic
+[11:53] Party in the in the evil over the United
+[11:55] States of America. There will be an
+[11:58] event that will shake the USA.
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:59 · 预言、梦境与异象、政党与政治人物
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、政党与政治人物。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:02] There will be an event that will shake
+[12:05] the USA out of fear to control. They
+[12:08] will lose control is what the Lord said.
+[12:12] He said the seeds
+[12:14] he said for the seed time and harvest
+[12:17] will will have come to its fullest.
+[12:22] You will see this happen.
+[12:24] Seed time and harvest will come to its
+[12:27] fullest in the day in in these days
+[12:30] ahead. You will see this. the seeds they
+[12:33] have sowed in the past will come to
+[12:36] harvest finally at last
+[12:39] to the to and then then he started
+[12:41] talking to me about a great humbling a
+[12:44] great humbling will come an uprising
+[12:48] there will be weeping and ve and they
+[12:50] will be very sad and people will say
+[12:53] what did we do I and you will see it and
+[12:57] you will see it they will be an exposing
+[13:00] of darkness
+[13:02] there will be an exposing of great
+[13:04] darkness
+[13:06] in the Democratic party. And when this
+[13:09] happens, the very snake they thought
+[13:12] they controlled will turn on them. And I
+[13:16] saw that big python that I told you all
+[13:19] about in the past latching l uh coming
+[13:23] at their faces,
+[13:25] lashing out, striking, striking,
+[13:27] striking. They It was striking them,
+[13:29] striking them, striking them. And it was
+[13:31] it was coming. I saw an exposing. I saw
+[13:34] embarrassing moments coming from Camela
+[13:37] Harris. I saw things that were done in
+[13:40] the past that she thought she had buried
+[13:43] and were no longer a problem
+[13:46] resurfacing out of things that she has
+[13:49] done. several incidences from from from
+[13:54] things that were dirty, things that were
+[13:57] was very embarrassing to the point where
+[14:00] I heard her saying out of her mouth, I
+[14:03] should have never ran. I should have
+[14:05] never put my foot in this because it was
+[14:07] things that were very humiliating.
+[14:10] Humiliating was coming. I saw a very
+[14:14] humil humiliating things coming. things
+[14:18] that was not one to be and people leaked
+[14:20] it. And I'm talking there's there's
+[14:22] corruption in the Republican side and
+[14:24] the Democratic side. People think, well,
+[14:26] the Republicans are uh sanctimonious
+[14:28] folks. There's corruption on the Dem
+[14:31] Democrats and corruption on the
+[14:33] Republicans and there's going to be
+[14:35] exposings of things exposing. And I saw
+[14:39] people that I saw women. I saw different
+[14:42] uh ethnic ethnic groups that had
+[14:46] blinders on their eyes. And when these
+[14:50] things start to manifest, the blinders
+[14:53] will fall off their eyes. And I saw them
+[14:56] becoming uh enlightened. It was similar
+[15:00] to like whenever you see somebody that's
+[15:02] bewitched that they have a spell over
+[15:05] them and they don't even realize it.
+[15:07] They have a demonic band wrapped around
+[15:10] their mind that they are they are being
+[15:13] underneath a spell. And I saw a breaking
+[15:17] of this and them being set free with I
+[15:20] saw their minds becoming enlightened.
+[15:24] And when this happens, they were furious
+[15:28] because the eyes of their understanding
+[15:30] were enlightened. Ephesians 1:18. And
+[15:34] when this happens, there will be people
+[15:36] want to like have lynch moms rioting,
+[15:39] pillaging. We are upset about how we
+[15:42] were lied to because they darkness they
+[15:45] tried to deceive everyone will come out
+[15:48] into the open for what's about to come
+[15:51] and they will not be able to hide back
+[15:53] from the things that they have sown.
+[15:56] There was an exposing, an exposing in
+[15:59] the financial realm, an exposing in the
+~~~
+
+<a id="section-05"></a>
+## 05. 16:00–19:59 · 预言、梦境与异象、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[16:01] natural realm. You'll see this. You'll
+[16:03] see it. You'll see it. Watch this. I saw
+[16:06] Jerome Pal again and I saw him taking
+[16:10] like Jenga pieces. I saw a Jenga tower,
+[16:13] a great Jenga tower. And I saw him
+[16:15] pulling from the middle of the Jenga
+[16:19] tower.
+[16:21] And he was watching as he pull, you
+[16:23] know, as you push the little piece, he
+[16:24] was watching us pull a little piece and
+[16:26] he would see if it would fall. And and
+[16:28] so all of a sudden I saw in the vision
+[16:31] going straight to the middle of the
+[16:33] Jenga tower and all the tower was fully
+[16:36] built up here, but in the middle there
+[16:38] was no foundation. It was only on one
+[16:42] block and that block fell and all of it
+[16:45] crumbled before them. Okay, it was
+[16:48] awful. And everybody was panicking and I
+[16:50] saw Wall Street and I saw all the day
+[16:53] traders panicking in Wall Street and
+[16:56] they were selling and selling and people
+[16:57] were it was like it was it was chaos in
+[17:00] Wall Street. Everybody just freaking
+[17:03] out. I could see them freaking out and I
+[17:05] could see the storm in over New York and
+[17:08] the Lord showed me great darkness. But
+[17:11] then he said to me, "Everything will
+[17:14] change in a 24-hour period. Everything
+[17:19] will change in a 24-hour period. It will
+[17:22] be just like that. Similar to how 911
+[17:26] took place.
+[17:28] It will be a lot like what happened with
+[17:31] 911. I saw a change of things happening
+[17:34] in a 24-hour period. And everything that
+[17:38] was would be no more.
+[17:41] A change that happens that fast.
+[17:44] I don't know when this takes place, but
+[17:47] I know that when it does, it will change
+[17:51] everything within a within a 24-hour
+[17:53] period. I saw the wealth of the sinner
+[17:56] laid up for the righteous. I saw a great
+[18:00] supernatural harvest of of of finances
+[18:03] to the wealth of the from the sinner
+[18:06] laid up to the righteous. that when this
+[18:08] takes place, it will be similar to the
+[18:11] children of Israel leaving Israel and
+[18:15] getting the wealth from the Egyptians.
+[18:17] That this will be a type and shadow what
+[18:20] God is going to do in this generation
+[18:23] before he takes us out with the rapture
+[18:25] of the church. That we will have the
+[18:27] wealth of the sinner laid up for the
+[18:29] righteous. And the Lord said it will be
+[18:31] a type and shadow of this event
+[18:34] that God said I will provide for my
+[18:37] beloved. And that's what I was talking
+[18:39] about before that I saw the major
+[18:41] churches major churches that are in
+[18:44] compromise. I'm telling you if you are
+[18:47] out and writing worship music to try to
+[18:50] get a dove award or try to get clout for
+[18:53] finances concerning uh the glory
+[18:56] outpouring, trying to write something
+[18:59] out of it. Preaching the gospel on a
+[19:01] YouTube channel, always asking for money
+[19:04] because you're touching God's anointing,
+[19:06] you're in trouble because I'm telling
+[19:08] you, you will wake up and your channel
+[19:10] will be gone that fast because God said,
+[19:13] "Touch not my anointed stuff." Watch
+[19:16] what happens. Watch what happens to you.
+[19:18] I don't care about if you're trying to
+[19:20] sell a book and you're trying to But if
+[19:23] that's your whole mission is to write a
+[19:25] book to make profit off of the body of
+[19:27] Christ, you're in trouble. you're in
+[19:29] trouble. Woe unto you. Because if you're
+[19:31] writing a book to help the people, I get
+[19:34] it. You're trying to help the body of
+[19:35] Christ and there's there's costs with
+[19:37] it. But if you're writing a book or
+[19:39] writing a song for worship just to get
+[19:42] material gain off of it, woe unto you.
+[19:45] I'm telling you, he told me, he said,
+[19:47] Brandon, never go on the platform and
+[19:50] ever ask for a dime from my people. Not
+[19:54] one time. And if you make a video trying
+[19:56] to make profit, he said, "Brandon, that
+[19:58] will it I'll the channel will be no
+~~~
+
+<a id="section-06"></a>
+## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:00] more." He said, "I'll take the anointing
+[20:02] off your channel and it'll be it'll be
+[20:04] done." And you want to know why your
+[20:06] channels aren't growing, you want to
+[20:07] know why your why your your your
+[20:09] ministries aren't growing to its fullest
+[20:11] is because you're trying to profit off
+[20:13] of God's people. And God says there's
+[20:15] there's coming an end to that. You're
+[20:17] not going to do that. He will if you
+[20:20] feed the sheep. God said he would feed
+[20:22] you. But if your heart is just to make
+[20:25] money off of God's people and try to
+[20:27] have a book deal or a Grammy deal or an
+[20:30] Oscar deal or whatever you're trying to
+[20:32] do and your motive is to make profit off
+[20:34] of his people, woe unto you, those days
+[20:37] and those seasons are done. And I'm
+[20:40] telling you, God's drawing a line in the
+[20:42] sand, and you'll see the the the wolves
+[20:44] among the sheep, and you're going to be
+[20:46] able to see the ones that are called to
+[20:48] God because the light's going to get
+[20:50] brighter, and the light's going to get
+[20:51] brighter and brighter, and the darkness
+[20:53] is going to get darker. And you're going
+[20:55] to see the ones that are false, and the
+[20:57] ones that are right because the
+[20:58] righteous are going to rise up with the
+[21:00] glory of the Lord, and the
+[21:02] manifestations of his presence beyond
+[21:04] anything you've ever seen before. And
+[21:06] you're going to look at the ones that
+[21:07] have been on Dayar and the ones that
+[21:09] have been on these other channels and
+[21:11] you're going to go, "Who are they? Who
+[21:14] what happened to them?" And you're going
+[21:15] to say, "What happened to their
+[21:16] ministry?" Because it's all going to
+[21:18] fall before it because they are all s
+[21:20] seeking after material gain and their
+[21:23] own popularity and their own position
+[21:26] trying to uplift themselves because they
+[21:28] wanted man's appraise praise and and
+[21:31] approval. But God's calling forth the
+[21:33] people that are like David's that will
+[21:35] go in and cut the head off the giant and
+[21:38] don't need any praise because we're
+[21:39] always looking to give him the praise.
+[21:41] We have this treasure in earth and
+[21:43] vessel that the excellency of the power
+[21:45] will be known to him and not of us. And
+[21:47] if you have the attitude that you have
+[21:49] to be exalted in these last days, you
+[21:52] are missing it. You're going to be left.
+[21:55] And I'm telling you, woe unto you that
+[21:58] have that kind of an attitude because he
+[22:01] will not have his glory shared, ladies
+[22:04] and gentlemen. It's about giving God
+[22:07] glory in these last days. That's what he
+[22:09] told me. He said, "Brandon, always stay
+[22:11] small in your own eyes.
+[22:14] Never look for man's praise because just
+[22:16] like they praised me going in saying
+[22:19] glory to him in the highest and they
+[22:21] were doing the palm branches and doing
+[22:22] all the things that they were doing.
+[22:24] They turned on me the next week and said
+[22:27] crucify him. Crucify him. Man's opinion
+[22:31] will change like the weather, ladies and
+[22:34] gentlemen.
+[22:35] Because we're all just
+[22:38] we're we're messed up without Jesus.
+[22:41] We're messed up without Jesus. I'm not
+[22:43] here for your praise. I'm not here for
+[22:45] the comment section to give me a big
+[22:47] hit. I'm here to to say, "Well done, thy
+[22:50] good and faithful servant." When I enter
+[22:52] and enter into my race, when I get on
+[22:54] the other side, my job is to tell you
+[22:57] Jesus Christ is coming and he's coming
+[22:59] soon. My job is to tell you, you better
+[23:02] repent because Jesus is coming and there
+[23:05] will be one last call and Jesus is
+[23:08] coming for his bride.
+[23:11] Are you ready today? Is your heart ready
+[23:14] before him? Do you understand that it's
+[23:18] not about record deals and dove awards?
+[23:21] That the the anointed songs of the past
+[23:25] were anointed because they had a heart
+[23:27] just for him. They didn't care about
+[23:30] becoming a uh a uh what is it whenever
+[23:33] you becoming viral?
+[23:36] Who cares about being viral?
+[23:38] My video went viral. I don't care. I
+[23:41] hide in a hole. I don't care. They want
+[23:43] to say, "Well, you got 160 million hits
+[23:46] and all this." Who cares?
+[23:48] Most of them were persecuting you
+[23:50] anyway.
+[23:52] But he said, "More they persecute you,
+[23:54] the more I will increase the anointing
+[23:56] on your life
+[23:58] because they if they loved you, Brandon,
+~~~
+
+<a id="section-07"></a>
+## 07. 24:00–27:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[24:01] then then you ain't of me. But if they
+[24:04] hate you, they hated me.
+[24:08] They hated me, son. So, they're going to
+[24:10] hate you.
+[24:13] How much more do I want his praise than
+[24:16] anybody else's?
+[24:19] If they hated Jesus,
+[24:22] they're going to hate you. But if they
+[24:23] love you, you better watch yourself
+[24:26] because I want to be like Jesus. I want
+[24:29] to be like him. My goal every day is to
+[24:33] wake up and say, "Jesus, I want to be
+[24:36] more like you. I want to be more like
+[24:38] you, less and less of this world, and
+[24:42] more like Jesus."
+[24:44] If you have that heart, you're on the
+[24:46] right road.
+[24:48] But they're going to hate you, and
+[24:49] they're going to persecute you just like
+[24:51] they persecute me just like they try
+[24:54] every day to persecute me. They run me
+[24:56] down. They They're evil people. But I I
+[24:59] say, God, thank you for the opportunity
+[25:02] to be persecuted for your name's sake.
+[25:05] Per,
+[25:08] thank you for the opportunity to be
+[25:10] persecuted for your name's sake. If
+[25:13] that's the least I could go through for
+[25:15] you, if that's the least I could go
+[25:17] through for you is for them to make fun
+[25:20] of me. It was all for your glory. It was
+[25:23] all for your glory. that when I get on
+[25:26] the other side, it's well done, thy good
+[25:29] and faithful servant. Enter into my
+[25:31] rest. People have no idea the
+[25:36] persecution.
+[25:38] The do the nights I have had here are
+[25:40] just sitting there weeping saying, "God,
+[25:41] the pressure is so intense." But he
+[25:44] comes and loves on loves on me. And I
+[25:47] want to sit at his feet. And I want to
+[25:49] bask in his presence. And I want to sit
+[25:52] there and go, "Oh." Because when his
+[25:55] glory when his praises when my praises
+[25:57] go up, his blessings come down.
+[26:06] I was
+[26:10] I'm taken back
+[26:13] by his love for me. I'm taken back at
+[26:17] the visitations that I've had with him
+[26:19] even lately
+[26:21] to warn you all about what's coming.
+[26:26] A great shaking of America is coming to
+[26:29] awaken. And in this shaking, he said,
+[26:33] "Never quote dates anymore." And I want
+[26:35] you to be very, very, very, very
+[26:39] slow slow to speak and quick to pray.
+[26:43] Spend more time praying and less time
+[26:46] speaking on this channel. It should be a
+[26:49] place of an oasis for people to be
+[26:52] refreshed for what's coming.
+[26:55] They have got to learn how to drink and
+[26:58] hear me for themselves.
+[27:01] It is not about the prophetic anymore
+[27:04] concerning this about saying, "Well, I
+[27:07] got to tell you. I got to tell you. I
+[27:08] got to tell you. I I want you to learn
+[27:10] how to drink yourself. You need to learn
+[27:13] how to hear yourself
+[27:16] for there may not be a YouTube soon.
+[27:19] There may not be an internet soon.
+[27:22] in that what would you do
+[27:27] if all the prophetic voices were silent
+[27:29] on YouTube? What would you do? Would you
+[27:32] be lost? Or would you know how to
+[27:35] cultivate it for yourself and get into
+[27:37] those rivers and hear him for you?
+[27:40] Because in that all the voices will be
+[27:43] quiet and all you have is him and you.
+[27:48] That's where you need to be.
+[27:50] who cares? It's about you and him.
+[27:55] I told him, he said, Brandon, he goes,
+[27:57] "You don't need to tell them anymore
+[27:58] about uh the financial crash, when,
+~~~
+
+<a id="section-08"></a>
+## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[28:01] where, how." He said, "The crash is
+[28:04] coming for the people and the things to
+[28:07] shake them, to awaken them because
+[28:09] they're not hearing me in the first
+[28:11] place. It's not so you can prepare them
+[28:14] so they'll go buy their goods and all
+[28:16] their stuff. It's so that they hear me
+[28:19] for what's coming for themsel.
+[28:22] Their ears are closed to me. They've not
+[28:25] known how to to get into my word and
+[28:28] flow in the gifts of the spirit by
+[28:30] praying in the spirit because they're
+[28:32] dry.
+[28:34] You are helping them to stay dry.
+[28:37] Tell them to fan their flame so they can
+[28:40] find it for themsel.
+[28:43] If you teach them to fish instead of
+[28:45] giving them fish, they'll starve if they
+[28:47] if they just if you keep giving them the
+[28:49] fish. But if I teach you to fish, you'll
+[28:51] learn how to you'll learn how to feed
+[28:53] your whole family.
+[28:56] The problem is is that you do not know
+[28:58] how to do it yourself.
+[29:01] And you have got to learn how to hear
+[29:03] him for what's coming.
+[29:07] Get yourself right before the father.
+[29:10] Take communion daily. how it's not hard.
+[29:14] This is you get your juice and your your
+[29:16] your bread and you go before him just
+[29:19] like you do at church and say the exact
+[29:21] same thing. Father, I this is your body.
+[29:23] This is your blood. You you don't have
+[29:25] to make it all. He is so He wants it to
+[29:27] be just like what a child would do
+[29:29] before him. We don't have to be all
+[29:31] hyper super religious. God does not like
+[29:35] you know he said he hates
+[29:36] self-righteousness.
+[29:38] hates it and he hates religion the way
+[29:40] everybody else these and thou the
+[29:42] Pharisees. We've got to go back to just
+[29:45] being like a child. Be simple. Be
+[29:48] simple. Our relationship with the Lord
+[29:51] should be simple. It shouldn't be all so
+[29:54] uh complicated. It's not algebra.
+[29:58] It's subtraction and and addition.
+[30:01] Simple math. Does that make sense?
+[30:04] simple math, not algebra or calculus or
+[30:07] whatever. It's easy. His his it we've
+[30:12] made it so hard, but God said, "Come to
+[30:15] me like a child." How does a child go? I
+[30:17] want to crawl up in your lap, daddy. How
+[30:19] you doing today? I want I want to tug on
+[30:22] your garment, Dad. Hey, can I have an
+[30:23] ice cream?
+[30:25] Can I have a cookie? Hey, Daddy. I want
+[30:27] to I want to tell you I love you. Well,
+[30:29] you have a little 5-year-old. I want to
+[30:31] tell you I love you, Dad. They're
+[30:33] They're just begging for your time and
+[30:35] attention.
+[30:36] Can you play cars with me? Can you play
+[30:39] cards with me? Can you Can you play
+[30:40] dollies with me?
+[30:43] They're never out trying to make things
+[30:45] real things real complicated. A child's
+[30:47] just simple. Can you just play blocks
+[30:50] with me? I I just I want some time. I
+[30:51] want I just want to I want to sit in
+[30:53] your lap and love on you. I love you,
+[30:56] daddy. Love you, Mommy. Can I Can I
+[30:59] sleep by you tonight?
+[31:02] Can I have a drink? I'm thirsty. I'm
+[31:04] hungry.
+[31:06] We we we we make things so hard. But if
+[31:09] we come to him like a child, hey Dad, I
+[31:13] just want to tell you I love you. How's
+[31:15] your day going?
+[31:22] It's in the simple things.
+[31:29] laying your head upon his chest so that
+[31:32] you can hear him breathe. That's what I
+[31:34] love when about my my toddler. You put
+[31:36] them on the chest and they just listen
+[31:38] to you breathe and they get so relaxed
+[31:41] by that breath that they fall asleep in
+[31:43] your arms because you bring comfort to
+[31:46] them. That's what he wants to do to you
+[31:48] today. He wants to bring comfort to you.
+[31:51] There's many of you all that are so wore
+[31:53] out,
+[31:55] so hurting, so dry, so thirsty that they
+~~~
+
+<a id="section-09"></a>
+## 09. 32:00–35:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[32:00] cannot you cannot
+[32:03] you're like, how can I make it another
+[32:04] day
+[32:06] because you're so worn out with or the
+[32:09] world, he says, "My yoke is easy and my
+[32:12] burden is light. Come unto me all you
+[32:15] that are heav he heavy laden and I will
+[32:18] give you rest."
+[32:20] He wants to bring you rest.
+[32:25] He's not trying to make things so
+[32:27] complicated. He just wants to be that
+[32:30] daddy that's he's just been there the
+[32:32] whole time. But you're in you you're the
+[32:34] weward child. A lot of you and you're
+[32:36] you're out in left field thinking you
+[32:39] can't run home. But he's killed the
+[32:41] fatted calf and he has his arms wide
+[32:43] open waiting for you. He's never turned
+[32:46] his back on you. One time you turned
+[32:48] your back on him. You made it hard. He
+[32:51] didn't. He's still that loving father
+[32:53] with his arms wide open waiting for you.
+[32:57] Sitting there saying, "Are they going to
+[32:59] come home soon? One last call.
+[33:04] The ark's getting ready to close. For as
+[33:07] in the day of Noah, so will it be when
+[33:10] the Son of Man returns. One last call.
+[33:13] Are you going to get on the ship?
+[33:16] One last call. Are you going to get on
+[33:18] the boat today? He's calling you. Are
+[33:22] you going to come home?
+[33:24] His arms are wide open waiting for you
+[33:26] today. He's not He's not mean. He's not
+[33:29] mad at you. He wants to hold you and
+[33:33] embrace you and tell you he loves you
+[33:36] and whisper in your ear, "I love you. I
+[33:39] miss you."
+[33:44] I hope this video blessed you today. it
+[33:47] uh it's the
+[33:51] he said son
+[33:54] in what's about to happen my heart is
+[33:56] the harvest
+[33:58] my heart is the harvest
+[34:01] my heart is the is the people and if you
+[34:04] don't think
+[34:07] God wants one last call and there's no
+[34:10] revival or no push then you don't know
+[34:12] him because his heart is souls his heart
+[34:17] is the people. And if you don't think
+[34:19] that, well, no, there's a great falling
+[34:21] away. I never said that there wouldn't
+[34:23] be. But his heart is still the ones in
+[34:26] the back of the fold. He controls time.
+[34:30] He controls it. And if he sees that
+[34:33] you're so close, even watching this
+[34:36] video right now, to give it all out and
+[34:38] to be sold out for Jesus, that's why he
+[34:41] didn't come back today. That's why he
+[34:42] might not come back tomorrow. Because
+[34:44] I'm telling you, there's people that are
+[34:46] praying for you. Your grandmas, your
+[34:49] granny's, whoever, your mom, your dad.
+[34:51] You may be watching and saying, "Man,
+[34:53] I'm wayward. I'm a teenager. I've been f
+[34:55] I've backsliden. I'm I've not been to
+[34:57] church in forever." But you caught you
+[34:59] so happened to just click on this video
+[35:02] and you're watching it right now.
+[35:05] Somebody's praying for you.
+[35:08] There's a song says, "Somebody's
+[35:09] praying.
+[35:11] I can't feel it.
+[35:15] Somebody's praying for me.
+[35:19] There are little hands that are guiding
+[35:22] me. They're protecting me when I can't
+[35:25] see.
+[35:27] Lord, I believe.
+[35:34] Somebody's praying for me. Somebody's
+[35:39] praying for you.
+[35:41] Somebody's praying for you. I believe it
+[35:43] with all my heart and I believe that
+[35:46] today is your day of salvation.
+[35:52] Don't keep waiting for tomorrow. Oh,
+[35:55] I'll give it tomorrow. You may not have
+[35:58] tomorrow. You may die in your sleep
+~~~
+
+<a id="section-10"></a>
+## 10. 36:00–39:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[36:00] tonight. And the Lord told me, I was
+[36:03] sitting outside. He said, "Do you have a
+[36:05] comprehension of eternity, Brandon?"
+[36:08] I said, "I think I do." He said, 'I want
+[36:12] you to count all those stars in the sky
+[36:15] that would represent a year,
+[36:18] and you'll never
+[36:20] you'll never count all of them for
+[36:24] eternities longer than even all the
+[36:26] stars in the in the heavens.
+[36:30] If you were to count all the grains of
+[36:32] sand
+[36:34] in
+[36:36] the beach,
+[36:38] eternity is more than whatever those
+[36:39] grains of sand is.
+[36:42] Eternity is forever.
+[36:45] You can either be in a devil's hell
+[36:46] forever and etern with eternity or you
+[36:49] can have eternity with Jesus Christ.
+[36:51] It's your choice. But today is your day
+[36:54] to make a choice. You can either spend
+[36:57] eternity in hell or you can spend
+[36:59] eternity in heaven. But it's your
+[37:02] choice. He didn't send you there. You
+[37:03] choose it. But I say today, if you were
+[37:07] to die in your sleep tonight, where
+[37:11] would you spend eternity forever and
+[37:14] ever? Ladies and gentlemen, we have no
+[37:17] comprehension of that because we don't
+[37:19] even know how to count all the stars
+[37:20] just in our galaxy
+[37:23] in the Milky Way. There's billions of
+[37:27] them, if not trillions.
+[37:31] I'm trying to tell you all and try to
+[37:33] give you a glimpse of just a little bit
+[37:35] of something here that Jesus Christ died
+[37:38] for you on that cross so that you don't
+[37:40] have to spend eternity in hell. Hell was
+[37:42] made for Satan and his demons. It wasn't
+[37:44] made for you. So, would you accept Jesus
+[37:48] Christ as your Lord and Savior?
+[37:52] It's very easy to do.
+[37:55] Say this simple prayer with me. Bow your
+[37:57] head and just mean it with all your
+[37:59] heart. It doesn't have to be religious.
+[38:00] It could be just be something simple.
+[38:02] Say it with me right now. Jesus, I'm a
+[38:06] sinner. I ask you to come into my heart.
+[38:10] I believe you are the son of God.
+[38:13] Write my name in the Lamb's book of
+[38:16] life.
+[38:18] I've been a sinner. I've messed up. I've
+[38:21] done a lot of bad things. But Father,
+[38:24] you said that if I confess my sins, you
+[38:28] are faithful and just to forgive me of
+[38:30] my sins and cleanse me from all
+[38:32] unrighteousness. So I confess what I've
+[38:35] done. I've done this, this, this. You
+[38:37] You just name it. I've done it all. I' I
+[38:39] I've come short of the glory.
+[38:42] But Jesus, you paid the price for me.
+[38:46] And I accept you as my Lord and Savior.
+[38:49] That's it. I accept you. And I know what
+[38:52] you did. You died for me and you rose
+[38:54] again on the third day. I believe it. I
+[38:57] believe it.
+[39:00] I believe you say you saved me by grace
+[39:02] today.
+[39:04] Simple.
+[39:06] Write my name. Just write it down. It's
+[39:07] He's writing it down right now. He's
+[39:09] writing John. Whatever. He's writing it
+[39:12] down. That book writing it down in that
+[39:14] book. The angels up there and they're
+[39:15] rejoicing.
+[39:18] Just forgive me. Just forgive me right
+[39:19] now. I just ask you to forgive me. I'm
+[39:21] coming home. That's it. Now, get in a
+[39:24] bibleelving church that believes in the
+[39:27] baptism of the Holy Spirit, reads the
+[39:30] Bible, teaches you how to stand and live
+[39:31] by faith, and go and volunteer and be a
+[39:34] part of that church. Go on Sunday, go on
+[39:36] Wednesday, go to Bible study, go
+[39:38] whatever you got to do, getting plugged
+[39:40] in and get your lamp full of oil.
+[39:43] I believe with all my heart today you
+[39:45] were saved. And if you got saved today
+[39:47] watching this broadcast and watching,
+[39:49] let us know in the comment section. We
+[39:51] want to rejoice with you. We're excited
+[39:53] that you came home. We're excited that
+[39:55] you're no longer going to hell and that
+[39:57] you're coming to heaven with me. What?
+[39:58] Maybe we'll be neighbors in heaven. Who
+~~~
+
+<a id="section-11"></a>
+## 11. 40:00–41:36 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[40:00] knows? I believe it. The Bible says that
+[40:03] he's making us a mansion and he has a
+[40:05] place that's for uh that's a beautiful
+[40:08] home, a beautiful place up there for us.
+[40:11] Every single one of us has one. Well,
+[40:12] his kids are going to have a place up
+[40:14] there for him with him.
+[40:18] I just want to encourage you all today
+[40:21] to be blessed. I hope this this blessed
+[40:23] you. Well, I hope you could subscribe if
+[40:26] you haven't subscribed. It blesses us to
+[40:29] get the gospel out. Like the video,
+[40:31] please. And and and click the
+[40:33] notification bell. It really blesses us.
+[40:35] I'm telling you, it gets the gospel
+[40:37] spread throughout the whole world.
+[40:38] That's how YouTube works. It helps with
+[40:40] the algorithm. It's just about it.
+[40:42] That's the way they designed it and
+[40:43] that's the way they set it up. So we
+[40:45] just we do what their little system
+[40:47] works and it works.
+[40:49] So well we just want to say thank you
+[40:51] for joining us today. Oh, I'm going to
+[40:53] pray for you all real quick. Father, I
+[40:54] thank you for every single person who's
+[40:56] represented here today for healing and
+[40:58] manif demonstrations and manifestation
+[41:00] of your glory. That father, this is the
+[41:02] day and the hour of the last of the
+[41:04] last. And I thank you, Father, for all
+[41:08] that you've done and all that you
+[41:10] continue to do to heal every single one
+[41:12] of us. that you've not made it hard for
+[41:15] healing, you not made it hard for
+[41:16] salvation, that Jesus Christ paid the
+[41:19] price for every single one of us to walk
+[41:21] in victory and we thank you for it.
+[41:24] Well, amen and amen. Well, if you could
+[41:27] put a smile on your face and a song in
+[41:29] your heart. Jesus loves you so much and
+[41:32] we love you and we will see you all next
+[41:34] time. God bless you all and have a
+[41:36] wonderful day. Bye-bye.
+~~~

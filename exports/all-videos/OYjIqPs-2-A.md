@@ -1,0 +1,240 @@
+# I was shown a flash of light in New York, followed by intense heat and people screaming.
+
+**视频**: https://www.youtube.com/watch?v=OYjIqPs-2-A
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/I was shown a flash of light in New York, followed by intense heat and people screaming. [OYjIqPs-2-A].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 196；**章节数**: 3；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 预言、梦境与异象、美国选举与投票](#section-01)
+- [02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-02)
+- [03. 08:00–08:17 · 现场讲话（无可靠自动分类）](#section-03)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 预言、梦境与异象、美国选举与投票
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、美国选举与投票、战争与国际事务。 提到的地点：Ukraine。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] It's a small little window, but we'll
+[00:02] take it. It's a small little window by
+[00:05] few votes, by a fraction of a hair. I
+[00:07] see fear in their heart. I'm seeing it
+[00:09] prophetically. We work on those hearts.
+[00:12] They're just They're It's just a few
+[00:13] people. A few. I see these few. The Lord
+[00:16] said, "I've give you a few. You pray
+[00:19] over those just right there." He said,
+[00:20] "You see that group right there?" I see
+[00:21] them. They're just It's a huddle. It's
+[00:23] just a few. One,
+[00:25] two,
+[00:26] three. I'm counting their faces. Four,
+[00:30] five,
+[00:31] six,
+[00:32] seven.
+[00:34] Seven.
+[00:37] And then there's one big one.
+[00:39] He's There's one prop predominant.
+[00:43] A few.
+[00:45] Pray over these few. The Senate voted 60
+[00:48] to 40 to back a revamped the GOP funding
+[00:51] bill that would keep the government open
+[00:53] until the end of January. Eight
+[00:55] Democrats joined Republicans to pass the
+[00:57] bill including Senate Minority Whip Dick
+[00:59] Durbin, Senators Tim Kaine, Catherine
+[01:01] Cortez Masto, and Jackie Rosen among
+[01:04] others. I see it the on the minds. It's
+[01:07] pressure from the outside. It's pressure
+[01:11] on them to make this decision on the
+[01:13] outside. You do what we tell you to do.
+[01:15] You do what we I hear it. I hear it.
+[01:18] There's There's pressure, but it's about
+[01:20] money.
+[01:21] You You You do what we tell you to do or
+[01:24] cut off the money. Your election's
+[01:26] coming up next year. You do what we tell
+[01:29] you to do. I see I see the plan. I see
+[01:32] fires.
+[01:33] If we can just get them to flip right
+[01:35] there,
+[01:36] it will be over.
+[01:38] I see these these people's heart.
+[01:41] They're not too far from it. They're
+[01:43] right on the edge, but they're being
+[01:45] pushed by these other outside sources.
+[01:48] And they're being told, "You do what we
+[01:51] tell you to do." Huh? They're being
+[01:54] told, "You do what we tell you to do."
+[01:56] Great influence is on them for pressure
+[01:59] from their party. But they're so close.
+[02:02] I'm talking it's a it's by a hair.
+[02:06] Like this. It just We just got to push
+[02:07] it over.
+[02:09] By the spirit. Right now, we call it in
+[02:12] as they're sleeping.
+[02:14] As they're working on their hearts as
+[02:17] they're sleeping. At the midnight hour,
+[02:20] we call a turnaround. We're at the
+[02:22] midnight hour, we call a turnaround. We
+[02:24] call a turnaround over their hearts over
+[02:27] their hearts. A fear. A fear of the
+[02:30] Lord. A sensible budget. A sensible
+[02:34] coming to the table. We're calling it in
+[02:36] right now in Jesus' name. We'll not have
+[02:38] riots in this nation. You'll not burn
+[02:41] our buildings. You'll not steal from us.
+[02:43] They'll not have this this all this
+[02:46] chaos. We call peace over this nation in
+[02:49] the name of Jesus. We'll have peace over
+[02:53] this nation. Over every state. Over
+[02:55] every Over Arkansas. Over Oklahoma. Over
+[02:59] Texas. I see
+[03:01] even concerning Ukraine.
+[03:04] This money
+[03:05] is to influence into Ukraine.
+[03:08] I see
+[03:10] Ooh, should I say that out loud? Pork.
+[03:13] The arrow
+[03:14] goes from Washington, D.C. into Ukraine.
+[03:19] To Kyiv. For special interest. They're
+[03:22] They're They're trying to protect this.
+[03:25] But that money is not accounted for.
+[03:27] That money is not accounted for. There's
+[03:29] no accountability over that money. It
+[03:32] goes in extension to Ukraine. And
+[03:35] there's no accountability there.
+[03:38] And you draw your own conclusion. It's
+[03:42] 15 billion? Is that 15 million? It's a
+[03:45] big number. There's money There's I just
+[03:48] see the money's funneling. Stiff-necked
+[03:50] people.
+[03:52] Stiff-necked people with bad agenda.
+[03:54] Darkness.
+[03:56] Darkness in the corners. I see labs. I
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 预言、梦境与异象、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:00] see medical like labs. I see
+[04:04] science projects. It's like
+[04:08] They look like like bio labs.
+[04:12] They have
+[04:13] They have white outfits on. And I see
+[04:16] white counters. Same thing with like
+[04:18] Fauci.
+[04:19] Why are they raising it so hard? I see.
+[04:21] It's touching special interest.
+[04:24] It's touching the special interest. Pet
+[04:27] projects. I'm seeing New Year's Eve.
+[04:32] I see New Year's Eve.
+[04:34] I'm in Times Square. I see the the the
+[04:37] the the the two men on CNN. New York
+[04:41] will look so much different at this
+[04:42] time. New York City has elected Democrat
+[04:47] Assemblyman Zohran Mamdani to be its
+[04:50] next mayor. New York will look so much
+[04:52] more different at this time.
+[04:55] By this time,
+[04:57] it's like no hope for some.
+[05:00] Sad.
+[05:02] America looks so different. 2026.
+[05:06] There's so much expectation
+[05:08] for the beginning of the new race. You
+[05:10] know, you have that expectation for
+[05:12] 2026. Every year you're you're
+[05:14] optimistic. What does this year hold?
+[05:17] You know, you can feel that that charge
+[05:19] in the atmosphere. I feel it. But it's
+[05:22] Everybody wants blessing. They want a
+[05:24] New Year's resolution. They're sadness
+[05:33] there. I'm looking into it and I'm I can
+[05:36] see it and I can see those two men.
+[05:39] I just camped there. I'm just trying to
+[05:41] figure out why why the Lord's brought me
+[05:42] there.
+[05:43] And now now I'm back in Ukraine. Now I'm
+[05:46] seeing
+[05:47] and I can see
+[05:49] I hear John Lennon
+[05:51] Imagine.
+[05:52] I can hear the song playing.
+[05:55] Imagine. Lord Holy Spirit, what is this?
+[05:58] What are you showing me all this for?
+[06:01] What is this, Lord?
+[06:03] I hear that Imagine all the people.
+[06:07] It's in the New York.
+[06:08] Oh.
+[06:14] I just saw a flash. I can see the
+[06:16] building. I hear the people screaming.
+[06:22] Do you know whenever you were in a
+[06:23] crowd, you hear them yelling and they're
+[06:25] running? What year is this? I just thank
+[06:27] you, Father, that every plot
+[06:30] every plan
+[06:32] is uncovered in Jesus' name.
+[06:35] I just plead the blood over my mind.
+[06:38] It It looks like
+[06:41] It looks like it like a like a teardrop.
+[06:46] And the way it goes out.
+[06:49] It looks like a teardrop. But as this
+[06:52] here, do you know whenever you see like
+[06:54] you take a flash on a camera?
+[06:57] But this is yellow.
+[07:00] It looks like a yellow flash in the
+[07:02] middle.
+[07:03] Almost like when you hold a match. But
+[07:05] this is a massive in there. It's a
+[07:08] massive thing that goes out. And it
+[07:11] looks like a flash of light. It moves in
+[07:14] this one area and it moves out and it
+[07:16] goes out.
+[07:18] And it looks like fire. But it's shaped
+[07:20] like a teardrop.
+[07:23] Like a
+[07:25] But I hear women. I can hear the women
+[07:27] screaming. I can see this move out like
+[07:30] this.
+[07:32] But it doesn't just go out on the sides.
+[07:34] It goes up and down.
+[07:37] It's all like this. This light.
+[07:41] A flash. I see that man's face that is
+[07:45] running for the mayor.
+[07:46] He's bold before me right then. I see
+[07:48] his face. I have my assumptions of what
+[07:51] that is.
+[07:52] I'm seeing all of it more.
+[07:54] To the eagle.
+[07:59] To and wound the fatally wound
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–08:17 · 现场讲话（无可靠自动分类）
+
+**中文章节摘要**：本段涉及：现场讲话（无可靠自动分类）。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:02] the eagle. Trying to fatally wound the
+[08:05] eagle. This is the This is I see the man
+[08:08] with the black hoodie again. Remember I
+[08:10] told you?
+[08:11] It's the man with the black hoodie
+[08:12] again.
+[08:13] It's the
+[08:15] the enemy within. The enemy within has a
+[08:17] plan.
+~~~

@@ -1,0 +1,792 @@
+# God Uses Imperfect People： My Journey
+
+**视频**: https://www.youtube.com/watch?v=dvqTha9uG8Q
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/God Uses Imperfect People： My Journey [dvqTha9uG8Q].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 704；**章节数**: 7；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-01)
+- [02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-02)
+- [03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-03)
+- [04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-04)
+- [05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-05)
+- [06. 20:00–23:59 · 祷告、敬拜与现场互动、物资、能源与供应链](#section-06)
+- [07. 24:00–26:18 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-07)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] hey good morning family I have another
+[00:02] video I'm going to do for you here
+[00:05] um
+[00:05] a lot of people are wanting to know hey
+[00:08] how do you hear God the way you do uh
+[00:11] uh and they want to know how I've had
+[00:14] the visitations they want to understand
+[00:15] more about me and everything I'm going
+[00:17] to tell you this right now
+[00:19] I am nothing special
+[00:21] you know what why the Lord has chosen to
+[00:25] do what he's done in my life I have no
+[00:27] idea I haven't done any kind of any kind
+[00:29] of real Supernatural prayer you know
+[00:32] compared to anybody else you know I've
+[00:34] been obedient I can tell you that when
+[00:36] he tells me to do something I'm quick to
+[00:38] obey I do not I try to at least like for
+[00:41] the last video I told you about being
+[00:43] hesitant of coming on here and telling
+[00:45] you things on YouTube is because I had a
+[00:47] gaping wound and I didn't want to I
+[00:50] didn't want to come and expose that to
+[00:51] everybody you know I've been a very very
+[00:53] private person I'm very reclusive I do
+[00:56] not
+[00:57] um I do not I have a lot of friends I do
+[00:59] not try to be real social even with my
+[01:03] family even my family thinks I'm kind of
+[01:05] strange you know as far as my mom and my
+[01:07] dad and my brothers and sisters
+[01:09] um
+[01:10] I'm just I'm just been really different
+[01:11] that's the way I've been a lot in my
+[01:13] life you know I pray a lot I uh I have a
+[01:17] a very unique relationship with the Lord
+[01:19] as far as the way I look at him and the
+[01:21] way I talk you know I I I I I'll say
+[01:24] that much it all started whenever I was
+[01:27] a little boy
+[01:28] um I um had bad learning disabilities
+[01:31] all through school I couldn't read I
+[01:36] couldn't write very well I couldn't
+[01:38] spell I couldn't do math I went through
+[01:41] uh school and special ed programs my
+[01:45] whole entire life
+[01:46] people made fun of me a lot I got
+[01:49] bullied every day at school sped on
+[01:51] pushed down picked on all day long I
+[01:54] would come home and cry myself to sleep
+[01:56] because of being bullied all the time
+[01:58] and so um I got up into my high school
+[02:01] years I still couldn't read very well I
+[02:04] still couldn't write very well I
+[02:06] couldn't do math so the principal came
+[02:09] to my mom and she said you you know
+[02:12] um some kids are just probably going to
+[02:16] be uh uh like bricklayers she goes your
+[02:21] son really has a hard time he's making
+[02:24] zeros to school he's not able to keep up
+[02:27] and so I would uh try to encourage you
+[02:30] to just pull him out of school and let
+[02:34] him
+[02:35] um get a trade let him go ahead and just
+[02:37] work and with his hands and and go on
+[02:40] with his life he's he's not passing any
+[02:42] classes he's funking out so you know we
+[02:45] would just you know I'm I hate to say
+[02:48] this but I would just encourage you to
+[02:50] just go ahead and let him just get a
+[02:51] full-time job and go on with his life so
+[02:54] I I dropped out of school and I started
+[02:57] sacking groceries I sat groceries for
+[03:00] three years
+[03:01] prophecy after prophecy after prophecy
+[03:04] was spoken over my life that God had a
+[03:06] call on me to do something big I didn't
+[03:08] know how to implement it my mom and dad
+[03:10] were going to Bible school at the time
+[03:12] so they were going to Bible school and I
+[03:15] was trying to get my GED I thought well
+[03:18] maybe I can get my GED I couldn't do my
+[03:20] GED I went and tried to do the test and
+[03:22] I failed uh
+[03:24] so I gave up and I just started working
+[03:26] and worked worked really hard I started
+[03:30] learning I started listening to tapes
+[03:32] from Ministries I got a tape player I
+[03:35] listened to Ministries all day long
+[03:38] feeding on the word of God feeding on
+[03:41] the word of God listening to Kenneth
+[03:42] Hagin and I know some people don't like
+[03:44] Kenneth Hagin I don't care what you
+[03:46] think let me tell you that right there
+[03:48] that's a bold I'm gonna be with you I do
+[03:51] not care what you think about Kenneth
+[03:53] Hagin he changed my life he taught me
+[03:55] everything I know so keep your comments
+[03:58] to yourself in the comment section if
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:00] you do uh root things and you say talk
+[04:03] trash about him I'll ban you immediately
+[04:05] there's no tolerance for it
+[04:07] So I listened to him over and over and
+[04:10] over and over and over again uh Kenneth
+[04:14] Hagin
+[04:15] found these Ministries I started
+[04:17] listening to the word I fed on the word
+[04:19] I fed on the word I fed on the word and
+[04:22] um I I started the Lord started
+[04:25] imparting me I started fasting lord said
+[04:27] I want you to start fasting every other
+[04:29] day of your life
+[04:31] so I did this as a teenager I started
+[04:33] fasting every other day of my life I did
+[04:36] this for years I prayed I fast I I would
+[04:39] I would I would start fasting it it it's
+[04:43] when the sun came up all the way to the
+[04:45] sun came down I ate dinner and that's
+[04:47] what I did as a young man I would spend
+[04:50] hours hours hours hours and I and I I
+[04:54] kid you not praying in the spirit uh
+[04:57] praying in tongues praying in the spirit
+[04:58] and reading my Bible listening to
+[05:01] sermons so then I got a job I was
+[05:04] offered a job I've made some friends and
+[05:05] they said we want you to come and work
+[05:07] in the ministry for us
+[05:09] I thought wow here's my opportunity to
+[05:12] preach because I was I was 18 years old
+[05:15] and I was excited I got my first job God
+[05:18] opened the door for me and so I started
+[05:21] uh cleaning bathrooms and I started
+[05:23] cleaning the Lord said I want you to do
+[05:25] that so I started cleaning for a mega
+[05:26] Minister's house started taking care of
+[05:28] stuff for them started cleaning their
+[05:31] cars started doing this and I started
+[05:32] learning and I listened to him preaching
+[05:35] I started listening following Ministries
+[05:36] doing it I went over and over and over
+[05:39] just doing this praying in the spirit
+[05:41] learning
+[05:43] so the Lord spoke to us to move to where
+[05:46] we are now
+[05:47] and and I thought man this is my
+[05:49] opportunity I was I was 20 21 years old
+[05:52] I thought man we just got married I just
+[05:54] got married and I had a prophecy over my
+[05:57] life you're gonna find your wife you're
+[05:59] going to get married you're going to get
+[06:00] married in a short amount of time
+[06:02] so we got married and uh I had my wife
+[06:05] got married boom so I thought man what's
+[06:08] going we're gonna we're gonna move and
+[06:09] my mom and my dad moved to where they
+[06:12] are and they started to Boys Ranch they
+[06:14] started helping out with uh fatherless
+[06:17] children and they started doing a Boys
+[06:19] Ranch and we started volunteering and
+[06:21] helping out there and helping out and
+[06:23] and and and and trying to help these
+[06:26] troubled young teenagers so we did that
+[06:29] for a while for about a year or two and
+[06:32] the Lord put us out of church we started
+[06:33] doing uh Ministry at the church doing I
+[06:37] was cleaning there and I thought man I'm
+[06:39] gonna have the opportunity to preach now
+[06:41] lo and behold the pastor didn't like me
+[06:44] that much because I preached uh two
+[06:46] charismatic for him so he said no you
+[06:49] can clean you'll probably never preach
+[06:51] here and I thought well you know you're
+[06:54] going to change your mind I'm going to
+[06:55] pray and fast and God's gonna change
+[06:57] your mind so the Lord said Brandon I
+[06:59] want you just to be an armor Bearer you
+[07:01] pray for for the pasture here and and I
+[07:04] want you just to keep being here and
+[07:06] praying so
+[07:09] I just kept cleaning clean 90 toilets
+[07:12] three times a week
+[07:14] every single time I'm in there clean out
+[07:16] griping in my heart God you called me to
+[07:18] the ministry how am I going to do
+[07:20] anything if I'm in here cleaning these
+[07:22] toilets what are you going to do with my
+[07:24] life what are you going to do anything
+[07:25] with me so I just kept cleaning the
+[07:27] bathrooms cleaning the bathrooms
+[07:28] cleaning all the floors doing everything
+[07:30] and I go in there hey will you let me do
+[07:32] uh do a preach or do anything no you're
+[07:35] I'm Brandon you're you are a janitor
+[07:38] that's what you're going to do you're
+[07:40] not called to preach we don't feel that
+[07:42] about you you clean
+[07:44] man I but I know God's called me to
+[07:46] preach I'd say no no that's not what we
+[07:49] feel so I keep cleaning keep cleaning
+[07:52] Lord give me a word I hear a word hey I
+[07:55] want you to go warn the pastor the
+[07:57] judgment's coming on him you go tell him
+[07:59] what I'm telling you say I said they're
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:02] gonna fire me Lord I can't go in there
+[08:03] and tell him that he he didn't act like
+[08:05] he don't like me that much anyway
+[08:07] are you going to be obedient to me are
+[08:09] you going to do are you going to uh uh
+[08:11] be fearful of man I said oh man okay so
+[08:15] I'm standing in the back of the hall by
+[08:17] his office on a Sunday night after
+[08:18] church lightning striking and you could
+[08:21] hear the storm blowing over there was
+[08:22] actual storm happening so I knock on his
+[08:25] door he goes come in what can I help you
+[08:29] with I said the Lord has a word for you
+[08:31] so I gave him this word I thought I had
+[08:34] hit him with it with a with with just
+[08:36] punching him you know that's how strong
+[08:37] the word was that the Lord had for me to
+[08:40] give to him I thought he's gonna fire me
+[08:43] right then
+[08:44] he didn't fire me I think he was shocked
+[08:46] because I came in there with such
+[08:48] boldness because I'm just the cleaner
+[08:50] and so um
+[08:52] that's how it started
+[08:54] I started obeying him on hard words I
+[08:57] started obeying him whenever he told me
+[08:59] to do something really hard and then he
+[09:01] started giving me more to do he said do
+[09:03] this so then and I'd be praying he said
+[09:06] I want you to go across town and give
+[09:08] that Pastor over across town a word
+[09:10] about uh about the there's three witches
+[09:14] that are after his life trying to kill
+[09:15] him right now and he's in the hospital
+[09:17] fighting for his life and I want you to
+[09:19] go and give him a word I said are you
+[09:22] serious I said Lord they don't know me
+[09:24] how am I gonna are you gonna do it or
+[09:25] you're not so and I said yeah sure I'll
+[09:28] do it so I got me and my little baby at
+[09:31] the time I put the baby on my hip and
+[09:33] walked in through the doors I said I
+[09:34] have a word for you
+[09:36] for your pastor the lady said I'm the
+[09:39] secretary
+[09:40] what is the word I said well your pastor
+[09:44] is sick and he's dying because of these
+[09:47] witches casting spells on him and I come
+[09:50] to tell you Jesus is going to heal him
+[09:52] and you're going to bring healing to
+[09:53] this this this community
+[09:55] she goes You're right our pastor is
+[09:57] really sick he's really sick right now
+[09:59] and they and the doctors don't know
+[10:01] what's wrong with him and all this stuff
+[10:02] so I gave him the word everything well
+[10:05] that Pastor started raising up his
+[10:06] church exploded and then uh it fell
+[10:09] because he committed adultery on his
+[10:10] wife just things like that so I have
+[10:13] these words and I and and I give them
+[10:15] but the Lord wants to to do but they and
+[10:19] so I've just been obedient obedient
+[10:21] obedient obedient it happens all the
+[10:23] time I want you to pray for this person
+[10:24] go and do this so I've developed a
+[10:26] relationship with him I developed and I
+[10:29] keep working it then he said keep
+[10:30] praying and and cleaning these toilets
+[10:32] like I said 90 toilets three times a
+[10:35] week this was a mega church huge Church
+[10:37] where I worked and so I cleaned him I go
+[10:39] in there I clean them all by myself on a
+[10:41] Saturday morning I clean them all by
+[10:43] myself on a Sunday night clean them all
+[10:44] by myself on on Wednesdays a lot of
+[10:46] times
+[10:47] clean the floors waxing the floors
+[10:49] bumping the force keep doing it
+[10:51] I said Lord I'm doing what you've asked
+[10:53] me to do but he said well you're not
+[10:54] doing it in obedience to be willing and
+[10:57] obedient we'll eat the good of land
+[10:59] you're you're not you're doing you've
+[11:01] been obedient but you're not willing to
+[11:03] do it you're complaining in your heart
+[11:05] towards me I said when are you going to
+[11:07] release me from this he said when you
+[11:09] can do it with full Joy unto me I'll
+[11:12] release you from this do it unto me
+[11:16] ah I said I can't do it Lord I keep
+[11:20] doing this this is terrible I don't want
+[11:22] to clean these toilets anymore I do not
+[11:24] want to wax these floors
+[11:26] year after year after year after year
+[11:29] finally I told you about my little girl
+[11:33] we had our little girl it took me even
+[11:36] further down to the bottom of the ocean
+[11:38] I thought I I was with all that
+[11:41] happening all that I told you about my
+[11:43] little girl in the previous video all
+[11:45] that's going on I'm cleaning the
+[11:47] bathrooms I'm submitting to the pastor
+[11:49] I'm praying for him even if I don't
+[11:51] agree with what he's preaching the Lord
+[11:53] said honor him do not touch him with
+[11:56] your words pray for him and honor him
+[11:58] and and respect him even if you don't
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:01] agree but you have to not only do it
+[12:03] with words you have to do with your
+[12:05] heart
+[12:06] are you kidding me I said Lord I do this
+[12:10] is this the hard thing I've ever been
+[12:11] through in my life you want me to do
+[12:12] this with my little girl everything's
+[12:14] falling apart now you want me to honor
+[12:16] this man with my words
+[12:18] and my heart not complaining about
+[12:20] cleaning these bathrooms not complaining
+[12:23] about my boss that's treating me like
+[12:24] trash every single day trying to get me
+[12:26] fired trying to to conspire against me
+[12:29] because I could see in the spirit I
+[12:31] could warn things that was going to
+[12:32] happen I would warn uh the pastor of the
+[12:35] church to what was going on and I would
+[12:37] and so I started to develop in a
+[12:39] relationship with him the pastor and it
+[12:41] took years of of building a relationship
+[12:45] and so then they said hey they came to
+[12:47] me and they said hey we know you can
+[12:49] pray people people tell us all the time
+[12:51] you're laying hands on people they're
+[12:52] getting healed and um so I started
+[12:56] building a a a a a reputation of hey if
+[13:00] you if Brandon prays for you the Lord's
+[13:02] gonna heal you so people in the staff
+[13:04] started coming to me hey I've got a
+[13:06] major migraine today would you pray for
+[13:08] me the power of God going to and
+[13:10] delivering from a headache hey I I'm
+[13:12] fixing to sing on the stage would you
+[13:13] pray for me I I have laryngitis will you
+[13:15] pray for me boom power God hit him they
+[13:17] God on they would start singing to BL to
+[13:20] get through the service
+[13:21] it became a process I'm the janitor that
+[13:25] was cleaning and doing everything then
+[13:27] people of which witchcraft uh want to
+[13:30] get free come in there get healed none
+[13:32] of them knew how to deliver anybody from
+[13:34] a devil they'd come and get me I'm
+[13:36] cleaning the the toilets and church or
+[13:39] vomit spill or whatever from somebody
+[13:40] getting sick and they come and tell them
+[13:42] hey we gotta have you in the back in the
+[13:44] alts room a witch just gave her heart to
+[13:46] Jesus Christ and she's flipping out and
+[13:48] we don't know what to do with her
+[13:50] because she's growling and manifesting
+[13:51] all back there can you come back here
+[13:53] and cast The Devil out of her because
+[13:55] none of us know how to do it so I said
+[13:57] are you kidding me you are a pastor's it
+[13:59] was kind of an arrogance thing on my
+[14:01] part because I was just like whatever
+[14:02] you're coming to get me to do your job
+[14:04] but I just said okay fine so I had to be
+[14:06] humble and I just say okay I'll pray for
+[14:09] her so I'll go down there and and and
+[14:11] and start casting Devils out of her they
+[14:13] come back there and say listen you're
+[14:15] taking too long and it's getting it's
+[14:17] too loud can you get her to be a little
+[14:19] bit more quieter because she's causing
+[14:21] it to distraction in church and and and
+[14:23] and she's growling and everything so I I
+[14:26] said listen you deal with it then you
+[14:28] know
+[14:29] so because I was already irritated about
+[14:32] my circumstances and so so lo and behold
+[14:35] this went clear on until about 11 30 at
+[14:38] night and so the pasture when the
+[14:40] pastors came in there and said can you
+[14:41] tell them to hurt the Devils to hurry up
+[14:43] and get out because I'm ready to go home
+[14:44] and eat I don't want to be here anymore
+[14:46] I said go ahead and go on and go home
+[14:48] I've got the alarm code and it'll and
+[14:51] the key don't worry about it I'm gonna
+[14:53] get this girl set free so lo and behold
+[14:55] they all left you know that's the way
+[14:57] things went I I started getting a
+[14:58] reputation that's the way I live my
+[15:00] faith I believe God is a deliverer I
+[15:03] believe God Is A Healer and regardless
+[15:05] of my circumstances and what's going on
+[15:07] around me he is a good god and so they
+[15:11] let me start doing prayer
+[15:13] so I started doing Saturday morning
+[15:15] prayer whenever the main prayer lady was
+[15:17] was gone
+[15:19] so I lead prayer the presence of God
+[15:21] would fill that whole atmosphere and
+[15:23] people wouldn't move because the power
+[15:25] God would settle in so strong whenever
+[15:27] we would do prayer it was nothing about
+[15:29] me it has everything to do about Jesus I
+[15:32] want to let you know if God will use me
+[15:34] he will use you I'm telling you I'm
+[15:37] nothing special I'm just telling you
+[15:38] what just being obedient to whatever
+[15:40] what the Lord's told me to do so I just
+[15:42] keep clean toilets
+[15:44] 10 years goes by on 3 3 of 13 the Lord
+[15:49] says you're done
+[15:51] three three of O3 I was hired 3 3 of 13.
+[15:54] he said you're done I want you to quit
+[15:56] now
+[15:57] I said are you serious I I said I I
+~~~
+
+<a id="section-05"></a>
+## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[16:01] don't mind being here anymore he said
+[16:03] yeah I know that's why you're released
+[16:07] two a year ago goes by he releases me I
+[16:11] stopped praying I'd start being a part
+[16:12] of doing that
+[16:14] or so I'm gonna do something different
+[16:16] with your life now
+[16:19] so I uh stopped doing it
+[16:22] six months goes by and the pastor Falls
+[16:25] in an adulterous Affair and the church
+[16:27] falls
+[16:29] it was a very hard thing for me because
+[16:31] I thought man this is terrible I warned
+[16:33] him about all the things that were
+[16:35] coming prophetically I warned him about
+[16:38] all of it and he still didn't listen
+[16:41] spent years telling him
+[16:43] and and you know what
+[16:45] I did my job I did my job I did it and I
+[16:48] honored him I prayed for him and I did
+[16:50] everything I could do
+[16:52] um so the Lord said I want you to do
+[16:54] something different so I I thought man
+[16:56] I'm gonna get in Ministry now nope nope
+[17:00] daughter's still overcoming things are
+[17:02] falling apart lord said I want you to
+[17:04] start doing business stuff I'm done I
+[17:06] don't want you to be in Ministry anymore
+[17:07] I want you to I want you to do something
+[17:09] different with your life Brandon
+[17:12] I said are you kidding me I've had all
+[17:13] these words Lords you've given me about
+[17:15] Ministry he said I'm going to take you a
+[17:18] different direction now it's okay are
+[17:20] you serving me I said yes so I put it
+[17:23] all on the Shelf put Ministry on the
+[17:25] Shelf I started working and trying to
+[17:27] make money trying to he he would give me
+[17:30] ideas he said I would develop a
+[17:32] relationship with him and I told you all
+[17:34] about this we'd sit on the couch
+[17:35] together and I practice the prophetic
+[17:37] voice inside of me I started he'd tell
+[17:39] me about scores of football games
+[17:41] because it's just the way those little
+[17:42] guy goes wolf Jesus is sitting on my
+[17:44] couch I won't ask him about scores and
+[17:47] about the games I'm going to talk to
+[17:48] Jesus if he's you know whatever
+[17:50] dude you don't have a clue you have no
+[17:53] relationship with them at all I'm gonna
+[17:55] be real with you he is if you get real
+[17:58] God got to get real with you these
+[18:00] people that have all this religious
+[18:02] Pharisees stuff going on inside of them
+[18:04] they're never going to be used by him
+[18:06] I'm telling you you gotta get real with
+[18:09] God and God's God got to take you
+[18:12] through the fire got to take you through
+[18:14] trials and tribulation to develop your
+[18:17] character he'll take you through things
+[18:19] and he'll he'll let you feel like you're
+[18:21] gonna drown but it keeps building up
+[18:23] inside of you and he's trying to grow
+[18:25] inside of you
+[18:26] so that you have character because you
+[18:29] have to die to self and a lot of people
+[18:32] don't want to die to self you don't have
+[18:34] character to handle the pressure of the
+[18:36] the anointing and the things going on
+[18:38] your life so you go through some things
+[18:40] and it's called the refiners fire and
+[18:43] I'm telling you my Refiner's Fire was
+[18:44] clean and poop clean and clean and vomit
+[18:46] cleaning the baby's rooms and doing all
+[18:48] this stuff for all together between
+[18:51] between the mega church and the mega
+[18:53] Ministry I did it for uh 13 and a half
+[18:56] years cleaning and cleaning and cleaning
+[18:59] and and to the point where my hands had
+[19:02] calluses and sores all over my hands
+[19:04] from from chemicals and doing things
+[19:06] okay
+[19:08] so then he said so then he told me hey I
+[19:12] don't want you to do any Ministry
+[19:13] anymore I'm gonna take you and do
+[19:14] something different in your life I
+[19:15] thought are you kidding me
+[19:17] so
+[19:18] I started uh so in the process of all
+[19:21] this the pastor told my wife because my
+[19:24] wife was very smart she had uh she she
+[19:27] graduated top of her class in high
+[19:29] school so she was doing accounting and
+[19:32] working at the church too and he told
+[19:34] her he said if you go and get your
+[19:35] degree I'll put your head over the
+[19:37] accounting department so my wife started
+[19:40] going to Oru doing this my daughter's
+[19:43] overcoming autism we're pushing as hard
+[19:45] as we can because we're tired of being
+[19:46] broke and we want more we want more
+[19:48] finances to be able to have a nice home
+[19:50] we're living a shotgun rent house barely
+[19:53] making it by it's terrible I'm just
+[19:55] telling you we we couldn't make our car
+[19:57] payment we're living on food stamps so I
+~~~
+
+<a id="section-06"></a>
+## 06. 20:00–23:59 · 祷告、敬拜与现场互动、物资、能源与供应链
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、物资、能源与供应链、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:00] we're doing everything we could so she's
+[20:02] doing night school we're pushing as hard
+[20:04] as we can doing it online doing all we
+[20:06] could she gets her her her
+[20:09] bachelor's degree in um business and and
+[20:13] counseling
+[20:15] so she's still not done so she goes and
+[20:18] she I help her and we get all the way
+[20:21] through
+[20:22] um
+[20:23] her Masters and she gets her Masters in
+[20:26] accounting
+[20:28] everything's fine she makes a 4.0
+[20:30] through college her whole college she
+[20:32] has a 4.0 she finishes her master's
+[20:35] degree she does it all it was a lot of
+[20:37] work my daughter's still overcoming
+[20:39] autism we have a we have our son we have
+[20:42] we we get through all of it she we're
+[20:44] finishing her College
+[20:46] I'm cleaning barely making it the whole
+[20:49] time
+[20:50] and he falls morally and she she's not
+[20:54] able to get the job anymore so she has a
+[20:57] masters in accounting and uh 4.0 all the
+[21:01] degree we have all this stuff and the
+[21:03] Lord says I'm going to do something
+[21:04] different with your life so we we
+[21:07] started some do some business stuff and
+[21:10] the Lord started blessing it he started
+[21:12] doing this with us he started telling me
+[21:13] where to go every day to find the stuff
+[21:15] to do for our business I started
+[21:17] listening to him everything
+[21:19] seven years goes by
+[21:22] seven years I've put the call completely
+[21:25] on the Shelf
+[21:26] and he starts telling me Brandon are you
+[21:28] going to be obedient to what I've called
+[21:29] you I want you to do YouTube channel
+[21:32] so what
+[21:33] are you serious I said Lord I'm doing
+[21:36] good I'm enjoying doing this I'm
+[21:38] listening to you every day on what to do
+[21:39] with my finances this is what you want
+[21:41] me to do with my life I said surely I'm
+[21:43] missing it he I said
+[21:45] it's this is kind of weird it's like
+[21:47] back and forth so he says to me
+[21:49] all that time I wanted to see if you
+[21:52] were serving me
+[21:54] or if you were serving the call now I
+[21:57] have found that you're serving me and
+[21:59] it's not just about the call you've been
+[22:01] obedient to what I've called you to do
+[22:03] every step of the way now get ready
+[22:07] because I'm gonna use minute put you in
+[22:08] Ministry and I'm going to open a door
+[22:10] for you and it's going to explode be
+[22:13] obedient to what I've asked you to do
+[22:15] and I'm going to the doors are going to
+[22:17] fling wide right open for you for
+[22:19] Ministry now
+[22:20] because you I have found that you fear
+[22:22] me and you fear what I've asked you to
+[22:24] do you've been obedient and now I said
+[22:26] Lord I don't want to do it because I
+[22:27] said my little girl's still overcoming
+[22:29] you want me to do a Ministry you want to
+[22:31] do all this stuff I said I've ran from
+[22:32] it I actually was relieved that he had
+[22:35] told me to do business because I was
+[22:37] thinking man because he had told me to
+[22:39] invest in things and and it was being
+[22:40] successful
+[22:42] Lord sort of blessing my hands big time
+[22:44] and I was excited about it and I said
+[22:46] man because For the First time we're
+[22:48] able to to actually uh pay our bills on
+[22:51] time for the first time we're able to to
+[22:54] be able to not have to to eat food stamp
+[22:57] have food stamps it was embarrassing not
+[22:59] be able to pay your bills to be able to
+[23:01] pay your electric or your water your gas
+[23:03] because you're so broke and every single
+[23:05] time you get to the end of the the
+[23:07] paycheck you'd have to borrow on a
+[23:09] credit card to get through because we're
+[23:11] trying to pay for my daughter to go
+[23:13] through therapy
+[23:15] and we didn't have nothing we're broke
+[23:17] dead broke working for the church and
+[23:20] and the Lord started like I said we got
+[23:22] out of the church and my wife got out of
+[23:24] uh college and we thought man it's gonna
+[23:26] we're gonna be in the money now because
+[23:28] she's got her her master's degree
+[23:30] nope nope
+[23:33] nothing happened with the Master's
+[23:34] Degree she still doesn't use her
+[23:36] master's degree uh as of this moment and
+[23:39] she has she's able to do taxes she'd be
+[23:41] able to do her do everything she needs
+[23:43] to do she is a a lot of Education
+[23:45] so
+[23:47] this is the process we've been in our
+[23:49] life
+[23:51] I say all this to say I I hope that was
+[23:54] not boring I'm just trying to tell you
+[23:56] where I come from
+[23:57] it has been a lot of Trials there has
+~~~
+
+<a id="section-07"></a>
+## 07. 24:00–26:18 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[24:01] been a lot of I don't know if we're
+[24:03] going to make it standing every single
+[24:06] paycheck standing and believing cleaning
+[24:08] the bathrooms dying to self the trials
+[24:11] and the trials and and developing my
+[24:13] relationship with him to the point of
+[24:15] thinking man Lord if you're ever gonna
+[24:17] use me and then he tells me I'm not
+[24:18] going to do that with you I want you to
+[24:20] do something else and for years I think
+[24:21] the promise is gone God doesn't want you
+[24:24] to do it be a preacher he doesn't want
+[24:25] you to do anything with like that I'm
+[24:27] going to be a businessman
+[24:28] and so all that to say this I'm here and
+[24:33] that's where I'm at right now that
+[24:36] that's that that is that's a a lot of
+[24:39] testimony of everything that I've been
+[24:41] through up into today and so I'm here to
+[24:44] tell you all about Jesus now on YouTube
+[24:46] because that's what he's told me to do
+[24:47] and I've been obedient to it so let me
+[24:50] pray for you if you have a dream if you
+[24:52] have um
+[24:54] some kind of call on your life you feel
+[24:57] God has put you once you to be a
+[24:59] Ministry you don't know how to get there
+[25:00] don't give up on it you know what I
+[25:03] don't know where this is going to lead
+[25:04] to I don't have any clue all I know is
+[25:07] God told me to be on YouTube and you all
+[25:09] are watching it and it's been very
+[25:11] interesting for me because I like I now
+[25:12] have 50 000 subscribers and I started
+[25:15] out in uh and and I believe it was
+[25:17] February or whatever doing these videos
+[25:19] and doing things and putting Ministry
+[25:21] stuff on there and people started
+[25:23] subscribing and also I'm gonna breathe
+[25:25] on it for you and that's exactly what
+[25:26] he's done so I appreciate you all being
+[25:28] a part of this you know I I like I said
+[25:31] I have no clue of where it's gonna go
+[25:32] all I know is is I wake up every day
+[25:34] doing what I still doing my business
+[25:36] stuff working and doing this whenever I
+[25:39] have time to so um I just I just want to
+[25:42] say thank you for for helping and
+[25:44] supporting me and and being a part like
+[25:46] I said I I believe God has put healing
+[25:49] in my hand I feel the fire in my fans
+[25:51] when I pray for people it's there for a
+[25:53] reason he told told me one day I'll have
+[25:56] 10 a tent and I'm gonna go and set tents
+[25:58] up and he wants me to put tents in a
+[26:00] Tent Revival there's a great Revival
+[26:03] about to happen
+[26:05] with tents and and people being healed
+[26:08] I've seen it thank you for watching and
+[26:10] I I pray you all have a wonderful day
+[26:12] put a song in your heart and a smile on
+[26:15] your face Jesus loves you and we'll see
+[26:18] you next time bye-bye
+~~~

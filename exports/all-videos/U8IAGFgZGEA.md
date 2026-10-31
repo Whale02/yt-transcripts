@@ -1,0 +1,958 @@
+# The Lord said to pray over Pam Bondi
+
+**视频**: https://www.youtube.com/watch?v=U8IAGFgZGEA
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/The Lord said to pray over Pam Bondi [U8IAGFgZGEA].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 826；**章节数**: 11；**明确省略行数**: 1
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–04:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-01)
+- [02. 05:00–09:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-02)
+- [03. 10:00–14:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-03)
+- [04. 15:00–19:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-04)
+- [05. 20:00–24:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
+- [06. 25:00–29:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-06)
+- [07. 30:00–34:59 · 预言、梦境与异象、经济、银行与市场](#section-07)
+- [08. 35:00–39:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-08)
+- [09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-09)
+- [10. 45:00–49:59 · 预言、梦境与异象、教会、复兴与信仰](#section-10)
+- [11. 50:00–52:48 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
+
+<a id="section-01"></a>
+## 01. 00:00–04:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] He said, "Remind them
+[00:03] of the one building in Chicago and a
+[00:07] great distraction in another." We had
+[00:10] them on the run. The one main guy.
+[00:14] I see him so clear again. The one main
+[00:16] guy. He's always steps ahead because
+[00:21] he's being because he's being warned
+[00:24] before they get there. There's a rat
+[00:27] within. There's a rat within.
+[00:32] I see it so clear. The rat within.
+[00:36] There's more rats within. Running
+[00:39] running running running trying to hide
+[00:42] because of the rat within. I see them
+[00:45] the the the people that get there right
+[00:49] after it's too late. So, Father, so I
+[00:53] want you I want you to focus on this. We
+[00:57] want to catch this man.
+[00:59] We want to catch this man. He has he has
+[01:03] an informant.
+[01:04] Okay. And in this aformant, the
+[01:08] informant is warning this man before the
+[01:11] good guys get there to get them because
+[01:14] this guy's a rat. And we want this man
+[01:17] for he's the head of the snake in this
+[01:20] area. He's the head of the snake. And if
+[01:24] we can get this head, it will it will it
+[01:27] will we will get the tail.
+[01:31] Do you understand what I'm trying to
+[01:32] tell you? Because I can't say too much.
+[01:35] But I want you to pray in the spirit
+[01:37] with me that we catch this one man.
+[01:41] We catch this man. And there's two
+[01:43] there's Okay, this one man is the boss
+[01:46] and there's two other behind him. Okay,
+[01:48] there's behind him and they're dressed
+[01:51] in black. They're dressed in black. So,
+[01:53] if you help me, I believe we can get the
+[01:56] the rat, the mole, the mole that's
+[02:00] leaking. He's he's good at his job and
+[02:04] he's very very uh clever on how he does
+[02:08] this, but the Lord wants this man
+[02:12] caught.
+[02:14] There's two other, but there's one. And
+[02:16] he says, "This is a head of a snake."
+[02:19] Okay? So if we can get if we can do
+[02:22] this, we'll get rid of one bad bad man
+[02:25] out of this equation and it will help be
+[02:27] like a domino concerning other major
+[02:30] activities in our country
+[02:32] because he's an informant. It's he's
+[02:34] tell he's the one that delegates. That's
+[02:37] a good word. Delegate. So one man
+[02:41] two two sorry two more men. I my fingers
+[02:44] I I can't. Two more men,
+[02:48] but they're behind him. One man's the
+[02:51] boss. He's dressed solid black. He has a
+[02:53] black hoodie on. He has a black hoodie
+[02:56] on. It's a zip-up.
+[02:58] A zip-up hoodie.
+[03:01] I can see him. I can't go into detail
+[03:04] any more than that. I'm sorry.
+[03:08] Lord says, "Be still."
+[03:11] You want to pray for this to be caught.
+[03:15] Okay. Oh, no. Let's pray this together.
+[03:18] Okay. Let's pray for 10 minutes here.
+[03:21] No, let's just do five minutes. We're
+[03:22] good. Five minutes. We can do this.
+[03:24] Okay. And we're going to catch them. We
+[03:26] want him to be found so that he gets
+[03:29] misinformation and that the people catch
+[03:33] on to the rat, the mole, and they're
+[03:35] able to go and give him false
+[03:36] information and catch this dude. Okay,
+[03:41] we're going to get him.
+[03:48] Call confusion in the camp.
+[03:52] Father, we thank you for confusion in
+[03:54] the camp. we call confusion in the camp
+[03:59] just like you did in the in the in the
+[04:01] Bible times where they turned on
+[04:03] themselves. Father, when they turn heard
+[04:05] the the they heard Gideon's army blowing
+[04:09] their horns and they and and they said,
+[04:11] "Sound the alarm." And Gideon, he was up
+[04:14] there.
+[04:18] No,
+[04:22] I'm I'm seeing a lot of detail right
+[04:23] now. I I can't talk about.
+[04:28] Help me, Holy Spirit, to never forget
+[04:29] this. I need to remember
+[04:33] [snorts]
+[04:47] my head's on fire on it, baby.
+[04:59] He's they're they're underground.
+~~~
+
+<a id="section-02"></a>
+## 02. 05:00–09:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[05:13] No way.
+[05:33] I want
+[05:42] Yeah.
+[05:44] He said, "Don't tip them off."
+[05:47] I'm The braveness is very detailed. I've
+[05:49] seen a lot.
+[05:52] Oh, I can tell you where these guys are.
+[06:10] I don't know what city this is, though.
+[06:13] I don't listen. I don't know what city
+[06:15] it is.
+[06:20] So, let me try to look at me.
+[06:27] [sighs]
+[06:28] Lord, I thank you. I ain't afraid. It's
+[06:30] not what it is. I mean, what wisdom?
+[06:34] I'm bold as a lion, Lord. I'm bold as a
+[06:37] lion. I'm bold as a lion. I see so
+[06:39] clear. I thank you for this, Lord. I see
+[06:42] it.
+[06:44] It's awkward that it's live.
+[06:50] Lord said just just pray into it. It's
+[06:53] not a big deal. He just said just brand
+[06:54] in just pray into it. You just you see
+[07:19] they'll never find him. They'll they'll
+[07:21] never without no key card. Yes, they
+[07:24] will. We call them exposed. We call this
+[07:29] this this base, this thing that I'm
+[07:32] okay. We call this thing exposed in the
+[07:36] name of Jesus.
+[07:48] >> [sighs]
+[07:53] >> How do
+[07:56] you show
+[08:04] [snorts]
+[08:50] I See, I see who is helping.
+[08:55] Right.
+[09:04] [snorts]
+[09:09] Father, I ask you right now for every
+[09:13] one of these politicians to be brought
+[09:15] to justice.
+[09:17] I ask you for these judges and these
+[09:19] people, this law enforcement to be
+[09:20] brought and exposed for who they really
+[09:23] are. I ask you, Father, for every single
+[09:27] one of them. Oh, I see why.
+[09:33] [snorts]
+[09:34] I see why.
+[09:54] Maraditoche.
+~~~
+
+<a id="section-03"></a>
+## 03. 10:00–14:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[10:12] forto.
+[10:38] Oh, what a tangled web we they weave.
+[10:42] Oh, what a tangled web they have weaved
+[10:50] on.
+[10:53] All hidden things be revealed in the
+[10:56] name of Jesus.
+[10:59] I see the justice department is right on
+[11:03] their heels.
+[11:05] Hear me? The blonde lady. I see her. I
+[11:08] see the I see B. Is her name Pam Bondi?
+[11:16] We pray for her to have wisdom. Is this
+[11:18] the woman I'm looking at right now? I
+[11:20] see this lady.
+[11:26] This woman. Pray for her. [snorts]
+[11:32] Is it she attorney general? General.
+[11:36] Okay, I want you to hear me.
+[11:39] Pray for her.
+[11:42] She has I We have to protect her.
+[11:50] We must protect this woman.
+[11:54] You must pray for her safety.
+[11:58] I I see something I cannot talk about.
+[12:03] It's very clear. It's
+[12:05] Okay. You must pray for her protection.
+[12:11] I see a bounty on her head. But it's but
+[12:14] it's in underground. It's underground.
+[12:17] You must pray for that woman's
+[12:19] protection.
+[12:22] I see like, you know, whenever you see
+[12:25] the old timey westerns
+[12:27] and they say 50,000 reward
+[12:31] on a on a billboard and it has the face
+[12:33] of the bad guy. It's in like a cartoon.
+[12:37] You know what I'm talking about? This is
+[12:38] what I see.
+[12:41] Oh,
+[12:45] there's more than one face. They have a
+[12:48] hit list for every one of these people
+[12:50] in the cabinet.
+[12:54] And there's certain amount of money. I
+[12:57] see who's going to who's funding it.
+[13:04] [sighs]
+[13:10] Oh, I I cannot say none of this outside.
+[13:15] >> [snorts]
+[13:16] >> I cannot say I can't say I can't say
+[13:23] okay you must I can say pray for her
+[13:27] safety pray for her you must pray for
+[13:30] this woman
+[13:32] you must pray for her
+[13:39] you must pray for her okay I pray a
+[13:44] blood of Jesus around her. I pray a
+[13:47] protection around about this woman right
+[13:48] now in the name of Jesus. And that the
+[13:51] angels of the Lord are camped around and
+[13:55] about her right now in the name of
+[13:57] Jesus. I call protection all around her
+[14:01] and around her vehicle. I see a SUV. I
+[14:06] pray a protection around and about this
+[14:09] black SUV
+[14:11] she's in.
+[14:14] >> [snorts]
+[14:14] >> I pray a protection around and about
+[14:16] this woman.
+[14:31] >> [sighs]
+[14:35] >> the number that is on her for $50,000
+[14:40] could that could be another zero 500 but
+[14:43] I see the number five and it goes faded
+[14:47] it's on the the billboard there
+[14:51] father I plead the blood of Jesus
+[14:54] I plead the blood of Jesus over this
+[14:56] woman. I plead the blood of Jesus over
+[14:59] her. She's good at her job. She's good
+~~~
+
+<a id="section-04"></a>
+## 04. 15:00–19:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、政党与政治人物。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[15:02] at her job. Give her supernatural wisdom
+[15:05] about the rats.
+[15:07] Give her supernatural wisdom. She she
+[15:10] she's she's uncovering things are too
+[15:12] close. Do you understand? She has
+[15:14] something. She has something. We must
+[15:18] protect her in the spirit.
+[15:21] She's about to uncover something bad. Do
+[15:24] you understand me? She's about to
+[15:26] underco. She's about to uncover
+[15:28] something that's a network
+[15:31] that is very bad. She has it
+[15:35] and it's like a football. [snorts]
+[15:39] It looks like a spiral football. That's
+[15:42] the only way the thickness, but it looks
+[15:44] like it like one of those Debbie food
+[15:45] cakes. It has the cream in the middle. I
+[15:49] know that sounds funny, folks. It's not.
+[15:51] This is like a spiral circle. It's
+[15:54] layers and she's going to uncover the
+[15:57] layers. She's going to expose this
+[16:00] layers. You must protect her in the
+[16:03] spirit realm. [snorts]
+[16:07] She's She's want She doesn't know what
+[16:09] to do with what she has.
+[16:12] We pray for her. We pray a hedge of
+[16:14] protection around about this woman.
+[16:17] Thank you, Father, for your angels
+[16:19] watching over her. Lord, said, "I've got
+[16:22] this."
+[16:23] That's why he just said he goes,
+[16:24] "Brandon, I've got this."
+[16:27] And when he when he says that to me,
+[16:29] that's that's my assurance. I know I can
+[16:31] release it because he said, "I got this.
+[16:34] I always wait for it. My son knows he's
+[16:36] got this." He said, "I've got this. I've
+[16:39] got this, Brandon."
+[16:42] Not that he doesn't have it all, but
+[16:43] that's always I look for him to say
+[16:45] that. He always has everything, ladies
+[16:47] and gentlemen. But I wait for him to say
+[16:49] certain things to me.
+[17:11] He goes clear down to the southern
+[17:13] border.
+[17:35] She She needs more information. She She
+[17:38] needs more information.
+[17:41] She needs more information. It's not
+[17:43] enough. It's not enough. I hear it's not
+[17:47] enough.
+[17:49] It's not enough.
+[17:51] She needs a little bit more to make it
+[17:55] enough. That's the word I hear. It's not
+[17:58] enough. I need a little bit more. She
+[18:01] says, "I just need a little bit more."
+[18:04] And it's sealed.
+[18:06] And this is serious.
+[18:09] I just
+[18:32] And it will be nailed shut. It It will
+[18:34] be nailed tight. Shut
+[18:38] [snorts] close.
+[18:41] done.
+[18:42] No squirming.
+[18:44] It's done. And it's involving this
+[18:47] certain man. I see his face.
+[18:52] Everyone knows who this man is. I see.
+[18:55] We just need a little bit more.
+[18:59] Can I say his name?
+[19:03] Oh my goodness. I'm seeing Braden.
+[19:07] This man is used to be in the Biden
+[19:09] administration.
+[19:12] He was in the Biden administration and
+[19:14] he gave Trump a lot of trouble.
+[19:21] I see him
+[19:23] and he is guilty.
+[19:26] Don't put his name in there. I don't
+[19:27] want my my live stream getting taken
+[19:29] down. So, if they're trying to guess who
+[19:31] he is, please leave it alone. I don't
+[19:34] The Lord said leave it alone. Don't
+[19:36] Don't get my live stream taken down the
+[19:38] YouTube. You want to keep praying the
+[19:41] south me.
+[19:44] So I just can't say some of this stuff.
+~~~
+
+<a id="section-05"></a>
+## 05. 20:00–24:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:05] It's on that drive.
+[20:08] You'll find it. Guide her, Lord. It's
+[20:11] right there. It's on that. It's right
+[20:14] there.
+[20:16] Open her eyes. Open her eyes that she
+[20:19] sees it tonight in her sleep. Open her
+[20:21] in her sleep.
+[20:24] Open it even in her sleep. Holy Spirit,
+[20:27] [snorts] show her. Show her.
+[20:31] Show her
+[20:33] through the back door of this computer
+[20:35] software. Through the back door. Through
+[20:39] the back door. I call her I call her to
+[20:43] see it through the back doors. Through
+[20:45] the back doors. To get it through the
+[20:48] back door. He tried to erase it.
+[20:51] He tried to hide it, but she'll get it
+[20:53] through the back door. I see a back
+[20:55] door.
+[21:07] for
+[21:34] social
+[21:36] medch.
+[21:40] Now, Father, I pray a hedge of blood
+[21:41] around me and my wife and my children.
+[21:43] And I put angels around us, Father. And
+[21:45] I thank you, Lord, that no weapon formed
+[21:47] against us will prosper.
+[21:51] [snorts]
+[21:53] I thank you, Lord, that trans
+[21:54] non-transparent angels are watching over
+[21:56] me and my wife and my kids.
+[21:59] I fear no evil.
+[22:02] I fear no evil, for you are with me.
+[22:07] I thank you for uncovering this and you
+[22:10] bring this man to justice. You bring
+[22:11] these people for it is it is it is a a
+[22:15] web a web a web they have weaved a web
+[22:21] it is a deep web. This goes way there's
+[22:24] there's there's it goes way way bad. I
+[22:29] see
+[22:56] The blood of Jesus.
+[23:11] We laugh at what the devil had planned.
+[23:14] We laugh at what you have said. We will
+[23:18] not have it. We have the victory and we
+[23:21] pray from the victory side and we
+[23:23] receive everything that you have for us
+[23:26] and every one of these rats will be
+[23:29] exposed and brought to justice and we
+[23:32] call Pam Bundy protected in Jesus name.
+[23:36] We call her a hedge around and about. I
+[23:38] don't know if she's married, if she has
+[23:40] kids, I don't know, but I call a hedge
+[23:42] around and about this woman in Jesus
+[23:44] name because I heard her name
+[23:46] specifically. I saw her face and the
+[23:48] Lord said, "You must protect her.
+[24:02] Foreign
+[24:05] [已省略：字幕明确标注的 speaking in tongues / foreign speech]
+[24:15] for
+[24:29] Mary.
+[24:42] foreign.
+~~~
+
+<a id="section-06"></a>
+## 06. 25:00–29:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[25:11] This is so much bigger than what anybody
+[25:13] could ever comprehend.
+[25:16] It's actually shocking all to me when
+[25:19] you, you know, when
+[25:34] we thank you for President Trump today.
+[25:36] We pray over his family. We pray over
+[25:39] his wife and his marriage, over his
+[25:41] health and all the witchcraft that's
+[25:43] been signed against him to try to take
+[25:44] him down. We thank you Lord that the
+[25:46] angels of the Lord are camped around and
+[25:47] about him in the name of Jesus. We pray
+[25:49] over over President Trump in the name of
+[25:52] Jesus that the angels of the Lord are
+[25:55] protecting his heart, protecting the his
+[25:58] arteries, his his arteries and his neck,
+[26:01] his blood flow and his feet. I thank
+[26:04] you, Lord, that he will live long and
+[26:07] finish strong and finish this this job
+[26:09] that he has to do. I pray over his
+[26:11] marriage. I pray over his his love life.
+[26:15] And I thank you, Father, that they have
+[26:16] a ref a re a refining
+[26:20] that they would come back together
+[26:21] stronger than they ever have before. The
+[26:24] main flow of what he's want to do is
+[26:26] pray for Pam Bundy and praying over
+[26:28] these people. And even, oh, listen to
+[26:32] this. Pray for Alex Jones. Pray for his
+[26:36] safety.
+[26:38] Pray for Alex Jones safety.
+[26:47] He's going to uncover some things.
+[26:50] [snorts]
+[26:52] You say, "Oh no,
+[26:55] he's deep state. He's this. He's that.
+[27:01] I see his heart changing.
+[27:05] I see a something. I see inside of him
+[27:10] an awakening.
+[27:13] An awakening unto God. Alex Jones is
+[27:17] going to have an awakening unto God. A
+[27:20] major major
+[27:22] awakening inside of him.
+[27:26] Alex Jones is going to have a major
+[27:28] awakening unto God moment. There's
+[27:31] something about to happen with this man.
+[27:35] You You need to hear this.
+[27:40] God's [snorts] going to spare his life.
+[27:43] God is going to spare his life.
+[27:46] And incidents like Charlie Kirk, God is
+[27:49] going to spare his life. I see his life
+[27:52] being spared. And he's going to have an
+[27:55] awakening unto God in the days ahead.
+[27:57] Watch this. Alex Jones is going to have
+[28:00] an awakening unto God.
+[28:14] He'll become very much a vocal p a
+[28:16] vocal,
+[28:18] cleaning things up and becoming more uh
+[28:23] awakened.
+[28:31] I can only tell you what I see in the
+[28:32] vision. You say, Brandon, does all the
+[28:34] visions you see come to pass?
+[28:39] Not all of them the way that the way I
+[28:41] see it. They're prayed away. Things are
+[28:43] moved. But I'm telling you,
+[28:46] you'll see it in the news. It's it's
+[28:49] it's a prophetic lens, ladies and
+[28:52] gentlemen. It's not prophetic.
+[28:54] It's seeing beyond of knowing how to
+[28:57] pray into something. Most people say,
+[28:59] "You're a prophet, Brandon." I have
+[29:01] never said that.
+[29:04] I see in the future how to pray for
+[29:06] things.
+[29:08] And I'm telling you what's coming. You
+[29:10] must pray for him.
+[29:13] You must pray for Alex Jones. You must
+[29:15] pray for this man. Same with Tucker
+[29:18] Carlson, but it's weaker. It's not as
+[29:21] strong. Something he's going to uncover.
+[29:24] There's something here.
+[29:27] They tries to try to silence. Try to
+[29:29] silence. Try to silence. And this time
+[29:33] they will they will they they'll be
+[29:35] about to succeed to silence him forever.
+[29:39] But the Lord will intervene. There's
+[29:42] something here.
+~~~
+
+<a id="section-07"></a>
+## 07. 30:00–34:59 · 预言、梦境与异象、经济、银行与市场
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、经济、银行与市场、祷告、敬拜与现场互动。 提到的地点：New York。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[30:16] Pray. Okay. He said you can close with
+[30:19] this. Pray for the economy.
+[30:40] It's all by design. It's all by design.
+[30:44] The government shutdown. It's all by
+[30:47] design.
+[30:55] I see the Federal Reserve. [snorts]
+[30:59] I see the Federal Reserve.
+[31:03] It's all by design.
+[31:07] That's what he said.
+[31:13] It will give us what we're looking for.
+[31:15] Do you understand?
+[31:17] It will give us It will give us what
+[31:19] we're looking for. A spark.
+[31:22] A spark. Close in this month. Close in
+[31:26] this month. Spark.
+[31:38] More points. More points.
+[31:42] More points.
+[31:47] you the housing market, the the the big
+[31:51] building business market.
+[31:54] Remember what he said? The pig. He's
+[31:57] walking a pig. I see it again. I see
+[32:01] Trump walking a pig. He's walking the
+[32:04] pig with lipstick on the pig.
+[32:07] He's parading the pig
+[32:10] and he's holding the interest rates and
+[32:13] he's he's he's talking about the housing
+[32:15] market and there's a green arrow. He's
+[32:18] holding this.
+[32:20] He's walking a pig.
+[32:23] He's walking a pig. [snorts]
+[32:51] Oh my goodness.
+[33:04] The Lord wants to give you a window. The
+[33:07] Lord wants to give you the window.
+[33:18] New York is in trouble. New York is in
+[33:20] trouble.
+[33:22] A great shaking is coming to New York.
+[33:26] A great shaking is coming to New York
+[33:30] with the real estate market with all of
+[33:32] it. I see many many many many million
+[33:35] the billionaire they're fleeing. They're
+[33:38] fleeing. They're fleeing. They'll leave
+[33:40] Toki Ro.
+[33:44] They're going down to Miami. [snorts]
+[33:47] They're going to Miami.
+[33:50] billionaires, the big businessmen,
+[33:53] they're leaving and they're going to go
+[33:54] to go to Miami. They'll go to Texas.
+[33:59] They're they're they're wanting to pack
+[34:01] their stuff up and they're leaving.
+[34:07] I see them fleeing like rats on a ship.
+[34:12] I see people with really nice suits on,
+[34:14] really nice, I'm talking big money
+[34:17] leaving. And I see West Palm Beach.
+[34:26] A great change is coming. A great change
+[34:29] is coming. Wealth transfers like wealth
+[34:33] coming from this state to this state.
+[34:49] Gavin's days are numbered.
+[34:56] And I'm not talking about death. I'm
+[34:58] talking about removal.
+~~~
+
+<a id="section-08"></a>
+## 08. 35:00–39:59 · 预言、梦境与异象、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、政党与政治人物。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[35:04] Say, when Brandon, when when do you see
+[35:06] this happen? All I I saw was him fading
+[35:08] away concerning California. You
+[35:11] understand? So I I'm going to instance
+[35:13] and say, "Well, it's political
+[35:15] violence." No, that's not what I'm
+[35:16] saying. It's talking about political
+[35:18] violence. It's like it people are
+[35:20] getting frustrated even more. You
+[35:22] understand? Like they're frustrated.
+[35:25] The rich are getting they're they're
+[35:27] they're very annoyed. [snorts]
+[35:31] It's almost like he he's he he fades
+[35:34] like in the background. He's trying to
+[35:36] just save face, trying to keep us keep
+[35:39] his because he wants to run for
+[35:41] president. You understand? He wants to
+[35:44] take the office of the United States of
+[35:46] America in 2028.
+[35:49] [snorts]
+[35:50] He wants his his influence to grow, to
+[35:53] come out. I'm telling you, with Booker,
+[35:56] do you understand who I'm talking about?
+[35:58] The African-American man, Gavin, I'm
+[36:01] telling you, will try to try to get
+[36:04] support
+[36:07] wanting their name in the hat like me.
+[36:11] That's my time.
+[36:15] [sighs] This man is dark. Booker,
+[36:26] they're they're they're they're it's
+[36:27] almost like they're they're they're
+[36:29] drunk on their own success. They're
+[36:31] drunk on their own power. They don't
+[36:32] even realize what people really think of
+[36:35] them. They, you know, and there's a
+[36:37] group of people like us. We we don't
+[36:39] like them, but they but they're drunk on
+[36:41] their own success, their own pride,
+[36:48] blinded by their own ignorance of who
+[36:50] they are inside.
+[36:52] But there's a face coming out of the
+[36:54] dark. Who is that? It's a woman. There's
+[36:58] a woman that's face is coming out of the
+[37:01] dark.
+[37:05] I can't make her out. I see uh it's like
+[37:09] a portal and a face is coming out of the
+[37:13] dark.
+[37:16] Who is that?
+[37:19] This is for the Democratic party.
+[37:22] [snorts]
+[37:34] It's a no.
+[37:39] They're trying to groom somebody.
+[37:41] [snorts]
+[37:45] They're trying to groom somebody.
+[37:47] [snorts]
+[37:52] It's like they're they're walking on a
+[37:54] limp. They're walking with a major limp.
+[38:00] too much momentum within within the
+[38:02] Republican.
+[38:14] Glory to God.
+[38:21] Wow.
+[38:25] The Lord said, "Randy, you can end it
+[38:27] there.
+[38:31] We love you, Lord. [snorts]
+[38:34] We love you, Lord.
+[38:36] We thank you, Father, for your voice. We
+[38:38] give you praise and glory.
+[38:41] Oh, for telling us the great story,
+[38:45] Father. What's coming, Father? Are you
+[38:48] telling us telling us, Father, thank
+[38:50] you, Lord,
+[38:53] of your son's return is coming soon.
+[39:02] Glory to God. Huh?
+[39:11] Remember, there'll be faces that you've
+[39:14] never seen before rise up in the days
+[39:16] ahead.
+[39:18] There'll be faces that you've never seen
+[39:20] before rise up in the days ahead.
+[39:23] Similar to, you know, how Barack Obama
+[39:25] came out of nowhere. ing light came up
+[39:28] the center came up and he exploded into
+[39:31] light. The reason I reason why I saw his
+[39:34] name because immediately I saw him in a
+[39:36] vision and Lord said remember how Barack
+[39:38] Obama did it. It was like
+[39:42] and his fame became overnight so many
+[39:45] people loved him.
+[39:53] He was Chicago, right?
+[39:57] Chicago and it came out of nowhere. It's
+~~~
+
+<a id="section-09"></a>
+## 09. 40:00–44:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[40:00] like Senate I believe
+[40:08] this one be try to be anointed by the
+[40:10] devil.
+[40:14] To be anointed by the devil.
+[40:19] men in a Christians, you better take
+[40:21] things more seriously. That's what he
+[40:23] just said.
+[40:25] You better take things more seriously.
+[40:28] We are are we we are we will not lose
+[40:32] this nation. It will not become a goat
+[40:36] nation. We will remain a sheep nation.
+[40:43] And you we think because we have this
+[40:45] window of opportunity with the President
+[40:46] Trump that you let your guard down. We
+[40:49] occupy until he comes.
+[40:52] We occupy until he comes. We must pray
+[40:56] against these things.
+[40:58] We have a window and the Lord has
+[41:01] blessed us with this window. [snorts]
+[41:02] But do not squander it. Do not put your
+[41:05] head back in the sand and go, "Well,
+[41:08] it's okay. We're going home in the
+[41:10] rapture.
+[41:11] We occupy until he comes. No man knows
+[41:15] the day or the hour. I have a what I
+[41:17] feel I pull to within three and a half
+[41:19] years. But what if not? We just go,
+[41:21] "Well, we let go of the rope. We lose
+[41:23] the nation again." No. The devil has a
+[41:26] plan. And but God has a bigger plan. We
+[41:29] must pray out the plan. Do not give up
+[41:33] and go, "Well, it's not my problem
+[41:35] anymore. We have Trump. He needs our
+[41:38] help." And Pam Bondi needs our help. Do
+[41:40] you understand? That's why we have this
+[41:42] channel. We must pray for their
+[41:45] protection and for them they have wisdom
+[41:47] on how to nail this thing closed.
+[41:50] [snorts]
+[41:51] These people are like slippery little uh
+[41:54] snakes. They're lizard worm. They're
+[41:56] able to get out of things real easy. But
+[41:59] you want their case to be firm and and
+[42:02] to be nailed tight
+[42:05] so that whenever it goes to this, they
+[42:08] won't be able to say they got away. It
+[42:09] has to be nailed tight. It's not enough
+[42:12] yet. As the Lord says, it's not enough
+[42:15] yet. You must continue to pray for her,
+[42:19] but she needs protection. [snorts] This
+[42:21] is very serious. All on this list, this
+[42:24] hit list. All on this list. See, it's an
+[42:27] underground chatter. This underground
+[42:30] chatter. And there's a list of people.
+[42:32] And there's a bounty on their heads on
+[42:35] each one.
+[42:36] Okay? Some are priced higher than the
+[42:40] others.
+[42:43] Okay? There's somebody big funding this.
+[42:47] Each one
+[42:50] and even Supreme Courts,
+[42:53] do you understand what I'm telling you?
+[42:55] There's a list
+[42:57] and it's underground chatter
+[43:00] and there's a bounty and we must protect
+[43:03] them by the blood of the Jesus.
+[43:07] I don't know how these people
+[43:08] communicate. Uh I I I I believe I have a
+[43:11] a glimpse of it,
+[43:13] but they but but they they're looking
+[43:15] for somebody who has courage
+[43:17] in their eyes. They want to bring us
+[43:21] uh instability
+[43:24] in the nation to bring in radical uh
+[43:28] jihad. And we have the greatest leaders
+[43:30] that we've had in in decades over our
+[43:33] beautiful nation.
+[43:36] We must pray for them. They're
+[43:38] underneath attack. We must pray for them
+[43:41] that they're protected by the blood of
+[43:42] Jesus. Do you understand?
+[43:45] You don't you? Well, it's not my
+[43:46] problem. No, it is your problem. You God
+[43:49] has given you authority to pray over
+[43:51] your area and you pray over our law
+[43:53] enforcement. You pray over our FBI. You
+[43:56] pray over our homeland security and our
+[43:58] Secret Service. You intercede for them.
+[44:00] It's your job. Especially because as
+[44:02] America goes, so does the world.
+[44:06] It's so important. You cannot just go,
+[44:09] "Well, it's your problem, Brandon. It's
+[44:11] your problem, uh, Billy or whoever. You
+[44:14] No, it's all our We're the body of
+[44:17] Christ. We're we're we're a team. We're
+[44:19] we're we're all part of the body. Not
+[44:21] one of us is more special than the
+[44:23] other. But I'm telling you, for what I
+[44:25] just saw that I can't even talk about
+[44:28] it, you must pray for these people.
+[44:33] This is very serious. It's not just
+[44:35] about Donald's family.
+[44:38] I saw something more tonight.
+[44:41] And we must pray for them. And I know
+[44:44] [snorts] I keep saying that, but I I bet
+[44:46] I'll keep I'll keep going over this and
+[44:48] over this and over this. Pray over
+[44:50] Giuliani.
+[44:52] Praying over over over these people.
+[44:54] Pray. Pray protection each day. Mike
+[44:58] Huckabe, pray over Mike Huckabe.
+~~~
+
+<a id="section-10"></a>
+## 10. 45:00–49:59 · 预言、梦境与异象、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[45:02] You understand? Pray for his safety.
+[45:06] Pray for his safety.
+[45:08] Radical, radical people with deep
+[45:13] pockets.
+[45:16] And you know what I think right now?
+[45:18] Look, listen to me. if they would pass
+[45:21] laws
+[45:22] to regulate crypto,
+[45:26] not trying to put their finger in the
+[45:28] pie, but but but these bozos are using
+[45:34] this. Okay,
+[45:38] [sighs]
+[45:40] there's so much do so much of this.
+[46:09] All that underground money,
+[46:12] all that money transferring around.
+[46:15] All of it. It's under the surface.
+[46:20] It's under the surface.
+[46:49] It's like I see a tentacle here.
+[46:53] [snorts] I see a tentacle here. I see a
+[46:55] tentacle here. And this one is This one
+[46:57] has sex trafficking on it.
+[47:01] This has fentanyl on it.
+[47:05] This is human trafficking.
+[47:09] [snorts]
+[47:19] Even body part trafficking
+[47:22] you like organs.
+[47:26] Pizza gate.
+[47:36] Oh my god.
+[47:43] My god.
+[47:52] These people are so going to be so
+[47:54] judged.
+[47:59] I don't even know how you could forgive
+[48:01] this.
+[48:06] They are sick.
+[48:11] I' I've seen enough tonight. I'm tired.
+[48:17] Sick, man.
+[48:20] What is What is wrong with people, man?
+[48:22] They're so messed up.
+[48:26] God just show me something very heavy.
+[48:29] [snorts]
+[48:34] These people
+[48:42] [sighs]
+[48:43] go
+[48:53] Their
+[49:06] day of judgment's coming.
+[49:09] You touch the children.
+[49:11] You touch the children. [snorts] I'm
+[49:14] telling you, your day is coming.
+[49:20] >> [sighs]
+[49:23] >> They think they get away with it now,
+[49:24] son.
+[49:29] But it would have been better for them
+[49:30] never to be born of all.
+[49:38] It makes me angry.
+[49:44] I don't understand what they're doing
+[49:46] with that.
+[49:51] It's [snorts] through witchcraft. It's a
+[49:53] lot of darkness as it's associated with
+[49:55] it. Jesus is coming. That's all that I
+[49:59] keep focused on. Jesus is coming.
+~~~
+
+<a id="section-11"></a>
+## 11. 50:00–52:48 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[50:01] [snorts] Yep. The world's going to get
+[50:03] darker, but the church is going to get
+[50:06] lighter. And I thought, I don't care
+[50:08] about all that. I can't look at it. A
+[50:10] little glimpse of that. That was enough
+[50:11] for me. I don't want to look at that
+[50:13] ever again, Lord. I don't want to look
+[50:15] at that. Good Lord.
+[50:18] I plead the blood. I plead the blood.
+[50:20] [snorts] Man, this thing is I There's so
+[50:22] many different directions I can pray
+[50:23] now. That's why there's so many of us,
+[50:25] right? [snorts] It's not all on me. I I
+[50:29] I tell you and you all can pray about
+[50:31] it. I have my my playful I just felt
+[50:35] really impressed to pray for Alex. Alex
+[50:37] Jones. I can't keep crying because it
+[50:39] makes my nose running and my and that
+[50:41] and the cold front blew through tonight
+[50:45] and [snorts] it blew some different
+[50:46] allergies in on me
+[50:49] and uh it's made my nose run and my my
+[50:52] voice
+[50:54] sound like that. But I feel good. It's
+[50:56] just I first freeze. I need it to freeze
+[51:00] and whenever it freezes things will die.
+[51:03] Glory [snorts] to God.
+[51:05] It's [clears throat] heavy. I'm I'm
+[51:07] done. I'm tired. That was a lot. And so,
+[51:10] um, y'all have a lot to pray over.
+[51:13] [laughter]
+[51:14] It's I I It's not all on me. I bring it
+[51:17] to you. But I'm going to tell you, if
+[51:19] you don't pray for Pam Bundy, you
+[51:21] [snorts] don't pray for Alex Jones, you
+[51:23] don't pray for these people. There's a
+[51:26] lot there that I I'll never be able to
+[51:28] talk about publicly, but I saw a lot
+[51:31] tonight. And I told you surface. And I'm
+[51:34] telling you, by the power of God, we can
+[51:37] stop these people. [snorts] We can we
+[51:39] can we can uncover and take the head of
+[51:41] the snake. And I believe Jesus gets the
+[51:44] victory. We get the victory. We have the
+[51:47] victory that overcomes the world, even
+[51:50] our faith. Jesus is Lord over America.
+[51:55] Jesus is Lord over the southern border.
+[51:59] Jesus is Lord over MS13.
+[52:02] Jesus is Lord over the FBI. Jesus is
+[52:06] Lord over corrupt government officials
+[52:08] and over our judges and over our our
+[52:11] corrup corrupt people in this country.
+[52:14] And and all hidden things will be
+[52:17] revealed by the power of the blood of
+[52:19] Jesus. I believe with all my heart God
+[52:22] didn't show me this stuff just to show
+[52:25] it to me. but to tell you we have
+[52:27] authority and if we take our authority
+[52:30] we can we will have a victory. Do you
+[52:32] understand? He didn't tell it to to me
+[52:35] to sit there and go well Brandon this is
+[52:37] what's happening. There's nothing you
+[52:39] can do about it. He doesn't he God does
+[52:41] not hear himself. He does not speak to
+[52:43] hear himself talk. He makes he makes he
+[52:46] speaks to make real things happen in a
+[52:48] real world. Remember that.
+~~~

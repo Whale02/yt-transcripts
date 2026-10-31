@@ -1,0 +1,1213 @@
+# Praying for unsaved loved ones praying for you to receive your miracle today ￼￼
+
+**视频**: https://www.youtube.com/watch?v=JAFo3wWOWJU
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/Praying for unsaved loved ones praying for you to receive your miracle today ￼￼ [JAFo3wWOWJU].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 1070；**章节数**: 12；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-01)
+- [02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-02)
+- [03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-03)
+- [04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-04)
+- [05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
+- [06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-06)
+- [07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
+- [08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-08)
+- [09. 32:00–35:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-09)
+- [10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-10)
+- [11. 40:00–43:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
+- [12. 44:00–47:01 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-12)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] hey good morning family thank you for
+[00:02] joining us today uh we are going to
+[00:04] start praying and we're going to have a
+[00:06] prayer Channel more and more and more
+[00:08] you know uh that's what the Lord has uh
+[00:10] told me to do and he told Diana to do
+[00:12] the same thing we're going to start
+[00:13] doing it more you know it's not really
+[00:15] prophetic some of the things I see I
+[00:17] feel like they're warnings as Watchman
+[00:20] uh and watch women and men of of God
+[00:22] we're Watchman and we are going to start
+[00:25] uh praying against some of the things
+[00:28] that the Lord has showed us it's not
+[00:30] just to tell you about it and just go
+[00:32] hey sell the alarm and then do nothing
+[00:34] about it we're called to change things
+[00:37] and prayer that's our whole our whole
+[00:40] slogan Prayer Changes Things and we
+[00:43] believe in the power of prayer and we
+[00:45] got our first uh uh picture today in the
+[00:49] mail because we told you all to send
+[00:52] your uh pictures to us so we could pray
+[00:54] over your families whatever you are are
+[00:57] are believing God for you know right on
+[00:59] the back of the picture or whatever uh
+[01:01] this is what we're believing for um and
+[01:04] Diana and I will pray over it right now
+[01:06] and then right on the back of it hey we
+[01:07] do not want this shown or it's okay to
+[01:09] share share the picture cuz you know
+[01:11] some people don't want to be all over
+[01:13] the Internet so but we're going to pray
+[01:14] for this family today they sent it to us
+[01:16] and they her husband's dressed up in a
+[01:18] tuxedo her her other son and they're all
+[01:20] they look like they're at a wedding or
+[01:22] something they all look nice very nice
+[01:24] very classy family and so we're going to
+[01:26] pray for that this woman says that her
+[01:28] son is wayward and um he is he is not
+[01:31] talking to the family anymore and it's
+[01:34] it's pretty rough situation it sounds
+[01:35] like but we're going to believe God that
+[01:37] he's going to turn around and that that
+[01:39] he's coming home and this wayward son is
+[01:41] going to come home and he's going to be
+[01:43] on fire for Jesus yes no more this you
+[01:47] know the enemy is after the young people
+[01:50] I believe because they are going to be
+[01:52] the the forerunners of this great
+[01:54] Revival that's about to take place when
+[01:56] we go to U when we go to these places
+[02:00] and drive around uh I just have a a an
+[02:03] urgency for the college kids you know
+[02:07] because I know what God is about to do
+[02:09] on these campuses someone mailed me
+[02:11] something in the mail that showed those
+[02:14] some of the college campuses having
+[02:16] revivals taking place and I'll have to
+[02:18] show that sometime it the yeah I I
+[02:20] remember that there was it was all over
+[02:22] several college campuses they're having
+[02:25] major uh baptisms and and salvations and
+[02:28] Altra calls amazing stuff's going on but
+[02:31] I believe we're seeing the first
+[02:34] fruits that will start to spring up he
+[02:37] told me March April May that we would
+[02:40] start to see the first fruits of the
+[02:42] outpouring of the finances well it's
+[02:45] already been a major thing that happened
+[02:48] Friday now some people say that was a
+[02:50] big nothingburger nothing happened on
+[02:52] Friday with the the crypto Summit and
+[02:54] all the things that happened folks we
+[02:57] have a president that is pro crypto
+[02:59] saying out of his mouth that we want to
+[03:02] have a Bitcoin Reserve we want to have
+[03:04] this stuff last Administration was was
+[03:07] trying to sue everybody and Sue the uh
+[03:10] SEC was after everything it sounds to me
+[03:14] like we have for the first time an
+[03:16] Administration saying hey we want to
+[03:19] join this new platform of new technology
+[03:23] so that in itself is a miracle without
+[03:27] having some kind of big winfall of a fin
+[03:30] outpouring we see the
+[03:32] foundation like I told you a foundation
+[03:35] being laid for the wealth of the sinner
+[03:39] laid up for the righteous is it we're
+[03:41] seeing the first blades we have the
+[03:43] blade then we have the ear then we have
+[03:46] the full manifestation and then we have
+[03:48] the crop the huge huge field of of
+[03:51] harvest
+[03:53] so it has to start somewhere and I
+[03:56] believe we just saw barely just a little
+[03:58] blade poke up out of the dirt saying
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:01] hello I'm here and that should get you
+[04:04] excited in itself because blasted like I
+[04:07] said last Administration with Pocahontas
+[04:10] what was her name Elizabeth Warren
+[04:12] Elizabeth Warren Pocahontas she don't
+[04:14] like crypto and she's like we're going
+[04:16] to we're going to uh stop it we're going
+[04:18] to destroy it we're going to do
+[04:20] everything we can and and here we have
+[04:22] uh president Trump saying what's let's
+[04:24] make America great again and all this
+[04:26] stuff and it it's something to look
+[04:28] forward to so we have a president saying
+[04:30] let's make America great again with
+[04:31] crypto and all this stuff so at least
+[04:33] Pocahontas might be quiet for a little
+[04:35] bit in the SEC so uh you know well
+[04:38] praise the Lord it is what it is Diana
+[04:41] these people are evil and so you know
+[04:43] they can't even stand up for a cancer
+[04:45] patient I mean you know we got people
+[04:47] sitting down for people of cancer and so
+[04:51] God help them all uh you know it is what
+[04:54] it is well we're going to pray now I I
+[04:56] told the L the Lord said make five
+[04:57] minutes don't don't sit here and Ramble
+[04:59] On so we're going to we're going to make
+[05:01] it just five minutes of talking and
+[05:03] we're going to do a lot of praying so so
+[05:06] okay so let's get praying we're going to
+[05:08] take communion with
+[05:10] y'all we're going to take this communion
+[05:12] and we're going to get real I'm going to
+[05:14] come into the throne room of God this is
+[05:16] what we do in this household we never
+[05:18] enter into prayer without taking
+[05:20] communion first this it because I'm
+[05:22] showing what what is what is mine is
+[05:25] God's and what's God's is mine and
+[05:28] everything that he has provided for me I
+[05:30] receive it by the blood of the lamb and
+[05:32] by the word of Our Testimony he has
+[05:34] redeemed us he set us free and he we
+[05:37] enter into his throne boldly because of
+[05:40] his son's blood because of what he did
+[05:42] for us on that beautiful on that cross
+[05:45] and thank you to whoever sent this to us
+[05:47] yes they sent these communion cups to us
+[05:50] isn't that Amazon yeah Amazon you know
+[05:53] Amazon has everything y'all so thank you
+[05:55] for whoever sent all this I won't say
+[05:57] your name on there in case you don't
+[05:59] want to but but you sent us a two boxes
+[06:01] it's a blessing thank you what a
+[06:02] blessing so father we take this body
+[06:04] right now in the name of Jesus you just
+[06:06] have a cracker it's good yeah if you
+[06:07] have a cracker does to you can have a
+[06:10] and people say that's disrespectful God
+[06:12] knows your heart I take a potato chip I
+[06:14] take whatever I can just to get close to
+[06:16] the father what it represents it's in
+[06:18] your heart I come before him boldly with
+[06:21] my heart if it's a piece of bread or
+[06:23] whatever I have and people go well
+[06:25] that's disres no don't be religious just
+[06:29] look at him and say Jesus I want to be
+[06:31] close to you I want to know you I want
+[06:35] to know you more than I know my my past
+[06:39] memories I I I'm desperate for change
+[06:43] but some people can't afford this yeah
+[06:46] some people can afford this some people
+[06:48] some people can't afford much right but
+[06:51] if you do this daily and you seek Him
+[06:55] daily and you sew when he tells you to
+[06:58] seow and you give and it shall be given
+[07:01] unto you good measure pressed down
+[07:03] shaking together and running over will
+[07:05] men give un your bsom I believe that he
+[07:08] said in his word in Malachi that he
+[07:10] would rebuke the devour for your sake
+[07:12] even if it's just a penny yes and he
+[07:15] said that he would do that so I believe
+[07:18] what he said I believe what he says more
+[07:21] than I believe my
+[07:22] circumstances regardless of what our
+[07:24] circumstances look like yes I'm not
+[07:27] moved by what I see I'm not moved by
+[07:30] what I feel I'm moved by what the word
+[07:33] of God says regardless of what I have in
+[07:36] the
+[07:37] bank the Bible says that I'll be the
+[07:40] lender and not the borrower regardless
+[07:43] of what I have in the
+[07:45] bank I'm going to be the lender and not
+[07:49] the
+[07:50] borrower that I will be able to lend the
+[07:53] Nations now I don't know about you but
+[07:55] to be able to lend to a
+[07:57] nation that's substantial
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:00] mm you can't just say well I've got I've
+[08:03] got $1,000 and I'm going to lend it to
+[08:05] the
+[08:06] UK well they're going to you go are
+[08:08] you're crazy it needs to be hundreds of
+[08:11] millions of dollars in the bank to say
+[08:13] I'm A lender to Nations I'm A lender to
+[08:16] people I'm A lender well what kind of
+[08:18] money is that the United States gives
+[08:21] money to people and you think about how
+[08:23] much money that is that's billions mhm
+[08:26] so that's exceedingly abundantly above
+[08:28] all that you dare ask or think but how
+[08:30] do you start there you start there with
+[08:32] a seed and what does a seed do it brings
+[08:35] forth
+[08:36] increase a seed brings forth increase
+[08:40] some 30 some 60 and some 100 fold how do
+[08:44] you know it's going to produce 100 fold
+[08:46] by the ground you're sewing it into if
+[08:49] you're sewing into bad ground don't
+[08:51] expect a big Harvest if you're sewing
+[08:54] into good ground you're going to get a
+[08:56] big Harvest now some people may sew it
+[08:59] into into Rocky ground and they may not
+[09:00] get nothing but some people may sew it
+[09:02] into manure and it's going to
+[09:05] produce 100 fold it's going to get a big
+[09:08] Harvest it's all in the ground you're
+[09:11] sewing into and people get frustrated
+[09:14] they go well I've never I've never
+[09:16] received back hardly anything check the
+[09:17] ground you're giving
+[09:19] into check the ground you're giv into
+[09:22] don't be dumb a farmer don't sew into
+[09:25] bad ground if he wants a big harvest the
+[09:27] farmer sews into manure and are or our
+[09:30] fertilized ground that's going to reap
+[09:33] back so that's what we're going to do
+[09:35] today we're going to believe God with
+[09:37] you now father I thank you for their
+[09:39] ground I thank you Father that whatever
+[09:42] they put their hands to will prosper and
+[09:45] father we take authority over the spirit
+[09:48] of of poverty lack not enough and barely
+[09:51] getting by we break your stronghold off
+[09:55] of them in the name of Jesus and we say
+[09:57] you let go of their money now in Jesus
+[10:01] name no more of this poverty over the
+[10:05] body of Christ father I thank you Lord
+[10:08] that you said that you would provide uh
+[10:10] everything according to your riches and
+[10:12] Glory by Christ Jesus all our needs are
+[10:15] met according to your riches and Glory
+[10:18] now father we thank you Lord that it's
+[10:19] not just about finances it's about our
+[10:22] health and you said you became sick you
+[10:25] became poor you became everything you
+[10:29] took it all on the cross for us and
+[10:31] father we thank you Lord that you said
+[10:33] that you did that in your word that you
+[10:35] became poor you became you became sick
+[10:38] you became all those things the
+[10:41] chastisement of our peace was upon you
+[10:44] and with your stripes we're healed now
+[10:48] Lord we take up this body right now that
+[10:50] you were wounded for our transgressions
+[10:52] you were bruised for our iniquities the
+[10:54] chastisement of our peace was upon you
+[10:57] and with your stripes were healed and we
+[10:59] believe we receive today the mill the
+[11:02] ills that as we take this body in our
+[11:06] body we're healed and whole and well in
+[11:08] the name of Jesus nothing missing
+[11:10] nothing broken from our lives today in
+[11:13] Jesus name thank you Lord now Lord you
+[11:16] said to make much of the blood and the
+[11:18] blood will make much of you we believe
+[11:21] it I've heard a man say that it's not
+[11:24] the Lord that said that but I believe
+[11:25] the Lord spoke it through him that that
+[11:28] that we make much of the blood and the
+[11:30] blood will make much of us and we take
+[11:33] this Blood right now in the name of
+[11:35] Jesus and we plead the blood of Jesus
+[11:38] over our families over our sins over us
+[11:41] and we thank you Lord that the blood the
+[11:43] blood washes it all away that we don't
+[11:46] have it anymore today because when we
+[11:49] confess our sins you're faithful and
+[11:51] just to forgive us of our sins and
+[11:53] cleanse us from all unrighteousness and
+[11:56] Lord we plead the blood of Jesus over us
+[11:58] from the top of our head to the souls of
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:00] our feet we plead the blood father we
+[12:03] thank you for the blood of Jesus today
+[12:05] and we take it right now in Jesus
+[12:09] name thank you Lord for the blood now
+[12:12] you say well I don't like the way you
+[12:13] take communion it's just the way I take
+[12:15] communion if you don't like it take it
+[12:17] the way you like
+[12:18] it there's no I don't believe there's no
+[12:20] right or wrong way to take communion
+[12:23] there's only just seeking
+[12:25] Jesus find him with all your heart find
+[12:29] find
+[12:30] relationship not not
+[12:33] Pharisee the Pharisees had a strict way
+[12:36] of doing everything but relationships
+[12:39] just it's just it's just
+[12:41] worship I worship him today I worship
+[12:45] today so father we lift up Christian
+[12:47] before you right now this young man and
+[12:49] we say Christian you're coming home in
+[12:52] Jesus name we speak for this family to
+[12:55] be reunited we say Satan take your head
+[12:59] hands off a Christian and his family and
+[13:02] we thank you Lord that the eyes of his
+[13:04] understanding would be enlightened
+[13:05] father flooded in the name of Jesus we
+[13:08] call that family restored and we call
+[13:11] him born again and on fire for the Holy
+[13:15] Spirit I thank you Father that you've
+[13:17] called us to the kingdom for such a time
+[13:19] as this to pray over the ones that are
+[13:21] lost to pray over the ones that are
+[13:22] Wayward and father as a point in contact
+[13:25] for all the other ones that are Wayward
+[13:27] on this channel that you're believing
+[13:29] for your unsaved loved one we're
+[13:31] believing with you right now that Satan
+[13:33] has to let go of those unsaved loved
+[13:35] ones right now and we call them into the
+[13:38] kingdom of God in the name of Jesus we
+[13:41] thank you Lord that their eyes of their
+[13:43] understanding would be flooded with
+[13:45] light the father that your hand is on
+[13:47] them and upon them and father that that
+[13:50] father that that it says in your word
+[13:52] that Satan has blinded the eyes of the
+[13:55] unbelievers so father I thank you that
+[13:58] their eyes are no longer blinded by the
+[14:00] Demonic in jesus' name Jesus that this
+[14:04] will be a time like we've never seen
+[14:06] before of a great turnaround Great
+[14:09] Harvest great turnaround in families in
+[14:12] the name of Jesus great turnaround in
+[14:14] the name of Jesus you will come to the
+[14:17] saving knowledge of the Lord Jesus
+[14:19] Christ we bind this demonic spirits off
+[14:22] of the families and we say that you will
+[14:25] thus far and no further and you'll let
+[14:28] them go in Jesus name and we thank you
+[14:31] Lord that there will come to know you
+[14:34] and your saving knowledge and how much
+[14:37] you love us
+[14:39] father father we give you praise and
+[14:42] glory and honor and we call a
+[14:45] turnaround a turnaround in each and
+[14:48] every single one of your lives a
+[14:50] turnaround in your marriages a
+[14:52] turnaround and your in your children and
+[14:54] your wayward children and your
+[14:55] grandchildren or whoever you're
+[14:57] believing for we call turn around around
+[14:59] in Jesus
+[15:01] name that that this is the time of the
+[15:03] Great
+[15:05] Harvest now father I thank you Lord for
+[15:07] healings over their
+[15:09] bodies we call forth healings and
+[15:12] demonstrations and manifestations of the
+[15:14] glory that father this is the
+[15:17] time not to be always looking for
+[15:21] tomorrow but we look for today that
+[15:24] there will be a turnaround in your
+[15:25] marriages right now that you say man
+[15:28] when I come home from work we're going
+[15:30] to walk in love that our marriage is
+[15:32] going to be strong and our marriage is
+[15:34] going to be blessed that we take our
+[15:37] authority over our marriages we say
+[15:39] there's peace that passes our
+[15:41] understanding over these homes that
+[15:43] there's no Strife in the name of Jesus
+[15:45] we bind Strife in jesus'
+[15:48] name and we thank you Father that there
+[15:50] is great love and there's great peace in
+[15:53] these homes and marriages and that they
+[15:55] will they will they will not get
+[15:57] divorced they will have Unity they'll
+[15:59] have peace and they'll be and and the
+~~~
+
+<a id="section-05"></a>
+## 05. 16:00–19:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、特朗普与白宫。 提到的地点：Canada。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[16:01] children will be raised up in a Godly
+[16:03] way and when they get over older they
+[16:05] will not depart from it we believe
+[16:09] father that there's peace that passes
+[16:10] our understanding over these houses and
+[16:13] I thank you Father that the men will
+[16:14] rise up and and be what they're called
+[16:17] to be to be the spiritual backbone of
+[16:19] that home and father that they will not
+[16:22] W uh be be wward in their thinking and
+[16:26] and and not do uh Godly principles in
+[16:28] their
+[16:30] households that men will be the Davids
+[16:33] and and go after the Giants and slay
+[16:36] them in the name of Jesus that they will
+[16:39] be what they're called to be these men
+[16:41] of God will rise up in these homes and
+[16:44] that we have the Esther rise ups and the
+[16:47] Hannah and father they would rise up and
+[16:49] and be the women the Proverbs 31 Woman
+[16:53] in those homes and father they they not
+[16:55] have a Jezebel spirit or a Delila spirit
+[16:58] but father they'll rise up and be what
+[17:00] they're called to be and and help to be
+[17:03] a support mate to that husband and
+[17:05] father I thank you Lord that these wom
+[17:07] men and women of God will join together
+[17:09] and be a unity and bring in peace and
+[17:13] will bring in this Great Harvest and
+[17:15] they'll not be double-minded doing doing
+[17:18] things that are ungodly in the
+[17:20] households and father I thank you Lord
+[17:22] that there'll be people that will raise
+[17:23] up and be Godly and be the salt of this
+[17:26] Earth in these last days decreeing a
+[17:29] thing saying we as for me and my house
+[17:32] we will serve the Lord with all our
+[17:35] heart with all our minds with all our
+[17:37] soul and all our strength and we turn
+[17:39] from our Wicked Ways father and we will
+[17:42] and you said that you would heal our
+[17:45] Land If my people who are called by my
+[17:48] name that will humble themselves and
+[17:50] pray and turn from their Wicked Ways
+[17:53] then you said we would hear from heaven
+[17:56] and they would and you would heal our
+[17:57] land and father I thank you Lord that
+[18:00] we're turning from our Wicked Ways today
+[18:01] we're turning from our our ways of
+[18:03] reprobate minds and we're coming back to
+[18:06] you Bolder and stronger than we've ever
+[18:08] been before I thank you Father for a
+[18:11] supernatural turnaround we thank you
+[18:13] Lord for a supernatural turnaround in
+[18:15] this nation father I thank you Lord for
+[18:17] our president for our vice president
+[18:20] father we come before you boldly that
+[18:22] you give president Trump wisdom you told
+[18:25] me but there's not enough prayer going
+[18:26] up for him there not enough prayer going
+[18:28] up for president Trump there's not
+[18:30] enough prayer going up for Vance so we
+[18:32] pray for them Father right now on this
+[18:34] channel we pray for our leaders for the
+[18:36] new uh German leader for the new uh uh
+[18:40] South Korean leaders and for can
+[18:42] Canada's new leader you told me to pray
+[18:44] for the Canadian Prime
+[18:47] Minister father I thank you Lord that
+[18:49] Justin Trudeau is removed in Jesus name
+[18:53] that his days of being in power are over
+[18:56] and father he would resign and move on
+[18:58] out out of the way father I thank you
+[19:01] Lord that a Godly leader would rise up
+[19:03] in Canada and take the Paton and Lead
+[19:06] that nation and there would be glory to
+[19:08] glory from sea to Sea father there will
+[19:10] be a mighty move of the presence of the
+[19:12] Lord all throughout Canada in the name
+[19:14] of
+[19:15] Jesus we thank you Lord that there would
+[19:18] be Godly leadership rise up in each
+[19:20] Nation father that there would be a
+[19:22] turnaround in in these nations in jesus'
+[19:24] name we even thank you Father uganda's
+[19:26] president and over that father we've
+[19:28] been asked to pray over it in the next
+[19:31] so many years father there will be a
+[19:33] rising up of Godly
+[19:38] leadership We Believe father for
+[19:40] president Trump has protected from the
+[19:42] north the South the East the West
+[19:44] there's angels that are watching over
+[19:46] him that you said that you would bear us
+[19:48] up in your their hands lest we Dash our
+[19:50] foot against the stone for Supernatural
+[19:53] wisdom over these situations father on
+[19:56] how to deal this crypto out we call
+[19:59] forth that wealth transfer right now in
+~~~
+
+<a id="section-06"></a>
+## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:01] the name of Jesus that there's no more
+[20:04] delay there's no more delay in Jesus
+[20:08] name we call forth no more delay in
+[20:10] Jesus name over the the rising of the
+[20:13] crypto father for this will be the great
+[20:15] wealth transfer to bring forth the
+[20:18] Harvest in the name of
+[20:21] Jesus father defund the Harvest we say
+[20:25] thus far and no further Satan take your
+[20:28] hands off of this crypto and we say let
+[20:31] it go now in Jesus name we pray over the
+[20:33] Iraqi dinar we call you to reinstate and
+[20:36] reinv value right now in the name of
+[20:39] Jesus we call gold and silver we s we
+[20:42] call it to soar and highest prices that
+[20:45] we've ever seen before to bring forth a
+[20:48] supernatural wealth transfer and for
+[20:51] creative ideas to get wealth like we've
+[20:54] never seen them before father I thank
+[20:57] you Lord that you said seek ye first the
+[20:59] kingdom and all these things will be
+[21:01] added unto us so father we seek you
+[21:03] today and we believe father that as we
+[21:07] seek you father we will find you and we
+[21:09] will hear the the good Shepherd's voice
+[21:12] we hear you father on what we're
+[21:13] supposed to do we thank you Lord that
+[21:16] we're always in the right place at the
+[21:17] right time hearing you father we thank
+[21:21] you Father for creative ideas father for
+[21:24] that you would anoint our hands to do
+[21:26] father what you need us to do and a
+[21:28] supernatural
+[21:30] way father we pray over our hands that
+[21:33] be blessed we pray over our hands that
+[21:36] whatever we put our hands to will
+[21:38] prosper that we are the head and not the
+[21:40] tail we're above and not beneath we'll
+[21:42] go through and not go under We Believe
+[21:44] father that for such a time of this
+[21:46] you've called us to the kingdom and
+[21:48] you've called us to rise up and be that
+[21:50] head and not the tail that we'll not go
+[21:53] under no more father we'll not be in
+[21:55] that bottom of that pit the pit wasn't
+[21:58] designed for us father I thank you Lord
+[22:00] that we're going to come out of that in
+[22:02] the name of Jesus whoever's in that pit
+[22:04] is rising up in the name of Jesus doing
+[22:06] what you've called us to do father We
+[22:09] Believe father we we believe we receive
+[22:11] now now Faith is the subance of things
+[22:14] hope for and evidence of thought Things
+[22:16] Not Seen and we call those things around
+[22:19] right now in the name of Jesus and that
+[22:21] our business would flourish whether
+[22:23] that's being the greatest pie maker or
+[22:25] the burger maker or the barbecue maker
+[22:28] or the janitor a service or whatever
+[22:30] you've called us to do we would be the
+[22:33] greatest because we give you all the I
+[22:35] say I'm anointed in a way that the world
+[22:38] is not fam familiar with all for to to
+[22:40] be a janitor to be to be a banker to be
+[22:44] a businessman or a woman all for the
+[22:47] glory of God your glory father all we do
+[22:51] and in word and In Deed yes we do all
+[22:53] for the glory of God and all all we do
+[22:57] and in word and in indeed we do all for
+[22:59] the glory of God not for our own Pride
+[23:02] or our own lust or whatever but we do it
+[23:04] all for you Lord father to give you
+[23:07] glory in whatever we
+[23:08] do that we'll be the best at whatever we
+[23:11] need to
+[23:12] be the best race car driver the best
+[23:15] Hollywood movie star actor whatever I
+[23:17] will be the best baseball player the
+[23:20] best football player in high school or
+[23:22] whatever I will be yes the best there is
+[23:27] all to the glory of God
+[23:29] not about my pride not about being
+[23:30] motioning Pride for me all for the glory
+[23:33] of God and all that we do and in word
+[23:36] and indeed we give all to the glory of
+[23:39] God father we give you glory today we
+[23:41] give you honor today we'll give you the
+[23:45] glory father we thank you Lord we thank
+[23:48] you Lord that Fame don't change
+[23:52] us popularity don't
+[23:54] changes we are changed only by the blood
+[23:57] of the Lamb and by the word of Our
+[23:59] Testimony we're changed from glory to
+~~~
+
+<a id="section-07"></a>
+## 07. 24:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[24:01] glory not to be stinkier and stinkier
+[24:04] but to be glorious but by by by your
+[24:07] standard raising up who you've called us
+[24:10] to be to be men and women of God with a
+[24:13] purpose and a plan for you've called us
+[24:15] to the kingdom for such a time as this
+[24:19] father we thank you Lord father that
+[24:21] we're your mouthpieces in this
+[24:23] earth and we thank you Father for the
+[24:26] anointing of the Holy Spirit
+[24:29] now God we give you praise and glory
+[24:31] father for
+[24:32] Change Change father change in US
+[24:35] creating us a clean heart make us new
+[24:39] father I thank you Lord that we we are
+[24:41] new by the blood we're new father for
+[24:44] you called us to be new we you've called
+[24:46] us to come up higher you've called us to
+[24:48] be more like you father we are filled
+[24:51] with and controlled by the Holy Spirit
+[24:54] today and we give you all the glory
+[24:56] honor and praise now you have anything
+[24:58] on your heart to pray for I'll pray with
+[24:59] you I was going to pray for people with
+[25:02] uh that have been dealing with childhood
+[25:05] trauma thank you Father in your past if
+[25:07] you're an adult and you have dealt with
+[25:10] uh
+[25:12] especially from your father from
+[25:15] male uh childhood trauma just abuse
+[25:18] whatever that may be and father we come
+[25:22] before you right now and I lift these
+[25:23] people up right now and everyone under
+[25:25] the sound of my voice if that's you you
+[25:27] reach out out and receive this right
+[25:30] now I want you to say my father loves me
+[25:34] your Earthly father may have have missed
+[25:37] the mark but your heavenly father
+[25:40] didn't and I thank You' God we we so I
+[25:43] want you to say this right now my father
+[25:45] loves me and I want you to know that all
+[25:49] you need is one second in his presence
+[25:52] one second in his presence can erase
+[25:56] years decades of of all of the all of
+[26:00] the mental uh abuse and and
+[26:04] strongholds it it's just a split second
+[26:06] in his presence yes Lord and so father
+[26:09] we all we need is you and father I lift
+[26:12] up these people before you right now
+[26:14] father and I thank you that they are
+[26:16] free in Jesus name be free be free be
+[26:20] whole be healed I call you whole and
+[26:23] healed and well father I thank you Holy
+[26:26] Spirit we we thank you that you that you
+[26:29] that you move on them Father right now
+[26:32] move on them Holy Spirit and we thank
+[26:34] you that they are are that they feel
+[26:37] your love your presence your fulfilling
+[26:42] peace that passes all understanding
+[26:44] thank and father I thank you that that
+[26:47] bondage is breaking those chains are
+[26:50] breaking right now that they are that
+[26:53] they are who you've called them to be
+[26:55] father Holy Spirit show them show show
+[26:58] them who they are in Christ I thank you
+[27:02] Father that your love is chasing after
+[27:04] them that your presence is running after
+[27:06] them that they cannot run away from it
+[27:09] that they will say my father loves me
+[27:13] yeah and no matter what your Earthly
+[27:15] father has done your heavenly father
+[27:18] loves you and he is chasing after
+[27:21] you and you can't run away from it he
+[27:25] whatever whatever you've gone through
+[27:27] whatever your past has
+[27:28] been it has come to this moment of this
+[27:32] moment you're free in Jesus name yeah
+[27:35] and no more hindrances to your spiritual
+[27:37] life no more hindrances with your
+[27:40] relationship with God I thank you that
+[27:42] there is a fulfilling relationship
+[27:44] father that they have this fulfill that
+[27:47] what they've desired the the the
+[27:49] hindrances that they've had no more
+[27:51] victim no more victim mentalities no
+[27:53] more victim we break that off of them in
+[27:55] Jesus name no we're not victims we're
+[27:57] victors were Overcomers by the blood of
+[27:59] the lamb and by the word of the
+~~~
+
+<a id="section-08"></a>
+## 08. 28:00–31:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[28:01] testimony and father we thank you we
+[28:03] thank you and we call it done in Jesus
+[28:06] name thank you Father I believe that
+[28:09] with her I believe that with you no more
+[28:11] victim your Victors we're more than
+[28:14] conquerors through him who loved us yes
+[28:17] and you're more than a conqueror today
+[28:19] no more yeah your dad you said well my
+[28:21] dad was so and so he was a bad man he
+[28:24] did this to me he molested me he beat me
+[28:25] he did all this we forgive him yes we
+[28:28] forgive them not we forgive them not for
+[28:31] not for them but for you yes I forgive
+[28:35] it for them for me I release that for me
+[28:39] it's I'm not taking that into my
+[28:41] tomorrow no no matter how bad that hurts
+[28:44] I choose to forgive them by
+[28:47] faith you forgive them by faith yeah
+[28:50] well they deserve it well they may they
+[28:52] made that but that but but father he's
+[28:54] going to take care of it when you take
+[28:57] when you take take your hand out of
+[29:00] trying to fix it you you let God take
+[29:03] over and he going to fix surrender it to
+[29:05] God yes I Surrender it let go and let
+[29:08] God I Surrender my pain to you I've
+[29:12] tried to fix this on my own now God I
+[29:16] release it to you and you start fixing
+[29:18] it for me because if you're trying to do
+[29:20] it God has his hand he's waiting on you
+[29:22] just just yield he's going well whenever
+[29:25] you get tired enough I'll start work
+[29:29] but it's going to take a yielded Spirit
+[29:31] saying God I can't do this I need you to
+[29:35] do it and he and that's when he takes he
+[29:37] takes a hold of it
+[29:40] yes amen and he's going to say I have
+[29:44] everything you need to fix it 30 minutes
+[29:48] I have everything you need right here in
+[29:51] my my everything every just like she
+[29:53] said one second one second one little
+[29:58] little second with the Holy Holy Spirit
+[30:00] will change you from the inside out yes
+[30:04] change you from the inside out anything
+[30:06] that seemed to take years to get
+[30:08] counseling and therapy and all the you
+[30:11] know some kind of you know whatever you
+[30:13] think you may need from some kind of
+[30:15] counselor which is counseling is nice to
+[30:16] have somebody to talk to but one moment
+[30:19] with the Holy Spirit can change decades
+[30:22] like she was saying of childhood
+[30:26] trauma being all that is broken off of
+[30:30] you the the the Yoke the burden remove
+[30:33] the anointing is the burden removing the
+[30:36] Yoke destroying power of
+[30:39] God the anointing of the holy spirit
+[30:42] it's a burden for his yoke is easy and
+[30:45] his burden is
+[30:48] light thank you Father for all that
+[30:51] today Father we give you praise and
+[30:53] glory and honor father for all that
+[30:55] you've done and all that you're going to
+[30:56] do Lord we lift up all before you Father
+[31:00] for they all have so many needs and
+[31:02] father they need more today of you we
+[31:05] need less of us and more of you today
+[31:07] than ever
+[31:08] before so father we give you praise and
+[31:11] glory and honor and we're expecting a
+[31:13] great turnaround in these people's lives
+[31:16] today we're expecting a great turnaround
+[31:19] in their marriages we're expecting a
+[31:22] great turnaround in your unsaved loved
+[31:24] ones that this would be a time like
+[31:26] we've never seen before for good things
+[31:28] to take place in your life hope hope
+[31:32] we're anchored to hope we're anchored to
+[31:36] hope we're I know I know in whom I've
+[31:39] believed he has my future and he knows
+[31:43] my future more than he knows than I know
+[31:46] my
+[31:47] past God has a great future for every
+[31:51] single one of
+[31:53] you every single one of you beloved he
+[31:56] says I wish a all things that you
+[31:59] prosper and be in health even as your
+~~~
+
+<a id="section-09"></a>
+## 09. 32:00–35:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[32:01] soul prospers what kind of God is that
+[32:04] if you being evil give good gifts to
+[32:06] your children how much more does your
+[32:09] heavenly father give good gifts to those
+[32:11] that love him he's a good father he's a
+[32:13] good father God is a good god like or
+[32:15] Robert said God is a good god and the
+[32:18] devil's a bad
+[32:19] devil oh and and when you go through
+[32:22] trials and tribulations your life always
+[32:24] stay on God's side even if you don't
+[32:28] understand why you're going through it
+[32:29] your goodness is running after me I love
+[32:31] that song your goodness is running is it
+[32:36] uh you're running after me all my life
+[32:39] all my life laid down I Surrender now I
+[32:43] give you
+[32:45] everything your goodness is running
+[32:48] after it's running after me and all my
+[32:52] life you have been
+[32:55] faithful and all my life you have been
+[32:58] so so
+[33:02] good and every breath that I am
+[33:06] able I will sing of the goodness of
+[33:13] God I will sing of the goodness of God
+[33:19] your mercy is running after it's running
+[33:24] after
+[33:26] me your mer Mercy is running after is
+[33:30] running after
+[33:32] me oh I love that song All my life I lay
+[33:37] down I Surrender now I give you
+[33:41] everything your mercy is running after
+[33:45] is running after
+[33:49] me cuz all my life you have been
+[33:52] [Music]
+[33:55] faithful and all my life you have been
+[33:58] so so
+[34:00] [Music]
+[34:01] good and every breath that I am
+[34:06] able I will sing of the goodness of
+[34:12] God and I will sing of the goodness of
+[34:17] God you think good to us
+[34:20] Lord cuz your mercy is running after is
+[34:25] running after me
+[34:29] your mercy is running after is running
+[34:33] after
+[34:36] [Music]
+[34:41] me cuz all my
+[34:43] life you have been
+[34:48] faithful and all my life you have been
+[34:51] so so
+[34:55] good with every breath that I am
+[35:00] able I'm going to sing of the goodness
+[35:04] of
+[35:06] God I will
+[35:09] sing of the goodness of
+[35:19] God I love that one more time because
+[35:23] all my life you have been faithful
+[35:29] and all my life you have been so so
+[35:35] good with every breath that I am
+[35:40] able I'm going to sing of the goodness
+[35:45] of
+[35:47] God I will
+[35:49] sing of the goodness of
+[35:54] God because his Mercy is running after
+[35:57] us
+~~~
+
+<a id="section-10"></a>
+## 10. 36:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[36:00] yes his Mercy is running
+[36:03] after he running after
+[36:13] me thank you Lord for your goodness
+[36:17] Today song just came in my spirit it's
+[36:20] cuz it's real
+[36:22] baby if you ever have a song come in
+[36:24] your spirit like that just sing it sing
+[36:27] it sing it cuz the holy spirit's
+[36:29] bringing that spirit that song up in
+[36:31] your spirit for a reason and there's
+[36:33] breakthrough that happens with praise
+[36:35] and worship as you come before him and
+[36:37] just worship him in his presence it's it
+[36:40] his presence it's practicing his
+[36:43] presence and so whatever you're
+[36:45] believing for if you have a song that
+[36:47] just pops up in your spirit don't ignore
+[36:49] it yeah sing it sing it it's he's he's
+[36:53] bringing it to he inhabits holy spirit
+[36:56] is your helper he inhabits the Praises
+[36:58] of his people and it's the song Personal
+[37:01] just for you that you need right then
+[37:03] and that's why you're thinking about it
+[37:04] that's why the Holy Spirit brings it to
+[37:07] you yeah to help you it it bring it when
+[37:10] Praises go up blessings come down it's
+[37:13] it's all about worship I had a
+[37:15] breakthrough just from Recently from
+[37:17] singing a song that the Holy Spirit
+[37:19] brought to me and I just I just sang
+[37:21] that song all day and the Breakthrough
+[37:23] happened yes he did we don't tell you
+[37:26] all the stuff we go through on here it
+[37:29] it it doesn't it doesn't serve a purpose
+[37:31] to come on here and wide and
+[37:32] unload I I but we're real people with
+[37:35] real needs just like everybody else and
+[37:38] when the Devil Comes we we have to we
+[37:40] have to stand and resist him just like
+[37:42] you do you we a we ain't exception the
+[37:45] Lord told me he said Brandon stop being
+[37:47] lazy just because you're on YouTube
+[37:50] Brandon you can't be lazy stand up just
+[37:52] like you're telling everybody else don't
+[37:54] don't sit there and tell who God no no
+[37:56] no get up put your big boy pants on big
+[37:59] girl pants on and and do what you know
+[38:01] to do do the ABCs ABCs you may say well
+[38:05] I can't sing like Brandon I can't sing
+[38:07] like Brandon but I still sing
+[38:11] it father I lift up my voice to you and
+[38:13] I sing to you and it may not sound like
+[38:16] you don't let that be a hindrance don't
+[38:19] let that be a hindrance to my my voice
+[38:21] is I don't I don't I I Make a Joyful
+[38:24] Noise I don't have the right pitch a lot
+[38:26] of times either but I just do the best I
+[38:28] got and and he visits it yes so whether
+[38:31] you sing you feel like you can't sing or
+[38:33] whether you feel like you can just sing
+[38:36] it's worshiping it's worshiping him and
+[38:39] that brings
+[38:42] breakthrough do what do whatever you've
+[38:45] got yes and I believe he just he loves
+[38:47] it make a Joyful Noise unto the Lord
+[38:50] many people
+[38:52] people it's just beautiful whatever
+[38:55] whatever you got do it make it work and
+[38:59] that's what I do I just say hey man I a
+[39:02] I ain't a sling Dion or a Carrie
+[39:04] Underwood or whoever well that was for
+[39:06] somebody I don't know yeah I just felt
+[39:08] but I believe or or whoever I just
+[39:10] believe that we're going to do whatever
+[39:12] we've got we're going to use whatever
+[39:13] we've been given and we're going to do
+[39:15] it and say man God I do it all to the
+[39:17] glory of God all to your glory it's all
+[39:20] about Jesus today and that's what I'm
+[39:23] thankful for because he inhabits the
+[39:25] Praises of his people don't he baby M
+[39:27] that's what we do in the car he created
+[39:29] us he created you exactly the way he
+[39:32] wanted you to be y yeah and we're all
+[39:35] unique and his Mercy is running after
+[39:39] it's running after me yes he loves to
+[39:42] hear us his Mercy is running after is
+[39:47] running after me I love it my my kids
+[39:51] sing to him at
+[39:52] bedtime every night every night sing
+[39:55] praises to the Lord sing sing to him he
+[39:58] loves to hear us sing even if you don't
+~~~
+
+<a id="section-11"></a>
+## 11. 40:00–43:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[40:01] and and 99.9% of the time I don't have a
+[40:04] clue the words I just I'll make them up
+[40:07] even if it it just sounds like I say are
+[40:10] heart yeah those words and I go I don't
+[40:13] know that was right even with that song
+[40:14] I just sang I don't know if I sang all
+[40:15] those words right but I tried I just say
+[40:18] hey you know it is what it is but he
+[40:21] knows your heart and he he just up there
+[40:24] going well you know you sing that a
+[40:25] little off key it don't matter
+[40:27] he just loves you he's chasing after you
+[40:31] his Mercy is running after
+[40:34] you oh
+[40:38] God and and it's so important I'll say
+[40:42] it again like I said last time that you
+[40:44] had those stacking rocks experiences
+[40:46] with the
+[40:48] Lord stack the Rocks every single Rock
+[40:51] means something how many times has God
+[40:54] showed up and showed off in your life
+[40:57] and we forget the things that he
+[41:00] delivered us of
+[41:01] yesterday and we and we and we go oh I
+[41:04] don't remember when God did something
+[41:05] for me but you he may have done
+[41:08] something five years ago he may have
+[41:09] done something but you always go back to
+[41:13] what he's done in the past and never
+[41:16] take it for granted and say God you came
+[41:20] through for me at such a such a time and
+[41:22] you'll do it again and that song is
+[41:24] perfect for that because you're saying
+[41:26] all my life life you have been faithful
+[41:29] and as you sing that think about it all
+[41:32] the times that he's came through you hey
+[41:34] is this
+[41:34] one and he'll do it again you know yeah
+[41:39] he'll do it
+[41:41] again just take a look at where you are
+[41:45] and where you've been and hasn't he
+[41:49] always come through for you he's the
+[41:54] same as he was way back then
+[41:58] you may not know how you may not know
+[42:02] when but he'll do it again do you
+[42:06] believe
+[42:07] it I believe it he'll do it
+[42:14] again just take a look at where you are
+[42:19] and where you've
+[42:20] been and hasn't he always come through
+[42:26] for for you he's the same as he was way
+[42:31] back
+[42:32] when you may not know how you may not
+[42:37] know when but he'll do it again do you
+[42:42] believe it I believe it
+[42:46] today it's
+[42:49] important that you don't lose sight of
+[42:52] your last of your last miracle and
+[42:55] always give him praise for it
+[42:57] on a day-to-day
+[42:59] basis I remember when Megan was not
+[43:02] potty trained every day I remember when
+[43:06] we didn't have enough food to eat and we
+[43:08] were and we were at our last dollar and
+[43:11] we said how are we going to get through
+[43:13] our tomorrow and he came
+[43:15] through but God who is rich in Mercy he
+[43:20] is merciful and his Mercy is new every
+[43:23] morning and he is good and his Mercy
+[43:25] endures forever and we choose to praise
+[43:28] him even in the Valley of the shadow of
+[43:31] death I will fear no evil for you are
+[43:34] with me thy rod and thy staff they
+[43:36] comfort me surely goodness and mercy
+[43:40] will follow me all the days of my life
+[43:43] and I will rejoice in the house of the
+[43:46] Lord forever I Rejoice with him for he
+[43:50] is good and his Mercy endures forever
+[43:54] for he is good gu what they're going to
+[43:56] say we you got to say it but you say it
+[43:59] with all your heart today for he for the
+~~~
+
+<a id="section-12"></a>
+## 12. 44:00–47:01 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[44:01] Lord is good and his Mercy endures
+[44:04] forever in every area of my life in
+[44:07] every circumstance of my life I choose
+[44:10] to give God glory honor and praise today
+[44:14] and he is good and he's going to deliver
+[44:16] us and as we do that it brings me so
+[44:19] much joy there's a joy in that a joy
+[44:22] that you'll that you've never known and
+[44:24] as you as you begin to do that on a day
+[44:27] and you practice it daily thank I even
+[44:30] will walk outside and I'll see you just
+[44:33] start noticing things you've never seen
+[44:34] for look at God he gives us a Garment of
+[44:36] Praise for a spirit of heaviness God
+[44:38] made that flower right there that's
+[44:40] beautiful God look what you did if you
+[44:42] can't think of anything in your life
+[44:44] that he's come through you for go
+[44:45] outside and think look at all the birds
+[44:46] look at everything and I go wow you the
+[44:48] sky is blue the grass is green you did
+[44:51] it for me to enjoy yeah he said he giv
+[44:53] us all things richly to enjoy color say
+[44:58] I won't let the Rocks do my job yeah I'm
+[44:59] not going to let the Rocks do my job the
+[45:01] rocks in themselves cry out because they
+[45:04] because they're fearfully and
+[45:06] wonderfully made folks a rock is a snake
+[45:09] a bird a a butterfly or whatever they're
+[45:12] all they're all it's it's wonderfully
+[45:14] made by our creator the great god
+[45:17] Jehovah created every single thing for
+[45:20] us to richly enjoy colors greens yellows
+[45:24] purples they're all they're all his his
+[45:29] handiwork and it's all beautiful I love
+[45:32] I love different colors I love I love
+[45:34] blacks I love I love gold and all kinds
+[45:37] of cool colors he did it for us all
+[45:39] richly to enjoy this video is going too
+[45:42] long lord said don't make them so long
+[45:44] but tomorrow we'll talk about it I'll
+[45:46] tell you about what I was going to tell
+[45:47] you about today tomorrow I hope this
+[45:50] video blessed you all and uh we thank
+[45:53] you for liking subscribing clicking the
+[45:55] notification Bell thank you for being a
+[45:58] part of our YouTube channel every single
+[46:00] time you do those things it richly
+[46:03] blesses us because it helps us with the
+[46:05] algorithm we will never ask you for
+[46:07] anything ever on this platform for if
+[46:10] you see somebody asking you for
+[46:11] something it is not us we don't private
+[46:14] we don't private message people we will
+[46:16] never ask you for crypto a dime of
+[46:18] anything freely we've been given freely
+[46:21] we give it out so don't be scammed by
+[46:24] anybody that tries to ask you for
+[46:25] anything saying their other us it's not
+[46:28] us the only thing that we are in the
+[46:32] description below yeah if it's not in
+[46:34] our description below on this channel
+[46:37] and it's not us y so find us on Facebook
+[46:39] find us on on uh Instagram X all those
+[46:43] things they're in the link below don't
+[46:45] be scammed don't be scammed by comments
+[46:48] yes these people are ruthless God bless
+[46:51] you all we thank you for joining us and
+[46:54] we say put a smile on your face in a
+[46:56] song in your heart Jesus loves you so
+[46:59] much and we love you and we will see you
+[47:01] again tomorrow God bless you all bye-bye
+~~~

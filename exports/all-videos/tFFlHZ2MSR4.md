@@ -1,0 +1,1356 @@
+# This is a very serious word： A glimpse of where we are ｜ A call to prayer day 28
+
+**视频**: https://www.youtube.com/watch?v=tFFlHZ2MSR4
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/This is a very serious word： A glimpse of where we are ｜ A call to prayer day 28 [tFFlHZ2MSR4].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 1213；**章节数**: 12；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–05:59 · 预言、梦境与异象、战争与国际事务](#section-01)
+- [02. 06:00–11:59 · 预言、梦境与异象、战争与国际事务](#section-02)
+- [03. 12:00–17:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-03)
+- [04. 18:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-04)
+- [05. 24:00–29:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-05)
+- [06. 30:00–35:59 · 预言、梦境与异象、战争与国际事务](#section-06)
+- [07. 36:00–41:59 · 预言、梦境与异象、战争与国际事务](#section-07)
+- [08. 42:00–47:59 · 预言、梦境与异象、战争与国际事务](#section-08)
+- [09. 48:00–53:59 · 预言、梦境与异象、物资、能源与供应链](#section-09)
+- [10. 54:00–59:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-10)
+- [11. 60:00–65:59 · 预言、梦境与异象、战争与国际事务](#section-11)
+- [12. 66:00–70:23 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-12)
+
+<a id="section-01"></a>
+## 01. 00:00–05:59 · 预言、梦境与异象、战争与国际事务
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] all right I have some things on my heart
+[00:02] family I um I I had a video that I
+[00:05] recorded this morning
+[00:07] early and uh I've sat on it all day I
+[00:10] didn't release it I want to be slow to
+[00:12] speak when it comes to the things the
+[00:14] Lord is saying to me now I I hold I hold
+[00:17] this position that I'm been given uh
+[00:20] with with great
+[00:22] responsibility and don't be just just
+[00:25] putting videos out
+[00:27] quick uh he showed me a lot you're about
+[00:30] to see that and I've tried to make sense
+[00:32] of it because I was you know whenever
+[00:34] you're seeing so much so fast I wanted
+[00:37] to take the time to to to think on it
+[00:41] and and and tell you what I was seeing
+[00:44] um now that I've had time to process
+[00:47] it and I'm telling you
+[00:50] all
+[00:53] uh if if Camila Harris would have won
+[00:56] this folks we would be looking at a
+[00:58] whole different picture right now
+[01:00] you don't realize how much of a of of a
+[01:04] game Cher Donald Trump winning
+[01:07] was and what the what the plans and the
+[01:10] enemy that was detoured and Grace that
+[01:13] was extended to
+[01:15] us you if you only
+[01:19] knew God stepped in and intervened on on
+[01:23] American people on the world on the
+[01:26] world ladies and gentlemen you have no
+[01:28] idea the evil that was being planned for
+[01:30] the next four years or with the Harris
+[01:35] Administration God's God intervene
+[01:38] folks and I'm telling
+[01:41] you I saw Donald Trump In a Different
+[01:45] Light than I've ever seen him before I
+[01:48] saw him glowing with the glory of God he
+[01:52] becomes a different
+[01:54] person filled with controlled by the
+[01:57] Holy
+[01:58] Spirit and um
+[02:00] he makes alliances with
+[02:03] Israel that brings a blessing on our
+[02:07] nation like you wouldn't
+[02:10] believe I saw the crash and the things
+[02:13] that the Lord had showed me that is
+[02:16] still trying to be
+[02:19] planned um it's like you see you see the
+[02:25] danger of the the waterfall going over
+[02:28] the the like Niagara Falls going over
+[02:31] and you you you know it's coming and you
+[02:34] can see all the things that the Lord has
+[02:36] warned you and all of a sudden we turn
+[02:38] the ship around and we don't go over the
+[02:42] waterfall to the extent of what was
+[02:45] trying to happen
+[02:47] right when we link up with
+[02:50] Israel like a Brotherhood it's like a
+[02:53] David and a Jonathan what's about to
+[02:56] happen with a covenant it's like like
+[02:59] your big Brothers coming back on the
+[03:01] scene protecting and being that that uh
+[03:05] big brother in the background with
+[03:08] Israel the blessing and the favor with
+[03:12] blessing the Israeli people the Israeli
+[03:15] government the
+[03:16] Jews stepping behind
+[03:19] Israel brings a covering I saw a dome of
+[03:24] like a covering again over
+[03:27] America it was a thick thick thck
+[03:30] membrane that was coming over America
+[03:33] again as we blessed Israel and come in
+[03:37] alignment with blessing Israel and
+[03:39] helping
+[03:42] them because the and the Lord spoke to
+[03:44] me loud and and he says those that bless
+[03:47] Israel I will bless and those that curse
+[03:49] Israel I will
+[03:50] curse and I want to tell you when the
+[03:53] blessing comes I saw oil wells
+[04:01] I saw Trump releasing oil and the OPEC o
+[04:06] Over America
+[04:09] like you wouldn't believe the wealth
+[04:12] coming up drill baby drill that's what I
+[04:15] can say drill baby drill there was money
+[04:18] coming out of the Gulf of Mexico there
+[04:20] was M money when he and we've got to
+[04:22] pray still for the house when we get
+[04:24] this this I'm talking Financial
+[04:27] turnaround and pumping oil out of the
+[04:29] ground ground in natural gas enough to
+[04:32] fund the world I'm talking
+[04:36] Supernatural abundant
+[04:38] Supply not just with oil but with
+[04:42] creative
+[04:44] ideas Supernatural wisdom with
+[04:48] cryptocurrency I'm talking about Solomon
+[04:52] type thinking and Solomon type
+[04:55] wealth I saw numbers with turning in the
+[04:59] the natur the national debt around and
+[05:02] bringing a blessing like you wouldn't
+[05:04] believe folks as we line up with Israel
+[05:07] and bless Israel and a supernatural
+[05:10] endowment of God's wisdom comes on his
+[05:14] mind I saw Putin now and I saw Emanuel
+[05:21] macron and as I saw these two different
+[05:25] men Putin had an
+[05:28] agenda I me macron had an
+[05:31] agenda okay and it was trying to do two
+[05:35] like two different world powers trying
+[05:38] behind the scenes trying to compete with
+[05:40] who was going to be the the big big guy
+[05:42] on campus you know like the the Top Shot
+[05:46] then you had
+[05:48] America but Putin has had a upper hand
+[05:51] trying to make uh
+[05:54] alliances with strategic
+[05:58] countries for the last four
+~~~
+
+<a id="section-02"></a>
+## 02. 06:00–11:59 · 预言、梦境与异象、战争与国际事务
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、教会、复兴与信仰。 提到的地点：Israel、Europe、China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[06:00] years okay and I saw Cuba and you'll
+[06:04] hear this I saw
+[06:06] Venezuela I saw for the oil wealth in
+[06:08] Venezuela I saw the the a like a
+[06:12] Communist Party rising up with Putin I
+[06:14] saw I saw them secretly mean with with
+[06:17] uh
+[06:19] Egypt and a lot of the OPEC nations and
+[06:23] China trying to
+[06:26] combat with the
+[06:28] bricks a new Global
+[06:31] Currency with their their their
+[06:34] Coalition over here and attacking
+[06:40] Taiwan and
+[06:43] Hawaii and I've warned about Hawaii
+[06:45] before but I saw it
+[06:47] again and the Lord showed me all this
+[06:49] going on with China because China wanted
+[06:52] Taiwan to take Taiwan back and I saw it
+[06:56] was like their piece of the puzzle it
+[06:57] was like that was promised to them like
+[06:59] that was their their prize was to take
+[07:02] that
+[07:03] Island then rising up with a new
+[07:06] currency with Putin and trying to
+[07:11] dominate uh the
+[07:13] globe then I saw Emanuel mccrone with
+[07:17] Europe and I saw the king of
+[07:21] England I saw uh the
+[07:25] who I saw Geor
+[07:28] Soros I saw saw CLA
+[07:33] wab they were they he I know he's
+[07:35] getting ready to retire they say but he
+[07:38] is still a puppet master behind the
+[07:40] background there's a these men were very
+[07:44] very very strategic and very
+[07:49] satanic I saw over the holiday season
+[07:53] during New Year's Eve a very darkness
+[07:55] something bad over um
+[08:00] uh England during the the the countdown
+[08:04] for the New Year's Eve I did not see a
+[08:07] terrorist attack I saw a a sheet of
+[08:10] black that looked like Darkness over the
+[08:14] area and it was from the
+[08:18] King and so I want to I want to try I'm
+[08:22] trying to make this as clear as I can
+[08:25] without adding to or taking away from
+[08:27] but it's what I what the Lord showed me
+[08:28] folks
+[08:30] and I saw a blessing coming on America
+[08:33] again because of the alliance with
+[08:34] Israel I saw Iran shrinking
+[08:38] back afraid to really come out and be as
+[08:42] bold as what they were wanting to be
+[08:44] because they're not as strong as what
+[08:45] they pretend they
+[08:48] are doing surprise attacks trying to
+[08:52] pick a fight um and then Israel I'm
+[08:56] talking I'm talking and then I saw a
+[08:59] massive
+[09:01] bull in the Mediterranean and I call it
+[09:04] the gulf in the video but it is not the
+[09:07] gulf excuse my ignorance but it is the
+[09:11] Mediterranean it's the sea out in front
+[09:13] of
+[09:14] Israel but I saw in the land of Israel
+[09:17] and all in that sea where Israel owns a
+[09:21] massive Barrel like a big G like a big
+[09:26] bowl of of oil and natural gas
+[09:30] that will be tapped into and it will be
+[09:34] it's worth
+[09:37] billions billions and billions over the
+[09:41] next four
+[09:43] years great financial wealth will flow
+[09:47] through
+[09:49] Israel I saw their
+[09:52] agriculture with their ore I saw I saw
+[09:54] fruit the size of hu like ginormous I
+[09:58] don't know if they're oranges I don't
+[10:00] even know if they grow oranges folks but
+[10:02] I saw fruit that was ginormous fruit
+[10:06] okay I saw vegetables that were
+[10:09] beautiful and healthy and the Lord said
+[10:13] it's the abrahamic
+[10:15] Covenant a
+[10:18] supernatural like a breathing on it an
+[10:22] Evidence of what we're like like showing
+[10:25] that God is God over Israel but it will
+[10:28] come through blessing and favor and
+[10:31] wealth as America backs
+[10:34] it and favor and blessing and wealth
+[10:38] comes on America and I know a lot of
+[10:41] people get upset about that folks but
+[10:43] those that bless Israel and smart enough
+[10:45] to bless him he will bless and thank God
+[10:48] Donald Trump is smart enough to bless
+[10:50] him I saw religious
+[10:53] freedom coming to American people and a
+[10:57] backing of the church from Donald Trump
+[11:00] like we've never seen before in this
+[11:02] nation ever well maybe not in this
+[11:05] generation talking about the Bible
+[11:08] talking about prayer being bold about
+[11:10] your faith he's bold about Jesus he
+[11:13] becomes bold I saw a covering like I've
+[11:16] never I'm talking a covering like I've
+[11:18] never witnessed
+[11:20] before in my my my my lifetime maybe
+[11:24] maybe back whenever the found founding
+[11:27] fathers were here I don't know I I don't
+[11:28] know what it was like of course
+[11:31] but do I see the plague it was coming
+[11:35] from
+[11:37] Europe okay so what does that say to us
+[11:42] that we are to pray not to get in fear
+[11:47] over what Europe will try to do it was
+[11:50] with the
+[11:52] who okay I saw how they created it I've
+[11:56] saw it in Labs I've saw how they do all
+[11:58] this and I saw that they they get
+~~~
+
+<a id="section-03"></a>
+## 03. 12:00–17:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 提到的地点：Israel、Cuba。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:01] desperate when he starts to pull the the
+[12:03] money out and trying to fix everything
+[12:07] with NATO as being a leader like he
+[12:09] should be because we should have had
+[12:11] leadership this whole time but we didn't
+[12:13] because we had somebody that was sleepy
+[12:14] behind the
+[12:16] will they don't like
+[12:19] that so in an attempt to control they
+[12:23] will bring in um false flag
+[12:26] events okay because they want their
+[12:30] agenda and that is a new one world
+[12:34] thing so this is what you will see and
+[12:38] this is what we must pray we must pray
+[12:41] protection over his life we must pray
+[12:43] Elon must to be born again and radically
+[12:46] on fire for Jesus I'm believing that
+[12:48] still all to the glory of God that he
+[12:51] would have a radical visitation from the
+[12:53] Lord Jesus and people say well he's
+[12:55] already saved well for what I saw in the
+[12:58] demon costumes that he's wore he needs
+[13:01] to we we need he needs to be instructed
+[13:04] a little bit more about Christianity
+[13:05] then I'm not judging anybody I'm just
+[13:07] saying folks come on y'all y'all just
+[13:10] can't say light is light when dark is
+[13:13] dark does that y'all need to understand
+[13:16] light is light and in in it there is no
+[13:19] Darkness at
+[13:21] all okay we need to rise up and be real
+[13:24] Believers here if you can't say a
+[13:26] Believer is a Believer if you're if
+[13:27] you're wearing satanic clothes okay
+[13:30] whatever we still believe him for his
+[13:33] salvation I'm still believing that he's
+[13:35] going to have a radical visitation from
+[13:38] Jesus and that's what we're going to
+[13:40] have lord said pray over that for the
+[13:41] next 20 days and that's what I'm
+[13:43] believing at the end of that 20 days
+[13:46] you'll see a I'm going to see a major
+[13:48] turn of events in that man's
+[13:51] life that's what we're believing for and
+[13:53] we're believing for the same for Donald
+[13:54] Trump we're believing for protection
+[13:56] Supernatural protection for him cuz what
+[13:58] I all from the old Cold War uh uh stuff
+[14:03] happening with Cuba and darkness Rising
+[14:05] up with Cuba and the things and these
+[14:07] Alliance that I saw trying to come
+[14:09] behind behind this curtain with uh
+[14:12] Vladimir we must pray folks because
+[14:16] there has been a lot of Darkness
+[14:18] happening over the last four years that
+[14:19] people don't know
+[14:22] about we haven't had true leadership
+[14:25] we've had somebody that is just staring
+[14:27] out a window
+[14:30] and so uh God God help this America and
+[14:33] it will take time but we will and people
+[14:36] say or we still going to see a financial
+[14:38] crash they plan on
+[14:40] it they plan on it but I'm bleeding for
+[14:43] that blessing they plan on it folks they
+[14:46] I'm telling you they're they're going to
+[14:48] try to take us down we have two
+[14:49] different people two different agendas
+[14:52] all trying to come against our
+[14:54] agenda all wanting power and I saw
+[14:58] Justin Trudeau being being double
+[15:01] Two-Face trying to be United States
+[15:04] trying to be with Europe he was playing
+[15:05] America saying he was buddies with Trump
+[15:07] trying to make a coalition but he was
+[15:09] truly for Emanuel mccrone in his
+[15:12] agenda he was two- faced so that's what
+[15:14] I
+[15:15] saw and I try to just kind of give a
+[15:18] highlight so now you'll see me praying
+[15:19] it out in the spirit and you'll see it
+[15:21] while it's given to me and um where we
+[15:25] are as a nation as America is thank God
+[15:29] we have our president stands with Israel
+[15:30] because that's what's going to save our
+[15:32] highes thank God for that because I saw
+[15:35] oil wealth coming you all my goodness I
+[15:39] saw blessing and I saw blessing coming
+[15:41] out of the Mediterranean Sea with Israel
+[15:44] 24 billion then 240 billion and I saw
+[15:48] one
+[15:49] company that was that was going to drill
+[15:51] and there there was company and I'm
+[15:53] talking Supernatural wealth transfer
+[15:56] that will come out of the out of the
+[15:58] Mediterranean
+[15:59] I'm talking natural gas reserves I'm
+[16:02] talking oil reserves I'm talking buou
+[16:06] money lots and lots of money will come
+[16:08] out of
+[16:10] this a transfer of wealth from the
+[16:14] wicked
+[16:15] so and I haven't said too much because
+[16:18] I'm not giving Financial advice I'm just
+[16:20] saying look at look look at this what
+[16:23] the Lord is doing and what he will do
+[16:26] and I'm telling you will we see a
+[16:27] financial Cris will we see all that I'm
+[16:29] telling you the Lord said folks listen
+[16:31] to what he said I'm giving an extended
+[16:34] Grace for four
+[16:38] years I I you know what does that mean
+[16:42] to you I'm giving more
+[16:46] time okay so is that a crash no that's
+[16:49] I'm giving more time it sound like to me
+[16:52] but I don't want to I'm not going to
+[16:53] assume anything that's why I keep
+[16:54] praying into
+[16:56] it what does that mean I'm giving more
+[16:58] more time time to do what I'm giving
+[17:00] what are you going to do over the next
+[17:01] four years what are you going to do with
+[17:03] this time into the next me to
+[17:06] cycle
+[17:08] 2028 what kind of Revival will we have
+[17:11] are you going to get lazy and what and
+[17:13] what in all the blessing and the things
+[17:15] happening are you going to smile and and
+[17:17] give God praise for it I still seen the
+[17:20] shaking trying to happen with the plague
+[17:23] with the House of Cards
+[17:25] falling I saw the blessing coming I told
+[17:28] you I don't know how long that blessing
+[17:30] lasts that
+[17:32] window but I'm telling you I saw a
+[17:34] window and we've seen that this
+[17:37] week we've seen a great they said it was
+[17:40] one of the largest uh stock market
+[17:43] rallies and financial rallies and and
+[17:45] everything and we've seen in in how many
+[17:49] years with crypto going up to the
+[17:51] highest it's been to uh all kinds of
+[17:54] things just boom boom boom boom just
+[17:56] it's starting to happen it's it's it
+[17:59] show and then I told you what happened
+~~~
+
+<a id="section-04"></a>
+## 04. 18:00–23:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[18:01] then I saw the House of Cards fault now
+[18:03] when does that happen I saw the the debt
+[18:07] all the debt and all the stuff a recall
+[18:09] of the debt I saw a humbling of
+[18:12] America is that a year into it is it two
+[18:15] years but then today I'm seeing an
+[18:17] umbrella of uh of blessing as you bless
+[18:20] Israel that this will help turn America
+[18:23] around that as you as you go and you do
+[18:27] what the word says to do
+[18:29] if you humble yourself and pray and turn
+[18:31] from your wicked ways you can heal your
+[18:34] land so folks let's believe God today
+[18:38] let's believe God today I know this is
+[18:40] probably another video in itself but you
+[18:42] need to know this stuff this is not a
+[18:45] time to oh wo me this is a time to pray
+[18:50] because there's a lot that is flipping
+[18:52] in the it's like flipping if we would
+[18:54] have went the other way folks we would
+[18:55] be this would be a totally different
+[18:57] story right now but because of what the
+[19:00] Lord is wanting to do in America because
+[19:03] of what he's wanting to do with his
+[19:05] people extending Grace doing the
+[19:08] blessing i it fills in my heart there's
+[19:13] hope there's a
+[19:17] change so I don't like I said when
+[19:20] you're seeing over and you're praying
+[19:21] over it you can see the house of cars
+[19:23] you can see all this stuff and I'm like
+[19:25] this is it's very intense but then I
+[19:27] start seeing the blessing in as we bless
+[19:29] Israel so you can believe with me and
+[19:33] you can pray with me I truly appreciate
+[19:36] it as we intercede for these things
+[19:39] turning this around because I don't want
+[19:42] to be uh presumptuous and I do not want
+[19:43] to lead anybody a Falls and astray or or
+[19:47] or or be flaky I'm telling you I am not
+[19:50] I didn't I do not want to be a flaky
+[19:52] Christian I'm I want to be filled with
+[19:55] controlled by the Holy Spirit and and
+[19:57] listen to him and hear what he's saying
+[20:00] when I pray to tell you all so we can
+[20:03] pray about it together so I hope this
+[20:05] video helps you and where I'm at and why
+[20:08] I'm praying what I'm praying over so
+[20:10] pray with me today as you watch this God
+[20:12] bless you all so father we going to lift
+[20:15] up the body before you and we thank you
+[20:18] Father for what you did for us at 2,000
+[20:20] years ago you became sickness for us and
+[20:23] we thank you Father that you said in
+[20:25] your word that by your my stripes you
+[20:29] are healed by your stripes Lord we're
+[20:33] healed and father we settle it in our
+[20:36] spirit now in jesus' name that you are
+[20:38] wounded for our transgressions you are
+[20:40] bruised for our iniquities the
+[20:42] chastisement of our peace was upon you
+[20:44] and with your stripes we are healed and
+[20:46] we believe father we believe in your
+[20:49] Covenant of health and health and wealth
+[20:52] and that you have given us a sound mind
+[20:54] no spirit of fear what I say is coming
+[20:57] on these people father they have
+[20:59] soundness because perfect love cast out
+[21:01] all fear God does not bring fear he
+[21:03] brings love and we thank you Lord that
+[21:07] that that they settle in their heart
+[21:09] that we can pray against the things of
+[21:11] the wicked and we thank you Father for
+[21:13] peace that passes all understanding in
+[21:16] Jesus name we take this body Lord now
+[21:19] will we plead the blood and we ple the
+[21:22] blood and we thank you for the blood for
+[21:24] you said if you make much of the blood
+[21:26] the blood will make much of you I thank
+[21:30] you
+[21:32] Father I thank you for the blood we
+[21:34] plead the blood over our sins and we
+[21:35] enter in by the blood of the lamb and by
+[21:37] the word of Our
+[21:42] Testimony and I thank you Father for the
+[21:45] blood we thank you Lord that there is no
+[21:48] weapon formed against us that will
+[21:51] prosper I thank you that you said in
+[21:53] your word Lord you promised this in
+[21:56] Psalms 91 that a thousand should fall at
+[21:58] your side and 10,000 at your right hand
+[22:01] but it will not come nigh you Lord
+[22:04] that's a
+[22:06] promise and I thank you Father for that
+[22:08] promise right now in Jesus name that
+[22:11] father that you've protected us with
+[22:14] your
+[22:15] blood and by your angels and that the
+[22:18] Angels bear us up in their hands lest
+[22:19] they Dash their foot against the stone
+[22:22] and I take the blood right now in Jesus
+[22:24] name and I plead the blood over my house
+[22:26] over my wife my children my my finances
+[22:29] over my over everything that I put my
+[22:32] hands to I put the blood of Jesus over
+[22:34] it I plead the blood over all these
+[22:36] YouTube
+[22:37] people and I thank you Father that you
+[22:41] are covering them in the blood and that
+[22:43] they are all protected and that father
+[22:45] that you have a plan for their life in
+[22:48] Jesus name that every single one of them
+[22:51] are blessing the city and the field
+[22:52] coming in and going out Lord we thank
+[22:54] you Father for the the blood of Jesus
+[22:56] Christ and we take the blood Lord right
+[22:58] now
+[23:05] now now we just thank you Lord we just
+[23:08] praise you for your
+[23:11] Covenant we thank you for the Covenant
+[23:14] we thank you Father for the blood we
+[23:16] thank you Father that we make much of
+[23:17] the blood we thank you Lord that greater
+[23:19] is he that is in us and he that is in
+[23:21] the world and that that no weapon is
+[23:25] that will be formed against us that it
+[23:28] will not
+[23:29] Prosper not one
+[23:31] weapon nothing I don't care what the
+[23:33] devil tries to throw at us we have the
+[23:36] blood of Jesus so we give praise and
+[23:39] glory for everything that you're going
+[23:41] to do and everything that you've already
+[23:43] done
+[23:45] Lord now Lord we come before you boldly
+[23:48] and we just thank you Lord that we spoil
+[23:51] the enemy's
+[23:52] plans and we rise up as Believers and
+[23:56] take our Authority and we plead the
+[23:59] blood of Jesus from the north the South
+~~~
+
+<a id="section-05"></a>
+## 05. 24:00–29:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、治安、袭击与安全。 提到的地点：France。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[24:01] the East the West we cover every our
+[24:03] everything father we just cover it our
+[24:06] nation our nation our president in the
+[24:09] blood father we lift up president Trump
+[24:12] right now in the name of Jesus and we
+[24:14] thank you Lord that he has the mind of
+[24:18] Christ that he is making Godly decisions
+[24:21] already father that that Biden is being
+[24:24] removed and that he'll he that the carel
+[24:27] Harris the evil I father I thank you
+[24:29] Lord these people will find you father
+[24:32] this time for them to go and retire and
+[24:34] and and relax and and and don't cause
+[24:36] any more
+[24:38] drama I thank you Father that father
+[24:41] that your hand is on this nation and as
+[24:44] this transition time of the next 70 some
+[24:47] days I call forth peace and that there
+[24:51] is no terrorist attacks there is no
+[24:54] father plan of the wicked in our land
+[24:57] the father that we're like a dome of the
+[25:00] of protection over our
+[25:03] shopping over the H over Christmas
+[25:06] shopping father I thank you Lord Black
+[25:08] Friday we cover those times in the blood
+[25:11] of Jesus and we thank you Lord there's
+[25:13] no Mash shootings no Mash bombings no
+[25:16] nothing father we thank you Lord that
+[25:19] you we rise up in this nation and we
+[25:22] plead the blood of Jesus over every
+[25:24] shopping mall over every area of of of
+[25:27] of gathering ings father with people
+[25:29] gathering for the parade for Ma's
+[25:32] Thanksgiving Day Parade we call every
+[25:35] evil plot every Wicked plot to be
+[25:39] uncovered in the name of Jesus we pray
+[25:41] for the FBI the CIA the the uh the
+[25:45] homeland security over over NSA all over
+[25:49] them Father we thank you Lord for all
+[25:51] the protective people that watch over
+[25:53] this nation and we call forth boldness
+[25:56] in them in the name of Jesus that all
+[25:58] hidden things be revealed in the name of
+[26:01] Jesus over every agency over our local
+[26:04] sheriff department and our police
+[26:06] department and over our fire def
+[26:08] Fighters and father we just cover them
+[26:10] in the blood of
+[26:12] Jesus the father that every plot every
+[26:16] scheme everything that the evil is
+[26:18] trying to conjure up father I thank you
+[26:21] Lord that it will be found before they
+[26:23] even try it father I thank you Lord they
+[26:26] would the the evil people would have
+[26:28] they have a reprobate mind that they
+[26:29] would say something stupid on social
+[26:31] media or say say something to their
+[26:34] neighbor or whatever that they would be
+[26:37] exposed and they don't even realize that
+[26:39] they're flapping their mouth that they
+[26:41] would say something and say oh and they
+[26:43] go wow I wish I could retract that but
+[26:44] it's too late because out of the
+[26:46] abundance and the Overflow of their
+[26:48] heart their mouth's going to speak and
+[26:50] they will be found out in the name of
+[26:52] Jesus everything they're trying to apply
+[26:54] everything they're trying to do they
+[26:56] will be found out in Jesus name father I
+[26:59] thank you Lord that their Spirit their
+[27:01] their mind is because they know it's
+[27:04] wrong in their in their in in their
+[27:07] inner inner being they know it's wrong
+[27:09] what they're planning and what they're
+[27:11] trying to do so I thank you Father they
+[27:13] they're they're conscious the Holy
+[27:14] Spirit would would move on them and they
+[27:16] would spew it out and they would say oh
+[27:18] we're doing this and we're going to do
+[27:19] that and they go what what did I just
+[27:21] say I going to take back those words but
+[27:22] it's too late cuz we they heard it I
+[27:26] thank you Father that there's that that
+[27:28] kind of that that's the kind of stuff
+[27:29] that I believe Supernatural father that
+[27:32] you're moving in behalf of us for divine
+[27:36] protection over uh over the um New
+[27:39] Year's Eve celebration and Rocking New
+[27:41] Year's Eve in in New York I pray over
+[27:44] those people already today that there is
+[27:47] a supernatural covering over this area
+[27:50] in the name of
+[27:52] Jesus in London I pray over London
+[27:56] father and over the gatherings in in in
+[27:59] at the New Year's Eve celebrations in
+[28:01] London I see it in the spirit with the
+[28:03] feris
+[28:05] will and the and the big
+[28:10] Benin what is
+[28:17] that there's Darkness
+[28:26] there those stream there's a river I've
+[28:29] seen that before during the Olympics
+[28:31] what it father I call I
+[28:35] call a Divine protection over London
+[28:40] father
+[28:51] oo thank you
+[28:54] father I pray Divine protection over
+[28:57] London
+[29:03] father what is the darkness around that
+[29:05] that
+[29:11] is there's things going with Prince
+[29:14] Charles and
+[29:16] them I don't think I should say some of
+[29:19] that stuff out of my mouth
+[29:31] I pray over and over over
+[29:34] France Emanuel
+[29:37] mcro
+[29:48] oo there
+[29:53] there I pray over them I pray over this
+[29:57] father and I thank you than you Lord
+[29:58] that these people in France and over
+~~~
+
+<a id="section-06"></a>
+## 06. 30:00–35:59 · 预言、梦境与异象、战争与国际事务
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、特朗普与白宫。 提到的地点：Cuba、Europe、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[30:00] England right
+[30:03] now trying to stir up
+[30:08] War causing and devising a
+[30:12] plan to suck people back in further into
+[30:15] this
+[30:19] war false flag events
+[30:23] father I pray over false flag events
+[30:26] father they will not take place in
+[30:32] Europe blaming Russia for
+[30:55] things I hear the word cold
+[31:01] War cold old Cold
+[31:06] War I see Cuba
+[31:09] again I see stationed in Cuba secret
+[31:13] things in Cuba with Russia
+[31:19] [Music]
+[31:39] o it's like Putin has been
+[31:46] busy Putin I told you all for the last
+[31:50] four years he has been
+[31:54] busy secret meetings secret things
+[31:57] taking
+[32:07] pleas making
+[32:09] alliances making strong alliances
+[32:33] [Music]
+[32:38] I see Syria I see
+[32:43] [Music]
+[32:44] turkey and it goes clear in the tentacle
+[32:47] goes a little one goes clear into Egypt
+[32:54] [Music]
+[33:18] desperation will come desperation will
+[33:22] come to keep United States involved in
+[33:25] this in the days ahead desperation will
+[33:33] come for a drawing back a drawing
+[33:38] back with
+[33:44] Trump and there I I see desperation with
+[33:48] Emanuel
+[33:49] mcon and and other European allies I see
+[33:52] Germany I see
+[33:55] desperation causing things to escalate
+[33:57] on purpose I see this deep
+[34:01] Darkness a a an agenda behind an agenda
+[34:14] me these people are so dark lord lord
+[34:18] remove these men remove these people
+[34:22] father
+[34:28] I see
+[34:29] Trump trying to stop
+[34:32] War I see Trump trying to stop the War I
+[34:36] see him trying to come in with peace I
+[34:38] try he's trying to say no no this way
+[34:40] trying Diplomat I I hear the word I hear
+[34:51] the
+[34:52] diplomats they're they're they're trying
+[34:54] to devise peace peace treat he's trying
+[34:58] he's trying to bring in to stop this to
+[35:04] deescalate to
+[35:06] deescalate but the plan is to
+[35:09] escalate by their
+[35:11] agenda by their agenda a chrome a
+[35:15] chrome by their
+[35:22] agenda even England's involved in this
+[35:25] but it's with the with the Royals
+[35:30] oh
+[35:39] God and it's over in in other areas too
+[35:42] I see it I don't know who these people
+[35:46] are but they're spreading up in here up
+[35:50] in up up up up in in in northern Europe
+~~~
+
+<a id="section-07"></a>
+## 07. 36:00–41:59 · 预言、梦境与异象、战争与国际事务
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Cuba、China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[36:07] B is it Bulgaria I see a
+[36:12] b Lord I need your help on that I make
+[36:15] it
+[36:17] clear I can show you on a
+[36:20] map
+[36:22] um by Warsaw
+[36:29] the leaders it's above
+[36:33] Ukraine it's the leaders in that
+[36:55] nation in even in Canada
+[37:00] [Music]
+[37:22] I see a
+[37:25] two-faced with Justin Trudeau
+[37:28] trying to Buddy up with Trump trying to
+[37:30] be toofaced with Emanuel
+[37:33] macron saying one thing and doing
+[37:36] another saying one thing and doing
+[37:41] [Music]
+[37:48] another I see the Spanish people the The
+[37:51] Mexican government is in panic
+[37:57] because of what's
+[38:00] coming the
+[38:04] deportations the
+[38:06] tariffs the
+[38:10] wall
+[38:13] oh there's Darkness
+[38:19] there oh ladies and
+[38:22] gentlemen over over the hisp this
+[38:25] Mexican government down there
+[38:46] Mexico and going back to
+[38:50] Cuba I see Cuba again and it's lit up
+[38:52] and it's it's
+[38:54] highlighted and the Lord's highlighting
+[38:57] Cuba to
+[38:58] me and I hear Cold
+[39:01] War I hear Cold War
+[39:09] again remember that Diana I need your
+[39:11] help with that remember Cold
+[39:24] War I I hear Cuban Missile Crisis
+[39:31] Papa old alliances old things devising
+[39:36] coalitions they're Co a coalition oh ab
+[39:42] ab back room deals there's Darkness oh
+[39:46] now I see Hawaii
+[39:53] again I see China taking over over over
+[39:57] over I see China coming against
+[40:05] [Music]
+[40:22] them with Taiwan
+[40:44] [Music]
+[40:56] spe making moves
+[41:02] quickly father we pray for president
+[41:05] Trump father oh my
+[41:13] goodness Venezuela in the oil there's
+[41:17] there's there's things with Venezuela in
+[41:19] the
+[41:20] oil he they're part of the
+[41:23] plan they're part of the plan in
+[41:26] Venezuela uh
+[41:27] of all these
+[41:29] alliances creating a way to defeat the
+[41:32] dollar and then become the world power
+~~~
+
+<a id="section-08"></a>
+## 08. 42:00–47:59 · 预言、梦境与异象、战争与国际事务
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、物资、能源与供应链。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[42:00] Israel now I'm seeing
+[42:02] Israel Israel standing there allone but
+[42:05] they're but they're glowing with the
+[42:09] glory they are a light in the
+[42:13] darkness and there's a great wealth
+[42:16] going to get ready to come up out of
+[42:18] Israel as oh I don't know if I
+[42:23] should I see wealth in the in the Gulf
+[42:28] I see oil reserves in the
+[42:32] Gulf I see power and wealth in the
+[42:38] golf it's it's in the water in outside
+[42:41] of
+[42:46] Israel I see a wealth I see it springing
+[42:49] forth I see it springing forth deep
+[42:51] Wells of wealth deep Wells of wealth and
+[42:55] and and and
+[42:57] see natural
+[43:05] [Music]
+[43:13] gas I hear him talking about the
+[43:15] abrahamic
+[43:18] [Music]
+[43:22] Covenant I see fruits and vegetables
+[43:25] flourishing
+[43:28] I see I see beautiful big beautiful
+[43:31] fruits and vegetables growing even
+[43:34] better there's a new springing forth of
+[43:38] of brushing off like a breathing on the
+[43:41] on on their Covenant it wasn't that it
+[43:46] [Music]
+[43:47] was they will stand out even more with
+[43:50] the blessing of the
+[43:53] father they will stand out even more
+[43:56] with the blessing of the
+[44:03] father
+[44:05] oh over the next four
+[44:16] years I see it it goes 2020 2025 2026
+[44:23] 2027 and 2028
+[44:32] I see flourishing with the with the
+[44:35] Trump
+[44:36] Administration and and and Israel's
+[44:38] Administration they're they're they're
+[44:40] like one and they're moving together as
+[44:44] one there is an alliance with the
+[44:48] blessing on from Israel coming on
+[44:50] America because of this I see I see they
+[44:55] will bless you and I will will bless and
+[44:57] those that curse you I will
+[45:01] curse and I see a blessing coming on
+[45:05] America because of this this alliance
+[45:08] with Israel a deepen rooted alliance
+[45:12] with
+[45:18] Israel it's absolutely
+[45:23] beautiful oh Father we praise you
+[45:33] there's there's like there's
+[45:37] peace it's like big brothers in the room
+[45:39] and helping helping Israel I see it's
+[45:41] like a like a like a stronger Alliance a
+[45:45] stronger Covenant like don't mess with
+[45:48] them or you'll mess with us
+[45:59] because of the Covenant because of this
+[46:02] Alliance because you protect my
+[46:05] people it brings blessing back on
+[46:08] you for there's no hidden back room
+[46:11] deals trying to Strongarm the Israeli
+[46:15] government for it's just a partnership
+[46:18] and a
+[46:20] Brotherhood friendship
+[46:36] as you pray and you bless my
+[46:39] people I see it
+[46:43] America the
+[46:44] key the key to the blessing is being
+[46:48] connected to
+[46:52] Israel the key to the favor is connect
+[46:57] the key to the turnaround of
+[47:00] America is connected to blessing
+[47:18] Israel as we bless them it brings an
+[47:22] umbrella over us
+[47:32] how Lord and all this stuff I'm talking
+[47:35] about Cuba and all this stuff it's like
+[47:37] it's outside of the blessing
+[47:48] bubble he said they will come at you one
+[47:50] way and they will flee before you seven
+~~~
+
+<a id="section-09"></a>
+## 09. 48:00–53:59 · 预言、梦境与异象、物资、能源与供应链
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、祷告、敬拜与现场互动。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[48:08] I see light and I see blue all around
+[48:12] pre present Trump but I see a blue sky
+[48:14] again I see beautiful beautiful times
+[48:17] it's like a spring day a beautiful
+[48:20] spring
+[48:24] day and I hear I he got his favored and
+[48:27] he's putting his hand on
+[48:29] him and there is a hand of the Lord of
+[48:33] blessing and I see there's an anointing
+[48:36] there is an anointing it's like dripping
+[48:38] like oil off of
+[48:42] him he is filled with controlled by the
+[48:46] Holy Spirit
+[49:03] everything
+[49:05] oh
+[49:07] everything is going to be all
+[49:11] right everything is going to be all
+[49:16] right as you line up with
+[49:19] Israel as you defend and protect my
+[49:23] people I see a covering ahead edge
+[49:27] around and about America and everything
+[49:30] is going to be all
+[49:47] right what the devil meant for bad I'll
+[49:51] turn it for
+[49:54] good but there's there's a covering
+[49:57] that's coming over America there's a
+[49:59] covering there's a
+[50:16] covering we can pray I'm hearing we can
+[50:19] pray to lessen the House of Cards
+[50:24] falling a supernatural Solomon
+[50:28] wisdom to turn this this ship
+[50:33] around it's like the visions that I've
+[50:37] seen about the economy crashing you can
+[50:40] see it kind of it's trying to
+[50:45] turn but it's keyed to blessing
+[50:49] Israel as you sew into Israel and you
+[50:52] bless and you create favor it causes
+[50:54] umbrella of protection and blessing
+[50:59] and I saw blessing coming out of the out
+[51:02] of the water I saw blessing coming up
+[51:05] out of a new this energy of gas and
+[51:08] there's there's blessing and I saw
+[51:10] fruits blessed in the four years there's
+[51:13] there's there's covering and all these
+[51:16] things and all these alliances out here
+[51:18] they're trying but I see it it's it's
+[51:21] like it's it's like it's almost like
+[51:22] it's like you're letting air out of a
+[51:24] balloon it's like hot air you like
+[51:27] and it's just letting it out because
+[51:28] they're trying but it's being held back
+[51:31] at
+[51:33] pay there's a covering Over America
+[51:35] there's a
+[51:37] covering as you line up with with with
+[51:40] this as they line up and do this they're
+[51:42] like friends they're like
+[51:46] like we must pray even more I
+[51:50] see there's company in Israel
+[51:56] there's great wealth there folks I'm
+[51:59] seeing Bo big money it's almost like a
+[52:02] pot of gold it's like a pot of
+[52:08] gold I don't know what this is but it's
+[52:10] like drilling
+[52:12] oil great
+[52:14] reserves it's down in that W it's down
+[52:17] in the the soil I see these great
+[52:20] reserves of oil boo lots of oil
+[52:27] and it's about to happen I see oil
+[52:30] reserve gas reserve I see
+[52:35] money great
+[52:38] wealth I I see
+[52:43] billions billions I see two point two
+[52:47] two I see the number two I see number
+[52:49] five I see billions 25 billion 25
+[52:53] billion that is growing
+[53:02] no 250
+[53:10] billion it's not 25 billion it's it's
+[53:13] bigger than that it's it's it's like
+[53:15] more
+[53:16] zeros
+[53:20] whoa lots of zeros
+[53:36] and the
+[53:47] agriculture be days like Ronald
+[53:53] Reagan but we must pray for him
+[53:57] for the cabinet for the house they must
+[53:59] have the house they must have the Senate
+~~~
+
+<a id="section-10"></a>
+## 10. 54:00–59:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、战争与国际事务。 提到的地点：Europe。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[54:02] and in this they'll be able they're
+[54:03] going to do things
+[54:09] quickly there's one last call ladies and
+[54:13] gentlemen I've been shown a lot really
+[54:15] quickly and I have to pray over every
+[54:17] bit of this
+[54:19] I I'm very interesting that he did it on
+[54:22] on the camera like this because usually
+[54:24] he does this privately with me
+[54:36] it's like every one of these these
+[54:38] things like even with Taiwan with with
+[54:40] that over there it's like they're all
+[54:42] they have their plan they're trying to
+[54:44] divide these plans because they have
+[54:46] their agenda of what they're wanting to
+[54:48] do and they know that they they're out
+[54:50] of time they were trying so hard for
+[54:52] four years but if CA Harris would have
+[54:54] won it would have all been up in an
+[55:01] uproar but because he won we have to
+[55:04] pray for him folks for his
+[55:08] protection it should be it should be on
+[55:11] your on your breath all the time as if
+[55:13] you live in America to be praying for
+[55:14] the protection of our
+[55:18] leader and for wisdom for him I see a
+[55:21] holy ghost glow around him and I see a
+[55:25] covering but I saw many
+[55:27] and and and and these others and they
+[55:29] were devising a
+[55:31] plan cuz they wanted the war to escalate
+[55:34] in Europe and I saw trying to
+[55:38] defuse I saw him coming in and trying to
+[55:40] call diplomatic like like he's trying to
+[55:43] be like be like a a peacemaker like
+[55:46] let's let's stop this
+[55:52] nonsense creating deals that are
+[55:54] illustrate like God god-given deals and
+[55:57] and and macron's don't like
+[56:04] this he don't he don't want
+[56:07] that he's lying he's
+[56:11] toofaced he wants the war there's a
+[56:13] reason why he wants
+[56:16] War oh I hear him say one world
+[56:24] older creating trying to create a new
+[56:27] one
+[56:29] world and he knows it one has to come
+[56:32] through
+[56:36] War this man is very
+[56:42] bad oh I see who's behind
+[56:47] him
+[56:54] o oh there is this man is very
+[57:12] bad he is being he is being pushed by
+[57:16] some very rich dark
+[57:19] men and other world leaders that are
+[57:22] very dark he's being pushed and Europe
+[57:26] and in this it's the Antichrist
+[57:32] agenda and he's with the
+[57:42] who it's the
+[57:54] health so Ro is involved in
+[58:10] this now father I just I Lord if there's
+[58:15] anything else you want me to say about
+[58:16] this
+[58:17] today I I'll yield over but Lord that's
+[58:20] a lot Lord my goodness this is a lot for
+[58:23] I I want to know more Lord if you have
+[58:28] more we pray over Elon mus father I told
+[58:31] you you said pray for him for 20
+[58:35] days and we lift up before him up before
+[58:38] you
+[58:38] father and we thank you Lord that he
+[58:41] will become born
+[58:43] again we call this evil woman that I saw
+[58:47] beside him I call her removed in the
+[58:50] name of Jesus and I thank you Father
+[58:52] that he would be able to see clearly on
+[58:54] his own
+[58:56] that this reptilian thing that I
+[59:00] see
+[59:03] reptilian looks like a almost like a a
+[59:06] snake alligator
+[59:11] thing
+[59:13] oh I don't say nothing else I'm sorry
+[59:28] father I pray I pray over his
+[59:35] soul my goodness
+[59:45] Lord all hidden things be revealed
+[59:51] father I pray over him father he would
+[59:53] get born again
+[59:58] and I pray over father his heart father
+~~~
+
+<a id="section-11"></a>
+## 11. 60:00–65:59 · 预言、梦境与异象、战争与国际事务
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、祷告、敬拜与现场互动。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[60:00] that he would know
+[60:02] you and I thank you Lord according to
+[60:05] Ephesians 1:18 father the eyes of his
+[60:08] understanding would be
+[60:10] enlightened and I plead the blood of
+[60:13] Jesus over me and my wife and my
+[60:16] children
+[60:28] I don't want to look I don't want to
+[60:29] look at that no more like that
+[61:08] the presence of the Lord is here
+[61:40] fore
+[61:59] four years four
+[62:03] years remember when I tell you this four
+[62:07] years we can turn things I'm hearing
+[62:10] that we can turn
+[62:13] things thank you for joining me today we
+[62:16] can turn things I'm seeing it in the
+[62:19] spirit realm different now today was the
+[62:22] first day I asked the Lord what's the
+[62:23] word for now you just showed me more
+[62:26] and ladies and gentlemen I'm seeing we
+[62:29] can turn
+[62:30] things all the economic stuff I saw it
+[62:33] turning I saw great wealth in the with
+[62:37] Israel I saw great wealth coming on
+[62:39] America because of an alliance with
+[62:42] America with
+[62:43] Israel this must take
+[62:47] place but I saw money out of that water
+[62:50] in in Israel big
+[62:54] money I saw an economic agenda that was
+[62:58] trying to
+[62:59] unfold with the virus with the things
+[63:01] like that but folks we take authority
+[63:03] over that virus and they're not going to
+[63:04] release
+[63:06] this we must pray for Emanuel MCR for
+[63:09] his dark
+[63:11] man there's great great Darkness there
+[63:14] at the
+[63:20] who I know that was a lot it's a lot for
+[63:24] me I I have to pray over everything now
+[63:26] and I keep this video and I'll go over
+[63:29] it and go over
+[63:30] it but it's like it's a it's a two-
+[63:34] ways as he comes in there's a covering
+[63:37] there's like a a covering Over America
+[63:39] as you line up with Israel of
+[63:43] blessing and the enemy's out here trying
+[63:46] to devise a plan with Taiwan Cuba
+[63:50] Venezuela to try to create their own
+[63:52] agenda to try to do this but it was not
+[63:54] able to take off like they wanted to
+[63:56] because this was being stopped because
+[63:58] of this
+[64:01] covering and they try to divise a plan
+[64:04] to try to and they try to do it because
+[64:06] there was Darkness over
+[64:08] Europe and Emanuel cron and Germany and
+[64:13] and
+[64:15] Bulgaria
+[64:18] Bulgaria up
+[64:22] here they were all trying to create
+[64:25] their own thing to create
+[64:28] War they wanted to escalate even
+[64:32] more and he was he was he was talking to
+[64:35] some I saw France and he was talking to
+[64:37] some bad
+[64:42] people so they're trying to manipulate
+[64:45] to keep Trump in it because Trump was
+[64:47] trying to pull
+[64:49] out he wanted to stop it he wants peace
+[64:54] and they were trying to create false
+[64:56] flag events to create it to make it keep
+[65:00] escalating provoking the
+[65:04] bear but I saw diplomatic
+[65:10] peace I saw escalation against Israel
+[65:14] and
+[65:15] Iran that will will be shortlived in
+[65:18] this area I saw
+[65:20] it but because the United States was
+[65:22] back in the him
+[65:26] and they were afraid of the Firepower
+[65:28] that we
+[65:29] had they didn't want to lose their
+[65:31] regime and all that so it's almost like
+[65:33] they were they're weaker than what they
+[65:35] but they have a plan they have evil
+[65:39] weapons so we pray for all those things
+[65:41] that I saw covering of blessing over
+[65:43] Israel
+~~~
+
+<a id="section-12"></a>
+## 12. 66:00–70:23 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、预言、梦境与异象、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[66:04] it's almost like it's two separate
+[66:06] visions of what it's tried to be and
+[66:09] what the Lord wants to take it does that
+[66:11] make sense it's like you can see the the
+[66:14] the New York and all the things like
+[66:16] that I was showing and the virus and all
+[66:19] that that was trying to come about and
+[66:21] then you could see the fork cof and you
+[66:23] could see the blessing and the covering
+[66:25] and and the in the covering from
+[66:30] Israel my job is never try ever to bring
+[66:33] confusion I pray and that's is what I
+[66:35] see and you all want to be a part and I
+[66:38] and I show you what the Lord says and
+[66:41] that's why I say I get these these
+[66:43] trails and then the Lord told me pray
+[66:44] over this but it's connected but it's
+[66:47] connected and I saw corruption in in
+[66:50] Mexico I saw corruption in Mexico dark
+[66:53] corruption and I saw tariffs I saw D
+[66:57] like they were panicking because I'm
+[66:59] telling like big tariffs will be put on
+[67:01] their Nation when Trump gets in to stop
+[67:04] the the the E illegal M migration and
+[67:08] then they have Financial
+[67:11] ties it was
+[67:14] dark for the sex trafficking that they
+[67:18] these government officials had links to
+[67:21] these these traffickers
+[67:30] to keep it
+[67:33] going
+[67:36] money big
+[67:38] money under the table
+[67:44] money you know isn't it sick these
+[67:46] people they they they they've profit off
+[67:49] of people
+[67:52] suffering I ask for judgment on it
+[68:00] it's very dark these people are so
+[68:03] dark my
+[68:12] god well that was a different
+[68:16] video I wasn't expecting that today but
+[68:18] the Lord had
+[68:19] plans well if you're new here and you've
+[68:23] never been here before uh
+[68:26] it's always
+[68:27] new if you could please like the video
+[68:30] subscribe if you haven't subscribed we
+[68:33] appreciate it it helps us to get in the
+[68:34] algorithm for the other people to get
+[68:36] the video and pray with us like the
+[68:39] video click the notification Bell
+[68:41] remember Jesus Is A Healer remember he's
+[68:44] the same yesterday today and forever
+[68:46] ladies and gentlemen and he's Healing
+[68:47] The Sick just like he did 2,000 years
+[68:50] ago you just got to bleed him for it
+[68:53] he'll heal you and he'll deliver you and
+[68:55] he'll will'll set you free and I pray
+[68:57] with all my heart this video blessed you
+[69:00] today hopefully it said shed some light
+[69:02] sure did for me because I've asking
+[69:05] what's Direction show me the direction
+[69:07] and the direction is
+[69:10] blessing that's what I'm trying to tell
+[69:12] youall there's a plan from the evil
+[69:14] they're trying to do and there's a plan
+[69:16] from the blessing it's who do you choose
+[69:18] today we pray for the covering Over
+[69:21] America and over these areas and that
+[69:23] the darkness is exposed but I'm telling
+[69:25] you great blessing I don't see the CRA I
+[69:28] did not see the crash as much ladies and
+[69:30] gentlemen I'm not seeing that and I'm
+[69:32] telling you there's something
+[69:35] shifting I saw blessing today I saw him
+[69:39] standing in the Oval Office with glow on
+[69:42] his face and he was not weeping he was
+[69:45] smiling and there was a smile on him he
+[69:48] becomes radically Born Again In The Days
+[69:50] Ahead well thank you for watching this
+[69:52] video and we really appreciate it
+[69:55] thank you for watching it and thank you
+[69:57] for subscribing we uh we pray this video
+[70:00] blessed you all and so we'll see you
+[70:02] again tomorrow pray for me I I believe I
+[70:05] have more to say I I I have to pray more
+[70:07] to pray over this um I pray it blessed
+[70:10] you all this is this is what different
+[70:12] for me so thank you for for being here
+[70:16] we'll put a smile on your face and a
+[70:17] song on your heart Jesus loves you so
+[70:20] much and we love you God bless you all
+[70:22] and we will see you again tomorrow
+[70:23] bye-bye
+~~~

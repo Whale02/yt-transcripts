@@ -1,0 +1,1686 @@
+# The Lord showed me a vision in prayer today： AMAZING! Jesus is coming ｜ A call to prayer day 33
+
+**视频**: https://www.youtube.com/watch?v=B86nuksyMLU
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/The Lord showed me a vision in prayer today： AMAZING! Jesus is coming ｜ A call to prayer day 33 [B86nuksyMLU].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 1543；**章节数**: 12；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–06:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-01)
+- [02. 07:00–13:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-02)
+- [03. 14:00–20:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-03)
+- [04. 21:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-04)
+- [05. 28:00–34:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-05)
+- [06. 35:00–41:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-06)
+- [07. 42:00–48:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
+- [08. 49:00–55:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-08)
+- [09. 56:00–62:59 · 预言、梦境与异象、祷告、敬拜与现场互动](#section-09)
+- [10. 63:00–69:59 · 祷告、敬拜与现场互动、地震、风暴与灾害](#section-10)
+- [11. 70:00–76:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-11)
+- [12. 77:00–79:24 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-12)
+
+<a id="section-01"></a>
+## 01. 00:00–06:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] good morning family how are you all
+[00:02] doing today well I'm Brandon bigs and
+[00:04] this is Diana bigs and this is my wife
+[00:06] and we're excited to be with you uh we
+[00:09] have some things on our heart and we're
+[00:10] just going to get right to it we want to
+[00:12] take communion with you and we're going
+[00:14] to pray and we're going to lift up uh
+[00:16] your needs if you have something that
+[00:19] you have need of today know that all
+[00:22] things are possible to him who believe I
+[00:25] believe that today is your day for your
+[00:27] healing for your deliverance for your
+[00:29] miracle Dian and I we want agree with
+[00:31] you we'll be your
+[00:32] two you may say there's nobody out there
+[00:35] praying for me there's nobody out there
+[00:37] agreeing with me for anything and and
+[00:39] and you come to the right place today we
+[00:42] want you to know that you it wasn't by
+[00:45] accident that you click this video
+[00:47] because there's somebody out there in
+[00:49] your corner that's believing God with
+[00:51] you and ladies and gentlemen we have you
+[00:53] have two people right here that are we
+[00:55] love the Lord and we know that when we
+[00:57] pray we get our prayers answered because
+[01:00] God is is our friend and he he he visits
+[01:03] us and I believe with all my heart he'll
+[01:05] visit you he's no respector of persons
+[01:08] ladies and gentlemen and what he do for
+[01:10] one of his kids he'll do for all of them
+[01:13] it just takes faith it just takes you
+[01:15] reaching out in faith and believing so
+[01:17] we just want you to know where you have
+[01:19] somebody in your corner believing for
+[01:21] you we Diane and I will agree with you
+[01:24] we'll believe with you for your miracle
+[01:27] today where it doesn't it nothing's too
+[01:29] big big and nothing's too small Jesus
+[01:32] will meet you right where you are and I
+[01:34] just want you to know that uh that we
+[01:37] believe for big we're believing for big
+[01:39] for things we're believing for we're
+[01:41] believing for whatever you
+[01:43] need you could tell us Brandon I've got
+[01:46] this and this and this and and it's not
+[01:48] going to shock us we believe that God is
+[01:50] able to do exceedingly abundantly above
+[01:53] all that you dare ask or think so we're
+[01:56] going to take communion and we're going
+[01:58] to believe God for healing for your
+[02:01] manifestation of healing for for your
+[02:04] deliverance and you may be bound by
+[02:06] something you say well I've been dealing
+[02:08] with this for dealing with this for like
+[02:11] you know 30 years I've been dealing with
+[02:14] this alcoholism or whatever and you're
+[02:16] you might have sorosis of the liver the
+[02:19] doctors tell you if you you don't stop
+[02:21] doing this you're going to go home and
+[02:24] you think how can I get free from that
+[02:27] and I believe today is your day I don't
+[02:29] know who that's for but that just came
+[02:31] up out of my
+[02:32] spirit there's somebody that's dealing
+[02:34] with
+[02:35] alcoholism you've been bowing by this
+[02:38] and you you've been hiding it you don't
+[02:41] want you don't want people to know that
+[02:43] you have a problem with alcohol you're
+[02:46] embarrassed of this and you've been
+[02:48] dealing with this for a long time and
+[02:50] it's a spirit that's come and it's set
+[02:52] to try to destroy you but Jesus tells me
+[02:55] today is your day you're going to get
+[02:57] delivered from that alcoholic devil
+[03:01] as you take
+[03:01] [Music]
+[03:03] communion with
+[03:05] us that demonic Spirit that's been
+[03:08] pestering you and and driving you to
+[03:11] this to drink yourself to death is going
+[03:14] to be broken off your life
+[03:17] today I believe it I believe it today is
+[03:20] their day of Deliverance I don't want
+[03:23] you putting it in the comment section
+[03:24] after you get free for so that you if
+[03:27] you're if you're embarrassed about it
+[03:29] but you can email em us and tell us yeah
+[03:31] for privacy it's privacy yeah you don't
+[03:33] have to tell you don't have to expose
+[03:35] that but we want to know yes we I want
+[03:38] to know we want to Rejoice with you that
+[03:40] you're free because the the Devil comes
+[03:43] and kills children and Destroy ladies
+[03:44] and gentlemen but the but the Bible says
+[03:46] that God has come that we might have
+[03:48] life and life more
+[03:49] abundantly and I believe with all my
+[03:51] heart today that that Spirit of
+[03:54] alcoholism is broken off of your life in
+[03:56] the name of Jesus and that For Whom the
+[03:59] son has set free is free indeed and this
+[04:02] is not just about alcoholism it's about
+[04:05] every kind of
+[04:06] addiction
+[04:08] fentol that's a spirit too and it grabs
+[04:11] a hold of you and I believe from oxy
+[04:14] Codine to fentanyl to to marijuana to
+[04:17] cocaine to whatever you have need of to
+[04:21] be delivered of I believe with all my
+[04:23] heart from heroin to meth that you are
+[04:27] free in the name of Jesus Jesus from
+[04:30] this demonic spirits I speak to him
+[04:33] right
+[04:34] now and father we lift up this
+[04:38] body and you said that you became
+[04:43] sickness for us you became addiction for
+[04:47] us you took all our griefs and all our
+[04:51] pain you took all of our burdens all of
+[04:54] our sorrows you took it all for
+[04:57] us the Bible say that you were wounded
+[05:00] for our transgressions you were bruised
+[05:03] for our iniquities the chastisement of
+[05:05] our peace was upon you and with your
+[05:08] stripes we are healed and we take this
+[05:12] body in the name of Jesus and as we take
+[05:15] this body we have a covenant with you
+[05:19] for deliverance for healing for
+[05:21] emotional healing I speak to emotions
+[05:25] and Trauma from being sexually abused
+[05:27] from verbally abused to physic i al
+[05:30] abused we speak to the trauma of that
+[05:33] from PTSD from that and we say in the
+[05:36] name of Jesus be free in Jesus name Let
+[05:40] the Fire of the Holy Spirit move on you
+[05:43] and deliver you from those bond that
+[05:46] from that bondage and the baggage of
+[05:47] that I say in the name of Jesus Christ
+[05:50] of Nazareth you are free and for whom
+[05:54] the son has set free is free indeed and
+[05:57] I speak to you the the the all those
+[06:00] demonic spirits you let her go you let
+[06:03] him go and you do not bother them
+[06:05] anymore we call their mind healed and
+[06:09] whole and well and father we take
+[06:12] authority over those demonic spirits of
+[06:14] Torment in Jesus name and we say peace
+[06:18] that passes all understanding is over
+[06:20] your emotions today over your mind and
+[06:23] though I hear the Holy Spirit tell me
+[06:25] you need to get in the word and you need
+[06:28] to renew your mind with the water of the
+[06:30] word renew your mind in the name of
+[06:32] Jesus by the word of God putting that
+[06:35] word in through your eyes putting it
+[06:37] through your eyes putting it in your
+[06:38] ears listening and Renewing Your Mind on
+[06:41] a day-to-day basis and that will deliver
+[06:44] you even more you you will know the
+[06:47] truth and the truth will keep you free
+[06:49] yes you need to know the truth the truth
+[06:52] of God's word and what he says about you
+[06:55] and that truth will set you
+[06:57] free you have to get that into inside of
+[06:59] you when the devil tries to remind you
+~~~
+
+<a id="section-02"></a>
+## 02. 07:00–13:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、地震、风暴与灾害。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[07:01] of your past well this happened to you
+[07:04] as a child this happened to you your
+[07:05] daddy did this to you your mama did this
+[07:07] to you you have to remind him of his
+[07:10] future say Satan you reminded me of my
+[07:14] past today I'm remind you're going to
+[07:15] burn in hell for eternity in the Lake of
+[07:17] Fire there's a fire waiting for you
+[07:20] buddy and every one of your devils and
+[07:22] every one of your of your imps and all
+[07:25] your spiritual wickedness and high
+[07:27] places there's all place for you you and
+[07:30] the fire uh and you're going to burn
+[07:32] there for through all eternity there's a
+[07:35] place for you and you're going to burn
+[07:37] there
+[07:39] forever and I'm telling you he he'll
+[07:41] stop doing that you keep doing that you
+[07:44] keep reminding he reminds you your past
+[07:45] you keep reminding him of his future
+[07:48] there he don't want to hear it you're
+[07:50] going to burn baby
+[07:52] burn you're going to burn baby burn and
+[07:57] I'm telling you there's a day coming for
+[07:59] you
+[08:00] resist the devil and he will flee yes
+[08:02] submit yourself unto God resist the
+[08:04] devil and he will flee he will flee he
+[08:08] will scream as in Terror but you've got
+[08:11] to submit yourself and how you do that
+[08:12] is you get in the word I submit myself
+[08:15] to you I resist the devil I will not
+[08:19] fall into this temptation again of of
+[08:21] alcoholism and I thank you Father we
+[08:24] take this body right now in Jesus name
+[08:31] Lord You're the Healer you're the
+[08:35] deliverer and we take authority over
+[08:37] that Spirit of alcoholism right now and
+[08:39] we command you to get out now in the
+[08:44] name of Jesus you foul devil you get out
+[08:50] now in Jesus
+[08:53] name now Lord we plead the blood and you
+[08:57] said if father you told us if we we make
+[08:59] much of the blood the blood will make
+[09:01] much of
+[09:03] us we make much of the blood today and
+[09:05] we apply the blood over this
+[09:07] circumstances over these
+[09:10] addictions we apply the blood of Jesus
+[09:14] over
+[09:15] us and we thank you Father that you've
+[09:19] set us
+[09:21] free you've set us free Lord and we
+[09:23] don't have to be bound by the devil's
+[09:25] hand anymore we are been free by you and
+[09:28] we thank you Lord for the blood D we
+[09:30] take this blood and we thank you Lord
+[09:33] for the blood of Jesus
+[09:35] Christ Thank You Lord For You
+[09:37] forgiveness of our sins for we confess
+[09:40] our sins you're faithful and just to
+[09:41] forgive us of our sins and you will
+[09:43] cleanse us from all
+[09:51] unrighteousness everybody say Amen on
+[09:54] that I believe that you're free today
+[09:57] and that devil can't stay inside he
+[09:59] can't torment you no
+[10:01] more out of that flesh I speak
+[10:04] deliverance and wholeness and heal this
+[10:06] just believe with me you stretch your
+[10:07] hand father I thank you I speak to that
+[10:10] demonic Spirit you break off now in
+[10:13] Jesus name you
+[10:17] go you
+[10:19] go you Spirit of grief you Spirit of
+[10:23] worry you get out now in Jesus name
+[10:47] it's a part of a
+[10:49] sorrow you have
+[10:51] sorrow
+[10:53] sorrow it's been bound on you from
+[10:56] sorrow your sorrow sorrow is just like a
+[10:58] from from losing
+[11:05] things oh it's from a broken
+[11:08] marriage someone it's dealing with
+[11:10] broken
+[11:13] marriage a bad marriage the Alcohol come
+[11:17] from a bad marriage a bad
+[11:20] divorce a bad divorce
+[11:30] and then there's another person from
+[11:32] someone passing
+[11:34] on losing a child losing someone dear to
+[11:46] you and it come through a like a spirit
+[11:49] of
+[11:51] depression a spirit of heaviness and
+[11:54] because of that you drank drink drink
+[11:56] drink drink trying to cover that pain
+[12:01] and the Lord wants to set you
+[12:07] free be free
+[12:09] today be free
+[12:12] today be free today in Jesus name the
+[12:15] Holy Spirit go through this
+[12:18] camera where they are right there you're
+[12:20] there with them right now and I believe
+[12:23] as we pray we believe you receive in
+[12:27] jesus' name Deliverance from those
+[12:33] addictions I see a gambling
+[12:37] addiction you've been tormented by
+[12:42] gambling you've been tormented by
+[12:44] gambling it's so much so that it's it's
+[12:46] almost destroy it destroyed you your
+[12:49] finances are in a wreck because of this
+[12:52] gambling addiction this is demonic
+[12:54] spirit this is a demonic spirit that has
+[12:57] been sent and it's generation
+[12:59] and it's coming and it it will be ended
+[13:02] today it will be end it will end today
+[13:06] in Jesus name this will end today in
+[13:10] Jesus name you get your hand off of them
+[13:14] and I break this right now and we sever
+[13:18] this and we say no more in Jesus
+[13:24] name Deliverance over this it's online
+[13:28] gambling
+[13:34] it's online
+[13:37] gambling credit card debt mounted
+[13:41] up through through you have ton you have
+[13:44] a lot of debt because of this this
+[13:52] Spirit oh Father I praise you I thank
+[13:57] you Father you set in these people free
+~~~
+
+<a id="section-03"></a>
+## 03. 14:00–20:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[14:01] today I thank you Lord that they're
+[14:03] setting these people free today Father
+[14:05] and they'll turn their life around by
+[14:08] the word of
+[14:09] God lord we believe we receive your
+[14:14] deliverance we believe we receive your
+[14:17] healing we believe we receive all that
+[14:20] you have for us and we speak life over
+[14:23] the wombs and we speak life over the
+[14:25] bodies and we speak healing and
+[14:28] wholeness and Wellness over them in
+[14:30] Jesus
+[14:32] name the father renewing of their mind
+[14:35] and the torment from depression anxiety
+[14:37] and fear the Demonic Spirit of
+[14:39] depression we command you to go now in
+[14:43] jesus' name bipolar disorder disorder we
+[14:47] speak to you to go now in Jesus name
+[14:51] healing and wholeness and wellness is
+[14:53] over their minds father they have
+[14:55] soundness in their
+[14:56] minds you fouled devil from hell you go
+[15:00] now in Jesus
+[15:02] name father we thank you Lord that
+[15:04] they're delivered in their minds are
+[15:06] free over their minds from this demonic
+[15:09] Spirit of depression father I thank you
+[15:12] Lord their hormones are lined up
+[15:14] serotonin levels are lining up dopamine
+[15:16] levels are lining up we speak life over
+[15:19] their bodies we speak life and wholeness
+[15:21] and heal healing and wellness over them
+[15:24] right now in Jesus
+[15:26] name we thank you Father we thank you
+[15:30] Lord that you have taken it all on the
+[15:33] cross for us and that we don't need to
+[15:35] take it
+[15:37] anymore we won't take Satan's poo poo
+[15:40] package anymore on our life no
+[15:46] more father I thank you Lord for healing
+[15:49] over their bodies
+[15:51] today healing over their bodies father I
+[15:55] thank you
+[15:57] Lord we thank thank you Lord the
+[16:00] fibromyalgia is being healed right now
+[16:03] in jesus' name we speak to fibromyalgia
+[16:07] and we call you whole and you are well
+[16:10] in jesus' name fibromyalgia go now in
+[16:14] Jesus
+[16:17] name
+[16:18] delivered delivered in Jesus name lime
+[16:23] disease I just saw a lime lime disease
+[16:26] from tiex
+[16:29] the Lord showed me tick a tick and I say
+[16:33] in the name of Jesus you are free from
+[16:36] lime disease free from lime disease in
+[16:40] Jesus name from a tick
+[16:45] bite thank you Father thank you Lord for
+[16:49] that anointing going through this camera
+[16:51] right now delivering them every single
+[16:53] one of them that has a need father I
+[16:55] thank you that you're healing their
+[16:57] bodies from the top of their head to the
+[16:59] SES of their feet we speak to that lime
+[17:02] disease and we call that blood pure in
+[17:05] Jesus name pure in jesus' name blood be
+[17:10] cleansed of
+[17:12] that every cell every fiber of that body
+[17:15] be healed and whole and well in Jesus
+[17:17] name driving out that demonic uh
+[17:24] attack thank you Father thank you Father
+[17:28] thank you
+[17:30] Father father I give you praise father I
+[17:34] thank you Father I saw chronic migraine
+[17:38] headaches chronic migraines somebody's
+[17:40] having migraines it's like it happens a
+[17:44] lot and I say in the name of Jesus you
+[17:47] are free from these headaches demonic
+[17:50] strongholds of headaches it's actually a
+[17:53] demonic Spirit to try to attach itself
+[17:55] we call you out we say headache devil
+[17:58] you go now in Jesus
+[18:03] name grinding of the teeth with this
+[18:07] it's habitual
+[18:10] worrying cast all your cares upon Him
+[18:13] for he cares for you take no thought for
+[18:17] tomorrow take no thought for tomorrow
+[18:21] let the peace that passes on
+[18:23] understanding flow over your mind
+[18:25] today completely delivered from those
+[18:28] headaches completely delivered from the
+[18:31] the from TMJ
+[18:37] TMJ thank you
+[18:39] Father I thank you
+[18:41] Father I thank you Lord delivered from
+[18:45] that in Jesus name now Lord we praise
+[18:48] you God and we worship you pray over the
+[18:50] women right now hun for anyone that's um
+[18:53] believing God for a for a baby right now
+[18:56] we come before you father and I I lift
+[18:58] these women up that are that are
+[18:59] believing God to conceive a child and I
+[19:02] call I call their WBS to be healed in
+[19:05] jesus' name body conceive in the name of
+[19:08] Jesus we speak to we speak to their
+[19:10] bodies right now that they line up with
+[19:12] the word of God the Fallopian tubes all
+[19:14] of the the ovaries everything is
+[19:16] functioning as it should father they
+[19:18] were that you said you would bless the
+[19:20] fruit of our our womb and father I thank
+[19:22] you that you bless their fruit and you
+[19:23] said the de that you would rebuke the
+[19:25] devour for our sake father and we thank
+[19:27] you that they that they have healthy
+[19:29] pregnancies long and and and full term
+[19:33] you said you said that your our your
+[19:34] Vine will not cast its fruit before it's
+[19:36] time and so father I thank you that
+[19:39] there is there is life in their bodies
+[19:41] life in their wombs that they would have
+[19:44] that they would have easy pregnancies
+[19:46] that they would that their hormones
+[19:48] would after that their deliveries would
+[19:50] be great and it would be easy and then
+[19:53] their hormones would there would be no
+[19:56] depression no depression after babies no
+[20:00] uh what is it called postpartum
+[20:01] postpartum depression no I speak against
+[20:04] postpartum depression that there will be
+[20:07] none of that in the name of Jesus that
+[20:09] these women would have their hormones
+[20:11] would line up they would level out and
+[20:13] that they would be able to be uh the uh
+[20:17] focus on mother being the joy of
+[20:20] motherhood that the de what the devil
+[20:21] has tried to Rob these mothers of of the
+[20:24] motherhood of the joy of motherhood of
+[20:26] the being having a new baby that that
+[20:28] would not be anymore this postpartum
+[20:31] depression I rebuke it in the name of
+[20:33] Jesus in Jesus name you shall not Rob
+[20:36] these women of the joy of being a new
+[20:39] mother in the name of Jesus Jesus name
+[20:43] that there is no weapon formed against
+[20:45] them or these babies that shall prosper
+[20:48] and that these babies would be would be
+[20:50] got that I speak to in even in the womb
+[20:53] for the whole person for their for their
+[20:55] Spirit their soul and their body no Down
+[20:59] syndrome no no autism in the name of
+~~~
+
+<a id="section-04"></a>
+## 04. 21:00–27:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、经济、银行与市场。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[21:03] Jesus several poliy or birth effects no
+[21:05] birth effect I just saw birth effects
+[21:06] when you're praying for that we pray for
+[21:08] the arms we pray for the fingers we pray
+[21:11] for the toes you will have everything in
+[21:14] your missing nothing missing nothing
+[21:16] broken creative Miracle over the arms
+[21:19] and the limbs and the ears and all over
+[21:21] the over the body parts and the amniotic
+[21:24] fluid thank you Lord yes we speak to the
+[21:27] baby that have all it needs and
+[21:31] everything is okay they will not be
+[21:34] Downs there will not be um birth defects
+[21:37] we call forth healing and wholeness and
+[21:41] wellness in there and we thank you Lord
+[21:44] that these mothers will not have to go
+[21:45] on bed rest in the name of Jesus thank
+[21:47] you Father no bed rest they they will be
+[21:50] just fine fullterm baby beautiful
+[21:53] fullterm healthy child in Jesus name
+[21:56] Jesus name no cleff pallets no we pray
+[21:58] over clef I saw that in the spirit too
+[22:00] lord said pray over that cleft pallets
+[22:03] father with with the problem with the
+[22:04] mouth forming of the mouth we speak
+[22:07] healing and wholeness and wellness
+[22:09] Wellness over cleft pallets in Jesus
+[22:12] name we thank you Lord we thank you Lord
+[22:15] heart defects we speak to heart defects
+[22:19] and over heart problem with holes in the
+[22:21] heart being born with holes in the heart
+[22:23] we call heart defects healed and whole
+[22:26] and well in Jesus name Jesus we call the
+[22:29] baby's heart to be formed and completely
+[22:32] whole and that they would be flipped
+[22:34] down as they're supposed to not breach
+[22:37] not breach that they would do it on
+[22:39] their own and that the cords would be
+[22:41] where they're supposed to be no cords
+[22:42] wrapped around the neck in Jesus name
+[22:45] thank you Father in the name of Jesus
+[22:46] and we and their afar scores they
+[22:49] wouldn't have to be on oxygen when they
+[22:52] in Jesus turn turn turn we call peace
+[22:57] peace we to we call be healthy you and
+[23:01] and mother I just heard you mothers you
+[23:03] speak to your child yes you speak you
+[23:06] have authority over your baby and you
+[23:08] say it baby whatever you named it yes
+[23:11] what you name of the baby said I speak
+[23:13] it and I call you to flip right now in
+[23:15] Jesus name I call you to be well right
+[23:18] now in Jesus name nothing missing
+[23:20] nothing broken you lay your hands on
+[23:23] your stomach and you proun you you pray
+[23:25] blessing over your baby MH flip and be
+[23:29] be up be right you come out whenever
+[23:32] it's time no breach and if you say well
+[23:34] they say we're going to have to induce
+[23:36] you cuz it's been at you long I call you
+[23:37] to come out of there in Jesus name it's
+[23:39] time for you to come into this world yes
+[23:42] you speak to it that's what we did I
+[23:43] took commun we laid hands on Diana
+[23:46] stomach we took communion and we spoke
+[23:48] to that baby and we told each one of
+[23:50] it's time for you to come forth now in
+[23:52] jesus' name and they you're full term
+[23:56] you come out we're not going to have
+[23:57] being induced no we speak to you to come
+[24:00] out right now in jesus' name we have
+[24:02] authority over you as Mommy and Daddy
+[24:04] and we tell you to come out now in
+[24:06] jesus' name yes and you be healthy full
+[24:09] term full term yes now I now I'll look
+[24:13] at the date and see if it's full term
+[24:14] don't be you know don't do it h don't do
+[24:16] it but you know the Lord gives us the
+[24:19] Instinct that we know he tell in our
+[24:20] Spirits we know if that doctor said tell
+[24:22] you well we're going to have to do
+[24:23] inducing I say no we're not doing all
+[24:25] that that all those we're going I speak
+[24:28] to this baby to come forth in Jesus name
+[24:30] I take communion I have authority and I
+[24:33] thank you Father that we we have a in
+[24:36] the earth and in this womb I call I call
+[24:38] I have authority I call you healthy I
+[24:40] call you blessed little baby I speak to
+[24:42] your mind I speak to your eyes I speak
+[24:45] to you to develop like you're supposed
+[24:47] to yes nothing missing nothing broken
+[24:50] nothing missing you will not do anything
+[24:53] against this baby devil in Jesus name
+[24:55] Jesus
+[24:56] name so and then I and then we would
+[24:59] take a seed and we would sew a seed for
+[25:01] the Harvest we would sew a seed for the
+[25:03] baby we'd say father we thank you Lord
+[25:05] we plant this into good ground and we
+[25:07] thank you there's a covering there's a
+[25:09] covering over this with a financial seed
+[25:10] I bless it father and we did that a lot
+[25:15] yeah just talking to y'all about things
+[25:18] I I saw that in the spirit when I was
+[25:20] praying I got to go back to we got to go
+[25:21] back to
+[25:22] praying isn't that interesting I see it
+[25:25] and then I stop and I go hey hold on a
+[25:27] minute we can we can ED we we can
+[25:28] educate a little bit here yes you know
+[25:31] about what we do it's needed anointing
+[25:33] your stomach with oil praying over don't
+[25:35] know yeah yeah yeah some people don't
+[25:38] and you and then you believe God and we
+[25:40] would take take a a seed and we' sew the
+[25:42] seed to a Ministry or whever we say Lord
+[25:45] we thank you Lord that there's blessing
+[25:47] on it we sow this the Bible said David
+[25:51] said I I would not he would not give God
+[25:54] an offering that didn't cost him
+[25:56] something yes
+[25:59] anything David sowed it cost him
+[26:01] something that's what made it valuable
+[26:03] that what made it valuable because it
+[26:04] was from the heart it it was like this
+[26:07] is something that I am it's worship to
+[26:09] the Lord and that's why I when it was
+[26:12] come to my child when it come to my
+[26:14] children I want to sow for their peace I
+[26:17] sow for for them to not have colic I
+[26:20] give and it shall be given unto me good
+[26:22] measure pressed down shaken together I
+[26:23] but I sowed in behalf father I'm giving
+[26:26] because this is my offering it's an
+[26:28] offering of thanks and that's what we
+[26:30] did a lot I give an offering of thanks
+[26:33] for a healthy baby
+[26:35] yes Lord I'm not manipulating God with
+[26:39] my
+[26:40] giving Lord you're going to do this
+[26:42] because I'm giving to you we gave it as
+[26:44] an offering of of worship yes yes I
+[26:47] didn't want to give something that
+[26:49] didn't cost me something but I gave it
+[26:51] not to manipulate God to do something
+[26:53] for me but to say God thank you
+[26:58] thank you thank you for a a healthy
+[27:01] child thank you for this beautiful life
+[27:03] you've given us thank you Father for for
+[27:06] what that's what I se for it's just AC
+[27:09] of worship just like a worship father I
+[27:12] thank you and I lay this it may be a
+[27:15] hundred bucks 50 bucks 20 bucks whatever
+[27:18] you you know what's on your heart
+[27:19] whatever it may be all that you have a
+[27:21] dollar M you may be living on a dollar
+[27:25] father I give this quarter to you I give
+[27:28] this quarter I give this dime to you I
+[27:31] give this Penny to you it may that may
+[27:34] be all you have there's been times when
+[27:35] we we we sewed a pencil we sewed
+[27:38] whatever we found on the floor God I I'm
+[27:40] I'm believing by faith just for seed to
+[27:43] sew CU I we didn't have it so we believe
+[27:46] God we look for a quarter on the ground
+[27:48] outside or you know whatever you can
+[27:49] find God I just want to give this an
+[27:51] offering to you that's what we did at
+[27:53] the beginning we do every year at the
+[27:55] beginning of the year of starting out
+[27:57] the year i s a significant seed to the
+~~~
+
+<a id="section-05"></a>
+## 05. 28:00–34:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[28:00] Lord in 2024 believing for 2024 to be
+[28:04] blessed and in 2025 we'll do it again
+[28:08] father I thank you we seow this as an
+[28:10] offering of Thanksgiving to you say God
+[28:13] we love you and we thank you that our
+[28:15] 2025 is going to be
+[28:18] blessed we sew into 2025 believing for a
+[28:23] financial blessing all over
+[28:25] 2025 but we always give a sacrific
+[28:28] official
+[28:29] seed and and that's different every
+[28:32] time and we say Lord whether a thou
+[28:35] whether tells you to give a $1,000 or
+[28:37] whatever you know what I'm saying God I
+[28:41] say I'm going to give this by faith
+[28:43] believing for my
+[28:44] 20125 and then we write down I I know
+[28:47] it's getting off prayer I don't know why
+[28:48] I just saw this but you important but
+[28:51] write down what you're believing for in
+[28:54] 2025 and take communion over it it could
+[28:58] be a list this long but believe God for
+[29:02] big starting out now starting getting
+[29:05] your faith ready to believe God for 2025
+[29:08] closing out 2024 don't let go of 2024
+[29:11] yet we still got 60 days or whatever it
+[29:14] is I don't know 50 some days left but
+[29:16] believe God to close out 2024 yet but
+[29:18] believe God going into
+[29:20] 2025 for for the whole year yes that's
+[29:23] what we do so we sew a seed we always
+[29:26] sew a seed D and I se a seed believing
+[29:30] for Harvest over our finances and for us
+[29:32] for covering for 2025 and father we give
+[29:35] an offering of Thanksgiving and I say
+[29:38] thank you Lord thank you Father that
+[29:42] 2025 will be an amazing year yes
+[29:46] exceedingly abundantly above all that
+[29:48] all that we dare ask or think so we sew
+[29:51] it and we do a lot of things like that
+[29:54] yes and that's how we lived our life
+[29:55] that's how D and I do it we we SE and we
+[29:58] we give offerings of
+[30:01] thanks ahead of time that's how you know
+[30:04] you're action in faith I believe is is
+[30:06] you're giving him thank yous before you
+[30:09] even receive it in the
+[30:11] natural I'm giving him thank yous for
+[30:14] the
+[30:14] baby that we don't even have in the
+[30:16] natural to hold yet it's in the womb but
+[30:19] I know it's coming and I'm believing
+[30:22] that nothing M nothing's broken over
+[30:24] this child and we sow by faith and we
+[30:26] give by faith to wherever the Lord tells
+[30:29] you to to good ground without faith it's
+[30:32] impossible please God or you sew into
+[30:34] good ground your church wherever the
+[30:35] Lord tells you to uh and and you sew it
+[30:39] by and you give that offering of thanks
+[30:41] and that's what we did and we did over
+[30:42] the years and and every single time we
+[30:45] say Lord and we write down our vision we
+[30:48] write down what we're believing for and
+[30:50] we take communion over it and we fold it
+[30:52] up and we put it in a place that we
+[30:54] don't see it again until we get to the
+[30:56] end of the year and we look at all the
+[30:58] things that God did for us over the year
+[31:00] of 2024 it's amazing it's amazing to see
+[31:03] when you take communion over and you put
+[31:05] God first in your
+[31:08] life by by giving offerings of
+[31:11] Thanksgiving or whatever starting out
+[31:13] the year in
+[31:14] 20125 don't do it yet wait until 20 the
+[31:18] week of New Year's New Year's Day or
+[31:20] whatever and do it on New Year's Day
+[31:23] that's what we do it I don't always I
+[31:26] don't do it ahead of time I don't do it
+[31:27] in 20 24 cuz I'm still believing for
+[31:29] 2024 but I don't know I'm just filling
+[31:31] in my heart to tell you this something
+[31:32] you can start meditating on putting it
+[31:34] in your mind to write down your what
+[31:36] you're bleeding for it could be say I'm
+[31:37] bleeding for a new car I'm bleeding for
+[31:39] a new house I'm bleeding for a new
+[31:41] husband if you're
+[31:43] [Laughter]
+[31:46] single well I'm just saying they could
+[31:48] they be a widow oh yeah you know if
+[31:51] they're believing if they're if their H
+[31:52] and you're believing you don't want to
+[31:53] be alone anymore and and everything or
+[31:56] you could be a husband and your wife on
+[31:58] and you bleed for a new
+[32:00] spouse and you're saying man I don't
+[32:02] want to be alone anymore yes so you
+[32:04] write down those things you might be you
+[32:06] might be a widow and you're believing
+[32:07] for a new husband you might be a single
+[32:09] woman you've never been married before
+[32:11] MH you may be a single man you've never
+[32:13] been married before write it down God
+[32:15] I'm believing for a spouse this year and
+[32:17] I'd take that even a step further if
+[32:18] you're believing for a spouse uh write
+[32:20] down what you're what you're believing
+[32:22] God for don't just believe God for a
+[32:23] spouse believe God for a Godly spouse
+[32:26] believe God for the specific qualities
+[32:28] that you would that you desire in a mate
+[32:31] um and write that out pray over that you
+[32:34] don't want to be unequally Yol with
+[32:36] unbelievers yes don't think you're
+[32:37] getting don't get some Bubba coming up
+[32:40] there that has has all these problems
+[32:42] and you think well God sent me this this
+[32:46] ishmail God and it's an ishmail and
+[32:49] Isaac's around the corner don't settle
+[32:51] for an ishmail cuz you cuz you think
+[32:54] well Bubba came and he's over here and
+[32:56] he he's not anything that you really was
+[32:59] beding for he's not saved he doesn't
+[33:00] love the Lord he doesn't have the same
+[33:03] the the things that you that you like
+[33:05] you don't have anything in compare but
+[33:07] he came and and and the Lord might have
+[33:09] brought him and he's a Bubba and you go
+[33:12] what who well thank you Lord you're like
+[33:15] no and the Lord said that's your ishmail
+[33:17] God's going to bring your Isaac yes so
+[33:19] don't settle for an
+[33:21] ishmail that's a sermon
+[33:24] yeah that's a whole sermon people settle
+[33:26] for way too much or they give their
+[33:28] birth right away for a bowl of
+[33:32] porridge don't settle for second best
+[33:35] when God has its
+[33:38] best God has his best for you settle for
+[33:41] what God has don't settle just because
+[33:44] it's what's
+[33:46] convenient so I don't know so I I don't
+[33:50] know we are praying and all sudden all
+[33:52] this stuff came out of it but I I say
+[33:54] write the vision down and and and when
+[33:57] you get to 2025 and believe God for
+[34:00] exceedingly abundantly but take commune
+[34:02] over it Fold It Up put it up and then if
+[34:05] you're believing for a baby and you
+[34:07] haven't se have been able to uh conceive
+[34:11] sometime I believe it's sewing in a seed
+[34:13] about that too
+[34:15] yes there's a lot about offering of
+[34:18] praise and tither rights tither rights
+[34:21] there's offering he said he in Malachi
+[34:24] he said he rebukes the devour for your
+[34:26] sake and your Vine will not cast its
+[34:28] frot before its time y so that's what we
+[34:31] stand on regardless of I I'm just
+[34:34] telling you all it works the word will
+[34:37] work if you work
+[34:39] it in every area of your life but we do
+[34:43] a lot by giving offerings of
+[34:46] Thanksgiving above tithe we say God we
+[34:49] just want to worship
+[34:52] you it's my point of contact is a
+[34:56] seed I always that as a point of contact
+[34:59] it's it's like my it's like my my stamp
+~~~
+
+<a id="section-06"></a>
+## 06. 35:00–41:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、美国选举与投票。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[35:02] in the spirit realm I feel like it's say
+[35:04] I have a seed there I have a seed there
+[35:08] for Diana and I to have a 2025 a blessed
+[35:10] year that's what I'm going to do this
+[35:11] year God I thank you for 2025 is going
+[35:13] to be blessed thank you for Supernatural
+[35:16] favor that everywhere I put my souls in
+[35:19] my feet it will prosper and I will not
+[35:22] struggle we will not struggle we'll have
+[35:25] over and above all the we D Ass G think
+[35:27] this year 202 and that's what we believe
+[35:29] for 2024 and it's not over yet there's
+[35:30] still things that I'm believing for we
+[35:32] believe God we we we we put a thing on
+[35:34] there for a vacation we put things on
+[35:36] there say hey Lord we're believing for a
+[35:38] vacation we would like to take our kids
+[35:40] on a vacation somewhere yes and we do
+[35:42] stuff like that we put it on there we
+[35:45] write every one of M and keep it because
+[35:46] you you'll get it out don't forget to
+[35:48] get it back out at the end of the year
+[35:50] and look at it and you'll see all and
+[35:52] check see all the things that God's done
+[35:54] through the year that most people forget
+[35:56] about but right writing it down makes it
+[35:58] clear to you to see hey that's that's
+[36:01] check mark he did that he did that for
+[36:03] me he did that for me look at all the
+[36:04] things and then you give thanks to him
+[36:07] you give praise to him and thank him for
+[36:09] the things that he's done for you yeah
+[36:11] in 2024 all even the Small Things
+[36:13] anything it it it does not have to be
+[36:15] something huge yes write the biggest
+[36:18] thing that seems impossible and then
+[36:20] write the smallest little thing yeah all
+[36:22] we make a list yeah a list and we number
+[36:25] it 1 2 3 4 5 from the most important
+[36:28] thing to us all the way down down to the
+[36:29] other and we just say well and we write
+[36:32] it down and sometimes we fill up two and
+[36:34] three pieces of paper yes we'll go in
+[36:37] there and we anoint it with oil and we
+[36:39] pray over it and we take it communion
+[36:41] over it and we fold it up and we say we
+[36:43] ain't opening this up we seal it but do
+[36:45] not open until 20 until January 2025
+[36:48] yeah or 2026 whatever year year and we
+[36:52] dis anoint and thank you Lord we pray
+[36:53] over it and then we put it somewhere
+[36:55] that nobody else looks at it it's
+[36:56] private
+[36:58] it could be something for your marriage
+[37:00] be something for for whatever just
+[37:02] believe God big ladies and gentlemen
+[37:06] believe him for
+[37:07] big cuz he'll do it and you'll be you'll
+[37:10] look back and you'll go wow You'll Be
+[37:13] amaz we did it for 2024 and there's
+[37:16] things that I know that in the natural
+[37:18] were impossible that we're seen some
+[37:20] fruit of it
+[37:22] yes we serve a big God a mighty God yeah
+[37:27] that cares cares for his the needs of us
+[37:29] the needs of our his people yeah MH he
+[37:32] does and he loves everything he loves
+[37:37] us so father we just thank you Father
+[37:40] for the war okay and then when I wanted
+[37:42] to say this because I saw this when we
+[37:44] when in the spirit whenever he was we
+[37:46] were talking earlier but um there's
+[37:49] people that are pregnant right now that
+[37:51] have swollen feet well the Israelites
+[37:53] walked around and for 40 years and their
+[37:56] feet never got SW swen so we have we we
+[37:58] have a right to believe God for no
+[38:00] swollen feet during pregnancy yep yes so
+[38:03] father we speak to those swollen feet
+[38:05] name of Jesus and I agree with Diana
+[38:07] what she said she saw in the spirit we
+[38:09] call your feet not to swell yes we call
+[38:14] gout and and issues with gout and and
+[38:18] pain in the feet and pain in the ankles
+[38:20] yeah you not even be pregnant it may
+[38:22] just be SW I just saw swollen feet yep
+[38:25] so we speak to the swelling of theet
+[38:27] feet and swelling of the ankles and
+[38:29] swelling of the body and we say in the
+[38:32] name of Jesus gout and things that are
+[38:34] associated with swelling we command you
+[38:37] to go now in jesus' name and we call
+[38:41] Healing over their bodies in Jesus name
+[38:44] all swelling of of of any body part we
+[38:47] call your body and your blood pressure
+[38:50] to level out and be normal in jesus'
+[38:53] name the hypertension will not take
+[38:56] place anymore that their body will be
+[38:58] completely well and father we give you
+[39:01] all the glory honor and praise and
+[39:03] father we thank you Father for that now
+[39:06] Lord we give you praise father for all
+[39:08] that you've
+[39:09] done and we lift up Elon Musk Yes again
+[39:15] and we call him saved we call him
+[39:18] radically saved we call the blinders to
+[39:21] be off of his eyes and father we thank
+[39:24] you Lord that you're bringing labors
+[39:26] across his path path to witness to him
+[39:29] to bring Angelic visitations and
+[39:31] manifestations of angelic uh host to
+[39:35] come and minister to Him Father I thank
+[39:37] you Lord that starlink will be used in
+[39:40] the name of Jesus to get the gospel
+[39:42] spread throughout the whole world and
+[39:45] father I thank you Lord that he would
+[39:46] could be the next Billy Graham uh using
+[39:49] the Hollywood celebrity stuff father for
+[39:53] the his status to be able to bring forth
+[39:56] the gospel to preach the good news
+[39:59] throughout the whole world father I
+[40:01] thank you Lord through Starling through
+[40:03] the for the Avenues of of blessing that
+[40:06] he has father to help the kingdom of God
+[40:08] I thank you that Donald Trump would know
+[40:10] you that he would in another deeper
+[40:13] level than he's ever known you before
+[40:15] father we know he has a saving knowledge
+[40:17] of Jesus Christ we've heard but father I
+[40:19] thank you Lord that he has a more
+[40:21] intimate relationship with
+[40:23] you and that father that he's going from
+[40:26] glory to glory to to Glory father with
+[40:29] Revelation knowledge of the word of God
+[40:32] knowing your voice and a stranger's
+[40:34] voice he will not follow putting the
+[40:36] right people around him of great
+[40:38] influence I thank you Father for a
+[40:41] supernatural covering over Donald Trump
+[40:44] that there is no weapon formed against
+[40:46] him or his wife or his children that
+[40:48] will prosper no terrorist attacks no no
+[40:51] no Calamity no nothing would come nigh
+[40:53] Him Father we cover him with Psalms 91
+[40:56] that a thousand shall fall at his side
+[40:59] and 10,000 at his right hand but nothing
+[41:01] will come nigh his dwelling we cover him
+[41:04] from the top of his head to the souls of
+[41:06] his feet and we pray a hedge of blood
+[41:09] around and about him father and the
+[41:10] leader of this nation and we thank you
+[41:13] Lord that he is being raised up for such
+[41:15] a time as this father for a Godly Godly
+[41:19] turnaround in the name of Jesus over
+[41:21] this nation and we call forth Revival on
+[41:24] the senate floor and on the house father
+[41:26] we call call forth a Revival in jesus'
+[41:29] name a move of the spirit of the Lord
+[41:32] will manifest and take root over our
+[41:34] Congress in jesus' name and we thank you
+[41:37] Lord for a supernatural move of
+[41:40] Supernatural healings and demonstrations
+[41:43] and manifestations of the glory will
+[41:45] manifest over our our our our country
+[41:49] again and we believe father that there
+[41:52] will be a move of God like we've never
+[41:54] seen before Over America over Asia over
+[41:58] Africa over South America over Europe
+~~~
+
+<a id="section-07"></a>
+## 07. 42:00–48:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、地震、风暴与灾害。 提到的地点：Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[42:01] over all of the nations of this Earth we
+[42:03] thank you Lord that there's one last
+[42:05] call one last push for a major move of
+[42:09] God like we've never seen before father
+[42:12] I thank you for the underground churches
+[42:14] in Asia father will rise up in the name
+[42:16] of Jesus and be bolder than theyve ever
+[42:19] been for a supernatural anointing will
+[42:22] rest upon them in the name of Jesus
+[42:25] father that the glory of the Lord will
+[42:27] be on them Father like it was and the sh
+[42:30] kind of Glory with the with the glory
+[42:32] cloud and healings and demonstrations
+[42:34] like we've never seen before people
+[42:37] having arms and legs and eyes and ears
+[42:40] and whatever they may need father and
+[42:42] nothing missing nothing broken that the
+[42:44] healing power of God would flow on them
+[42:47] in the name of Jesus all through in the
+[42:49] underground churches in Asia we call
+[42:51] forth a great harvest of souls like
+[42:54] we've never seen before and people
+[42:57] leaving Buddha and leaving bohamad and
+[43:00] leaving all of the false religions we
+[43:03] call forth a great move of God
+[43:05] throughout all of Asia a great move of
+[43:07] God all in Russia and over over Moscow
+[43:11] and over all the the the cities of
+[43:13] Russia father we thank you Lord for for
+[43:15] over Europe and father father for a
+[43:18] supernatural move and a supernatural
+[43:20] fire will move all throughout all all
+[43:24] over the land in Jesus name all over
+[43:26] Africa father from from from from all
+[43:29] the way from the north all the way to
+[43:30] the south from the East to the West
+[43:32] there will be a great harvest of souls
+[43:34] throughout Africa in the name of Jesus
+[43:36] we call forth a great harvest of souls
+[43:39] throughout South America and over
+[43:40] Australia we call forth Australia ever
+[43:43] radical visitation for the fire of God
+[43:46] in the name of Jesus over Queensland all
+[43:48] the way around father we give a you
+[43:51] great great Glory great great honor for
+[43:55] a mighty move your presence with move
+[43:57] over over all the islands father for
+[44:00] Jamaica to the Philippines father there
+[44:02] will be a great harvest of souls in the
+[44:05] name of Jesus one last push one last
+[44:09] call for the time of your son is coming
+[44:11] he is standing at the door and we thank
+[44:13] you Lord for a great move of your
+[44:15] presence we thank you Lord for a
+[44:17] financial M uh Victory and
+[44:20] manifestations of money father to
+[44:22] support your gospel throughout the whole
+[44:24] world not to hoard it upon ourselves but
+[44:27] to be a blessing to those that are
+[44:29] around us Lord we thank you Father for
+[44:31] you said seek ye first the kingdom and
+[44:34] all these things will be added unto
+[44:37] you and we give you all the glory honor
+[44:40] and praise for it and we consider it
+[44:43] done we thank you Lord that you're
+[44:45] moving in Hollywood father there will be
+[44:47] a move in the celebrities that father
+[44:50] they will come to themselves and turn
+[44:52] from their Wicked Ways father I thank
+[44:54] you Lord for a fresh move of the spirit
+[44:57] of the Lord for they are hungry and
+[45:00] they're thirsty and father they will
+[45:02] they will find it not in New Age not in
+[45:04] Satanism not in uh the occult father I
+[45:08] thank you Lord that they will find it in
+[45:10] you they will find a fresh touch from
+[45:13] the living water and there will be a
+[45:16] touch from the Holy Spirit and a new
+[45:19] River of Living Water father I thank you
+[45:22] Lord will flow over Hollywood in Jesus
+[45:25] name and there will be deliverances and
+[45:28] manifestations of the glory in Jesus
+[45:31] name we thank you Father we thank you
+[45:34] Lord that there's one last call for a
+[45:38] Great Harvest and we call that harvest
+[45:40] in right now that father the the
+[45:42] Harvesters are coming the Harvesters are
+[45:45] here now father and they're raising up
+[45:47] with great boldness to bring in the
+[45:51] Lost we thank you Lord we thank you Lord
+[45:55] and we thank you Lord
+[45:58] for you are good and your mercy endures
+[46:05] forever I F his presence
+[46:10] y thank you
+[46:12] Father for your moving in the midst
+[46:16] these people bringing a fresh River on
+[46:20] them today a fresh touch of the Holy
+[46:24] Spirit moving upon the nation Nations
+[46:27] moving upon Mexico moving on Guatemala
+[46:32] and over El Salvador and over all
+[46:34] Venezuela oh we call move a Revival in
+[46:38] Jesus
+[46:41] name we call Revival
+[46:44] Lord we call Revival
+[46:50] Lord one last
+[46:53] call One Last Call
+[46:58] for a great harvest of
+[47:01] souls Let the church bells ring and let
+[47:04] the people wake
+[47:07] up for Jesus Christ is coming
+[47:14] again wake up wake up we say wake
+[47:19] up for the king is
+[47:22] coming for the king is coming it's time
+[47:26] to wait
+[47:30] cup breathe on the people today Holy
+[47:33] Spirit breathe on them as they are in
+[47:37] their houses on in their cars breathe
+[47:40] the fresh fire in
+[47:42] them Holy Spirit we call Fresh Fire in
+[47:47] them fresh touch of the living water
+[47:52] flow in
+[47:54] them for the glor glory of the Lord is
+[47:58] on them right
+[48:01] now Fresh
+[48:04] Fire Fresh Fire Fresh Fire of the Holy
+[48:12] Ghost fresh fire in Jesus
+[48:16] name sh them once again
+[48:21] Lord fresh fire in Jesus name
+[48:32] fresh fire in Jesus
+[48:36] name new wine and new wine skin a new
+[48:40] wine and a new wine skin over them right
+[48:43] now in the name of
+[48:47] Jesus Holy
+[48:50] Spirit we call Revival in the Jewish
+[48:54] Community we call Revival in the Jewish
+~~~
+
+<a id="section-08"></a>
+## 08. 49:00–55:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 提到的地点：Canada、Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[49:00] community in Jesus name saving knowledge
+[49:03] of the Lord Jesus Christ a flood of of
+[49:07] of your salvation will flow over the
+[49:10] Jewish Community right now in Jesus
+[49:16] name we thank you Lord that you're real
+[49:19] to them just like you were to the
+[49:21] children of
+[49:22] Israel one last call
+[49:27] great great
+[49:29] demonstrations all throughout
+[49:35] Israel appear to them Father as the
+[49:38] great as the
+[49:40] Messiah Jesus
+[49:42] Christ Has Come In the
+[49:46] Flesh and there is a harvest like we've
+[49:49] never seen before coming all throughout
+[49:54] Canada all throughout
+[49:58] Quebec all throughout Canada and British
+[50:03] Colombia we call for fire over them in
+[50:07] Jesus name a great move of your presence
+[50:11] like they've never seen before all for
+[50:14] the glory of
+[50:16] God over Ireland we call forth a Revival
+[50:21] over Ireland in Jesus name and over the
+[50:25] UK
+[50:32] [Music]
+[50:41] upon over Iceland and over Finland and
+[50:44] over over Nova
+[50:55] Scotia
+[51:09] [Music]
+[51:25] for for
+[51:51] [Music]
+[52:03] a Revival that is moving all over South
+[52:10] America a great
+[52:13] Revival a great harvest of souls all
+[52:17] throughout the Amazon River we call for
+[52:21] those people to be born again to have an
+[52:25] experience with the Lord Jesus
+[52:28] Christ from the top of the Amazon all
+[52:32] the way down to the
+[52:34] bottom we call for great move of the
+[52:38] spirit of the
+[52:45] [Music]
+[52:54] Lord challenging all the Demonic I see
+[52:58] Lord that they will not be able to stand
+[53:00] and hide
+[53:01] anymore there's great witchcraft over
+[53:04] that area I see that and Lord the rising
+[53:07] of the sun father the people will be
+[53:12] free the rising of the sun father you
+[53:17] Jesus will be made known is
+[53:21] alive and arose
+[53:24] again and he is dwelling in in the in
+[53:27] the middle in in them he's dwelling in
+[53:30] them
+[53:33] Jesus
+[53:36] Jesus he come to set the captives
+[53:43] free he has
+[53:45] come to set the captives free
+[53:59] Jesus
+[54:08] Jesus thank you
+[54:11] Father over
+[54:14] Africa all over the Middle
+[54:17] East Jesus in
+[54:21] Jordan Jordan
+[54:30] Iraq Omen and
+[54:37] Yemen
+[54:41] Afghanistan
+[54:43] turkey father we call for Revival in
+[54:47] Jesus
+[54:48] name the rising of Revival like a mighty
+[54:53] wave AR rising and a Revival like a
+[54:56] mighty
+[54:58] wave we call Revival
+[55:05] father oh Father we thank you for
+[55:14] Revival like a
+[55:23] blanket over the southern border Revival
+[55:27] father
+[55:31] Revival father we thank
+[55:42] you Lord we give you all the glory honor
+[55:45] and praise for
+[55:48] it thank you
+[55:54] Father the rising of the
+[55:57] son it's time that the Sun is
+[55:59] setting for this dispensation of Grace
+~~~
+
+<a id="section-09"></a>
+## 09. 56:00–62:59 · 预言、梦境与异象、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[56:02] is coming to an
+[56:06] end it's coming to an end Jesus is
+[56:10] standing at the
+[56:15] door thank you Father we're out of
+[56:19] time we're out of
+[56:22] time I see it again
+[56:24] Diana we're out of time he's given us a
+[56:27] four-year
+[56:28] window I'm seeing it
+[56:31] again there's a fouryear time of the
+[56:34] shmita cycle I see it and I see I see a
+[56:40] light in every single
+[56:44] year and the light is smaller and and
+[56:48] the and it's getting brighter and
+[56:50] brighter and
+[56:52] brighter the
+[56:54] glory the glory
+[57:05] we should be focused on the
+[57:09] glory for the popcorn kernels are
+[57:13] popping just like the glory will pop pop
+[57:16] pop pop pop
+[57:31] the enemy thought he had
+[57:33] him the enemy thought he had
+[57:38] won the enemy thinks he has
+[57:41] won but there is a great great harvest
+[57:46] yet to come
+[57:57] a harvest you will see and
+[58:00] demonstrations of you and
+[58:11] me it's me and you and you and me I see
+[58:18] it's like we we're walking with him like
+[58:19] a like a like a
+[58:21] symphony like a symphony an orchestra
+[58:24] beautiful Orchestra
+[58:26] flowing flowing flowing just moving in
+[58:30] the
+[58:32] spirit and there's more added and I see
+[58:35] more added I see as the people get born
+[58:37] again they're adding to the orchestra
+[58:41] they're moving and they're moving and
+[58:43] it's growing and growing and it's
+[58:45] expanding it's expanding as the body
+[58:48] comes in and new Believers come in
+[58:51] they're going and they're bringing more
+[58:52] body in they're bringing more people in
+[58:54] and it's growing and growing and growing
+[58:57] and the music is playing before the
+[59:00] father I see the
+[59:03] Hallelujah
+[59:05] hallelu
+[59:11] ringing
+[59:14] oh the
+[59:17] glory the people are moving together as
+[59:20] an
+[59:21] army and then we all go up and I see us
+[59:26] and we're singing
+[59:28] Hallelujah before the
+[59:30] Father the people that are added to this
+[59:34] they go and they're get they're bringing
+[59:36] them in too these people are going out
+[59:38] and they're bringing them in they're
+[59:39] bringing them in they're bringing them
+[59:41] in and we're moving as an an orchestra
+[59:44] like a beautiful Symphony a beautiful
+[59:47] quartet beautiful and they're playing
+[59:50] music in the new notes and the they're
+[59:52] coming up look like like rainbows and
+[59:55] they're coming up out of the people and
+[59:57] their musical notes are coming up and
+[59:59] they're going before the father as the
+[60:01] people are moving as a as an army before
+[60:04] him and he's singing and they're singing
+[60:07] and they're
+[60:11] singing
+[60:13] [Music]
+[60:17] hallelu
+[60:20] [Music]
+[60:23] Halu
+[60:24] Hall
+[60:30] [Music]
+[60:36] Huen
+[60:41] [Music]
+[60:46] Halu
+[60:53] Halu Hall
+[60:57] [Music]
+[61:08] Huen we
+[61:10] praise and we adore
+[61:15] thee
+[61:17] bowing down before thee
+[61:27] oh
+[61:30] Lord
+[61:37] [Music]
+[61:40] hallelujah
+[61:44] halelujah halelu
+[61:49] [Music]
+[62:08] aen we
+[62:10] praise and we adore
+[62:15] thee
+[62:17] bowing
+[62:19] down before thee
+[62:26] oh
+[62:28] Lord I see them they all are Marching
+[62:31] together but they just Blended as
+[62:43] one I see it it was so beautiful
+[62:48] di they became just
+[62:50] one all those people that I saw being
+[62:53] added during the Revival it kept growing
+[62:55] growing and expanding and growing and
+[62:57] expanding and they were all singing and
+~~~
+
+<a id="section-10"></a>
+## 10. 63:00–69:59 · 祷告、敬拜与现场互动、地震、风暴与灾害
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、地震、风暴与灾害、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[63:00] making Melody to the Lord like an
+[63:02] orchestra and then all of a sudden they
+[63:04] went and they went up and they're caught
+[63:06] up in the Rapture they were caught up
+[63:09] and then they were sitting before throw
+[63:10] his throne before his throne and they
+[63:13] all became one and it was one fire it
+[63:17] was one fire that went before the father
+[63:20] it went one like one fire as our Praises
+[63:22] came up before him and it was a fire it
+[63:25] was beautiful be beautiful blue fire and
+[63:29] they all went before the father and he
+[63:30] was breathing it in as we were there
+[63:33] before him we were worshiping him
+[63:35] together and we were adding it to it and
+[63:37] all those people I could see them going
+[63:39] and they were gathering up their friends
+[63:41] and their family and the glory was
+[63:43] bringing them they were bringing them in
+[63:45] as a harvest it was like a harvest of
+[63:47] people and you could see each person and
+[63:49] they were golden and they were shining
+[63:50] with the glory and they were bringing in
+[63:52] the people they were bringing in the
+[63:53] people and they were coming from
+[63:55] everywhere and they were all bringing
+[63:57] them to the father and then all of a
+[63:59] sudden we we got sucked up and we look
+[64:02] like lights like shafts of light all get
+[64:05] sucked up and then all of a sudden we
+[64:07] were before the throne and then all the
+[64:09] glory came and then all of it became one
+[64:12] and all those people that were one
+[64:14] individual became one person before the
+[64:16] father we were one body one body and the
+[64:20] fire came I could see it when we were
+[64:23] when I was praying and the glory G of
+[64:26] the Lord was on the people and you could
+[64:28] see the
+[64:33] glory that was
+[64:38] beautiful his pres is so
+[64:45] strong Hallelujah is
+[64:48] ringing from every tribe and every
+[64:52] tongue they're all coming to the son
+[64:55] Jesus
+[65:07] hallelu
+[65:13] ringing
+[65:14] [Music]
+[65:20] halelu halelujah
+[65:24] [Music]
+[65:41] Huen we
+[65:43] praise
+[65:45] you we praise and we adore
+[65:53] thee bowing
+[65:57] down before
+[66:00] thee
+[66:03] Hallelujah is
+[66:04] [Music]
+[66:09] ringing my goodness
+[66:17] babe I look forward to it so much
+[66:27] he's given us a
+[66:36] window he's given us a window I don't
+[66:38] care what all these people there's so
+[66:40] many different
+[66:41] opinions but I assure
+[66:44] you time is running
+[66:49] out if you abide it in
+[66:53] me and you remain on theine
+[66:56] there's life in
+[67:01] it stay on the
+[67:10] vine people say we have all this time we
+[67:12] have all these
+[67:14] years
+[67:18] no Jesus is
+[67:20] coming Jesus is coming
+[67:31] thank you
+[67:32] Father wow praise the Lord
+[67:38] y'all praise the Lord I look forward to
+[67:42] these
+[67:43] days Days of Heaven on
+[67:49] Earth we thank you for
+[67:53] Revival we thank you Father for the
+[67:56] Harvest for you're the lord of the
+[68:00] Harvest will you
+[68:03] come will you
+[68:09] come for he's a lord of the
+[68:18] Harvest thank you Father
+[68:40] thank you
+[68:42] Father I
+[68:45] receive I receive father I receive
+[69:04] he is the
+[69:09] storehouse he is the
+[69:14] storehouse praise the
+[69:16] Lord
+[69:18] yes well we're excited you joined us
+[69:22] today thank
+[69:24] you we pray this video this uh prayer
+[69:27] time I would call it a video it's too
+[69:29] holy the prayer time has blessed you
+[69:35] today we pray that it bless you
+[69:38] today for the Harvest is plentiful in
+[69:42] the labors of you will you bring help
+[69:45] him bring in the Harvest
+[69:47] today thank you for praying with
+[69:51] us thank you for for being a part of
+[69:54] this YouTu you video of our
+[69:57] family you truly are a family to us we
+~~~
+
+<a id="section-11"></a>
+## 11. 70:00–76:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[70:00] we we truly appreciate every single one
+[70:03] of
+[70:04] you Jesus is
+[70:07] coming Jesus is
+[70:17] coming we're excited to raise up a
+[70:21] million people to pray with us on a
+[70:23] day-to-day basis for this a time for
+[70:29] refreshing a time of
+[70:31] refreshing he said it's time for my body
+[70:34] to be
+[70:36] refreshed many are thirsty many are
+[70:39] hungry make a place for them to
+[70:43] drink and the only way I can do is to
+[70:47] allow him to flow like he just did and I
+[70:49] pray with all my heart that you are
+[70:51] blessed today yes
+[70:56] No Agenda other than just to give him
+[70:59] glory No Agenda is ever here other than
+[71:02] to give him glory to bring and assemble
+[71:05] that body together to worship and
+[71:08] magnify the
+[71:14] king we bring we bring you all the glory
+[71:19] today we sow our Gifts of love to you
+[71:23] father of our heart
+[71:29] heart bring us up higher bring us up
+[71:32] higher
+[71:35] father fresh fresh fresh
+[71:42] fire thank you
+[71:44] Father glory to
+[71:47] God when it's like this I don't want to
+[71:50] let it go huh I know I can sit here like
+[71:52] this all day so can get in
+[71:57] I look forward to
+[72:08] it in The
+[72:11] Presence of
+[72:15] Jehovah God
+[72:19] Almighty Prince of Peace
+[72:26] Tres
+[72:30] vanish hearts
+[72:35] areed in the
+[72:39] presence of the
+[72:46] king in
+[72:49] the presence
+[72:58] of
+[73:02] [Music]
+[73:04] je God
+[73:12] almightyy
+[73:14] Prince of
+[73:17] [Music]
+[73:20] Peace
+[73:22] Tres ve
+[73:29] hearts are
+[73:35] mened in the
+[73:40] presence
+[73:42] of the
+[73:47] king there's a wave of healing that just
+[73:50] hit right
+[73:52] then there's a wave of healing as I sing
+[73:55] it one more time receive what you're
+[73:58] believing for
+[74:00] today receive it receive it in the
+[74:09] [Music]
+[74:13] presence
+[74:15] I'm
+[74:21] je God allight
+[74:24] [Music]
+[74:28] Mighty Prince of
+[74:35] Peace
+[74:37] Tres
+[74:39] [Music]
+[74:42] Vish hearts are
+[74:45] [Music]
+[74:48] mened in the
+[74:52] presence of the
+[74:55] [Music]
+[74:59] King restoration is happening for you
+[75:12] today he is
+[75:16] Holy he is
+[75:19] holy Lord there is none like you
+[75:25] you're
+[75:26] [Music]
+[75:29] holy
+[75:31] [Music]
+[75:33] holy glory to you
+[75:38] alone I sing your Praises
+[75:42] [Music]
+[75:45] forever deeper in
+[75:47] love with you
+[76:04] [Music]
+[76:07] Jesus
+[76:13] [Music]
+[76:15] Jesus there's just
+[76:19] something
+[76:21] about your name
+[76:26] [Music]
+[76:29] Master
+[76:32] Savior
+[76:34] [Music]
+[76:37] Jesus like a
+[76:40] fragrance
+[76:42] After the
+[76:47] Rain
+[76:51] Jesus Jesus
+[76:58] [Music]
+[76:59] Jesus let all
+~~~
+
+<a id="section-12"></a>
+## 12. 77:00–79:24 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[77:02] Heaven and
+[77:04] Earth
+[77:07] Proclaim
+[77:09] Kings and
+[77:13] kingdoms will
+[77:15] all pass
+[77:18] away but there's
+[77:22] something about
+[77:25] your
+[77:31] name but there's
+[77:33] [Music]
+[77:35] something
+[77:39] about
+[77:40] your
+[77:43] name thank you
+[77:47] Lord well praise the Lord Diana
+[77:58] I really don't know how to end the the
+[78:01] the the time today other than just
+[78:04] saying we love you thank you for joining
+[78:07] us God bless you all remember put a
+[78:11] smile on your face and a song in your
+[78:15] heart Jesus loves you ladies and
+[78:17] gentlemen he truly does and we love you
+[78:20] every single one of you we pray for you
+[78:24] we we pray God blesses you today we pray
+[78:27] this refresh you today we pray for the
+[78:29] presence of the Lord to come in your
+[78:31] house like he is in ours right
+[78:34] now because he's no respect your persons
+[78:37] and he loves every single one of
+[78:39] you if you practice his presence he will
+[78:43] come practice his
+[78:47] presence remember remember
+[78:51] that well we will see you again tomorrow
+[78:55] we really will we we're blessed by every
+[78:57] day we get to come this blessed me more
+[79:00] I don't know if it blessed you as much
+[79:01] as it blessed me but I I I
+[79:04] blessed I look forward to these
+[79:07] times and I don't I don't I don't want
+[79:10] to let it go but I keep doing it here at
+[79:12] my house I I praise him all the time he
+[79:15] he's always
+[79:17] welcome so put a smile on your face a
+[79:19] song in your heart and we will see you
+[79:22] tomorrow God bless you all have a
+[79:24] blessed day bye by bye
+~~~

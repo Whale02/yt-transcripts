@@ -1,0 +1,721 @@
+# Spiritual Warfare against Demonic Strongholds and Addictions
+
+**视频**: https://www.youtube.com/watch?v=EJ3Rtm3uJQw
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/Spiritual Warfare against Demonic Strongholds and Addictions [EJ3Rtm3uJQw].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 633；**章节数**: 7；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-01)
+- [02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-02)
+- [03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-03)
+- [04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-04)
+- [05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-05)
+- [06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-06)
+- [07. 24:00–25:58 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] people were wondering about prayer
+[00:03] prayer cues and things like that they
+[00:04] want to know some more things so I'm
+[00:06] going to give you a couple right here
+[00:07] okay in Ephesians it talks about we
+[00:09] wrestle not against flesh and blood but
+[00:11] against principalities and powers and
+[00:14] there's a lot more to the verse but for
+[00:16] time's sake there you go it's Ephesians
+[00:18] 4 4 16 I believe somewhere around there
+[00:22] you cannot pray against somebody's will
+[00:26] okay like say say you go to work and
+[00:29] your boss is really mean to you maybe
+[00:32] you're a a teenager right now and you're
+[00:35] watching me and you are in an abusive
+[00:38] relationship with your parents verbally
+[00:40] when you are being assaulted like that
+[00:42] it is a demonic presence behind it and
+[00:46] so you take authority over the devil and
+[00:51] this is how I would do it I had a boss
+[00:53] that was not very nice to me and he
+[00:56] treated me pretty poorly so every day I
+[00:59] would drive to work and I say I bind the
+[01:02] maneuvering of any demonic spirits and
+[01:05] so and so and you will not torment me in
+[01:10] any way today at all I take authority
+[01:13] over the spirits that maneuver inside of
+[01:16] him and I command them to stop right now
+[01:20] you have no right no power No Authority
+[01:23] and I bind you up and you are not able
+[01:26] to move in torment in any way in the
+[01:29] name of Jesus
+[01:31] concerning abuse I bind the Devils that
+[01:34] are tormenting my my husband or my wife
+[01:37] I bind that devil in the name of Jesus I
+[01:41] command you to cease and desist in your
+[01:43] maneuvering and I command you to stop it
+[01:46] right now you will not maneuvering
+[01:49] maneuver in them anymore I command you
+[01:53] to stop this
+[01:54] and I call Peace to the the spouse or
+[01:58] whoever in the name of Jesus I call
+[02:01] Peace over them and that's how I pray I
+[02:04] don't bind them you can't bind them
+[02:07] because they're a free will okay and you
+[02:10] get into some kind of Witchcraft
+[02:11] sometimes when you start doing that
+[02:13] praying over their emotions it's like I
+[02:15] would say you know when I'm trying to
+[02:17] sell something in my business or
+[02:18] whatever I don't pray over that person
+[02:21] father I thank you that you caused them
+[02:24] to to uh uh buy my product okay I say
+[02:29] this father I thank you that my product
+[02:32] stands out father I thank you that my
+[02:36] product is desirable that people want
+[02:39] what I'm selling I thank you Father that
+[02:42] I am blessed in the city and the field
+[02:44] coming in and going out according to
+[02:46] Deuteronomy 28 and father I thank you
+[02:49] that father that when people see my
+[02:52] stuff and what I'm selling today Father
+[02:54] they want what I have because it stands
+[02:57] out but not I don't pray over their
+[02:59] emotions manipulating them you know you
+[03:03] don't manipulate people people in the
+[03:04] spirit realm it's it's part of
+[03:06] Witchcraft okay you don't do that you
+[03:09] just pray over your stuff you pray that
+[03:10] father that my stuff's Gonna Stand Out
+[03:12] thank you Lord and father when it comes
+[03:15] to um the your your unsaved loved ones
+[03:18] if they're out drinking or partying or
+[03:20] being promiscuous or whatever
+[03:22] father I thank you for Johnny whoever I
+[03:26] thank you Father that he is saved you
+[03:28] father I thank you Lord right now that
+[03:30] your Cinder and laborers across this
+[03:32] path whether they're at Walmart or
+[03:35] whatever let somebody come across his
+[03:38] path and witness it to him today
+[03:40] now father I thank you I bind the spirit
+[03:43] of addiction off of his life
+[03:46] I take authority over alcoholism I take
+[03:50] authority over drug addiction he may be
+[03:53] strung out on on meth or or a
+[03:56] prescription pills I bind the spirit of
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、个人故事与访谈。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:00] addiction off of his life right now in
+[04:02] the name of Jesus I call that Spirit to
+[04:05] cease and desist and it's maneuvering in
+[04:07] his life I commend it to Bow its knee
+[04:10] you have no authority to torment him
+[04:13] anymore you're a foul devil and I
+[04:16] command you to release them right now in
+[04:19] the name of Jesus if they're Wayward now
+[04:22] angels I send you out go and bring
+[04:25] Johnny or whoever home to me bring them
+[04:28] home father I thank you Holy Spirit
+[04:30] you're working on their hearts right now
+[04:33] I call them to have a heart that's
+[04:35] pliable oh God I minister to them right
+[04:38] now there it goes I started hitting me
+[04:40] in the intercession
+[04:41] Hallelujah
+[04:46] okay
+[04:48] I pray over their heart right now in the
+[04:50] name of Jesus
+[04:52] call him in
+[04:54] bring them in Lord
+[04:56] I thank you Lord we're not giving up on
+[04:58] them
+[04:59] father I thank you Lord that you're
+[05:01] sending them Angels right now minister
+[05:03] to my children
+[05:05] father I thank you Lord that if they're
+[05:07] in the bar right now I thank you Lord
+[05:09] that there is a conviction over their
+[05:11] heart get out of that bar right now in
+[05:13] the name of Jesus
+[05:15] father I thank you Lord that you're
+[05:17] you're going to save their soul Lord I
+[05:19] Thank You Lord you bring forth the
+[05:21] Harvest right now over my son father you
+[05:24] would you would visit him in the
+[05:25] Midnight Hour in a dream
+[05:27] father I thank you Lord that you would
+[05:30] send an angel to minister to him you
+[05:32] father I thank you Lord it may be an
+[05:34] angel that they don't even know an angel
+[05:36] unaware it could be a hitchhiker I don't
+[05:38] know whoever and finally walk up to him
+[05:40] and say boom and the power of God moves
+[05:43] on him in a supernatural way we don't
+[05:45] know but I know this that God is able to
+[05:48] do exceedingly abundantly above all that
+[05:52] we dare ask or think according to the
+[05:54] power that works in you
+[05:56] okay
+[05:58] he's already done it all folks he's
+[06:01] already done it all he's already done
+[06:03] everything he can do for your healing
+[06:05] you've got to stay in agreement with
+[06:07] what he's already done in his word that
+[06:09] first Peter 2 24 by his stripes we are
+[06:12] healed he was wounded for our
+[06:14] transgressions he was bruised for our
+[06:17] iniquities the chastisement of our peace
+[06:20] was upon him and with his stripes we are
+[06:24] healed period and we stand on that we
+[06:27] get in the word and we quote the word
+[06:30] out of our mouth father I thank you Lord
+[06:32] that you provide all my needs according
+[06:35] to your riches in glory Christ Jesus if
+[06:37] I Christ Jesus I thank you Lord that I'm
+[06:40] a tither I'm a giver I'm A sower I'm a
+[06:43] Believer and father you said you would
+[06:45] take care of me you said you would never
+[06:47] see the righteous forsaken Norris seed
+[06:50] begging bread and father if you take
+[06:52] care of the of the birds of the air and
+[06:55] the lilies Bobby I'm how much more my to
+[06:59] you how much more God and Father I thank
+[07:02] you Lord that you're going to take care
+[07:04] of my family my children my wife you're
+[07:07] going to provide for us today I thank
+[07:10] you Lord that you give me a creative
+[07:12] idea to get well I Seek You father I
+[07:15] seek your provision for my house
+[07:18] I Seek You God that you said you take
+[07:21] care of us father I'm a giver I thank
+[07:24] you Lord that you're going to provide
+[07:25] for us I thank you Lord that the seeds
+[07:28] that I've sown are going to bring forth
+[07:29] some 30 some 60 and 100 fold I've always
+[07:33] asked that
+[07:34] why why some 30 some 60 and some 100.
+[07:38] how do I get 100 fold every time lord
+[07:41] whenever I sacrificially give and Lord
+[07:43] said it's the ground you're sowing in
+[07:45] son
+[07:46] some ground is Miracle working ground
+[07:49] and some ground is not as rich as others
+[07:51] so you've got to be uh a good student
+[07:55] where I tell you to give your money and
+[07:57] I ask him I said Lord show me show me
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、战争与国际事务。 提到的地点：Israel。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:00] where the 100 fold ground is show me
+[08:03] where the 64 ground is not that I'm not
+[08:05] grateful for the 30-fold but Lord I know
+[08:08] that you're exceedingly abundantly above
+[08:10] all that I dare ask or think and so
+[08:12] father I thank you Lord that you teach
+[08:14] me how to sow into the good ground and I
+[08:17] found a lot of times
+[08:19] blessing Israel Ministries around trying
+[08:23] to get the Jewish people saved uh
+[08:25] Ministries trying to get the the Little
+[08:27] Orphan saved I mean you know protecting
+[08:30] the orphans the widows Ministries things
+[08:32] like that
+[08:33] they're real good soil because that's
+[08:36] what Jesus commissioned us to take care
+[08:38] of the orphan the Jesus commissioned us
+[08:40] to take care of the um the widows the
+[08:43] Jesus Took told us that those that bless
+[08:45] Israel I will bless and those that curse
+[08:47] Israel I will curse so I'm going to be
+[08:49] on the side of the blessing I want to be
+[08:51] on the side that says Lord I bless
+[08:53] Israel even if I don't always agree with
+[08:56] what they do and what the how they live
+[08:57] their life because there's a lot of
+[08:59] there's a lot of sin with a lot of
+[09:00] Jewish people but father I'm going to
+[09:02] honor I honor him and I pray for him and
+[09:05] and we're just gonna we're not we don't
+[09:07] talk about it about them we just thank
+[09:08] you Lord that you you protect Netanyahu
+[09:10] and you protect the Parliament and the
+[09:12] people that are over that area and
+[09:13] father I thank you Lord that they're
+[09:15] going to have a saving knowledge of
+[09:17] Jesus I just pray over that kind of
+[09:19] stuff that's the way you should be speak
+[09:21] blessing speak increase
+[09:24] your Mountain needs to hear your voice
+[09:28] in your life if you're not speaking
+[09:30] calling those things that be not as
+[09:32] though they were you need to be speaking
+[09:35] to your circumstances
+[09:37] you have what you say your tongue is
+[09:42] powerful if you're speaking cursing out
+[09:44] of your mouth and speaking doubt and
+[09:46] unbelief oh well I'm sick today again
+[09:48] I've got a bad day oh yeah well my boss
+[09:52] is treating me like trash again and I've
+[09:55] oh my kids acting up again boy he is a
+[09:58] real devil you're gonna get what you
+[10:01] have what you say you speaking you're
+[10:03] you're decreeing those things out of
+[10:05] your mouth
+[10:06] manifestation is going to start
+[10:08] happening because life and death is in
+[10:11] the power of the tongue remember that
+[10:16] you want to know how you're in the in in
+[10:19] the in the the faith for what you're
+[10:21] believing for
+[10:22] joy and peace are going to be following
+[10:25] you
+[10:25] you need to be walking in joy and peace
+[10:28] if you're in worry and doubting unbelief
+[10:29] you're not going to be you're not going
+[10:31] to be getting uh you're not in faith if
+[10:34] you're in uh a spirit of worry and
+[10:37] you're in fear fear is not Faith cometh
+[10:41] by hearing and hearing by the word of
+[10:43] God you've got to get in the word and
+[10:45] you've got to get the word concerning
+[10:47] your circumstances you've got to find
+[10:49] scripture concerning your healing
+[10:51] concerning what you're believing for
+[10:53] because Faith cometh by hearing and hear
+[10:56] it by the word and you've got to get
+[10:57] that Faith inside of you but but perfect
+[11:00] love casteth out all fear and fear has
+[11:04] torment okay so you've got to get these
+[11:06] words in there and he the feareth is not
+[11:08] made perfect in love and you've got to
+[11:10] know that and that's I believe it's in
+[11:12] first John somewhere on there what I'm
+[11:15] quoting these scriptures to you you can
+[11:17] you can use it on your Bible app and
+[11:19] type them up in there to help you I'm
+[11:21] sorry it's hard for me to memorize all
+[11:23] those things like that of the the the I
+[11:25] call them the street address I just
+[11:27] memorized the words
+[11:29] and so um
+[11:31] uh
+[11:33] getting Faith down inside of you Mark 11
+[11:36] 23 and verse 24 quote that and and know
+[11:40] if you pray and you don't doubt you're
+[11:42] going to get your your Harvest okay you
+[11:44] gotta get it whatsoever things you
+[11:46] desire When you pray believe that you
+[11:48] receive them and you shall have them and
+[11:50] if you say unto the mountain be thou
+[11:51] removed to be thou cast in the city see
+[11:53] and shine down in your heart you shall
+[11:55] have whatsoever things you saith I
+[11:56] believe I got it that time so this is
+[11:58] this is the foundation of what I'm
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–15:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:00] trying to say
+[12:01] and so when you're praying against this
+[12:03] you're praying and praying against uh
+[12:05] and you're binding things and and and
+[12:07] what's over things you bind on Earth are
+[12:09] are are bound in heaven and whatsoever
+[12:11] things you are loosed on Earth are loose
+[12:13] in heaven you've got to bind these
+[12:15] Devils up you gotta break off the
+[12:17] strongholds of your life okay they're
+[12:20] they're whenever you like you say okay
+[12:22] well this is another for instance okay
+[12:24] you've got you've got uh grandpa I had
+[12:27] cancer
+[12:28] his dad had cancer and his great his dad
+[12:32] of his dad dad had cancer okay and
+[12:34] that's generational you got generational
+[12:37] diabetes you got generational uh Eating
+[12:40] Disorders you've got generational
+[12:42] strongholds of sexual perversion well
+[12:46] you know uh Grandpa cheated on his wife
+[12:49] and his dad cheated on his wife and
+[12:51] daddy cheating on his wife and it just
+[12:54] keeps going on down the line I pray I
+[12:56] don't cheat on mine it's generational
+[12:59] curse and you've got to come against
+[13:01] that and say that stops with me that
+[13:04] stops with my generation that's not
+[13:06] going on to my kids I'm not gonna live
+[13:09] in that so you've got to stand against
+[13:11] that's called a spiritual stronghold you
+[13:13] gotta break strongholds off of your life
+[13:16] by by prayer and fasting one and you
+[13:19] need to get in the word concerning this
+[13:21] and start and start attacking that I
+[13:25] attack like what I overcome I attack
+[13:28] even disorders eating for Comfort eating
+[13:32] for for pleasure because you find you
+[13:34] find that well I like to go out and eat
+[13:36] a brand new uh like steak not brand new
+[13:38] a steak at Outback I love to go to
+[13:41] Outback I love to go eat the steaks I
+[13:43] love to go get potatoes and I like to
+[13:45] get the salads and I like to celebrate I
+[13:47] celebrate food and it's not it's it's
+[13:49] it's the way I was raised and so it's a
+[13:51] it's a it's generational my mom's
+[13:54] overweight my grandmother was overweight
+[13:56] she died and and so they they everybody
+[13:59] has a generational thing of eating
+[14:01] because it was just the way we were
+[14:03] raised now I'm breaking that I'm I keep
+[14:05] coming against it I will not have an
+[14:07] eating disorder of obesity anymore in my
+[14:10] life I take authority over obesity in
+[14:13] Jesus name I am free from this from the
+[14:16] spirit of Eating Disorders I take
+[14:18] authority over this now father I thank
+[14:21] you Lord
+[14:22] your word says that you've given me a a
+[14:26] spirit of self-control and I come
+[14:29] against the spirit of of eating
+[14:30] disorders and I thank you Lord that I
+[14:32] operate in the fruit of the spirit of
+[14:34] self-control today and I say that over
+[14:37] myself all the time I have an an
+[14:39] unbelieving God and today I've done
+[14:41] pretty good but I keep standing I keep
+[14:43] standing and and I keep tell my kids
+[14:46] you're not going to have this I'm
+[14:47] breaking the cycle I'm breaking this
+[14:50] cycle off of your life We're Not Gonna
+[14:52] live this way no more food is to Keep Us
+[14:55] Alive it's not to be uh to that I have
+[14:58] to have it to celebrate all the time
+[15:00] food is a source of energy you know and
+[15:04] that's what I tell myself I have to
+[15:06] renew my mind it's something I'm telling
+[15:08] you all that I struggle with okay it's
+[15:10] just being real with you I'm free from
+[15:12] eating disorders in Jesus name I'm free
+[15:15] from uh you know used to I drink too
+[15:18] much alcohol I'm not going to drink
+[15:19] alcohol ever again I've said that and I
+[15:22] broke that cycle
+[15:22] it took a while but now it broke off of
+[15:25] my life and I don't touch alcohol
+[15:27] anymore and so you know what for years
+[15:29] whenever I was first uh in my 20s it was
+[15:33] something that was of ice for me getting
+[15:35] a beer and drinking a beer having having
+[15:37] too much uh our Margarita and going out
+[15:39] and having Margarita Mexican restaurant
+[15:41] and I said no I'm not going to live that
+[15:43] way no more I want to be a light and
+[15:45] drinking alcohol is not a light I don't
+[15:48] want to be that if I'm sitting there and
+[15:49] have booze all down my breath and
+[15:51] somebody walks up to me so I've seen you
+[15:53] at church can you pray for me oh yeah
+[15:55] brother and you got a alcohol over your
+[15:58] breath and you go lay hands on them it's
+~~~
+
+<a id="section-05"></a>
+## 05. 16:00–19:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[16:00] not it's not a good witness so don't do
+[16:02] it you know what I want to be a vessel
+[16:05] that can be used by by Jesus and I don't
+[16:08] want any vices I don't want any vices
+[16:11] some people think it's okay to drink
+[16:13] socially but some people don't I'm one
+[16:16] that says it's not a good thing to do
+[16:17] okay it's just me and so I I want to
+[16:21] walk I want to walk in the glory and I
+[16:23] don't I don't want anything that the
+[16:25] world if the world says it's okay I
+[16:27] don't want a part of it if they say it's
+[16:29] okay to watch R-rated movies and do all
+[16:32] that it's not okay for me what they say
+[16:35] is okay it's not okay okay that's not
+[16:38] our standard our standard is the word of
+[16:40] God and we get in the word of God and we
+[16:42] see what the word of God says and the
+[16:45] Bible says not to be drunk on excess and
+[16:47] to be uh and to be doing those things
+[16:49] okay so we need to walk in the light and
+[16:53] be a light in this world
+[16:55] and um if you got addiction to
+[16:58] cigarettes
+[17:00] don't can I'm not we're not going to
+[17:02] condemn you for smoking cigarettes but
+[17:04] I'm going to tell you this we're going
+[17:06] to pray that you're set free from uh
+[17:08] cigarettes I there was this young boy uh
+[17:12] when I was at the church working there
+[17:13] uh he had a really bad problem with
+[17:16] smoking cigarettes and he would be
+[17:18] outside smoking at church and I told him
+[17:21] I said you want to get free from that he
+[17:22] goes man I want to get free so bad but
+[17:24] I'm so addicted to cigarettes I smoke
+[17:27] four packs a day or more you know uh and
+[17:31] um he would tell me he says cost me so
+[17:32] much money it cost me a lot out of my
+[17:34] paycheck and all this and and so I told
+[17:36] him I said well let's just pray right
+[17:37] now
+[17:39] he said okay so he dropped a cigarette
+[17:42] down in the street and he raised his
+[17:44] hand I laid hands on his stomach and I
+[17:46] said in the name of Jesus father I thank
+[17:49] you Lord that this is repulsive to him
+[17:51] and I say in the name of Jesus that he
+[17:54] will not want this or desire it anymore
+[17:56] we bind the spirit of addiction we
+[18:00] command it to go from his body we speak
+[18:03] to the nicotine to dry out in his body
+[18:06] right now we command it to go from his
+[18:08] body we thank you Lord that we break all
+[18:11] Spirit of Cravings from nicotine and we
+[18:14] call him delivered from this in the name
+[18:17] of Jesus and father I thank you that the
+[18:20] next time he tries to put a cigarette up
+[18:22] to his mouth it would make him nauseous
+[18:24] and want to throw up
+[18:26] well I said in the name of Jesus went
+[18:29] home church was over he came back to me
+[18:32] on Wednesday night church this was
+[18:34] Sunday night church he came back to me
+[18:36] on Wednesday night service and he said
+[18:38] man I got home and I broke out in a
+[18:41] massive sweat when I went to go light up
+[18:43] that cigarette he said I got so sick
+[18:46] whenever I try to put that cigarette and
+[18:49] light that cigarette and and smoke it he
+[18:51] said I couldn't even do it I started to
+[18:53] throw up he said your prayer worked he
+[18:56] goes I have been delivered from
+[18:58] cigarettes ever since you prayed
+[19:02] so that's just that's just a Ministry
+[19:05] for me I pray for people I have an
+[19:07] addiction to cigarettes and Jesus has
+[19:10] set you free from me you don't have to
+[19:12] be bound by cigarettes anymore but you
+[19:16] don't want the devil to to tell you well
+[19:19] you're a no good so and so because you
+[19:22] smoke cigarettes well you're a no good
+[19:24] so and so because you you smoke dope or
+[19:28] crack or whatever
+[19:30] tell the devil to shut up we don't run
+[19:33] from God when we sin we run to him and
+[19:36] if we are messing up and we we go well
+[19:39] we gotta hide ourselves like Adam and
+[19:41] Eve did no we run to him he's a merciful
+[19:45] we can run to him he is our father and
+[19:47] he is our deliverer and you find
+[19:49] scripture pertaining to what you need in
+[19:53] your life concerning your addiction
+[19:55] there's a lot of good Bible apps that
+[19:57] will help you with addictions find those
+[19:58] scriptures and and every time you go up
+~~~
+
+<a id="section-06"></a>
+## 06. 20:00–23:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**中文章节摘要**：本段涉及：教会、复兴与信仰、祷告、敬拜与现场互动、物资、能源与供应链。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[20:01] to light that crack pipe or your your
+[20:03] your uh smoking some kind of um
+[20:06] something bad
+[20:08] quote those scriptures out of your mouth
+[20:11] and say I am delivered from this in
+[20:14] Jesus name I am delivered from nicotine
+[20:17] I am delivered from marijuana I am
+[20:19] delivered from from crack or snorting
+[20:22] coke or whatever you may have a advice
+[20:24] on heroin uh meth whatever Jesus wants
+[20:29] you free from that you don't have to be
+[20:32] bound from it if you have a problem with
+[20:34] pornography tell your spouse of course
+[20:37] and and tell them I need free and every
+[20:40] time you have that temptation to try to
+[20:42] look at something dirty God I command
+[20:45] the spirit of lust to be bound off my
+[20:47] life I bind the maneuvering of that
+[20:50] spirit in the name of Jesus I command
+[20:52] you to release me now I am not going to
+[20:55] look at trash on the Internet or
+[20:57] wherever or or it's going to strip clubs
+[20:59] father I think you I'm you're free from
+[21:02] that you don't have to be bound by
+[21:05] Devils you don't have to walk in in in
+[21:08] in in bondage
+[21:11] Jesus wants to set you free
+[21:14] and so there was one lady in the comment
+[21:16] section just uh tonight that said will
+[21:19] you teach me how to anoint my house with
+[21:21] oil
+[21:22] my son has a very bad addiction to uh
+[21:26] listening to heavy metal and stuff okay
+[21:30] that is a demonic Spirit there is a lot
+[21:33] of demonic satanic influence behind
+[21:36] heavy metal well basically any secular
+[21:38] music okay because Satan is very good at
+[21:40] it
+[21:41] producing music that's what he did I
+[21:44] mean so
+[21:45] start anointing your son's uh uh room I
+[21:49] take the olive oil he's like I'm telling
+[21:51] you and I've taken I dip my finger in
+[21:53] the olive oil and I apply it just like
+[21:56] the children of Israel applied the blood
+[21:58] to the doorpost so that the death angel
+[22:01] could not come in and Destroy them you
+[22:04] apply the blood on your door and I say
+[22:07] in the name of Jesus I put the bloodline
+[22:10] over my house in my door and over my
+[22:14] son's bed and I thank you Lord that
+[22:16] you're bringing Deliverance to him and
+[22:19] you might have to put your foot down and
+[22:20] say listen
+[22:21] I don't want you to listen that stuff
+[22:23] loud in my house if you're going to
+[22:25] listen that trash put it in a headset
+[22:27] and put it on your ears but you're not
+[22:29] going to put it in my house and change
+[22:30] the atmosphere of my home you know what
+[22:33] I love you Johnny or whoever your name
+[22:35] is but you're not going to change the
+[22:37] atmosphere in my home and if you're old
+[22:38] enough you might just need to tell them
+[22:40] to move out say I'm sorry but we're
+[22:43] going to have a house that worships the
+[22:44] Lord in here and you're not bringing
+[22:46] your demons in my home
+[22:48] it might come to the point where you say
+[22:50] you know what I love you but it's time
+[22:51] for you to hit the road buddy you know
+[22:54] find you a place if that's the way
+[22:56] you're gonna live ask for me and my
+[22:57] house we're going to serve the Lord and
+[23:00] we're not going to have that in my house
+[23:01] we're coming to a time I'm telling you
+[23:03] you better have your line drawn on what
+[23:08] you stand for because if you don't the
+[23:11] devil's going to run you over the media
+[23:14] is trying to push their agenda on us the
+[23:16] the all the trash we get from CNN or
+[23:19] even Fox and wherever MSNBC trash
+[23:23] they're trying to push their agenda on
+[23:25] us from Facebook all the way down like I
+[23:28] told you these are bad evil places and
+[23:31] they're trying to they try to to
+[23:34] influence your thinking saying it's okay
+[23:36] it's like a little bit at a time thank
+[23:39] you so much for for joining me for this
+[23:42] long if you're still watching God bless
+[23:44] you guys I I uh I I pray you're hungry I
+[23:48] I I could talk all day long y'all I've
+[23:51] got so much going going on uh inside of
+[23:53] me to help you and um answer ask more
+[23:57] questions below you know in the comment
+[23:59] section here what do you what what's on
+~~~
+
+<a id="section-07"></a>
+## 07. 24:00–25:58 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**中文章节摘要**：本段涉及：祷告、敬拜与现场互动、教会、复兴与信仰、预言、梦境与异象。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[24:01] your heart what do you need help with I
+[24:04] will find scriptures and I will find
+[24:05] things that I'm telling you that I pray
+[24:07] how to get people free so father I thank
+[24:11] you right now in the name of Jesus I'm
+[24:13] going to do a blanket prayer all the
+[24:15] people that have asked for help all the
+[24:19] prayer needs all of the the healings and
+[24:22] the and the um the uh people dying of a
+[24:26] disease or whatever their their loved
+[24:28] ones are are far away from the Lord
+[24:30] father we thank you Lord you showed me
+[24:34] in a vision today Lord like little birds
+[24:37] and I said father they're like little
+[24:38] birds chirping in a mama's nest and and
+[24:41] they're asking help help help chief
+[24:43] chief chief and I saw him in the spirit
+[24:45] Lord and I said God there's so many any
+[24:48] Mouse to feed I can't do it all I don't
+[24:51] know what you want me to do and you said
+[24:53] to me
+[24:54] it's my job Brandon the holy spirit will
+[24:57] take care of this and I saw that big
+[25:00] bird dump a whole bunch of worms on them
+[25:02] little babies and today I pray that for
+[25:06] you the holy spirit's going to meet you
+[25:08] every need you have right where you're
+[25:10] at Jesus has got this for you I call
+[25:13] Healing over your bodies I call
+[25:15] Deliverance over you in Jesus name I
+[25:18] call restoration over your marriages you
+[25:21] may be having marriage problems I call
+[25:23] restoration over your marriage is in
+[25:25] Jesus name I call blessing over your
+[25:27] home in Jesus name financially I call it
+[25:30] father that Lord that the Lord will
+[25:32] bless you and keep you may his face
+[25:33] shine upon you and be gracious to you
+[25:36] and give you peace I call those
+[25:38] blessings over their home in Jesus name
+[25:40] and we praise the Lord for everything
+[25:43] he's already done and what he continues
+[25:46] to do in your life in the name of Jesus
+[25:49] put a smile on your face and a soul in
+[25:51] your heart Jesus loves you and I love
+[25:54] you and I'm so thankful that you're part
+[25:56] of my family here God bless you all
+[25:58] bye-bye
+~~~

@@ -1,0 +1,318 @@
+# US Attacks Venezuela： What Next？
+
+**视频**: https://www.youtube.com/watch?v=blXMRxKJs5U
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/US Attacks Venezuela： What Next？ [blXMRxKJs5U].txt
+**上传日期**: 原始 manifest 未提供
+**源字幕行数**: 263；**章节数**: 4；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。
+
+## 章节目录
+
+- [01. 00:00–03:59 · 预言、梦境与异象、物资、能源与供应链](#section-01)
+- [02. 04:00–07:59 · 预言、梦境与异象、战争与国际事务](#section-02)
+- [03. 08:00–11:59 · 物资、能源与供应链、预言、梦境与异象](#section-03)
+- [04. 12:00–12:35 · 战争与国际事务](#section-04)
+
+<a id="section-01"></a>
+## 01. 00:00–03:59 · 预言、梦境与异象、物资、能源与供应链
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、物资、能源与供应链、战争与国际事务。 提到的地点：Cuba、China。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[00:00] And I saw Venezuela again. I saw
+[00:02] battleships all around Venezuela. And
+[00:04] the Lord said, "This is more than drug
+[00:08] trafficking." He's trying to cause a
+[00:10] front to cause a pause in the bricks
+[00:13] system. So the the bricks like I told
+[00:16] you was reaching out to Venezuela,
+[00:19] to Cuba, to North Korea, to these other
+[00:23] nations to build a strong bricks, giving
+[00:27] them an olive branch of peace of saying,
+[00:29] "Listen, you join up with us and we'll
+[00:31] give you financial liberty out from
+[00:33] underneath the United States sanctions.
+[00:36] You you join oil with us, you do
+[00:38] business with us, and we'll give you a a
+[00:40] head seat at the brick's table." So
+[00:42] Trump knew this and he was saying, "No,
+[00:44] we're going to put these battleships
+[00:45] there. We're going to cause confusion.
+[00:46] We're not going to let that happen."
+[00:47] Right? Taking down this guy, trying to
+[00:50] cause confusion in Venezuela, trying to
+[00:52] do this. But it was a front trying to
+[00:54] stop it to keep do the safe face of the
+[00:56] dollar for this season as Russia and
+[01:00] China and all these others were trying
+[01:02] to reach out to Venezuela for the oil
+[01:04] because they needed oil economic
+[01:06] resources to back the bricks to make it
+[01:09] stronger. oil with Venezuela, oil with
+[01:12] Saudi Arabia, whoever they're trying to
+[01:14] get or you know in the Middle East and
+[01:16] trying to do all this stuff trying to
+[01:18] build the bricks up. Putin has had a
+[01:20] upper hand trying to make alliances with
+[01:24] strategic countries for the last four
+[01:27] years and I saw Cuba and you'll hear
+[01:30] this. I saw Venezuela I saw for the oil
+[01:33] wealth in Venezuela. I saw the the a
+[01:36] like a communist party rise up with
+[01:39] Putin. I saw I saw them secretly meeting
+[01:42] with with uh Egypt
+[01:45] and a lot of the OPEC nations and China
+[01:49] trying to combat with the bricks
+[01:54] a new global currency
+[01:57] with their their their coalition over
+[02:00] here. And then oh I just took I was
+[02:03] taking I'm going to Venezuela and I see
+[02:06] Venezuela being promised things. Oh, and
+[02:09] I'm now in Cuba and I see Cuba being
+[02:12] promised things and I see alliances of
+[02:15] Cuba, Venezuela, and the c the countries
+[02:18] that have been uh like outcast. Putin is
+[02:22] not bluffing. What he's doing in the
+[02:24] background with Kim Jong-un, Cuba,
+[02:26] Venezuela, he's creating alliances,
+[02:30] strong alliances for a major war ahead.
+[02:33] Remember this, the other part of the
+[02:35] vision from last night was Venezuela.
+[02:37] And I saw um Venezuela and I keep seeing
+[02:41] he will be like a Saddam. Show that
+[02:43] picture. They look a lot like they could
+[02:45] be brothers. I thought that was kind of
+[02:47] interesting. But I saw freedom coming
+[02:52] and a a new government coming into
+[02:55] Venezuela.
+[02:57] What is it whenever you are a a proxy
+[02:59] government coming in and the people of
+[03:02] Venezuela having more freedom to be able
+[03:04] to do what they want to do? But it was
+[03:06] it was the Lord showed me all these oil
+[03:09] derks and the Lord said it's not all
+[03:11] about drugs 10% but 90 is about the oil
+[03:16] and bricks and I saw a kaddafi
+[03:19] I saw a Saddam like man like this man in
+[03:24] the days ahead becoming overthrown.
+[03:28] Now, if it's his own government that
+[03:30] does it, I don't know. Or if it's the
+[03:31] United States, I don't know. But I saw a
+[03:34] major re like a a revolution, like a a
+[03:38] shaking coming to this nation. Trouble
+[03:39] in Panama concerning the trafficking,
+[03:42] the Panama Canal, drug trade routes. is
+[03:46] concerning China. Venezuela, an
+[03:48] escalation of things of Venezuela, just
+[03:51] like it was with Iraq and Saddam, an
+[03:56] overthrowing of an power. I see an
+[03:59] overthrowing of power of a dictator with
+~~~
+
+<a id="section-02"></a>
+## 02. 04:00–07:59 · 预言、梦境与异象、战争与国际事务
+
+**中文章节摘要**：本段涉及：预言、梦境与异象、战争与国际事务、物资、能源与供应链。 提到的地点：Cuba、Russia。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[04:01] the slick hair. I hear the word Gaddafi,
+[04:04] a removing of a tyrant to have revival
+[04:07] within it. a disable it for for you'll
+[04:10] see uh uh I see Putin
+[04:13] coming to the aid of Venezuela. This
+[04:16] will be this could be the a powder keg
+[04:18] for greater escalation of war. You see,
+[04:21] I'm seeing this. I see I see TNT.
+[04:25] I see those barrels like on those
+[04:27] cartoons of TNT and it's wrapped around
+[04:31] and it says TNT and it's exploding and
+[04:34] there's a fuse and a match in the and
+[04:36] the fuse is getting shorter and shorter.
+[04:40] The fuse is getting shorter and shorter
+[04:44] concerning Venezuela
+[04:46] and Russia is a part of this. They want
+[04:50] to extend the olive branch of of peace
+[04:52] to of bricks. This is not innocent
+[04:56] by our part in exhalation. Drugs. Drugs.
+[04:59] There's bigger. It's about the oil. I
+[05:03] hear oil. We must put a kink in the
+[05:05] hose. I [snorts] hear we must put a kink
+[05:09] in the hose. I see a kink in a water
+[05:11] hose for strategic allies concerning
+[05:14] Putin. And this is concerning
+[05:17] a darkness upon Cuba for the electric
+[05:21] grid. I see problems with the
+[05:23] infrastructure and the electric grid by
+[05:26] design. Cyber attacks because they're
+[05:30] getting out of line. Cracking of a whip.
+[05:32] But the traffickers and the MS13,
+[05:36] there's gang lords. I see these gang
+[05:38] lords in this. And there's Santa Maria.
+[05:42] There's great witchcraft wrapped into
+[05:45] this. I see it with the candles with
+[05:48] great ganglords and drug smuggler.
+[05:51] They're using them. That's dark. Cuba,
+[05:55] this is demonic religion there. It's a
+[05:58] stronghold there. But God wants to bring
+[06:00] a great river of his presence there and
+[06:02] bring revival all over Cuba and spread.
+[06:07] No,
+[06:08] remember the Cuban missile crisis. Don't
+[06:12] forget the Cuban Missile Crisis. Trump,
+[06:17] Russia, old alliances,
+[06:22] old friendships.
+[06:26] I see a darkness on Cuba. It's dated
+[06:30] already, so it's not hard for the
+[06:33] infrastructure of their of their grid.
+[06:36] It's not it's it's it's a it's old
+[06:40] things. I see a I see an extension cord
+[06:44] again from c from Russia to Cuba and
+[06:47] it's under the water.
+[06:51] This is symbolic. It's under the water.
+[06:54] It's a black cord. It looks like an
+[06:56] internet cord going from Cuba to Russia.
+[07:00] A secret cord
+[07:06] in the water. It's deep in the water.
+[07:09] The woman in Mexico. There's so much
+[07:11] corruption in so many governments all
+[07:13] around. This is very uh how you got in
+[07:17] power in the first place. But there's
+[07:19] keys there's keys to her to Venezuela
+[07:22] and it goes from Venezuela to her to
+[07:25] Cuba and they traffic the people through
+[07:28] these tunnels and they and the drugs
+[07:30] come up through their tunnels. Great
+[07:32] corruption in the Hispanic government is
+[07:35] Claudia. Remember this though, Venezuela
+[07:38] will be like an Iraq if it keeps going
+[07:40] this way. Venezuela will be like Iraq.
+[07:46] That's what I keep hearing. But Russia
+[07:49] will step in
+[07:51] other nations,
+[07:53] little Kim, because they all have a
+[07:56] plan. That's why I told you they're
+[07:58] holding their cards waiting for Trump to
+~~~
+
+<a id="section-03"></a>
+## 03. 08:00–11:59 · 物资、能源与供应链、预言、梦境与异象
+
+**中文章节摘要**：本段涉及：物资、能源与供应链、预言、梦境与异象、战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[08:00] be done with his turn. But for whatever
+[08:03] reason, I saw America trying to have a
+[08:07] regime change
+[08:09] in Venezuela, trying to influence to to
+[08:14] get rid of the man with the black hair
+[08:15] slick back. I saw the same way they did
+[08:18] Saddam,
+[08:19] they they will try to do uh this man
+[08:22] with the slick hair. Slick hair guy.
+[08:24] >> Yeah. Nicholas Marulo.
+[08:27] >> Yeah. Nicholas. I saw it'd be just like
+[08:30] similar to uh Saddam. And it's oil, oil,
+[08:33] oil, oil, oil. Remember that. Oil, oil,
+[08:37] oil, oil, oil. He kept saying that. I
+[08:39] heard in the spirit realm that many
+[08:40] times. Oil, oil, oil, oil, oil. And it's
+[08:42] to block them from joining the bricks
+[08:45] because they don't want them to join the
+[08:46] bricks to back the brick nations
+[08:50] because they have oil, oil, oil, oil,
+[08:52] oil. And it will get them around the the
+[08:55] the western sanctions and all the things
+[08:58] that they can uh try to suppress them
+[09:01] because they're corrupt. Look, they have
+[09:04] they have a bad government. They do the
+[09:07] way they do their people. There's a lot
+[09:09] of witchcraft there. The what I just saw
+[09:11] a lot of witchcraft in their nation.
+[09:13] lot. And what was interesting was is as
+[09:15] I was as I was looking in the spirit
+[09:19] over Venezuela, there was a there was a
+[09:21] line of dirt, but then there was a haze
+[09:24] of witchcraft above it that looked like
+[09:26] a fog, but it was a satanic demonic fog
+[09:30] that was over the land that was probably
+[09:33] about So, so you had I could see the
+[09:35] dirt and I could see tropical, but as
+[09:38] the as the dirt went up, I could see a
+[09:41] demonic fog. log that was resting on the
+[09:44] nation that looked like um that looked
+[09:47] like uh like uh it was probably about
+[09:49] three or four uh foot thick but it was
+[09:53] resting on all of the nation and it was
+[09:56] I never been to Venezuela but I'm
+[09:57] telling you it looked jungly.
+[10:00] It looked like a tropical but it was it
+[10:02] looked but it had a demonic layer across
+[10:05] the nation with witchcraft
+[10:08] and it suppressed the people. So, I
+[10:11] don't know if there's a lot of occult
+[10:12] there, but but that's what I saw. A lot
+[10:14] of a cult on the uh land. But then when
+[10:18] I saw his face, I saw Saddam. Does that
+[10:22] make sense? Like they were like paired
+[10:25] like twins. Like brothers, like twins,
+[10:27] but they're not brothers. But that's the
+[10:29] way they the the spirit. We must pray
+[10:32] for Venezuela. An escalation of war is
+[10:36] at the shore. keep our hand out of that.
+[10:41] Oh,
+[10:43] it's it's a game of chess. All of it.
+[10:46] It's how do you stay top? How do you
+[10:50] stay the winner? How do you stay the
+[10:53] reserve currency of the world?
+[10:57] How do you stay the world's reserve
+[10:59] currency of the world? Strategic allies
+[11:02] to Russia with the bricks.
+[11:05] Bricks get stronger. What backs bricks?
+[11:09] What does Venezuela have? Venezuela has
+[11:12] oil. Venezuela has agriculture. I don't
+[11:15] know. I'm not familiar. All I keep
+[11:18] seeing is oil derks. All I keep seeing
+[11:21] is big oil. Those big ones in the ocean.
+[11:24] I see massive I'm talking massive oil.
+[11:29] Big money in oil is what I keep seeing
+[11:31] right now. And and they're the they're
+[11:33] the ones out in the like in the Gulf of
+[11:35] America. You see the big oil
+[11:38] >> oil rigs?
+[11:39] >> Oil rigs. Thank you, baby. That's what I
+[11:42] see around Venezuela. Big oil rigs.
+[11:47] And this has to do with the bricks.
+[11:50] A destabilization of the dollar is what
+[11:54] they plan to do. But it's not just about
+[11:57] drugs.
+[11:58] It's not just about trafficking. It's
+~~~
+
+<a id="section-04"></a>
+## 04. 12:00–12:35 · 战争与国际事务
+
+**中文章节摘要**：本段涉及：战争与国际事务。 本摘要为关键词辅助导航，事件和论断请核对以下原文。
+
+### 完整英文 Transcript
+
+~~~text
+[12:01] the same thing of Little Kim. But he's
+[12:03] crazy rocket man. And that's why they
+[12:05] don't try to push him too much because
+[12:07] he's a crazy rocket man. It's
+[12:09] surrounding him and it's surrounding
+[12:12] strategic allies concerning the bricks
+[12:15] with China,
+[12:18] Russia,
+[12:20] North Korea, Iran, Venezuela, Cuba, the
+[12:25] the the the unwanteds.
+[12:32] certain countries in Africa and and even
+[12:35] Afghanistan.
+~~~
