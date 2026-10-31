@@ -1,0 +1,49 @@
+[
+ {"claim_id":"ted-cruz-tx-landslide-2024",
+  "verdict":"PARTIAL_MATCH",
+  "headline":"Cruz won TX Senate by 8.5pt (53%-44.6%), solid win but not a landslide. 23,000 number wildly off (actual margin ~960K votes)",
+  "sources":["Wikipedia: 2024 US Senate election in Texas","Texas Tribune election results"],
+  "notes":"Made Nov 1 2024 before Nov 5 election. Cruz won, but margin was 8.5 points, not a 'landslide' by conventional definition (usually 15+pt). Specific '23,000 extra votes' number bears no relation to actual margin."},
+
+ {"claim_id":"impeach-trump-2026",
+  "verdict":"PARTIAL_MATCH",
+  "headline":"Multiple impeachment resolutions filed (H.Res.1155 Apr 2026, H.Res.1486 Aug 2026), none advanced. Impeachment talk dominated 2026 discourse",
+  "sources":["Congress.gov H.Res.1155","ABC News: Democrats reject impeachment","Newsweek impeachment 2026"],
+  "notes":"Vision: 'impeach impeach impeach by Schumer.' Impeachment resolutions were indeed filed and pushed by Democrats. House rejected them. 128 Democrats voted with Republicans to block. Trump himself warned about it. The talk happened; the actual impeachment did not."},
+
+ {"claim_id":"greenland-vote-join-us",
+  "verdict":"CONTRADICTED",
+  "headline":"No vote held. 85% of Greenlanders oppose joining US. PM rejected idea Jan 2026. No referendum mechanism exists",
+  "sources":["Fact Check: Greenland did not vote to join US","Arctic Today: 85% oppose","Semafor: Greenland PM rejects joining US"],
+  "notes":"Vision: divided vote with young people wanting to join. Reality: no vote, overwhelming opposition, PM flat-out rejected it. Denmark discussed independence referendum but not for joining US."},
+
+ {"claim_id":"newsom-corruption-exposed",
+  "verdict":"STRONG_MATCH",
+  "headline":"Ex-chief of staff Dana Williamson indicted Nov 2025 on corruption charges, guilty plea May 2026. Newsom and wife under federal investigation Jun 2026. Fined $31,500 for late reporting",
+  "sources":["Bloomberg Government: Newsom ex-chief of staff indicted","LA Magazine: Williamson guilty plea","GVWire: Newsom says Trump directed probe"],
+  "notes":"First stated Jun 8 2025: 'I'm about to deal with Gavin. Dark things will be uncovered.' Repeated Aug 31 2025: 'corruption in California, embarrassing moments coming.' Five months later ex-CoS indicted. Federal investigation opened. Strong hit."},
+
+ {"claim_id":"pelosi-retires-congress",
+  "verdict":"STRONG_MATCH",
+  "headline":"Pelosi announced she would not seek reelection, ending nearly 40-year career. Announcement came late 2025",
+  "sources":["Globe and Mail: Pelosi retires","Khaleej Times: Pelosi announces retirement","CalMatters: Pelosi retirement"],
+  "notes":"Mar 14 2025: 'Nancy Pelosi is going to retire.' She did announce retirement late 2025, ending her congressional career effective Jan 2027. Direct hit."},
+
+ {"claim_id":"schumer-retires-senate",
+  "verdict":"CONTRADICTED",
+  "headline":"Schumer has not retired or announced retirement. Said 'I'm staying put' in Mar 2025. Faced pressure but remained as Senate leader",
+  "sources":["Daily Beast: Schumer says staying put","Axios: Schumer faces calls to step down","CBS: Schumer won't step down"],
+  "notes":"Mar 14 2025: 'Chuck Schumer is going to retire.' He has not. His term runs to Jan 2029. He faced pressure to step aside as leader but refused."},
+
+ {"claim_id":"jd-vance-watergate-2028",
+  "verdict":"NOT_YET_DUE",
+  "headline":"Prediction targets 2028. No scandal matching this description has occurred as of Oct 2026",
+  "sources":[],
+  "notes":"Repeated vision from Jan-Oct 2026: 'Watergate 2028' involving JD Vance and Elon Musk. Cannot be scored until 2028."},
+
+ {"claim_id":"texas-senate-flips-2026",
+  "verdict":"NOT_YET_DUE",
+  "headline":"TX Senate race Paxton vs Talarico on Nov 3 2026. Polls show dead heat, analysts rate Likely Republican",
+  "sources":["Ballotpedia: US Senate Texas 2026","Fox poll tracker: Paxton vs Talarico"],
+  "notes":"Vision implied Texas could go Democrat. Race is closest in decades but not yet decided."}
+]
