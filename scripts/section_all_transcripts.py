@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 """Generate source-preserving, sectioned markdown for all Biggs transcripts.
 
-Chinese section descriptions are keyword-derived navigation hints, never fact checks.
+Chinese section outlines and English key points are source-grounded extractive aids, not fact checks.
 Run from any directory: python3 scripts/section_all_transcripts.py
 """
 import csv
 import math
 import re
 from pathlib import Path
+from transcript_keypoints import selected_passages, overview, keypoint_markdown
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "exports" / "all-videos"
@@ -108,19 +109,32 @@ def transform(video_id, title, source, date):
         f"**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/{src}",
         f"**上传日期**: {date or '原始 manifest 未提供'}",
         f"**源字幕行数**: {len(lines)}；**章节数**: {len(grouped)}；**明确省略行数**: {removed}","",
-        "**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题与摘要是自动关键词索引，未经逐段人工审核，也不能证明预言已实现。","",
+        "**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。","",
         "## 章节目录","",
     ]
     summaries=[]
     for i,(start,end,part) in enumerate(grouped,1):
-        label,summary=summarize(part)
+        label,tags=summarize(part)
         header=f"{i:02d}. {clock(start)}–{clock(end)} · {label}"
-        summaries.append((header,summary))
+        keypoints=selected_passages(part,4)
+        summaries.append((header,overview(label,keypoints),keypoints))
         rows.append(f"- [{header}](#section-{i:02d})")
+    rows.extend(["","## 全片概述与 Key Points","",
+        f"全片共 {len(grouped)} 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。",""])
+    representative=[points[0] for _,_,points in summaries if points]
+    if representative:
+        indices=sorted({round(i*(len(representative)-1)/max(1,min(len(representative),6)-1))
+                        for i in range(min(6,len(representative)))})
+        rows.extend(keypoint_markdown(video_id,[representative[k] for k in indices]))
+    else:
+        rows.append("- 当前视频缺少足够明确的字幕段落。")
     for i,(_,_,part) in enumerate(grouped,1):
-        header,summary=summaries[i-1]
+        header,section_overview,keypoints=summaries[i-1]
         rows.extend(["",f'<a id="section-{i:02d}"></a>',f"## {header}","",
-                     f"**中文章节摘要**：{summary}","","### 完整英文 Transcript","",
+                     f"**Section 内容概述**：{section_overview}","",
+                     "### Key Points / 关键要点","",
+                     *keypoint_markdown(video_id,keypoints),"",
+                     "### 完整英文 Transcript","",
                      "~~~text",*part,"~~~"])
     (OUT/f"{video_id}.md").write_text("\n".join(rows)+"\n",encoding="utf-8")
     return len(grouped),removed
@@ -147,7 +161,7 @@ def main():
     index.sort(key=lambda row:(row[0],row[1]),reverse=True)
     rows=["# Brandon Biggs · 全部视频分章节 Transcript","",
           f"共 **{len(index)}** 条独立视频；明确 speaking-in-tongues 省略标记 {omitted} 处。","",
-          "章节标题/中文摘要是自动关键词生成的导航，逐字稿原文保留，未核验具体预言。","",
+          "每条视频均有全片概述、各章节内容概述和带原视频时间戳的 Key Points。概要由规则生成，关键要点从原文提取，未作人工深度语义审核，也未核验具体预言。","",
           "| 上传日期 | 视频 / 完整 Transcript | 章节数 |","|---|---|---:|"]
     for date,title,vid,count in index:
         name=title.replace("|","\\|").replace("[","(").replace("]",")")
