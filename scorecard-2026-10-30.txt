@@ -55,7 +55,7 @@ Restatements collapsed. Each entry: quote, video, timestamp, verdict.
 
 7. COLOMBIA GOES CONSERVATIVE
    "I saw Colombia... a conservative change."
-   Seeded as colombia-conservative-landslide-2026.
+   Seeded as colombia-conservative-2026.
    RESULT: Conservative candidate won 2026 election, but NOT a landslide.
    Direction correct, magnitude overstated.
 
