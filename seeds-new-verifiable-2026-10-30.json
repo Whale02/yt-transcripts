@@ -1,33 +1,88 @@
 [
- {"claim_id":"ted-cruz-tx-landslide-2024","label":"Ted Cruz wins Texas Senate 2024 by a landslide","domain":"politics",
-  "description":"Vision of Ted Cruz winning Texas Senate 2024 with '23,000 extra votes' and a landslide. Made Nov 1 2024, before Nov 5 election.",
-  "aliases":["Ted Cruz wins","23000 votes","Ted Cruz extra"]},
-
- {"claim_id":"impeach-trump-2026","label":"Democrats attempt to impeach Trump in 2026","domain":"politics",
-  "description":"Repeated vision of 'impeach impeach impeach by Schumer and the Democratic Party' escalating through summer 2026. First stated Jan 2026.",
-  "aliases":["impeach impeach impeach","Schumer impeachment","impeach Trump 2026"]},
-
- {"claim_id":"greenland-vote-join-us","label":"Greenland holds a vote to join the United States","domain":"geopolitics",
-  "description":"Vision of Greenland divided: young people vote to join US, elders oppose. Stated Jan 9 2026.",
-  "aliases":["Greenland vote","Greenland join America","Greenland United States"]},
-
- {"claim_id":"newsom-corruption-exposed","label":"Gavin Newsom corruption and embarrassing moments exposed","domain":"politics",
-  "description":"Vision of 'dark things uncovered' about Gavin Newsom, corruption in California, embarrassing moments for politicians. First stated Jun 8 2025.",
-  "aliases":["Gavin corruption","Newsom scandal","deal with Gavin"]},
-
- {"claim_id":"pelosi-retires-congress","label":"Nancy Pelosi retires from Congress","domain":"politics",
-  "description":"Stated Mar 14 2025: 'Nancy Pelosi is going to retire.' Also Oct 2024 prayer for her removal. Pelosi announced retirement late 2025.",
-  "aliases":["Pelosi retire","Nancy Pelosi bye bye","Pelosi removed"]},
-
- {"claim_id":"schumer-retires-senate","label":"Chuck Schumer retires from the Senate","domain":"politics",
-  "description":"Stated Mar 14 2025: 'Chuck Schumer is going to retire.' Schumer has not announced retirement as of Oct 2026.",
-  "aliases":["Schumer retire","Schumer done"]},
-
- {"claim_id":"jd-vance-watergate-2028","label":"JD Vance scandal called new Watergate in 2028","domain":"politics",
-  "description":"Repeated vision: 'Watergate 2028' scandal involving JD Vance and Elon Musk, impeachment attempt. Stated multiple times from Jan 2026.",
-  "aliases":["Watergate 2028","JD Vance scandal","Vance impeachment"]},
-
- {"claim_id":"texas-senate-flips-2026","label":"Texas Senate seat competitive or flips Democrat 2026","domain":"politics",
-  "description":"Vision of a Democrat winning or competing closely in Texas Senate. Multiple passages reference Texas Senate race 2026.",
-  "aliases":["Texas Senate flip","Texas Democrat Senate"]}
+ {
+  "claim_id": "ted-cruz-tx-landslide",
+  "label": "Ted Cruz wins Texas Senate 2024 by a landslide",
+  "domain": "politics",
+  "description": "Vision of Ted Cruz winning Texas Senate 2024 with '23,000 extra votes' and a landslide. Made Nov 1 2024, before Nov 5 election.",
+  "aliases": [
+   "Ted Cruz wins",
+   "23000 votes",
+   "Ted Cruz extra"
+  ]
+ },
+ {
+  "claim_id": "impeach-trump-2026",
+  "label": "Democrats attempt to impeach Trump in 2026",
+  "domain": "politics",
+  "description": "Repeated vision of 'impeach impeach impeach by Schumer and the Democratic Party' escalating through summer 2026. First stated Jan 2026.",
+  "aliases": [
+   "impeach impeach impeach",
+   "Schumer impeachment",
+   "impeach Trump 2026"
+  ]
+ },
+ {
+  "claim_id": "greenland-vote",
+  "label": "Greenland holds a vote to join the United States",
+  "domain": "geopolitics",
+  "description": "Vision of Greenland divided: young people vote to join US, elders oppose. Stated Jan 9 2026.",
+  "aliases": [
+   "Greenland vote",
+   "Greenland join America",
+   "Greenland United States"
+  ]
+ },
+ {
+  "claim_id": "newsom-corruption-exposed",
+  "label": "Gavin Newsom corruption and embarrassing moments exposed",
+  "domain": "politics",
+  "description": "Vision of 'dark things uncovered' about Gavin Newsom, corruption in California, embarrassing moments for politicians. First stated Jun 8 2025.",
+  "aliases": [
+   "Gavin corruption",
+   "Newsom scandal",
+   "deal with Gavin"
+  ]
+ },
+ {
+  "claim_id": "pelosi-retires",
+  "label": "Nancy Pelosi retires from Congress",
+  "domain": "politics",
+  "description": "Stated Mar 14 2025: 'Nancy Pelosi is going to retire.' Also Oct 2024 prayer for her removal. Pelosi announced retirement late 2025.",
+  "aliases": [
+   "Pelosi retire",
+   "Nancy Pelosi bye bye",
+   "Pelosi removed"
+  ]
+ },
+ {
+  "claim_id": "schumer-retires",
+  "label": "Chuck Schumer retires from the Senate",
+  "domain": "politics",
+  "description": "Stated Mar 14 2025: 'Chuck Schumer is going to retire.' Schumer has not announced retirement as of Oct 2026.",
+  "aliases": [
+   "Schumer retire",
+   "Schumer done"
+  ]
+ },
+ {
+  "claim_id": "jd-vance-watergate-2028",
+  "label": "JD Vance scandal called new Watergate in 2028",
+  "domain": "politics",
+  "description": "Repeated vision: 'Watergate 2028' scandal involving JD Vance and Elon Musk, impeachment attempt. Stated multiple times from Jan 2026.",
+  "aliases": [
+   "Watergate 2028",
+   "JD Vance scandal",
+   "Vance impeachment"
+  ]
+ },
+ {
+  "claim_id": "texas-senate-flips-2026",
+  "label": "Texas Senate seat competitive or flips Democrat 2026",
+  "domain": "politics",
+  "description": "Vision of a Democrat winning or competing closely in Texas Senate. Multiple passages reference Texas Senate race 2026.",
+  "aliases": [
+   "Texas Senate flip",
+   "Texas Democrat Senate"
+  ]
+ }
 ]

@@ -1,21 +1,168 @@
 [
- {"claim_id":"iraq-kurdish-president","verdict":"STRONG_MATCH","headline":"Kurdish leader Bafel Talabani elected Iraq president Mar 2025 after Iran regime change","sources":["Reuters Iraq presidency Mar 2025"],"notes":"Sequence and causation matched."},
- {"claim_id":"2024-economic-boom","verdict":"STRONG_MATCH","headline":"US GDP grew 2.8% in 2024, S&P 500 up 23%","sources":["BEA GDP data","S&P 500 returns"],"notes":"Economic boom matched."},
- {"claim_id":"stock-market-trump-win","verdict":"STRONG_MATCH","headline":"S&P 500 surged 5.3% in week after Trump win Nov 2024","sources":["Bloomberg market data"],"notes":"Post-election surge matched."},
- {"claim_id":"kari-lake-loses-az","verdict":"STRONG_MATCH","headline":"Kari Lake lost AZ Senate race to Ruben Gallego Nov 5 2024","sources":["AP 2024 AZ Senate results"],"notes":"Called 4 days before election."},
- {"claim_id":"carmax-trouble","verdict":"STRONG_MATCH","headline":"CarMax stock dropped 40% by Oct 2025, missed earnings, used car market squeezed","sources":["CarMax Q3 2025 earnings"],"notes":"Named an obscure company 6 months early."},
- {"claim_id":"economy-pumped-midterms","verdict":"STRONG_MATCH","headline":"One Big Beautiful Bill stimulus spending ramped into 2026 midterms","sources":["CBO spending timeline"],"notes":"Pre-midterm economic pumping matched."},
- {"claim_id":"soft-landing-debate","verdict":"PARTIAL_MATCH","headline":"Soft landing was dominant economic debate topic Jan-Jun 2024","sources":["Fed minutes","WSJ coverage"],"notes":"Correct topic but vague target date."},
- {"claim_id":"cattle-disease-beef","verdict":"PARTIAL_MATCH","headline":"Screwworm outbreak in cattle Jun 2026, beef prices up 18%","sources":["USDA screwworm reports"],"notes":"Disease matched but screwworm not mad cow, 27 days early."},
- {"claim_id":"zelensky-corruption","verdict":"PARTIAL_MATCH","headline":"Yermak arrested Aug 2026 for embezzlement, ~$340M not $24B","sources":["AP Yermak arrest"],"notes":"Direction right, scale much smaller than claimed."},
- {"claim_id":"x-censored-europe","verdict":"PARTIAL_MATCH","headline":"EU fined X €120M, France opened criminal probe against Musk Sep 2026","sources":["Reuters EU X fine","AP France Musk probe"],"notes":"Regulatory action not outright ban."},
- {"claim_id":"winter-2024-crash","verdict":"CONTRADICTED","headline":"S&P 500 rose 10% in Q1 2024, no crash","sources":["S&P 500 Q1 2024"],"notes":"Opposite happened."},
- {"claim_id":"biden-replacement-blonde","verdict":"CONTRADICTED","headline":"Kamala Harris replaced Biden, not a blonde woman","sources":["AP Biden withdrawal Jul 2024"],"notes":"Got the dropout right but wrong replacement."},
- {"claim_id":"billie-eilish-superbowl","verdict":"CONTRADICTED","headline":"Bad Bunny headlined Super Bowl LX, not Billie Eilish","sources":["NFL Super Bowl LX"],"notes":"Wrong artist."},
- {"claim_id":"mount-fuji-erupts","verdict":"CONTRADICTED","headline":"Mount Fuji at Level 1 Normal as of Oct 2026","sources":["JMA volcano monitoring"],"notes":"No eruption."},
- {"claim_id":"don-jr-assassination","verdict":"CONTRADICTED","headline":"No assassination attempt on Donald Trump Jr","sources":[],"notes":"Attacks were on Trump Sr only."},
- {"claim_id":"nyc-41st-floor-fire","verdict":"CONTRADICTED","headline":"No significant fire at a 41st floor in NYC","sources":[],"notes":"Did not happen."},
- {"claim_id":"holiday-terror-2023","verdict":"CONTRADICTED","headline":"No terror attacks during 2023 holiday season","sources":[],"notes":"Did not happen."},
- {"claim_id":"newsom-runs-2024","verdict":"CONTRADICTED","headline":"Newsom did not run for president in 2024","sources":[],"notes":"Did not run."},
- {"claim_id":"great-depression-2024","verdict":"CONTRADICTED","headline":"No depression in 2024-2025, economy grew steadily","sources":["BEA GDP data"],"notes":"Opposite happened."}
+ {
+  "claim_id": "iraq-kurdish-president",
+  "verdict": "STRONG_MATCH",
+  "headline": "Kurdish leader Bafel Talabani elected Iraq president Mar 2025 after Iran regime change",
+  "sources": [
+   "Reuters Iraq presidency Mar 2025"
+  ],
+  "notes": "Sequence and causation matched."
+ },
+ {
+  "claim_id": "2024-economic-boom",
+  "verdict": "STRONG_MATCH",
+  "headline": "US GDP grew 2.8% in 2024, S&P 500 up 23%",
+  "sources": [
+   "BEA GDP data",
+   "S&P 500 returns"
+  ],
+  "notes": "Economic boom matched."
+ },
+ {
+  "claim_id": "stock-market-trump-win",
+  "verdict": "STRONG_MATCH",
+  "headline": "S&P 500 surged 5.3% in week after Trump win Nov 2024",
+  "sources": [
+   "Bloomberg market data"
+  ],
+  "notes": "Post-election surge matched."
+ },
+ {
+  "claim_id": "kari-lake-loses-az",
+  "verdict": "STRONG_MATCH",
+  "headline": "Kari Lake lost AZ Senate race to Ruben Gallego Nov 5 2024",
+  "sources": [
+   "AP 2024 AZ Senate results"
+  ],
+  "notes": "Called 4 days before election."
+ },
+ {
+  "claim_id": "carmax-trouble",
+  "verdict": "STRONG_MATCH",
+  "headline": "CarMax stock dropped 40% by Oct 2025, missed earnings, used car market squeezed",
+  "sources": [
+   "CarMax Q3 2025 earnings"
+  ],
+  "notes": "Named an obscure company 6 months early."
+ },
+ {
+  "claim_id": "economy-pumped-midterms",
+  "verdict": "STRONG_MATCH",
+  "headline": "One Big Beautiful Bill stimulus spending ramped into 2026 midterms",
+  "sources": [
+   "CBO spending timeline"
+  ],
+  "notes": "Pre-midterm economic pumping matched."
+ },
+ {
+  "claim_id": "soft-landing-debate",
+  "verdict": "PARTIAL_MATCH",
+  "headline": "Soft landing was dominant economic debate topic Jan-Jun 2024",
+  "sources": [
+   "Fed minutes",
+   "WSJ coverage"
+  ],
+  "notes": "Correct topic but vague target date."
+ },
+ {
+  "claim_id": "cattle-disease-beef",
+  "verdict": "PARTIAL_MATCH",
+  "headline": "Screwworm outbreak in cattle Jun 2026, beef prices up 18%",
+  "sources": [
+   "USDA screwworm reports"
+  ],
+  "notes": "Disease matched but screwworm not mad cow, 27 days early."
+ },
+ {
+  "claim_id": "zelensky-corruption",
+  "verdict": "PARTIAL_MATCH",
+  "headline": "Yermak arrested Aug 2026 for embezzlement, ~$340M not $24B",
+  "sources": [
+   "AP Yermak arrest"
+  ],
+  "notes": "Direction right, scale much smaller than claimed."
+ },
+ {
+  "claim_id": "x-censored-europe",
+  "verdict": "PARTIAL_MATCH",
+  "headline": "EU fined X €120M, France opened criminal probe against Musk Sep 2026",
+  "sources": [
+   "Reuters EU X fine",
+   "AP France Musk probe"
+  ],
+  "notes": "Regulatory action not outright ban."
+ },
+ {
+  "claim_id": "winter-2024-crash",
+  "verdict": "CONTRADICTED",
+  "headline": "S&P 500 rose 10% in Q1 2024, no crash",
+  "sources": [
+   "S&P 500 Q1 2024"
+  ],
+  "notes": "Opposite happened."
+ },
+ {
+  "claim_id": "biden-replacement-blonde",
+  "verdict": "CONTRADICTED",
+  "headline": "Kamala Harris replaced Biden, not a blonde woman",
+  "sources": [
+   "AP Biden withdrawal Jul 2024"
+  ],
+  "notes": "Got the dropout right but wrong replacement."
+ },
+ {
+  "claim_id": "billie-eilish-superbowl",
+  "verdict": "CONTRADICTED",
+  "headline": "Bad Bunny headlined Super Bowl LX, not Billie Eilish",
+  "sources": [
+   "NFL Super Bowl LX"
+  ],
+  "notes": "Wrong artist."
+ },
+ {
+  "claim_id": "mount-fuji-erupts",
+  "verdict": "CONTRADICTED",
+  "headline": "Mount Fuji at Level 1 Normal as of Oct 2026",
+  "sources": [
+   "JMA volcano monitoring"
+  ],
+  "notes": "No eruption."
+ },
+ {
+  "claim_id": "don-jr-assassination",
+  "verdict": "CONTRADICTED",
+  "headline": "No assassination attempt on Donald Trump Jr",
+  "sources": [],
+  "notes": "Attacks were on Trump Sr only."
+ },
+ {
+  "claim_id": "nyc-41st-floor-fire",
+  "verdict": "CONTRADICTED",
+  "headline": "No significant fire at a 41st floor in NYC",
+  "sources": [],
+  "notes": "Did not happen."
+ },
+ {
+  "claim_id": "holiday-terror-2023",
+  "verdict": "CONTRADICTED",
+  "headline": "No terror attacks during 2023 holiday season",
+  "sources": [],
+  "notes": "Did not happen."
+ },
+ {
+  "claim_id": "newsom-runs-2024",
+  "verdict": "CONTRADICTED",
+  "headline": "Newsom did not run for president in 2024",
+  "sources": [],
+  "notes": "Did not run."
+ },
+ {
+  "claim_id": "great-depression-2025",
+  "verdict": "CONTRADICTED",
+  "headline": "No depression in 2024-2025, economy grew steadily",
+  "sources": [
+   "BEA GDP data"
+  ],
+  "notes": "Opposite happened."
+ }
 ]

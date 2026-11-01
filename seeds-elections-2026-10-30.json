@@ -1,14 +1,41 @@
 [
- {"claim_id":"trump-wins-2024","label":"Trump wins the 2024 presidential election","domain":"politics",
-  "description":"His direct call, stated as seen, that Trump wins on 5 November 2024: in April 2024 that from what he saw Trump would be in the White House, and on 1 November 2024 that he had seen it so clearly that it was settled.",
-  "aliases":["president Trump wins and I've seen it","he's going to be in the white house"]},
- {"claim_id":"brazil-election-fraud-2026","label":"Brazil's October 2026 election is rigged","domain":"politics",
-  "description":"Seen in October 2026: an attempt to rig Brazil's presidential election, major election fraud, three gunny sacks of fraudulent paper ballots in a metal garage.",
-  "aliases":["try to rig the election in Brazil","gunny sacks full of fraudulent paper ballots"]},
- {"claim_id":"brazil-change-conservative-2026","label":"Change comes to Brazil and the conservative wins","domain":"politics",
-  "description":"That change is coming to Brazil and that the conservative candidate with a heart like David should win the October 2026 election, said partly in prayer and partly as what the Lord showed.",
-  "aliases":["change is coming to Brazil","heart like David"]},
- {"claim_id":"colombia-conservative-landslide-2026","label":"The conservative wins Colombia by a landslide","domain":"politics",
-  "description":"Prayer in June 2026 that the conservative Christian candidate wins Colombia's presidential election by a landslide.",
-  "aliases":["win by a landslide in Colombia"]}
+ {
+  "claim_id": "trump-wins-2024",
+  "label": "Trump wins the 2024 presidential election",
+  "domain": "politics",
+  "description": "His direct call, stated as seen, that Trump wins on 5 November 2024: in April 2024 that from what he saw Trump would be in the White House, and on 1 November 2024 that he had seen it so clearly that it was settled.",
+  "aliases": [
+   "president Trump wins and I've seen it",
+   "he's going to be in the white house"
+  ]
+ },
+ {
+  "claim_id": "brazil-election-fraud-2026",
+  "label": "Brazil's October 2026 election is rigged",
+  "domain": "politics",
+  "description": "Seen in October 2026: an attempt to rig Brazil's presidential election, major election fraud, three gunny sacks of fraudulent paper ballots in a metal garage.",
+  "aliases": [
+   "try to rig the election in Brazil",
+   "gunny sacks full of fraudulent paper ballots"
+  ]
+ },
+ {
+  "claim_id": "brazil-change-conservative-2026",
+  "label": "Change comes to Brazil and the conservative wins",
+  "domain": "politics",
+  "description": "That change is coming to Brazil and that the conservative candidate with a heart like David should win the October 2026 election, said partly in prayer and partly as what the Lord showed.",
+  "aliases": [
+   "change is coming to Brazil",
+   "heart like David"
+  ]
+ },
+ {
+  "claim_id": "colombia-conservative-2026",
+  "label": "The conservative wins Colombia by a landslide",
+  "domain": "politics",
+  "description": "Prayer in June 2026 that the conservative Christian candidate wins Colombia's presidential election by a landslide.",
+  "aliases": [
+   "win by a landslide in Colombia"
+  ]
+ }
 ]

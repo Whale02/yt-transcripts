@@ -1,6 +1,6 @@
 [
  {
-  "claim_id": "iran-ayatollah-removed-2026",
+  "claim_id": "iran-ayatollah-removed",
   "label": "Iran Ayatollah removed, hardliner replaces",
   "scope": "geopolitics",
   "earliest_mention": "2024-01-01",
@@ -8,7 +8,7 @@
   "verdict_note": "Khamenei killed Feb 28 2026; Mojtaba (more hardline) succeeded Mar 9."
  },
  {
-  "claim_id": "trump-assassination-2024",
+  "claim_id": "trump-assassination-attempt-2024",
   "label": "Trump assassination attempt, on his knee, ear",
   "scope": "us-politics",
   "earliest_mention": "2024-01-05",
@@ -64,7 +64,7 @@
   "verdict_note": "Conservative won 2026 election but not a landslide."
  },
  {
-  "claim_id": "israel-2026-election-blackswan",
+  "claim_id": "israel-election-autumn",
   "label": "Israel 2026 election black swan / shaking",
   "scope": "foreign-elections",
   "earliest_mention": "2025-01-01",
@@ -72,7 +72,7 @@
   "verdict_note": "Mossad internal probe exists; electoral fraud allegations unproven."
  },
  {
-  "claim_id": "housing-market-crash",
+  "claim_id": "housing-crash-1929",
   "label": "Housing market crash (1929-style)",
   "scope": "economics",
   "earliest_mention": "2024-12-22",
@@ -96,7 +96,7 @@
   "verdict_note": "Liberals won 169-144 seats. Trudeau resignation 'prediction' made day after announcement."
  },
  {
-  "claim_id": "lindell-wins-mn-governor",
+  "claim_id": "lindell-wins-minnesota",
   "label": "Mike Lindell wins MN governor",
   "scope": "us-elections",
   "earliest_mention": "2024-01-01",
@@ -112,7 +112,7 @@
   "verdict_note": "Still serving as of 2026."
  },
  {
-  "claim_id": "great-depression-2024-2025",
+  "claim_id": "great-depression-2025",
   "label": "Great Depression hits 2024-2025",
   "scope": "economics",
   "earliest_mention": "2023-08-25",
@@ -120,7 +120,7 @@
   "verdict_note": "GDP growth slowed but remained positive. No recession declared. 49 references in corpus."
  },
  {
-  "claim_id": "xrp-10-plus",
+  "claim_id": "xrp-price-surge",
   "label": "XRP hits $10+, people become decamillionaires",
   "scope": "economics",
   "earliest_mention": "2025-03-03",
@@ -128,7 +128,7 @@
   "verdict_note": "XRP ATH was $3.65 (Jul 18 2025). Currently well below $10."
  },
  {
-  "claim_id": "stock-crash-1929-style",
+  "claim_id": "stock-crash-1929",
   "label": "1929-style stock market crash",
   "scope": "economics",
   "earliest_mention": "2024-05-07",
@@ -136,7 +136,7 @@
   "verdict_note": "No 1929-scale crash. Markets volatile but functioning. 20+ references."
  },
  {
-  "claim_id": "mass-bank-failures",
+  "claim_id": "bank-failures-mass",
   "label": "Mass bank failures and closures",
   "scope": "economics",
   "earliest_mention": "2024-04-15",
@@ -144,7 +144,7 @@
   "verdict_note": "No widespread bank failures since SVB (Mar 2023, pre-corpus). Banking system stable."
  },
  {
-  "claim_id": "michelle-obama-newsom-2024",
+  "claim_id": "michelle-obama",
   "label": "Michelle Obama and Gavin Newsom run for president 2024",
   "scope": "us-elections",
   "earliest_mention": "2023-09-30",
@@ -152,7 +152,7 @@
   "verdict_note": "Neither ran. Harris replaced Biden. Newsom never entered."
  },
  {
-  "claim_id": "claudia-sheinbaum-removed",
+  "claim_id": "mexico-claudia-removed",
   "label": "Claudia Sheinbaum removed as Mexico president",
   "scope": "geopolitics",
   "earliest_mention": "2025-01-01",
@@ -160,7 +160,7 @@
   "verdict_note": "Still president. Term through 2030."
  },
  {
-  "claim_id": "plague-350-million",
+  "claim_id": "plague-worse-than-covid",
   "label": "Next plague kills 350 million (2025-2026)",
   "scope": "health",
   "earliest_mention": "2023-07-01",
@@ -168,7 +168,7 @@
   "verdict_note": "No pandemic. H5N1 in animals, no mass human outbreak. Mpox contained. 50 references."
  },
  {
-  "claim_id": "digital-dollar-cbdc",
+  "claim_id": "digital-dollar",
   "label": "US launches digital dollar / CBDC",
   "scope": "economics",
   "earliest_mention": "2023-06-30",
