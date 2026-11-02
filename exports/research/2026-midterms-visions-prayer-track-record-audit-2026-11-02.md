@@ -162,3 +162,54 @@ Brandon repeatedly reported the same **R House / D Senate scenario** from at lea
 - The same-day [QuWUXW1Iq8E](https://www.youtube.com/watch?v=QuWUXW1Iq8E&t=802s), uploaded 23:24:59 UTC, has overlapping near-verbatim material; treat as repeat/re-edit, not independently produced vision.
 - A [2025 September recording ZRh5oXmI-xQ](https://www.youtube.com/watch?v=ZRh5oXmI-xQ&t=7254s) said he saw a 2026 stalemate government but **did not explicitly specify both chamber identities in that passage**. The November 4 recording is the earliest complete two-chamber direct claim *located to date*, not necessarily his lifetime first vision.
 - This changes the earlier origin assessment, but does not establish any frequency → immutability relation. The November first statement already carries *prayer may change* conditionality.
+
+
+---
+
+## Additional original-source pass — 2026-11-02 (second continuation)
+
+### September 7 2025 is earlier than the explicit November 4 R/D call
+
+- [LFTGvfFA6vE 33:53–34:10](https://www.youtube.com/watch?v=LFTGvfFA6vE&t=2033s), published **2025-09-07 04:15:54 UTC**, already says he has seen a *stalemate government again*, and calls for prayers to retain both chambers. It does not, at this timestamp, distinguish which chamber would flip. This is a **precursor to the R-House/D-Senate prediction, not a complete version**.
+- [btBCeTHs7Qg 00:43–01:30](https://www.youtube.com/watch?v=btBCeTHs7Qg&t=43s), published **2025-11-05**, claims his 2026 election vision occurred in **August 2025**. Also says *if the church doesn't rise up and pray*, Democrats will take Senate and produce a stalemate presidency.
+- We additionally checked **15 source videos released in August 2025** which were enumerated in the existing repo extraction log; none contained an explicit R-House/D-Senate original line in their available transcripts. This **does not prove no August video existed**, because it is not an exhaustive list of every August upload, including removed or unarchived content. The claimed August initial date remains **self-reported, unverified**.
+
+### What is actually claimed to change in 2024 presidential election
+
+- [2025-09-07 32:03–34:08](https://www.youtube.com/watch?v=LFTGvfFA6vE&t=1923s) he says they prayed during October 2024 for Trump against Harris, then his cohost says "Then it changed". Also states a **financial catastrophe/dam was delayed** because of prayer, not that an unambiguous initial *Harris wins* vision changed into a new precise *Trump wins* vision. This is a retrospective attribution to prayer and cannot establish before/after vision change with two prospectively recorded outcomes.
+- It does establish his subjective precedent for 2026: he thinks the **2024 turnaround can be repeated**. At [2026-07-18 19:24–19:34](https://www.youtube.com/watch?v=zp4ImjufUuU&t=1164s), he explicitly says "we can still pray and change this thing just like we did last time."
+
+### New retrospective prayer-success cases
+
+#### H7. Alaska 2025 July 16 tsunami warning — absence of tsunami claimed as prayer effect
+- [2025-07-17 03:21–04:20](https://www.youtube.com/watch?v=qkyOlKNbbRM&t=201s): reports previous day's Alaska 7.2 earthquake, tsunami warning, no big tsunami, then attributes absence to "prayer changes things". He also says the still-pending very large tsunami vision concerns British Columbia/Oregon instead, i.e. he does **not** clearly withdraw the original catastrophe after it fails to occur in Alaska.
+- [Alaska Earthquake Center official July 2025 monthly report](https://earthquake.alaska.edu/earthquakes/reports/monthly/july-2025): actual largest earthquake **M7.3 July 16**, warnings canceled after **no sizable tsunami was generated**.
+- **Verdict:** Observed earthquake and canceled alert; no evidence of prayer causing lack of a large tsunami. The relevant prospective Oregon/BC disaster statement lacks a matching date.
+
+#### H8. High Point, North Carolina 2026 June 28 church arrest — event after broad prayers
+- [2026-07-04 01:37–03:36](https://www.youtube.com/watch?v=Mq0qQJkoWcg&t=97s): he displays news of a man arrested with flamethrowers, crossbows, ammunition outside a church and says "I believe ... result of our prayers". He says the incident happened on "the second", but the arrest was actually **June 28**; his video is July 4.
+- [Charlotte Observer 2026-06-30](https://www.charlotteobserver.com/news/local/crime/article316322600.html), [WYFF 2026-06-30](https://www.wyff4.com/article/man-arrested-church-launcher-flamethrowers/71782481): actual arrest at Wesley Memorial Church; rapid response to a 911 call by an off-duty officer and additional police. Reports do not establish the suspect intended to attack this specific congregation.
+- **Verdict:** Real interrupted potentially dangerous situation, but no located pre-event forecast of precise city, church, June 28 or suspect. Prayer causation is an **after-event interpretation**.
+
+#### H9. January 20 2025 inauguration moved indoors during cold snap — retroactive protection interpretation
+- [2025-01-21 09:17–13:27](https://www.youtube.com/watch?v=YA7dPUR6vRM&t=557s): he says cold itself protected inauguration from terrorist plots, claims prayers altered the weather and prevented attendance at dangerous crowds, and acknowledges that **Australian women** had separately envisioned stadium protection.
+- [Associated Press inauguration report](https://apnews.com/article/d69ed8609cbb7c38c1f0fe1e074027f2): inauguration was moved into Capitol Rotunda due to severe cold.
+- **Verdict:** Cold/indoor relocation true; attack prevented by prayer, altered weather and prior stadium preview in source are **not independently established**. Third-party women’s reported vision must **never be credited as Brandon's own first-person specific foresight**.
+
+### Additional uncertainty relevant to "D House" interpretations
+
+- [2026-07-18 19:33–19:49](https://www.youtube.com/watch?v=zp4ImjufUuU&t=1173s) he first says Democrats win Senate, Republicans keep House, then abruptly "They'll get both", then immediately repeats Democrats get Senate. Within that same passage a pronoun referent is unclear; his own long-term corpus [pronoun review](../../reviews-midterm-pronoun-fix.json) expressly **declines to score** the ambiguous sentence. It **cannot be converted** retrospectively into a precise separate D-House forecast, nor can the ambiguity be silently omitted.
+
+### The causal dataset distinction
+
+These additional cases improve observation of *Brandon's explanation*, not causal estimation of *prayer efficacy*:
+
+- **Prospective warning + externally verified real disrupted threat:** June 14 2026 White House UFC: one partial-alignment case, no causal attribution possible.
+- **Event absent, then credited to prayer:** July 2025 Alaska tsunami, January 2025 inauguration attack, December 2024/2025 Coachella variations; these do not establish a would-have-happened counterfactual.
+- **Real intervention by identifiable humans then credited to prayer:** 2026 High Point church, 2026 FBI White House UFC: law enforcement mechanism is documented.
+- **Specific desired prayer outcome did not occur:** April 2025 Canadian Conservatives landslide.
+- **Prayer means postponement rather than negation:** October 2024–September 2025 financial crash story, 2018–2023 chickens case.
+- **Admitted prayer not sufficient:** Oct 7 2023 attack.
+
+**Crucial unfilled cell:** A clear dated first vision of outcome X, subsequent *pre-event* dated explicit announcement *"we have now changed X into Y through prayer"*, and an independently verifiable realization of Y, with causal evidence differentiating the prayers from ordinary events. The case studies above do **not** satisfy all criteria. So a statistical "fraction of repeated visions overturned by prayer" remains unestimable from verified pairs.
+
