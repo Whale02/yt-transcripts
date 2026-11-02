@@ -77,3 +77,79 @@
 
 ## Conclusion
 Brandon repeatedly reported the same **R House / D Senate scenario** from at least Jan 8 2026, and he said from Jan 10 that it might be altered by prayer. **Repeated speech is not repeated independent predictive evidence.** His own 2025/2026 theology explicitly holds that visions remain mutable and sometimes cannot be prevented, with no repetition threshold. Apr 7 gives a conditional Republican Senate alternative. Neither his archived "prayer success" stories nor external facts yet demonstrate that prayer caused an event to change. For the impending election, retain *direct vision*, *conditional alternate*, *prayer request*, and *ambiguous AOC interpretation* as four separate objects, then assess independently without retroactive category changes.
+
+
+---
+
+## Addendum — full source corpus scan and better historical counterexamples (2026-11-02)
+
+**A correction to the initial report:** The earlier shorthand that the midterm predictions were uninterrupted and that Canadian election prayers never named a party was incomplete. The source material gives a richer, conflicted chronology and a named Canadian Conservative landslide prayer.
+
+### Automated reconnaissance of the complete archive
+
+[Source scanner](../../scripts/audit_prayer_vision_corpus.py) executed successfully in GitHub Actions. [Candidate index](full-corpus-prayer-vision-candidate-audit-2026-11-02.json).
+
+- **615/615 unique video transcript files** scanned in the two archive directories.
+- **27 video IDs / 29 timestamp neighborhoods** flagged by a deliberately high-recall pattern for Senate Democratic / House Republican discussion. **These 27 are search candidates, NOT 27 manually verified supporting statements.** The logic includes commentary, news reading, prayer and false positives. Dates are missing on some older transcripts. Our human-verified pre-election list contains **at least 11 different uploads** with clear or near-clear affirmative retellings of the R-House / D-Senate scenario (see dated chronology), not an exact exhaustive frequency.
+- **913 raw passages** match broad prayer / stopping / reversal / fallibility language. **130** have recognizable named-event vocabulary nearby. These are **retrieval candidates only**. Many concern e.g. "stopped praying," "news reports authorities stopped an attack", or unrelated matters, so the number of successful interventions **cannot** be inferred from these counts. Do not publish "913 prayer successes".
+- This scan searches all supplied original texts, but cannot establish true causal efficacy or the independent number of purported spiritual visions. Replays of old material, speaker changes and off-platform sources must be manually adjudicated.
+
+### Earlier political declarations that materially change the chronology
+
+| Date | Precise primary source | Classification | What it establishes |
+|---|---|---|---|
+| **2025-03-12** | [dUKzH6EBUbY 29:39–29:56](https://www.youtube.com/watch?v=dUKzH6EBUbY&t=1779s) | **Prayed declaration, not vision** | Calls for "a greater red wave in November of 2026", with "more of a majority." |
+| **2025-04-02** | [Caz8kj-WfcU 52:47–52:56](https://www.youtube.com/watch?v=Caz8kj-WfcU&t=3167s) | **Prayed declaration** | Calls for 2026 midterms to be "the biggest red wave we've ever seen"; same session contains a specific Conservative Canadian election landslide prayer. |
+| **2026-01-08** | [Lf38vkQwpgE 15:08–15:55](https://www.youtube.com/watch?v=Lf38vkQwpgE&t=908s) | **Direct vision** | D Senate / R House; says he first saw it last summer (unlocated original). |
+| **2026-04-07** | [zaCMLnzdWHQ 29:37–30:13](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=1777s) | **Conditional voice plus vision** | "You can win the Senate" and an image of Republican Senate margin by one; **coexists** with D Senate narrative. |
+| **2026-07-18** | [zp4ImjufUuU 19:19–19:50](https://www.youtube.com/watch?v=zp4ImjufUuU&t=1159s) | **Conflicted in same minute** | "We still win. We can still turn this thing", "they'll win the Senate, we'll keep the House", followed by "They'll get both." The last pronoun is unclear; DO NOT score as clean definitive D+D vision. |
+| **2026-11-01** | [W7v5YD2SAn8 1:06:35–1:07:26](https://www.youtube.com/watch?v=W7v5YD2SAn8&t=3995s) | **Speculation** | AOC as possible Speaker if D wins House, explicitly "I don't know." |
+
+**Interpretation:** A clearly reported D/R vision coexists with direct competing religious electoral *prayer targets*. The 2025 red wave was originally a prayer/decree, so it is inaccurate to call every red-wave statement an unconditional competing vision. Nevertheless it demonstrates that an outcome desired and publicly called for prayer may be interpreted differently later, including [2026-02-15 at 49:32](https://www.youtube.com/watch?v=YCq4oFKaqL4&t=2972s), where a "red wave" in a prayer is described as "not a political red wave, but a blood wave, a glory wave." That move is relevant to testing definitions.
+
+### Historical prayer-outcome pairs (ranked by documentary clarity, NOT by accuracy of theology)
+
+#### H1. June 14, 2026 alleged White House UFC attack — strongest real disrupted plot
+
+- **Recorded prospectively:** [June 10, 2026, 1:14:18–1:14:36](https://www.youtube.com/watch?v=KvS6uzzLK6c&t=4458s): he says he again glimpsed the need to pray for the 14th, then specifically refers to anticipated New York "No Kings" protests and Dallas soccer. No prospective naming of White House UFC, explosive drones, sniper targets or conspirator identities in that excerpt.
+- **Official outcome:** DOJ [June 16 press release](https://www.justice.gov/opa/pr/five-men-arrested-and-charged-plot-attack-and-kill-government-officials-and-others-attending) says authorities disrupted a genuine alleged plot against the **June 14 White House UFC** with bomb drones and snipers. The FBI had learned of it **June 10**, the day the video was published; five suspects initially charged, eight eventually indicted [DOJ July 9](https://www.justice.gov/opa/pr/federal-grand-jury-indicts-8-men-conspiracies-related-plot-attack-ufc-freedom-250-event). Court allegations are not a conviction.
+- **Ex-post retelling:** [June 17, 2026, 02:45–07:55](https://www.youtube.com/watch?v=HhKfSxKL67I&t=165s) he presents the disrupted plot as a confirmation and prayers answered.
+- **Verdict:** **PARTIAL alignment of prospectively named day with real interrupted threat**. Not a demonstrated prayer-caused prevention. The selected date had multiple widely scheduled prominent public events. His later line "all 23 in custody" is contradicted by the number actually detained; "23" was a larger potential network number. See existing [evidence-a14.json](../../evidence-a14.json).
+
+#### H2. March–April 2025 Canadian election — clearly stated political prayer target failed
+
+- **Before:** [April 2, 2025, 49:33–50:38](https://www.youtube.com/watch?v=Caz8kj-WfcU&t=2973s) (primary broadcast): explicitly declares "The Conservatives will win by a landslide", "greatest victory in Canadian history" and a **30-day prayer window**.
+- **Outcome:** [Inter-Parliamentary Union results](https://data.ipu.org/parliament/CA/CA-LC01/election/CA-LC01-E20250428/) / [Canadian House](https://www.ourcommons.ca/procedure/procedure-and-practice-4/app12-e.html): April 28 Liberal 169, Conservative 144, no Conservative victory.
+- **After:** [April 30, 2025, 37:33–37:42](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=2253s): acknowledges Canadian election went the way that it did yet says he prayed.
+- **Verdict:** Unambiguous **non-fulfilment of prayer goal**. This was a prayer declaration, not an unconditional prediction; scoring as an original vision miss would be dishonest. It still refutes an informal "focused prayer always obtains requested electoral result" claim.
+
+#### H3. Coachella Trump rally October 2024 — prewarning, real firearm arrest, false assassination certainty
+
+- **Before:** [Oct 9, 2024, 3:22–3:39](https://www.youtube.com/watch?v=FTmId_VxVi8&t=202s): calls for prayers over Coachella Trump rally.
+- **After:** [Oct 13, 2024, 00:00–01:15](https://www.youtube.com/watch?v=qyUeBwuM0q0&t=0s): claims "we stopped him".
+- **External record:** Arrest with guns on Oct 12 was real. Secret Service/FBI found no evidence of assassination threat, no federal assassination charges; charges were eventually dismissed after misdemeanor diversion. [LA Times 2024](https://www.latimes.com/california/story/2024-10-14/la-me-no-assassination-trump-coachella), [LA Times 2026](https://www.latimes.com/california/story/2026-08-13/charges-dropped-for-man-arrested-with-loaded-guns-at-socal-trump-rally).
+- **Verdict:** True warning and event coincidence, unproven counterfactual stopped assassination.
+
+#### H4. New Orleans/Las Vegas/Nashville cluster — mixed outcome used as causal prayer explanation
+
+- **After:** [Jan 21, 2025, 13:53–14:26](https://www.youtube.com/watch?v=YA7dPUR6vRM&t=833s) he says he warned of attacks on those three places; says two happened and one did not, and interprets that single absence as a success of prayer.
+- **Evidence limits:** He does not provide the dated original source for each city's mechanism and deadline in this passage. Without those, similarity of real incidents or Nashville non-event **cannot** establish a counterfactual changed by prayer.
+- **Verdict:** An illuminating self-reported claim of selective prayer efficacy; independent causal proof absent.
+
+#### H5. 2018 chickens/eggs — clear retrospective mechanism switching
+
+- [June 30, 2023, 3:17–4:35](https://www.youtube.com/watch?v=wUNztkdwhXE&t=197s): reports 2018 warning, bought 20 chickens, initially considered it missed then prayer-averted, then claimed 2023 shortages were delayed fulfilment.
+- **Verdict:** Source-confirmed switch across *missed / averted / delayed*. Original 2018 warning not independently archived.
+
+#### H6. Oct 7, 2023 Israel attack — self-acknowledged case prayer did not prevent
+
+- [June 10, 2026, 35:37–36:43](https://www.youtube.com/watch?v=KvS6uzzLK6c&t=2137s): he says their prayers before October 7 failed to prevent the attack, while explaining "some things you can stop, some things you will not".
+- **Verdict:** His narrative explicitly includes a failure of protection. Pre-attack exact original vision must still be located.
+
+### What cannot be derived from these records
+
+- The reported spiritual **repeat count** has no documented, stable rule translating frequency to "immutable" or to a probability of prevention. At [Aug 9 2026, 15:34–18:34](https://www.youtube.com/watch?v=0ptC-1kOXpQ&t=934s) he says warning-visions can be changed by prayer and direct audible words are more fixed.
+- A hypothetical "R Senate because prayer reversed D Senate" cannot be causally established by observing the final result alone; an objectively timed statement of reversal *before the vote* is needed even to demonstrate consistent claim narration.
+- Text-mined mentions and post-event claims of fulfilled words must be separated from first original dated predictions; replay frequency is not a predictive track record. The original D/R claim remains a prospectively auditable outcome even though his prayer theology can explain its contrary result.
+
+**Source policy for this addendum:** direct transcript links with timestamp establish what Brandon said; official government and dated local reporting establish events, not whether prayer caused them.
