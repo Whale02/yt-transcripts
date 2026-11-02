@@ -6,8 +6,8 @@
 
 | 上传日期 | 视频 / 完整 Transcript | 章节数 |
 |---|---|---:|
-| 2026-11-02 | [Come pray with me](W7v5YD2SAn8.md) | 12 |
-| 2026-10-31 | [Palestinian muslim gets born again - explains what is sharia law](URyAOyKCTdc.md) | 11 |
+| 2026-11-02 | [Come pray with me](W7v5YD2SAn8.md) · [语义解析](../semantic/W7v5YD2SAn8.md) | 12 |
+| 2026-10-31 | [Palestinian muslim gets born again - explains what is sharia law](URyAOyKCTdc.md) · [语义解析](../semantic/URyAOyKCTdc.md) | 11 |
 | 2026-10-30 | [Come pray with me](dM8vVcze5rQ.md) | 12 |
 | 2026-10-28 | [Come pray with me](T9dDUnA0zAs.md) | 12 |
 | 2026-10-26 | [The Lord warned us](Ky6niO0B4po.md) | 5 |
