@@ -112,6 +112,12 @@ def transform(video_id, title, source, date):
         "**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。","",
         "## 章节目录","",
     ]
+    semantic_note=ROOT / "exports" / "semantic" / f"{video_id}.md"
+    if semantic_note.is_file():
+        rows.extend([
+            "**人工阅读后的语义级章节概述与主要预言**："
+            f"[查看语义分析](../semantic/{video_id}.md)",""
+        ])
     summaries=[]
     for i,(start,end,part) in enumerate(grouped,1):
         label,tags=summarize(part)
@@ -166,7 +172,8 @@ def main():
     for date,title,vid,count in index:
         name=title.replace("|","\\|").replace("[","(").replace("]",")")
         date=(date[:4]+"-"+date[4:6]+"-"+date[6:8]) if len(date)==8 else "未提供"
-        rows.append(f"| {date} | [{name}]({vid}.md) | {count} |")
+        extended = f" · [语义解析](../semantic/{vid}.md)" if (ROOT / "exports" / "semantic" / f"{vid}.md").is_file() else ""
+        rows.append(f"| {date} | [{name}]({vid}.md){extended} | {count} |")
     (OUT/"INDEX.md").write_text("\n".join(rows)+"\n",encoding="utf-8")
     print(f"Generated {len(index)} transcript files, plus INDEX.md. Explicit tongue-caption omissions: {omitted}.")
 
