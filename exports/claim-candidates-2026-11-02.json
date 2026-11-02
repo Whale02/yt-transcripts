@@ -1,0 +1,420 @@
+{
+  "title": "New Last Days video claim extraction candidates",
+  "created_on": "2026-11-02",
+  "source": "Full time-coded captions obtained using vidIQ; raw source files committed in corpus/ and corpus-streams/",
+  "stage": "CURATED_PENDING_CANONICAL_INGESTION_AND_REVIEW",
+  "status": "Unscored extraction, no independent outcome verification performed",
+  "warning": "This is a review-ready extract. These are NOT yet ingested into prophecy.db, nor are they all objectively falsifiable. Guest claims and prior retellings must remain segregated. Do not interpret as prophecy hit-rate results.",
+  "video_ids": [
+    "W7v5YD2SAn8",
+    "URyAOyKCTdc"
+  ],
+  "mentions": [
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 3858,
+      "claim_text": "Brandon says his vision showed Democrats taking control of the US Senate at the 2026 midterm election.",
+      "quote": "I saw the Senate flipping blue.",
+      "source_mode": "VISION",
+      "certainty": "definite",
+      "conditionality": "prayer_may_prevent",
+      "topics": [
+        "politics",
+        "elections"
+      ],
+      "entities": [
+        "Democratic Party",
+        "US Senate"
+      ],
+      "locations": [
+        "United States"
+      ],
+      "time_phrase": "the election in two days",
+      "time_precision": "date",
+      "window_start": "2026-11-03",
+      "window_end": "2026-11-03",
+      "due_at": "2026-11-03",
+      "falsify_match": "Certified 2026 US Senate elections result in Democratic control of the Senate.",
+      "falsify_miss": "Certified results retain Republican control or otherwise show Democrats did not take control of the Senate.",
+      "notes": "Distinct from his subsequent prayer that this NOT happen. No factual result assessed yet."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 3875,
+      "claim_text": "Brandon says his vision showed Republicans retaining the US House with a very narrow majority in the 2026 midterms.",
+      "quote": "I saw the the House barely hangs on and keeps red",
+      "source_mode": "VISION",
+      "certainty": "definite",
+      "conditionality": "prayer_may_prevent",
+      "topics": [
+        "politics",
+        "elections"
+      ],
+      "entities": [
+        "Republican Party",
+        "US House"
+      ],
+      "locations": [
+        "United States"
+      ],
+      "time_phrase": "the election in two days",
+      "time_precision": "date",
+      "window_start": "2026-11-03",
+      "window_end": "2026-11-03",
+      "due_at": "2026-11-03",
+      "falsify_match": "Final 2026 House results give Republicans a majority, with a narrow seat advantage consistent with his wording.",
+      "falsify_miss": "Democrats win the House or the Republican majority is clearly not narrow. Define narrow margin separately before scoring; majority party itself is objective.",
+      "notes": "Separate claim from Senate result. Explicit prayer to avoid outcomes creates conditionality."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 3959,
+      "claim_text": "He says he sees Byron Donalds winning the Florida governorship, repeating an earlier prediction.",
+      "quote": "I see him winning and this is what we're praying for.",
+      "source_mode": "VISION",
+      "certainty": "definite",
+      "conditionality": "prayer_may_prevent",
+      "topics": [
+        "politics",
+        "elections"
+      ],
+      "entities": [
+        "Byron Donalds"
+      ],
+      "locations": [
+        "Florida"
+      ],
+      "time_phrase": "the upcoming governor election",
+      "time_precision": "date",
+      "window_start": "2026-11-03",
+      "window_end": "2026-11-03",
+      "due_at": "2026-11-03",
+      "falsify_match": "Official Florida 2026 gubernatorial results show Byron Donalds elected governor.",
+      "falsify_miss": "Official Florida 2026 gubernatorial results show he is not elected governor.",
+      "notes": "Retelling, not first utterance; retrieve original 2025 source before assigning originality."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 3976,
+      "claim_text": "He says he had seen AOC become politically stronger after Pelosi faded, then speculates whether AOC might become Speaker.",
+      "quote": "If if they win the h house, maybe she'll be the speaker",
+      "source_mode": "PERSONAL_INFERENCE",
+      "certainty": "tentative",
+      "conditionality": "conditional_on_house_win",
+      "topics": [
+        "politics",
+        "elections"
+      ],
+      "entities": [
+        "Alexandria Ocasio-Cortez",
+        "Nancy Pelosi"
+      ],
+      "locations": [
+        "United States"
+      ],
+      "time_phrase": "after the 2026 House election",
+      "time_precision": "relative",
+      "falsify_match": "AOC publicly assumes US House speakership in an ensuing Congress.",
+      "falsify_miss": "AOC does not become Speaker, but his 'maybe' makes this speculation, not an independently scored prediction.",
+      "notes": "Do not score as definitive prophecy. Transcript speaker explicitly asks a question."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 3720,
+      "claim_text": "He repeats a vision of exceptional high and low water levels in Venice, Italy.",
+      "quote": "unusual low tides, unusual high tides",
+      "source_mode": "LORD_SAID",
+      "certainty": "definite",
+      "conditionality": "unconditional",
+      "topics": [
+        "climate",
+        "disasters"
+      ],
+      "locations": [
+        "Venice",
+        "Italy"
+      ],
+      "time_phrase": "in the days ahead",
+      "time_precision": "none",
+      "falsify_match": "Unusually high and low tides at Venice significantly outside normal seasonal oscillations, assessed against measured tidal records.",
+      "falsify_miss": "No bounded window, so non-occurrence cannot be conclusively scored. Normal recurring tides do not count as a match.",
+      "notes": "Retelling prior prophecy. Beware high base rate of unusual tides and annual flooding."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 3788,
+      "claim_text": "He links Italy to coming increased volcanic activity.",
+      "quote": "increased and volcanic activity is coming in",
+      "source_mode": "VISION",
+      "certainty": "tentative",
+      "conditionality": "unconditional",
+      "topics": [
+        "disasters"
+      ],
+      "locations": [
+        "Italy"
+      ],
+      "time_phrase": "in the days ahead",
+      "time_precision": "none",
+      "falsify_match": "A specified Italian volcano shows measured activity meaningfully exceeding its prior baseline; lack of named volcano and period prevents strong match.",
+      "falsify_miss": "No bounded period or named volcano, so cannot conclusively expire.",
+      "notes": "No location narrower than Italy, no year; weak prediction."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 927,
+      "claim_text": "He recounts an earlier claim that an intentionally dispersed severe disease begins at a French train station with spray bottles and rats, then spreads across Europe.",
+      "quote": "they will release it in a train station",
+      "source_mode": "VISION",
+      "certainty": "definite",
+      "conditionality": "unconditional",
+      "topics": [
+        "health",
+        "terrorism"
+      ],
+      "locations": [
+        "France",
+        "Europe"
+      ],
+      "time_phrase": "October, November, December, January (prior statement, year ambiguous)",
+      "time_precision": "none",
+      "falsify_match": "Evidence of an intentional release at a French train station involving the described dispersion methods and a resulting serious Europe-wide outbreak.",
+      "falsify_miss": "Without an original anchored date, this retelling cannot be assigned a definite expiry. Ordinary respiratory outbreaks are not a match.",
+      "notes": "Earlier claim restated; original dated utterance is required before attaching a window."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 1291,
+      "claim_text": "He retells a vision in which Russia attacks Poland near Warsaw with a new weapon, prompting broader war and European conscription.",
+      "quote": "Russia striking Poland. And I said, It's by Warsaw.",
+      "source_mode": "VISION",
+      "certainty": "definite",
+      "conditionality": "unconditional",
+      "topics": [
+        "war",
+        "military"
+      ],
+      "locations": [
+        "Russia",
+        "Poland",
+        "Warsaw",
+        "Europe"
+      ],
+      "time_phrase": "undated previous vision",
+      "time_precision": "none",
+      "falsify_match": "A Russian military strike near Warsaw using a newly deployed weapon, followed by an identified European draft.",
+      "falsify_miss": "Without a prediction window there is no finite deadline; conventional border incidents alone do not count.",
+      "notes": "Longitudinal linkage to earliest utterance necessary."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 2002,
+      "claim_text": "He repeats his vision of US food distribution concentrated at guarded Walmarts behind barbed wire and military vehicles.",
+      "quote": "They'll put all the food and wall at one Walmart",
+      "source_mode": "VISION",
+      "certainty": "definite",
+      "conditionality": "unconditional",
+      "topics": [
+        "economics",
+        "infrastructure"
+      ],
+      "locations": [
+        "United States"
+      ],
+      "time_phrase": "days ahead, no date",
+      "time_precision": "none",
+      "falsify_match": "Official emergency rationing distributes food at barbed-wire-secured Walmart facilities with armed guards as described.",
+      "falsify_miss": "No bounded window; an unrelated security presence at a store is insufficient.",
+      "notes": "Old prediction repeated."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 4805,
+      "claim_text": "He reports a spiritual vision that Donald Trump Jr. will undergo a religious experience after his father, with Ivanka also affected.",
+      "quote": "Don Jr. He's going to have a baptism of a Holy Ghost experience.",
+      "source_mode": "VISION",
+      "certainty": "definite",
+      "conditionality": "unconditional",
+      "topics": [
+        "religion",
+        "politics"
+      ],
+      "entities": [
+        "Donald Trump Jr.",
+        "Donald Trump",
+        "Ivanka Trump"
+      ],
+      "locations": [
+        "United States"
+      ],
+      "time_phrase": "after father undergoes spiritual experience",
+      "time_precision": "none",
+      "falsify_match": "Donald Trump Jr. publicly reports a specific Pentecostal baptism of the Holy Spirit after his father's comparable public report.",
+      "falsify_miss": "Private experience and no dated deadline make absence unverifiable; avoid treating perceived behavior shifts as proof.",
+      "notes": "Cannot be objectively tested without voluntary public disclosure."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 6577,
+      "claim_text": "He describes a vision of a Cuban-appearing man with a silver briefcase, a glass container and four armed men in a white van, with links he attributes to Russia.",
+      "quote": "It's in a jar that looks nuclear.",
+      "source_mode": "VISION",
+      "certainty": "definite",
+      "conditionality": "unconditional",
+      "topics": [
+        "terrorism",
+        "health"
+      ],
+      "entities": [],
+      "locations": [
+        "Cuba",
+        "Russia"
+      ],
+      "time_phrase": "not specified",
+      "time_precision": "none",
+      "falsify_match": "Independent evidence shows the specific described handoff including distinctive jar/briefcase, four men and white van, with the claimed origin connection.",
+      "falsify_miss": "No date, identified people or place, so cannot expire or be corroborated through generic incidents.",
+      "notes": "Detailed imagery but lacks a clear falsifiable public outcome."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 7343,
+      "claim_text": "He says he sees '1929' and sharply falling financial charts, oil derricks, Federal Reserve imagery and gold/silver, suggesting a future economic crash.",
+      "quote": "I see 1929. I see a flat line.",
+      "source_mode": "VISION",
+      "certainty": "tentative",
+      "conditionality": "unconditional",
+      "topics": [
+        "economics",
+        "finance"
+      ],
+      "entities": [
+        "Federal Reserve"
+      ],
+      "locations": [
+        "United States"
+      ],
+      "time_phrase": "unspecified future, '1929' used as imagery",
+      "time_precision": "none",
+      "falsify_match": "A US stock market crash and banking/economic crisis comparable in scale to 1929, with criteria to be defined independently before outcomes.",
+      "falsify_miss": "No dated window and no instrument magnitude; cannot conclusively expire. 1929 does NOT mean 2029.",
+      "notes": "High priority for future original detailed analysis but weakly testable as it stands."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 8196,
+      "claim_text": "He describes a black-and-white visual of swaying skyscrapers in New York, without explicitly identifying an earthquake.",
+      "quote": "all the skyscrapers are moving like this.",
+      "source_mode": "VISION",
+      "certainty": "definite",
+      "conditionality": "unconditional",
+      "topics": [
+        "disasters",
+        "economics"
+      ],
+      "locations": [
+        "New York"
+      ],
+      "time_phrase": "undated",
+      "time_precision": "none",
+      "falsify_match": "A real event causing multiple NYC skyscrapers to sway visibly as described, confirmed through footage or structural reports.",
+      "falsify_miss": "No deadline; a symbolic depiction cannot be retrospectively equated to any ordinary market volatility.",
+      "notes": "Do not assert he specifically predicted an NYC earthquake."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 8578,
+      "claim_text": "He interprets a contemporaneous vision as a deliberately spread virus that affects pets, people and financial markets, causing a major economic crisis.",
+      "quote": "a major shaking of the economy because of a virus.",
+      "source_mode": "VISION",
+      "certainty": "definite",
+      "conditionality": "unconditional",
+      "topics": [
+        "health",
+        "economics"
+      ],
+      "locations": [
+        "United States"
+      ],
+      "time_phrase": "undated future",
+      "time_precision": "none",
+      "falsify_match": "Corroborated intentional pathogen release with significant human/animal illness and temporally connected severe economic crisis, including causal evidence.",
+      "falsify_miss": "No bounded time window; isolated animal die-offs or ordinary market declines cannot count as complete match.",
+      "notes": "Multiple linked details: release, animal impact, human impact, economic impact, causal relation. Assess separately later."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 9196,
+      "claim_text": "He predicts that Trump will have a publicly apparent Pentecostal spiritual experience before leaving office.",
+      "quote": "He'll be a Pentecostal preacher before he gets out of office.",
+      "source_mode": "VISION",
+      "certainty": "definite",
+      "conditionality": "unconditional",
+      "topics": [
+        "religion",
+        "politics"
+      ],
+      "entities": [
+        "Donald Trump"
+      ],
+      "locations": [
+        "United States"
+      ],
+      "time_phrase": "before he gets out of office",
+      "time_precision": "relative",
+      "window_end": "2029-01-20",
+      "due_at": "2029-01-20",
+      "falsify_match": "Trump publicly describes Pentecostal-style baptism in Holy Spirit and speaking in tongues before departure from office.",
+      "falsify_miss": "No such public report by the departure date; private experiences remain inaccessible.",
+      "notes": "Window assumes full current term to Jan 2029; earlier departure would change effective deadline."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 9260,
+      "claim_text": "He says Nov 2 into Nov 3 is a significant period but does not specify any event.",
+      "quote": "November 2nd going into third.",
+      "source_mode": "PERSONAL_INFERENCE",
+      "certainty": "tentative",
+      "conditionality": "unconditional",
+      "topics": [
+        "politics",
+        "religion"
+      ],
+      "locations": [
+        "United States"
+      ],
+      "time_phrase": "November 2 going into November 3",
+      "time_precision": "date",
+      "window_start": "2026-11-02",
+      "window_end": "2026-11-03",
+      "due_at": "2026-11-03",
+      "falsify_match": "No objectively specified event. Cannot score based solely on a significant day.",
+      "falsify_miss": "No outcome was pre-specified. A coincident major news story would not validate it.",
+      "notes": "Explicitly not a verifiable event claim; excluded from accuracy numerator."
+    },
+    {
+      "video_id": "URyAOyKCTdc",
+      "start_s": 2898,
+      "claim_text": "Guest Max says something related to the US midterm election will happen in the next two weeks but does not identify the event.",
+      "quote": "there is something going to happen in the next two weeks",
+      "source_mode": "PERSONAL_INFERENCE",
+      "certainty": "tentative",
+      "conditionality": "unconditional",
+      "topics": [
+        "politics",
+        "elections"
+      ],
+      "locations": [
+        "United States"
+      ],
+      "time_phrase": "next two weeks after 2026-10-30 Pacific",
+      "time_precision": "relative",
+      "window_start": "2026-10-30",
+      "window_end": "2026-11-13",
+      "due_at": "2026-11-13",
+      "falsify_match": "No specified event; cannot be objectively scored.",
+      "falsify_miss": "No specified event; cannot expire as a definite prediction.",
+      "notes": "Spoken by Guest Max; MUST NOT be counted as Brandon Biggs prophecy."
+    }
+  ]
+}
