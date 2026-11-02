@@ -1,0 +1,48 @@
+name: Refresh Last Days channel transcripts
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/refresh-latest-transcripts.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-lastdays
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install YouTube subtitle downloader
+        run: python -m pip install --upgrade yt-dlp
+      - name: Retrieve newest standard videos
+        run: python yt_transcripts.py "https://www.youtube.com/@lastdays247/videos" -o corpus --timestamps --limit 12 --sleep 0.5
+      - name: Retrieve newest live streams
+        run: python yt_transcripts.py "https://www.youtube.com/@lastdays247/streams" -o corpus-streams --timestamps --limit 12 --sleep 0.5
+      - name: Check and commit new transcripts
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add corpus/ corpus-streams/
+          if ! git diff --cached --quiet; then
+            echo "Files changed:"
+            git diff --cached --name-status | head -80
+            git commit -m "Ingest new Last Days video transcripts with timestamps"
+            git pull --rebase origin master
+            git push origin HEAD:master
+          else
+            echo "No new captioned videos found; check download log for subtitle or channel access errors."
+          fi
