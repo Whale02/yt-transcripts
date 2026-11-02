@@ -1,0 +1,27 @@
+name: Full corpus prayer vision fast audit
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/full-corpus-prayer-fast-audit.yml"
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - name: Scan archived transcripts with timestamp-indexed matching
+        run: python3 scripts/audit_prayer_vision_corpus.py
+      - name: Commit scan results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add exports/research/full-corpus-prayer-vision-candidate-audit-2026-11-02.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish full-corpus prayer/vision evidence index"
+            git pull --rebase origin master
+            git push origin HEAD:master
+          fi
