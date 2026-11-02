@@ -193,7 +193,7 @@ def main():
     print(f"\n{written} new, {have} total transcripts in {outdir}", file=sys.stderr)
     if rc != 0:
         print("yt-dlp reported errors on some videos (see above); the rest still downloaded.", file=sys.stderr)
-    return 0
+    return 1 if rc != 0 else 0
 
 
 if __name__ == "__main__":
