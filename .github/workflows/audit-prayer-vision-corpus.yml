@@ -1,0 +1,34 @@
+name: Audit source corpus for repeated visions and prayer reversals
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - "scripts/audit_prayer_vision_corpus.py"
+      - ".github/workflows/audit-prayer-vision-corpus.yml"
+permissions:
+  contents: write
+concurrency:
+  group: audit-prayer-vision-corpus
+  cancel-in-progress: false
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Source-wide audit
+        run: python3 scripts/audit_prayer_vision_corpus.py
+      - name: Commit evidence candidate index
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add exports/research/full-corpus-prayer-vision-candidate-audit-2026-11-02.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Index source-dated prayer change claims and midterm repetitions"
+            git pull --rebase origin master
+            git push origin HEAD:master
+          fi
