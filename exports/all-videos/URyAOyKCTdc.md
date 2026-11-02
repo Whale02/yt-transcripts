@@ -1,0 +1,421 @@
+# Palestinian muslim gets born again - explains what is sharia law
+
+**视频**: https://www.youtube.com/watch?v=URyAOyKCTdc
+**原始转录**: https://github.com/Whale02/yt-transcripts/blob/master/corpus/Palestinian muslim gets born again - explains what is sharia law [URyAOyKCTdc].txt
+**上传日期**: 20261031
+**源字幕行数**: 201；**章节数**: 11；**明确省略行数**: 0
+
+**保留原则**：全部英文正常讲话、原始时间戳、新闻引用、祷告、唱诗、重复和口语错误均保留。仅明确标注为 speaking in tongues/foreign speech 的字幕行被替换为带时间戳占位符。自动字幕无法辨认的方言可能被错误转写成英文，为避免误删，仍保留。中文章节标题是自动主题分类；Section 内容概述和 Key Points 是按时段提取的实际发言，不是经过逐段人工语义总结。任何预言都尚未在此核验。
+
+## 章节目录
+
+- [01. 00:00–04:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-01)
+- [02. 05:00–09:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-02)
+- [03. 10:00–14:59 · 教会、复兴与信仰、预言、梦境与异象](#section-03)
+- [04. 15:00–19:59 · 祷告、敬拜与现场互动、预言、梦境与异象](#section-04)
+- [05. 20:00–24:59 · 祷告、敬拜与现场互动、美国选举与投票](#section-05)
+- [06. 25:00–29:59 · 美国选举与投票、战争与国际事务](#section-06)
+- [07. 30:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-07)
+- [08. 35:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-08)
+- [09. 40:00–44:59 · 教会、复兴与信仰、祷告、敬拜与现场互动](#section-09)
+- [10. 45:00–49:59 · 祷告、敬拜与现场互动、美国选举与投票](#section-10)
+- [11. 50:00–53:59 · 祷告、敬拜与现场互动、教会、复兴与信仰](#section-11)
+
+## 全片概述与 Key Points
+
+全片共 11 节。以下按时间覆盖全片，摘取能够回溯到原字幕的代表性发言；属于自动抽取的内容索引，没有人工语义审核，也不能据此认定预言准确。
+
+- **[00:48](https://www.youtube.com/watch?v=URyAOyKCTdc&t=48s) · 本段原话**：ministry. Praise God. I'm just, you know, rejoicing in the Lord.  Yeah. It's exciting. Amen. So, I I'm excited about you being here today, Max. I I really believe that uh there's a lot of people that don't understand what Sharia law is, what the Muslim faith really uh believes, and how strong they believe it. And and you're the only one cuz you were a Muslim for how long?  Oh, 40ome years, 42 years. Muslim. I mean, all my life until 2011.  Wow. 2011. So, he was you were raised that way. And so, Palestinian. So, you
+- **[10:39](https://www.youtube.com/watch?v=URyAOyKCTdc&t=639s) · 本段原话**：you. Gabriel give it to him. No, it was from the devil. It was from the Satan himself. We call it shitan in Arabic as miss bir always say uh sitan or something like that  but that's where the word of the Quran came and people wrote it his disciple wrote it and it's most of it is from the bible and they said you know the bible is twisted this is especially the new testament they said the Christian the church came up with this and they do it they don't believe that Jesus was crucified they believe that god exchange
+- **[20:33](https://www.youtube.com/watch?v=URyAOyKCTdc&t=1233s) · 他描述所见**：today.  So, Friday is the day that I saw that all the Muslims gather and serve the madi when I went to tribulation.  Oh my goodness. And they were all dressed in white and they went to these places. They went on on top. They had the Muslim god on the screen. They call them Madi. And I and I went in in 2014. Every Friday was the day that he required everybody to worship him at once.  Yes, that is the day. And today's Friday. We're doing it right now. They're praying.
+- **[31:19](https://www.youtube.com/watch?v=URyAOyKCTdc&t=1879s) · 本段原话**：There's so many Muslims. Why? Because Brandon, you have two kids. They have seven. That's  Wow. There is an agenda and we are not realizing they just keep popping kids, popping kids, popping kids and they send them when they're 90 years old. They send them when they're 10 years old. Some of them they get money for their kids to die for to bomb themselves and kill uh uh a bus full of Jews so they can go to heaven so they can have their 70 virgin uh uh brides in in in heaven.
+- **[40:57](https://www.youtube.com/watch?v=URyAOyKCTdc&t=2457s) · 本段原话**：Monday through Friday. They work. They they they they're raising their family, but they're in the rat race of they're on the the hamster wheel. And they don't even realize what what Jesus paid for for you to walk in victory. Amen.  And what our founding fathers did for us to have a free country. They died for us to have a free country. from George Washington to the troop, all of it. Look what they sacrificed when the pilgrims came and they made the covenant at Plymouth Rock and they did all they did a and they they established a covenant
+- **[50:00](https://www.youtube.com/watch?v=URyAOyKCTdc&t=3000s) · 本段原话**：it's happening and it's changing. It's happening and it's changing. So God is working. We have a ministry in Jordan. We have a cafe in Jordan that we um uh right in downtown heart of downtown. It's called it's called Anajak Cafe. But there's a there's a little logo says Y LH. So Yeshua love heals. And people ask for that. We say Yeshua love heals. When we give food boxes, last year we gave over 4,500 food boxes and we put on it
+
+<a id="section-01"></a>
+## 01. 00:00–04:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[00:48](https://www.youtube.com/watch?v=URyAOyKCTdc&t=48s) · 本段原话**：ministry. Praise God. I'm just, you know, rejoicing in the Lord.  Yeah. It's exciting. Amen. So, I I'm excited about you being here today, Max. I I really believe that uh there's a lot of people that don't understand what Sharia law is, what the Muslim faith really uh believes, and how strong they believe it. And and you're the only one cuz you were a Muslim for how long?  Oh, 40ome years, 42 years. Muslim. I mean, all my life until 2011.  Wow. 2011. So, he was you were raised that way. And so, Palestinian. So, you
+- **[01:54](https://www.youtube.com/watch?v=URyAOyKCTdc&t=114s) · 本段原话**：stated that kill the infidel and it says also in the last days when when uh al- mahi come which is the antichrist they call him al- mai uh come that we are to kill the Jews and the Jews will be hiding behind the bushes and the bush will speak I mean listen to this the bush will speak and say hey you Muslim there is a Jew behind me come and kill him. Wow.  And that's where I came from. That's the religion that I grow up in. And there is
+- **[03:31](https://www.youtube.com/watch?v=URyAOyKCTdc&t=211s) · 本段原话**：praying pouring my heart out. Brandon, I was in tears in that much of a need. I was just in tears. And Jesus spoke to me and he said, "Son, you need me. Son, come to me." And then he called me by my name. Now he did that twice. Uh four weeks apart almost five weeks apart he did that twice. Now the second time I didn't say anything. I was terrified. I don't know the right from wrong. But the second time when he spoke to me and he called me by my name he said Muhammad you need me. Now just to be clear my
+- **[04:39](https://www.youtube.com/watch?v=URyAOyKCTdc&t=279s) · 本段原话**：I I am Jesus. I am Yeshua. I am Yeshua. And you need me. I'm I'm going to hold your hand. I'm going to help you. Come to me. That was the key point for me. That was the light bulbs. Turn it on right there because I knew that. I knew that. I know Allah will never call me by my name. That's when I'm like, "Okay, wait a minute." And Brandon, the sound, the voice of him, you cannot make it up. You cannot put it in a mixing board or a
+
+### 完整英文 Transcript
+
+~~~text
+[0:00] Well, good afternoon, evening, wherever you are, family. I have a special guest with us today. This is Max, Pastor Max from Minnesota. He has a church there in Minnesota and downtown area, and he has
+[0:15] an outreach there that is reaching the lost for Jesus. And so, what's awesome about Max's testimony is that he was once a Muslim and he gave his heart to Jesus Christ. And so his testimony is outstanding. It's out. It's amazing. So
+[0:31] I want him to talk about some of this testimony today. Greetings, Max. How are you doing? >> Good. How are you? Good being with you, brother Brandon. I just love it. Praise the Lord for what everything that he is doing and what he is doing in you, in your life as a prophet, in your
+[0:48] ministry. Praise God. I'm just, you know, rejoicing in the Lord. >> Yeah. It's exciting. Amen. So, I I'm excited about you being here today, Max. I I really believe that uh there's a lot of people that don't understand what Sharia law is, what the Muslim faith
+[1:06] really uh believes, and how strong they believe it. And and you're the only one cuz you were a Muslim for how long? >> Oh, 40ome years, 42 years. Muslim. I mean, all my life until 2011. >> Wow. 2011. So, he was you were raised that way. And so, Palestinian. So, you
+[1:22] were a Palestinian. Uh raised in Jordan as a Palestinian, as a uh of course as a Muslim and uh I was raised based on the word of the Quran, you know, to uh hate Israel, to hate Christians. There is no
+[1:39] other I mean Islam very much the Quran what the Quran is stating that it's okay you could love them, you could work with them, but if you have the opportunity to take them out, they are not of us in a way. They are an infidel. So the Quran
+[1:54] stated that kill the infidel and it says also in the last days when when uh al- mahi come which is the antichrist they call him al- mai uh come that we are to kill the Jews and the Jews will be
+[2:10] hiding behind the bushes and the bush will speak I mean listen to this the bush will speak and say hey you Muslim there is a Jew behind me come and kill him. Wow. >> And that's where I came from. That's the religion that I grow up in. And there is
+[2:27] so much in the Quran stated over the Jews and over Christians. Like, you know, it's not to be uh close to them, not to uh work with them, not to tolerate them. That's fine. And oh, here's the other thing. If you have to
+[2:44] deal with them, deal with them. But if it's if you want to lie, it's okay to lie. I mean it just mindboggling and I didn't know any of this. >> So that's with every Islamic person. They can lie like that. >> They It's okay to lie because because
+[3:00] Allah will forgive them if they have to lie to save their lives. That's okay. And Allah will never call Muslims as of their names. I mean like Jesus he called me uh Max or my Arabic name Muhammad. Uh he call you Brandon. But in Islam Allah
+[3:16] call his people slaves. And that's what really got to my salvation. Because when I was praying, Brandon, to Allah and Muhammad for certain things to happen in my life, I didn't hear Allah or Muhammad. Muhammad is dead. And I was
+[3:31] praying pouring my heart out. Brandon, I was in tears in that much of a need. I was just in tears. And Jesus spoke to me and he said, "Son, you need me. Son, come to me." And then he called me by my name. Now he did that twice. Uh four
+[3:48] weeks apart almost five weeks apart he did that twice. Now the second time I didn't say anything. I was terrified. I don't know the right from wrong. But the second time when he spoke to me and he called me by my name he said Muhammad you need me. Now just to be clear my
+[4:04] name is not Muhammad. It's Muhammad with two N's as an Nancy which means sword in Arabic. He said when he called me by my name I realized okay wait a minute Allah doesn't call Muslims by their name he called them abdi which is my slave he
+[4:20] never called them by their names only slave we all uh the Muslims in general all slave of Allah slave for Allah so anyway when he spoke to me and he called me by my name like wait a minute who is this and he said ana that's that's mean
+[4:39] I I am Jesus. I am Yeshua. I am Yeshua. And you need me. I'm I'm going to hold your hand. I'm going to help you. Come to me. That was the key point for me. That was the light bulbs. Turn it on
+[4:57] right there because I knew that. I knew that. I know Allah will never call me by my name. That's when I'm like, "Okay, wait a minute." And Brandon, the sound, the voice of him, you cannot make it up. You cannot put it in a mixing board or a
+~~~
+
+<a id="section-02"></a>
+## 02. 05:00–09:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[05:13](https://www.youtube.com/watch?v=URyAOyKCTdc&t=313s) · 他进行祷告**：sound system or a speaker. Now, I know these things because we have a church. We have mixing board. We have speakers. We have mics. But it was so strong. It was so firm. It was so clear. I mean to the to the tea. Absolutely perfectly sounded strong with love too. I don't know how to explain. There is love in that voice. And then I surrender to him. I went to church, you know, later on. The story goes on like I I got in trouble and I asked Quinn to pray, my wife. She prayed for me for 19 years,
+- **[07:25](https://www.youtube.com/watch?v=URyAOyKCTdc&t=445s) · 本段原话**：Satanist, I don't care how far how dark they are. Max was dark. He didn't not want to have Jesus. But over the course of time, it's the it's the steady pressure. Yes,  that breaks the yoke. It's the steady. It's the drop. It's the drop. It causes the cavern in the cave. It's the one drop at a time. And that's what happened to her. She kept using it for 19 years.  She never gave up.  So, I just want to encourage you. Don't give up. And don't be weary and welloing. Whenever you say, "Well, that my loved one has never come to the Jesus and I've been praying for a year."
+- **[08:44](https://www.youtube.com/watch?v=URyAOyKCTdc&t=524s) · 本段原话**：stepping into, share how can we change the atmosphere. We are to  How important is that, Max? Like right now when you see all the the the the guy the senator running for uh for a Senate in in Michigan and then we have Omar, we have these people. So they they have all the they they have these beautiful words to tell you how everything's going to be great. But bottom line is they want Sharia law.  I just stated earlier it's okay to lie
+- **[09:50](https://www.youtube.com/watch?v=URyAOyKCTdc&t=590s) · 本段原话**：Whomever, any other religion, any other beliefs, the Jews with the Torah are infidel. Now the Quran, Muhammad was a little bit smart. He acknowledged Moses. He acknowledged Abraham. He acknowledged Isaac. He acknowledged all the stories.
+
+### 完整英文 Transcript
+
+~~~text
+[5:13] sound system or a speaker. Now, I know these things because we have a church. We have mixing board. We have speakers. We have mics. But it was so strong. It was so firm. It was so clear. I mean to the to the tea. Absolutely perfectly
+[5:30] sounded strong with love too. I don't know how to explain. There is love in that voice. And then I surrender to him. I went to church, you know, later on. The story goes on like I I got in trouble and I asked Quinn to pray, my wife. She prayed for me for 19 years,
+[5:46] Brandon. 19 years. And when we got married, I told her just to promise me one thing that one day you'll become or you became a Muslim. And she just nodded her head just like that. She didn't say yes but she nodded her head not knowing
+[6:02] 19 20 years later that I will be delivered and I will be follower of Jesus not knowing that. >> Wow. But God knows. Gwen didn't know. All she know to stand in her faith and read the word and pray over me and have
+[6:18] my name almost in every uh chapter and a lot of verses especially with salvation. Uh I mean most of the salvation scriptures were highlighted and my name is on him. My name is on him. So when I start asking her to pray for me because I was in a deep financial issue.
+[6:35] >> Let me get hold on. Let me cut you off there. So she had scriptures by your by that that that that she would stand on concern and put your name by it. >> Correct. And those scriptures salvation. >> Did you get a key there, y'all? You need to put your loved ones name like Gwen
+[6:53] did. She put his name by the scripture and when she read the scripture, she had Max's name in and standing on the word. It because the Bible says that you you you've got to have the word back. prayer. >> And so this is what this is what she was
+[7:09] doing. She was praying and believing for his soul, but she had to have the word to back it, right? >> And so she used scripture to you use it to call him in. Took 19 years. So do not get weary and welloing. If you are married to a Muslim, if you're married to a Buddhist, if you're married to a
+[7:25] Satanist, I don't care how far how dark they are. Max was dark. He didn't not want to have Jesus. But over the course of time, it's the it's the steady pressure. Yes, >> that breaks the yoke. It's the steady. It's the drop. It's the drop. It causes
+[7:40] the cavern in the cave. It's the one drop at a time. And that's what happened to her. She kept using it for 19 years. >> She never gave up. >> So, I just want to encourage you. Don't give up. And don't be weary and welloing. Whenever you say, "Well, that my loved one has never come to the Jesus and I've been praying for a year."
+[7:56] >> Yeah. >> 19 years. >> That's a lie. The devil is a liar. That's what we think. But she never give up. I thought that way. I used to walk by her, Brandon, I say, "Well, you keep praying for your Jesus and see we'll see what's happen." But guess what? He got me. That was the that that was the
+[8:13] outcome. And I'm so free. I'm so relieved. I start even after my salvation. Maybe you think this is really weird, but you know, the food tastes different. My life tastes my life I I start feeling that I'm alive. So
+[8:29] with all this to say, um really the heart of this um uh broadcasting with you today, as we talked yesterday, is to share the awakening in the United State of America. Share the danger that we are
+[8:44] stepping into, share how can we change the atmosphere. We are to >> How important is that, Max? Like right now when you see all the the the the guy the senator running for uh for a Senate
+[9:00] in in Michigan and then we have Omar, we have these people. So they they have all the they they have these beautiful words to tell you how everything's going to be great. But bottom line is they want Sharia law. >> I just stated earlier it's okay to lie
+[9:17] to accomplish what they need to accomplish. Their heart is to establish Sharia and their heart is to take over this nation because the Quran say you are to take over the infidel which is who's the infidel? You and I. Who's the
+[9:34] infidel? Anybody is not Muslim. Non-Muslim in the Quran is an infidel. Period. It doesn't matter what is your belief. You are a Christian, you are infidel. I am an infidel. The people from India, the Hindus are infidel.
+[9:50] Whomever, any other religion, any other beliefs, the Jews with the Torah are infidel. Now the Quran, Muhammad was a little bit smart. He acknowledged Moses. He acknowledged Abraham. He acknowledged Isaac. He acknowledged all the stories.
+~~~
+
+<a id="section-03"></a>
+## 03. 10:00–14:59 · 教会、复兴与信仰、预言、梦境与异象
+
+**Section 内容概述**：本节围绕教会、复兴与信仰、预言、梦境与异象展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[10:39](https://www.youtube.com/watch?v=URyAOyKCTdc&t=639s) · 本段原话**：you. Gabriel give it to him. No, it was from the devil. It was from the Satan himself. We call it shitan in Arabic as miss bir always say uh sitan or something like that  but that's where the word of the Quran came and people wrote it his disciple wrote it and it's most of it is from the bible and they said you know the bible is twisted this is especially the new testament they said the Christian the church came up with this and they do it they don't believe that Jesus was crucified they believe that god exchange
+- **[12:00](https://www.youtube.com/watch?v=URyAOyKCTdc&t=720s) · 本段原话**：So if so Mandabi believes that way.  Oh absolutely.  And so does the other guy that's running in in Omar all these people they that they're Muslim they believe what you're talking about.  Absolutely. Jesus Christ was switched at the cross.  Switched at the cross with somebody look like him.  Why would he do that? Why? So, so they so they believe that they that God wouldn't sacrifice his own son. Then  they they don't believe that God they don't believe Jesus is the son of God. That's another story.  When we when you would talk about father and the son and the holy spirit, they
+- **[13:51](https://www.youtube.com/watch?v=URyAOyKCTdc&t=831s) · 他描述所见**：to die for their faith.  Right.  And I see Muslims, they're they're very anelical. Is that the word? Yeah. And so when you see the the passion that a Muslim has, I look at where the body of Christ is very lukewarm and we see them going, "Well, we're going to establish things in the government. We're going to have senators. We're going to have congressmans." And their whole whole uh goal is to have a president in the United States of America, a Muslim in the White House before a certain time.
+- **[14:22](https://www.youtube.com/watch?v=URyAOyKCTdc&t=862s) · 他进行祷告**：Oh my goodness. You are absolutely correct. And that is really the watch. This is why we need to stand up and pray and be in unity together. We are to rise up and we are to walk in love. You see, Muslims don't like Israel just like me in the past. I never like Israel. But there isn't one Jew, well, there isn't one Jew who put a vest with bombs in it and go into a bus full of kids leaving the mosque or the school. That's the
+
+### 完整英文 Transcript
+
+~~~text
+[10:05] But the Quran, the Quran was taken a lot from the Bible, the good stories. And thank God that Muhammad said that Jesus is alive. Mhm. >> Can you imagine if Muhammad did not say that Jesus is alive? Because when
+[10:21] Muhammad said that and he put it in the Quran, which by the way, he doesn't know how to read or write. So, how come you believe somebody doesn't know how to read or write period? I mean, at all. Like, he can't even read the the Arabic words to write you a book and give it to
+[10:39] you. Gabriel give it to him. No, it was from the devil. It was from the Satan himself. We call it shitan in Arabic as miss bir always say uh sitan or something like that >> but that's where the word of the Quran came and people wrote it his disciple
+[10:55] wrote it and it's most of it is from the bible and they said you know the bible is twisted this is especially the new testament they said the Christian the church came up with this and they do it they don't believe that Jesus was crucified they believe that god exchange
+[11:12] him with somebody else look like him and put him on the cross. It's a verse in the Quran. They didn't nobody uh killed him. He wasn't put on the cross, but they it was their imagination. So you and I have an
+[11:29] imaginations. The disciples, the eyewitnesses have an imagination that it wasn't Jesus, it was somebody else. Allah exchange them with somebody else. >> So that's what they believe. >> That's what they believe, Brandon. That's what >> I didn't know that. >> Yeah. There's so many things so many
+[11:45] people don't know because they don't I mean it's not necessarily that they have to read but we are to stick to the word of God and that's why you and I here today to put that alarm out there and the awakening for people that's what they believe.
+[12:00] >> So if so Mandabi believes that way. >> Oh absolutely. >> And so does the other guy that's running in in Omar all these people they that they're Muslim they believe what you're talking about. >> Absolutely. Jesus Christ was switched at the cross. >> Switched at the cross with somebody look
+[12:16] like him. >> Why would he do that? Why? So, so they so they believe that they that God wouldn't sacrifice his own son. Then >> they they don't believe that God they don't believe Jesus is the son of God. That's another story. >> When we when you would talk about father and the son and the holy spirit, they
+[12:32] will never understand the concept of that. They Muslims I used to I used I I was there Brandon. So, Muslims believe that and they come and argue with you that God will not have sex with Mary
+[12:48] to have Jesus. That's how they look at it. So, this is this is crazy. And they won't believe that Jesus was crucified and he died for three days and rose again. Why God want to kill his own prophet? Because they call him prophet.
+[13:03] Why he want to harm his prophet? Well, guess what? Muhammad is dead. It's like it it's just like nonsense. But I didn't know any of this until my salvation, until I start reading the word of God, until I start praying. See, you see, you have to have that that
+[13:20] peace in you. You have to be saved to understand. If you're not saved, you will argue, the Muslims will argue with you all day long, all week long, all month long. Jesus have to touch their hearts. So this there's so many beliefs.
+[13:35] I know you have so many questions in your head. like good so many belief. >> No, I just like because I've never heard of this book before because I don't I don't study Muslim stuff and I and I go, "Wow." Because I've always wondered because they're very >> uh for what I perceive, they believe it. They don't doubt it and they're willing
+[13:51] to die for their faith. >> Right. >> And I see Muslims, they're they're very anelical. Is that the word? Yeah. And so when you see the the passion that a Muslim has, I look at where the body of Christ is very lukewarm and we see them
+[14:07] going, "Well, we're going to establish things in the government. We're going to have senators. We're going to have congressmans." And their whole whole uh goal is to have a president in the United States of America, a Muslim in the White House before a certain time.
+[14:22] >> Oh my goodness. You are absolutely correct. And that is really the watch. This is why we need to stand up and pray and be in unity together. We are to rise up and we are to walk in love. You see, Muslims don't like Israel just like me
+[14:39] in the past. I never like Israel. But there isn't one Jew, well, there isn't one Jew who put a vest with bombs in it and go into a bus full of kids leaving the mosque or the school. That's the
+[14:54] mentality. That's what kill the infidel mean, Brandon. So they are going based on the word of Allah. They think that they are doing and they die. >> So does the Quran tell you to do that? >> Yes. This is called jihad Brandon. The
+~~~
+
+<a id="section-04"></a>
+## 04. 15:00–19:59 · 祷告、敬拜与现场互动、预言、梦境与异象
+
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、预言、梦境与异象展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[15:11](https://www.youtube.com/watch?v=URyAOyKCTdc&t=911s) · 本段原话**：jihad is to kill the infidel to unless if they change if they became Muslims. Now if they became Muslims then everything is kosher. That's why there is a fatwa against me. Fatwa mean whoever kill me will go to heaven fatwa mean it's by the law whoever take my life they will not be judged they will live free I am just like nothing is is a bondage of darkness it's not free this is and that's what
+- **[16:32](https://www.youtube.com/watch?v=URyAOyKCTdc&t=992s) · 本段原话**：it. So for the infidels as I shared earlier for Christians to stay away from them but if you have to when you have the chance if you kill them it's okay. The Jews is the same way. Non Christians non I mean any other religion if they're not just Christians and Jews. So to establish the ground to take over the whole world. Sharat is to go out and spread and tell people that Islam is the greatest uh religion ever. And see they call it religion. We call it
+- **[17:36](https://www.youtube.com/watch?v=URyAOyKCTdc&t=1056s) · 他进行祷告**：fear. For instance, when I used to pray, wash before I pray because if I went to the bathroom, I have to wash otherwise I can't be before Allah and I have to certain I have to face certain way which is Mecca and I have to put my prayer rug facing Mecca. It doesn't matter where I am. They start making prayer rug with a compass on it so you won't miss Mecca. When we pray, we pray wherever we are, wherever we facing. If I'm laying down, if I'm on my stomach, if I'm going right, left, southeast, but they have to
+- **[18:41](https://www.youtube.com/watch?v=URyAOyKCTdc&t=1121s) · 他进行祷告**：that's mean my washing is destroyed I have to wash again  no way  yes Brandon yes way that makes the marriage hard [laughter]  but don't touch me I just wash my hands yeah absolutely right I did I told my wife I just washed. Don't touch me. So and she goes okay I won't. The other thing is you have to pray five times a day which of course is certain way. It's like five times a day and you
+
+### 完整英文 Transcript
+
+~~~text
+[15:11] jihad is to kill the infidel to unless if they change if they became Muslims. Now if they became Muslims then everything is kosher. That's why there is a fatwa against me. Fatwa mean whoever kill me will go to heaven fatwa
+[15:29] mean it's by the law whoever take my life they will not be judged they will live free I am just like nothing is is a bondage of darkness it's not free this is and that's what
+[15:45] they are and you know they're increasing their mosques they're doing this they're going that >> so what is Sharia law I don't even know what Sharia law is I I hear them talking about it and they say we're going to bring Sharia law in. But what really does Sharia law to the Christians if you're telling the people because I'm
+[16:02] sure we talk about things because it it it's on the news and they say well Sharia law they want to bring it. What is Sharia law max? >> Sharia is very much the the religion of Islam the five pillars of Islam to stand
+[16:17] by those five pillars and do what Allah asked Muslims to do. And Sharia very much is to be to the tea with the Quran to go like word by word and establish
+[16:32] it. So for the infidels as I shared earlier for Christians to stay away from them but if you have to when you have the chance if you kill them it's okay. The Jews is the same way. Non Christians non I mean any other religion if they're
+[16:48] not just Christians and Jews. So to establish the ground to take over the whole world. Sharat is to go out and spread and tell people that Islam is the greatest uh religion ever. And see they call it religion. We call it
+[17:04] relationship. Sharat is to bring people to Allah and devote their lives by the laws of the Quran. But the gist of it is the gist of it is to be established for everybody every nation every government
+[17:20] every soul on this earth on this earth to believe in Allah and the prophet Muhammad and do the dues for what the prophet Muhammad established. Islam is very directive and the people live in
+[17:36] fear. For instance, when I used to pray, wash before I pray because if I went to the bathroom, I have to wash otherwise I can't be before Allah and I have to certain I have to face certain way which is Mecca and I have to put my prayer rug
+[17:53] facing Mecca. It doesn't matter where I am. They start making prayer rug with a compass on it so you won't miss Mecca. When we pray, we pray wherever we are, wherever we facing. If I'm laying down, if I'm on my stomach, if I'm going right, left, southeast, but they have to
+[18:10] be directive to Mecca to pray for what? For the stones that Muhammad when he came, he took all the stones out. But yet, he built that black stone. Most of people familiar with man. The black stone. That's when they go to Hajj and
+[18:25] they go around it and around it and around it. And guess what? They go around it seven times. But um and the other thing if oh okay let's say I wash to pray and then my wife brushed by me she touched my shirt brushed by me
+[18:41] that's mean my washing is destroyed I have to wash again >> no way >> yes Brandon yes way that makes the marriage hard [laughter] >> but don't touch me I just wash my hands
+[18:56] yeah absolutely right I did I told my wife I just washed. Don't touch me. So and she goes okay I won't. The other thing is you have to pray five times a day which of course is certain way. It's like five times a day and you
+[19:13] could do additional and every time of the five times it's different. They call it raka which is when you bow down a few times. They call it like three raqa or two raka before the sun rise after the sunrise which is noon and then afternoon
+[19:29] then then uh evening then night. So that's the five times before sunrise after sunrise afternoon evening night. But there's >> every Muslim does this. >> Every Muslim does that. >> Wow. >> If you miss you cannot you cannot miss
+[19:45] the prayer. I mean they'll be running before the clock before the call the prayer at noon rise up. So they have to pray before the the the time is up in the morning if they overslept they get up and they make it up. Why? Because
+~~~
+
+<a id="section-05"></a>
+## 05. 20:00–24:59 · 祷告、敬拜与现场互动、美国选举与投票
+
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、美国选举与投票展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[20:33](https://www.youtube.com/watch?v=URyAOyKCTdc&t=1233s) · 他描述所见**：today.  So, Friday is the day that I saw that all the Muslims gather and serve the madi when I went to tribulation.  Oh my goodness. And they were all dressed in white and they went to these places. They went on on top. They had the Muslim god on the screen. They call them Madi. And I and I went in in 2014. Every Friday was the day that he required everybody to worship him at once.  Yes, that is the day. And today's Friday. We're doing it right now. They're praying.
+- **[21:52](https://www.youtube.com/watch?v=URyAOyKCTdc&t=1312s) · 他进行祷告**：before they pray on a Friday, now this is Friday. People gather together. They park in Milan. They do this, they do that. And they don't even get tickets. They just park anywhere. Look at New York City. They double park. They triple park. And they just go in the mall. They pray on the sidewalk. Even here some places in Minneapolis. But the message before that every Friday it has not changed. The the the imam will go out and he said death to the Jews, death to America. And Brandon,
+- **[22:55](https://www.youtube.com/watch?v=URyAOyKCTdc&t=1375s) · 本段原话**：Friday, they have a message about killing the Jews and the and us  and they're and they want and and these and the Americans are voting this in right  in our nation and saying we like it because of what they're saying like Mandabi,  right? We are voting and we are living in denial thinking those people going to bring democracy. Thinking this people they're going to bring life. They're going to put more gas in our tank. They're going to give us a free free free. Now these people came from all
+- **[23:45](https://www.youtube.com/watch?v=URyAOyKCTdc&t=1425s) · 本段原话**：my taxes. I did not go and and help here and help there. They come with an agenda. Let's get food stamps. Let's do this. Let's do this. Let's do that. They are taking our economy down. And yet with this Palestine stuff from the river to the sea, our generation, our American kids and sadly to say almost up to 50 years old, 60 years old, 70 years old do not understand the concept of what they are doing. Do not understand what river and what sea. They're just shouting it out. They're just agreeing on something both
+
+### 完整英文 Transcript
+
+~~~text
+[20:01] they overslept for the early morning prayer before sunrise. So they have to make it up when they wake up. They do the one before sunrise and they do the one after sunrise and not to miss the noon and the evening and night. So, >> how long do they last? How long do each
+[20:17] prayer lasts? >> It's okay. It's about maybe five, seven minutes. Now, Friday prayer, what they do, especially here in the state, Friday prayer is the day Friday is the is the holy day of every week. Friday. >> So, they have to Friday
+[20:33] >> today. >> So, Friday is the day that I saw that all the Muslims gather and serve the madi when I went to tribulation. >> Oh my goodness. And they were all dressed in white and they went to these places. They went on on top. They had the Muslim god on the screen. They call
+[20:49] them Madi. And I and I went in in 2014. Every Friday was the day that he required everybody to worship him at once. >> Yes, that is the day. And today's Friday. We're doing it right now. They're praying.
+[21:04] >> Matt >> 131. They're praying right now in all all over the country. It's Friday. Friday afternoon in Texas, in Minnesota, in Chicago, in New York, in in New Jersey, all over. They're praying right now. >> How long do they pray on a Friday? >> The Friday there is a message and then
+[21:21] they pray. They pray like uh they they bow down three times and then they they call which is like you know they have to turn to the right that is the end of the prayer. They call we say goodalamlaykum like hello father
+[21:36] or hello Allahham that with the to the merciful god and then they do the same thing to the left. So they have to start to the right and to the left. That's how they free themselves. That's how the prayer ends. But prior to that they do three and then two. And they have to be washed. And
+[21:52] before they pray on a Friday, now this is Friday. People gather together. They park in Milan. They do this, they do that. And they don't even get tickets. They just park anywhere. Look at New York City. They double park. They triple park. And they just go in the mall. They
+[22:08] pray on the sidewalk. Even here some places in Minneapolis. But the message before that every Friday it has not changed. The the the imam will go out and he said death to the Jews, death to America. And Brandon,
+[22:24] this is right here on our soil. They got the courage to do that at our soil. And we are free. This is a free nation. >> So they're doing that right now to vote somebody like that in in Michigan
+[22:39] >> and all over. Yes, they do. They always have a message about the Jews and the infidel and how to rob them, how to kill them to unless if they unless if they turn around and believe in Allah and be Muslims. >> So, every single time on a on a on a
+[22:55] Friday, they have a message about killing the Jews and the and us >> and they're and they want and and these and the Americans are voting this in right >> in our nation and saying we like it because of what they're saying like Mandabi, >> right? We are voting and we are living
+[23:12] in denial thinking those people going to bring democracy. Thinking this people they're going to bring life. They're going to put more gas in our tank. They're going to give us a free free free. Now these people came from all
+[23:27] over the world to destroy this nation. I mean with all due respect there is a need out there. I get it. There's families they come as a refugee. This nation is the nation of refugee. I am one of them. But guess what? I worked all my life and I did my dues and I paid
+[23:45] my taxes. I did not go and and help here and help there. They come with an agenda. Let's get food stamps. Let's do this. Let's do this. Let's do that. They are taking our economy down. And yet with this Palestine stuff from the river to the sea, our generation, our American kids
+[24:04] and sadly to say almost up to 50 years old, 60 years old, 70 years old do not understand the concept of what they are doing. Do not understand what river and what sea. They're just shouting it out. They're just agreeing on something both
+[24:19] there. Why? Because Oh, they love >> Who are you referring to? Are you talking about the Americans that are protesting? Yeah, I'm referring about the Americans who >> these colleges and these people are saying all this stuff, but they don't actually know what they're talking about. >> They have no clue. They don't know that the person is they're supporting today
+[24:37] if they have 51% of established in this nation, they will have no home. They will have no life. They will be killed because they can. >> So once they get in office, so here we have these people that are established.
+[24:52] their job is to keep uh conquering and occupying. Yeah. But bottom line, once they get that that that that Sharia law in here, it's like what you're saying in in uh the Muslim nations, they kill Christians. They kill the Jews. >> Yeah.
+~~~
+
+<a id="section-06"></a>
+## 06. 25:00–29:59 · 美国选举与投票、战争与国际事务
+
+**Section 内容概述**：本节围绕美国选举与投票、战争与国际事务展开，包含引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[26:28](https://www.youtube.com/watch?v=URyAOyKCTdc&t=1588s) · 本段原话**：her hair. She doesn't cover her face or her neck or any of that. But that is the fear of Islam. So the Quran said if you don't cover, you go to hell. When you die, oh, listen to this story. Well, let me finish that first. But um um it is required to cover. And that's what's happening in Iran. They have to cover. That's what that's when Iran lost their right. I was trying to say for the American people that understand they bring in Sharia law, that's going to start to be required.  Oh, yes.  For all women to start dressing like
+- **[27:47](https://www.youtube.com/watch?v=URyAOyKCTdc&t=1667s) · 本段原话**：Correct? They will come and they'll establish law. Guess what? Even if they come up and say woman can drive. Imagine that. American woman ladies cannot drive under sharat law. If you do anything prior to a marriage, it's their decision to kill you, not the forgiveness of Jesus. I mean you are talking.  So if you have if you have sexual relations outside of marriage then they can kill you for  absolutely they can stone you or kill you or hang you. There is a story in
+- **[28:54](https://www.youtube.com/watch?v=URyAOyKCTdc&t=1734s) · 本段原话**：Muslims. Most of them they are Muslims but they are neutral. They live in a peaceful life in the United States. Here I know so many friends in Minneapolis area. They just want to live peaceful. They want to work. They're hard worker. There is their family. They send them to school. There is a lot of that. It's not like everybody. But when you see, okay, there is something they call the zero hour. And that started back in uh 1993. All the Middle East including Hamas and and andah
+- **[29:26](https://www.youtube.com/watch?v=URyAOyKCTdc&t=1766s) · 他进行祷告**：and uh the Houthis uh behind who's behind it Iran and different nations specifically Iran. They start sending students, Arab students, Muslim, especially the Shia from all over the country, all over the nations to come here to establish. They want to get into the church. They want to get into the school. They want to get into the peace of minds of our kids. Have they succeeded? I don't want to give them the credit. I pray and you pray and we all pray. That will never
+
+### 完整英文 Transcript
+
+~~~text
+[25:08] >> Because they there the Sharia law starts to overtake our law. >> Yeah. Absolutely. >> Our amendments, our all our amendment rights. They want to they want to abolish our amendments. >> They That's the plan. I want to ask you a question about this. You know, we a
+[25:23] lot of them, a lot of these uh far leftists are into women's rights and the women [clears throat] now move, all that stuff. But they they they're voting in the Muslims and they beat the Muslim women for what I understand. And they and they make them wear the head hijabs.
+[25:38] Is that right? The hijab. >> And and if you don't wear that and not just expose your face in public, the punishment is is is severe. Correct. >> The punishment is severe. It depends on Okay. So Sharia is to cover and Saudi Arabia is the same way. Some other Arab
+[25:55] nation. Now the Quran said cover up and they make fun of Christians. They said well uh at least if they go by the example of Mary, Christians will not be uncovered like this. They're talking about like you know wearing a swimming suit or wearing a short or doing this and doing that. Now we could we could
+[26:12] talk about this in another topic. I mean of course we are not to show our body. We are to cover ourselves and stuff like that, but not to the extreme of the way that they are doing it. You know what I mean? I mean like like my wife Aquin, she wear long sleeves, she wear long skirts or jeans, but she doesn't cover
+[26:28] her hair. She doesn't cover her face or her neck or any of that. But that is the fear of Islam. So the Quran said if you don't cover, you go to hell. When you die, oh, listen to this story. Well, let me finish that first. But um um it is
+[26:43] required to cover. And that's what's happening in Iran. They have to cover. That's what that's when Iran lost their right. I was trying to say for the American people that understand they bring in Sharia law, that's going to start to be required. >> Oh, yes. >> For all women to start dressing like
+[26:59] that. >> Yes. They bring in Sharia law. >> And that's why they y'all are ignorant whenever you say, "Well, we're going to vote for this guy in Michigan. We're going to vote for these people and they're going to be better leaders than what we have in America. So, we want them to be leaders here." But you don't know what you're voting for. what you're
+[27:15] voting for. >> So you women that are standing for it, you don't realize the freedoms that you're about to lose in New York, if you keep voting this trash in, instead of having a god-fearing nation and saying, "We want to be Christian. We want to do this." But you said, "No, you know, the
+[27:32] Muslims doing pretty good. We should vote him in." >> Ask the Muslim women how they're treated. >> Absolutely. >> And that's why I'm asking him, it's is that okay to do that? Because bottom line is if you have the Muslim faith, you can't just pick and choose. They make you choose the whole thing.
+[27:47] >> Correct? They will come and they'll establish law. Guess what? Even if they come up and say woman can drive. Imagine that. American woman ladies cannot drive under sharat law. If you do anything
+[28:03] prior to a marriage, it's their decision to kill you, not the forgiveness of Jesus. I mean you are talking. >> So if you have if you have sexual relations outside of marriage then they can kill you for >> absolutely they can stone you or kill you or hang you. There is a story in
+[28:20] Mecca 3 weeks ago or maybe longer. This guy kissed his wife's forehead right here. They went to Mecca together. The government found out about them. They hung them >> for kissing his wife's forehead in
+[28:37] public. Well, I kiss my wife in the lip and on and the lips in public. I mean, we are we are going towards death if we don't wake up. But let me let me be clear also. Not every Muslim is a bad
+[28:54] Muslims. Most of them they are Muslims but they are neutral. They live in a peaceful life in the United States. Here I know so many friends in Minneapolis area. They just want to live peaceful. They want to work. They're hard worker. There is their family. They send them to
+[29:09] school. There is a lot of that. It's not like everybody. But when you see, okay, there is something they call the zero hour. And that started back in uh 1993. All the Middle East including Hamas and and andah
+[29:26] and uh the Houthis uh behind who's behind it Iran and different nations specifically Iran. They start sending students, Arab students, Muslim, especially the Shia from all over the country, all over the nations to come
+[29:41] here to establish. They want to get into the church. They want to get into the school. They want to get into the peace of minds of our kids. Have they succeeded? I don't want to give them the credit. I pray and you pray and we all pray. That will never
+[29:58] happen. Did it start it? Absolutely. Yes. Why? Because you see the riots. You see the Palestinians flags waving all over. I mean, why it's only Palestine that everybody is caring about and the whole Arab nation don't even care about
+~~~
+
+<a id="section-07"></a>
+## 07. 30:00–34:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[31:19](https://www.youtube.com/watch?v=URyAOyKCTdc&t=1879s) · 本段原话**：There's so many Muslims. Why? Because Brandon, you have two kids. They have seven. That's  Wow. There is an agenda and we are not realizing they just keep popping kids, popping kids, popping kids and they send them when they're 90 years old. They send them when they're 10 years old. Some of them they get money for their kids to die for to bomb themselves and kill uh uh a bus full of Jews so they can go to heaven so they can have their 70 virgin uh uh brides in in in heaven.
+- **[33:13](https://www.youtube.com/watch?v=URyAOyKCTdc&t=1993s) · 他进行祷告**：Yeah.  And we know that Joe Biden had opened borders and they flooded the nation back all through Joe Biden's term. And I've seen these cells, the 10 cells in these city uh in these cities. And the Lord keeps warning about these cities. And he keeps telling me, "Pray over these cities for the for for they have a plan." And I keep calling it D-Day. The Lord keeps calling it D-Day. And the and all these major uh for a major event to take place. It's been the hand of the Lord on this nation stopping this.
+- **[33:44](https://www.youtube.com/watch?v=URyAOyKCTdc&t=2024s) · 他进行祷告**：Yes. Yes. It's been it's been it's been the prayer. Now we could delay it but if we if we pause and just take a rest like okay everything is cautious everything is good it's going to happen the delay of it is the prayer now if we all stand in unity we will stop it it will it will go away I'm telling you because everybody that's why Miss B said pray and take your authority take your seat in your state in your city in your town in your home when we pray nothing happened you know that shooting happened
+- **[34:32](https://www.youtube.com/watch?v=URyAOyKCTdc&t=2072s) · 他描述所见**：you about Sister Billy's book, The Authority of the Believer. How to use it.  Look at me.  We have We It's My little girls memorized this book. She's memorizing it because of how important it is to walk in your authority every day and practice it. Now, this sister Billy wrote this and you know this is important and I and I'm I'm not a book pusher. I don't. But I'm going to tell you if I see something that I know that will change your life. Uh that you can walk in the authority of the believer. I I'm telling you this book and it's a cheap you get it off her website for like three bucks.
+
+### 完整英文 Transcript
+
+~~~text
+[30:14] it and they don't >> Yeah, I want to ask that. >> They don't want to even deal with it, Brandon. They're tired of them >> because of >> They're tired of them. >> They're tired of them because of everything they do. When they want to shut them up, they say, "Here, here's more money. Here's more money. Here's more money." Where does the money go to
+[30:31] Hamas and and Hassan which he's dead? Thank God he's dead. Uh which is Hassan which is Hamas. Hamas. And >> so it maybe a lot of these I don't want to call they're pretty ignorant. I mean I don't call them stupid but ignorant
+[30:46] kids that are that are uh the Palestinian and the colleges and everybody doing these protests in America. They're just ignorant because they don't know what they're doing. >> They don't know what they're doing. The Palestinian themselves don't know what they're doing. The kids who was who was born here in this nation, raised as a
+[31:03] Palestinian, uh uh they don't know what they're doing. Their agenda is to keep popping kids popping kids. When somebody say uh uh the the the Muslim population is is is going uh wild, you know, viral.
+[31:19] There's so many Muslims. Why? Because Brandon, you have two kids. They have seven. That's >> Wow. There is an agenda and we are not realizing they just keep popping kids, popping kids, popping kids and they send
+[31:34] them when they're 90 years old. They send them when they're 10 years old. Some of them they get money for their kids to die for to bomb themselves and kill uh uh a bus full of Jews so they can go to heaven so they can have their 70 virgin uh uh brides in in in heaven.
+[31:53] It just the religion is so demonic they cannot demonic >> see the truth. Now if you ask a Muslim right now if you have a Muslim neighbor or if you know of any Muslim say hey or let's say you're asking me 16 years ago
+[32:10] you say hey Max if you die today will you go to heaven or hell you know what my answer will be >> what >> I don't know I hope that I will be going to heaven they don't know there is >> so how do you know
+[32:25] >> you won't know >> you never know >> you will never know it's not like you and I >> so even if you blow yourself up. You don't know >> if you blow yourself up. No, that's assertain. They know. That's why they do it. But that's what the Quran teaches. >> So, so if you if you commit suicide
+[32:41] bombings and you do that, you're assured to go to heaven at that time. >> Absolutely. Because you kill the infidel and they call that jihadi. That's why jihad in the name of Allah to accomplish to serve Allah and die for him. Now, why
+[32:57] I want to die for Allah where I have a God who died for me. >> So, you can see the hand of the Lord just right there in America that we haven't had more bombings than we have. >> Oh, yeah. >> Because we because if you're assured of it of doing that here.
+[33:13] >> Yeah. >> And we know that Joe Biden had opened borders and they flooded the nation back all through Joe Biden's term. And I've seen these cells, the 10 cells in these city uh in these cities. And the Lord keeps warning about these cities. And he
+[33:28] keeps telling me, "Pray over these cities for the for for they have a plan." And I keep calling it D-Day. The Lord keeps calling it D-Day. And the and all these major uh for a major event to take place. It's been the hand of the Lord on this nation stopping this.
+[33:44] >> Yes. Yes. It's been it's been it's been the prayer. Now we could delay it but if we if we pause and just take a rest like okay everything is cautious everything is good it's going to happen the delay of it is the prayer now if we all stand
+[34:00] in unity we will stop it it will it will go away I'm telling you because everybody that's why Miss B said pray and take your authority take your seat in your state in your city in your town in your home when we pray nothing happened you know that shooting happened
+[34:15] in Minneapolis the other Okay, Kun and I K and I didn't even pray that morning. We just didn't. We slept today and boom. I'm not blaming myself. >> We cannot afford to slip any. >> You cannot You just can't. You have to pray. >> You have got to take your authority every day. And that's why I always tell
+[34:32] you about Sister Billy's book, The Authority of the Believer. How to use it. >> Look at me. >> We have We It's My little girls memorized this book. She's memorizing it because of how important it is to walk in your authority every day and practice it. Now, this sister Billy wrote this
+[34:49] and you know this is important and I and I'm I'm not a book pusher. I don't. But I'm going to tell you if I see something that I know that will change your life. Uh that you can walk in the authority of the believer. I I'm telling you this book and it's a cheap you get it off her website for like three bucks.
+~~~
+
+<a id="section-08"></a>
+## 08. 35:00–39:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含个人判断、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[35:04](https://www.youtube.com/watch?v=URyAOyKCTdc&t=2104s) · 他进行祷告**：Yeah. That's about  But I'm telling you getting that word down inside of your heart and knowing who you are like Max's talking about. This is what's stopping it. I truly believe our prayer channel here on on YouTube is raising up men and women to pray over your nations, over the nations of the world, but over each state and each of us praying into it like we did at the tent meeting. Yeah.  And we had praying over our states to win the election. Amen. You don't realize the power and the authority of the believer. That's why I try to tell everybody every single day, we got to pray. We You Brandon, you pray too long.
+- **[37:14](https://www.youtube.com/watch?v=URyAOyKCTdc&t=2234s) · 他进行祷告**：everything and no one come to the father except through me. Now Muslims living in a terrified life. They need prayer. They need revelation. Even when they die, they believe that when they go to that grave that there will be questions in the grave. Seven questions. Who is your God? What book you believe in? Um why didn't you pray on a Friday? Why didn't you fast Ramadan? Why didn't you go to Mecca? Why didn't you give 2.5% of your of your um income? Why did you uh
+- **[38:37](https://www.youtube.com/watch?v=URyAOyKCTdc&t=2317s) · 他表达判断**：they'll vote for a Muslim in in in the next couple weeks.  Yeah. Yeah,  I'm telling you, we're going to have believing we'll have believers. I won't call them believing believers. I'll call them uh lukewarm maybe co-believers that were Christians at one time that just go right TO THE POLL. YOU KNOW WHAT? I THINK he might be a good leader and vote for the Muslim.  Yeah.  And you don't even realize what you're doing to damn our nation. It's trying to take it down the wrong road immediately by doing this stuff. And that's why I I I brought him on here today because I
+- **[39:40](https://www.youtube.com/watch?v=URyAOyKCTdc&t=2380s) · 本段原话**：if we don't get these elections and start even in 2028, this election in the next couple weeks and take this time to vote seriously. We must rise up as believing believers and use our authority in and what Sister Billy teaches us and teach teach our people that we are not we are not under the devil's foot. He's under our foot. under our feet  by and the we can take authority over Sharia law. It's a spirit.  It is.  That's what you That's what he's trying to tell you. Allah and all that is a
+
+### 完整英文 Transcript
+
+~~~text
+[35:04] >> Yeah. That's about >> But I'm telling you getting that word down inside of your heart and knowing who you are like Max's talking about. This is what's stopping it. I truly believe our prayer channel here on on YouTube is raising up men and women to pray over your nations, over the nations
+[35:20] of the world, but over each state and each of us praying into it like we did at the tent meeting. Yeah. >> And we had praying over our states to win the election. Amen. You don't realize the power and the authority of the believer. That's why I try to tell everybody every single day, we got to pray. We You Brandon, you pray too long.
+[35:37] I get told all the time, "How come you doing hours? If if a Muslim can pray five times a day and be dedicated to a false god, how much more should you be radical to the JESUS THAT SAVED, DIED for you, rose again on the third day, and is making intercession for you right
+[35:53] now at the at the hand of the father?" Amen. He loves you and he has a plan for your life. But we're too lazy and get off our blessed assurance to get out there and become radical like these Muslim people saying, "Hey, Max is trying to tell you something. If you vote for a Muslim this this uh election
+[36:10] cycle and you're a Christian, shame on you. >> It's that's it. >> That's it. >> That's it, Brandon. >> Shame on you if you vote for a Muslim this election cycle. >> We are to be awakened and we are to pray and do the right thing. follow the word
+[36:25] of God and we are not to let this nation that I love so much that it give me the opportunity of life. I got saved here. I have five beautiful kids and three beautiful grandkids, a beautiful ministry. God is working in a mighty way
+[36:42] in it and I am not about to let it be destroyed. So we are to move. The church need to move. The pastors cannot run neutral in their church. They are to tell the wrong wrong and the right is
+[36:57] right and walk it in love and speak it on love. But we are to speak the truth. The truth will set us free. There is no condemnation. Absolutely. Jesus told us in the book of John, I am the way, the truth, the life. What's left? He is
+[37:14] everything and no one come to the father except through me. Now Muslims living in a terrified life. They need prayer. They need revelation. Even when they die, they believe that when they go to that grave that there will be questions in the grave. Seven questions. Who is your
+[37:31] God? What book you believe in? Um why didn't you pray on a Friday? Why didn't you fast Ramadan? Why didn't you go to Mecca? Why didn't you give 2.5% of your of your um income? Why did you uh
+[37:47] uh let the the the uh what do you call it? Um the infidel uh walk away. If you didn't do any of these things, the grave will close on you and break your shoulder and the snakes will come from between your legs and the big snake will
+[38:03] come and bite your head and then your your grave will be a pet fire of hell until the day of return. Yes, Brandon. >> That's what they tell all their people. >> Yes, Brandon. That's what they know. That's what I was taught. It's in the word of Allah, Brandon.
+[38:21] Oh my goodness. You got me going. >> But see, we But but see, that's what the people perish for a lack of knowledge, Max. And that's why I think it's interesting when you have somebody on there that lived it for as long as you did. And here we have we have we have believers that are, you know, well,
+[38:37] they'll vote for a Muslim in in in the next couple weeks. >> Yeah. Yeah, >> I'm telling you, we're going to have believing we'll have believers. I won't call them believing believers. I'll call them uh lukewarm maybe co-believers that were Christians at one time that just go
+[38:52] right TO THE POLL. YOU KNOW WHAT? I THINK he might be a good leader and vote for the Muslim. >> Yeah. >> And you don't even realize what you're doing to damn our nation. It's trying to take it down the wrong road immediately by doing this stuff. And that's why I I I brought him on here today because I
+[39:09] have such an urgency in my spirit >> because of what the Lord has warned me about these cells of these terrorists in our nation that they we keep blocking by prayer and fasting and seeking the Lord because my the Bible says if my people WHO ARE CALLED BY MY name will humble
+[39:25] themselves and pray and turn from their wicked ways. >> Amen. >> Then he said we will hear from heaven. He will heal our land. >> Amen. >> And I truly believe that's where we are. We are at the midnight hour. >> Yes, we are. >> Concerning America. >> We're in the last minute about them. We're in the last minute about
+[39:40] >> if we don't get these elections and start even in 2028, this election in the next couple weeks and take this time to vote seriously. We must rise up as believing believers and use our authority in and what Sister Billy
+[39:55] teaches us and teach teach our people that we are not we are not under the devil's foot. He's under our foot. under our feet >> by and the we can take authority over Sharia law. It's a spirit. >> It is. >> That's what you That's what he's trying to tell you. Allah and all that is a
+~~~
+
+<a id="section-09"></a>
+## 09. 40:00–44:59 · 教会、复兴与信仰、祷告、敬拜与现场互动
+
+**Section 内容概述**：本节围绕教会、复兴与信仰、祷告、敬拜与现场互动展开，包含异象或所见、引用或评论、祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[40:57](https://www.youtube.com/watch?v=URyAOyKCTdc&t=2457s) · 本段原话**：Monday through Friday. They work. They they they they're raising their family, but they're in the rat race of they're on the the hamster wheel. And they don't even realize what what Jesus paid for for you to walk in victory. Amen.  And what our founding fathers did for us to have a free country. They died for us to have a free country. from George Washington to the troop, all of it. Look what they sacrificed when the pilgrims came and they made the covenant at Plymouth Rock and they did all they did a and they they established a covenant
+- **[41:46](https://www.youtube.com/watch?v=URyAOyKCTdc&t=2506s) · 他描述所见**：for Jesus, not for the Muslim faith. And if we don't, I'm telling you, we're going to lose our nation.  Amen. Amen.  That's why it's so important for us to keep the Senate and the House, Matt.  Yeah.  And people go, that's why I've seen when the Lord said we're at that that point where I see the six seats. That's why he said contend for him. We prayed so hard
+- **[43:08](https://www.youtube.com/watch?v=URyAOyKCTdc&t=2588s) · 本段原话**：ship around. And it's time to turn that ship around.  Yes.  In a prayer  and in our mind and understanding.  Take your authority. We did we did actually this book in Arabic too. We translate this book to an Arabic. We send it to Lebanon. We Yes. We given it in Jordan in Arabic.  The authority of the believer. Cool, man.  Yeah. It's a little bigger, but it's in Arabic. Why? Because  yeah, but that's neat  because the church in Jordan need to stand with us. That's the unity. And I
+- **[44:30](https://www.youtube.com/watch?v=URyAOyKCTdc&t=2670s) · 本段原话**：you believe what you need, it'll come to pass.  If we realize how much Jesus loves us, and that's why I was thinking whenever these people have no no love from their Allah that because it's false. He's dead. He doesn't exist. It's a devil. But they were willing to die for the cause of what they believe out of deception. But you that have been made new, a new creation, created in Christ Jesus, you have that love. You feel Jesus every single day. What's cool about Max that he's he never talks about is Max gets dreams and visions from the
+
+### 完整英文 Transcript
+
+~~~text
+[40:12] demonic spirit. It's the devil. >> It's the devil. >> And so when as believers, we wrestle not against flesh and blood, but against principalities and powers and spiritual wickedness, high places. Amen. We we we have authority over that because as he is, so are we in this world, Max. Ain't that right?
+[40:27] >> Oh, absolutely. You're absolutely right on. And if we don't do that, if we don't do that as believers, we're held accountable for this in the spirit realm. Yes, we are. If they're that radical, >> yes, we are >> about being in a coffin and they got snakes coming up because all of they're
+[40:42] afraid of all of that bad. >> Jesus is a good Jesus and he loves you. And he's up there saying, "Listen, if you just use the authority that I gave you, you can you can tread on all this." But most people just go to sleep at night. They wake up. They go through
+[40:57] Monday through Friday. They work. They they they they're raising their family, but they're in the rat race of they're on the the hamster wheel. And they don't even realize what what Jesus paid for for you to walk in victory. Amen. >> And what our founding fathers did for us
+[41:13] to have a free country. They died for us to have a free country. from George Washington to the troop, all of it. Look what they sacrificed when the pilgrims came and they made the covenant at Plymouth Rock and they did all they did a and they they established a covenant
+[41:29] with the father saying we want a nation free for for a god-fearing nation to be to worship Jesus. But the Muslims say now no, it's our turn. And I'm saying I'm trying to tell you as we see these leaders rise up, we must vote. We must vote on our ballot what stands for for
+[41:46] for Jesus, not for the Muslim faith. And if we don't, I'm telling you, we're going to lose our nation. >> Amen. Amen. >> That's why it's so important for us to keep the Senate and the House, Matt. >> Yeah. >> And people go, that's why I've seen when the Lord said we're at that that point where I see the six seats. That's why he said contend for him. We prayed so hard
+[42:02] at the tent meeting. Yes. And I'm telling you all it we still have time to pray here. We do. >> We just have a couple more week about a week and a half left. But but I'm telling you, the windows closing. And I believe even with just the time we have as King Hezekiah turned his face to the
+[42:19] wall and repented instantaneously. God gave him more time. >> Yeah. >> You can either stand with the little bit of time you've been given on this right now. I go, "Oh, no. It's already too late." No, it's never too late. It's never too late. >> God can turn it on a dime. >> Amen. Amen. I look at it this way. I
+[42:37] wanted my grandkids to stop on the corner waiting for the school bus. Brandon, >> we are not going deeper in our thinking. We are not going deeper in our lifestyle the way that we are. We have been free now. You can't do that in Osborne,
+[42:53] Michigan. You can't do that in downtown Minneapolis. You can't do that in North Minneapolis. You can't do it in Chicago. The America that we used to know, the America that I came to is changing. But we can turn it around. We can turn that
+[43:08] ship around. And it's time to turn that ship around. >> Yes. >> In a prayer >> and in our mind and understanding. >> Take your authority. We did we did actually this book in Arabic too. We translate this book to an Arabic. We
+[43:24] send it to Lebanon. We Yes. We given it in Jordan in Arabic. >> The authority of the believer. Cool, man. >> Yeah. It's a little bigger, but it's in Arabic. Why? Because >> yeah, but that's neat >> because the church in Jordan need to stand with us. That's the unity. And I
+[43:42] mean, we we're doing as much as we can. So, we need the body to stand together, the pastors to stand together, the families stand together, all your viewers that to go out, our Yeshua's ministry, Billy Brand ministry, our partners, our followers, they need to
+[43:59] speak the word of God. They need to go out and not not to be in shame or in fear. I mean, look at me. I'm a former Muslim. I'm the last one who can even be on a TV channel and speaking or on a puppet in a church and speaking or live
+[44:14] on YouTube or on a website. But I am doing it. God is a protecting us, folks. We are to believe back. >> We are to believe it. Believe what you're believing for. I've been saying this. Believe what you believing for. That simple.
+[44:30] you believe what you need, it'll come to pass. >> If we realize how much Jesus loves us, and that's why I was thinking whenever these people have no no love from their Allah that because it's false. He's dead. He doesn't exist. It's a devil. But they were willing to die for the
+[44:46] cause of what they believe out of deception. But you that have been made new, a new creation, created in Christ Jesus, you have that love. You feel Jesus every single day. What's cool about Max that he's he never talks about is Max gets dreams and visions from the
+~~~
+
+<a id="section-10"></a>
+## 10. 45:00–49:59 · 祷告、敬拜与现场互动、美国选举与投票
+
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、美国选举与投票展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[45:35](https://www.youtube.com/watch?v=URyAOyKCTdc&t=2735s) · 本段原话**：what God is doing with this man. He's very modest, but I'm telling you, he has a mighty call on his life and he's going to help the nations in the days ahead even more. And there's a covering over him in prayer and over his family. And I'm just so It was such an honor to have you on today, Max. I'm so glad you were
+- **[46:41](https://www.youtube.com/watch?v=URyAOyKCTdc&t=2801s) · 本段原话**：this is very very very very serious. Their plan is to go into colleges deeper. Their plan is to have over 550 mosque in every city. [clears throat] Now imagine that right now we have 129 in Minneapolis. They they they're buying land in Texas. They're buying land in California. They're building mosques. And they are using our tax dollar under the nonprofit. And we are allowing these things to happen.  Do you do you feel they're planning something here in America, Max?
+- **[48:00](https://www.youtube.com/watch?v=URyAOyKCTdc&t=2880s) · 本段原话**：Yes.  And that need to be that also need to be stopped. Not delay. I know we've been delaying it  and because of the prayer, but we we need to stop it. What I'm sensing in the spirit, the heaviness here is very much this nation if we move on another two years. I'm not saying tomorrow, but there is something going to happen in the next two weeks and that's something to do with the midterm election and I'm going overseas and the Lord wants me to go. It was just shooting in Jordan. That's where I'm going. It never happened before. The devil is so
+- **[49:10](https://www.youtube.com/watch?v=URyAOyKCTdc&t=2950s) · 他进行祷告**：prayed and we decided to name those prayer places upper room. So we start with one and then we added another one. So we start saying okay upper room one, upper room two and now we're working on upper room three. So that's where the upper room name came. So it's a places to to gather to worship to pray to worship the Lord to get all  and this is in a Muslim  in a Muslim nation in Jordan there's 3% Christian  Congratulations  Brandon there's three 3% of Christians in Jordan that's nothing that's like
+
+### 完整英文 Transcript
+
+~~~text
+[45:03] Lord and sees the future and sees things about things that nobody knows about that is very very private about uh uh uh all kinds of activities with terrorists all kinds of cool stuff. But Max is very quiet. >> But I'm telling you, Max has a gift and
+[45:18] he sees these things and and and uh he knows what's coming. Max sees it. He knows how to pray and he talk and Jesus visits him and stuff and and I'm telling you all it's amazing. It's amazing to see this man I and hearing the stuff that I've heard from sister Billy and
+[45:35] what God is doing with this man. He's very modest, but I'm telling you, he has a mighty call on his life and he's going to help the nations in the days ahead even more. And there's a covering over him in prayer and over his family. And I'm just so It was such an honor to have you on today, Max. I'm so glad you were
+[45:52] able to come on. I know I caught you before you had to take a trip and I and I wanted to get it cuz I said this is so important because the people realize how they're voting and what they're voting for for Sharia law. If you don't realize you're that's why I said don't be
+[46:07] ignorant. >> Don't be deceived by the devil's traps. And you go, well, I'm going to go out and vote because he sounds good because of what he's saying. You don't realize what poison you're voting for, ladies and gentlemen. And it's so important you vote for for righteousness. You vote for the for for the Constitution of the
+[46:24] United States of America. You vote for the Bill of Rights. You vote for things and you go, "We don't want socialism in this country. >> You don't. You don't. Oh my goodness. You do not need social. You need the police. You need the law enforcements. You need you need the government. You need We still have rights here. Folks,
+[46:41] this is very very very very serious. Their plan is to go into colleges deeper. Their plan is to have over 550 mosque in every city. [clears throat] Now imagine that right now we have 129 in Minneapolis. They they they're buying
+[46:57] land in Texas. They're buying land in California. They're building mosques. And they are using our tax dollar under the nonprofit. And we are allowing these things to happen. >> Do you do you feel they're planning something here in America, Max?
+[47:13] >> Oh yes, Brandon. They are planning taking over this whole entire nation. >> No, I'm talking about do you feel in your spirit? Do you feel that they're >> planning something more than just taking over like some kind of major event, a black swan event, some kind of something
+[47:28] in your spirit? Do you feel something in your spirit like to pray about it? Yeah. >> I feel like this election, mid-election and even the number one is the life of our president. You know, >> pray for our president. >> Pray for pray for the president. Number
+[47:45] two, pray for everything that they are planning to do. It will it will be uh scattered and it will not come to pass. >> Uh you you talked to me and we talked about that that other uh disease that they're planning doing.
+[48:00] >> Yes. >> And that need to be that also need to be stopped. Not delay. I know we've been delaying it >> and because of the prayer, but we we need to stop it. What I'm sensing in the spirit, the heaviness here is very much this nation if we move on another two
+[48:18] years. I'm not saying tomorrow, but there is something going to happen in the next two weeks and that's something to do with the midterm election and I'm going overseas and the Lord wants me to go. It was just shooting in Jordan. That's where I'm going. It never happened before. The devil is so
+[48:35] disturbed after the body of Christ. And that's what's happening because we got to Karak where that church at. We K Quinn and I got to Karak and we have missionaries right there and I'm going and we adding another uh uh upper room uh in Jordan.
+[48:53] We adding another healing center in Jordan. >> What? Explain that. So what is the upper room? Is this a place of prayer? >> The upper room is a place of prayer. The name came because we have the upper room. You know the upper room in the word of God in the Bible. you know upper room in Jerusalem. So Ken and I uh we
+[49:10] prayed and we decided to name those prayer places upper room. So we start with one and then we added another one. So we start saying okay upper room one, upper room two and now we're working on upper room three. So that's where the upper room name came. So it's a places
+[49:26] to to gather to worship to pray to worship the Lord to get all >> and this is in a Muslim >> in a Muslim nation in Jordan there's 3% Christian >> Congratulations >> Brandon there's three 3% of Christians in Jordan that's nothing that's like
+[49:44] having one in a bus of 100 or three in a bus of 100 or three in a in a in a plane ride. So 97. >> So they're all So that So they're all unreached. >> They're all unreached. They're all unreached. So the Lord is really But
+~~~
+
+<a id="section-11"></a>
+## 11. 50:00–53:59 · 祷告、敬拜与现场互动、教会、复兴与信仰
+
+**Section 内容概述**：本节围绕祷告、敬拜与现场互动、教会、复兴与信仰展开，包含祷告及宗教表达。下列要点选自这一时段的连续原话，并附可回听的时间戳；仅代表讲话内容，尚未核验事实。
+
+### Key Points / 关键要点
+
+- **[50:00](https://www.youtube.com/watch?v=URyAOyKCTdc&t=3000s) · 本段原话**：it's happening and it's changing. It's happening and it's changing. So God is working. We have a ministry in Jordan. We have a cafe in Jordan that we um uh right in downtown heart of downtown. It's called it's called Anajak Cafe. But there's a there's a little logo says Y LH. So Yeshua love heals. And people ask for that. We say Yeshua love heals. When we give food boxes, last year we gave over 4,500 food boxes and we put on it
+- **[51:04](https://www.youtube.com/watch?v=URyAOyKCTdc&t=3064s) · 本段原话**：and if we don't vote even in this one, well, it's not important. My vote voice is not important. No, you're every vote counts. Every vote is important and we must rise up and vote and vote for the right candidate. Do not vote Muslim. Do not do it.  I I I'm telling you, we do not want to lose our our nation because of this. This is this is this is such a pivotal hour. So, I just want to say thank you for coming on today, Max, and telling the people. And it's exciting to hear
+- **[52:07](https://www.youtube.com/watch?v=URyAOyKCTdc&t=3127s) · 本段原话**：in henry slo loveheels.com that's or.org or you go to our website, you'll see our YouTube, our Instagram, our Facebook. And you know what? I'm going to give you a number. If you want to call, you have a question. We have a ministry number. Where is it at? Uh right here. 763 910 3203. So that is Yeshua V. And we are located in downtown Minneapolis. Um,  so if you're in the Minneapolis, Min Minnesota area and you're looking for a
+- **[53:44](https://www.youtube.com/watch?v=URyAOyKCTdc&t=3224s) · 他进行祷告**：When you're done watching all of it, sit down and pray and share it. Let the American people know what they're up against. Praise the Lord.  Yes.  Yeah. Praise the Lord. All right. Well, God bless you all. We'll see you here in a little bit. I'll be praying with you after this. And so, I wanted you to uh uh see this. I felt an urgency to warn you. God bless y'all. Love you. Amen.
+
+### 完整英文 Transcript
+
+~~~text
+[50:00] it's happening and it's changing. It's happening and it's changing. So God is working. We have a ministry in Jordan. We have a cafe in Jordan that we um uh right in downtown heart of downtown. It's called it's called Anajak Cafe. But
+[50:15] there's a there's a little logo says Y LH. So Yeshua love heals. And people ask for that. We say Yeshua love heals. When we give food boxes, last year we gave over 4,500 food boxes and we put on it
+[50:30] Yeshua love heals. This is for the love of the God. It's not like say Allah. No, no, no. I refuse to put the word Allah in Jordan in Arabic or in English. We don't use it. We use arab or God. That's it. Because we serving our God. And
+[50:47] we've been going bold out there. I've been going bold. Quinn is going bold. >> Be with urgency, folks. Yeah. You this when I hear him talk this way, it should stir you >> the urgency of the hour of where we are for America. We are at the midnight hour
+[51:04] and if we don't vote even in this one, well, it's not important. My vote voice is not important. No, you're every vote counts. Every vote is important and we must rise up and vote and vote for the right candidate. Do not vote Muslim. Do
+[51:19] not do it. >> I I I'm telling you, we do not want to lose our our nation because of this. This is this is this is such a pivotal hour. So, I just want to say thank you for coming on today, Max, and telling the people. And it's exciting to hear
+[51:34] your testimony and everything and telling everybody. This is Max. If How can they find you, Max? Your church? Our church is called Yeshua Love Heels and it's in downtown Minneapolis, 62712 Avenue South. Uh we have uh Facebook and
+[51:51] we have YouTube and we have uh Instagram and we have >> What's your YouTube? What's your YouTube? >> So Yeshua is spelled the name of Jesus in Arabic. So it's um uh yes s u a h as
+[52:07] in henry slo loveheels.com that's or.org or you go to our website, you'll see our YouTube, our Instagram, our Facebook. And you know what? I'm going to give you a number. If you want to call, you have a question. We have a ministry number. Where is it at? Uh
+[52:24] right here. 763 910 3203. So that is Yeshua V. And we are located in downtown Minneapolis. Um, >> so if you're in the Minneapolis, Min Minnesota area and you're looking for a
+[52:41] a good church, I'm telling you, Max here, he he is uh he will help you and and teach you about the authority of the believer. You know, I'm encouraging you to support people like this. You've got his ministry here in Minnesota. And uh, Sister Billy loves him.
+[52:58] >> And uh, we love you, Max. I'm so excited. We love your wife. We love your family. We pray for you. I pray for your safety. >> Thank you. Thank you. And so for going to Jordan and all these places you go to, he's not afraid. He realizes that who he who he is, he takes his authority
+[53:13] and uh we continue to pray for protection and for favor that he would walk in extreme favor as he goes and that doors would be open that he'll realize that every door that it' be so big he'll go look at what God has done. And we'll hear about the testimony. >> Amen. Amen.
+[53:29] >> So but so thank you for being here today Max. >> Thank you, Brandon. Thank you so much. We love you. I love you, Quinn. And I love you and love your family. And I just want to thank all the viewers that you took the time to watch all of it. And you know what?
+[53:44] >> When you're done watching all of it, sit down and pray and share it. Let the American people know what they're up against. Praise the Lord. >> Yes. >> Yeah. Praise the Lord. All right. Well, God bless you all. We'll see you here in a little bit. I'll be praying with you
+[53:59] after this. And so, I wanted you to uh uh see this. I felt an urgency to warn you. God bless y'all. Love you. Amen.
+~~~

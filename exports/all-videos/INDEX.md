@@ -1,11 +1,13 @@
 # Brandon Biggs · 全部视频分章节 Transcript
 
-共 **613** 条独立视频；明确 speaking-in-tongues 省略标记 138 处。
+共 **615** 条独立视频；明确 speaking-in-tongues 省略标记 138 处。
 
 每条视频均有全片概述、各章节内容概述和带原视频时间戳的 Key Points。概要由规则生成，关键要点从原文提取，未作人工深度语义审核，也未核验具体预言。
 
 | 上传日期 | 视频 / 完整 Transcript | 章节数 |
 |---|---|---:|
+| 2026-11-02 | [Come pray with me](W7v5YD2SAn8.md) | 12 |
+| 2026-10-31 | [Palestinian muslim gets born again - explains what is sharia law](URyAOyKCTdc.md) | 11 |
 | 2026-10-30 | [Come pray with me](dM8vVcze5rQ.md) | 12 |
 | 2026-10-28 | [Come pray with me](T9dDUnA0zAs.md) | 12 |
 | 2026-10-26 | [The Lord warned us](Ky6niO0B4po.md) | 5 |
