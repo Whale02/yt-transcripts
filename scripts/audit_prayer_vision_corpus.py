@@ -5,6 +5,7 @@ Evidence discovery only: patterns select candidates for human verification. Coun
 mentions / recordings, never probabilities of future events or prayer efficacy.
 """
 from collections import Counter
+from bisect import bisect_left, bisect_right
 from pathlib import Path
 import csv, json, re
 
@@ -35,8 +36,10 @@ def read_dates():
             if m:dates[m[2]]=m[1]
     return dates
 
-def context(segments, at, radius=75):
-    return ' '.join(x[1] for x in segments if abs(x[0]-at)<=radius)
+def context(segments, times, at, radius=75):
+    lo=bisect_left(times,at-radius)
+    hi=bisect_right(times,at+radius)
+    return ' '.join(x[1] for x in segments[lo:hi])
 
 # These are ONLY keyword retrieval gates, not automatically adjudicated truth labels.
 prayer_change = {
@@ -69,15 +72,18 @@ midterm=[]
 prayer=[]
 for obj in byid.values():
     id=obj['id']; segments=obj['segments'];date=dates.get(id)
+    times=[x[0] for x in segments]
     for t,line in segments:
         if re.search(r'\bsenate\b',line,re.I) and (date is None or date>='2025-01-01'):
-            c=context(segments,t,65)
+            c=context(segments,times,t,65)
             senator=re.search(r'(?:lose|lost|losing).{0,35}senate|senate.{0,55}(?:flips? blue|flipped blue|going blue|go blue|blue|lose|lost)|senate.{0,35}to (?:the )?democrat',c,re.I)
             house=re.search(r'(?:keep|win|winning|maintain|retain|holding).{0,35}house|house.{0,55}(?:red|republican|keep|win|maintain|retain)',c,re.I)
             if senator and house:
                 midterm.append(dict(id=id,date=date,at=t,url=f'https://www.youtube.com/watch?v={id}&t={t}s',snippet=c[:900],label='candidate_R_House_D_Senate'))
+        if not re.search(r'pray|intercess|avert|stopp|prevent|chang|shift|delay|held|missed|wrong',line,re.I):
+            continue
         for name,pat in prayer_change.items():
-            s=context(segments,t,16)
+            s=context(segments,times,t,16)
             if pat.search(s):
                 prayer.append(dict(category=name,id=id,date=date,at=t,url=f'https://www.youtube.com/watch?v={id}&t={t}s',excerpt=s[:720]))
 # De-dupe overlapping hits in 90-second neighborhoods within each video.
