@@ -1,0 +1,79 @@
+# Brandon Biggs: 2026 midterm visions, repeated claims, prayer counterfactuals
+**Audit date:** 2026-11-02 (US Pacific), BEFORE 2026-11-03 election  
+**Status:** pre-election source review; no US midterm outcomes assessed.  
+**Scope:** Source-grounded examination of original recordings, not theological endorsement or claim of supernatural cause.
+
+## Bottom line
+- Earliest **directly checked** original recording: **Jan 8, 2026** (Senate flips Democratic, House stays Republican). On Jan 8 he **asserted** he had originally seen it in Aug 2025; the allegedly earlier original tape has NOT been independently located here.
+- At least **eleven distinct publication dates** with statements about Democratic Senate / Republican House can be found in the corpus (Jan 8, Jan 10, Feb 24, Jun 10, Aug 9, Sep 24, Oct 4, Oct 10, Oct 19, Oct 24, Nov 1). This counts **public retellings**, NOT eleven independent first-time visions. Other overlapping recordings Sept 11, Sept 19, Sept 27, Oct 26 and Oct 30 were checked too.
+- The **two-chamber direction** (D Senate/R House) dominates his direct claims. The **seat numbers** and what he says can be reversed through prayer vary. On Apr 7 he describes an **alternate conditional scenario** where the Republicans could keep the Senate by one and House by >20. On Nov 1 he raises AOC as *hypothetical* House speaker even while retaining the directly stated Republican House image. Therefore the historical record includes alternative conditional/interpretive branches.
+- Never upgrade an ordinary prayer into a definitive prediction; never upgrade an unverified counterfactual disaster into a demonstrated successful prayer.
+
+## Original chronology with exact timestamps
+
+| Date (video upload, UTC) | Source | What he reported | Evidence class |
+|---|---|---|---|
+| 2026-01-08 | [Lf38vkQwpgE 15:08–15:55](https://www.youtube.com/watch?v=Lf38vkQwpgE&t=908s) | "The House in the vision remained underneath Republican control. But, the Senate flipped blue." Claimed he had originally seen this "last August" (2025); calls for prayer to preserve both chambers. | **Explicit vision** + earlier origin *self-report* |
+| 2026-01-10 | [n8ZEQ9_9iMk 41:00–41:44](https://www.youtube.com/watch?v=n8ZEQ9_9iMk&t=2460s) | Says Republicans narrowly hold House, lose Senate "by a lot" in the vision; says "If you pray, you can turn this around." | Vision + **explicit prior conditionality**, already in January |
+| 2026-02-24 | [Ux9iGMe2HSo 23:04–23:27](https://www.youtube.com/watch?v=Ux9iGMe2HSo&t=1384s) | House holds narrowly, Senate goes blue; reminds audience to pray. | Vision repeated |
+| 2026-04-07 | [zaCMLnzdWHQ 29:37–30:12](https://www.youtube.com/watch?v=zaCMLnzdWHQ&t=1777s) | "The Lord said, 'You can win the Senate.' I saw by one." It is described as a prayer-target path for Republicans to hold Senate by one seat; also sees House "more than 20" seats. | **Conditional alternative**, NOT unambiguous unconditional replacement |
+| 2026-06-10 | [KvS6uzzLK6c 06:19–06:45](https://www.youtube.com/watch?v=KvS6uzzLK6c&t=379s) | "I saw us losing the Senate by three seats" and keeping House; continues praying. | Direct vision with numerical detail |
+| 2026-08-09 | [0ptC-1kOXpQ 10:02–10:39](https://www.youtube.com/watch?v=0ptC-1kOXpQ&t=602s) | Again Senate loss, House narrow hold, "I've seen countless times." | Repetition; frequency claimed, **not numerically independently measured** |
+| 2026-09-11 | [YyzigAtJGmI 35:03–35:45](https://www.youtube.com/watch?v=YyzigAtJGmI&t=2103s) | Plays/quotes earlier word said to date to 2026-04-22: Senate loss ~3, House win. Original Apr22 upload not yet independently anchored. Also explicitly admits a separate $2,500 vs $5,000 forecast mismatch. | Retelling; purported old date |
+| 2026-09-24 | [fJaFVTprsY4 26:46–27:16](https://www.youtube.com/watch?v=fJaFVTprsY4&t=1606s) | Repeated House hold/Senate loss; first 3 then 4 then 5 seats flipped, prays "Lord flip it back red." | Repetition + shifting number |
+| 2026-09-27 | [w6JrAh-8hRk 39:48–44:05](https://www.youtube.com/watch?v=w6JrAh-8hRk&t=2388s) | Refers to six-seat flip, "two over" requirement, own uncertain arithmetic. | Numbered vision; **do not conflate seats gained with margin of majority** |
+| 2026-10-04 | [_-xw0zdzaBA 26:28–26:49](https://www.youtube.com/watch?v=_-xw0zdzaBA&t=1588s) | "We will win the House ... lose the Senate ... majority by two ... If I'm wrong, I'm wrong." | Direct strong forecast and an **explicit self-falsification promise** |
+| 2026-10-10 | [ADNZVvpzezE 22:05–22:27](https://www.youtube.com/watch?v=ADNZVvpzezE&t=1325s) | House red, Senate "barely" blue. | Direct retelling |
+| 2026-10-19 | [8tld__TCzII 54:42–55:07](https://www.youtube.com/watch?v=8tld__TCzII&t=3282s) | "We keep the house but we lose the senate. I'm still seeing this"; red wall/blue tsunami with Senate "splashover". | Vision + prayer metaphor |
+| 2026-10-24 | [EBe2jcNzMio 91:33–92:15](https://www.youtube.com/watch?v=EBe2jcNzMio&t=5493s) | Sees narrow R House and D Senate, immediately prays Senate "flip ... red". | Direct vision and separate prayer |
+| 2026-10-26 | [Ky6niO0B4po 13:58–14:16](https://www.youtube.com/watch?v=Ky6niO0B4po&t=838s) | Says he still sees Senate trying to turn blue, calls to pray. | Warning rather than exact final outcome |
+| 2026-10-30 | [dM8vVcze5rQ 27:14–27:55](https://www.youtube.com/watch?v=dM8vVcze5rQ&t=1634s) / [46:16–46:43](https://www.youtube.com/watch?v=dM8vVcze5rQ&t=2776s) | Large blue wave meets red wall, sprayover attributed to Senate; maintains belief House holds, still worried about Senate. | Symbolic scene interpreted as election |
+| 2026-11-01 local (Nov 2 UTC) | [W7v5YD2SAn8 1:04:18–1:04:52](https://www.youtube.com/watch?v=W7v5YD2SAn8&t=3858s) | Senate D, House barely R, prays to change it. | Latest direct statement |
+
+### AOC is NOT an independently precise "D+D" vision
+- [2026-10-21 171:31–174:10](https://www.youtube.com/watch?v=JbqQBLOC0-A&t=10291s): reports Pelosi fading and AOC speaking more prominently at dark podium with distorted U.S. symbol and claimed white swastika; actual public significance not defined.
+- [2026-10-22 39:55–43:18](https://www.youtube.com/watch?v=74w-Y9a_0MI&t=2395s): repeats same imagery, asks whether AOC is in House, infers she may take Pelosi's place; not yet specific position, election or date.
+- [2026-10-30 62:14–62:25](https://www.youtube.com/watch?v=dM8vVcze5rQ&t=3734s): says AOC becomes prominent as Pelosi fades.
+- [2026-11-01 1:06:16–1:07:26](https://www.youtube.com/watch?v=W7v5YD2SAn8&t=3976s): asks "Maybe if they win the House, maybe she'll be the Speaker ... does that mean they win House?" then admits "I don't know." **This is post-vision interpretation, not a clear separate vision of Democrats winning the House.**
+
+## Brandon's own rules, anchored to originals
+
+1. [2025-08-15 09:10–09:22](https://www.youtube.com/watch?v=rLELZkqyJEQ&t=550s): tells pastor, "We always can pray into something and stop something."
+2. [2025-11-24 126:53–127:51](https://www.youtube.com/watch?v=X8damyf6idc&t=7613s): "I don't see a vision as a prophecy ... a vision as a means to change ... it's altered in prayer a lot ... if it happens you didn't do your job."
+3. [2026-02-15 76:28–76:44](https://www.youtube.com/watch?v=3-PvLM6tblM&t=4588s): for the specific Agenda 2030 material, praying "only delays the inevitable." This is a limit on total prevention.
+4. [2026-05 53:33–54:16](https://www.youtube.com/watch?v=tKNBjoymWHM&t=3213s): on the plague, reports the Lord said, "You won't stop it. You can lessen it." Again, explicit limit.
+5. [2026-06-10 35:37–36:43](https://www.youtube.com/watch?v=KvS6uzzLK6c&t=2137s): says their pre-2023-Oct-7 prayers did NOT stop the attack; "some things you can stop, some things you will not." The purported pre-attack first video is not independently identified here.
+6. [2026-08-09 15:34–18:34](https://www.youtube.com/watch?v=0ptC-1kOXpQ&t=934s): calls vision a **warning** whose outcome can change, distinguishes *audible divine word* as certain; concedes not all events are preventable. There is no self-stated threshold of how many repetitions make a vision fixed.
+
+## Historical cases and counterfactual limits
+
+### 2024 Coachella
+- Pre-warning at [2024-10-09 03:22–03:39](https://www.youtube.com/watch?v=FTmId_VxVi8&t=202s), he calls to pray for the Trump rally.
+- After at [2024-10-13 00:00–01:15](https://www.youtube.com/watch?v=qyUeBwuM0q0&t=0s), he claims "we stopped him."
+- **Independent event**: a man with firearms was arrested near a security checkpoint on Oct 12. Secret Service stated Trump was not endangered and investigators found no specific assassination plot targeting him. Sources: https://abcnews.com/US/man-arrested-loaded-guns-trumps-coachella-rally-sheriff/story?id=114766482 and https://www.politifact.com/article/2024/oct/14/a-third-assassination-attempt-against-trump-heres/ . Criminal misdemeanor case subsequently dismissed after diversion Aug 2026: https://kesq.com/news/2026/08/11/case-dismissed-for-man-arrested-outside-trump-rally-with-gun-in-coachella-in-2024/ .
+- **Assessment**: A real pre-warning and real checkpoint arrest, but no independent basis for claim that an assassination would have occurred absent the prayers. Prayer causation unproven.
+
+### 2025 Canadian general election: political counterexample
+- Pre-election [2025-03-31 11:21–11:49](https://www.youtube.com/watch?v=qk7dhAYCkBs&t=681s): prayers for righteous turnout and "too big to rig"; did not explicitly name Conservatives as projected winner in this excerpt.
+- **Independent observed outcome, 2025-04-28**: Liberals win 169 of 343 seats, Conservatives 144. Elections Canada: https://elections.ca/content.aspx?dir=rep/off/sta_ge45&document=p2&lang=e&section=res .
+- Post-election [2025-04-30 37:33–37:42](https://www.youtube.com/watch?v=aNxQMI-T7qQ&t=2253s): says he had seen Canada would go "the way that it did", despite continuing to pray. This is an ex-post attribution; cannot prove pre-event vision of actual result.
+- **Assessment**: His preferred political turnaround was NOT achieved. A concrete counterexample to the idea that focused prayer always changes election outcomes, but not a clean failed unconditional prediction (original phrased as prayer).
+
+### 2023 chicken/egg
+- [2023-06-30 03:17–04:35](https://www.youtube.com/watch?v=wUNztkdwhXE&t=197s): recalls 2018 vision of chicken/egg shortage, bought 20 chickens, nothing for years, apologised for "missing"; temporarily thought "I guess ... averted, we prayed it away or something"; 2023 inflation led him to interpret vision as delayed fulfilment. No independently anchored 2018 original here.
+- **Assessment**: Excellent evidence of **changing retrospective interpretations** between missed / prevented / delayed / fulfilled.
+
+### 2023 Oct 7
+- [2026-06-10 35:37–36:43](https://www.youtube.com/watch?v=KvS6uzzLK6c&t=2137s): says they prayed before the October 7, 2023 Israel attack but "we didn't stop it." Past original prediction not independently cross-checked.
+- **Assessment**: Self-acknowledged prayer did not always avert warned-of events.
+
+## Prospective scoring protocol (locked prior to Nov 3, 2026)
+- C1 = "Democratic Party controls US Senate after 2026 midterms", captured from Jan 8 and Nov 1; score yes/no from official seats when decided, not immediately election night if uncertain.
+- C2 = "Republican Party controls US House after 2026 midterms", yes/no official seats.
+- C2-narrow = "barely / narrow majority", separate criterion; cannot invent seat margin post hoc. He gives incompatible numbers at different dates.
+- Conditional prayer C3 = "Republicans retain Senate because prayer changed the future", **unverifiable causal claim** absent independent evidence of what would have happened otherwise. A Republican Senate hold would contradict C1's direct outcome, but is consistent with pre-stated prayer hopes. Do not score both as independently validated prophecy.
+- AOC House speaker "maybe" = conditional speculation. Not a definitive pre-election prediction; cannot retroactively score it as direct D House forecast.
+- Quantities: 3, 4, 5, 6 seats refer to *different and sometimes inconsistent measures* (net gains, losses, majority by N). Only compare same units and clear original quotes.
+
+## Conclusion
+Brandon repeatedly reported the same **R House / D Senate scenario** from at least Jan 8 2026, and he said from Jan 10 that it might be altered by prayer. **Repeated speech is not repeated independent predictive evidence.** His own 2025/2026 theology explicitly holds that visions remain mutable and sometimes cannot be prevented, with no repetition threshold. Apr 7 gives a conditional Republican Senate alternative. Neither his archived "prayer success" stories nor external facts yet demonstrate that prayer caused an event to change. For the impending election, retain *direct vision*, *conditional alternate*, *prayer request*, and *ambiguous AOC interpretation* as four separate objects, then assess independently without retroactive category changes.
