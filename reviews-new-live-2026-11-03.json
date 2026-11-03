@@ -1,0 +1,79 @@
+{
+  "_note": "Human source review based on complete timestamped transcript already in GitHub; this adjudicates only clear existing canonical identities or explicit unsafe-to-merge branches. Unreviewed other mentions remain visible in todo. Prayer vs vision separated. No election results considered.",
+  "reviews": [
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 3858,
+      "claim_id": "senate-goes-blue-2026",
+      "same_event": "yes",
+      "delta_type": "restatement",
+      "confidence": 1,
+      "note": "Explicit D-Senate vision on Nov 1 Pacific; separate from prayer against it. Pre-existing 2026 thread, not a new event."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 3875,
+      "claim_text": "Saw Republicans barely retaining the House in the 2026 midterm elections.",
+      "claim_id": "house-stays-red-2026",
+      "same_event": "yes",
+      "delta_type": "restatement",
+      "confidence": 1,
+      "note": "Republican House control explicitly projected; qualitative narrowness tracked as separate detail, no numerical margin attributed to Brandon."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 3875,
+      "claim_text": "Brandon describes the projected 2026 Republican House majority",
+      "claim_id": "house-stays-red-2026",
+      "same_event": "yes",
+      "delta_type": "elaboration",
+      "confidence": 1,
+      "note": "Qualitative 'barely' narrow margin, not a quoted numerical seat count. Keeps majority-party criterion separate."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 3959,
+      "claim_id": "byron-florida-governor",
+      "same_event": "yes",
+      "delta_type": "restatement",
+      "confidence": 1,
+      "note": "He explicitly refers to his earlier 2025 pronouncement; do not reset origin date."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 1291,
+      "claim_id": "russia-strikes-poland",
+      "same_event": "yes",
+      "delta_type": "restatement",
+      "confidence": 0.94,
+      "note": "Explicit previous Warsaw/Poland attack vision; preserve any later details without inventing an event date."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 3788,
+      "claim_id": "italy-campi-flegrei-eruption",
+      "same_event": "unsure",
+      "delta_type": "branch",
+      "confidence": 0.35,
+      "note": "Unspecified activity across Italy/Rome; earlier Campi Flegrei catastrophic eruption is a much narrower claim. Leave distinct pending original-thread verification."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 7343,
+      "claim_id": "crash-1930s",
+      "same_event": "unsure",
+      "delta_type": "branch",
+      "confidence": 0.55,
+      "note": "1929 market imagery recalls prior crash narrative but no date, instrument, or exact severity; keep as uncertain branch, not clean new hit."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 9245,
+      "claim_id": null,
+      "same_event": "no",
+      "delta_type": "no_claim",
+      "confidence": 1,
+      "note": "He calls Nov 2-3 'significant' but specifies no event or result. Undated significance cannot enter hit-rate denominator."
+    }
+  ]
+}
