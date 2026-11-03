@@ -1,20 +1,29 @@
-# Last Days 新视频抓取状态 — 2026-11-02
+# Last Days 最新视频采集审计（更新于 2026-11-03）
 
-2026-11-02 已执行仓库现有的字幕采集和标准化入口，并尝试第二条公开字幕接口。两个视频在 YouTube 频道的相应播放列表中被确认，但 GitHub Actions 的出口 IP 遭 YouTube 屏蔽；以下均**未获得原始字幕**，未生成真实章节摘要或预言 claims。不可把这份状态文档当作内容提取结果。
+> 本文件最初的“两个视频均未得到字幕”状态已经过时。2026-11-02 后续归档通过替代来源取得了两份带时间戳完整字幕，已完成章节和人工语义整理；**预言数据库仍需单独入库/复核，不等于命中率已核验**。
 
-| 来源 | 视频 ID | 视频 | 状态 |
-|---|---|---|---|
-| `@lastdays247/videos` 最新 | `URyAOyKCTdc` | https://www.youtube.com/watch?v=URyAOyKCTdc | 待取得字幕：YouTube 机器人验证 |
-| `@lastdays247/streams` 最新 | `W7v5YD2SAn8` | https://www.youtube.com/watch?v=W7v5YD2SAn8 | 待取得字幕：YouTube 机器人验证 |
+| 视频 ID | 对应内容 | 原始字幕 | 章节/内容 | 独立预言入库 |
+|---|---|---|---|---|
+| `W7v5YD2SAn8` | Come pray with me（YouTube 2026-11-02 UTC；美国西部时间 11-01 晚） | 已归档于 `corpus-streams/`，含 manifest | `exports/all-videos/W7v5YD2SAn8.md`、`exports/semantic/W7v5YD2SAn8.md` | `mentions-new-live-2026-11-02.json` 待正式 load/review/validate |
+| `URyAOyKCTdc` | Palestinian muslim gets born again（YouTube 2026-10-31 UTC） | 已归档于 `corpus/`，含 manifest | `exports/all-videos/URyAOyKCTdc.md`、`exports/semantic/URyAOyKCTdc.md` | 访谈中的嘉宾观点须独立于 Brandon 的预言 |
+| `OU3zNmq_QaY` | There is not enough urgency in the church（发现于 2026-11-02 公开转载；原始上传时间未核实） | **尚未归档/取得完整字幕** | 待处理 | 不得生成或计分断言 |
 
-## 实际运行证据
+视频：https://www.youtube.com/watch?v=W7v5YD2SAn8 、https://www.youtube.com/watch?v=URyAOyKCTdc 、https://www.youtube.com/watch?v=OU3zNmq_QaY 。
 
-- 初次抓取： https://github.com/Whale02/yt-transcripts/actions/runs/41414012488 （原脚本曾误报成功，实际新增字幕 0）。
-- 修复状态检测后： https://github.com/Whale02/yt-transcripts/actions/runs/41414363903 （正确显示 failure）。
-- 独立字幕接口尝试： https://github.com/Whale02/yt-transcripts/actions/runs/41414522969 （两个视频均 RequestBlocked，新增字幕 0）。
+## 来源和阶段
 
-## 恢复方法
+最初 GitHub Actions 两条获取途径遭 YouTube bot 检测：原始运行 [41414012488](https://github.com/Whale02/yt-transcripts/actions/runs/41414012488)、重试 [41414363903](https://github.com/Whale02/yt-transcripts/actions/runs/41414363903) 和替代公开字幕端点 [41414522969](https://github.com/Whale02/yt-transcripts/actions/runs/41414522969)。这三个运行未新增字幕。
 
-通过已授权、可访问这些视频字幕的服务读取完整带时间戳 transcript，或者提供本人能够使用的字幕文件。按仓库原有流程进入 `corpus` 或 `corpus-streams`，保持视频 ID、真实上传日期和每行时间戳；随后触发 `.github/workflows/section-all-transcripts.yml`，生成章节导航与 Key Points。针对明确、可检验的预言，还应单独按 `EXTRACT-GOAL.md` 提取时间、地点、具体结果、前瞻性证伪标准，并将其与事实核验严格分开。
+但后续通过另一个字幕来源，视频 `W7v5YD2SAn8`、`URyAOyKCTdc` 的带时间戳原文已进入 GitHub。对应 `manifest.tsv` 和 `exports/all-videos/INDEX.md` 为证。不得再把旧运行失败当作截至今日的唯一结论。
 
-**注意**：不得用推测补全字幕，也不得标记为已完成。
+2026-11-03 通过公开转载找到 `OU3zNmq_QaY`，见 https://www.bannedbook.org/bnews/zh-tw/sohnews/20261102/2376210.html 。转发日期不等于 YouTube 上传日期；尚未取得可复核字幕。Web 页面可用于发现 ID，不能代替带时间戳的讲话原文。
+
+## 下一处理工序
+
+1. **新增字幕**：分别检查 `@lastdays247/videos`、`streams`，经可用字幕来源取得标题、准确上传日、完整 timestamps，按原格式入 `corpus/` 或 `corpus-streams/`，并更新 manifest。
+2. **章节**：运行 `scripts/section_all_transcripts.py`；保留全部原文，不将 speaking-in-tongues 自动误识文本当成有确定含义的词句。
+3. **主张**：根据 `EXTRACT-GOAL.md` 将 Brandon 的异象、祈祷、嘉宾讲话、引用新闻、旧预言重复分别归类；逐个检验细节记录首述日、事件窗口和事前证伪标准。
+4. **数据库**：只有原始视频先 `prophecy.py ingest` 后才可 `load`；`review` 后再 `validate`。同一预言不同讲述版本以 `delta_type` 标记，不能凭标题或讨论主题判断命中。
+5. **选举评分**：2026-11-03 选举前不提前判定参众两院和佛州州长结果；结果可得后以近最终/官方结果评估，祷告“可能改变”另列、不改变实际观察。
+
+**未完成项**：`OU3zNmq_QaY` 的原始字幕和上传日期；已提取的 2026-11-02 预言候选尚未确认写入 LFS 管理的 `prophecy.db`。记录为待办，不虚报完成。
