@@ -909,6 +909,7 @@ def cmd_validate(args, con):
                GROUP_CONCAT(DISTINCT m.conditionality) conds,
                MAX(CASE WHEN m.conditionality = 'unconditional' THEN 1 ELSE 0 END) has_uncond
         FROM assignment a JOIN mention m ON m.mention_id=a.mention_id
+        JOIN canonical_claim cc ON cc.claim_id=a.claim_id
         WHERE a.claim_id IS NOT NULL AND a.superseded_by IS NULL AND a.same_event IN ('yes','unsure')
           AND a.delta_type != 'unreviewed'
         GROUP BY a.claim_id""").fetchall()
