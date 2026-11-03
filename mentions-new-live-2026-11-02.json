@@ -1,86 +1,6 @@
 {
-  "_note": "REVIEW-READY ONLY; NOT YET LOADED INTO prophecy.db. Mentions extracted from first reading of vidIQ transcript for W7v5YD2SAn8 (YouTube published 2026-11-02 UTC). Repeated visions are not first-publication evidence. Guest claims from URyAOyKCTdc excluded. No objective validation performed. Falsifiers written prospectively before November 3 election; prior claims require earliest utterance verification.",
+  "_note": "Source-checked against complete timestamped subtitles in corpus-streams; retrospective re-statements are not first-publication evidence. Includes separate atomic Venice/Italy and election seat-margin detail. No independent outcome verification. Prepared before any 2026 midterm results. Awaiting prophecy.db load and canonical review.",
   "mentions": [
-    {
-      "video_id": "W7v5YD2SAn8",
-      "start_s": 3858,
-      "claim_text": "Saw Democrats taking control of the Senate after the 2026 midterms while praying to change the outcome.",
-      "quote": "I saw the Senate flipping blue",
-      "source_mode": "VISION",
-      "certainty": "definite",
-      "conditionality": "prayer_may_prevent",
-      "topics": [
-        "politics",
-        "elections"
-      ],
-      "locations": [
-        "United States"
-      ],
-      "entities": [
-        "Senate",
-        "Democratic Party"
-      ],
-      "time_phrase": "November 3, 2026",
-      "time_precision": "date",
-      "falsify_match": "Democrats win majority control of the US Senate in 2026 returns.",
-      "falsify_miss": "Republicans retain Senate control; prayer qualification must remain visible.",
-      "window_start": "2026-11-03",
-      "window_end": "2026-11-03",
-      "due_at": "2026-11-03"
-    },
-    {
-      "video_id": "W7v5YD2SAn8",
-      "start_s": 3875,
-      "claim_text": "Saw Republicans barely retaining the House in the 2026 midterm elections.",
-      "quote": "barely hangs on and keeps red",
-      "source_mode": "VISION",
-      "certainty": "definite",
-      "conditionality": "prayer_may_prevent",
-      "topics": [
-        "politics",
-        "elections"
-      ],
-      "locations": [
-        "United States"
-      ],
-      "entities": [
-        "House",
-        "Republican Party"
-      ],
-      "time_phrase": "November 3, 2026",
-      "time_precision": "date",
-      "falsify_match": "Republicans retain House control with a narrow margin.",
-      "falsify_miss": "Democrats win House or Republicans have a comfortably large majority.",
-      "window_start": "2026-11-03",
-      "window_end": "2026-11-03",
-      "due_at": "2026-11-03"
-    },
-    {
-      "video_id": "W7v5YD2SAn8",
-      "start_s": 3959,
-      "claim_text": "Restates older vision that Byron Donalds wins Florida governor in 2026; earliest primary source must be verified.",
-      "quote": "I see him winning",
-      "source_mode": "VISION",
-      "certainty": "definite",
-      "conditionality": "prayer_may_prevent",
-      "topics": [
-        "politics",
-        "elections"
-      ],
-      "locations": [
-        "Florida"
-      ],
-      "entities": [
-        "Byron Donalds"
-      ],
-      "time_phrase": "2026 Florida governor election",
-      "time_precision": "date",
-      "falsify_match": "Byron Donalds wins Florida's 2026 gubernatorial election.",
-      "falsify_miss": "A different candidate wins Florida governor.",
-      "window_start": "2026-11-03",
-      "window_end": "2026-11-03",
-      "due_at": "2026-11-03"
-    },
     {
       "video_id": "W7v5YD2SAn8",
       "start_s": 937,
@@ -129,9 +49,32 @@
     },
     {
       "video_id": "W7v5YD2SAn8",
+      "start_s": 2002,
+      "claim_text": "Brandon restates a scenario in which Walmart facilities become controlled food distribution sites with barbed wire, military vehicles and armed guards.",
+      "quote": "all the food and wall at one Walmart",
+      "source_mode": "VISION",
+      "certainty": "definite",
+      "conditionality": "unconditional",
+      "topics": [
+        "economics",
+        "infrastructure"
+      ],
+      "entities": [
+        "Walmart"
+      ],
+      "locations": [
+        "United States"
+      ],
+      "time_phrase": "days ahead, undated earlier vision",
+      "time_precision": "none",
+      "falsify_match": "Evidence of centralised emergency food rationing at Walmart distribution facilities surrounded by barbed wire and staffed by armed or military security, matching the composite scene.",
+      "falsify_miss": "Undated claim cannot expire, and isolated guards/food giveaways do not constitute the composite event."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
       "start_s": 3735,
-      "claim_text": "Predicts exceptional high and low tides around Venice and Italy, with heightened Italian volcanic activity.",
-      "quote": "Unusual tides. Very unusual",
+      "claim_text": "Brandon describes unusually high and low water levels at Venice, Italy, in an undated forthcoming period.",
+      "quote": "unusual low tides, unusual high tides",
       "source_mode": "LORD_SAID",
       "certainty": "definite",
       "conditionality": "unconditional",
@@ -146,8 +89,138 @@
       "entities": [],
       "time_phrase": "in the days ahead",
       "time_precision": "relative",
-      "falsify_match": "Unusual tides documented against climatological baseline; independently track volcanism.",
-      "falsify_miss": "No specific deadline or magnitude; normal acqua alta does not qualify."
+      "falsify_match": "Measured Venice tidal anomalies materially beyond seasonal norms, including both unusually high and low tidal extremes.",
+      "falsify_miss": "No deadline or numeric threshold; recurring seasonal tides, ordinary flooding, and generic anomalies cannot independently prove the claim."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 3788,
+      "claim_text": "Brandon foresees an increase in volcanic activity in Italy, associating it with unspecified Italian regions including Rome.",
+      "quote": "increased and volcanic activity is coming in",
+      "source_mode": "VISION",
+      "certainty": "tentative",
+      "conditionality": "unconditional",
+      "topics": [
+        "disasters",
+        "geology"
+      ],
+      "locations": [
+        "Italy",
+        "Rome"
+      ],
+      "entities": [],
+      "time_phrase": "in the days ahead",
+      "time_precision": "none",
+      "falsify_match": "An objectively documented statistically exceptional volcanic activity increase in a specified Italian volcanic region; he does not name a volcano or threshold.",
+      "falsify_miss": "No fixed time window or specific volcano, so routine Italian volcanism cannot be scored as a successful exact forecast, and non-occurrence cannot expire."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 3858,
+      "claim_text": "Saw Democrats taking control of the Senate after the 2026 midterms while praying to change the outcome.",
+      "quote": "I saw the Senate flipping blue",
+      "source_mode": "VISION",
+      "certainty": "definite",
+      "conditionality": "prayer_may_prevent",
+      "topics": [
+        "politics",
+        "elections"
+      ],
+      "locations": [
+        "United States"
+      ],
+      "entities": [
+        "Senate",
+        "Democratic Party"
+      ],
+      "time_phrase": "November 3, 2026",
+      "time_precision": "exact_date",
+      "falsify_match": "Democrats win majority control of the US Senate in 2026 returns.",
+      "falsify_miss": "Republicans retain Senate control; prayer qualification must remain visible. Final assessment requires near-final or certified results, not election-night speculation.",
+      "window_start": "2026-11-03",
+      "window_end": "2026-11-03",
+      "due_at": "2026-11-03"
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 3875,
+      "claim_text": "Saw Republicans barely retaining the House in the 2026 midterm elections.",
+      "quote": "barely hangs on and keeps red",
+      "source_mode": "VISION",
+      "certainty": "definite",
+      "conditionality": "prayer_may_prevent",
+      "topics": [
+        "politics",
+        "elections"
+      ],
+      "locations": [
+        "United States"
+      ],
+      "entities": [
+        "House",
+        "Republican Party"
+      ],
+      "time_phrase": "November 3, 2026",
+      "time_precision": "exact_date",
+      "falsify_match": "Republicans retain House control with a narrow margin.",
+      "falsify_miss": "Democrats win House or Republicans have a comfortably large majority. Final assessment requires near-final or certified results, not election-night speculation.",
+      "window_start": "2026-11-03",
+      "window_end": "2026-11-03",
+      "due_at": "2026-11-03"
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 3875,
+      "claim_text": "Brandon describes the projected 2026 Republican House majority as barely surviving, implying an unusually small seat margin without stating an exact number.",
+      "quote": "the House barely hangs on and keeps red",
+      "source_mode": "VISION",
+      "certainty": "definite",
+      "conditionality": "prayer_may_prevent",
+      "topics": [
+        "politics",
+        "elections"
+      ],
+      "entities": [
+        "Republican Party",
+        "US House"
+      ],
+      "locations": [
+        "United States"
+      ],
+      "time_phrase": "2026 midterm election",
+      "time_precision": "exact_date",
+      "window_start": "2026-11-03",
+      "window_end": "2026-11-03",
+      "due_at": "2026-11-03",
+      "severity": "narrow",
+      "falsify_match": "A Republican House majority with a distinctly small seat advantage; no numerical cutoff specified by speaker, so assess qualitative margin separately from party-control yes/no.",
+      "falsify_miss": "A Democratic House or a clearly comfortable Republican majority differs from this detail. Numeric 'barely' threshold must not be retrofitted to outcome."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 3959,
+      "claim_text": "Restates older vision that Byron Donalds wins Florida governor in 2026; earliest primary source must be verified.",
+      "quote": "I see him winning",
+      "source_mode": "VISION",
+      "certainty": "definite",
+      "conditionality": "prayer_may_prevent",
+      "topics": [
+        "politics",
+        "elections"
+      ],
+      "locations": [
+        "Florida"
+      ],
+      "entities": [
+        "Byron Donalds"
+      ],
+      "time_phrase": "2026 Florida governor election",
+      "time_precision": "exact_date",
+      "falsify_match": "Byron Donalds wins Florida's 2026 gubernatorial election.",
+      "falsify_miss": "A different candidate wins Florida governor. Final assessment requires near-final or certified results, not election-night speculation.",
+      "window_start": "2026-11-03",
+      "window_end": "2026-11-03",
+      "due_at": "2026-11-03"
     },
     {
       "video_id": "W7v5YD2SAn8",
@@ -175,27 +248,25 @@
     },
     {
       "video_id": "W7v5YD2SAn8",
-      "start_s": 9196,
-      "claim_text": "Forecasts Trump speaking in tongues in Pentecostal practice before leaving his presidential term.",
-      "quote": "He'll be a Pentecostal preacher before he gets out of office.",
+      "start_s": 6577,
+      "claim_text": "Brandon depicts an undated symbolic handoff involving a silver briefcase, a glowing object in a jar, and later four armed men and a white vehicle; his connection to Cuba/Russia is tentative.",
+      "quote": "I see a man with a fedora on",
       "source_mode": "VISION",
       "certainty": "tentative",
-      "conditionality": "prayer_may_prevent",
+      "conditionality": "unconditional",
       "topics": [
-        "religion",
-        "politics"
+        "security",
+        "health"
       ],
+      "entities": [],
       "locations": [
-        "United States"
+        "Cuba",
+        "Russia"
       ],
-      "entities": [
-        "Donald Trump"
-      ],
-      "time_phrase": "before leaving office",
-      "time_precision": "relative",
-      "falsify_match": "Documented Trump public Pentecostal speaking-in-tongues event before term ends.",
-      "falsify_miss": "Term ends with no such independently documented occurrence.",
-      "window_end": "2029-01-20"
+      "time_phrase": "none",
+      "time_precision": "none",
+      "falsify_match": "A unique corroborated real-world incident matching the specific jar/briefcase/armed handoff details and identified participants.",
+      "falsify_miss": "No observed event, named participants, location or deadline, so no retrospective match may be inferred from a generic security incident."
     },
     {
       "video_id": "W7v5YD2SAn8",
@@ -218,45 +289,24 @@
     },
     {
       "video_id": "W7v5YD2SAn8",
-      "start_s": 8645,
-      "claim_text": "Sees people and companion animals, including dogs and cats, harmed or killed by an allegedly deliberate virus.",
-      "quote": "I saw dogs and cats dead.",
+      "start_s": 7343,
+      "claim_text": "Brandon describes an undated vision containing '1929' imagery and plunging financial chart lines, without naming an index or fall magnitude.",
+      "quote": "I see 1929. I see a flat line.",
       "source_mode": "VISION",
-      "certainty": "definite",
-      "conditionality": "unconditional",
-      "topics": [
-        "health",
-        "animals"
-      ],
-      "locations": [],
-      "entities": [],
-      "time_phrase": "no date",
-      "time_precision": "none",
-      "falsify_match": "Documented large outbreak with human and pet deaths and proven deliberate release.",
-      "falsify_miss": "No expiration; claims without specific agent or year have weak predictive value."
-    },
-    {
-      "video_id": "W7v5YD2SAn8",
-      "start_s": 8678,
-      "claim_text": "Sees 1929-like stock crash and economic disruption as consequence of alleged deliberate virus outbreak.",
-      "quote": "I saw 1929. I saw stock market crash.",
-      "source_mode": "VISION",
-      "certainty": "definite",
+      "certainty": "tentative",
       "conditionality": "unconditional",
       "topics": [
         "economics",
-        "health"
-      ],
-      "locations": [
-        "United States"
+        "markets"
       ],
       "entities": [
         "stock market"
       ],
-      "time_phrase": "no date; 1929 is a historic analogy",
+      "locations": [],
+      "time_phrase": "1929 used as an analogy, no calendar year for prediction",
       "time_precision": "none",
-      "falsify_match": "Major crash objectively documented and tied causally to matching major outbreak.",
-      "falsify_miss": "Normal market losses or an unrelated crash do not satisfy; cannot expire without year."
+      "falsify_match": "A subsequent financial-market breakdown extraordinarily severe relative to ordinary corrections, with independently defined measures; this wording alone cannot define exact thresholds.",
+      "falsify_miss": "No date, instrument, or precise magnitude; a routine selloff is insufficient and a definite missed deadline cannot be set."
     },
     {
       "video_id": "W7v5YD2SAn8",
@@ -281,10 +331,76 @@
     },
     {
       "video_id": "W7v5YD2SAn8",
+      "start_s": 8645,
+      "claim_text": "Sees people and companion animals, including dogs and cats, harmed or killed by an allegedly deliberate virus.",
+      "quote": "I saw dogs and cats dead.",
+      "source_mode": "VISION",
+      "certainty": "definite",
+      "conditionality": "unconditional",
+      "topics": [
+        "health",
+        "animals"
+      ],
+      "locations": [],
+      "entities": [],
+      "time_phrase": "no date",
+      "time_precision": "none",
+      "falsify_match": "Documented large outbreak with human and pet deaths and proven deliberate release.",
+      "falsify_miss": "No expiration; claims without specific agent or year have weak predictive value."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 8678,
+      "claim_text": "Brandon describes a stock market crash and economic turmoil that he links to a deliberately released virus, using 1929 as a historical analogy.",
+      "quote": "I saw 1929. I saw stock market crash.",
+      "source_mode": "VISION",
+      "certainty": "definite",
+      "conditionality": "unconditional",
+      "topics": [
+        "economics",
+        "health"
+      ],
+      "locations": [
+        "United States"
+      ],
+      "entities": [
+        "stock market"
+      ],
+      "time_phrase": "undated future, 1929 is historical imagery",
+      "time_precision": "none",
+      "falsify_match": "Major crash objectively documented and tied causally to matching major outbreak.",
+      "falsify_miss": "Normal market losses or an unrelated crash do not satisfy; cannot expire without year."
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
+      "start_s": 9196,
+      "claim_text": "Forecasts Trump speaking in tongues in Pentecostal practice before leaving his presidential term.",
+      "quote": "He'll be a Pentecostal preacher before he gets out of office.",
+      "source_mode": "VISION",
+      "certainty": "tentative",
+      "conditionality": "prayer_may_prevent",
+      "topics": [
+        "religion",
+        "politics"
+      ],
+      "locations": [
+        "United States"
+      ],
+      "entities": [
+        "Donald Trump"
+      ],
+      "time_phrase": "before leaving office",
+      "time_precision": "relative",
+      "falsify_match": "Documented Trump public Pentecostal speaking-in-tongues event before term ends.",
+      "falsify_miss": "Term ends with no such independently documented occurrence.",
+      "window_end": "2029-01-20"
+    },
+    {
+      "video_id": "W7v5YD2SAn8",
       "start_s": 9245,
       "claim_text": "Names November 2 into November 3 as important but specifies no checkable event.",
       "quote": "November 2nd going into third",
-      "source_mode": "LORD_SAID",
+      "source_mode": "PERSONAL_INFERENCE",
       "certainty": "tentative",
       "conditionality": "unconditional",
       "topics": [
@@ -297,8 +413,8 @@
       "entities": [],
       "time_phrase": "November 2-3, 2026",
       "time_precision": "date",
-      "falsify_match": "UNFALSIFIABLE: No specific event or result was named.",
-      "falsify_miss": "UNFALSIFIABLE: A date by itself cannot be scored as a success or failure.",
+      "falsify_match": "UNFALSIFIABLE: no event, variable, or outcome is specified; the date cannot create a hit.",
+      "falsify_miss": "UNFALSIFIABLE: no prespecified outcome exists to fail.",
       "window_start": "2026-11-02",
       "window_end": "2026-11-03",
       "due_at": "2026-11-03"
