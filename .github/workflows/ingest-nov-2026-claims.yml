@@ -39,10 +39,41 @@ jobs:
               raise SystemExit(f"STOP: existing video count only {n}; refusing to overwrite DB")
           print("Existing videos before current import:",n)
           PY
-      - name: Ingest actual transcript files, with dates, then classify
+      - name: Ingest only previously unseen transcript videos, then classify
+        shell: bash
         run: |
-          python prophecy.py ingest corpus/
-          python prophecy.py ingest corpus-streams/
+          python - <<'PY'
+          import sqlite3,re,shutil
+          from pathlib import Path
+          con=sqlite3.connect("prophecy.db")
+          existing={row[0] for row in con.execute("SELECT video_id FROM video")}
+          pattern=re.compile(r"\\[([A-Za-z0-9_-]{11})\\]\\.txt$")
+          for folder in ("corpus","corpus-streams"):
+              src=Path(folder)
+              dst=Path("/tmp/new-biggs-corpus")/folder
+              dst.mkdir(parents=True,exist_ok=True)
+              pending=set()
+              for p in src.glob("*.txt"):
+                  m=pattern.search(p.name)
+                  if not m or m.group(1) in existing:
+                      continue
+                  shutil.copy2(p,dst/p.name)
+                  pending.add(m.group(1))
+              original=src/"manifest.tsv"
+              if pending and original.exists():
+                  lines=original.read_text(encoding="utf-8-sig").splitlines()
+                  selected=[line for i,line in enumerate(lines)
+                            if i==0 or line.split("\\t",1)[0] in pending]
+                  (dst/"manifest.tsv").write_text("\\n".join(selected)+"\\n",encoding="utf-8")
+              print(folder, "unseen videos:", sorted(pending))
+          PY
+          for folder in corpus corpus-streams; do
+            if find "/tmp/new-biggs-corpus/$folder" -maxdepth 1 -name '*.txt' | grep -q .; then
+              python prophecy.py ingest "/tmp/new-biggs-corpus/$folder"
+            else
+              echo "No unseen $folder videos; preserve existing immutable segments."
+            fi
+          done
           python prophecy.py type
       - name: Add only source-grounded mentions missing from DB
         shell: bash
