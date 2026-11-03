@@ -4221,3 +4221,9 @@ The published view is refreshed at the same URL: 1,955 claims, 261 scored, filte
 top. https://claude.ai/code/artifact/2e15f580-0615-4706-8358-14f104fb39e6
 
 DO NOT REDO: the eight verdicts in evidence-batch-2026-09-02.json.
+
+## 2026-11-03 — newest video ingestion and factual separation
+
+2026-11-02 UTC live `W7v5YD2SAn8` and 2026-10-31 UTC interview `URyAOyKCTdc` were sourced from timestamped archived captions, ingested to the LFS database, and indexed; the live yielded **18 atomic mentions** and eight reviewed linkage decisions (run [41621897237](https://github.com/Whale02/yt-transcripts/actions/runs/41621897237), DB commit `ca45c4f`).
+The Senate-blue, House-red and Byron Donalds predictions were linked to earlier canonical threads; speculative AOC speakership and unbounded disaster imagery were not treated as election outcomes. The election remained unscored before returns; two historical dangling canonical references were preserved for explicit audit rather than silently rewritten.
+An additional publicly mirrored video `OU3zNmq_QaY` remains **unprocessed** until original publication date and caption track can be verified; no transcript, claim, or result was guessed.
